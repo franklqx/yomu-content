@@ -1,0 +1,114 @@
+{
+  "title": "Bリーグの新スター選手",
+  "summary": "Bリーグに新しいスター選手が現れました。とても人気があります。彼のプレーは素晴らしいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本のプロバスケットボール、Bリーグはとても人気があります。最近、新しいスター選手がBリーグに現れました。彼の名前は田中選手です。田中選手はまだ若いです。しかし、彼のプレーはとても上手です。",
+      "translationZh": "日本的职业篮球B联赛非常受欢迎。最近，B联赛出现了一位新的明星球员。他叫田中选手。田中选手还很年轻。但是，他的比赛打得非常好。",
+      "translationEn": "Japan's professional basketball league, B.League, is very popular. Recently, a new star player has appeared in the B.League. His name is Tanaka. Tanaka is still young. However, his play is very skillful.",
+      "id": "e7e672c4-513a-4ed8-9ba7-8e7e03c08098",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "田中選手は、スピードが速いです。そして、シュートもとても上手です。彼は試合でたくさんの点を取ります。チームのために、一生懸命プレーします。ファンは彼のプレーを見て、とても感動しています。",
+      "translationZh": "田中选手速度很快。而且，投篮也非常出色。他在比赛中能得很多分。他为了球队，努力地打球。球迷们看他的比赛，都非常感动。",
+      "translationEn": "Tanaka's speed is fast. Also, his shooting is very good. He scores many points in games. He plays hard for his team. Fans are very impressed watching his play.",
+      "id": "123dcdc5-1d20-4506-885f-d4763fc27d8c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "田中選手は、Bリーグの未来を明るくしています。これからも、彼の活躍が楽しみです。多くの人が田中選手を応援しています。彼は日本のバスケットボール界に新しい風を吹かせています。",
+      "translationZh": "田中选手让B联赛的未来充满光明。今后，也很期待他的活跃表现。很多人都在支持田中选手。他正在为日本的篮球界带来一股新风。",
+      "translationEn": "Tanaka is brightening the future of the B.League. We look forward to his future performance. Many people are cheering for Tanaka. He is bringing a fresh perspective to Japanese basketball.",
+      "id": "ffa62b59-9209-44e3-9e4c-2e2822ffb2fe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "バスケットボール",
+      "reading": "ばすけっとぼーる",
+      "meaningZh": "篮球",
+      "meaningEn": "basketball",
+      "level": "n5n4",
+      "exampleSentence": "私はバスケットボールが好きです。",
+      "id": "8422530f-eecd-4f8a-8dae-3dc6f7d48b83"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "e05a9dbc-8394-4560-b4c3-be6399d1b081"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "ef6d5f31-6ce3-42b4-b51d-7e08d916c5eb"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，熟练",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼女は日本語が上手です。",
+      "id": "26259644-fe4f-4d80-9fff-be3030e39f9d"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaningZh": "比赛",
+      "meaningEn": "game, match",
+      "level": "n5n4",
+      "exampleSentence": "今日の試合はとても面白かったです。",
+      "id": "754d915b-ecc0-42c0-aa56-57b1090750d5"
+    },
+    {
+      "word": "点",
+      "reading": "てん",
+      "meaningZh": "得分",
+      "meaningEn": "point (in a game)",
+      "level": "n5n4",
+      "exampleSentence": "彼は試合で20点を取りました。",
+      "id": "7ef5649c-b386-490c-9abc-d8a024841f50"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "支持，声援",
+      "meaningEn": "support, cheer for",
+      "level": "n5n4",
+      "exampleSentence": "私たちはチームを応援します。",
+      "id": "5499a2d0-f2a6-4a02-b0ba-bd40bbbdadba"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "田中選手はBリーグでどんな選手ですか。",
+      "options": [
+        "まだ若いが、プレーが上手な新しいスター選手",
+        "ベテランで、経験が豊富な選手",
+        "怪我をしていて、試合に出られない選手",
+        "あまり人気がない選手"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「最近、新しいスター選手がBリーグに現れました。彼の名前は田中選手です。田中選手はまだ若いです。しかし、彼のプレーはとても上手です。」と書いてあります。",
+      "id": "31f8560c-6fe5-4985-99d2-70d2c31f65f5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-06-b",
+  "publishedAt": "2026-05-06T06:00:00+09:00"
+}

@@ -1,29 +1,37 @@
 {
-  "title": "ウィキニュース、歴史に幕",
-  "summary": "ウィキニュースは、21年間活動しました。しかし、このニュースサイトは終わります。",
-  "estimatedMinutes": 2,
+  "title": "ウィキニュース、終わり",
+  "summary": "ウィキニュースというニュースサイトが閉鎖しました。21年間、多くのニュースを伝えました。残念です。",
+  "estimatedMinutes": 3,
   "paragraphs": [
     {
-      "text": "ウィキニュースは、インターネットのニュースサイトです。たくさんの人が協力して、ニュースを作っていました。でも、21年間の歴史が終わります。",
-      "translationZh": "维基新闻是一个互联网新闻网站。很多人一起合作制作新闻。但是，21年的历史将要结束了。",
-      "translationEn": "Wikinews is a news website on the internet. Many people worked together to create news. However, its 21-year history is coming to an end.",
-      "id": "edbb0c8b-4910-4dfc-8024-ef35efdfc635",
+      "text": "ウィキニュースは、21年間続いたニュースサイトです。しかし、このニュースサイトはもうありません。2026年3月30日に、閉鎖することが決まりました。",
+      "translationZh": "Wikinews 是一个持续了21年的新闻网站。但是，这个新闻网站已经不存在了。在2026年3月30日，决定关闭。",
+      "translationEn": "Wikinews is a news website that continued for 21 years. However, this news website no longer exists. It was decided to close on March 30, 2026.",
+      "id": "93c34125-82e7-420a-9ba9-a4f9d52080f5",
       "audioStartMs": null,
       "audioEndMs": null
     },
     {
-      "text": "ウィキニュースは、2004年に始まりました。世界中のニュースを、みんなで書くことができました。とても長い間、活動していましたね。",
-      "translationZh": "维基新闻于2004年开始。世界各地的新闻，大家都可以一起写。它活动了很长时间呢。",
-      "translationEn": "Wikinews started in 2004. Everyone could write news from around the world together. It was active for a very long time.",
-      "id": "87844597-435e-4778-a2be-428577072914",
+      "text": "ウィキニュースは、みんなで記事を書くサイトでした。だから、いろいろなニュースがありました。世界中の出来事や、日本の出来事も書かれていました。",
+      "translationZh": "Wikinews 是大家一起写文章的网站。因此，有很多各种各样的 news。关于世界各地发生的事件，以及日本发生的事件，都有写。",
+      "translationEn": "Wikinews was a site where everyone wrote articles together. Therefore, there were various kinds of news. Events from all over the world and events in Japan were also written.",
+      "id": "f4452832-402f-4837-9e30-6fd2d5af2497",
       "audioStartMs": null,
       "audioEndMs": null
     },
     {
-      "text": "ウィキメディア財団が、このプロジェクトを終わると決めました。たくさんの人が、このニュースを見て、残念に思っています。",
-      "translationZh": "维基媒体基金会决定结束这个项目。很多人看到这个消息，都感到很遗憾。",
-      "translationEn": "The Wikimedia Foundation decided to end this project. Many people are sad to see this news.",
-      "id": "a2b1b3e4-6dea-4046-84b6-9219c67f2389",
+      "text": "このサイトは2004年に始まりました。たくさんの人が使って、たくさんの記事を書きました。しかし、最近はあまり更新されなくなりました。それで、閉鎖することになったのです。",
+      "translationZh": "这个网站在2004年开始。很多人使用，写了很多文章。但是，最近更新得不多了。因此，就决定关闭了。",
+      "translationEn": "This site started in 2004. Many people used it and wrote many articles. However, recently it has not been updated much. Therefore, it was decided to close.",
+      "id": "1b0f66e3-34f9-4aff-a82f-938e1adeab58",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "21年間、お疲れ様でした。ウィキニュースは、私たちの記憶に残るでしょう。残念な気持ちですが、新しいニュースサイトの誕生を期待します。",
+      "translationZh": "21年来，辛苦了。Wikinews 将留在我们的记忆中。虽然感到遗憾，但我们期待新新闻网站的诞生。",
+      "translationEn": "Thank you for your hard work over the 21 years. Wikinews will remain in our memories. Although we feel regret, we look forward to the birth of new news sites.",
+      "id": "fa1790da-3b7d-4dd8-b0da-30383265a8e1",
       "audioStartMs": null,
       "audioEndMs": null
     }
@@ -31,89 +39,80 @@
   "vocabulary": [
     {
       "word": "ニュースサイト",
-      "reading": "ニュースサイト",
+      "reading": "にゅーすさいと",
       "meaningZh": "新闻网站",
-      "meaningEn": "news website",
+      "meaningEn": "news site",
       "level": "n5n4",
-      "exampleSentence": "インターネットでニュースサイトを見ます。",
-      "id": "629366c3-4687-45bf-a138-bc74deea92f6"
+      "exampleSentence": "このニュースサイトはとても人気があります。",
+      "id": "24b7f8f4-0021-4a8d-975b-8ec8ca65d35b"
     },
     {
-      "word": "協力する",
-      "reading": "きょうりょくする",
-      "meaningZh": "合作，协助",
-      "meaningEn": "to cooperate, to work together",
+      "word": "閉鎖",
+      "reading": "へいさ",
+      "meaningZh": "关闭",
+      "meaningEn": "closure",
       "level": "n5n4",
-      "exampleSentence": "みんなで協力して、仕事をします。",
-      "id": "2657124e-8269-44fd-8dea-c6a6b48e3e29"
+      "exampleSentence": "お店が閉鎖しました。",
+      "id": "1368df7a-9429-44cc-8ccf-1b0da734b0df"
     },
     {
-      "word": "歴史",
-      "reading": "れきし",
-      "meaningZh": "历史",
-      "meaningEn": "history",
-      "level": "n5n4",
-      "exampleSentence": "この建物には長い歴史があります。",
-      "id": "48d49898-d0e2-4a38-bbd0-5e824ead7768"
-    },
-    {
-      "word": "終わる",
-      "reading": "おわる",
-      "meaningZh": "结束",
-      "meaningEn": "to end, to finish",
-      "level": "n5n4",
-      "exampleSentence": "授業が5時に終わります。",
-      "id": "38c2808d-9576-430d-bee9-781346ed7dea"
-    },
-    {
-      "word": "始まる",
-      "reading": "はじまる",
-      "meaningZh": "开始",
-      "meaningEn": "to begin, to start",
-      "level": "n5n4",
-      "exampleSentence": "映画は7時に始まります。",
-      "id": "a5d3e331-9f22-471d-841f-8a7c17943d31"
-    },
-    {
-      "word": "財団",
-      "reading": "ざいだん",
-      "meaningZh": "基金会",
-      "meaningEn": "foundation",
-      "level": "n5n4",
-      "exampleSentence": null,
-      "id": "e5f8ad78-68a6-4c2d-986d-e499f760d73d"
-    },
-    {
-      "word": "決める",
-      "reading": "きめる",
+      "word": "決まる",
+      "reading": "きまる",
       "meaningZh": "决定",
-      "meaningEn": "to decide",
+      "meaningEn": "to be decided",
       "level": "n5n4",
-      "exampleSentence": "旅行に行くことを決めました。",
-      "id": "35bc25a9-6774-4d85-8926-d6115e8af2aa"
+      "exampleSentence": "旅行の場所が決まりました。",
+      "id": "c4788ab6-7c06-43ee-bced-942a53e88d4f"
+    },
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaningZh": "文章；报道",
+      "meaningEn": "article",
+      "level": "n5n4",
+      "exampleSentence": "新聞に面白い記事がありました。",
+      "id": "66fc5c82-a7fe-49a8-b9c0-36919de7642c"
+    },
+    {
+      "word": "更新",
+      "reading": "こうしん",
+      "meaningZh": "更新",
+      "meaningEn": "update",
+      "level": "n5n4",
+      "exampleSentence": "アプリを更新しました。",
+      "id": "5579a31f-f62a-4837-af5a-1f37d6379c19"
     },
     {
       "word": "残念",
       "reading": "ざんねん",
-      "meaningZh": "遗憾，可惜",
-      "meaningEn": "regrettable, unfortunate, sad",
+      "meaningZh": "遗憾；可惜",
+      "meaningEn": "regrettable; unfortunate",
       "level": "n5n4",
-      "exampleSentence": "パーティーに行けなくて残念です。",
-      "id": "867ac40c-8338-459a-8124-144f35b947a3"
+      "exampleSentence": "試合に負けて残念です。",
+      "id": "4500acad-2e37-4c4c-98e2-0aa124eb85a7"
+    },
+    {
+      "word": "記憶",
+      "reading": "きおく",
+      "meaningZh": "记忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "子供の頃の記憶を思い出しました。",
+      "id": "7b7c82de-6acc-4165-9319-ebfc4aaea83e"
     }
   ],
   "quiz": [
     {
-      "question": "ウィキニュースはいつ始まりましたか？",
+      "question": "ウィキニュースはいつ閉鎖することが決まりましたか。",
       "options": [
         "2004年",
-        "2021年",
-        "2024年",
-        "21年前"
+        "2026年3月30日",
+        "21年前",
+        "最近"
       ],
-      "correctIndex": 0,
-      "explanation": "記事によると、「ウィキニュースは、2004年に始まりました。」と書いてあります。",
-      "id": "0ae92813-479c-4ccf-bd2e-cbf04839fdf7"
+      "correctIndex": 1,
+      "explanation": "「2026年3月30日に、閉鎖することが決まりました。」",
+      "id": "4aeb0ccd-3845-4fbb-921d-6e8b54594b32"
     }
   ],
   "tier": "n5n4",

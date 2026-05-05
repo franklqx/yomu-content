@@ -1,0 +1,138 @@
+{
+  "title": "学童保育の待機児童問題、新たな解決策が模索される",
+  "summary": "共働き世帯の増加に伴い、学童保育の待機児童問題が深刻化しています。自治体は、施設の拡充や運営方法の見直しなど、多角的な対策を講じ始めています。",
+  "estimatedMinutes": 4,
+  "paragraphs": [
+    {
+      "text": "近年、共働き世帯の増加を背景に、放課後の小学生を預かる学童保育施設の需要が急増しております。しかし、施設の整備が追いつかず、定員を超過してしまい、多くの地域で「待機児童」が発生している状況が看過できません。この問題は、保護者の就労継続を困難にし、子育て世代の経済的・精神的負担を増大させる一因となっています。",
+      "translationZh": "近年来，以双职工家庭增加为背景，接受放学后小学生托管的课后托管设施需求急剧增加。然而，由于设施建设跟不上，导致超员，许多地区出现了“待机儿童”（入托难儿童）。这一问题使得家长难以持续工作，并加剧了育龄家庭的经济和精神负担。",
+      "translationEn": "In recent years, against the backdrop of an increasing number of dual-income households, the demand for after-school childcare facilities that look after elementary school children after school hours has surged. However, facility development has not kept pace, leading to situations where facilities are over capacity and 'waiting children' are emerging in many areas. This problem makes it difficult for parents to continue working and contributes to the increasing economic and mental burden on child-rearing families.",
+      "id": "5b20a047-351b-475d-8cac-a1d97c9b1ee0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このような状況に対し、国や自治体は様々な対策を打ち出しています。具体的には、既存の施設における定員の見直しや、空きスペースの活用、さらには民間事業者との連携による新たな施設整備などが進められています。また、地域の実情に応じた柔軟な運営形態の導入も検討されており、例えば、小学校内に学童保育コーナーを設置する取り組みや、NPO法人などが主体となった地域密着型のサービス提供などが挙げられます。",
+      "translationZh": "面对这种情况，中央和地方政府纷纷出台了各种对策。具体而言，正在推进对现有设施容量的重新评估、利用空余空间，以及与民间企业合作建设新设施等。此外，还在考虑引入符合地区实际情况的灵活运营模式，例如，在小学内设置课后托管角，以及由非营利组织主导的社区型服务提供等。",
+      "translationEn": "In response to this situation, national and local governments are implementing various measures. Specifically, efforts are underway to review the capacity of existing facilities, utilize vacant spaces, and develop new facilities in collaboration with private businesses. Furthermore, the introduction of flexible operational models tailored to local conditions is also being considered, such as establishing after-school childcare corners within elementary schools and community-based service provision led by NPOs.",
+      "id": "692a05f1-c36f-4e9a-9b12-710d7c225a43",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、これらの施策の効果を最大限に引き出すためには、地域住民の理解と協力が不可欠です。保護者だけでなく、地域全体で子どもたちの成長を支えるという意識の醸成が求められています。今後の学童保育のあり方については、単に預かる場所を提供するだけでなく、子どもたちの健やかな成長を促す教育的・社会的な機能の充実も視野に入れていく必要があるでしょう。",
+      "translationZh": "然而，要最大限度地发挥这些措施的效果，离不开地区居民的理解与合作。不仅需要家长，还需要培养一种全社会共同支持儿童成长的意识。关于未来课后托管的发展方向，不仅要提供托管场所，还应着眼于完善促进儿童健康成长的教育和社会功能。",
+      "translationEn": "However, to maximize the effectiveness of these initiatives, the understanding and cooperation of local residents are indispensable. It is necessary to foster an awareness not only among parents but also within the community as a whole to support children's growth. Regarding the future of after-school childcare, it will be necessary to consider not only providing places for care but also enhancing educational and social functions that promote the healthy development of children.",
+      "id": "bfcf7335-e95e-4302-9493-e49829e0682f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "待機児童",
+      "reading": "たいきじどう",
+      "meaningZh": "（幼儿园、托儿所、学童保育等）等候入园/入所的儿童",
+      "meaningEn": "children on a waiting list for daycare/kindergarten/after-school care",
+      "level": "n2n1",
+      "exampleSentence": "保育園の待機児童問題は、依然として深刻な社会問題となっている。",
+      "id": "fba145ce-7ba6-4816-9324-6ee1d4506538"
+    },
+    {
+      "word": "共働き世帯",
+      "reading": "ともばたきせたい",
+      "meaningZh": "夫妻双方都工作的家庭",
+      "meaningEn": "dual-income household",
+      "level": "n3",
+      "exampleSentence": "共働き世帯が増加するにつれて、学童保育の需要も高まっている。",
+      "id": "823cd887-1a3b-4916-b289-4e9bfd99a3ff"
+    },
+    {
+      "word": "看過できない",
+      "reading": "かんかできない",
+      "meaningZh": "不能置之不理；不能忽视",
+      "meaningEn": "cannot be overlooked; cannot be ignored",
+      "level": "n2n1",
+      "exampleSentence": "この状況は看過できない問題だ。",
+      "id": "60d2df1d-8240-44c4-9517-923e10c2293f"
+    },
+    {
+      "word": "施策",
+      "reading": "しさく",
+      "meaningZh": "（政府等的）措施，政策",
+      "meaningEn": "measure; policy",
+      "level": "n2n1",
+      "exampleSentence": "政府は経済活性化のための新たな施策を発表した。",
+      "id": "2f706421-8f9c-4225-94cf-c9c1cb5922d4"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "合作；协作",
+      "meaningEn": "cooperation; collaboration",
+      "level": "n3",
+      "exampleSentence": "企業と大学の連携によって、新しい技術が開発された。",
+      "id": "c1427b71-eb6a-4bdb-adfe-4fa211097eb8"
+    },
+    {
+      "word": "醸成",
+      "reading": "じょうせい",
+      "meaningZh": "培养；促进（气氛、意识等）",
+      "meaningEn": "fostering; cultivation",
+      "level": "n2n1",
+      "exampleSentence": "地域社会全体で子供たちを育む意識を醸成していく必要がある。",
+      "id": "a23a5588-b98f-47fc-a24c-3a04f1d40943"
+    },
+    {
+      "word": "健やか",
+      "reading": "すこやか",
+      "meaningZh": "健康；健全",
+      "meaningEn": "healthy; sound",
+      "level": "n3",
+      "exampleSentence": "子供たちの健やかな成長を願っています。",
+      "id": "12d824d9-9723-41ae-bf45-4ea9a0986fc5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "近年、学童保育の需要が増加している主な理由は何ですか。",
+      "options": [
+        "学校の統廃合が進んでいるため",
+        "共働き世帯が増加しているため",
+        "放課後の子供の安全に対する懸念が高まっているため",
+        "共働きの家庭が増加しているため、親が子供を預ける場所を必要としているから。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「近年、共働き世帯の増加を背景に、放課後の小学生を預かる学童保育施設の需要が急増しております。」とあります。",
+      "id": "ee0a7440-1180-49c1-9398-8f656d687f76"
+    },
+    {
+      "question": "学童保育の待機児童問題に対して、どのような対策が講じられていますか。",
+      "options": [
+        "待機児童の数を公表する",
+        "保護者への情報提供を強化する",
+        "施設の拡充や民間事業者との連携、柔軟な運営方法の導入",
+        "学童保育の利用料を値上げする"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「具体的には、既存の施設における定員の見直しや、空きスペースの活用、さらには民間事業者との連携による新たな施設整備などが進められています。また、地域の実情に応じた柔軟な運営形態の導入も検討されており」とあります。",
+      "id": "5b7310fd-2012-45d4-81f7-e8f081061028"
+    },
+    {
+      "question": "学童保育の今後のあり方として、本文ではどのような点が重要視されていますか。",
+      "options": [
+        "預かる機能の拡充のみ",
+        "保護者への経済的支援の強化",
+        "地域住民の理解と協力による、子どもの成長を促す機能の充実",
+        "利用者のニーズに合わせた多様なプログラムの提供"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「これらの施策の効果を最大限に引き出すためには、地域住民の理解と協力が不可欠です。保護者だけでなく、地域全体で子どもたちの成長を支えるという意識の醸成が求められています。今後の学童保育のあり方については、単に預かる場所を提供するだけでなく、子どもたちの健やかな成長を促す教育的・社会的な機能の充実も視野に入れていく必要があるでしょう。」とあります。",
+      "id": "2ad760b2-8eda-4af4-8460-4fd3c2042b9c"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-06-0a63156c2b",
+  "publishedAt": "2026-05-06T06:00:00+09:00"
+}

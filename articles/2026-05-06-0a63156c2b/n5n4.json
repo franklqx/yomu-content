@@ -1,0 +1,131 @@
+{
+  "title": "学童保育の困ったこと",
+  "summary": "日本の「待機児童」問題は、学童保育でも起こっています。この問題を解決するために、新しいアイデアが出てきました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、子どもたちが学校が終わった後に過ごす場所が足りないことがあります。これを「待機児童」問題と言います。学童保育でもこの問題があります。共働きの家庭が増えているので、子どもを預かってほしい人が多くなったからです。",
+      "translationZh": "在日本，孩子们放学后度过的地方有时会不足。这叫做“待业儿童”问题。课后托管班也存在这个问题。因为双职工家庭增加了，所以希望有人照顾孩子的人也变多了。",
+      "translationEn": "In Japan, there are times when there aren't enough places for children to spend time after school. This is called the \"waiting child\" problem. This problem also exists in after-school care. This is because the number of families with both parents working has increased, so more people want their children to be looked after.",
+      "id": "8939e96e-1a9d-4744-8e34-9ea5edf5eb36",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "待機児童が多いと、仕事をしている親は心配になります。子どもが一人で家にいるのは安全ではありません。また、仕事をやめなければならない人もいます。これは親にとっても、社会にとっても、良くないことです。",
+      "translationZh": "待业儿童多的话，上班的父母会担心。孩子一个人在家不安全。而且，也有人不得不辞职。这对父母和社会来说，都不是好事。",
+      "translationEn": "When there are many waiting children, working parents become worried. It is not safe for children to be alone at home. Also, some people have to quit their jobs. This is not good for parents or for society.",
+      "id": "32f4e384-b43c-4f9e-9b5b-5e6cdb6ab186",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この問題を解決するために、新しい方法が考えられています。例えば、学校の空いている教室を使う方法です。また、地域の人々がボランティアで手伝うことも考えられています。企業が学童保育をサポートする動きもあります。",
+      "translationZh": "为了解决这个问题，人们正在考虑新的方法。例如，使用学校里空着的教室的方法。此外，也在考虑让社区的人们作为志愿者帮忙。企业支持课后托管班的动向也有。",
+      "translationEn": "To solve this problem, new methods are being considered. For example, using empty classrooms in schools. Also, it is being considered for community members to help as volunteers. There are also moves for companies to support after-school care.",
+      "id": "2c04f437-c4a3-4bef-af0d-cbb688adcc43",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しい解決策がうまくいくと、もっと多くの親が安心して働けるようになります。子どもたちも安全で楽しい時間を過ごせるでしょう。社会全体で子どもを育てる意識が大切です。",
+      "translationZh": "如果这些新的解决方案能成功，将有更多的父母能够安心工作。孩子们也能度过安全愉快的时光。全社会共同养育孩子的意识很重要。",
+      "translationEn": "If these new solutions work well, more parents will be able to work with peace of mind. Children will also be able to spend safe and enjoyable time. The awareness of raising children as a whole society is important.",
+      "id": "58e8cd97-b856-4f83-a6e5-2e09943c5a6d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学童保育",
+      "reading": "がくどうほいく",
+      "meaningZh": "课后托管班（儿童放学后托管的设施）",
+      "meaningEn": "After-school care (facility for children after school)",
+      "level": "n5n4",
+      "exampleSentence": "学童保育は、働く親にとってとても大切です。",
+      "id": "3c2483c0-5be4-4e72-b449-cbcbe75be486"
+    },
+    {
+      "word": "待機児童",
+      "reading": "たいきじどう",
+      "meaningZh": "待业儿童（指无法入托的儿童）",
+      "meaningEn": "Waiting child (child unable to enter childcare)",
+      "level": "n5n4",
+      "exampleSentence": "待機児童の問題は、この町でも大きな問題です。",
+      "id": "799c2fd6-faa5-46c7-9b32-b8eb48bfe839"
+    },
+    {
+      "word": "共働き",
+      "reading": "ともばたらき",
+      "meaningZh": "夫妻双方都工作",
+      "meaningEn": "Both parents working",
+      "level": "n5n4",
+      "exampleSentence": "共働きの家庭が増えています。",
+      "id": "bc408788-b05a-403a-af0b-491ec7156a0e"
+    },
+    {
+      "word": "預かる",
+      "reading": "あずかる",
+      "meaningZh": "照顾，托管",
+      "meaningEn": "To look after, to take care of",
+      "level": "n5n4",
+      "exampleSentence": "この施設は、たくさんの子どもを預かることができます。",
+      "id": "db12e8c2-e483-49d4-a98c-12d331f34837"
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaningZh": "担心",
+      "meaningEn": "Worry",
+      "level": "n5n4",
+      "exampleSentence": "子どもが一人でいると、親は心配です。",
+      "id": "f9da1f16-416a-4b8d-a552-50c4ae5d9329"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "Safety",
+      "level": "n5n4",
+      "exampleSentence": "子どもたちの安全を守ることが大切です。",
+      "id": "b1b46f7a-99f2-4747-b6e0-8dc6a82bb306"
+    },
+    {
+      "word": "解決策",
+      "reading": "かいけつさく",
+      "meaningZh": "解决方案",
+      "meaningEn": "Solution",
+      "level": "n3",
+      "exampleSentence": "新しい解決策を見つける必要があります。",
+      "id": "8103be09-0297-4f63-bdbc-c596c69e217b"
+    },
+    {
+      "word": "ボランティア",
+      "reading": "ぼらんてぃあ",
+      "meaningZh": "志愿者",
+      "meaningEn": "Volunteer",
+      "level": "n5n4",
+      "exampleSentence": "地域の人々がボランティアで手伝ってくれます。",
+      "id": "984b1811-db3f-4fbf-99be-0cc4e230ebb2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「待機児童」問題とは、どのような問題ですか？",
+      "options": [
+        "子どもが学校に行きたがらない問題",
+        "学童保育の場所が足りない問題",
+        "子どもが一人で遊ぶ時間が足りない問題",
+        "親が子どもと過ごす時間が足りない問題"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最初の段落に「子どもたちが学校が終わった後に過ごす場所が足りないことがあります。これを「待機児童」問題と言います。」とあります。",
+      "id": "0ee4e853-aeb8-4306-9404-47c2eef5890a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-06-0a63156c2b",
+  "publishedAt": "2026-05-06T06:00:00+09:00"
+}

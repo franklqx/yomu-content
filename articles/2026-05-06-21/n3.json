@@ -1,0 +1,134 @@
+{
+  "title": "ウィキニュース、21年の歴史に幕",
+  "summary": "インターネット上のニュースサイト「ウィキニュース」が、21年間の活動を終えることが決定しました。多くの人に情報を提供してきたサイトだけに、惜しむ声が聞かれます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "インターネットでニュースを発信する「ウィキニュース」が、21年の歴史に幕を下ろすことになりました。ウィキメディア財団は、全ての言語版の閉鎖を最終決定したと発表しました。このニュースを受けて、多くの利用者から残念がる声が上がっています。",
+      "translationZh": "在互联网上发布新闻的“维基新闻”（Wikinews）将结束其21年的历史。维基媒体基金会宣布，已最终决定关闭所有语言版本。这一消息传出后，许多用户表示遗憾。",
+      "translationEn": "Wikinews, which publishes news on the internet, will be closing its 21-year history. The Wikimedia Foundation announced that it has made the final decision to shut down all language versions. Following this news, many users have expressed their disappointment.",
+      "id": "28a146d5-d7a9-4c52-a055-b88042b95f5b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキニュースは、2004年に設立されて以来、世界中の出来事や話題を、誰でも記事を編集できるという特徴を活かして伝えてきました。しかし、近年は他のニュースサイトやSNSの普及により、運営が難しくなっていたようです。このような状況から、財団は閉鎖という判断に至ったと考えられます。",
+      "translationZh": "维基新闻自2004年成立以来，一直利用任何人都可以编辑文章的特点，报道世界各地的事件和话题。然而，近年来，由于其他新闻网站和社交媒体的普及，运营变得困难。在这种情况下，基金会做出了关闭的决定。",
+      "translationEn": "Since its establishment in 2004, Wikinews has reported on global events and topics by leveraging its feature where anyone can edit articles. However, in recent years, it seems to have become difficult to operate due to the spread of other news sites and social media. It is believed that the Foundation reached the decision to close down due to this situation.",
+      "id": "f81bdb4a-c139-4ef1-bacf-b8b355f1970e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "閉鎖の決定について、ウィキメディア財団は「情報発信のあり方を見直す良い機会」と捉えているようです。これまでウィキニュースに貢献してきた多くのボランティアは、残念な気持ちを持ちながらも、これまでの活動を振り返り、感謝の気持ちを表しています。",
+      "translationZh": "关于关闭的决定，维基媒体基金会似乎认为“这是重新审视信息发布方式的好机会”。许多曾为维基新闻做出贡献的志愿者，尽管感到遗憾，但也回顾了过去的活动，并表达了感谢之情。",
+      "translationEn": "Regarding the decision to close, the Wikimedia Foundation seems to view it as 'a good opportunity to reconsider how information is disseminated.' Many volunteers who have contributed to Wikinews so far, while feeling regretful, are reflecting on their past activities and expressing their gratitude.",
+      "id": "d822c115-bca1-4fda-9954-11d53d62d365",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキニュースの終了は、インターネット上の情報共有のあり方について、改めて考えるきっかけとなるかもしれません。新しい形での情報発信が今後生まれてくるのか、注目が集まります。",
+      "translationZh": "维基新闻的结束，或许会成为一个重新思考互联网上信息共享方式的契机。未来是否会产生新的信息发布形式，备受关注。",
+      "translationEn": "The closure of Wikinews may serve as an opportunity to reconsider the way information is shared on the internet. Attention is focused on whether new forms of information dissemination will emerge in the future.",
+      "id": "adc0bf35-612c-427d-be43-820e2e88449c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "幕を下ろす",
+      "reading": "まくをおろす",
+      "meaningZh": "结束，落幕",
+      "meaningEn": "to close the curtain, to come to an end",
+      "level": "n3",
+      "exampleSentence": "長年続いたドラマがついに幕を下ろした。",
+      "id": "1c1ec1bf-8611-41d0-92e4-c23120137a33"
+    },
+    {
+      "word": "財団",
+      "reading": "ざいだん",
+      "meaningZh": "基金会",
+      "meaningEn": "foundation",
+      "level": "n3",
+      "exampleSentence": "その研究は、有名な科学財団によって支援されている。",
+      "id": "68084570-1482-45bf-b750-f83179b93733"
+    },
+    {
+      "word": "利用者",
+      "reading": "りようしゃ",
+      "meaningZh": "使用者，用户",
+      "meaningEn": "user",
+      "level": "n3",
+      "exampleSentence": "このアプリの利用者は世界中にいる。",
+      "id": "a34d30b8-611b-4b27-8ac2-989228609cdd"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, diffusion",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及により、生活が便利になった。",
+      "id": "6955566a-c2d2-4c4a-8ce1-ae02309836f9"
+    },
+    {
+      "word": "運営",
+      "reading": "うんえい",
+      "meaningZh": "运营，经营",
+      "meaningEn": "operation, management",
+      "level": "n3",
+      "exampleSentence": "新しいレストランの運営は順調に進んでいる。",
+      "id": "f51e059c-a387-4539-8e23-d1e9b584ab03"
+    },
+    {
+      "word": "至る",
+      "reading": "いたる",
+      "meaningZh": "达到，导致",
+      "meaningEn": "to reach, to lead to",
+      "level": "n3",
+      "exampleSentence": "長時間の議論の末、合意に至った。",
+      "id": "ac2eb5cc-8541-44da-89a3-2b6aa16029dd"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "彼は地域社会に多大な貢献をした。",
+      "id": "1a153f8e-9124-4f2a-97ea-2499d5917085"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィキニュースが閉鎖される主な理由は何だと考えられますか？",
+      "options": [
+        "新しいニュースサイトに人気を奪われたから",
+        "運営資金が不足したから",
+        "他のSNSの普及により、運営が難しくなったから",
+        "ウィキメディア財団の方針が変わったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「近年は他のニュースサイトやSNSの普及により、運営が難しくなっていたようです。」と書かれています。",
+      "id": "1f352fe9-4a3f-4ee1-998d-16bcd31d5b48"
+    },
+    {
+      "question": "ウィキニュースの閉鎖決定について、ウィキメディア財団はどのように考えていますか？",
+      "options": [
+        "残念だが、仕方のないことだと諦めている",
+        "情報発信のあり方を見直す良い機会だと捉えている",
+        "今後、さらに多くのニュースサイトを閉鎖する予定だ",
+        "利用者からの反対意見を待っている"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「『情報発信のあり方を見直す良い機会』と捉えているようです。」と書かれています。",
+      "id": "fcad99c9-a963-4ee0-9734-4e09cacc9619"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": "https://ja.wikinews.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%8121%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%82%92%E9%96%89%E3%81%98%E3%82%8B",
+  "slug": "2026-05-06-21",
+  "publishedAt": "2026-05-06T06:00:00+09:00"
+}

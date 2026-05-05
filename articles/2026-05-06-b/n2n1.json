@@ -1,0 +1,147 @@
+{
+  "title": "Bリーグ躍進の若き才能、その名は○○選手",
+  "summary": "プロバスケットボールBリーグにおいて、目覚ましい活躍を見せる新星が登場。そのプレースタイルと将来性が注目を集めている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、国内プロバスケットボールリーグ、Bリーグは目覚ましい発展を遂げている。その中でも、若手選手の台頭が目されており、特に○○選手（チーム名）の活躍は目を見張るものがある。平均得点、アシスト数ともにリーグ上位に食い込み、チームの勝利に不可欠な存在となりつつある。そのダイナミックなプレーと冷静な判断力は、多くのファンを魅了してやまない。",
+      "translationZh": "近年来，日本国内职业篮球联赛 B 联赛取得了显著发展。其中，年轻球员的崛起尤为引人注目，特别是 ○○ 选手（球队名称）的表现更是令人瞩目。他的场均得分和助攻数均位列联赛前茅，正逐渐成为球队不可或缺的存在。他充满活力的打法和冷静的判断力，深深吸引了众多粉丝。",
+      "translationEn": "In recent years, the domestic professional basketball league, B.League, has achieved remarkable development. Among them, the rise of young players is particularly noteworthy, and the performance of player ○○ (Team Name) is astonishing. His average points and assists both rank high in the league, making him an indispensable presence for the team. His dynamic play and calm judgment continue to captivate many fans.",
+      "id": "1a1c9920-4d79-4594-9a73-109581fd14f9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "○○選手のバスケットボール人生は、幼少期からの情熱に裏打ちされている。学生時代からその才能は注目されていたが、プロの世界に入ってからは、経験豊富なベテラン選手たちとの厳しい競争を経て、さらに磨きがかかったと言えよう。特に、試合終盤での勝負強さや、チームメイトを活かすパスセンスは、彼の大きな武器となっている。コーチ陣からは、「彼の向上心と吸収力の速さは特筆すべきものがある」との声も聞かれる。",
+      "translationZh": "○○选手的篮球生涯，源于他自幼年起便怀有的热情。他的才能在学生时代就备受关注，但进入职业界后，经过与经验丰富的老将们激烈竞争的磨砺，可以说他的技艺更加精湛。特别是他在比赛末段的胜负关键时刻所展现出的强大能力，以及能让队友发挥作用的传球意识，都成为了他的一大武器。教练组也表示：“他的进取心和惊人的学习速度值得特别提及。”",
+      "translationEn": "Player ○○'s basketball career is underpinned by a passion that began in childhood. His talent was noticed from his student days, but after entering the professional world, it can be said that his skills have been further refined through fierce competition with experienced veterans. In particular, his clutch performance in the closing stages of games and his passing ability to set up teammates are his great strengths. Coaches have also commented, 'His ambition and rapid learning ability are truly remarkable.'",
+      "id": "573fa8b2-31ec-4a13-b324-1bd90d3c14b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "Bリーグ全体としても、○○選手のようなスター候補の存在は、リーグのさらなる活性化に繋がるものと期待されている。今後の国際舞台での活躍も見据え、彼の成長からは目が離せない。ファンとしては、彼のプレーを直接会場で観戦できる喜びを噛み締めるとともに、今後のさらなる飛躍を心より応援したい。",
+      "translationZh": "就 B 联赛整体而言，○○选手这样的明星潜力股的存在，被寄予厚望，有望促进联赛进一步的活跃。考虑到他未来在国际舞台上的表现，他的成长过程令人拭目以待。作为粉丝，我们既要珍惜能在现场观看他比赛的喜悦，也衷心期盼他今后能取得更大的飞跃。",
+      "translationEn": "For the B.League as a whole, the presence of star prospects like player ○○ is expected to further revitalize the league. With an eye on his future success on the international stage, his growth is something we cannot afford to miss. As fans, we should savor the joy of watching his games live at the venue and sincerely support his future endeavors.",
+      "id": "0abafc1a-8e74-474e-ba56-572b973cb65d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "躍進",
+      "reading": "やくしん",
+      "meaningZh": "飞跃，大步前进",
+      "meaningEn": "great progress; leap forward",
+      "level": "n2n1",
+      "exampleSentence": "我が社は近年、目覚ましい躍進を遂げている。",
+      "id": "4d401369-1b15-4460-a93b-dd9532d88110"
+    },
+    {
+      "word": "新星",
+      "reading": "しんせい",
+      "meaningZh": "新星，新秀",
+      "meaningEn": "new star; rising star",
+      "level": "n3",
+      "exampleSentence": "若手俳優の新星として注目されている。",
+      "id": "7e9ac57a-b520-4aac-b418-1285254bb801"
+    },
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "惊人的，显著的",
+      "meaningEn": "remarkable; striking; wonderful",
+      "level": "n3",
+      "exampleSentence": "技術の進歩は目覚ましいものがある。",
+      "id": "f8b24364-d90b-4e65-92c5-3226eb585517"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "抬头，出现，兴起",
+      "meaningEn": "rise; emergence",
+      "level": "n2n1",
+      "exampleSentence": "新興勢力の台頭が予想される。",
+      "id": "b8a3cd2a-838d-4854-ae8e-1355917a8de7"
+    },
+    {
+      "word": "魅了",
+      "reading": "みりょう",
+      "meaningZh": "魅力，吸引",
+      "meaningEn": "charm; fascination; attraction",
+      "level": "n2n1",
+      "exampleSentence": "その美しい景色に魅了された。",
+      "id": "b3644051-1c22-4f33-b15f-b5529460ff24"
+    },
+    {
+      "word": "裏打ち",
+      "reading": "うらうち",
+      "meaningZh": "背后支持，证实",
+      "meaningEn": "backing; support; substantiation",
+      "level": "n2n1",
+      "exampleSentence": "彼の言葉は確かなデータに裏打ちされている。",
+      "id": "1185aca2-e6a3-4a2a-86b5-071ad37f76f6"
+    },
+    {
+      "word": "競争",
+      "reading": "きょうそう",
+      "meaningZh": "竞争",
+      "meaningEn": "competition",
+      "level": "n3",
+      "exampleSentence": "激しい競争を勝ち抜いた。",
+      "id": "7eb110b0-17be-4401-aa1f-412aefb14b13"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，活跃化",
+      "meaningEn": "activation; revitalization",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の活性化が課題となっている。",
+      "id": "6b24b06f-d9e3-404a-b8f8-949c144b6fde"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "○○選手がBリーグで注目されている主な理由は何ですか？",
+      "options": [
+        "ベテラン選手としての経験が豊富だから",
+        "チームの司令塔として戦術を組み立てているから",
+        "若手ながら得点やアシストでリーグ上位にいるから",
+        "幼少期から海外でプレーしていたから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中には「平均得点、アシスト数ともにリーグ上位に食い込み、チームの勝利に不可欠な存在となりつつある」と記載されています。",
+      "id": "c9d179ff-78b8-4a7d-825d-ee86d5715dd5"
+    },
+    {
+      "question": "○○選手のプレースタイルの特徴として、本文で言及されていることは何ですか？",
+      "options": [
+        "派手なダンクシュートが多い",
+        "試合終盤の勝負強さとチームメイトを活かすパスセンス",
+        "ディフェンスに定評がある",
+        "インサイドプレーを得意としている"
+      ],
+      "correctIndex": 1,
+      "explanation": "「特に、試合終盤での勝負強さや、チームメイトを活かすパスセンスは、彼の大きな武器となっている」と述べられています。",
+      "id": "676b1761-66bf-4f15-959e-a81c2181baa8"
+    },
+    {
+      "question": "○○選手のようなスター候補の存在は、Bリーグにとってどのような影響を与えると期待されていますか？",
+      "options": [
+        "観客動員数の減少",
+        "リーグ全体の人気低下",
+        "リーグのさらなる活性化",
+        "若手選手の育成機会の減少"
+      ],
+      "correctIndex": 2,
+      "explanation": "「○○選手のようなスター候補の存在は、リーグのさらなる活性化に繋がるものと期待されている」と記されています。",
+      "id": "fea4895c-9d5b-4c88-a07d-4f3eff60abb0"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-06-b",
+  "publishedAt": "2026-05-06T06:00:00+09:00"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "ウィキニュース、21年の歴史に幕",
+  "summary": "ウィキメディア財団は、ウィキニュースの全言語版の閉鎖を決定しました。21年にわたるプロジェクトに終止符が打たれることになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ウィキメディア財団は、2024年3月30日付で、ニュースサイト「ウィキニュース」の全言語版を閉鎖することを最終決定したと発表しました。これは、2004年のサービス開始から約21年にわたるプロジェクトの歴史に幕を下ろすことになります。財団は、プロジェクトの継続が困難であるとの判断に至ったとしています。",
+      "translationZh": "维基媒体基金会宣布，已于2024年3月30日最终决定关闭新闻网站“维基新闻”的所有语言版本。这将标志着该项目自2004年启动以来约21年的历史落下帷幕。基金会方面表示，已判断项目难以继续。",
+      "translationEn": "The Wikimedia Foundation announced on March 30, 2024, that it has made the final decision to close all language versions of the news website 'Wikinews'. This marks the end of the project's approximately 21-year history since its launch in 2004. The foundation stated that it had concluded that continuing the project was difficult.",
+      "id": "aee9ea0b-79d7-4f81-9a03-5f1e488e1569",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキニュースは、世界中のボランティアによって運営され、自由なライセンスの下でニュース記事を作成・配信することを目的としたプロジェクトでした。しかし、近年はコンテンツの更新頻度の低下や、プロジェクトを維持するためのリソース確保の難しさが指摘されていました。今回の決定は、こうした状況を踏まえた上での苦渋の決断であると見られています。",
+      "translationZh": "维基新闻是一个旨在通过全球志愿者运营，并在自由许可下创建和分发新闻文章的项目。然而，近年来，内容更新频率下降以及项目维持所需资源 확보的困难一直被指出。此次决定被认为是基于这些情况下的艰难抉择。",
+      "translationEn": "Wikinews was a project operated by volunteers worldwide, aiming to create and distribute news articles under a free license. However, in recent years, a decline in the frequency of content updates and difficulties in securing resources to maintain the project have been pointed out. This decision is seen as a reluctant one made in light of these circumstances.",
+      "id": "3938376f-17e9-4dd7-8472-88daa4417cdc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "財団は、閉鎖に伴い、既存のコンテンツの取り扱いについても検討を進めるとしています。アーカイブ化や、一部コンテンツの移行などが選択肢として考えられますが、具体的な方針については、今後コミュニティとの協議を経て決定される見通しです。このニュースは、多くのユーザーや関係者に衝撃を与えています。",
+      "translationZh": "基金会表示，将就关闭事宜以及现有内容的处置进行进一步探讨。内容存档或部分内容的迁移等被视为可能的选项，但具体方针预计将与社区协商后决定。这一消息震惊了众多用户和相关人士。",
+      "translationEn": "The foundation stated that it will proceed with discussions regarding the handling of existing content following the closure. Archiving or migrating some content are considered possible options, but specific policies are expected to be decided after consultation with the community. This news has shocked many users and stakeholders.",
+      "id": "1ea41e95-cacb-4d7b-90b9-0afc8712e803",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "幕を閉じる",
+      "reading": "まくをとじる",
+      "meaningZh": "结束，落幕",
+      "meaningEn": "to close the curtain; to come to an end",
+      "level": "n2n1",
+      "exampleSentence": "長年続いたドラマがついに幕を閉じた。",
+      "id": "7b4b6758-3707-4456-8633-0e4cbfef87af"
+    },
+    {
+      "word": "最終決定",
+      "reading": "さいしゅうけってい",
+      "meaningZh": "最终决定",
+      "meaningEn": "final decision",
+      "level": "n2n1",
+      "exampleSentence": "理事会は、プロジェクトの将来について最終決定を下した。",
+      "id": "43554b36-fae1-49a6-a0f1-7a1547fd3448"
+    },
+    {
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaningZh": "继续，持续",
+      "meaningEn": "continuation; succession",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトの継続は、多くのボランティアの協力にかかっています。",
+      "id": "e4c2219a-5644-4238-a48f-aec92df25d84"
+    },
+    {
+      "word": "指摘",
+      "reading": "してき",
+      "meaningZh": "指出",
+      "meaningEn": "pointing out; indication",
+      "level": "n3",
+      "exampleSentence": "専門家は、その問題点をいくつか指摘した。",
+      "id": "4d3b159c-0b61-4bfd-9040-6e5128197128"
+    },
+    {
+      "word": "リソース確保",
+      "reading": "りそーすかくほ",
+      "meaningZh": "资源保障，资源 확보",
+      "meaningEn": "securing resources",
+      "level": "n2n1",
+      "exampleSentence": "プロジェクトを成功させるためには、十分なリソース確保が不可欠だ。",
+      "id": "51fa5079-1db1-4870-9074-1d8f3e629dfa"
+    },
+    {
+      "word": "苦渋の決断",
+      "reading": "くじゅうのけつだん",
+      "meaningZh": "艰难的决定，忍痛的决定",
+      "meaningEn": "difficult decision; agonizing decision",
+      "level": "n2n1",
+      "exampleSentence": "経営難のため、工場閉鎖という苦渋の決断を下さざるを得なかった。",
+      "id": "90f5ed68-26e8-44e2-9c3f-62788483bc02"
+    },
+    {
+      "word": "アーカイブ化",
+      "reading": "あーかいぶか",
+      "meaningZh": "存档，归档",
+      "meaningEn": "archiving",
+      "level": "n2n1",
+      "exampleSentence": "古い資料は、後世のためにアーカイブ化される予定だ。",
+      "id": "c2aef9de-d73a-4e87-892a-29155b4be3ea"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィキニュースの閉鎖は、いつ最終決定されましたか？",
+      "options": [
+        "2004年3月30日",
+        "2024年3月30日",
+        "2026年5月3日",
+        "2024年1月1日"
+      ],
+      "correctIndex": 1,
+      "explanation": "財団は、2024年3月30日付で、ウィキニュースの全言語版を閉鎖することを最終決定したと発表しました。",
+      "id": "43505785-bd7f-4585-95e6-7aaacf6bae9a"
+    },
+    {
+      "question": "ウィキニュースが閉鎖される主な理由として、本文中で何が指摘されていますか？",
+      "options": [
+        "運営資金の不足とボランティアの減少",
+        "ニュース記事の質が低下したため",
+        "プロジェクトの目的が時代に合わなくなったため",
+        "競合サイトの出現による影響"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文中では、「コンテンツの更新頻度の低下や、プロジェクトを維持するためのリソース確保の難しさ」が指摘されており、これは運営資金やボランティアの協力体制に関連する問題と解釈できます。",
+      "id": "cc96b3d8-dc19-4a91-a304-bba3ff9cd84d"
+    },
+    {
+      "question": "閉鎖後のウィキニュースのコンテンツの取り扱いについて、本文ではどのように述べられていますか？",
+      "options": [
+        "すべて削除される予定である",
+        "アーカイブ化や一部コンテンツの移行が検討されている",
+        "他のニュースサイトへ無償で提供される",
+        "閉鎖後も閲覧は可能だが更新は停止する"
+      ],
+      "correctIndex": 1,
+      "explanation": "財団は、閉鎖に伴い、既存のコンテンツの取り扱いについても検討を進めるとしており、「アーカイブ化や、一部コンテンツの移行などが選択肢として考えられます」と述べられています。",
+      "id": "ec89dfef-b770-450f-86c2-4ec41670da34"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": "https://ja.wikinews.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%8121%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%82%92%E9%96%89%E3%81%98%E3%82%8B",
+  "slug": "2026-05-06-21",
+  "publishedAt": "2026-05-06T06:00:00+09:00"
+}
