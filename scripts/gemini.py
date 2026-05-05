@@ -21,7 +21,7 @@ from google.genai import types
 
 log = logging.getLogger(__name__)
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-2.5-flash-lite"
 
 # 每档的指标 —— 严格控制句长 / 词汇 / quiz 数，跟 PLAN.md 对齐
 # quiz_target 是给 prompt 的目标；quiz_min/max 是 validation 接受范围（±1 容忍 Gemini 抖动）
