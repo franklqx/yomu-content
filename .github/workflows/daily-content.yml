@@ -1,0 +1,59 @@
+name: Daily content
+
+on:
+  schedule:
+    # 21:00 UTC = 06:00 JST 第二天
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "覆盖日期 YYYY-MM-DD（留空 = 今天 JST）"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-content
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install deps
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run pipeline
+        env:
+          # Secret 在 GitHub 上叫 YOMU_GEMINI；脚本读 GEMINI_API_KEY，这里映射一下
+          GEMINI_API_KEY: ${{ secrets.YOMU_GEMINI }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          YOMU_DATE: ${{ inputs.date }}
+        run: python scripts/pipeline.py
+
+      - name: Commit & push generated content
+        run: |
+          set -e
+          git config user.name "yomu-bot"
+          git config user.email "yomu-bot@users.noreply.github.com"
+          git add articles/ scripts/used_seeds.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No new content; skipping commit"
+            exit 0
+          fi
+          DATE=$(date -u +%Y-%m-%d)
+          git commit -m "📰 Daily content ${DATE}"
+          git push
