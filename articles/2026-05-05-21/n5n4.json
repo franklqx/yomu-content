@@ -1,0 +1,123 @@
+{
+  "title": "ウィキニュース、21年の歴史に幕",
+  "summary": "インターネットのニュースサイト「ウィキニュース」が活動を終えます。21年間、世界中のニュースを伝えました。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "ウィキニュースは、インターネットのニュースサイトです。いろいろな国の人が、ニュースの記事を一緒に書きました。世界中の出来事を、みんなに紹介しました。",
+      "translationZh": "Wikinews是一个互联网新闻网站。来自不同国家的人们，一起撰写新闻文章。它向大家介绍了世界各地发生的事情。",
+      "translationEn": "Wikinews is an internet news site. People from various countries wrote news articles together. It introduced events from all over the world to everyone.",
+      "id": "e178dc89-f425-476e-989f-32f497f3846f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、このサイトはもうすぐ終わりになります。21年間、たくさんのニュースを伝え続けました。多くの人が、このサイトを利用しました。とても残念なニュースです。",
+      "translationZh": "但是，这个网站即将结束。它持续报道了21年的新闻。许多人使用过这个网站。这是一个非常令人遗憾的消息。",
+      "translationEn": "However, this site will soon come to an end. It continued to report many news stories for 21 years. Many people used this site. It is very regrettable news.",
+      "id": "4a8a2918-f03b-4e94-ac50-bec01d2eb0c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキメディアというグループが、このサイトを閉じることを決めました。これから、新しい記事はもう書くことができません。でも、これまで書かれた記事は残るかもしれません。ウィキニュースは、インターネットの歴史の大切な一部です。",
+      "translationZh": "一个叫做维基媒体的组织决定关闭这个网站。从今以后，将无法再撰写新的文章。但是，以前写过的文章可能会保留下来。Wikinews是互联网历史的重要一部分。",
+      "translationEn": "A group called Wikimedia decided to close this site. From now on, new articles can no longer be written. However, articles written so far might remain. Wikinews is an important part of internet history.",
+      "id": "97a98a72-b9f9-4ffd-8bb8-44a6824217d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "インターネット",
+      "reading": "インターネット",
+      "meaningZh": "互联网",
+      "meaningEn": "Internet",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "a32f805e-69a0-452f-b46e-f44e0229291d"
+    },
+    {
+      "word": "ニュースサイト",
+      "reading": "ニュースサイト",
+      "meaningZh": "新闻网站",
+      "meaningEn": "News site",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "d2b6cc2c-53d8-4db5-b5a8-cbff9d49e555"
+    },
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaningZh": "文章，报道",
+      "meaningEn": "Article, report",
+      "level": "n5n4",
+      "exampleSentence": "新聞の記事を読みます。",
+      "id": "d5206416-a46c-4c61-93a9-23c3cda7b7d5"
+    },
+    {
+      "word": "書きます",
+      "reading": "かきます",
+      "meaningZh": "写",
+      "meaningEn": "To write",
+      "level": "n5n4",
+      "exampleSentence": "手紙を書きます。",
+      "id": "621f41f7-313b-4cc1-8058-a123a71eff9a"
+    },
+    {
+      "word": "紹介します",
+      "reading": "しょうかいします",
+      "meaningZh": "介绍",
+      "meaningEn": "To introduce",
+      "level": "n5n4",
+      "exampleSentence": "友達を紹介します。",
+      "id": "2966ed3a-2b43-4eb1-b536-1afe608151da"
+    },
+    {
+      "word": "続けます",
+      "reading": "つづけます",
+      "meaningZh": "继续",
+      "meaningEn": "To continue",
+      "level": "n5n4",
+      "exampleSentence": "勉強を続けます。",
+      "id": "cc76dd75-9938-4228-b1e5-9758cbf23278"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "可惜，遗憾",
+      "meaningEn": "Regrettable, unfortunate",
+      "level": "n5n4",
+      "exampleSentence": "それは残念です。",
+      "id": "a188a6a8-eb01-4d0e-920a-dd9b9728afa8"
+    },
+    {
+      "word": "歴史",
+      "reading": "れきし",
+      "meaningZh": "历史",
+      "meaningEn": "History",
+      "level": "n5n4",
+      "exampleSentence": "日本の歴史を学びます。",
+      "id": "cde56357-fcec-4655-be1c-909dfba9953e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィキニュースは、何年間活動しましたか？",
+      "options": [
+        "10年間",
+        "15年間",
+        "21年間",
+        "25年間"
+      ],
+      "correctIndex": 2,
+      "explanation": "記事に「21年間、たくさんのニュースを伝え続けました」とありますから、21年間活動しました。",
+      "id": "754ce613-f833-49b9-ac61-0d53e6b53b70"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": "https://ja.wikinews.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%8121%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%82%92%E9%96%89%E3%81%98%E3%82%8B",
+  "slug": "2026-05-05-21",
+  "publishedAt": "2026-05-05T06:00:00+09:00"
+}

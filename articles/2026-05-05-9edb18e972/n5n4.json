@@ -1,0 +1,122 @@
+{
+  "title": "高齢者のための宅配サービス",
+  "summary": "最近、高齢者向けの宅配サービスが増えています。これはお年寄りの生活を便利にします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では高齢者が増えています。一人で住んでいるお年寄りの人も多いです。毎日、スーパーへ買い物に行くのは大変な時があります。",
+      "translationZh": "在日本，老年人越来越多。很多老年人独自居住。每天去超市购物有时会很辛苦。",
+      "translationEn": "The number of elderly people is increasing in Japan. Many elderly people live alone. Going to the supermarket for shopping every day can sometimes be difficult.",
+      "id": "95f60d16-5dc9-44d1-bae0-fcfe202af44d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、宅配サービスがとても便利です。宅配サービスは、食べ物や飲み物、日用品などを家まで持ってきてくれます。重い物も運んでくれます。",
+      "translationZh": "因此，送货上门服务非常方便。送货上门服务会把食物、饮料、日用品等送到家里。他们还会搬运重物。",
+      "translationEn": "Therefore, home delivery services are very convenient. Home delivery services bring food, drinks, daily necessities, and other items right to your house. They also carry heavy items.",
+      "id": "cd57b661-fde8-46a9-b5d4-287be3ffca10",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お年寄りは、お店に行かなくても必要な物を買うことができます。だから、生活がもっと楽になります。安心して毎日を過ごすことができます。",
+      "translationZh": "老年人不用去商店也能买到必需品。这样，生活会变得更轻松。他们可以安心地度过每一天。",
+      "translationEn": "Elderly people can buy necessary items without going to a store. Therefore, their lives become much easier. They can spend every day with peace of mind.",
+      "id": "16ad023b-7c36-43d9-bdec-16fcfd0f8771",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この宅配サービスは、これからももっと広がるでしょう。多くの高齢者の生活を支える大切なサービスです。",
+      "translationZh": "这种送货上门服务今后还会进一步扩大。它是支持许多老年人生活的重要服务。",
+      "translationEn": "This home delivery service will likely continue to expand in the future. It is an important service that supports the lives of many elderly people.",
+      "id": "f8599343-f995-47ef-9f2a-bddb0032a0e8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高齢者",
+      "reading": "こうれいしゃ",
+      "meaningZh": "老年人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "日本では高齢者が増えています。",
+      "id": "74073b14-9385-4fb8-a4c7-66e307b9ab09"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "送货上门服务",
+      "meaningEn": "home delivery service",
+      "level": "n5n4",
+      "exampleSentence": "宅配サービスはとても便利です。",
+      "id": "f56cdf61-cbb0-45fe-80ad-d2e9520b830b"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaningZh": "购物",
+      "meaningEn": "shopping",
+      "level": "n5n4",
+      "exampleSentence": "スーパーへ買い物に行きます。",
+      "id": "17ab49bb-f08c-4474-942d-4d7b1c544914"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaningZh": "辛苦的；不得了的",
+      "meaningEn": "hard; difficult; tough",
+      "level": "n5n4",
+      "exampleSentence": "毎日、買い物に行くのは大変です。",
+      "id": "a35526e6-6aeb-4905-9d3a-370ce2e915ac"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便的",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このサービスはとても便利です。",
+      "id": "0650496d-73ba-47ad-bf29-4d0a3853a106"
+    },
+    {
+      "word": "日用品",
+      "reading": "にちようひん",
+      "meaningZh": "日用品",
+      "meaningEn": "daily necessities",
+      "level": "n5n4",
+      "exampleSentence": "日用品を家まで届けてくれます。",
+      "id": "6cbdeeb0-4647-41ab-9b9c-b489f2232c8f"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心；放心",
+      "meaningEn": "relief; peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "安心して毎日を過ごすことができます。",
+      "id": "b834cbbb-dada-4d3b-b0eb-9a07fd046f17"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "お年寄りが宅配サービスを使うと、生活はどうなりますか。",
+      "options": [
+        "買い物に行くのが大変になります。",
+        "生活がもっと楽になります。",
+        "お店に行かなければなりません。",
+        "重い物を自分で運ばなければなりません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事に「お年寄りは、お店に行かなくても必要な物を買うことができます。だから、生活がもっと楽になります。」とあります。",
+      "id": "824e172d-862e-435e-bb4b-b8a3bc0b0bdf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-05-9edb18e972",
+  "publishedAt": "2026-05-05T06:00:00+09:00"
+}

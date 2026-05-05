@@ -1,0 +1,117 @@
+{
+  "title": "プロ野球新シーズン！注目選手は？",
+  "summary": "いよいよプロ野球の新しいシーズンが始まります。今年はどんな選手が活躍するのか、みんなで注目しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新シーズンが、いよいよ開幕しますね。ファンの皆さんは、どのチームが優勝するのか、どんなドラマが生まれるのか、今からとても楽しみにしていることでしょう。特に今年は、若くて才能のある選手たちがたくさん注目を集めています。彼らが新しい風を吹き込んでくれることを期待しています。",
+      "translationZh": "职业棒球新赛季终于要开幕了。球迷们肯定都在期待哪个队伍会夺冠，会诞生怎样的精彩剧情吧。今年特别的是，许多年轻有为的选手备受瞩目。我们期待他们能带来一股新气象。",
+      "translationEn": "The new professional baseball season is finally kicking off. Fans are probably very much looking forward to seeing which team will win and what kind of drama will unfold. This year, in particular, many young and talented players are attracting attention. We are looking forward to them bringing a breath of fresh air to the league.",
+      "id": "7bf40148-8654-4bcf-8265-c5b000d876c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、昨シーズン新人ながら素晴らしい成績を残した〇〇選手は、今年もチームの中心として期待されています。彼の長打力はチームにとって不可欠なので、大事な試合でホームランを打ってくれると信じています。また、ベテランの△△投手も、経験を活かしてチームを引っ張っていくでしょう。若い選手もベテラン選手も、それぞれの役割を果たすことが大切です。",
+      "translationZh": "例如，上赛季虽然是新人却取得了出色成绩的〇〇选手，今年也被寄予厚望成为球队的核心。他的长打能力对球队来说是不可或缺的，我们相信他会在重要比赛中打出本垒打。此外，经验丰富的△△投手也将活用经验带领球队前进。无论是年轻选手还是老将，发挥各自的作用都非常重要。",
+      "translationEn": "For example, Player 〇〇, who had an excellent rookie season last year, is expected to be a core player for the team again this year. His power hitting is indispensable for the team, so we believe he will hit home runs in important games. Also, veteran pitcher △△ will surely lead the team by utilizing his experience. It's important for both young and veteran players to fulfill their respective roles.",
+      "id": "c7deb157-1415-47b2-a89f-d9cc148bfd89",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "多くの選手たちは、このオフシーズン中に体力をつけたり、新しい技術を身につけたりするために、一生懸命練習してきました。だから、開幕が近づくにつれて、彼らの努力が実を結ぶのが本当に楽しみです。彼らが最高のパフォーマンスを見せられるように、私たちファンも球場で、またはテレビの前で、熱い応援を送りましょう。",
+      "translationZh": "许多选手在这个休赛期为了增强体能、掌握新技术，都非常努力地训练了。所以，随着开幕的临近，真的很期待他们的努力能开花结果。为了让他们能展现出最好的表现，我们球迷也要在球场上，或者电视机前，为他们送上热情的助威。",
+      "translationEn": "Many players have been training very hard during the offseason to build up their physical strength and acquire new skills. So, as the opening day approaches, I'm really looking forward to seeing their efforts bear fruit. Let's, as fans, send our passionate support either at the stadium or in front of the TV, so they can show their best performance.",
+      "id": "c1909c31-5569-4210-91f2-b1add3220669",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "開幕",
+      "reading": "かいまく",
+      "meaningZh": "开幕，开始",
+      "meaningEn": "Opening (of a season, event)",
+      "level": "n3",
+      "exampleSentence": "プロ野球の開幕戦はいつも盛り上がります。",
+      "id": "24834290-e33c-4a1b-8369-958ffc65247c"
+    },
+    {
+      "word": "長打力",
+      "reading": "ちょうだりょく",
+      "meaningZh": "长打能力",
+      "meaningEn": "Power hitting ability (in baseball)",
+      "level": "n2n1",
+      "exampleSentence": "彼は長打力があるので、ホームランを期待されています。",
+      "id": "64c43cb3-b397-42d2-85ca-94a8c0e1cba1"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaningZh": "不可或缺，必需的",
+      "meaningEn": "Indispensable, essential",
+      "level": "n2n1",
+      "exampleSentence": "このプロジェクトには、あなたの協力が不可欠です。",
+      "id": "5701e09f-6edb-45ae-9831-171b28fde441"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "ベテラン",
+      "meaningZh": "老将，经验丰富的人",
+      "meaningEn": "Veteran (experienced person)",
+      "level": "n3",
+      "exampleSentence": "ベテラン選手がチームを引っ張ります。",
+      "id": "1509ab2c-8f33-410e-bbd9-21f9f6ea1e9e"
+    },
+    {
+      "word": "オフシーズン",
+      "reading": "オフシーズン",
+      "meaningZh": "休赛期",
+      "meaningEn": "Offseason",
+      "level": "n3",
+      "exampleSentence": "選手たちはオフシーズンもトレーニングを続けます。",
+      "id": "b21a9ff2-c5d8-4e97-a1c2-c1dcfa6077c0"
+    },
+    {
+      "word": "実を結ぶ",
+      "reading": "みをむすぶ",
+      "meaningZh": "结果，开花结果，取得成果",
+      "meaningEn": "To bear fruit, to come to fruition",
+      "level": "n2n1",
+      "exampleSentence": "彼の努力が実を結び、優勝することができました。",
+      "id": "057c9fdd-2894-4476-8857-6f9288e829b2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年のプロ野球新シーズンで、特に注目を集めているのはどんな選手ですか？",
+      "options": [
+        "外国人のベテラン選手",
+        "経験豊富なベテラン選手",
+        "若くて才能のある選手たち",
+        "去年引退した有名選手"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の「特に今年は、若くて才能のある選手たちがたくさん注目を集めています。」とあります。",
+      "id": "bf1a8262-203b-4167-9dd8-634a32716d9b"
+    },
+    {
+      "question": "選手たちはオフシーズン中に何をしてきましたか？",
+      "options": [
+        "新しい仕事を見つけました。",
+        "体力をつけたり、新しい技術を身につけたりしました。",
+        "海外旅行に行ってリフレッシュしました。",
+        "家族とゆっくり過ごしました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の「多くの選手たちは、このオフシーズン中に体力をつけたり、新しい技術を身につけたりするために、一生懸命練習してきました。」とあります。",
+      "id": "e4ebc828-622e-424e-ada1-e8c0ad6ffd89"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-05-472632a31a",
+  "publishedAt": "2026-05-05T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "プロ野球 新シーズン",
+  "summary": "プロ野球の新しいシーズンが始まります。今年の注目選手について紹介します。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンがもうすぐ始まります。多くの野球ファンは、この時をとても楽しみにしています。それぞれのチームは、一生懸命練習をしてきました。今年の試合も、きっと面白いでしょう。",
+      "translationZh": "职业棒球新赛季即将开始。许多棒球粉丝都非常期待这一时刻。各个队伍都努力训练了。今年的比赛，也一定会很有趣吧。",
+      "translationEn": "The new professional baseball season is about to begin. Many baseball fans are really looking forward to this time. Each team has practiced very hard. This year's games will surely be interesting too.",
+      "id": "1a1d17dd-092b-4572-b8bf-4187c5325d07",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいシーズンには、特に注目されている選手がいます。例えば、いつもホームランをたくさん打つ有名なバッターです。彼のバッティングはとてもパワフルで、ファンをいつも驚かせます。今年も、彼のホームランに期待しています。",
+      "translationZh": "新赛季有一些特别受关注的选手。例如，一位总是打出很多本垒打的著名击球手。他的击球非常有力，总是让粉丝们惊喜。今年，我们也期待他的本垒打。",
+      "translationEn": "In the new season, there are some particularly notable players. For example, a famous batter who always hits many home runs. His batting is very powerful and always surprises the fans. This year, we are also looking forward to his home runs.",
+      "id": "922ec03e-c938-4ea7-b747-b50dc976a652",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、若いピッチャーも注目されています。彼はとても速いボールを投げることができます。去年の試合では、素晴らしいピッチングを見せて、チームに貢献しました。今年はもっと活躍して、チームを勝利に導くでしょう。",
+      "translationZh": "此外，年轻的投手也备受关注。他能投出非常快的球。去年的比赛中，他展现了出色的投球，为球队做出了贡献。今年他会更加活跃，带领球队走向胜利。",
+      "translationEn": "Also, a young pitcher is gaining attention. He can throw very fast balls. In last year's games, he showed excellent pitching and contributed to the team. This year, he will be even more active and lead the team to victory.",
+      "id": "d66f88c7-b173-425d-ae4b-f99a544de672",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ベテラン選手も若い選手も、みんな目標を持って練習しています。彼らがフィールドで一生懸命プレーする姿を見るのは、とても感動的です。さあ、みんなでプロ野球を応援しましょう。新しいシーズンが楽しみですね。",
+      "translationZh": "无论是老将还是年轻选手，大家都在带着目标训练。看到他们在赛场上努力拼搏的身影，非常令人感动。来吧，大家一起为职业棒球加油吧。新赛季真是令人期待啊。",
+      "translationEn": "Both veteran players and young players are training with goals in mind. It is very moving to see them play hard on the field. Come on, let's all cheer for professional baseball. The new season is exciting, isn't it?",
+      "id": "85f8a3ea-ff84-46ce-a2a9-b432e4b77764",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "プロ野球",
+      "reading": "プロやきゅう",
+      "meaningZh": "职业棒球",
+      "meaningEn": "Professional baseball",
+      "level": "n5n4",
+      "exampleSentence": "日本のプロ野球は人気があります。",
+      "id": "ae45fc9c-3892-4da5-9c99-d44f0b418952"
+    },
+    {
+      "word": "シーズン",
+      "reading": "シーズン",
+      "meaningZh": "赛季",
+      "meaningEn": "Season",
+      "level": "n5n4",
+      "exampleSentence": "新しいシーズンが始まります。",
+      "id": "b89f549b-3958-4754-964b-e72f9e16df43"
+    },
+    {
+      "word": "注目する",
+      "reading": "ちゅうもくする",
+      "meaningZh": "关注，瞩目",
+      "meaningEn": "To pay attention to, to focus on",
+      "level": "n5n4",
+      "exampleSentence": "彼はみんなから注目されています。",
+      "id": "8d3e5251-b4c1-4126-abe6-ce05d81da08c"
+    },
+    {
+      "word": "ホームラン",
+      "reading": "ホームラン",
+      "meaningZh": "本垒打",
+      "meaningEn": "Home run",
+      "level": "n5n4",
+      "exampleSentence": "彼はホームランをたくさん打ちました。",
+      "id": "1fa5657d-fd80-4b7b-b1c3-576755d1906e"
+    },
+    {
+      "word": "ピッチャー",
+      "reading": "ピッチャー",
+      "meaningZh": "投手",
+      "meaningEn": "Pitcher",
+      "level": "n5n4",
+      "exampleSentence": "あのピッチャーは速いボールを投げます。",
+      "id": "6b3d36ec-f79a-44b1-86c2-88aa2af32c83"
+    },
+    {
+      "word": "活躍する",
+      "reading": "かつやくする",
+      "meaningZh": "活跃，发挥作用",
+      "meaningEn": "To play an active role, to be successful",
+      "level": "n5n4",
+      "exampleSentence": "彼は新しい会社で活躍しています。",
+      "id": "18865823-c920-4f26-9a47-ddee74b6f482"
+    },
+    {
+      "word": "応援する",
+      "reading": "おうえんする",
+      "meaningZh": "支持，助威",
+      "meaningEn": "To support, to cheer for",
+      "level": "n5n4",
+      "exampleSentence": "みんなでチームを応援しましょう。",
+      "id": "a4d31763-99b2-4517-a91c-14135229d428"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "プロ野球の新しいシーズンについて、本文は何と言っていますか？",
+      "options": [
+        "ファンは悲しんでいます。",
+        "練習はつまらなかったです。",
+        "みんな楽しみにしています。",
+        "試合はもう終わりました。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最初の段落に「多くの野球ファンは、この時をとても楽しみにしています。」とあります。そのため、正解は「みんな楽しみにしています。」です。",
+      "id": "59b409b8-49e6-4338-960e-11ea24a80288"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-05-472632a31a",
+  "publishedAt": "2026-05-05T06:00:00+09:00"
+}

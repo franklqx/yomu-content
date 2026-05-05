@@ -1,0 +1,135 @@
+{
+  "title": "高齢者の暮らしを支える！宅配サービスが拡大中",
+  "summary": "高齢者の増加に伴い、自宅で食事や日用品を受け取れる宅配サービスがとても便利になっています。このサービスは、買い物に困る高齢者の生活を豊かにするために広がっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本は高齢化が進んでおり、一人暮らしのお年寄りや、足腰が弱って外出が難しい方が増えています。そのため、毎日のお買い物に困る高齢者が多くなっています。このような状況の中で、自宅まで商品や食事を届けてくれる宅配サービスが、とても大切な役割を果たすようになりました。",
+      "translationZh": "日本老龄化不断加剧，独居老人以及腿脚不便、外出困难的人越来越多。因此，许多老年人在日常购物方面遇到了困难。在这种情况下，将商品和餐食送到家中的宅配服务开始发挥非常重要的作用。",
+      "translationEn": "Japan's aging population is advancing, with an increasing number of elderly people living alone or those who find it difficult to go out due to weakened legs and back. Because of this, many elderly individuals face difficulties with daily shopping. In this situation, home delivery services, which bring goods and meals directly to their homes, have come to play a very important role.",
+      "id": "29c604c2-3588-494d-96dd-bb0b6544b425",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "宅配サービスは、スーパーのように重い荷物を持たずに済むので、高齢者にとって大変助かります。特に、栄養バランスを考えたお弁当を届けるサービスや、薬を届けるサービスなど、種類も豊富になってきました。また、配達員が高齢者の安否確認を行うこともあるため、家族も安心できると好評です。",
+      "translationZh": "宅配服务让老年人无需像在超市一样搬运沉重的物品，因此非常有帮助。特别是，提供营养均衡的便当配送服务，以及送药服务等，种类也变得丰富多样。此外，由于配送员有时会确认老人的安危，所以也受到家属的好评，让他们感到安心。",
+      "translationEn": "Delivery services are very helpful for the elderly, as they don't have to carry heavy bags like they would at a supermarket. Especially, the variety of services has increased, including meal delivery services that consider nutritional balance, and medicine delivery services. Furthermore, because delivery staff sometimes check on the well-being of the elderly, these services are well-received by families, giving them peace of mind.",
+      "id": "32ac6e0d-fa72-48fd-979d-15dfcdc9de02",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後も高齢者の数は増え続けるため、宅配サービスの需要はさらに高まるでしょう。より多くの高齢者が安心して暮らせるように、IT技術を使った新しいサービスや、地域の人々が協力し合う仕組みも期待されています。高齢者が住み慣れた家で長く元気に過ごせるように、宅配サービスはこれからも発展していくはずです。",
+      "translationZh": "今后老年人的数量将继续增加，因此宅配服务的需求也会进一步提高。为了让更多的老年人能够安心生活，人们期待利用IT技术的新服务以及社区居民互助的机制。为了让老年人能够在熟悉的家中长久健康地生活，宅配服务今后也一定会继续发展。",
+      "translationEn": "As the number of elderly people continues to grow, the demand for home delivery services will further increase. To ensure more elderly individuals can live with peace of mind, new services utilizing IT technology and systems where local communities cooperate are also anticipated. Home delivery services are expected to continue developing so that the elderly can live long and healthy lives in their familiar homes.",
+      "id": "bcaf3dc5-20e9-4ace-b076-4729a2c25eec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高齢化",
+      "reading": "こうれいか",
+      "meaningZh": "老龄化",
+      "meaningEn": "Aging (of population)",
+      "level": "n3",
+      "exampleSentence": "日本の社会では、高齢化が急速に進んでいます。",
+      "id": "fb5dc07f-bbb3-475c-99d0-8cbf28ccfab2"
+    },
+    {
+      "word": "足腰",
+      "reading": "あしこし",
+      "meaningZh": "腿脚，腰腿",
+      "meaningEn": "Legs and lower back",
+      "level": "n3",
+      "exampleSentence": "お年寄りになると、足腰が弱って外出が難しくなります。",
+      "id": "eaf229d9-2a6f-46f0-bcf3-1c0715b36ff5"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "宅配服务，送货上门服务",
+      "meaningEn": "Home delivery service",
+      "level": "n3",
+      "exampleSentence": "忙しいので、よく宅配サービスを利用して食事を注文します。",
+      "id": "a0cc4921-f191-4784-ad6e-844f68b152f4"
+    },
+    {
+      "word": "栄養バランス",
+      "reading": "えいようバランス",
+      "meaningZh": "营养均衡",
+      "meaningEn": "Nutritional balance",
+      "level": "n3",
+      "exampleSentence": "健康のためには、栄養バランスの取れた食事が大切です。",
+      "id": "d24f18d3-51ee-4ab9-9b41-4bb837d7b09a"
+    },
+    {
+      "word": "安否確認",
+      "reading": "あんぴかくにん",
+      "meaningZh": "安危确认，确认平安",
+      "meaningEn": "Safety check, confirmation of well-being",
+      "level": "n2n1",
+      "exampleSentence": "災害時には、家族の安否確認が最優先です。",
+      "id": "2fff4111-7430-4122-8807-634d0e7fed19"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaningZh": "需求",
+      "meaningEn": "Demand",
+      "level": "n2n1",
+      "exampleSentence": "この商品の需要は、年々高まっています。",
+      "id": "dd83cab3-680b-414e-983c-9c43d264e121"
+    },
+    {
+      "word": "IT技術",
+      "reading": "アイティーぎじゅつ",
+      "meaningZh": "IT技术",
+      "meaningEn": "IT technology",
+      "level": "n3",
+      "exampleSentence": "IT技術の進歩は、私たちの生活を大きく変えました。",
+      "id": "56c1f06f-3c7f-4142-90fd-1dad80365d8c"
+    },
+    {
+      "word": "住み慣れた",
+      "reading": "すみ慣れた",
+      "meaningZh": "住惯了的，熟悉的（地方）",
+      "meaningEn": "Familiar (place where one is used to living)",
+      "level": "n3",
+      "exampleSentence": "彼女は住み慣れた故郷を離れて、都会で働き始めました。",
+      "id": "28995706-4007-48df-ad0b-818b009f043d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "文中で、高齢者が宅配サービスを利用する主な理由として挙げられているのは何ですか？",
+      "options": [
+        "A. 宅配員と話したいから。",
+        "B. 重い荷物を持たずに済むから。",
+        "C. 新しいIT技術を試したいから。",
+        "D. 家族に会いたいから。"
+      ],
+      "correctIndex": 1,
+      "explanation": "第二段に「スーパーのように重い荷物を持たずに済むので、高齢者にとって大変助かります」とあります。",
+      "id": "f1ec0c2b-c3f9-46f8-87de-98502f7a8390"
+    },
+    {
+      "question": "宅配サービスが、高齢者だけでなくその家族にも安心を与えるのは、どのような点からですか？",
+      "options": [
+        "A. サービスの種類が豊富な点。",
+        "B. 配達員が高齢者の安否確認を行うことがある点。",
+        "C. 新しいIT技術を使っている点。",
+        "D. 栄養バランスの取れた食事が届く点。"
+      ],
+      "correctIndex": 1,
+      "explanation": "第二段に「配達員が高齢者の安否確認を行うこともあるため、家族も安心できると好評です」とあります。",
+      "id": "1c7fdf09-f0fe-4b49-9f2f-70de50c98c24"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-05-9edb18e972",
+  "publishedAt": "2026-05-05T06:00:00+09:00"
+}
