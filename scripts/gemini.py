@@ -24,6 +24,7 @@ log = logging.getLogger(__name__)
 MODEL = "gemini-2.5-flash"
 
 # 每档的指标 —— 严格控制句长 / 词汇 / quiz 数，跟 PLAN.md 对齐
+# quiz_target 是给 prompt 的目标；quiz_min/max 是 validation 接受范围（±1 容忍 Gemini 抖动）
 TIER_SPEC = {
     "n5n4": {
         "level_label": "N5–N4 初学者",
@@ -32,7 +33,9 @@ TIER_SPEC = {
             "句子短（每句 15-25 字以内），尽量只用 N5/N4 词汇。"
             "避免敬语、复杂从句、专业术语。"
         ),
-        "quiz_count": 1,
+        "quiz_target": 1,
+        "quiz_min": 1,
+        "quiz_max": 2,
     },
     "n3": {
         "level_label": "N3 中级",
@@ -41,7 +44,9 @@ TIER_SPEC = {
             "句长适中（25-50 字）。可以含少量专业词，但要在 vocabulary 里解释。"
             "避免书面语、古典语法。"
         ),
-        "quiz_count": 2,
+        "quiz_target": 2,
+        "quiz_min": 1,
+        "quiz_max": 3,
     },
     "n2n1": {
         "level_label": "N2–N1 进阶",
@@ -50,7 +55,9 @@ TIER_SPEC = {
             "可用敬语、被动使役、抽象名词、长复句（50-80 字）。"
             "目标读起来像真实日本新闻。"
         ),
-        "quiz_count": 3,
+        "quiz_target": 3,
+        "quiz_min": 2,
+        "quiz_max": 4,
     },
 }
 
@@ -169,14 +176,14 @@ class GeminiClient:
       "correctIndex": <0-3 整数>,
       "explanation": "<日文解析，引用文中原句>"
     }},
-    ... (共 {spec['quiz_count']} 道)
+    ... (共 {spec['quiz_target']} 道)
   ]
 }}
 
 注意：
 - paragraphs 数量必须 3-4 段
 - vocabulary 数量 5-8 个，level 字段只能是 n5n4/n3/n2n1 三个值
-- quiz 数量必须正好 {spec['quiz_count']} 道
+- quiz 数量目标 {spec['quiz_target']} 道（{spec['quiz_min']}-{spec['quiz_max']} 道都可以）
 - correctIndex 是数字 0/1/2/3
 - 全文不得复制任何商业新闻原文，只能取话题
 """
@@ -197,9 +204,10 @@ class GeminiClient:
             raise ValueError(f"paragraphs must be 3-4 items, got {len(p.get('paragraphs', []))}")
         if not isinstance(p["vocabulary"], list) or not (3 <= len(p["vocabulary"]) <= 10):
             raise ValueError(f"vocabulary count off: {len(p.get('vocabulary', []))}")
-        if len(p["quiz"]) != spec["quiz_count"]:
+        quiz_n = len(p["quiz"])
+        if not (spec["quiz_min"] <= quiz_n <= spec["quiz_max"]):
             raise ValueError(
-                f"quiz count must be {spec['quiz_count']} for tier {tier}, got {len(p['quiz'])}"
+                f"quiz count must be {spec['quiz_min']}-{spec['quiz_max']} for tier {tier}, got {quiz_n}"
             )
         valid_levels = {"n5n4", "n3", "n2n1"}
         for v in p["vocabulary"]:
