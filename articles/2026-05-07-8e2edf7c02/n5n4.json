@@ -1,0 +1,122 @@
+{
+  "title": "梅雨の準備！防災グッズ",
+  "summary": "もうすぐ梅雨です。雨がたくさん降ります。そこで、防災グッズを準備することが大切です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、6月ごろから梅雨が始まります。梅雨の時期は、雨がたくさん降ります。時々、強い雨や風が吹くこともあります。だから、家や外での安全に注意が必要です。",
+      "translationZh": "在日本，大约从6月开始进入梅雨季节。梅雨时期会下很多雨。有时也会有大风大雨。因此，需要注意在家中和外面的安全。",
+      "translationEn": "In Japan, the rainy season starts around June. During the rainy season, a lot of rain falls. Sometimes, strong rain and wind blow. Therefore, attention is needed for safety at home and outside.",
+      "id": "e1cf86c2-5b4e-40de-8fe5-5dd4a1b3dac6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "梅雨の時期には、災害が起こることもあります。例えば、川が氾濫したり、土砂崩れが起きたりすることがあります。このような災害に備えて、防災グッズを準備しておきましょう。",
+      "translationZh": "在梅雨季节，也可能发生灾害。例如，河流可能泛滥，或者发生山体滑坡。为了应对这样的灾害，让我们准备好防灾用品吧。",
+      "translationEn": "During the rainy season, disasters can also occur. For example, rivers may flood or landslides may happen. Let's prepare disaster prevention goods in advance for such disasters.",
+      "id": "9c4fbc19-8234-4e3e-b567-64958c18aca4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "防災グッズには、水や食料、懐中電灯、ラジオなどがあります。また、雨がっぱや長ぐつも大切です。これらのグッズがあると、災害の時にも安心できます。",
+      "translationZh": "防灾用品包括水、食物、手电筒、收音机等。另外，雨衣和长筒靴也很重要。有了这些用品，在灾害发生时也能安心。",
+      "translationEn": "Disaster prevention goods include water, food, flashlights, and radios. Also, raincoats and boots are important. Having these goods can provide peace of mind during disasters.",
+      "id": "0f3d2f56-652b-4ea1-bcb6-13699f183569",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "早めに防災グッズをチェックして、足りないものを買いましょう。家族みんなで話し合って、準備することも大切です。安全な梅雨を過ごしましょう。",
+      "translationZh": "请尽早检查防灾用品，购买缺少的物品。与全家人一起商量并做好准备也很重要。让我们度过一个安全的梅雨季吧。",
+      "translationEn": "Let's check the disaster prevention goods early and buy what is missing. It is also important to discuss with the whole family and prepare. Let's spend a safe rainy season.",
+      "id": "93e1e8d5-85fe-4974-8394-a5c22a26cc65",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "梅雨",
+      "reading": "つゆ",
+      "meaningZh": "梅雨",
+      "meaningEn": "rainy season",
+      "level": "n5n4",
+      "exampleSentence": "もうすぐ梅雨入りですね。",
+      "id": "8945e750-600d-46f5-bdc8-b4a6ce7297c8"
+    },
+    {
+      "word": "防災グッズ",
+      "reading": "ぼうさいグッズ",
+      "meaningZh": "防灾用品",
+      "meaningEn": "disaster prevention goods",
+      "level": "n5n4",
+      "exampleSentence": "防災グッズを準備しました。",
+      "id": "2139a3ab-147f-4bb6-83a0-fdb2bc7dfe32"
+    },
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾害",
+      "meaningEn": "disaster",
+      "level": "n5n4",
+      "exampleSentence": "大きな災害が起こらないように祈ります。",
+      "id": "97b0b848-6c78-4215-b05e-46b65c1a1b56"
+    },
+    {
+      "word": "備える",
+      "reading": "そなえる",
+      "meaningZh": "准备，为…做准备",
+      "meaningEn": "to prepare for",
+      "level": "n5n4",
+      "exampleSentence": "災害に備えて、食料を買いました。",
+      "id": "7a6af9ab-2dcb-449b-8fcf-a0d091837cc4"
+    },
+    {
+      "word": "氾濫",
+      "reading": "はんらん",
+      "meaningZh": "泛滥",
+      "meaningEn": "flood, overflow",
+      "level": "n3",
+      "exampleSentence": "大雨で川が氾濫しました。",
+      "id": "eb87044e-eaad-4cc8-9adc-ba4d38f4c4db"
+    },
+    {
+      "word": "懐中電灯",
+      "reading": "かいちゅうでんとう",
+      "meaningZh": "手电筒",
+      "meaningEn": "flashlight",
+      "level": "n5n4",
+      "exampleSentence": "停電の時、懐中電灯を使いました。",
+      "id": "851f94f2-97df-4e8b-9494-a1f8441e8190"
+    },
+    {
+      "word": "雨がっぱ",
+      "reading": "あまがっぱ",
+      "meaningZh": "雨衣",
+      "meaningEn": "raincoat",
+      "level": "n5n4",
+      "exampleSentence": "雨がっぱを着て出かけました。",
+      "id": "3f9ed631-e2eb-41f2-bff2-74a644151ba1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "梅雨の時期に、どんな災害が起こることがありますか。",
+      "options": [
+        "地震がたくさん起こる",
+        "川が氾濫したり、土砂崩れが起きたりする",
+        "火山が噴火する",
+        "台風がたくさん来る"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「例えば、川が氾濫したり、土砂崩れが起きたりすることがあります。」と書かれています。",
+      "id": "2daf4587-5119-4664-9ace-b418502425d0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-07-8e2edf7c02",
+  "publishedAt": "2026-05-07T06:00:00+09:00"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "東京マラソン：参加者の変化とその魅力",
+  "summary": "近年、東京マラソンに参加する人々の傾向が変化しています。今回は、その最新の傾向と、マラソンが多くの人に愛される理由を探ってみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東京マラソンは、日本を代表する国際的なマラソン大会として、毎年多くのランナーで賑わっています。最近の傾向として、特に若い世代や女性ランナーの参加が増えていることが挙げられます。これは、健康志向の高まりや、SNSでの情報共有が影響していると考えられます。",
+      "translationZh": "东京马拉松作为日本代表性的国际马拉松赛事，每年都吸引着众多跑者。近期的趋势是，特别是年轻一代和女性跑者的参与正在增加。这被认为受到了健康意识的提高以及SNS信息分享的影响。",
+      "translationEn": "The Tokyo Marathon, as a leading international marathon event in Japan, is bustling with many runners every year. A recent trend is the increasing participation of younger generations and female runners. This is thought to be influenced by rising health consciousness and information sharing on social media.",
+      "id": "b999bd15-da0d-4a03-94cf-f330dc8150f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、単に完走することを目指すだけでなく、記録更新に挑戦したり、チャリティーに参加したりと、参加の目的も多様化しています。ボランティアの数も増えており、大会を支える人々が増えていることも、この大会の魅力の一つと言えるでしょう。",
+      "translationZh": "此外，参与的目的也日益多样化，不仅仅是为了完成比赛，还包括挑战刷新纪录，或是参与慈善活动。志愿者的人数也在增加，支持这项赛事的人们越来越多，这也是这项赛事的魅力之一。",
+      "translationEn": "Furthermore, the purposes for participation are diversifying beyond simply aiming to finish; people are also challenging themselves to break records or participate in charity. The number of volunteers is also growing, and the increasing number of people supporting the event can be considered one of its attractions.",
+      "id": "6a83def2-f10b-41be-9870-213df7cca796",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、東京マラソンは時代とともに変化しながらも、多くの人々に感動と目標を与える存在であり続けています。来年の大会も、どのような新しい顔ぶれやドラマが生まれるのか、今から楽しみですね。",
+      "translationZh": "像这样，东京马拉松在与时代一起变化的同时，持续成为给予许多人感动和目标的存在。明年的赛事，又会有怎样的新面孔和故事诞生呢，真是令人期待。",
+      "translationEn": "In this way, while evolving with the times, the Tokyo Marathon continues to be an event that provides inspiration and goals for many people. We can look forward to seeing what new participants and stories will emerge in next year's event.",
+      "id": "ecda7cdc-5be2-4e11-ae14-9a7995d16105",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "趋势，倾向",
+      "meaningEn": "trend, tendency",
+      "level": "n3",
+      "exampleSentence": "最近、健康食品の売れ行きに増加の傾向が見られます。",
+      "id": "a9c96c2f-fcbb-41fa-bba8-2943b3896d0e"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，熙熙攘攘",
+      "meaningEn": "to be bustling with activity, to be crowded",
+      "level": "n3",
+      "exampleSentence": "週末は駅前が大変賑わっています。",
+      "id": "0da8e63a-5448-491c-a195-1394f35d96c6"
+    },
+    {
+      "word": "健康志向",
+      "reading": "けんこうしこう",
+      "meaningZh": "健康意识，注重健康",
+      "meaningEn": "health consciousness",
+      "level": "n3",
+      "exampleSentence": "健康志向の人が増えたので、野菜中心のレストランが人気です。",
+      "id": "ce7043e9-cbb3-44b3-ac08-4251ba6bf1bf"
+    },
+    {
+      "word": "高まり",
+      "reading": "たかまり",
+      "meaningZh": "提高，高涨",
+      "meaningEn": "rise, increase, heightening",
+      "level": "n3",
+      "exampleSentence": "環境問題に対する人々の関心の高まりが感じられます。",
+      "id": "31e38771-5d55-4ab9-8dc6-719e692a2888"
+    },
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "diversification",
+      "level": "n3",
+      "exampleSentence": "消費者のニーズが多様化しています。",
+      "id": "43f9b9b1-497e-40a8-90f5-7b8d949d721d"
+    },
+    {
+      "word": "完走",
+      "reading": "かんそう",
+      "meaningZh": "跑完全程，完成比赛",
+      "meaningEn": "finishing a race",
+      "level": "n3",
+      "exampleSentence": "初めてのフルマラソンで無事に完走できた。",
+      "id": "20cd3e1e-c981-40e9-b09e-ec19bf3e75ea"
+    },
+    {
+      "word": "記録更新",
+      "reading": "きろくこうしん",
+      "meaningZh": "刷新纪录",
+      "meaningEn": "breaking a record",
+      "level": "n3",
+      "exampleSentence": "彼は自己記録の更新を目指して練習を続けている。",
+      "id": "5d5f0693-d0f2-4999-ba75-514c8750b4b2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東京マラソンで最近増えている参加者はどのような人たちですか？",
+      "options": [
+        "高齢者と男性",
+        "若者と女性",
+        "海外からの選手のみ",
+        "プロのランナー"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近の傾向として、特に若い世代や女性ランナーの参加が増えていることが挙げられます。」",
+      "id": "30e8aa4b-f728-4c0c-bdac-83e1502e12ff"
+    },
+    {
+      "question": "参加者の目的が多様化しているというのは、どのようなことですか？",
+      "options": [
+        "記録更新だけを目指すようになった",
+        "チャリティーへの参加や記録更新など、目的が一つではない",
+        "マラソン以外のイベントへの参加が増えた",
+        "ボランティア活動への参加がなくなった"
+      ],
+      "correctIndex": 1,
+      "explanation": "「また、単に完走することを目指すだけでなく、記録更新に挑戦したり、チャリティーに参加したりと、参加の目的も多様化しています。」",
+      "id": "321388be-1269-4e05-bd37-bd2339200d21"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-07-1ea247fc69",
+  "publishedAt": "2026-05-07T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "ウィキニュース、終わります",
+  "summary": "ウィキニュースというサイトが、もうすぐなくなります。21年間、たくさんのニュースがありました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ウィキニュースは、インターネットのニュースサイトです。このサイトは、もうすぐなくなります。21年間、たくさんのニュースがありました。これは、とても残念なことです。",
+      "translationZh": "维基新闻是一个网络新闻网站。这个网站很快就要消失了。21年来，有很多新闻。这是一个非常令人遗憾的事情。",
+      "translationEn": "Wikinews is an internet news website. This site will be gone soon. For 21 years, there were many news articles. This is a very regrettable thing.",
+      "id": "ca7e87a5-cea0-45a9-a695-ad33cc97b867",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキニュースは、2004年に始まりました。誰でもニュースを書くことができました。だから、いろいろなニュースがありました。世界のことや、日本のことも書かれました。",
+      "translationZh": "维基新闻于2004年开始。任何人都可以写新闻。因此，有很多各种各样的信息。关于世界的事情，关于日本的事情也被写下来了。",
+      "translationEn": "Wikinews started in 2004. Anyone could write news. Therefore, there were various kinds of news. News about the world and Japan was also written.",
+      "id": "26ae00b1-1992-447e-8ede-849e7d608be0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、最近、このサイトを閉じるという話が出ました。そして、3月30日に、閉じるということが決まりました。残念ですが、仕方がありません。",
+      "translationZh": "但是，最近，出现了关闭这个网站的说法。然后，在3月30日，决定要关闭了。很遗憾，但是没办法。",
+      "translationEn": "However, recently, there was talk of closing this site. Then, on March 30th, it was decided to close it. It's a shame, but it can't be helped.",
+      "id": "9f48dc33-7797-435a-99e7-c0514627ebc4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "サイトは、2026年5月3日に終わります。それまで、ニュースを読むことができます。21年間の歴史が終わるのは、とても寂しいですね。",
+      "translationZh": "网站将于2026年5月3日结束。在那之前，可以阅读新闻。21年的历史结束，真是太寂寞了。",
+      "translationEn": "The site will end on May 3, 2026. Until then, you can read the news. It's very sad that the 21-year history is ending.",
+      "id": "15b1197e-b106-42e8-8c17-0706033c9f10",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ニュース",
+      "reading": "にゅーす",
+      "meaningZh": "新闻",
+      "meaningEn": "news",
+      "level": "n5n4",
+      "exampleSentence": "今日のニュースを見ましたか。",
+      "id": "858887c6-fa6e-4d6e-8def-774d4923ebb7"
+    },
+    {
+      "word": "サイト",
+      "reading": "さいと",
+      "meaningZh": "网站",
+      "meaningEn": "website",
+      "level": "n5n4",
+      "exampleSentence": "このサイトは面白いです。",
+      "id": "5420367e-9e2f-4b22-a0ca-a09ca1e236dc"
+    },
+    {
+      "word": "閉じる",
+      "reading": "とじる",
+      "meaningZh": "关闭",
+      "meaningEn": "to close",
+      "level": "n5n4",
+      "exampleSentence": "店は夜9時に閉じます。",
+      "id": "6666d471-152f-4e79-98da-a5b52098b165"
+    },
+    {
+      "word": "決まる",
+      "reading": "きまる",
+      "meaningZh": "决定",
+      "meaningEn": "to be decided",
+      "level": "n5n4",
+      "exampleSentence": "旅行の日が決まりました。",
+      "id": "df7f67f3-58ec-4671-a5f4-f3773108ef4d"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾",
+      "meaningEn": "regrettable, unfortunate",
+      "level": "n5n4",
+      "exampleSentence": "約束の時間に遅れて残念です。",
+      "id": "e8f3bd00-43a8-4f50-9ae9-731b13be8c91"
+    },
+    {
+      "word": "歴史",
+      "reading": "れきし",
+      "meaningZh": "历史",
+      "meaningEn": "history",
+      "level": "n3",
+      "exampleSentence": "日本の歴史を勉強しています。",
+      "id": "ca26fbd0-d6cd-45ea-9eb3-20a9f6974337"
+    },
+    {
+      "word": "寂しい",
+      "reading": "さびしい",
+      "meaningZh": "寂寞的，伤感的",
+      "meaningEn": "lonely, sad",
+      "level": "n5n4",
+      "exampleSentence": "友達がいなくて寂しいです。",
+      "id": "9d7c9739-6903-4094-bbc1-9c4296bc2e52"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィキニュースは、いつ終わりますか。",
+      "options": [
+        "2024年3月30日",
+        "2025年5月3日",
+        "2026年5月3日",
+        "21年後"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「サイトは、2026年5月3日に終わります。」と書かれています。",
+      "id": "cd793b7e-ac95-442b-b95e-52071a65f915"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": "https://ja.wikinews.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%8121%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%82%92%E9%96%89%E3%81%98%E3%82%8B",
+  "slug": "2026-05-07-21",
+  "publishedAt": "2026-05-07T06:00:00+09:00"
+}

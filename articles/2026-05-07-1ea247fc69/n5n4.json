@@ -1,0 +1,131 @@
+{
+  "title": "東京マラソンの新しい波",
+  "summary": "東京マラソンは毎年多くの人が参加します。最近、参加者に新しい傾向が見られます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東京マラソンは、日本で一番大きいマラソン大会の一つです。世界中からたくさんのランナーが集まります。この大会は毎年、春に行われます。走ることが好きな人にとって、とても人気があります。",
+      "translationZh": "东京马拉松是日本最大的马拉松比赛之一。来自世界各地的许多跑者聚集在一起。这项赛事每年春天举行。对于喜欢跑步的人来说，它非常受欢迎。",
+      "translationEn": "The Tokyo Marathon is one of the biggest marathon events in Japan. Many runners gather from all over the world. This event is held every spring. It is very popular for people who like running.",
+      "id": "d5c70697-7d58-4c67-b011-e8ef956592b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、大会に参加する人の年齢層が変わってきました。前は、若い人が多かったですが、今は５０代や６０代の参加者も増えています。健康のために走る人が多くなったようです。",
+      "translationZh": "最近，参加比赛的人的年龄层发生了变化。以前年轻人很多，但现在 50 多岁和 60 多岁的参加者也在增加。似乎有很多人为了健康而跑步。",
+      "translationEn": "Recently, the age range of participants has changed. Before, there were many young people, but now, participants in their 50s and 60s are also increasing. It seems that more people are running for their health.",
+      "id": "4a1febc8-159a-4007-b9db-7e41b0307605",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、海外からの参加者も増えています。東京の街を走りながら、日本の文化や景色を楽しむことができます。これが、海外のランナーに人気がある理由の一つです。",
+      "translationZh": "此外，来自海外的参加者也在增加。一边在东京街头奔跑，一边可以享受日本的文化和风景。这是海外跑者受欢迎的原因之一。",
+      "translationEn": "Also, the number of participants from overseas is increasing. Runners can enjoy Japanese culture and scenery while running through the streets of Tokyo. This is one of the reasons for its popularity among foreign runners.",
+      "id": "633324eb-c9d7-456f-acf7-61d88c27523d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京マラソンは、ただ速く走るだけの大会ではありません。多くの人が、自分の目標を達成するために参加します。走ることを通して、新しい自分を発見する人もいます。",
+      "translationZh": "东京马拉松不仅仅是一场只追求速度的比赛。许多人参加是为了实现自己的目标。也有人通过跑步发现了全新的自己。",
+      "translationEn": "The Tokyo Marathon is not just a race to run fast. Many people participate to achieve their own goals. Some people discover a new self through running.",
+      "id": "14b2b7f4-8380-43e6-a8a7-3d252d1c6f90",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "マラソン",
+      "reading": "まらそん",
+      "meaningZh": "马拉松",
+      "meaningEn": "marathon",
+      "level": "n5n4",
+      "exampleSentence": "東京マラソンは有名です。",
+      "id": "ded306cd-f9e8-4de1-abf3-f6dd510d2512"
+    },
+    {
+      "word": "参加者",
+      "reading": "さんかしゃ",
+      "meaningZh": "参加者",
+      "meaningEn": "participant",
+      "level": "n5n4",
+      "exampleSentence": "参加者は多いです。",
+      "id": "b4ed4ec6-aa38-4ac2-ab35-5dbbd1808894"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "倾向，趋势",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "最近、この傾向があります。",
+      "id": "fd9aa22a-86c9-4716-9d0f-71061c7ae0cc"
+    },
+    {
+      "word": "年齢層",
+      "reading": "ねんれいそう",
+      "meaningZh": "年龄层",
+      "meaningEn": "age group",
+      "level": "n3",
+      "exampleSentence": "若い年齢層が増えています。",
+      "id": "aa9fe155-bb42-41ba-ab13-842bc2d87df7"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために走ります。",
+      "id": "1e096dc0-784a-43be-ab59-d94489a2951a"
+    },
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaningZh": "海外",
+      "meaningEn": "overseas",
+      "level": "n5n4",
+      "exampleSentence": "海外から来ました。",
+      "id": "f1f1b6b4-33d2-47f5-91b9-e0301e7b24b4"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "きれいな景色です。",
+      "id": "bc891b4d-8c24-4f68-bbb2-96fa74bad933"
+    },
+    {
+      "word": "目標",
+      "reading": "もくひょう",
+      "meaningZh": "目标",
+      "meaningEn": "goal",
+      "level": "n5n4",
+      "exampleSentence": "目標を達成しました。",
+      "id": "77fb109c-b893-44a6-b2b2-497ea0cdbd99"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、東京マラソンで増えている参加者はどの年齢層ですか？",
+      "options": [
+        "１０代",
+        "２０代",
+        "５０代や６０代",
+        "１００歳以上"
+      ],
+      "correctIndex": 2,
+      "explanation": "「最近、大会に参加する人の年齢層が変わってきました。前は、若い人が多かったですが、今は５０代や６０代の参加者も増えています。」",
+      "id": "24db7964-5749-4d2e-b5ec-1e18bcb2a34d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-07-1ea247fc69",
+  "publishedAt": "2026-05-07T06:00:00+09:00"
+}

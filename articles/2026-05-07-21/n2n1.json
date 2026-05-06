@@ -1,0 +1,147 @@
+{
+  "title": "ウィキニュース、21年の歴史に幕",
+  "summary": "ウィキメディア財団は、ウィキニュースの全言語版を閉鎖する最終決定を下しました。21年にわたるプロジェクトの歴史に終止符が打たれることになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "インターネット上の百科事典プロジェクト「ウィキペディア」を支えるウィキメディア財団は、ニュースサイト「ウィキニュース」の全言語版を閉鎖することを最終決定したと発表しました。この決定は、財団理事会が3月30日に行ったもので、21年間にわたり運営されてきたニュースプロジェクトに幕を下ろすことになります。閉鎖の具体的な時期については、今後コミュニティとの協議を経て決定される見通しです。",
+      "translationZh": "支持互联网百科全书项目“维基百科”的维基媒体基金会宣布，已最终决定关闭新闻网站“维基新闻”的所有语言版本。该决定由基金会理事会于3月30日做出，标志着运营了21年的新闻项目将落下帷幕。关于关闭的具体日期，预计将在与社区协商后决定。",
+      "translationEn": "The Wikimedia Foundation, which supports the internet encyclopedia project \"Wikipedia,\" announced that it has made a final decision to close all language versions of its news site \"Wikinews.\" This decision was made by the Foundation's Board of Trustees on March 30, marking the end of the news project that has been in operation for 21 years. The specific timing of the closure is expected to be determined through discussions with the community.",
+      "id": "e7c57a75-b66c-4830-a449-44617007ea21",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキニュースは、2004年に創設され、市民ジャーナリズムを基盤としたニュースの収集・配信を目指してきました。一般の利用者が記事の作成や編集に参加できるという特徴を持ち、多言語で展開されてきましたが、近年はプロジェクトの維持・発展における課題が指摘されていました。今回の閉鎖決定は、こうした状況を踏まえ、財団のリソースを他のプロジェクトへ集中させるための戦略的な判断と見られます。",
+      "translationZh": "维基新闻创立于2004年，旨在以公民新闻为基础进行新闻的收集和发布。其特点是普通用户可以参与文章的创建和编辑，并以多语言形式展开。然而，近年来，其项目维持和发展方面面临的挑战一直被指出。此次关闭决定被视为基于这些情况，为将基金会资源集中到其他项目而做出的战略性判断。",
+      "translationEn": "Wikinews was founded in 2004 with the aim of collecting and distributing news based on citizen journalism. It is characterized by allowing general users to participate in article creation and editing, and it has been developed in multiple languages. However, in recent years, challenges in maintaining and developing the project have been pointed out. This closure decision is seen as a strategic judgment, based on these circumstances, to concentrate the Foundation's resources on other projects.",
+      "id": "b5a03a40-70fa-480c-8e37-4def4e5106ce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキメディア財団は、ウィキニュースの閉鎖に伴い、これまでに蓄積された記事コンテンツの取り扱いについても言及しています。アーカイブ化や、他のプロジェクトでの活用などが検討される可能性があり、プロジェクト終了後も情報資産が失われるわけではないことを示唆しています。コミュニティからは、長年の活動への感謝とともに、プロジェクト終了を惜しむ声が上がっています。",
+      "translationZh": "维基媒体基金会还提到了在维基新闻关闭后，如何处理迄今为止积累的文章内容。可能会考虑存档化或在其他项目中的利用，这暗示着即使项目结束后，信息资产也不会丢失。社区中既有对多年活动的感谢之声，也有对项目结束的惋惜之情。",
+      "translationEn": "The Wikimedia Foundation has also addressed the handling of accumulated article content following the closure of Wikinews. Archiving or utilization in other projects are potential considerations, suggesting that information assets will not be lost even after the project ends. Voices of gratitude for years of activity, along with regret over the project's conclusion, have been raised within the community.",
+      "id": "0726aba9-0cdb-474c-8da3-0db97f9cbc93",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "幕を閉じる",
+      "reading": "まくをとじる",
+      "meaningZh": "结束，落幕",
+      "meaningEn": "to come to an end, to close the curtain",
+      "level": "n2n1",
+      "exampleSentence": "長年続いたドラマがついに幕を閉じた。",
+      "id": "817f9c45-6c5e-43e8-b2bf-28471f7130cb"
+    },
+    {
+      "word": "最終決定",
+      "reading": "さいしゅうけってい",
+      "meaningZh": "最终决定",
+      "meaningEn": "final decision",
+      "level": "n3",
+      "exampleSentence": "会議の結果、プロジェクトの続行が最終決定された。",
+      "id": "8e298b06-ac8e-46e3-8f10-f6984bb91586"
+    },
+    {
+      "word": "基盤",
+      "reading": "きばん",
+      "meaningZh": "基础，基石",
+      "meaningEn": "foundation, base",
+      "level": "n2n1",
+      "exampleSentence": "この技術は、将来の発展の基盤となるだろう。",
+      "id": "6dd40415-21c3-44f8-9ac4-a9f6c6ca8a69"
+    },
+    {
+      "word": "市民ジャーナリズム",
+      "reading": "しみんジャーナリズム",
+      "meaningZh": "公民新闻",
+      "meaningEn": "citizen journalism",
+      "level": "n2n1",
+      "exampleSentence": "市民ジャーナリズムの普及により、情報の多様性が増した。",
+      "id": "028c0be1-3d7f-4c4e-94d2-e9040495e2f2"
+    },
+    {
+      "word": "展開",
+      "reading": "てんかい",
+      "meaningZh": "展开，发展",
+      "meaningEn": "development, unfolding, deployment",
+      "level": "n3",
+      "exampleSentence": "新しいビジネスモデルの展開が期待されている。",
+      "id": "60433a41-24b5-44dd-89a6-48f7da5bf840"
+    },
+    {
+      "word": "指摘",
+      "reading": "してき",
+      "meaningZh": "指出，指摘",
+      "meaningEn": "pointing out, indication",
+      "level": "n3",
+      "exampleSentence": "専門家は、その計画におけるリスクを指摘した。",
+      "id": "1f4b1668-9aac-4f74-8cad-dcb004afcfc5"
+    },
+    {
+      "word": "戦略的",
+      "reading": "せんりゃくてき",
+      "meaningZh": "战略性的",
+      "meaningEn": "strategic",
+      "level": "n2n1",
+      "exampleSentence": "長期的な視点に立った戦略的な投資が必要だ。",
+      "id": "b7e6faa5-5f4d-40cd-82bd-19f592a8d6cd"
+    },
+    {
+      "word": "蓄積",
+      "reading": "ちくせき",
+      "meaningZh": "积累，积蓄",
+      "meaningEn": "accumulation, build-up",
+      "level": "n2n1",
+      "exampleSentence": "長年の経験から蓄積された知識は貴重だ。",
+      "id": "383e3070-e869-44ed-99bf-1ca76a0a0717"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィキニュースの全言語版が閉鎖されることになった主な理由は何ですか？",
+      "options": [
+        "サイトへのサイバー攻撃が増加したため",
+        "プロジェクトの維持・発展における課題があり、財団リソースを集中させるため",
+        "ウィキペディアのコンテンツとの重複が多すぎたため",
+        "広告収入が大幅に減少したため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中には「近年はプロジェクトの維持・発展における課題が指摘されていました。今回の閉鎖決定は、こうした状況を踏まえ、財団のリソースを他のプロジェクトへ集中させるための戦略的な判断と見られます」と記載されています。",
+      "id": "a578f10b-d87c-4eeb-9d81-be92b70c2468"
+    },
+    {
+      "question": "ウィキニュースの創設目的は何でしたか？",
+      "options": [
+        "ウィキペディアの編集者を育成すること",
+        "専門家による信頼性の高いニュース記事を提供すること",
+        "市民ジャーナリズムを基盤としたニュースの収集・配信",
+        "インターネット上のあらゆる情報を網羅する百科事典を作成すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「ウィキニュースは、2004年に創設され、市民ジャーナリズムを基盤としたニュースの収集・配信を目指してきました。」という記述から、この選択肢が正しいと判断できます。",
+      "id": "f4bda6ce-fa46-4198-bfe3-d6e734b71d09"
+    },
+    {
+      "question": "ウィキニュースの閉鎖決定後、蓄積された記事コンテンツはどうなる見込みですか？",
+      "options": [
+        "全て削除され、閲覧できなくなる",
+        "アーカイブ化されたり、他のプロジェクトで活用されたりする可能性がある",
+        "有料会員のみが閲覧できるコンテンツとして提供される",
+        "ウィキペディアの記事に統合される"
+      ],
+      "correctIndex": 1,
+      "explanation": "「ウィキニュースの閉鎖に伴い、これまでに蓄積された記事コンテンツの取り扱いについても言及しています。アーカイブ化や、他のプロジェクトでの活用などが検討される可能性があり、プロジェクト終了後も情報資産が失われるわけではないことを示唆しています。」という部分から、この選択肢が正解となります。",
+      "id": "b2c10063-26c5-45ca-8549-df9308145540"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": "https://ja.wikinews.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%8121%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%82%92%E9%96%89%E3%81%98%E3%82%8B",
+  "slug": "2026-05-07-21",
+  "publishedAt": "2026-05-07T06:00:00+09:00"
+}
