@@ -1,0 +1,131 @@
+{
+  "title": "新しいAI機能！",
+  "summary": "日本の会社が新しいAIサービスを発表しました。このAIはとても便利です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の会社が新しいAIサービスを発表しました。このAIは、絵や文章を作ることができます。たくさんの人がこのAIを使っています。",
+      "translationZh": "日本的一家公司发布了新的AI服务。这个AI可以创作绘画和文章。很多人都在使用这个AI。",
+      "translationEn": "A Japanese company announced a new AI service. This AI can create pictures and text. Many people are using this AI.",
+      "id": "6de7e497-f108-4203-a080-bf7ea64c5bf4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい機能は、もっと上手（じょうず）に絵を描（か）くことです。写真（しゃしん）を見せて、「こんな絵を作ってください」と言うと、AIがすぐに作ります。とても速いです。",
+      "translationZh": "新的功能是能更熟练地画画。只要展示照片，然后说“请创作这样的画”，AI就会立刻创作出来。速度非常快。",
+      "translationEn": "The new feature is to draw pictures more skillfully. If you show a photo and say, 'Please create a picture like this,' the AI will create it immediately. It is very fast.",
+      "id": "86b28b73-0d23-4c39-80cb-2cd4b8f63ae7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "文章を作る機能も良くなりました。短い言葉を入れるだけで、長い話や詩（し）を作ることができます。仕事や勉強に役立ちます。",
+      "translationZh": "创作文章的功能也变好了。只要输入简短的词语，就能创作长篇故事或诗歌。这对工作和学习很有帮助。",
+      "translationEn": "The function to create text has also improved. You can create long stories or poems just by entering short words. It is useful for work and study.",
+      "id": "bf1f522c-a8fc-4ad1-a725-1839a7dfd0af",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この会社は、これからもAIを良くしていきたいと言っています。新しい技術（ぎじゅつ）で、私たちの生活がもっと便利になるでしょう。",
+      "translationZh": "这家公司表示，今后也希望继续改进AI。新技术将会让我们的生活变得更加便利。",
+      "translationEn": "This company says they want to continue improving AI in the future. New technology will likely make our lives more convenient.",
+      "id": "2a6bdf5b-a7be-4461-8c98-05f31aac87dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaningZh": "公司",
+      "meaningEn": "company",
+      "level": "n5n4",
+      "exampleSentence": "私は大きな会社で働いています。",
+      "id": "9eb7a363-f645-45b9-a7d1-d289094e3c47"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaningZh": "发表，发布",
+      "meaningEn": "announcement, presentation",
+      "level": "n5n4",
+      "exampleSentence": "新しい計画を発表します。",
+      "id": "bf801ec5-6381-4ee5-85e2-c20e90a071e4"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaningZh": "功能",
+      "meaningEn": "function, feature",
+      "level": "n5n4",
+      "exampleSentence": "このスマホはたくさんの機能があります。",
+      "id": "c09be808-5b60-42c6-b785-f01b6ba13ab0"
+    },
+    {
+      "word": "作る",
+      "reading": "つくる",
+      "meaningZh": "制作，创作",
+      "meaningEn": "to make, to create",
+      "level": "n5n4",
+      "exampleSentence": "子供がおもちゃを作りました。",
+      "id": "4d3c0905-dcad-4ea6-af1f-01ddf6b24034"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "熟练，擅长",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼は日本語が上手です。",
+      "id": "6ed296a2-fb02-4588-9a91-76d813273bb0"
+    },
+    {
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaningZh": "照片",
+      "meaningEn": "photo, picture",
+      "level": "n5n4",
+      "exampleSentence": "きれいな写真を撮りました。",
+      "id": "b1be25a9-095b-4011-91fc-6d53a349523b"
+    },
+    {
+      "word": "役立つ",
+      "reading": "やくだつ",
+      "meaningZh": "有用，有帮助",
+      "meaningEn": "to be useful, to be helpful",
+      "level": "n5n4",
+      "exampleSentence": "この本は勉強に役立ちます。",
+      "id": "3f229ab1-928b-4c3a-bba7-c0a5c1492768"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を学びたいです。",
+      "id": "46c127ec-f24a-4f80-9778-9a95b4af1fa5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいAIサービスは何ができますか。",
+      "options": [
+        "絵と文章を作ること",
+        "速く走ること",
+        "歌を歌うこと",
+        "料理を作ること"
+      ],
+      "correctIndex": 0,
+      "explanation": "新しい機能は、もっと上手（じょうず）に絵を描（か）くことと、短い言葉を入れるだけで、長い話や詩（し）を作ることができることです。",
+      "id": "cb3b7ac0-81a3-448f-a040-a59e19709aca"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-08-ai",
+  "publishedAt": "2026-05-08T06:00:00+09:00"
+}

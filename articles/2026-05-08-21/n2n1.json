@@ -1,0 +1,138 @@
+{
+  "title": "ウィキニュース、21年の歴史に終止符",
+  "summary": "ウィキメディア財団は、ウィキニュースの全言語版を閉鎖することを最終決定しました。21年間の歴史に幕を下ろすことになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ウィキメディア財団は、その理事会による決定に基づき、ニュースサイト「ウィキニュース」の全言語版を閉鎖する方針を固めました。この決定は、長年にわたり運営されてきたプロジェクトにとって、大きな転換点となるものです。1999年の設立以来、ウィキニュースは市民ジャーナリズムのプラットフォームとして、多様なニュース記事を提供してきましたが、事業継続の困難さに直面していたと見られます。",
+      "translationZh": "维基媒体基金会根据其理事会的决定，已经确定了关闭新闻网站“维基新闻”所有语言版本的方针。这一决定对于长期运营的项目来说，将是一个重要的转折点。自1999年成立以来，维基新闻作为公民新闻的平台，提供了各种各样的报道，但据推测，它面临着继续运营的困难。",
+      "translationEn": "The Wikimedia Foundation, based on a decision by its board of trustees, has solidified its policy to close all language versions of the news site 'Wikinews'. This decision marks a significant turning point for the project, which has been in operation for many years. Since its establishment in 1999, Wikinews has provided a diverse range of news articles as a platform for citizen journalism, but it is believed to have faced difficulties in continuing its operations.",
+      "id": "c24941d6-68dd-4f55-9d92-274ff3fc9aea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "閉鎖の背景には、プロジェクトの維持に関わる運営コストや、近年におけるニュースコンテンツの需要の変化などが複合的に影響していると考えられています。特に、迅速かつ正確な情報提供が求められるニュース分野において、ボランティアベースでの持続的な運営体制を維持することの難しさが指摘されており、今回の最終決定に至ったものと推察されます。",
+      "translationZh": "据认为，关闭的背景是包括项目维护相关的运营成本以及近年来新闻内容需求的变化等多种因素的复合影响。特别是，在需要快速准确提供信息的时事新闻领域，维系基于志愿者的持续运营体制的难度被指出，并推测由此导致了此次的最终决定。",
+      "translationEn": "The background for the closure is believed to be a combination of factors, including the operational costs associated with maintaining the project and changes in the demand for news content in recent years. In particular, the difficulty of maintaining a sustainable volunteer-based operational structure in the news sector, which demands prompt and accurate information delivery, has been pointed out, leading to this final decision.",
+      "id": "01108b2d-5500-4150-86a6-eef912a22faa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキニュースは、2004年にサービスを開始して以来、世界中のボランティアによって支えられ、多岐にわたるニュースを発信してきました。しかし、インターネット上の情報流通の激しい変化や、他のニュースメディアとの競争といった外部環境の変化も、プロジェクトの将来に影響を与えた可能性が否定できません。今回の閉鎖は、インターネット黎明期から続く一つのオンラインメディアの歴史に一区切りをつける出来事と言えるでしょう。",
+      "translationZh": "维基新闻自2004年服务启动以来，在世界各地志愿者的支持下，传播了广泛的新闻。然而，互联网信息传播的剧烈变化以及与其他新闻媒体的竞争等外部环境的变化，也不能排除其对项目未来产生影响的可能性。此次关闭，可以说是为一部自互联网黎明期以来延续至今的在线媒体的历史画上了句号。",
+      "translationEn": "Since its service began in 2004, Wikinews has disseminated a wide range of news, supported by volunteers worldwide. However, it cannot be denied that changes in external environments, such as the rapid evolution of information flow on the internet and competition with other news media, may have also influenced the project's future. This closure can be said to mark the end of an era for an online media that has existed since the dawn of the internet.",
+      "id": "22bffdeb-538a-4a88-941f-a6c87cc9aea4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "終止符",
+      "reading": "しゅうしふ",
+      "meaningZh": "句号，结束",
+      "meaningEn": "full stop, end, conclusion",
+      "level": "n2n1",
+      "exampleSentence": "長かった議論にようやく終止符が打たれた。",
+      "id": "82926701-966b-4f39-98be-4c367329434a"
+    },
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaningZh": "方针，政策",
+      "meaningEn": "policy, line, course",
+      "level": "n3",
+      "exampleSentence": "会社は新しい方針を発表した。",
+      "id": "93e3128e-40c8-4c78-9923-1cefa7e2112f"
+    },
+    {
+      "word": "転換点",
+      "reading": "てんかんてん",
+      "meaningZh": "转折点",
+      "meaningEn": "turning point",
+      "level": "n2n1",
+      "exampleSentence": "この出来事は彼の人生の転換点となった。",
+      "id": "b718b430-1296-4da5-8ae1-8975360fc44f"
+    },
+    {
+      "word": "事業継続",
+      "reading": "じぎょうけいぞく",
+      "meaningZh": "事业持续，企业持续经营",
+      "meaningEn": "business continuity",
+      "level": "n2n1",
+      "exampleSentence": "自然災害による事業継続リスクを評価する。",
+      "id": "e9a06ee2-6c04-4f1a-962d-ff693d8b0194"
+    },
+    {
+      "word": "複合的",
+      "reading": "ふくごうてき",
+      "meaningZh": "复合的，综合的",
+      "meaningEn": "complex, compound",
+      "level": "n2n1",
+      "exampleSentence": "問題は複合的な要因によって引き起こされている。",
+      "id": "1e602da7-4732-4c70-aa6d-01723fde2a10"
+    },
+    {
+      "word": "市民ジャーナリズム",
+      "reading": "しみんジャーナリズム",
+      "meaningZh": "公民新闻",
+      "meaningEn": "citizen journalism",
+      "level": "n2n1",
+      "exampleSentence": "市民ジャーナリズムの発展により、情報源が多様化している。",
+      "id": "c9389422-6687-4a96-b8a6-9007db26fa04"
+    },
+    {
+      "word": "推察",
+      "reading": "すいさつ",
+      "meaningZh": "推测，揣测",
+      "meaningEn": "inference, conjecture, guess",
+      "level": "n2n1",
+      "exampleSentence": "彼の表情から、その意図を推察することができる。",
+      "id": "01564b9b-58f7-4642-b70f-f8ed64c8b8c0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィキニュースが閉鎖される主な理由は何だと考えられていますか？",
+      "options": [
+        "運営コストの増大とニュース需要の変化",
+        "ウィキメディア財団の組織変更",
+        "ボランティアの不足による記事作成の困難",
+        "競合サイトの買収による戦略的判断"
+      ],
+      "correctIndex": 0,
+      "explanation": "第二段落に「閉鎖の背景には、プロジェクトの維持に関わる運営コストや、近年におけるニュースコンテンツの需要の変化などが複合的に影響していると考えられています。」とあります。",
+      "id": "e00a99a4-4b31-4d44-b1b4-a81644b8c426"
+    },
+    {
+      "question": "ウィキニュースは、いつサービスを開始しましたか？",
+      "options": [
+        "1999年",
+        "2004年",
+        "2005年",
+        "2021年"
+      ],
+      "correctIndex": 1,
+      "explanation": "第三段落に「ウィキニュースは、2004年にサービスを開始して以来、」とあります。",
+      "id": "34d3963a-93d3-4961-ab3e-72d5f725ae3a"
+    },
+    {
+      "question": "記事によると、ウィキニュースはどのようなプラットフォームとして運営されてきましたか？",
+      "options": [
+        "専門家によるニュース解説サイト",
+        "AIが生成するニュース配信サービス",
+        "市民ジャーナリズムのプラットフォーム",
+        "企業広報に特化したメディア"
+      ],
+      "correctIndex": 2,
+      "explanation": "第一段落に「ウィキニュースは市民ジャーナリズムのプラットフォームとして、多様なニュース記事を提供してきましたが、」とあります。",
+      "id": "9d52ccda-b818-4f20-be16-d994f573819f"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": "https://ja.wikinews.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%8121%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%82%92%E9%96%89%E3%81%98%E3%82%8B",
+  "slug": "2026-05-08-21",
+  "publishedAt": "2026-05-08T06:00:00+09:00"
+}

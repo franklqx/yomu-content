@@ -1,0 +1,134 @@
+{
+  "title": "国産AIの新機能、あなたの仕事が変わるかも？",
+  "summary": "国内で開発された新しい生成AIサービスが、驚くような新機能を発表しました。このAIは、私たちの日常業務やクリエイティブな活動をどのように変えるのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、国内のIT企業が開発した生成AIサービスに、新しい機能が追加されました。このAIは、文章を作成したり、画像を生成したりする能力を持っていますが、今回のアップデートで、さらに専門的な分野の知識を取り込めるようになったとのことです。例えば、法律や医療の専門家が使うような難しい言葉も理解し、正確な情報に基づいた文章を作れるそうです。",
+      "translationZh": "最近，一家国内IT公司开发的生成式AI服务增加了一项新功能。这款AI具备创作文章和生成图像的能力，而此次更新后，它据说能吸收更专业领域的知识。例如，它能理解法律和医疗专业人士使用的难懂词汇，并创作出基于准确信息 Thus，这样的文章。",
+      "translationEn": "Recently, a generative AI service developed by a domestic IT company has added a new feature. This AI has the ability to create text and generate images, and with this update, it is said to be able to incorporate knowledge from more specialized fields. For instance, it can understand difficult terms used by legal and medical professionals and create text based on accurate information.",
+      "id": "335d83bd-1b44-43c3-a653-88a862b522a6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい機能が注目されているのは、単に賢くなったからだけではありません。これまでAIの利用には、専門的な知識や特別なスキルが必要な場合が少なくありませんでした。しかし、このAIは、より直感的に使えるように工夫されているため、専門知識がない人でも簡単に高度な作業ができるようになるでしょう。例えば、簡単な指示を出すだけで、複雑なレポートのドラフトが作成されるかもしれません。",
+      "translationZh": "这项新功能之所以受到关注，不仅仅是因为它变得更智能了。过去，使用AI常常需要专业知识或特殊技能。但是，这款AI被设计成更直观易用，因此即使是没有专业知识的人也能轻松完成高级任务。例如，只需给出简单的指示，就可能生成复杂的报告草稿。",
+      "translationEn": "The reason this new feature is attracting attention is not just because it has become smarter. In the past, using AI often required specialized knowledge or special skills. However, this AI has been designed to be more intuitive to use, so even people without specialized knowledge will be able to easily perform advanced tasks. For example, with just simple instructions, a draft of a complex report might be created.",
+      "id": "2e936b4e-614e-4992-b124-ec0d12d30449",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このAIサービスは、ビジネスの現場でどのように役立つのでしょうか。まず、資料作成にかかる時間が大幅に短縮されることが期待できます。また、アイデア出しの段階からAIを活用することで、より斬新な企画が生まれる可能性もあります。もちろん、AIが生成した内容をそのまま使うのではなく、最終的には人間が内容を確認し、責任を持つことが大切ですが、仕事の効率を上げる強力なサポートになることは間違いありません。",
+      "translationZh": "这项AI服务将如何在工作场景中发挥作用呢？首先，可以期待用于制作资料的时间将大大缩短。此外，通过从构思阶段就利用AI，诞生更具创新性的企划的可能性也存在。当然，AI生成的内容不能直接使用，最终由人类确认内容并承担责任是重要的，但毫无疑问，它将成为提高工作效率的强大支持。",
+      "translationEn": "How will this AI service be useful in the business world? First, it can be expected that the time required for document creation will be significantly reduced. Furthermore, by utilizing AI from the idea generation stage, there is also the possibility of creating more novel plans. Of course, it is important not to use AI-generated content as is, but for humans to ultimately review and take responsibility for the content, but it will undoubtedly be a powerful support for improving work efficiency.",
+      "id": "d883769d-f7ea-4cf6-843c-dd261d19d2b8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後、このような国産AIサービスがさらに進化していけば、日本の産業全体にとっても大きなプラスになるはずです。技術の発展を楽しみながら、AIと賢く付き合っていく方法を考えていきましょう。",
+      "translationZh": "今后，如果这样的国产AI服务进一步发展，应该会对整个日本产业带来巨大的好处。让我们在享受技术发展的同时，思考如何与AI进行明智的互动。",
+      "translationEn": "In the future, if such domestic AI services continue to evolve, they should bring significant benefits to Japan's entire industrial sector. Let us enjoy technological advancements while considering how to interact wisely with AI.",
+      "id": "630181af-f44f-4cef-a005-43a603afc34e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "生成AI",
+      "reading": "せいせいエーアイ",
+      "meaningZh": "生成式人工智能",
+      "meaningEn": "Generative AI",
+      "level": "n3",
+      "exampleSentence": "生成AIの技術は日々進歩しています。",
+      "id": "15d3d8e5-2c7d-4bd8-b954-f85cfc3c59fb"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaningZh": "功能",
+      "meaningEn": "function, feature",
+      "level": "n5n4",
+      "exampleSentence": "このスマートフォンの新しい機能はとても便利です。",
+      "id": "70996a0b-dd1d-41bb-80ea-21cdbde1206b"
+    },
+    {
+      "word": "アップデート",
+      "reading": "あぷでーと",
+      "meaningZh": "更新，升级",
+      "meaningEn": "update",
+      "level": "n3",
+      "exampleSentence": "ソフトウェアのアップデートが必要です。",
+      "id": "33e0d31a-9424-4335-ac73-c43df48dd1bc"
+    },
+    {
+      "word": "専門的",
+      "reading": "せんもんてき",
+      "meaningZh": "专业的",
+      "meaningEn": "specialized, professional",
+      "level": "n3",
+      "exampleSentence": "これは専門的な知識がないと理解できません。",
+      "id": "b57ee8f1-1f5e-4924-8fa9-5045e357137f"
+    },
+    {
+      "word": "直感的",
+      "reading": "ちょっかんてき",
+      "meaningZh": "直观的",
+      "meaningEn": "intuitive",
+      "level": "n3",
+      "exampleSentence": "このアプリは直感的に操作できます。",
+      "id": "14756b2b-d121-4ea8-8b5d-673609d01b3a"
+    },
+    {
+      "word": "斬新",
+      "reading": "ざんしん",
+      "meaningZh": "新颖的，创新的",
+      "meaningEn": "novel, original",
+      "level": "n2n1",
+      "exampleSentence": "斬新なアイデアが求められています。",
+      "id": "8150509f-8a44-4fdd-a069-9b0c63ea1efe"
+    },
+    {
+      "word": "効率",
+      "reading": "こうりつ",
+      "meaningZh": "效率",
+      "meaningEn": "efficiency",
+      "level": "n3",
+      "exampleSentence": "仕事の効率を上げたいです。",
+      "id": "198cb54f-34da-4bc4-a4bf-9019504c80af"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい生成AIサービスは、どのような点が改善されましたか？",
+      "options": [
+        "より速く文章が作れるようになった",
+        "専門的な分野の知識を取り込めるようになった",
+        "画像生成の精度が大幅に向上した",
+        "全ての機能が無料で使えるようになった"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「このAIは、単に賢くなったからだけではありません。しかし、今回のアップデートで、さらに専門的な分野の知識を取り込めるようになったとのことです。」と書かれています。",
+      "id": "b0903999-d04f-478d-8ac0-c5f2e2301602"
+    },
+    {
+      "question": "このAIサービスがビジネスに役立つと期待される理由は何ですか？",
+      "options": [
+        "AIが全ての業務を代行してくれるから",
+        "AIが人間よりも速く正確に判断できるから",
+        "資料作成の時間短縮や、斬新な企画のアイデア出しに貢献するから",
+        "AIが導入されれば、社員の教育コストがゼロになるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第三段落に「まず、資料作成にかかる時間が大幅に短縮されることが期待できます。また、アイデア出しの段階からAIを活用することで、より斬新な企画が生まれる可能性もあります。」とあります。",
+      "id": "e34b7856-9c35-4164-8ff4-8b3e74000f78"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-08-ai",
+  "publishedAt": "2026-05-08T06:00:00+09:00"
+}

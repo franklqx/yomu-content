@@ -1,0 +1,131 @@
+{
+  "title": "春の訪れ、桜の町へ",
+  "summary": "桜がきれいです。春になりました。きれいな町へ行きませんか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春になりました。桜の花が咲き始めました。日本の多くの町がきれいです。特に、町の桜は有名です。",
+      "translationZh": "春天来了。樱花开始绽放了。日本的许多城市都很美丽。特别是小镇的樱花很有名。",
+      "translationEn": "Spring has come. Cherry blossoms have begun to bloom. Many towns in Japan are beautiful. Especially, the cherry blossoms in the towns are famous.",
+      "id": "5b8da87a-5e32-4149-aec3-08bdd74165c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ある地方の町では、桜の見頃が近づいています。その町は川がきれいです。川沿いにたくさんの桜があります。",
+      "translationZh": "在一个地方小镇，樱花快要到了最美的观赏期。那个小镇的河流很干净。河边有很多樱花。",
+      "translationEn": "In a certain town in the region, the best time to see the cherry blossoms is approaching. The river in that town is clean. There are many cherry trees along the river.",
+      "id": "c5a7e40e-ec8c-4995-890f-4f59ca4a1c9c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町では、春のお祭りが開かれます。たくさんの人が桜を見に来ます。おいしい食べ物もたくさんあります。観光客はとても喜びます。",
+      "translationZh": "在小镇上，会举办春季庆典。很多人会来看樱花。也有很多美味的食物。游客们会非常高兴。",
+      "translationEn": "In the town, a spring festival is held. Many people come to see the cherry blossoms. There is also a lot of delicious food. Tourists are very happy.",
+      "id": "a67966b5-e53a-41ec-80a2-e6ec722723b8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし春に日本へ旅行するなら、桜の町へ行ってみてください。きっと素晴らしい思い出ができますよ。",
+      "translationZh": "如果春天要去日本旅行，请一定要去赏樱的小镇看看。一定能留下美好的回忆。",
+      "translationEn": "If you travel to Japan in spring, please try visiting a town with cherry blossoms. You will surely make wonderful memories.",
+      "id": "2eb47ed0-029d-40ae-8df1-2dad94a8d8be",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "桜",
+      "reading": "さくら",
+      "meaningZh": "樱花",
+      "meaningEn": "cherry blossom",
+      "level": "n5n4",
+      "exampleSentence": "公園にたくさんの桜があります。",
+      "id": "79ce6ca6-7890-4f0d-8fdb-bcf09bb82364"
+    },
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaningZh": "城镇，街道",
+      "meaningEn": "town, street",
+      "level": "n5n4",
+      "exampleSentence": "この町はとてもきれいです。",
+      "id": "ea192a1b-b7bb-454f-af17-689c9d125a56"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "访问，拜访",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "友達の家を訪ねました。",
+      "id": "4d86355e-a8dc-4c22-9c50-cc63d993af38"
+    },
+    {
+      "word": "見頃",
+      "reading": "みごろ",
+      "meaningZh": "（花、红叶等）最适宜观赏时期",
+      "meaningEn": "best time to see (flowers, autumn leaves, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "桜の見頃はいつですか。",
+      "id": "f0732d72-f81a-4f9b-8403-68b6027f676a"
+    },
+    {
+      "word": "近づく",
+      "reading": "ちかづく",
+      "meaningZh": "靠近，临近",
+      "meaningEn": "to approach, to get closer",
+      "level": "n5n4",
+      "exampleSentence": "締切が近づいています。",
+      "id": "37025e42-2f76-441c-af97-f0d2ce394af8"
+    },
+    {
+      "word": "川",
+      "reading": "かわ",
+      "meaningZh": "河流",
+      "meaningEn": "river",
+      "level": "n5n4",
+      "exampleSentence": "川で魚を釣りました。",
+      "id": "2ecc2377-1e94-4390-a78f-7e6c6facd5eb"
+    },
+    {
+      "word": "沿い",
+      "reading": "ぞい",
+      "meaningZh": "沿着…",
+      "meaningEn": "along",
+      "level": "n5n4",
+      "exampleSentence": "海岸沿いを散歩しました。",
+      "id": "68f0c044-111f-443f-a4ee-50b3cd948eb7"
+    },
+    {
+      "word": "お祭り",
+      "reading": "おまつり",
+      "meaningZh": "祭典，节日",
+      "meaningEn": "festival",
+      "level": "n5n4",
+      "exampleSentence": "夏にお祭りがあります。",
+      "id": "2607608f-23f1-487b-9884-ba0af00fb036"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "桜の町では、どんなイベントがありますか。",
+      "options": [
+        "夏のお祭り",
+        "春のお祭り",
+        "冬の花火",
+        "秋の収穫祭"
+      ],
+      "correctIndex": 1,
+      "explanation": "町では、春のお祭りが開かれます。",
+      "id": "657ecf28-0961-4a50-8ffa-56ff5c79c10f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-08-dc0e4d5466",
+  "publishedAt": "2026-05-08T06:00:00+09:00"
+}

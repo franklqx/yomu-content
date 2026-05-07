@@ -1,0 +1,143 @@
+{
+  "title": "ウィキニュース、21年の歴史に幕",
+  "summary": "インターネット上でニュースを発信するウィキニュースが、21年の歴史に幕を下ろしました。これは、ウィキメディア財団の理事会が全言語版の閉鎖を決定したためです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "インターネット上でニュース記事を共有するプロジェクトとして知られていた「ウィキニュース」が、2026年5月3日をもって、その歴史に終止符を打つことになりました。ウィキメディア財団の理事会は、全言語版の閉鎖を最終決定しました。これにより、21年間にわたる活動に幕が閉じられます。",
+      "translationZh": "被称为在互联网上共享新闻文章项目的“维基新闻”，将于2026年5月3日为其历史画上句号。维基媒体基金会的理事会已最终决定关闭所有语言版本。至此，长达21年的活动落下帷幕。",
+      "translationEn": "Wikinews, known as a project for sharing news articles on the internet, will draw its curtain on May 3, 2026. The Wikimedia Foundation's board of trustees has made the final decision to close all language versions. This marks the end of 21 years of activity.",
+      "id": "85284e33-625c-4f48-9b31-7636bb02bb07",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキニュースは、2004年に設立され、誰でも記事の作成や編集に参加できるという特徴を持っていました。しかし、近年は他のニュースサイトとの競争や、活動する編集者の減少など、様々な課題に直面していました。そのため、プロジェクトの継続が困難であると判断されたのです。",
+      "translationZh": "维基新闻成立于2004年，其特点是任何人都可以参与文章的创建和编辑。然而，近年来，它面临着来自其他新闻网站的竞争以及活跃编辑者减少等各种挑战。因此，判断项目难以继续。",
+      "translationEn": "Wikinews was founded in 2004 and was characterized by its open participation, where anyone could contribute to creating and editing articles. However, in recent years, it faced various challenges such as competition with other news sites and a decrease in active editors. Consequently, it was judged that the continuation of the project was difficult.",
+      "id": "87eabfdb-a604-4ee9-a755-3f199df31b4d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "閉鎖の決定は、多くの利用者にとって残念な知らせとなりました。ウィキニュースは、中立的な視点から多様な情報を提供し、市民ジャーナリズムの発展に貢献してきたからです。今後、過去の記事はアーカイブとして保存される予定ですが、新たな情報は追加されなくなります。",
+      "translationZh": "关闭的决定对许多用户来说是个遗憾的消息。因为维基新闻以中立的视角提供了多样化的信息，并为市民新闻学的发展做出了贡献。今后，过去的文章将作为档案保存，但不再添加新的信息。",
+      "translationEn": "The decision to close was unfortunate news for many users. This is because Wikinews provided diverse information from a neutral perspective and contributed to the development of citizen journalism. In the future, past articles will be preserved as archives, but no new information will be added.",
+      "id": "2b995777-0989-4cd8-8033-b196dce8f58d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキメディア財団は、ウィキペディアなど他のプロジェクトへのリソース集中を図るため、今回の決断に至ったと説明しています。ウィキニュースの閉鎖は、インターネット上の情報共有のあり方について、改めて考えさせられる出来事と言えるでしょう。",
+      "translationZh": "维基媒体基金会解释说，做出这一决定是为了集中资源到维基百科等其他项目。维基新闻的关闭可以说是一件让我们重新思考互联网信息共享方式的事件。",
+      "translationEn": "The Wikimedia Foundation explained that this decision was made to focus resources on other projects such as Wikipedia. The closure of Wikinews can be said to be an event that makes us reconsider how information is shared on the internet.",
+      "id": "80e20ce4-bfc5-48ad-b668-b6d4c2cefebb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "幕を閉じる",
+      "reading": "まくをとじる",
+      "meaningZh": "落下帷幕，结束",
+      "meaningEn": "to close the curtain, to come to an end",
+      "level": "n3",
+      "exampleSentence": "長い歴史を持つこの商店街も、ついに幕を閉じました。",
+      "id": "b47a4e28-79c0-4bea-9d02-082b6cd121ff"
+    },
+    {
+      "word": "終止符を打つ",
+      "reading": "しゅうしふをうつ",
+      "meaningZh": "画上句号，结束",
+      "meaningEn": "to put an end to, to conclude",
+      "level": "n3",
+      "exampleSentence": "長年の議論に終止符を打つための会議が開かれた。",
+      "id": "97fd0b3d-0bca-4a54-bbb0-26fbd76d81aa"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "会議に多くの人が参加しました。",
+      "id": "f68009e0-c1a4-4edd-acb0-584b081d85a9"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，挑战",
+      "meaningEn": "task, challenge, problem",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには多くの課題があります。",
+      "id": "6f34d372-deed-4379-ab00-8a4828b1bc08"
+    },
+    {
+      "word": "直面する",
+      "reading": "ちょくめんする",
+      "meaningZh": "面对，面临",
+      "meaningEn": "to face, to confront",
+      "level": "n3",
+      "exampleSentence": "私たちは困難な状況に直面しています。",
+      "id": "a527c2d4-c747-4005-96df-778df4e3ddf7"
+    },
+    {
+      "word": "利用者",
+      "reading": "りようしゃ",
+      "meaningZh": "使用者，用户",
+      "meaningEn": "user",
+      "level": "n3",
+      "exampleSentence": "このアプリの利用者は増え続けています。",
+      "id": "cbf3d050-0c37-4654-946b-9a353b41c860"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "地域社会への貢献が評価されました。",
+      "id": "e6362a13-53e6-4018-ad81-6790b2dfd63b"
+    },
+    {
+      "word": "リソース",
+      "reading": "りそーす",
+      "meaningZh": "资源",
+      "meaningEn": "resource",
+      "level": "n3",
+      "exampleSentence": "限られたリソースを有効に活用する必要があります。",
+      "id": "6f4206d4-c61b-49d5-8ef5-27e73b95f302"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィキニュースが閉鎖されることになった主な理由は何ですか？",
+      "options": [
+        "利用者が少なくなったから",
+        "他のニュースサイトに買収されたから",
+        "プロジェクトの継続が困難だと判断されたから",
+        "運営資金がなくなったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「近年は他のニュースサイトとの競争や、活動する編集者の減少など、様々な課題に直面していました。そのため、プロジェクトの継続が困難であると判断されたのです。」と書かれています。",
+      "id": "222d2649-1963-45fb-aa0c-01f664b47dd1"
+    },
+    {
+      "question": "ウィキニュースの閉鎖について、本文ではどのようなことが述べられていますか？",
+      "options": [
+        "今後も新しい記事は追加されるが、過去の記事は削除される。",
+        "21年間の活動に幕を下ろし、今後はアーカイブとして保存される。",
+        "閉鎖は一時的なもので、数年後に再開される予定である。",
+        "利用者の増加により、さらに規模を拡大する予定である。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「21年間にわたる活動に幕が閉じられます。」や「今後、過去の記事はアーカイブとして保存される予定ですが、新たな情報は追加されなくなります。」と書かれています。",
+      "id": "53ab9f6f-0925-40d8-b0d3-afa49e8c140b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": "https://ja.wikinews.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%8121%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%82%92%E9%96%89%E3%81%98%E3%82%8B",
+  "slug": "2026-05-08-21",
+  "publishedAt": "2026-05-08T06:00:00+09:00"
+}
