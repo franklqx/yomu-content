@@ -1,0 +1,143 @@
+{
+  "title": "コンビニスイーツ新商品ラッシュ！今週のおすすめは？",
+  "summary": "最近、コンビニで限定スイーツの新商品が次々と発売されています。今回は、その中でも特に注目すべき商品を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、コンビニのスイーツコーナーは、まるで新しい宝箱みたいに、キラキラした新商品でいっぱいですね。新しい季節になると、コンビニ各社は限定スイーツの新商品を次々と発売します。これは、消費者の「新しいものを試したい」という気持ちを捉えようとしているからでしょう。",
+      "translationZh": "最近，便利店甜点区就像一个崭新的宝箱，摆满了闪闪发光的新商品。每到新季节，各便利店公司就会接二连三地推出限定新品甜点。这大概是为了抓住消费者“想尝试新东西”的心情吧。",
+      "translationEn": "Recently, the sweets corner at convenience stores is full of sparkling new products, just like a treasure chest. With every new season, convenience store chains release a series of new limited-edition sweets. This is likely to capture consumers' desire to 'try something new'.",
+      "id": "ed442499-7991-474e-b3c9-94deadcaf1c1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目したいのは、有名パティスリーとのコラボ商品です。有名店が監修しただけあって、素材の味を活かした本格的な味わいが楽しめます。以前から気になっていたお店の味を、手軽にコンビニで試せるのは嬉しい限りです。",
+      "translationZh": "特别值得关注的是与知名糕点店合作推出的商品。毕竟是由名店监修的，可以品尝到充分发挥食材原味的、正宗的味道。能轻松地在便利店尝试到自己一直以来很在意的那家店的味道，真是太开心了。",
+      "translationEn": "What's particularly noteworthy are the collaboration products with famous patisseries. As they are supervised by famous shops, you can enjoy authentic flavors that make the most of the ingredients' taste. It's a great joy to be able to easily try the taste of a shop you've been curious about at a convenience store.",
+      "id": "a16fa0ea-6c0e-41cb-a497-85ae3447e304",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、季節限定のフルーツを使ったスイーツも外せません。例えば、いちごや桃など、旬のフルーツをふんだんに使ったケーキやタルトは、見た目も華やかで、食べる前からワクワクします。これらを食べると、季節の移り変わりをより一層感じることができますね。",
+      "translationZh": "此外，使用当季限定水果制作的甜点也不容错过。例如，大量使用当季水果（如草莓、桃子）制作的蛋糕或挞，外观也很华丽，还没吃就让人感到兴奋。吃了这些，更能深刻地感受到季节的更迭。",
+      "translationEn": "Also, sweets made with seasonal fruits are a must-try. For example, cakes and tarts made abundantly with seasonal fruits like strawberries and peaches are visually appealing and exciting even before you eat them. Eating these allows you to feel the change of seasons even more.",
+      "id": "a93def87-ba26-42c7-a71a-4822a077ed74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニスイーツは、価格も手頃なので、色々な種類を試しやすいのが魅力です。新しい商品が出ると、つい足を運んでしまいます。皆さんも、お気に入りのコンビニで、新しいスイーツとの出会いを楽しんでみませんか？",
+      "translationZh": "便利店甜点的价格也很实惠，所以可以轻松尝试各种种类，这也是其魅力所在。一有新品上市，就不自觉地想去逛逛。大家不也一起去常去的便利店，享受与新甜点的邂逅吗？",
+      "translationEn": "Convenience store sweets are also affordable, making it easy to try various kinds, which is part of their appeal. When new products are released, you can't help but visit. Why don't you also enjoy discovering new sweets at your favorite convenience store?",
+      "id": "c7591eab-9996-4a12-b9ed-28e5282543ab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "次々と",
+      "reading": "つぎつぎと",
+      "meaningZh": "接二连三地，一批又一批地",
+      "meaningEn": "one after another, in succession",
+      "level": "n3",
+      "exampleSentence": "新しい商品が次々と発売される。",
+      "id": "969bebab-ca0d-4db6-a0af-b39710fafd0a"
+    },
+    {
+      "word": "監修",
+      "reading": "かんしゅう",
+      "meaningZh": "监修，监督指导",
+      "meaningEn": "supervision, editing",
+      "level": "n3",
+      "exampleSentence": "有名シェフが監修したレシピ。",
+      "id": "6ad43fd2-75c4-466f-ad41-35545980c73a"
+    },
+    {
+      "word": "素材",
+      "reading": "そざい",
+      "meaningZh": "材料，素材",
+      "meaningEn": "material, ingredient",
+      "level": "n3",
+      "exampleSentence": "新鮮な素材を使った料理。",
+      "id": "06a72afd-9330-4c59-8276-4d0dd1c7c63f"
+    },
+    {
+      "word": "本格的",
+      "reading": "ほんかくてき",
+      "meaningZh": "正宗的，地道的",
+      "meaningEn": "authentic, genuine",
+      "level": "n3",
+      "exampleSentence": "本格的なイタリア料理を味わう。",
+      "id": "496e7372-d899-494f-a5a2-121a63eecc05"
+    },
+    {
+      "word": "手軽に",
+      "reading": "てがるに",
+      "meaningZh": "轻易地，方便地",
+      "meaningEn": "easily, readily",
+      "level": "n3",
+      "exampleSentence": "手軽に買えるお菓子。",
+      "id": "d31fd062-051f-4856-91c0-209ad762b85d"
+    },
+    {
+      "word": "ふんだんに",
+      "reading": "ふんだんに",
+      "meaningZh": "大量地，丰富地",
+      "meaningEn": "abundantly, plentifully",
+      "level": "n3",
+      "exampleSentence": "果物をふんだんに使ったデザート。",
+      "id": "62d80e82-3d49-444c-b67d-6103d1469091"
+    },
+    {
+      "word": "華やか",
+      "reading": "はなやか",
+      "meaningZh": "华丽的，鲜艳的",
+      "meaningEn": "gorgeous, brilliant, showy",
+      "level": "n3",
+      "exampleSentence": "華やかな装飾が施された会場。",
+      "id": "ca776fe8-12f2-4520-b6d9-ed3cb6930811"
+    },
+    {
+      "word": "一層",
+      "reading": "いっそう",
+      "meaningZh": "更加，越发",
+      "meaningEn": "more, further",
+      "level": "n3",
+      "exampleSentence": "この服を着ると、一層おしゃれに見える。",
+      "id": "fc11ee29-48a0-4fe3-9331-cacd29ef2d2f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニのスイーツコーナーで新商品が多く見られるのは、どのような理由からですか？",
+      "options": [
+        "新しい季節になったから",
+        "消費者の「新しいものを試したい」という気持ちを捉えようとしているから",
+        "有名パティスリーが協力しているから",
+        "値段が安くなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「これは、消費者の「新しいものを試したい」という気持ちを捉えようとしているからでしょう。」",
+      "id": "38534bcb-ca31-4800-b2dc-0f4bee2a9a2b"
+    },
+    {
+      "question": "季節限定のフルーツを使ったスイーツの魅力は何ですか？",
+      "options": [
+        "値段が安いこと",
+        "有名シェフが監修していること",
+        "見た目が華やかで、季節を感じられること",
+        "保存期間が長いこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "「例えば、いちごや桃など、旬のフルーツをふんだんに使ったケーキやタルトは、見た目も華やかで、食べる前からワクワクします。これらを食べると、季節の移り変わりをより一層感じることができますね。」",
+      "id": "e4ba1196-da89-4310-8e16-a54d23dddca7"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-09-2caae4166c",
+  "publishedAt": "2026-05-09T06:00:00+09:00"
+}

@@ -1,0 +1,130 @@
+{
+  "title": "コンビニの新作スイーツ！",
+  "summary": "コンビニで新しいおいしいお菓子がたくさん出ました。ぜひ試してみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コンビニでは、新しいお菓子がたくさん売られています。特に夏は、おいしいスイーツが次々と登場します。チョコレート、アイスクリーム、ケーキなど、種類も豊富です。これは、コンビニ限定の商品が多いからです。",
+      "translationZh": "便利店里卖着很多新点心。特别是夏天，美味的甜点接二连三地登场。有巧克力、冰淇淋、蛋糕等，种类也很丰富。这是因为有很多便利店限定的商品。",
+      "translationEn": "Convenience stores sell many new sweets. Especially in summer, delicious desserts appear one after another. There are many types, such as chocolate, ice cream, and cake. This is because many products are limited to convenience stores.",
+      "id": "d1419883-21a1-480e-b0c8-99fd63c792c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、特に人気があるのは、フルーツを使ったスイーツです。例えば、いちごやぶどうのタルト、マンゴーのムースなどがあります。見た目もきれいで、写真に撮りたくなります。味もとても良いです。",
+      "translationZh": "最近特别受欢迎的是使用水果的甜点。例如，有草莓和葡萄的挞，还有芒果慕斯等。外观也很漂亮，让人想拍照。味道也非常好。",
+      "translationEn": "Recently, sweets using fruits are particularly popular. For example, there are strawberry and grape tarts, and mango mousse. They look beautiful and make you want to take pictures. The taste is also very good.",
+      "id": "c2867e74-6156-4bbd-9702-21f6ee246fc0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しいスイーツは、期間限定のものも多いです。だから、食べたいと思ったら、早く買いに行く必要があります。友達と一緒にお店に行って、好きなスイーツを選ぶのも楽しいでしょう。",
+      "translationZh": "这些新点心很多都是限时销售的。所以，如果想吃的话，需要赶快去买。和朋友一起去店里，选择喜欢的点心，也会很开心。",
+      "translationEn": "Many of these new sweets are also available for a limited time. Therefore, if you want to eat them, you need to go and buy them quickly. It would also be fun to go to the store with friends and choose your favorite sweets.",
+      "id": "0c79dd39-6bbf-4cdb-b4d0-70ffc76b9428",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニのスイーツは、値段も手頃で、手軽に楽しめます。仕事帰りや学校帰りに、自分へのご褒美として買う人も多いです。新しい味を試すのは、ワクワクしますね。",
+      "translationZh": "便利店的甜点价格也很实惠，可以轻松享用。很多人在工作或放学回家后，会买来作为给自己的奖励。尝试新口味，让人感到兴奋。",
+      "translationEn": "Convenience store sweets are also affordable and easy to enjoy. Many people buy them as a reward for themselves after work or school. Trying new flavors is exciting.",
+      "id": "d5a475c6-db73-4d6c-9258-ec76df3e4ce3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コンビニ",
+      "reading": "こんびに",
+      "meaningZh": "便利店",
+      "meaningEn": "convenience store",
+      "level": "n5n4",
+      "exampleSentence": "コンビニで水を買いました。",
+      "id": "e66771dd-36f3-414b-a71e-d949daa4f0bf"
+    },
+    {
+      "word": "新商品",
+      "reading": "しんしょうひん",
+      "meaningZh": "新商品",
+      "meaningEn": "new product",
+      "level": "n5n4",
+      "exampleSentence": "この新商品は人気があります。",
+      "id": "94a15f65-4ed6-4e76-b8ce-31f25b98c469"
+    },
+    {
+      "word": "スイーツ",
+      "reading": "すいーつ",
+      "meaningZh": "甜点",
+      "meaningEn": "sweets/dessert",
+      "level": "n5n4",
+      "exampleSentence": "私は甘いスイーツが好きです。",
+      "id": "5fa3ddea-a6be-43f1-a0b4-77dd95e4a251"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaningZh": "登场，出现",
+      "meaningEn": "appearance, debut",
+      "level": "n3",
+      "exampleSentence": "新しいキャラクターが登場しました。",
+      "id": "9de8a68d-1d5a-457c-99de-d660292d3472"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningEn": "type, kind",
+      "level": "n5n4",
+      "exampleSentence": "この店にはたくさんの種類があります。",
+      "id": "bbf03df2-854c-453e-88eb-4f64fd643d9e"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n3",
+      "exampleSentence": "これは日本限定のバージョンです。",
+      "id": "56746e1a-eeae-4625-8805-a320d84b5a67"
+    },
+    {
+      "word": "期間限定",
+      "reading": "きかんげんてい",
+      "meaningZh": "限时",
+      "meaningEn": "limited time",
+      "level": "n3",
+      "exampleSentence": "このキャンペーンは期間限定です。",
+      "id": "98b319f0-baf7-441e-b823-b2bc36ec082b"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格适中，实惠",
+      "meaningEn": "reasonable price, affordable",
+      "level": "n3",
+      "exampleSentence": "このレストランは手頃な値段です。",
+      "id": "fb30530b-2892-458d-a173-070b90dbe81b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニの新しいスイーツは、いつ頃たくさん出ますか？",
+      "options": [
+        "冬",
+        "春",
+        "夏",
+        "秋"
+      ],
+      "correctIndex": 2,
+      "explanation": "特に夏は、おいしいスイーツが次々と登場します。",
+      "id": "3ca85923-3ae0-45a0-9c96-9a62dd24f385"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-09-2caae4166c",
+  "publishedAt": "2026-05-09T06:00:00+09:00"
+}

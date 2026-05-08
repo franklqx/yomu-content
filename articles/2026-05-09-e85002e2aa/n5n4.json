@@ -1,0 +1,122 @@
+{
+  "title": "夜行バスで旅！",
+  "summary": "夜行バスは安くて便利です。若者はよく利用します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で夜行バスを使った旅行が人気です。夜行バスは、夜にバスに乗って、朝に目的地に着く方法です。寝ている間に移動できるので、時間のむだがありません。",
+      "translationZh": "最近，年轻人中间，乘坐夜间巴士的旅行很受欢迎。夜间巴士是晚上乘坐巴士，早上到达目的地的旅行方式。因为可以在睡觉的时候移动，所以没有时间浪费。",
+      "translationEn": "Recently, travel using overnight buses has become popular among young people. An overnight bus is a way to travel by bus at night and arrive at your destination in the morning. You can travel while you sleep, so there is no wasted time.",
+      "id": "b3cf4d03-8786-43a2-a835-4de3d903bb94",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスのいちばんのりょうは、値段が安いことです。飛行機や新幹線とくらべると、ずっと安いです。だから、お金をあまり持っていない学生さんにも利用しやすいです。",
+      "translationZh": "夜间巴士最大的优点是价格便宜。和飞机或新干线相比，便宜很多。所以，即使是没有多少钱的学生也很容易利用。",
+      "translationEn": "The biggest advantage of overnight buses is that the price is cheap. Compared to airplanes or bullet trains, it is much cheaper. Therefore, it is easy for students who do not have much money to use.",
+      "id": "2470d214-caa2-49de-ba1f-9b40fb893d98",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、夜行バスはホテルの代わりにもなります。夜、バスで寝れば、一泊分のホテル代を節約できます。これは、格安旅行をしたい人にとって、とてもうれしいポイントです。",
+      "translationZh": "而且，夜间巴士也可以代替酒店。晚上在巴士上睡觉，可以节省一晚的酒店费用。这对想进行经济旅行的人来说，是非常令人高兴的一点。",
+      "translationEn": "Also, overnight buses can serve as a substitute for hotels. If you sleep on the bus at night, you can save the cost of one night's hotel stay. This is a very happy point for people who want to travel cheaply.",
+      "id": "8931969d-cf07-4528-aa5a-550cd4d6d326",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、夜行バスは時間がかかります。でも、旅の途中で景色を見たり、友達と話したりするのも楽しい時間になります。次の日、目的地で元気に活動できます。",
+      "translationZh": "当然，夜间巴士需要花费时间。但是，在旅途中看风景，和朋友聊天，也会成为快乐的时光。第二天，可以在目的地精神饱满地活动。",
+      "translationEn": "Of course, overnight buses take time. However, seeing the scenery during the trip and talking with friends also becomes a fun time. The next day, you can be energetic and active at your destination.",
+      "id": "530a7f86-7626-4454-9b4a-b9934db5eb3d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夜行バス",
+      "reading": "やこうバス",
+      "meaningZh": "夜间巴士",
+      "meaningEn": "overnight bus",
+      "level": "n5n4",
+      "exampleSentence": "夜行バスで大阪に行きました。",
+      "id": "6ece8fc0-17a9-475f-9a6a-386af872c2d3"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいことが好きです。",
+      "id": "2e9b3508-eb14-4f16-ab88-c2112f812722"
+    },
+    {
+      "word": "格安",
+      "reading": "かくやす",
+      "meaningZh": "廉价，便宜",
+      "meaningEn": "cheap, inexpensive",
+      "level": "n5n4",
+      "exampleSentence": "格安なホテルを見つけました。",
+      "id": "45bf44f5-56cc-45d0-9479-7fce0aeba12d"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "5e5d915f-895e-4945-bbcb-0ca4eacbdc6a"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用",
+      "meaningEn": "use, utilize",
+      "level": "n5n4",
+      "exampleSentence": "バスを利用して学校へ行きます。",
+      "id": "4394eb06-7c87-4b27-8706-b3da9f59c535"
+    },
+    {
+      "word": "節約",
+      "reading": "せつやく",
+      "meaningZh": "节约",
+      "meaningEn": "saving, economizing",
+      "level": "n3",
+      "exampleSentence": "電気代を節約するために、こまめに電気を消します。",
+      "id": "2c2fa1d8-928a-4ce4-b85c-b684f7897fa9"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningZh": "目的",
+      "meaningEn": "purpose, objective",
+      "level": "n5n4",
+      "exampleSentence": "旅行の目的は何ですか。",
+      "id": "c69fd552-1d87-43a9-8b54-28581d791f51"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "夜行バスは、なぜ若者に人気がありますか。",
+      "options": [
+        "値段が高くて、特別な気分になれるから。",
+        "時間がかかりすぎるから。",
+        "値段が安くて、ホテルの代わりにもなるから。",
+        "車酔いしやすいから。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「夜行バスのいちばんのりょうは、値段が安いことです。」と「夜行バスはホテルの代わりにもなります。」と書いてあります。",
+      "id": "3653931c-144e-43fd-b09d-dbadfa3460de"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-09-e85002e2aa",
+  "publishedAt": "2026-05-09T06:00:00+09:00"
+}

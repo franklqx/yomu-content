@@ -1,0 +1,134 @@
+{
+  "title": "ウィキニュース、21年の歴史に幕",
+  "summary": "ウィキメディア財団が、ニュースサイト「ウィキニュース」の全言語版を閉鎖することを決定しました。21年間の歴史に終止符が打たれることになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ニュースサイト「ウィキニュース」が、21年の歴史に幕を下ろすことになりました。ウィキメディア財団は、このプロジェクトを終了させることを最終決定しました。これは、多くの人々が情報を共有し、ニュースを作成してきたプラットフォームにとって、大きな変化です。",
+      "translationZh": "新闻网站“维基新闻”将为21年的历史画上句号。维基媒体基金会已做出最终决定，将终止该项目。对于许多人们分享信息、创作新闻的平台来说，这是一个重大的变化。",
+      "translationEn": "The news site \"Wikinews\" will close its curtains after 21 years of history. The Wikimedia Foundation has made the final decision to terminate this project. This is a major change for a platform where many people have shared information and created news.",
+      "id": "f5a75bf3-3a01-4de4-8885-346dc032a709",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "財団の理事会は、この決定に至るまでに様々な要因を検討したと発表しています。例えば、プロジェクトの継続が困難になったことや、他の情報源との重複などが理由として挙げられました。そのため、2026年5月3日をもって、全ての言語版のサイトが閉鎖される予定です。",
+      "translationZh": "基金会理事会宣布，在做出此决定之前，他们考虑了各种因素。例如，项目持续运营变得困难以及与其他信息来源的重叠等都被列为理由。因此，所有语言版本的网站预计将于2026年5月3日关闭。",
+      "translationEn": "The Foundation's board of trustees announced that they considered various factors before reaching this decision. For example, difficulties in continuing the project and overlap with other information sources were cited as reasons. Therefore, all language versions of the site are scheduled to be closed as of May 3, 2026.",
+      "id": "3cdb9400-194c-4d3d-8375-6c78422ac784",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ウィキニュースは、誰でも参加できるオープンなニュースサイトとして運営されてきました。しかし、近年は新しい記事の投稿が減少し、活動が停滞していました。このような状況を考慮し、財団は閉鎖という判断を下さざるを得なかったようです。",
+      "translationZh": "维基新闻作为一个任何人都可以参与的开放新闻网站进行运营。然而，近年来新文章的发布减少，活动陷入停滞。考虑到这种情况，基金会似乎不得不做出关闭的决定。",
+      "translationEn": "Wikinews has operated as an open news site that anyone can participate in. However, in recent years, the posting of new articles has decreased, and activities have stagnated. Considering this situation, the Foundation seems to have had no choice but to make the decision to close it.",
+      "id": "44f01647-475c-44fe-a81f-5064a061c225",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この閉鎖は、インターネット上の情報共有のあり方について、改めて考えさせられる出来事です。ウィキニュースが果たしてきた役割や、その歴史は、多くの人々の記憶に残ることでしょう。",
+      "translationZh": "这次关闭事件，不禁让人重新思考互联网上信息分享的方式。维基新闻所扮演的角色及其历史，想必会留在许多人的记忆中。",
+      "translationEn": "This closure is an event that makes us re-examine the way information is shared on the internet. The role Wikinews has played and its history will surely remain in the memories of many people.",
+      "id": "0d3fe3c6-209d-41b7-ac75-1e06f684361b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "幕を下ろす",
+      "reading": "まくをおろす",
+      "meaningZh": "结束，落幕",
+      "meaningEn": "to close the curtain, to end",
+      "level": "n3",
+      "exampleSentence": "長い歴史を持つこの会社も、ついに幕を下ろしました。",
+      "id": "e2597cab-34d1-4cda-9124-098cbc648e4d"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "项目",
+      "meaningEn": "project",
+      "level": "n3",
+      "exampleSentence": "新しいプロジェクトの計画を立てています。",
+      "id": "3d9573a7-d228-4559-858d-d6f665cd76c5"
+    },
+    {
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaningZh": "继续，持续",
+      "meaningEn": "continuation, to continue",
+      "level": "n3",
+      "exampleSentence": "この計画の継続は難しいかもしれません。",
+      "id": "39dbe901-8e90-4daa-a1bb-9e706f3c2a8e"
+    },
+    {
+      "word": "要因",
+      "reading": "よういん",
+      "meaningZh": "因素",
+      "meaningEn": "factor, cause",
+      "level": "n3",
+      "exampleSentence": "成功の要因は何だと思いますか？",
+      "id": "d7d1fdcd-8fb9-4371-bfcf-078f69026022"
+    },
+    {
+      "word": "重複",
+      "reading": "じゅうふく",
+      "meaningZh": "重复，重叠",
+      "meaningEn": "repetition, overlap",
+      "level": "n3",
+      "exampleSentence": "レポートの内容に重複がないか確認してください。",
+      "id": "ebc1f576-b41b-4b71-9fdc-172ef38ffd8d"
+    },
+    {
+      "word": "投稿",
+      "reading": "とうこう",
+      "meaningZh": "投稿，发布",
+      "meaningEn": "posting, contribution",
+      "level": "n3",
+      "exampleSentence": "ブログに新しい記事を投稿しました。",
+      "id": "9f966ea6-d457-4e72-9365-895ada2e0f93"
+    },
+    {
+      "word": "停滞",
+      "reading": "ていたい",
+      "meaningZh": "停滞，不前",
+      "meaningEn": "stagnation, to stagnate",
+      "level": "n3",
+      "exampleSentence": "経済の停滞が続いています。",
+      "id": "19fc045d-c8d1-4758-a4ff-d6c533fbb87a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィキニュースはいつ閉鎖される予定ですか？",
+      "options": [
+        "2026年3月30日",
+        "2026年5月3日",
+        "2005年1月1日",
+        "すぐに閉鎖される"
+      ],
+      "correctIndex": 1,
+      "explanation": "財団の理事会は、2026年5月3日をもって、全ての言語版のサイトが閉鎖される予定であると発表しました。",
+      "id": "592972d7-9fb7-4765-9fd9-6e7e631b5e00"
+    },
+    {
+      "question": "ウィキニュースの閉鎖の理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "新しいロゴが採用されなかったから",
+        "サイトがハッキングされたから",
+        "新しい記事の投稿が減少し、活動が停滞していたから",
+        "ウィキメディア財団がなくなったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「近年は新しい記事の投稿が減少し、活動が停滞していました。このような状況を考慮し、財団は閉鎖という判断を下さざるを得なかったようです。」と書かれています。",
+      "id": "d07e9c33-cf96-430d-9f8a-250a820f6ca0"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": "https://ja.wikinews.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%8121%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%82%92%E9%96%89%E3%81%98%E3%82%8B",
+  "slug": "2026-05-09-21",
+  "publishedAt": "2026-05-09T06:00:00+09:00"
+}
