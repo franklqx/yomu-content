@@ -1,0 +1,122 @@
+{
+  "title": "若者の移住を応援！",
+  "summary": "若い人が田舎で生活するのを応援する制度があります。この制度がもっと良くなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、若い人が町から田舎へ住む場所を変えるのを助ける制度があります。この制度は、田舎の人口が減るのを防ぐためです。そして、田舎の元気を出すためでもあります。",
+      "translationZh": "日本有一个制度，帮助年轻人将居住地从城市迁移到乡村。这个制度是为了防止乡村人口减少，也是为了让乡村重现活力。",
+      "translationEn": "In Japan, there is a system to help young people change their living place from cities to the countryside. This system is to prevent the rural population from decreasing and to revitalize rural areas.",
+      "id": "5a336ebd-5a67-4858-83ef-056041126ec6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度は、引っ越しのお金や、新しい仕事を見つけるのを手伝います。また、住む家がない人のために、安い家を紹介することもあります。多くの若い人がこの制度を利用しています。",
+      "translationZh": "这个制度会帮助支付搬家费用，并协助找到新工作。对于没有住处的人，也会介绍便宜的房子。许多年轻人利用了这个制度。",
+      "translationEn": "This system helps with moving expenses and finding new jobs. It also introduces affordable housing for those who don't have a place to live. Many young people have used this system.",
+      "id": "a52d7bc8-13ad-4449-81e4-90629e51f228",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、この制度を見直す動きがあります。もっと多くの若い人が来やすいように、制度を簡単にするかもしれません。例えば、必要な書類を少なくしたり、もっと仕事の情報を集めたりすることが考えられます。",
+      "translationZh": "最近，有在检视这个制度的动向。为了让更多年轻人更容易来，可能会简化制度。例如，可以考虑减少所需文件，或收集更多工作信息。",
+      "translationEn": "Recently, there is a move to review this system. To make it easier for more young people to come, the system might be simplified. For example, reducing the required documents or gathering more job information can be considered.",
+      "id": "48c46b1f-fe90-4fca-b8fd-c9e66ddc9057",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "田舎での新しい生活は、大変なこともありますが、楽しいこともたくさんあります。この制度が良くなることで、もっと多くの人が田舎で暮らすことを選ぶようになるでしょう。",
+      "translationZh": "在乡村的新生活，虽然有辛苦的地方，但也有很多快乐。随着这个制度的改善，应该会有更多人选择在乡村生活。",
+      "translationEn": "New life in the countryside can be challenging, but there are also many enjoyable aspects. By improving this system, more people will likely choose to live in rural areas.",
+      "id": "a7977f28-e495-427f-815e-4dce4bacd3be",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若い人",
+      "reading": "わかいひと",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若い人が田舎に行きます。",
+      "id": "706e5029-8242-4362-9e31-21c25afaf5a8"
+    },
+    {
+      "word": "田舎",
+      "reading": "いなか",
+      "meaningZh": "乡村，老家",
+      "meaningEn": "countryside, rural area",
+      "level": "n5n4",
+      "exampleSentence": "田舎は静かです。",
+      "id": "19ff38f1-16af-4938-a9e7-9d3bf65cf536"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n3",
+      "exampleSentence": "新しい制度が始まりました。",
+      "id": "b9004350-b63e-4fc8-8fb2-858e5f4d7dbd"
+    },
+    {
+      "word": "人口",
+      "reading": "じんこう",
+      "meaningZh": "人口",
+      "meaningEn": "population",
+      "level": "n3",
+      "exampleSentence": "この町の人口は少ないです。",
+      "id": "50c84a6d-fb50-4887-b3e6-0314794cb309"
+    },
+    {
+      "word": "応援する",
+      "reading": "おうえんする",
+      "meaningZh": "支持，声援",
+      "meaningEn": "to support, to cheer for",
+      "level": "n5n4",
+      "exampleSentence": "先生が私を応援してくれました。",
+      "id": "02718af1-9260-4458-bfd1-025d45a47755"
+    },
+    {
+      "word": "見直す",
+      "reading": "みなおす",
+      "meaningZh": "重新审视，修正",
+      "meaningEn": "to review, to reconsider",
+      "level": "n3",
+      "exampleSentence": "計画を見直す必要があります。",
+      "id": "da4b4954-afa5-428f-89fd-6901f428d57e"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaningZh": "简单",
+      "meaningEn": "easy, simple",
+      "level": "n5n4",
+      "exampleSentence": "この問題は簡単です。",
+      "id": "55993e84-b969-4868-9e0e-fe079757b502"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、若い人が田舎に移住するのを助ける制度は何のためですか？",
+      "options": [
+        "新しいお店をたくさん作るため",
+        "田舎の人口が減るのを防ぎ、元気を出すため",
+        "有名な観光地を増やすため",
+        "大学を田舎に建てるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この制度は、田舎の人口が減るのを防ぐためです。そして、田舎の元気を出すためでもあります。」",
+      "id": "01e904cf-f18b-4993-98d1-2f102f0079e7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-10-064b73f043",
+  "publishedAt": "2026-05-10T06:00:00+09:00"
+}

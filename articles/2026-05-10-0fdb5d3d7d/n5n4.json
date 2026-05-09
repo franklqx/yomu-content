@@ -1,0 +1,122 @@
+{
+  "title": "電気自動車をもっと便利に",
+  "summary": "電気自動車（EV）が増えています。充電をもっと簡単にできるように、充電器がたくさん作られています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）をよく見かけます。EVは、ガソリンではなく電気で走ります。空気もきれいになりますし、音も静かです。",
+      "translationZh": "最近，我们经常能看到电动汽车（EV）。EV不是用汽油，而是用电驱动。它能让空气变干净，而且声音也很安静。",
+      "translationEn": "Recently, we often see electric vehicles (EVs). EVs run on electricity, not gasoline. The air becomes cleaner, and the sound is quiet.",
+      "id": "8b38587b-686e-43c1-9c73-df5b6dd97fb6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、EVを使うとき、充電が必要です。遠い場所へ行くときや、急いでいるとき、充電に時間がかかると困ります。そこで、速く充電できる充電器がたくさん必要になっています。",
+      "translationZh": "但是，使用EV时需要充电。去远方或者着急的时候，如果充电需要很长时间会很麻烦。因此，需要很多能快速充电的充电器。",
+      "translationEn": "However, when using an EV, charging is necessary. It's inconvenient if charging takes a long time when going to a distant place or when in a hurry. Therefore, many chargers that can charge quickly are needed.",
+      "id": "82cfad8c-e75b-4014-8145-c1cc1650fe50",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "日本でも、たくさんの会社が急速充電器を作っています。高速道路のサービスエリアや、大きなショッピングセンターなどに、新しい充電器がたくさん設置されました。",
+      "translationZh": "在日本，很多公司也在制造快速充电器。在高速公路的服务区、大型购物中心等地，新设了很多充电器。",
+      "translationEn": "In Japan too, many companies are making rapid chargers. Many new chargers have been installed at highway service areas and large shopping centers.",
+      "id": "4273f296-55e1-4cef-96e1-f6aa28bb5dad",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これで、EVをもっと安心して、どこへでも行けるようになります。これからも、充電の場所が増えて、EVの生活がもっと便利になるでしょう。",
+      "translationZh": "这样一来，使用EV就能更安心地去任何地方了。今后，充电地点会增加，EV的生活也会变得更加便利。",
+      "translationEn": "This will allow people to go anywhere with more peace of mind using EVs. In the future, charging locations will increase, and life with EVs will become more convenient.",
+      "id": "f956763f-a45b-402f-8082-4f100ec41179",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "Electric Vehicle (EV)",
+      "level": "n5n4",
+      "exampleSentence": "電気自動車は環境に良いです。",
+      "id": "60969c1e-3bbe-43ce-b5a6-11f55a3185b2"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "Rapid charger",
+      "level": "n5n4",
+      "exampleSentence": "急速充電器はとても速いです。",
+      "id": "8b16b6fb-e95b-449d-a3f5-77903fc4c003"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "Convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "3d274fe8-82da-4c7e-b911-da67b4dbcb7c"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaningZh": "公司",
+      "meaningEn": "Company",
+      "level": "n5n4",
+      "exampleSentence": "彼は大きな会社で働いています。",
+      "id": "11d7e2b1-453e-46ff-b77a-201efcc57db4"
+    },
+    {
+      "word": "設置",
+      "reading": "せっち",
+      "meaningZh": "设置，安装",
+      "meaningEn": "Installation, setting up",
+      "level": "n5n4",
+      "exampleSentence": "新しい机を教室に設置しました。",
+      "id": "b076745e-4cf8-4579-a116-7006c9d1f40b"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "To increase",
+      "level": "n5n4",
+      "exampleSentence": "生徒の数が少し増えました。",
+      "id": "4ddd3e1a-c247-4d52-995a-be9ad779fde0"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "Relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "連絡があったので安心しました。",
+      "id": "27e75a19-1186-447a-a6f2-b7dd1b097c48"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "電気自動車（EV）をもっと便利にするために、何が増えていますか。",
+      "options": [
+        "ガソリンスタンド",
+        "速い充電器",
+        "静かなエンジン",
+        "便利なガソリン車"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「そこで、速く充電できる充電器がたくさん必要になっています。」と書かれています。",
+      "id": "d66bbe1b-a7d1-46a6-95f9-bf0268147a61"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-10-0fdb5d3d7d",
+  "publishedAt": "2026-05-10T06:00:00+09:00"
+}

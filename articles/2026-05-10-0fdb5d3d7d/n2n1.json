@@ -1,0 +1,147 @@
+{
+  "title": "EV急速充電網、全国で拡充へ",
+  "summary": "電気自動車（EV）の普及を後押しするため、急速充電インフラの整備が全国的に進められています。これにより、長距離移動の利便性向上が期待されます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、環境意識の高まりとともに、電気自動車（EV）の普及が世界的に進んでいます。これに伴い、EVの利用を促進する上で不可欠となる急速充電インフラの拡充が、日本国内でも急務となっています。政府は、2030年までにEVの販売比率を大幅に引き上げる目標を掲げており、その達成のためには、高速道路のサービスエリアや道の駅、都市部を中心に、より多くの設置場所を確保することが求められています。",
+      "translationZh": "近年来，随着环保意识的提高，电动汽车（EV）的普及在全球范围内不断推进。与此同时，为了促进EV的使用，扩大快速充电基础设施也成为了日本国内的当务之急。政府提出了到2030年将EV销量占比大幅提高的目标，为了实现这一目标，需要在高速公路服务区、道の駅以及城市地区等处确保更多的设置地点。",
+      "translationEn": "In recent years, with rising environmental awareness, the adoption of electric vehicles (EVs) has been progressing globally. Accompanying this trend, the expansion of fast-charging infrastructure, which is indispensable for promoting EV usage, has become an urgent priority within Japan. The government has set a goal to significantly increase the proportion of EV sales by 2030, and to achieve this, it is necessary to secure more installation locations, particularly at highway service areas, roadside stations, and in urban centers.",
+      "id": "14f259e5-cd08-4b23-af23-5a3bc1e9e028",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "現在、充電インフラの整備状況は地域によって差が見られ、特に地方部では充電スポットの不足が指摘されています。この課題を克服するため、大手自動車メーカーや電力会社、充電サービス事業者などが連携し、共同で充電網の構築を進める動きが活発化しています。これにより、充電時間の短縮だけでなく、充電場所の予約システムや決済方法の多様化なども図られ、利用者にとっての利便性が一層向上すると見込まれています。",
+      "translationZh": "目前，充电基础设施的整備状况因地区而异，特别是在地方地区，充电点不足的问题尤为突出。为了克服这一挑战，大型汽车制造商、电力公司、充电服务提供商等正积极合作，共同推进充电网络的建设。这不仅有望缩短充电时间，还能实现充电地点的预约系统和多样化的支付方式，从而进一步提高用户便利性。",
+      "translationEn": "Currently, disparities are observed in the development of charging infrastructure depending on the region, with a lack of charging spots being particularly noted in rural areas. To overcome this challenge, a trend of collaboration among major automakers, power companies, and charging service providers is gaining momentum to jointly build a charging network. This is expected to not only reduce charging times but also enhance user convenience through measures such as reservation systems for charging locations and diversification of payment methods.",
+      "id": "035e3180-475e-4324-b453-3687e919bef2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網の拡充は、EVへの乗り換えを検討している消費者にとって、航続距離への不安を軽減する大きな要因となります。また、充電インフラの整備が進むことは、関連産業の発展にも寄与し、新たな雇用創出の可能性も秘めています。持続可能な社会の実現に向け、このインフラ整備が着実に進展していくことが期待されています。",
+      "translationZh": "快速充电网络的扩展，对于正在考虑换购电动汽车的消费者来说，是减轻续航里程焦虑的重要因素。此外，充电基础设施的完善也将促进相关产业的发展，并蕴藏着创造新就业机会的潜力。为了实现可持续发展的社会，人们期待这一基础设施建设能够稳步推进。",
+      "translationEn": "The expansion of the fast-charging network is a significant factor in alleviating range anxiety for consumers considering switching to EVs. Furthermore, the development of charging infrastructure contributes to the growth of related industries and holds the potential for new job creation. Steady progress in this infrastructure development is anticipated as a move towards realizing a sustainable society.",
+      "id": "417cbc93-0840-403a-a84a-59f3d7423156",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩大，扩充",
+      "meaningEn": "expansion, enlargement",
+      "level": "n2n1",
+      "exampleSentence": "インフラの拡充は喫緊の課題だ。",
+      "id": "4d9371b2-cf1e-4ede-b3e3-cfc78679d41c"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, diffusion",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及率が著しく上昇した。",
+      "id": "ec612ab0-804e-4358-932d-8df149a6d3dc"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaningZh": "不可或缺，必需的",
+      "meaningEn": "indispensable, essential",
+      "level": "n2n1",
+      "exampleSentence": "成功のためには努力が不可欠である。",
+      "id": "1b91f0ae-274e-4c95-b5cd-dbaf1cea3fc3"
+    },
+    {
+      "word": "急務",
+      "reading": "きゅうむ",
+      "meaningZh": "急务，紧迫的任务",
+      "meaningEn": "urgent task, pressing matter",
+      "level": "n2n1",
+      "exampleSentence": "この問題の解決は急務となっている。",
+      "id": "a6cf488b-d07b-46c6-aa7a-b538d78f64e7"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "maintenance, development, provision",
+      "level": "n3",
+      "exampleSentence": "交通網の整備が進められている。",
+      "id": "1f55fdf0-4093-4ff2-b9a8-34501c87a166"
+    },
+    {
+      "word": "指摘",
+      "reading": "してき",
+      "meaningZh": "指出，指摘",
+      "meaningEn": "pointing out, indication",
+      "level": "n3",
+      "exampleSentence": "専門家は改善点をいくつか指摘した。",
+      "id": "359c6310-ae55-4851-b6d5-d0a6a134420e"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "合作，联合",
+      "meaningEn": "cooperation, coordination",
+      "level": "n2n1",
+      "exampleSentence": "産学官の連携が重要視されている。",
+      "id": "9367822f-e569-4214-a7de-78f4513b4c13"
+    },
+    {
+      "word": "航続距離",
+      "reading": "こうぞくきょり",
+      "meaningZh": "续航里程",
+      "meaningEn": "cruising range, travel distance on a full charge",
+      "level": "n2n1",
+      "exampleSentence": "EVの航続距離の短さが課題だ。",
+      "id": "f656e74a-267a-4ffa-9888-5a55ddaf7f06"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、急速充電インフラの拡充が急務となっている主な理由は何ですか？",
+      "options": [
+        "充電料金が安くなるため",
+        "EVの普及を促進するため",
+        "自動車メーカーの販売促進のため",
+        "地方部での雇用を増やすため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文冒頭に「EVの普及を促進する上で不可欠となる急速充電インフラの拡充が、日本国内でも急務となっています。」とあります。",
+      "id": "67f75079-26b1-4f41-93da-68b2b231f23c"
+    },
+    {
+      "question": "急速充電網の拡充に向けて、どのような動きが活発化していますか？",
+      "options": [
+        "充電場所の予約システムのみの開発",
+        "地方自治体による独占的なインフラ整備",
+        "大手企業間の連携による共同での充電網構築",
+        "充電時間のさらなる延長"
+      ],
+      "correctIndex": 2,
+      "explanation": "「大手自動車メーカーや電力会社、充電サービス事業者などが連携し、共同で充電網の構築を進める動きが活発化しています。」と述べられています。",
+      "id": "2365b469-0860-49ec-b1b0-1e0f12362bc2"
+    },
+    {
+      "question": "急速充電網の拡充は、消費者にとってどのようなメリットがあると期待されていますか？",
+      "options": [
+        "充電場所の選択肢が減る",
+        "EVの価格が大幅に上昇する",
+        "航続距離への不安が軽減される",
+        "充電に時間がかかるようになる"
+      ],
+      "correctIndex": 2,
+      "explanation": "「急速充電網の拡充は、EVへの乗り換えを検討している消費者にとって、航続距離への不安を軽減する大きな要因となります。」と記されています。",
+      "id": "ce16739c-94a1-4eeb-b45f-781af5c6ea9e"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-10-0fdb5d3d7d",
+  "publishedAt": "2026-05-10T06:00:00+09:00"
+}

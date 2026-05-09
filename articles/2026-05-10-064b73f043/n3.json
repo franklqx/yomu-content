@@ -1,0 +1,126 @@
+{
+  "title": "若者の地方移住、制度見直しでどう変わる？",
+  "summary": "近年、若者の地方移住を支援する制度が注目されていますが、その見直しが進められています。この変化は、地方と都市のあり方にどのような影響を与えるのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都市部への人口集中が続く中、地方の過疎化は深刻な問題となっています。そのため、政府は若者が地方に移住しやすいように、様々な支援制度を設けてきました。例えば、移住費用の補助や、移住先での就職・起業支援などがあります。",
+      "translationZh": "在人口持续集中于城市地区的同时，地方的过度人口减少已成为一个严重问题。因此，政府设立了各种支援制度，以方便年轻人移居到地方。例如，有搬迁费用的补助，以及在移居地就业或创业的支援等。",
+      "translationEn": "As the concentration of population in urban areas continues, the depopulation of rural areas has become a serious problem. Therefore, the government has established various support systems to make it easier for young people to move to rural areas. For example, there are subsidies for moving expenses and support for finding employment or starting a business in the new location.",
+      "id": "42a54a12-231b-484c-a166-0bf1102610c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、これらの制度を利用するには条件があったり、期待したほどの効果が得られなかったりするケースも少なくありませんでした。そこで、より実効性のある支援にするために、制度の見直しが進められています。例えば、移住後の定着率を高めるためのフォローアップ体制の強化や、地域の実情に合わせた柔軟な支援内容への変更などが検討されています。",
+      "translationZh": "然而，要利用这些制度往往伴随着各种条件，而且出现期待效果不如预期的情形也不在少数。因此，为了使支援制度更具实效性，正在推进制度的修订。例如，正在探讨加强移居后稳定定居的后续支持体系，以及根据地区实际情况灵活改变支援内容等。",
+      "translationEn": "However, there have been many cases where utilizing these systems came with conditions, or the expected results were not achieved. Therefore, to make the support more effective, the systems are being revised. For instance, strengthening follow-up systems to increase post-migration retention rates and changing support details flexibly to suit local conditions are being considered.",
+      "id": "34591618-4321-4918-8290-7736c6f76a6e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "制度が見直されることで、若者が地方で新しい生活を始めるきっかけが、より確かなものになることが期待されています。地方創生のためにも、こうした取り組みが成功することが大切です。地域側も、移住者を受け入れる体制を整え、共に発展していく姿勢が求められています。",
+      "translationZh": "随着制度的修订，人们期待年轻人开始地方新生活的契机能够变得更加确实。为了地方的振兴，这些措施的成功也十分重要。地区方面也需要建立接纳移居者的体制，并展现出共同发展的姿态。",
+      "translationEn": "With the revision of the systems, it is expected that the opportunities for young people to start new lives in rural areas will become more concrete. For the revitalization of rural areas, it is important that such initiatives succeed. Local communities are also required to prepare systems to accept new residents and adopt an attitude of developing together.",
+      "id": "030dc30a-e7b2-4e66-acb4-5464b884be2d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "過疎化",
+      "reading": "かそか",
+      "meaningZh": "人口稀少化，人口减少",
+      "meaningEn": "depopulation, sparseness of population",
+      "level": "n3",
+      "exampleSentence": "過疎化が進む農村地域では、後継者不足が深刻です。",
+      "id": "ec279a23-1871-4277-9769-f687855aabe1"
+    },
+    {
+      "word": "移住",
+      "reading": "いじゅう",
+      "meaningZh": "移居，迁居",
+      "meaningEn": "migration, moving (to a different place)",
+      "level": "n3",
+      "exampleSentence": "彼は将来、自然豊かな地方への移住を考えている。",
+      "id": "dac1de40-c804-4e7e-8b2c-0b1f4664f143"
+    },
+    {
+      "word": "補助",
+      "reading": "ほじょ",
+      "meaningZh": "补助，补贴",
+      "meaningEn": "subsidy, grant, assistance",
+      "level": "n3",
+      "exampleSentence": "政府は、再生可能エネルギー導入に補助金を出している。",
+      "id": "5ad96a19-b0e4-4b0c-bd25-80dc7c677d6a"
+    },
+    {
+      "word": "実効性",
+      "reading": "じっこうせい",
+      "meaningZh": "实效性，有效性",
+      "meaningEn": "effectiveness, efficacy",
+      "level": "n2n1",
+      "exampleSentence": "その施策は実効性が高いと評価されている。",
+      "id": "ebdaa156-e6ce-4d91-9510-4e12b058cb12"
+    },
+    {
+      "word": "定着率",
+      "reading": "ていちゃくりつ",
+      "meaningZh": "定居率，留存率",
+      "meaningEn": "retention rate, settlement rate",
+      "level": "n3",
+      "exampleSentence": "移住支援制度の目的は、定着率を上げることだ。",
+      "id": "6ac75471-8d62-471e-9cc6-d1b97c848d76"
+    },
+    {
+      "word": "フォローアップ",
+      "reading": "ふぉろーあっぷ",
+      "meaningZh": "跟进，后续支持",
+      "meaningEn": "follow-up",
+      "level": "n3",
+      "exampleSentence": "新しいシステム導入後、十分なフォローアップが必要です。",
+      "id": "2a5347f7-5b3f-490c-b7c3-02c0b4a6ad79"
+    },
+    {
+      "word": "地方創生",
+      "reading": "ちほうそうせい",
+      "meaningZh": "地方振兴，地方创造",
+      "meaningEn": "regional revitalization, regional development",
+      "level": "n3",
+      "exampleSentence": "地方創生の取り組みは、全国各地で行われている。",
+      "id": "ccd8a04d-4f4c-4c6c-9c03-a47b80610623"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若者の地方移住支援制度が見直される主な理由は何ですか？",
+      "options": [
+        "都市部への移住を促進するため",
+        "支援制度の効果が十分でなかったため",
+        "移住者の増加により、地方が混乱したため",
+        "地方の過疎化が解消されたため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「しかし、これらの制度を利用するには条件があったり、期待したほどの効果が得られなかったりするケースも少なくありませんでした。そこで、より実効性のある支援にするために、制度の見直しが進められています。」と書かれています。",
+      "id": "ccd77198-6913-430f-8821-f974eae3f857"
+    },
+    {
+      "question": "制度見直しの検討事項として、本文で挙げられていることは何ですか？",
+      "options": [
+        "移住者への経済的支援の廃止",
+        "地方から都市への移住者増加策",
+        "移住後の定着率を高めるためのフォローアップ体制の強化",
+        "移住希望者向けの移住体験ツアーの縮小"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「例えば、移住後の定着率を高めるためのフォローアップ体制の強化や、地域の実情に合わせた柔軟な支援内容への変更などが検討されています。」と書かれています。",
+      "id": "4fe79c09-31fd-44af-adb7-c14a5338bc8d"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-10-064b73f043",
+  "publishedAt": "2026-05-10T06:00:00+09:00"
+}

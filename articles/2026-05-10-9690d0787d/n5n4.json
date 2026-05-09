@@ -1,0 +1,122 @@
+{
+  "title": "新しいアートと伝統の出会い",
+  "summary": "現代アートと伝統工芸が一緒になりました。新しい形の美しさを発見しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、面白い展覧会がありました。それは現代アートと伝統工芸のコラボ展です。有名な現代アーティストと、昔からある工芸家が一緒に作品を作りました。",
+      "translationZh": "最近有一个有趣的展览。是现代艺术和传统工艺的合作展。著名的现代艺术家和自古以来就有的工匠一起创作了作品。",
+      "translationEn": "Recently, there was an interesting exhibition. It was a collaboration exhibition of modern art and traditional crafts. Famous modern artists and craftspeople from long ago created works together.",
+      "id": "bf133666-a3df-49eb-a278-a735453f1bb7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、あるアーティストは、古い陶器に新しい色を塗りました。また、ある工芸家は、伝統的な織物に現代的なデザインを取り入れました。どちらもとてもユニークで、新しかったです。",
+      "translationZh": "例如，一位艺术家在古老的陶器上涂上了新的颜色。还有，一位工匠在传统的织物中融入了现代的设计。两者都非常独特，而且很新颖。",
+      "translationEn": "For example, one artist painted new colors on old pottery. Also, one craftsperson incorporated modern designs into traditional weaving. Both were very unique and new.",
+      "id": "158bdc0a-ad02-46bf-807f-bb8beaa92dfb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展覧会は、若い人たちにも人気がありました。古い技術と新しいアイデアが合わさって、新しい美しさが生まれたからです。伝統が大切だと改めて感じました。",
+      "translationZh": "这个展览也很受年轻人的欢迎。因为古老的技术和新的想法结合在一起，诞生了新的美。再次感受到了传统的重要性。",
+      "translationEn": "This exhibition was also popular with young people. This is because old techniques and new ideas combined to create new beauty. I felt again the importance of tradition.",
+      "id": "0a78c9e6-2add-4a41-bcec-af755d6c382d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、このようなコラボレーションに興味がありますか？新しい発見があるかもしれませんよ。",
+      "translationZh": "大家对这样的合作有兴趣吗？可能会有新的发现哦。",
+      "translationEn": "Are you all interested in such collaborations? You might discover something new.",
+      "id": "692b7b38-eb12-4bd9-9149-1c128dc4c367",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "展覧会",
+      "reading": "てんらんかい",
+      "meaningZh": "展览会",
+      "meaningEn": "Exhibition",
+      "level": "n5n4",
+      "exampleSentence": "面白い展覧会を見に行きました。",
+      "id": "f26b20e4-ef48-4b2e-8535-a489c101775c"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaningZh": "现代",
+      "meaningEn": "Modern times",
+      "level": "n5n4",
+      "exampleSentence": "これは現代の建物です。",
+      "id": "198f2bf1-d5df-47c7-8093-4037d2d30c82"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "Tradition",
+      "level": "n5n4",
+      "exampleSentence": "日本の伝統的な文化が好きです。",
+      "id": "9b934dbe-a424-4444-8785-981a87f8b43c"
+    },
+    {
+      "word": "工芸",
+      "reading": "こうげい",
+      "meaningZh": "工艺",
+      "meaningEn": "Crafts",
+      "level": "n3",
+      "exampleSentence": "この工芸品はとてもきれいです。",
+      "id": "620d15e3-b9fc-48b2-bd6d-5ee5d12d61a4"
+    },
+    {
+      "word": "コラボ",
+      "reading": "こらぼ",
+      "meaningZh": "合作",
+      "meaningEn": "Collaboration",
+      "level": "n5n4",
+      "exampleSentence": "二人の歌手がコラボしました。",
+      "id": "345846d7-0949-41c5-ae29-49e0c1da0c5b"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "Technique, skill",
+      "level": "n3",
+      "exampleSentence": "この技術は素晴らしいです。",
+      "id": "afb2064f-f0bd-4543-91c3-b14553755c4b"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "Discovery",
+      "level": "n3",
+      "exampleSentence": "新しい発見がありました。",
+      "id": "3558e895-cda5-40a1-a2bd-5e6ee55db4b7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この展覧会は何と何が一緒になりましたか？",
+      "options": [
+        "現代音楽と伝統舞踊",
+        "現代アートと伝統工芸",
+        "現代文学と伝統絵画",
+        "現代建築と伝統庭園"
+      ],
+      "correctIndex": 1,
+      "explanation": "それは現代アートと伝統工芸のコラボ展です。",
+      "id": "0a4e6212-38ec-40d4-acfc-90fb8da71e5b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-10-9690d0787d",
+  "publishedAt": "2026-05-10T06:00:00+09:00"
+}
