@@ -38,6 +38,31 @@ CATEGORY_TO_ENGLISH: dict[str, str] = {
     "news":     "tokyo skyline",
 }
 
+# 兜底搜索词池子 —— 当主题词搜不到结果时，按 slug hash 选一个不同的 japan-themed 词，
+# 保证大批量 backfill 时各文章不会塌成同一张"japan top result"。
+DIVERSE_FALLBACKS: list[str] = [
+    "tokyo street",
+    "kyoto temple",
+    "osaka night",
+    "japanese garden",
+    "mount fuji",
+    "japan culture",
+    "tokyo subway",
+    "japanese architecture",
+    "japan landscape",
+    "shibuya crossing",
+    "japanese food market",
+    "kyoto autumn",
+    "japan nature",
+    "tokyo skyline",
+    "japan festival",
+    "japanese street",
+    "japan modern",
+    "japan traditional",
+    "tokyo neon",
+    "japan countryside",
+]
+
 
 def fetch_image(
     output: Path,
@@ -76,8 +101,14 @@ def fetch_image(
         qlist.extend(queries)
     if query:
         qlist.append(query)
-    if "japan" not in qlist:
-        qlist.append("japan")
+
+    # 删掉 caller 传的"japan"裸词（之前会塌成同一张图）
+    qlist = [q for q in qlist if (q or "").strip().lower() != "japan"]
+
+    # 末尾追加一个 slug-specific 的多样化兜底（大批量 backfill 时去重的关键）
+    h = int(hashlib.md5(slug.encode("utf-8")).hexdigest(), 16)
+    diverse = DIVERSE_FALLBACKS[h % len(DIVERSE_FALLBACKS)]
+    qlist.append(diverse)
 
     for q in qlist:
         q = (q or "").strip()
