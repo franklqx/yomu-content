@@ -32,19 +32,42 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 ARTICLES_ROOT = REPO_ROOT / "articles"
 
 
-def best_query(folder: Path) -> str:
-    """从文件夹里第一个能读的 tier JSON 取 title 当搜索词。"""
+def best_queries(folder: Path) -> list[str]:
+    """优先用 vocab 的英文释义（最贴近文章内容），次用 title。"""
+    queries: list[str] = []
     for tier in ["n3", "n5n4", "n2n1"]:
         f = folder / f"{tier}.json"
-        if f.exists():
-            try:
-                data = json.loads(f.read_text("utf-8"))
-                title = (data.get("title") or "").strip()
-                if title:
-                    return title
-            except Exception as e:
-                log.warning("Cannot parse %s: %s", f, e)
-    return folder.name
+        if not f.exists():
+            continue
+        try:
+            data = json.loads(f.read_text("utf-8"))
+        except Exception as e:
+            log.warning("Cannot parse %s: %s", f, e)
+            continue
+
+        # 1) 抽前 3 个非动词 vocab 的英文释义
+        kws: list[str] = []
+        for v in data.get("vocabulary", []):
+            m = (v.get("meaningEn") or "").strip()
+            if not m or m.lower().startswith("to "):
+                continue
+            first = m.replace(";", ",").split(",")[0].strip()
+            if first and first not in kws:
+                kws.append(first)
+            if len(kws) >= 3:
+                break
+        if kws:
+            queries.append(" ".join(kws))
+
+        # 2) 文章 title 作 fallback
+        title = (data.get("title") or "").strip()
+        if title:
+            queries.append(title)
+        break
+
+    if not queries:
+        queries.append(folder.name)
+    return queries
 
 
 def main() -> int:
@@ -65,14 +88,12 @@ def main() -> int:
             skipped += 1
             continue
 
-        query = best_query(folder)
-        log.info("[%s] querying: %s", folder.name, query)
+        queries = best_queries(folder)
+        log.info("[%s] queries: %s", folder.name, queries)
         try:
-            # backfill 没法拿到 category；三层 fallback：标题 → "japanese news" → "japan"
-            # slug 透传给 images.fetch_image，确保各文章选到不同的 idx
             ok = images.fetch_image(
                 output=image_path,
-                queries=[query, "japanese news", "japan"],
+                queries=queries,
                 slug=folder.name,
             )
             if ok:

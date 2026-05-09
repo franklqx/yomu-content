@@ -24,11 +24,42 @@ from pathlib import Path
 
 from dateutil import tz
 
+import json
+
 import builder
 import images
 import sources
 import tts
 from gemini import GeminiClient, Seed
+
+
+def _vocab_keywords_for_image(folder: Path, tiers: list[str]) -> str:
+    """从 article JSON 里抽前 3 个非动词 vocab 的 meaningEn 拼成搜索词。
+
+    优先 n3，再 n5n4，再 n2n1 —— 中级最具代表性。
+    跳过 "to xxx" 形式（动词），优先具象名词。
+    """
+    for tier in ["n3", "n5n4", "n2n1"]:
+        if tier not in tiers:
+            continue
+        try:
+            data = json.loads((folder / f"{tier}.json").read_text("utf-8"))
+        except Exception:
+            continue
+        kws: list[str] = []
+        for v in data.get("vocabulary", []):
+            m = (v.get("meaningEn") or "").strip()
+            if not m or m.lower().startswith("to "):
+                continue
+            # 多义项时只取第一段（"; " 或 "," 前）
+            first = m.replace(";", ",").split(",")[0].strip()
+            if first and first not in kws:
+                kws.append(first)
+            if len(kws) >= 3:
+                break
+        if kws:
+            return " ".join(kws)
+    return ""
 
 logging.basicConfig(
     level=logging.INFO,
@@ -93,12 +124,20 @@ def process_seed(seed: Seed, today: dt.date, gemini: GeminiClient) -> bool:
         except Exception as e:
             log.error("TTS failed for %s/%s: %s", slug, tier, e)
 
-    # 图片（可选）—— 三层 fallback：日文主题 → 英文类别 → "japan" 兜底
+    # 图片：从已写到磁盘的 article JSON 抽 vocab.meaningEn 当主搜索词（最贴近内容）
     try:
-        category_en = images.CATEGORY_TO_ENGLISH.get(seed.category, "japan")
+        keywords_query = _vocab_keywords_for_image(folder, success_tiers)
+        category_en = images.CATEGORY_TO_ENGLISH.get(seed.category, None)
+        queries: list[str] = []
+        if keywords_query:
+            queries.append(keywords_query)
+        if category_en:
+            queries.append(category_en)
+        queries.append(seed.topic_ja)  # 日文主题，命中率不高但保留
         images.fetch_image(
             output=folder / "image.jpg",
-            queries=[seed.topic_ja, category_en, "japan"],
+            queries=queries,
+            slug=slug,
         )
     except Exception as e:
         log.warning("Image fetch failed for %s: %s", slug, e)
@@ -116,12 +155,14 @@ def main() -> int:
 
     ARTICLES_ROOT.mkdir(parents=True, exist_ok=True)
 
+    # Wikinews JA 内容太稀（同一篇会被同 feed 反复抓到），且元新闻读起来奇怪 ——
+    # 暂时关掉，全 3 篇走 AI 原创主题轮换。以后想恢复可以改成 wikinews_count=1。
     seeds = sources.pick_sources(
         today=today,
         seeds_file=SEEDS_FILE,
         used_file=USED_FILE,
         count=3,
-        wikinews_count=1,
+        wikinews_count=0,
     )
     log.info("Selected %d seeds:", len(seeds))
     for s in seeds:
