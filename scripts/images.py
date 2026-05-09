@@ -91,12 +91,17 @@ def fetch_image(
 
 def _try_search(query: str, output: Path, key: str, slug: str) -> bool:
     """单次 Unsplash 搜索 + 下载，成功 True，无结果或错误 False。
-    拉 30 张候选，用 slug hash 选一张 → 同 query 不同 slug 拿不同图，且对同一 slug 稳定。
+    拉 30 张候选，过滤掉灰度图 / 黑白图，再用 slug hash 选一张。
     """
     try:
         r = requests.get(
             UNSPLASH_API,
-            params={"query": query, "per_page": 30, "orientation": "landscape"},
+            params={
+                "query": query,
+                "per_page": 30,
+                "orientation": "landscape",
+                "content_filter": "high",   # 避免奇怪内容
+            },
             headers={"Authorization": f"Client-ID {key}"},
             timeout=10,
         )
@@ -106,15 +111,40 @@ def _try_search(query: str, output: Path, key: str, slug: str) -> bool:
         if not results:
             log.info("Unsplash no results for: %s", query)
             return False
+
+        # 滤掉黑白 / 灰度主色调的图片；如果全被滤掉就退回原列表
+        colorful = [r for r in results if _is_colorful(r.get("color", ""))]
+        pool = colorful if colorful else results
+        if not colorful:
+            log.info("All %d candidates near-grayscale for %r; using anyway", len(results), query)
+        else:
+            log.info("Color-filtered: %d / %d candidates remain for %r",
+                     len(colorful), len(results), query)
+
         # slug hash → idx，确定性 + 分散
         h = int(hashlib.md5(slug.encode("utf-8")).hexdigest(), 16)
-        idx = h % len(results)
-        image_url = results[idx]["urls"]["regular"]
-        log.info("Unsplash hit for %r (idx %d/%d) → downloading", query, idx, len(results))
+        idx = h % len(pool)
+        image_url = pool[idx]["urls"]["regular"]
+        log.info("Picked idx %d/%d for %r (color=%s)",
+                 idx, len(pool), query, pool[idx].get("color", "?"))
         return _download(image_url, output)
     except Exception as e:
         log.warning("Unsplash fetch failed for %r: %s", query, e)
         return False
+
+
+def _is_colorful(hex_color: str, gray_threshold: int = 18) -> bool:
+    """主色调不靠近灰阶（R/G/B 互相之差至少有一对 > 阈值）则视为彩色。"""
+    if not hex_color or not hex_color.startswith("#"):
+        return True  # 没颜色信息当作彩色，不过滤
+    h = hex_color.lstrip("#")
+    if len(h) != 6:
+        return True
+    try:
+        r, g, b = int(h[0:2], 16), int(h[2:4], 16), int(h[4:6], 16)
+    except ValueError:
+        return True
+    return max(abs(r - g), abs(g - b), abs(r - b)) >= gray_threshold
 
 
 def _download(url: str, output: Path) -> bool:
