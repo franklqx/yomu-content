@@ -1,6 +1,10 @@
 """一次性脚本：扫 articles/ 给所有缺图的文件夹补一张 Unsplash 图，
 然后重建 index.json 让 imagePath 填上。
 
+环境变量：
+    UNSPLASH_ACCESS_KEY  必需
+    YOMU_REBACKFILL=1    可选——强制重抓所有图（覆盖已有的）
+
 用法：
     GitHub Actions：触发 backfill-images workflow
     本地：UNSPLASH_ACCESS_KEY=xxx python scripts/backfill_images.py
@@ -11,6 +15,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import logging
+import os
 import sys
 from pathlib import Path
 
@@ -47,23 +52,28 @@ def main() -> int:
         log.error("articles/ not found")
         return 1
 
+    force = os.environ.get("YOMU_REBACKFILL", "").lower() in {"1", "true", "yes"}
+    log.info("force-rebackfill = %s", force)
+
     folders = sorted(p for p in ARTICLES_ROOT.iterdir() if p.is_dir())
     log.info("Scanning %d folders", len(folders))
 
     backfilled = skipped = failed = 0
     for folder in folders:
         image_path = folder / "image.jpg"
-        if image_path.exists():
+        if image_path.exists() and not force:
             skipped += 1
             continue
 
         query = best_query(folder)
         log.info("[%s] querying: %s", folder.name, query)
         try:
-            # backfill 没法拿到 category，三层 fallback：标题 → "japanese news" → "japan"
+            # backfill 没法拿到 category；三层 fallback：标题 → "japanese news" → "japan"
+            # slug 透传给 images.fetch_image，确保各文章选到不同的 idx
             ok = images.fetch_image(
                 output=image_path,
                 queries=[query, "japanese news", "japan"],
+                slug=folder.name,
             )
             if ok:
                 backfilled += 1

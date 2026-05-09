@@ -2,6 +2,11 @@ name: Backfill images
 
 on:
   workflow_dispatch:
+    inputs:
+      force:
+        description: "强制重抓所有图（覆盖已有，去重复用）"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -31,6 +36,7 @@ jobs:
       - name: Backfill images
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          YOMU_REBACKFILL: ${{ inputs.force }}
         run: python scripts/backfill_images.py
 
       - name: Commit & push
