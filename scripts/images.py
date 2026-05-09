@@ -1,7 +1,12 @@
-"""图片来源 —— 优先 Unsplash 搜索；失败时返回 None（App 端 fallback 到 SF Symbol）。
+"""图片来源 —— 优先 Unsplash 搜索（带 fallback 列表），最终保底 'japan'。
 
-Unsplash 免费 demo key 50 req/h，每天 3 篇绝对够。
-key 缺失时直接返回 None，pipeline 不当作错误（logging 警告）。
+策略：
+  - fetch_image(queries=[...]) 按顺序试，第一个有结果就下；都空就返回 False
+  - pipeline.py 传 [日文主题, 英文类别, 'japan']
+  - backfill_images.py 传 [文章标题, 'japan']
+
+Unsplash 免费 demo key 50 req/h，每天 3 篇 + backfill 都够。
+key 缺失时直接返回 False，pipeline 不当作错误（logging 警告）。
 """
 
 from __future__ import annotations
@@ -9,6 +14,7 @@ from __future__ import annotations
 import logging
 import os
 from pathlib import Path
+from typing import Iterable
 
 import requests
 
@@ -16,11 +22,32 @@ log = logging.getLogger(__name__)
 
 UNSPLASH_API = "https://api.unsplash.com/search/photos"
 
+# 类别 → 英文搜索关键词，给 pipeline 用作 fallback
+CATEGORY_TO_ENGLISH: dict[str, str] = {
+    "anime":    "japanese anime",
+    "food":     "japanese food",
+    "travel":   "japan travel",
+    "tech":     "technology japan",
+    "culture":  "japanese culture",
+    "society":  "tokyo street",
+    "sports":   "sports stadium",
+    "seasonal": "japan seasons",
+    "news":     "tokyo skyline",
+}
 
-def fetch_image(query: str, output: Path, fallback_url: str | None = None) -> bool:
-    """根据查询词找一张图，下载到 output。成功返回 True，失败 False。
 
-    fallback_url：如果 Wikinews 抓回来已经有图片 URL，直接下；不走 Unsplash。
+def fetch_image(
+    output: Path,
+    *,
+    query: str | None = None,
+    queries: Iterable[str] | None = None,
+    fallback_url: str | None = None,
+) -> bool:
+    """下一张图到 output。成功返回 True。
+
+    queries：按顺序尝试的搜索词列表（推荐用法）；
+    query：兼容旧调用（单个搜索词，等价于 queries=[query]）；
+    fallback_url：直链下载（绕过 Unsplash），用于 Wikinews 自带原图等。
     """
     output.parent.mkdir(parents=True, exist_ok=True)
 
@@ -35,6 +62,27 @@ def fetch_image(query: str, output: Path, fallback_url: str | None = None) -> bo
         log.info("UNSPLASH_ACCESS_KEY not set; skip image fetch")
         return False
 
+    qlist: list[str] = []
+    if queries is not None:
+        qlist.extend(queries)
+    if query:
+        qlist.append(query)
+    # 永远兜底加 'japan'，确保有东西可下
+    if "japan" not in qlist:
+        qlist.append("japan")
+
+    for q in qlist:
+        q = (q or "").strip()
+        if not q:
+            continue
+        if _try_search(q, output, key):
+            return True
+
+    return False
+
+
+def _try_search(query: str, output: Path, key: str) -> bool:
+    """单次 Unsplash 搜索 + 下载，成功 True，无结果或错误 False。"""
     try:
         r = requests.get(
             UNSPLASH_API,
@@ -49,6 +97,7 @@ def fetch_image(query: str, output: Path, fallback_url: str | None = None) -> bo
             log.info("Unsplash no results for: %s", query)
             return False
         image_url = results[0]["urls"]["regular"]
+        log.info("Unsplash hit for %r → downloading", query)
         return _download(image_url, output)
     except Exception as e:
         log.warning("Unsplash fetch failed for %r: %s", query, e)

@@ -60,7 +60,11 @@ def main() -> int:
         query = best_query(folder)
         log.info("[%s] querying: %s", folder.name, query)
         try:
-            ok = images.fetch_image(query=query, output=image_path)
+            # backfill 没法拿到 category，三层 fallback：标题 → "japanese news" → "japan"
+            ok = images.fetch_image(
+                output=image_path,
+                queries=[query, "japanese news", "japan"],
+            )
             if ok:
                 backfilled += 1
             else:

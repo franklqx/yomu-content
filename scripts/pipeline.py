@@ -93,12 +93,12 @@ def process_seed(seed: Seed, today: dt.date, gemini: GeminiClient) -> bool:
         except Exception as e:
             log.error("TTS failed for %s/%s: %s", slug, tier, e)
 
-    # 图片（可选）
+    # 图片（可选）—— 三层 fallback：日文主题 → 英文类别 → "japan" 兜底
     try:
-        # Wikinews 来源时不传 fallback_url（v1 不抓 wiki 原图，避免许可证麻烦）
+        category_en = images.CATEGORY_TO_ENGLISH.get(seed.category, "japan")
         images.fetch_image(
-            query=seed.topic_ja + " " + seed.category,
             output=folder / "image.jpg",
+            queries=[seed.topic_ja, category_en, "japan"],
         )
     except Exception as e:
         log.warning("Image fetch failed for %s: %s", slug, e)
