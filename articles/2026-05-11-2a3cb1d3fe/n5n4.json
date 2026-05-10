@@ -1,0 +1,131 @@
+{
+  "title": "新しいアニメ、どうだった？",
+  "summary": "新しいアニメが始まりました。たくさんの人が見て、話しています。どうして人気が出たのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今週、新しいアニメが始まりました。タイトルは「星空の冒険」です。とても楽しみにしていました。日曜日の夜に見ました。",
+      "translationZh": "这周，一部新动画开始了。标题是《星空大冒险》。我非常期待。我在周日晚上看了。",
+      "translationEn": "This week, a new anime started. The title is \"Starry Sky Adventure\". I was very much looking forward to it. I watched it on Sunday night.",
+      "id": "ab0e2189-03ca-409e-8baf-901d2e9ed00e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメはとても面白かったです。絵がきれいで、話も進むのが速かったです。キャラクターも魅力的でした。SNSでも話題になっていました。",
+      "translationZh": "动画非常有趣。画面很漂亮，故事进展也很快。角色也很吸引人。在社交媒体上也很热门。",
+      "translationEn": "The anime was very interesting. The pictures were beautiful, and the story progressed quickly. The characters were also charming. It was also a hot topic on social media.",
+      "id": "d8ec8fe3-4744-4322-9b39-0c91c3c7d043",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "会社は、アニメを広めるために色々な工夫をしました。放送前に、短い動画をたくさん出しました。声優さんのインタビューもありました。これは良い作戦だと思います。",
+      "translationZh": "公司为了推广这部动画做了各种各样的努力。在播出前，发布了很多短视频。还有声优的采访。我认为这是一个好策略。",
+      "translationEn": "The company made various efforts to promote the anime. Before broadcasting, they released many short videos. There were also interviews with the voice actors. I think this was a good strategy.",
+      "id": "983d28c2-434a-42eb-a422-bc17343d2731",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "初回放送は、たくさんの人が見ました。友達とも話しました。来週からも見るのが楽しみです。皆さんも、ぜひ見てみてください。",
+      "translationZh": "首播收视率很高。我和朋友也谈论了。从下周开始也很期待继续观看。大家也请一定要看看。",
+      "translationEn": "Many people watched the first broadcast. I also talked about it with my friends. I look forward to watching it from next week. Everyone, please do watch it.",
+      "id": "2034c728-0308-4293-830f-a29977155b7f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい本です。",
+      "id": "fa8aeefc-e1ac-4407-90c6-4312582c7495"
+    },
+    {
+      "word": "アニメ",
+      "reading": "あにめ",
+      "meaningZh": "动画",
+      "meaningEn": "anime",
+      "level": "n5n4",
+      "exampleSentence": "私はいろいろなアニメを見ます。",
+      "id": "760c172a-cd09-4e87-ac5f-96291de11188"
+    },
+    {
+      "word": "初回",
+      "reading": "しょかい",
+      "meaningZh": "初次，第一次",
+      "meaningEn": "first time",
+      "level": "n5n4",
+      "exampleSentence": "この料理の初回は特別な味でした。",
+      "id": "59a0aaf7-6406-4c2b-9b66-5f62a3501fb0"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaningZh": "广播，播放",
+      "meaningEn": "broadcast",
+      "level": "n5n4",
+      "exampleSentence": "テレビの放送を見ました。",
+      "id": "62ed27b1-eaaf-4685-aea2-0f50af89809c"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic",
+      "level": "n5n4",
+      "exampleSentence": "そのニュースは大きな話題になりました。",
+      "id": "93e23739-9e7d-4080-b671-7978936e4d29"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创意",
+      "meaningEn": "device, idea, invention",
+      "level": "n3",
+      "exampleSentence": "新しい工夫で問題を解決しました。",
+      "id": "8f43dbaf-a832-4bc0-85c1-c2ed6e674f51"
+    },
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "配音演员",
+      "meaningEn": "voice actor",
+      "level": "n3",
+      "exampleSentence": "あの声優の声が好きです。",
+      "id": "c59a901d-0898-4b75-926d-9df66339fe2a"
+    },
+    {
+      "word": "作戦",
+      "reading": "さくせん",
+      "meaningZh": "作战，策略",
+      "meaningEn": "strategy, tactics",
+      "level": "n3",
+      "exampleSentence": "これは良い作戦ですね。",
+      "id": "66c2ee0a-0c57-46b4-a7fc-2c0a0aefb56a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "会社は、新しいアニメを広めるために何をしましたか？",
+      "options": [
+        "放送を遅らせました。",
+        "放送前に短い動画やインタビューを出しました。",
+        "アニメのタイトルを変えました。",
+        "声優の数を減らしました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「会社は、アニメを広めるために色々な工夫をしました。放送前に、短い動画をたくさん出しました。声優さんのインタビューもありました。」",
+      "id": "77be1f7d-5a06-4d76-9db5-1233d2d2f983"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-11-2a3cb1d3fe",
+  "publishedAt": "2026-05-11T06:00:00+09:00"
+}

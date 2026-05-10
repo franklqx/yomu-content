@@ -1,0 +1,131 @@
+{
+  "title": "夏休みの人気プログラム",
+  "summary": "夏休みには、子供たちが楽しく学べるプログラムがたくさんあります。最近、新しい傾向が出てきました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏休みが近づいています。多くの子供たちが学童プログラムに参加します。これらのプログラムは、子供たちの夏休みを楽しく、そして学びのある時間にすることを目的としています。",
+      "translationZh": "暑假快到了。许多孩子们会参加课后托管项目。这些项目的目的是让孩子们的暑假变得有趣且有意义。",
+      "translationEn": "Summer vacation is approaching. Many children participate in after-school programs. These programs aim to make children's summer vacation fun and educational.",
+      "id": "0ac71a55-1902-44fd-a8a3-1e4f17ff0ced",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、新しいプログラムの傾向が見られます。例えば、プログラミングやロボット作りを体験できるコースが人気です。また、自然体験や科学実験をするプログラムも増えています。",
+      "translationZh": "最近，可以看到新的项目趋势。例如，可以体验编程和机器人制作的课程很受欢迎。此外，进行自然体验和科学实验的项目也在增加。",
+      "translationEn": "Recently, new program trends can be seen. For example, courses where children can experience programming and robot making are popular. Also, programs for nature experience and science experiments are increasing.",
+      "id": "20afb2fb-61e0-43ff-8788-6dee217b6045",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのプログラムは、子供たちが新しいスキルを身につけるだけでなく、友達と協力することも学びます。先生たちは、子供たちが安全に、そして楽しく過ごせるように工夫しています。",
+      "translationZh": "这些项目不仅让孩子们掌握新技能，还学习与朋友合作。老师们努力确保孩子们能安全、愉快地度过。",
+      "translationEn": "These programs not only help children acquire new skills but also learn to cooperate with friends. Teachers make efforts to ensure that children can spend their time safely and enjoyably.",
+      "id": "b70fdd23-463a-4a32-8a63-0234985a2e24",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夏休みのプログラムは、子供たちの成長にとってとても大切です。保護者の方々も、子供にどんなプログラムが良いか、よく考えて選んでいます。",
+      "translationZh": "暑期项目对孩子们的成长非常重要。家长们也在认真考虑为孩子选择什么样的项目。",
+      "translationEn": "Summer programs are very important for children's growth. Parents also think carefully about what kind of programs are good for their children when choosing.",
+      "id": "ff195632-0f25-4a95-bd51-158aae574dfa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学童",
+      "reading": "がくどう",
+      "meaningZh": "课后托管，学童",
+      "meaningEn": "after-school care, schoolchild",
+      "level": "n5n4",
+      "exampleSentence": "夏休みは学童プログラムが人気です。",
+      "id": "99082b66-4817-4c2e-a19f-5dd1c0d7db74"
+    },
+    {
+      "word": "プログラム",
+      "reading": "ぷろぐらむ",
+      "meaningZh": "项目，程序",
+      "meaningEn": "program",
+      "level": "n5n4",
+      "exampleSentence": "新しいプログラムに参加しました。",
+      "id": "edd401d8-2eed-4c08-b164-a1694646be7e"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "趋势",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "最近の技術の傾向について話しました。",
+      "id": "5fa10a51-0e5e-4d3a-b204-ac73e1c18d12"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "新しい食べ物を体験しました。",
+      "id": "85d7d0d1-6d11-4a58-933b-31fb28263777"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然の中で遊びました。",
+      "id": "ff3acb6e-9456-4600-87ac-c7c5618974c8"
+    },
+    {
+      "word": "科学",
+      "reading": "かがく",
+      "meaningZh": "科学",
+      "meaningEn": "science",
+      "level": "n5n4",
+      "exampleSentence": "科学の実験は面白いです。",
+      "id": "dfb54729-c9fa-42bc-8891-fdab30dc6842"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "友達と協力して問題を解決しました。",
+      "id": "da7175d3-574e-4d98-b659-055cc20a7645"
+    },
+    {
+      "word": "保護者",
+      "reading": "ほごしゃ",
+      "meaningZh": "监护人，家长",
+      "meaningEn": "guardian, parent",
+      "level": "n3",
+      "exampleSentence": "保護者会がありました。",
+      "id": "3c3d8daf-48f1-4124-ab24-fcbc2355f7e0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、人気のあるプログラムの傾向は何ですか？",
+      "options": [
+        "昔ながらの遊び",
+        "プログラミングや自然体験",
+        "読書や作文",
+        "音楽やダンス"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「プログラミングやロボット作りを体験できるコースが人気です。また、自然体験や科学実験をするプログラムも増えています。」と書かれています。",
+      "id": "d5df52ae-1fcc-4178-a100-c05661b84983"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-11-86578b525b",
+  "publishedAt": "2026-05-11T06:00:00+09:00"
+}

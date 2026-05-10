@@ -1,0 +1,135 @@
+{
+  "title": "夏休み学童プログラムの最新トレンド",
+  "summary": "今年の夏休み、学童プログラムは進化しています。単なる預かりから、子供たちの成長を促す多様な活動が増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏休みが近づき、共働き家庭にとって学童プログラムはますます重要になっています。最近のプログラムは、単に子供を安全に預かるだけでなく、学習や体験活動を重視する傾向が見られます。例えば、プログラミング教室や英語でのアクティビティを取り入れる施設が増えているのです。これは、子供たちの将来に必要なスキルを育むため、保護者からの期待も高まっているからです。",
+      "translationZh": "随着暑假临近，学童项目对于双职工家庭来说变得越来越重要。最近的课程不仅在于安全地照顾孩子，还倾向于重视学习和体验活动。例如，越来越多机构开始引入编程课程和英语活动。这是因为，为了培养孩子未来所需的技能，家长的期望也在不断提高。",
+      "translationEn": "As summer vacation approaches, after-school programs are becoming increasingly important for dual-income families. Recent programs are not just about safely looking after children; there's a growing trend towards emphasizing learning and experiential activities. For instance, more facilities are incorporating programming classes and activities conducted in English. This is because parental expectations are also rising to foster skills children will need in the future.",
+      "id": "941351fb-242d-4271-beef-696342e6e6ab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、環境問題やSDGs（持続可能な開発目標）について学べるプログラムも注目されています。子供たちが自然に触れたり、地域社会と協力したりする体験を通じて、地球や社会について考える機会が提供されています。このような活動は、子供たちの探求心を刺激し、社会性を育む上で非常に効果的だと考えられています。",
+      "translationZh": "此外，能够学习环境问题和SDGs（可持续发展目标）的项目也备受关注。通过让孩子们接触自然或与社区合作的体验，为他们提供了思考地球和社会的机会。这类活动被认为在激发孩子的探索精神和培养其社交能力方面非常有效。",
+      "translationEn": "Furthermore, programs that teach about environmental issues and SDGs (Sustainable Development Goals) are gaining attention. Through experiences where children interact with nature or collaborate with the local community, opportunities are provided for them to think about the planet and society. Such activities are considered highly effective in stimulating children's curiosity and fostering their social skills.",
+      "id": "743ccbb5-ce16-4d27-b6a1-b526f2136317",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学童プログラムを選ぶ際には、子供の興味や発達段階に合っているかを確認することが大切です。プログラムの内容が多様化しているため、事前に施設見学をしたり、提供される活動について詳しく聞いたりすると良いでしょう。子供が主体的に楽しみながら学べる環境を選ぶことで、夏休みを有意義なものにすることができます。",
+      "translationZh": "选择学童项目时，重要的是要确认它是否符合孩子的兴趣和发展阶段。由于课程内容日益多样化，最好提前参观设施或详细了解提供的活动。通过选择一个孩子能够积极、愉快地学习的环境，可以使暑假变得有意义。",
+      "translationEn": "When choosing an after-school program, it's important to confirm if it suits the child's interests and developmental stage. As program offerings become more diverse, it's advisable to visit facilities in advance or inquire thoroughly about the activities provided. By selecting an environment where children can learn actively and enjoyably, their summer vacation can be made more meaningful.",
+      "id": "ba9116cf-1399-4751-bcb9-63bc34b26f8c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学童プログラム",
+      "reading": "がくどうプログラム",
+      "meaningZh": "课后托管项目",
+      "meaningEn": "After-school program",
+      "level": "n3",
+      "exampleSentence": "夏休み中は学童プログラムを利用する家庭が多いです。",
+      "id": "f9981cad-d1d1-4bd3-80e7-0d3df514cfde"
+    },
+    {
+      "word": "共働き",
+      "reading": "ともばたらき",
+      "meaningZh": "夫妻双方都工作",
+      "meaningEn": "Dual-income family (both spouses working)",
+      "level": "n3",
+      "exampleSentence": "共働きの家庭が増えているので、学童の需要も高まっています。",
+      "id": "abaf36cf-67f0-4c13-a162-dbdb42dcca55"
+    },
+    {
+      "word": "重視",
+      "reading": "じゅうし",
+      "meaningZh": "重视，看重",
+      "meaningEn": "To emphasize, to attach importance to",
+      "level": "n3",
+      "exampleSentence": "最近の教育では、体験活動を重視する傾向があります。",
+      "id": "af7da332-164b-4fff-bc58-759659934505"
+    },
+    {
+      "word": "プログラミング",
+      "reading": "プログラミング",
+      "meaningZh": "编程",
+      "meaningEn": "Programming",
+      "level": "n3",
+      "exampleSentence": "子供向けのプログラミング教室が人気です。",
+      "id": "25ed6d0f-721b-4847-bd65-8c3950447653"
+    },
+    {
+      "word": "アクティビティ",
+      "reading": "アクティビティ",
+      "meaningZh": "活动",
+      "meaningEn": "Activity",
+      "level": "n3",
+      "exampleSentence": "多様なアクティビティを通して、子供たちの可能性を広げます。",
+      "id": "670d7e91-2a65-4d29-bb6d-a29dfe83fb2a"
+    },
+    {
+      "word": "SDGs",
+      "reading": "エスディージーズ",
+      "meaningZh": "可持续发展目标",
+      "meaningEn": "Sustainable Development Goals",
+      "level": "n3",
+      "exampleSentence": "SDGsを学ぶことは、未来を考える上で重要です。",
+      "id": "529a80f1-5b08-448e-9fc6-bce72e1bef81"
+    },
+    {
+      "word": "探求心",
+      "reading": "たんきゅうしん",
+      "meaningZh": "探索心，求知欲",
+      "meaningEn": "Spirit of inquiry, curiosity",
+      "level": "n3",
+      "exampleSentence": "子供の探求心を育むような教育が求められています。",
+      "id": "ffd11c46-d47b-4250-b632-99806eefad26"
+    },
+    {
+      "word": "主体的に",
+      "reading": "しゅたいてきに",
+      "meaningZh": "主动地，自主地",
+      "meaningEn": "Actively, proactively, on one's own initiative",
+      "level": "n3",
+      "exampleSentence": "生徒が主体的に学習に取り組むことが大切です。",
+      "id": "e9850a44-2ea7-4491-b825-1246d6b99b90"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の学童プログラムでは、どのような傾向が見られますか？",
+      "options": [
+        "単に子供を預かるだけ",
+        "学習や体験活動を重視する",
+        "昔ながらの遊びだけを提供する",
+        "保護者の意見を聞かない"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最近のプログラムは、単に子供を安全に預かるだけでなく、学習や体験活動を重視する傾向が見られます。」と書かれています。",
+      "id": "99550b8c-5a80-4c26-b3ec-3a130ea1219f"
+    },
+    {
+      "question": "子供が主体的に楽しみながら学べる環境を選ぶことの利点は何ですか？",
+      "options": [
+        "子供が疲れてしまう",
+        "夏休みを有意義にすることができる",
+        "保護者の負担が増える",
+        "先生の仕事が減る"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後には「子供が主体的に楽しみながら学べる環境を選ぶことで、夏休みを有意義なものにすることができます。」とあります。",
+      "id": "f55b24e4-ac98-4f16-abc2-8743f82d3642"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-11-86578b525b",
+  "publishedAt": "2026-05-11T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ご当地ラーメン、東京に集まる！",
+  "summary": "日本全国のご当地ラーメンが東京で食べられるようになりました。旅行に行かなくても、おいしいラーメンが楽しめます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、たくさんの有名なご当地ラーメンがあります。北海道の味噌ラーメン、福岡の豚骨ラーメン、喜多方の醤油ラーメンなど、地域ごとに特色があります。これらのラーメンは、その土地でしか味わえないと思っていました。",
+      "translationZh": "日本有很多有名的当地特色拉面。比如北海道的味增拉面、福冈的豚骨拉面、喜多方的酱油拉面等等，每个地区都有自己的特色。我以前认为这些拉面只能在当地品尝到。",
+      "translationEn": "Japan has many famous local ramen styles. There are unique characteristics in each region, like Hokkaido's miso ramen, Fukuoka's tonkotsu ramen, and Kitakata's shoyu ramen. I used to think these ramen could only be tasted in their respective places.",
+      "id": "55a667a9-b493-47b2-aaf0-f087449273ab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近、東京で日本全国のご当地ラーメンを食べられるお店が増えています。例えば、博多の豚骨ラーメンのお店が東京の駅の近くにできました。また、札幌の味噌ラーメンも、東京で人気があります。",
+      "translationZh": "但是，最近在东京，可以吃到日本全国各地特色拉面的店铺增加了。例如，博多的豚骨拉面店在东京车站附近开了。而且，札幌的味增拉面在东京也很受欢迎。",
+      "translationEn": "However, recently, more and more shops in Tokyo offer local ramen from all over Japan. For example, a Hakata tonkotsu ramen shop opened near Tokyo Station. Also, Sapporo's miso ramen is popular in Tokyo.",
+      "id": "446c8e68-8ff4-4d2c-96fd-e939e486eb52",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これは、ラーメン好きの人にとって、とても嬉しいニュースです。旅行に行けない人も、東京で色々な味のラーメンを楽しむことができます。新しいお店を見つけるのも楽しいですね。",
+      "translationZh": "这对拉面爱好者来说，是个非常令人开心的消息。即使不能去旅行的人，也能在东京享受各种口味的拉面。寻找新店也很有趣。",
+      "translationEn": "This is very happy news for ramen lovers. Even people who cannot travel can enjoy various flavors of ramen in Tokyo. It's also fun to discover new shops.",
+      "id": "7986b761-c668-4c96-a83f-0cdd77df1d5f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京で色々なご当地ラーメンを食べて、お気に入りの味を見つけてみませんか。きっと新しい発見がありますよ。",
+      "translationZh": "为什么不在东京尝试各种当地特色拉面，找到你最喜欢的口味呢？一定会有新的发现哦。",
+      "translationEn": "Why not try various local ramen styles in Tokyo and find your favorite taste? You will surely make new discoveries.",
+      "id": "d4b7e812-2b99-4fa3-ae8e-45e7e7f1a2ba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ご当地",
+      "reading": "ごとうち",
+      "meaningZh": "当地特色",
+      "meaningEn": "local specialty",
+      "level": "n5n4",
+      "exampleSentence": "これはこの町の ご当地グルメです。",
+      "id": "fe776634-93e5-43ee-8d22-4e6be866e94e"
+    },
+    {
+      "word": "ラーメン",
+      "reading": "らーめん",
+      "meaningZh": "拉面",
+      "meaningEn": "ramen",
+      "level": "n5n4",
+      "exampleSentence": "私はラーメンが大好きです。",
+      "id": "c88b8bc6-87b3-4671-a387-a13eebd1e57f"
+    },
+    {
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaningZh": "进入，扩展",
+      "meaningEn": "advancement, expansion",
+      "level": "n3",
+      "exampleSentence": "新しい市場への進出を考えています。",
+      "id": "f02eb4b1-d85c-478a-af53-aaa895815cdd"
+    },
+    {
+      "word": "特色",
+      "reading": "とくしょく",
+      "meaningZh": "特色，特点",
+      "meaningEn": "characteristic, feature",
+      "level": "n3",
+      "exampleSentence": "この料理の特色は何ですか。",
+      "id": "02ae1a76-bf59-4f14-89c4-97d676da92aa"
+    },
+    {
+      "word": "味わう",
+      "reading": "あじわう",
+      "meaningZh": "品尝，体会",
+      "meaningEn": "to taste, to savor",
+      "level": "n3",
+      "exampleSentence": "このワインの味をゆっくり味わってください。",
+      "id": "e4d0c6c3-3902-47b1-9623-f19a5b4bcf7b"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "駅に人が増えました。",
+      "id": "aa7cdecd-c9be-4210-8d9d-28816c5fbd2f"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "479dc968-af83-46fc-8f30-771f2a174ab6"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しい星の発見はすごいことです。",
+      "id": "3678ba42-baeb-4ba8-a186-5471dda4daf9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東京で、日本全国のご当地ラーメンを食べられるお店はどうなりましたか。",
+      "options": [
+        "減りました。",
+        "なくなりました。",
+        "増えました。",
+        "あまりありません。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「しかし、最近、東京で日本全国のご当地ラーメンを食べられるお店が増えています。」",
+      "id": "cfd0ff4c-2580-4c27-a27b-f309da437444"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-11-39bdaec71b",
+  "publishedAt": "2026-05-11T06:00:00+09:00"
+}
