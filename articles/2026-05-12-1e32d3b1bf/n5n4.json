@@ -1,0 +1,131 @@
+{
+  "title": "副業で新しい自分に！",
+  "summary": "最近、会社で副業がOKになりました。新しい働き方について見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、会社員は一つの会社で働くのが普通でした。でも、最近、日本の会社で副業が許されるようになりました。これは、働き方が変わる大きなチャンスです。",
+      "translationZh": "以前，公司职员在一家公司工作是很普遍的。但是，最近日本的公司允许做副业了。这是一个工作方式改变的大好机会。",
+      "translationEn": "In the past, it was common for company employees to work for one company. However, recently, Japanese companies have started allowing side jobs. This is a big chance for work styles to change.",
+      "id": "a39fbac8-eaab-486d-a083-2b3ac2a920b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業をすると、本業だけではできない経験ができます。例えば、自分の好きなことや、新しいスキルを学ぶことができます。これは、自分の可能性を広げることにつながります。",
+      "translationZh": "做副业的话，可以获得仅凭主业无法获得的经验。例如，可以学习自己喜欢的东西，或者学习新的技能。这会带来拓展自己可能性的结果。",
+      "translationEn": "By doing side jobs, you can gain experience that you can't get from your main job alone. For example, you can learn about things you like or new skills. This leads to expanding your own potential.",
+      "id": "c5f4da53-ebdb-4fa6-bad6-71c273b4e419",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業は、収入を増やすこともできます。もし、会社からの給料だけでは足りないと感じたら、副業は良い解決策になります。また、将来のために、新しい仕事の経験を積むことも大切です。",
+      "translationZh": "副业也能增加收入。如果觉得只靠公司的工资不够的话，副业会是一个好的解决方法。而且，为了将来，积累新的工作经验也很重要。",
+      "translationEn": "Side jobs can also increase income. If you feel that your salary from the company is not enough, a side job can be a good solution. Also, it is important to gain new work experience for the future.",
+      "id": "34015ed8-8b8e-449f-85d3-d3cb99cdffa8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業が解禁されて、私たちの働き方はもっと自由になりました。自分の時間や能力をもっと活用して、楽しい毎日を作りましょう。",
+      "translationZh": "副业被解禁后，我们的工作方式变得更加自由。让我们更充分地利用自己的时间和能力，创造愉快的每一天吧。",
+      "translationEn": "With the lifting of the ban on side jobs, our work styles have become freer. Let's make our days more enjoyable by making better use of our time and abilities.",
+      "id": "0c3019f5-96ac-489e-9268-f2a278c5e433",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业，兼职",
+      "meaningEn": "side job, second job",
+      "level": "n5n4",
+      "exampleSentence": "彼は週末に副業をしています。",
+      "id": "4b9481e1-47a5-4d66-b8ff-1deddcb11b21"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解除禁令，允许",
+      "meaningEn": "lifting a ban, permission",
+      "level": "n3",
+      "exampleSentence": "この公園は子供の遊ぶことが解禁されました。",
+      "id": "39e82df7-4d27-49e5-b7dc-01067eb9f574"
+    },
+    {
+      "word": "働き方",
+      "reading": "はたらきかた",
+      "meaningZh": "工作方式，工作方法",
+      "meaningEn": "way of working, work style",
+      "level": "n5n4",
+      "exampleSentence": "新しい働き方について話しました。",
+      "id": "1ad9d8fd-3c2e-44f2-ae0f-cbc16962c53d"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの経験をしました。",
+      "id": "11c93cf6-2779-41d9-a533-576d0440aa0b"
+    },
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "meaningZh": "可能，可能性",
+      "meaningEn": "possibility, potential",
+      "level": "n3",
+      "exampleSentence": "これは私にとって大きな可能です。",
+      "id": "09d7bcc8-eeba-4dc0-b05e-086c11f5e967"
+    },
+    {
+      "word": "可能性",
+      "reading": "かのうせい",
+      "meaningZh": "可能性",
+      "meaningEn": "possibility, potential",
+      "level": "n3",
+      "exampleSentence": "自分の可能性を信じましょう。",
+      "id": "252886b9-3c9c-40b9-8650-20c1f82069cf"
+    },
+    {
+      "word": "収入",
+      "reading": "しゅうにゅう",
+      "meaningZh": "收入",
+      "meaningEn": "income",
+      "level": "n3",
+      "exampleSentence": "収入が増えました。",
+      "id": "b39b6f6c-8b5a-4cbe-8ebb-b73cb1367866"
+    },
+    {
+      "word": "給料",
+      "reading": "きゅうりょう",
+      "meaningZh": "工资，薪水",
+      "meaningEn": "salary, wages",
+      "level": "n5n4",
+      "exampleSentence": "毎月給料日を楽しみにしています。",
+      "id": "ad4a7a76-4db0-4c54-b4c4-d00540c396e2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "副業がOKになったことで、私たちの働き方はどうなりましたか？",
+      "options": [
+        "もっと難しくなった",
+        "もっと自由になった",
+        "あまり変わらない",
+        "給料が減った"
+      ],
+      "correctIndex": 1,
+      "explanation": "副業が解禁されて、私たちの働き方はもっと自由になりました。",
+      "id": "e770c3a0-9f5e-4197-8a99-1e0e844e9a50"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-12-1e32d3b1bf",
+  "publishedAt": "2026-05-12T06:00:00+09:00"
+}

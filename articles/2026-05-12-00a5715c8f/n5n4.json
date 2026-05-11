@@ -1,0 +1,122 @@
+{
+  "title": "若手力士、人気上昇中！",
+  "summary": "若い力士が番付を上げています。彼らはファンにとても人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "相撲は日本の伝統的なスポーツです。最近、若い力士たちが注目されています。彼らは一生懸命練習して、番付を上げています。",
+      "translationZh": "相扑是日本的传统体育项目。最近，年轻力士们受到了关注。他们努力练习，提升了排名。",
+      "translationEn": "Sumo is a traditional Japanese sport. Recently, young sumo wrestlers have been gaining attention. They train hard and are moving up the rankings.",
+      "id": "01395202-c23c-4287-83df-8d91d75e946f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "番付が上がると、力士はもっと有名になります。テレビや新聞で紹介されることも多くなります。ファンは彼らの活躍を応援しています。",
+      "translationZh": "排名上升后，力士会变得更有名。他们也经常出现在电视和报纸上。粉丝们支持他们的活跃表现。",
+      "translationEn": "When their rank goes up, the wrestlers become more famous. They are often featured on TV and in newspapers. Fans cheer for their success.",
+      "id": "91bd4b77-5076-4662-b83e-c167cc3c07fe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、若い力士は明るい性格で人気があります。彼らの試合はとても面白いです。これからも、彼らがどのように成長していくか楽しみです。",
+      "translationZh": "特别是年轻力士们，他们性格开朗，很受欢迎。他们的比赛非常有趣。今后，我们也期待他们如何成长。",
+      "translationEn": "Especially, young wrestlers are popular for their cheerful personalities. Their matches are very exciting. We look forward to seeing how they will grow in the future.",
+      "id": "e11c4dbd-8334-4b5b-b0a4-10f4159b49ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい力士が活躍することは、相撲界にとって良いことです。彼らが日本の文化を大切にしながら、これからも頑張ってほしいです。",
+      "translationZh": "新力士的活跃对相扑界来说是件好事。希望他们能在珍惜日本文化的同时，今后也继续努力。",
+      "translationEn": "The success of new wrestlers is good for the sumo world. We hope they will continue to do their best while cherishing Japanese culture.",
+      "id": "9eb914a7-af86-462c-b014-17fe18bdc83a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "相扑选手",
+      "meaningEn": "sumo wrestler",
+      "level": "n5n4",
+      "exampleSentence": "あの力士は強いです。",
+      "id": "89d5ab6c-8d5e-418e-8fdf-172eb39df67e"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）等级名册",
+      "meaningEn": "ranking list (in sumo)",
+      "level": "n5n4",
+      "exampleSentence": "彼は番付を上がりました。",
+      "id": "769f85d5-0d07-4dd7-aa9b-f23b6454b4dc"
+    },
+    {
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaningZh": "晋升",
+      "meaningEn": "promotion",
+      "level": "n3",
+      "exampleSentence": "新しい役職に昇進しました。",
+      "id": "685961a0-4a76-49ed-ae37-d9c66248d7af"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌は人気があります。",
+      "id": "995e9de5-3812-47b5-8757-1ee6eb3e6d31"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n3",
+      "exampleSentence": "これは伝統的な建物です。",
+      "id": "f5442b4b-e4fc-450b-a498-049353308058"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention",
+      "level": "n3",
+      "exampleSentence": "彼の才能に注目が集まっています。",
+      "id": "31a863e8-ab26-4b96-9837-5ea1fb29261e"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "active participation, success",
+      "level": "n3",
+      "exampleSentence": "彼は会社で活躍しています。",
+      "id": "e491b376-6e66-4569-b433-1c864dd25591"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若い力士は人気がありますか？",
+      "options": [
+        "彼らはとても強いからです。",
+        "彼らの試合が面白いからです。",
+        "彼らはテレビによく出るからです。",
+        "彼らは伝統的なからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "特に、若い力士は明るい性格で人気があります。彼らの試合はとても面白いです。",
+      "id": "45dcbde4-f770-4147-8256-44651cd2c148"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-12-00a5715c8f",
+  "publishedAt": "2026-05-12T06:00:00+09:00"
+}

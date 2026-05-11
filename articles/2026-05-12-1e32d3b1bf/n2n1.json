@@ -1,0 +1,147 @@
+{
+  "title": "副業解禁、働き方に新時代到来",
+  "summary": "近年、多くの企業で副業が解禁され、個人の多様なキャリア形成やスキルアップへの意欲が高まっています。これにより、従来の働き方が大きく変化しつつあるとのことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、大手企業を中心に副業・兼業を解禁する動きが広がりを見せている。これは、従業員の多様なキャリア形成を支援するとともに、企業側にとっても新たなスキルや人脈の獲得、リスク分散といったメリットが見込まれるためだ。終身雇用制度が崩壊しつつある現代において、個人のスキルアップや収入源の多角化は、もはや個人の生存戦略としても不可欠となりつつあると言えるだろう。",
+      "translationZh": "近年来，以大企业为中心，允许兼职和副业的动向正在扩大。这不仅是为了支持员工多样化的职业发展，企业方面也预计能获得新的技能和人脉，以及分散风险等好处。在终身雇佣制度日渐瓦解的现代，提升个人技能和使收入来源多样化，已经成为个人生存策略中不可或缺的一部分。",
+      "translationEn": "In recent years, there has been a growing trend, particularly among major companies, to permit side jobs and concurrent employment. This is not only to support employees' diverse career development but also because companies anticipate benefits such as acquiring new skills and networks, and diversifying risks. In an era where the lifetime employment system is collapsing, enhancing individual skills and diversifying income sources are becoming indispensable for personal survival strategies.",
+      "id": "db70c94c-b8c3-42f5-9907-e1d381e343ed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業解禁に伴い、労働時間管理や情報漏洩対策など、企業側には新たな課題も生じている。従業員が本業に支障をきたさないよう、また、競合他社への機密情報漏洩を防ぐための就業規則の見直しや、ITツールを活用した勤怠管理システムの導入などが急務となっている。これらの対策を講じることで、企業は副業をリスクではなく、むしろ従業員の成長と組織の活性化に繋がる機会として捉えることができるようになるだろう。",
+      "translationZh": "随着副业的解禁，企业方面也面临着工作时间管理和信息泄露对策等新课题。为了防止员工影响本职工作，以及防止向竞争对手泄露机密信息，重新审查工作规定、导入利用IT工具的出勤管理系统等已成为当务之急。通过采取这些措施，企业就能将副业视为连接员工成长与组织活化的机会，而非风险。",
+      "translationEn": "With the lifting of restrictions on side jobs, new challenges have arisen for companies, such as managing working hours and preventing information leaks. Revising employment regulations and introducing time-tracking systems utilizing IT tools are urgent tasks to ensure employees do not neglect their primary jobs and to prevent the leakage of confidential information to competitors. By implementing these measures, companies will be able to view side jobs not as risks, but rather as opportunities that can lead to employee growth and organizational revitalization.",
+      "id": "b162c11c-946b-449f-b803-450c9e7489ce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方、個人にとっては、副業を通じて新たなスキルを習得したり、異業種の人々と交流したりする機会が増えることは、自己成長に繋がる大きなメリットである。これまで本業に集中してきた人々も、自身の興味や関心に基づいた活動に挑戦できるようになり、ワークライフバランスの向上や、将来的なキャリアチェンジへの布石となる可能性も秘めている。こうした変化は、日本の労働市場全体に、より柔軟で多様な働き方をもたらすものと期待されている。",
+      "translationZh": "另一方面，对于个人而言，通过副业学习新技能、与不同行业的人交流的机会增加，是促进自我成长的一大优势。即使是那些过去只专注于主业的人，现在也能根据自己的兴趣和关注点去尝试新的活动，这为提高工作与生活的平衡、以及未来职业转型埋下了伏笔。这些变化被期待能为整个日本劳动市场带来更加灵活和多元化的工作方式。",
+      "translationEn": "On the other hand, for individuals, the increased opportunities to acquire new skills and interact with people from different industries through side jobs are significant benefits that lead to self-growth. Even those who have focused solely on their main jobs until now can now try activities based on their own interests and concerns, potentially paving the way for improved work-life balance and future career changes. These changes are expected to bring about more flexible and diverse ways of working in the Japanese labor market as a whole.",
+      "id": "29360548-fa11-451a-af8e-f8ca13c0b310",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业，兼职",
+      "meaningEn": "side job, secondary occupation",
+      "level": "n2n1",
+      "exampleSentence": "彼は本業の傍ら、趣味を活かした副業で収入を得ている。",
+      "id": "582a45e2-8fca-4778-b225-338dcebe93ee"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解除禁令，允许",
+      "meaningEn": "lifting of a ban, to permit",
+      "level": "n2n1",
+      "exampleSentence": "長年禁止されていたイベントがついに解禁された。",
+      "id": "e0e82727-d2e5-4814-8a78-07b05814cb2e"
+    },
+    {
+      "word": "兼業",
+      "reading": "けんぎょう",
+      "meaningZh": "兼职，兼营",
+      "meaningEn": "concurrent employment, doing two jobs",
+      "level": "n2n1",
+      "exampleSentence": "兼業を認める企業が増えているという。",
+      "id": "1e3724d1-d5c9-48f9-a4c6-fcf9917d80eb"
+    },
+    {
+      "word": "見込まれる",
+      "reading": "みこまれる",
+      "meaningZh": "被期待，有希望，有前景",
+      "meaningEn": "to be expected, to be anticipated",
+      "level": "n2n1",
+      "exampleSentence": "来年の業績は大幅な改善が見込まれている。",
+      "id": "d98dbf16-abf2-4d27-ab47-34c1d6ebf788"
+    },
+    {
+      "word": "終身雇用",
+      "reading": "しゅうしんこよう",
+      "meaningZh": "终身雇佣",
+      "meaningEn": "lifetime employment",
+      "level": "n2n1",
+      "exampleSentence": "終身雇用制度はかつて日本の美徳とされていた。",
+      "id": "6f109d62-2a64-4813-9bb7-33647a85ee1a"
+    },
+    {
+      "word": "多角化",
+      "reading": "たかくか",
+      "meaningZh": "多元化，多样化",
+      "meaningEn": "diversification",
+      "level": "n2n1",
+      "exampleSentence": "事業の多角化はリスクを軽減するのに役立つ。",
+      "id": "a64f41a4-a8e8-45f9-bf7b-5de72c93666b"
+    },
+    {
+      "word": "急務",
+      "reading": "きゅうむ",
+      "meaningZh": "紧迫的任务，当务之急",
+      "meaningEn": "urgent task, pressing need",
+      "level": "n2n1",
+      "exampleSentence": "環境問題への対応は、現代社会における急務である。",
+      "id": "92630472-46c5-403f-88fd-b0ba0ccce05d"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活跃化，活性化",
+      "meaningEn": "invigoration, revitalization",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の活性化策が検討されている。",
+      "id": "889fac96-d83d-4336-97bf-ee98697fe256"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "副業解禁が広がる背景として、企業側が期待しているメリットはどのようなことですか？",
+      "options": [
+        "従業員の労働時間を短縮すること",
+        "新たなスキルや人脈の獲得、リスク分散",
+        "従業員の副業を全面的に禁止すること",
+        "企業の社会貢献活動を減らすこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「企業側にとっても新たなスキルや人脈の獲得、リスク分散といったメリットが見込まれるためだ」と記載されている。",
+      "id": "bb76a04d-a3b3-40fd-ae51-565d907bbf9b"
+    },
+    {
+      "question": "副業解禁に伴い、企業側が新たに直面している課題は何ですか？",
+      "options": [
+        "従業員のモチベーション低下",
+        "終身雇用の維持",
+        "労働時間管理や情報漏洩対策",
+        "新しいITツールの導入コスト"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「労働時間管理や情報漏洩対策など、企業側には新たな課題も生じている」と記載されている。",
+      "id": "67fd4f0a-e64d-451e-a4e6-0fc778b742b7"
+    },
+    {
+      "question": "個人にとって、副業解禁がもたらすメリットは何だと述べられていますか？",
+      "options": [
+        "給与が大幅に上昇すること",
+        "本業を辞めるための準備ができること",
+        "自己成長の機会が増えること",
+        "社会保険料が免除されること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「副業を通じて新たなスキルを習得したり、異業種の人々と交流したりする機会が増えることは、自己成長に繋がる大きなメリットである」と記載されている。",
+      "id": "1c9ab730-d728-44c3-8378-b8fec9d54d54"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-12-1e32d3b1bf",
+  "publishedAt": "2026-05-12T06:00:00+09:00"
+}

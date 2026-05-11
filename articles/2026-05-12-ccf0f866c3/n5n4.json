@@ -1,0 +1,114 @@
+{
+  "title": "夏の夜空を彩る花火",
+  "summary": "夏になると、きれいな花火大会があります。今年はどこで開催されますか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏は花火大会の季節です。夜空に大きな花火が上がります。とてもきれいです。多くの人が花火を見に行きます。友達と、家族と、一緒に見ると楽しいです。",
+      "translationZh": "夏天是烟花大会的季节。夜空中会升起巨大的烟花。非常漂亮。很多人会去看烟花。和朋友、和家人一起看会很开心。",
+      "translationEn": "Summer is the season for fireworks festivals. Big fireworks rise in the night sky. They are very beautiful. Many people go to see the fireworks. It's fun to watch them with friends or family.",
+      "id": "38a17ce5-71f3-4f2c-af15-961cefe78059",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の夏も、いくつかの場所で花火大会が開催されます。例えば、東京の隅田川では、有名な花火大会があります。大阪でも、大きな花火が見られます。お祭りの屋台も楽しめます。",
+      "translationZh": "今年的夏天，一些地方也会举办烟花大会。例如，在东京的隅田川，有著名的烟花大会。在大阪，也能看到巨大的烟花。还可以享受祭典的摊位。",
+      "translationEn": "This summer, fireworks festivals will also be held in several places. For example, there is a famous fireworks festival on the Sumida River in Tokyo. You can also see big fireworks in Osaka. You can also enjoy festival food stalls.",
+      "id": "5af0a64b-7f28-4054-8c51-81d78c75bea0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会に行くときは、早めに行くのがおすすめです。人が多いですから、席を見つけるのが大変です。浴衣を着る人もたくさんいます。夏の思い出作りにぴったりです。",
+      "translationZh": "去参加烟花大会的时候，建议早点去。因为人很多，找座位会很困难。也有很多人会穿浴衣。非常适合创造夏日回忆。",
+      "translationEn": "When going to a fireworks festival, it is recommended to go early. There are many people, so it is difficult to find a seat. Many people wear yukata. It's perfect for making summer memories.",
+      "id": "8ea5708c-728b-44b7-957b-e1a6b10199c1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "花火大会",
+      "reading": "はなびたいかい",
+      "meaningZh": "烟花大会",
+      "meaningEn": "fireworks festival",
+      "level": "n5n4",
+      "exampleSentence": "毎年、夏に花火大会があります。",
+      "id": "19541796-8bf7-4e0f-ad55-74a2addc9779"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaningZh": "夜空",
+      "meaningEn": "night sky",
+      "level": "n5n4",
+      "exampleSentence": "夜空に星がきれいです。",
+      "id": "36f318c5-49b3-4263-9f6e-458986a28d4b"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaningZh": "举办，举行",
+      "meaningEn": "hold, host",
+      "level": "n3",
+      "exampleSentence": "会議は明日開催されます。",
+      "id": "983ea7fb-70be-44f4-8533-bc39c3260a15"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはとても有名です。",
+      "id": "82232d2a-e871-479f-9986-c602c2570e77"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "（祭典等的）摊位，小吃摊",
+      "meaningEn": "stall, booth",
+      "level": "n5n4",
+      "exampleSentence": "お祭りで屋台がたくさん出ていました。",
+      "id": "f4b17a8f-ddf8-4788-874d-4e4020a59726"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（日本夏季便服）",
+      "meaningEn": "yukata (summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りには浴衣を着て行きます。",
+      "id": "11df5679-10fb-4b14-a48e-474a2e650973"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "旅行で素敵な思い出ができました。",
+      "id": "b8ff3cc7-0334-4bbe-ad7a-15fb86b826bb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会に行くとき、どうして早めに行くのがいいですか。",
+      "options": [
+        "花火がよく見えるから",
+        "屋台がたくさんあるから",
+        "人が多くて席を見つけるのが大変だから",
+        "浴衣を着たいから"
+      ],
+      "correctIndex": 2,
+      "explanation": "人が多いですから、席を見つけるのが大変です。",
+      "id": "be16685b-1e48-437f-8179-4b8540f7dfce"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-12-ccf0f866c3",
+  "publishedAt": "2026-05-12T06:00:00+09:00"
+}

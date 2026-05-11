@@ -1,0 +1,143 @@
+{
+  "title": "夏の夜空を彩る！花火大会開催情報",
+  "summary": "夏の風物詩である花火大会。今年も各地で様々な規模の花火大会が開催されます。お近くの情報をチェックして、夏の夜空を楽しみましょう！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏になると、夜空に咲く大輪の花、花火大会が各地で開催されますね。今年も多くの場所で、この美しい光景を楽しむことができます。感染症の影響で規模が縮小されたり、中止になったりした年もありましたが、今年は本格的な開催が期待できるでしょう。",
+      "translationZh": "一到夏天，各地就会举办绚烂夜空的烟花大会。今年，在许多地方都能欣赏到这美丽的景象。虽然前几年因为疫情影响，规模缩小或中止的情况也有，但今年可以期待盛大举办了。",
+      "translationEn": "When summer arrives, fireworks festivals, like large flowers blooming in the night sky, are held in various places. This year, too, many locations will allow us to enjoy this beautiful spectacle. While some years saw reduced scale or cancellations due to the pandemic, full-scale events are expected this year.",
+      "id": "c6797084-c69a-4fde-970d-1cfb213fc036",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会の魅力は、その迫力だけでなく、夏の風物詩として多くの人に愛されている点にもあります。浴衣を着て、友人や家族と一緒に見に行くのは、夏の良い思い出になるでしょう。屋台で美味しいものを食べながら、夜空を見上げる時間は格別です。",
+      "translationZh": "烟花大会的魅力不仅在于其魄力，还在于它作为夏季风物诗深受大家喜爱。穿着浴衣，和朋友家人一起去看，会成为美好的夏日回忆。一边在小摊上吃着美味的东西，一边仰望夜空的时间是特别的。",
+      "translationEn": "The charm of fireworks festivals lies not only in their power but also in their popularity as a summer tradition. Wearing a yukata and going to watch with friends or family creates wonderful summer memories. The time spent looking up at the night sky while enjoying delicious food from food stalls is exceptional.",
+      "id": "36943fb0-1389-47f4-a5a2-647f86f05500",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "開催される花火大会の情報は、各自治体のウェブサイトや、観光協会のサイトで確認できます。場所によっては、事前のチケット購入が必要な場合もあるので、早めにチェックしておくことが大切です。せっかく行くなら、一番良い場所で見たいものですからね。",
+      "translationZh": "举办的烟花大会信息可以在各自治体的网站或旅游协会的网站上确认。有些地方可能需要提前购票，所以尽早确认很重要。既然要去，总想在最好的位置观看。",
+      "translationEn": "Information about upcoming fireworks festivals can be found on the websites of local municipalities or tourism associations. Since some venues may require advance ticket purchase, it's important to check early. After all, if you're going, you'll want to see it from the best spot.",
+      "id": "94dce481-acf7-45f6-8b2e-a322f1b01d25",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の夏は、感染対策に気をつけながらも、久しぶりに大規模な花火大会を楽しみたいと考えている人も多いはずです。熱中症対策や、帰りの交通手段なども事前に調べておくと、より安心して楽しむことができますよ。",
+      "translationZh": "今年夏天，即使要注意防疫措施，也有很多人应该希望能久违地享受大型烟花大会。如果事先查好防暑措施和返程交通方式等，就能更安心地享受。",
+      "translationEn": "Many people are likely looking forward to enjoying large-scale fireworks festivals this summer, perhaps for the first time in a while, while still being mindful of infection prevention measures. Checking heatstroke precautions and transportation options for your return trip in advance will allow you to enjoy the event with greater peace of mind.",
+      "id": "bbdccb2f-e6e8-4a4e-a3a0-c504abde690f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（特定季节的）景象，代表事物",
+      "meaningEn": "seasonal tradition; thing associated with a season",
+      "level": "n3",
+      "exampleSentence": "桜は春の風物詩です。",
+      "id": "21a70e9f-006a-4dcf-87fd-5e67374b5766"
+    },
+    {
+      "word": "本格的",
+      "reading": "ほんかくてき",
+      "meaningZh": "正式的，地道的，有模有样的",
+      "meaningEn": "authentic; full-scale; proper",
+      "level": "n3",
+      "exampleSentence": "本格的なイタリア料理が食べられるレストランに行った。",
+      "id": "5a5fee37-e337-43b1-89c6-c875a3cf3a58"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (a light cotton kimono worn in summer)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りなので、浴衣を着て行きました。",
+      "id": "07d7f3cb-7be8-497e-bda8-790b31909369"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "（节日或活动中的）小摊，摊位",
+      "meaningEn": "stall; booth; stand (at festivals, etc.)",
+      "level": "n3",
+      "exampleSentence": "お祭りの屋台でお好み焼きを買った。",
+      "id": "39f9a4b1-8386-4afc-9416-b8e249aa959c"
+    },
+    {
+      "word": "格別",
+      "reading": "かくべつ",
+      "meaningZh": "特别，格外",
+      "meaningEn": "special; exceptional",
+      "level": "n3",
+      "exampleSentence": "今日の空気はひんやりとして格別においしい。",
+      "id": "1e1d41a2-ee80-4165-af11-82384e5f4a64"
+    },
+    {
+      "word": "自治体",
+      "reading": "じちたい",
+      "meaningZh": "自治体（指地方政府）",
+      "meaningEn": "local government; municipality",
+      "level": "n3",
+      "exampleSentence": "この問題について、自治体と協力して解決策を探っています。",
+      "id": "40983beb-c146-4eb2-8647-173e52f0e9d1"
+    },
+    {
+      "word": "感染症",
+      "reading": "かんせんしょう",
+      "meaningZh": "传染病",
+      "meaningEn": "infectious disease; communicable disease",
+      "level": "n3",
+      "exampleSentence": "感染症の流行を防ぐために、手洗いうがいを徹底しましょう。",
+      "id": "c37e47d0-aa31-4c9c-bd9b-b44fa77fa9df"
+    },
+    {
+      "word": "熱中症",
+      "reading": "ねっちゅうしょう",
+      "meaningZh": "中暑",
+      "meaningEn": "heatstroke; sunstroke",
+      "level": "n3",
+      "exampleSentence": "夏の暑い日は、熱中症に注意が必要です。",
+      "id": "cda48856-e91d-498d-b051-80abc0854263"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会は、どのような目的で開催されますか？",
+      "options": [
+        "地域のお祭りの一部として、夏の風物詩を楽しむため",
+        "新しい花火の技術を披露するため",
+        "花火師の技術を競うため",
+        "観光客を誘致するためだけ"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文では「夏の風物詩である花火大会」「多くの人に愛されている点」と書かれており、地域のお祭りの一部として、夏の風物詩を楽しむ目的があることがわかります。",
+      "id": "f011a786-d111-456b-b98d-7cc62b329507"
+    },
+    {
+      "question": "花火大会を楽しむために、事前に調べておくと良いことは何ですか？",
+      "options": [
+        "花火の歴史",
+        "花火の打ち上げ場所の周辺地図",
+        "会場までの交通手段や熱中症対策",
+        "花火の専門用語"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後に「帰りの交通手段なども事前に調べておくと、より安心して楽しむことができますよ」とあり、熱中症対策についても触れられています。",
+      "id": "a247144f-c6d1-4d20-a224-1be67cd33a40"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-12-ccf0f866c3",
+  "publishedAt": "2026-05-12T06:00:00+09:00"
+}
