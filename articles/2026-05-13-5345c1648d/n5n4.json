@@ -1,0 +1,131 @@
+{
+  "title": "話題のクラフトビールフェス",
+  "summary": "最近、クラフトビールフェスが人気です。おいしいビールを楽しみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、クラフトビールフェスがとても人気があります。たくさんの人が集まって、いろいろなビールを飲んでいます。おいしい食べ物もあります。",
+      "translationZh": "最近，精酿啤酒节非常受欢迎。很多人聚集在一起，品尝各种各样的啤酒。还有美味的食物。",
+      "translationEn": "Recently, craft beer festivals are very popular. Many people gather and drink various kinds of beer. There is also delicious food.",
+      "id": "dcfa0d56-f802-42fc-b1e6-ee8a9608756a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クラフトビールは、小さな会社が作る特別なビールです。いろいろな味があって、面白いです。フェスでは、普段飲めないビールも試せます。",
+      "translationZh": "精酿啤酒是小公司制作的特别的啤酒。它有很多不同的味道，很有趣。在啤酒节上，你也可以尝试平时喝不到的啤酒。",
+      "translationEn": "Craft beer is special beer made by small companies. It has many different flavors and is interesting. At the festival, you can also try beers you can't usually drink.",
+      "id": "eb4967ef-556e-4824-bfe5-ab7b0f2e2c53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "私も友達とクラフトビールフェスに行きました。いろいろなビールを飲みました。特に、フルーツの味がするビールがとてもおいしかったです。とても楽しい一日でした。",
+      "translationZh": "我也和朋友去了精酿啤酒节。我喝了各种各样的啤酒。特别是，有水果味道的啤酒非常好喝。是非常愉快的一天。",
+      "translationEn": "I also went to a craft beer festival with friends. I drank various kinds of beer. Especially, the beer with fruit flavor was very delicious. It was a very enjoyable day.",
+      "id": "b3cce406-5b48-4f81-873b-b8c3f19dcdb9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もしビールが好きなら、ぜひクラフトビールフェスに行ってみてください。新しい味との出会いがあるかもしれません。",
+      "translationZh": "如果你喜欢啤酒，请一定要去精酿啤酒节试试。你可能会遇到新的口味。",
+      "translationEn": "If you like beer, please try going to a craft beer festival. You might encounter new flavors.",
+      "id": "d9a2d3d7-e697-49dc-924b-5d4a08a0ed49",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が面白いです。",
+      "id": "3aaf3423-e27c-4b33-8f44-c641d8b474cd"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "2d9220f6-47ce-4089-b8ca-a85cdbd293ea"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人が公園に集まります。",
+      "id": "0d401ca0-e492-413a-ab4b-0168269416fb"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaningZh": "公司",
+      "meaningEn": "company",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な会社で働いています。",
+      "id": "f421a696-6357-4257-aeb5-b6b3a99e373c"
+    },
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaningZh": "味道",
+      "meaningEn": "taste, flavor",
+      "level": "n5n4",
+      "exampleSentence": "このケーキは甘い味がします。",
+      "id": "792b0fc2-3a9c-41ab-bd8d-f20dd2b30807"
+    },
+    {
+      "word": "普段",
+      "reading": "ふだん",
+      "meaningZh": "平常，平时",
+      "meaningEn": "usually, normally",
+      "level": "n5n4",
+      "exampleSentence": "普段はコーヒーを飲みますが、今日は紅茶を飲みます。",
+      "id": "ca45cd5a-c3d8-4fb8-8832-4af23f38ec65"
+    },
+    {
+      "word": "試す",
+      "reading": "ためす",
+      "meaningZh": "尝试，试用",
+      "meaningEn": "to try",
+      "level": "n5n4",
+      "exampleSentence": "新しいレストランを試してみたいです。",
+      "id": "e8578687-08e2-4558-8920-15389cb518c3"
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaningZh": "朋友",
+      "meaningEn": "friend",
+      "level": "n5n4",
+      "exampleSentence": "友達と映画を見に行きました。",
+      "id": "4ddfa2e0-c92a-4668-821b-2a27be0fef4b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "クラフトビールフェスでは、どんなビールが飲めますか？",
+      "options": [
+        "普段飲めない特別なビール",
+        "いつも飲むビールだけ",
+        "子供向けのジュース",
+        "熱いお茶"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「普段飲めないビールも試せます。」と書いてあります。",
+      "id": "030fb539-fa9f-43cc-92bd-ad2b75c7c6be"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-13-5345c1648d",
+  "publishedAt": "2026-05-13T06:00:00+09:00"
+}

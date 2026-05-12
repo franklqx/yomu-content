@@ -1,0 +1,134 @@
+{
+  "title": "話題のクラフトビールフェスに行ってみた！",
+  "summary": "最近人気のクラフトビールフェスに行ってきました。様々な種類のビールを試飲したり、美味しい食べ物も楽しんだりしました。皆さんもぜひ行ってみてください！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街でクラフトビールフェスがたくさん開催されていますね。私も友達に誘われて、話題のクラフトビールフェスに初めて行ってみました。会場はたくさんの人で賑わっていて、色々な種類のビールが並んでいました。",
+      "translationZh": "最近，城市里举办了很多精酿啤酒节。我也被朋友邀请，第一次去了备受瞩目的精酿啤酒节。会场人山人海，摆满了各种各样的啤酒。",
+      "translationEn": "Recently, many craft beer festivals have been held in town. I was invited by a friend and went to a popular craft beer festival for the first time. The venue was bustling with people, and various types of beer were lined up.",
+      "id": "7abf25dc-9d55-447b-8541-499fad2bc955",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クラフトビールというのは、小さなビール工場が作る、個性豊かなビールのことです。有名なビールメーカーのビールとは違って、フルーティーな味や、独特の苦味があるものなど、本当にたくさんの種類がありました。どれを飲もうか迷ってしまいましたが、お店の人におすすめを聞きながら、いくつか試飲しました。",
+      "translationZh": "精酿啤酒是指由小型啤酒厂制作的、富有特色的啤酒。与知名啤酒厂商的啤酒不同，有果香味的、有独特苦味的等等，真的种类繁多。我一时不知道该喝哪种，但在询问店员推荐后，试饮了几种。",
+      "translationEn": "Craft beer refers to unique beers made by small breweries. Unlike beers from famous manufacturers, there were so many types, such as fruity ones and those with a distinctive bitterness. I was unsure which one to try, but after asking the staff for recommendations, I sampled a few.",
+      "id": "c14ff91b-1e9a-4b40-a45c-fc7639ade75e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ビールだけではなく、フェスでは美味しい食べ物も楽しめます。ビールに合うように作られたソーセージや、揚げ物など、ついつい食べ過ぎてしまいました。音楽も流れていて、リラックスした雰囲気だったので、時間を忘れて楽しむことができました。",
+      "translationZh": "不仅有啤酒，在啤酒节上还可以享用美味的食物。有为了搭配啤酒而制作的香肠、炸物等，不知不觉就吃多了。还有音乐播放，气氛很放松，让我忘记了时间，尽情享受。",
+      "translationEn": "Not only beer, but also delicious food can be enjoyed at festivals. Sausages made to pair with beer, fried foods, etc., I ended up eating too much. Music was playing, and the atmosphere was relaxed, so I forgot about the time and enjoyed myself.",
+      "id": "6b5c685d-44bc-47b4-ae84-719289358d43",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クラフトビールフェスは、新しい味を発見できるだけでなく、友人との会話も弾むので、とても楽しいイベントだと思います。もし機会があれば、皆さんもぜひ参加してみてはいかがでしょうか。きっと新しいお気に入りのビールが見つかるはずですよ。",
+      "translationZh": "我认为精酿啤酒节不仅能发现新口味，还能增进与朋友的交流，是非常有趣的活动。如果 KUKA 机会，大家不妨也参加一下试试看呢？一定能找到你新的最爱啤酒的。",
+      "translationEn": "I think craft beer festivals are very enjoyable events, not only because you can discover new flavors but also because they facilitate lively conversations with friends. If you have the chance, why don't you try participating? You're sure to find a new favorite beer.",
+      "id": "f7525b79-0393-4284-9c2a-f948a342cf9a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "クラフトビール",
+      "reading": "くらふとびーる",
+      "meaningZh": "精酿啤酒",
+      "meaningEn": "craft beer",
+      "level": "n3",
+      "exampleSentence": "最近、クラフトビールの種類が増えた。",
+      "id": "e830f177-6a29-4237-9764-60739903b312"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题，热门",
+      "meaningEn": "topic, popular, talk of the town",
+      "level": "n3",
+      "exampleSentence": "この新しいレストランが話題になっている。",
+      "id": "ef3eef6e-05a3-4c86-a655-53dde4c6472d"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，熙熙攘攘",
+      "meaningEn": "to be crowded, to be bustling with activity",
+      "level": "n3",
+      "exampleSentence": "週末の市場はいつも賑わっている。",
+      "id": "e2faab4e-6441-4b2f-8a2f-c862db815132"
+    },
+    {
+      "word": "個性豊か",
+      "reading": "こせいゆたか",
+      "meaningZh": "个性丰富，各具特色",
+      "meaningEn": "rich in individuality, unique, distinctive",
+      "level": "n3",
+      "exampleSentence": "この作家の作品は個性が豊かだ。",
+      "id": "67f4b08b-6c2f-4b29-99a0-73ba64f8df72"
+    },
+    {
+      "word": "試飲",
+      "reading": "しおん",
+      "meaningZh": "试饮",
+      "meaningEn": "tasting (drinks)",
+      "level": "n3",
+      "exampleSentence": "ワインの試飲会に参加した。",
+      "id": "ee258a29-1183-411c-872f-6caa06a9dad8"
+    },
+    {
+      "word": "ついつい",
+      "reading": "ついつい",
+      "meaningZh": "不知不觉地，不由自主地",
+      "meaningEn": "unintentionally, inadvertently",
+      "level": "n3",
+      "exampleSentence": "美味しいものを見ると、ついつい食べ過ぎてしまう。",
+      "id": "bd587b3f-faed-4eae-b4e0-751986085bfc"
+    },
+    {
+      "word": "弾む",
+      "reading": "はずむ",
+      "meaningZh": "（谈话）活跃，（气氛）高涨",
+      "meaningEn": "to bound, to be lively (conversation)",
+      "level": "n3",
+      "exampleSentence": "会話が弾んで、時間が経つのを忘れた。",
+      "id": "0973b946-afb9-4e5b-ba09-8174c88179a4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "筆者がクラフトビールフェスで試飲したビールの特徴は何ですか？",
+      "options": [
+        "有名なビールメーカーのビールばかりだった。",
+        "フルーティーな味や独特の苦味があるものなど、様々だった。",
+        "甘すぎるビールが多かった。",
+        "アルコール度数が低いビールしかなかった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「クラフトビールというのは、個性豊かなビールのことです。…フルーティーな味や、独特の苦味があるものなど、本当にたくさんの種類がありました。」と書かれています。",
+      "id": "6b06f7a5-b61e-49a7-ae9b-dd3efdd30023"
+    },
+    {
+      "question": "筆者はクラフトビールフェスをどのように感じていますか？",
+      "options": [
+        "退屈でつまらなかった。",
+        "高価なビールが多かったので、あまり楽しめなかった。",
+        "新しい味を発見でき、友人との会話も弾む楽しいイベントだと感じている。",
+        "食べ物があまり美味しくなかった。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「クラフトビールフェスは、新しい味を発見できるだけでなく、友人との会話も弾むので、とても楽しいイベントだと思います。」と書かれています。",
+      "id": "d82266f4-80d2-4a5c-b618-57598fd5b81d"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-13-5345c1648d",
+  "publishedAt": "2026-05-13T06:00:00+09:00"
+}

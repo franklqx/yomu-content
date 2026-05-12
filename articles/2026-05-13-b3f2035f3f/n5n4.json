@@ -1,0 +1,122 @@
+{
+  "title": "ロボットが街を案内します",
+  "summary": "最近、街でロボットが案内をするようになりました。これはとても便利です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都市部では、最近ロボットの案内員が増えています。駅や空港、ショッピングモールなどで見かけることができます。これらのロボットは、人々が迷わないように道を教えます。",
+      "translationZh": "在城市地区，最近机器人向导增加了。可以在车站、机场、购物中心等地看到它们。这些机器人会告诉人们路怎么走，以免他们迷路。",
+      "translationEn": "In urban areas, robot guides have recently been increasing. You can see them at stations, airports, and shopping malls. These robots teach people the way so they don't get lost.",
+      "id": "8a440792-cf45-4b61-8adc-774fff220733",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボットは日本語や英語など、いくつかの言語を話すことができます。だから、外国から来た人も安心して利用できます。画面に地図を表示したり、写真を見せたりして、分かりやすく説明します。",
+      "translationZh": "机器人可以用日语、英语等几种语言说话。所以，从外国来的人也可以安心地使用。它们会显示地图、展示照片，并进行易于理解的说明。",
+      "translationEn": "Robots can speak several languages, such as Japanese and English. Therefore, people from foreign countries can also use them with peace of mind. They display maps on screens and show pictures to explain things clearly.",
+      "id": "465c7521-d063-479b-8035-332426370242",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このロボット案内員は、24時間いつでも働くことができます。人が疲れていても、ロボットは休まずに案内を続けます。これは、サービスを待っている人々にとって、とても良いことです。",
+      "translationZh": "这个机器人向导可以24小时随时工作。即使人累了，机器人也会不休息地继续提供引导。这对等待服务的人们来说是非常好的。",
+      "translationEn": "This robot guide can work 24 hours a day, anytime. Even if people get tired, the robots continue guiding without rest. This is very good for people waiting for service.",
+      "id": "063ef3a3-d165-4023-85b0-1cbd9a303759",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、もっとたくさんの場所でロボットが活躍するでしょう。街がもっと便利で、住みやすくなるかもしれません。",
+      "translationZh": "今后，也将在更多的地方看到机器人活跃的身影。城市可能会变得更加便利，更容易居住。",
+      "translationEn": "In the future, robots will likely be active in many more places. The city may become more convenient and easier to live in.",
+      "id": "738c8b51-399c-4855-bcf1-86dd044ff30f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市部",
+      "meaningEn": "urban area",
+      "level": "n5n4",
+      "exampleSentence": "都市部では車が多いです。",
+      "id": "ca2def4c-06fd-484c-a0a6-de8337c1f88a"
+    },
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "向导，接待员",
+      "meaningEn": "guide, receptionist",
+      "level": "n5n4",
+      "exampleSentence": "ホテルの案内員は親切でした。",
+      "id": "0ceb6ae3-fafd-4edd-b953-7dc86d6f41c3"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "猫の数が増えています。",
+      "id": "4aa8ab6b-d9f4-49a8-a8bf-92a6a9928aa3"
+    },
+    {
+      "word": "迷う",
+      "reading": "まよう",
+      "meaningZh": "迷路，犹豫",
+      "meaningEn": "to lose one's way, to be undecided",
+      "level": "n5n4",
+      "exampleSentence": "地図がないと道に迷います。",
+      "id": "1607cbdb-cab3-4a4c-9702-b6209a2fd71c"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "無事に家に着いて安心しました。",
+      "id": "be72eb25-ec24-4ed5-90a7-d9f24455058c"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用",
+      "meaningEn": "use, utilization",
+      "level": "n5n4",
+      "exampleSentence": "このバスは無料で利用できます。",
+      "id": "b9b1e3f9-8fb2-4eec-9507-37399f3d5dd3"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，活跃的表现",
+      "meaningEn": "success, active participation",
+      "level": "n3",
+      "exampleSentence": "選手は試合で活躍しました。",
+      "id": "20629369-0399-4bd0-97ce-55abfe114761"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員は、どのような場所で見られますか。",
+      "options": [
+        "公園",
+        "図書館",
+        "駅や空港",
+        "学校"
+      ],
+      "correctIndex": 2,
+      "explanation": "「駅や空港、ショッピングモールなどで見かけることができます。」と書いてあります。",
+      "id": "71395d15-d0b8-4816-9f62-0c5436df7d22"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-13-b3f2035f3f",
+  "publishedAt": "2026-05-13T06:00:00+09:00"
+}

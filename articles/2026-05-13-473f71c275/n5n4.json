@@ -1,0 +1,122 @@
+{
+  "title": "ローカル線でお得に旅！",
+  "summary": "ローカル線一日乗り放題切符は、安くて楽しい旅行にぴったりです。この切符の活用法を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "皆さん、こんにちは！旅行が好きですか？特に、電車でゆっくり旅をするのは楽しいですね。今日は、ローカル線一日乗り放題切符について話します。この切符は、一日中、特定のローカル線が何度でも乗れるお得な切符です。",
+      "translationZh": "大家好！喜欢旅行吗？特别是坐电车悠闲地旅行，非常开心。今天，我们来聊聊地方线一日无限次乘坐车票。这种车票是，在一天内，特定地方线可以不限次数乘坐的划算车票。",
+      "translationEn": "Hello everyone! Do you like traveling? Especially, traveling slowly by train is fun. Today, let's talk about the local line one-day unlimited ride ticket. This ticket is a great value ticket that allows you to ride a specific local line as many times as you want all day.",
+      "id": "f275b760-c021-4c14-ac51-518dabf0878e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符の使い方はとても簡単です。まず、自分の住んでいる近くの駅で切符を買います。そして、その切符が使えるローカル線を選びます。例えば、景色がきれいな田舎の線路や、小さなお店がたくさんある町を通る線路などです。一日切符なので、朝早くから夜遅くまで使えます。",
+      "translationZh": "这种车票的使用方法非常简单。首先，在自己住家附近的车站购买车票。然后，选择可以使用该车票的地方线。例如，有美丽风景的乡村线路，或者经过有很多小商店的城镇的线路等等。因为是一日车票，所以从一大早到深夜都可以使用。",
+      "translationEn": "How to use this ticket is very simple. First, buy the ticket at a station near where you live. Then, choose a local line that you can use with the ticket. For example, a railway line in the countryside with beautiful scenery, or a line that passes through towns with many small shops. Since it's a one-day ticket, you can use it from early morning until late at night.",
+      "id": "eed3e795-ba95-4de0-9b92-43c1d461894f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一日乗り放題切符を使えば、色々な町に立ち寄ることができます。気になる町で降りて、散歩をしたり、美味しいものを食べたりしましょう。そして、また電車に乗って次の町へ。時間に余裕があるので、急ぐ必要はありません。自分のペースで、旅を楽しむことができます。",
+      "translationZh": "使用了当日无限次乘坐车票，就可以在各种各样的城镇停留。在感兴趣的城镇下车，散散步，或者吃点好吃的吧。然后，再坐电车去下一个城镇。因为时间充裕，所以没有必要着急。可以按照自己的节奏，享受旅程。",
+      "translationEn": "With the one-day unlimited ride ticket, you can stop by various towns. Get off at a town that interests you, take a walk, or eat something delicious. Then, get back on the train to the next town. Because you have plenty of time, there's no need to rush. You can enjoy your trip at your own pace.",
+      "id": "2efaab6a-355d-4ccf-b1e1-b9c7e413c79b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ローカル線は、その地域ならではの風景や文化に出会えるのが魅力です。ぜひ、この切符を使って、いつもと違う旅を体験してみてください。きっと、素敵な思い出ができるはずです。",
+      "translationZh": "地方线（ローカル線）的魅力在于，可以邂逅那个地区特有的风景和文化。请务必使用这张车票，体验一次与平时不同的旅行。一定能留下美好的回忆。",
+      "translationEn": "The charm of local lines is that you can encounter scenery and culture unique to the region. Please try using this ticket to experience a different kind of trip. You are sure to make wonderful memories.",
+      "id": "09f78a3e-de85-4901-b19e-8fbaa8717e51",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "一日乗り放題切符",
+      "reading": "いちにちのりほうだい切符",
+      "meaningZh": "一日无限次乘坐车票",
+      "meaningEn": "One-day unlimited ride ticket",
+      "level": "n5n4",
+      "exampleSentence": "この切符で、一日中電車に乗れます。",
+      "id": "132fbdbb-497a-4cc6-a329-2c816fa32b29"
+    },
+    {
+      "word": "ローカル線",
+      "reading": "ローカルせん",
+      "meaningZh": "地方线，支线",
+      "meaningEn": "Local line, branch line",
+      "level": "n5n4",
+      "exampleSentence": "ローカル線からの景色はきれいです。",
+      "id": "ad657c15-1ddf-4399-aefc-8da227352522"
+    },
+    {
+      "word": "活用法",
+      "reading": "かつようほう",
+      "meaningZh": "活用方法，利用方法",
+      "meaningEn": "How to utilize, way of making use of",
+      "level": "n3",
+      "exampleSentence": "このアプリの活用法を教えてください。",
+      "id": "5891a97b-e664-44c5-97c9-a4acffff3b39"
+    },
+    {
+      "word": "お得",
+      "reading": "とく",
+      "meaningZh": "划算的，便宜的",
+      "meaningEn": "Profitable, advantageous, cheap",
+      "level": "n5n4",
+      "exampleSentence": "このセールはお得です。",
+      "id": "c94986e9-090b-4153-b2e6-a1e6effe9432"
+    },
+    {
+      "word": "立ち寄る",
+      "reading": "たちよる",
+      "meaningZh": "顺便访问，顺道去",
+      "meaningEn": "To stop by, to drop in",
+      "level": "n3",
+      "exampleSentence": "帰り道にコンビニに立ち寄りました。",
+      "id": "c5d5f404-3841-4155-b595-64eaaf2c28b1"
+    },
+    {
+      "word": "余裕",
+      "reading": "よゆう",
+      "meaningZh": "充裕，从容",
+      "meaningEn": "Composure, surplus, margin",
+      "level": "n3",
+      "exampleSentence": "時間と心に余裕を持つことが大切です。",
+      "id": "990da858-efc1-4741-913d-71bd7e8c1bd9"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "Charm, fascination",
+      "level": "n3",
+      "exampleSentence": "この町の魅力は、静かなところです。",
+      "id": "d4592038-e8bb-4cc8-82fc-cf8370df478f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ローカル線一日乗り放題切符のいいところは、どんなところですか。",
+      "options": [
+        "一度しか乗れないから安い",
+        "色々な町にゆっくり立ち寄れる",
+        "速く移動できる",
+        "高級なレストランに行ける"
+      ],
+      "correctIndex": 1,
+      "explanation": "「一日切符なので、急ぐ必要はありません。自分のペースで、旅を楽しむことができます。」と書いてあります。",
+      "id": "a5dd69ce-6cc2-49c0-8571-6fc775cac890"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-13-473f71c275",
+  "publishedAt": "2026-05-13T06:00:00+09:00"
+}
