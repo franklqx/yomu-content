@@ -1,0 +1,131 @@
+{
+  "title": "人気声優のラジオ番組",
+  "summary": "人気声優のラジオ番組は面白いです。イベントも楽しいです。声優さんの声が大好きです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "声優はアニメやゲームで声を使います。とても上手な人が多いです。その声優さんのラジオ番組が人気です。毎週楽しみにしている人がたくさんいます。",
+      "translationZh": "声优在动画和游戏中用声音表演。很多声优都很棒。他们的广播节目很受欢迎。很多人每周都期待着。",
+      "translationEn": "Voice actors use their voices in anime and games. Many of them are very skilled. Their radio programs are popular. Many people look forward to them every week.",
+      "id": "93a85b60-5773-44c0-b0ea-56c9934dd72c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ラジオ番組では、声優さんは色々な話をします。アニメの裏話や、今日の出来事などです。リスナーからの質問に答えることもあります。声優さんの素顔が見えるようで、面白いです。",
+      "translationZh": "在广播节目中，声优会聊各种话题。比如动画的幕后故事，或者今天发生的事情。他们有时也会回答听众的提问。感觉能看到声优的真实一面，很有趣。",
+      "translationEn": "On the radio program, voice actors talk about various things. Such as behind-the-scenes stories of anime or today's events. They sometimes answer questions from listeners. It's interesting, like seeing the voice actor's true self.",
+      "id": "41367111-8664-4042-b28b-490404c1c470",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "時々、声優さんの公開イベントがあります。ファンは声優さんに会えます。イベントでは、ミニライブをしたり、ゲームをしたりします。会場はいつも盛り上がっています。",
+      "translationZh": "有时，声优会举办公开活动。粉丝可以见到声优。在活动中，他们会进行小型演唱会或者玩游戏。会场总是很热闹。",
+      "translationEn": "Sometimes, there are public events for voice actors. Fans can meet the voice actors. At the events, they have mini-live performances or play games. The venue is always lively.",
+      "id": "6815a781-fd18-409b-a8f0-a2e24a9c7529",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ラジオ番組やイベントは、声優さんのファンにとって大切な時間です。声優さんとファンが近い距離で交流できます。これからも、たくさんの人が声優さんの活動を応援するでしょう。",
+      "translationZh": "广播节目和活动是声优粉丝们宝贵的时间。声优和粉丝可以在近距离交流。今后，也一定有很多人会支持声优的活动。",
+      "translationEn": "Radio programs and events are precious times for voice actor fans. Voice actors and fans can interact at close range. From now on, many people will surely support the activities of voice actors.",
+      "id": "0ecaa31a-8943-4913-849b-39a6eb724d2f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "配音演员",
+      "meaningEn": "voice actor",
+      "level": "n5n4",
+      "exampleSentence": "この声優さんは人気があります。",
+      "id": "1719bff1-2f10-4bba-ad6a-c554e2cafb06"
+    },
+    {
+      "word": "ラジオ番組",
+      "reading": "ラジオばんぐみ",
+      "meaningZh": "广播节目",
+      "meaningEn": "radio program",
+      "level": "n5n4",
+      "exampleSentence": "私の好きなラジオ番組は夜にあります。",
+      "id": "ce40ec88-bf9a-4816-a3bd-eb3fb316c071"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "あの歌手はとても人気です。",
+      "id": "7e6e1b27-2ded-4ec2-acae-3e8dbb3ea036"
+    },
+    {
+      "word": "裏話",
+      "reading": "うらばなし",
+      "meaningZh": "内幕，不为人知的故事",
+      "meaningEn": "behind-the-scenes story",
+      "level": "n3",
+      "exampleSentence": "映画の裏話を聞きました。",
+      "id": "f9fe3c6d-99cf-4bb9-a156-aa1028bdae34"
+    },
+    {
+      "word": "リスナー",
+      "reading": "リスナー",
+      "meaningZh": "听众",
+      "meaningEn": "listener",
+      "level": "n5n4",
+      "exampleSentence": "リスナーからのメールを読みました。",
+      "id": "330fb230-04ba-4058-a874-703ef69634db"
+    },
+    {
+      "word": "公開イベント",
+      "reading": "こうかいイベント",
+      "meaningZh": "公开活动",
+      "meaningEn": "public event",
+      "level": "n3",
+      "exampleSentence": "明日の公開イベントに行きます。",
+      "id": "09c6223d-4ce7-4ca7-866c-1c9f87838dc4"
+    },
+    {
+      "word": "ファン",
+      "reading": "ファン",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はそのバンドのファンです。",
+      "id": "a142d9f5-9987-47e5-ac46-34d7371719d7"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "interaction, exchange",
+      "level": "n3",
+      "exampleSentence": "学生と先生が交流しました。",
+      "id": "fdd0fe41-8326-4dcd-b63f-9ed0f9368ff3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "声優さんのラジオ番組では、どんな話をしますか。",
+      "options": [
+        "アニメの裏話や今日の出来事",
+        "難しい科学の話",
+        "歴史の勉強",
+        "外国語のレッスン"
+      ],
+      "correctIndex": 0,
+      "explanation": "ラジオ番組では、声優さんは色々な話をします。アニメの裏話や、今日の出来事などです。",
+      "id": "e4e06e75-4736-4069-8d5d-d5cb0e51b04e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-14-98ac6b1cfd",
+  "publishedAt": "2026-05-14T06:00:00+09:00"
+}

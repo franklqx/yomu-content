@@ -1,0 +1,122 @@
+{
+  "title": "Jリーグの工夫、観客を呼ぶ！",
+  "summary": "Jリーグの地方クラブは、もっとお客さんを呼ぶために、いろいろな工夫をしています。どんな工夫があるか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "Jリーグには、たくさんのチームがあります。特に地方のチームは、都市部のチームよりお客さんが少ないことがあります。だから、チームは工夫をしています。例えば、家族で楽しめるイベントをすることがあります。",
+      "translationZh": "J联赛有很多队伍。特别是地方队伍，有时观众会比都市的队伍少。所以，队伍们正在想办法。例如，有时会举办全家都能享受的活动。",
+      "translationEn": "J.League has many teams. Especially local teams sometimes have fewer spectators than city teams. So, the teams are making efforts. For example, they sometimes hold events that families can enjoy.",
+      "id": "47a0fac8-df04-4786-9bd9-9fa894088da4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "試合の日には、サッカーだけではなく、地元の食べ物や音楽も楽しめます。子供が遊べる場所を作ることもあります。こうすることで、サッカーファンではない人も、スタジアムに来やすくなります。",
+      "translationZh": "比赛日，不仅能享受足球，还能品尝当地的美食和音乐。有时还会设置孩子们可以玩耍的地方。通过这样做，即使不是足球迷的人，也更容易来到体育场。",
+      "translationEn": "On match days, people can enjoy not only soccer but also local food and music. Sometimes, places where children can play are created. By doing this, even people who are not soccer fans can easily come to the stadium.",
+      "id": "b97ae43a-b879-4b2a-969e-c1f27709004f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、地域の学校や会社と協力することもあります。例えば、子供たちが学校の代わりにスタジアムで応援を練習することもあります。地域の人々と一緒にチームを応援することは、とても大切です。",
+      "translationZh": "此外，有时也会与当地的学校和公司合作。例如，孩子们有时会在体育场代替学校练习助威。和地区的人们一起支持队伍，是非常重要的。",
+      "translationEn": "Also, sometimes they cooperate with local schools and companies. For example, children sometimes practice cheering at the stadium instead of at school. Cheering for the team together with local people is very important.",
+      "id": "74092114-116c-44c6-b049-3c41422c30a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの工夫によって、スタジアムはもっと楽しくなり、たくさんの人が応援に来るようになりました。地域にとって、Jリーグのチームは大切な存在です。",
+      "translationZh": "通过这些努力，体育场变得更加有趣，越来越多的人前来助威。对于地区来说，J联赛的队伍是重要的存在。",
+      "translationEn": "Through these efforts, stadiums have become more enjoyable, and many people have come to cheer. For the region, J.League teams are an important presence.",
+      "id": "c58af7b8-3091-448a-921f-3cbe1b0d7412",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, local area",
+      "level": "n5n4",
+      "exampleSentence": "これは地方の有名な食べ物です。",
+      "id": "e42ef639-082d-491a-9ffe-a974de1514e6"
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaningZh": "观众",
+      "meaningEn": "spectator, audience",
+      "level": "n5n4",
+      "exampleSentence": "スタジアムにたくさんの観客が来ました。",
+      "id": "c6b58f7b-477d-4f11-bd7a-5c107c347754"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "办法，创造性改进",
+      "meaningEn": "ingenuity, invention, device",
+      "level": "n5n4",
+      "exampleSentence": "この問題の解決に工夫が必要です。",
+      "id": "d77aa447-1e05-4285-8d42-f1f8ae3a2401"
+    },
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市区，市中心",
+      "meaningEn": "urban area, city center",
+      "level": "n5n4",
+      "exampleSentence": "都市部には高いビルがたくさんあります。",
+      "id": "8d241a05-ebe7-4069-9372-c670f12e163d"
+    },
+    {
+      "word": "イベント",
+      "reading": "イベント",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "週末に楽しいイベントがあります。",
+      "id": "8dbbd2c5-3220-4a02-acf1-42536e6f1e08"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation, collaboration",
+      "level": "n5n4",
+      "exampleSentence": "地域の人々と協力します。",
+      "id": "f9c8885a-a0e9-4873-9678-2df8f9f2320d"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "支持，助威",
+      "meaningEn": "support, cheering",
+      "level": "n5n4",
+      "exampleSentence": "チームを応援しましょう。",
+      "id": "db6f117f-51c1-4af2-8851-5dbc65d7815f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Jリーグの地方クラブは、観客を増やすためにどんなことをしますか？",
+      "options": [
+        "もっと高いチケットを売ります。",
+        "家族で楽しめるイベントをします。",
+        "試合をテレビで放送しません。",
+        "練習を見せません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "例えば、家族で楽しめるイベントをすることがあります。",
+      "id": "98a02d78-c1da-4ee2-9f97-5d776c3837e2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-14-j",
+  "publishedAt": "2026-05-14T06:00:00+09:00"
+}

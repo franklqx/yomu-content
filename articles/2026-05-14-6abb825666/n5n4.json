@@ -1,0 +1,122 @@
+{
+  "title": "新学期！文房具のトレンド",
+  "summary": "新しい学期が始まりますね。どんな文房具が人気があるか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ新しい学期が始まります。学校で使う文房具は、新しいものにすると気持ちがいいですね。文房具店には、いろいろな種類のペンやノートがあります。",
+      "translationZh": "很快新的学期就要开始了。在学校用的文具，换成新的会让人心情愉快呢。文具店里有各种各样的笔和笔记本。",
+      "translationEn": "The new school term is starting soon. It feels good to have new stationery for school. Stationery stores have many kinds of pens and notebooks.",
+      "id": "5ba1a28c-92d8-461e-9ef6-47e414aa93c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、人気の文房具は、色がきれいで使いやすいものです。特に、キャラクターの絵がついたノートやペンは、子供たちに人気があります。持っていると、勉強が楽しくなります。",
+      "translationZh": "最近，受欢迎的文具是颜色漂亮又好用的。特别是印有卡通人物图案的笔记本和笔，很受孩子们的欢迎。拥有它们，学习会变得有趣。",
+      "translationEn": "Recently, popular stationery items are those with beautiful colors and are easy to use. Especially, notebooks and pens with character pictures are popular among children. Having them makes studying more fun.",
+      "id": "ca9826fd-b030-4d98-a013-3157b0a432b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、エコな文房具も注目されています。リサイクルされた紙で作られたノートや、詰め替えができるペンなどが売られています。地球にやさしいものを選ぶ人も増えています。",
+      "translationZh": "此外，环保文具也备受关注。用回收纸张制成的笔记本，以及可替换笔芯的笔等正在销售。选择对地球友好的物品的人也越来越多。",
+      "translationEn": "Also, eco-friendly stationery is gaining attention. Notebooks made from recycled paper and refillable pens are being sold. More people are choosing environmentally friendly items.",
+      "id": "6cc3eeb0-aa4d-46b1-bbfe-a61941cca9b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい学期が始まる前に、お気に入りの文房具を見つけて、楽しく勉強を始めましょう。",
+      "translationZh": "在新的学期开始之前，找到你喜欢的文具，开始快乐的学习吧。",
+      "translationEn": "Before the new school term begins, let's find our favorite stationery and start studying happily.",
+      "id": "56d6bfde-365b-4a14-8399-c02308e68030",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaningZh": "学期",
+      "meaningEn": "school term",
+      "level": "n5n4",
+      "exampleSentence": "新しい学期が始まります。",
+      "id": "c0dfcf25-438f-44f7-a7b1-22ae982cceb0"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "学校で使う文房具は、新しいものにしました。",
+      "id": "b60e771e-8c57-404d-8f2c-919d23289b34"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このキャラクターは子供たちに人気があります。",
+      "id": "de83e4ed-bfb8-4908-b4a2-bc779406faf6"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaningZh": "功能",
+      "meaningEn": "function",
+      "level": "n3",
+      "exampleSentence": "このペンは書きやすい機能があります。",
+      "id": "21295c3e-fd65-4b99-b211-61bd04ea4065"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n3",
+      "exampleSentence": "環境にやさしい製品を選びたいです。",
+      "id": "d2a3c25b-1026-4be3-a7e5-0f4571bb2bc2"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，引人注意",
+      "meaningEn": "attention",
+      "level": "n3",
+      "exampleSentence": "新しい技術に注目が集まっています。",
+      "id": "59ca62a8-d1ac-4666-8bf7-9c3e0729a150"
+    },
+    {
+      "word": "詰め替え",
+      "reading": "つめかえ",
+      "meaningZh": "补充装，替换装",
+      "meaningEn": "refill",
+      "level": "n3",
+      "exampleSentence": "インクの詰め替えができます。",
+      "id": "7abc3c88-86d4-49ad-a1bb-0b016333641b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、どんな文房具が人気がありますか。",
+      "options": [
+        "高価で特別なもの",
+        "色がきれいで使いやすいもの",
+        "大きくて重いもの",
+        "古いデザインのもの"
+      ],
+      "correctIndex": 1,
+      "explanation": "最近、人気の文房具は、色がきれいで使いやすいものです。",
+      "id": "e02c46fd-284b-4760-9196-a6d982ae9dc9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-14-6abb825666",
+  "publishedAt": "2026-05-14T06:00:00+09:00"
+}

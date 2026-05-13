@@ -1,0 +1,135 @@
+{
+  "title": "人気声優のラジオ番組とイベントを楽しもう！",
+  "summary": "声優さんのラジオ番組は、声優さんの素顔を知るのにぴったりです。公開イベントに参加すれば、もっと声優さんを身近に感じられます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気のある声優さんのラジオ番組をよく聞くようになりました。ラジオでは、テレビやアニメでは見せない声優さんのリラックスした話し方や、意外な趣味を知ることができるので、とても面白いです。番組のリスナーからのメールを読んだり、時にはゲストを招いたりすることもあります。声優さんの素顔が垣間見えるので、ファンにとってはたまらない時間です。",
+      "translationZh": "最近，我经常听人气声优的广播节目。在广播里，可以看到声优们不像在电视或动画中那样拘谨的放松的说话方式，还能了解到他们出人意料的爱好，所以非常有意思。有时还会读听众的来信，或者邀请嘉宾。因为能窥见声优的真实一面，对粉丝来说是无法抗拒的时间。",
+      "translationEn": "Recently, I've been listening to radio shows by popular voice actors more often. On the radio, you can hear their relaxed way of speaking, which is different from how they appear on TV or in anime, and learn about their surprising hobbies, making it very interesting. Sometimes they read emails from listeners, or even invite guests. It's a precious time for fans because they can catch a glimpse of the voice actors' true selves.",
+      "id": "3d3f1274-e692-4e6a-ad07-fc42f7369f9c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ラジオ番組の公開イベントも、ファンにとっては特別な機会です。番組の公開収録や、声優さん自身が企画するイベントに参加すると、会場の熱気を感じながら、好きな声優さんの声を直接聞くことができます。イベントでは、声優さんとファンが直接交流できるコーナーが設けられることもあり、非常に盛り上がります。私も以前、好きな声優さんのイベントに参加したことがありますが、本当に感動しました。",
+      "translationZh": "广播节目的公开活动对粉丝来说也是一个特别的机会。参加节目的公开录制，或者声优自己策划的活动，可以感受到现场的热烈气氛，并能直接听到喜欢声优的声音。在活动中，有时会设有声优和粉丝直接交流的环节，气氛非常热烈。我以前也参加过我喜欢的声优的活动，真的非常感动。",
+      "translationEn": "Public events for radio shows are also special occasions for fans. By attending live recordings of the shows or events organized by the voice actors themselves, you can feel the energy of the venue while listening to your favorite voice actor's voice directly. Events sometimes include segments where voice actors and fans can interact directly, making them very lively. I attended an event for a voice actor I like before, and it was truly moving.",
+      "id": "a0b441f9-7e66-454d-b17d-e71e70dedd04",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "声優さんのラジオ番組を聴くだけでなく、イベントにも参加してみると、声優さんへの応援の気持ちがさらに強くなるでしょう。会場に行くのが難しい場合でも、ラジオ番組を通じて、彼らの活動を応援することはできます。これからも、好きな声優さんの活躍を、ラジオやイベントを通じて、もっと応援していきたいと思っています。",
+      "translationZh": "不仅是听声优的广播节目，如果也参加活动的话，对声优的声援之情一定会更加强烈。即使去不了现场，也可以通过广播节目来支持他们的活动。今后，我也想通过广播和活动，更多地支持我喜欢的声优们。",
+      "translationEn": "Not only by listening to voice actors' radio shows, but also by attending their events, your support for them will surely grow stronger. Even if you can't go to the venue, you can support their activities through their radio programs. From now on, I want to continue supporting my favorite voice actors more through radio and events.",
+      "id": "830e987b-c886-451e-8f5c-67d28459e418",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "配音演员",
+      "meaningEn": "voice actor/actress",
+      "level": "n3",
+      "exampleSentence": "このアニメの主人公の声優は誰ですか？",
+      "id": "95f5f89b-e5fe-4a21-b91d-245587916c9e"
+    },
+    {
+      "word": "ラジオ番組",
+      "reading": "ラジオばんぐみ",
+      "meaningZh": "广播节目",
+      "meaningEn": "radio program",
+      "level": "n3",
+      "exampleSentence": "毎晩、好きなラジオ番組を聞いています。",
+      "id": "bee71afd-7a76-4a64-acb2-727174d64fde"
+    },
+    {
+      "word": "リラックスした",
+      "reading": "リラックスした",
+      "meaningZh": "放松的",
+      "meaningEn": "relaxed",
+      "level": "n3",
+      "exampleSentence": "休みの日は、家でリラックスした時間を過ごします。",
+      "id": "de926997-09dd-4f7f-8508-b725e98489ef"
+    },
+    {
+      "word": "意外な",
+      "reading": "いが이な",
+      "meaningZh": "意外的，出乎意料的",
+      "meaningEn": "unexpected, surprising",
+      "level": "n3",
+      "exampleSentence": "彼には意外な才能があります。",
+      "id": "3ce3d75f-06b7-4ee8-8a9a-608296e319c3"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaningZh": "爱好",
+      "meaningEn": "hobby",
+      "level": "n3",
+      "exampleSentence": "私の趣味は読書です。",
+      "id": "435839a6-7122-478b-8351-f9340814877b"
+    },
+    {
+      "word": "垣間見える",
+      "reading": "かいまみえる",
+      "meaningZh": "窥见，瞥见",
+      "meaningEn": "to glimpse, to catch a glimpse of",
+      "level": "n3",
+      "exampleSentence": "彼の行動から、彼の性格が垣間見えました。",
+      "id": "80126db4-b474-4dc1-9928-458b6292e481"
+    },
+    {
+      "word": "たまらない",
+      "reading": "たまらない",
+      "meaningZh": "受不了的，无法忍受的；（极其）想要的",
+      "meaningEn": "unbearable; irresistible; extremely desirable",
+      "level": "n3",
+      "exampleSentence": "このケーキは美味しそうで、たまらない。",
+      "id": "3afb703a-337a-4ab1-8119-87f799914c22"
+    },
+    {
+      "word": "公開イベント",
+      "reading": "こうかいイベント",
+      "meaningZh": "公开活动",
+      "meaningEn": "public event",
+      "level": "n3",
+      "exampleSentence": "明日の公開イベントに行きたいです。",
+      "id": "ecc147ac-8fd3-4131-a450-992fa567f015"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ラジオ番組で声優さんのどんな一面を知ることができますか？",
+      "options": [
+        "アニメでの役柄についての詳しい話",
+        "テレビでは見せないリラックスした話し方や意外な趣味",
+        "最新の出演情報",
+        "収録現場の裏話"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「ラジオでは、テレビやアニメでは見せない声優さんのリラックスした話し方や、意外な趣味を知ることができるので、とても面白いです。」とあります。",
+      "id": "9802a5d9-2bb0-495a-937b-8305dcf94225"
+    },
+    {
+      "question": "公開イベントに参加するメリットは何ですか？",
+      "options": [
+        "声優さんのサインを必ずもらえる",
+        "会場限定のグッズを安く買える",
+        "会場の熱気を感じながら声優さんの声を直接聞いたり、交流したりできる",
+        "アニメの先行上映会に参加できる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「イベントに参加すると、会場の熱気を感じながら、好きな声優さんの声を直接聞くことができます。イベントでは、声優さんとファンが直接交流できるコーナーが設けられることもあり、非常に盛り上がります。」とあります。",
+      "id": "964e70ca-1f9e-470c-bc31-635d203d233b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-14-98ac6b1cfd",
+  "publishedAt": "2026-05-14T06:00:00+09:00"
+}
