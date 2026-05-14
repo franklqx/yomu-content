@@ -1,0 +1,131 @@
+{
+  "title": "新しい体験、どうですか？",
+  "summary": "最近、日本で外国人のための新しい体験プログラムがたくさんできました。旅行がもっと楽しくなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本に新しい体験プログラムができました。これは、外国から来た人たちのためです。例えば、着物を着て写真を撮るプログラムがあります。とても人気があります。",
+      "translationZh": "最近，日本有了新的体验项目。这是为从外国来的人们准备的。例如，有穿和服拍照的项目。这个项目非常受欢迎。",
+      "translationEn": "Recently, new experience programs have been established in Japan. These are for people coming from foreign countries. For example, there is a program to wear a kimono and take pictures. It is very popular.",
+      "id": "728dff55-c531-46b1-a91d-783f33ec0521",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、田舎で農業を手伝うプログラムもあります。野菜を自分で育てて、収穫することができます。日本の田舎の生活を体験できます。",
+      "translationZh": "另外，还有在乡下帮忙种田的体验项目。你可以自己种蔬菜，然后收获。可以体验日本乡村的生活。",
+      "translationEn": "Also, there is a program to help with farming in the countryside. You can grow vegetables yourself and then harvest them. You can experience life in rural Japan.",
+      "id": "17da0e33-32b4-4192-af5f-4767b3fb6fe6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "料理教室も人気です。寿司やラーメンの作り方を学べます。作った料理は、その場で食べることができます。美味しいですよ。",
+      "translationZh": "料理教室也很受欢迎。可以学习制作寿司和拉面的方法。做好的料理，当场就可以吃。非常好吃哦。",
+      "translationEn": "Cooking classes are also popular. You can learn how to make sushi and ramen. You can eat the food you made on the spot. It is delicious.",
+      "id": "292f0d00-4e1a-43dc-86d2-55b2befb4834",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しいプログラムは、日本の文化を深く知る良い機会です。旅行を計画している人は、ぜひ試してみてください。",
+      "translationZh": "这些新的体验项目是深入了解日本文化的绝佳机会。正在计划旅行的人，请务必尝试一下。",
+      "translationEn": "These new programs are a good opportunity to learn deeply about Japanese culture. People who are planning a trip should definitely try them.",
+      "id": "aab7b38a-b935-4972-9849-7ad8c14f8343",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "新しい体験は楽しいです。",
+      "id": "9bfcfecc-c6b0-4e39-85d0-08fc37b267be"
+    },
+    {
+      "word": "プログラム",
+      "reading": "ぷろぐらむ",
+      "meaningZh": "项目，计划",
+      "meaningEn": "program",
+      "level": "n5n4",
+      "exampleSentence": "このプログラムは面白そうです。",
+      "id": "705252f6-3aa8-4d6b-a632-d8546096fa4c"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaningZh": "外国",
+      "meaningEn": "foreign country",
+      "level": "n5n4",
+      "exampleSentence": "外国からの人が来ました。",
+      "id": "2865ec58-2741-4510-ad80-97a016a80a1e"
+    },
+    {
+      "word": "着物",
+      "reading": "きもの",
+      "meaningZh": "和服",
+      "meaningEn": "kimono",
+      "level": "n5n4",
+      "exampleSentence": "着物を着てみました。",
+      "id": "4bf541a9-4e43-45f2-ab36-7731cbfbb89a"
+    },
+    {
+      "word": "田舎",
+      "reading": "いなか",
+      "meaningZh": "乡下",
+      "meaningEn": "countryside",
+      "level": "n5n4",
+      "exampleSentence": "田舎は静かです。",
+      "id": "ea0850e3-e0dd-4cd5-937b-2e23d7f3009d"
+    },
+    {
+      "word": "農業",
+      "reading": "のうぎょう",
+      "meaningZh": "农业",
+      "meaningEn": "agriculture",
+      "level": "n3",
+      "exampleSentence": "農業を手伝いました。",
+      "id": "c023aaba-c57f-4a4f-af16-89d3d84caa79"
+    },
+    {
+      "word": "収穫",
+      "reading": "しゅうかく",
+      "meaningZh": "收获",
+      "meaningEn": "harvest",
+      "level": "n3",
+      "exampleSentence": "野菜の収穫をしました。",
+      "id": "b77dbe06-3f6d-41d9-845a-e950e8afc769"
+    },
+    {
+      "word": "料理教室",
+      "reading": "りょうりきょうしつ",
+      "meaningZh": "料理教室",
+      "meaningEn": "cooking class",
+      "level": "n5n4",
+      "exampleSentence": "料理教室に行きました。",
+      "id": "da420dbf-9161-4d90-945d-3da928a43612"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "田舎のプログラムで、何ができますか？",
+      "options": [
+        "着物を着て写真を撮る",
+        "寿司の作り方を学ぶ",
+        "野菜を育てて収穫する",
+        "ラーメンを作る"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「田舎で農業を手伝うプログラムもあります。野菜を自分で育てて、収穫することができます。」と書いてあります。",
+      "id": "7a6e85cb-591e-4a52-a26c-ca85f8190086"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-15-2c195a4889",
+  "publishedAt": "2026-05-15T06:00:00+09:00"
+}

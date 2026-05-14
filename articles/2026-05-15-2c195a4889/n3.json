@@ -1,0 +1,135 @@
+{
+  "title": "新しい体験で日本をもっと楽しもう！",
+  "summary": "最近、外国人観光客向けに、日本の文化や生活を体験できる新しいプログラムがたくさん登場しています。これらのプログラムは、旅行をより豊かにしてくれるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本を訪れる外国人観光客の間で、単に観光地を巡るだけでなく、日本の文化や生活を体験できる新しいプログラムが人気を集めています。例えば、着物を着て街を散策したり、伝統的な茶道を体験したりするツアーです。これらの体験は、旅行者に日本の深い理解をもたらすので、忘れられない思い出になるでしょう。",
+      "translationZh": "最近，在日本，除了单纯的观光景点巡游，那些能体验日本文化和生活的新的体验项目，在访日外国游客中越来越受欢迎。例如，有穿着和服在街上散步，或者体验传统茶道的旅行团。因为这些体验能给旅行者带来对日本的深刻理解，所以会成为难忘的回忆。",
+      "translationEn": "Recently, among foreign tourists visiting Japan, new programs that allow them to experience Japanese culture and lifestyle, rather than just visiting tourist spots, are gaining popularity. For example, there are tours where you can stroll around town wearing a kimono or experience a traditional tea ceremony. Because these experiences bring a deeper understanding of Japan to travelers, they will become unforgettable memories.",
+      "id": "6b5974c6-25c0-4ec4-ab46-28bb3f87029e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、地方の農家で農業を手伝ったり、漁師と一緒に漁に出てみたりするユニークなプログラムもあります。こうした体験を通して、参加者は日本の食文化の背景や、人々の暮らしに触れることができます。田舎の生活は都会とは違うので、新鮮な驚きがあるはずです。",
+      "translationZh": "此外，还有在地方农家帮忙务农，或者与渔民一起出海捕鱼的独特体验项目。通过这样的体验，参加者能够接触到日本饮食文化的背景以及当地人们的生活。因为乡村的生活和城市不同，所以应该会有新鲜的惊喜。",
+      "translationEn": "In addition, there are also unique programs where you can help with farming at a rural farm or go fishing with fishermen. Through such experiences, participants can touch upon the background of Japanese food culture and the lives of the people. Because rural life is different from city life, there should be fresh surprises.",
+      "id": "de447109-f0d5-4890-ac37-d9cfad79693b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しい体験プログラムは、インターネットを通じて簡単に予約できるようになっています。事前に情報を集めておけば、自分の興味に合ったプログラムを見つけることができるでしょう。日本での旅行をもっと豊かにしたいと考えているなら、ぜひこうした体験プログラムを試してみてはいかがでしょうか。",
+      "translationZh": "这些新的体验项目，通过互联网就可以简单地进行预约。如果事先收集好信息，就能找到符合自己兴趣的项目。如果想让日本的旅行更加充实，不妨尝试一下这些体验项目如何？",
+      "translationEn": "These new experience programs can be easily booked through the internet. If you gather information in advance, you will likely be able to find a program that suits your interests. If you are thinking of making your trip to Japan more fulfilling, why not try these experience programs?",
+      "id": "bcadb297-b5eb-470b-bc15-66368f368c58",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "游客",
+      "meaningEn": "tourist",
+      "level": "n5n4",
+      "exampleSentence": "多くの観光客がそのお祭りに集まった。",
+      "id": "d2fcffb4-74e0-496a-9f0f-2f80944f1a42"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "日本の茶道を体験したいです。",
+      "id": "bab537e6-e0f9-45d4-855c-87798829a737"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはいつも人気がある。",
+      "id": "bc793793-81a3-41c9-92b4-8bee74d30094"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n3",
+      "exampleSentence": "これは伝統的な日本の家屋です。",
+      "id": "da69e5e0-2042-4e94-bbe0-2d3ac43b94e3"
+    },
+    {
+      "word": "散策",
+      "reading": "さんさく",
+      "meaningZh": "散步，漫步",
+      "meaningEn": "stroll, walk",
+      "level": "n3",
+      "exampleSentence": "古い町並みを散策するのは楽しい。",
+      "id": "ed0939f4-a45b-4d39-8cff-53cb5ccc2070"
+    },
+    {
+      "word": "農業",
+      "reading": "のうぎょう",
+      "meaningZh": "农业",
+      "meaningEn": "agriculture",
+      "level": "n3",
+      "exampleSentence": "彼は農業を営んでいる。",
+      "id": "9a400227-fa1c-4a09-b3a2-a68533e26c92"
+    },
+    {
+      "word": "漁師",
+      "reading": "りょうし",
+      "meaningZh": "渔夫，渔民",
+      "meaningEn": "fisherman",
+      "level": "n3",
+      "exampleSentence": "漁師の生活は大変だ。",
+      "id": "598214be-4c80-45b4-9f54-1e44740e9f88"
+    },
+    {
+      "word": "豊か",
+      "reading": "ゆたか",
+      "meaningZh": "富裕的，丰富的",
+      "meaningEn": "rich, abundant",
+      "level": "n3",
+      "exampleSentence": "自然豊かな場所で育ちました。",
+      "id": "c61bf80f-5c3c-445c-aa66-734ac560dc9a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい体験プログラムが人気を集めている理由は何ですか？",
+      "options": [
+        "値段が安いから",
+        "単に観光地を巡るだけでなく、文化や生活を体験できるから",
+        "予約が簡単だから",
+        "有名な場所だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「単に観光地を巡るだけでなく、日本の文化や生活を体験できる新しいプログラムが人気を集めています」と書かれています。",
+      "id": "39b18cd0-f8da-4d6b-992f-43b907b7cf6e"
+    },
+    {
+      "question": "農家や漁師での体験を通して、参加者は何を知ることができますか？",
+      "options": [
+        "都会の生活",
+        "昔の日本の歴史",
+        "食文化の背景や人々の暮らし",
+        "現代の日本の経済"
+      ],
+      "correctIndex": 2,
+      "explanation": "「こうした体験を通して、参加者は日本の食文化の背景や、人々の暮らしに触れることができます」と書かれています。",
+      "id": "7f2646c1-52b1-48c9-9c77-469abb3779f6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-15-2c195a4889",
+  "publishedAt": "2026-05-15T06:00:00+09:00"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "若手落語家の新作ネタ、世代超え話題に",
+  "summary": "最近、若手の落語家が披露した新しい落語のネタが、幅広い世代から注目を集めています。そのユニークな視点が共感を呼んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若手の落語家、例えば三遊亭〇〇さんの新しい落語のネタが、インターネットやSNSで話題になっています。これまでの古典的な落語とは少し違う、現代的な視点を取り入れた内容だから、若い世代にも新鮮に感じられるのでしょう。",
+      "translationZh": "最近，年轻的落语家，比如三游亭〇〇先生的新落语段子，在互联网和社交媒体上引起了热议。因为其融入了现代视角的独特内容，与以往的古典落语有所不同，所以年轻一代也觉得耳目一新。",
+      "translationEn": "Recently, a new story by a young Rakugo performer, for example, Mr. Sanyutei XX, has become a hot topic on the internet and social media. Because it incorporates a modern perspective, it differs from traditional classical Rakugo, making it feel fresh to younger generations.",
+      "id": "f29f8369-8702-4961-83b6-550799923a2c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新作ネタは、日常の些細な出来事を面白おかしく描いているものの、そこには現代社会を生きる人々の悩みや喜びが巧みに織り込まれています。そのため、年配のファンからも「私たちの頃と変わらないね」といった共感の声があがっています。",
+      "translationZh": "这个新段子虽然幽默地描绘了日常琐事，但其中巧妙地编织了生活在现代社会人们的烦恼和喜悦。因此，即使是年长的粉丝也发出了“和我们那个年代没什么两样呢”的共鸣之声。",
+      "translationEn": "Although this new story humorously depicts trivial everyday events, the worries and joys of people living in modern society are skillfully woven into it. Therefore, even older fans are expressing empathy, saying things like, 'It's no different from our time.'",
+      "id": "ebe9c4bb-4467-4d43-83c6-9efe36290d40",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "落語は伝統芸能ですが、新しいネタが生まれることで、より多くの人に親しんでもらえる機会が増えるのではないでしょうか。伝統を守りつつも、時代に合わせて変化していく柔軟性が、落語の魅力をさらに高めていると言えるでしょう。",
+      "translationZh": "落语虽然是传统艺术，但通过诞生新的段子，不是能增加更多人接触它的机会吗？在守护传统的同时，适应时代而变化的灵活性，可以说进一步提升了落语的魅力。",
+      "translationEn": "Rakugo is a traditional art, but with the creation of new stories, won't the opportunity for more people to become familiar with it increase? It can be said that the flexibility to change with the times while preserving tradition further enhances the charm of Rakugo.",
+      "id": "2e106053-1a0a-4545-820d-47876481332f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "落語家",
+      "reading": "らくごか",
+      "meaningZh": "说学逗唱的表演者",
+      "meaningEn": "Rakugo performer",
+      "level": "n3",
+      "exampleSentence": "その落語家は、話がとても面白い。",
+      "id": "eec0c298-ad1a-4882-a766-dedc8edd7014"
+    },
+    {
+      "word": "新作",
+      "reading": "しんさく",
+      "meaningZh": "新创作的作品",
+      "meaningEn": "New work/creation",
+      "level": "n3",
+      "exampleSentence": "この小説は彼の新作だ。",
+      "id": "e7b7aa19-633f-425a-bc0f-16a53fb35e32"
+    },
+    {
+      "word": "ネタ",
+      "reading": "ねた",
+      "meaningZh": "（相声、落语等的）笑料，段子",
+      "meaningEn": "Material/joke (for comedy)",
+      "level": "n3",
+      "exampleSentence": "新しいネタを考えている。",
+      "id": "c26b2aeb-5146-4ae3-8fa6-23f57ca32146"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题，谈论",
+      "meaningEn": "Topic of conversation",
+      "level": "n3",
+      "exampleSentence": "彼の新しい映画が話題になっている。",
+      "id": "1189e81f-54c4-4c3b-8491-ad7b269d01ec"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "代，世代",
+      "meaningEn": "Generation",
+      "level": "n3",
+      "exampleSentence": "世代を超えて愛される歌だ。",
+      "id": "5bd65bb5-b2e0-40aa-94f9-449d7f132e12"
+    },
+    {
+      "word": "共感",
+      "reading": "きょうかん",
+      "meaningZh": "共鸣，同感",
+      "meaningEn": "Empathy, sympathy",
+      "level": "n3",
+      "exampleSentence": "彼の気持ちに共感した。",
+      "id": "eed10375-6f1e-4dd1-8b8c-f5de37df6fb9"
+    },
+    {
+      "word": "伝統芸能",
+      "reading": "でんとうげいのう",
+      "meaningZh": "传统艺术",
+      "meaningEn": "Traditional performing art",
+      "level": "n3",
+      "exampleSentence": "歌舞伎は日本の伝統芸能の一つだ。",
+      "id": "1159e04d-7794-4449-8c0f-49fde3c0e706"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この若手落語家の新作ネタが話題になっている理由は何ですか？",
+      "options": [
+        "古典的な内容で、多くの人が知っているから。",
+        "若い落語家が少ないから。",
+        "現代的な視点があり、多くの世代に共感されるから。",
+        "有名な落語家が演じているから。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これまでの古典的な落語とは少し違う、現代的な視点を取り入れた内容だから、若い世代にも新鮮に感じられるのでしょう。」そして、「年配のファンからも「私たちの頃と変わらないね」といった共感の声があがっています。」とあります。",
+      "id": "8b2dcc34-5f85-4734-97e5-403563e1111a"
+    },
+    {
+      "question": "筆者は、落語が今後も親しまれるために何が重要だと考えていますか？",
+      "options": [
+        "昔ながらのスタイルを頑なに守ること。",
+        "新しいネタを生み出し、時代に合わせて変化すること。",
+        "海外の文化を取り入れること。",
+        "落語家がテレビにたくさん出演すること。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「伝統を守りつつも、時代に合わせて変化していく柔軟性が、落語の魅力をさらに高めていると言えるでしょう。」と述べられています。",
+      "id": "88d4e065-e27a-4e65-a110-6650b498127f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-15-3d9e2c81ed",
+  "publishedAt": "2026-05-15T06:00:00+09:00"
+}

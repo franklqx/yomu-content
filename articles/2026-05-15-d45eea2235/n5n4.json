@@ -1,0 +1,114 @@
+{
+  "title": "新しいクラウドサービス",
+  "summary": "個人開発者にとって、新しいクラウドサービスが出ました。とても便利です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、個人開発者向けの新しいクラウドサービスが発表されました。このサービスは、アプリを作るのを助けてくれます。開発者は、もっと早くアプリを作ることができます。",
+      "translationZh": "最近，面向个人开发者的新云服务发布了。这项服务能帮助开发应用程序。开发者可以更快速地开发应用程序。",
+      "translationEn": "Recently, a new cloud service for individual developers was announced. This service helps to create apps. Developers can make apps more quickly.",
+      "id": "8de26ade-b5fd-4542-9bf7-70d3cf3d3b13",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスを使うと、サーバーの準備が簡単になります。また、データの管理も楽になります。だから、開発者はアイデアを形にすることにもっと集中できます。",
+      "translationZh": "使用这项服务，服务器的准备工作会变简单。而且，数据管理也变得轻松。因此，开发者可以更专注于将想法变为现实。",
+      "translationEn": "Using this service makes server preparation easy. Also, data management becomes easier. Therefore, developers can focus more on turning ideas into reality.",
+      "id": "9a2d2863-7d5b-4c05-911b-12979ba9bbe5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "以前は、たくさんの技術を知る必要がありました。でも、この新しいサービスのおかげで、初心者でも簡単に始められます。個人開発者の活動がもっと活発になるでしょう。",
+      "translationZh": "以前，需要知道很多技术。但是，托这项新服务的福，即使是初学者也能轻松开始。个人开发者的活动会变得更加活跃吧。",
+      "translationEn": "Before, it was necessary to know many technologies. But, thanks to this new service, even beginners can start easily. Individual developers' activities will likely become more active.",
+      "id": "aca29a7f-7b7d-42aa-aad7-765f08f8f21b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "開発者",
+      "reading": "かいはつしゃ",
+      "meaningZh": "开发者",
+      "meaningEn": "developer",
+      "level": "n5n4",
+      "exampleSentence": "彼は優秀な開発者です。",
+      "id": "be4c0c9d-af15-4053-a1ad-18dfc14b0012"
+    },
+    {
+      "word": "クラウドサービス",
+      "reading": "くらうどさーびす",
+      "meaningZh": "云服务",
+      "meaningEn": "cloud service",
+      "level": "n5n4",
+      "exampleSentence": "このクラウドサービスは人気があります。",
+      "id": "8946c833-2ada-46da-92f1-3d3cc07a9085"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしました。",
+      "id": "bd7d767b-9d80-4ca6-b6b4-a9206c412198"
+    },
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaningZh": "管理",
+      "meaningEn": "management",
+      "level": "n5n4",
+      "exampleSentence": "データを管理するのは大変です。",
+      "id": "49c4b258-e199-4639-821e-1071fb4e7673"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を学びました。",
+      "id": "ec429d73-30be-46c4-a994-2179d713a7fa"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaningZh": "简单",
+      "meaningEn": "easy, simple",
+      "level": "n5n4",
+      "exampleSentence": "この問題は簡単です。",
+      "id": "000d7845-d607-4dc0-b4b9-c8c0157432db"
+    },
+    {
+      "word": "初心者",
+      "reading": "しょしんしゃ",
+      "meaningZh": "初学者",
+      "meaningEn": "beginner",
+      "level": "n5n4",
+      "exampleSentence": "私は日本語の初心者です。",
+      "id": "fb0c4242-11ed-4444-bcaf-1b2dde3d1f5f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この新しいサービスは、誰にとって便利ですか？",
+      "options": [
+        "すべての人",
+        "経験のある開発者",
+        "個人開発者",
+        "サーバー管理者"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「個人開発者向けの新しいクラウドサービス」と書いてあります。",
+      "id": "418ae46f-5c15-41c4-ae02-cf0ce3285b4e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-15-d45eea2235",
+  "publishedAt": "2026-05-15T06:00:00+09:00"
+}

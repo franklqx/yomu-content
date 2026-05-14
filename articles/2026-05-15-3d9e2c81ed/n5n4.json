@@ -1,0 +1,131 @@
+{
+  "title": "若手落語家 新ネタが人気",
+  "summary": "若い落語家が作った新しい落語が、今、話題になっています。多くの人がその落語を楽しんでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い落語家（らくごか）が新しい落語を作りました。この新しい落語は、とても面白くて、たくさんの人に聞かれています。",
+      "translationZh": "最近，一位年轻的落语表演者创作了新的落语。这个新的落语非常有趣，很多人都在听。",
+      "translationEn": "Recently, a young Rakugo performer created a new Rakugo story. This new Rakugo story is very interesting and many people are listening to it.",
+      "id": "7ca0b926-b89e-49ff-9c42-cc73c178ea2e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この落語家は、まだ若いです。しかし、話の作り方が上手です。そして、話す声もとても良いです。だから、お客さんはみんな笑っています。",
+      "translationZh": "这位落语表演者还很年轻。但是，他创作故事的方式很棒。而且，他的声音也很好。所以，观众们都笑了。",
+      "translationEn": "This Rakugo performer is still young. However, his way of creating stories is excellent. And his speaking voice is also very good. Therefore, the audience is all laughing.",
+      "id": "65041ef1-fc84-465e-aab7-c6462442699c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい落語のテーマは、現代（げんだい）の生活（せいかつ）についてです。昔（むかし）の落語と違って、今の時代（じだい）の人の気持ちがよく分かります。",
+      "translationZh": "新落语的主题是关于现代生活。与过去的落语不同，它能很好地理解当今人们的感受。",
+      "translationEn": "The theme of the new Rakugo is about modern life. Unlike old Rakugo, it understands the feelings of people in the current era well.",
+      "id": "a7d3e70a-701f-428a-84d2-a34109f4930b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この落語は、SNSでも話題になっています。「私も同じような経験をした」という声もたくさんあります。これからも、この落語家の活躍（かつやく）が楽しみです。",
+      "translationZh": "这个落语在社交媒体上也成了热门话题。很多人说：“我也有过类似的经历”。今后，也期待这位落语家的活跃。",
+      "translationEn": "This Rakugo is also becoming a hot topic on social media. Many people say, \"I have also had a similar experience.\" From now on, we look forward to the success of this Rakugo performer.",
+      "id": "9ab5dee2-d672-48cc-bd3f-1dde94401357",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "落語家",
+      "reading": "らくごか",
+      "meaningZh": "落语表演者",
+      "meaningEn": "Rakugo performer",
+      "level": "n5n4",
+      "exampleSentence": "有名な落語家がテレビに出ました。",
+      "id": "dbee9fc2-4f24-4ba5-af44-dbaf5abd02bb"
+    },
+    {
+      "word": "作る",
+      "reading": "つくる",
+      "meaningZh": "制作，创作",
+      "meaningEn": "to make, to create",
+      "level": "n5n4",
+      "exampleSentence": "新しい物語を作りました。",
+      "id": "10c28585-012f-4900-a451-99fead7b7c73"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic, subject of conversation",
+      "level": "n5n4",
+      "exampleSentence": "その映画は今、話題です。",
+      "id": "a03ed0f2-8edc-40f4-8fe7-7538b8f97346"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，高明",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼は日本語を話すのが上手です。",
+      "id": "17227ad2-5488-4661-a4d7-cb2aaf64a553"
+    },
+    {
+      "word": "声",
+      "reading": "こえ",
+      "meaningZh": "声音",
+      "meaningEn": "voice",
+      "level": "n5n4",
+      "exampleSentence": "彼女の声はとてもきれいです。",
+      "id": "800839da-7242-4071-bd15-981eb347336c"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaningZh": "现代",
+      "meaningEn": "modern times, present day",
+      "level": "n3",
+      "exampleSentence": "現代の若者はスマホをよく使います。",
+      "id": "2cf5831f-6e64-47a4-bddb-f7d021332ca3"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaningZh": "生活",
+      "meaningEn": "life, living",
+      "level": "n5n4",
+      "exampleSentence": "私の生活はとても忙しいです。",
+      "id": "af71c6ba-de55-46d4-98bf-9d2a1bf89eb4"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有成就",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "彼はスポーツで活躍しています。",
+      "id": "06950c89-1caf-4c30-8fe3-a89da3ab5b6c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この新しい落語は、なぜ話題になっていますか。",
+      "options": [
+        "落語家がとても有名だからです。",
+        "話が面白く、現代の生活についてだからです。",
+        "昔の落語をもう一度作ったからです。",
+        "落語家がとても若すぎるからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しい落語のテーマは、現代（げんだい）の生活（せいかつ）についてです。昔（むかし）の落語と違って、今の時代（じだい）の人の気持ちがよく分かります。",
+      "id": "77289597-fbd9-4b8e-90b1-7eeb7a9486f4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-15-3d9e2c81ed",
+  "publishedAt": "2026-05-15T06:00:00+09:00"
+}
