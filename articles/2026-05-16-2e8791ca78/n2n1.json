@@ -1,0 +1,147 @@
+{
+  "title": "育休取得率、男性で過去最高を更新",
+  "summary": "厚生労働省の最新データによると、男性の育児休業取得率が過去最高を記録しました。政府はさらなる取得率向上を目指しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "厚生労働省が発表した令和4年度の雇用均等基本調査によると、男性の育児休業取得率は17.13%と、過去最高を更新したとのことです。前年度から2.82ポイントの上昇となり、着実に増加傾向にあることがうかがえます。女性の取得率は77.8%で、ほぼ横ばいでした。この結果は、社会全体で育児参加への意識が高まっていることを示唆していると見られます。",
+      "translationZh": "根据厚生劳动省发布的2022年度雇用均等基本调查显示，男性育儿休假取得率达到了17.13%，创历史新高。与前一年相比上升了2.82个百分点，可以看到稳步增长的趋势。女性的取得率为77.8%，基本持平。这一结果被认为表明社会整体对于育儿参与的意识正在提高。",
+      "translationEn": "According to the 2022 Basic Survey on Employment Management released by the Ministry of Health, Labour and Welfare, the rate of paternity leave adoption reached 17.13%, a record high. This marks an increase of 2.82 percentage points from the previous year, indicating a steady upward trend. The adoption rate for women was 77.8%, remaining largely unchanged. These results suggest a rising awareness across society regarding participation in childcare.",
+      "id": "c178ac83-c3c9-44ab-968e-e8679e774ee6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "男性の育休取得率の向上には、近年、政府による推進策や、企業における育児支援制度の拡充が寄与していると考えられます。例えば、男性の育休取得を奨励する企業に対しては、助成金支給などのインセンティブが設けられています。また、配偶者が出産した男性社員に対し、一定期間の育休取得を義務付けたり、取得しやすいよう短期間での取得を可能にしたりする企業も増えています。",
+      "translationZh": "男性育儿休假取得率的提高，被认为得益于近年政府的推进措施以及企业育儿支援制度的完善。例如，为鼓励男性休育儿假的企业设立了发放补助金等激励措施。此外，越来越多的企业开始规定配偶生产的男性员工必须休一定期间的育儿假，或者允许他们以短期方式休假，以便更容易取得。",
+      "translationEn": "The increase in the adoption rate of paternity leave is thought to be attributed to recent government promotion measures and the expansion of childcare support systems within companies. For instance, incentives such as subsidies are provided to companies that encourage men to take parental leave. Additionally, an increasing number of companies are mandating a certain period of parental leave for male employees whose spouses have given birth, or making it possible to take shorter leave periods to facilitate adoption.",
+      "id": "39dc149e-03ec-4200-89f3-e808c7976d0e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、依然として女性の取得率との差は大きく、男性の育休取得が当たり前となる社会の実現には、さらなる取り組みが求められています。取得期間の長期化や、取得後のキャリアへの影響に対する懸念も依然として存在するため、企業は制度設計だけでなく、職場における理解促進や、取得しやすい雰囲気づくりにも注力していく必要があります。これに伴い、個人のライフプランとキャリア形成の両立を支援する企業の姿勢が、今後の人材確保においても重要視されるでしょう。",
+      "translationZh": "然而，与女性的取得率相比，差距依然很大，为了实现男性休育儿假成为常态的社会，还需要进一步的努力。对于休假期间的长期化以及休假后对职业生涯的影响的担忧依然存在，因此，企业不仅需要在制度设计上下功夫，还需要致力于促进工作场所的理解以及营造易于休假的氛围。伴随这些，那些支持个人生活规划与职业发展兼顾的企业姿态，在今后的人才招募方面也将备受重视。",
+      "translationEn": "However, the gap with the female adoption rate remains significant, and further efforts are required to realize a society where men taking parental leave becomes the norm. Concerns about prolonged leave periods and the impact on career progression after leave still persist. Therefore, companies need to focus not only on system design but also on promoting understanding in the workplace and creating an environment conducive to taking leave. Consequently, a company's stance in supporting the balance between an individual's life plan and career development will be increasingly emphasized in future talent acquisition.",
+      "id": "50be51fa-b65a-413b-9af4-19db650f1d39",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "取得率；录用率",
+      "meaningEn": "acquisition rate; employment rate",
+      "level": "n2n1",
+      "exampleSentence": "育児休業の取得率を男女ともに向上させたい。",
+      "id": "9b3dc6bd-5b08-4319-acaa-1f41dc80ed80"
+    },
+    {
+      "word": "更新",
+      "reading": "こうしん",
+      "meaningZh": "更新；打破（纪录）",
+      "meaningEn": "update; renewal; break (a record)",
+      "level": "n3",
+      "exampleSentence": "この記録は来年更新されるだろう。",
+      "id": "7abb4015-59f0-40a2-aa90-3d20a5d6e8d8"
+    },
+    {
+      "word": "うかがえる",
+      "reading": "うかがえる",
+      "meaningZh": "看得出；可以推测",
+      "meaningEn": "to be seen; to be inferred",
+      "level": "n2n1",
+      "exampleSentence": "彼の表情から、その考えがうかがえる。",
+      "id": "dad12a2f-426b-40ee-9fdd-f12c7dc0f117"
+    },
+    {
+      "word": "示唆",
+      "reading": "しさ",
+      "meaningZh": "暗示；迹象",
+      "meaningEn": "suggestion; hint; indication",
+      "level": "n2n1",
+      "exampleSentence": "その結果は、我々の仮説を支持するものであることが示唆された。",
+      "id": "badaf1b0-11ae-469a-bfe1-20568d40ebda"
+    },
+    {
+      "word": "寄与",
+      "reading": "きよ",
+      "meaningZh": "贡献；起作用",
+      "meaningEn": "contribution; effect",
+      "level": "n2n1",
+      "exampleSentence": "彼の努力はプロジェクトの成功に大きく寄与した。",
+      "id": "76c54b60-ab94-4022-85ef-d0bdfbca23c3"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充；扩大",
+      "meaningEn": "expansion; enhancement",
+      "level": "n2n1",
+      "exampleSentence": "サービスの拡充が求められている。",
+      "id": "59cf6fbe-3e76-44fa-b846-3915565a7a55"
+    },
+    {
+      "word": "インセンティブ",
+      "reading": "いんせんてぃぶ",
+      "meaningZh": "激励；刺激；奖金",
+      "meaningEn": "incentive",
+      "level": "n2n1",
+      "exampleSentence": "従業員のモチベーションを高めるためのインセンティブを導入した。",
+      "id": "479ae3f1-6095-40c4-a11a-93c9a6b93acc"
+    },
+    {
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "meaningZh": "理所当然；平常",
+      "meaningEn": "natural; common; matter of course",
+      "level": "n3",
+      "exampleSentence": "彼が助けてくれるのは当たり前のことだと思っていた。",
+      "id": "cf92dd2d-39b4-4c77-922c-0a0134a5940d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男性の育児休業取得率は、最新の調査でどのくらいになりましたか？",
+      "options": [
+        "14.31%",
+        "17.13%",
+        "77.8%",
+        "2.82%"
+      ],
+      "correctIndex": 1,
+      "explanation": "厚生労働省が発表した令和4年度の雇用均等基本調査によると、男性の育児休業取得率は17.13%と、過去最高を更新したとのことです。",
+      "id": "e91fc5a2-c636-4de2-9775-c75e6f570840"
+    },
+    {
+      "question": "男性の育児休業取得率向上の要因として、本文ではどのようなことが挙げられていますか？",
+      "options": [
+        "女性の取得率の低下",
+        "企業への罰則強化",
+        "政府の推進策や企業の支援制度拡充",
+        "育児休業期間の短縮"
+      ],
+      "correctIndex": 2,
+      "explanation": "男性の育児休業取得率の向上には、近年、政府による推進策や、企業における育児支援制度の拡充が寄与していると考えられます。",
+      "id": "15bc015b-5c4a-42a0-bb0c-243405310e07"
+    },
+    {
+      "question": "今後、男性の育児休業取得が当たり前となる社会を実現するために、企業に求められていることは何ですか？",
+      "options": [
+        "育児休業期間の長期化を義務付けること",
+        "制度設計だけでなく、職場での理解促進や雰囲気づくりも行うこと",
+        "男性社員の育児休業取得を禁止すること",
+        "女性社員の育児休業取得を義務付けること"
+      ],
+      "correctIndex": 1,
+      "explanation": "取得期間の長期化や、取得後のキャリアへの影響に対する懸念も依然として存在するため、企業は制度設計だけでなく、職場における理解促進や、取得しやすい雰囲気づくりにも注力していく必要があります。",
+      "id": "c4f12992-8c17-4b1d-9af1-e4f9917d8816"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-16-2e8791ca78",
+  "publishedAt": "2026-05-16T06:00:00+09:00"
+}

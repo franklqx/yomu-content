@@ -1,0 +1,131 @@
+{
+  "title": "育休のニュースです",
+  "summary": "最近、育児休業（いくじきゅうぎょう）をとる人が増えています。会社もいろいろな工夫（くふう）をしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本で、育児休業（いくじきゅうぎょう）をとる人はだんだん増えています。特に、男性（だんせい）の育休取得率（しゅとくりつ）が少し上がりました。これは、子育て（こそだて）をもっと大切にする社会（しゃかい）になってきている、ということかもしれません。",
+      "translationZh": "在日本，休育儿假的人正在渐渐增加。特别是，男性休育儿假的比例有所上升。这也许意味着社会越来越重视育儿。",
+      "translationEn": "In Japan, the number of people taking childcare leave is gradually increasing. Especially, the rate of men taking childcare leave has risen a little. This may mean that society is becoming more focused on childcare.",
+      "id": "cbf421cd-59df-4cc4-9c5f-b24e43a18b44",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "前（まえ）の年（とし）と比（くら）べると、育休をとる人が増えたのは良いこと（いいこと）です。でも、まだ十分（じゅうぶん）ではありません。もっと多くの人が、安心して（あんしんして）育休をとれるように、会社（かいしゃ）の協力（きょうりょく）が必要です。",
+      "translationZh": "与前一年相比，休育儿假的人增加了是件好事。但是，还不够充分。为了让更多人能够安心地休育儿假，公司的协助是必要的。",
+      "translationEn": "Compared to the previous year, it is good that more people are taking childcare leave. However, it is still not enough. Company cooperation is necessary so that more people can take childcare leave with peace of mind.",
+      "id": "7002228e-7ebe-42f7-afa1-ac06ec924f3c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "いくつかの会社は、育休をとりやすくするために、新しい制度（せいど）を作りました。例えば、短時間（たんじかん）で働（はたら）けるようにしたり、休んでいる間（あいだ）も連絡（れんらく）がとりやすいようにしたりしています。これらの工夫は、子育てをする人にとって、とても助（たす）けになります。",
+      "translationZh": "有些公司为了让休育儿假更容易，制定了新的制度。例如，可以让人们短时间工作，或者在休假期间也容易联络。这些措施对育儿者来说非常有帮助。",
+      "translationEn": "Some companies have created new systems to make taking childcare leave easier. For example, they allow people to work shorter hours or make it easy to stay in touch while on leave. These efforts are very helpful for people raising children.",
+      "id": "58c05f0f-cca8-4b8c-8a0a-549efadafe8e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "育児休業（いくじきゅうぎょう）をとる人が増えることは、社会全体（しゃかいぜんたい）にとって大切です。男性も女性も、仕事と育児を両立（りょうりつ）できる社会を目指（めざ）しましょう。",
+      "translationZh": "休育儿假的人增加，对整个社会来说很重要。让我们以一个男性和女性都能兼顾工作和育儿的社会为目标吧。",
+      "translationEn": "An increase in people taking childcare leave is important for society as a whole. Let's aim for a society where both men and women can balance work and childcare.",
+      "id": "f93f1d5e-7751-4a64-8470-3191faa19df9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "育児休業",
+      "reading": "いくじきゅうぎょう",
+      "meaningZh": "育儿假",
+      "meaningEn": "childcare leave",
+      "level": "n5n4",
+      "exampleSentence": "男性も育児休業をとりましょう。",
+      "id": "a7faaa05-b6ba-480f-9bef-d638af290683"
+    },
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "获取率，达成率",
+      "meaningEn": "acquisition rate",
+      "level": "n3",
+      "exampleSentence": "男性の育休取得率が上がりました。",
+      "id": "f78e914a-f234-4353-a15a-a9f10ea8f3e9"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法；创造",
+      "meaningEn": "device, scheme, measure; ingenuity",
+      "level": "n5n4",
+      "exampleSentence": "会社は色々な工夫をしました。",
+      "id": "ec8f407b-00b6-41ef-a351-d9f113c631c3"
+    },
+    {
+      "word": "男性",
+      "reading": "だんせい",
+      "meaningZh": "男性",
+      "meaningEn": "male",
+      "level": "n5n4",
+      "exampleSentence": "男性も育児をしましょう。",
+      "id": "e9a31495-8203-4427-9278-8cad5c92a18b"
+    },
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "meaningZh": "充分，足够",
+      "meaningEn": "enough, sufficient",
+      "level": "n5n4",
+      "exampleSentence": "まだ十分ではありません。",
+      "id": "814bff5a-3d33-4134-b1bb-156182a7b6c9"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "安心して休んでください。",
+      "id": "2ddbff2e-7d4b-4620-be9a-dc4e257462a2"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system, institution",
+      "level": "n3",
+      "exampleSentence": "新しい制度ができました。",
+      "id": "f65c24fa-e120-496e-8f96-1d93dcc34a65"
+    },
+    {
+      "word": "両立",
+      "reading": "りょうりつ",
+      "meaningZh": "并存，兼顾",
+      "meaningEn": "reconciliation, compatibility",
+      "level": "n3",
+      "exampleSentence": "仕事と育児を両立したいです。",
+      "id": "a1eab78b-46b4-4de3-8c45-5ff447faa0d3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、育児休業をとる人が増えているのはなぜですか。",
+      "options": [
+        "会社がお金を出してくれるから",
+        "男性の育休取得率が上がったから",
+        "社会が子育てを大切にするようになってきたから",
+        "仕事が簡単になったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「特に、男性（だんせい）の育休取得率（しゅとくりつ）が少し上がりました。これは、子育て（こそだて）をもっと大切にする社会（しゃかい）になってきている、ということかもしれません。」",
+      "id": "7ebdb036-cc94-4d39-a922-27d8b72a42f2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-16-2e8791ca78",
+  "publishedAt": "2026-05-16T06:00:00+09:00"
+}

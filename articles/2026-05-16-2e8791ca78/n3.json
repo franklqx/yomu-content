@@ -1,0 +1,134 @@
+{
+  "title": "育休取得率の最新データと企業の取り組み",
+  "summary": "男性の育児休業取得率が過去最高を更新しました。企業は従業員が安心して休めるよう、様々な工夫を始めています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "厚生労働省の発表によると、男性の育児休業取得率は過去最高の17.13％に達しました。これは、以前と比べて大きく増加した数字ですが、女性の取得率と比べると、まだ差があることがわかります。これからも、男性が育児休業を取りやすい社会になることが期待されています。",
+      "translationZh": "根据厚生劳动省的发布，男性育儿休业的休假取得率达到了创历史新高的17.13%。虽然这个数字与过去相比有了很大的增长，但与女性的休假取得率相比，仍然存在差距。今后，也期待能成为一个男性更容易休育儿假的社会。",
+      "translationEn": "According to the announcement by the Ministry of Health, Labour and Welfare, the rate of men taking childcare leave reached a record high of 17.13%. While this is a significant increase compared to the past, there is still a gap when compared to the rate of women taking leave. It is hoped that society will continue to move towards a situation where it is easier for men to take childcare leave.",
+      "id": "b554cd6c-9ce8-4837-88f6-3fd3e66bb9bd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "育児休業を取得する男性が増えている背景には、社会全体の意識の変化があります。また、企業側も、従業員が育児と仕事を両立できるよう、積極的に支援する動きを見せています。例えば、短時間勤務制度を導入したり、育児休業中の情報共有を工夫したりする会社が増えています。",
+      "translationZh": "男性休育儿假增加的背景是整个社会意识的变化。此外，企业方面也积极采取措施，支持员工在育儿和工作之间取得平衡。例如，引入弹性工作制或改进育儿休假期间的信息共享方式的公司正在增加。",
+      "translationEn": "The background to the increasing number of men taking childcare leave is a change in societal awareness. Furthermore, companies are also actively showing moves to support employees in balancing childcare and work. For example, more companies are introducing shorter working hour systems and devising ways to share information during childcare leave.",
+      "id": "bc8a7d5c-afdd-4add-8eb2-a4f1a1b5d9fa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、取得率が低い職種や企業もまだ存在します。特に、人手不足が深刻な業界では、休業を取得したくても、周りの目が気になってしまうという声も聞かれます。企業は、制度を整えるだけでなく、職場の理解を深めるための研修なども行うことが重要でしょう。",
+      "translationZh": "然而，休假取得率仍然较低的职业和企业也还存在。特别是在人手短缺严重的行业，即使想休假，也有人表示会顾忌他人的眼光。企业不仅要完善制度，开展加深职场理解的培训等活动也很重要。",
+      "translationEn": "However, there are still occupations and companies where the acquisition rate is low. In particular, in industries facing severe labor shortages, some people say they hesitate to take leave due to concerns about how others will perceive them. It would be important for companies not only to establish systems but also to conduct training to deepen workplace understanding.",
+      "id": "2ceac2fe-30fe-4133-b08a-cbcccc868150",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "育児休業は、子どもの成長にとって貴重な時間であるだけでなく、親自身のキャリアにとってもプラスになることがあります。企業が従業員一人ひとりの事情を理解し、柔軟に対応していくことで、より働きやすい環境が作られるはずです。これからも、育休取得率の動向に注目していきましょう。",
+      "translationZh": "育儿休假不仅是孩子成长过程中宝贵的时间，也可能对父母自身的职业生涯产生积极影响。只要企业理解每一位员工的状况并灵活应对，就应该能创造一个更易于工作的环境。今后，也让我们继续关注育儿休假取得率的动向吧。",
+      "translationEn": "Childcare leave is not only a precious time for a child's growth but can also be beneficial for the parent's own career. By understanding each employee's circumstances and responding flexibly, companies should be able to create a more worker-friendly environment. Let's continue to pay attention to the trends in childcare leave acquisition rates.",
+      "id": "31b3ce9d-4200-48da-bff0-e52e32e38e09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "取得率，获得率",
+      "meaningEn": "acquisition rate, rate of obtaining",
+      "level": "n3",
+      "exampleSentence": "この資格の取得率はまだ低いです。",
+      "id": "8f2eba5a-644d-4c99-96ff-c0e0f71980cd"
+    },
+    {
+      "word": "厚生労働省",
+      "reading": "こうせいろうどうしょう",
+      "meaningZh": "厚生劳动省（日本政府部门）",
+      "meaningEn": "Ministry of Health, Labour and Welfare (Japan)",
+      "level": "n3",
+      "exampleSentence": null,
+      "id": "8d461b97-0605-4ffc-b3b5-eae4d94819e7"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaningZh": "背景",
+      "meaningEn": "background",
+      "level": "n3",
+      "exampleSentence": "彼の成功の背景には、多くの努力があった。",
+      "id": "533d1a71-9e0d-4eca-80e4-4b223ade751b"
+    },
+    {
+      "word": "両立",
+      "reading": "りょうりつ",
+      "meaningZh": "兼顾，并存",
+      "meaningEn": "reconciling, balancing (two things)",
+      "level": "n3",
+      "exampleSentence": "仕事と家庭の両立は難しい。",
+      "id": "7a7c524a-10be-4c7e-b81a-4e6894e0104d"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "この地域は深刻な人手不足に悩んでいる。",
+      "id": "4b32aa15-10dd-4b22-8a8b-feffe8b9d9f1"
+    },
+    {
+      "word": "職種",
+      "reading": "しょくしゅ",
+      "meaningZh": "职业种类",
+      "meaningEn": "type of occupation",
+      "level": "n3",
+      "exampleSentence": "彼は新しい職種に挑戦したいと考えている。",
+      "id": "5cb7d7f8-2bfd-4076-bd71-519e35eefc04"
+    },
+    {
+      "word": "柔軟",
+      "reading": "じゅうなん",
+      "meaningZh": "灵活，柔软",
+      "meaningEn": "flexible, supple",
+      "level": "n3",
+      "exampleSentence": "状況に合わせて柔軟に対応する。",
+      "id": "cc2583cc-33af-43e3-976f-37d9f2aea659"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男性の育児休業取得率が過去最高になった主な理由は何ですか？",
+      "options": [
+        "企業がお金を出してくれるから",
+        "男性の育児参加への意識が高まり、企業も支援するようになったから",
+        "女性の育児休業取得率が下がったから",
+        "育児休業中の給料が上がったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「男性の育児休業取得率は過去最高の17.13％に達しました。～企業側も、従業員が育児と仕事を両立できるよう、積極的に支援する動きを見せています。」と説明されています。",
+      "id": "13d7d6a4-aca6-4a3d-b735-1137b12cc783"
+    },
+    {
+      "question": "人手不足が深刻な業界で、育児休業の取得が進まない理由として、どのようなことが挙げられていますか？",
+      "options": [
+        "制度そのものが存在しないから",
+        "仕事が忙しすぎて、休む時間がないから",
+        "職場の周りの目が気になってしまうから",
+        "給料が減ってしまうから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「人手不足が深刻な業界では、休業を取得したくても、周りの目が気になってしまうという声も聞かれます。」と書かれています。",
+      "id": "af27e028-cd06-4b3c-9a50-1ed7a77347b7"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-16-2e8791ca78",
+  "publishedAt": "2026-05-16T06:00:00+09:00"
+}

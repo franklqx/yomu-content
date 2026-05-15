@@ -1,0 +1,114 @@
+{
+  "title": "純喫茶が若者に人気",
+  "summary": "最近、若い人たちの間で「純喫茶」が人気です。昔ながらの喫茶店で、おいしいコーヒーを楽しみます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で「純喫茶」が人気になっています。純喫茶は、昔からある喫茶店のことです。レトロな雰囲気で、落ち着いた時間が流れています。",
+      "translationZh": "最近，在年轻人之间“纯喫茶”变得很受欢迎。纯喫茶是指从前就有的咖啡店。它有复古的氛围，时间流逝得很悠闲。",
+      "translationEn": "Recently, 'jun-kissa' (old-fashioned coffee shops) have become popular among young people. Jun-kissa are coffee shops that have been around for a long time. They have a retro atmosphere, and time flows in a calm manner.",
+      "id": "9804f4bc-f952-4c04-95b8-c4905b3b2e95",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶では、ゆっくりコーヒーを飲むことができます。お店によっては、おいしい「クリームソーダ」や「プリン」もあります。見た目もきれいで、写真も撮りたくなります。",
+      "translationZh": "在纯喫茶里，可以悠闲地喝咖啡。有些店还有美味的“奶油苏打”和“布丁”。它们看起来也很漂亮，让人想拍照。",
+      "translationEn": "In jun-kissa, you can slowly drink coffee. Some shops also have delicious 'cream soda' and 'pudding'. They look beautiful, making you want to take pictures.",
+      "id": "a50ae60c-e31c-4132-bbfa-ec3cfefef1a8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "SNSでも純喫茶の写真がたくさん見られます。若い人たちは、新しいカフェだけでなく、昔ながらの純喫茶も楽しんでいるようです。特別な時間を過ごすのに良い場所です。",
+      "translationZh": "在社交媒体上也能看到很多纯喫茶的照片。年轻人似乎不仅喜欢新的咖啡馆，也喜欢从前就有的纯喫茶。那里是度过特别时光的好地方。",
+      "translationEn": "Many pictures of jun-kissa can be seen on social media too. Young people seem to enjoy not only new cafes but also old-fashioned jun-kissa. It is a good place to spend special time.",
+      "id": "1448a8b0-e43c-4056-87d4-3b779db3b53c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者が集まる場所です。",
+      "id": "1602fc04-f1a7-4956-85a7-2b7269159c09"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この本は人気があります。",
+      "id": "b1026af6-5d26-4b7f-90f0-85e1db97804b"
+    },
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "纯喫茶（有时代感的传统咖啡店）",
+      "meaningEn": "old-fashioned coffee shop",
+      "level": "n5n4",
+      "exampleSentence": "純喫茶でコーヒーを飲みました。",
+      "id": "68b91634-5501-43bd-9958-df0fc6f66163"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "氛围，气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "お店の雰囲気がいいです。",
+      "id": "7570f86b-2f6b-4f02-b866-4c4f79f8eecc"
+    },
+    {
+      "word": "落ち着いた",
+      "reading": "おちついた",
+      "meaningZh": "平静的，安稳的",
+      "meaningEn": "calm, quiet",
+      "level": "n5n4",
+      "exampleSentence": "落ち着いた声で話しました。",
+      "id": "5a357a11-b01e-4f0a-9a46-a879444a49e8"
+    },
+    {
+      "word": "昔ながら",
+      "reading": "むかしながら",
+      "meaningZh": "从前，老式的",
+      "meaningEn": "old-fashioned, traditional",
+      "level": "n3",
+      "exampleSentence": "昔ながらのやり方です。",
+      "id": "38dd806a-f242-48a1-8686-1951c6f60e3f"
+    },
+    {
+      "word": "クリームソーダ",
+      "reading": "くりーむそーだ",
+      "meaningZh": "奶油苏打（一种有冰淇淋的绿色苏打饮料）",
+      "meaningEn": "cream soda",
+      "level": "n5n4",
+      "exampleSentence": "クリームソーダを注文しました。",
+      "id": "faa44a75-3b5c-4684-843a-d9760ee845ca"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ「純喫茶」が若者に人気がありますか。",
+      "options": [
+        "新しいカフェだからです。",
+        "値段が安いからです。",
+        "レトロな雰囲気や特別な時間を楽しめるからです。",
+        "コーヒーが一番おいしいからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「若い人たちは、新しいカフェだけでなく、昔ながらの純喫茶も楽しんでいるようです。特別な時間を過ごすのに良い場所です。」",
+      "id": "e81031bd-7fb1-4344-be05-d2d88a220f6e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-16-1156824b80",
+  "publishedAt": "2026-05-16T06:00:00+09:00"
+}

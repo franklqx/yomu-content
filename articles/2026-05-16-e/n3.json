@@ -1,0 +1,135 @@
+{
+  "title": "高校生がeスポーツ大会で活躍！若き才能の台頭",
+  "summary": "最近、eスポーツの世界で高校生プレイヤーの活躍が目立っています。彼らは若さならではの集中力とチームワークで、プロ顔負けの戦いを繰り広げています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、eスポーツは世界中で人気を集めており、プロの大会も数多く開催されています。その中で、驚くべきことに、多くの高校生プレイヤーが才能を発揮し、注目を集めているのです。彼らは学校の勉強と両立させながら、夜遅くまで練習に励んでいます。その情熱と努力には、本当に頭が下がります。",
+      "translationZh": "近年来，电子竞技在全球范围内越来越受欢迎，也举办了许多职业比赛。在这样的背景下，令人惊讶的是，许多高中生选手展现出他们的才能，并引起了人们的关注。他们一边兼顾学校的学习，一边坚持练习到深夜。他们的热情和努力，着实令人敬佩。",
+      "translationEn": "In recent years, esports have gained popularity worldwide, with many professional tournaments being held. Amidst this, surprisingly, many high school players are showcasing their talents and drawing attention. They balance their school studies while practicing late into the night. Their passion and effort are truly commendable.",
+      "id": "7fe2be91-f87f-4482-b065-f6394a83172a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、チームで協力して勝利を目指すゲームでは、高校生たちのチームワークが光ります。お互いの動きを予測し、瞬時に指示を出し合う様子は、まさにプロのチームのようです。大会では、経験豊富なプロプレイヤーを相手にしても、臆することなく、自分たちの力を存分に発揮しています。",
+      "translationZh": "特别是在以团队协作为目标的游戏中，高中生们的团队合作能力尤为突出。他们能够预测彼此的动向，并瞬间发出指令，这简直就像职业战队一样。在比赛中，即使面对经验丰富的职业选手，他们也毫不畏惧，全力发挥自己的实力。",
+      "translationEn": "Especially in games that require teamwork to aim for victory, the high schoolers' teamwork shines. Their ability to anticipate each other's movements and give instant instructions is just like that of professional teams. In tournaments, they fearlessly display their full potential even when competing against experienced professional players.",
+      "id": "98fcd6c4-712e-48bd-9ddc-9a6fe1b7ae5d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「なぜこんなにも強いのか？」という問いに対して、ある高校生プレイヤーは「負ける悔しさをバネに、毎日少しずつでも成長したいと思っているからです」と語っていました。彼らの向上心と、ゲームに対する真剣な姿勢は、多くの大人たちにも刺激を与えています。eスポーツ界の未来は、彼らのような若い才能にかかっていると言えるでしょう。",
+      "translationZh": "对于“为什么会这么强？”的提问，一位高中生选手回答说：“因为我把失败的悔恨当作动力，每天都想哪怕只进步一点点。”他们进取的心和对游戏认真的态度，也激励了许多成年人。可以说，电子竞技界的未来就掌握在他们这样的年轻才能手中。",
+      "translationEn": "When asked, \"Why are you so strong?\" one high school player replied, \"Because I use the frustration of losing as motivation, and I want to grow even a little bit every day.\" Their ambition and serious attitude towards gaming inspire many adults as well. The future of the esports world can be said to rest on the shoulders of such young talents.",
+      "id": "b821008e-b040-46dc-b8bf-c9509a57830e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "eスポーツ",
+      "reading": "いーすぽーつ",
+      "meaningZh": "电子竞技",
+      "meaningEn": "esports",
+      "level": "n3",
+      "exampleSentence": "最近、eスポーツの大会の賞金がとても高くなっています。",
+      "id": "20d33408-273a-4597-bfbc-8a59f433965a"
+    },
+    {
+      "word": "躍進",
+      "reading": "やくしん",
+      "meaningZh": "飞跃，大步前进",
+      "meaningEn": "great progress, a leap forward",
+      "level": "n2n1",
+      "exampleSentence": "若手選手たちの躍進がチームに勢いを与えている。",
+      "id": "815dd2df-8d12-4dfd-a1e2-70257ccb15b4"
+    },
+    {
+      "word": "プレーヤー",
+      "reading": "ぷれーやー",
+      "meaningZh": "选手，玩家",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なeスポーツプレーヤーの一人です。",
+      "id": "43447440-5d1c-4a3a-95cc-ab59dbe2ca67"
+    },
+    {
+      "word": "目立つ",
+      "reading": "めだつ",
+      "meaningZh": "显眼，引人注目",
+      "meaningEn": "to be conspicuous, to stand out",
+      "level": "n3",
+      "exampleSentence": "この新しいゲームは、その美しいグラフィックでとても目立っています。",
+      "id": "589b78f6-4e99-4257-b6c7-40225eede09e"
+    },
+    {
+      "word": "両立",
+      "reading": "りょうりつ",
+      "meaningZh": "兼顾，并存",
+      "meaningEn": "to do two things at the same time, to balance",
+      "level": "n3",
+      "exampleSentence": "仕事と家庭を両立させるのは大変です。",
+      "id": "38d563e3-2e7a-42d3-8b9f-ff43199f9998"
+    },
+    {
+      "word": "励む",
+      "reading": "はげむ",
+      "meaningZh": "努力，奋勉",
+      "meaningEn": "to work hard, to make efforts",
+      "level": "n3",
+      "exampleSentence": "試験のために、毎日一生懸命勉強に励んでいます。",
+      "id": "c276dcb9-203b-44b3-9cab-b79456d054ae"
+    },
+    {
+      "word": "頭が下がる",
+      "reading": "あたまがさがる",
+      "meaningZh": "钦佩，佩服",
+      "meaningEn": "to be impressed, to admire",
+      "level": "n3",
+      "exampleSentence": "彼の努力には本当に頭が下がります。",
+      "id": "b35d4567-4b1e-4bf9-8bd8-926541534188"
+    },
+    {
+      "word": "臆する",
+      "reading": "おくする",
+      "meaningZh": "害怕，畏惧",
+      "meaningEn": "to be timid, to be intimidated",
+      "level": "n2n1",
+      "exampleSentence": "経験不足でも、臆せずに挑戦することが大切だ。",
+      "id": "7c158563-63f5-4603-ae99-5428ad1860b0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事によると、eスポーツの世界で活躍している高校生は、どのような点が注目されていますか？",
+      "options": [
+        "プロ顔負けのゲームの腕前と、チームをまとめるリーダーシップ",
+        "学校の勉強を一切せず、ゲームだけに集中していること",
+        "大人顔負けの冷静さと、経験豊富なプレイヤーであること",
+        "大会で優勝するために、特別なトレーニングを受けていること"
+      ],
+      "correctIndex": 0,
+      "explanation": "記事中では、「彼らは若さならではの集中力とチームワークで、プロ顔負けの戦いを繰り広げています。」と述べられており、高校生プレイヤーのゲームの腕前とチームワークが注目されていることがわかります。",
+      "id": "6aca1540-1110-4988-ae9c-2161907e8beb"
+    },
+    {
+      "question": "ある高校生プレイヤーは、自分が強くなれる理由をどのように説明していますか？",
+      "options": [
+        "毎日、新しいゲームの戦略を研究しているから",
+        "負けた経験を次に活かそうと努力しているから",
+        "チームメンバーの指示を忠実に守っているから",
+        "才能があるから、特に努力しなくても強くなれるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「負ける悔しさをバネに、毎日少しずつでも成長したいと思っているからです」という言葉から、負けた経験を成長の糧にしていることがわかります。",
+      "id": "736a452b-3782-4b54-aaaa-23cd3e4faf30"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-16-e",
+  "publishedAt": "2026-05-16T06:00:00+09:00"
+}

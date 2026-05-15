@@ -1,0 +1,122 @@
+{
+  "title": "高校生eスポーツ選手、すごい！",
+  "summary": "最近、eスポーツの大会で高校生が活躍しています。彼らのプレーはとても上手です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、eスポーツの大会で高校生が目立っています。たくさんの人がゲームを楽しみますが、プロの選手になるのは難しいです。しかし、若い高校生たちが素晴らしい成績を出しています。",
+      "translationZh": "最近，在电子竞技比赛中，高中生们备受瞩目。很多人喜欢玩游戏，但要成为职业选手很难。然而，年轻的高中生们正取得优异的成绩。",
+      "translationEn": "Recently, high school students are standing out in esports tournaments. Many people enjoy games, but becoming a professional player is difficult. However, young high school students are achieving excellent results.",
+      "id": "572192cd-2536-46d7-b7fa-2f4639f10103",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ある大会では、高校生チームが優勝しました。彼らはチームで力を合わせて、難しいゲームをクリアしました。応援していた人たちは、とても感動しました。",
+      "translationZh": "在一场比赛中，一支高中生队伍获得了冠军。他们齐心协力，克服了困难的游戏。为他们加油的人们非常感动。",
+      "translationEn": "In one tournament, a high school team won first place. They worked together as a team and cleared difficult games. The people cheering for them were very impressed.",
+      "id": "03ea6c54-b05c-435d-9842-c3f51847c996",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "高校生プレーヤーは、練習をたくさんしています。学校が終わった後も、毎日ゲームの練習をします。その努力が、大会での活躍につながっています。",
+      "translationZh": "高中生选手进行了大量的练习。即使在学校结束后，他们每天也会练习游戏。这些努力让他们在比赛中取得了成功。",
+      "translationEn": "High school players practice a lot. Even after school, they practice games every day. That effort leads to their success in tournaments.",
+      "id": "373fb57c-0a29-4abb-bf77-89c930c57c8f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "eスポーツは、これからもっと人気が出るでしょう。若い才能がたくさん出てくるのは、とても楽しみです。これからも高校生プレーヤーの活躍に注目しましょう。",
+      "translationZh": "电子竞技今后一定会更加受欢迎。涌现出许多年轻的才能，让人非常期待。让我们继续关注高中生选手的表现吧。",
+      "translationEn": "Esports will likely become even more popular from now on. It is exciting to see many young talents emerge. Let's continue to pay attention to the achievements of high school players.",
+      "id": "a420c441-67b6-4ec0-aed3-7df6a8e7130b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaningZh": "比赛，大会",
+      "meaningEn": "tournament, convention",
+      "level": "n5n4",
+      "exampleSentence": "その大会はとても大きいです。",
+      "id": "bcdd12f3-7c2a-4b31-8eec-e189e438759a"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "多くの高校生がeスポーツをしています。",
+      "id": "4a939894-c62e-45d0-a90f-ab3130d0fbcd"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "activity, success, playing an active part",
+      "level": "n3",
+      "exampleSentence": "彼は会社で活躍しています。",
+      "id": "d272ea2b-5c74-4a43-a571-4de40c00f4ef"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "f9edc8fc-9707-4062-a760-4b2aca32c6b7"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n3",
+      "exampleSentence": "チームは決勝で優勝しました。",
+      "id": "5776c63b-710d-4b35-963e-7125eb4e58d6"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "deep emotion, impression",
+      "level": "n3",
+      "exampleSentence": "その映画を見て感動しました。",
+      "id": "567c9375-231d-4a6a-be2e-0f36e810ee67"
+    },
+    {
+      "word": "努力",
+      "reading": "どりょく",
+      "meaningZh": "努力",
+      "meaningEn": "effort, exertion",
+      "level": "n3",
+      "exampleSentence": "努力すれば、夢は叶います。",
+      "id": "8a3b9089-ef55-4638-a36d-be7043d6feab"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "eスポーツの大会で、高校生はどのような成績を出しましたか？",
+      "options": [
+        "優勝しました",
+        "参加しませんでした",
+        "練習しませんでした",
+        "負けました"
+      ],
+      "correctIndex": 0,
+      "explanation": "ある大会では、高校生チームが優勝しました。",
+      "id": "1491a1b1-2419-4e3d-91af-12097c20d1be"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-16-e",
+  "publishedAt": "2026-05-16T06:00:00+09:00"
+}
