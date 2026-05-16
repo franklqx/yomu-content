@@ -1,0 +1,131 @@
+{
+  "title": "秋天的颜色！红叶美景",
+  "summary": "秋天来了，树叶变红了。很多人喜欢看红叶。今年什么时候是最好的观赏时间呢？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋（あき）がきました。木（き）の葉（は）が赤（あか）くなりました。これを「紅葉（こうよう）」と言（い）います。日本（にほん）では、秋（あき）によく見（み）られます。",
+      "translationZh": "秋天来了。树叶变红了。这叫做“红叶”。在日本，秋天经常可以看到。",
+      "translationEn": "Autumn has come. The leaves of trees have turned red. This is called 'koyo'. In Japan, it can be seen often in autumn.",
+      "id": "c39995a5-09d6-463a-9bf6-40cc279f0e80",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "紅葉（こうよう）が見（み）ごろの予想（よそう）があります。毎年（まいとし）、気象会社（きしょうがいしゃ）が発表（はっぴょう）します。今年（ことし）は、場所（ばしょ）によって違（ちが）いますが、10月（がつ）から11月（がつ）にかけて楽（たの）しめるでしょう。",
+      "translationZh": "有红叶最佳观赏期的预测。每年，气象公司都会发布。今年，虽然根据地点不同，但大概可以在10月到11月享受。",
+      "translationEn": "There are predictions for the best time to see autumn leaves. Every year, weather companies announce them. This year, although it varies by location, you can probably enjoy them from October to November.",
+      "id": "b9dacaf6-a57f-4451-9815-c91884aa3f55",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "人気（にんき）の紅葉（こうよう）スポットがたくさんあります。例（たと）えば、京都（きょうと）の嵐山（あらしやま）や、日光（にっこう）の東照宮（とうしょうぐう）などが有名（ゆうめい）です。きれいな景色（けしき）を見（み）に行（い）きませんか。",
+      "translationZh": "有很多受欢迎的红叶景点。例如，京都的岚山和日光东照宫等很有名。要不要去看看美丽的景色呢？",
+      "translationEn": "There are many popular autumn leaf spots. For example, Arashiyama in Kyoto and Toshogu Shrine in Nikko are famous. Won't you go see the beautiful scenery?",
+      "id": "4c4fd5ff-a032-4d40-a142-f2a476222019",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "紅葉（こうよう）の時期（じき）は、とても混（こ）みます。早（はや）く行（い）くか、平日（へいじつ）に行（い）くのがおすすめです。楽（たの）しい旅行（りょこう）にしてくださ い。",
+      "translationZh": "红叶的时期会非常拥挤。建议早点去，或者在平日去。请让它成为一次愉快的旅行。",
+      "translationEn": "During the autumn leaf season, it gets very crowded. It is recommended to go early or go on a weekday. Please make it an enjoyable trip.",
+      "id": "d4be96d2-3192-4f10-8a58-94893b437433",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "紅葉",
+      "reading": "こうよう",
+      "meaningZh": "红叶",
+      "meaningEn": "autumn leaves",
+      "level": "n5n4",
+      "exampleSentence": "秋の紅葉はとてもきれいです。",
+      "id": "bc454bf7-22f4-4464-a5b3-a0468dd7d0f7"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaningZh": "预测",
+      "meaningEn": "prediction",
+      "level": "n5n4",
+      "exampleSentence": "天気予報の予想は当たりました。",
+      "id": "d2a95833-d8ad-44c2-b163-eb4d3d141607"
+    },
+    {
+      "word": "気象会社",
+      "reading": "きしょうがいしゃ",
+      "meaningZh": "气象公司",
+      "meaningEn": "weather company",
+      "level": "n3",
+      "exampleSentence": "気象会社が新しい予報を発表しました。",
+      "id": "e8cc249c-5400-4ffe-ad9e-323b4cd40b0f"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaningZh": "发表；发布",
+      "meaningEn": "announcement; presentation",
+      "level": "n5n4",
+      "exampleSentence": "会議で新しい計画を発表しました。",
+      "id": "28714aa2-1d98-4813-9ac6-302b61bff4c1"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方；地点",
+      "meaningEn": "place; location",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "a63f4da6-2892-4832-85ad-9dcac2fb210c"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气；受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "0445b1a2-96bd-42d4-90eb-09fc72065832"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "山の景色は素晴らしいです。",
+      "id": "1731a75c-9681-4974-a04a-65fc8a49032c"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤；挤满",
+      "meaningEn": "to be crowded",
+      "level": "n5n4",
+      "exampleSentence": "週末は電車が混みます。",
+      "id": "65b1bbd5-8e5a-467f-8d16-19080e345a31"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "紅葉（こうよう）が見（み）ごろの予想（よそう）は、いつごろ楽（たの）しめますか。",
+      "options": [
+        "6月（がつ）から7月（がつ）",
+        "8月（がつ）から9月（がつ）",
+        "10月（がつ）から11月（がつ）",
+        "12月（がつ）から1月（がつ）"
+      ],
+      "correctIndex": 2,
+      "explanation": "場所（ばしょ）によって違（ちが）いますが、10月（がつ）から11月（がつ）にかけて楽（たの）しめるでしょう。",
+      "id": "689ccf88-600a-44bb-bc49-1483d468a2ab"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-17-5c5478eebe",
+  "publishedAt": "2026-05-17T06:00:00+09:00"
+}

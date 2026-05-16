@@ -1,0 +1,131 @@
+{
+  "title": "シェアハウスが学生に人気",
+  "summary": "最近、学生の間でシェアハウスが人気です。場所が便利で、家賃も安いからです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、学生さんの間でシェアハウスが人気になっています。シェアハウスは、一つの大きな家に何人かの人が一緒に住む所です。部屋は一人ですが、台所やお風呂はみんなで使います。",
+      "translationZh": "最近，学生们中间合租房变得很受欢迎。合租房是指，几个人住在一栋大房子里的地方。房间是单人使用的，但是厨房和浴室是大家一起用的。",
+      "translationEn": "Recently, share houses have become popular among students. A share house is a place where several people live together in a large house. Each person has their own room, but they share the kitchen and bathroom.",
+      "id": "180e20c5-a37c-4106-8e09-6abc2d0bd10b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "シェアハウスが人気な理由の一つは、場所が便利なことです。大学や駅の近くにあることが多いです。通学やアルバイトに時間がかかりません。だから、学生さんは楽です。",
+      "translationZh": "合租房受欢迎的原因之一是地点方便。很多都建在大学或车站附近。通学和打工不会花费很多时间。所以，学生们很轻松。",
+      "translationEn": "One reason why share houses are popular is their convenient location. They are often located near universities or train stations. Commuting to school and going to part-time jobs doesn't take much time. This makes it easier for students.",
+      "id": "b4e615b7-c426-4d2d-bda8-4d3bf66a315d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もう一つの理由は、家賃が安いことです。一人暮らしのアパートを借りるより、ずっと安いです。毎月の出費を少なくしたい学生さんにとって、とても魅力的です。",
+      "translationZh": "另一个原因是房租便宜。比租一个人住的公寓要便宜很多。对于想减少每月开销的学生来说，非常有吸引力。",
+      "translationEn": "Another reason is that the rent is cheap. It is much cheaper than renting a one-person apartment. This is very attractive for students who want to reduce their monthly expenses.",
+      "id": "4aa02257-171d-4eb3-b5b3-26ba1245eab7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、色々な人と話す機会があるのも良い点です。友達ができたり、新しいことを知ったりできます。一人暮らしだと、寂しくなることもありますが、シェアハウスなら安心です。",
+      "translationZh": "还有，能有机会和各种各样的人交流也是优点。可以交到朋友，学到新的东西。一个人住的话，有时会感到寂寞，但住合租房就安心多了。",
+      "translationEn": "Also, having opportunities to talk with various people is a good point. You can make friends and learn new things. Living alone can sometimes be lonely, but with a share house, you can feel more at ease.",
+      "id": "96520c9f-01bd-46b0-9cb0-7f4b80e158ce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "シェアハウス",
+      "reading": "シェアハウス",
+      "meaningZh": "合租房",
+      "meaningEn": "share house",
+      "level": "n5n4",
+      "exampleSentence": "このシェアハウスはきれいです。",
+      "id": "cfa4e24a-447e-4e9c-986c-17bf6f3b2427"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌は学生に人気があります。",
+      "id": "0a5e3517-b443-417f-93f6-ddf72e261230"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地点，地方",
+      "meaningEn": "place, location",
+      "level": "n5n4",
+      "exampleSentence": "駅の近くに良い場所があります。",
+      "id": "04697d8c-e200-44c1-b94a-1edf1903436e"
+    },
+    {
+      "word": "家賃",
+      "reading": "やちん",
+      "meaningZh": "房租",
+      "meaningEn": "rent",
+      "level": "n5n4",
+      "exampleSentence": "家賃は毎月支払います。",
+      "id": "a8ea9bd0-389b-475a-9b7e-9f14dea58a62"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この店はとても便利です。",
+      "id": "f85f2a6a-f923-4057-a78f-cc7cf6370b89"
+    },
+    {
+      "word": "支出",
+      "reading": "ししゅつ",
+      "meaningZh": "支出，开销",
+      "meaningEn": "expenses",
+      "level": "n3",
+      "exampleSentence": "毎月の支出を記録しています。",
+      "id": "fa46c916-250d-4ecf-9af5-f622da04190d"
+    },
+    {
+      "word": "魅力的",
+      "reading": "みりょくてき",
+      "meaningZh": "有魅力的",
+      "meaningEn": "attractive",
+      "level": "n3",
+      "exampleSentence": "この旅行は魅力的です。",
+      "id": "e506971a-c29b-4f17-91e4-a60e72d57e94"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n3",
+      "exampleSentence": "日本語を話す機会をください。",
+      "id": "315f2e98-ddcd-4a0e-9776-11dce4036304"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学生がシェアハウスを好む理由は何ですか？",
+      "options": [
+        "部屋が広いから",
+        "場所が便利で家賃が安いから",
+        "学校が近いから",
+        "友達が多いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「場所が便利なこと」「家賃が安いこと」が理由として書かれています。",
+      "id": "fe2a5eec-56a5-4e74-8c8a-412d9c5352cf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-17-66686ca6b8",
+  "publishedAt": "2026-05-17T06:00:00+09:00"
+}

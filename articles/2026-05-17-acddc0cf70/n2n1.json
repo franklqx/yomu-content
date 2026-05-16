@@ -1,0 +1,138 @@
+{
+  "title": "競泳日本代表、世界水泳で熱戦展開中",
+  "summary": "世界水泳選手権にて、日本の競泳陣が各種目で健闘を続けている。メダル獲得に向け、選手たちの活躍に期待が寄せられている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "現在開催中の世界水泳選手権において、日本競泳陣は目覚ましい活躍を見せている。特に男子200メートル平泳ぎでは、若手選手が自己ベストを更新し、決勝進出を果たした。ベテラン勢もベテランならではの経験を活かし、安定した泳ぎで上位争いに加わっているとのことである。大会全体として、日本チームはメダル獲得数を伸ばすべく、日々奮闘している様子がうかがえる。",
+      "translationZh": "正在举行的世界游泳锦标赛上，日本游泳队表现出色。尤其是在男子200米蛙泳项目中，年轻选手刷新了个人最好成绩，成功晋级决赛。经验丰富的老将们也发挥了他们特有的经验，以稳定的发挥加入了争夺前列的行列。从整体来看，日本队正为了增加奖牌数量而日々奋战，这样的景象尽收眼底。",
+      "translationEn": "At the ongoing World Aquatics Championships, the Japanese swimming team is showing remarkable performance. Particularly in the men's 200m breaststroke, a young athlete updated their personal best and advanced to the final. Veteran swimmers, leveraging their seasoned experience, are also competing at the top with stable swims. Overall, the Japanese team appears to be fighting hard each day to increase their medal count.",
+      "id": "200d11ca-733e-4ade-8bdf-5e3670a58c42",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "女子種目においても、期待の新星が登場し、観る者の心を掴んでいる。100メートル自由形では、前回大会の雪辱を果たすべく、集中したレース展開が繰り広げられた。タイム差わずか数百分の一秒という僅差での勝負が多く見られ、世界のトップレベルとの差が縮まっていることが示唆されている。コーチ陣も、選手一人ひとりのコンディションを細かく管理し、最高のパフォーマンスを発揮できるようサポートしている。",
+      "translationZh": "在女子项目上，令人期待的新星涌现，抓住了观众的心。在100米自由泳比赛中，为了洗刷上次比赛的耻辱，展开了一场专注的比赛。许多比赛的胜负仅差百分之几秒，这表明与世界顶尖水平的差距正在缩小。教练团队也对每位选手进行细致的身体状况管理，以支持他们发挥出最佳水平。",
+      "translationEn": "In the women's events as well, promising new stars have emerged, capturing the audience's attention. In the 100m freestyle, a focused race unfolded with the aim of avenging their performance in the previous championship. Many races were decided by a narrow margin of mere hundredths of a second, suggesting that the gap with the world's top level is narrowing. The coaching staff is also meticulously managing each athlete's condition to support them in delivering their best performance.",
+      "id": "190d426c-e9b1-4002-8b05-438981f9f56d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回の世界選手権は、来年のパリオリンピックに向けた重要な試金石となる。数々の国際大会で実績を積んできた選手たちだが、更なる高みを目指す彼らの挑戦は、多くの国民に感動を与えている。予選から決勝までの各レースにおいて、選手たちが自己の限界に挑み続ける姿は、スポーツの持つ力を改めて感じさせてくれる。今後の日本代表の活躍からも目が離せない状況である。",
+      "translationZh": "本次世界锦标赛是迈向明年巴黎奥运会的重要试金石。尽管选手们已经在多次国际大赛中积累了经验，但他们追求更高成就的挑战正在感动着无数国民。从预赛到决赛的每一场比赛中，选手们挑战自身极限的身姿，让我们再次感受到了体育的力量。日本代表队接下来的表现也令人无法移开视线。",
+      "translationEn": "This World Championships serves as a crucial stepping stone towards next year's Paris Olympics. While the athletes have accumulated achievements in numerous international competitions, their pursuit of even greater heights is inspiring many citizens. The sight of athletes continuously challenging their own limits in every race, from preliminaries to finals, reaffirms the power of sports. The ongoing performance of the Japanese national team remains a captivating spectacle.",
+      "id": "cc4b1581-9040-4c20-a14f-92d645f1739f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "競泳",
+      "reading": "きょうえい",
+      "meaningZh": "游泳（竞技性）",
+      "meaningEn": "competitive swimming",
+      "level": "n2n1",
+      "exampleSentence": "競泳日本代表は、世界選手権でのメダル獲得を目指しています。",
+      "id": "bfec85cc-bd25-422c-9748-a50fbe751e9a"
+    },
+    {
+      "word": "速報",
+      "reading": "そくほう",
+      "meaningZh": "快讯，速报",
+      "meaningEn": "breaking news, bulletin",
+      "level": "n3",
+      "exampleSentence": "大会の最新情報を速報でお伝えします。",
+      "id": "5e174904-f683-4270-ae83-4f891bb29a0b"
+    },
+    {
+      "word": "健闘",
+      "reading": "けんとう",
+      "meaningZh": "奋力搏斗，出色作战",
+      "meaningEn": "spirited fight, strong performance",
+      "level": "n2n1",
+      "exampleSentence": "選手たちの健闘を称えたい。",
+      "id": "8232cb41-ac62-4f08-a6cd-a2bb831a5be1"
+    },
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "惊人的，显著的",
+      "meaningEn": "remarkable, striking",
+      "level": "n3",
+      "exampleSentence": "彼は目覚ましい成長を遂げた。",
+      "id": "f84ac6d3-55dc-4598-aeb8-4b9cde371179"
+    },
+    {
+      "word": "雪辱",
+      "reading": "せつじょく",
+      "meaningZh": "洗雪耻辱，报仇",
+      "meaningEn": "revenge for a humiliation, redeeming oneself",
+      "level": "n2n1",
+      "exampleSentence": "前回大会の敗北の雪辱を果たすべく、練習に励んでいる。",
+      "id": "5be55bad-a38f-4e70-be2d-98682e17086e"
+    },
+    {
+      "word": "示唆",
+      "reading": "しさ",
+      "meaningZh": "暗示，提示",
+      "meaningEn": "suggestion, hint",
+      "level": "n2n1",
+      "exampleSentence": "その結果は、今後の市場動向を強く示唆している。",
+      "id": "75402567-9591-4c01-92ac-aa94fd15eef1"
+    },
+    {
+      "word": "試金石",
+      "reading": "しきんせき",
+      "meaningZh": "试金石（比喻检验成败、真伪的标准）",
+      "meaningEn": "touchstone (a test of quality or authenticity)",
+      "level": "n2n1",
+      "exampleSentence": "このプロジェクトは、彼の実力を測る試金石となるだろう。",
+      "id": "02084a50-bb70-440b-be6a-a52c54e1fcb0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男子200メートル平泳ぎで、日本代表の選手はどのような結果を残しましたか。",
+      "options": [
+        "残念ながら予選敗退となった。",
+        "自己ベストを更新し、決勝進出を果たした。",
+        "ベテランの経験を活かし、銅メダルを獲得した。",
+        "大会記録を樹立した。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「特に男子200メートル平泳ぎでは、若手選手が自己ベストを更新し、決勝進出を果たした。」",
+      "id": "a6a08982-9bd6-42b8-b81b-0de14227cb23"
+    },
+    {
+      "question": "女子100メートル自由形について、記事は何を伝えていますか。",
+      "options": [
+        "前回大会の雪辱を果たすべく、集中したレース展開であったこと。",
+        "新星が圧倒的な強さで金メダルを獲得したこと。",
+        "世界のトップレベルとの差が大きく開いてしまったこと。",
+        "タイム差が非常に大きく、楽な展開であったこと。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「100メートル自由形では、前回大会の雪辱を果たすべく、集中したレース展開が繰り広げられた。」",
+      "id": "f3c2bca8-a62e-4a95-9e6d-f9f6c0a48496"
+    },
+    {
+      "question": "今回の世界選手権は、将来に向けてどのような意味を持つと述べられていますか。",
+      "options": [
+        "来年のパリオリンピックに向けた重要な試金石となる。",
+        "選手たちの引退を決定づける大会となる。",
+        "国際的な友好親善を深めるための交流の場となる。",
+        "記録更新のチャンスが少ない、挑戦しにくい大会となる。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「今回の世界選手権は、来年のパリオリンピックに向けた重要な試金石となる。」",
+      "id": "6293c6ce-b8b9-4c94-9948-1152d1edd5cb"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-17-acddc0cf70",
+  "publishedAt": "2026-05-17T06:00:00+09:00"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "シェア住居が学生に人気の理由とは？",
+  "summary": "最近、学生の間でシェア住居が人気を集めています。その理由について、いくつか見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "一人暮らしは自由ですが、家賃や光熱費など、毎月の出費が気になります。シェア住居なら、これらの費用を他の住人と分けることができるので、経済的な負担が軽くなります。特に、収入が少ない学生にとっては、大きなメリットと言えるでしょう。",
+      "translationZh": "虽然一个人住很自由，但每月的水电费、房租等开销让人在意。如果是合租房，可以和室友分摊这些费用，经济负担就会减轻。特别是对于收入不多的学生来说，这可以说是一个很大的优点。",
+      "translationEn": "Living alone offers freedom, but monthly expenses like rent and utilities can be a concern. In a share house, these costs can be divided with other residents, easing the financial burden. This is a significant advantage, especially for students with low incomes.",
+      "id": "e72ac953-0ad8-4032-a2b0-c786338b01a8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、シェア住居には様々なバックグラウンドを持つ人が住んでいることが多いです。色々な人と交流しながら生活することで、新しい発見があったり、友達ができたりすることもあります。一人暮らしでは得られない、貴重な経験ができるかもしれません。",
+      "translationZh": "而且，合租房里经常住着来自不同背景的人。通过与各种各样的人交流生活，可能会有新的发现，也可能交到朋友。也许能获得一个人生活中得不到的宝贵经验。",
+      "translationEn": "Furthermore, share houses often have residents from diverse backgrounds. Living while interacting with various people can lead to new discoveries and friendships. You might gain valuable experiences unattainable in solo living.",
+      "id": "5eb60954-a90c-411d-88bc-a6d06334c188",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、シェア住居では、掃除やゴミ出しなどの共同作業があります。みんなで協力することで、日々の生活がスムーズに進むだけでなく、協調性も養われます。一人で全てを管理する必要がないので、学業に集中しやすい環境とも言えます。",
+      "translationZh": "此外，在合租房里，还有打扫卫生、倒垃圾等共同作业。通过大家共同合作，不仅日常生活的进展会更顺利，还能培养协作能力。因为不必一个人管理所有事情，所以也可以说是便于集中精力学习的环境。",
+      "translationEn": "Moreover, share houses involve shared tasks like cleaning and trash disposal. Cooperating together not only facilitates daily life but also cultivates cooperation skills. Since you don't have to manage everything alone, it can be an environment conducive to focusing on studies.",
+      "id": "8b594d70-7258-4513-9e18-03d89bde6d82",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "シェア住居",
+      "reading": "シェアじゅうきょ",
+      "meaningZh": "合租房，共享居住空间",
+      "meaningEn": "Share house, shared living space",
+      "level": "n3",
+      "exampleSentence": "都心にあるシェア住居は家賃が安いので人気です。",
+      "id": "e2fe04c4-8ed5-4291-b710-f4db4a52fe2f"
+    },
+    {
+      "word": "家賃",
+      "reading": "やちん",
+      "meaningZh": "房租",
+      "meaningEn": "Rent",
+      "level": "n3",
+      "exampleSentence": "毎月決まった日に家賃を払う必要があります。",
+      "id": "3096bcf9-ff32-4992-a049-8bb004c810af"
+    },
+    {
+      "word": "光熱費",
+      "reading": "こうねつひ",
+      "meaningZh": "水电燃气费",
+      "meaningEn": "Utilities (electricity, gas, water)",
+      "level": "n3",
+      "exampleSentence": "夏はエアコンを使うので、光熱費が高くなります。",
+      "id": "5f047f38-1b5d-48ad-bde8-760db2d43182"
+    },
+    {
+      "word": "経済的",
+      "reading": "けいざいてき",
+      "meaningZh": "经济上的，划算的",
+      "meaningEn": "Economical, financially",
+      "level": "n3",
+      "exampleSentence": "この製品は経済的なので、多くの人に選ばれています。",
+      "id": "ccd613ad-dcbf-4de9-a8fe-c4f2fc2dd1cb"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担",
+      "meaningEn": "Burden",
+      "level": "n3",
+      "exampleSentence": "一人で抱え込まず、みんなで負担を分け合いましょう。",
+      "id": "b7626b15-df4f-4733-ab35-1bc4cb77722d"
+    },
+    {
+      "word": "バックグラウンド",
+      "reading": "バックグラウンド",
+      "meaningZh": "背景",
+      "meaningEn": "Background",
+      "level": "n3",
+      "exampleSentence": "彼は様々なバックグラウンドを持つ人々と交流するのが好きです。",
+      "id": "f9ed9c8f-720c-4149-8322-24dda3b70ccb"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "Interaction, exchange",
+      "level": "n3",
+      "exampleSentence": "留学生との交流は、異文化理解を深める良い機会です。",
+      "id": "2abcf4b5-458a-4952-8d3e-667310dec2ae"
+    },
+    {
+      "word": "協調性",
+      "reading": "きょうちょうせい",
+      "meaningZh": "协作性，协调性",
+      "meaningEn": "Cooperativeness, coordination",
+      "level": "n3",
+      "exampleSentence": "チームで仕事をする上で、協調性は非常に大切です。",
+      "id": "8f11c2c9-97c6-471e-8522-bd47b5dbed3a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "シェア住居のどのような点が学生に人気がありますか？",
+      "options": [
+        "家賃が安いこと",
+        "友達ができやすいこと",
+        "勉強に集中できること",
+        "上記のすべて"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文では、家賃や光熱費の負担が軽くなること、様々な人との交流ができること、そして共同作業によって協調性が養われ学業に集中しやすい環境であることなど、複数の理由が挙げられています。",
+      "id": "34872595-ebea-4fd6-9b3c-0607eba34815"
+    },
+    {
+      "question": "シェア住居で「経済的な負担が軽くなる」のはなぜですか？",
+      "options": [
+        "家賃が無料になるから",
+        "光熱費を一人で払わなくてよいから",
+        "家具家電が備え付けだから",
+        "食費を節約できるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「シェア住居なら、これらの費用を他の住人と分けることができるので、経済的な負担が軽くなります」と書かれています。ここでいう「これらの費用」とは、直前の文脈から家賃や光熱費を指しています。",
+      "id": "ba8bbb67-6782-4d75-a058-342a9c7962fb"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-17-66686ca6b8",
+  "publishedAt": "2026-05-17T06:00:00+09:00"
+}

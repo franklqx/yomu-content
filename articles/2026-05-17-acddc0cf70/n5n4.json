@@ -1,0 +1,131 @@
+{
+  "title": "競泳選手、世界で活躍！",
+  "summary": "日本の競泳選手たちが世界選手権で頑張りました。メダルを取った選手もいます。応援しましょう！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "世界水泳選手権が始まりました。日本の競泳代表選手がたくさん参加しています。みんな、一生懸命泳いでいます。",
+      "translationZh": "世界游泳锦标赛开始了。许多日本游泳代表选手参加了比赛。大家都在拼命地游泳。",
+      "translationEn": "The World Aquatics Championships have started. Many Japanese swimming representatives are participating. Everyone is swimming with all their might.",
+      "id": "598b6b0a-7dff-4514-9a1a-7c3498cc160b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "男子200メートル平泳ぎで、日本の渡辺選手が金メダルを取りました。本当におめでとうございます。素晴らしい泳ぎでした。",
+      "translationZh": "在男子200米蛙泳比赛中，日本选手渡边获得了金牌。真的恭喜他。这是一个非常棒的游泳。",
+      "translationEn": "In the men's 200-meter breaststroke, Japan's Watanabe won the gold medal. Congratulations indeed. It was a wonderful swim.",
+      "id": "4124db93-ae7f-4c41-9887-b3e99671cedd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "女子100メートルバタフライでは、日本の上野選手が銅メダルを取りました。これもすごいことです。たくさんの人が感動しました。",
+      "translationZh": "在女子100米蝶泳比赛中，日本选手上野获得了铜牌。这也是很了不起的事情。很多人都为之感动。",
+      "translationEn": "In the women's 100-meter butterfly, Japan's Ueno won the bronze medal. This is also an amazing achievement. Many people were moved.",
+      "id": "e03d9c2c-d85c-476b-b99e-f887e0861cf2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、日本の選手たちの応援を続けます。次のレースも楽しみです。頑張れ、ニッポン！",
+      "translationZh": "今后，我们将继续为日本选手们加油。也很期待下一场比赛。加油，日本！",
+      "translationEn": "From now on, we will continue to cheer for the Japanese athletes. We are also looking forward to the next race. Go, Japan!",
+      "id": "1c8d3b05-7d13-4807-bce4-b583687bb7bb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "競泳",
+      "reading": "きょうえい",
+      "meaningZh": "游泳（竞赛项目）",
+      "meaningEn": "swimming (competitive)",
+      "level": "n5n4",
+      "exampleSentence": "競泳は人気のスポーツです。",
+      "id": "c4eaf2cc-17dc-4bf6-b4ed-e8c24cc4fc35"
+    },
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaningZh": "代表",
+      "meaningEn": "representative",
+      "level": "n5n4",
+      "exampleSentence": "彼は国の代表として参加しました。",
+      "id": "deac1869-7726-47df-929c-880fead16301"
+    },
+    {
+      "word": "選手権",
+      "reading": "せんしゅけん",
+      "meaningZh": "锦标赛，選手権",
+      "meaningEn": "championship",
+      "level": "n3",
+      "exampleSentence": "この大会は世界選手権です。",
+      "id": "e4fcab48-5371-484a-b52c-4fdf28c671c1"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "多くの人がイベントに参加しました。",
+      "id": "e465800c-d9df-4ed7-98b5-a866b33d350f"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "拼命，努力",
+      "meaningEn": "with all one's might, very hard",
+      "level": "n5n4",
+      "exampleSentence": "彼は一生懸命勉強しています。",
+      "id": "43856faf-f45a-4abd-91aa-723989480cb1"
+    },
+    {
+      "word": "平泳ぎ",
+      "reading": "ひらおよぎ",
+      "meaningZh": "蛙泳",
+      "meaningEn": "breaststroke",
+      "level": "n3",
+      "exampleSentence": "平泳ぎはゆっくり泳ぐことができます。",
+      "id": "14b33e29-e29b-4b7f-beef-9f0f6c8ec3b8"
+    },
+    {
+      "word": "金メダル",
+      "reading": "きんメダル",
+      "meaningZh": "金牌",
+      "meaningEn": "gold medal",
+      "level": "n5n4",
+      "exampleSentence": "金メダルを取って嬉しいです。",
+      "id": "664cdef2-20b0-4575-ac0f-5a7ca5bf7ba1"
+    },
+    {
+      "word": "銅メダル",
+      "reading": "どうメダル",
+      "meaningZh": "铜牌",
+      "meaningEn": "bronze medal",
+      "level": "n3",
+      "exampleSentence": "銅メダルでも素晴らしいです。",
+      "id": "c8281fb2-4bf7-4d1e-82ba-0166347a2526"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男子200メートル平泳ぎで、誰が金メダルを取りましたか。",
+      "options": [
+        "上野選手",
+        "渡辺選手",
+        "日本の選手",
+        "参加選手"
+      ],
+      "correctIndex": 1,
+      "explanation": "男子200メートル平泳ぎで、日本の渡辺選手が金メダルを取りました。",
+      "id": "6ad4b3ec-7fd3-4360-8746-5abeaf16715d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-17-acddc0cf70",
+  "publishedAt": "2026-05-17T06:00:00+09:00"
+}

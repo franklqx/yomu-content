@@ -1,0 +1,135 @@
+{
+  "title": "競泳日本代表、世界選手権で熱戦！",
+  "summary": "世界水泳選手権で、日本の競泳選手たちが素晴らしいパフォーマンスを見せています。メダル獲得を目指し、選手たちは日々練習に励んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "世界水泳選手権が開催され、日本の競泳代表選手たちが世界中のライバルと競い合っています。特に男子100メートル平泳ぎでは、期待の選手が予選を突破し、決勝進出を果たしました。決勝では、自己ベスト更新を目指して力泳する姿が見られました。",
+      "translationZh": "世界游泳锦标赛正在举行，日本的游泳代表选手们正与世界各地的对手展开竞争。特别是在男子100米蛙泳项目中，备受期待的选手突破了预选赛，成功进入了决赛。在决赛中，可以看到他们为了刷新个人最好成绩而奋力拼搏的身姿。",
+      "translationEn": "The World Aquatics Championships are being held, and Japan's swimming representatives are competing against rivals from all over the world. Particularly in the men's 100-meter breaststroke, a highly anticipated athlete advanced from the preliminaries to the finals. In the final race, we witnessed their powerful swimming as they aimed to set a new personal best.",
+      "id": "1985f02f-9470-4e3f-b13f-a8ef45a81f67",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "女子種目でも、複数の選手が自己記録を更新する素晴らしい泳ぎを見せてくれました。惜しくもメダルには届かなかったものの、彼女たちの粘り強い泳ぎは多くの感動を与えました。これからも、彼女たちの活躍から目が離せません。",
+      "translationZh": "在女子项目中，也有多位选手展现了刷新个人纪录的精彩泳姿。虽然可惜未能获得奖牌，但她们顽强的泳姿却带给了许多感动。今后，我们也不能移开对她们活跃表现的目光。",
+      "translationEn": "In the women's events as well, several athletes delivered outstanding performances, updating their personal records. Although they narrowly missed out on a medal, their tenacious swimming inspired many. We will continue to keep an eye on their future achievements.",
+      "id": "9359cfc5-5374-42d9-962f-8c340ac8f8a5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "選手の皆さんは、日頃から厳しい練習を積んでいるからこそ、このような大舞台でも力を発揮できるのでしょう。応援する私たちも、彼らの頑張りに勇気をもらっています。次のレースでも、選手たちの健闘を祈っています。",
+      "translationZh": "正是因为各位选手平时就积累了严格的训练，才能在这样的大舞台上发挥实力吧。作为支持者的我们，也从他们的努力中获得了勇气。我们祈祷他们在接下来的比赛中也能奋力拼搏。",
+      "translationEn": "It is precisely because the athletes train rigorously on a daily basis that they can perform so well on such a big stage. We, their supporters, also draw courage from their hard work. We wish them the best of luck in their next races.",
+      "id": "d8a0d8f5-5042-48bb-81b0-799e1fd082c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "競泳",
+      "reading": "きょうえい",
+      "meaningZh": "游泳（竞技项目）",
+      "meaningEn": "competitive swimming",
+      "level": "n3",
+      "exampleSentence": "彼は競泳選手として、数々の大会で優勝しました。",
+      "id": "56b60b5e-882f-46ac-8213-a44db7cf4196"
+    },
+    {
+      "word": "代表選手",
+      "reading": "だいひょうせんしゅ",
+      "meaningZh": "代表选手",
+      "meaningEn": "representative athlete",
+      "level": "n3",
+      "exampleSentence": "日本代表選手団は、開会式で入場行進しました。",
+      "id": "24296d09-e7f9-46c2-8289-30e027d7cddd"
+    },
+    {
+      "word": "世界選手権",
+      "reading": "せかいせんしゅけん",
+      "meaningZh": "世界锦标赛",
+      "meaningEn": "World Championships",
+      "level": "n3",
+      "exampleSentence": "水泳の世界選手権は、2年に一度開催されます。",
+      "id": "f5a0e0ec-5ae2-41ad-b976-700e8488458b"
+    },
+    {
+      "word": "ライバル",
+      "reading": "らいばる",
+      "meaningZh": "对手，竞争对手",
+      "meaningEn": "rival",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも私にとって一番のライバルです。",
+      "id": "9853ef16-5e27-44d6-ad0a-95ae9cfae2e2"
+    },
+    {
+      "word": "予選",
+      "reading": "よせん",
+      "meaningZh": "预选赛",
+      "meaningEn": "preliminary round, qualifier",
+      "level": "n3",
+      "exampleSentence": "この大会に出場するには、まず予選を通過しなければなりません。",
+      "id": "0dea5a6b-06ec-4023-98d8-0ba93c7c6972"
+    },
+    {
+      "word": "決勝",
+      "reading": "けっしょう",
+      "meaningZh": "决赛",
+      "meaningEn": "final (match/round)",
+      "level": "n3",
+      "exampleSentence": "明日の決勝戦は、きっと盛り上がるだろう。",
+      "id": "02cb1409-e11e-45dc-b719-9e697e9491fa"
+    },
+    {
+      "word": "自己ベスト",
+      "reading": "じこべすと",
+      "meaningZh": "个人最好成绩",
+      "meaningEn": "personal best",
+      "level": "n3",
+      "exampleSentence": "彼女は自己ベストを更新するために、毎日練習しています。",
+      "id": "1071583d-bdf4-47dc-bd84-a95e267e5cd6"
+    },
+    {
+      "word": "粘り強い",
+      "reading": "ねばりづよい",
+      "meaningZh": "顽强的，有韧性的",
+      "meaningEn": "persistent, tenacious",
+      "level": "n3",
+      "exampleSentence": "粘り強い交渉の末、契約を結ぶことができました。",
+      "id": "f4e68137-ee14-4ed6-b131-a593430d6e29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男子100メートル平泳ぎの選手について、本文で何が述べられていますか？",
+      "options": [
+        "優勝したが、自己ベストは更新できなかった。",
+        "予選を突破し、決勝に進出した。",
+        "怪我のため、決勝を棄権した。",
+        "目標としていたタイムには届かなかった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「男子100メートル平泳ぎでは、期待の選手が予選を突破し、決勝進出を果たしました。」と書かれています。",
+      "id": "3e82294a-4c2c-49eb-914e-c81b43debc8e"
+    },
+    {
+      "question": "女子選手たちの泳ぎについて、筆者はどのように感じていますか？",
+      "options": [
+        "メダルは取れなかったが、感動した。",
+        "自己ベストを更新できなかったので残念だ。",
+        "もっと練習が必要だと感じている。",
+        "期待していたほどの泳ぎではなかった。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「惜しくもメダルには届かなかったものの、彼女たちの粘り強い泳ぎは多くの感動を与えました。」と書かれています。",
+      "id": "743a5910-6205-43cf-94af-23ecdf45ec14"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-17-acddc0cf70",
+  "publishedAt": "2026-05-17T06:00:00+09:00"
+}
