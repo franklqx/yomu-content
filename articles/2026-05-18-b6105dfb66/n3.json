@@ -1,0 +1,126 @@
+{
+  "title": "地域通貨で商店街を元気に！新しい取り組みとは？",
+  "summary": "最近、多くの商店街で「地域通貨」を使った新しい取り組みが始まっています。これは、地域経済を活性化させるためのユニークな方法です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の多くの商店街で、地域経済を活性化させるための新しい動きが見られます。その中でも注目されているのが、「地域通貨」を活用した取り組みです。地域通貨とは、その地域だけで使えるお金のことで、地元のお店で買い物をすると、ポイントが貯まったり、割引が受けられたりします。これにより、お金が地域内で循環しやすくなり、地元のお店を応援することにつながります。",
+      "translationZh": "最近，日本许多商店街可以看到旨在振兴地方经济的新动向。其中备受关注的是利用“地域货币”的举措。地域货币是指仅在该地区内使用的货币，在当地商店购物时，可以累积积分或享受折扣。这使得金钱更容易在地区内流通，并有助于支持当地的商店。",
+      "translationEn": "Recently, many shopping streets in Japan are seeing new movements aimed at revitalizing the local economy. Among them, initiatives utilizing \"local currency\" are attracting attention. Local currency is money that can only be used within that region, and when you shop at local stores, you can earn points or receive discounts. This makes it easier for money to circulate within the region and helps support local businesses.",
+      "id": "f0876f97-75da-4a1f-a181-29859e0fe929",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨を導入するメリットは、単にお金が地域内で回るということだけではありません。例えば、商店街でイベントが開かれる際に、地域通貨で支払うと特別な特典があったり、住民同士の交流が深まるきっかけになったりすることもあります。また、地域通貨はデジタル化されている場合も多く、スマートフォン一つで簡単に利用できるため、若い世代にも受け入れられやすいという特徴があります。",
+      "translationZh": "引入地域货币的好处不仅仅是金钱在地区内流通。例如，当商店街举办活动时，如果使用地域货币支付，可能会有特别的优惠，或者成为加深居民之间交流的契机。此外，许多地域货币是数字化的，可以用一部智能手机轻松使用，因此也容易被年轻一代接受。",
+      "translationEn": "The benefits of introducing local currency are not just about money circulating within the region. For example, when events are held in shopping streets, paying with local currency might offer special benefits, or it can serve as an opportunity to deepen communication among residents. Furthermore, many local currencies are digitized and can be easily used with just a smartphone, making them appealing to younger generations.",
+      "id": "ab688472-dc6c-4905-8d03-9d3c6b8c8c39",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、地域通貨がすべての商店街でうまくいくとは限りません。導入するためには、住民やお店の人の協力が不可欠ですし、どのように使ってもらうかを工夫しなければなりません。しかし、長年地域に親しまれてきた商店街が、新しい技術やアイデアを取り入れて、活気を取り戻そうとしている姿勢は素晴らしいと思います。これからも、地域通貨のようなユニークな取り組みが、日本各地の商店街を元気にしていくことを期待しています。",
+      "translationZh": "当然，地域货币并非能在所有商店街都取得成功。要引入它，居民和店家的合作是不可或缺的，并且必须费心思去构思如何让大家使用。然而，我认为那些长期以来深受地区喜爱的商店街，积极引进新技术和创意，努力重拾活力的姿态是非常棒的。今后，我也期待地域货币这样的独特举措能让日本各地的商店街变得更加有活力。",
+      "translationEn": "Of course, local currency may not be successful in every shopping street. To introduce it, cooperation from residents and shopkeepers is essential, and efforts must be made to devise how people will use it. However, I believe the posture of shopping streets, which have been loved by their communities for many years, is wonderful as they embrace new technologies and ideas to regain vitality. I hope that unique initiatives like local currency will continue to energize shopping streets across Japan.",
+      "id": "288aa94f-22fd-4381-8780-0ed729d6894c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "在特定区域内使用的货币",
+      "meaningEn": "Local currency",
+      "level": "n3",
+      "exampleSentence": "この商店街では、独自の地域通貨が使われています。",
+      "id": "100138aa-3d34-49b7-8e1a-ed5f7494e88f"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "有效利用，充分利用",
+      "meaningEn": "Utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "この技術をうまく活用すれば、もっと便利になるでしょう。",
+      "id": "5b6a20f3-d7a5-490b-a2cc-17edfa9ab8b4"
+    },
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街，商业街",
+      "meaningEn": "Shopping street, commercial district",
+      "level": "n3",
+      "exampleSentence": "昔ながらの商店街には、魅力的なお店がたくさんあります。",
+      "id": "146ab058-c40b-4006-870e-2cd63ae4f56a"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "使活跃起来，振兴",
+      "meaningEn": "Activation, revitalization",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が急務です。",
+      "id": "56a8d5f2-bdba-45c2-b77e-b534263d5e78"
+    },
+    {
+      "word": "循環",
+      "reading": "じゅんかん",
+      "meaningZh": "循环，流通",
+      "meaningEn": "Circulation, cycle",
+      "level": "n3",
+      "exampleSentence": "お金が地域内で循環することは大切です。",
+      "id": "92c3e5e1-568e-43c6-bbbe-10dc2e031c66"
+    },
+    {
+      "word": "デジタル化",
+      "reading": "デジタルか",
+      "meaningZh": "数字化",
+      "meaningEn": "Digitization",
+      "level": "n3",
+      "exampleSentence": "サービスのデジタル化が進んでいます。",
+      "id": "3a2380b3-9d03-4ee2-a5ea-2654814950b2"
+    },
+    {
+      "word": "特典",
+      "reading": "とくてん",
+      "meaningZh": "特典，特别优待",
+      "meaningEn": "Special privilege, benefit",
+      "level": "n3",
+      "exampleSentence": "会員になると、様々な特典があります。",
+      "id": "d46d9547-228d-4662-9f1a-efcf473ef346"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨の主な目的は何ですか？",
+      "options": [
+        "地域外への経済効果を高めること",
+        "地域内でお金が循環するようにすること",
+        "新しいお店を誘致すること",
+        "外貨を獲得すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章中には、「お金が地域内で循環しやすくなり、地元のお店を応援することにつながります。」と書かれています。",
+      "id": "f12ce2fa-4627-4726-9bdb-8857eae9308d"
+    },
+    {
+      "question": "地域通貨が若い世代にも受け入れられやすい理由は何ですか？",
+      "options": [
+        "デザインが魅力的だから",
+        "デジタル化されていて、スマホで簡単に使えるから",
+        "特別なイベントでしか使えないから",
+        "お店の人が丁寧に説明してくれるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「地域通貨はデジタル化されている場合も多く、スマートフォン一つで簡単に利用できるため、若い世代にも受け入れられやすいという特徴があります。」と説明されています。",
+      "id": "b4ca9dca-c869-4a4a-ab59-00aa11733ae7"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-18-b6105dfb66",
+  "publishedAt": "2026-05-18T06:00:00+09:00"
+}

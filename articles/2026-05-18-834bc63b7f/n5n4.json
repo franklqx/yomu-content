@@ -1,0 +1,131 @@
+{
+  "title": "冬の施設、夏も楽しい！",
+  "summary": "冬にしか開かないスキー場が、夏も楽しめるように工夫をしています。一年中お客さんが来るように頑張っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬になると、スキー場はとてもにぎやかになります。たくさんの人がスキーやスノーボードを楽しみます。でも、冬が終わると、スキー場は閉まることが多いです。それは、ちょっと残念ですね。",
+      "translationZh": "一到冬天，滑雪场就会非常热闹。很多人会享受滑雪和滑雪板的乐趣。但是，冬天一结束，滑雪场很多时候都会关闭。这有点可惜呢。",
+      "translationEn": "When winter comes, ski resorts become very lively. Many people enjoy skiing and snowboarding. However, when winter ends, ski resorts often close. That is a little regrettable.",
+      "id": "8c255024-ab30-462c-b53e-4419fd802d58",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、いくつかのスキー場が工夫をしています。冬だけではなく、夏も楽しめるようにするのです。例えば、夏には山の道を歩く「ハイキング」ができます。また、きれいな景色を見ながら食事もできます。",
+      "translationZh": "最近，一些滑雪场正在想办法。它们努力让滑雪场不仅冬天能玩，夏天也能享受。例如，夏天可以进行山路徒步的“健行”。而且，还可以一边欣赏美丽的景色一边用餐。",
+      "translationEn": "Recently, some ski resorts are making efforts. They are trying to make them enjoyable not only in winter but also in summer. For example, in summer, you can go 'hiking' on mountain trails. You can also enjoy meals while looking at the beautiful scenery.",
+      "id": "dc26fc69-f5de-45f5-a75c-5c412e528e64",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいアイデアもあります。夏に「ジップライン」という遊びが人気です。これは、高いところからワイヤーにつかまって滑り降りる遊びです。スリルがあって楽しいです。このように、スキー場は一年中お客さんが来るように、色々なことを試しています。",
+      "translationZh": "也有新的想法。夏天，“高空滑索”这种游玩项目很受欢迎。这是一种抓住钢丝从高处滑下来的游戏。它很有刺激性，也很有趣。像这样，滑雪场为了让顾客一年四季都来，正在尝试各种各样的事情。",
+      "translationEn": "There are also new ideas. In summer, an activity called 'zip-lining' is popular. This is a fun activity where you slide down from a high place holding onto a wire. It is thrilling and enjoyable. In this way, ski resorts are trying various things to attract visitors all year round.",
+      "id": "3a88fcd2-f880-414e-ba33-de1ee27ee41e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "冬のスポーツ施設が、夏も楽しめる場所になるのは、とても良いことだと思います。みんなも、夏にスキー場に行って、新しい遊びを体験してみてはどうですか。",
+      "translationZh": "我认为，冬季的体育设施能够变成夏天也能享受的地方，是一件非常好的事情。大家也要不要在夏天去滑雪场，体验一下新的游玩项目呢？",
+      "translationEn": "I think it is a very good thing that winter sports facilities can become places enjoyable in summer as well. Why don't you all also try going to a ski resort in summer and experiencing new activities?",
+      "id": "5d266538-84c9-4c68-bb86-a96065ae292e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スキー場",
+      "reading": "すきーじょう",
+      "meaningZh": "滑雪场",
+      "meaningEn": "ski resort",
+      "level": "n5n4",
+      "exampleSentence": "冬になると、スキー場は人がたくさん来ます。",
+      "id": "78ef6ac7-2dcf-481c-9c62-c8c1e6b0d99b"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りの日は町がにぎやかになります。",
+      "id": "d1519127-e731-43e7-bdb4-711d868c28ed"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "可惜，遗憾",
+      "meaningEn": "regrettable, disappointing",
+      "level": "n5n4",
+      "exampleSentence": "試合に負けて残念でした。",
+      "id": "3231767d-4051-4f12-be14-d74d7a7fa925"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法；巧妙地安排",
+      "meaningEn": "ingenuity, idea, device",
+      "level": "n3",
+      "exampleSentence": "この問題をとくために、いい工夫をしました。",
+      "id": "fd1460ae-86c7-4dcd-98fe-5a1a2279a32f"
+    },
+    {
+      "word": "ハイキング",
+      "reading": "はいきんぐ",
+      "meaningZh": "健行，徒步旅行",
+      "meaningEn": "hiking",
+      "level": "n5n4",
+      "exampleSentence": "週末に友達とハイキングに行きました。",
+      "id": "8bff8cbb-adc1-45ca-81bf-0f9736d90e3b"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "山の上の景色はとてもきれいでした。",
+      "id": "94f5354d-5549-48fc-b151-619324b851d9"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このカフェは学生に人気があります。",
+      "id": "fc657b3e-8289-4415-b0e4-1e58d966913e"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "日本の文化を体験したいです。",
+      "id": "cc54c3ca-3161-4aec-919a-4397173e34fa"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スキー場は冬だけではなく、夏も楽しめるように、どんなことをしていますか。",
+      "options": [
+        "夏に閉まる",
+        "夏にプールを作る",
+        "夏にハイキングやジップラインをする",
+        "夏にイベントをしない"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「夏には山の道を歩く「ハイキング」ができます。また、夏に「ジップライン」という遊びが人気です。」と書いてあります。",
+      "id": "6ed98a20-670c-40d5-aaab-3bbf77c43874"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-18-834bc63b7f",
+  "publishedAt": "2026-05-18T06:00:00+09:00"
+}

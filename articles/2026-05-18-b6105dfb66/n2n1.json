@@ -1,0 +1,138 @@
+{
+  "title": "地域通貨で商店街活性化：新たな試みとその効果",
+  "summary": "地域通貨を導入し、地域経済の活性化と商店街の賑わい創出を目指す取り組みが全国各地で見られる。その成功事例と課題について紹介する。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、地方都市を中心に、地域住民の消費を地域内で循環させることを目的とした「地域通貨」の導入が進められている。特に、シャッター商店街と呼ばれる空き店舗が増加し、地域経済の停滞が懸念される地域において、商店街の活性化策として注目を集めているとのことだ。地域通貨は、その地域だけで利用できるという特性から、住民の地域への愛着を深めるとともに、域外への資金流出を抑制する効果が期待されている。",
+      "translationZh": "近年来，以地方城市为中心，旨在促进地区居民消费在地区内循环的“地域货币”的引入正在推进。特别是在店铺关闭现象增多、被称为“百叶窗商店街”的地区，以及令人担忧的地区经济停滞的地区，它作为振兴商店街的措施而备受瞩目。地域货币因其仅能在该地区使用的特性，被期待能加深居民对地区的喜爱，同时抑制资金向域外流出。",
+      "translationEn": "In recent years, particularly in regional cities, the introduction of 'local currencies,' aimed at circulating consumption within the region among local residents, has been progressing. This initiative is drawing attention as a measure to revitalize shopping streets, especially in areas where vacant stores are increasing and economic stagnation is a concern, areas often referred to as 'shutter shopping streets.' Due to its characteristic of being usable only within its specific region, local currencies are expected to deepen residents' affection for their community while also curbing the outflow of funds to areas outside the region.",
+      "id": "3534ed2a-7f7e-41b8-9682-a9b0d7a83db4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "具体的には、地域通貨発行組合や自治体が主体となり、地域内でのみ使用可能な独自の通貨を発行するケースが多い。これらの通貨は、加盟店である商店街の店舗で商品やサービスの購入に利用できるほか、地域イベントの参加費や、地域貢献活動への謝礼として配布されることもある。これにより、住民は日々の買い物を通じて地域経済に貢献できる実感を得やすくなり、商店側も新たな顧客獲得や売上増加につながる可能性が示唆されている。",
+      "translationZh": "具体而言，多为地域货币发行组合或自治体作为主体，发行仅能在地区内使用的独特货币。这些货币不仅可以在加盟店的商店街店铺用于购买商品或服务，有时也会作为地区活动的参与费或对地区贡献活动的报酬而发放。这使得居民更容易获得通过日常购物为地区经济做出贡献的切实感受，同时也暗示了商店方面可能因此获得新顾客或增加销售额。",
+      "translationEn": "Specifically, in many cases, local currency issuance associations or local governments take the lead in issuing unique currencies that can only be used within the region. These currencies can be used to purchase goods and services at affiliated shops in the shopping district, and are sometimes distributed as participation fees for local events or as rewards for community contribution activities. This makes it easier for residents to feel a sense of contributing to the local economy through their daily shopping, and suggests a possibility for shop owners to acquire new customers and increase sales.",
+      "id": "47f2efd1-6cb4-49da-80dc-b18687a84647",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、地域通貨の導入には課題も少なくない。まず、通貨の普及には、住民や商店側の理解と協力が不可欠であり、そのための啓発活動やインセンティブ設計が重要となる。また、デジタル化への対応、偽造防止策、そして持続可能な運営体制の構築といった、技術的・制度的な側面からの検討も求められる。これらの課題を克服し、地域通貨が地域経済の活性化に真に貢献するためには、関係者間の緊密な連携と、時代に合わせた柔軟な制度設計が不可欠であると見られている。",
+      "translationZh": "然而，地域货币的引入也面临不少挑战。首先，货币的普及离不开居民和商店方面的理解与合作，因此，宣传活动和激励机制的设计至关重要。此外，还需要从技术和制度层面进行探讨，例如应对数字化、防止伪造以及构建可持续的运营体系。为了克服这些挑战，并使地域货币真正为地区经济的振兴做出贡献，人们认为相关方之间的紧密合作以及符合时代潮流的灵活制度设计是不可或缺的。",
+      "translationEn": "However, the introduction of local currencies is not without its challenges. Firstly, for the currency to become widespread, understanding and cooperation from residents and shopkeepers are essential, making awareness campaigns and incentive design crucial. Furthermore, considerations from technical and institutional aspects are required, such as adapting to digitalization, measures against counterfeiting, and establishing a sustainable operational framework. To overcome these challenges and enable local currencies to genuinely contribute to the revitalization of the regional economy, close collaboration among stakeholders and flexible system design adapted to the times are deemed indispensable.",
+      "id": "e7ef4bd9-da7e-4117-92da-242598c4a49a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "地域货币，在特定区域内流通的货币",
+      "meaningEn": "Local currency; currency used within a specific region.",
+      "level": "n2n1",
+      "exampleSentence": "この地域通貨は、地元商店でのみ使用できる。",
+      "id": "fc2f657f-5645-45cb-9445-32a38556dfe8"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，使活动起来、活跃起来",
+      "meaningEn": "Activation; revitalization.",
+      "level": "n3",
+      "exampleSentence": "商店街の活性化が急務となっている。",
+      "id": "2e9808df-695e-4b06-ab2c-7be78681ccbe"
+    },
+    {
+      "word": "懸念",
+      "reading": "けねん",
+      "meaningZh": "担忧，担心",
+      "meaningEn": "Concern; worry.",
+      "level": "n2n1",
+      "exampleSentence": "少子高齢化による経済への懸念が広がっている。",
+      "id": "268d3c45-aeb5-4f2a-8a72-b2e7785e088c"
+    },
+    {
+      "word": "循環",
+      "reading": "じゅんかん",
+      "meaningZh": "循环，流通",
+      "meaningEn": "Circulation; cycle.",
+      "level": "n3",
+      "exampleSentence": "地域経済におけるお金の循環を良くすることが重要だ。",
+      "id": "82f71443-26f6-4617-a866-1e25c1049736"
+    },
+    {
+      "word": "愛着",
+      "reading": "あいちゃく",
+      "meaningZh": "喜爱，依恋",
+      "meaningEn": "Attachment; affection.",
+      "level": "n2n1",
+      "exampleSentence": "故郷の町に深い愛着を感じている。",
+      "id": "7bb28d6f-6ac9-4fd4-b112-109c1c377e8d"
+    },
+    {
+      "word": "抑制",
+      "reading": "よくせい",
+      "meaningZh": "抑制，控制",
+      "meaningEn": "Suppression; restraint.",
+      "level": "n2n1",
+      "exampleSentence": "インフレの抑制が政府の最重要課題だ。",
+      "id": "67d9093b-28f0-46c0-b24f-0d9e74497880"
+    },
+    {
+      "word": "啓発",
+      "reading": "けいはつ",
+      "meaningZh": "启迪，启发，宣传教育",
+      "meaningEn": "Enlightenment; awareness-raising.",
+      "level": "n2n1",
+      "exampleSentence": "環境問題についての啓発活動が行われた。",
+      "id": "7d7a67bc-dffb-4d94-baf2-358b43b0fd0e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨が商店街の活性化策として注目されている主な理由は何ですか？",
+      "options": [
+        "地域外への資金流出を促進するため",
+        "住民の地域への関心を低下させるため",
+        "地域経済の循環を促し、域外への資金流出を抑制するため",
+        "デジタル通貨への移行を強制するため"
+      ],
+      "correctIndex": 2,
+      "explanation": "「地域通貨は、その地域だけで利用できるという特性から、住民の地域への愛着を深めるとともに、域外への資金流出を抑制する効果が期待されている。」",
+      "id": "1a29e4f2-abcf-44cc-95c6-79a7e622e79d"
+    },
+    {
+      "question": "地域通貨の導入において、住民や商店側の理解と協力が不可欠であると述べられているのはなぜですか？",
+      "options": [
+        "地域通貨の普及には、住民や商店側の積極的な参加と理解が必要だからです。",
+        "地域通貨は強制的に使用されるべきだからです。",
+        "商店側は通貨の普及に反対しているからです。",
+        "住民は地域通貨に関心がないからです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「しかし、地域通貨の導入には課題も少なくない。まず、通貨の普及には、住民や商店側の理解と協力が不可欠であり、そのための啓発活動やインセンティブ設計が重要となる。」",
+      "id": "1be58505-b8c4-4640-a13f-2d110359b3d0"
+    },
+    {
+      "question": "地域通貨が真に地域経済の活性化に貢献するためには、どのような点が重要だと結論づけられていますか？",
+      "options": [
+        "最新のデジタル技術のみを導入すること",
+        "関係者間の連携不足と、硬直した制度",
+        "緊密な連携と、時代に合わせた柔軟な制度設計",
+        "地域通貨の発行を停止すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これらの課題を克服し、地域通貨が地域経済の活性化に真に貢献するためには、関係者間の緊密な連携と、時代に合わせた柔軟な制度設計が不可欠であると見られている。」",
+      "id": "8785b5aa-6243-4494-8279-4921b1b45ce6"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-18-b6105dfb66",
+  "publishedAt": "2026-05-18T06:00:00+09:00"
+}

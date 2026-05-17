@@ -1,0 +1,131 @@
+{
+  "title": "冬のキラキラ！イルミネーション特集",
+  "summary": "冬になると、街がキラキラ光ります。きれいなイルミネーションを見に行きましょう！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬は寒いです。でも、夜になると、街はとてもきれいです。たくさんの光があります。これは「イルミネーション」と言います。",
+      "translationZh": "冬天很冷。但是，到了晚上，街道非常漂亮。有很多灯光。这叫做“illumination”。",
+      "translationEn": "Winter is cold. But at night, the city is very beautiful. There are many lights. This is called 'illumination'.",
+      "id": "3b287e0f-390e-4a87-aaff-fee1935a2145",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園や駅の近くで、きれいなイルミネーションが見られます。大きな木に電球が飾られています。キラキラしていて、見ていると心が温かくなります。",
+      "translationZh": "在公园或车站附近，可以看到漂亮的灯饰。大树上装饰着彩灯。闪闪发光，看着让人心头一暖。",
+      "translationEn": "In parks or near stations, you can see beautiful illuminations. Light bulbs are decorated on big trees. They are sparkling, and looking at them warms your heart.",
+      "id": "5b152850-a907-41fa-aedb-f5d9dc032615",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "友達や家族と一緒に行くと、もっと楽しいです。写真を撮って、思い出を作りましょう。温かい飲み物を飲みながら見ると、もっといいです。",
+      "translationZh": "和朋友或家人一起去，会更开心。拍些照片，创造美好的回忆吧。一边喝着热饮一边看，会更好。",
+      "translationEn": "It's more fun to go with friends or family. Let's take pictures and make memories. It's even better if you drink a warm beverage while watching.",
+      "id": "68e48f44-ea2d-42be-9f8d-41ec6412881b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この冬、あなたの町にもきれいなイルミネーションがあるかもしれません。ぜひ探して、見に行ってみてください。",
+      "translationZh": "这个冬天，你的城市里也许也有漂亮的灯饰。请一定要找找看，去看看吧。",
+      "translationEn": "This winter, there might be beautiful illuminations in your town too. Please look for them and go see them.",
+      "id": "17de3fe2-fa97-4f11-8f60-4238853ad49a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "636399af-5576-49b8-88b5-bb0a47ed035c"
+    },
+    {
+      "word": "光",
+      "reading": "ひかり",
+      "meaningZh": "光；光线",
+      "meaningEn": "light",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの光があります。",
+      "id": "961a5665-ee91-4b55-a7f8-45a67251b5a3"
+    },
+    {
+      "word": "イルミネーション",
+      "reading": "いるみねーしょん",
+      "meaningZh": "灯饰；装饰彩灯",
+      "meaningEn": "illumination",
+      "level": "n5n4",
+      "exampleSentence": "きれいなイルミネーションが見られます。",
+      "id": "16e15a5a-1f71-470f-84e5-8832d1b4ff10"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園できれいなイルミネーションが見られます。",
+      "id": "53f0fa60-8d73-4c19-be21-4abdaaac8ddd"
+    },
+    {
+      "word": "飾る",
+      "reading": "かざる",
+      "meaningZh": "装饰",
+      "meaningEn": "to decorate",
+      "level": "n5n4",
+      "exampleSentence": "木に電球を飾りました。",
+      "id": "07d47a69-376a-48b2-8d11-821bf8c64f9e"
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaningZh": "电；电灯",
+      "meaningEn": "electricity; electric light",
+      "level": "n5n4",
+      "exampleSentence": "電気をつけます。",
+      "id": "163a85a7-0d51-4a9b-9dab-e43aa934bbba"
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaningZh": "朋友",
+      "meaningEn": "friend",
+      "level": "n5n4",
+      "exampleSentence": "友達と一緒に行きます。",
+      "id": "98a440f5-e31b-4021-91a5-d4691a52531a"
+    },
+    {
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaningZh": "照片",
+      "meaningEn": "photo",
+      "level": "n5n4",
+      "exampleSentence": "写真を撮りましょう。",
+      "id": "1d70c172-6a7d-44ce-81d5-7be329579dc3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "イルミネーションはいつ見られますか？",
+      "options": [
+        "朝",
+        "昼",
+        "夜",
+        "いつでも"
+      ],
+      "correctIndex": 2,
+      "explanation": "「冬は寒いです。でも、夜になると、街はとてもきれいです。たくさんの光があります。これは「イルミネーション」と言います。」",
+      "id": "8669899c-2a3c-49a8-ba8e-47645caf6f82"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-18-627c09335c",
+  "publishedAt": "2026-05-18T06:00:00+09:00"
+}

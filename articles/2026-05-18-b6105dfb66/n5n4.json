@@ -1,0 +1,122 @@
+{
+  "title": "地域通貨で元気に！",
+  "summary": "町のお店が元気になるために、新しいお金が使われています。このお金は、町の中だけで使えます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の町には、たくさんのお店があります。しかし、最近、町のお店が少し元気がないです。そこで、町の人々が考えました。町の中だけで使えるお金を作ろう、ということです。",
+      "translationZh": "日本的小镇有很多商店。但是，最近，镇上的商店有些不太景气。于是，镇上的人们想到了一个办法。那就是制作一种只能在小镇里使用的钱。",
+      "translationEn": "Japanese towns have many shops. However, recently, the town's shops are a little less lively. Therefore, the townspeople thought of something. They decided to create a currency that can only be used within the town.",
+      "id": "492de2b3-06d4-4f6b-8cef-5001885653f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお金の名前は「地域通貨」と言います。地域通貨を使うと、町のお店で買い物ができます。例えば、パン屋さんや、花屋さんで使えます。町の人々は、この地域通貨を応援しています。",
+      "translationZh": "这种钱的名字叫做“地域货币”。使用地域货币，可以在镇上的商店购物。例如，可以在面包店或花店使用。镇上的人们支持这种地域货币。",
+      "translationEn": "This currency is called 'chiiki tsuuka' (local currency). By using local currency, you can shop at the town's stores. For example, it can be used at bakeries and flower shops. The townspeople support this local currency.",
+      "id": "18e78a95-7453-43fb-8f60-3bf238e54665",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨を使うと、町のお金が町の外に出ません。町の中で、お金が何度も回ります。そうすると、町のお店がもっと元気になります。町の人々の生活も、もっと楽しくなります。",
+      "translationZh": "使用地域货币，镇上的钱就不会流出小镇。钱会在镇上反复流通。这样，镇上的商店就会更加有活力。镇上人们的生活也会变得更加愉快。",
+      "translationEn": "When local currency is used, the town's money does not flow out of the town. The money circulates many times within the town. This makes the town's shops more vibrant. The lives of the townspeople also become more enjoyable.",
+      "id": "06b6dd89-c2e1-4f03-9175-f7eff76cae52",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この取り組みは、他の町でも広がっています。町の人々が協力して、自分の町を良くしようとしています。地域通貨は、町を元気にする良い方法です。",
+      "translationZh": "这项举措正在其他小镇也推广开来。镇上的人们齐心协力，努力让自己的小镇变得更好。地域货币是让小镇充满活力的好方法。",
+      "translationEn": "This initiative is spreading to other towns as well. Townspeople are cooperating to improve their own towns. Local currency is a good way to make towns vibrant.",
+      "id": "d83d3f65-89b9-448c-8842-8135c92425d3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "地域货币",
+      "meaningEn": "local currency",
+      "level": "n5n4",
+      "exampleSentence": "この町では、地域通貨が使えます。",
+      "id": "8f4960b7-e0d6-46f1-a1ea-e98ab08aa5e7"
+    },
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商业街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "商店街はいつも賑やかです。",
+      "id": "96fb68c4-ef29-4ed0-ac94-886a72c958a3"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energetic, healthy",
+      "level": "n5n4",
+      "exampleSentence": "元気な子供たちがいっぱいいます。",
+      "id": "fb2a5157-4faa-4f4b-b399-64bf6ddbb43a"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が面白いです。",
+      "id": "1478850c-84a0-47f9-af40-a7c8bf057069"
+    },
+    {
+      "word": "使う",
+      "reading": "つかう",
+      "meaningZh": "使用",
+      "meaningEn": "to use",
+      "level": "n5n4",
+      "exampleSentence": "このペンを使ってもいいですか。",
+      "id": "552c3a99-f139-4e5f-9bd0-bac74c011e24"
+    },
+    {
+      "word": "回る",
+      "reading": "まわる",
+      "meaningZh": "转动，流通",
+      "meaningEn": "to turn, to circulate",
+      "level": "n5n4",
+      "exampleSentence": "お金が町の中で回ります。",
+      "id": "35e10ab8-2397-4e26-9032-b2bc1422385e"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "みんなで協力して、この仕事を終わらせました。",
+      "id": "495e1812-49ad-411c-9061-1599ec7fc0e5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨は何のために使われますか。",
+      "options": [
+        "町のお店をもっと元気にするため",
+        "町の人々が旅行するため",
+        "町に新しい家を建てるため",
+        "町で外国のお金を使うため"
+      ],
+      "correctIndex": 0,
+      "explanation": "地域通貨を使うと、町のお金が町の外に出ません。町の中で、お金が何度も回ります。そうすると、町のお店がもっと元気になります。",
+      "id": "815c7f8a-8c24-4ff9-a016-a537772a4d48"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-18-b6105dfb66",
+  "publishedAt": "2026-05-18T06:00:00+09:00"
+}
