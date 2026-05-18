@@ -1,0 +1,131 @@
+{
+  "title": "公園で広がるスケボー文化",
+  "summary": "最近、都市の公園でスケートボードをする人が増えています。これは新しい趣味として人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の都市の公園でスケートボードをする人が多くなりました。特に若い人たちに人気があります。公園は広いので、安全に楽しむことができます。",
+      "translationZh": "最近，在日本的城市公园里玩滑板的人变多了。尤其受年轻人欢迎。公园很宽敞，所以可以安全地享受。",
+      "translationEn": "Recently, many people have been skateboarding in urban parks in Japan. It is especially popular among young people. Because the parks are spacious, people can enjoy it safely.",
+      "id": "d3d3fd7b-dd4b-43ea-a07d-e803ab86b11e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スケートボードは、ただ遊ぶだけではありません。新しい友達を作るきっかけにもなります。公園で一緒に練習したり、技を見せ合ったりします。これは良いコミュニケーションになります。",
+      "translationZh": "滑板不仅仅是玩乐。它也成为结交新朋友的契机。大家在公园里一起练习，互相展示技巧。这成为了很好的交流。",
+      "translationEn": "Skateboarding is not just about playing. It also becomes an opportunity to make new friends. People practice together in the park and show each other tricks. This becomes good communication.",
+      "id": "118c2ae1-0d3b-49d6-90f5-aa54992a0af4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園には、スケートボードをするための特別な場所がないこともあります。それでも、みんな工夫をして楽しんでいます。街の景色が変わり、公園はもっと楽しくなりました。",
+      "translationZh": "公园里有时也没有专门的滑板场地。即便如此，大家也发挥创意享受其中。街景在变化，公园变得更加有趣了。",
+      "translationEn": "Sometimes, parks do not have special places for skateboarding. Even so, everyone enjoys it by being creative. The city scenery is changing, and parks have become more fun.",
+      "id": "20c1e3df-8c44-41b1-8a23-10f599c42140",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし興味があれば、一度公園に行ってみてください。きっと新しい発見があるはずです。スケートボードは、健康にも良いスポーツです。",
+      "translationZh": "如果你有兴趣，请去公园看看。一定会有新的发现。滑板是一项对健康也很有益的运动。",
+      "translationEn": "If you are interested, please visit a park once. You will surely make new discoveries. Skateboarding is a sport that is also good for your health.",
+      "id": "1050cfbb-3a54-48ac-87d8-30e261942a14",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaningZh": "都市",
+      "meaningEn": "city, urban",
+      "level": "n5n4",
+      "exampleSentence": "これは大きな都市の地図です。",
+      "id": "995472c9-0964-4ee0-9148-04f71420d853"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園で子供が遊んでいます。",
+      "id": "1491787e-6109-4b87-9234-f4d0fdd89e75"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity, be popular",
+      "level": "n5n4",
+      "exampleSentence": "このお店はとても人気があります。",
+      "id": "253aad13-51d5-4767-80e1-bfc4cb26d9c9"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaningZh": "爱好",
+      "meaningEn": "hobby",
+      "level": "n5n4",
+      "exampleSentence": "私の趣味は本を読むことです。",
+      "id": "201cd7cf-61f9-4168-aae0-dfbe40509740"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety, safe",
+      "level": "n5n4",
+      "exampleSentence": "安全な場所で車を運転してください。",
+      "id": "411c218c-c6af-48e9-bf7c-944ae8fb0cfb"
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaningZh": "朋友",
+      "meaningEn": "friend",
+      "level": "n5n4",
+      "exampleSentence": "彼は私の良い友達です。",
+      "id": "d73a0626-1082-40e0-9753-e22ca4d618d4"
+    },
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaningZh": "练习",
+      "meaningEn": "practice",
+      "level": "n5n4",
+      "exampleSentence": "日本語の練習をしています。",
+      "id": "5626c90f-021a-4ddd-8ffa-dea4753d3024"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n5n4",
+      "exampleSentence": "新しい科学的な発見がありました。",
+      "id": "89401e80-17b3-4e01-ace7-a008e43d8e69"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公園でスケートボードをする人が増えているのは、なぜですか？",
+      "options": [
+        "公園が広いから",
+        "新しい友達が作れるから",
+        "安全に楽しめるから",
+        "健康に良いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「公園は広いので、安全に楽しむことができます。」",
+      "id": "94061b9e-7182-46ad-bdc8-0cef8cc03374"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-19-9386827cb6",
+  "publishedAt": "2026-05-19T06:00:00+09:00"
+}

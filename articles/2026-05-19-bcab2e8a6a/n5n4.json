@@ -1,0 +1,123 @@
+{
+  "title": "地域の防災訓練、楽しく学ぼう！",
+  "summary": "災害はいつ来るか分かりません。地域で一緒に防災訓練をすることは大切です。訓練を楽しくする方法を考えましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "地震や火事などの災害は、いつ起こるか分かりません。だから、日頃から備えることが大切です。地域の人々と一緒に防災訓練をすることは、とても良いことです。",
+      "translationZh": "地震和火灾等灾害，不知道何时会发生。因此，平时做好准备非常重要。和地区的人们一起进行防灾演习，是一件非常好的事情。",
+      "translationEn": "Disasters like earthquakes and fires can happen anytime. Therefore, it's important to prepare in advance. Practicing disaster prevention with people in your community is a very good thing.",
+      "id": "c24e5e5a-03ab-4cf7-a200-03521b715ffd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、訓練は少し退屈だと感じる人もいるかもしれません。もっと楽しく、みんなが参加したくなるような工夫が必要です。例えば、ゲームを取り入れたり、子供たちが喜ぶような企画を考えたりすることです。",
+      "translationZh": "但是，有些人可能会觉得演习有点无聊。需要一些让大家更开心、更愿意参加的创意。例如，可以加入游戏，或者考虑一些孩子们会喜欢的企划。",
+      "translationEn": "However, some people might feel that drills are a bit boring. We need ideas to make them more fun and encourage everyone to participate. For example, we could incorporate games or plan activities that children would enjoy.",
+      "id": "5a77e22c-f7d0-4544-b02a-90514375df74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、訓練で学んだことを、実際に災害が起きた時に役立てることが大切です。訓練は一度で終わりではなく、継続することが大切です。地域で協力して、安全な町を作りましょう。",
+      "translationZh": "另外，重要的是在实际发生灾害时，能够运用在演习中学到的知识。演习不是一次就结束的，持续进行很重要。让我们在地区内合作，创造一个安全的城镇吧。",
+      "translationEn": "Also, it's important to use what we learned in the drills when a disaster actually occurs. Drills are not a one-time event; continuing them is important. Let's cooperate within the community to create a safe town.",
+      "id": "73fdb226-7d68-4e23-9ee9-952fbbd10e3c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾难，灾害",
+      "meaningEn": "disaster",
+      "level": "n5n4",
+      "exampleSentence": "地震は大きな災害です。",
+      "id": "474ddda6-12c4-4d19-ba78-88de0ad0641f"
+    },
+    {
+      "word": "備える",
+      "reading": "そなえる",
+      "meaningZh": "准备，配备",
+      "meaningEn": "to prepare, to be equipped",
+      "level": "n5n4",
+      "exampleSentence": "災害に備えるために、食料を準備しました。",
+      "id": "72d22d0c-cf26-43c0-9bc4-778ee01f0103"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "be685924-7e18-4faf-b929-4bf1eaa54af9"
+    },
+    {
+      "word": "訓練",
+      "reading": "くんれん",
+      "meaningZh": "训练，演习",
+      "meaningEn": "training, drill",
+      "level": "n5n4",
+      "exampleSentence": "避難訓練を行いました。",
+      "id": "d81e779f-466d-4876-b30a-15fa00f862c2"
+    },
+    {
+      "word": "退屈",
+      "reading": "たいくつ",
+      "meaningZh": "无聊",
+      "meaningEn": "boredom",
+      "level": "n5n4",
+      "exampleSentence": "この本は少し退屈です。",
+      "id": "10e04612-59cc-489d-aadd-ea5d1e6df39f"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，创造，改进",
+      "meaningEn": "device, idea, ingenuity",
+      "level": "n5n4",
+      "exampleSentence": "新しい方法を工夫しました。",
+      "id": "84e5eb99-3287-4017-ab03-e738fd4a317c"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "会議に参加しました。",
+      "id": "aaa7eaea-02a1-46f8-99b9-108204a10074"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation",
+      "level": "n5n4",
+      "exampleSentence": "みんなで協力して頑張りましょう。",
+      "id": "6dce21d8-4f0d-467f-9049-42bfb33c3595"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域での防災訓練を楽しくするためには、どのような工夫が大切だと書かれていますか？",
+      "options": [
+        "もっと難しいことを教えること",
+        "ゲームを取り入れたり、子供が喜ぶ企画を考えること",
+        "訓練を毎日行うこと",
+        "地域の人と話さないこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「例えば、ゲームを取り入れたり、子供たちが喜ぶような企画を考えたりすることです。」と書かれています。",
+      "id": "d2a8da9e-f79c-4ed9-928c-cfe5cd542d0c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-19-bcab2e8a6a",
+  "publishedAt": "2026-05-19T06:00:00+09:00"
+}

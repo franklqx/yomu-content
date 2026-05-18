@@ -1,0 +1,134 @@
+{
+  "title": "地域訓練の工夫で防災意識を高めよう！",
+  "summary": "災害はいつ起こるか分かりません。地域で防災訓練を工夫することで、住民一人ひとりの防災意識を高めることができます。ここでは、効果的な訓練のアイデアを紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "地震や台風などの災害は、私たちの身近でいつ起こるか分からないものです。そのため、日頃から災害に備えておくことが非常に大切ですが、一人で準備をするのは大変です。そこで、地域で協力して防災訓練を行うことが、防災意識を高める上で効果的だと言われています。",
+      "translationZh": "地震或台风等灾害，不知道何时会在我们身边发生。因此，平时就为灾害做好准备非常重要，但独自准备会很辛苦。所以，据说在社区合作进行防灾训练，对于提高防灾意识非常有效。",
+      "translationEn": "Disasters such as earthquakes and typhoons can occur unexpectedly in our vicinity. Therefore, it is very important to prepare for disasters from everyday life, but it is difficult to prepare alone. For this reason, it is said that conducting disaster prevention drills in cooperation with the community is effective in raising disaster prevention awareness.",
+      "id": "7fc21bd2-d1ae-48e6-8fff-318d94fff7c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "訓練をより効果的にするためには、参加者が「自分ごと」として捉えられるような工夫が必要です。例えば、ただ避難経路を確認するだけでなく、実際に火災を想定した消火訓練をしたり、家具の固定方法を学んだりすることはいかがでしょうか。このように体験を通して学ぶことで、災害時の対応力が向上します。",
+      "translationZh": "为了使训练更有效，需要一些能让参与者将其视为“与自己相关”的工夫。例如，不仅仅是确认避难路线，实际想定火灾进行灭火训练，或者学习固定家具的方法，怎么样呢？通过这样的体验学习，可以提高灾害时的应对能力。",
+      "translationEn": "To make the training more effective, we need creative ideas that allow participants to see it as something 'personally relevant.' For example, instead of just checking evacuation routes, how about conducting actual fire drills assuming a fire or learning how to secure furniture? Learning through such experiences improves one's ability to respond during a disaster.",
+      "id": "c9bdd4cb-aa3a-4927-aeb1-1ac2cd9c50fb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、災害時には高齢者や小さな子供、体の不自由な方など、助けが必要な人が多くいます。そのため、訓練では、そういった方々をどのようにサポートするかを具体的に考える機会を設けることも大切です。地域全体で助け合う意識を育むことで、いざという時に、より多くの命を守ることができるでしょう。",
+      "translationZh": "此外，在灾害发生时，有很多需要帮助的人，如老年人、小孩、行动不便的人等。因此，在训练中，也要创造机会具体思考如何支持这些人，这一点也很重要。通过培养整个社区互相帮助的意识，在关键时刻，就能保护更多的生命。",
+      "translationEn": "Furthermore, during a disaster, there are many people who need help, such as the elderly, young children, and people with disabilities. Therefore, it is important to create opportunities during drills to specifically consider how to support these individuals. By fostering a spirit of mutual assistance throughout the community, more lives can be saved in times of need.",
+      "id": "550f7395-486d-4e98-b63e-ad606ffbf42d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "防災訓練は、一度行えば終わりというものではありません。定期的に実施し、訓練の内容を地域の実情に合わせて改善していくことが重要です。参加者からの意見を聞きながら、より実用的で、誰もが安心して参加できる訓練を目指しましょう。",
+      "translationZh": "防灾训练并不是一次就结束的事情。定期实施，并根据社区实际情况改善训练内容非常重要。在听取参与者意见的同时，以更实用、让每个人都能安心参加的训练为目标吧。",
+      "translationEn": "Disaster prevention drills are not something that ends after being conducted once. It is important to implement them regularly and improve the training content according to the local situation. While listening to feedback from participants, let's aim for drills that are more practical and that everyone can participate in with peace of mind.",
+      "id": "46a25978-c1b1-4a8c-8408-2cac5251d645",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "防災意識",
+      "reading": "ぼうさいいしき",
+      "meaningZh": "防灾意识",
+      "meaningEn": "Disaster prevention awareness",
+      "level": "n3",
+      "exampleSentence": "地域で防災意識を高める活動は重要だ。",
+      "id": "c3e113cb-48e7-42b5-92b8-e6112f7eba84"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，巧妙的安排",
+      "meaningEn": "Device, scheme, idea, effort",
+      "level": "n3",
+      "exampleSentence": "この問題の解決には、もっと工夫が必要だ。",
+      "id": "53776f36-9dfd-4a51-b2b7-b477a93b2f0e"
+    },
+    {
+      "word": "想定",
+      "reading": "そうてい",
+      "meaningZh": "设想，预期",
+      "meaningEn": "Assumption, supposition, expectation",
+      "level": "n3",
+      "exampleSentence": "最悪の事態を想定して準備を進めましょう。",
+      "id": "22433d2d-217c-45b2-84c4-ccb844fe534d"
+    },
+    {
+      "word": "家具",
+      "reading": "かぐ",
+      "meaningZh": "家具",
+      "meaningEn": "Furniture",
+      "level": "n3",
+      "exampleSentence": "地震で家具が倒れてきた。",
+      "id": "2d8a78d9-6100-4be9-8fd2-cf75214be07d"
+    },
+    {
+      "word": "固定",
+      "reading": "こてい",
+      "meaningZh": "固定",
+      "meaningEn": "Fixation, fastening",
+      "level": "n3",
+      "exampleSentence": "棚の上の物を落とさないように固定した。",
+      "id": "d68f3ec4-f0b5-4f98-b133-3d5ccde8d792"
+    },
+    {
+      "word": "対応力",
+      "reading": "たいおうりょく",
+      "meaningZh": "应对能力",
+      "meaningEn": "Ability to respond, adaptability",
+      "level": "n3",
+      "exampleSentence": "変化に強い対応力が求められている。",
+      "id": "240fdb79-7230-4f14-92c7-c8f55b686227"
+    },
+    {
+      "word": "実情",
+      "reading": "じつじょう",
+      "meaningZh": "实际情况",
+      "meaningEn": "Actual circumstances, reality",
+      "level": "n3",
+      "exampleSentence": "地域の実情に合わせた支援が必要です。",
+      "id": "e7e87883-c96a-47d9-9e18-d734f3e85b7a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域で防災訓練を行うことの利点は何ですか？",
+      "options": [
+        "一人で準備するより楽だから",
+        "参加者が「自分ごと」として捉えられるから",
+        "訓練が一度で終わるから",
+        "特別な道具がなくてもできるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「参加者が「自分ごと」として捉えられるような工夫が必要です。」とあります。",
+      "id": "1c0c581f-9e48-4757-a3ad-06e1328561d0"
+    },
+    {
+      "question": "防災訓練で大切にすべきことは何ですか？",
+      "options": [
+        "最新の技術を使うこと",
+        "参加者の意見を無視すること",
+        "地域の実情に合わせて改善すること",
+        "毎回同じ内容で行うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「定期的に実施し、訓練の内容を地域の実情に合わせて改善していくことが重要です。」とあります。",
+      "id": "cf352985-3f83-4fa8-8de0-1f0481aab4f9"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-19-bcab2e8a6a",
+  "publishedAt": "2026-05-19T06:00:00+09:00"
+}

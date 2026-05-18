@@ -1,0 +1,135 @@
+{
+  "title": "都市公園に広がるスケボー文化！新しい遊び場",
+  "summary": "最近、都市公園でスケートボードを楽しむ若者が増えています。公園は新しい世代の交流の場となっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の多くの都市公園で、スケートボードを楽しむ若者の姿がよく見かけられるようになりました。以前は限られた場所でしか見られなかったスケートボードですが、今では公園が新しい世代の交流の場として広がりを見せています。天気の良い日には、様々なトリックに挑戦したり、友達と技を教え合ったりする光景が広がっています。",
+      "translationZh": "最近，在日本的许多城市公园里，玩滑板的年轻人身影越来越常见。滑板以前只能在有限的地方看到，如今公园正成为新一代交流的场所并不断扩大。天气好的日子里，可以看到大家挑战各种技巧，或者互相传授技术给朋友的景象。",
+      "translationEn": "Recently, young people enjoying skateboarding have become a common sight in many urban parks in Japan. Skateboarding, which was once only seen in limited areas, is now expanding, with parks becoming a place for intergenerational exchange. On sunny days, scenes of people challenging various tricks or teaching each other techniques are widespread.",
+      "id": "6465b040-8738-4c05-91de-cd3b0fc26c15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園がスケートボードの活動場所になることについては、様々な意見があります。公園の利用者からは、安全面や騒音について心配する声も聞かれます。しかし、一方で、若者たちが安全に楽しめる場所があることは大切だという意見もあります。公園側も、ルールを整備したり、初心者向けの練習スペースを設けたりするなど、工夫を始めているところです。",
+      "translationZh": "关于公园成为滑板活动场所，存在各种各样的意见。公园使用者中也有人担心安全和噪音问题。但另一方面，也有人认为有让年轻人安全享受的地方很重要。公园方面也开始着手改进，例如完善规则或设置面向初学者的练习区。",
+      "translationEn": "There are various opinions regarding parks becoming skateboarding spots. Some park users express concerns about safety and noise. However, others believe it is important to have places where young people can enjoy themselves safely. Park authorities are also beginning to make improvements, such as establishing rules and creating practice areas for beginners.",
+      "id": "106a08ba-0da2-411e-aac9-6051f314539f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スケートボードは、単なるスポーツとしてだけでなく、自己表現の手段としても捉えられています。公園で練習に励む若者たちは、それぞれ独自のスタイルを追求し、互いに刺激し合っています。このような活動が広がることで、地域に新しい活気が生まれ、多様な文化が共存するきっかけになるかもしれません。",
+      "translationZh": "滑板不仅被视为一项运动，也被看作是自我表达的手段。在公园里努力练习的年轻人各自追求着自己独特的风格，并互相激发。随着这种活动的普及，可能会为地区带来新的活力，并成为多元文化共存的契机。",
+      "translationEn": "Skateboarding is viewed not just as a sport, but also as a means of self-expression. Young people practicing diligently in parks each pursue their own unique styles and inspire each other. The spread of such activities might bring new vitality to the community and become an opportunity for diverse cultures to coexist.",
+      "id": "c3323a65-0981-4ab9-aa87-74f935ff5968",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スケートボード",
+      "reading": "すけーとぼーど",
+      "meaningZh": "滑板",
+      "meaningEn": "Skateboard",
+      "level": "n5n4",
+      "exampleSentence": "子供がスケートボードを買ってほしいと言っています。",
+      "id": "38641419-faee-440c-8d7d-17fde1aeb654"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流，交往",
+      "meaningEn": "Exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "新しい環境で多くの人と交流したいです。",
+      "id": "5eccc455-1200-4ab6-a9d4-5064b3ac6f69"
+    },
+    {
+      "word": "トリック",
+      "reading": "とりっく",
+      "meaningZh": "技巧，绝活 (滑板等运动中的花式动作)",
+      "meaningEn": "Trick (a skillful move in sports like skateboarding)",
+      "level": "n3",
+      "exampleSentence": "彼はスケートボードで難しいトリックができる。",
+      "id": "59788c74-fe15-4b90-82de-93560133103b"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "Challenge",
+      "level": "n3",
+      "exampleSentence": "新しい仕事に挑戦することにしました。",
+      "id": "aec8aba5-b530-4526-bcb0-b5c9f84e5e57"
+    },
+    {
+      "word": "安全面",
+      "reading": "あんぜんめん",
+      "meaningZh": "安全方面",
+      "meaningEn": "Safety aspect",
+      "level": "n3",
+      "exampleSentence": "この地域は安全面でとても評価が高いです。",
+      "id": "665169cf-6a80-4ad1-95bd-5c74bba5bd72"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "Maintenance, arrangement, establishment",
+      "level": "n3",
+      "exampleSentence": "施設の整備が進んでいます。",
+      "id": "0c4f88a7-1652-46ae-ae00-3de1cc8aa7ba"
+    },
+    {
+      "word": "自己表現",
+      "reading": "じこひょうげん",
+      "meaningZh": "自我表达",
+      "meaningEn": "Self-expression",
+      "level": "n2n1",
+      "exampleSentence": "絵を描くことは私にとって自己表現の方法です。",
+      "id": "f477c1db-5c3d-4af1-997e-1a73ba8b46a0"
+    },
+    {
+      "word": "共存",
+      "reading": "きょうぞん",
+      "meaningZh": "共存",
+      "meaningEn": "Coexistence",
+      "level": "n2n1",
+      "exampleSentence": "異なる文化が共存する社会を目指しています。",
+      "id": "ff83b2a6-d3fb-41b1-91ec-eda2ac2586ca"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公園でスケートボードを楽しむ若者が増えている理由は何ですか？",
+      "options": [
+        "公園が新しく整備されたから",
+        "スケートボードが無料で借りられるから",
+        "公園が新しい世代の交流の場として広がりを見せているから",
+        "騒音問題が解決されたから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「公園が新しい世代の交流の場として広がりを見せています」と書かれています。",
+      "id": "9c0ebbc5-0124-4f85-99f3-8aaf5b8644de"
+    },
+    {
+      "question": "公園でのスケートボード活動について、どのような意見が述べられていますか？",
+      "options": [
+        "全ての公園でスケートボードを禁止すべきだという意見しかない",
+        "安全面や騒音への懸念と、若者が楽しめる場所の必要性という両方の意見がある",
+        "スケートボードは自己表現にならないので、公園でするべきではない",
+        "公園側は何も対応していない"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「公園の利用者からは、安全面や騒音について心配する声も聞かれます。しかし、一方で、若者たちが安全に楽しめる場所があることは大切だという意見もあります。」と書かれています。",
+      "id": "558344d8-cfef-4125-84d5-03dae1ac628b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-19-9386827cb6",
+  "publishedAt": "2026-05-19T06:00:00+09:00"
+}

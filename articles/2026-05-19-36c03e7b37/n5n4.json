@@ -1,0 +1,131 @@
+{
+  "title": "クリスマスの楽しい市場",
+  "summary": "クリスマスマーケットは日本でも人気です。いろいろな楽しみがあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬になると、クリスマスマーケットが始まります。きれいな明かりがたくさんあります。歌も聞こえてきます。とても楽しい雰囲気です。",
+      "translationZh": "冬天一到，圣诞市集就开始了。有很多漂亮的灯饰。也能听到歌声。气氛非常愉快。",
+      "translationEn": "When winter comes, Christmas markets begin. There are many beautiful lights. You can also hear songs. The atmosphere is very joyful.",
+      "id": "a43a528c-1a11-46fe-b79a-c902f14e4030",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クリスマスマーケットでは、おいしい食べ物や飲み物があります。例えば、ホットチョコレートやクッキーです。手作りのプレゼントも売っています。友達や家族へのおみやげにいいです。",
+      "translationZh": "在圣诞市集里，有美味的食物和饮料。例如，热巧克力和饼干。也有卖手工制作的礼物。很适合作为送给朋友或家人的纪念品。",
+      "translationEn": "At Christmas markets, there are delicious foods and drinks. For example, hot chocolate and cookies. Handmade gifts are also sold. They are good as souvenirs for friends and family.",
+      "id": "b938963c-22f4-4fca-acf5-1b450981617a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔はヨーロッパだけでした。でも、今では日本でもたくさんの町でクリスマスマーケットが開かれます。東京や大阪、札幌など、いろいろな場所で見ることができます。",
+      "translationZh": "以前只有欧洲有。但是，现在日本的许多城市也举办圣诞市集。在东京、大阪、札幌等各种地方都能看到。",
+      "translationEn": "In the past, they were only in Europe. However, now Christmas markets are held in many cities in Japan too. You can see them in various places such as Tokyo, Osaka, and Sapporo.",
+      "id": "6c62bf33-5bc8-49e1-a53c-5ff12849ddd8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クリスマスマーケットは、冬の楽しいイベントです。家族や友達と一緒に行くと、もっと楽しいでしょう。ぜひ一度行ってみてください。",
+      "translationZh": "圣诞市集是冬天一个令人开心的活动。如果和家人朋友一起去，会更加开心吧。请一定要去一次看看。",
+      "translationEn": "Christmas markets are fun winter events. It will be even more enjoyable if you go with family and friends. Please try to go at least once.",
+      "id": "db061c52-85e3-4a61-994c-0bb5641cab68",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "53051ff8-3290-4bd2-91d4-59251ea19d17"
+    },
+    {
+      "word": "マーケット",
+      "reading": "まーけっと",
+      "meaningZh": "市集，市场",
+      "meaningEn": "market",
+      "level": "n5n4",
+      "exampleSentence": "このマーケットは大きいです。",
+      "id": "2b661a5f-8163-4de6-9e73-30924b40dfe0"
+    },
+    {
+      "word": "明かり",
+      "reading": "あかり",
+      "meaningZh": "灯光",
+      "meaningEn": "light",
+      "level": "n5n4",
+      "exampleSentence": "クリスマスの明かりはきれいです。",
+      "id": "b020e58c-1715-4a9e-b0ea-1f567f92a48d"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n5n4",
+      "exampleSentence": "楽しい雰囲気です。",
+      "id": "a28cd5f9-8902-4561-8c8b-608f006e10d8"
+    },
+    {
+      "word": "ホットチョコレート",
+      "reading": "ほっとちょこれーと",
+      "meaningZh": "热巧克力",
+      "meaningEn": "hot chocolate",
+      "level": "n5n4",
+      "exampleSentence": "冬にホットチョコレートを飲みます。",
+      "id": "6216065b-75f5-4719-b76c-2b8702b22495"
+    },
+    {
+      "word": "プレゼント",
+      "reading": "ぷれぜんと",
+      "meaningZh": "礼物",
+      "meaningEn": "present, gift",
+      "level": "n5n4",
+      "exampleSentence": "友達にプレゼントをあげました。",
+      "id": "e942debb-d079-4a9c-8601-28f285b95438"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "in the past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔は小さかったです。",
+      "id": "3a527580-8213-425a-a50d-104bece884c8"
+    },
+    {
+      "word": "イベント",
+      "reading": "いべんと",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "楽しいイベントです。",
+      "id": "9efac917-dd5d-4ba5-bcc2-86c05f826ef9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "クリスマスマーケットは、昔はどこで開かれていましたか。",
+      "options": [
+        "日本",
+        "ヨーロッパ",
+        "アメリカ",
+        "アジア"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔はヨーロッパだけでした。",
+      "id": "f4b27052-8cbe-4a32-8ccb-cf82af662ba3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-19-36c03e7b37",
+  "publishedAt": "2026-05-19T06:00:00+09:00"
+}
