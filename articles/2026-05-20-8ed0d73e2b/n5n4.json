@@ -1,0 +1,131 @@
+{
+  "title": "お祭りと若い人たち",
+  "summary": "日本の各地でお祭りが開かれます。最近、若い人たちがお祭りを引き継いでいます。それはとても良いことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、たくさんの大きなお祭りがあります。夏に多いですが、春や秋にもあります。お祭りは、地域の人々にとって大切な文化です。昔から、地域の人々がお祭りを守ってきました。",
+      "translationZh": "日本有很多盛大的祭典。虽然夏天很多，但春天和秋天也有。祭典是当地人们重要的文化。自古以来，当地人们一直守护着祭典。",
+      "translationEn": "Japan has many big festivals. There are many in the summer, but also in spring and autumn. Festivals are an important culture for local people. People in the community have protected the festivals since ancient times.",
+      "id": "649eba51-501e-4e80-b2cf-dd2add6dfd1e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近、お祭りを引き継ぐ人が少なくなっていました。若い人たちが忙しかったり、お祭りに興味がなかったりしたからです。お祭りがなくなってしまうかもしれない、という心配がありました。",
+      "translationZh": "但是，最近继承祭典的人变少了。因为年轻人很忙，或者对祭典不感兴趣。人们担心祭典可能会消失。",
+      "translationEn": "However, recently, the number of people inheriting festivals has been decreasing. This is because young people were busy or not interested in festivals. There was a worry that festivals might disappear.",
+      "id": "e321d2de-2fbd-442b-9253-8543f783dc5a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、最近、状況が変わってきました。若い人たちがお祭りに参加し、新しいアイデアを出しています。彼らは、SNSを使ってお祭りの情報を広めたり、新しい出し物を考えたりしています。これが、お祭りを元気にしています。",
+      "translationZh": "但是，最近情况发生了变化。年轻人参加祭典，并提出了新的想法。他们利用SNS传播祭典信息，并考虑新的表演节目。这让祭典充满了活力。",
+      "translationEn": "But recently, the situation has changed. Young people are participating in festivals and coming up with new ideas. They use SNS to spread information about festivals and think of new performances. This is making the festivals lively.",
+      "id": "4f84e897-9604-4ce2-92f6-b44362f37378",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "若い人たちが、自分たちの地域のお祭りを大切に思うことは、素晴らしいことです。お祭りがこれからも続くことは、地域にとっても、日本にとっても、とても良いことです。",
+      "translationZh": "年轻人珍视自己家乡的祭典，这是一件非常美好的事情。祭典能够继续下去，对地区和日本来说，都是一件非常好的事情。",
+      "translationEn": "It is wonderful that young people cherish the festivals of their own communities. The continuation of festivals is very good for the community and for Japan.",
+      "id": "196589c3-67c2-4aae-91cd-6dc0f953c163",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "各地",
+      "reading": "various",
+      "meaningZh": "各地",
+      "meaningEn": "various places",
+      "level": "n5n4",
+      "exampleSentence": "各地にお祭りがあります。",
+      "id": "045d8b48-81f9-4202-af11-7e5fbb469b7b"
+    },
+    {
+      "word": "祭",
+      "reading": "まつり",
+      "meaningZh": "祭典，节日",
+      "meaningEn": "festival",
+      "level": "n5n4",
+      "exampleSentence": "夏には大きなお祭りがあります。",
+      "id": "7cfeb9d5-da7a-473e-9a20-a01f1ab0e975"
+    },
+    {
+      "word": "継承",
+      "reading": "けいしょう",
+      "meaningZh": "继承",
+      "meaningEn": "inheritance, succession",
+      "level": "n3",
+      "exampleSentence": "若い人が祭りを継承しています。",
+      "id": "b479adb3-4b8e-4363-8044-359874abeb01"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "お祭りは日本の文化です。",
+      "id": "9379b8b9-f27f-4ecd-9e82-4bfb789517a2"
+    },
+    {
+      "word": "守る",
+      "reading": "まもる",
+      "meaningZh": "守护，保护",
+      "meaningEn": "to protect",
+      "level": "n5n4",
+      "exampleSentence": "伝統を守ることは大切です。",
+      "id": "1b081b3d-bcfe-462c-8e8b-127fd4c3820c"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n5n4",
+      "exampleSentence": "この祭りは長い伝統があります。",
+      "id": "25134330-c52f-4529-896b-ba94ef8b754b"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "多くの人が祭りに参加します。",
+      "id": "05129e7a-b186-474a-b2da-ea4ebf1996fc"
+    },
+    {
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaningZh": "信息",
+      "meaningEn": "information",
+      "level": "n5n4",
+      "exampleSentence": "SNSで祭りの情報を広めます。",
+      "id": "58d47209-dd72-4acd-8c37-c0231db0fa08"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ最近、若い人たちがお祭りを引き継ぐようになったのですか。",
+      "options": [
+        "お祭りが簡単になったからです。",
+        "若い人たちが新しいアイデアを出しているからです。",
+        "お祭りがもっと楽しくなったからです。",
+        "お祭りが少なくなったからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "若い人たちがお祭りに参加し、新しいアイデアを出しています。これが、お祭りを元気にしています。",
+      "id": "62c125de-df27-49a1-9df8-cc396d1ae5b5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-20-8ed0d73e2b",
+  "publishedAt": "2026-05-20T06:00:00+09:00"
+}

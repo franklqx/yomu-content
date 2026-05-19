@@ -1,0 +1,126 @@
+{
+  "title": "VRで教室へ！未来の遠隔授業に挑戦",
+  "summary": "最近、VR技術を使った新しい遠隔授業の試みが始まっています。この技術は、学校に行けない学生にとって大きな可能性を秘めています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "新型コロナウイルスの影響で、学校に通えない学生が増えました。そのため、オンライン授業が一般的になりましたが、画面を見るだけでは物足りなさを感じる人もいます。そこで、最新のVR技術を使って、まるで教室にいるかのような臨場感のある授業を提供する試みが、いくつかの学校で始まっているのです。",
+      "translationZh": "由于新冠病毒的影响，无法去学校上课的学生增加了。因此，在线课程变得普遍，但有些人觉得仅仅看着屏幕还不够。于是，在一些学校，开始尝试使用最新的VR技术，提供仿佛身临其境般的课堂体验。",
+      "translationEn": "Due to the impact of the new coronavirus, the number of students unable to attend school has increased. As a result, online classes have become common, but some people feel something is lacking just by looking at a screen. Therefore, attempts to provide an immersive classroom experience using the latest VR technology have begun in several schools.",
+      "id": "b03aceed-73f0-4cab-9bdb-577b21ade8f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "VR空間では、アバターを使って授業に参加します。先生の声や動きはもちろん、友達の反応もリアルタイムで感じることができます。たとえ遠くにいても、隣の席にいるかのように気軽に話しかけたり、グループワークをしたりすることも可能です。これにより、学習意欲の低下を防ぎ、より活発なコミュニケーションを促すことが期待されています。",
+      "translationZh": "在VR空间里，我们使用虚拟形象（avatar）来参加课程。不仅能感受到老师的声音和动作，还能实时感受到朋友们的反应。即使身处远方，也能像坐在旁边的座位一样随意交谈，或者进行小组合作。这有望防止学习积极性下降，并促进更积极的交流。",
+      "translationEn": "In the VR space, participants join classes using avatars. They can feel not only the teacher's voice and movements but also their friends' reactions in real-time. Even if far away, it's possible to casually talk to others or do group work as if sitting next to them. This is expected to prevent a decline in motivation and encourage more active communication.",
+      "id": "a66d5125-d7ee-4e76-8b28-7374e85db264",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、VR授業にはまだ課題もあります。例えば、高価なVR機器の準備や、長時間の利用による体調への影響などが考えられます。しかし、技術は日々進歩していますから、これからもっと手軽で快適に利用できるようになるでしょう。VR技術が、教育の新しい形を作る可能性は大きいと言えます。",
+      "translationZh": "当然，VR授课仍然存在一些课题。例如，需要准备昂贵的VR设备，以及长时间使用可能对身体造成的影响等。但是，技术日新月异，今后会变得更加便捷舒适。可以说，VR技术在创造教育新形态方面潜力巨大。",
+      "translationEn": "Of course, there are still challenges with VR classes. For example, preparing expensive VR equipment and the physical effects of prolonged use are considerations. However, technology is advancing daily, so it will likely become more accessible and comfortable to use in the future. VR technology holds great potential for creating new forms of education.",
+      "id": "6dd6dc99-2aca-44d0-8c1b-1bc7953411ba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "臨場感",
+      "reading": "りんじょうかん",
+      "meaningZh": "身临其境感，现场感",
+      "meaningEn": "sense of presence, realism",
+      "level": "n3",
+      "exampleSentence": "VRゴーグルをつけると、ゲームの世界にいるような臨場感があります。",
+      "id": "45dacea6-91e0-449e-9912-7bf873e1c241"
+    },
+    {
+      "word": "アバター",
+      "reading": "あばたー",
+      "meaningZh": "虚拟形象，化身",
+      "meaningEn": "avatar",
+      "level": "n3",
+      "exampleSentence": "オンラインゲームでは、自分のアバターを作ることができます。",
+      "id": "3a0b8f21-0e44-4e31-b67c-1af8319db8ec"
+    },
+    {
+      "word": "臨場感",
+      "reading": "りんじょうかん",
+      "meaningZh": "身临其境感，现场感",
+      "meaningEn": "sense of presence, realism",
+      "level": "n3",
+      "exampleSentence": "VRゴーグルをつけると、ゲームの世界にいるような臨場感があります。",
+      "id": "3e776c13-3460-44d6-a7f0-05d9614912d5"
+    },
+    {
+      "word": "物足りない",
+      "reading": "ものたりない",
+      "meaningZh": "不够，不足，不过瘾",
+      "meaningEn": "unsatisfactory, not enough",
+      "level": "n3",
+      "exampleSentence": "今日の映画は面白かったけど、少し物足りなかったです。",
+      "id": "c932b6ee-13db-4de1-b0d0-df2bb480d741"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "issue, challenge, task",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには、まだ解決すべき課題がたくさんあります。",
+      "id": "49804863-53ad-43d6-ad7d-31c21fd80a09"
+    },
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaningZh": "进步",
+      "meaningEn": "progress, advancement",
+      "level": "n3",
+      "exampleSentence": "科学技術は日々進歩しています。",
+      "id": "96492b21-0069-4b17-997d-ff2d2171efe3"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaningZh": "活跃，活泼",
+      "meaningEn": "active, lively",
+      "level": "n3",
+      "exampleSentence": "会議では活発な意見交換が行われました。",
+      "id": "0300cfeb-7308-45a7-8caa-9b698f31be40"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "VRを使った遠隔授業の主な目的は何ですか？",
+      "options": [
+        "VR機器を安く提供すること",
+        "画面を見るだけの授業よりリアルな体験を提供すること",
+        "先生の数を減らすこと",
+        "学生の体調管理をすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「まるで教室にいるかのような臨場感のある授業を提供する試み」と書かれています。",
+      "id": "7b1a44e7-2b62-4778-891f-7fe2f2e15f31"
+    },
+    {
+      "question": "VR授業の課題として、本文で触れられていることは何ですか？",
+      "options": [
+        "VR機器が高価であることと、長時間の利用による体調への影響",
+        "VR機器の操作が難しすぎること",
+        "アバターの選択肢が少ないこと",
+        "インターネット環境が整っていないこと"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文では、「高価なVR機器の準備や、長時間の利用による体調への影響などが考えられます」と述べられています。",
+      "id": "1d86296f-a8c1-49ed-a1ad-9cea5437b7c1"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-20-vr",
+  "publishedAt": "2026-05-20T06:00:00+09:00"
+}

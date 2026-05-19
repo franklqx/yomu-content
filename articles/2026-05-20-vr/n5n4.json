@@ -1,0 +1,131 @@
+{
+  "title": "VR授業、未来の教室",
+  "summary": "VR技術を使って、遠くの場所から授業を受けることができます。これは新しい勉強の方法です。新しい技術は私たちの生活を変えます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、VRという技術が注目されています。VRは「バーチャル・リアリティ」の略です。これは、コンピューターで作られた現実のような世界です。",
+      "translationZh": "最近，VR这项技术备受关注。VR是“虚拟现实”的简称。这是一种用电脑创造出来的、如同真实般的世界。",
+      "translationEn": "Recently, a technology called VR has been attracting attention. VR is short for \"Virtual Reality\". This is a computer-generated world that feels like reality.",
+      "id": "6993563f-0683-4eb6-ad77-8e30673d4e03",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このVR技術を使って、遠く離れた場所から授業を受けることができます。例えば、先生が学校で教えている時、学生は自分の家でVRゴーグルをかけます。すると、先生が目の前にいるように感じます。",
+      "translationZh": "利用这项VR技术，可以从很远的地方上课。例如，老师在学校教课时，学生在家戴上VR眼镜。这样，学生会感觉老师就站在眼前一样。",
+      "translationEn": "Using this VR technology, students can attend classes from far away. For example, when a teacher is teaching at school, a student puts on VR goggles at home. Then, it feels like the teacher is right in front of them.",
+      "id": "123c9c09-3451-4af9-9b66-36cc6efa354f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "VRの授業は、まるで教室にいるような体験ができます。友達や先生と話すこともできます。この新しい勉強の方法は、たくさんの人に勉強の機会を与えます。",
+      "translationZh": "VR授课可以带来如同身处教室一样的体验。还可以和朋友、老师交谈。这种新的学习方式为许多人提供了学习的机会。",
+      "translationEn": "VR classes provide an experience as if you are in a classroom. You can also talk with friends and teachers. This new way of studying gives many people opportunities to learn.",
+      "id": "d5374700-5b4a-422a-8908-5439d1a6af30",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "VR技術はまだ新しいですが、これからもっと色々な場所で使われるでしょう。遠隔授業だけでなく、ゲームや旅行など、私たちの生活を楽しく、便利にします。",
+      "translationZh": "VR技术虽然还很新，但今后会在更多地方被使用。不仅是远程授课，还可以用于游戏、旅行等，使我们的生活变得有趣和便利。",
+      "translationEn": "VR technology is still new, but it will be used in more places in the future. Not only for remote classes, but also for games and travel, it will make our lives fun and convenient.",
+      "id": "aa3d1510-0bcb-4eb5-96f4-e707be8fc2b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術について勉強しました。",
+      "id": "be39b0c7-9bdd-41d1-b764-87f7852e139b"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注；引人注意",
+      "meaningEn": "attention; notice",
+      "level": "n5n4",
+      "exampleSentence": "この新しい本に注目しています。",
+      "id": "b0cf9527-1baa-486c-90e5-e39606ffb96f"
+    },
+    {
+      "word": "略",
+      "reading": "りゃく",
+      "meaningZh": "简称",
+      "meaningEn": "abbreviation",
+      "level": "n3",
+      "exampleSentence": "「VR」は「バーチャル・リアリティ」の略です。",
+      "id": "b1ce8790-0d63-40c8-b71a-7441efd3aa63"
+    },
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaningZh": "现实",
+      "meaningEn": "reality",
+      "level": "n3",
+      "exampleSentence": "夢ではなく、現実です。",
+      "id": "b4a8c587-8699-40ec-8bad-622a8a488eef"
+    },
+    {
+      "word": "遠く",
+      "reading": "とおく",
+      "meaningZh": "远",
+      "meaningEn": "far",
+      "level": "n5n4",
+      "exampleSentence": "遠くの山が見えます。",
+      "id": "45d5eccb-3e8b-454e-8f48-9030af69c5ed"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "初めての旅行は良い体験でした。",
+      "id": "fd6f2c66-e7e6-41d1-9ef8-f0190a1e55da"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n3",
+      "exampleSentence": "勉強する機会を大切にしましょう。",
+      "id": "d9dac5ab-ad64-44b2-834b-26fba884f3b8"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "d1962b74-b628-48e8-9360-8c220c3c2983"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "VR技術を使った遠隔授業では、学生は何をしますか？",
+      "options": [
+        "学校に行って先生の話を聞く",
+        "VRゴーグルをかけて、家で授業を受ける",
+        "友達と学校でVRゲームをする",
+        "遠くの国に旅行に行く"
+      ],
+      "correctIndex": 1,
+      "explanation": "「学生は自分の家でVRゴーグルをかけます。」",
+      "id": "5b7d716c-0689-4acb-abe9-e3a7b181d802"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-20-vr",
+  "publishedAt": "2026-05-20T06:00:00+09:00"
+}

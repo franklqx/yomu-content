@@ -1,0 +1,122 @@
+{
+  "title": "古民家ステイ、人気です！",
+  "summary": "最近、山陰地方で古い家（古民家）に泊まるのが人気です。自然の中でゆっくり過ごせます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、山陰地方で「古民家ステイ」という旅行が人気です。古民家は昔からある古い家です。それをきれいに直して、泊まれるようにしました。",
+      "translationZh": "最近，在山阴地区，“古民家住宿”这种旅行方式很受欢迎。古民家是自古以来就有的老房子。将它们整修干净，就可以入住了。",
+      "translationEn": "Recently, a type of travel called \"Kominka Stay\" is popular in the San'in region. A kominka is an old house that has existed for a long time. They are cleaned up and made suitable for staying.",
+      "id": "c8a8f049-60e4-47f9-97d7-d8489294d77d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家に泊まると、都会では味わえない静かな時間が過ごせます。周りは自然がいっぱい。鳥の声を聞きながら、リラックスできますよ。",
+      "translationZh": "住在古民家，可以度过在都市里无法体验到的宁静时光。周围到处是自然。一边听着鸟鸣，一边放松身心吧。",
+      "translationEn": "When staying in a kominka, you can spend quiet time that cannot be experienced in the city. Nature is all around. You can relax while listening to the birds sing.",
+      "id": "0c65085a-b6ac-48c4-bef6-519c94aa156c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "山陰地方には、海がきれいな場所や、歴史のある町がたくさんあります。古民家ステイで、その土地の文化や生活を体験するのも楽しいです。",
+      "translationZh": "山阴地区有许多海景优美的地方和历史悠久的城镇。通过古民家住宿，体验当地的文化和生活也很有趣。",
+      "translationEn": "The San'in region has many places with beautiful seas and historic towns. It is also fun to experience the local culture and life through a kominka stay.",
+      "id": "53e7f44f-6326-4d4a-891b-8f538c81e383",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "旅行で少し疲れたら、古民家でゆっくり休みましょう。田舎の風景を見ながら、おいしいものを食べるのは最高です。ぜひ、行ってみてください。",
+      "translationZh": "旅行累了的话，就在古民家好好休息吧。一边看着乡村风景，一边吃着美味的东西，这是最棒的。请务必去体验一下。",
+      "translationEn": "If you get a little tired from traveling, let's rest well at a kominka. Eating delicious food while looking at the rural scenery is the best. Please try it.",
+      "id": "530d61ce-fbf1-4195-b140-f3cbbd9921be",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、天気がいいですね。",
+      "id": "f6a27d67-d95c-4e49-9868-22c1e689f43e"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地方は食べ物が美味しいです。",
+      "id": "b1759e9f-e2c8-4c88-8e90-3496a1d4f12f"
+    },
+    {
+      "word": "古い",
+      "reading": "ふるい",
+      "meaningZh": "旧的，古老的",
+      "meaningEn": "old",
+      "level": "n5n4",
+      "exampleSentence": "これは古い写真です。",
+      "id": "3aa25bc3-8ed7-4d89-91d5-9fac0e02f33d"
+    },
+    {
+      "word": "泊まる",
+      "reading": "とまる",
+      "meaningZh": "住宿，停留",
+      "meaningEn": "to stay (at a hotel, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "ホテルに泊まりました。",
+      "id": "3334c34a-f687-4e8e-acc7-a868c4977ddd"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "64c7057a-e4bd-490c-aea2-d11534f01e8f"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然がたくさんあります。",
+      "id": "78796266-91ed-4086-a4ce-fd71bdc3bf61"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "日本の文化を体験したいです。",
+      "id": "60602b27-71b9-4a7e-b6e5-702204602066"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "古民家ステイで、どんな時間が過ごせますか？",
+      "options": [
+        "忙しい時間",
+        "騒がしい時間",
+        "静かな時間",
+        "速い時間"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「古民家に泊まると、都会では味わえない静かな時間が過ごせます。」と書いてあります。",
+      "id": "2a31bba1-78ed-483f-aa0e-17df42927c5d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-20-6847b7775f",
+  "publishedAt": "2026-05-20T06:00:00+09:00"
+}

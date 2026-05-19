@@ -1,0 +1,138 @@
+{
+  "title": "山陰地方で古民家ステイが人気、地方創生の新たな形か",
+  "summary": "近年、山陰地方を中心に古民家を改修した宿泊施設が注目を集めている。これは、地方創生の新たな一歩として期待されている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "鳥取県や島根県といった山陰地方では、近年、築100年を超えるような古民家をリノベーションした宿泊施設が徐々に増加傾向にあるとのことだ。これらの古民家ステイは、都会の喧騒から離れて静かな環境で過ごしたいというニーズに応えるだけでなく、地域の歴史や文化に触れることができる体験として、国内外からの観光客に支持されている。特に、SNS映えする独特の景観や、昔ながらの暮らしを体験できる点が、若年層を中心に人気を博していると見られる。",
+      "translationZh": "据悉，近年来，在鸟取县和岛根县等山阴地区，将拥有百年以上历史的古民宅翻新而成的住宿设施正在逐渐增加。这些古民家住宿不仅满足了人们想要远离城市喧嚣、在宁静环境中度过时光的需求，还因能够体验当地历史和文化，而受到国内外游客的支持。特别是其具有独特景观、适合在社交媒体上分享，以及能够体验传统生活方式的特点，正受到以年轻人为主的群体的欢迎。",
+      "translationEn": "It is reported that in recent years, accommodations renovated from old houses, some over 100 years old, are gradually increasing in the San'in region, such as Tottori and Shimane prefectures. These 'kominka stays' not only cater to the demand for a tranquil environment away from the hustle and bustle of the city, but are also supported by domestic and international tourists as an experience that allows them to engage with the local history and culture. In particular, their unique scenic beauty, which is highly shareable on social media, and the opportunity to experience traditional living are seen as popular among the younger generation.",
+      "id": "f148b0e9-cd6b-4962-8575-1300fa158558",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家ステイの隆盛は、地域経済の活性化にも寄与している。宿泊施設として活用されることで、空き家となっていた古民家が再生され、その維持管理には地域住民が関わるケースも少なくない。また、滞在客が地元の飲食店や土産物店を利用することで、地域にお金が循環する効果も期待できる。これにより、過疎化が進む地方における新たな雇用創出や、地域コミュニティの維持に繋がる可能性が指摘されている。",
+      "translationZh": "古民家住宿的兴盛也促进了地区经济的活性化。通过作为住宿设施加以利用，原本空置的古民宅得以再生，其维护管理也常常由当地居民参与。此外，通过游客光顾当地餐馆和土特产店，还可以期待资金在地区内循环的效果。这被指出有可能为人口稀疏的地区带来新的就业机会，并有助于维持社区活力。",
+      "translationEn": "The rise of kominka stays also contributes to the revitalization of the local economy. By being utilized as accommodation facilities, these old houses, which were once vacant, are regenerated, and in many cases, local residents are involved in their maintenance and management. Furthermore, when guests patronize local restaurants and souvenir shops, the effect of money circulating within the region can be expected. This is pointed out as a potential way to create new employment opportunities and maintain community vitality in depopulating rural areas.",
+      "id": "8f38a3ad-78e2-4a9d-8f9e-6d50b07f02b1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、古民家特有の課題も存在する。耐震性の問題や、現代の快適性を確保するための設備投資、そして地方においては人材不足が、今後の普及における障壁となると考えられている。これらの課題を克服し、持続可能な形で古民家ステイを広げていくためには、行政や地域住民、事業者間の連携を一層強化していくことが不可欠であろう。",
+      "translationZh": "另一方面，古民家也存在其特有的挑战。例如，抗震性问题、为确保现代舒适性而进行的设备投资，以及地方上的人才短缺，都被认为是未来普及的障碍。为了克服这些挑战，并以可持续的方式推广古民家住宿，进一步加强行政部门、当地居民和经营者之间的合作将是必不可少的。",
+      "translationEn": "On the other hand, there are also challenges unique to old houses. Issues such as seismic resistance, capital investment to ensure modern comfort, and a shortage of personnel in rural areas are considered obstacles to future widespread adoption. To overcome these challenges and promote kominka stays in a sustainable manner, it will be essential to further strengthen collaboration among government bodies, local residents, and businesses.",
+      "id": "9526a81c-af6e-4e7c-b875-eab9e716db00",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古民家",
+      "reading": "こみんか",
+      "meaningZh": "古老的日式传统民宅",
+      "meaningEn": "old Japanese-style traditional house",
+      "level": "n2n1",
+      "exampleSentence": "古民家を改装したカフェが人気だ。",
+      "id": "d0da953c-6511-40ab-b136-6ca476d2fdd4"
+    },
+    {
+      "word": "リノベーション",
+      "reading": "りのべーしょん",
+      "meaningZh": "翻新，改造（尤指旧建筑）",
+      "meaningEn": "renovation",
+      "level": "n3",
+      "exampleSentence": "古いビルがモダンなオフィスにリノベーションされた。",
+      "id": "b0fb9e1c-6920-4b4f-8aea-6c6519707c0e"
+    },
+    {
+      "word": "隆盛",
+      "reading": "りゅうせい",
+      "meaningZh": "兴盛，繁荣",
+      "meaningEn": "prosperity, boom",
+      "level": "n2n1",
+      "exampleSentence": "この地域では観光業が隆盛を極めている。",
+      "id": "bde56e18-8071-49eb-8a21-fd9e049517b9"
+    },
+    {
+      "word": "寄与",
+      "reading": "きよ",
+      "meaningZh": "贡献，作用",
+      "meaningEn": "contribution",
+      "level": "n2n1",
+      "exampleSentence": "彼の研究は科学の発展に大きく寄与した。",
+      "id": "09e094a1-1cdb-43b0-976b-d95fad176b01"
+    },
+    {
+      "word": "過疎化",
+      "reading": "かそか",
+      "meaningZh": "人口稀疏化，人口减少",
+      "meaningEn": "depopulation",
+      "level": "n2n1",
+      "exampleSentence": "地方では過疎化が深刻な問題となっている。",
+      "id": "e5dc0f21-6983-4a2e-8e21-200929a36c6e"
+    },
+    {
+      "word": "障壁",
+      "reading": "しょうへき",
+      "meaningZh": "障碍，壁垒",
+      "meaningEn": "barrier, obstacle",
+      "level": "n2n1",
+      "exampleSentence": "言葉の壁が国際交流の障壁となることがある。",
+      "id": "23acde22-8d4a-4237-97d5-f34e64253493"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaningZh": "不可或缺的，必需的",
+      "meaningEn": "indispensable, essential",
+      "level": "n3",
+      "exampleSentence": "成功のためには努力が不可欠だ。",
+      "id": "3ee9d769-5113-4b5c-a1b3-507ff6973421"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "山陰地方で古民家ステイが人気を集めている理由として、本文ではどのような点が挙げられていますか？",
+      "options": [
+        "交通の便が良いから",
+        "最新の設備が整っているから",
+        "静かな環境で地域の文化に触れられるから",
+        "宿泊料金が非常に安いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中には「都会の喧騒から離れて静かな環境で過ごしたいというニーズに応えるだけでなく、地域の歴史や文化に触れることができる体験として、国内外からの観光客に支持されている」と記載されています。",
+      "id": "8cbc5098-3192-4d11-8c2c-45886731f613"
+    },
+    {
+      "question": "古民家ステイが地域経済に与える良い影響として、本文で触れられていないものはどれですか？",
+      "options": [
+        "空き家の再生",
+        "地域住民の雇用創出",
+        "新たな観光資源の開発",
+        "地域外への人口流出の抑制"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文では、古民家ステイが「地域経済の活性化」「地域にお金が循環する効果」「新たな雇用創出」に繋がる可能性が指摘されていますが、「地域外への人口流出の抑制」については直接的な言及はありません。むしろ、「過疎化」という言葉が使われています。",
+      "id": "cb031821-06d7-4f2c-9b76-81a9420a6b08"
+    },
+    {
+      "question": "古民家ステイの普及における今後の課題として、本文で挙げられているのはどれですか？",
+      "options": [
+        "古民家の数が不足していること",
+        "宿泊客のマナーが悪いこと",
+        "耐震性や設備、人材不足の問題",
+        "近隣住民との騒音トラブル"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に、「耐震性の問題や、現代の快適性を確保するための設備投資、そして地方においては人材不足が、今後の普及における障壁となると考えられている」と明記されています。",
+      "id": "202658aa-760f-4cdb-99d0-8d1c750d334e"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-20-6847b7775f",
+  "publishedAt": "2026-05-20T06:00:00+09:00"
+}
