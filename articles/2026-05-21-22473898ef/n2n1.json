@@ -1,0 +1,138 @@
+{
+  "title": "高校生プログラマーの祭典、ハッカソン開催へ",
+  "summary": "若手プログラマー育成を目指し、高校生を対象としたハッカソンが開催される運びとなった。創造性と技術力を競う場として注目が集まっている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、IT人材の育成が急務とされる中、次世代を担う高校生プログラマーの育成に焦点を当てたハッカソンが開催されることになった。このイベントは、参加者がチームを組み、限られた時間内に革新的なアイデアを形にし、プロトタイプを開発するもので、創造性や問題解決能力の向上を目的としている。特に、近年増加傾向にある高校生によるプログラミングコンテストでの活躍も、こうしたイベント開催の追い風となっていると見られる。",
+      "translationZh": "近年来，IT人才的培养被视为当务之急，以此为契机，一场以培养下一代高中生程序员为焦点的黑客马拉松即将举办。此次活动旨在让参赛者分组，在有限的时间内将创新想法具象化并开发出原型，以提升创造力和解决问题的能力。特别是近年来高中生在编程竞赛中活跃表现的增加趋势，也被认为是推动此类活动举办的有利因素。",
+      "translationEn": "In recent years, with the urgent need for nurturing IT talent, a hackathon focused on cultivating the next generation of high school programmers is set to be held. This event aims to have participants form teams and materialize innovative ideas into prototypes within a limited timeframe, with the objective of enhancing creativity and problem-solving skills. The increasing trend of high school students' active participation and success in programming contests is seen as a tailwind for organizing such events.",
+      "id": "b0d9dde0-706a-4999-ad00-cf80b1a1dc52",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回のハッカソンでは、単に技術を競うだけでなく、社会的な課題解決に繋がるアプリケーション開発に重点が置かれる予定だ。例えば、地域活性化や環境問題への貢献といったテーマが設けられ、高校生ならではの視点からの斬新なアプローチが期待されている。メンターとして、現役のエンジニアやデザイナーが参加し、技術的なアドバイスやフィードバックを提供する体制も整えられており、参加者にとっては貴重な学びの機会となるだろう。",
+      "translationZh": "本次黑客马拉松不仅将技术竞技，还将重点放在与解决社会性问题相关的应用程序开发上。例如，将设立与地区振兴或环境保护相关的课题，并期待高中生能从其独特的视角提出新颖的解决方案。同时，将有现役工程师和设计师作为导师参与，提供技术指导和反馈，为参赛者提供宝贵的学习机会。",
+      "translationEn": "This hackathon will not only focus on technical competition but also emphasize the development of applications that contribute to solving societal issues. For instance, themes such as regional revitalization and contributions to environmental problems will be established, with novel approaches expected from the unique perspectives of high school students. A system will also be in place where active engineers and designers will participate as mentors, offering technical advice and feedback, which will undoubtedly be a valuable learning opportunity for the participants.",
+      "id": "1d076c3d-2996-4585-a29a-c6bf5335c5ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントの主催者は、「若い才能が自身のアイデアを形にし、それを実現するプロセスを体験することは、将来のキャリア形成においても非常に有益である」とコメントしている。ハッカソンを通じて、参加者はチームワークの重要性や、プレッシャーの中で成果を出す経験を積むことができる。こうした経験は、プログラマーとしてのスキル向上のみならず、社会人としての基礎力涵養にも繋がるものとして、関係者からの期待は大きい。",
+      "translationZh": "活动主办方评论道：“让年轻人才体验将自己的想法具象化并实现的过程，对于未来的职业发展也极有裨益。”通过黑客马拉松，参与者可以学习团队合作的重要性，并在压力下取得成果。这些经验不仅有助于提高作为程序员的技能，也被认为有助于培养作为社会人士的基础能力，因此相关人士寄予厚望。",
+      "translationEn": "The event organizers commented, 'Experiencing the process of young talent shaping and realizing their own ideas is extremely beneficial for their future career development.' Through the hackathon, participants can gain experience in the importance of teamwork and delivering results under pressure. These experiences are highly anticipated by stakeholders, as they not only contribute to improving programming skills but also to fostering fundamental capabilities as members of society.",
+      "id": "6931b625-2484-4841-94c6-54f5d46e65e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "焦点を当てる",
+      "reading": "しょうてんをあてる",
+      "meaningZh": "聚焦于，着眼于",
+      "meaningEn": "to focus on",
+      "level": "n2n1",
+      "exampleSentence": "この研究は、新しい技術開発に焦点を当てている。",
+      "id": "f5ddb5b7-8a2c-43d3-a107-6d61832f94fb"
+    },
+    {
+      "word": "追い風",
+      "reading": "おいかぜ",
+      "meaningZh": "顺风；有利形势",
+      "meaningEn": "favorable wind; tailwind; favorable circumstances",
+      "level": "n2n1",
+      "exampleSentence": "市場の需要増加が、その企業の追い風となった。",
+      "id": "10348e80-c7b3-475b-a63f-a972be513d29"
+    },
+    {
+      "word": "重きを置く",
+      "reading": "おきををおく",
+      "meaningZh": "重视，看重",
+      "meaningEn": "to place importance on; to emphasize",
+      "level": "n2n1",
+      "exampleSentence": "教育においては、実践的なスキルに重きを置くべきだ。",
+      "id": "00015e3f-56ee-4598-b6a7-f9cb181010f7"
+    },
+    {
+      "word": "斬新",
+      "reading": "ざんしん",
+      "meaningZh": "新颖，新奇",
+      "meaningEn": "novel; new; original",
+      "level": "n2n1",
+      "exampleSentence": "彼の提案は、斬新なアイデアに満ちていた。",
+      "id": "f41a580e-8f0a-4604-b2a7-fcb748c68fb3"
+    },
+    {
+      "word": "体制",
+      "reading": "たいせい",
+      "meaningZh": "体制，体系；准备",
+      "meaningEn": "system; structure; organization; establishment",
+      "level": "n2n1",
+      "exampleSentence": "新しいプロジェクトのための体制を整える必要がある。",
+      "id": "b60403df-ceb2-4cbe-b02c-8edd81ba234b"
+    },
+    {
+      "word": "有益",
+      "reading": "ゆうえき",
+      "meaningZh": "有益的",
+      "meaningEn": "beneficial; profitable; useful",
+      "level": "n3",
+      "exampleSentence": "読書は、知識を深める上で非常に有益だ。",
+      "id": "b725aff0-f77d-4985-913d-56c54a4b8e39"
+    },
+    {
+      "word": "涵養",
+      "reading": "かんよう",
+      "meaningZh": "培养，涵养",
+      "meaningEn": "cultivation; nurturing; fostering",
+      "level": "n2n1",
+      "exampleSentence": "豊かな人間性を涵養することが大切だ。",
+      "id": "07dcc281-f23e-4ce8-bde6-b7df6e4010c7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回のハッカソンが開催される主な目的は何ですか。",
+      "options": [
+        "プログラミング技術の向上のみ",
+        "社会的な課題解決に繋がるアプリケーション開発",
+        "現役エンジニアとの交流機会の提供",
+        "参加者同士の競争意識の醸成"
+      ],
+      "correctIndex": 1,
+      "explanation": "「単に技術を競うだけでなく、社会的な課題解決に繋がるアプリケーション開発に重点が置かれる予定だ。」という記述から、技術向上だけでなく社会課題解決への応用が重視されていることがわかります。",
+      "id": "e70aaac1-3efc-4c43-8a88-7de0baf94a74"
+    },
+    {
+      "question": "イベント主催者は、高校生がハッカソンに参加することのどのようなメリットを挙げていますか。",
+      "options": [
+        "プログラマーとしての就職に直結する",
+        "チームワークを学ぶ貴重な機会になる",
+        "アイデアを形にし実現するプロセスを体験できる",
+        "最新のプログラミング言語を習得できる"
+      ],
+      "correctIndex": 2,
+      "explanation": "「若い才能が自身のアイデアを形にし、それを実現するプロセスを体験することは、将来のキャリア形成においても非常に有益である」という主催者のコメントが、この選択肢を支持しています。",
+      "id": "7ad389ea-c03d-433f-9ae1-e3988f53defd"
+    },
+    {
+      "question": "ハッカソンにおいて、参加者へのサポート体制として何が整備されていますか。",
+      "options": [
+        "開発に必要な全ての機材の無償貸与",
+        "優勝者への賞金と就職斡旋",
+        "現役エンジニアやデザイナーによるメンターシップ",
+        "開発期間中の宿泊施設と食事の提供"
+      ],
+      "correctIndex": 2,
+      "explanation": "「メンターとして、現役のエンジニアやデザイナーが参加し、技術的なアドバイスやフィードバックを提供する体制も整えられており」という部分が、メンターシップの提供について述べています。",
+      "id": "ef6eb530-145a-4b6b-a53b-f01a0ad4bf39"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-21-22473898ef",
+  "publishedAt": "2026-05-21T06:00:00+09:00"
+}

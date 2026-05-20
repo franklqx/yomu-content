@@ -1,0 +1,126 @@
+{
+  "title": "回転寿司の値上げ、お客さんの反応は？",
+  "summary": "最近、多くの回転寿司チェーンで価格が上がっています。お客さんはこの変化にどう感じているのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、食料品などの値段が上がっている影響で、回転寿司チェーンでも値上げをするお店が増えています。今まで１皿100円（税抜き）だったものが、120円や130円になったという話もよく聞きます。円安や原材料費の高騰が原因だと言われています。",
+      "translationZh": "最近，受食品杂货等价格上涨的影响，越来越多的回转寿司连锁店也在涨价。我经常听到以前一盘100日元（不含税）涨到了120日元或130日元。据说原因是日元贬值和原材料成本的飞涨。",
+      "translationEn": "Recently, due to the rising prices of groceries and other items, more and more conveyor belt sushi chains are increasing their prices. I often hear that what used to be 100 yen per plate (tax excluded) has now become 120 or 130 yen. It is said that the reasons are the depreciation of the yen and the soaring cost of raw materials.",
+      "id": "ec5f84f6-dd62-49b6-b3e2-85f246d9bf95",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったことで、今までのように気軽に行けなくなったと感じるお客さんもいるようです。特に、家族でたくさん食べる場合、以前よりも会計が高くなるので、少し考えてから行くようになったという声も聞かれます。それでも、美味しいお寿司を手軽に食べられるという魅力は大きいので、完全に足が遠のくというわけではないようです。",
+      "translationZh": "由于价格上涨，似乎有些顾客觉得不像以前那样可以随意去了。特别是家里人多一起吃的话，结账金额会比以前高，所以也有人说会考虑一下再来。尽管如此，能够轻松吃到美味寿司的魅力还是很大的，所以似乎也不会完全不去。",
+      "translationEn": "Due to the price increase, some customers seem to feel that they can no longer go as casually as before. Especially when a family eats a lot, the total bill becomes higher than before, so some people say they think about it before visiting. Nevertheless, the appeal of being able to easily eat delicious sushi is great, so it doesn't seem like people will stop going completely.",
+      "id": "6676ff29-fd76-4c2c-8f38-02da504f4b30",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、お店側もただ値上げするだけでなく、新しいメニューを開発したり、サービスを工夫したりして、お客さんが満足するように努力しています。例えば、高級ネタを少しだけ提供するサービスや、アプリで割引クーポンを配布するなど、色々な方法でお客さんの心を掴もうとしています。これからも、価格とサービスのバランスが重要になってくるでしょう。",
+      "translationZh": "另一方面，店家也并非只是单纯地涨价，而是努力通过开发新菜单、改进服务等方式来让顾客满意。例如，提供少量高档食材的服务，或者通过APP发放优惠券等，他们正试图用各种方法来抓住顾客的心。今后，价格和服务的平衡将变得越来越重要。",
+      "translationEn": "On the other hand, the restaurants are not just raising prices; they are also trying to satisfy customers by developing new menus and improving their services. For example, they are trying to win customers' hearts in various ways, such as offering small portions of high-end ingredients or distributing discount coupons through apps. Going forward, the balance between price and service will likely become increasingly important.",
+      "id": "70d6197d-af68-4d86-95b1-1de2c99c30b5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n3",
+      "exampleSentence": "商品の値上げについて、会社で話し合いました。",
+      "id": "62c54497-be17-4030-b5d1-33d88956d41f"
+    },
+    {
+      "word": "食料品",
+      "reading": "しょくりょうひん",
+      "meaningZh": "食品杂货",
+      "meaningEn": "foodstuffs, groceries",
+      "level": "n3",
+      "exampleSentence": "スーパーで食料品を買いました。",
+      "id": "6ebcc575-5a14-4ef0-8d36-4b45b0c5a31f"
+    },
+    {
+      "word": "原材料費",
+      "reading": "げんざいりょうひ",
+      "meaningZh": "原材料成本",
+      "meaningEn": "raw material cost",
+      "level": "n3",
+      "exampleSentence": "原材料費の高騰で、製品の価格が上がりました。",
+      "id": "fe2b6fbd-75d5-42a5-a222-40e256a3b322"
+    },
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "飞涨，急涨",
+      "meaningEn": "soaring, sharp rise",
+      "level": "n3",
+      "exampleSentence": "原油価格の高騰が続いています。",
+      "id": "5507e315-da27-4c69-89b0-cd877f010532"
+    },
+    {
+      "word": "気軽",
+      "reading": "きがる",
+      "meaningZh": "気軽，随意",
+      "meaningEn": "carefree, easy, light",
+      "level": "n3",
+      "exampleSentence": "もっと気軽な気持ちで話してください。",
+      "id": "7e47ff7a-aa5b-48bc-ba69-5f22d94afc62"
+    },
+    {
+      "word": "足が遠のく",
+      "reading": "あしがとおのく",
+      "meaningZh": "（因故）不常去，去得少了",
+      "meaningEn": "to stop frequenting a place",
+      "level": "n3",
+      "exampleSentence": "最近忙しくて、友達の家になかなか足が遠のいてしまっている。",
+      "id": "f4c65f26-c027-4c9f-828d-e23d36a0e64d"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "巧妙的方法，办法，创造",
+      "meaningEn": "device, scheme, invention, ingenuity",
+      "level": "n3",
+      "exampleSentence": "この問題を解決するために、色々な工夫をしました。",
+      "id": "694de65d-214e-4102-b5cf-179ba7b76977"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司チェーンで値上げが起こっている主な理由は何ですか？",
+      "options": [
+        "お客さんの人気がなくなったから",
+        "新しいお店がたくさんできたから",
+        "円安や原材料費の高騰",
+        "お店のサービスが悪くなったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「円安や原材料費の高騰が原因だと言われています。」とあります。",
+      "id": "cbffeac6-c57d-4a81-a294-99876bd8a28b"
+    },
+    {
+      "question": "値上げ後、お客さんの反応について、本文ではどのように述べられていますか？",
+      "options": [
+        "全員がお寿司を食べなくなり、お店は大変だ。",
+        "値上げに不満を持ちつつも、まだ利用する人はいる。",
+        "値段が安くなったので、もっと行くようになった。",
+        "お店のサービスが悪くなったので、誰も行かなくなった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「値段が上がったことで、今までのように気軽に行けなくなったと感じるお客さんもいるようです。」「それでも、美味しいお寿司を手軽に食べられるという魅力は大きいので、完全に足が遠のくというわけではないようです。」とあります。",
+      "id": "efa712ed-f678-4211-a446-25e7e695322b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-21-e84a2b4f5e",
+  "publishedAt": "2026-05-21T06:00:00+09:00"
+}

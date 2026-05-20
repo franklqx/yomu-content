@@ -1,0 +1,122 @@
+{
+  "title": "高校生ハッカソン！",
+  "summary": "高校生がプログラミングでアイデアを形にするイベントです。新しい発見がたくさんあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ハッカソンというイベントがあります。これは、コンピューターのプログラムを作るイベントです。特に高校生向けのハッカソンが人気です。",
+      "translationZh": "有一个叫做黑客马拉松的活动。这是一个制作计算机程序的活动。特别是面向高中生的黑客马拉松很受欢迎。",
+      "translationEn": "There is an event called a hackathon. This is an event to create computer programs. Hackathons for high school students are especially popular.",
+      "id": "bcbfeb18-3a5c-491b-8136-efe66fffebca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "高校生はチームを作って、短い時間でプログラムを開発します。アイデアを出すこと、そしてそれを形にすることが大切です。先生や先輩がサポートします。",
+      "translationZh": "高中生组队，在短时间内开发程序。重要的是提出想法，并将其付诸实践。老师和学长会提供支持。",
+      "translationEn": "High school students form teams and develop programs in a short time. It is important to come up with ideas and turn them into reality. Teachers and seniors provide support.",
+      "id": "6b8a4c8f-5fca-48bf-8c65-ae5416f85ad0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイベントでは、新しい技術を学んだり、友達を作ったりできます。プログラミングの楽しさを体験する良い機会です。",
+      "translationZh": "在这个活动中，可以学习新技术，也可以交朋友。这是一个体验编程乐趣的好机会。",
+      "translationEn": "In this event, you can learn new technologies and make friends. It is a good opportunity to experience the joy of programming.",
+      "id": "531d9ff1-2f1b-4aac-997f-5b1236b84319",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もしプログラミングが好きなら、ぜひ参加してみてください。きっと、たくさんのことを学べますよ。",
+      "translationZh": "如果喜欢编程，一定要试着参加一下。肯定能学到很多东西。",
+      "translationEn": "If you like programming, please try participating. You will surely learn many things.",
+      "id": "35baf662-5724-481f-ad73-b118b920c558",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生がイベントに参加しました。",
+      "id": "4e505eb9-47e3-4303-afa9-ea12965fac35"
+    },
+    {
+      "word": "プログラム",
+      "reading": "ぷろぐらむ",
+      "meaningZh": "程序",
+      "meaningEn": "program",
+      "level": "n5n4",
+      "exampleSentence": "新しいプログラムを作ります。",
+      "id": "3ba99a28-2ea0-487b-9f6d-2225b27c7fde"
+    },
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaningZh": "开发",
+      "meaningEn": "development",
+      "level": "n5n4",
+      "exampleSentence": "プログラムを開発します。",
+      "id": "3b86c3bc-dce1-4419-9af7-c90ce8e90b61"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法，点子",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアを出しました。",
+      "id": "af6684ad-5b6c-42b2-baf2-c497eef90e50"
+    },
+    {
+      "word": "形にする",
+      "reading": "かたちにする",
+      "meaningZh": "使…成形，实现",
+      "meaningEn": "to give shape to, to realize",
+      "level": "n5n4",
+      "exampleSentence": "アイデアを形にします。",
+      "id": "fcf3b3d1-9ad7-44ea-9034-6f6f50a2b35d"
+    },
+    {
+      "word": "サポート",
+      "reading": "さぽーと",
+      "meaningZh": "支持",
+      "meaningEn": "support",
+      "level": "n5n4",
+      "exampleSentence": "先生がサポートしてくれます。",
+      "id": "564579b8-8515-46df-83c1-619636a811e1"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術を学びます。",
+      "id": "630be144-de86-4ce4-b1b6-973be9218fdc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高校生向けのハッカソンでは、主に何をしますか。",
+      "options": [
+        "新しい学校を建てる",
+        "コンピューターのプログラムを作る",
+        "ゲームをして遊ぶ",
+        "料理を作る"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「コンピューターのプログラムを作るイベントです」と書いてあります。",
+      "id": "f9dcf5c5-1a9d-46f3-b020-08e65e0cd605"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-21-22473898ef",
+  "publishedAt": "2026-05-21T06:00:00+09:00"
+}

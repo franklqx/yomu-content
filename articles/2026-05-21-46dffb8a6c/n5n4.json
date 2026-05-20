@@ -1,0 +1,123 @@
+{
+  "title": "沖縄の離島へ、ひとっ飛び！",
+  "summary": "沖縄にはたくさんのきれいな島があります。島から島へ行く旅行はとても人気です。ゆっくり島を楽しみましょう！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には、たくさんの美しい島があります。これらの島は「離島（りとう）」と呼ばれています。離島への旅行は、最近とても人気があります。たくさんの人が、きれいな海を見に、島へ行きます。",
+      "translationZh": "冲绳有很多美丽的岛屿。这些岛屿被称为“离岛”。前往离岛的旅行最近非常受欢迎。许多人去岛上欣赏美丽的大海。",
+      "translationEn": "Okinawa has many beautiful islands. These islands are called 'ritou' (remote islands). Traveling to remote islands is very popular recently. Many people go to the islands to see the beautiful sea.",
+      "id": "e534376b-8d22-4844-96b1-b8e16b27f486",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「離島ホップ」という旅行の仕方があります。これは、一つの島から次の島へ、船や飛行機で移動することです。例えば、那覇（なは）から出発して、最初に渡嘉敷島（とかしちじま）へ行きます。そして、次は座間味島（ざまみじま）へ行きます。こんなふうに、いろいろな島を巡ることができます。",
+      "translationZh": "有一种叫做“离岛跳跃”的旅行方式。这是指从一个岛屿通过船或飞机移动到下一个岛屿。例如，从那霸出发，首先去渡嘉敷岛。然后，下个去座间味岛。像这样，可以巡游各种岛屿。",
+      "translationEn": "There is a way of traveling called 'ritou hop'. This means moving from one island to the next by boat or plane. For example, starting from Naha, you first go to Tokashiki Island. Then, you go to Zamami Island. Like this, you can visit various islands.",
+      "id": "c97cf179-5caf-49b9-a0bc-93d1a4038573",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島では、きれいな海で泳いだり、シュノーケリングをしたりできます。おいしい海の幸（さち）も食べられます。静かな時間の中で、リラックスするのにぴったりです。次の休みに、ぜひ行ってみてください。",
+      "translationZh": "在离岛，您可以在美丽的大海里游泳或浮潜。还可以品尝美味的海鲜。在宁静的时光中，非常适合放松身心。下次假期，请一定要去看看。",
+      "translationEn": "On the remote islands, you can swim or snorkel in the beautiful sea. You can also eat delicious seafood. It's perfect for relaxing in quiet time. Please try to go on your next holiday.",
+      "id": "8d0ecaea-496e-4e52-a039-60d0a5ff9872",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "沖縄にはたくさんの離島があります。",
+      "id": "eb63d028-8a6e-4459-a06a-8d08912b4fe4"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "来週、北海道へ旅行に行きます。",
+      "id": "0c0680b4-0847-4215-a4e9-14c3869fd2d8"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはとても人気があります。",
+      "id": "91ee56bb-4278-4409-8266-2821b96cedda"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaningZh": "移动",
+      "meaningEn": "movement, transfer",
+      "level": "n5n4",
+      "exampleSentence": "電車で移動しました。",
+      "id": "fad99c9d-c15d-499e-beb5-1e240b22afa1"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaningZh": "飞机",
+      "meaningEn": "airplane",
+      "level": "n5n4",
+      "exampleSentence": "飛行機で東京へ行きました。",
+      "id": "ae8a6126-2ce7-41a7-a1b6-f28d5fd2de5f"
+    },
+    {
+      "word": "泳ぐ",
+      "reading": "およぐ",
+      "meaningZh": "游泳",
+      "meaningEn": "to swim",
+      "level": "n5n4",
+      "exampleSentence": "海で泳ぎたいです。",
+      "id": "b4aa61ae-3087-4153-9056-5aeadfb221b0"
+    },
+    {
+      "word": "海の幸",
+      "reading": "うみのさち",
+      "meaningZh": "海鲜",
+      "meaningEn": "seafood",
+      "level": "n5n4",
+      "exampleSentence": "沖縄で海の幸を食べました。",
+      "id": "cf7e0954-4060-4a8b-9a8f-51ffa99e47bf"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静，平静",
+      "meaningEn": "quiet, calm",
+      "level": "n5n4",
+      "exampleSentence": "図書館はとても静かです。",
+      "id": "1eef2e8e-da00-40e8-a9f2-02561c18584d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」とは、どのような旅行の仕方ですか？",
+      "options": [
+        "一つの島でゆっくり休む旅行",
+        "船でたくさんの島を回る旅行",
+        "飛行機で遠い国へ行く旅行",
+        "沖縄の大きい島を歩いて旅行する"
+      ],
+      "correctIndex": 1,
+      "explanation": "「離島ホップ」とは、一つの島から次の島へ、船や飛行機で移動することです。",
+      "id": "c112dd59-51bd-4d6e-bdad-117939c626cc"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-21-46dffb8a6c",
+  "publishedAt": "2026-05-21T06:00:00+09:00"
+}

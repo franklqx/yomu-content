@@ -1,0 +1,122 @@
+{
+  "title": "お寿司の値上げ、どう思う？",
+  "summary": "人気のお寿司屋さんが値段を上げました。お客さんはどう感じているでしょうか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "回転寿司（かいてんずし）の店で、お寿司の値段が上がりました。前は一皿100円の店が多かったです。でも、今は120円や150円の店が増えています。",
+      "translationZh": "回转寿司店里的寿司价格上涨了。以前很多店一盘是100日元。但是，现在120日元或150日元的店增加了。",
+      "translationEn": "The price of sushi at conveyor belt sushi restaurants has increased. Previously, many shops charged 100 yen per plate. However, now more shops are charging 120 or 150 yen.",
+      "id": "49b2da15-bd2c-431b-96b8-31884db4f30e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜ値段が上がったのでしょうか。理由の一つは、魚（さかな）の値段が上がったからです。外国から魚を買うときも、値段が高くなりました。",
+      "translationZh": "为什么价格上涨了呢？其中一个原因是鱼的价格上涨了。从国外购买鱼的时候，价格也变高了。",
+      "translationEn": "Why did the prices go up? One reason is that the price of fish has increased. Even when buying fish from foreign countries, the prices became higher.",
+      "id": "f4af1970-2432-4990-bbdb-7ff8b3f1702e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったので、お客さんの数（かず）が少し減ったという話もあります。でも、美味しいお寿司を安く食べたい気持ちは、みんな同じです。",
+      "translationZh": "因为价格上涨了，也有说法称顾客数量稍微减少了。但是，大家想要便宜地吃到美味寿司的心情是一样的。",
+      "translationEn": "Since the prices went up, there are also stories that the number of customers has decreased a little. However, everyone feels the same desire to eat delicious sushi cheaply.",
+      "id": "b3a89749-9a1f-413c-a432-089d4fc3eaa5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、みんながお寿司を楽しめるといいですね。お店も工夫（くふう）して、お客さんがまた来てくれるように頑張っています。",
+      "translationZh": "今后，大家能继续享受寿司就好了。店家也在努力想办法，让顾客能够再次光临。",
+      "translationEn": "It would be good if everyone can continue to enjoy sushi in the future. Restaurants are also working hard to find ways to encourage customers to return.",
+      "id": "5be3c1a5-dc42-4f95-80b5-dfe9a6ef7d09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "週末は回転寿司に行きました。",
+      "id": "d8eb6e2d-f7ff-4152-81f6-87c2b29782c3"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "adfa59ce-27c5-44f8-b943-38e5fbb66f64"
+    },
+    {
+      "word": "魚",
+      "reading": "さかな",
+      "meaningZh": "鱼",
+      "meaningEn": "fish",
+      "level": "n5n4",
+      "exampleSentence": "寿司には魚が使われています。",
+      "id": "b01d45ce-8612-422f-9c86-e50e4360f1f5"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaningZh": "理由",
+      "meaningEn": "reason",
+      "level": "n5n4",
+      "exampleSentence": "遅れた理由を教えてください。",
+      "id": "5e5e2e8e-1d8e-4be3-865f-2bdc0ac454a3"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "この町に人が増えています。",
+      "id": "91100cdc-0496-41fc-98d3-a430955d25f6"
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "meaningZh": "减少",
+      "meaningEn": "to decrease",
+      "level": "n5n4",
+      "exampleSentence": "貯金（ちょきん）が減ってしまいました。",
+      "id": "0aff0a18-b717-4025-b5cd-30d39972377b"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，巧妙的安排",
+      "meaningEn": "device, scheme, ingenuity",
+      "level": "n3",
+      "exampleSentence": "この問題を解決するために、新しい工夫が必要です。",
+      "id": "e2b63a5c-709d-460d-a019-3b5c898ac4c8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司の値段が上がった理由は何ですか？",
+      "options": [
+        "お客さんが増えたから",
+        "魚の値段が上がったから",
+        "お店が新しくなったから",
+        "もっと美味しい寿司を作るため"
+      ],
+      "correctIndex": 1,
+      "explanation": "理由の一つは、魚（さかな）の値段が上がったからです。",
+      "id": "5eab8ae3-c607-484b-bbdb-9ee6dbf96a43"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-21-e84a2b4f5e",
+  "publishedAt": "2026-05-21T06:00:00+09:00"
+}

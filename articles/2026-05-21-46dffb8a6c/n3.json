@@ -1,0 +1,134 @@
+{
+  "title": "沖縄の離島ホップ！新しい旅の楽しみ方",
+  "summary": "沖縄の離島を巡る「離島ホップ」が人気を集めています。色々な島を訪れて、沖縄の魅力を満喫しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、沖縄の小さな島々を次々と訪れる「離島ホップ」という新しい旅行スタイルが人気です。飛行機や船を使って、一つの島だけでなく、複数の島を短期間で巡るのが特徴です。それぞれの島で違った海の青さや文化に触れられるので、多くの旅行者に楽しまれています。",
+      "translationZh": "最近，一种叫做“离岛跳跃”的新旅行方式在冲绳的小岛屿间越来越受欢迎。这种方式以飞机或船只为交通工具，在短时间内游览不止一个岛屿，而是多个岛屿。由于可以在每个岛屿体验到不同的蓝色大海和文化，因此受到了许多旅行者的喜爱。",
+      "translationEn": "Recently, a new travel style called 'Ritto Hop,' which involves visiting multiple small islands in Okinawa one after another, has become popular. The characteristic of this style is to visit several islands in a short period, not just one, using airplanes or ferries. Many travelers enjoy it because they can experience different shades of blue sea and cultures on each island.",
+      "id": "bfd271dc-04ef-4545-9596-44f13602c811",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップの魅力は、何と言ってもその手軽さにあります。例えば、那覇から日帰りでアクセスしやすい慶良間諸島（けらましょとう）でシュノーケリングを楽しんだ後、次の日には少し足を延ばして宮古島（みやこじま）で絶景のビーチを訪れる、といったプランも可能です。このように、行く先々で多様な体験ができるのが嬉しいですね。",
+      "translationZh": "离岛跳跃的魅力，怎么说都离不开它的便捷性。例如，行程可以安排成，第一天在从那霸出发当天就能轻松到达的庆良间诸岛进行浮潜，第二天稍微延长行程，去宫古岛探访绝景海滩。像这样，在每个目的地都能有各种各样的体验，让人感到高兴。",
+      "translationEn": "The charm of Ritto Hop lies, above all, in its convenience. For example, it's possible to plan a trip where you enjoy snorkeling in the Kerama Islands, which are easily accessible as a day trip from Naha, and then the next day, extend your journey a bit further to visit the spectacular beaches of Miyako Island. It's wonderful that you can have diverse experiences at each destination like this.",
+      "id": "7d1968ac-3762-492b-ad8a-6cb54ee7acea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ただし、離島ホップを楽しむためには、事前の計画が大切です。島によっては交通手段が限られていたり、船の便が天候によって欠航したりすることもあります。だから、スケジュールには余裕を持たせ、現地の情報をよく調べておくことがおすすめです。そうすることで、予期せぬトラブルを避け、より充実した旅になるでしょう。",
+      "translationZh": "不过，为了享受离岛跳跃，事前的计划很重要。有些岛屿的交通方式有限，或者船班可能因天气原因而取消。因此，建议行程安排留有余地，并详细了解当地的信息。这样做可以避免意想不到的麻烦，让旅途更加充实。",
+      "translationEn": "However, to enjoy Ritto Hop, prior planning is important. Some islands have limited transportation options, and ferry services may be canceled due to weather. Therefore, it is recommended to allow flexibility in your schedule and thoroughly research local information. By doing so, you can avoid unexpected troubles and have a more fulfilling trip.",
+      "id": "147e4765-1746-4f66-8acb-45914cabc001",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "沖縄の離島ホップは、まだあまり知られていない美しい自然や、温かい地元の人々との出会いを提供してくれます。忙しい日常から離れて、ゆったりとした時間を過ごしたい方には、ぴったりの旅行スタイルと言えるでしょう。次の休暇は、あなたも離島ホップに挑戦してみませんか。",
+      "translationZh": "冲绳的离岛跳跃，能让你邂逅尚未被广为人知的 Butiful 自然风光，以及热情淳朴的当地居民。对于想要远离忙碌的日常生活、度过悠闲时光的人来说，这可以说是绝佳的旅行方式。下一个假期，你不想也来挑战一下离岛跳跃吗？",
+      "translationEn": "Okinawa's Ritto Hop offers encounters with beautiful nature that is still not widely known, and with warm local people. For those who want to get away from their busy daily lives and spend relaxing time, it can be said to be the perfect travel style. Why not try Ritto Hop for your next vacation?",
+      "id": "e9a1b2b2-270e-4ab0-ab79-18063501515d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛，小岛",
+      "meaningEn": "remote island, small island",
+      "level": "n3",
+      "exampleSentence": "沖縄には美しい離島がたくさんあります。",
+      "id": "bcaca05c-a482-49fc-ba66-2d58d8642fd8"
+    },
+    {
+      "word": "巡る",
+      "reading": "めぐる",
+      "meaningZh": "巡游，游览",
+      "meaningEn": "to travel around, to visit",
+      "level": "n3",
+      "exampleSentence": "世界一周旅行で色々な国を巡りました。",
+      "id": "750bbedc-ea10-485e-a1c9-73f44bae6686"
+    },
+    {
+      "word": "シュノーケリング",
+      "reading": "しゅのーけりんぐ",
+      "meaningZh": "浮潜",
+      "meaningEn": "snorkeling",
+      "level": "n3",
+      "exampleSentence": "海がきれいだったので、シュノーケリングをしました。",
+      "id": "2c910da0-91c0-49f0-a509-66c9eed25a0e"
+    },
+    {
+      "word": "絶景",
+      "reading": "ぜっけい",
+      "meaningZh": "绝美景色",
+      "meaningEn": "superb view, magnificent scenery",
+      "level": "n3",
+      "exampleSentence": "あの山の上からは絶景が見えます。",
+      "id": "8e490f80-1c17-4560-98d1-f3eb26b0cd93"
+    },
+    {
+      "word": "アクセス",
+      "reading": "あくせす",
+      "meaningZh": "（交通）接驳，连接；（计算机）访问",
+      "meaningEn": "access",
+      "level": "n3",
+      "exampleSentence": "この駅は都心へのアクセスが良いです。",
+      "id": "fdcd6659-8f6d-4b49-8d9d-ccfd421f1cb1"
+    },
+    {
+      "word": "余裕",
+      "reading": "よゆう",
+      "meaningZh": "充裕；从容",
+      "meaningEn": "margin, room, leeway; composure",
+      "level": "n3",
+      "exampleSentence": "時間に余裕を持って出発しましょう。",
+      "id": "7645f9cd-e885-49a0-b22e-b58db316bb3b"
+    },
+    {
+      "word": "欠航",
+      "reading": "けっこう",
+      "meaningZh": "（航班、船班等）停航",
+      "meaningEn": "cancellation (of a flight or ship)",
+      "level": "n3",
+      "exampleSentence": "台風のため、飛行機が欠航になりました。",
+      "id": "93887ef6-006a-4634-be27-6ecfb9b4b68b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」の魅力は何ですか？",
+      "options": [
+        "たくさんの島を短時間で訪れることができること",
+        "豪華なホテルに泊まれること",
+        "有名な観光地だけを巡ること",
+        "現地の言葉を話せなくても楽しめること"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「離島ホップの魅力は、何と言ってもその手軽さにあります。例えば、…複数の島を短期間で巡るのが特徴です。」と書かれています。",
+      "id": "c9ba8a72-93f4-442d-bfba-bed644c225e8"
+    },
+    {
+      "question": "離島ホップを楽しむために、旅行前に大切なことは何ですか？",
+      "options": [
+        "たくさんの荷物を持っていくこと",
+        "毎日スケジュールをぎっしり埋めること",
+        "現地の情報をよく調べ、スケジュールに余裕を持たせること",
+        "ガイドブックに載っているレストランだけに行くこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「ただし、離島ホップを楽しむためには、事前の計画が大切です。…スケジュールには余裕を持たせ、現地の情報をよく調べておくことがおすすめです。」と書かれています。",
+      "id": "ab15f91b-89e3-4fff-97ce-a70f2bb67efe"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-21-46dffb8a6c",
+  "publishedAt": "2026-05-21T06:00:00+09:00"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "高校生プログラマー必見！ハッカソンでスキルアップ",
+  "summary": "プログラミングに興味がある高校生は必見！ハッカソンに参加して、仲間と協力しながら新しいアイデアを形にしてみませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、高校生向けのプログラミングコンテスト、通称「ハッカソン」が注目されています。ハッカソンとは、限られた時間内に集まった参加者がチームを組んで、アイデアを出し合い、実際にシステムやアプリケーションを作り上げるイベントです。特に高校生を対象としたものは、初心者でも気軽に参加できるような工夫がされていることが多いです。プログラミングのスキルだけでなく、チームで協力する力も養うことができます。",
+      "translationZh": "最近，面向高中生的编程竞赛，也就是所谓的“黑客松”（Hackathon），受到了很多关注。黑客松是指，在有限的时间内，聚集的参加者组成团队，一起提出想法，并实际制作出系统或应用程序的活动。特别是以高中生为对象的活动，通常会做出一些即使是初学者也能轻松参加的工夫。这不仅能培养编程技能，还能培养团队协作能力。",
+      "translationEn": "Recently, programming contests for high school students, commonly known as 'Hackathons,' have been gaining attention. A hackathon is an event where participants gather, form teams, brainstorm ideas, and actually build systems or applications within a limited time. Events specifically for high school students often incorporate features that allow even beginners to participate comfortably. They not only develop programming skills but also foster teamwork.",
+      "id": "6f225e01-46e2-45e9-809b-cebab43c8e7e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンに参加するメリットはたくさんあります。まず、学校の授業だけでは学べない実践的なスキルが身につくことです。現役のエンジニアからアドバイスをもらえる機会があることも、大きな魅力と言えるでしょう。また、同じ目標を持つ仲間と出会えるので、刺激を受けながら楽しく学ぶことができます。もしプログラミングに興味があるなら、まずは身近なハッカソンを探してみてはいかがでしょうか。",
+      "translationZh": "参加黑客松有很多好处。首先，可以掌握在学校课程中无法学到的实践技能。有机会获得在职工程师的建议，这也是一个很大的魅力。而且，因为能遇到拥有相同目标的朋友，所以在受到激励的同时也能快乐地学习。如果对编程感兴趣，为什么不先找找身边的黑客松呢？",
+      "translationEn": "There are many benefits to participating in a hackathon. First, you can acquire practical skills not taught in school classes. The opportunity to receive advice from active engineers is also a significant attraction. Furthermore, you can meet peers with similar goals, allowing you to learn enjoyably while being inspired. If you are interested in programming, why not start by looking for hackathons in your local area?",
+      "id": "64d3ac3f-0cf3-4cf7-9a55-95f9d7c49ad5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、必ずしも完成度の高いものを作る必要はありません。大切なのは、チームで協力して一つのものを作り上げようとするプロセスそのものです。失敗を恐れずに色々なアイデアを試しながら、プログラミングの楽しさを体験してください。イベントによっては、優秀なチームには賞品が用意されていることもあります。次のステップとして、このようなイベントへの参加を考えてみるのも良いでしょう。",
+      "translationZh": "在黑客松中，不一定非要做出完成度很高的东西。重要的是，团队合作共同完成一件事的过程本身。请在尝试各种想法而不害怕失败的同时，体验编程的乐趣。根据活动的不同，有时也会为优秀团队准备奖品。作为下一步，考虑参加这样的活动也是不错的。",
+      "translationEn": "In a hackathon, it's not always necessary to create something highly polished. What's important is the process of working together as a team to build something. Please experience the joy of programming while trying various ideas without fear of failure. Depending on the event, prizes may be available for outstanding teams. Considering participation in such events as your next step would be a good idea.",
+      "id": "3c3bf6e6-4b15-4887-af72-682d71fe2894",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ハッカソン",
+      "reading": "はっかそん",
+      "meaningZh": "黑客松（一种限时编程竞赛）",
+      "meaningEn": "Hackathon (a type of time-limited programming contest)",
+      "level": "n3",
+      "exampleSentence": "高校生向けのハッカソンが各地で開催されています。",
+      "id": "eb43f963-6ed0-4117-ac7b-ecbb7c6b6363"
+    },
+    {
+      "word": "通称",
+      "reading": "つうしょう",
+      "meaningZh": "别名，俗称",
+      "meaningEn": "Common name, nickname",
+      "level": "n3",
+      "exampleSentence": "その歌手は、通称「歌う宝石」と呼ばれています。",
+      "id": "a408d2b6-4b9a-48c4-9147-1bc73f92b85e"
+    },
+    {
+      "word": "養う",
+      "reading": "やしなう",
+      "meaningZh": "培养，养育",
+      "meaningEn": "To cultivate, to foster, to raise",
+      "level": "n3",
+      "exampleSentence": "この本は、子供の想像力を養うのに役立ちます。",
+      "id": "2904e08f-7ded-488f-97a0-c67a9b4e91a0"
+    },
+    {
+      "word": "実践的",
+      "reading": "じっせんてき",
+      "meaningZh": "实践性的",
+      "meaningEn": "Practical",
+      "level": "n3",
+      "exampleSentence": "この研修では、実践的なスキルを身につけることができます。",
+      "id": "ae227351-05e4-4b7f-8099-0a50df1779e4"
+    },
+    {
+      "word": "現役",
+      "reading": "げんえき",
+      "meaningZh": "在职的，现役的",
+      "meaningEn": "Currently active, in service",
+      "level": "n3",
+      "exampleSentence": "現役のプログラマーから指導を受けました。",
+      "id": "46496c14-18d9-4be8-9f07-a97abb0a83e6"
+    },
+    {
+      "word": "刺激",
+      "reading": "しげき",
+      "meaningZh": "刺激",
+      "meaningEn": "Stimulation, stimulus",
+      "level": "n3",
+      "exampleSentence": "新しい環境は、彼に良い刺激を与えました。",
+      "id": "30ae5bcf-20da-442f-a638-772bd4ad8e41"
+    },
+    {
+      "word": "完成度",
+      "reading": "かんせいど",
+      "meaningZh": "完成度",
+      "meaningEn": "Degree of completion",
+      "level": "n3",
+      "exampleSentence": "この作品は、まだ完成度が低いですが、将来性が感じられます。",
+      "id": "a864747c-c9e6-4ebb-950b-516ad57e5da5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンに参加する主なメリットは何ですか？",
+      "options": [
+        "学校の授業料が免除されること",
+        "実践的なスキルが身につき、仲間と出会えること",
+        "プログラミングの知識がなくてもすぐに優秀な作品が作れること",
+        "好きなだけ時間をかけて開発できること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には、「実践的なスキルが身につくこと」「同じ目標を持つ仲間と出会える」と書かれています。",
+      "id": "c4e82183-37fd-41d1-a88a-bfb17bb8caf6"
+    },
+    {
+      "question": "ハッカソンで一番大切なことは何だと述べられていますか？",
+      "options": [
+        "限られた時間内に完璧なプログラムを完成させること",
+        "賞品を獲得するために、他のチームより優れたものを作ること",
+        "チームで協力して何かを作り上げようとするプロセスそのもの",
+        "一人で黙々と作業を進めること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「大切なのは、チームで協力して一つのものを作り上げようとするプロセスそのものです。」と書かれています。",
+      "id": "643de31d-74fc-47d8-a89b-15446d2a4e45"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-21-22473898ef",
+  "publishedAt": "2026-05-21T06:00:00+09:00"
+}
