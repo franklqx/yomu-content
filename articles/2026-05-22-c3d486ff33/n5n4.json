@@ -1,0 +1,122 @@
+{
+  "title": "雪まつりと北海道の宿",
+  "summary": "冬の北海道は雪まつりで有名です。しかし、冬の北海道で宿を探すのは大変です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬の北海道はとてもきれいです。特に有名なのは札幌の雪まつりです。世界中からたくさんの人が北海道に来ます。雪まつりの時期は、ホテルがすぐいっぱいになります。",
+      "translationZh": "冬天的北海道非常美丽。其中特别有名的是札幌的雪祭。来自世界各地的人们来到北海道。雪祭期间，酒店很快就会住满。",
+      "translationEn": "Winter in Hokkaido is very beautiful. Especially famous is the Sapporo Snow Festival. Many people come to Hokkaido from all over the world. During the Snow Festival, hotels fill up quickly.",
+      "id": "70d5ddd3-c828-4812-8b90-398260955ef8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりの時期に北海道へ行くなら、早めに宿を予約することが大切です。飛行機のチケットも早く買う方がいいでしょう。宿がないと、旅行が楽しめなくなります。",
+      "translationZh": "如果要在雪祭期间去北海道，提前预订住宿很重要。最好也尽早购买机票。没有住处的话，旅行就无法尽兴。",
+      "translationEn": "If you plan to go to Hokkaido during the Snow Festival, it is important to book accommodation early. It is also better to buy airplane tickets early. Without a place to stay, you cannot enjoy your trip.",
+      "id": "3fa7bee7-c34c-42a3-8166-663d68cccceb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "宿がない場合、近くの都市のホテルを探すこともできます。例えば、札幌から電車で１時間ぐらいの小樽にも、素敵な宿があります。色々な方法を考えてみましょう。",
+      "translationZh": "如果没有住处，也可以寻找附近城市的酒店。例如，从小樽坐电车大约1小时，也有不错的住宿。",
+      "translationEn": "If you cannot find accommodation, you can also look for hotels in nearby cities. For example, Otaru, which is about an hour away by train from Sapporo, also has nice places to stay. Let's think of various methods.",
+      "id": "281ea7b3-1408-4be9-a1bf-35da55495e27",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりは２月ごろにあります。冬の北海道はとても寒いですが、雪はきれいです。北海道の冬を楽しんでください。でも、宿の準備は忘れないでくださいね。",
+      "translationZh": "雪祭在2月左右举行。冬天的北海道非常寒冷，但雪很美。请享受北海道的冬天。但是，别忘了准备住宿哦。",
+      "translationEn": "The Snow Festival is around February. Winter in Hokkaido is very cold, but the snow is beautiful. Please enjoy Hokkaido's winter. However, don't forget to prepare your accommodation.",
+      "id": "6f65c3ac-05ae-47d1-90cd-d191915a960d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "a9ef829f-3347-44c4-bd8c-95626d5f9e45"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名的",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "この店は有名です。",
+      "id": "5d15f94e-941d-45db-bb0b-145b51762d37"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaningZh": "时期",
+      "meaningEn": "time, period",
+      "level": "n5n4",
+      "exampleSentence": "旅行にいい時期です。",
+      "id": "cfd9701e-cd4e-44c5-8303-79d2c858f56d"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "ホテルを予約しました。",
+      "id": "09872922-83f9-4a52-a7f0-10c5d80c5ea7"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要的",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "健康は大切です。",
+      "id": "0d0071ad-37b6-46b1-b1b3-31ccac9f97b7"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaningZh": "飞机",
+      "meaningEn": "airplane",
+      "level": "n5n4",
+      "exampleSentence": "飛行機で北海道へ行きました。",
+      "id": "3d09efcb-f1a8-4ff5-a38f-8dff81af1648"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をします。",
+      "id": "4f414a65-1727-49eb-83e7-d8e5ff884069"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつりの時期に北海道へ行く場合、一番大切なことは何ですか？",
+      "options": [
+        "飛行機のチケットを買うこと",
+        "おいしいものを食べること",
+        "早めに宿を予約すること",
+        "雪だるまを作ること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「雪まつりの時期に北海道へ行くなら、早めに宿を予約することが大切です。」と書いてあります。",
+      "id": "7f9141f2-cf8f-4ad0-85fa-361b67857476"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-22-c3d486ff33",
+  "publishedAt": "2026-05-22T06:00:00+09:00"
+}

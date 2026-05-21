@@ -1,0 +1,138 @@
+{
+  "title": "雪まつり期間中の北海道、宿泊施設不足と価格高騰",
+  "summary": "札幌雪まつり開催に伴い、北海道各地の宿泊施設が満室状態となり、料金も大幅に上昇しているとのことです。特に札幌市内では予約困難な状況が続いています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "毎年2月上旬に開催される札幌雪まつりは、国内外から多くの観光客を惹きつけ、北海道の冬の風物詩となっています。その期間中は、札幌市内を中心に宿泊施設の予約が殺到し、例年、多くのホテルや旅館が満室となります。今年は特に、円安の影響もあり訪日外国人観光客の増加が顕著であるため、宿泊施設不足に拍車がかかっているとの見方が出ています。",
+      "translationZh": "每年2月上旬举行的札幌雪祭，吸引了国内外大量游客，是北海道冬季的一大景观。在其举办期间，以札幌市为中心，住宿设施的预订蜂拥而至，每年都有许多酒店和旅馆被订满。今年尤其因为日元贬值的影响，访日外国游客的增加尤为显著，因此出现了住宿设施不足加剧的看法。",
+      "translationEn": "The Sapporo Snow Festival, held annually in early February, attracts a large number of tourists from both Japan and abroad, making it a quintessential winter event in Hokkaido. During this period, reservations for accommodation facilities, particularly in Sapporo, surge, leading to full occupancy in many hotels and ryokan every year. This year, partly due to the weak yen, the increase in inbound foreign tourists is particularly noticeable, leading to a situation where accommodation shortages are exacerbated.",
+      "id": "37d9148d-0502-4349-b6eb-17c0025e3379",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "宿泊施設不足は、札幌市内に留まらず、近隣の小樽市や登別温泉といった観光地にも波及しています。これらの地域でも、雪まつり目当ての観光客が訪れるため、例年以上の混雑が予想されています。そのため、早めの予約が推奨されるとともに、宿泊料金も平常時と比較して大幅に上昇している状況です。中には、通常料金の数倍に設定されているケースもあるようです。",
+      "translationZh": "住宿设施的不足不仅限于札幌市内，还波及到了邻近的小樽市和登别温泉等旅游胜地。这些地区也因为雪祭游客的到来，预计会比往年更加拥挤。因此，除了建议尽早预订外，住宿费用也与平时相比大幅上涨。有些地方的费用甚至达到了平时的数倍。",
+      "translationEn": "The shortage of accommodation facilities is not limited to Sapporo city but is also extending to nearby tourist destinations such as Otaru city and Noboribetsu Onsen. These areas are also anticipating greater crowds than usual due to tourists visiting for the Snow Festival. Consequently, early booking is highly recommended, and accommodation prices have significantly increased compared to normal times. In some cases, prices appear to be set at several times the usual rate.",
+      "id": "7427f301-d17c-44e2-825f-3ac95ac1b03a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このような状況を受け、北海道運輸局では、観光客に対し、公共交通機関の利用や、近隣自治体への宿泊分散化などを呼びかけています。また、宿泊事業者側も、予約システムの最適化や、新たな宿泊プランの提供などを検討し、需要への対応に努めているとのことです。雪まつり期間中の北海道旅行を計画されている方は、最新の情報を確認し、早めに行動することが賢明と言えるでしょう。",
+      "translationZh": "面对这种情况，北海道运输局呼吁游客利用公共交通工具，或将住宿分散到邻近的自治体。此外，住宿业者也在考虑优化预订系统、提供新的住宿方案等，努力应对需求。计划在雪祭期间前往北海道旅行的游客，了解最新信息并尽早行动是明智的。",
+      "translationEn": "In response to this situation, the Hokkaido Transport Bureau is urging tourists to utilize public transportation and consider dispersing their stays to neighboring municipalities. Furthermore, accommodation providers are reportedly exploring ways to optimize booking systems and offer new accommodation packages to meet the demand. For those planning a trip to Hokkaido during the Snow Festival, it would be wise to check the latest information and act promptly.",
+      "id": "f212f97a-1c9f-4fb2-bc93-a5c2cb6aa92e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（季节的）特色，风物诗",
+      "meaningEn": "seasonal feature; poetic description of a season",
+      "level": "n2n1",
+      "exampleSentence": "桜は春の風物詩だ。",
+      "id": "97d5ce49-de8f-4430-8f0c-acbaee79d44d"
+    },
+    {
+      "word": "惹きつける",
+      "reading": "ひきつける",
+      "meaningZh": "吸引，引起",
+      "meaningEn": "to attract; to fascinate",
+      "level": "n3",
+      "exampleSentence": "その美しい景色は多くの人々を惹きつけた。",
+      "id": "13c5c44d-a443-4110-8b7e-980535df9439"
+    },
+    {
+      "word": "拍車がかかる",
+      "reading": "はくしゃがかかる",
+      "meaningZh": "加速，起促进作用",
+      "meaningEn": "to accelerate; to spur on",
+      "level": "n2n1",
+      "exampleSentence": "不況により、解雇に拍車がかかった。",
+      "id": "0531c377-940e-4dbe-97d2-a409d4313160"
+    },
+    {
+      "word": "顕著",
+      "reading": "けんちょ",
+      "meaningZh": "显著，明显",
+      "meaningEn": "remarkable; conspicuous; obvious",
+      "level": "n2n1",
+      "exampleSentence": "近年、スマートフォンの普及が顕著である。",
+      "id": "e452d282-4932-404f-87bd-d66bd09c3c22"
+    },
+    {
+      "word": "波及",
+      "reading": "はきゅう",
+      "meaningZh": "波及，扩散",
+      "meaningEn": "to spread; to affect",
+      "level": "n2n1",
+      "exampleSentence": "不況の波及が懸念されている。",
+      "id": "356547a5-eea7-4b56-a37b-8e14208c9589"
+    },
+    {
+      "word": "留まる",
+      "reading": "とどまる",
+      "meaningZh": "停留，限于",
+      "meaningEn": "to remain; to be limited to",
+      "level": "n3",
+      "exampleSentence": "問題は学生の間に留まらなかった。",
+      "id": "ede4ad43-ace0-4211-927e-3bde2aea056f"
+    },
+    {
+      "word": "賢明",
+      "reading": "けんめい",
+      "meaningZh": "贤明，聪明",
+      "meaningEn": "wise; intelligent",
+      "level": "n2n1",
+      "exampleSentence": "早めの対策が賢明だろう。",
+      "id": "315521aa-0053-4708-807c-e83f90277d5f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつり期間中、北海道の宿泊施設にどのような傾向が見られますか？",
+      "options": [
+        "空室が多く、料金は安い",
+        "予約が取りやすく、料金は通常通り",
+        "満室状態が続き、料金が大幅に上昇している",
+        "外国人観光客は減少傾向にある"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中「札幌雪まつり開催に伴い、北海道各地の宿泊施設が満室状態となり、料金も大幅に上昇しているとのことです。」と述べられているため。",
+      "id": "8781fc7e-3d4c-478c-a9a0-8d170862f138"
+    },
+    {
+      "question": "宿泊施設不足は、札幌市以外ではどの地域に影響を及ぼしていますか？",
+      "options": [
+        "函館市や旭川市",
+        "小樽市や登別温泉",
+        "富良野市や美瑛町",
+        "知床半島や釧路湿原"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「宿泊施設不足は、札幌市内に留まらず、近隣の小樽市や登別温泉といった観光地にも波及しています。」と記されています。",
+      "id": "8747be39-55f5-47df-a7a1-8f3823d402d3"
+    },
+    {
+      "question": "北海道運輸局は、雪まつり期間中の混雑緩和のために、どのような対応を呼びかけていますか？",
+      "options": [
+        "宿泊施設の増設を奨励すること",
+        "観光客に公共交通機関の利用や宿泊分散化を促すこと",
+        "雪まつりの開催期間を延長すること",
+        "観光客に自家用車の利用を控えるよう指示すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「観光客に対し、公共交通機関の利用や、近隣自治体への宿泊分散化などを呼びかけています。」とあります。",
+      "id": "64db69e1-b1ff-4397-8b31-8aef1c3045fb"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-22-c3d486ff33",
+  "publishedAt": "2026-05-22T06:00:00+09:00"
+}

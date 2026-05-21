@@ -1,0 +1,122 @@
+{
+  "title": "深夜の定食屋：若者の秘密基地",
+  "summary": "夜遅くまで開いている定食屋は、若者にとって特別な場所です。友達と集まって、おいしいご飯を食べます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夜遅くなると、街は静かになります。でも、一部の定食屋はまだ開いています。これらの店は、夜遅くまで働いている人や、友達と遅くまで話したい若者に人気があります。",
+      "translationZh": "到了深夜，街道变得很安静。但是，有些定食屋还在营业。这些店对于工作到深夜的人，或者想和朋友聊到很晚的年轻人来说，非常受欢迎。",
+      "translationEn": "When it gets late at night, the town becomes quiet. However, some diners are still open. These shops are popular with people who work late and young people who want to talk with friends until late.",
+      "id": "5cac2b28-fd86-4bcc-9204-5a1f0a6c2717",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食屋は、安くておいしいご飯が食べられる場所です。焼き魚定食、唐揚げ定食など、メニューはたくさんあります。昔ながらの味は、多くの人に愛されています。特に、学生さんや若い社会人に人気があります。",
+      "translationZh": "定食屋是能吃到便宜又美味的饭菜的地方。有烤鱼套餐、炸鸡套餐等，菜单很多。传统的老味道深受许多人喜爱。特别受学生和年轻上班族的欢迎。",
+      "translationEn": "Diners are places where you can eat cheap and delicious meals. There are many menu items, such as grilled fish sets and fried chicken sets. The traditional taste is loved by many people. They are especially popular with students and young office workers.",
+      "id": "03a154b4-c8aa-4b7f-b2f6-6a9729ef8b8f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜の定食屋には、特別な雰囲気があります。友達と集まって、一日の出来事を話したり、将来の夢について話したりします。温かいご飯を食べながら、安心できる時間を過ごします。ここは、若者たちの「秘密基地」のようになっています。",
+      "translationZh": "深夜的定食屋有一种特别的氛围。大家聚集在一起，聊聊一天发生的事，或者谈谈未来的梦想。边吃着热腾腾的饭菜，边度过安心的时光。这里就像是年轻人们的“秘密基地”。",
+      "translationEn": "There is a special atmosphere in late-night diners. Friends gather to talk about their day or discuss their future dreams. While eating warm food, they spend time feeling at ease. It has become like a 'secret base' for young people.",
+      "id": "a6546509-b25d-4a8e-ba74-8335aacd872c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "忙しい毎日の中でも、定食屋でゆっくりする時間は大切です。おいしい食事と友達との会話は、元気をもらえます。これからも、深夜の定食屋は若者たちの心をつかむでしょう。",
+      "translationZh": "即使在忙碌的每一天中，在定食屋悠闲度过的时间也很重要。美味的食物和与朋友的谈话能让人重新获得活力。今后，深夜的定食屋也会继续抓住年轻人的心。",
+      "translationEn": "Even in busy daily life, the time spent relaxing at a diner is important. Delicious food and conversations with friends can give you energy. From now on, late-night diners will likely continue to capture the hearts of young people.",
+      "id": "b59d00a6-ec77-48ad-862b-80c648cb7bf7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaningZh": "深夜",
+      "meaningEn": "late at night",
+      "level": "n5n4",
+      "exampleSentence": "深夜に勉強しました。",
+      "id": "736c8d70-44a8-44ad-bd2c-eb196b87a727"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaningZh": "营业",
+      "meaningEn": "business, open",
+      "level": "n5n4",
+      "exampleSentence": "この店は夜遅くまで営業しています。",
+      "id": "9fb373f2-2c87-45fb-86d7-c1c54dd065fc"
+    },
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "定食屋（提供套餐的餐馆）",
+      "meaningEn": "diner, restaurant serving set meals",
+      "level": "n5n4",
+      "exampleSentence": "友達と定食屋に行きました。",
+      "id": "f7d86e23-794e-45e2-a7b7-f5d6a50570b7"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "gather",
+      "level": "n5n4",
+      "exampleSentence": "人々が広場に集まりました。",
+      "id": "aaa22ab6-5103-4f87-9325-0cf84d88f34b"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は元気です。",
+      "id": "4ded728c-c4de-4471-a64f-9bed893eadd0"
+    },
+    {
+      "word": "秘密基地",
+      "reading": "ひみつきち",
+      "meaningZh": "秘密基地",
+      "meaningEn": "secret base",
+      "level": "n5n4",
+      "exampleSentence": "子供のころ、秘密基地がありました。",
+      "id": "623a270a-843a-48c1-83f7-c1e3aa6a63fb"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "氛围，气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "このカフェはいい雰囲気です。",
+      "id": "5cbdb6fb-2e7a-4ab5-b937-bdbf57fca5f8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜の定食屋は、どんな人に人気がありますか。",
+      "options": [
+        "子供たち",
+        "夜遅くまで働く人や若者",
+        "観光客",
+        "年配の人たち"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「夜遅くまで働いている人や、友達と遅くまで話したい若者に人気があります。」と書いてあります。",
+      "id": "a041bdb5-4cd3-4bac-9d09-03b90db62f41"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-22-29937ecdc3",
+  "publishedAt": "2026-05-22T06:00:00+09:00"
+}

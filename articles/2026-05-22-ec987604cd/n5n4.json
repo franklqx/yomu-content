@@ -1,0 +1,131 @@
+{
+  "title": "コミケの新しいトレンド",
+  "summary": "コミケでは、新しいジャンルのサークルがたくさんありました。人気のあるテーマやキャラクターも変わっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コミックマーケットは、たくさんの人が集まるイベントです。たくさんのサークルが自分の作った本やグッズを売っていました。今期は、いくつかの新しい傾向が見られました。",
+      "translationZh": "Comic Market 是一个聚集了很多人气的活动。很多社团在贩卖自己制作的书籍和周边商品。本期，能看到一些新的趋势。",
+      "translationEn": "Comic Market is an event where many people gather. Many circles were selling books and goods they made. This season, several new trends were observed.",
+      "id": "7568d42d-cfec-4a06-8dc8-6ae6eda155c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、アニメやゲームのキャラクターをテーマにしたサークルが多かったです。しかし、いつも人気のあるキャラクターだけではありませんでした。新しいアニメのキャラクターも人気がありました。",
+      "translationZh": "特别是，以动漫和游戏角色为主题的社团很多。但是，不只是总是很受欢迎的角色。新动画的角色也很受欢迎。",
+      "translationEn": "In particular, there were many circles themed around anime and game characters. However, it wasn't just the always popular characters. Characters from new anime were also popular.",
+      "id": "98756df9-1b42-4701-9642-3c5a7a4becfc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、歴史や昔の物語をテーマにしたサークルも増えていました。これらのサークルは、若い人たちにも人気があるようです。昔の文化に興味がある人が多いのでしょう。",
+      "translationZh": "此外，以历史或古代故事为主题的社团也在增加。这些社团似乎在年轻人中也很受欢迎。大概是因为很多人对古代文化感兴趣吧。",
+      "translationEn": "Also, circles themed around history and old stories were increasing. These circles seem to be popular among young people too. Perhaps many people are interested in ancient culture.",
+      "id": "a46c7eac-906b-4a02-b4fa-b4f7a11bf089",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "全体として、コミケはいつも新しい発見がある場所です。参加者は、自分の好きなものを探すことを楽しんでいます。来年もどんな新しいトレンドがあるか楽しみです。",
+      "translationZh": "总的来说，Comic Market 是一个总有新发现的地方。参加者们享受寻找自己喜欢的东西。我很期待明年会有什么样的新趋势。",
+      "translationEn": "Overall, Comic Market is a place with always new discoveries. Participants enjoy searching for what they like. I look forward to seeing what new trends there will be next year.",
+      "id": "e14a5d90-acce-47d2-a3b4-4948acf0e6ae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "イベント",
+      "reading": "イベント",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "大きなイベントがありました。",
+      "id": "9c4caae8-31eb-4793-aaba-ea5adf0fbc39"
+    },
+    {
+      "word": "サークル",
+      "reading": "サークル",
+      "meaningZh": "社团 (同人志活动中的)",
+      "meaningEn": "circle (in doujinshi events)",
+      "level": "n5n4",
+      "exampleSentence": "このサークルは人気があります。",
+      "id": "5a746174-84da-4a2f-a532-9bfcd27fadda"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "趋势",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "最近の傾向について話します。",
+      "id": "fce14dc8-50b7-44b4-ba68-258a9a76c6b9"
+    },
+    {
+      "word": "テーマ",
+      "reading": "テーマ",
+      "meaningZh": "主题",
+      "meaningEn": "theme",
+      "level": "n5n4",
+      "exampleSentence": "新しいテーマの本です。",
+      "id": "ed442672-1685-4595-8ae7-0df31eaf3e08"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "キャラクター",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "好きなキャラクターは何ですか。",
+      "id": "30134b90-647d-48f9-a475-4de371323eae"
+    },
+    {
+      "word": "歴史",
+      "reading": "れきし",
+      "meaningZh": "历史",
+      "meaningEn": "history",
+      "level": "n3",
+      "exampleSentence": "歴史の勉強は面白いです。",
+      "id": "d833bedd-5ed5-45fb-9446-076e80988b63"
+    },
+    {
+      "word": "全体",
+      "reading": "ぜんたい",
+      "meaningZh": "全体",
+      "meaningEn": "whole, overall",
+      "level": "n3",
+      "exampleSentence": "全体として、良い結果でした。",
+      "id": "2257893a-a1a2-4777-987c-e8f6c3b1f445"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しい発見がありました。",
+      "id": "5488b373-58cf-4333-95bd-62da5fc40073"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今期のコミケで人気があったテーマは何ですか。",
+      "options": [
+        "昔のアニメのキャラクター",
+        "新しいアニメやゲームのキャラクター、歴史や昔の物語",
+        "スポーツのキャラクター",
+        "食べ物のテーマ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「特に、アニメやゲームのキャラクターをテーマにしたサークルが多かったです。」や「また、歴史や昔の物語をテーマにしたサークルも増えていました。」と書いてあります。",
+      "id": "f373056e-5ee6-45aa-93fa-03067feb8b3b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-22-ec987604cd",
+  "publishedAt": "2026-05-22T06:00:00+09:00"
+}

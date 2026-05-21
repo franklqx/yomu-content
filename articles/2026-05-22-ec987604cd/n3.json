@@ -1,0 +1,126 @@
+{
+  "title": "コミケ会場で注目の今期サークル傾向",
+  "summary": "今期のコミケでは、新しいジャンルや昔ながらの人気ジャンルが共存し、多様なサークル活動が見られました。特に注目すべき傾向をいくつかご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "先日開催されたコミックマーケットでは、多くのサークルが参加し、熱気に包まれていました。会場を歩いていると、今期ならではのサークル傾向がいくつか見受けられました。昔から人気のジャンルはもちろんですが、最近話題になったアニメやゲームに関連する新しいジャンルも目立っていました。",
+      "translationZh": "前不久举办的Comic Market吸引了众多社团参加，现场气氛热烈。漫步在会场，可以观察到本期特有的社团倾向。除了长久以来受欢迎的类型之外，与近期热门动画和游戏相关的社团类型也非常显眼。",
+      "translationEn": "At the recently held Comic Market, many circles participated, filling the venue with excitement. Walking around, several circle trends unique to this season were noticeable. Of course, there were popular genres from the past, but new genres related to recently talked-about anime and games also stood out.",
+      "id": "6bb4f95d-273d-4025-98fa-42c918fcd48e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、SNSで話題になった作品を題材にした二次創作サークルが増えているように感じました。これらのサークルは、ファン同士の交流も活発で、作品への愛が伝わってくるような展示をしていました。一方で、長年活動を続けているベテランのサークルも、安定した人気を誇っていました。彼らの作品からは、確かな技術と経験が感じられました。",
+      "translationZh": "特别是，以在社交媒体上引起话题的作品为主题的二次创作社团似乎有所增加。这些社团的粉丝交流也很活跃，展示着能让人感受到对作品的热爱的作品。另一方面，长期活动的资深社团也保持着稳定的高人气。他们的作品能让人感受到扎实的技术和经验。",
+      "translationEn": "In particular, it felt like there was an increase in doujinshi circles based on works that became popular on social media. These circles had active fan interactions and displayed their works in a way that conveyed their love for the source material. On the other hand, veteran circles that have been active for many years also boasted stable popularity. Their works conveyed solid skill and experience.",
+      "id": "e7e310fa-9f51-482c-a980-78af0a246913",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、最近のトレンドとして、オリジナルの世界観を持つ作品を発表するサークルも注目を集めています。これらのサークルは、作者独自のアイデアや表現方法で、新しいファン層を開拓しようとしています。そのため、会場では多様なジャンルや表現方法が混在し、訪れる人々を楽しませていました。このように、コミケ会場では、新しい動きと伝統的な人気が共存している様子が見られました。",
+      "translationZh": "此外，作为近期趋势，发布具有原创世界观作品的社团也吸引了关注。这些社团试图通过作者独特的创意和表现方式来开拓新的粉丝群体。因此，会场内各种类型和表现方式并存，给参观者带来了乐趣。像这样，在Comic Market会场，可以看到新动向与传统人气共存的景象。",
+      "translationEn": "Also, as a recent trend, circles presenting works with original worldviews are gaining attention. These circles aim to develop new fan bases through the author's unique ideas and methods of expression. Therefore, diverse genres and expression methods coexist at the venue, entertaining visitors. In this way, the Comic Market venue showed a coexistence of new movements and traditional popularity.",
+      "id": "60f5bd4b-c9b8-48c9-b09a-c4c86ae117f0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コミックマーケット",
+      "reading": "こみっくまーけっと",
+      "meaningZh": "Comic Market，日本最大的同人志即卖会",
+      "meaningEn": "Comic Market, Japan's largest doujinshi convention",
+      "level": "n3",
+      "exampleSentence": "コミックマーケットは年に数回開催されます。",
+      "id": "34a204d4-eb8b-44cc-854a-c23a381c573a"
+    },
+    {
+      "word": "サークル",
+      "reading": "さーくる",
+      "meaningZh": "（同人）社团",
+      "meaningEn": "circle (in the context of doujinshi events)",
+      "level": "n3",
+      "exampleSentence": "このサークルは新しい作品を発表しました。",
+      "id": "36ca3a06-9fce-4c7f-9a96-d15236d32614"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "倾向，趋势",
+      "meaningEn": "trend, tendency",
+      "level": "n3",
+      "exampleSentence": "最近の若者の間では、健康志向の傾向が見られます。",
+      "id": "fbc17219-cdd7-431b-a10b-f1a30e22fea5"
+    },
+    {
+      "word": "二次創作",
+      "reading": "にじそうさく",
+      "meaningZh": "二次创作，同人创作",
+      "meaningEn": "doujinshi creation, fan-made derivative work",
+      "level": "n3",
+      "exampleSentence": "多くのサークルが二次創作の同人誌を販売していました。",
+      "id": "4c454fdb-6bcb-4828-b885-33bf0cae3635"
+    },
+    {
+      "word": "題材",
+      "reading": "だいざい",
+      "meaningZh": "题材，素材",
+      "meaningEn": "subject matter, theme",
+      "level": "n3",
+      "exampleSentence": "この映画は実話が題材になっています。",
+      "id": "2a32a937-25ff-49b6-9302-8a4d22a98a39"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老手，经验丰富者",
+      "meaningEn": "veteran, experienced person",
+      "level": "n3",
+      "exampleSentence": "彼は長年の経験を持つベテランの職人です。",
+      "id": "a52e7e3b-e1ce-4ccc-98f5-4cc2014fd3ac"
+    },
+    {
+      "word": "オリジナルの世界観",
+      "reading": "おりじなるのせかいかん",
+      "meaningZh": "原创的世界观",
+      "meaningEn": "original worldview/setting",
+      "level": "n3",
+      "exampleSentence": "作者はオリジナルの世界観を構築することに力を入れています。",
+      "id": "e1176e8c-f34e-447d-bf80-d9b3824c8077"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今期のコミケ会場で目立っていたサークル傾向は何ですか？",
+      "options": [
+        "昔ながらの人気ジャンルばかりだった",
+        "SNSで話題になった作品の二次創作が増えた",
+        "オリジナルの世界観を持つ作品は少なかった",
+        "ベテランのサークルはほとんど見られなかった"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中に「特に、SNSで話題になった作品を題材にした二次創作サークルが増えているように感じました。」とあります。",
+      "id": "5e0653ac-2b2f-4497-826e-11f30f630b9d"
+    },
+    {
+      "question": "オリジナルの世界観を持つ作品を発表するサークルは、どのような目的を持っていると説明されていますか？",
+      "options": [
+        "昔からのファンを大切にするため",
+        "作者独自のアイデアで新しいファン層を開拓するため",
+        "既存の人気作品に便乗するため",
+        "他のサークルとの差別化を単純に図るため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中に「これらのサークルは、作者独自のアイデアや表現方法で、新しいファン層を開拓しようとしています。」とあります。",
+      "id": "6a44f8f4-e5c0-46d3-a775-715d2d322fdc"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-22-ec987604cd",
+  "publishedAt": "2026-05-22T06:00:00+09:00"
+}

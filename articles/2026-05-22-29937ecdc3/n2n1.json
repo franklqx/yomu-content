@@ -1,0 +1,138 @@
+{
+  "title": "深夜定食屋：都市の若者たちの新しい社交場",
+  "summary": "都市部において、深夜まで営業する定食屋が若者たちの間で新たな交流の場として注目を集めている。その背景には、多様化するライフスタイルと、温かい食事を求める心情があると見られる。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、都市部を中心に深夜営業を続ける定食屋が、特に若い世代の間で人気を集めているとのことである。終電を逃した会社員や学生だけでなく、友人同士で遅くまで語り明かしたい人々が、温かい定食を求めて集まる光景が頻繁に見られるようになった。これらの店は、単に食事を提供する場に留まらず、多様な人々が自然と交流するコミュニティとしての役割も担い始めていると見られる。",
+      "translationZh": "据报道，近年来，以城市地区为中心，持续深夜营业的定食屋在年轻一代中尤其受到欢迎。不仅是错过末班车的上班族和学生，那些希望与朋友彻夜长谈的人们，也常常为了寻找热腾腾的套餐而聚集于此。这些店似乎已不再仅仅是提供餐食的场所，而是开始扮演起让形形色色的人们自然交流的社区角色。",
+      "translationEn": "It is reported that, in recent years, fixed-meal restaurants that continue to operate late into the night, particularly in urban areas, have been gaining popularity among the younger generation. Scenes of people, not only office workers and students who miss the last train but also those who want to talk late with friends, gathering to seek warm set meals have become frequent. These establishments appear to be evolving beyond mere places to eat, starting to serve as communities where diverse individuals naturally interact.",
+      "id": "83c87fba-303e-4853-9590-101c649ff271",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜営業の定食屋が若者文化の一部となりつつある背景には、現代社会におけるライフスタイルの多様化が挙げられる。不規則な勤務体系や、趣味に没頭する時間の増加に伴い、従来の食事時間にとらわれないニーズが高まっている。また、これらの店が提供する、家庭的で温かい家庭料理のようなメニューは、単なる空腹を満たすだけでなく、精神的な充足感をもたらすものとして、若者たちの心をとらえているようである。",
+      "translationZh": "深夜营业的定食屋之所以成为年轻文化的一部分，其背景在于现代社会生活方式的多样化。随着不规律的工作制度以及沉迷于兴趣爱好时间的增加，不拘泥于传统用餐时间的需求日益增长。此外，这些店提供的、如同家庭般温馨的家常菜肴菜单，似乎不仅满足了生理上的饥饿感，更因能带来精神上的满足感而抓住了年轻人的心。",
+      "translationEn": "The backdrop to late-night fixed-meal restaurants becoming a part of youth culture includes the diversification of lifestyles in modern society. With irregular work schedules and increased time spent engrossed in hobbies, the demand for dining outside conventional mealtimes is growing. Furthermore, the menus offered by these establishments, reminiscent of warm, home-style cooking, seem to captivate young people not just by satisfying hunger but also by providing emotional fulfillment.",
+      "id": "d990c5c8-84a9-41a0-9312-253c49492e3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、こうした深夜の飲食店は、SNSなどを通じた情報発信により、新たな顧客層を開拓している側面もある。店主のこだわりや、そこで生まれる人間模様が共有されることで、地域に根差した個性的な店が注目され、一種の「聖地巡礼」のような現象も生まれているとの声も聞かれる。この若者文化との結びつきは、今後も定食屋という業態のあり方に影響を与えていくものと予想される。",
+      "translationZh": "此外，这类深夜的餐饮店也通过SNS等信息传播，在开拓新的客源方面发挥着作用。随着店主的心得以及在那里发生的种种人情故事被分享，扎根于社区的、具有个性的店铺受到了关注，甚至出现了类似“圣地巡礼”的现象。这种与年轻文化的联系，预计将继续对定食屋这一业态的发展产生影响。",
+      "translationEn": "Moreover, these late-night eateries are also developing new customer bases through information dissemination via social media and other platforms. As the owner's dedication and the human stories that unfold there are shared, unique, community-rooted establishments gain attention, leading to phenomena akin to 'pilgrimages to sacred sites,' according to some observations. This connection with youth culture is expected to continue influencing the future of the fixed-meal restaurant business model.",
+      "id": "0a168c13-5de4-4a29-bf1d-75c260ff8606",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供套餐式饭菜的餐馆",
+      "meaningEn": "A restaurant that serves set meals.",
+      "level": "n3",
+      "exampleSentence": "仕事帰りに、近所の定食屋で夕食を済ませた。",
+      "id": "9cd6db58-835e-4d43-a1de-6cbc9c2940b7"
+    },
+    {
+      "word": "終電",
+      "reading": "しゅうでん",
+      "meaningZh": "末班电车",
+      "meaningEn": "The last train of the night.",
+      "level": "n3",
+      "exampleSentence": "終電を逃したので、タクシーで帰宅した。",
+      "id": "32f90da7-97ab-4968-a5c4-d89578dfaee9"
+    },
+    {
+      "word": "頻繁",
+      "reading": "ひんぱん",
+      "meaningZh": "频繁地，屡次",
+      "meaningEn": "Frequently; often.",
+      "level": "n2n1",
+      "exampleSentence": "最近、この地域で地震が頻繁に発生している。",
+      "id": "3b15f892-c0bd-4294-b2c8-f0c60c247c66"
+    },
+    {
+      "word": "ライフスタイル",
+      "reading": "らいふすたいる",
+      "meaningZh": "生活方式",
+      "meaningEn": "Lifestyle.",
+      "level": "n3",
+      "exampleSentence": "健康的なライフスタイルを送るために、食生活を見直した。",
+      "id": "73f69e09-0740-4353-bbd9-9241e8478b5f"
+    },
+    {
+      "word": "とらわれる",
+      "reading": "とらわれる",
+      "meaningZh": "被束缚，被拘泥",
+      "meaningEn": "To be captured; to be bound; to be obsessed with.",
+      "level": "n2n1",
+      "exampleSentence": "古い慣習にとらわれず、新しい考え方を受け入れるべきだ。",
+      "id": "93e5a466-d117-4bd6-91b8-efe41b4a795f"
+    },
+    {
+      "word": "精神的",
+      "reading": "せいしんてき",
+      "meaningZh": "精神上的",
+      "meaningEn": "Mental; spiritual.",
+      "level": "n2n1",
+      "exampleSentence": "困難な状況でも、精神的な強さを持つことが大切だ。",
+      "id": "3533cf5f-d389-4af3-a1f6-85ca031a0dac"
+    },
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "（动漫、影视作品等的）取景地朝圣",
+      "meaningEn": "Pilgrimage to a sacred site (often referring to visiting locations featured in anime, manga, or films).",
+      "level": "n2n1",
+      "exampleSentence": "そのアニメの舞台となった町は、多くのファンが聖地巡礼に訪れる。",
+      "id": "cea58ae3-522a-4e37-8ba1-7cc1b70fab2e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜営業の定食屋が若者の間で人気を集めている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "安価で手軽に食事ができるから",
+        "多様化するライフスタイルへの対応と精神的な充足感を得られるから",
+        "深夜まで開いている他の飲食店が少ないから",
+        "店主との会話を楽しみに来る人が多いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中では、「現代社会におけるライフスタイルの多様化」や「精神的な充足感をもたらすものとして、若者たちの心をとらえている」と述べられています。",
+      "id": "be76e375-61f6-4ec8-979b-79ebe13a3cb8"
+    },
+    {
+      "question": "「終電を逃した会社員や学生だけでなく、友人同士で遅くまで語り明かしたい人々が、温かい定食を求めて集まる」という記述から、どのようなことが推測できますか？",
+      "options": [
+        "定食屋は主に一人で食事をする場所である。",
+        "定食屋は単に食事をするだけの場所ではなく、交流の場としても機能している。",
+        "深夜営業の定食屋は、高級な料理を提供している。",
+        "若者は定食屋で静かに過ごすことを好む。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「友人同士で遅くまで語り明かしたい人々が…集まる」という記述から、食事だけでなく交流の場としての役割も担っていることが推測できます。",
+      "id": "e30d222e-4681-4b52-96b1-5b415cb81778"
+    },
+    {
+      "question": "SNSなどを通じた情報発信が、深夜営業の定食屋にどのような影響を与えていると本文は述べていますか？",
+      "options": [
+        "競合店との価格競争が激化している。",
+        "衛生管理の基準が厳しくなった。",
+        "地域に根差した個性的な店が注目され、新たな顧客層を開拓する一因となっている。",
+        "若者文化との結びつきが薄れている。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「店主のこだわりや、そこで生まれる人間模様が共有されることで、地域に根差した個性的な店が注目され、新たな顧客層を開拓している側面もある」と述べられています。",
+      "id": "8b7f6f3d-f12b-4831-8729-54d5a95d646a"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-22-29937ecdc3",
+  "publishedAt": "2026-05-22T06:00:00+09:00"
+}

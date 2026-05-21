@@ -1,0 +1,143 @@
+{
+  "title": "深夜の定食屋：若者が集まる理由",
+  "summary": "深夜まで開いている定食屋は、若者にとって単なる食事場所以上の意味を持っている。そこには、独特の文化が生まれているのだ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街のあちこちで深夜まで営業している定食屋が増えている。特に学生や若い社会人の間で人気を集めているのは、なぜだろうか。それは、安くてボリュームのある食事ができるから、という理由だけではないようだ。",
+      "translationZh": "最近，城市里随处可见深夜营业的定食屋。特别受学生和年轻上班族欢迎的原因，似乎不只是因为能吃到便宜又分量足的餐点。",
+      "translationEn": "Recently, more and more restaurants offering set meals are staying open late into the night in various parts of the city. The reason they are gaining popularity, especially among students and young professionals, doesn't seem to be solely because they offer inexpensive and hearty meals.",
+      "id": "aed7eaec-d096-4ac5-a041-0d953de3eeb1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの店には、夜遅くまで勉強したり、仕事を終えたりした若者たちが、仲間や一人で集まってくる。店員さんも慣れているのか、温かく迎えてくれる雰囲気がある。こうした場所では、普段話さないような深い話に花が咲くこともあるのだ。",
+      "translationZh": "这些店里，聚集着深夜还在学习或者刚刚结束工作的年轻人，有的是和朋友一起来，有的是独自一人。店员似乎也习以为常，店内有种热情欢迎的氛围。在这样的地方，有时能聊到平时不常说的心里话。",
+      "translationEn": "Young people who are studying late into the night or have just finished work gather at these establishments, either with friends or alone. The staff seem accustomed to this, and there's an atmosphere of warm welcome. In such places, conversations can sometimes deepen, touching on topics not usually discussed.",
+      "id": "2af2f518-d9b0-406c-8097-15507651bcce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、深夜の定食屋は、多様な価値観を持つ人々が自然と交流できる貴重な空間でもある。それぞれが違う生活を送っていても、美味しい食事を囲むことで、一体感が生まれることがある。こうした経験は、若者たちの人間関係を豊かにしてくれるだろう。",
+      "translationZh": "而且，深夜的定食屋也是一个宝贵的空间，能让持有不同价值观的人们自然地交流。即使每个人过着不同的生活，但围坐在一起享用美味的餐点，有时就能产生一种归属感。这样的经历，或许能丰富年轻人的社交生活。",
+      "translationEn": "Furthermore, late-night set meal restaurants serve as a valuable space where people with diverse values can naturally interact. Even though each person leads a different life, sharing a delicious meal can sometimes foster a sense of unity. Such experiences likely enrich the social lives of young people.",
+      "id": "a4e41477-ada7-4441-967d-fe03c345fa94",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜営業の定食屋は、ただお腹を満たすだけでなく、心のつながりや新たな発見をもたらす場所として、現代の若者文化に欠かせない存在になりつつあると言えるだろう。",
+      "translationZh": "可以说，深夜营业的定食屋不仅仅是填饱肚子的地方，它更是带来心灵连接和新发现的场所，正逐渐成为现代年轻文化中不可或缺的存在。",
+      "translationEn": "It can be said that late-night set meal restaurants are becoming an indispensable part of modern youth culture, not just as places to fill one's stomach, but as venues that bring emotional connection and new discoveries.",
+      "id": "ed3a9a47-0209-4786-887a-c6c62a328c4d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供固定套餐（定食）的餐馆",
+      "meaningEn": "A restaurant that serves set meals (teishoku)",
+      "level": "n3",
+      "exampleSentence": "駅の近くに新しい定食屋ができた。",
+      "id": "645550d4-25ab-4d47-9b7b-25bce30b5704"
+    },
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaningZh": "深夜，午夜",
+      "meaningEn": "Late at night, midnight",
+      "level": "n3",
+      "exampleSentence": "深夜に一人で歩くのは少し怖い。",
+      "id": "041c162f-77d1-4bcb-997a-a6e3ae4ea825"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaningZh": "营业，经营",
+      "meaningEn": "Business, operation",
+      "level": "n3",
+      "exampleSentence": "この店は朝から晩まで営業している。",
+      "id": "bd4b5022-a8fc-4500-a796-807a71d453e1"
+    },
+    {
+      "word": "ボリューム",
+      "reading": "ぼりゅーむ",
+      "meaningZh": "分量，容量（常指食物很多）",
+      "meaningEn": "Volume, quantity (often referring to a large amount of food)",
+      "level": "n3",
+      "exampleSentence": "ここのランチはボリュームがあって安い。",
+      "id": "0e812cb2-6d9e-4eca-88d2-ad3a223f169e"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaningZh": "伙伴，同伴，朋友",
+      "meaningEn": "Companion, comrade, friend",
+      "level": "n3",
+      "exampleSentence": "大学時代の仲間と久しぶりに会った。",
+      "id": "9c6f33bb-a478-488c-bb4b-1a980e0211df"
+    },
+    {
+      "word": "価値観",
+      "reading": "かちかん",
+      "meaningZh": "价值观",
+      "meaningEn": "Values",
+      "level": "n3",
+      "exampleSentence": "人それぞれ価値観は違うものだ。",
+      "id": "c7540355-61d8-44b5-b378-2f808b95f589"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流，交往",
+      "meaningEn": "Exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "異文化交流は大切だと思う。",
+      "id": "f5a6a98c-bf48-4387-822c-bf3e3f8f5fb3"
+    },
+    {
+      "word": "一体感",
+      "reading": "いったいかん",
+      "meaningZh": "一体感，归属感",
+      "meaningEn": "Sense of unity, sense of belonging",
+      "level": "n3",
+      "exampleSentence": "チームで目標を達成した時、一体感が生まれた。",
+      "id": "2f44c3cf-a40b-4431-8176-6368a3b950c8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜の定食屋が若者に人気なのは、どのような理由が挙げられていますか？",
+      "options": [
+        "安くて量が多いからだけではない",
+        "静かな環境で勉強できるから",
+        "特別なメニューが豊富だから",
+        "最新のトレンドを発信しているから"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文では「それは、安くてボリュームのある食事ができるから、という理由だけではないようだ。」と述べられています。",
+      "id": "52600152-f961-485d-b30e-ddc60d9ed973"
+    },
+    {
+      "question": "本文によると、深夜の定食屋は若者にとってどのような空間になりつつありますか？",
+      "options": [
+        "多様な人々が交流し、心のつながりや新たな発見をもたらす空間",
+        "単に安価な食事を済ませるための場所",
+        "最新の流行について語り合うための場所",
+        "遅くまで勉強や仕事をするための静かな場所"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文の最後の段落に「多様な価値観を持つ人々が自然と交流できる貴重な空間」「心のつながりや新たな発見をもたらす場所」と書かれています。",
+      "id": "64aec364-e9f7-4ad0-a3d2-ea0927acd293"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-22-29937ecdc3",
+  "publishedAt": "2026-05-22T06:00:00+09:00"
+}
