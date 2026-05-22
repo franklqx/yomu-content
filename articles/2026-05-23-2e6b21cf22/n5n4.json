@@ -1,0 +1,131 @@
+{
+  "title": "新しいお正月の買い物",
+  "summary": "最近、お正月の準備の仕方が変わってきました。新しい商品やサービスが出てきています。どんなトレンドがあるか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、毎年お正月の準備をします。昔は、家族みんなで集まって、おせち料理を作りました。でも、最近は少し違います。忙しい人も多いので、おせち料理を予約する人が増えています。",
+      "translationZh": "在日本，每年都会做新年的准备。以前，大家会聚在一起制作“御节料理”（新年套餐）。但是，最近有些不同。因为很多人很忙，所以预定“御节料理”的人增加了。",
+      "translationEn": "In Japan, people prepare for New Year every year. In the past, families gathered to make Osechi Ryori (New Year's food). However, things are a little different recently. Many people are busy, so more and more people are reserving Osechi Ryori.",
+      "id": "70252314-6834-4e20-80cc-3a388bc1329e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、お正月の飾りも変わっています。昔ながらの大きな飾りもありますが、小さくてかわいい飾りも人気です。場所をとらないので、アパートに住んでいる人にも良いです。インターネットで買う人も多いです。",
+      "translationZh": "此外，新年的装饰品也在变化。虽然也有传统的、大的装饰品，但是小巧可爱的装饰品也很受欢迎。因为不占地方，所以住在公寓里的人也很喜欢。在网上购买的人也很多。",
+      "translationEn": "Also, New Year's decorations are changing. There are still traditional, large decorations, but small, cute decorations are also popular. They don't take up much space, so they are good for people living in apartments. Many people buy them online.",
+      "id": "0000f145-3aaf-46d9-99fe-4bd479241356",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そして、お年玉のあげ方も新しくなりました。現金だけでなく、電子マネーで送ることもできます。スマホで簡単に送れるので、便利です。若い人たちの間で、この方法が広がっています。",
+      "translationZh": "而且，给压岁钱的方式也变新了。不只是现金，也可以用电子货币发送。因为用智能手机就能简单发送，所以很方便。在年轻人之间，这种方式正在普及。",
+      "translationEn": "And, the way of giving New Year's money (Otoshidama) has also become new. Not only cash, but you can also send it via electronic money. It's convenient because you can send it easily with a smartphone. This method is spreading among young people.",
+      "id": "6bbc019a-8305-44f4-844b-d970a85bd29e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お正月の準備は、時代に合わせて変わっていきます。これからも、もっと新しいトレンドが出てくるでしょう。皆さんは、どんな準備をしますか？",
+      "translationZh": "新年的准备会随着时代而改变。今后，也会出现更多新的趋势。你们会做怎样的准备呢？",
+      "translationEn": "New Year's preparations change with the times. More new trends will likely emerge in the future. What kind of preparations will you make?",
+      "id": "82986675-b739-4ca1-83a8-38c3737cb9af",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "お正月の準備を始めました。",
+      "id": "1a66fb3a-90a9-4145-a113-6362ae76d94d"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "8415360c-d09c-452d-9b0a-f1fb80b9a489"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "料理；菜肴",
+      "meaningEn": "cooking; dish",
+      "level": "n5n4",
+      "exampleSentence": "美味しい料理を作りました。",
+      "id": "43cd102d-542b-4dce-a502-fa18da5d9494"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰；装饰品",
+      "meaningEn": "decoration; ornament",
+      "level": "n5n4",
+      "exampleSentence": "部屋にきれいな飾りをつけました。",
+      "id": "f6678fac-e6e2-420b-9375-e9166856839a"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气；受欢迎",
+      "meaningEn": "popularity; popular",
+      "level": "n5n4",
+      "exampleSentence": "このケーキはとても人気があります。",
+      "id": "f2a2206d-8843-43cf-84f2-49d024464900"
+    },
+    {
+      "word": "電子マネー",
+      "reading": "でんしまねー",
+      "meaningZh": "电子货币",
+      "meaningEn": "electronic money",
+      "level": "n5n4",
+      "exampleSentence": "電子マネーで支払いができますか？",
+      "id": "f7bc71ab-eae9-4b76-8831-0593587f1f06"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaningZh": "简单；轻易",
+      "meaningEn": "easy; simple",
+      "level": "n5n4",
+      "exampleSentence": "この問題は簡単です。",
+      "id": "8b98d5fe-6bed-4d41-9674-7ab60c6cc963"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "スマホはとても便利です。",
+      "id": "878d21c8-915f-44f7-99e5-b4f0db72c8dd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、お正月の準備で変わってきたことは何ですか？",
+      "options": [
+        "おせち料理を家で作る人が増えた",
+        "昔ながらの大きな飾りが一番人気になった",
+        "おせち料理を予約する人が増えた",
+        "お年玉を現金でしか送れなくなった"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔は、家族みんなでおせち料理を作りました。でも、最近は忙しい人も多いので、おせち料理を予約する人が増えています。",
+      "id": "6e706695-894c-4c0d-981b-50376d159220"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-23-2e6b21cf22",
+  "publishedAt": "2026-05-23T06:00:00+09:00"
+}

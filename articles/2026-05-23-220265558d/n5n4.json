@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町が元気に",
+  "summary": "アニメの舞台になった場所を訪れる人が増えています。これは「聖地巡礼」と呼ばれ、町を元気にしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、アニメの「聖地巡礼」が人気です。聖地巡礼とは、アニメの物語の舞台になった場所をファンが訪れることです。多くの人が、好きなアニメの景色を見て、感動しています。",
+      "translationZh": "最近，“动画圣地巡礼”很受欢迎。圣地巡礼是指粉丝们拜访动画故事的发生地的行为。很多人看了自己喜欢的动画的景色后，感到很感动。",
+      "translationEn": "Recently, anime 'sacred site pilgrimage' is popular. Sacred site pilgrimage is when fans visit the places where the anime story took place. Many people are moved by seeing the scenery from their favorite anime.",
+      "id": "6bfc0d54-e3b4-4fd5-b955-80be905bed47",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "聖地巡礼は、アニメの舞台になった町に良い影響を与えています。例えば、観光客が増えて、お店がにぎやかになります。地元の人は、自分の町がアニメに出てくることを誇りに思っています。",
+      "translationZh": "圣地巡礼给动画的发生地带来了好的影响。例如，游客增加了，店铺变得热闹起来。当地人也为自己的城镇出现在动画里感到自豪。",
+      "translationEn": "Sacred site pilgrimage has a good influence on towns that become anime settings. For example, tourists increase, and shops become lively. Local people are proud that their town appears in anime.",
+      "id": "76e9ec7d-1f12-409c-a45e-612b9c44fb71",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方の町は、聖地巡礼のために新しいイベントを企画することもあります。アニメのキャラクターのパネルを置いたり、特別なスタンプラリーをしたりします。これらの活動は、町をさらに元気にするのに役立っています。",
+      "translationZh": "地方城镇有时也会为了圣地巡礼策划新的活动。比如设置动画角色的立牌，或者举办特别的盖章集点活动。这些活动有助于让城镇更加有活力。",
+      "translationEn": "Local towns sometimes plan new events for sacred site pilgrimages. For example, they put up panels of anime characters or hold special stamp rallies. These activities help to make the towns even more vibrant.",
+      "id": "303911c7-5316-42d0-9047-0e4a7a3c1ae4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの力で、日本の色々な町が元気になっています。聖地巡礼は、アニメファンだけでなく、町の人々にも幸せをもたらしています。",
+      "translationZh": "凭借动画的力量，日本的许多城镇都变得充满活力。圣地巡礼不仅给动画粉丝，也给城镇的人们带来了幸福。",
+      "translationEn": "With the power of anime, various towns in Japan are becoming lively. Sacred site pilgrimage brings happiness not only to anime fans but also to the people of the towns.",
+      "id": "bcb0ecc6-848e-49c5-b7ae-023492211f8b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "圣地巡礼",
+      "meaningEn": "sacred site pilgrimage",
+      "level": "n3",
+      "exampleSentence": "アニメの聖地巡礼で、その町に行きました。",
+      "id": "9bde2256-295f-4c9f-a7fd-d93885581197"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，场景",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "この映画の舞台は京都です。",
+      "id": "08d1c453-083f-4b41-a29a-2a1f91ef35bb"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はその歌手のファンです。",
+      "id": "0a9e6223-afe0-43d1-8527-556f37768cc5"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访，访问",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "来週、奈良を訪れる予定です。",
+      "id": "cffbd8b2-4e36-48a2-84aa-f33864b7fb0f"
+    },
+    {
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaningZh": "影响",
+      "meaningEn": "influence, effect",
+      "level": "n3",
+      "exampleSentence": "この新しい法律は経済に大きな影響を与えました。",
+      "id": "1198eca1-1b73-438f-9369-e1f15fe0ea4b"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "观光客",
+      "meaningEn": "tourist",
+      "level": "n5n4",
+      "exampleSentence": "夏休みは観光客でいっぱいです。",
+      "id": "947017be-8087-4d74-a3ba-a1d47631a3a8"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "駅前はいつもにぎやかです。",
+      "id": "d2fa2bcb-04c3-442f-a435-bb8fec58ae79"
+    },
+    {
+      "word": "企画",
+      "reading": "きかく",
+      "meaningZh": "企划，策划",
+      "meaningEn": "plan, project",
+      "level": "n3",
+      "exampleSentence": "新しいイベントを企画しています。",
+      "id": "af94b53b-613f-48c7-a1cc-8fbb3cc55075"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの「聖地巡礼」は、町にどのような影響を与えていますか？",
+      "options": [
+        "町が静かになる",
+        "観光客が増えて、町がにぎやかになる",
+        "アニメのファンがいなくなる",
+        "お店が閉まる"
+      ],
+      "correctIndex": 1,
+      "explanation": "「聖地巡礼は、アニメの舞台になった町に良い影響を与えています。例えば、観光客が増えて、お店がにぎやかになります。」",
+      "id": "56afe29f-f217-4626-afe2-6c6f2794dff5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-23-220265558d",
+  "publishedAt": "2026-05-23T06:00:00+09:00"
+}

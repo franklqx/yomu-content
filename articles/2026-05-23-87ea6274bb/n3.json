@@ -1,0 +1,128 @@
+{
+  "title": "和菓子の新しい挑戦：若者も夢中になる秘密",
+  "summary": "伝統的な和菓子が、若い世代にも愛されるようにリブランドされています。その背景には、職人たちの工夫と新しいアイデアがあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔から親しまれてきた和菓子ですが、最近、若い人たちの間で再び注目を集めています。これは、和菓子職人たちが、伝統を守りながらも、見た目や味を現代風にアレンジする「リブランド」に取り組んでいるからです。例えば、カラフルで可愛らしいデザインの和菓子は、SNS映えすることもあり、人気が高まっています。",
+      "translationZh": "自古以来备受喜爱的日式点心，最近在年轻人中再次受到关注。这是因为和菓子职人们在传承传统的同时，也在进行现代化改造（“再品牌化”），在外观和口味上进行创新。例如，色彩鲜艳、造型可爱的和菓子，因为能在社交媒体上吸引眼球，人气也越来越高。",
+      "translationEn": "Traditional Japanese sweets, loved for generations, are recently gaining attention among young people again. This is because Japanese confectioners are undertaking 'rebranding,' modernizing their appearance and taste while preserving tradition. For example, colorful and cute designs are popular, partly because they look good on social media.",
+      "id": "a95465b5-859b-41bf-bce1-27c4afb37240",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "リブランドの背景には、和菓子業界が抱える課題もあります。若い職人が減少し、伝統技術の継承が難しくなっているのです。そのため、新しい顧客層、特に若者を取り込むことが、業界全体の活性化につながると考えられています。職人たちは、新しい素材を使ったり、洋菓子のような感覚で楽しめる商品も開発したりしています。",
+      "translationZh": "再品牌化的背后也存在日式点心行业面临的课题。年轻职人减少，传统技艺的传承变得困难。因此，吸引新的客户群体，尤其是年轻人，被认为有助于整个行业的振兴。职人们也在尝试使用新食材，或开发可以像西式点心一样享受的商品。",
+      "EnTranslation": "Behind this rebranding are challenges faced by the Japanese confectionary industry. The number of young artisans is decreasing, making it difficult to pass on traditional techniques. Therefore, attracting new customer segments, especially young people, is thought to revitalize the industry. Artisans are using new ingredients and developing products that can be enjoyed with a Western confectionery sensibility.",
+      "id": "2d5222ed-265d-4550-bb95-71c8caa83de9",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    },
+    {
+      "text": "もちろん、伝統的な製法や素材へのこだわりも大切にされています。しかし、それだけでは現代の多様なニーズに応えきれないこともあるのです。職人たちは、試行錯誤を繰り返しながら、昔ながらの味と新しい魅力を両立させる方法を探っています。この努力によって、和菓子はさらに多くの人々に愛されるようになるでしょう。",
+      "translationZh": "当然，对传统制作方法和食材的坚持也很重要。但是，仅仅如此有时也无法满足现代社会多样化的需求。职人们在反复试验中，摸索着能够兼顾传统风味和新魅力的途径。通过这些努力，日式点心将会受到更多人的喜爱。",
+      "EnTranslation": "Of course, dedication to traditional methods and ingredients is also valued. However, relying solely on them may not meet diverse modern needs. Through trial and error, confectioners are seeking ways to balance classic flavors with new appeal. This effort will likely make Japanese sweets loved by even more people.",
+      "id": "5571158a-1386-42d7-b7c4-a26d4be1505c",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese traditional confections",
+      "level": "n3",
+      "exampleSentence": "この店では、季節ごとの和菓子が楽しめます。",
+      "id": "693c23bb-f52b-4d55-a5c2-9be898099c90"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，职人",
+      "meaningEn": "craftsman, artisan",
+      "level": "n3",
+      "exampleSentence": "彼は熟練した職人として有名です。",
+      "id": "d57b33dd-3d1d-4af3-898d-e8ec29ce8c7c"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻群体，年轻人",
+      "meaningEn": "young generation, young people",
+      "level": "n3",
+      "exampleSentence": "若年層向けの新しい商品開発が進んでいます。",
+      "id": "d63e4812-50c4-4bd2-83f2-c8b98a47188c"
+    },
+    {
+      "word": "リブランド",
+      "reading": "りぶらんど",
+      "meaningZh": "再品牌化，品牌重塑",
+      "meaningEn": "rebranding",
+      "level": "n3",
+      "exampleSentence": "古いブランドをリブランドして、イメージを一新しました。",
+      "id": "c06a2904-4e61-4187-ba15-60dc48bbf47e"
+    },
+    {
+      "word": "現代風",
+      "reading": "げんだいふう",
+      "meaningZh": "现代风格",
+      "meaningEn": "modern style",
+      "level": "n3",
+      "exampleSentence": "このデザインは現代風でとてもおしゃれです。",
+      "id": "9d41f0ef-7062-4af0-b774-bd07e8cf9d13"
+    },
+    {
+      "word": "SNS映え",
+      "reading": "エスエヌエスばえ",
+      "meaningZh": "在社交媒体上好看/受欢迎",
+      "meaningEn": "looks good on social media, photogenic for social media",
+      "level": "n3",
+      "exampleSentence": "このケーキはSNS映えするので、若い女性に人気だ。",
+      "id": "9b128edd-17c5-4e22-abb0-1f33af9b6e9a"
+    },
+    {
+      "word": "継承",
+      "reading": "けいしょう",
+      "meaningZh": "继承，传承",
+      "meaningEn": "inheritance, succession",
+      "level": "n3",
+      "exampleSentence": "伝統技術の継承は、多くの伝統産業にとって重要な課題です。",
+      "id": "520c770c-5b7e-40da-bebd-5abd906bada1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "和菓子が若い世代に注目されている主な理由は何ですか？",
+      "options": [
+        "昔ながらの味が再評価されているから",
+        "職人たちが現代風にアレンジするリブランドに取り組んでいるから",
+        "価格が安くなったから",
+        "海外で人気が出たから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文によると、「和菓子職人たちが、伝統を守りながらも、見た目や味を現代風にアレンジする「リブランド」に取り組んでいるからです。」と説明されています。",
+      "id": "46f818b4-8e53-4f6d-b014-1cc74f13fd00"
+    },
+    {
+      "question": "和菓子業界がリブランドに取り組む背景として、どのような課題が挙げられていますか？",
+      "options": [
+        "新しい味の開発が追いつかないこと",
+        "職人の高齢化と後継者不足",
+        "海外からの競争が激化していること",
+        "材料費が高騰していること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「若い職人が減少し、伝統技術の継承が難しくなっているのです。」とあり、これがリブランドの背景にある課題として説明されています。",
+      "id": "4b2ffd2a-17b0-40d6-840a-8a8a185481e4"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-23-87ea6274bb",
+  "publishedAt": "2026-05-23T06:00:00+09:00"
+}

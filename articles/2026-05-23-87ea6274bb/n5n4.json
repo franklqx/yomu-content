@@ -1,0 +1,114 @@
+{
+  "title": "新しい和菓子、若い人にも人気",
+  "summary": "昔ながらの和菓子が、新しいデザインで若者にも人気が出てきました。和菓子職人の工夫が理由です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の伝統的なお菓子、和菓子があります。昔から、お年寄りがよく食べました。しかし、最近、若い人にも和菓子が人気です。これは、和菓子職人たちの新しい考え方のためです。",
+      "translationZh": "日本有一种传统的点心，叫做和菓子。过去，老年人经常吃。但是，最近，和菓子在年轻人中也很受欢迎。这是因为和菓子师傅们有了新的想法。",
+      "translationEn": "There are traditional Japanese sweets called wagashi. In the past, elderly people often ate them. However, recently, wagashi have become popular among young people too. This is because of the new ideas of wagashi artisans.",
+      "id": "cf595ae9-3a47-41f0-a638-89c730c1e972",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "和菓子職人は、和菓子の形や味を新しくしました。例えば、かわいい動物の形をした和菓子があります。また、抹茶だけでなく、いちごやチョコレートの味も人気です。見た目がきれいなので、写真も撮りたくなります。",
+      "translationZh": "和菓子师傅们更新了和菓子的形状和口味。例如，有可爱动物形状的和菓子。此外，除了抹茶，草莓和巧克力口味也很受欢迎。因为外观很漂亮，所以人们也想拍照。",
+      "translationEn": "Wagashi artisans have updated the shapes and flavors of wagashi. For example, there are wagashi shaped like cute animals. Also, besides matcha, strawberry and chocolate flavors are popular. Because they look beautiful, people want to take pictures.",
+      "id": "c9614e42-3bbd-4a12-b10e-4d9f63672e15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店も、若い人が入りやすいように変えました。明るい色で店を飾ったり、SNSで宣伝したりしています。だから、たくさんの若い人が和菓子を買いに来ます。和菓子がもっと好きになる人が増えています。",
+      "translationZh": "商店也改变了，让年轻人更容易进入。他们用明亮的颜色装饰店面，并在社交媒体上进行宣传。因此，许多年轻人前来购买和菓子。喜欢和菓子的人正在增加。",
+      "translationEn": "Shops have also changed to make them easier for young people to enter. They decorate shops with bright colors and advertise on social media. Therefore, many young people come to buy wagashi. The number of people who come to like wagashi is increasing.",
+      "id": "30fcb469-ebe2-45b1-b9b4-e9445ce0cb3a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese traditional sweets",
+      "level": "n5n4",
+      "exampleSentence": "この和菓子はとてもきれいです。",
+      "id": "5a54ed5a-e2ad-4b7d-aa2d-0fba6552e85b"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，师傅",
+      "meaningEn": "artisan, craftsman",
+      "level": "n3",
+      "exampleSentence": "彼は有名なパン職人です。",
+      "id": "785485e1-bbc0-449e-805d-1bbe3d5d4721"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "87f61891-ff43-4351-8b56-c09b0dfe4202"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手は学生に人気があります。",
+      "id": "51bf501c-598f-4cd9-8135-c92e2a7e8ca6"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，巧妙办法",
+      "meaningEn": "ingenuity, idea",
+      "level": "n3",
+      "exampleSentence": "新しい工夫で問題を解決しました。",
+      "id": "81247374-e9ea-4b59-a271-6baaf0e8632e"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n3",
+      "exampleSentence": "これは伝統的な日本の家です。",
+      "id": "cccba560-4f0b-4598-8316-e7d34005fb98"
+    },
+    {
+      "word": "宣伝",
+      "reading": "せんでん",
+      "meaningZh": "宣传",
+      "meaningEn": "advertisement, promotion",
+      "level": "n3",
+      "exampleSentence": "お店の新しい宣伝をしました。",
+      "id": "c685bfee-e079-4e94-8e6b-89d2d49cd353"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ最近、若い人の間で和菓子が人気ですか？",
+      "options": [
+        "和菓子が安くなったからです。",
+        "和菓子職人が和菓子を新しくしたからです。",
+        "昔のお菓子がなくなったからです。",
+        "お年寄りが和菓子を食べなくなったからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "和菓子職人は、和菓子の形や味を新しくしました。例えば、かわいい動物の形をした和菓子があります。また、抹茶だけでなく、いちごやチョコレートの味も人気です。見た目がきれいなので、写真も撮りたくなります。",
+      "id": "d3544b1d-fad6-4d8d-80e6-dad122b14525"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-23-87ea6274bb",
+  "publishedAt": "2026-05-23T06:00:00+09:00"
+}
