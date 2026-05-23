@@ -1,0 +1,135 @@
+{
+  "title": "学校体育館、地域に開放！新しい試み始まる",
+  "summary": "少子化で使われなくなった学校の体育館を、地域住民が利用できるようにする実験が始まりました。これにより、地域活性化が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、いくつかの学校で、地域住民が学校の体育館を借りられる「地域開放実験」が始まりました。これは、少子化で児童数が減り、体育館の利用時間が減った学校施設を有効活用しようという動きです。平日の放課後や週末に、地域のスポーツクラブやサークルが体育館で活動できるようになります。これにより、住民は手軽に運動できる場を見つけられるでしょう。",
+      "translationZh": "最近，一些学校开始进行“地区开放实验”，允许地区居民租用学校体育馆。这是为了有效利用因少子化导致学生人数减少、体育馆使用时间缩短的学校设施而采取的举措。平日放学后和周末，地区的体育俱乐部和社团可以在体育馆进行活动。通过此举，居民可以找到方便进行体育活动的场所。",
+      "translationEn": "Recently, a 'community opening experiment' has started in several schools, allowing local residents to rent school gymnasiums. This is a move to effectively utilize school facilities that have seen reduced usage time due to declining student numbers caused by the low birthrate. Local sports clubs and circles will be able to use the gymnasiums after school on weekdays and on weekends. This will enable residents to easily find places for physical activities.",
+      "id": "184af990-4ba4-4adf-82c6-4b9be855f32c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験の目的は、単に体育館を貸し出すだけではありません。地域住民が学校に親しみを持つきっかけを作り、学校と地域とのつながりを深めることも目指しています。例えば、親子で参加できるスポーツ教室を開けば、子供たちは学校への愛着を深め、保護者は学校の様子を知る機会を得られます。このように、地域住民と学校が互いに協力し合うことで、より良い地域社会が作られると考えられています。",
+      "translationZh": "这项实验的目的不仅仅是简单地出租体育馆。它还旨在为地区居民提供一个亲近学校的机会，并加深学校与地区之间的联系。例如，如果举办亲子体育课程，孩子们可以加深对学校的喜爱，而家长则有机会了解学校的情况。这样，通过地区居民和学校的相互合作，就能构建一个更美好的地区社会。",
+      "translationEn": "The purpose of this experiment is not just to rent out gymnasiums. It also aims to create opportunities for local residents to become familiar with schools and deepen the connection between schools and the community. For instance, by holding sports classes that parents and children can participate in together, children can develop a greater attachment to their school, and parents can gain opportunities to learn about the school's environment. In this way, it is believed that a better community can be built through mutual cooperation between local residents and schools.",
+      "id": "178ddde7-06cd-44f9-bb92-07d629684101",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、運営には課題もあります。施設の管理や安全確保、利用料の設定など、検討すべき点は多いです。しかし、少子高齢化が進む中で、学校施設を地域で共有することは、今後の地域社会にとって非常に重要な取り組みになるでしょう。うまく進めば、他の地域にも広がる可能性を秘めています。",
+      "translationZh": "当然，运营也存在一些课题。设施管理、安全保障、使用费的设定等，有很多需要考虑的地方。但是，在少子高龄化不断推进的背景下，学校设施的地区共享，对今后的地区社会来说将是非常重要的举措。如果顺利推进，将有潜力推广到其他地区。",
+      "translationEn": "Of course, there are challenges in managing this initiative. There are many points to consider, such as facility management, ensuring safety, and setting usage fees. However, amidst advancing low birthrates and an aging population, sharing school facilities within the community will likely become a very important endeavor for the future of local society. If successful, it holds the potential to spread to other regions.",
+      "id": "1f727138-f97b-49eb-a4e2-2642eb1eec13",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "放課後、体育館で友達とバスケットボールをした。",
+      "id": "62e21a90-b75c-47fa-b798-b8ede7af884c"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "area, region, community",
+      "level": "n5n4",
+      "exampleSentence": "この地域は静かで住みやすい。",
+      "id": "ef89458d-2b66-4978-9275-9257cc462596"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, opening up",
+      "level": "n3",
+      "exampleSentence": "美術館が土日も開放されるようになった。",
+      "id": "7e9dbd26-021f-48fd-8527-dc855eb60d67"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入する前に、まず実験を行う。",
+      "id": "7f35b83d-9356-4626-a920-153c02a399ca"
+    },
+    {
+      "word": "少子化",
+      "reading": "しょうしか",
+      "meaningZh": "少子化（生育率低导致儿童人口减少）",
+      "meaningEn": "declining birthrate",
+      "level": "n3",
+      "exampleSentence": "少子化の影響で、多くの小学校が統合された。",
+      "id": "e9dc1e70-6141-48bb-96f5-4e6ef40c9c48"
+    },
+    {
+      "word": "有効活用",
+      "reading": "ゆうこうかつよう",
+      "meaningZh": "有效利用",
+      "meaningEn": "effective utilization",
+      "level": "n3",
+      "exampleSentence": "空き家を有効活用する方法を考えなければならない。",
+      "id": "032de87e-d626-4fea-a722-9122497b5993"
+    },
+    {
+      "word": "親しみ",
+      "reading": "したしみ",
+      "meaningZh": "亲近，亲切感",
+      "meaningEn": "familiarity, friendliness",
+      "level": "n3",
+      "exampleSentence": "新しい先生に親しみを感じた。",
+      "id": "59922820-a9b7-41a4-a699-20f4f94480b2"
+    },
+    {
+      "word": "少子高齢化",
+      "reading": "しょうしこうれいか",
+      "meaningZh": "少子高龄化（儿童减少，老年人增多）",
+      "meaningEn": "declining birthrate and aging population",
+      "level": "n2n1",
+      "exampleSentence": "少子高齢化は日本の大きな社会問題だ。",
+      "id": "b14096d0-7787-472b-8eeb-59ae45a82415"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校体育館の地域開放実験は何のために行われていますか？",
+      "options": [
+        "地域住民に新しいスポーツを教えるため",
+        "学校の体育館を地域住民が利用できるようにするため",
+        "子供たちに地域との交流を促すため",
+        "学校の運営費を稼ぐため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第一段落に「地域住民が学校の体育館を借りられる『地域開放実験』が始まりました」とあります。",
+      "id": "fb286ad6-699d-4ce2-86ff-fe60047a18b4"
+    },
+    {
+      "question": "この実験が目指していることの一つは何ですか？",
+      "options": [
+        "地域住民が学校の先生になること",
+        "子供たちが学校に飽きないようにすること",
+        "学校と地域とのつながりを深めること",
+        "地域住民の健康診断を行うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "第二段落に「地域住民が学校に親しみを持つきっかけを作り、学校と地域とのつながりを深めることも目指しています」とあります。",
+      "id": "d8e8825d-645f-441f-a8ec-6983b433aa3a"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-24-124842a915",
+  "publishedAt": "2026-05-24T06:00:00+09:00"
+}

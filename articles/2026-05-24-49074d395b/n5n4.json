@@ -1,0 +1,131 @@
+{
+  "title": "ひな祭りの甘い誘惑",
+  "summary": "ひな祭りには、かわいい和菓子がたくさんあります。最近、若い人たちも和菓子に興味を持っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "3月3日はひな祭りです。この日は、女の子の健やかな成長を願うお祭りです。ひな人形を飾って、お祝いをします。",
+      "translationZh": "3月3日是女儿节。这一天是祈愿女孩子健康成长的节日。人们会摆放雏人形来庆祝。",
+      "translationEn": "March 3rd is Hinamatsuri. This is a festival to wish for the healthy growth of girls. People decorate Hina dolls and celebrate.",
+      "id": "dc731044-3a45-45aa-8148-a0b02dbc5004",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ひな祭りの時、特別な和菓子を食べます。菱餅（ひしもち）やひなあられは有名です。色がきれいで、見ているだけでも楽しいです。",
+      "translationZh": "女儿节的时候，会吃特别的和菓子。菱饼和女儿节霰很有名。颜色很漂亮，光是看着就觉得开心。",
+      "translationEn": "During Hinamatsuri, special Japanese sweets are eaten. Hishimochi and hinaarare are famous. The colors are beautiful, and it's fun just to look at them.",
+      "id": "19f9bc8b-ef47-4be8-aee5-c41560c75dba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、若い世代の間で、和菓子が人気になっています。SNSでかわいい和菓子の写真がたくさん見られます。昔ながらのお菓子だけでなく、新しいデザインのものも登場しています。",
+      "translationZh": "最近，在年轻一代中，和菓子变得很受欢迎。在社交媒体上可以看到很多可爱的和菓子照片。不仅有传统的点心，也出现了新设计的点心。",
+      "translationEn": "Recently, Japanese sweets have become popular among the younger generation. Many pictures of cute Japanese sweets can be seen on social media. Not only traditional sweets but also new designs are appearing.",
+      "id": "b5a118d1-eba7-4cc4-9be3-ab0e38c7a283",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ひな祭りの和菓子は、見た目も味も楽しめます。子供だけでなく、大人も一緒に楽しむことができます。これからも、日本の伝統的なお菓子が大切にされるといいですね。",
+      "translationZh": "女儿节的和菓子，在外观和味道上都可以享受到。不仅是孩子，大人也可以一起享受。今后，希望日本的传统点心能被珍惜。",
+      "translationEn": "Hinamarutsu sweets can be enjoyed for both their appearance and taste. Not only children but also adults can enjoy them together. It would be nice if traditional Japanese sweets continue to be cherished.",
+      "id": "48b4d8bb-477d-4f9b-aa63-36b1f0258c00",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "成長",
+      "reading": "せいちょう",
+      "meaningZh": "成长",
+      "meaningEn": "growth",
+      "level": "n5n4",
+      "exampleSentence": "子供の成長は早いです。",
+      "id": "baef2d47-62a3-459b-a378-a9d798817ec4"
+    },
+    {
+      "word": "願う",
+      "reading": "ねがう",
+      "meaningZh": "祈愿，愿望",
+      "meaningEn": "to wish, to hope",
+      "level": "n5n4",
+      "exampleSentence": "平和を願います。",
+      "id": "490ec889-9770-4166-9fab-9de4e565df23"
+    },
+    {
+      "word": "飾る",
+      "reading": "かざる",
+      "meaningZh": "装饰",
+      "meaningEn": "to decorate",
+      "level": "n5n4",
+      "exampleSentence": "部屋を花で飾りました。",
+      "id": "de60ac71-0ea9-4160-9533-3e50e4919177"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "2da23adf-0693-4831-a3c1-257c8ca14ae6"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "この店は有名です。",
+      "id": "6b335b7c-c203-4f3c-ac9c-9c3c6ff810bf"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "代，世代",
+      "meaningEn": "generation",
+      "level": "n3",
+      "exampleSentence": "若い世代が活躍しています。",
+      "id": "afe0b702-1a71-4459-bf4a-34370333c9fd"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaningZh": "登场，出现",
+      "meaningEn": "appearance, debut",
+      "level": "n3",
+      "exampleSentence": "新しい商品が登場しました。",
+      "id": "505a4029-cc8d-4167-93c9-fdaa93fd095c"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要，珍惜",
+      "meaningEn": "important, precious",
+      "level": "n5n4",
+      "exampleSentence": "家族は私にとって大切です。",
+      "id": "dde1cdf5-54de-4f6e-b584-02346df9838f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ひな祭りの和菓子で有名なものは何ですか？",
+      "options": [
+        "ケーキとクッキー",
+        "菱餅とひなあられ",
+        "チョコレートとキャンディー",
+        "アイスクリームとプリン"
+      ],
+      "correctIndex": 1,
+      "explanation": "「ひな祭りの時、特別な和菓子を食べます。菱餅（ひしもち）やひなあられは有名です。」",
+      "id": "f491496c-24b6-404c-9fbb-e27b6e5cfc3e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-24-49074d395b",
+  "publishedAt": "2026-05-24T06:00:00+09:00"
+}

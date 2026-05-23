@@ -1,0 +1,122 @@
+{
+  "title": "体育館、みんなの場所！",
+  "summary": "学校の体育館が地域の人にも開放される実験が始まりました。たくさんの人が利用しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、学校の体育館が地域の人にも開放されています。これは新しい実験です。昔は学校の施設は生徒だけのものでした。",
+      "translationZh": "最近，学校的体育馆也向社区居民开放了。这是一个新的实验。以前学校的设施只有学生可以使用。",
+      "translationEn": "Recently, the school gymnasium has been opened to community members. This is a new experiment. In the past, school facilities were only for students.",
+      "id": "09e9b8ef-e6a9-4f64-98b5-867c4ebf20bd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験では、放課後や休日に、地域の人々が体育館でスポーツをします。例えば、バドミントンをしたり、バスケットボールをしたりします。子供たちも大人も楽しそうです。",
+      "translationZh": "在这个实验中，放学后和节假日，社区居民会在体育馆进行体育活动。比如，打羽毛球，打篮球。孩子们和大人看起来都很开心。",
+      "translationEn": "In this experiment, people from the community play sports in the gymnasium after school and on holidays. For example, they play badminton or basketball. Both children and adults seem to be enjoying it.",
+      "id": "0b3ae13c-bb6a-4888-8156-8db3ca8fab92",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域の人々が学校に来ることは、とても良いことだと思います。地域の人と生徒が会う機会が増えます。学校がもっと地域と近くなるでしょう。",
+      "translationZh": "我觉得社区居民来学校是很棒的事情。社区居民和学生见面的机会增加了。学校会和社区变得更加亲近。",
+      "translationEn": "I think it is very good for community members to come to school. Opportunities for community members and students to meet will increase. The school will become closer to the community.",
+      "id": "25b852a5-c31c-416d-a80a-0e0823a0c57d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験はまだ始まったばかりです。これからどうなるか、みんなで見てみましょう。体育館がみんなの場所になるのは、わくわくしますね。",
+      "translationZh": "这个实验才刚刚开始。让我们一起看看今后会怎样。体育馆成为大家的场所，真是令人兴奋。",
+      "translationEn": "This experiment has just begun. Let's all watch and see what happens next. It's exciting that the gymnasium will become a place for everyone.",
+      "id": "9ff4a2b3-0697-4df4-bb38-5c25c5814e31",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "体育館で運動をしました。",
+      "id": "4dd77529-0384-4270-a0e6-9eabf4c8f157"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "d272c22f-ebe6-4c8e-bd5e-53a6d820fd82"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, open",
+      "level": "n3",
+      "exampleSentence": "図書館が開放されました。",
+      "id": "8c417a76-1934-4b69-b9b8-e608c98f42f3"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい薬の実験をしています。",
+      "id": "f264b8b0-d4dc-4c05-8705-c3d2cf64798f"
+    },
+    {
+      "word": "放課後",
+      "reading": "ほうかご",
+      "meaningZh": "放学后",
+      "meaningEn": "after school",
+      "level": "n5n4",
+      "exampleSentence": "放課後、友達と遊びました。",
+      "id": "f716dc78-ef49-4bbd-ac7a-022c67bfb03e"
+    },
+    {
+      "word": "施設",
+      "reading": "しせつ",
+      "meaningZh": "设施",
+      "meaningEn": "facility",
+      "level": "n3",
+      "exampleSentence": "この公園はたくさんの施設があります。",
+      "id": "5e37be97-1e50-4e5b-9e30-c5115000d994"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity, chance",
+      "level": "n3",
+      "exampleSentence": "日本語を話す機会をください。",
+      "id": "0dedf692-1f6e-4ef5-9ec9-686a107e93a8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館は、誰が利用できるようになりましたか？",
+      "options": [
+        "生徒だけ",
+        "先生だけ",
+        "地域の人々",
+        "卒業生だけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "この実験では、放課後や休日に、地域の人々が体育館でスポーツをします。",
+      "id": "3a725ee2-f10b-4fc6-8eac-80ded89ed937"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-24-124842a915",
+  "publishedAt": "2026-05-24T06:00:00+09:00"
+}
