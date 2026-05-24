@@ -1,0 +1,122 @@
+{
+  "title": "古本屋で文学祭！",
+  "summary": "昔の本がたくさんある町で、文学のお祭りが開かれます。本が好きな人はぜひ来てください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この週末、神保町という町で、特別なイベントがあります。神保町は古い本屋さんがたくさんあることで有名です。その町で、文学のお祭りが開かれます。",
+      "translationZh": "这个周末，在叫做神保町的地方，将要举行一个特别的活动。神保町以有很多旧书店而闻名。那个镇上，将要举办一个文学祭。",
+      "translationEn": "This weekend, there is a special event in a town called Jinbocho. Jinbocho is famous for having many old bookstores. A literary festival will be held in that town.",
+      "id": "0453e8f6-3243-4e93-b561-60dd5976d0a0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お祭りの間、いろいろなイベントがあります。作家さんの話を聞くことができます。また、昔の物語や詩について学ぶことができます。子供向けのプログラムもありますよ。",
+      "translationZh": "祭典期间，会有各种各样的活动。您可以听作家们讲座。另外，还可以学习关于过去的故事和诗歌。也有面向儿童的节目。",
+      "translationEn": "During the festival, there are various events. You can listen to writers talk. Also, you can learn about old stories and poems. There are programs for children too.",
+      "id": "24c3ca0b-6bb7-427e-aae3-f461f5f762fc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古い本を見るのも楽しいです。本屋さんの店員さんが、おすすめの本を紹介してくれます。珍しい本や、昔の雑誌を見つけることができるかもしれません。",
+      "translationZh": "看旧书也很有趣。书店的店员会介绍推荐的书。您也许能找到稀有的书，或是旧的杂志。",
+      "translationEn": "Looking at old books is also fun. Bookstore staff will introduce recommended books. You might be able to find rare books or old magazines.",
+      "id": "5a793f5d-7066-4f84-a49e-5061708ed811",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお祭りは、本が好きな人にとって、とても良い機会です。新しい本との出会いがあるかもしれません。ぜひ、神保町に来てみてください。",
+      "translationZh": "这个祭典，对于喜欢书的人来说，是非常好的机会。您也许会与新书相遇。请务必来神保町看看。",
+      "translationEn": "This festival is a very good opportunity for people who love books. You might encounter new books. Please come and visit Jinbocho.",
+      "id": "fc3ed437-5005-4ff7-ac7a-d7e3c3a670fb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaningZh": "周末",
+      "meaningEn": "weekend",
+      "level": "n5n4",
+      "exampleSentence": "週末は友達と映画を見ました。",
+      "id": "46371acb-3912-43eb-a70f-564ea39e008b"
+    },
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaningZh": "城镇，街道",
+      "meaningEn": "town, street",
+      "level": "n5n4",
+      "exampleSentence": "この町はとてもきれいです。",
+      "id": "09cca1e1-c8ad-424a-bfb6-732c97733b87"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaningZh": "文学",
+      "meaningEn": "literature",
+      "level": "n5n4",
+      "exampleSentence": "文学に興味がありますか。",
+      "id": "978f9fc9-86f3-40cf-971a-cdef484bb368"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaningZh": "作家",
+      "meaningEn": "writer, author",
+      "level": "n5n4",
+      "exampleSentence": "有名な作家の本を読みました。",
+      "id": "75a1273b-920a-40a9-addc-df76fab52287"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この辺に大きな木がありました。",
+      "id": "ffa61f72-005e-45ec-bfdf-334657829af9"
+    },
+    {
+      "word": "紹介",
+      "reading": "しょうかい",
+      "meaningZh": "介绍",
+      "meaningEn": "introduction",
+      "level": "n5n4",
+      "exampleSentence": "先生が新しい学生を紹介しました。",
+      "id": "000a78e5-7f4a-47bd-bafe-79556a2fa434"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n3",
+      "exampleSentence": "この仕事は良い機会です。",
+      "id": "de2d6602-7c29-4fd9-a8b5-2fb77e274f86"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "文学のお祭りはどこで開かれますか？",
+      "options": [
+        "東京",
+        "大阪",
+        "神保町",
+        "京都"
+      ],
+      "correctIndex": 2,
+      "explanation": "この週末、神保町という町で、特別なイベントがあります。",
+      "id": "d01e6631-15a3-4f65-bd92-44bad88cdb6f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-25-3d992dffa8",
+  "publishedAt": "2026-05-25T06:00:00+09:00"
+}

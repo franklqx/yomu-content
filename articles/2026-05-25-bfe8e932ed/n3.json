@@ -1,0 +1,143 @@
+{
+  "title": "週休３日制、導入企業の「本音」とは？",
+  "summary": "最近、週休3日制を試験的に導入する企業が増えています。実際に導入した企業の声を聞いてみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、働き方改革が進む中で、週休3日制を導入する企業が現れました。これは、従業員のワークライフバランスを改善し、生産性を向上させることを目的としています。しかし、実際に導入してみると、良い点もあれば、難しい点もあるようです。",
+      "translationZh": "近年来，随着工作方式改革的推进，出现了引入周休三日制的企业。其目的是改善员工的工作与生活平衡，提高生产效率。然而，在实际引入后，似乎既有好的一面，也有困难的一面。",
+      "translationEn": "In recent years, with the advancement of work style reforms, companies have begun to introduce a three-day weekend system. The aim is to improve employees' work-life balance and increase productivity. However, it seems that there are both advantages and difficulties upon actual implementation.",
+      "id": "24538211-2cb0-4c9b-9f81-be33ec7b5629",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "あるIT企業の担当者は、「社員の満足度は明らかに上がりました。特に、プライベートの時間が充実するようになったという声が多いです。その結果、仕事への集中力が増し、残業時間が減ったという良い循環が生まれています。」と話していました。ただし、業務の進め方については、工夫が必要だとも付け加えていました。",
+      "translationZh": "某IT公司的负责人表示：“员工的满意度明显提高了。特别是，很多人说他们的私人时间变得更加充实。结果，工作集中度提高，加班时间减少，形成了一个良性循环。” 不过，他也补充说，在推进业务方面，需要一些技巧。",
+      "translationEn": "A person in charge at an IT company said, \"Employee satisfaction has clearly increased. In particular, many say their private time has become more fulfilling. As a result, a positive cycle has emerged where concentration on work has increased and overtime hours have decreased.\" However, he added that ingenuity is needed in how work is carried out.",
+      "id": "93306239-176e-4b94-9f22-b2cf6ab8200c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "別の製造業の会社では、週休3日制を導入したものの、生産ラインを止めることができないため、シフト制にするなど、特別な対応が必要になりました。担当者は、「コストが増加しないか心配でしたが、幸い、従業員のモチベーションが上がり、生産効率も改善されたため、大きな問題はありませんでした。これからも、より良い働き方を模索していきたいです。」と語っています。",
+      "translationZh": "另一家制造业公司在引入周休三日制后，由于生产线不能停工，不得不采取了轮班制等特别措施。负责人说：“我曾担心成本会增加，但幸运的是，员工的积极性提高了，生产效率也得到了改善，所以没有大问题。今后也想继续探索更好的工作方式。”",
+      "translationEn": "At another manufacturing company, although they introduced a three-day weekend system, they had to implement special measures such as a shift system because the production line could not be stopped. The person in charge stated, \"I was worried about increased costs, but fortunately, employee motivation rose and production efficiency improved, so there were no major problems. We want to continue exploring better ways of working going forward.\"",
+      "id": "9e6fb2ec-95a2-4a88-b129-eefffef90464",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "週休3日制は、企業や業種によって、その効果や課題が異なります。しかし、従業員の幸福度と企業の生産性向上の両立を目指す動きは、今後も注目されるでしょう。それぞれの会社が、自社に合った最適な働き方を見つけることが重要です。",
+      "translationZh": "周休三日制的效果和课题因企业和行业而异。但是，旨在兼顾员工幸福度和企业生产力提升的举措，今后仍将受到关注。重要的是，各公司都能找到适合自己的最佳工作方式。",
+      "translationEn": "The effectiveness and challenges of a three-day weekend system vary depending on the company and industry. However, the movement to balance employee happiness and corporate productivity is likely to continue attracting attention. It is important for each company to find the optimal working style that suits them.",
+      "id": "a10b92c9-a1fd-4bed-b1c4-47b32838d656",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ワークライフバランス",
+      "reading": "わーくらいふばらんす",
+      "meaningZh": "工作与生活的平衡",
+      "meaningEn": "Work-life balance",
+      "level": "n3",
+      "exampleSentence": "ワークライフバランスを大切にしたいです。",
+      "id": "6123430e-d6ca-4e2d-8424-5cb639010cfc"
+    },
+    {
+      "word": "改善",
+      "reading": "かいぜん",
+      "meaningZh": "改善",
+      "meaningEn": "Improvement",
+      "level": "n3",
+      "exampleSentence": "サービスの改善をお願いします。",
+      "id": "bbc57ca1-1001-4a1b-bd78-97304e79119a"
+    },
+    {
+      "word": "生産性",
+      "reading": "せいさんせい",
+      "meaningZh": "生产性，生产效率",
+      "meaningEn": "Productivity",
+      "level": "n3",
+      "exampleSentence": "生産性を上げるために新しい機械を導入しました。",
+      "id": "c80b4198-55d1-46c3-96f4-e1d37a576b86"
+    },
+    {
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaningZh": "负责人",
+      "meaningEn": "Person in charge",
+      "level": "n3",
+      "exampleSentence": "この件は担当者にご確認ください。",
+      "id": "0023afae-b207-4e34-8b11-c0c2e30b16d4"
+    },
+    {
+      "word": "満足度",
+      "reading": "まんぞくど",
+      "meaningZh": "满意度",
+      "meaningEn": "Satisfaction",
+      "level": "n3",
+      "exampleSentence": "顧客満足度調査を実施しました。",
+      "id": "a0838c41-2806-4d7b-bc61-e2535c332634"
+    },
+    {
+      "word": "集中力",
+      "reading": "しゅうちゅうりょく",
+      "meaningZh": "注意力，集中力",
+      "meaningEn": "Concentration",
+      "level": "n3",
+      "exampleSentence": "会議中は集中力が途切れないように気をつけます。",
+      "id": "556c8eb2-e83d-4d35-8bee-48a4ee53cfe8"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "创造，想办法，技巧",
+      "meaningEn": "Ingenuity, device, effort",
+      "level": "n3",
+      "exampleSentence": "この問題を解決するために、いろいろと工夫しました。",
+      "id": "38a80c92-dcf2-4346-808f-0a96e2d7cbb4"
+    },
+    {
+      "word": "業種",
+      "reading": "ぎょうしゅ",
+      "meaningZh": "行业",
+      "meaningEn": "Industry",
+      "level": "n3",
+      "exampleSentence": "彼は様々な業種で経験を積んできた。",
+      "id": "576d60f7-f5dc-480d-b5d1-aa5fa888a1b9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "IT企業では、週休3日制を導入した結果、どのような良い変化がありましたか？",
+      "options": [
+        "残業時間が増えた",
+        "社員の不満が高まった",
+        "仕事への集中力が増し、残業時間が減った",
+        "ワークライフバランスが悪化した"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「仕事への集中力が増し、残業時間が減ったという良い循環が生まれています。」と書かれています。",
+      "id": "e3b73432-e1fa-4d60-a671-ae9e9dcc6336"
+    },
+    {
+      "question": "製造業の会社が週休3日制を導入するにあたり、どのような特別な対応が必要でしたか？",
+      "options": [
+        "生産ラインを増設した",
+        "シフト制を導入した",
+        "従業員を増員した",
+        "全員リモートワークにした"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「生産ラインを止めることができないため、シフト制にするなど、特別な対応が必要になりました。」と書かれています。",
+      "id": "ac2bdd49-6a7e-49e2-bbd9-9f9901c4a97c"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-25-bfe8e932ed",
+  "publishedAt": "2026-05-25T06:00:00+09:00"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "ドローンで荷物を届けます",
+  "summary": "最近、ドローンで荷物を運ぶ実験が始まりました。これは新しい配送方法です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でドローンを使った荷物の配送実験が始まりました。ドローンは空を飛ぶ小さな飛行機です。この実験では、ドローンが安全に荷物を届けることができるか見ています。",
+      "translationZh": "最近，日本开始了使用无人机配送货物的实验。无人机是一种在天上飞的小型飞机。这次实验正在观察无人机是否能安全地送达货物。",
+      "translationEn": "Recently, an experiment to deliver packages using drones has started in Japan. A drone is a small airplane that flies in the sky. This experiment is observing whether drones can deliver packages safely.",
+      "id": "93d33e01-2626-4ffc-9606-1d420a72bea4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい配送方法は、とても便利になるかもしれません。山や遠い島など、車で行くのが難しい場所にも荷物を届けられます。また、急いでいる時にも早く届けることができます。",
+      "translationZh": "这种新的配送方式可能会变得非常方便。即使是山地或遥远的岛屿等汽车难以到达的地方，也能送达货物。另外，在紧急情况下也能快速送达。",
+      "translationEn": "This new delivery method might become very convenient. It can deliver packages to places that are difficult to reach by car, such as mountains or remote islands. It can also deliver quickly when in a hurry.",
+      "id": "72a6a7bc-653c-4ecb-92e9-f940bce2065a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、まだ課題もあります。天気が悪い時や、たくさんの荷物を一度に運ぶのは難しいです。これからも、もっと安全に、たくさんの場所へ届けられるように研究が進むでしょう。",
+      "translationZh": "但是，仍然存在一些挑战。天气不好时，或者一次运送很多货物是很困难的。今后，为了能更安全地将货物送到更多地方，研究将会继续进行。",
+      "translationEn": "However, there are still challenges. It is difficult to operate when the weather is bad or to carry many packages at once. In the future, research will likely continue to enable safer and wider deliveries.",
+      "id": "816d9acd-2854-497b-8149-ae74cbf351e9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンが空を飛んでいます。",
+      "id": "4acf6918-8445-4e10-aa93-15920a7078b9"
+    },
+    {
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaningZh": "行李，货物",
+      "meaningEn": "luggage, package",
+      "level": "n5n4",
+      "exampleSentence": "大きな荷物を持っています。",
+      "id": "99139fa2-3690-48d0-ba35-ab2096b3b24e"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n5n4",
+      "exampleSentence": "この会社は配送が早いです。",
+      "id": "d26793d4-d774-4aae-9ae1-4e196b9dca46"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術の実験をしています。",
+      "id": "26599a2b-7fe3-4480-8a2d-eca2344f40d3"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "スマホはとても便利です。",
+      "id": "b09404d8-a021-48d3-a7ac-4e9af748890a"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，挑战",
+      "meaningEn": "task, challenge",
+      "level": "n5n4",
+      "exampleSentence": "この問題は大きな課題です。",
+      "id": "dc770a60-4051-48f7-b89e-0f7248397696"
+    },
+    {
+      "word": "研究",
+      "reading": "けんきゅう",
+      "meaningZh": "研究",
+      "meaningEn": "research",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の研究をしています。",
+      "id": "bd81aaf3-75aa-4815-a1e9-fc481c06aa42"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実験は何のためですか？",
+      "options": [
+        "もっと速く荷物を運ぶため",
+        "ドローンを飛ばす練習のため",
+        "安全に荷物を届けられるか見るため",
+        "新しいドローンを作るため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「この実験では、ドローンが安全に荷物を届けることができるか見ています。」と書いてあります。",
+      "id": "52855fbc-ec77-4e3f-a1de-e46cdd3540e9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-25-236f9e90bb",
+  "publishedAt": "2026-05-25T06:00:00+09:00"
+}

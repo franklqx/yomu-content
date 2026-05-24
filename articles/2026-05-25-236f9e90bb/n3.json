@@ -1,0 +1,143 @@
+{
+  "title": "ドローン配送、未来の買い物風景？",
+  "summary": "最近、ドローンを使った商品の配達実験が各地で行われています。これは、私たちの生活をどう変えるのでしょうか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でもドローンを使った商品の配達実験が、いくつかの地域で進められています。これは、空を飛ぶ小さな飛行機（ドローン）が、注文された商品を直接、私たちの家まで届けるという新しい試みです。特に、人手が足りない場所や、急いで商品が必要な場合に役立つと考えられています。例えば、遠く離れた島や山間部への物資輸送に期待が寄せられています。",
+      "translationZh": "最近，在日本，使用无人机配送商品的实验也在一些地区推进。这是一种新的尝试，即小型飞行器（无人机）将订购的商品直接送到我们家中。特别是在人手不足的地区或急需商品的情况下，它被认为会很有用。例如，人们期待它能用于向偏远的岛屿或山区运送物资。",
+      "translationEn": "Recently, experimental delivery of products using drones has been proceeding in several regions in Japan. This is a new initiative where small aircraft (drones) deliver ordered goods directly to our homes. It is particularly considered useful in areas with labor shortages or when goods are needed urgently. For example, expectations are high for its use in transporting supplies to remote islands and mountainous areas.",
+      "id": "29901e8c-51c7-4c80-9811-21e805b8014d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送が実現すれば、私たちはもっと便利に買い物ができるようになるでしょう。例えば、オンラインで注文した食料品や薬が、数十分で届くようになるかもしれません。しかし、安全な飛行のためには、まだ解決しなければならない課題もたくさんあります。天候の影響を受けやすいことや、プライバシーの問題、そして万が一、事故が起きた場合の責任問題などです。だから、実証実験を繰り返しながら、安全性を高めていくことが大切です。",
+      "translationZh": "如果无人机配送得以实现，我们将能更方便地购物。例如，在线订购的食品或药品可能在几十分钟内送达。然而，为了安全飞行，还有许多问题需要解决。例如，容易受天气影响、隐私问题，以及万一发生事故时的责任问题。因此，在反复进行实证实验的同时，提高安全性非常重要。",
+      "translationEn": "If drone delivery becomes a reality, we will likely be able to shop more conveniently. For instance, groceries or medicines ordered online might arrive within tens of minutes. However, there are still many issues to resolve for safe flight. These include susceptibility to weather conditions, privacy concerns, and liability issues in case of accidents. Therefore, it is important to enhance safety while repeating demonstration experiments.",
+      "id": "506fa850-ef3d-4fbb-a795-72c27118efbe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、ドローンが安全に荷物を運ぶためには、AI（人工知能）の技術も重要になってきます。AIは、障害物を避けたり、最適なルートを選んだりするのに役立ちます。ながら運転のように、周囲に注意を払いながら、安全に目的地までたどり着けるように、AIがドローンをサポートしてくれるのです。この技術が進歩すれば、ドローン配送はもっと身近なものになるでしょう。",
+      "translationZh": "此外，为了让无人机安全地运送货物，AI（人工智能）技术也变得重要起来。AI有助于避开障碍物和选择最佳路线。就像一边驾驶一边注意周围一样，AI会支持无人机，使其能够安全地到达目的地。随着这项技术的发展，无人机配送将变得更加触手可及。",
+      "translationEn": "Furthermore, AI (Artificial Intelligence) technology is becoming crucial for drones to transport goods safely. AI helps in avoiding obstacles and selecting optimal routes. Just as one pays attention to their surroundings while driving, AI supports the drone to safely reach its destination. As this technology advances, drone delivery will become more commonplace.",
+      "id": "c72afa69-c44b-4d10-8bf1-4ded427d6f90",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送は、まだ発展途上の技術ですが、私たちの生活をより便利で豊かにする可能性を秘めています。今後、どのようなサービスが登場し、私たちの日常生活にどのような影響を与えるのか、注目していく必要があるでしょう。もしかしたら、数年後には、空から商品が届くのが当たり前になっているかもしれませんね。",
+      "translationZh": "无人机配送仍是一项发展中的技术，但它蕴含着使我们生活更便捷、更丰富的潜力。今后，我们应该关注将会出现什么样的服务，以及它们将对我们的日常生活产生何种影响。也许，几年后，商品从空中送达将成为常态。",
+      "translationEn": "Drone delivery is still a developing technology, but it holds the potential to make our lives more convenient and enriched. Moving forward, we should pay attention to what kinds of services will emerge and how they will impact our daily lives. Perhaps in a few years, receiving goods from the sky will be commonplace.",
+      "id": "b00622af-de18-4466-b6ad-9f41bd5e04c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n3",
+      "exampleSentence": "最近、ドローンで空撮をする人が増えています。",
+      "id": "d2cae850-4289-4ef9-9b96-2c5844710228"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n3",
+      "exampleSentence": "この荷物は明日配送されます。",
+      "id": "831a5cd9-f27f-4ca3-8cb9-4e297066db80"
+    },
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "实证实验，验证实验",
+      "meaningEn": "demonstration experiment",
+      "level": "n3",
+      "exampleSentence": "新しいシステムの実証実験が行われた。",
+      "id": "a2daa991-4bed-4d86-80cb-8181b3f608e5"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "この工場は深刻な人手不足に悩んでいる。",
+      "id": "5590c67b-56de-4d44-ba81-9a355b871a85"
+    },
+    {
+      "word": "期待が寄せられる",
+      "reading": "きたいがよせられる",
+      "meaningZh": "寄予厚望，被寄予期待",
+      "meaningEn": "to be expected, to place hopes on",
+      "level": "n3",
+      "exampleSentence": "この新技術には大きな期待が寄せられている。",
+      "id": "990e48fe-e119-45df-9e66-6d5e3d78fe55"
+    },
+    {
+      "word": "プライバシー",
+      "reading": "ぷらいばしー",
+      "meaningZh": "隐私",
+      "meaningEn": "privacy",
+      "level": "n3",
+      "exampleSentence": "個人のプライバシーを守ることが大切だ。",
+      "id": "af135508-82c4-4a0b-9387-02acf64985f2"
+    },
+    {
+      "word": "AI（人工知能）",
+      "reading": "エーアイ（じんこうちのう）",
+      "meaningZh": "人工智能",
+      "meaningEn": "Artificial Intelligence (AI)",
+      "level": "n3",
+      "exampleSentence": "AIは様々な分野で活用されている。",
+      "id": "395e5819-fd15-4ebc-83b3-b0e1c0e525f6"
+    },
+    {
+      "word": "発展途上",
+      "reading": "はってんとじょう",
+      "meaningZh": "发展中，未成熟",
+      "meaningEn": "developing, in progress",
+      "level": "n3",
+      "exampleSentence": "この技術はまだ発展途上の段階にある。",
+      "id": "7bb9df05-6b61-43af-8317-96d822ac6dde"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実証実験が行われる理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "ドローンが安く買えるようになったから",
+        "人手が足りない場所や急ぎの商品配達に役立つと考えられているから",
+        "天候に左右されないで配達できるから",
+        "プライバシーの問題が完全に解決されたから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「特に、人手が足りない場所や、急いで商品が必要な場合に役立つと考えられています。」と書かれています。",
+      "id": "ce0a8c4f-dff5-4616-b27e-6e782220773a"
+    },
+    {
+      "question": "ドローン配送が実現する上で、まだ解決すべき課題として挙げられていないものはどれですか？",
+      "options": [
+        "天候の影響",
+        "プライバシーの問題",
+        "ドローンの価格",
+        "事故が起きた場合の責任問題"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「天候の影響を受けやすいことや、プライバシーの問題、そして万が一、事故が起きた場合の責任問題などです。」と書かれていますが、ドローンの価格については触れられていません。",
+      "id": "85861b0a-5d88-43a7-80bc-a8ce23f6e9e4"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-25-236f9e90bb",
+  "publishedAt": "2026-05-25T06:00:00+09:00"
+}

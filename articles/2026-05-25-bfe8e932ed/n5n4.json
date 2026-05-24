@@ -1,0 +1,114 @@
+{
+  "title": "週休３日制、どう？",
+  "summary": "最近、週休３日制を試す会社が増えています。働く人や会社はどう感じているのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本で、週に３日休む会社が増えています。これは「週休３日制」と言います。この制度を試験的に始めた会社があります。働く時間や給料は、会社によって違います。でも、多くの人は喜んでいます。",
+      "translationZh": "在日本，每周休息三天的公司正在增加。这被称为“周休三天制”。有些公司已经开始试验这项制度。工作时间和工资因公司而异。但是，许多人对此感到高兴。",
+      "translationEn": "In Japan, more companies are allowing people to rest three days a week. This is called the 'three-day weekend system'. Some companies have started this system on a trial basis. Working hours and salaries differ depending on the company. However, many people are happy about it.",
+      "id": "76a688ad-1689-40a7-9c59-6f9db1a5bc16",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ある会社では、週休３日制を始めました。社員は「嬉しいです。家族と過ごす時間が増えました。」と言いました。仕事も前より集中してできるようになったそうです。会社も、社員の満足度が上がったと感じています。",
+      "translationZh": "一家公司开始了周休三天制。员工说：“很高兴。和家人一起度过的时间增加了。”他们还说，工作也比以前更集中了。公司也感觉到了员工满意度的提高。",
+      "translationEn": "One company started the three-day weekend system. An employee said, 'I'm happy. I have more time to spend with my family.' They also said they can concentrate more on their work now. The company also feels that employee satisfaction has increased.",
+      "id": "cdde1a4d-dc38-4359-8d33-662be8d44591",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、この制度はまだ試験中です。すべての会社でできるわけではありません。会社によっては、仕事の量が減らないので、大変な場合もあります。それでも、働く人がもっと幸せになるように、色々な方法が考えられています。",
+      "translationZh": "但是，这个制度还在试验阶段。并非所有公司都能实行。根据公司的不同，有时也会很辛苦，因为工作量并没有减少。尽管如此，人们正在考虑各种方法，让工作的人更幸福。",
+      "translationEn": "However, this system is still in its trial period. It cannot be implemented in all companies. Depending on the company, it can be difficult because the amount of work does not decrease. Nevertheless, various methods are being considered to make working people happier.",
+      "id": "dc94b35e-109a-4ed3-9470-604f0be796ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "週休３日制",
+      "reading": "しゅうきゅう３にちせい",
+      "meaningZh": "周休三天制",
+      "meaningEn": "three-day weekend system",
+      "level": "n5n4",
+      "exampleSentence": "この会社は週休３日制を導入しました。",
+      "id": "3bdd949c-4c51-47d5-8f60-aa656b71aafd"
+    },
+    {
+      "word": "試験的",
+      "reading": "しけんてき",
+      "meaningZh": "试验性的",
+      "meaningEn": "trial",
+      "level": "n5n4",
+      "exampleSentence": "この制度は試験的に行われています。",
+      "id": "e6422748-032d-41f7-80b5-e601af2a208b"
+    },
+    {
+      "word": "満足度",
+      "reading": "まんぞくど",
+      "meaningZh": "满意度",
+      "meaningEn": "satisfaction level",
+      "level": "n3",
+      "exampleSentence": "社員の満足度が上がりました。",
+      "id": "c782907f-2abf-4dc9-91f6-f61c9ccde7f7"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度について説明します。",
+      "id": "d13f9a73-ead5-434e-b69a-eb88d8a30ff1"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "导入，引进",
+      "meaningEn": "introduction",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入しました。",
+      "id": "8e219048-2755-47b4-97b4-05f17292037d"
+    },
+    {
+      "word": "集中する",
+      "reading": "しゅうちゅうする",
+      "meaningZh": "集中",
+      "meaningEn": "to concentrate",
+      "level": "n5n4",
+      "exampleSentence": "仕事に集中します。",
+      "id": "228fcb8d-781e-48c5-83c2-a369f70c8e98"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaningZh": "满意",
+      "meaningEn": "satisfaction",
+      "level": "n5n4",
+      "exampleSentence": "この結果に満足しています。",
+      "id": "2e74a364-78de-4972-a273-693b7b5fbb1a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "週休３日制を試験的に始めた会社について、本当のことと違うものはどれですか？",
+      "options": [
+        "社員は喜んでいます。",
+        "働く時間や給料は会社によって違います。",
+        "すべての会社で簡単にできます。",
+        "社員は家族と過ごす時間が増えました。"
+      ],
+      "correctIndex": 2,
+      "explanation": "文章によると、「この制度はまだ試験中です。すべての会社でできるわけではありません。」と書いてあります。だから、すべての会社で簡単にできるというのは間違いです。",
+      "id": "b7d359c3-1a8c-41e1-b65d-f2c233733d8a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-25-bfe8e932ed",
+  "publishedAt": "2026-05-25T06:00:00+09:00"
+}
