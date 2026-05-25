@@ -1,0 +1,123 @@
+{
+  "title": "街のマラソン、もっと多くの人を！",
+  "summary": "たくさんの人が街のマラソンに参加するように、町は色々な工夫をしています。これはとても楽しいイベントです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の町では、マラソン大会をよく開いています。町をきれいに見せたり、町の良いところを知ってもらったりするために、マラソンは良い方法です。しかし、もっとたくさんの人が参加してくれると、町はもっと元気になるでしょう。",
+      "translationZh": "在日本的城镇，经常会举办马拉松比赛。为了展示城镇的美丽，让更多人了解城镇的优点，马拉松是一个好方法。但是，如果能有更多人参加，城镇就会变得更加有活力。",
+      "translationEn": "In Japanese towns, marathon events are often held. Marathons are a good way to show the beauty of the town and to let people know its good points. However, if more people participate, the town will become more lively.",
+      "id": "fd975e68-28ac-4c97-9391-e8ea05c27e69",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、町はランナーを増やすための工夫を考えました。例えば、参加費を安くしたり、特別なプレゼントを用意したりします。また、子供や初心者でも走りやすい短いコースを作ることもあります。家族みんなで楽しめるように工夫しています。",
+      "translationZh": "因此，城镇想出了增加跑者数量的方法。例如，降低报名费，或者准备特别的礼物。此外，有时也会设置适合儿童和初学者轻松跑完的短距离赛道。这是为了让全家人都能享受比赛的乐趣。",
+      "translationEn": "Therefore, towns have come up with ideas to increase the number of runners. For example, they make participation fees cheaper or prepare special gifts. Also, sometimes they create short courses that are easy for children and beginners to run. They try to make it enjoyable for the whole family.",
+      "id": "06f986e7-12c6-4d90-bbdc-b55f94080c6e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人たちも、ランナーを応援します。沿道で「頑張って！」と声をかけたり、手作りの応援グッズを配ったりします。町全体でマラソンを盛り上げようとしています。このような努力で、たくさんのランナーが町のマラソンに来てくれることを願っています。",
+      "translationZh": "镇上的居民也为跑者加油。在赛道旁呼喊“加油！”，或者分发手工制作的加油道具。整个城镇都在努力让马拉松变得更加热闹。通过这些努力，希望能够吸引更多的跑者来到城镇的马拉松比赛。",
+      "translationEn": "The townspeople also cheer for the runners. They shout \"Ganbatte!\" (Do your best!) along the course or hand out handmade cheering goods. The entire town is trying to liven up the marathon. With these efforts, they hope to attract many runners to the town's marathon.",
+      "id": "21ba3f56-44d9-40cd-a40e-3b26d50e4a7a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "マラソン",
+      "reading": "まらそん",
+      "meaningZh": "马拉松",
+      "meaningEn": "marathon",
+      "level": "n5n4",
+      "exampleSentence": "彼はマラソンを走るのが好きです。",
+      "id": "d3df2981-83fa-48e6-9580-32ccd74a7a1c"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "多くの人がパーティーに参加しました。",
+      "id": "7bb4b8c1-4311-4856-a953-ac397566bbe8"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法；创造；改进",
+      "meaningEn": "device; invention; effort; ingenuity",
+      "level": "n3",
+      "exampleSentence": "この問題のために、新しい工夫が必要です。",
+      "id": "0b814827-3ee4-4631-9342-71e88f6cfad5"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "47d08d4d-da62-4ce8-bfab-4956030484ea"
+    },
+    {
+      "word": "初心者",
+      "reading": "しょしんしゃ",
+      "meaningZh": "初学者；新手",
+      "meaningEn": "beginner",
+      "level": "n3",
+      "exampleSentence": "彼は日本語の初心者です。",
+      "id": "be078162-4d0e-48c5-b3b3-22b47197e006"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety",
+      "level": "n5n4",
+      "exampleSentence": "安全な場所で遊びましょう。",
+      "id": "5d2927cd-f119-4f12-9170-d63c3eee9182"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "应援；支持",
+      "meaningEn": "cheering; support",
+      "level": "n5n4",
+      "exampleSentence": "友達の試合を応援に行きました。",
+      "id": "7b212ef8-833b-418f-9bf4-61065cfa1f7e"
+    },
+    {
+      "word": "元気に",
+      "reading": "げんきに",
+      "meaningZh": "精神饱满地；充满活力地",
+      "meaningEn": "energetically; with spirit",
+      "level": "n5n4",
+      "exampleSentence": "子供たちは元気に遊んでいます。",
+      "id": "fa803f27-f074-475f-9c85-7f37038d17f7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "町はランナーを増やすために、どんなことをしましたか。",
+      "options": [
+        "参加費を高くしました。",
+        "新しいマラソンコースを作りました。",
+        "特別なプレゼントを用意しました。",
+        "町をきれいにしました。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「例えば、参加費を安くしたり、特別なプレゼントを用意したりします。」と書いてあります。",
+      "id": "e2eb32b4-e4aa-428a-b0bd-4ffd2253340d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-26-ffbb92a724",
+  "publishedAt": "2026-05-26T06:00:00+09:00"
+}

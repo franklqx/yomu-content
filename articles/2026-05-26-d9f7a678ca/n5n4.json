@@ -1,0 +1,114 @@
+{
+  "title": "敬老の日に贈る手作りギフト",
+  "summary": "敬老の日は、おじいさんやおばあさんに感謝を伝える特別な日です。手作りのプレゼントは、気持ちが伝わりやすいです。どんなプレゼントが人気ですか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、毎年9月の第3月曜日が敬老の日です。これは、お年寄りを大切にする日です。家族みんなで、おじいさんやおばあさんに感謝の気持ちを伝えます。プレゼントをあげる人もたくさんいます。",
+      "translationZh": "在日本，每年9月的第三个星期一是敬老节。这是一个珍惜老年人的日子。全家人都会向爷爷奶奶表达感谢之情。很多人也会送礼物。",
+      "translationEn": "In Japan, the third Monday of September every year is Respect for the Aged Day. This is a day to cherish the elderly. The whole family expresses gratitude to their grandparents. Many people also give gifts.",
+      "id": "dcafe616-0696-4579-8216-41394274a980",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、手作りのプレゼントが人気です。例えば、写真立てや手編みのマフラーなどです。心を込めて作ったものは、きっと喜ばれます。子供と一緒に作ることもできます。",
+      "translationZh": "最近，手工制作的礼物很受欢迎。例如，相框或手织的围巾等。用心制作的东西一定会让人高兴。也可以和孩子一起制作。",
+      "translationEn": "Recently, handmade gifts are popular. For example, photo frames and hand-knitted scarves. Things made with care will surely be appreciated. You can also make them with children.",
+      "id": "aa1b1249-5c21-4db5-b2eb-c6d802447120",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "手作りのギフトは、世界に一つだけの特別なプレゼントになります。メッセージカードを添えるのも良いでしょう。おじいさんやおばあさんの笑顔を想像しながら、楽しく作りましょう。",
+      "translationZh": "手工礼物会成为世界上独一无二的特别礼物。附上手写贺卡也不错。一边想象着爷爷奶奶的笑容，一边开心地制作吧。",
+      "translationEn": "Handmade gifts become unique and special presents in the world. It's also good to add a message card. Let's enjoy making them while imagining the smiles of our grandparents.",
+      "id": "e5a328cc-7e1c-40a0-ac37-23be9b6bed89",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "敬老の日",
+      "reading": "けいろうのひ",
+      "meaningZh": "敬老节",
+      "meaningEn": "Respect for the Aged Day",
+      "level": "n5n4",
+      "exampleSentence": "敬老の日に、おばあさんにプレゼントをあげました。",
+      "id": "e8133ebf-2f90-466e-b6ba-0c543d47ddd7"
+    },
+    {
+      "word": "お年寄り",
+      "reading": "おとしより",
+      "meaningZh": "老年人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "お年寄りに席をゆずりました。",
+      "id": "b4ec8a8b-3316-433d-89bf-44a7e6969bc0"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaningZh": "感谢",
+      "meaningEn": "gratitude",
+      "level": "n5n4",
+      "exampleSentence": "いつもありがとう。感謝しています。",
+      "id": "2333f0f7-6242-4c37-9811-f228cf5e6029"
+    },
+    {
+      "word": "手作り",
+      "reading": "てづくり",
+      "meaningZh": "手工制作",
+      "meaningEn": "handmade",
+      "level": "n5n4",
+      "exampleSentence": "このケーキは手作りです。",
+      "id": "63b95dfb-e9dc-4c71-9313-d19c35d3f43f"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店はいつも人気があります。",
+      "id": "8e46eea9-adb6-451f-836c-d3fc3058dae8"
+    },
+    {
+      "word": "喜ぶ",
+      "reading": "よろこぶ",
+      "meaningZh": "高兴，喜悦",
+      "meaningEn": "to be pleased, to be happy",
+      "level": "n5n4",
+      "exampleSentence": "プレゼントをもらって、子供はとても喜んでいました。",
+      "id": "e65dd85a-5c34-41b8-8799-90522e53e392"
+    },
+    {
+      "word": "世界に一つ",
+      "reading": "せかいにひとつ",
+      "meaningZh": "世上独一无二",
+      "meaningEn": "one of a kind in the world",
+      "level": "n5n4",
+      "exampleSentence": "この絵は世界に一つです。",
+      "id": "d971b6fc-1693-432c-aea3-d06098e4d816"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "敬老の日は、誰に感謝する日ですか。",
+      "options": [
+        "先生",
+        "お年寄り",
+        "友達",
+        "両親"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「これは、お年寄りを大切にする日です。」と書いてあります。",
+      "id": "49d15287-64d6-4724-87f7-8ddbe882bcf0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-26-d9f7a678ca",
+  "publishedAt": "2026-05-26T06:00:00+09:00"
+}

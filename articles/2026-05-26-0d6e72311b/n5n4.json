@@ -1,0 +1,122 @@
+{
+  "title": "日本のサブカルチャーは世界で人気",
+  "summary": "アニメは日本の文化です。今、世界中の多くの人がアニメを好きです。これはとても嬉しいことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本にはたくさんの面白い文化があります。その中の一つはアニメです。アニメは絵でできた物語です。子供だけではなく、大人もアニメが好きです。最近、海外でアニメの人気が高まっています。",
+      "translationZh": "日本有很多有趣的文化。其中之一是动漫。动漫是用图画制作的故事。不仅是孩子，大人也喜欢动漫。最近，动漫在海外的人气正在提高。",
+      "translationEn": "Japan has many interesting cultures. One of them is anime. Anime is a story made with pictures. Not only children, but also adults like anime. Recently, anime's popularity is increasing overseas.",
+      "id": "7d2663c3-b3f4-42c0-a4fb-f33a178272b8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、あるアニメは世界中でとても有名になりました。たくさんの国の人々がそのアニメを見ました。SNSでアニメについての話もたくさん見られます。アニメのキャラクターのコスプレをする人もいます。",
+      "translationZh": "例如，某部动漫变得在全世界非常有名。很多国家的人们看了那部动漫。在社交媒体上，也能看到很多关于动漫的讨论。也有人会模仿动漫角色的装扮。",
+      "translationEn": "For example, a certain anime became very famous worldwide. People from many countries watched that anime. You can also see many discussions about anime on social media. Some people also cosplay anime characters.",
+      "id": "1cba216b-5a3e-4350-83b0-1b30d9c7475c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメは日本の経済にも良い影響を与えています。アニメのDVDやグッズは人気があります。日本へ旅行に来る外国人も増えました。彼らはアニメの聖地を訪れたいと思っています。",
+      "translationZh": "动漫也对日本经济产生了好的影响。动漫的DVD和周边商品很受欢迎。来日本旅游的外国人也增加了。他们想去动漫的“圣地”参观。",
+      "translationEn": "Anime is also having a good impact on Japan's economy. Anime DVDs and merchandise are popular. The number of foreigners visiting Japan has also increased. They want to visit the 'sacred sites' of anime.",
+      "id": "15321328-7b8a-43db-9563-7599646cc39d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、もっと多くの人が日本のサブカルチャー、特にアニメを楽しむでしょう。日本の文化が世界とつながるのは素晴らしいことです。皆さんも好きなアニメを見つけてみませんか。",
+      "translationZh": "今后，也会有更多人享受日本的亚文化，特别是动漫。日本文化与世界相连是一件很棒的事。大家不想找到自己喜欢的动漫吗？",
+      "translationEn": "In the future, more people will likely enjoy Japanese subculture, especially anime. It is wonderful that Japanese culture connects with the world. Why don't you find an anime you like too?",
+      "id": "9e188a77-8838-4778-b881-f476a104ac30",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "5e035872-9059-455b-9bb4-c518989ce7ee"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌は人気があります。",
+      "id": "037f8846-9b9a-434d-bf2d-4676f4157bd7"
+    },
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaningZh": "海外",
+      "meaningEn": "overseas",
+      "level": "n5n4",
+      "exampleSentence": "海外旅行に行きたいです。",
+      "id": "63044719-d425-4fcd-8982-37b35d6b2508"
+    },
+    {
+      "word": "経済",
+      "reading": "けいざい",
+      "meaningZh": "经济",
+      "meaningEn": "economy",
+      "level": "n3",
+      "exampleSentence": "経済は少しずつ良くなっています。",
+      "id": "599ff8b4-bf11-4889-81bd-d16a460f7cf5"
+    },
+    {
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaningZh": "影响",
+      "meaningEn": "influence, effect",
+      "level": "n3",
+      "exampleSentence": "彼の言葉は私に大きな影響を与えました。",
+      "id": "1fce1a59-3257-4bff-8296-8a2e305bf552"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaningZh": "增加",
+      "meaningEn": "increase",
+      "level": "n3",
+      "exampleSentence": "最近、読書量が増加しました。",
+      "id": "7501cebf-d937-4fc8-9954-ddf8863e9788"
+    },
+    {
+      "word": "聖地",
+      "reading": "せいち",
+      "meaningZh": "圣地（指动漫、游戏等的取景地或发源地）",
+      "meaningEn": "sacred place (referring to filming locations or origins of anime/games)",
+      "level": "n3",
+      "exampleSentence": "この場所は有名なアニメの聖地です。",
+      "id": "c6c46bf9-5dff-467c-9d84-401a640c81f6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "海外で人気が高まっている日本の文化は何ですか。",
+      "options": [
+        "日本の食べ物",
+        "日本の音楽",
+        "日本のサブカルチャー（アニメ）",
+        "日本の伝統的な踊り"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「海外でアニメの人気が高まっています。」と書かれています。",
+      "id": "476b473f-fc07-41e1-b6f4-8ee160c975f0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-26-0d6e72311b",
+  "publishedAt": "2026-05-26T06:00:00+09:00"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "地方マラソン、ランナー誘致へ新戦略",
+  "summary": "全国各地で開催される地方マラソン大会が、ランナー誘致に向けた新たな取り組みを進めている。大会の魅力を高め、参加者数の増加を図ることが目的だ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、健康志向の高まりとともに市民マラソンへの参加意欲が増加している。特に地方で開催されるマラソン大会は、その土地ならではの景観や文化を体験できることから、多くのランナーにとって魅力的な選択肢となりつつある。しかし、参加者数の伸び悩みを抱える大会も少なくなく、地域経済の活性化に繋げるためにも、より戦略的なランナー誘致策が求められているのが現状だ。",
+      "translationZh": "近年来，随着健康意识的提高，市民马拉松的参与热情日益高涨。特别是地方举办的马拉松赛事，因能体验到当地特有的风景和文化，正逐渐成为许多跑步者的有吸引力的选择。然而，许多赛事也面临着参与人数增长停滞的问题，为了促进地区经济的活性化，目前正需要更具战略性的选手招致对策。",
+      "translationEn": "In recent years, with the rise in health consciousness, the desire to participate in citizen marathons has been increasing. Especially for marathon events held in rural areas, they are becoming attractive options for many runners due to the opportunity to experience unique local landscapes and culture. However, many events are experiencing stagnant participant numbers, and strategic runner attraction measures are currently in demand to revitalize the local economy.",
+      "id": "4af96ef6-d5c9-4098-8a47-e48021318f6f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした状況を受け、各地のマラソン実行委員会では、参加者へのサービス向上や大会の差別化を図るための施策を打ち出している。具体的には、大会限定の特産品を参加賞として提供したり、地元住民との交流イベントを企画したりする動きが見られる。また、SNSを活用した情報発信を強化し、大会の魅力をより広く、効果的に伝える試みもなされているとのことだ。",
+      "translationZh": "面对这种情况，各地马拉松组委会正推出旨在提高参与者服务水平和赛事差异化的措施。具体而言，可以看到提供赛事限定特产作为参赛奖品，以及策划与当地居民的交流活动等举措。此外，据称还在通过加强利用SNS（社交媒体）进行信息发布，来更广泛、有效地传达赛事的魅力。",
+      "translationEn": "In response to this situation, marathon organizing committees in various regions are launching initiatives aimed at improving services for participants and differentiating their events. Specifically, measures such as offering limited-edition local specialty products as participation prizes and planning exchange events with local residents are being observed. Furthermore, it is reported that efforts are being made to strengthen information dissemination using social media (SNS) to convey the appeal of the events more broadly and effectively.",
+      "id": "c3c344ce-bef5-4e88-a965-17a648d33825",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、一部の大会では、初心者向けのコース設定や、ファミリーで楽しめるイベントの併催といった、より幅広い層のランナーを取り込むための工夫も凝らされている。これにより、競技志向のランナーだけでなく、観光やレジャーを兼ねて参加する層の獲得も期待できるだろう。これらの取り組みが、地方マラソン大会の持続的な発展に繋がることが見込まれる。",
+      "translationZh": "此外，一些赛事还致力于吸引更广泛的跑步者群体，例如设置适合初学者的赛道，以及举办可供全家一同享受的配套活动。通过这些措施，不仅能吸引竞技型跑者，也有望争取到兼具观光和休闲目的的参与者。预计这些举措将有助于地方马拉松赛事的持续发展。",
+      "translationEn": "Moreover, some events are making efforts to attract a wider range of runners, such as setting up courses for beginners and holding concurrent events that families can enjoy. This is expected to attract not only competitive runners but also those participating for tourism and leisure purposes. These initiatives are anticipated to lead to the sustainable development of local marathon events.",
+      "id": "f4c96b87-15e9-41e8-8520-362bc81726f0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "誘致",
+      "reading": "ゆうち",
+      "meaningZh": "招致，吸引",
+      "meaningEn": "attraction, invitation",
+      "level": "n2n1",
+      "exampleSentence": "観光客誘致のために、新たなイベントを企画した。",
+      "id": "dc3da2eb-de2f-4448-8d09-e208bf14c7c6"
+    },
+    {
+      "word": "市民マラソン",
+      "reading": "しみんマラソン",
+      "meaningZh": "市民马拉松（业余选手参加的马拉松）",
+      "meaningEn": "citizen marathon (marathon for amateur runners)",
+      "level": "n3",
+      "exampleSentence": "市民マラソン大会には、毎年多くのランナーが参加する。",
+      "id": "2b01272c-90e1-4e27-9ef3-dbbb1495b183"
+    },
+    {
+      "word": "伸び悩み",
+      "reading": "のびなやみ",
+      "meaningZh": "增长停滞，进展缓慢",
+      "meaningEn": "stagnation in growth, sluggish progress",
+      "level": "n2n1",
+      "exampleSentence": "景気の後退に伴い、企業の売上は伸び悩んでいる。",
+      "id": "b8aa9cda-90da-49fe-b562-cf8d46a7e6c5"
+    },
+    {
+      "word": "差別化",
+      "reading": "さべつ か",
+      "meaningZh": "差异化，区分",
+      "meaningEn": "differentiation, distinction",
+      "level": "n2n1",
+      "exampleSentence": "他社製品との差別化を図るため、デザインに力を入れた。",
+      "id": "5a322625-f13f-4343-b9d9-53914fa54931"
+    },
+    {
+      "word": "特産品",
+      "reading": "とくさんひん",
+      "meaningZh": "特产",
+      "meaningEn": "local specialty product",
+      "level": "n3",
+      "exampleSentence": "お土産には、その土地の特産品を選ぶのが良い。",
+      "id": "9e7ffaf9-a858-4fa0-8e52-2ab19a37955e"
+    },
+    {
+      "word": "併催",
+      "reading": "へいさい",
+      "meaningZh": "同时举办",
+      "meaningEn": "holding concurrently, simultaneous event",
+      "level": "n2n1",
+      "exampleSentence": "展示会とセミナーが併催される予定だ。",
+      "id": "235beafc-7df8-4f52-81ec-aacf7c19b1a0"
+    },
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaningZh": "精心策划，绞尽脑汁",
+      "meaningEn": "to devise, to plan elaborately",
+      "level": "n2n1",
+      "exampleSentence": "細部にまで工夫を凝らしたデザインは、多くの人の心を掴んだ。",
+      "id": "f0e33373-59f2-4790-b7ca-720e603c5f2b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方マラソン大会がランナー誘致のために行っている新たな取り組みとして、本文中で言及されているものはどれか。",
+      "options": [
+        "大会の賞金総額を増やすこと",
+        "参加者限定の特産品提供や地元住民との交流企画",
+        "海外の有名ランナーを招待すること",
+        "大会の開催時期を頻繁に変更すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中には「大会限定の特産品を参加賞として提供したり、地元住民との交流イベントを企画したりする動きが見られる」と記載されている。",
+      "id": "6958b73d-d710-4ccc-9cea-636cdcde3821"
+    },
+    {
+      "question": "地方マラソン大会が参加者数の伸び悩みを抱えている理由として、本文で示唆されていることは何か。",
+      "options": [
+        "健康志向を持つ人が減少しているから",
+        "他のスポーツの人気が高まっているから",
+        "大会の魅力が十分に伝わっていない可能性があるから",
+        "参加費が高すぎることが原因だから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「SNSを活用した情報発信を強化し、大会の魅力をより広く、効果的に伝える試みもなされている」とあり、情報発信の強化が課題であることが示唆されている。",
+      "id": "99a1f96d-c2cd-40f8-a559-7907a4a0a0c1"
+    },
+    {
+      "question": "より幅広い層のランナーを獲得するために、一部の大会で工夫されている点は何か。",
+      "options": [
+        "参加者に厳しいトレーニングを義務付けること",
+        "大会の難易度を極端に高く設定すること",
+        "初心者向けのコース設定やファミリー向けイベントの併催",
+        "出場資格をプロランナーに限定すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「初心者向けのコース設定や、ファミリーで楽しめるイベントの併催といった、より幅広い層のランナーを取り込むための工夫も凝らされている」と書かれている。",
+      "id": "ae5cf5fa-f946-494a-b45b-032e13a3f323"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-26-ffbb92a724",
+  "publishedAt": "2026-05-26T06:00:00+09:00"
+}
