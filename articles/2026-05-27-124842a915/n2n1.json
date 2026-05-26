@@ -1,0 +1,138 @@
+{
+  "title": "学校体育館、地域住民に開放へ 実証実験開始",
+  "summary": "地域住民の健康増進や交流促進のため、学校体育館の地域開放に関する実証実験が一部自治体で開始されるとのことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、少子高齢化や地域コミュニティの希薄化が課題となる中、公共施設の有効活用が全国的に求められている。このような背景を受け、一部の自治体では、これまで主に児童生徒の体育活動に利用されてきた学校の体育館を、地域住民にも開放する実証実験に乗り出した。この取り組みは、地域住民の健康増進や、世代を超えた交流の促進、さらには地域活性化に繋がるものと期待されている。",
+      "translationZh": "近年来，随着少子化、老龄化以及社区联系淡化等问题的出现，在全国范围内对公共设施的有效利用提出了要求。在此背景下，一些地方政府已经开始进行一项试点项目，将过去主要用于学生体育活动的学校体育馆向社区居民开放。这一举措被寄予厚望，有望促进社区居民的健康，增进跨世代的交流，并进一步振兴当地社区。",
+      "translationEn": "In recent years, with challenges such as declining birthrates, aging populations, and the weakening of community ties, the effective utilization of public facilities is being sought nationwide. Against this backdrop, some local governments have embarked on a pilot program to open school gymnasiums, which have traditionally been used primarily for students' physical activities, to local residents. This initiative is expected to promote the health of community members, foster intergenerational exchange, and contribute to regional revitalization.",
+      "id": "d435366b-1892-44ee-951f-31e93c0bac71",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験は、対象となる学校の体育館について、平日の放課後や週末、長期休暇期間などに、近隣住民がスポーツやレクリエーション活動に利用できるようにするものだ。参加を希望する住民は、事前に登録を行い、利用ルールを遵守することが求められる。施設管理者の負担軽減や安全確保のため、地域住民による自主的な運営組織の設立も視野に入れている自治体もあるとのことだ。これにより、住民が主体的に地域づくりに関わる機会の創出も期待される。",
+      "translationZh": "该实验旨在允许附近居民在平日放学后、周末以及长假期间使用指定学校的体育馆进行体育和娱乐活动。希望参加的居民需要提前注册并遵守使用规定。为了减轻设施管理者的负担并确保安全，一些地方政府还考虑成立由社区居民组成的自主运营组织。这也有望为居民创造一个积极参与社区建设的机会。",
+      "translationEn": "The experiment aims to allow local residents to use designated school gymnasiums for sports and recreational activities during weekday afternoons, weekends, and school holidays. Interested residents are required to register in advance and adhere to usage rules. Some local governments are also considering the establishment of autonomous operating organizations composed of local residents to reduce the burden on facility managers and ensure safety. This is also expected to create opportunities for residents to actively participate in community development.",
+      "id": "e95e3948-fa84-43cd-bf31-3785db32d28d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、体育館の老朽化対策や、利用に伴う光熱費、維持管理費の増加といった課題も指摘されている。実験期間中の利用状況や住民からの意見を収集・分析し、今後の本格的な地域開放に向けた課題の洗い出しと、効果的な運営方法の検討が進められる見通しである。各自治体は、地域の実情に応じた柔軟な対応を進め、持続可能な地域社会の実現を目指していく方針だ。",
+      "translationZh": "另一方面，体育馆的老化对策以及使用带来的水电费、维护管理费的增加等问题也得到了指出。在实验期间，预计将收集和分析使用情况以及居民的意见，以找出未来全面开放地区所需解决的问题，并研究有效的运营方法。各地方政府计划采取灵活的措施，以适应当地的实际情况，并致力于实现可持续发展的社区。",
+      "translationEn": "On the other hand, issues such as the aging of gymnasiums and the increase in utility and maintenance costs associated with their use have also been pointed out. During the experimental period, usage status and resident feedback are expected to be collected and analyzed to identify challenges for full-scale community opening in the future and to consider effective operational methods. Local governments plan to proceed with flexible measures tailored to regional circumstances, aiming for the realization of a sustainable community.",
+      "id": "0a43cdad-82a1-434d-8705-836b097e5f73",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域開放",
+      "reading": "ちいきかいほう",
+      "meaningZh": "面向社区的开放",
+      "meaningEn": "community opening",
+      "level": "n2n1",
+      "exampleSentence": "学校施設を地域開放することは、住民同士の交流を深める良い機会となるだろう。",
+      "id": "f5d8ff4f-f750-419d-9d06-bc3e5abb07a3"
+    },
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "验证性实验，试点项目",
+      "meaningEn": "pilot project, demonstration experiment",
+      "level": "n2n1",
+      "exampleSentence": "新しいシステムの導入にあたり、まずは一部の部署で実証実験を行うことになった。",
+      "id": "a18455bf-06aa-494a-8456-3edd9f3b5a16"
+    },
+    {
+      "word": "有効活用",
+      "reading": "ゆうこうかつよう",
+      "meaningZh": "有效利用",
+      "meaningEn": "effective utilization",
+      "level": "n3",
+      "exampleSentence": "遊休資産の有効活用が、経営再建の鍵となる。",
+      "id": "3e8d15a7-7d8f-4337-b298-e3fcb91ce67d"
+    },
+    {
+      "word": "希薄化",
+      "reading": "きはくか",
+      "meaningZh": "淡化，稀释",
+      "meaningEn": "weakening, dilution",
+      "level": "n2n1",
+      "exampleSentence": "近年の都市化に伴い、地域社会の人間関係の希薄化が懸念されている。",
+      "id": "4fb528b3-6de4-4b09-a2e6-0ece6cdcf0a1"
+    },
+    {
+      "word": "健康増進",
+      "reading": "けんこうぞうしん",
+      "meaningZh": "促进健康",
+      "meaningEn": "health promotion",
+      "level": "n3",
+      "exampleSentence": "ウォーキングは、手軽にできる健康増進活動として人気がある。",
+      "id": "214e8865-3125-42e4-822c-70131ea90983"
+    },
+    {
+      "word": "老朽化",
+      "reading": "ろうきゅうか",
+      "meaningZh": "老化，陈旧",
+      "meaningEn": "aging, deterioration",
+      "level": "n2n1",
+      "exampleSentence": "建物の老朽化が進み、大規模な修繕が必要となった。",
+      "id": "b17d42c1-399b-42be-b0b3-99b6c5028ec6"
+    },
+    {
+      "word": "自主的",
+      "reading": "じしゅつてき",
+      "meaningZh": "自主的",
+      "meaningEn": "voluntary, autonomous",
+      "level": "n3",
+      "exampleSentence": "会議の運営は、参加者の自主的な意見交換によって進められた。",
+      "id": "187103f9-bed9-4e16-9a5c-5187850e5549"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校体育館の地域開放実験が行われる主な目的は何ですか？",
+      "options": [
+        "学校施設の維持費削減のため",
+        "地域住民の健康増進と交流促進のため",
+        "学校の教育活動の充実のため",
+        "生徒の体力向上を地域が支援するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中には「地域住民の健康増進や、世代を超えた交流の促進、さらには地域活性化に繋がるものと期待されている。」と記載されており、これが主な目的であることが示唆されている。",
+      "id": "5a5db1e5-4df5-4ea8-8a89-f6105db1f7b0"
+    },
+    {
+      "question": "地域開放実験において、住民が体育館を利用する際に求められることは何ですか？",
+      "options": [
+        "施設管理者への感謝の寄付",
+        "地域住民による自主的な運営組織への参加",
+        "事前に登録を行い、利用ルールを遵守すること",
+        "体育活動の指導資格の取得"
+      ],
+      "correctIndex": 2,
+      "explanation": "「参加を希望する住民は、事前に登録を行い、利用ルールを遵守することが求められる。」と記述されている。",
+      "id": "b6c0d3dd-bb62-4912-97cf-f3205742d598"
+    },
+    {
+      "question": "この実験に関して、指摘されている課題は何ですか？",
+      "options": [
+        "地域住民の参加意欲の低さ",
+        "体育館の老朽化と維持費の増加",
+        "学校教員の人件費の増加",
+        "地域住民と生徒間のトラブル発生"
+      ],
+      "correctIndex": 1,
+      "explanation": "「一方で、体育館の老朽化対策や、利用に伴う光熱費、維持管理費の増加といった課題も指摘されている。」と本文に記されている。",
+      "id": "f8633171-3c40-4de8-9317-8d4e89cf6b04"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-27-124842a915",
+  "publishedAt": "2026-05-27T06:00:00+09:00"
+}

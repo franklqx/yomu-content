@@ -1,0 +1,135 @@
+{
+  "title": "体育館の地域開放、便利になる？実験始まる！",
+  "summary": "多くの学校で、放課後や休日に体育館が地域住民に開放される実験が始まりました。この取り組みについて、詳しく見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、いくつかの学校で、授業が終わった後や週末に、地域の皆さんが学校の体育館を使えるようになる「地域開放実験」が始まりました。これは、地域住民の健康増進や交流の場を作ることを目的としています。今まで、学校の施設は主に生徒のために使われていましたが、これからは地域社会とのつながりを深める新しい試みです。",
+      "translationZh": "最近，一些学校开始进行“体育馆社区开放实验”，让社区居民可以在课后或周末使用学校的体育馆。这项措施的目的是促进社区居民的健康和交流。过去，学校设施主要供学生使用，但现在这是一个加深与社区联系的新尝试。",
+      "translationEn": "Recently, some schools have started 'community opening experiments' where community residents can use the school gymnasium after classes or on weekends. This initiative aims to promote the health and exchange of community residents. Previously, school facilities were mainly used by students, but now it is a new attempt to deepen ties with the community.",
+      "id": "1b8d5727-60b6-433f-a068-30802f1e9a70",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験に参加しているある自治体の担当者は、「施設を有効活用できるだけでなく、住民同士が顔見知りになる良い機会になる」と期待しています。ただ、安全面や管理体制については、まだ検討すべき点も多いようです。例えば、利用者がケガをした場合の対応や、施設の清掃・維持管理をどう行うかなど、具体的なルール作りが求められています。",
+      "translationZh": "参与这项实验的某地方政府官员表示：“这不仅能有效利用设施，还能成为居民互相认识的好机会。”然而，在安全和管理方面，似乎仍有许多需要考虑的地方。例如，需要制定具体的规则，如发生使用者受伤时的应对措施，以及如何进行设施的清洁和维护。",
+      "translationEn": "An official from a local government participating in this experiment expressed, 'Not only can facilities be utilized effectively, but it also becomes a good opportunity for residents to get to know each other.' However, there seem to be many points to consider regarding safety and management. For example, specific rules need to be established, such as how to respond in case of user injury and how to carry out facility cleaning and maintenance.",
+      "id": "6a5c8990-31bc-4400-9142-5166caba95d7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域住民からは、「近くに運動できる場所ができて嬉しい」という声が聞かれる一方、「夜間利用の際の照明や、騒音の問題が心配だ」といった意見もあります。地域住民のニーズに応えつつ、学校側の負担にならないように、バランスの取れた運営が重要になるでしょう。この実験が成功すれば、他の地域にも広がる可能性があります。",
+      "translationZh": "一方面，社区居民表示：“很高兴家附近有了可以运动的地方。”另一方面，也有人担心“夜间使用时的照明和噪音问题”。为了在满足社区居民需求的同时，又不给学校带来过重负担，取得平衡的运营将变得很重要。如果这次实验成功，它可能会推广到其他地区。",
+      "translationEn": "On one hand, community residents say, 'I'm happy to have a place to exercise near my home.' On the other hand, some express concerns about 'lighting and noise issues during nighttime use.' Balancing operations will be important to meet the needs of community residents without overburdening the school. If this experiment is successful, it may spread to other regions.",
+      "id": "86dec984-c224-491f-a9e1-aa0fb8bed16e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域開放",
+      "reading": "ちいきかいほう",
+      "meaningZh": "社区开放",
+      "meaningEn": "Community opening",
+      "level": "n3",
+      "exampleSentence": "体育館の地域開放について話し合われました。",
+      "id": "f8927970-defd-4128-9349-dd28cd82a8c1"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "Experiment",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入する実験が行われています。",
+      "id": "f35fe82e-a990-4461-b00f-17a2970109ea"
+    },
+    {
+      "word": "住民",
+      "reading": "じゅうみん",
+      "meaningZh": "居民",
+      "meaningEn": "Resident",
+      "level": "n3",
+      "exampleSentence": "地域の住民がお祭りに参加しました。",
+      "id": "2b0a5fbd-710a-41c5-a118-e640da207255"
+    },
+    {
+      "word": "増進",
+      "reading": "ぞうしん",
+      "meaningZh": "增进，促进",
+      "meaningEn": "Promotion, improvement",
+      "level": "n3",
+      "exampleSentence": "健康増進のために、毎日散歩をしています。",
+      "id": "9f0c240c-7358-400b-b782-2907b8dd65e9"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "Exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "異文化交流イベントに参加しました。",
+      "id": "f2d465ee-17e7-4bd5-bc55-9d581ed134b4"
+    },
+    {
+      "word": "有効活用",
+      "reading": "ゆうこうかつよう",
+      "meaningZh": "有效利用",
+      "meaningEn": "Effective utilization",
+      "level": "n3",
+      "exampleSentence": "空き部屋を有効活用する方法を考えています。",
+      "id": "4196f63e-ef5c-41b7-94be-19f46b389e0d"
+    },
+    {
+      "word": "安全面",
+      "reading": "あんぜんめん",
+      "meaningZh": "安全方面",
+      "meaningEn": "Safety aspect",
+      "level": "n3",
+      "exampleSentence": "安全面には十分注意してください。",
+      "id": "28ef4102-e9f9-4021-a4b3-a5ea6d940ec9"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担",
+      "meaningEn": "Burden",
+      "level": "n3",
+      "exampleSentence": "一人で抱え込まず、皆で負担を分けましょう。",
+      "id": "4e2091f8-6065-4b59-bbca-b9407ce1e474"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館が地域住民に開放される実験の主な目的は何ですか？",
+      "options": [
+        "学校の施設を新しくするため",
+        "地域住民の健康増進や交流のため",
+        "生徒の体育の授業を増やすため",
+        "地域住民から利用料を集めるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「地域住民の健康増進や交流の場を作ることを目的としています」と書かれています。",
+      "id": "a664cef0-62bd-4033-804d-310d842737ce"
+    },
+    {
+      "question": "地域住民の声として、どのような心配事が挙げられていますか？",
+      "options": [
+        "体育館が古すぎること",
+        "利用者が多すぎて混雑すること",
+        "夜間利用の際の照明や騒音の問題",
+        "学校側の設備が整っていないこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「『夜間利用の際の照明や、騒音の問題が心配だ』といった意見もあります」とあります。",
+      "id": "edc51283-bb7c-455e-ad7c-4d7d046470be"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-27-124842a915",
+  "publishedAt": "2026-05-27T06:00:00+09:00"
+}

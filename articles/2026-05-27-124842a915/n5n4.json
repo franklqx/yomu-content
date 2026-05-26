@@ -1,0 +1,114 @@
+{
+  "title": "体育館、みんなの場所！",
+  "summary": "学校の体育館が、地域の人にも開かれました。みんなで使う実験が始まりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この間、学校の体育館が地域の人にも開かれました。これは、地域の人と学校がもっと仲良くなるための実験です。土曜日と日曜日に、地域の人たちが体育館を使えるようになりました。",
+      "translationZh": "前段时间，学校的体育馆向社区居民开放了。这是为了让社区居民和学校关系变得更好的一个实验。周六和周日，社区居民可以使用体育馆了。",
+      "translationEn": "Recently, the school gymnasium was opened to local residents. This is an experiment to help local residents and the school become better friends. On Saturdays and Sundays, community members can use the gymnasium.",
+      "id": "0662c69d-98ba-4d7b-92be-8351da025df2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験は、とてもうまくいっています。たくさんの人が体育館に来て、バドミントンやバスケットボールをしました。子供たちも大人たちも、楽しそうに運動していました。",
+      "translationZh": "实验进行得很顺利。很多人来到体育馆打羽毛球和篮球。孩子们和大人看起来都很开心地运动着。",
+      "translationEn": "The experiment is going very well. Many people came to the gymnasium to play badminton and basketball. Both children and adults were exercising with smiles.",
+      "id": "51304c48-6414-4517-8fa2-1d999cf5458e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学校の先生も、地域の人たちが体育館を使うのを手伝いました。みんなが気持ちよく使えるように、ルールを決めました。これからも、この実験が続くことを願っています。",
+      "translationZh": "学校的老师们也帮助社区居民使用体育馆。为了让大家都能愉快地使用，制定了规则。希望能继续进行这个实验。",
+      "translationEn": "School teachers also helped the community members use the gymnasium. Rules were made so that everyone could use it comfortably. We hope this experiment will continue.",
+      "id": "0a144780-d018-4fed-a539-4596ec6cd1c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "体育館でスポーツをしましょう。",
+      "id": "c6330cdc-68e6-4293-883d-8542aebf3f8f"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，社区",
+      "meaningEn": "area, region, community",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "fb8440c5-6c12-45a3-8fd2-0d155806aa19"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, open",
+      "level": "n3",
+      "exampleSentence": "図書館が夜遅くまで開放されました。",
+      "id": "c605d065-d5b0-4555-987d-d209a7f6ac25"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい方法を実験しています。",
+      "id": "b37925bc-447b-40ea-ae78-d96e4739a660"
+    },
+    {
+      "word": "仲良くなる",
+      "reading": "なかよくなる",
+      "meaningZh": "变得要好，关系变好",
+      "meaningEn": "to become good friends",
+      "level": "n5n4",
+      "exampleSentence": "隣の人と仲良くなりました。",
+      "id": "14fc1039-63bd-4f37-95bd-16c99acf5f60"
+    },
+    {
+      "word": "うまくいっています",
+      "reading": "うまくいっています",
+      "meaningZh": "进行得很顺利",
+      "meaningEn": "is going well",
+      "level": "n5n4",
+      "exampleSentence": "計画はうまくいっていますか。",
+      "id": "cbd36214-0cd6-4813-b9a8-3c4427f842e4"
+    },
+    {
+      "word": "気持ちよく",
+      "reading": "きもちよく",
+      "meaningZh": "愉快地，舒畅地",
+      "meaningEn": "pleasantly, comfortably",
+      "level": "n5n4",
+      "exampleSentence": "暖かいお風呂は気持ちよく眠れます。",
+      "id": "9b1ef80c-3ebb-4eb8-beab-6f228226a177"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館は、誰のために開かれましたか。",
+      "options": [
+        "学生だけ",
+        "先生だけ",
+        "地域の人々",
+        "来客だけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "「学校の体育館が地域の人にも開かれました。」という文があります。",
+      "id": "cc2284b4-955a-4f22-9238-6b370b697968"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-27-124842a915",
+  "publishedAt": "2026-05-27T06:00:00+09:00"
+}

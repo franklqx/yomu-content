@@ -1,0 +1,122 @@
+{
+  "title": "アニメグッズの限定販売！",
+  "summary": "アニメの限定グッズは人気です。でも、買えない人もいます。それはなぜでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメのイベントで、特別なグッズが売られることがあります。これは「限定販売」と言います。限定販売のグッズは、とても人気があります。たくさんの人が買いたがります。",
+      "translationZh": "在动漫活动中，有时会出售特别的周边商品。这叫做“限定销售”。限定销售的周边商品非常受欢迎。很多人都想买。",
+      "translationEn": "At anime events, special merchandise is sometimes sold. This is called 'limited sale.' Limited sale merchandise is very popular. Many people want to buy it.",
+      "id": "3d2d4bcf-c6dd-49c1-af88-468d03329ef2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、限定販売のグッズは数が少ないです。すぐに売り切れてしまいます。だから、イベントに行っても買えない人がたくさんいます。これは、ファンにとって悲しいことです。",
+      "translationZh": "但是，限定销售的周边商品数量很少。很快就会卖完。所以，即使去了活动，也有很多人买不到。这对粉丝来说是很悲伤的事情。",
+      "translationEn": "However, the quantity of limited sale merchandise is small. They sell out quickly. Therefore, many people cannot buy them even if they go to the event. This is sad for fans.",
+      "id": "7364c75f-34e2-4a52-9a7e-33eb1d8b0041",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もっと困った問題もあります。それは「転売」です。転売とは、買ったグッズをすぐに高い値段で売ることです。転売されたグッズは、元の値段よりずっと高くなります。",
+      "translationZh": "还有更令人困扰的问题。那就是“倒卖”。倒卖是指买了周边商品后，很快就以高价卖出的行为。被倒卖的周边商品价格会比原价高很多。",
+      "translationEn": "There is also a more troublesome problem. That is 'reselling.' Reselling means buying merchandise and then selling it immediately at a high price. Resold merchandise becomes much more expensive than the original price.",
+      "id": "321b6e80-1a0e-497d-87b1-2803065c8759",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ファンは、本当に好きなアニメのグッズを、適正な値段で買いたいと思っています。転売は、その願いを叶えにくくします。会社やファンは、この問題をどうにかしたいと考えています。",
+      "translationZh": "粉丝们希望以合理的价格购买自己真正喜欢的动漫周边。倒卖行为让实现这个愿望变得困难。公司和粉丝们都想解决这个问题。",
+      "translationEn": "Fans want to buy merchandise of anime they truly like at a fair price. Reselling makes it difficult to fulfill that wish. Companies and fans are thinking about how to solve this problem.",
+      "id": "81403c99-d755-46e8-8824-5fa350fecbaa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "限定販売",
+      "reading": "げんていはんばい",
+      "meaningZh": "限定销售",
+      "meaningEn": "limited sale",
+      "level": "n5n4",
+      "exampleSentence": "このバッグは限定販売です。",
+      "id": "59e8a183-54ac-43e4-a3f5-e26372d7da84"
+    },
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "merchandise",
+      "level": "n5n4",
+      "exampleSentence": "アニメのグッズは人気があります。",
+      "id": "0c5d2e1e-acc3-45c4-8bd7-f9df4d14b1c8"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌はとても人気があります。",
+      "id": "a090250f-b591-43f8-9566-1cadd0ee87f5"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n5n4",
+      "exampleSentence": "チケットはもう売り切れました。",
+      "id": "08153408-fda0-41a0-bd94-bb439198ee90"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "7227a0c5-1535-4a0a-b0d4-3f6eb9857536"
+    },
+    {
+      "word": "転売",
+      "reading": "てんばい",
+      "meaningZh": "倒卖，转售",
+      "meaningEn": "reselling",
+      "level": "n3",
+      "exampleSentence": "チケットの転売は禁止されています。",
+      "id": "9eb03a66-523f-4757-8a08-9f7198e28205"
+    },
+    {
+      "word": "悲しい",
+      "reading": "かなしい",
+      "meaningZh": "悲伤的",
+      "meaningEn": "sad",
+      "level": "n5n4",
+      "exampleSentence": "テストの結果が悪くて悲しいです。",
+      "id": "4006d6c7-0c2a-4eb1-ac4c-e74fb7e04dd9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "限定販売のグッズは、どうして買えない人が多いですか。",
+      "options": [
+        "値段が高すぎるからです。",
+        "数が少ないからです。",
+        "イベント会場が遠いからです。",
+        "ファンが少ないからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "限定販売のグッズは数が少ないです。すぐに売り切れてしまいます。だから、イベントに行っても買えない人がたくさんいます。",
+      "id": "c5c7bf95-e45b-4452-95e6-4c37d71eebbf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-27-2d3baa7f69",
+  "publishedAt": "2026-05-27T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "七夕の光、新しい名所",
+  "summary": "今年の夏は、特別な七夕のライトアップを見に行きませんか。新しい名所を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ七夕です。七夕は、夜空の星を見るお祭りです。昔から、星に願い事をします。",
+      "translationZh": "七夕节很快就到了。七夕是观看夜空星星的节日。自古以来，人们就会向星星许愿。",
+      "translationEn": "Tanabata is coming soon. Tanabata is a festival to look at the stars in the night sky. Since ancient times, people have made wishes to the stars.",
+      "id": "85a9d02f-15f7-4779-93c4-b90f25a2d39c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、新しい場所で七夕のライトアップがあります。その場所はとてもきれいです。たくさんの光で、夜の公園が明るくなります。",
+      "translationZh": "今年，在一个新的地方有七夕的灯光秀。那个地方非常漂亮。许多灯光照亮了夜晚的公园。",
+      "translationEn": "This year, there is a Tanabata light-up in a new place. That place is very beautiful. Many lights make the night park bright.",
+      "id": "a37b4d2d-c66f-4cc0-87be-8453f4f76bf0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "色々な色の光があります。青やピンク、黄色など、とてもきれいです。まるで、空に星がたくさんあるようです。家族や友達と行くのにいい場所です。",
+      "translationZh": "有各种颜色的灯光。蓝色、粉色、黄色等，非常漂亮。就像天上有许多星星一样。是和家人或朋友一起去的不错的地方。",
+      "translationEn": "There are lights of various colors. Blue, pink, yellow, etc., are very beautiful. It is as if there are many stars in the sky. It is a good place to go with family and friends.",
+      "id": "bc47eb47-d363-47e8-916f-f00b1e065704",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい名所は、駅から近いです。電車で行きやすいです。七夕の夜、特別な思い出を作りましょう。",
+      "translationZh": "这个新的景点离车站很近。坐电车很容易去。七夕之夜，让我们创造特别的回忆吧。",
+      "translationEn": "This new famous spot is close to the station. It is easy to go by train. Let's make special memories on Tanabata night.",
+      "id": "d04a793a-0943-4460-aba1-f6f0ec3d88a9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "七夕",
+      "reading": "たなばた",
+      "meaningZh": "七夕节",
+      "meaningEn": "Tanabata (Star Festival)",
+      "level": "n5n4",
+      "exampleSentence": "七夕には笹に願い事を書いた紙を飾ります。",
+      "id": "8c8dfebb-e90f-43d6-8fe1-b3bcec58ab6f"
+    },
+    {
+      "word": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "meaningZh": "亮灯，灯光秀",
+      "meaningEn": "light-up",
+      "level": "n5n4",
+      "exampleSentence": "夜の建物がライトアップされてきれいでした。",
+      "id": "631b195d-c8ec-4ce6-ab02-e5b7e56ac15d"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaningZh": "名胜，景点",
+      "meaningEn": "famous place, spot",
+      "level": "n5n4",
+      "exampleSentence": "京都には古い名所がたくさんあります。",
+      "id": "00afd0ad-443c-47da-9aae-741f27abc591"
+    },
+    {
+      "word": "空",
+      "reading": "そら",
+      "meaningZh": "天空",
+      "meaningEn": "sky",
+      "level": "n5n4",
+      "exampleSentence": "青い空に白い雲が浮かんでいます。",
+      "id": "ae547483-3c4e-449e-8cda-f7ebaf22d05c"
+    },
+    {
+      "word": "願い事",
+      "reading": "ねがいごと",
+      "meaningZh": "愿望，心愿",
+      "meaningEn": "wish",
+      "level": "n5n4",
+      "exampleSentence": "七夕には、みんな願い事をします。",
+      "id": "7b8d0b63-d8dc-4123-876a-b7df95814b15"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "旅行で楽しい思い出がたくさんできました。",
+      "id": "98e922a9-9c42-4faf-8a79-02570cfbbf97"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "今日は母の誕生日で、特別な日です。",
+      "id": "2539ac8b-96ba-469f-88ad-e8778577350c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、新しいライトアップはどんな場所ですか。",
+      "options": [
+        "駅の近くの公園",
+        "古いお寺",
+        "川沿いの道",
+        "大きなデパート"
+      ],
+      "correctIndex": 0,
+      "explanation": "「この新しい名所は、駅から近いです。」と書いてあります。",
+      "id": "1e07ef5b-869a-46a7-ad1a-2ebb773a1eec"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-27-77598fd30c",
+  "publishedAt": "2026-05-27T06:00:00+09:00"
+}

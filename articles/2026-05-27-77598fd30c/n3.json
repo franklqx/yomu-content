@@ -1,0 +1,126 @@
+{
+  "title": "七夕ライトアップの新名所！幻想的な夜を楽しもう",
+  "summary": "今年の七夕は、新しいライトアップスポットで特別な夜を過ごしませんか？幻想的な光の空間は、きっと忘れられない思い出になるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "七夕といえば、夜空に輝く星々を思い浮かべますが、最近では、七夕の時期に合わせて行われるライトアップイベントが人気を集めています。特に注目されているのが、昨年新しくオープンした〇〇公園です。この公園では、七夕の物語をテーマにした美しいイルミネーションが展開され、訪れる人々を魅了しています。",
+      "translationZh": "说到七夕，人们会想到在夜空中闪耀的星星，但最近，配合七夕时节举办的灯光照明活动越来越受欢迎。其中特别引人注目的是去年新开业的XX公园。该公园以七夕故事为主题，展示了美丽的灯饰，吸引着前来参观的游客。",
+      "translationEn": "Speaking of Tanabata, we think of the stars shining in the night sky, but recently, light-up events held around the Tanabata period have been gaining popularity. Of particular note is XX Park, which newly opened last year. This park features beautiful illuminations themed around the Tanabata story, captivating visitors.",
+      "id": "eebb823e-4117-4faa-b043-d64c350fee3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園内では、笹に願い事を書いた短冊が飾られているだけでなく、色とりどりの光が木々や池を照らし、まるで絵本の世界に入り込んだかのような幻想的な空間が広がっています。カップルや家族連れで訪れる人が多く、写真撮影を楽しむ姿も見られます。静かに光を眺めていると、日頃の忙しさを忘れさせてくれるような気がします。",
+      "translationZh": "公园里不仅挂着写有祈愿短册的竹叶，五颜六色的灯光还照亮了树木和池塘，营造出一种仿佛置身于童话世界般的梦幻空间。许多情侣和家庭前来游玩，也能看到人们享受拍照的乐趣。静静地眺望着灯光，感觉能让人暂时忘却日常的忙碌。",
+      "translationEn": "Inside the park, not only are colorful strips of paper with wishes written on them hung on bamboo, but also a magical space unfolds as colorful lights illuminate the trees and pond, as if you've stepped into a storybook. Many couples and families visit, and you can see people enjoying taking photos. Gazing at the lights quietly makes you feel like you can forget your daily busyness.",
+      "id": "2d3c68f8-4082-4a49-b3e1-b142accf73f0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このライトアップは、夏の暑さを和らげ、涼やかな夜を過ごせるように工夫されています。また、期間限定なので、見逃さないように早めに訪れることをお勧めします。アクセスも比較的良いので、仕事帰りに立ち寄ることも可能です。今年の七夕は、ぜひこの新しい名所で、ロマンチックな夜を体験してみてはいかがでしょうか。",
+      "translationZh": "这次灯光照明的设计是为了缓解夏日的炎热，让人们能度过一个清凉的夜晚。而且，由于是限时活动，建议您尽早前来以免错过。交通也相对便利，下班后也可以顺道前来。今年的七夕，不妨来这个新名所，体验一个浪漫的夜晚吧。",
+      "translationEn": "This light-up is designed to alleviate the summer heat and allow people to spend a cool evening. Also, since it's a limited-time event, we recommend visiting early so you don't miss out. Access is relatively good, so you can stop by after work. Why not experience a romantic night at this new famous spot this Tanabata?",
+      "id": "1ed5a6e3-523c-4c17-b221-66ece6fbe54b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "meaningZh": "灯光照明，亮灯",
+      "meaningEn": "light-up, illumination",
+      "level": "n3",
+      "exampleSentence": "このお寺は夜になるとライトアップされてとても綺麗です。",
+      "id": "262b32af-ffff-4912-b8d3-4170f7bf376b"
+    },
+    {
+      "word": "幻想的",
+      "reading": "げんそうてき",
+      "meaningZh": "富有幻想的，梦幻般的",
+      "meaningEn": "fantastical, imaginary",
+      "level": "n3",
+      "exampleSentence": "湖面に映る月が幻想的だった。",
+      "id": "fd5bda38-b6fc-4eb1-8e84-f791c2a68e8f"
+    },
+    {
+      "word": "魅了する",
+      "reading": "みりょうする",
+      "meaningZh": "使人着迷，吸引住",
+      "meaningEn": "to fascinate, to charm",
+      "level": "n3",
+      "exampleSentence": "彼の話術は聴衆を魅了した。",
+      "id": "3b5a485d-3284-4691-b8c2-03f83dfe8937"
+    },
+    {
+      "word": "短冊",
+      "reading": "たんざく",
+      "meaningZh": "（七夕用的）长条纸片",
+      "meaningEn": "tanzaku (strips of paper for writing wishes on Tanabata)",
+      "level": "n3",
+      "exampleSentence": "子供たちが短冊に願い事を書いて笹に飾った。",
+      "id": "5792b24e-ae59-4f31-9b71-7c96a0f364da"
+    },
+    {
+      "word": "色とりどり",
+      "reading": "いろとりどり",
+      "meaningZh": "五颜六色的，各式各样的",
+      "meaningEn": "multicolored, various colors",
+      "level": "n3",
+      "exampleSentence": "色とりどりの花が咲き乱れていた。",
+      "id": "8474979d-5968-451a-94d5-ec13c1b544bb"
+    },
+    {
+      "word": "工夫する",
+      "reading": "くふうする",
+      "meaningZh": "想办法，设法",
+      "meaningEn": "to devise, to think up a plan",
+      "level": "n3",
+      "exampleSentence": "予算内で収まるように工夫した。",
+      "id": "40417448-6ecb-4a6c-89f7-ccfba44f717e"
+    },
+    {
+      "word": "期間限定",
+      "reading": "きかんげんてい",
+      "meaningZh": "期间限定",
+      "meaningEn": "limited time offer",
+      "level": "n3",
+      "exampleSentence": "このスイーツは期間限定なので、急いで買いに行こう。",
+      "id": "5f0eee03-76a0-4935-a799-f7e1c3e2558a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "〇〇公園の七夕ライトアップで、特に人気を集めているのはどのような点ですか？",
+      "options": [
+        "伝統的な七夕の飾り付けが豊富だから",
+        "七夕の物語をテーマにした美しいイルミネーションだから",
+        "地元の人々による手作りのイベントだから",
+        "静かで落ち着いた雰囲気だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この公園では、七夕の物語をテーマにした美しいイルミネーションが展開され、訪れる人々を魅了しています。」",
+      "id": "b5073225-c854-4760-b800-643cb0ae7ce2"
+    },
+    {
+      "question": "この記事では、ライトアップイベントについて、どのような点を勧めていますか？",
+      "options": [
+        "夏の暑さをしのげる涼やかな夜を過ごせること",
+        "期間限定なので、早めに訪れること",
+        "アクセスが良く、仕事帰りにも立ち寄れること",
+        "上記すべて"
+      ],
+      "correctIndex": 3,
+      "explanation": "「このライトアップは、夏の暑さを和らげ、涼やかな夜を過ごせるように工夫されています。また、期間限定なので、見逃さないように早めに訪れることをお勧めします。アクセスも比較的良いので、仕事帰りに立ち寄ることも可能です。」",
+      "id": "113edbd9-ad59-4e0f-94a4-b158db3c4123"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-27-77598fd30c",
+  "publishedAt": "2026-05-27T06:00:00+09:00"
+}

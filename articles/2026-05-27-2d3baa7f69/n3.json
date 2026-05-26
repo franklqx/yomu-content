@@ -1,0 +1,143 @@
+{
+  "title": "限定販売のアニメグッズ、なぜ買えない？転売問題とは",
+  "summary": "人気アニメの限定グッズがすぐに売り切れるのは、一部の転売業者のせいかもしれません。この問題について考えてみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメのイベントやオンラインストアで、特別な限定グッズが販売されることがありますね。とても欲しい商品でも、すぐに売り切れてしまうことが多いです。これは、本当のファンが買えない原因の一つになっています。",
+      "translationZh": "在动漫活动或网络商店里，有时会发售特别的限定周边商品。即使是非常想要的东西，也经常很快就卖完了。这成为了真正的粉丝买不到的原因之一。",
+      "translationEn": "At anime events or online stores, special limited-edition merchandise is sometimes sold. Even for items we really want, they often sell out quickly. This has become one of the reasons why true fans cannot purchase them.",
+      "id": "29ce2739-bb9a-4e58-a1d7-e8d08beecb98",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "その理由の一つに、「転売（てんばい）」があります。転売とは、商品を定価よりも高い値段で、次に買う人に売ることです。中には、意図的に多くの商品を買い占めて、高値で売りさばく業者もいると言われています。そのため、本来ファンが手に入れるべきグッズが、手に入りにくくなってしまうのです。",
+      "translationZh": "其中一个原因就是“转卖”。转卖是指将商品以比定价更高的价格卖给下一个购买者。据说，其中有些人是故意大量囤积商品，然后以高价卖出。因此，原本粉丝应该入手的周边变得难以到手。",
+      "translationEn": "One of the reasons for this is 'tenbai' (resale). Tenbai means selling goods to the next buyer at a price higher than the original price. It is said that some individuals intentionally buy up large quantities of goods and sell them at inflated prices. As a result, merchandise that fans should rightfully obtain becomes difficult to acquire.",
+      "id": "279e6d62-76ea-4682-a0ae-67bf10ec4c26",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "限定販売は、ファンの購買意欲を高める効果がある一方で、転売によって本来の目的が失われることがあります。ファンが正当な価格で商品を購入できるよう、運営側も対策を考える必要があるでしょう。例えば、購入数を制限したり、購入者情報を確認したりする方法が考えられます。",
+      "translationZh": "限定销售在提高粉丝购买欲方面有效果的同时，有时也会因为转卖而失去其原本的目的。为了让粉丝能够以合理价格购买商品，主办方也需要考虑对策。例如，可以考虑限制购买数量或确认购买者信息等方法。",
+      "translationEn": "While limited sales are effective in increasing fans' purchasing desire, their original purpose can be lost due to reselling. To allow fans to purchase goods at fair prices, organizers may need to consider countermeasures. For example, methods such as limiting the number of purchases or verifying buyer information can be considered.",
+      "id": "2fdd7f21-e730-4c37-a62c-acbe538c917c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "私たちができることとしては、転売品を買わないという選択も大切です。定価で適正に販売されているものを購入することで、転売市場の縮小につながるかもしれません。ファンのためにも、健全なグッズ販売のあり方を考えていきたいものです。",
+      "translationZh": "作为我们能做的事情，选择不购买转卖品也很重要。通过购买以定价格公平销售的商品，或许能有助于缩小转卖市场。为了粉丝，我们希望能够思考健全的周边销售方式。",
+      "translationEn": "As for what we can do, choosing not to buy resold items is also important. Purchasing items sold at their fair price may lead to the shrinking of the resale market. For the sake of the fans, we should aim to consider healthy ways of selling merchandise.",
+      "id": "7898ed31-dabf-4abb-8873-43f44c75722e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "限定販売",
+      "reading": "げんていはんばい",
+      "meaningZh": "限定销售",
+      "meaningEn": "limited sale",
+      "level": "n3",
+      "exampleSentence": "この商品は限定販売なので、すぐに売り切れますよ。",
+      "id": "f046e039-17c2-449d-bfbf-31c82f0208b9"
+    },
+    {
+      "word": "転売",
+      "reading": "てんばい",
+      "meaningZh": "转卖",
+      "meaningEn": "resale",
+      "level": "n3",
+      "exampleSentence": "チケットの転売は禁止されていることが多いです。",
+      "id": "02f386a9-65b0-45ba-a2ac-8473c132c17b"
+    },
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "goods, merchandise",
+      "level": "n5n4",
+      "exampleSentence": "ライブ会場で限定グッズを買いました。",
+      "id": "5a668d67-4db1-43c0-ad31-5f9e9d0f7129"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖光，售罄",
+      "meaningEn": "to sell out",
+      "level": "n3",
+      "exampleSentence": "人気商品なので、あっという間に売り切れてしまいました。",
+      "id": "fc143050-e98a-4a97-b1fa-a4d3d1050ba6"
+    },
+    {
+      "word": "買い占める",
+      "reading": "かいしめる",
+      "meaningZh": "囤积，抢购一空",
+      "meaningEn": "to buy up all of something",
+      "level": "n2n1",
+      "exampleSentence": "彼は限定品を買い占めて、後で高く売るつもりだ。",
+      "id": "bdf95c3e-f0ee-4185-928c-ef626b63657a"
+    },
+    {
+      "word": "高値",
+      "reading": "たかね",
+      "meaningZh": "高价",
+      "meaningEn": "high price",
+      "level": "n3",
+      "exampleSentence": "オークションでは、古い切手が予想以上の高値で落札された。",
+      "id": "c718a4c4-a097-41b0-bd3d-31df63da2e7a"
+    },
+    {
+      "word": "本来",
+      "reading": "ほんらい",
+      "meaningZh": "本来，原本",
+      "meaningEn": "originally, by nature",
+      "level": "n3",
+      "exampleSentence": "これは本来、誰でも買えるはずの商品です。",
+      "id": "e7a846fe-4fa3-419c-8a12-7b9439f9abe9"
+    },
+    {
+      "word": "健全",
+      "reading": "けんぜん",
+      "meaningZh": "健全，健康",
+      "meaningEn": "healthy, sound",
+      "level": "n2n1",
+      "exampleSentence": "健全な市場の発展のためには、ルールが必要です。",
+      "id": "6be4392d-a24d-4a23-9e59-0134c8ec3b30"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "限定グッズがすぐに売り切れてしまう理由として、本文で挙げられていることは何ですか？",
+      "options": [
+        "商品の人気が高すぎるから",
+        "転売業者が買い占めることがあるから",
+        "イベント会場が狭いから",
+        "値段が高すぎるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「その理由の一つに、「転売（てんばい）」があります。」と説明されています。また、「意図的に多くの商品を買い占めて、高値で売りさばく業者もいる」とも述べられています。",
+      "id": "56d993fc-3d19-4ab3-8cd2-09ae192377f6"
+    },
+    {
+      "question": "転売問題に対して、筆者が提案している対策や、私たちにできることは何ですか？",
+      "options": [
+        "転売業者の情報をもっと公開すること",
+        "限定グッズの販売数を増やすこと",
+        "転売品を買わないようにすること",
+        "アニメ会社に直接苦情を言うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "「私たちができることとしては、転売品を買わないという選択も大切です。」と述べられています。また、運営側への対策として「購入数を制限したり、購入者情報を確認したりする方法」も挙げられています。",
+      "id": "3bd7cf23-ab16-446d-a6ce-e44590d02733"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-27-2d3baa7f69",
+  "publishedAt": "2026-05-27T06:00:00+09:00"
+}
