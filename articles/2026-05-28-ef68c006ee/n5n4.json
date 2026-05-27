@@ -1,0 +1,114 @@
+{
+  "title": "若い男性も茶道に夢中",
+  "summary": "最近、茶道教室に通う若い男性が増えています。茶道は落ち着く時間を与えてくれます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、茶道教室に若い男性がたくさん来ています。以前は女性が多いイメージでしたが、今は違います。新しい風が吹いているようです。",
+      "translationZh": "最近，很多年轻男性来茶道教室学习。以前大家觉得茶道教室里女性比较多，但现在不一样了。好像吹来了一股新风。",
+      "translationEn": "Recently, many young men have been coming to tea ceremony classes. Before, the image was that there were many women, but now it's different. A new wind seems to be blowing.",
+      "id": "909cea36-6c2d-4fde-8e4d-bed82546cede",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "茶道は、静かな時間と美しい動きを学びます。忙しい毎日の中で、心を落ち着かせる時間を持つことができます。これは、若い人にとって大切です。",
+      "translationZh": "茶道是学习宁静的时间和优美的动作。在忙碌的日常生活中，可以拥有让心灵平静的时间。这对年轻人来说很重要。",
+      "translationEn": "Tea ceremony involves learning quiet time and beautiful movements. Amidst busy daily lives, one can have time to calm one's mind. This is important for young people.",
+      "id": "d71bdd4a-8b7e-43fb-badf-0b2128873be2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、茶道の作法を学ぶことは、日本の伝統文化を理解することにもつながります。新しい友達と出会うきっかけにもなるでしょう。だから、もっと多くの人が興味を持っているのかもしれません。",
+      "translationZh": "另外，学习茶道的礼仪也与理解日本传统文化相联系。这也会成为结识新朋友的契机。所以，可能更多的人对此感兴趣。",
+      "translationEn": "Also, learning the etiquette of tea ceremony leads to understanding Japanese traditional culture. It can also be an opportunity to meet new friends. That's why perhaps more people are interested.",
+      "id": "c0bc3dd7-a98f-4c82-b74f-f6ff6f1a119c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "茶道",
+      "reading": "さどう",
+      "meaningZh": "茶道",
+      "meaningEn": "tea ceremony",
+      "level": "n5n4",
+      "exampleSentence": "茶道を習っています。",
+      "id": "d63cf9a1-0008-4448-ae7b-e11fce781c16"
+    },
+    {
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaningZh": "教室",
+      "meaningEn": "classroom",
+      "level": "n5n4",
+      "exampleSentence": "これは日本語の教室です。",
+      "id": "80628678-798b-46aa-89f0-a7fa323191d4"
+    },
+    {
+      "word": "若い",
+      "reading": "わかい",
+      "meaningZh": "年轻的",
+      "meaningEn": "young",
+      "level": "n5n4",
+      "exampleSentence": "若い人が多いです。",
+      "id": "b1f5c510-a484-4546-bf9e-beb1fc6b9e5b"
+    },
+    {
+      "word": "男性",
+      "reading": "だんせい",
+      "meaningZh": "男性",
+      "meaningEn": "male",
+      "level": "n5n4",
+      "exampleSentence": "男性の学生もいます。",
+      "id": "d7106c11-beb9-4e9f-ac56-8b1e022b963a"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n3",
+      "exampleSentence": "これは日本の伝統的な建物です。",
+      "id": "1b5d1811-4d42-4991-991f-c5e3355959c8"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "7a849666-ee07-4d08-9686-d721781dcf00"
+    },
+    {
+      "word": "落ち着く",
+      "reading": "おちつく",
+      "meaningZh": "冷静下来；平静；安定",
+      "meaningEn": "to calm down; to feel at ease; to settle down",
+      "level": "n3",
+      "exampleSentence": "音楽を聞いて落ち着きました。",
+      "id": "794bd372-9e0f-46c3-881a-35f149f2bab1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "茶道教室に最近増えているのは誰ですか。",
+      "options": [
+        "若い女性",
+        "子供たち",
+        "若い男性",
+        "年配の人々"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「最近、茶道教室に若い男性がたくさん来ています。」と書いてあります。",
+      "id": "d9882817-b3a0-4a52-9b4d-0867458b6ae1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-28-ef68c006ee",
+  "publishedAt": "2026-05-28T06:00:00+09:00"
+}

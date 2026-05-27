@@ -1,0 +1,105 @@
+{
+  "title": "新しい工場ができました！",
+  "summary": "日本の会社が新しい工場を建てました。この工場は半導体を作ります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の会社が新しい工場を建てました。この工場はとても大きいです。ここで半導体を作ります。半導体は、スマホやパソコンに使う大事な部品です。",
+      "translationZh": "日本的一家公司建造了新工厂。这个工厂非常大。在这里制造半导体。半导体是智能手机和电脑使用的重要部件。",
+      "translationEn": "A Japanese company built a new factory. This factory is very big. They make semiconductors here. Semiconductors are important parts used in smartphones and computers.",
+      "id": "c39e38f8-66fb-4287-8788-afe1567d7c99",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい工場は、去年から準備していました。たくさんの人が働いています。この工場で、もっとたくさんの半導体を作ることができるようになります。",
+      "translationZh": "新工厂从去年开始准备。很多人在那里工作。有了这个工厂，就能制造出更多的半导体了。",
+      "translationEn": "The new factory had been prepared since last year. Many people are working there. With this factory, it will be possible to make more semiconductors.",
+      "id": "2bf6ab17-c711-4299-a816-2c8ad1410c0a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "会社は「もっと良い製品を作りたい」と言いました。この新しい工場で、技術も進歩するでしょう。日本にとって、とても良いニュースです。",
+      "translationZh": "公司说：“我们想制造更好的产品。”有了这个新工厂，技术也会进步。这对日本来说是非常好的消息。",
+      "translationEn": "The company said, \"We want to make better products.\" With this new factory, technology will also advance. This is very good news for Japan.",
+      "id": "7f0df359-253a-4b31-800f-41f2e2d45c21",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaningZh": "工厂",
+      "meaningEn": "factory",
+      "level": "n5n4",
+      "exampleSentence": "この工場は大きいです。",
+      "id": "bfff9c5c-42d7-4a35-852f-61dc54db72d8"
+    },
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "半導体は大事な部品です。",
+      "id": "451fb67d-e41b-409d-a623-b43a35e8b4d1"
+    },
+    {
+      "word": "建てる",
+      "reading": "たてる",
+      "meaningZh": "建造，建立",
+      "meaningEn": "to build",
+      "level": "n5n4",
+      "exampleSentence": "新しい家を建てました。",
+      "id": "cd7568b6-8d10-430d-a7c1-4472b3abe8d2"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をします。",
+      "id": "6c20471e-a84a-4086-b72a-0938151b512f"
+    },
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaningZh": "进步",
+      "meaningEn": "progress, advancement",
+      "level": "n3",
+      "exampleSentence": "日本語の勉強が進歩しました。",
+      "id": "4f9c11f6-6294-4056-9fa8-38521a62ee3c"
+    },
+    {
+      "word": "製品",
+      "reading": "せいひん",
+      "meaningZh": "产品",
+      "meaningEn": "product",
+      "level": "n3",
+      "exampleSentence": "これは新しい製品です。",
+      "id": "ea59e14c-eac3-461b-8d7b-0d93cac8775f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい工場は何を作りますか？",
+      "options": [
+        "車",
+        "半導体",
+        "食べ物",
+        "薬"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「ここで半導体を作ります。」と書いてあります。",
+      "id": "3a5628c9-66d3-423d-bd26-a3e1664a17f0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-28-c52965aeb4",
+  "publishedAt": "2026-05-28T06:00:00+09:00"
+}

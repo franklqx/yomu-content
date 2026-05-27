@@ -1,0 +1,135 @@
+{
+  "title": "国産半導体メーカー、新工場で生産開始！",
+  "summary": "国内の半導体メーカーが新しい工場を稼働させました。これにより、技術力の向上と供給の安定が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の大手半導体メーカーである「テック・ジャパン」が、最新鋭の工場を稼働させました。この新工場では、高性能な半導体の生産が始まり、将来の技術革新に貢献することが期待されています。この動きは、国内の産業にとって非常に重要です。",
+      "translationZh": "日本的大型半导体制造商“Tech Japan”启动了其最先进的工厂。新工厂已经开始生产高性能半导体，预计将为未来的技术创新做出贡献。这一举措对国内产业来说非常重要。",
+      "translationEn": "Japan's leading semiconductor manufacturer, 'Tech Japan', has activated its state-of-the-art factory. Production of high-performance semiconductors has begun at this new facility, and it is expected to contribute to future technological innovation. This move is extremely important for the domestic industry.",
+      "id": "9f9c3c80-20b2-4785-be99-f006a947cd5d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これまで、半導体の供給は一部の国に集中していましたが、この新工場の稼働によって、供給網の安定化が期待できます。また、国内での生産能力が増えることで、国際競争力の強化にもつながるでしょう。多くの人がこのニュースを歓迎しています。",
+      "translationZh": "过去，半导体的供应集中在少数几个国家，但随着新工厂的启用，预计供应链将得到稳定。此外，国内生产能力的提高也将有助于加强国际竞争力。许多人都欢迎这一消息。",
+      "translationEn": "Previously, semiconductor supply was concentrated in a few countries, but with the activation of this new factory, supply chain stabilization is expected. Furthermore, increased domestic production capacity will also lead to enhanced international competitiveness. Many people are welcoming this news.",
+      "id": "c2cdf88f-0a77-4656-8a85-b6439730e2dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新工場では、環境への配慮も進められています。省エネルギー技術を積極的に導入し、二酸化炭素の排出量を抑える努力をしています。そのため、地域社会からも良い評判を得ているようです。これからも、技術と環境の両立を目指していくとのことです。",
+      "translationZh": "在新工厂，环境保护也在被积极推进。他们积极引进节能技术，努力减少二氧化碳排放。因此，他们似乎也得到了当地社区的好评。据说他们今后也将致力于技术与环境的并存。",
+      "translationEn": "Environmental considerations are also being advanced at the new factory. Energy-saving technologies are actively being introduced to reduce carbon dioxide emissions. For this reason, they seem to be receiving positive feedback from the local community as well. They state that they will continue to aim for a balance between technology and the environment.",
+      "id": "3463c756-27a2-4142-884a-fd1dfc37b756",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "この部品は半導体で作られています。",
+      "id": "8245fdc2-bd8f-42fd-9ef0-5dbf5e61e5a5"
+    },
+    {
+      "word": "メーカー",
+      "reading": "めーかー",
+      "meaningZh": "制造商",
+      "meaningEn": "manufacturer",
+      "level": "n3",
+      "exampleSentence": "新しい車がそのメーカーから発売されました。",
+      "id": "6c5e3c83-e6e0-41c0-8fa9-4d71477a8706"
+    },
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaningZh": "工厂",
+      "meaningEn": "factory",
+      "level": "n3",
+      "exampleSentence": "この工場では毎日たくさんの製品が作られています。",
+      "id": "f5a0c305-bfa9-40ef-b8ce-56c41fdc363b"
+    },
+    {
+      "word": "稼働",
+      "reading": "かどう",
+      "meaningZh": "运转，运行",
+      "meaningEn": "operation, running",
+      "level": "n3",
+      "exampleSentence": "新しい機械が今日から稼働します。",
+      "id": "aeebdd07-58d7-4ade-b7de-4e05e8772e63"
+    },
+    {
+      "word": "高性能",
+      "reading": "こうせいのう",
+      "meaningZh": "高性能",
+      "meaningEn": "high performance",
+      "level": "n3",
+      "exampleSentence": "このパソコンは高性能なので、ゲームも快適にできます。",
+      "id": "9a5f0823-f4bf-4ded-af53-4e87f24735da"
+    },
+    {
+      "word": "供給",
+      "reading": "きょうきゅう",
+      "meaningZh": "供应",
+      "meaningEn": "supply",
+      "level": "n3",
+      "exampleSentence": "品不足で、商品の供給が遅れています。",
+      "id": "ac7b4216-aeab-4559-be1c-5bda2f86ef55"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaningZh": "稳定",
+      "meaningEn": "stability",
+      "level": "n3",
+      "exampleSentence": "経済の安定は国民生活のために重要です。",
+      "id": "dbb871cc-2778-46ad-99e3-5e81213b5b0c"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "关怀，关照，体谅",
+      "meaningEn": "consideration, care",
+      "level": "n3",
+      "exampleSentence": "お客様への配慮を忘れないでください。",
+      "id": "295823e2-ad51-42d5-b519-911da84cc9f8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この新工場が稼働することで、最も期待されていることは何ですか？",
+      "options": [
+        "海外との国際会議が増えること",
+        "最新のロボット技術が開発されること",
+        "半導体の供給が安定すること",
+        "工場の見学者が増えること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中に「この新工場の稼働によって、供給網の安定化が期待できます。」とあります。",
+      "id": "dbe59684-f618-4e4b-8ffe-b254d39a2d24"
+    },
+    {
+      "question": "新工場では、どのような点にも力を入れていると書かれていますか？",
+      "options": [
+        "従業員の給料を上げること",
+        "地域のお祭りに参加すること",
+        "環境への配慮と技術の両立",
+        "古い機械を修理して使うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中に「新工場では、環境への配慮も進められています。」そして「これからも、技術と環境の両立を目指していくとのことです。」とあります。",
+      "id": "8af4eedb-1c64-4a47-929a-46aa87e7ba9b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-28-c52965aeb4",
+  "publishedAt": "2026-05-28T06:00:00+09:00"
+}

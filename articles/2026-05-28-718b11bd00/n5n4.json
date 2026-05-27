@@ -1,0 +1,131 @@
+{
+  "title": "京都のお祭りは混む！穴場ルート",
+  "summary": "京都のお祭りはとても楽しいですが、人が多いです。人が少ない道を選んで、京都を楽しみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "京都では、夏にお祭りがたくさんあります。祇園祭や葵祭は有名です。でも、お祭りの日は人がとても多くて、歩くのも大変です。",
+      "translationZh": "在京都，夏天有很多祭典。祇园祭和葵祭很有名。但是，祭典的日子人非常多，连走路都很困难。",
+      "translationEn": "In Kyoto, there are many festivals in the summer. Gion Festival and Aoi Festival are famous. However, on festival days, there are so many people, it's hard even to walk.",
+      "id": "176162e1-a054-460f-8dbe-8606b632b7c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "有名な場所は、いつも混んでいます。例えば、清水寺や金閣寺です。お祭りの日には、もっと人が多くなります。だから、有名な場所の近くは避けたほうがいいかもしれません。",
+      "translationZh": "有名的地方总是很拥挤。例如，清水寺和金阁寺。祭典的日子，人会更多。所以，也许最好避开有名的地方附近。",
+      "translationEn": "Famous places are always crowded. For example, Kiyomizu-dera and Kinkaku-ji. On festival days, there are even more people. Therefore, it might be better to avoid areas near famous places.",
+      "id": "9211a671-f3ff-45d7-97a7-0203526dec38",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "人が少ない道を見つけるのが大切です。地図を見て、細い道を選んでみましょう。バスや電車の駅の近くではなく、少し離れた場所から歩くと、静かな道が見つかることがあります。",
+      "translationZh": "找到人少的小路很重要。看看地图，试着选择小巷子。不要在公共汽车或电车站附近，而是从稍微远一点的地方开始走，有时能找到安静的路。",
+      "translationEn": "It's important to find paths with fewer people. Look at the map and try choosing narrow streets. If you walk from a place a little further away, not near bus or train stations, you might find quiet paths.",
+      "id": "79e5d95d-f7c2-4092-9946-a35bdabc89bd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お祭りの雰囲気を楽しみたいなら、少し早起きするのもいい方法です。朝早く行くと、人が少なく、ゆっくり見ることができます。京都の美しい景色も、静かな時間に見ると、もっと感動しますよ。",
+      "translationZh": "如果想享受祭典的气氛，早起一点也是个好方法。早上早点去，人少，可以慢慢看。京都美丽的景色，在安静的时候看，会更令人感动。",
+      "translationEn": "If you want to enjoy the festival atmosphere, waking up a little early is also a good idea. If you go early in the morning, there are fewer people, and you can see things slowly. Kyoto's beautiful scenery, when seen in quiet moments, is even more moving.",
+      "id": "35227141-7ddd-4585-b6fd-6612995e9ea8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お祭り",
+      "reading": "おまつり",
+      "meaningZh": "祭典，节日",
+      "meaningEn": "festival",
+      "level": "n5n4",
+      "exampleSentence": "夏は京都でお祭りがたくさんあります。",
+      "id": "463c0bde-1d13-49ed-a6ec-3452396e5883"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤",
+      "meaningEn": "to be crowded",
+      "level": "n5n4",
+      "exampleSentence": "週末は道がとても混みます。",
+      "id": "4da15365-f106-43aa-ad24-d11d70b5ce12"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名的",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "京都は古いお寺で有名です。",
+      "id": "c428f02c-c27e-4435-b741-33b6ad97e5cd"
+    },
+    {
+      "word": "避ける",
+      "reading": "さける",
+      "meaningZh": "避开",
+      "meaningEn": "to avoid",
+      "level": "n3",
+      "exampleSentence": "人が多い場所を避けて歩きました。",
+      "id": "cf8e83c1-9f65-45e9-a049-c7b1b773fa11"
+    },
+    {
+      "word": "細い",
+      "reading": "ほそい",
+      "meaningZh": "细的",
+      "meaningEn": "narrow, thin",
+      "level": "n5n4",
+      "exampleSentence": "この道はとても細いです。",
+      "id": "7395cab2-664c-4dc9-bc57-57f97c55bf16"
+    },
+    {
+      "word": "離れる",
+      "reading": "はなれる",
+      "meaningZh": "离开，远离",
+      "meaningEn": "to be distant, to separate",
+      "level": "n3",
+      "exampleSentence": "駅からは少し離れています。",
+      "id": "ad73c6b6-b70a-4cc1-929a-aecdfff677e8"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "お祭りの雰囲気が好きです。",
+      "id": "d18fd3d0-b006-4059-80cd-5c558dc1c1a6"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "deep emotion, impression",
+      "level": "n3",
+      "exampleSentence": "美しい景色を見て感動しました。",
+      "id": "52fc4939-556c-4a9c-8868-9274243daa55"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "お祭りの日、有名な場所の近くはどうなりますか？",
+      "options": [
+        "人が少なくなります。",
+        "静かになります。",
+        "もっと人が多くなります。",
+        "車が通りやすくなります。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「お祭りの日には、もっと人が多くなります。」と書いてあります。",
+      "id": "effe826b-2e01-457a-9d57-a7099f02564a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-28-718b11bd00",
+  "publishedAt": "2026-05-28T06:00:00+09:00"
+}
