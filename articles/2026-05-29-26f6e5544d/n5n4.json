@@ -1,0 +1,122 @@
+{
+  "title": "秋の味覚！限定スイーツ登場",
+  "summary": "秋になりました。お店には、秋の味覚を使った限定商品がたくさん出てきました。特にスイーツは人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋は食べ物がおいしい季節です。栗（くり）、さつまいも、かぼちゃなど、甘いものがたくさんあります。これらの味覚を使った限定商品が、いろいろなお店で売られています。",
+      "translationZh": "秋天是食物美味的季节。有栗子、红薯、南瓜等各种甜美的食材。用这些味道制作的限定商品，在各种商店都有销售。",
+      "translationEn": "Autumn is a season for delicious food. There are many sweet ingredients like chestnuts, sweet potatoes, and pumpkins. Limited products using these flavors are sold in various stores.",
+      "id": "0951886a-1751-40af-a4b4-da2d787169ce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、コンビニやカフェでは、秋限定のスイーツがたくさん見られます。例えば、栗のモンブランや、かぼちゃのプリンなどです。見た目も秋らしくて、とてもきれいです。",
+      "translationZh": "尤其是在便利店和咖啡店，可以看到很多秋季限定的甜点。例如，栗子蒙布朗、南瓜布丁等。外观也很像秋天，非常漂亮。",
+      "translationEn": "Especially in convenience stores and cafes, many autumn-limited sweets can be seen. For example, chestnut Mont Blanc and pumpkin pudding. They look very autumnal and beautiful.",
+      "id": "da88252c-258f-479c-9d05-18f493c523c5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの限定商品は、期間限定でしか買えません。だから、早く買わないと、なくなってしまいます。秋の味覚を味わいたい人は、お店に行ってみてください。",
+      "translationZh": "这些限定商品只能在有限的时间内购买。所以，如果不快点买，就会卖完。想品尝秋季味道的人，请去店里看看。",
+      "translationEn": "These limited products can only be bought for a limited time. So, if you don't buy them quickly, they will be gone. People who want to enjoy the autumn flavors should try visiting the stores.",
+      "id": "d7e5d475-1de7-44f2-a348-11faff33de55",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お菓子だけでなく、パンや飲み物にも秋の味覚が登場しています。温かい飲み物と一緒に、秋のスイーツを楽しむのもいいですね。",
+      "translationZh": "不仅是点心，面包和饮料中也出现了秋季的味道。和热饮一起享用秋季甜点也不错。",
+      "translationEn": "Not only sweets, but also autumn flavors are appearing in bread and drinks. It's nice to enjoy autumn sweets with a warm drink.",
+      "id": "654e17d0-c61d-4ccf-9cc1-35204d7f66c1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は涼しい季節です。",
+      "id": "d6833b66-5e21-4c82-93ba-ce4644814765"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味道，风味",
+      "meaningEn": "taste, flavor",
+      "level": "n3",
+      "exampleSentence": "null",
+      "id": "0ec2e539-7a1e-4c21-ac0b-b0260963fcb4"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定，限制",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "この商品は限定です。",
+      "id": "198e1f54-40e9-44e2-92e7-1ecc44088884"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaningZh": "登场，出现",
+      "meaningEn": "appearance, arrival",
+      "level": "n3",
+      "exampleSentence": "新しいキャラクターが登場しました。",
+      "id": "bb2c4289-b939-4f38-bd7a-a9fcacc23220"
+    },
+    {
+      "word": "栗",
+      "reading": "くり",
+      "meaningZh": "栗子",
+      "meaningEn": "chestnut",
+      "level": "n5n4",
+      "exampleSentence": "栗がおいしい季節です。",
+      "id": "df14f7f4-5d83-483c-a984-2965299244f0"
+    },
+    {
+      "word": "かぼちゃ",
+      "reading": "かぼちゃ",
+      "meaningZh": "南瓜",
+      "meaningEn": "pumpkin",
+      "level": "n5n4",
+      "exampleSentence": "かぼちゃのスープが好きです。",
+      "id": "f8792b78-3abd-4f81-8627-1c4f485dd34b"
+    },
+    {
+      "word": "期間限定",
+      "reading": "きかんげんてい",
+      "meaningZh": "期间限定",
+      "meaningEn": "limited time",
+      "level": "n3",
+      "exampleSentence": "期間限定のセールです。",
+      "id": "368a54be-3a8d-4b41-a033-14929ccfa952"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニやカフェでは、どんな商品がたくさん見られますか。",
+      "options": [
+        "春限定の飲み物",
+        "夏限定の食べ物",
+        "秋限定のスイーツ",
+        "冬限定のお菓子"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「特に、コンビニやカフェでは、秋限定のスイーツがたくさん見られます。」と書いてあります。",
+      "id": "cf2b551f-9276-4377-90ed-ef6551d7c423"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-29-26f6e5544d",
+  "publishedAt": "2026-05-29T06:00:00+09:00"
+}

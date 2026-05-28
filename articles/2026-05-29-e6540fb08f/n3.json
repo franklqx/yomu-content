@@ -1,0 +1,135 @@
+{
+  "title": "商店街にコーヒーが？その理由とは",
+  "summary": "最近、昔ながらの商店街に新しいコーヒースタンドが増えているのをご存知ですか？今回は、その理由を探ってみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔からある商店街は、地域の人々にとって大切な場所ですが、近年、シャッターが閉まったままのお店も目立つようになりました。そんな中、新しいお店、特におしゃれなコーヒースタンドがオープンするケースが増えています。これは、商店街が新しい客層を取り込もうとしている工夫の一つと言えるでしょう。",
+      "translationZh": "老牌的商店街是社区居民的重要场所，但近年来，关门的店铺也随之增多。在这种情况下，新开的店铺，特别是时尚的咖啡店，出现的案例越来越多。可以说，这是商店街为了吸引新的顾客群体而做出的一种尝试。",
+      "translationEn": "Long-established shopping streets are important places for local residents, but in recent years, more and more shops have been seen with their shutters closed. Amidst this trend, there's an increasing number of cases where new businesses, especially stylish coffee stands, are opening. This can be seen as one of the efforts by shopping streets to attract new customer demographics.",
+      "id": "b0e6b4b0-7596-48fb-833e-e6c154b423e7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コーヒースタンドは、比較的小さなスペースでも始めやすく、初期投資も抑えやすいというメリットがあります。そのため、若い起業家や、新しいことに挑戦したい人にとって、商店街は魅力的な場所になりやすいのです。また、昔ながらのお店と新しいお店が混在することで、商店街全体に活気が生まれ、新しい発見があるかもしれません。",
+      "translationZh": "咖啡店的优点是，即使在较小的空间里也容易开始经营，而且初期投资也容易控制。因此，对于年轻的企业家或想尝试新事物的人来说，商店街很容易成为一个有吸引力的地方。另外，老店和新店混杂在一起，可能会为整个商店街带来活力，带来新的发现。",
+      "translationEn": "Coffee stands have the advantage of being easy to start even in relatively small spaces, and initial investment costs can be kept down. Therefore, for young entrepreneurs or those who want to try something new, shopping streets tend to be attractive locations. Furthermore, the coexistence of old and new shops can bring vitality to the entire shopping street, possibly leading to new discoveries.",
+      "id": "64163841-e2c5-406d-be02-faf0006e570b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、最近では、地域の人々とのつながりを大切にする「サードプレイス」としてのカフェの役割が注目されています。商店街のコーヒースタンドは、単にコーヒーを飲む場所というだけでなく、近所の人々が集まり、交流するコミュニティの場としても機能することが期待されているのです。このように、商店街は時代に合わせて変化し、その魅力を高めようとしているのです。",
+      "translationZh": "此外，最近人们越来越关注咖啡馆作为“第三空间”的作用，即重视与社区居民的联系。商店街的咖啡店不仅被期望成为一个喝咖啡的地方，还能成为邻居们聚集、交流的社区场所。就这样，商店街正在顺应时代变化，努力提升其魅力。",
+      "translationEn": "Furthermore, recently, the role of cafes as 'third places' that value connections with local residents has been gaining attention. Coffee stands in shopping streets are expected to function not just as places to drink coffee, but also as community hubs where neighbors can gather and interact. In this way, shopping streets are adapting to the times and trying to enhance their appeal.",
+      "id": "e62ac965-8425-4e7f-ab1f-79bd8eca23aa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街，商业街",
+      "meaningEn": "shopping street, commercial street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつも賑わっています。",
+      "id": "a6ea4c8a-9841-4c07-8f8f-9b8f8e9a7341"
+    },
+    {
+      "word": "シャッター",
+      "reading": "しゃったー",
+      "meaningZh": "卷帘门，卷闸门",
+      "meaningEn": "shutter",
+      "level": "n3",
+      "exampleSentence": "閉店時間になると、お店のシャッターが下りる。",
+      "id": "29562731-c09f-4974-a5e6-ebd75063885e"
+    },
+    {
+      "word": "目立つ",
+      "reading": "めだつ",
+      "meaningZh": "显眼，引人注目",
+      "meaningEn": "to be conspicuous, to stand out",
+      "level": "n3",
+      "exampleSentence": "彼の服装はとても目立っていた。",
+      "id": "346d1785-0d72-44e9-a394-49ec64ed7b0f"
+    },
+    {
+      "word": "客層",
+      "reading": "きゃくそう",
+      "meaningZh": "顾客群体，顾客阶层",
+      "meaningEn": "customer base, customer demographics",
+      "level": "n3",
+      "exampleSentence": "この新しい店は、若い客層に人気があるようだ。",
+      "id": "9e032dee-e94c-4926-86d9-891704fe2c38"
+    },
+    {
+      "word": "起業家",
+      "reading": "きぎょうか",
+      "meaningZh": "创业者，企业家",
+      "meaningEn": "entrepreneur, businessperson",
+      "level": "n3",
+      "exampleSentence": "彼は有名な起業家になった。",
+      "id": "264a8707-9094-41e6-b617-34e0a24fd00f"
+    },
+    {
+      "word": "混在",
+      "reading": "こんざい",
+      "meaningZh": "混杂，混合存在",
+      "meaningEn": "mixture, coexistence",
+      "level": "n3",
+      "exampleSentence": "古い建物と新しい建物が混在している街だ。",
+      "id": "b1105576-7f83-4d0e-9e8b-3e4fea46c34c"
+    },
+    {
+      "word": "サードプレイス",
+      "reading": "さーどぷれいす",
+      "meaningZh": "第三空间（指家和工作场所之外的，可以放松交流的场所）",
+      "meaningEn": "third place (a place outside of home and work where one can relax and socialize)",
+      "level": "n3",
+      "exampleSentence": "このカフェは、地域の人々のサードプレイスになっている。",
+      "id": "e0ab44bf-60a7-4699-8a00-d84344f975a7"
+    },
+    {
+      "word": "機能する",
+      "reading": "きのうする",
+      "meaningZh": "起作用，发挥功能",
+      "meaningEn": "to function",
+      "level": "n3",
+      "exampleSentence": "このシステムは、新しい方法で機能する。",
+      "id": "d2b7d32d-4fed-4891-a0c3-2231ec069a2b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "商店街にコーヒースタンドが増えている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "昔ながらの店が少なくなったから。",
+        "新しい客層を取り込みたいという商店街の工夫だから。",
+        "コーヒーの値段が安くなったから。",
+        "若い人たちだけが商店街を利用するようになったから。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「これは、商店街が新しい客層を取り込もうとしている工夫の一つと言えるでしょう。」と書かれています。",
+      "id": "e40c1bb6-7d8a-4a9c-9e76-13d5062c312c"
+    },
+    {
+      "question": "コーヒースタンドは、商店街においてどのような役割を果たすことが期待されていますか？",
+      "options": [
+        "昔の雰囲気を保つためだけの場所。",
+        "若い起業家のためだけの場所。",
+        "地域の人々が集まり、交流するコミュニティの場。",
+        "観光客だけが利用する場所。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「地域の人々とのつながりを大切にする「サードプレイス」としてのカフェの役割が注目されています。」そして「近所の人々が集まり、交流するコミュニティの場としても機能することが期待されているのです。」とあります。",
+      "id": "69f04526-7cef-412c-bbcf-2ebbc7a2b6ca"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-29-e6540fb08f",
+  "publishedAt": "2026-05-29T06:00:00+09:00"
+}

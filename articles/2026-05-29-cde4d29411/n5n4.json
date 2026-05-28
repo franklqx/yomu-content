@@ -1,0 +1,122 @@
+{
+  "title": "二次元アイドルのすごい進化",
+  "summary": "昔と今の二次元アイドルは、見え方が違います。技術が発展して、もっと楽しくなりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルはアニメやゲームによく出てきました。歌やダンスは紙の上でした。でも、楽しかったです。",
+      "translationZh": "以前，二次元偶像经常出现在动画和游戏中。歌唱和舞蹈都停留在纸面上。但是，大家依然很开心。",
+      "translationEn": "In the past, 2D idols often appeared in anime and games. Their singing and dancing were on paper. But it was still fun.",
+      "id": "962e031a-62c3-4f67-af8b-fef6959a2453",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、二次元アイドルのライブはすごいです。きれいな絵が動きます。歌もダンスも本物みたいです。技術が進んだからです。",
+      "translationZh": "最近，二次元偶像的演唱会很厉害。美丽的画面会动起来。歌声和舞蹈都像真的一样。这是因为技术进步了。",
+      "translationEn": "Recently, 2D idol concerts are amazing. Beautiful pictures move. The singing and dancing look real. This is because technology has advanced.",
+      "id": "8153e6ab-04fd-4b20-ae91-823ab6b3a7bb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "プロジェクターやコンピューターを使います。光や映像がきれいです。ファンは「わあ、すごい！」と思います。新しい体験ができます。",
+      "translationZh": "使用了投影仪和电脑。光线和影像很漂亮。粉丝们会想：“哇，好厉害！”。大家可以获得全新的体验。",
+      "translationEn": "They use projectors and computers. The lights and images are beautiful. Fans think, 'Wow, amazing!' They can have a new experience.",
+      "id": "e009e317-9dc7-4dbd-a4e1-ed9cd39b7e39",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも二次元アイドルのライブはもっと面白くなるでしょう。新しい技術で、もっと感動するものができるはずです。",
+      "translationZh": "今后，二次元偶像的演唱会应该会变得更有趣。用新技术，应该能创造出更感人的作品。",
+      "translationEn": "In the future, 2D idol concerts will likely become even more interesting. With new technology, more moving performances should be possible.",
+      "id": "08dbc0a1-ac68-4610-a41e-9c92d6d1a5d0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "过去，以前",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町は小さかったです。",
+      "id": "66ca000d-6b63-44f3-91d6-8c5a2be7d2c5"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化，发展",
+      "meaningEn": "evolution, development",
+      "level": "n3",
+      "exampleSentence": "技術の進化は速いです。",
+      "id": "002b8d61-59f5-48bc-a462-ecb56c890eb7"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を学びました。",
+      "id": "5ad333cc-4ec5-451e-ac9a-f09433b59f11"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaningZh": "发展",
+      "meaningEn": "development, progress",
+      "level": "n3",
+      "exampleSentence": "経済の発展が続いています。",
+      "id": "b82e9b85-31d0-45f3-ab48-8a07fed4bbc7"
+    },
+    {
+      "word": "映像",
+      "reading": "えいぞう",
+      "meaningZh": "影像，图像",
+      "meaningEn": "image, video",
+      "level": "n3",
+      "exampleSentence": "きれいな映像が見られます。",
+      "id": "d6e0cff6-ceda-43df-a2d8-43b0552ee4f7"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "初めての体験は忘れられません。",
+      "id": "9f035c7c-c0f9-492b-87c7-22d5e8373b58"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "deep emotion, impression",
+      "level": "n3",
+      "exampleSentence": "その話はとても感動しました。",
+      "id": "05f6c1d7-bae3-44fd-bafa-0a797409d8c0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の二次元アイドルのライブは、昔と比べてどう変わりましたか？",
+      "options": [
+        "絵がきれいで、本物みたいになった",
+        "歌が上手になった",
+        "もっとたくさんの人が来るようになった",
+        "ファンがおとなしくなった"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「最近、二次元アイドルのライブはすごいです。きれいな絵が動きます。歌もダンスも本物みたいです。」と書いてあります。",
+      "id": "85a03287-b574-4175-971b-21087325b143"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-29-cde4d29411",
+  "publishedAt": "2026-05-29T06:00:00+09:00"
+}

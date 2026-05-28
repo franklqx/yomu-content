@@ -1,0 +1,122 @@
+{
+  "title": "商店街にコーヒーが増えた！",
+  "summary": "最近、商店街に新しいコーヒースタンドがたくさんできました。その理由を見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、商店街はたくさんの店がありました。しかし、最近はあまり人が来なくなりました。だから、新しい店を作るのが難しくなりました。",
+      "translationZh": "以前，商店街有很多商店。但是，最近来的人变少了。所以，开新店变得困难了。",
+      "translationEn": "In the past, there were many shops in the shopping street. However, recently, fewer people have been coming. Therefore, it became difficult to open new shops.",
+      "id": "47365841-3198-47de-b5cb-065c5bb34c3e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、コーヒースタンドは違います。小さい店でも始められます。また、コーヒーは多くの人が好きです。だから、お客さんが来やすいのです。",
+      "translationZh": "但是，咖啡店不一样。即使是小店也能开始。而且，很多人喜欢咖啡。所以，顾客容易来。",
+      "translationEn": "However, coffee stands are different. They can be started even with a small shop. Also, many people like coffee. Therefore, it is easy for customers to come.",
+      "id": "8273b21c-cd0e-4eca-a549-9aad344da785",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "商店街の人々もコーヒースタンドを歓迎します。コーヒーを飲んで、ゆっくり買い物をする人が増えました。商店街が元気になったのです。",
+      "translationZh": "商店街的人们也欢迎咖啡店。喝着咖啡，悠闲购物的人增加了。商店街因此变得有活力了。",
+      "translationEn": "People in the shopping street also welcome coffee stands. The number of people who drink coffee and shop leisurely has increased. The shopping street became lively.",
+      "id": "5f26c88c-1f09-4586-b4cb-98188efc2e72",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、商店街にいろいろな店が増えるといいですね。地域がもっと楽しくなります。",
+      "translationZh": "今后，商店街能增加各种各样的店就好了。地区会变得更有趣。",
+      "translationEn": "In the future, it would be good if various shops increase in the shopping street. The area will become more enjoyable.",
+      "id": "b45ec71f-d440-4191-81bb-d34cebf8af54",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はとてもにぎやかです。",
+      "id": "b36ec9ac-7c8a-4ed3-9c88-6dc74341a6ba"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "店が増えました。",
+      "id": "669229b5-4985-42fa-bec5-e7b655238689"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaningZh": "理由",
+      "meaningEn": "reason",
+      "level": "n5n4",
+      "exampleSentence": "その理由はわかりません。",
+      "id": "b5de38c6-706c-4bc0-bbd0-a91a638c4c23"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "in the past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔はここに大きな木がありました。",
+      "id": "9009cc5c-b165-4f2b-8eea-a8e25ad6b21a"
+    },
+    {
+      "word": "歓迎する",
+      "reading": "かんげいする",
+      "meaningZh": "欢迎",
+      "meaningEn": "to welcome",
+      "level": "n3",
+      "exampleSentence": "新しい友達を歓迎します。",
+      "id": "3e475d27-59d5-4f64-8117-90e4fdf23a09"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精神，活力",
+      "meaningEn": "energy, spirit, lively",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも元気です。",
+      "id": "c06da13b-fe2a-4d60-a635-6c6171277ac6"
+    },
+    {
+      "word": "ゆっくり",
+      "reading": "ゆっくり",
+      "meaningZh": "慢慢地",
+      "meaningEn": "slowly",
+      "level": "n5n4",
+      "exampleSentence": "コーヒーをゆっくり飲みます。",
+      "id": "0714b675-b733-4f30-81ee-17a609b28063"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ商店街にコーヒースタンドが増えましたか？",
+      "options": [
+        "昔からコーヒー屋がたくさんあったから。",
+        "コーヒースタンドは小さい店でも始められるし、コーヒーは人気があるから。",
+        "商店街の人がコーヒーを飲むのが好きではないから。",
+        "新しい店を作るのがとても簡単になったから。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「コーヒースタンドは違います。小さい店でも始められます。また、コーヒーは多くの人が好きです。だから、お客さんが来やすいのです。」と書いてあります。",
+      "id": "eef8fc24-0bd1-457c-8273-e142929597be"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-29-e6540fb08f",
+  "publishedAt": "2026-05-29T06:00:00+09:00"
+}

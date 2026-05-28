@@ -1,0 +1,138 @@
+{
+  "title": "商店街にコーヒー需要増、新店舗続々",
+  "summary": "近年、日本の商店街において、個性的なコーヒースタンドの出店が相次いでいる。その背景には、若者層のライフスタイルの変化や、地域活性化への期待などが複合的に影響していると見られる。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "かつては地域住民の生活を支える小売店が軒を連ねていた商店街だが、近年、その風景に変化が見られるようになった。特に、こだわりのコーヒーを提供するコーヒースタンドの出店が目立つようになり、賑わいを取り戻すきっかけとなっている場所も少なくない。これらの店舗は、単にコーヒーを販売するだけでなく、地域住民や若者たちが気軽に立ち寄れるコミュニティスペースとしての役割も担っているとのことだ。",
+      "translationZh": "曾经，商店街鳞次栉比的都是支撑着地区居民生活的零售店，但近年来，其景象发生了变化。特别是，提供精选咖啡的咖啡馆的出店引人注目，为重拾热闹景象提供了契机的地方也不在少数。据称，这些店铺不仅仅是售卖咖啡，还在扮演着地区居民和年轻人可以随意光顾的社区空间的角色。",
+      "translationEn": "In the past, shopping streets were lined with retail stores supporting the daily lives of local residents, but in recent years, their landscape has begun to change. In particular, the opening of coffee stands offering specialty coffee has become noticeable, and in many places, this has become a catalyst for regaining vitality. It is said that these establishments not only sell coffee but also serve as community spaces where local residents and young people can drop in casually.",
+      "id": "20b5a341-9df9-4d80-961c-7e148cbb2808",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうしたコーヒースタンドの増加は、消費者の嗜好の変化と深く関連している。外食産業全体で、よりパーソナルで体験重視のサービスが求められる傾向にある中、個人経営のコーヒースタンドは、独自のコンセプトやバリスタの技術、そして地域に根差した温かみのある接客で差別化を図っている。これにより、画一的なチェーン店にはない魅力を提供し、新たな顧客層を獲得していると見られる。",
+      "translationZh": "这类咖啡馆的增加与消费者偏好的变化密切相关。在整个餐饮行业都倾向于要求更具个性化、注重体验的服务的大趋势下，个人经营的咖啡馆通过独特的概念、咖啡师的技术以及扎根于当地的热情服务来实现差异化。据此推测，它们提供了标准化连锁店所没有的魅力，并正在获得新的客户群体。",
+      "translationEn": "The increase in such coffee stands is deeply related to changes in consumer preferences. Amid a general trend in the food service industry for more personalized, experience-oriented services, independent coffee stands are differentiating themselves through unique concepts, barista skills, and warm, locally rooted customer service. It is believed that they are thus offering attractions not found in standardized chain stores and acquiring new customer segments.",
+      "id": "006c4b4d-7ea2-4cdb-a182-300bb5314948",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、商店街側も、空き店舗の活用や新たな集客施策として、コーヒースタンドの誘致に積極的な姿勢を見せている。商店街の活性化は、地域経済の維持・発展に不可欠であり、コーヒースタンドが持つ「交流拠点」としてのポテンシャルに期待が寄せられている。初期投資が比較的少なく、多様な業態への展開も可能なことから、後継者不足に悩む既存店舗の事業転換や、新規事業としての参入障壁の低さが、増加を後押ししている要因とも考えられる。",
+      "translationZh": "此外，商店街方面也表现出积极的态度，希望吸引咖啡馆入驻，将其作为空置店铺的利用和新的吸引客流的措施。商店街的活性化对于维持和发展地区经济至关重要，人们对咖啡馆作为“交流据点”的潜力寄予厚望。由于启动投资相对较少，且能够扩展到多种业态，因此，这也是推动其增加的一个因素，例如解决继承人不足问题的现有店铺的业务转型，以及作为新事业的低进入门槛。",
+      "translationEn": "Furthermore, shopping streets themselves are taking a proactive stance in attracting coffee stands as a way to utilize vacant properties and implement new customer attraction strategies. The revitalization of shopping streets is essential for the maintenance and development of the regional economy, and expectations are high for the potential of coffee stands as 'exchange hubs.' Factors such as relatively low initial investment and the possibility of expanding into diverse business formats are also considered to be driving the increase, including business conversions for existing stores struggling with a lack of successors and a low barrier to entry for new ventures.",
+      "id": "6b283265-3361-4184-9d2a-3ce3170808a6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街，商业街",
+      "meaningEn": "shopping street, commercial district",
+      "level": "n3",
+      "exampleSentence": "この商店街は昔から活気がある。",
+      "id": "3fe72037-4c27-40ce-8119-adb574bbc92b"
+    },
+    {
+      "word": "コーヒースタンド",
+      "reading": "こーひーすたんど",
+      "meaningZh": "咖啡馆（通常指规模较小、专注于咖啡的店铺）",
+      "meaningEn": "coffee stand (typically a small shop focusing on coffee)",
+      "level": "n2n1",
+      "exampleSentence": "新しいコーヒースタンドが駅前にできた。",
+      "id": "4721e3a0-ad27-4471-8426-51135ccae7a3"
+    },
+    {
+      "word": "出店",
+      "reading": "しゅってん",
+      "meaningZh": "开店，设店",
+      "meaningEn": "opening a store, setting up a shop",
+      "level": "n2n1",
+      "exampleSentence": "都市部への出店を加速させる。",
+      "id": "21648886-bb02-47ba-b335-ae6a1748e160"
+    },
+    {
+      "word": "嗜好",
+      "reading": "しこう",
+      "meaningZh": "偏好，喜好",
+      "meaningEn": "preference, taste",
+      "level": "n2n1",
+      "exampleSentence": "若者の嗜好は変化しやすい。",
+      "id": "105d58f8-69ab-4128-bd92-bf55526850ae"
+    },
+    {
+      "word": "差別化",
+      "reading": "さべつ か",
+      "meaningZh": "差异化",
+      "meaningEn": "differentiation",
+      "level": "n2n1",
+      "exampleSentence": "他社との差別化を図る戦略。",
+      "id": "713141ae-fbce-4502-aaf9-3c5656ce366f"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせい か",
+      "meaningZh": "活性化，振兴",
+      "meaningEn": "revitalization, activation",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の活性化が課題だ。",
+      "id": "351dc0ab-2146-445e-8341-4394cb34eabb"
+    },
+    {
+      "word": "誘致",
+      "reading": "ゆうち",
+      "meaningZh": "招致，吸引",
+      "meaningEn": "attraction, invitation",
+      "level": "n2n1",
+      "exampleSentence": "企業の誘致に成功した。",
+      "id": "197153ce-d881-4a62-9e4e-1ca5e930ab91"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "商店街にコーヒースタンドが増えている理由として、本文で述べられていないものはどれか？",
+      "options": [
+        "消費者の体験重視の傾向",
+        "既存店舗の事業転換のしやすさ",
+        "チェーン店による積極的な出店攻勢",
+        "地域活性化への期待"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、個人経営のコーヒースタンドが独自の魅力で差別化を図っていると述べられており、チェーン店による出店攻勢については触れられていません。",
+      "id": "1274cc95-f538-4ad7-aa5b-067865b2764d"
+    },
+    {
+      "question": "コーヒースタンドが商店街で果たす役割として、本文で指摘されていることは？",
+      "options": [
+        "主にコーヒー豆の卸売を行う",
+        "地域住民の生活必需品を提供する",
+        "新しい顧客層を獲得するきっかけとなる",
+        "商店街の空き店舗を一時的に借りる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「これらの店舗は、単にコーヒーを販売するだけでなく、地域住民や若者たちが気軽に立ち寄れるコミュニティスペースとしての役割も担っているとのことだ。」とあり、また「新たな顧客層を獲得していると見られる。」と述べられています。",
+      "id": "a4f1470d-f651-4579-bded-953c14380a88"
+    },
+    {
+      "question": "商店街側がコーヒースタンドの誘致に積極的な理由として、最も適切なものはどれか？",
+      "options": [
+        "コーヒー豆の仕入れルートを確保するため",
+        "商店街の空き店舗を効果的に活用し、活性化につなげるため",
+        "若者向けの新しいショッピングモールを建設するため",
+        "既存の小売店との競争を促進するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「商店街側も、空き店舗の活用や新たな集客施策として、コーヒースタンドの誘致に積極的な姿勢を見せている。」と述べられています。",
+      "id": "917007df-0bad-4168-a69e-69ca3893f267"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-29-e6540fb08f",
+  "publishedAt": "2026-05-29T06:00:00+09:00"
+}
