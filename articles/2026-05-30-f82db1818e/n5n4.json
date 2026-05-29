@@ -1,0 +1,114 @@
+{
+  "title": "夢を応援！奨学金制度",
+  "summary": "アニメやマンガのクリエイターになりたいですか？ 若い人たちの夢を助ける新しい奨学金があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガは世界中で人気があります。たくさんの人がクリエイターになりたいと思っています。しかし、勉強にはお金がかかります。そこで、若いクリエイターを助けるための奨学金制度ができました。",
+      "translationZh": "动画和漫画在世界各地都很受欢迎。很多人都想成为创作者。但是，学习需要花钱。因此，为了帮助年轻的创作者，设立了奖学金制度。",
+      "translationEn": "Anime and manga are popular all over the world. Many people want to become creators. However, studying costs money. Therefore, a scholarship system has been created to help young creators.",
+      "id": "981459c9-ecc8-4369-8498-723979419420",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、将来アニメーターやマンガ家になりたい学生が対象です。学校の費用や画材を買うためのお金がもらえます。夢をあきらめたくない人には、とても良いチャンスです。",
+      "translationZh": "这项奖学金面向将来想成为动画师或漫画家的学生。可以获得支付学费和购买绘画材料的资金。对于不想放弃梦想的人来说，这是一个非常好的机会。",
+      "translationEn": "This scholarship is for students who want to become animators or manga artists in the future. You can receive money to pay for school expenses and art supplies. It is a very good chance for those who do not want to give up on their dreams.",
+      "id": "a50f5be2-ca15-4c55-b106-bc69b1d26e5c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募するには、いくつか条件があります。例えば、学校の成績が良く、クリエイターとしての熱意があることです。詳しい情報は、ウェブサイトで確認してください。多くの若い才能が、この制度で育つことを願っています。",
+      "translationZh": "要申请，有一些条件。例如，学校成绩要好，并且有作为创作者的热情。详细信息请在网站上确认。希望许多年轻的才能能够通过这个制度得到培养。",
+      "translationEn": "To apply, there are some conditions. For example, you need to have good school grades and passion as a creator. Please check the website for detailed information. We hope many young talents will grow with this system.",
+      "id": "7caa05cb-bb69-40e8-b014-fe96b07e3d47",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，流行",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメはとても人気があります。",
+      "id": "6289459b-3945-45ee-81b4-e3c248d9ffce"
+    },
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は新しいゲームのクリエイターです。",
+      "id": "08615634-00a8-4033-82bd-7ea1171ba4b2"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって大学に行きました。",
+      "id": "54a5149a-d3ef-4958-895f-c2624e4905a6"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体系",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度が始まりました。",
+      "id": "c5d5854b-b56c-489c-9c4c-944cc72638aa"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaningZh": "对象",
+      "meaningEn": "target, object",
+      "level": "n5n4",
+      "exampleSentence": "このキャンペーンは学生が対象です。",
+      "id": "5c63f587-ffd0-41c9-903c-f7e6b688783c"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaningZh": "费用",
+      "meaningEn": "cost, expense",
+      "level": "n5n4",
+      "exampleSentence": "旅行の費用を計算しました。",
+      "id": "57a8c964-08bc-47af-b802-035a6ad3b447"
+    },
+    {
+      "word": "熱意",
+      "reading": "ねつい",
+      "meaningZh": "热情，热心",
+      "meaningEn": "enthusiasm, passion",
+      "level": "n3",
+      "exampleSentence": "仕事に対する熱意が伝わってきました。",
+      "id": "8addf3c3-477e-4939-b1d8-a7147c265124"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どのような人を助けるためのものですか？",
+      "options": [
+        "アニメのファン",
+        "将来クリエイターになりたい若い人",
+        "アニメの会社で働きたい人",
+        "ゲームを作る人"
+      ],
+      "correctIndex": 1,
+      "explanation": "この奨学金は、将来アニメーターやマンガ家になりたい学生が対象です。",
+      "id": "8abc642a-a957-4f2e-b423-c23b6487361f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-30-f82db1818e",
+  "publishedAt": "2026-05-30T06:00:00+09:00"
+}

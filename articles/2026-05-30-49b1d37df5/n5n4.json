@@ -1,0 +1,114 @@
+{
+  "title": "街角の新しい味",
+  "summary": "最近、街にフードトラックがたくさん出てきました。新しいお店の様子を見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街にフードトラックがたくさん増えました。色々な食べ物のお店があります。公園や駅の近くで見かけます。仕事の間に食べる人も多いです。",
+      "translationZh": "最近，街上的餐车（food truck）变多了。有各种各样的食物店。在公园或车站附近可以看到它们。很多人在工作间隙也会去吃。",
+      "translationEn": "Recently, many food trucks have appeared in the city. There are various food shops. You can see them near parks and stations. Many people eat during their work breaks.",
+      "id": "ff2ba04a-a72f-43ca-b465-52243bf4385b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、小さなお店です。でも、美味しい料理がたくさんあります。例えば、ハンバーガーやクレープ、コーヒーなどです。値段も手頃で、人気があります。",
+      "translationZh": "餐车是小型的店铺。但是，里面有许多美味的料理。比如，汉堡包、可丽饼、咖啡等等。价格也很合理，很受欢迎。",
+      "translationEn": "Food trucks are small shops. But they have a lot of delicious food. For example, hamburgers, crepes, and coffee. The prices are reasonable, and they are popular.",
+      "id": "6aaa1898-7f22-4329-8fdc-e7032d1b0c4e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "街の様子も少し変わりました。新しいお店ができると、人が集まります。街がもっと元気になります。フードトラックは、街を楽しくする一つです。",
+      "translationZh": "街景也稍微发生了一些变化。新的店铺开业，就会吸引人聚集。街道变得更加有活力。餐车是让城市变得有趣的其中之一。",
+      "translationEn": "The appearance of the city has also changed a little. When new shops open, people gather. The city becomes more lively. Food trucks are one of the things that make the city fun.",
+      "id": "4b3822e6-863a-4f1e-9a4b-5d7ffb850973",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车，食物卡车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "街で新しいフードトラックを見つけました。",
+      "id": "85a6354d-a89d-4f99-a5cf-47f61ac64aa2"
+    },
+    {
+      "word": "増えました",
+      "reading": "ふえました",
+      "meaningZh": "增加了",
+      "meaningEn": "increased",
+      "level": "n5n4",
+      "exampleSentence": "この地域にはお店が増えました。",
+      "id": "6b9e5f00-c10d-440e-844b-87d2850b9fbb"
+    },
+    {
+      "word": "色々な",
+      "reading": "いろいろな",
+      "meaningZh": "各种各样的",
+      "meaningEn": "various",
+      "level": "n5n4",
+      "exampleSentence": "色々な国の料理があります。",
+      "id": "6233ac64-43d4-448d-9a9f-bfbabfd76890"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園でピクニックをしました。",
+      "id": "3fa11768-528b-4821-8d1a-d0b3410e1941"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格合理，适中",
+      "meaningEn": "reasonable (price)",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは料理が手頃です。",
+      "id": "088fb62e-e0f0-44ca-bbe3-a471ad7e98f6"
+    },
+    {
+      "word": "様子",
+      "reading": "ようす",
+      "meaningZh": "样子，情况",
+      "meaningEn": "appearance, situation",
+      "level": "n5n4",
+      "exampleSentence": "街の様子が変わりました。",
+      "id": "12a1c31e-9d06-47af-b650-495a820d7423"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "lively, energetic, healthy",
+      "level": "n5n4",
+      "exampleSentence": "街がもっと元気になりました。",
+      "id": "0b62d612-1cc1-4bca-acbd-fc6355b52d81"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "街に増えたフードトラックでは、どんなものが売られていますか。",
+      "options": [
+        "高い料理だけ",
+        "古い本",
+        "ハンバーガーやクレープなど",
+        "魚だけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「例えば、ハンバーガーやクレープ、コーヒーなどです。」と書いてあります。",
+      "id": "8b1f2f88-b2a9-408a-8b7d-0557e1cca23b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-30-49b1d37df5",
+  "publishedAt": "2026-05-30T06:00:00+09:00"
+}

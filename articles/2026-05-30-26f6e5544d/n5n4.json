@@ -1,0 +1,122 @@
+{
+  "title": "秋の味覚！限定スイーツ登場",
+  "summary": "秋は美味しいものがたくさんあります。お店には新しい限定商品がたくさん出ました。ぜひ見てください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋になりました。暑い夏が終わりました。秋は涼しい季節です。食べ物がとてもおいしい季節でもあります。",
+      "translationZh": "秋天来了。炎热的夏天结束了。秋天是凉爽的季节。也是食物非常美味的季节。",
+      "translationEn": "Autumn has arrived. The hot summer has ended. Autumn is a cool season. It is also a season when food is very delicious.",
+      "id": "aea64850-e3a3-4ef4-88dc-7c9fd45eee4a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この季節、お店には特別な商品がたくさん出ます。例えば、栗（くり）やさつまいものお菓子です。チョコレートも人気があります。限定商品なので、早く買わないとなくなります。",
+      "translationZh": "这个季节，店里会推出很多特别的商品。例如，栗子和红薯的甜点。巧克力也很受欢迎。因为是限定商品，不快点买就会卖完。",
+      "translationEn": "During this season, many special products appear in stores. For example, sweets made with chestnuts and sweet potatoes. Chocolate is also popular. Because they are limited edition products, they will be sold out if you don't buy them quickly.",
+      "id": "5978d9d2-2bf9-4840-9f86-647d83daf03b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "カフェでも秋のメニューがありました。かぼちゃのラテや、りんごのパイなどです。友達と一緒に行くのも楽しいでしょう。",
+      "translationZh": "咖啡馆也有秋季菜单。有南瓜拿铁和苹果派等。和朋友一起去也会很开心。",
+      "translationEn": "Cafes also have autumn menus. There are pumpkin lattes and apple pies. It would be fun to go with friends.",
+      "id": "27ac74c4-968d-4802-8d0e-ed76ef554910",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "秋の味覚を楽しみましょう。気になる商品があったら、お店に行ってみてください。きっと、あなたの好きなものが見つかります。",
+      "translationZh": "让我们来享受秋天的美味吧。如果有您感兴趣的商品，请去店里看看。一定能找到您喜欢的东西。",
+      "translationEn": "Let's enjoy the taste of autumn. If there is a product that interests you, please go to the store and check it out. You will surely find something you like.",
+      "id": "b6fa1163-4a45-430e-98bf-5580007a985e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は涼しい季節です。",
+      "id": "32f3c743-311f-433b-9875-9f595299700d"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な商品です。",
+      "id": "d2882e01-1250-46a6-aaf4-15fde60e3a93"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaningZh": "点心，糖果，零食",
+      "meaningEn": "sweets, snacks, candy",
+      "level": "n5n4",
+      "exampleSentence": "栗のお菓子が好きです。",
+      "id": "6b33dfa2-896a-4bb9-83b2-197a2e9cda88"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "この商品は限定です。",
+      "id": "5ccb1eda-0936-47b7-aee5-e2b09933328d"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味觉，味道",
+      "meaningEn": "sense of taste, flavor",
+      "level": "n3",
+      "exampleSentence": "秋の味覚を楽しみにしています。",
+      "id": "114dd5f5-57f5-4ecd-a61c-f738525b806c"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "カフェのメニューを見ました。",
+      "id": "10947678-1c48-4f87-ac2b-76471070c4cc"
+    },
+    {
+      "word": "気になる",
+      "reading": "きになる",
+      "meaningZh": "在意，挂念",
+      "meaningEn": "to be concerned about, to be interested in",
+      "level": "n3",
+      "exampleSentence": "新しい本が気になる。",
+      "id": "aeee6e81-7e3c-4d22-9fa1-9c46f6c4a8ef"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "お店にどのような限定商品が出ましたか。",
+      "options": [
+        "夏のお菓子",
+        "冬の飲み物",
+        "秋の味覚を使ったお菓子や飲み物",
+        "春の花"
+      ],
+      "correctIndex": 2,
+      "explanation": "この季節、お店には特別な商品がたくさん出ます。例えば、栗（くり）やさつまいものお菓子です。カフェでも秋のメニューがありました。かぼちゃのラテや、りんごのパイなどです。",
+      "id": "fde708d5-6794-49df-a675-ae740b2b7412"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-30-26f6e5544d",
+  "publishedAt": "2026-05-30T06:00:00+09:00"
+}

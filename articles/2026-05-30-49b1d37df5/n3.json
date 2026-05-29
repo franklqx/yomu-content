@@ -1,0 +1,135 @@
+{
+  "title": "話題のフードトラックと都市再開発",
+  "summary": "最近、街中で見かけるフードトラックが増えていますね。これらは都市の新しい顔として、再開発エリアに活気をもたらしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街のあちこちでカラフルなフードトラックを見かけることが多くなりました。これらは単に美味しい食べ物を売っているだけでなく、都市の景観に新しい風を吹き込んでいます。特に、再開発が進んでいるエリアでは、新しいお店ができるまでの間、フードトラックがその場所を賑やかに彩ることがあります。地域の人々や観光客にとって、手軽に色々な国の料理を楽しめるのは嬉しいことです。",
+      "translationZh": "最近，在城市的各个地方都能看到越来越多的彩色餐车。它们不仅仅是卖好吃的食物，也给城市景观带来了新的气息。特别是在正在进行再开发的区域，在新的店铺开业之前，餐车可以把那个地方点缀得热闹起来。对于当地居民和游客来说，能够方便地品尝到各种国家的料理是很开心的事。",
+      "translationEn": "Recently, we've been seeing more colorful food trucks around the city. They don't just sell delicious food; they bring a fresh vibe to the urban landscape. Especially in areas undergoing redevelopment, food trucks can liven up the space while waiting for new shops to open. It's a joy for locals and tourists alike to easily enjoy cuisine from various countries.",
+      "id": "3e3ca5f6-be09-4743-885b-9b6e436ede6d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市の再開発では、新しいビルを建てるだけでなく、その周辺の空間をどう活用するかも重要です。フードトラックは、一時的なイベントスペースや、住民が集まる交流の場として機能します。天気の良い日には、公園や広場にトラックが並び、人々が食事をしながらリラックスしています。このように、フードトラックは都市に柔軟性と活気をもたらす存在と言えるでしょう。",
+      "translationZh": "在城市再开发中，除了建造新大楼，如何利用周边空间也很重要。餐车可以作为临时活动空间，或是居民聚集交流的场所。天气好的日子里，餐车排在公园或广场上，人们一边吃饭一边放松。这样看来，餐车可以说是给城市带来灵活性和活力的存在。",
+      "translationEn": "In urban redevelopment, it's not just about building new structures, but also about how to utilize the surrounding spaces. Food trucks function as temporary event spaces or meeting places for residents. On sunny days, trucks line up in parks and plazas, where people relax while enjoying their meals. In this way, food trucks can be seen as elements that bring flexibility and vitality to the city.",
+      "id": "6663afb6-7afb-4fd1-a9d1-c7d957f5b7a9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ただ、フードトラックが増えると、ゴミの問題や、交通への影響なども考慮しなければなりません。行政や地域住民、そしてトラックの運営者が協力して、ルール作りを進めることが大切です。例えば、ゴミの分別を徹底したり、トラックの駐車場所を決めたりすることで、より快適な街づくりに貢献できるはずです。新しい文化と昔ながらの街並みが調和する工夫が求められています。",
+      "translationZh": "不过，随着餐车的增加，我们也必须考虑垃圾问题以及对交通的影响等。行政、地区居民以及餐车经营者合作，推进规则的制定是很重要的。例如，彻底做好垃圾分类，或者规定餐车的停放地点，应该就能为创造更舒适的街区做出贡献。需要我们想办法让新文化与旧街景和谐共存。",
+      "translationEn": "However, as food trucks increase, issues like waste management and traffic impact must also be considered. It's important for government bodies, local residents, and truck operators to cooperate in establishing rules. For instance, by thoroughly implementing waste sorting and designating parking spots for the trucks, they can contribute to creating a more pleasant urban environment. Efforts are needed to harmonize new cultures with traditional townscapes.",
+      "id": "d56017a6-c3ae-4c28-b36a-44d3dc01b799",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车，食物卡车",
+      "meaningEn": "Food truck",
+      "level": "n3",
+      "exampleSentence": "話題のフードトラックでランチを買った。",
+      "id": "30283ca2-301b-43a2-a098-1798a0232b92"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发",
+      "meaningEn": "Redevelopment",
+      "level": "n3",
+      "exampleSentence": "この地域は大規模な再開発が行われている。",
+      "id": "79247075-dc63-4d5d-b034-7ed4c92b59f9"
+    },
+    {
+      "word": "景観",
+      "reading": "けいかん",
+      "meaningZh": "景观，景色",
+      "meaningEn": "Scenery, landscape",
+      "level": "n3",
+      "exampleSentence": "新しいビルが景観を変えてしまった。",
+      "id": "0a59b800-2399-4a12-9e34-066cf996286c"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "Vitality, liveliness",
+      "level": "n3",
+      "exampleSentence": "祭りには多くの人が集まり、活気に満ちていた。",
+      "id": "9a1fd34c-1de4-4b5d-abaf-f44a4b09f3be"
+    },
+    {
+      "word": "彩る",
+      "reading": "いろどる",
+      "meaningZh": "渲染，装饰",
+      "meaningEn": "To color, to adorn",
+      "level": "n3",
+      "exampleSentence": "花火が夜空を鮮やかに彩った。",
+      "id": "51750445-2649-4f60-a7c6-0d1d0ccbe5e0"
+    },
+    {
+      "word": "機能する",
+      "reading": "きのうする",
+      "meaningZh": "起作用，发挥功能",
+      "meaningEn": "To function",
+      "level": "n3",
+      "exampleSentence": "このシステムはすでに機能していない。",
+      "id": "d69d8b46-10e8-4247-b53e-78e350bf412a"
+    },
+    {
+      "word": "柔軟性",
+      "reading": "じゅうなんせい",
+      "meaningZh": "灵活性",
+      "meaningEn": "Flexibility",
+      "level": "n2n1",
+      "exampleSentence": "変化に対応できる柔軟性が必要だ。",
+      "id": "cceee11b-c9e2-4a87-b023-209ccf13be8d"
+    },
+    {
+      "word": "調和",
+      "reading": "ちょうわ",
+      "meaningZh": "协调，和谐",
+      "meaningEn": "Harmony, coordination",
+      "level": "n2n1",
+      "exampleSentence": "新しいデザインと古い建物の調和が取れている。",
+      "id": "f31a0e5c-604f-4b7b-9203-a1f89ba3d717"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "再開発エリアにおいて、フードトラックはどのような役割を果たすことがありますか？",
+      "options": [
+        "新しいお店ができるまでの間、場所を賑やかにする",
+        "一時的に交通渋滞を引き起こす",
+        "地域住民の生活を妨げる",
+        "都市の景観を損ねる"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文では、「新しいお店ができるまでの間、フードトラックがその場所を賑やかに彩ることがあります」と述べられています。",
+      "id": "b7e281f8-7239-429b-8f19-bd39aaf0adba"
+    },
+    {
+      "question": "フードトラックが増えることによって、どのような問題が起こりうるため、協力が必要だと述べられていますか？",
+      "options": [
+        "食中毒の増加",
+        "ゴミ問題や交通への影響",
+        "地域住民の孤立",
+        "文化的な対立"
+      ],
+      "correctIndex": 1,
+      "explanation": "「ただ、フードトラックが増えると、ゴミの問題や、交通への影響なども考慮しなければなりません」という記述があります。",
+      "id": "9b85fe71-48bd-4152-90db-a0ed5ed8ddc9"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-30-49b1d37df5",
+  "publishedAt": "2026-05-30T06:00:00+09:00"
+}
