@@ -1,0 +1,122 @@
+{
+  "title": "電動キックボード 新ルール",
+  "summary": "電動キックボードの使い方が変わります。新しいルールを学びましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電動キックボードが人気です。街でよく見かけますね。でも、安全に使うための新しいルールができました。",
+      "translationZh": "最近，电动滑板车很受欢迎。在街上经常能看到呢。但是，为了安全使用，有了新的规则。",
+      "translationEn": "Recently, electric kickboards have become popular. You can see them often in town. However, new rules have been made for safe use.",
+      "id": "d0ad8a7e-d857-496b-9587-57188dab109e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これまでは、自転車と同じように乗ることができました。でも、これからは一人で乗る必要があります。二人乗りはできません。また、ヘルメットをかぶることが大切になりました。",
+      "translationZh": "以前，可以像骑自行车一样乘坐。但是，从现在开始，必须一个人乘坐。不能两人乘坐。而且，戴头盔变得很重要了。",
+      "translationEn": "Until now, you could ride them like bicycles. But from now on, you must ride alone. Riding with two people is not allowed. Also, wearing a helmet has become important.",
+      "id": "acf389c7-9e16-4456-9e39-6acdf85dabb4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "運転できる年齢も変わりました。16歳から乗ることができます。スピードも出すぎないように注意が必要です。ルールを守って、安全に楽しみましょう。",
+      "translationZh": "可以驾驶的年龄也改变了。16岁就可以乘坐了。也需要注意不要开得太快。请遵守规则，安全地享受吧。",
+      "translationEn": "The age at which you can ride has also changed. You can ride from the age of 16. You also need to be careful not to go too fast. Let's follow the rules and enjoy safely.",
+      "id": "67a5776b-8037-438d-81be-a7a1f019be4f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "警察や役所は、この新しいルールをみんなに知ってほしいと思っています。安全は一番大切です。みんなでルールを守ることが大切です。",
+      "translationZh": "警察和政府希望大家都能知道这个新规则。安全是最重要的。大家一起遵守规则很重要。",
+      "translationEn": "The police and government want everyone to know these new rules. Safety is the most important thing. It is important that everyone follows the rules.",
+      "id": "9dc8c3cf-6536-41cd-81d7-7bafd33a2a70",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電動キックボード",
+      "reading": "でんどうキックボード",
+      "meaningZh": "电动滑板车",
+      "meaningEn": "Electric kickboard",
+      "level": "n5n4",
+      "exampleSentence": "電動キックボードは便利です。",
+      "id": "27cc45be-e7e3-480d-bbbe-0e9d74ebb221"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "Popularity",
+      "level": "n5n4",
+      "exampleSentence": "この店は人気があります。",
+      "id": "520fbdb5-fac6-44e6-b0be-d3dbba44b36a"
+    },
+    {
+      "word": "ルール",
+      "reading": "ルール",
+      "meaningZh": "规则",
+      "meaningEn": "Rule",
+      "level": "n5n4",
+      "exampleSentence": "交通ルールを守りましょう。",
+      "id": "bca12d80-3915-4728-be8a-8d535970ce6b"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "Safety",
+      "level": "n5n4",
+      "exampleSentence": "安全第一です。",
+      "id": "0488e203-347a-4e21-b66c-69bfbc98fd48"
+    },
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaningZh": "以前",
+      "meaningEn": "Before",
+      "level": "n5n4",
+      "exampleSentence": "以前はもっと静かでした。",
+      "id": "143ce96e-37ca-4fb8-931c-ba1a9d63f7c9"
+    },
+    {
+      "word": "年齢",
+      "reading": "ねんれい",
+      "meaningZh": "年龄",
+      "meaningEn": "Age",
+      "level": "n5n4",
+      "exampleSentence": "運転できる年齢は？",
+      "id": "36313cef-1b49-48cf-9d14-cc54a6d301cc"
+    },
+    {
+      "word": "警察",
+      "reading": "けいさつ",
+      "meaningZh": "警察",
+      "meaningEn": "Police",
+      "level": "n5n4",
+      "exampleSentence": "警察が来ました。",
+      "id": "c42aae1c-1f97-42df-93e0-04a1230e34ac"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい電動キックボードのルールで、一人で乗ることはどうなりましたか？",
+      "options": [
+        "一人で乗ることはできません。",
+        "二人で乗ることもできます。",
+        "一人で乗る必要があります。",
+        "友達と乗ってもいいです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これまでは、自転車と同じように乗ることができました。でも、これからは一人で乗る必要があります。」",
+      "id": "32a1d41a-cf02-49f3-a78b-65ccaf4e9b1d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-31-7d5a55aec3",
+  "publishedAt": "2026-05-31T06:00:00+09:00"
+}

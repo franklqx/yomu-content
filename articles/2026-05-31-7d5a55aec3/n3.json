@@ -1,0 +1,135 @@
+{
+  "title": "電動キックボード、ルール見直しで安全に？",
+  "summary": "最近、電動キックボードの利用ルールが見直されています。安全に使うための新しいルールについて見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "電動キックボードは、手軽に移動できる乗り物として人気が出てきました。しかし、事故も増えているため、法律が改正され、新しいルールができました。これからは、運転免許を持たない人は運転できなくなります。",
+      "translationZh": "电动滑板车作为一种方便的交通工具越来越受欢迎。但是，事故也在增加，因此法律得到了修改，制定了新的规则。今后，没有驾照的人将无法驾驶。",
+      "translationEn": "Electric kickboards have become popular as an easy way to get around. However, accidents are also increasing, so the law has been revised and new rules have been established. From now on, people without a driving license will not be able to operate them.",
+      "id": "25cf5ad2-99ee-499e-8fb3-36e9428af82f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、これまではヘルメットをかぶることは義務ではありませんでしたが、今後は原則としてヘルメットの着用が推奨されるようになりました。安全のため、できるだけヘルメットを使いましょう。さらに、走行できる場所にも制限が設けられます。",
+      "translationZh": "此外，虽然以前戴头盔不是强制性的，但今后原则上建议佩戴头盔。为了安全，请尽量使用头盔。此外，对可以行驶的区域也设有限制。",
+      "translationEn": "Also, while wearing a helmet was not mandatory before, it is now generally recommended. For safety, let's use helmets as much as possible. Furthermore, restrictions will be placed on where they can be ridden.",
+      "id": "1a26da5e-ec5d-4b15-95bc-b28edbb52a84",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのルールが守られないと、事故につながる恐れがあります。新しいルールについてよく理解し、電動キックボードを安全に利用することが大切です。地域によっても細かいルールが違うことがあるので、注意が必要です。",
+      "translationZh": "如果不遵守这些规则，可能会导致事故。了解新规则并安全地使用电动滑板车非常重要。由于不同地区的小规则可能有所不同，因此需要注意。",
+      "translationEn": "If these rules are not followed, there is a risk of accidents. It is important to understand the new rules well and use electric kickboards safely. Since detailed rules may vary by region, caution is necessary.",
+      "id": "3b084328-ea13-478f-aef1-e3e1170ca6db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電動キックボード",
+      "reading": "でんどうキックボード",
+      "meaningZh": "电动滑板车",
+      "meaningEn": "Electric kickboard",
+      "level": "n3",
+      "exampleSentence": "電動キックボードで通勤する人が増えています。",
+      "id": "5a41b114-fac3-4db4-9898-9c2f9f55aff8"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用，使用",
+      "meaningEn": "Use, utilization",
+      "level": "n3",
+      "exampleSentence": "このアプリは無料で利用できます。",
+      "id": "947d716d-034d-46e5-986e-4bbc33176fd9"
+    },
+    {
+      "word": "見直し",
+      "reading": "みなおし",
+      "meaningZh": "重新审查，修改",
+      "meaningEn": "Review, revision",
+      "level": "n3",
+      "exampleSentence": "制度の見直しが行われる予定です。",
+      "id": "9d0315f1-fac9-4727-88bb-c93bf4dbbb9f"
+    },
+    {
+      "word": "手軽",
+      "reading": "てがる",
+      "meaningZh": "轻松，方便",
+      "meaningEn": "Easy, simple",
+      "level": "n3",
+      "exampleSentence": "手軽に始められる趣味を探しています。",
+      "id": "d758445b-805b-4a7e-bc5a-7743431bcb2a"
+    },
+    {
+      "word": "改正",
+      "reading": "かいせい",
+      "meaningZh": "（法律、制度等）修正，修订",
+      "meaningEn": "Revision, amendment",
+      "level": "n2n1",
+      "exampleSentence": "労働基準法の改正について学びました。",
+      "id": "d9fd7c68-3cd2-48d0-bb95-773c080c9a77"
+    },
+    {
+      "word": "原則",
+      "reading": "げんそく",
+      "meaningZh": "原则",
+      "meaningEn": "Principle",
+      "level": "n2n1",
+      "exampleSentence": "原則として、会議は月曜日に行われます。",
+      "id": "45158232-59d1-4ede-9d34-f79d60778da8"
+    },
+    {
+      "word": "着用",
+      "reading": "ちゃくよう",
+      "meaningZh": "穿着，佩戴",
+      "meaningEn": "Wearing, putting on",
+      "level": "n3",
+      "exampleSentence": "安全のため、ヘルメットの着用をお願いします。",
+      "id": "69fae31b-a0a6-4f66-9a0a-306893307fcb"
+    },
+    {
+      "word": "制限",
+      "reading": "せいげん",
+      "meaningZh": "限制",
+      "meaningEn": "Restriction, limit",
+      "level": "n3",
+      "exampleSentence": "この地域では車の進入に制限があります。",
+      "id": "94a4c3a1-cf47-45bb-bf21-218bca00d21f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "改正された法律により、電動キックボードの運転に最も関係がある新しい条件は何ですか？",
+      "options": [
+        "ヘルメットの着用が義務になる",
+        "16歳未満でも運転できるようになる",
+        "運転免許を持たない人は運転できなくなる",
+        "歩道も自由に走行できるようになる"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これからは、運転免許を持たない人は運転できなくなります。」という部分に書かれています。",
+      "id": "abe74c3c-be74-4506-a169-a9c6cb434eae"
+    },
+    {
+      "question": "筆者は電動キックボードを安全に利用するために、どのようなことを大切だと述べていますか？",
+      "options": [
+        "できるだけ速く運転すること",
+        "新しいルールをよく理解すること",
+        "ヘルメットを着用しないこと",
+        "夜間にだけ運転すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "「新しいルールについてよく理解し、電動キックボードを安全に利用することが大切です。」という部分からわかります。",
+      "id": "b0840b7a-4a4b-4499-bdf5-597b4e2c0968"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-31-7d5a55aec3",
+  "publishedAt": "2026-05-31T06:00:00+09:00"
+}

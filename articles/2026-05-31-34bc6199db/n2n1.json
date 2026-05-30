@@ -1,0 +1,147 @@
+{
+  "title": "公立図書館、夜間営業実験で利用拡大へ",
+  "summary": "一部の公立図書館で、利用者の多様なニーズに応えるため、夜間営業の実験が開始された。この取り組みは、図書館の利用促進と地域文化への貢献が期待されている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、働き方やライフスタイルの多様化に伴い、図書館の利用時間に関する要望が高まっている。こうした状況を踏まえ、一部の公立図書館では、平日の夜間や土日祝日の一部に開館時間を延長する実験的な取り組みが始まっているとのことだ。この試みは、仕事帰りや家事・育児の合間など、日中には図書館を利用しにくい層にとって、読書や学習の機会を広げるものと期待されている。",
+      "translationZh": "近年来，随着工作方式和生活方式的多样化，关于图书馆利用时间的需求不断提高。在此背景下，据报道，部分公立图书馆已开始尝试性地延长平日夜间及部分周末节假日的开放时间。此次尝试有望为下班后或家务育儿间隙等白天难以利用图书馆的群体，拓宽阅读和学习的机会。",
+      "translationEn": "In recent years, with the diversification of working styles and lifestyles, there has been a growing demand regarding library operating hours. Against this backdrop, some public libraries have reportedly begun experimental initiatives to extend their opening hours into weekday evenings and parts of weekends and holidays. This endeavor is expected to broaden opportunities for reading and learning for those who find it difficult to visit libraries during the day, such as individuals returning from work or those with gaps in household chores and childcare.",
+      "id": "5b0063bb-2d84-458e-b671-13faf836925c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間営業の導入にあたっては、人員配置や警備体制の強化、そして利用者の安全確保が重要な課題となる。しかし、図書館側は、これらの課題をクリアするための具体的な計画を策定し、慎重に実験を進めている。例えば、一部の図書館では、顔認証システムを導入したり、職員の巡回を強化したりするなどの対策が検討されている。これらの対策により、安心して夜間でも図書館を利用できる環境が整備される見込みである。",
+      "translationZh": "在引入夜间营业时，人员配置、安保体系的强化以及确保利用者的安全是重要的课题。然而，图书馆方面正在制定解决这些课题的具体计划，并谨慎地推进实验。例如，部分图书馆正在探讨引进面部识别系统或加强工作人员巡逻等对策。通过这些措施，有望构建一个即使在夜间也能安心利用图书馆的环境。",
+      "translationEn": "When introducing evening hours, staffing, strengthening security systems, and ensuring user safety are critical issues. However, library authorities are developing concrete plans to overcome these challenges and are proceeding with the experiment cautiously. For instance, some libraries are considering measures such as implementing facial recognition systems or increasing staff patrols. These measures are expected to create an environment where libraries can be used safely even at night.",
+      "id": "0e80e445-4690-4a25-a15b-e8cbbdf8c2ec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この夜間営業実験は、図書館の役割を単なる本の貸し出し・返却の場から、地域住民の学びや交流を深める多機能な空間へと進化させる可能性を秘めている。実験の結果次第では、全国の公立図書館への波及も考えられ、図書館がより身近な存在となることが期待される。文化的なインフラとしての図書館の価値が、今回の取り組みによって再認識されることとなろう。",
+      "translationZh": "这项夜间营业实验蕴含着将图书馆的角色从单纯的书籍借还场所，发展为深化社区居民学习和交流的多功能空间的潜力。根据实验结果，有可能推广到全国的公立图书馆，人们期待图书馆能成为更加贴近生活的存在。图书馆作为文化基础设施的价值，有望通过此次举措得到重新认识。",
+      "translationEn": "This evening operating hour experiment holds the potential to evolve the role of libraries from mere places for borrowing and returning books to multifunctional spaces that deepen learning and interaction among community residents. Depending on the results of the experiment, its influence could spread to public libraries nationwide, and libraries are expected to become more accessible. The value of libraries as cultural infrastructure will likely be reaffirmed through this initiative.",
+      "id": "efbc69fb-33e5-4829-98f9-498c4a0c9f9d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "diversification",
+      "level": "n2n1",
+      "exampleSentence": "ライフスタイルの多様化は、社会の変化を反映している。",
+      "id": "ee27a290-928d-4acf-aacf-733d6ad66b72"
+    },
+    {
+      "word": "踏まえ",
+      "reading": "ふまえ",
+      "meaningZh": "基于，根据",
+      "meaningEn": "based on, in view of",
+      "level": "n2n1",
+      "exampleSentence": "これまでの議論を踏まえ、次のステップに進みましょう。",
+      "id": "c4765307-1b8c-4b01-8710-9bb6088d345c"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい技術を導入するために、小規模な実験が行われた。",
+      "id": "53545518-4373-4615-8927-58f3bd6b63ec"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "导入，引进",
+      "meaningEn": "introduction, adoption",
+      "level": "n2n1",
+      "exampleSentence": "新システムの導入には、十分な準備が必要だ。",
+      "id": "c99a8303-beb9-45f3-8779-b5cd6d0a78fe"
+    },
+    {
+      "word": "人員配置",
+      "reading": "じんいんはいち",
+      "meaningZh": "人员配置",
+      "meaningEn": "staffing, personnel allocation",
+      "level": "n2n1",
+      "exampleSentence": "プロジェクトの成功には、適切な人員配置が不可欠である。",
+      "id": "d5064fa5-7e58-4e09-9631-a1419dffac42"
+    },
+    {
+      "word": "警備体制",
+      "reading": "けいびたいせい",
+      "meaningZh": "安保体系",
+      "meaningEn": "security system",
+      "level": "n2n1",
+      "exampleSentence": "施設の安全を守るため、警備体制を強化した。",
+      "id": "293ac228-0b47-4566-a7ba-8121a2447bf0"
+    },
+    {
+      "word": "波及",
+      "reading": "はきゅう",
+      "meaningZh": "波及，扩散",
+      "meaningEn": "spread, repercussion",
+      "level": "n2n1",
+      "exampleSentence": "この問題は、経済全体に波及する可能性がある。",
+      "id": "5af6a899-2be9-4494-be51-fd83225e8ae2"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "infrastructure",
+      "level": "n2n1",
+      "exampleSentence": "交通インフラの整備は、経済発展の基盤となる。",
+      "id": "7b8c8ec4-c8e7-4f5d-b118-6932743584da"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "一部の公立図書館で夜間営業実験が開始された主な理由は何ですか。",
+      "options": [
+        "蔵書の増加に対応するため",
+        "利用者の多様なニーズに応えるため",
+        "職員の勤務時間を調整するため",
+        "最新の設備を導入するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文冒頭で「利用者の多様なニーズに応えるため、夜間営業の実験が開始された」と述べられています。",
+      "id": "992ab980-0870-4982-8dbc-73da80efb65b"
+    },
+    {
+      "question": "夜間営業の導入にあたり、図書館側が重要視している課題は何ですか。",
+      "options": [
+        "開館時間のさらなる延長",
+        "図書館の利用料金の設定",
+        "人員配置や安全確保",
+        "蔵書のデジタル化の推進"
+      ],
+      "correctIndex": 2,
+      "explanation": "「夜間営業の導入にあたっては、人員配置や警備体制の強化、そして利用者の安全確保が重要な課題となる」と記述されています。",
+      "id": "6826b6a9-356a-460f-abe7-2e1ea9434913"
+    },
+    {
+      "question": "この夜間営業実験によって、図書館は今後どのように変化していく可能性がありますか。",
+      "options": [
+        "地域住民の学習や交流の場としての機能が強化される",
+        "主に若者向けのサービスが拡充される",
+        "専門書や研究資料の収集が中心となる",
+        "オンラインサービスが縮小される"
+      ],
+      "correctIndex": 0,
+      "explanation": "「図書館の役割を単なる本の貸し出し・返却の場から、地域住民の学びや交流を深める多機能な空間へと進化させる可能性を秘めている」とあります。",
+      "id": "f47a12a4-d4ce-416d-8dea-937c6437f6e3"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-05-31-34bc6199db",
+  "publishedAt": "2026-05-31T06:00:00+09:00"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "注目の若手力士",
+  "summary": "新しい力士が人気を集めています。彼らは強くて、ファンも多いです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、相撲界に新しい力士がたくさん出てきました。彼らは若くて、強くて、みんなに注目されています。力士になるためには、厳しい練習をたくさんします。そして、番付という力士の強さのリストに名前が載ります。",
+      "translationZh": "最近，相扑界涌现出许多新力士。他们年轻、强大，受到了大家的关注。要成为力士，需要进行大量严格的训练。然后，他们的名字会被列在名为“番付”的力士实力排行榜上。",
+      "translationEn": "Recently, many new sumo wrestlers have emerged in the sumo world. They are young, strong, and everyone is paying attention to them. To become a sumo wrestler, one must undergo a lot of strict training. Then, their names are listed on the 'banzuke', a ranking of wrestlers' strength.",
+      "id": "b477ca95-b3a0-4f1e-95ca-b3f7debba055",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "番付は、力士の強さを表すものです。東と西に分かれていて、上位の力士ほど高い位置に名前が書かれます。新しい力士が番付を上がると、たくさんの人が喜びます。それは、彼らが一生懸命頑張った証だからです。",
+      "translationZh": "番付是代表力士实力的东西。它分为东和西两部分，实力越强的力士名字写的位置越高。当新力士在番付上晋升时，许多人会感到高兴。因为那是他们努力奋斗的证明。",
+      "translationEn": "The banzuke represents the strength of the sumo wrestlers. It is divided into East and West, and the names of stronger wrestlers are written in higher positions. When new wrestlers rise in the banzuke, many people rejoice. This is proof of their hard work.",
+      "id": "9cba5ddc-2365-4c3e-824f-25336ed45540",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "人気のある力士は、試合が強くて、ファンサービスも上手です。ファンの声援は、力士の力になります。これからも、新しい力士がどんどん強くなって、私たちを楽しませてくれるでしょう。",
+      "translationZh": "受欢迎的力士不仅比赛强大，而且擅长与粉丝互动。粉丝们的加油声是力士的力量。今后，也会有新的力士不断变强，给我们带来欢乐。",
+      "translationEn": "Popular sumo wrestlers are not only strong in matches but also good at fan service. The cheers of the fans become the strength of the wrestlers. From now on, new wrestlers will continue to get stronger and entertain us.",
+      "id": "a44b9a5a-2f29-41f7-8c73-ea2a38c205aa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "相扑选手",
+      "meaningEn": "sumo wrestler",
+      "level": "n5n4",
+      "exampleSentence": "その力士はとても強いです。",
+      "id": "29dc2da4-86d5-4205-831f-10c7bd4e9e22"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）选手的等级名册",
+      "meaningEn": "ranking of sumo wrestlers",
+      "level": "n5n4",
+      "exampleSentence": "新しい番付が発表されました。",
+      "id": "ad923da6-2172-4896-934d-7734234d3aa5"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，注视",
+      "meaningEn": "attention, notice",
+      "level": "n5n4",
+      "exampleSentence": "彼は今、一番注目されています。",
+      "id": "2bab6742-5abb-4513-b997-af73f64ca4a8"
+    },
+    {
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaningZh": "晋升，升级",
+      "meaningEn": "promotion",
+      "level": "n3",
+      "exampleSentence": "若手力士の昇進は嬉しいです。",
+      "id": "90ee61e2-3908-42d5-8ae3-48dc09d6b27f"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この力士はとても人気があります。",
+      "id": "ffa7674f-f774-40d2-b15b-9f087b60ab54"
+    },
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaningZh": "练习",
+      "meaningEn": "practice, training",
+      "level": "n5n4",
+      "exampleSentence": "毎日、たくさん練習します。",
+      "id": "1dd9caca-26ca-4cf0-8b7e-c801a80a6b0f"
+    },
+    {
+      "word": "証",
+      "reading": "あかし",
+      "meaningZh": "证明，证据",
+      "meaningEn": "proof, evidence",
+      "level": "n3",
+      "exampleSentence": "努力した証が見えます。",
+      "id": "a0bd8002-902f-4bce-944d-cd4457f0111a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい力士が番付を上がると、どうなりますか？",
+      "options": [
+        "みんなが心配します。",
+        "たくさんの人が喜びます。",
+        "力士は引退します。",
+        "練習をやめます。"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しい力士が番付を上がると、たくさんの人が喜びます。それは、彼らが一生懸命頑張った証だからです。",
+      "id": "e240b693-67f8-4f36-a4f5-8ee000f198aa"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-31-00a5715c8f",
+  "publishedAt": "2026-05-31T06:00:00+09:00"
+}

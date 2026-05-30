@@ -1,0 +1,135 @@
+{
+  "title": "新星力士の台頭と観客の熱狂",
+  "summary": "近年、若手力士が番付を駆け上がり、相撲界に新たな風を吹き込んでいます。彼らの活躍は、多くのファンを魅了し、相撲人気を再燃させています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、相撲界では若手の力士が目覚ましい活躍を見せています。彼らは厳しい稽古に耐え、着実に番付を上げてきました。特に、数年前から注目されている力士が、ついに三役（小結以上）の地位を掴んだのです。そのニュースは、相撲ファンならずとも多くの人々の関心を集めました。",
+      "translationZh": "最近，相扑界涌现出许多表现出色的年轻力士。他们经受住了严酷的训练，稳步提升了排名。特别是几年前就备受关注的一位力士，终于获得了三役（小结及以上）的地位。这个消息吸引了包括相扑迷在内的许多人的关注。",
+      "translationEn": "Recently, young sumo wrestlers have been showing remarkable performance in the sumo world. They have endured rigorous training and steadily climbed the ranks. In particular, a wrestler who has been gaining attention for several years has finally captured a position in the Sanyaku (Komusubi or higher). This news has garnered interest from many people, not just sumo fans.",
+      "id": "b3f6c025-1713-4448-8c50-d73e0d28203e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "番付が上がるにつれて、その力士の人気も急上昇しています。テレビで彼らの取組が放送されると、視聴率が上がると言われています。また、相撲部屋への出稽古や、サイン会には多くのファンが詰めかけ、その人気ぶりがうかがえます。力士一人ひとりの個性や、試合にかける情熱が、ファンに感動を与えているのでしょう。",
+      "translationZh": "随着排名的提升，该力士的人气也急剧上升。据说，当电视转播他们的比赛时，收视率就会提高。此外，在相扑部屋（训练场所）的交流训练以及签名会上，挤满了众多粉丝，可见其人气之高。力士们各自的个性和比赛时的热情，想必是深深打动了粉丝。",
+      "translationEn": "As their rank increases, the popularity of these wrestlers also soars. It is said that viewership ratings rise when their matches are broadcast on television. Furthermore, many fans flock to their training stables for practice sessions and autograph events, demonstrating their immense popularity. The individual personalities of the wrestlers and their passion for the matches likely move their fans.",
+      "id": "c7ccc062-7e53-4969-9802-895cccf81544",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、番付が上がるということは、対戦相手も強くなるということです。これからが本当の勝負だと、本人はもちろん、周囲も期待と不安を抱えています。それでも、彼がこれまでの努力を糧にして、さらに上を目指してくれることを、多くのファンが心から応援しています。新世代の力士が、相撲界をどのように盛り上げていくのか、今後が楽しみです。",
+      "translationZh": "然而，排名上升也意味着对手会变得更强。不仅本人，周围的人也怀着期待和不安，认为真正的挑战才刚刚开始。尽管如此，许多粉丝真心支持他，希望他能以过去的努力为基础，朝着更高的目标迈进。我们期待着新一代力士将如何振兴相扑界。",
+      "translationEn": "However, rising in rank also means facing stronger opponents. Not only the wrestler himself but also those around him have expectations and anxieties, knowing that the real competition is just beginning. Nevertheless, many fans are sincerely cheering for him, hoping he will use his past efforts as fuel to aim even higher. We look forward to seeing how the new generation of wrestlers will invigorate the world of sumo.",
+      "id": "eb9190a3-a6fe-4ae6-988e-97b53835607a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "相扑运动员",
+      "meaningEn": "sumo wrestler",
+      "level": "n3",
+      "exampleSentence": "若手力士の活躍が期待されています。",
+      "id": "298ece10-bece-4fa4-b8ea-edc89bf8da2f"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）排名表",
+      "meaningEn": "ranking list (in sumo)",
+      "level": "n3",
+      "exampleSentence": "彼の番付が大きく上がった。",
+      "id": "e378964c-7b0c-4a5c-9536-8a936aef82ea"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，崛起",
+      "meaningEn": "rise, emergence",
+      "level": "n2n1",
+      "exampleSentence": "新しい才能が次々と台頭している。",
+      "id": "5841f43d-b645-4054-a68f-e9cb3241935e"
+    },
+    {
+      "word": "熱狂",
+      "reading": "ねっきょう",
+      "meaningZh": "狂热，热情",
+      "meaningEn": "enthusiasm, fervor",
+      "level": "n3",
+      "exampleSentence": "観客は力士に熱狂していた。",
+      "id": "839cbfcf-e6b8-4f3a-ba62-dcd5750ed3be"
+    },
+    {
+      "word": "三役",
+      "reading": "さんやく",
+      "meaningZh": "（相扑）横纲、大关、关胁、小结这四个等级",
+      "meaningEn": "Sanyaku (top three ranks in sumo: Yokozuna, Ozeki, Sekiwake, Komusubi)",
+      "level": "n3",
+      "exampleSentence": "三役を目指して日々努力している。",
+      "id": "c207e282-51a5-4bd5-8202-69f4d5b14912"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaningZh": "关心；兴趣",
+      "meaningEn": "interest",
+      "level": "n3",
+      "exampleSentence": "その問題に多くの関心が寄せられている。",
+      "id": "b845be6e-157b-48cb-b7dd-10a87ffc982c"
+    },
+    {
+      "word": "取組",
+      "reading": "とりくみ",
+      "meaningZh": "（相扑）比赛",
+      "meaningEn": "match, bout (in sumo)",
+      "level": "n3",
+      "exampleSentence": "今日の取組は非常に盛り上がった。",
+      "id": "c7a71f6b-e8de-4968-b4ad-c9199f31c20d"
+    },
+    {
+      "word": "出稽古",
+      "reading": "でげいこ",
+      "meaningZh": "（相扑）到别的部屋去练习",
+      "meaningEn": "visiting another stable for practice (sumo)",
+      "level": "n3",
+      "exampleSentence": "有名な力士が出稽古に来た。",
+      "id": "f046d840-26b0-4f45-880f-8b9d5a6baf85"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若手力士の人気が高まっている理由は何ですか？",
+      "options": [
+        "彼らは皆、過去に有名な力士だったから。",
+        "彼らの個性や試合にかける情熱がファンに感動を与えているから。",
+        "番付が上がると、自動的に人気が出るから。",
+        "テレビでたくさん放送されるから。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「力士一人ひとりの個性や、試合にかける情熱が、ファンに感動を与えているのでしょう。」と書かれています。",
+      "id": "1f0c2e8e-099b-4cee-ac56-d5d89cf5b202"
+    },
+    {
+      "question": "筆者は、番付が上がるにつれて力士にどのようなことを期待していますか？",
+      "options": [
+        "すぐに横綱になってほしい。",
+        "これまでの努力を糧に、さらに上を目指してほしい。",
+        "怪我をしないように、無理せず頑張ってほしい。",
+        "人気が出ても、昔と変わらないでほしい。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後の段落に「それでも、彼がこれまでの努力を糧にして、さらに上を目指してくれることを、多くのファンが心から応援しています。」とあります。",
+      "id": "8e95bf2c-b71d-4600-b819-1a30f95fc3dc"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-31-00a5715c8f",
+  "publishedAt": "2026-05-31T06:00:00+09:00"
+}

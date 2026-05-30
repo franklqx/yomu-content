@@ -1,0 +1,114 @@
+{
+  "title": "図書館、夜も開く？",
+  "summary": "ある町で、図書館の夜間営業の実験が始まりました。多くの人が本を楽しめるようになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある町で特別な実験が始まりました。それは、公立図書館の夜間営業です。今まで、図書館は夕方までしか開いていませんでした。しかし、この実験で夜遅くまで本を読むことができます。",
+      "translationZh": "最近，某个城镇开始了一项特别的实验。那就是公共图书馆的夜间开放。以前，图书馆只开到傍晚。但是，通过这项实验，人们可以在深夜まで阅读书籍。",
+      "translationEn": "Recently, a special experiment started in a certain town. It is the night opening of the public library. Until now, libraries were only open until the evening. However, with this experiment, people can read books until late at night.",
+      "id": "8e663e0e-b0e4-4268-bec4-ed7bc6e4d53a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、仕事や学校で忙しい人々にもっと図書館を利用してもらいたいという考えから始まりました。夜に図書館が開いていれば、仕事が終わった後や、学校の帰りに立ち寄ることができます。",
+      "translationZh": "这项实验是出于希望让忙于工作和学习的人们更多地利用图书馆的想法而开始的。如果图书馆在晚上开放，人们可以在工作结束后或放学回家时顺道去。",
+      "translationEn": "This experiment started from the idea of wanting busy people with jobs and school to use the library more. If the library is open at night, people can stop by after work or on their way home from school.",
+      "id": "3c4df188-9873-487c-aa33-e15295c8c5f4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館では、静かな空間で本を読んだり、勉強したりすることができます。夜に開いていると、昼間とは違う雰囲気で、集中して学習できるかもしれません。この実験が成功すると、他の町でも広がるかもしれませんね。",
+      "translationZh": "在图书馆里，可以在安静的空间里读书或学习。在晚上开放的话，可能会在与白天不同的氛围中，更集中地学习。如果这项实验成功，也可能在其他城镇推广开来。",
+      "translationEn": "In the library, you can read books or study in a quiet space. When open at night, in a different atmosphere from daytime, you might be able to concentrate on your studies. If this experiment is successful, it might spread to other towns as well.",
+      "id": "e7bae33a-521e-4883-b238-765e619830d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaningZh": "图书馆",
+      "meaningEn": "library",
+      "level": "n5n4",
+      "exampleSentence": "図書館で本を借りました。",
+      "id": "653ac885-2cdd-44e4-a3c1-bf0d15ce852b"
+    },
+    {
+      "word": "夜間営業",
+      "reading": "やかんえいぎょう",
+      "meaningZh": "夜间营业",
+      "meaningEn": "night opening hours",
+      "level": "n5n4",
+      "exampleSentence": "この店は夜間営業をしています。",
+      "id": "f03dd27b-cdbf-45b6-ba5b-77fb79e16485"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "505cd4c6-a18e-4845-b38b-769b4c6b0e1b"
+    },
+    {
+      "word": "公立",
+      "reading": "こうりつ",
+      "meaningZh": "公立的",
+      "meaningEn": "public",
+      "level": "n3",
+      "exampleSentence": "公立学校に通っています。",
+      "id": "aa435d03-ce15-42d8-9bd1-8377b5e2fb7c"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用",
+      "meaningEn": "use, utilize",
+      "level": "n5n4",
+      "exampleSentence": "図書館の施設を利用しました。",
+      "id": "f31a0281-09a7-4f84-b5c2-d01016d058f0"
+    },
+    {
+      "word": "閉まる",
+      "reading": "しまる",
+      "meaningZh": "关门，关闭",
+      "meaningEn": "to close",
+      "level": "n5n4",
+      "exampleSentence": "店が閉まる時間です。",
+      "id": "fb893708-7532-45f3-b4cd-c9ffdcbee7a3"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere, mood",
+      "level": "n3",
+      "exampleSentence": "このカフェは落ち着いた雰囲気です。",
+      "id": "f2b02db2-3c06-4138-85c5-8efbe4bad4b1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "図書館の夜間営業実験は、どのような目的で行われていますか？",
+      "options": [
+        "もっと多くの本を借りてもらうため",
+        "図書館の建物を新しくするため",
+        "忙しい人も図書館を利用しやすくするため",
+        "夜の図書館の雰囲気を調べるため"
+      ],
+      "correctIndex": 2,
+      "explanation": "この実験は、仕事や学校で忙しい人々にもっと図書館を利用してもらいたいという考えから始まりました。",
+      "id": "890773ed-d855-47d1-8f2f-bef2fad4a999"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-05-31-34bc6199db",
+  "publishedAt": "2026-05-31T06:00:00+09:00"
+}

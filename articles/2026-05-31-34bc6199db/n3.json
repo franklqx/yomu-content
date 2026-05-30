@@ -1,0 +1,135 @@
+{
+  "title": "夜の図書館、開いてみたらどうなる？実験開始！",
+  "summary": "最近、いくつかの公立図書館で夜間営業の実験が始まりました。この実験は、図書館をより多くの人に利用してもらうための新しい試みです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "多くの公立図書館は、日中や夕方までしか開いていません。そのため、仕事や学校が終わってから行きたいと思っても、閉まっていることがよくあります。そこで、一部の図書館では、夜遅くまで開けてみる実験を始めました。これにより、今まで図書館に来られなかった人たちも利用しやすくなることが期待されています。",
+      "translationZh": "许多公共图书馆只在白天或傍晚开放。因此，即使想在工作或放学后去，也常常已经关门了。于是，一些图书馆开始进行延长营业时间的实验。人们期待这能让以前没能来图书馆的人们更容易利用。",
+      "translationEn": "Many public libraries are only open during the day or until the early evening. Therefore, even if you want to go after work or school, they are often closed. Because of this, some libraries have started an experiment to stay open late into the night. It is expected that this will make it easier for people who couldn't visit the library before to use it.",
+      "id": "10b32461-d004-4ecb-a04c-df8bd0e7aece",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間営業の実験では、図書館の開館時間を午後9時や10時まで延ばしています。この時間帯なら、仕事帰りの人や、夜に勉強したい学生もゆっくりと本を探したり、静かな空間で学習したりすることができます。図書館側も、利用者のニーズに応えようと工夫しながら運営しています。",
+      "translationZh": "在夜间营业的实验中，图书馆的开放时间延长到了晚上9点或10点。在这个时间段，下班回家的人们，或者想在晚上学习的学生，都可以悠闲地找书，或在安静的空间里学习。图书馆方面也在一边摸索一边运营，以回应利用者的需求。",
+      "translationEn": "In the night opening experiment, library hours are extended to 9 PM or 10 PM. During this time, people returning from work, or students who want to study at night, can take their time searching for books or study in a quiet space. The library is also operating while trying to find ways to meet user needs.",
+      "id": "21ddd364-a5db-4ff2-a5ab-bc1beff550cb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、夜間営業には課題もあります。例えば、職員の安全確保や、電気代などのコスト増加です。しかし、図書館を地域の人々にとって、より身近で使いやすい場所にするために、このような新しい取り組みは非常に価値があると言えるでしょう。実験の結果によっては、今後、他の図書館でも同様の試みが行われるかもしれません。",
+      "translationZh": "当然，夜间营业也存在一些课题。例如，确保职员的安全，以及电费等成本的增加。但是，为了让图书馆成为对社区居民来说更亲近、更方便使用的场所，这样的新尝试可以说是非常有价值的。根据实验结果，今后其他图书馆也可能进行同样的尝试。",
+      "translationEn": "Of course, there are challenges with night opening hours. For example, ensuring staff safety and increased costs such as electricity bills. However, such new initiatives can be said to be very valuable in making libraries a more familiar and accessible place for the community. Depending on the results of the experiment, similar attempts may be made in other libraries in the future.",
+      "id": "e845891f-6723-45d2-b81b-2ffcbab60067",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公立図書館",
+      "reading": "こうりつとしょかん",
+      "meaningZh": "公共图书馆",
+      "meaningEn": "public library",
+      "level": "n3",
+      "exampleSentence": "この街には大きな公立図書館があります。",
+      "id": "c9f01ff5-0aa0-4e92-86bf-32f0721d9adb"
+    },
+    {
+      "word": "夜間営業",
+      "reading": "やかんえいぎょう",
+      "meaningZh": "夜间营业",
+      "meaningEn": "night opening hours / operating at night",
+      "level": "n3",
+      "exampleSentence": "デパートの夜間営業は週末だけです。",
+      "id": "f175c1bd-4235-4cb9-ba62-956286282a7f"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい薬の効果を実験で確かめました。",
+      "id": "736b7abd-1ef4-4a69-a212-727fbbb1ffc4"
+    },
+    {
+      "word": "開館時間",
+      "reading": "かいかんじかん",
+      "meaningZh": "开放时间（指图书馆、博物馆等）",
+      "meaningEn": "opening hours (for libraries, museums, etc.)",
+      "level": "n3",
+      "exampleSentence": "図書館の開館時間を確認してください。",
+      "id": "c8b7afe1-1a48-4bc7-81c1-6a17a52c47c1"
+    },
+    {
+      "word": "延長",
+      "reading": "えんちょう",
+      "meaningZh": "延长",
+      "meaningEn": "extension / to extend",
+      "level": "n3",
+      "exampleSentence": "会議の時間を1時間延長しました。",
+      "id": "1a272c66-dbf9-44d8-a603-f9d74368f8bd"
+    },
+    {
+      "word": "ニーズ",
+      "reading": "ニーズ",
+      "meaningZh": "需求",
+      "meaningEn": "needs",
+      "level": "n3",
+      "exampleSentence": "お客様のニーズに合わせた商品を作ります。",
+      "id": "31171273-65b0-4b44-975c-36381919a769"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "issue / challenge / problem",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには多くの課題があります。",
+      "id": "064c6b1c-505e-4a39-a765-41bb27c0aee2"
+    },
+    {
+      "word": "確保",
+      "reading": "かくほ",
+      "meaningZh": "确保，保证",
+      "meaningEn": "assurance / securing",
+      "level": "n2n1",
+      "exampleSentence": "安全を確保するために、新しいシステムを導入します。",
+      "id": "c9d6a661-6984-48ae-979b-9c443d69f6eb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、一部の図書館で夜間営業の実験が始まった主な理由は何ですか？",
+      "options": [
+        "図書館の利用者を増やすため",
+        "図書館の職員を増やすため",
+        "図書館の建物を新しくするため",
+        "図書館の本を増やすため"
+      ],
+      "correctIndex": 0,
+      "explanation": "「この実験は、図書館をより多くの人に利用してもらうための新しい試みです。」と書かれています。",
+      "id": "7f3e7395-4a78-4efb-8b16-d8173dae68cd"
+    },
+    {
+      "question": "夜間営業の実験で、図書館はどのようなメリットがあると期待されていますか？",
+      "options": [
+        "電気代が安くなること",
+        "職員の仕事が楽になること",
+        "仕事帰りや夜に勉強したい人が利用しやすくなること",
+        "本を借りる人が全員無料になること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「この時間帯なら、仕事帰りの人や、夜に勉強したい学生もゆっくりと本を探したり、静かな空間で学習したりすることができます。」と説明されています。",
+      "id": "58499b63-6cf2-4863-9c89-b7a976c38aea"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-05-31-34bc6199db",
+  "publishedAt": "2026-05-31T06:00:00+09:00"
+}
