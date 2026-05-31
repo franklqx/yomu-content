@@ -1,0 +1,122 @@
+{
+  "title": "学生街の人気定食店",
+  "summary": "学生街には、安くておいしい定食屋がたくさんあります。特にお腹いっぱいになれるお店が人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学の近くに、おいしい定食屋があります。この店は学生にとても人気です。なぜなら、料理がおいしくて、値段が安いからです。",
+      "translationZh": "大学附近有一家好吃的定食店。这家店在学生中非常受欢迎。这是因为菜肴美味，而且价格便宜。",
+      "translationEn": "Near the university, there is a delicious set meal restaurant. This shop is very popular with students. This is because the food is delicious and the prices are cheap.",
+      "id": "ee42f569-b4c2-4cd0-aaaf-d76ac9db5d4a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この店の一番人気は「カツ丼」です。大きなカツが２つものっています。ご飯もたくさん入っています。普通盛りでも、とてもお腹がいっぱいになります。",
+      "translationZh": "这家店最受欢迎的是“炸猪排饭”。上面放着两个大炸猪排。米饭也放了很多。即使是普通份量，也会让人吃得非常饱。",
+      "translationEn": "The most popular dish at this restaurant is \"Katsudon\" (pork cutlet bowl). It has two large pork cutlets. There is also a lot of rice. Even the regular portion will make you very full.",
+      "id": "63d29f31-045c-4218-b142-f9fb7751fb0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「もっと食べたい！」という学生のために、「大盛り」もあります。大盛りのカツ丼は、カツが３つになります。ご飯ももっと多いです。多くの学生が挑戦していますが、全部食べるのは大変だそうです。",
+      "translationZh": "对于“想吃更多！”的学生，还有“大份”。大份的炸猪排饭有三个炸猪排。米饭也更多。很多学生都尝试过，但是据说全部吃完很不容易。",
+      "translationEn": "For students who say \"I want to eat more!\", there is also a \"large portion\". The large portion katsudon comes with three pork cutlets. There is also more rice. Many students try it, but it is said to be difficult to eat it all.",
+      "id": "88f9fb81-bd14-4ce8-ad61-de0a5c1d17b5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋は、午後２時までランチをやっています。遅い時間でも、温かい定食を食べられます。学生さんは、よく友達とこの店に来ます。",
+      "translationZh": "这家定食店的午餐营业到下午2点。即使是晚一点的时间，也能吃到热腾腾的定食。学生们经常和朋友一起来这家店。",
+      "translationEn": "This set meal restaurant serves lunch until 2 PM. Even at a later hour, you can eat a warm set meal. Students often come to this place with their friends.",
+      "id": "1cd1b852-8443-47c3-a5d2-1116e7e9a770",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐（固定搭配的饭菜）",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "この店の定食は安いです。",
+      "id": "fd983f2a-aa6e-4957-9fbb-4be51065e29a"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "c256855f-a43f-4cd7-b704-3c765a347806"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "このカバンの値段はいくらですか。",
+      "id": "dde3e66f-4da6-4170-8200-f2b0e047fb49"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，一般",
+      "meaningEn": "normal, ordinary",
+      "level": "n5n4",
+      "exampleSentence": "今日の天気は普通です。",
+      "id": "03bdcde2-5555-4fcc-b218-a0a7d659fafa"
+    },
+    {
+      "word": "大盛り",
+      "reading": "おおもり",
+      "meaningZh": "大份（的食物）",
+      "meaningEn": "large portion",
+      "level": "n5n4",
+      "exampleSentence": "カツ丼を大盛りにしました。",
+      "id": "921359c5-f258-4fba-8ee6-239cdb661829"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n3",
+      "exampleSentence": "新しい仕事に挑戦します。",
+      "id": "538b7902-5d48-40a7-9420-8fbb531cc828"
+    },
+    {
+      "word": "全部",
+      "reading": "ぜんぶ",
+      "meaningZh": "全部",
+      "meaningEn": "all",
+      "level": "n5n4",
+      "exampleSentence": "宿題を全部終わりました。",
+      "id": "434bc3c0-4416-4717-8d3d-38e455972d2a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋で一番人気があるメニューは何ですか。",
+      "options": [
+        "ラーメン",
+        "カレーライス",
+        "カツ丼",
+        "うどん"
+      ],
+      "correctIndex": 2,
+      "explanation": "「この店の一番人気は「カツ丼」です。」",
+      "id": "d95fcf48-5c68-436d-8048-b5fba3c1cd97"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-01-08420fca06",
+  "publishedAt": "2026-06-01T06:00:00+09:00"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "学生街で大人気！コスパ最強のボリューム定食店",
+  "summary": "学生街には、お腹いっぱい食べられるボリューム満点の定食屋さんがたくさんあります。今回は、特に学生さんに人気のお店をご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都心から少し離れた学生街には、安くて美味しいお店がたくさんあります。中でも、学生さんたちのお腹と財布に優しい「大盛り定食店」は、いつも賑わっています。勉強で疲れた後や、友達と集まる時など、みんなでワイワイ言いながら美味しい食事を楽しむのにぴったりなんです。",
+      "translationZh": "在离市中心稍远的学生街，有很多又便宜又美味的店。其中，对学生们的肚子和钱包都很友好的“大份定食店”总是人潮涌动。学习疲惫后，或者和朋友聚会时，这里都是大家一边热闹地聊天一边享受美食的绝佳场所。",
+      "translationEn": "In the student district, a little way from the city center, there are many affordable and delicious restaurants. Among them, 'large portion set meal restaurants' that are kind to students' stomachs and wallets are always bustling. It's perfect for enjoying delicious food with friends while having fun, especially after a tiring study session or when gathering with friends.",
+      "id": "df68a80e-e513-4cf8-b3be-604d2b86a52b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店の魅力は、何と言ってもそのボリュームです。一般的な定食よりもご飯の量が多く、おかずもたっぷり乗っています。ですから、男の学生さんだけでなく、たくさん食べたい女性の学生さんにも大人気なんですよ。メニューも豊富で、唐揚げ定食や生姜焼き定食など、定番のメニューはどれも外れがありません。",
+      "translationZh": "这家店最大的魅力，无论怎么说都是它的分量。米饭的量比一般定食多，配菜也放得满满的。因此，不仅受男生欢迎，也很受想吃很多东西的女生欢迎。菜单也很丰富，炸鸡定食、姜汁烧肉定食等经典菜品，どれも（哪一个）都不会让人失望。",
+      "translationEn": "The charm of this restaurant, above all else, is its portion size. The amount of rice is larger than in a typical set meal, and the side dishes are also plentiful. Therefore, it's very popular not only with male students but also with female students who want to eat a lot. The menu is extensive, and classic options like the fried chicken set meal and ginger pork set meal are all excellent choices.",
+      "id": "fbc059f9-10ab-4c17-a14b-ab8eeb0792e0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、このお店では、学生さんのために特別なサービスも提供しています。例えば、ご飯のおかわりが無料だったり、ドリンクがお得な値段で飲めたりするんです。こうした工夫があるおかげで、学生さんたちは、お財布を気にすることなく、心ゆくまで食事を楽しむことができるのでしょう。私も、このお店で食べると、いつも元気をもらえます。",
+      "translationZh": "此外，这家店还为学生提供特别服务。例如，米饭可以免费续加，或者饮料以优惠的价格提供。正是因为有这样的用心，学生们才能在不担心钱包负担的情况下，尽情享受美食。我每次在这家店用餐，都能感到精力充沛。",
+      "translationEn": "Furthermore, this restaurant offers special services for students. For example, rice refills are free, or drinks are available at a discounted price. Thanks to these considerations, students can enjoy their meals to their heart's content without worrying about their wallets. I always feel energized after eating here.",
+      "id": "f9fa565d-882c-4923-95b4-75b1abfb5c51",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐，配有米饭、主菜、配菜和汤的餐食",
+      "meaningEn": "set meal (a meal consisting of rice, a main dish, side dishes, and soup)",
+      "level": "n5n4",
+      "exampleSentence": "今日のランチは、焼き魚の定食にしました。",
+      "id": "45bc8705-fd10-4226-b26d-41873310ee64"
+    },
+    {
+      "word": "大盛り",
+      "reading": "おおもり",
+      "meaningZh": "大份，份量大的",
+      "meaningEn": "large portion",
+      "level": "n5n4",
+      "exampleSentence": "このラーメンは、大盛りでも値段は変わりません。",
+      "id": "0eee211c-e519-49da-a2c4-a35df253918b"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，拥挤",
+      "meaningEn": "to be crowded, to be bustling",
+      "level": "n3",
+      "exampleSentence": "週末のデパートは、たくさんの人で賑わっています。",
+      "id": "794cd64b-ba9d-4932-9dfe-85ac9c30741d"
+    },
+    {
+      "word": "コスパ",
+      "reading": "コスパ",
+      "meaningZh": "性价比（cost performance的缩写）",
+      "meaningEn": "cost performance (value for money)",
+      "level": "n3",
+      "exampleSentence": "このお店は、コスパがとても良いと評判です。",
+      "id": "fc7e5883-e8a2-4da2-ba23-a5aca79e67f5"
+    },
+    {
+      "word": "外れがない",
+      "reading": "はずれがない",
+      "meaningZh": "不会出错，总是很好吃/满意",
+      "meaningEn": "to be unfailing, to be always good",
+      "level": "n3",
+      "exampleSentence": "ここのケーキはどれも美味しいので、外れがありません。",
+      "id": "cb54c948-b2d4-418e-8712-a8175f60276d"
+    },
+    {
+      "word": "おかわり",
+      "reading": "おかわり",
+      "meaningZh": "（饭、菜、酒等的）再来一份，续杯",
+      "meaningEn": "second helping, refill",
+      "level": "n5n4",
+      "exampleSentence": "ご飯のおかわりを一つお願いします。",
+      "id": "aae14118-646e-4f3e-9b95-bb7f99534dea"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "创造，设法，点子",
+      "meaningEn": "device, scheme, invention, ingenuity",
+      "level": "n3",
+      "exampleSentence": "この問題の解決のために、いろいろな工夫をしました。",
+      "id": "ca2c23d2-236e-4c92-80d9-b59ab0a7f6d6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食店が学生さんに人気がある理由は何ですか？",
+      "options": [
+        "おしゃれな雰囲気だから",
+        "メニューが少ないから",
+        "ボリュームがあって、値段も手頃だから",
+        "静かで勉強に集中できるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「安くて美味しいお店がたくさんあります。中でも、学生さんたちのお腹と財布に優しい「大盛り定食店」は、いつも賑わっています。」と書かれています。",
+      "id": "88f3f02a-b4b3-4186-a526-a135d6b5d694"
+    },
+    {
+      "question": "お店では、学生のためにどのようなサービスがありますか？",
+      "options": [
+        "無料でデザートが食べられる",
+        "ご飯のおかわりが無料",
+        "注文した料理を家まで届けてくれる",
+        "勉強するためのスペースがある"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「例えば、ご飯のおかわりが無料だったり、ドリンクがお得な値段で飲めたりするんです。」と書かれています。",
+      "id": "82187d6c-fc58-4240-bfaa-5aa180627316"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-01-08420fca06",
+  "publishedAt": "2026-06-01T06:00:00+09:00"
+}

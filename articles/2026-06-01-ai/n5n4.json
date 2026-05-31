@@ -1,0 +1,114 @@
+{
+  "title": "未来イヤホンで会話！",
+  "summary": "AIで言葉がすぐにわかります。旅行がもっと楽しくなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、AIの技術がとても進んでいます。特に、言葉を翻訳する技術がすごいです。新しいイヤホンがあります。それは、外国の言葉をすぐに日本語にします。",
+      "translationZh": "最近，AI技术发展很快。特别是，翻译语言的技术非常厉害。有一种新的耳机。它可以马上把外国的语言翻译成日语。",
+      "translationEn": "Recently, AI technology has advanced a lot. Especially, the technology to translate languages is amazing. There is a new earphone. It immediately translates foreign languages into Japanese.",
+      "id": "168d1c33-31e6-4586-b6f7-a7efb4d3b9cf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイヤホンを使うと、外国の人と話すのが簡単になります。例えば、旅行に行ったとき、お店の人と話せます。困ったときも、すぐ助けてもらえます。",
+      "translationZh": "使用这种耳机，和外国人说话会变得简单。比如，去旅行的时候，可以和店里的人说话。遇到困难的时候，也可以马上得到帮助。",
+      "translationEn": "Using this earphone, talking with foreign people becomes easy. For example, when you go traveling, you can talk with shop staff. Even when you are in trouble, you can get help immediately.",
+      "id": "0437bfa7-6e87-4bad-806a-a9c4294edd3e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この技術は、これからもっと広がるでしょう。たくさんの人が、このイヤホンを使うようになると思います。世界中の人と、もっと気軽に話せるようになりますね。",
+      "translationZh": "这项技术今后还会继续普及。我认为很多人会开始使用这种耳机。这样，就能和世界各地的人们更轻松地交流了。",
+      "translationEn": "This technology will likely spread more in the future. I think many people will start using these earphones. It will become possible to talk more casually with people all over the world.",
+      "id": "f479f5a4-23d5-4069-ac64-16337ddf5847",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n5n4",
+      "exampleSentence": "この新しい技術はすごいですね。",
+      "id": "6f527957-7f5d-48a5-ac53-9118891d2345"
+    },
+    {
+      "word": "翻訳",
+      "reading": "ほんやく",
+      "meaningZh": "翻译",
+      "meaningEn": "translation",
+      "level": "n5n4",
+      "exampleSentence": "この本は日本語に翻訳されました。",
+      "id": "f92d23c8-75d0-476b-9761-23ec4ef015bd"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaningZh": "外国",
+      "meaningEn": "foreign country",
+      "level": "n5n4",
+      "exampleSentence": "彼は外国へ行きました。",
+      "id": "296e0c6d-9b27-4e8d-98a6-164006c75abe"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaningZh": "简单",
+      "meaningEn": "easy, simple",
+      "level": "n5n4",
+      "exampleSentence": "この問題は簡単です。",
+      "id": "566dc24c-46f7-4312-8236-5045171f7350"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "来月、日本へ旅行します。",
+      "id": "bb39aa3b-2972-4562-a57c-87c0a2be1b56"
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "普及，传播，扩大",
+      "meaningEn": "to spread, to become widespread",
+      "level": "n3",
+      "exampleSentence": "このニュースはすぐに広がるでしょう。",
+      "id": "2a9ff982-d646-4e46-95f1-159ebbb4067a"
+    },
+    {
+      "word": "世界中",
+      "reading": "せかいじゅう",
+      "meaningZh": "全世界",
+      "meaningEn": "all over the world",
+      "level": "n5n4",
+      "exampleSentence": "世界中の人がこのニュースを見ました。",
+      "id": "b9fda648-cfb2-42d2-8b23-f6e2386ca40a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このイヤホンは何を助けますか？",
+      "options": [
+        "日本語の勉強",
+        "外国の人との会話",
+        "音楽を聴くこと",
+        "AIについて学ぶこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「このイヤホンを使うと、外国の人と話すのが簡単になります。」と書いてあります。",
+      "id": "b65bd3ba-57fa-46a3-a08c-6ec68785034a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-01-ai",
+  "publishedAt": "2026-06-01T06:00:00+09:00"
+}

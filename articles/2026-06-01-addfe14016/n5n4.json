@@ -1,0 +1,113 @@
+{
+  "title": "東北の新しい道",
+  "summary": "東北地方に新しいサイクリングロードができています。海や山がきれいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東北地方でサイクリングロードがたくさん作られています。きれいな海や山を見ながら走ることができます。",
+      "translationZh": "东北地区正在修建许多自行车道。可以一边看着美丽的大海和山峦一边骑行。",
+      "translationEn": "Many cycling roads are being built in the Tohoku region. You can ride while looking at beautiful seas and mountains.",
+      "id": "a4e65b26-a2f4-4812-9f5e-64cb0051c7e2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "たとえば、青森県には海沿いの道があります。潮風を感じながら、楽しく走れます。",
+      "translationZh": "例如，青森县有沿着海边的道路。在感受海风的同时，可以愉快地骑行。",
+      "translationEn": "For example, Aomori Prefecture has a road along the coast. You can ride enjoyably while feeling the sea breeze.",
+      "id": "ca95ca4b-e255-4fa8-9da8-1fedf4cb3e60",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "福島県には、山の中の道もできました。自然をたくさん感じられる、いい道です。",
+      "translationZh": "福岛县也修建了山中的道路。这是能充分感受大自然的美好道路。",
+      "translationEn": "Fukushima Prefecture has also built roads in the mountains. It is a good road where you can feel a lot of nature.",
+      "id": "cf8d07d6-18b7-4f37-aac6-3ab285acf197",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しい道は、たくさんの人に使われています。これからもっと楽しくなるでしょう。",
+      "translationZh": "这些新道路正在被许多人使用。今后会变得更加有趣吧。",
+      "translationEn": "These new roads are being used by many people. They will likely become more enjoyable in the future.",
+      "id": "6b8f273f-1ccc-4c19-a1c6-28325f2585e0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "ここは有名な観光地です。",
+      "id": "1a646bad-4c6c-4726-b20d-1cde0ce50ca6"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，整备",
+      "meaningEn": "maintenance, development",
+      "level": "n5n4",
+      "exampleSentence": "道路の整備が進んでいます。",
+      "id": "d9ee8e1f-df4d-4e08-b7f6-42b058a45f4a"
+    },
+    {
+      "word": "海沿い",
+      "reading": "うみぞい",
+      "meaningZh": "海边",
+      "meaningEn": "along the coast",
+      "level": "n5n4",
+      "exampleSentence": "海沿いを散歩しました。",
+      "id": "eda37bcd-cf67-4026-a83f-4dd13c3c422d"
+    },
+    {
+      "word": "潮風",
+      "reading": "しおかぜ",
+      "meaningZh": "海风",
+      "meaningEn": "sea breeze",
+      "level": "n3",
+      "exampleSentence": "潮風が気持ちいいです。",
+      "id": "015cf5a8-d4ea-4292-a823-5d48a19c3bbb"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然の中でリラックスしました。",
+      "id": "bf0d21a5-c524-47f6-9167-f3b4885164e8"
+    },
+    {
+      "word": "使われています",
+      "reading": "つかわれています",
+      "meaningZh": "被使用（被动形）",
+      "meaningEn": "is used",
+      "level": "n5n4",
+      "exampleSentence": "この公園は多くの人に使われています。",
+      "id": "03a8a40c-993e-4828-b146-20891747d6bb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいサイクリングロードは、東北地方のどこに作られていますか？",
+      "options": [
+        "海沿いや山の中",
+        "町の中だけ",
+        "駅の近く",
+        "空港のそば"
+      ],
+      "correctIndex": 0,
+      "explanation": "「きれいな海や山を見ながら走ることができます。」「たとえば、青森県には海沿いの道があります。福島県には、山の中の道もできました。」",
+      "id": "13eec620-1964-4af0-8552-301094fc9fa6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-01-addfe14016",
+  "publishedAt": "2026-06-01T06:00:00+09:00"
+}

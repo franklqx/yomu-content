@@ -1,0 +1,126 @@
+{
+  "title": "東北のサイクリングロード整備が進む！新しい旅の形",
+  "summary": "東北地方では、豊かな自然を満喫できるサイクリングロードの整備が進んでいます。自転車で旅をする新しい魅力について紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、東北地方でサイクリングロードの整備が注目されています。海岸沿いや山間部など、美しい景色が楽しめる場所に新しい道が作られているからです。自転車でゆっくり景色を楽しみながら旅をすることは、車とは違った魅力があります。",
+      "translationZh": "最近，东北地区备受瞩目的焦点是自行车道的建设。在海岸线沿岸或山区等可以欣赏到美丽景色的地方，正在修建新的道路。用自行车悠闲地欣赏风景进行旅行，与乘汽车旅行有着不同的魅力。",
+      "translationEn": "Recently, the development of cycling roads in the Tohoku region has been attracting attention. New paths are being created in places where you can enjoy beautiful scenery, such as along the coast and in the mountains. Traveling while slowly enjoying the scenery by bicycle has a different charm than traveling by car.",
+      "id": "74c28270-970d-42c3-86cb-460eaa637523",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、震災からの復興が進む地域では、新しい観光資源としてサイクリングロードが整備されています。地元の特産品を味わったり、温かい人々と触れ合ったりする機会が増えるため、地域活性化にもつながると期待されています。",
+      "translationZh": "例如，在灾后重建取得进展的地区，自行车道被作为新的旅游资源进行整備。由于品尝当地特产、与热情的人们交流的机会增多，因此人们期待它也能带动地区振兴。",
+      "translationEn": "For example, in areas where reconstruction from the earthquake disaster is progressing, cycling roads are being developed as new tourism resources. It is expected to lead to regional revitalization because opportunities to taste local specialties and interact with warm people will increase.",
+      "id": "9e71d4a6-819e-445d-b535-0e4565d7f33f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "サイクリングロードが整備されると、遠方からの観光客だけでなく、地元の人々も気軽にスポーツを楽しめるようになります。週末に近場をサイクリングするだけでも、気分転換になり、健康増進にも役立つでしょう。また、自然環境への負荷が少ない旅のスタイルとしても、今後ますます重要になっていくと考えられます。",
+      "translationZh": "随着自行车道的完善，不仅是远方的游客，当地居民也能轻松地享受运动的乐趣。即使只是在周末去附近骑行，也能转换心情，有助于健康增进。此外，作为对自然环境负担较小的旅行方式，今后预计将变得越来越重要。",
+      "translationEn": "As cycling roads are developed, not only tourists from afar but also local residents can easily enjoy sports. Even just cycling in a nearby area on weekends can be a mood refresher and help improve health. Furthermore, it is thought that it will become increasingly important in the future as a travel style with less impact on the natural environment.",
+      "id": "3a49a91f-0dae-4e6f-ac0d-3ef45297e514",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，整备，修建",
+      "meaningEn": "maintenance, preparation, development",
+      "level": "n3",
+      "exampleSentence": "道路の整備は、交通の安全のために大切です。",
+      "id": "31f9ee34-5f04-42c1-97cd-07ba1dfe5cee"
+    },
+    {
+      "word": "満喫",
+      "reading": "まんきつ",
+      "meaningZh": "尽情享受",
+      "meaningEn": "enjoy oneself to the fullest",
+      "level": "n3",
+      "exampleSentence": "休日は、美味しいものを食べながら、のんびり満喫しました。",
+      "id": "27081484-df24-4d0b-ab0a-528e947647ab"
+    },
+    {
+      "word": "海岸沿い",
+      "reading": "かいがんぞい",
+      "meaningZh": "海岸边",
+      "meaningEn": "along the coast",
+      "level": "n3",
+      "exampleSentence": "海岸沿いを散歩すると、気持ちがいいです。",
+      "id": "c926f795-67f6-4a25-b2e5-f33cbf0d9eda"
+    },
+    {
+      "word": "間",
+      "reading": "かん",
+      "meaningZh": "（时间、空间）间隔，期间；内部",
+      "meaningEn": "interval, space, period; inside",
+      "level": "n3",
+      "exampleSentence": "山間部には、まだ自然が多く残っています。",
+      "id": "ff688256-7745-4dbf-80ff-9407d6639c85"
+    },
+    {
+      "word": "資源",
+      "reading": "しげん",
+      "meaningZh": "资源",
+      "meaningEn": "resource",
+      "level": "n3",
+      "exampleSentence": "この地域は、豊かな自然という資源を持っています。",
+      "id": "a8019238-06d8-4842-bd06-bd346da3987c"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化",
+      "meaningEn": "invigoration, activation",
+      "level": "n3",
+      "exampleSentence": "新しいイベントで、商店街の活性化を目指しています。",
+      "id": "138fd849-d109-4bdf-8dc5-ee5d781cac58"
+    },
+    {
+      "word": "負荷",
+      "reading": "ふか",
+      "meaningZh": "负荷，负担",
+      "meaningEn": "load, burden",
+      "level": "n3",
+      "exampleSentence": "環境への負荷を減らすために、リサイクルを心がけましょう。",
+      "id": "72781a55-9393-4308-b204-c2b8b9268374"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方でサイクリングロードの整備が進んでいる理由は何ですか？",
+      "options": [
+        "新しい道路を作るため",
+        "美しい景色を楽しめる場所が増えるから",
+        "車での旅行が人気だから",
+        "地震の被害をなくすため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「美しい景色が楽しめる場所に新しい道が作られているからです。」と書かれています。",
+      "id": "80fbec3c-c23e-4a80-9a83-e6c6895af47f"
+    },
+    {
+      "question": "サイクリングロードの整備は、地域にとってどのような効果が期待されていますか？",
+      "options": [
+        "交通渋滞の解消",
+        "地元住民の健康問題の増加",
+        "地域経済の活性化と観光客の増加",
+        "自然環境への負荷の増加"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「地域活性化にもつながると期待されています。」と述べられており、また「遠方からの観光客だけでなく、地元の人々も気軽にスポーツを楽しめるようになります。」とも書かれています。",
+      "id": "0658b2cb-bbd4-4122-962e-2fe6f8181be8"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-01-addfe14016",
+  "publishedAt": "2026-06-01T06:00:00+09:00"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "学生街の「満腹」を支える定食店に密着",
+  "summary": "学生街で、ボリューム満点の定食が人気を集める飲食店が注目されています。その人気の秘密と、若者たちの胃袋を掴む工夫に迫ります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都内某所の学生街に、連日多くの学生で賑わう定食店がある。ここは、一皿で学生の空腹を満たす「大盛り」が特徴で、そのボリュームと手頃な価格設定が支持され、常連客を多く抱えているとのことだ。店側によれば、特に試験期間中は、部活動やサークル活動で疲れた学生たちが、エネルギー補給のために訪れる傾向が顕著に見られるという。",
+      "translationZh": "在东京某处的学生街，有一家定食店每天都挤满了许多学生。这家店的特色是“大份量”，一份餐就能满足学生的饥饿感，因其分量足、价格实惠而受到支持，并拥有众多回头客。据店家称，特别是在考试期间，因社团活动等疲惫的学生们为了补充能量而前来光顾的趋势尤为明显。",
+      "translationEn": "In a certain student district in Tokyo, there is a set meal restaurant bustling with many students every day. This establishment is characterized by its 'large portions' that can satisfy a student's hunger in one go, and it is supported for its generous servings and affordable prices, boasting a large number of regular customers. According to the restaurant owner, the tendency for students, exhausted from club activities and the like, to visit for energy replenishment becomes particularly pronounced during examination periods.",
+      "id": "a06e29ee-be79-4262-9b0f-6c050eddef75",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "同店が提供するメニューは多岐にわたるが、中でも「唐揚げ定食」や「カツカレー」などが特に人気が高いと見られる。これらのメニューは、単に量が多いだけでなく、味付けや調理法にも工夫が凝らされており、飽きさせない工夫がなされている。また、店主は「学生たちの『美味しかった』という一言が、何よりの励みになる」と語っており、その情熱が味となって学生たちに伝わっているのだろう。",
+      "translationZh": "该店提供的菜单种类繁多，其中“炸鸡定食”和“炸猪排咖喱饭”等尤其受欢迎。这些菜单不仅量大，还在调味和烹饪方法上下足了功夫，使其不易吃腻。此外，店主表示“‘好吃’这两个字是学生们对我最大的鼓励”，他的热情或许也化为味道传递给了学生们。",
+      "translationEn": "The menu offered at this establishment is diverse, with the 'Karaage Teishoku' (fried chicken set meal) and 'Katsu Curry' (pork cutlet curry) being particularly popular. These dishes are not only large in portion but also feature thoughtful seasonings and cooking methods designed to prevent diners from getting tired of the taste. Furthermore, the owner states, 'The single word 'delicious' from students is the greatest encouragement,' suggesting that his passion is conveyed to the students through the food.",
+      "id": "bb9ab132-5112-4734-a2b7-b6a449313f95",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "近年の食料品価格の高騰に伴い、多くの飲食店がメニューの見直しを迫られる中、同店では価格を据え置く努力を続けているとのこと。これは、地域に根差した学生街の飲食店として、学生たちの経済的負担を軽減したいという強い思いがあるからに他ならない。今後も、この「満腹」と「満足」を提供し続ける同店の動向が注目される。",
+      "translationZh": "随着近年来食品价格的飞涨，许多餐馆被迫重新审查菜单，但据称该店一直在努力维持原价。这无不源于其作为扎根于学生街的餐馆，强烈希望减轻学生们的经济负担。今后，这家持续提供“饱腹”与“满足”的店铺的动向将备受关注。",
+      "translationEn": "Amidst rising food prices in recent years, forcing many eateries to review their menus, this establishment has reportedly made efforts to keep its prices unchanged. This stems from its strong desire, as a community-based restaurant in a student district, to alleviate the financial burden on students. The future developments of this restaurant, which continues to provide 'fullness' and 'satisfaction,' are drawing attention.",
+      "id": "a0341183-fde9-4a8f-b5d8-587b19eff13b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，熙熙攘攘",
+      "meaningEn": "to be crowded, to be bustling",
+      "level": "n3",
+      "exampleSentence": "週末の商店街は多くの買い物客で賑わっていた。",
+      "id": "0514d219-4dbf-4b9a-a3f2-27b23594ad26"
+    },
+    {
+      "word": "支持",
+      "reading": "しじ",
+      "meaningZh": "支持，拥护",
+      "meaningEn": "support",
+      "level": "n2n1",
+      "exampleSentence": "彼の政策は国民から強い支持を得た。",
+      "id": "bae95d02-d6b0-463e-a86a-d73a08e63435"
+    },
+    {
+      "word": "顕著",
+      "reading": "けんちょ",
+      "meaningZh": "显著，明显",
+      "meaningEn": "marked, notable, conspicuous",
+      "level": "n2n1",
+      "exampleSentence": "近年、スマートフォンの普及が顕著である。",
+      "id": "ce7968d8-9f0e-472a-ac3b-964cd329bf5d"
+    },
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaningZh": "集中（精力），绞尽（脑汁），精心制作",
+      "meaningEn": "to concentrate, to devise, to elaborate",
+      "level": "n2n1",
+      "exampleSentence": "細部にまで工夫を凝らしたデザインは、見る者を魅了した。",
+      "id": "c8d32ef1-7fc8-4f67-8d1a-793acfc03e12"
+    },
+    {
+      "word": "励み",
+      "reading": "はげみ",
+      "meaningZh": "鼓励，鼓舞",
+      "meaningEn": "encouragement, incentive",
+      "level": "n3",
+      "exampleSentence": "先生の褒め言葉は、私にとって大きな励みになった。",
+      "id": "eeb8b5d6-d1dd-4ed7-b9f2-064cfb09bab1"
+    },
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "（价格等）飞涨，猛涨",
+      "meaningEn": "soaring, sharp rise (in prices)",
+      "level": "n2n1",
+      "exampleSentence": "原油価格の高騰が、物流コストに影響を与えている。",
+      "id": "90e28479-c02b-4a12-9299-0febd7e34bac"
+    },
+    {
+      "word": "据え置く",
+      "reading": "すえおく",
+      "meaningZh": "维持原状，保持不变",
+      "meaningEn": "to keep as it is, to maintain",
+      "level": "n2n1",
+      "exampleSentence": "来年度の税率については、据え置かれる見通しだ。",
+      "id": "8894d3da-c79e-45dd-9b5a-98a31779fff7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食店が学生街で人気を集めている主な理由は何ですか？",
+      "options": [
+        "高級食材を使用しているため",
+        "オーナーが有名人であるため",
+        "ボリューム満点で価格が手頃なため",
+        "最新のトレンドを取り入れたメニューのため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中に「一皿で学生の空腹を満たす『大盛り』が特徴で、そのボリュームと手頃な価格設定が支持され」とあることから、ボリュームと価格が人気の理由であることがわかります。",
+      "id": "1105fbae-5b56-4d62-b8ed-06ca0c01f5ce"
+    },
+    {
+      "question": "試験期間中にこの定食店の利用者が増えるのはなぜですか？",
+      "options": [
+        "試験勉強に適した静かな環境だから",
+        "試験合格を祈願する特別なメニューがあるから",
+        "部活動などで疲れた学生がエネルギー補給のため訪れるから",
+        "割引キャンペーンが実施されるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「特に試験期間中は、部活動やサークル活動で疲れた学生たちが、エネルギー補給のために訪れる傾向が顕著に見られる」と記載されているため、これが理由です。",
+      "id": "73b96731-3816-4224-9f95-69829caba0ba"
+    },
+    {
+      "question": "店主が価格を据え置く努力を続けている背景にある考えは何ですか？",
+      "options": [
+        "利益を度外視してでも、学生を応援したい",
+        "他店との差別化を図るための戦略",
+        "政府からの補助金を受けているため",
+        "仕入れ業者との特別な契約があるため"
+      ],
+      "correctIndex": 0,
+      "explanation": "「学生たちの経済的負担を軽減したいという強い思いがあるからに他ならない」という記述から、学生を応援したいという店主の強い意志が価格維持の背景にあることがわかります。",
+      "id": "436d775f-c4a6-4182-8c0e-3c208dcb8a3a"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-01-08420fca06",
+  "publishedAt": "2026-06-01T06:00:00+09:00"
+}

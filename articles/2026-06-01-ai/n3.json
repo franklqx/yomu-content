@@ -1,0 +1,134 @@
+{
+  "title": "AI翻訳イヤホンで世界がもっと近くに！",
+  "summary": "最近、AI技術を使った多言語自動翻訳イヤホンが普及し始めています。これにより、言葉の壁を越えたコミュニケーションがより身近になりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、AI技術の進歩は目覚ましく、私たちの生活を便利にする様々な製品が登場しています。その中でも、AIによる多言語自動翻訳イヤホンは、特に注目されています。このイヤホンを使えば、外国語で話されてもリアルタイムで自分の母国語に翻訳してくれるのです。",
+      "translationZh": "近年来，AI技术的进步非常显著，出现了许多让我们的生活更便利的各种产品。其中，AI驱动的多语种自动翻译耳机尤其引人注目。使用这款耳机，即使听到外语，也能实时翻译成自己的母语。",
+      "translationEn": "In recent years, the progress of AI technology has been remarkable, and various products that make our lives more convenient have appeared. Among them, AI-powered multilingual automatic translation earphones are attracting particular attention. With these earphones, even if spoken in a foreign language, it can be translated into your native language in real-time.",
+      "id": "25604353-d136-4554-b6d3-981d32cfe9d1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "以前は、外国語での会話は難しく、翻訳アプリを使っても、少し時間がかかったり、不自然な表現になったりすることがありました。しかし、この新しいイヤホンは、その精度とスピードが格段に向上しています。例えば、海外旅行に行った際、現地の人とスムーズに会話ができれば、旅の楽しさが倍増するでしょう。",
+      "translationZh": "以前，用外语交流很困难，即使使用翻译应用程序，也会花费一些时间，或者出现不自然的表达。但是，这款新耳机在准确性和速度方面有了显著的提高。例如，去海外旅行时，如果能与当地人顺畅地交流，旅途的乐趣将会加倍。",
+      "translationEn": "Previously, conversations in foreign languages were difficult, and even when using translation apps, it could take time or result in unnatural expressions. However, the accuracy and speed of these new earphones have improved dramatically. For instance, when traveling abroad, being able to converse smoothly with locals would double the enjoyment of the trip.",
+      "id": "a3c7a9f6-330f-4c79-98c2-02f169c94e09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、ビジネスの場面でも、このイヤホンは大きな可能性を秘めています。海外との会議や商談が、場所や言語の制約なく行えるようになれば、グローバルなビジネス展開がより活発になるはずです。もちろん、まだ完璧ではありませんが、技術の進歩は速いので、今後ますます多くの場面で活用されることが期待されます。",
+      "translationZh": "此外，在商务场合，这款耳机也蕴含着巨大的潜力。如果跨国会议和商务谈判能够在不受地点和语言限制的情况下进行，全球化商业发展应该会更加活跃。当然，它还不完美，但技术进步很快，因此未来有望在更多场合得到应用。",
+      "translationEn": "Furthermore, these earphones hold great potential in business settings as well. If international meetings and negotiations can be conducted without geographical or linguistic constraints, global business expansion should become more active. Of course, it is not yet perfect, but technological advancements are rapid, so it is expected to be utilized in more situations in the future.",
+      "id": "fe6816a5-c928-45b5-afbd-e469a4df9b6c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この技術が普及することで、私たちは異なる文化を持つ人々との交流を深めることができるでしょう。言葉の壁が低くなれば、世界はもっと狭く、そして温かい場所になるかもしれません。新しいテクノロジーに期待したいですね。",
+      "translationZh": "随着这项技术的普及，我们将能够加深与拥有不同文化的人们的交流。如果语言障碍降低，世界可能会成为一个更小、更温暖的地方。我们对此新技术充满期待。",
+      "translationEn": "As this technology becomes widespread, we will be able to deepen our interactions with people from different cultures. If language barriers are lowered, the world might become a smaller and warmer place. We look forward to new technologies.",
+      "id": "6f5ddb47-0aa7-43da-89f7-b6f70e3055b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, popularization",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及は私たちの生活を変えた。",
+      "id": "18b93412-7a19-4673-8d44-3c14684f63b9"
+    },
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "惊人的，显著的",
+      "meaningEn": "remarkable, striking",
+      "level": "n3",
+      "exampleSentence": "彼の進歩は目覚ましいものがある。",
+      "id": "07da8f1f-927d-4296-8169-d6a192097d41"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaningZh": "登场，出现",
+      "meaningEn": "appearance, debut",
+      "level": "n3",
+      "exampleSentence": "新しいスマートフォンがまもなく登場する。",
+      "id": "92c4db8c-00d9-449a-a4a0-a3fe4d6681b8"
+    },
+    {
+      "word": "リアルタイム",
+      "reading": "りあるたいむ",
+      "meaningZh": "实时",
+      "meaningEn": "real-time",
+      "level": "n3",
+      "exampleSentence": "試合の状況がリアルタイムでわかる。",
+      "id": "175c26b0-bab8-41da-829a-5c98dd073345"
+    },
+    {
+      "word": "格段に",
+      "reading": "かくだんに",
+      "meaningZh": "显著地，格外地",
+      "meaningEn": "remarkably, greatly",
+      "level": "n3",
+      "exampleSentence": "この新しい薬は効果が格段に高い。",
+      "id": "46e1bcd4-29c2-4566-b6ef-5e469b01734b"
+    },
+    {
+      "word": "秘める",
+      "reading": "ひめる",
+      "meaningZh": "隐藏，怀有",
+      "meaningEn": "to hide, to conceal, to harbor",
+      "level": "n3",
+      "exampleSentence": "彼は内に大きな才能を秘めている。",
+      "id": "134e3961-6060-49b2-9d0b-8b61721c239c"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaningZh": "活跃，活泼",
+      "meaningEn": "active, vigorous",
+      "level": "n3",
+      "exampleSentence": "最近、市場活動が活発になってきた。",
+      "id": "0986f36e-6f0a-47bc-84f3-2bfb0affe5c0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "AI翻訳イヤホンを使うと、どのようなメリットがありますか？",
+      "options": [
+        "外国語の勉強が不要になる",
+        "外国語の会話がリアルタイムで翻訳される",
+        "翻訳の精度が非常に低くなる",
+        "値段がとても高くなる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「このイヤホンを使えば、外国語で話されてもリアルタイムで自分の母国語に翻訳してくれるのです。」とあります。",
+      "id": "d2b4fc7b-4ad9-418e-8fc8-76a0a32169bf"
+    },
+    {
+      "question": "ビジネスの場面でAI翻訳イヤホンはどのように役立つと期待されていますか？",
+      "options": [
+        "会議の時間を短縮できる",
+        "社員の残業を減らせる",
+        "海外との会議や商談が言語の制約なく行える",
+        "新しい市場を開拓するコストが上がる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「海外との会議や商談が、場所や言語の制約なく行えるようになれば、グローバルなビジネス展開がより活発になるはずです。」とあります。",
+      "id": "7100b21a-4e33-4e3e-865f-a69032b1c3b1"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-01-ai",
+  "publishedAt": "2026-06-01T06:00:00+09:00"
+}
