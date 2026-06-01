@@ -1,0 +1,122 @@
+{
+  "title": "図書館とまちづくり",
+  "summary": "図書館は本を読むだけの場所ではありません。地域を良くする活動の始まりにもなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "図書館は地域の大切な場所です。たくさんの人が本を借りに来ます。子供も大人も、みんな図書館が好きです。図書館は静かで、勉強に良い所です。",
+      "translationZh": "图书馆是社区的重要场所。很多人来借书。无论孩子还是大人，大家都喜欢图书馆。图书馆很安静，是学习的好地方。",
+      "translationEn": "Libraries are important places in the community. Many people come to borrow books. Children and adults alike, everyone likes libraries. Libraries are quiet and good places for studying.",
+      "id": "8bc7b1b3-d32f-4c76-ae65-fd8e9527bd6d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、図書館を起点にしたまちづくりが注目されています。例えば、図書館で地域のイベントが開かれます。料理教室や、昔の遊びを教える会などがあります。",
+      "translationZh": "最近，以图书馆为起点进行社区建设受到了关注。例如，在图书馆会举办社区活动。有烹饪课、教授旧时玩法的活动等。",
+      "translationEn": "Recently, community development starting from libraries has been gaining attention. For example, local events are held at the library. There are cooking classes and gatherings to teach old games.",
+      "id": "ceab713a-e006-4022-9623-cb21bf75719b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館は、人が集まる場所になります。地域の人々が交流する機会が増えます。これにより、地域がもっと元気になり、住みやすくなります。",
+      "translationZh": "图书馆成为了人们聚集的地方。社区居民交流的机会增加了。这样，社区会变得更加有活力，更宜居。",
+      "translationEn": "Libraries become places where people gather. Opportunities for local residents to interact increase. This makes the community more vibrant and easier to live in.",
+      "id": "48528adc-0f51-452a-9645-55a96f7389ec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館が中心となって、色々な活動が生まれています。これは、町を良くするための新しい考え方です。これからも図書館は、地域にとって大切な役割を果たすでしょう。",
+      "translationZh": "以图书馆为中心，诞生了各种各样的活动。这是为了让社区变得更好的新想法。今后，图书馆也一定会为社区发挥重要的作用。",
+      "translationEn": "With the library at its center, various activities are being born. This is a new concept for improving the town. Libraries will continue to play an important role for the community.",
+      "id": "6d745f96-f59d-44e0-bdc2-a1b387447e63",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaningZh": "图书馆",
+      "meaningEn": "library",
+      "level": "n5n4",
+      "exampleSentence": "図書館で本を借りました。",
+      "id": "1c80c026-5964-425b-bc5b-437336cd244f"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，社区",
+      "meaningEn": "area, community",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "7d769c17-cae7-4465-b990-6ad605688b6e"
+    },
+    {
+      "word": "活動",
+      "reading": "かつどう",
+      "meaningZh": "活动",
+      "meaningEn": "activity",
+      "level": "n5n4",
+      "exampleSentence": "週末に色々な活動をしました。",
+      "id": "2b94d626-b797-4207-bf4c-c2dd2254d91f"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，引人注目",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "新しい技術が注目されています。",
+      "id": "b667abd5-57a5-4146-82d3-9d86350fe94c"
+    },
+    {
+      "word": "起点",
+      "reading": "きてん",
+      "meaningZh": "起点，出发点",
+      "meaningEn": "starting point, origin",
+      "level": "n3",
+      "exampleSentence": "ここを起点のハイキングコースです。",
+      "id": "95b8bfcf-b00b-4ec0-a13d-50ace6495006"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "留学生と交流しました。",
+      "id": "566c7974-9d84-459b-91cc-bcf23e719d81"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energetic, healthy, lively",
+      "level": "n5n4",
+      "exampleSentence": "元気な子供たちです。",
+      "id": "075bc4f4-2d2e-40f2-970b-a9d929a03618"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "図書館を起点にしたまちづくりとは、どのようなことですか？",
+      "options": [
+        "図書館で本だけをたくさん読むこと。",
+        "図書館をきっかけに、地域を良くする活動をすること。",
+        "図書館で静かに勉強だけをすること。",
+        "図書館を新しい建物に建て替えること。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「図書館を起点にしたまちづくりが注目されています。例えば、図書館で地域のイベントが開かれます。」とあります。これは、図書館をきっかけに地域を良くする活動をすることを示しています。",
+      "id": "04a69557-f29c-49e5-9c2d-630b20355deb"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-02-3f46a63daa",
+  "publishedAt": "2026-06-02T06:00:00+09:00"
+}

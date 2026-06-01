@@ -1,0 +1,131 @@
+{
+  "title": "昔の道具が人気です",
+  "summary": "昔の民芸品がまた注目されています。若い人たちも集めるようになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、日本にはたくさんの民芸品がありました。それは、人々が毎日使うための道具でした。例えば、お皿やコップ、かごなどです。形がきれいで、丈夫で、使いやすかったです。",
+      "translationZh": "以前，日本有很多民艺品。那是人们每天使用的工具。例如，盘子、杯子、篮子等。它们造型优美，结实耐用，易于使用。",
+      "translationEn": "In the past, Japan had many folk crafts. These were tools that people used every day. For example, plates, cups, and baskets. They had beautiful shapes, were sturdy, and easy to use.",
+      "id": "5868988f-35c3-4a19-b674-31655df3e515",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "民芸運動という考え方がありました。これは、きれいな民芸品を大切にしようという動きです。しかし、時代が変わって、新しいものがたくさんできました。それで、民芸品は少し忘れられてしまいました。",
+      "translationZh": "曾有一种叫做“民艺运动”的思想。这是希望珍惜美丽民艺品的运动。但是，时代变迁，诞生了许多新事物。因此，民艺品被稍微遗忘了。",
+      "translationEn": "There was an idea called the 'Folk Craft Movement'. This was a movement to cherish beautiful folk crafts. However, times changed, and many new things were made. So, folk crafts were somewhat forgotten.",
+      "id": "7ced062d-0e7e-4d39-99d5-9426e4a1df00",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、また民芸品が人気になってきました。特に若い人たちの間で、古い民芸品を集める人が増えています。SNSで写真を見たり、お店で探したりしています。昔の道具の良さが、新しい世代にも伝わっているようです。",
+      "translationZh": "最近，民艺品又开始受欢迎了。尤其是在年轻人之间，收集旧民艺品的人增加了。他们通过SNS看照片，或是在店里寻找。过去工具的优点似乎也传达给了新一代。",
+      "translationEn": "Recently, folk crafts have become popular again. Especially among young people, more and more people are collecting old folk crafts. They look at pictures on social media or search in stores. The goodness of old tools seems to be conveyed to the new generation.",
+      "id": "d34e7469-90f2-4b2f-aab0-651358b70afd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古い民芸品は、一つ一つ手で作られています。だから、形や色が少しずつ違います。その温かみや、人の手が感じられるところが、今の時代に合っているのかもしれません。",
+      "translationZh": "旧民艺品都是一件一件手工制作的。所以，形状和颜色都有细微差别。那种温暖感，以及能感受到人手的痕迹，或许正是符合现今时代的特点。",
+      "translationEn": "Old folk crafts are made by hand one by one. Therefore, their shapes and colors are slightly different. That warmth, and the feeling of human hands, might be just right for the current era.",
+      "id": "026b30b7-74f0-4dfa-be27-bdf7a8cd7228",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "民芸品",
+      "reading": "みんげいひん",
+      "meaningZh": "民间工艺品",
+      "meaningEn": "folk craft",
+      "level": "n5n4",
+      "exampleSentence": "このお皿は民芸品です。",
+      "id": "c4edd423-ac06-4e3f-bf03-42362ddfac9a"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaningZh": "工具，器具",
+      "meaningEn": "tool, implement",
+      "level": "n5n4",
+      "exampleSentence": "台所にはたくさんの道具があります。",
+      "id": "c299ea6a-0432-4347-bdd6-425be8c78f59"
+    },
+    {
+      "word": "丈夫",
+      "reading": "じょうぶ",
+      "meaningZh": "结实，牢固",
+      "meaningEn": "sturdy, strong",
+      "level": "n5n4",
+      "exampleSentence": "このかばんはとても丈夫です。",
+      "id": "77738f14-d9be-4189-8722-18ddf0c00414"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaningZh": "运动",
+      "meaningEn": "movement, exercise",
+      "level": "n5n4",
+      "exampleSentence": "新しい運動が始まりました。",
+      "id": "f64b6295-f77c-464f-811e-4b8fd86802a8"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要，珍惜",
+      "meaningEn": "important, precious",
+      "level": "n5n4",
+      "exampleSentence": "友達を大切にしましょう。",
+      "id": "2d037111-1742-45ff-a21d-f3e5b45de14b"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaningZh": "时代",
+      "meaningEn": "era, period",
+      "level": "n5n4",
+      "exampleSentence": "古い時代と今の時代は違います。",
+      "id": "d0b59da2-cf48-4990-922b-a9bdee7251a9"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，引人注目",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "この新しい映画は注目されています。",
+      "id": "dd66ed17-1fd6-45db-b45d-19f1fa0a111c"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "代，世代",
+      "meaningEn": "generation",
+      "level": "n3",
+      "exampleSentence": "若い世代はSNSをよく使います。",
+      "id": "ae6b2f46-1bea-4f10-92f4-511e079ef275"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔の民芸品は、どんなものでしたか。",
+      "options": [
+        "新しいゲーム",
+        "人々が使うための道具",
+        "高い技術の機械",
+        "外国からの品物"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔、日本にはたくさんの民芸品がありました。それは、人々が毎日使うための道具でした。",
+      "id": "6092bd64-cd83-4736-9c61-2b4bb0b3de9c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-02-e8b1c0ac34",
+  "publishedAt": "2026-06-02T06:00:00+09:00"
+}

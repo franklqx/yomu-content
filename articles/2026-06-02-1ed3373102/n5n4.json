@@ -1,0 +1,122 @@
+{
+  "title": "スマートシティの実験成功！",
+  "summary": "新しい街の実験が終わりました。人々はもっと便利になりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "これは新しい街の実験の話です。この街は「スマートシティ」と呼ばれています。たくさんの新しい技術が使われました。この実験は成功しました。",
+      "translationZh": "这是一个关于新城市实验的故事。这座城市被称为“智慧城市”。使用了许多新技术。这次实验很成功。",
+      "translationEn": "This is a story about a new city experiment. This city is called a \"smart city\". Many new technologies were used. This experiment was successful.",
+      "id": "4d7996b9-868f-4294-b8d4-b8f44564760a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、交通システムが変わりました。車が自動で動くようになりました。人々はスマホでバスを呼びました。これでもっと早く、楽に移動できました。",
+      "translationZh": "例如，交通系统改变了。汽车开始自动行驶。人们用手机叫公交车。这样就可以更快、更轻松地出行了。",
+      "translationEn": "For example, the transportation system changed. Cars started to move automatically. People called buses with their smartphones. This made travel faster and easier.",
+      "id": "b9c15c1b-bb74-41b9-917a-56342f2c5893",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "街の明かりも変わりました。人がいない時は、明かりが暗くなりました。人が来ると、明るくなりました。電気のむだがなくなりました。とても良いことでした。",
+      "translationZh": "城市的灯光也改变了。没有人时，灯光变暗了。有人来了，灯光变亮了。浪费电的情况消失了。这是件非常好的事。",
+      "translationEn": "The city lights also changed. When there were no people, the lights became dimmer. When people came, the lights became brighter. Wasting electricity was eliminated. It was a very good thing.",
+      "id": "e48d0d40-2c0f-4ce1-bf56-41714d7c5737",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験で、スマートシティは人々の生活を良くすることがわかりました。これからも、もっと便利な街ができるでしょう。",
+      "translationZh": "通过这次实验，我们知道智慧城市可以改善人们的生活。今后，也会有更多便利的城市出现吧。",
+      "translationEn": "Through this experiment, we learned that smart cities can improve people's lives. In the future, more convenient cities will likely be built.",
+      "id": "6a594caa-bec1-4e22-8f32-b475819e0714",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スマートシティ",
+      "reading": "すまーとしー",
+      "meaningZh": "智慧城市",
+      "meaningEn": "smart city",
+      "level": "n5n4",
+      "exampleSentence": "スマートシティは便利です。",
+      "id": "917e6793-3ca2-4b51-aeb7-8868e1703b66"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "a912d9cc-f9a5-42f4-b5ae-076b9365d0ce"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この技術はすごいです。",
+      "id": "edfd625d-cb23-412c-883b-b814e5788b8e"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaningZh": "交通",
+      "meaningEn": "traffic, transportation",
+      "level": "n5n4",
+      "exampleSentence": "交通が便利になりました。",
+      "id": "d2d31173-2353-4846-b67d-9b3ce170040c"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaningZh": "自动",
+      "meaningEn": "automatic",
+      "level": "n3",
+      "exampleSentence": "車が自動で動きます。",
+      "id": "d9ba1bbd-5df7-4efe-b178-38b10d4a1091"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "4266b65e-f6f8-4b66-b83f-18e361319b5f"
+    },
+    {
+      "word": "無駄",
+      "reading": "むだ",
+      "meaningZh": "浪费",
+      "meaningEn": "waste",
+      "level": "n3",
+      "exampleSentence": "電気の無駄をなくしましょう。",
+      "id": "aa618086-ed43-412a-a94d-455f41fdceeb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実験で、何が変わりましたか？",
+      "options": [
+        "街の食べ物",
+        "街の音楽",
+        "交通システムと街の明かり",
+        "人々のお金"
+      ],
+      "correctIndex": 2,
+      "explanation": "実験で、交通システムが変わりました。街の明かりも変わりました。",
+      "id": "be7f0775-c44a-4669-b22f-86443d7f6b2a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-02-1ed3373102",
+  "publishedAt": "2026-06-02T06:00:00+09:00"
+}

@@ -1,0 +1,143 @@
+{
+  "title": "図書館を拠点にした、新しいまちづくり",
+  "summary": "図書館は、単に本を読む場所だけではありません。地域の人々が集まり、交流する中心地として、まちづくりに貢献できる可能性を秘めています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、図書館は地域社会の中心としての役割を再評価されています。以前は静かに本を読むだけの場所というイメージが強かったですが、最近では様々なイベントや講座が開かれ、地域住民の交流を深める場となっています。図書館が中心となることで、地域の人々がお互いを知り、協力し合うきっかけが生まれるのです。",
+      "translationZh": "近年来，图书馆作为社区中心的作用得到了重新评估。以前人们普遍认为图书馆只是一个安静读书的地方，但最近，它举办了各种活动和讲座，成为了加深社区居民交流的场所。以图书馆为中心，人们有机会相互认识并开始合作。",
+      "translationEn": "In recent years, libraries have been re-evaluated for their role as community centers. Previously, the image of a library was strongly associated with being a quiet place to read books, but recently, various events and lectures are held, making it a place to deepen interaction among community residents. By centering on the library, opportunities are created for local people to get to know each other and cooperate.",
+      "id": "ae3297e3-9329-4190-b248-f7aa7b24488d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、図書館で地域の歴史に関する展示会を開けば、昔からの住民が若い世代に地域の魅力を伝えることができます。また、子育て支援の講座を企画すれば、親子で図書館に集まるようになり、自然な形で地域の人々とのつながりが生まれるでしょう。このように、図書館は多様な活動のハブとなり、まちの活性化に役立つのです。",
+      "translationZh": "例如，如果举办关于当地历史的展览，老一辈居民就可以向年轻一代传达当地的魅力。另外，如果策划育儿支援讲座，家长和孩子就会聚集到图书馆，从而自然地与当地人建立联系。像这样，图书馆可以成为各种活动的中心，有助于促进城镇的活力。",
+      "translationEn": "For example, if an exhibition on local history is held at the library, long-time residents can convey the charm of the area to younger generations. Also, if parenting support courses are planned, parents and children will gather at the library, naturally creating connections with local people. In this way, libraries serve as hubs for diverse activities and contribute to revitalizing the town.",
+      "id": "af1e2366-31cd-4cf4-8775-86441a6c9a6a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "まちづくりに図書館を活用する際には、住民のニーズを把握することが大切です。アンケートを取ったり、ワークショップを開いたりして、どんなサービスやイベントがあれば地域がもっと良くなるか、住民の声を聞きながら計画を進めるべきです。そうすることで、図書館が本当に地域に根差した存在となり、多くの人々に利用されるようになるでしょう。",
+      "translationZh": "在利用图书馆进行城镇建设时，了解居民的需求非常重要。应该通过问卷调查或举办研讨会等方式，听取居民的意见，并据此制定计划，以确定什么样的服务和活动能使社区变得更好。通过这样做，图书馆将真正扎根于社区，并被更多人所利用。",
+      "translationEn": "When utilizing libraries for community development, it is important to understand residents' needs. Plans should be made while listening to residents' voices, such as by conducting surveys or holding workshops, to determine what kind of services and events would improve the community. By doing so, the library will truly become a community-based entity and be utilized by many people.",
+      "id": "43d04069-892b-4cee-9f2a-af6077ca645a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館がまちづくりの中心となることで、地域全体の魅力が増し、住みやすい環境が生まれます。本を読むという静かな時間だけでなく、地域の人々との温かい交流が生まれる場所として、図書館の新しい可能性に期待したいですね。",
+      "translationZh": "通过让图书馆成为城镇建设的中心，可以增加整个地区的吸引力，并创造一个宜居的环境。我们希望图书馆不仅能提供安静的阅读时光，还能成为一个与当地人民建立温暖交流的地方，并期待它新的可能性。",
+      "translationEn": "By making the library the center of community development, the overall appeal of the area increases, creating a more livable environment. We hope for the new possibilities of libraries, not just as places for quiet reading time, but also as venues for warm interaction with local people.",
+      "id": "2e8b2af9-0fd2-4e71-9749-6307b7950399",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "拠点",
+      "reading": "きょてん",
+      "meaningZh": "基地；据点",
+      "meaningEn": "base; base of operations",
+      "level": "n3",
+      "exampleSentence": "この町は、文化活動の拠点となっている。",
+      "id": "4ccc14f7-824c-4f60-bc38-de306d994b84"
+    },
+    {
+      "word": "再評価",
+      "reading": "さいひょうか",
+      "meaningZh": "重新评价",
+      "meaningEn": "re-evaluation",
+      "level": "n3",
+      "exampleSentence": "その計画は、環境への影響を再評価する必要がある。",
+      "id": "ca0dc601-df1f-4d96-84b4-718319b394b5"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流；交往",
+      "meaningEn": "exchange; interaction",
+      "level": "n3",
+      "exampleSentence": "異文化交流は大切だ。",
+      "id": "5e6b12dc-cfa2-4836-b241-53f283290227"
+    },
+    {
+      "word": "きっかけ",
+      "reading": "きっかけ",
+      "meaningZh": "契机；机会",
+      "meaningEn": "opportunity; trigger; chance",
+      "level": "n3",
+      "exampleSentence": "新しい友達を作るきっかけになった。",
+      "id": "9f734ed1-d2de-454a-a2c1-f1fe9a31b8cf"
+    },
+    {
+      "word": "子育て支援",
+      "reading": "こそだてしえん",
+      "meaningZh": "育儿支援",
+      "meaningEn": "child-rearing support",
+      "level": "n3",
+      "exampleSentence": "子育て支援が充実している自治体は魅力的だ。",
+      "id": "50d8713f-6c17-4150-9c42-d9b07781f7fc"
+    },
+    {
+      "word": "ハブ",
+      "reading": "ハブ",
+      "meaningZh": "中心；枢纽",
+      "meaningEn": "hub",
+      "level": "n3",
+      "exampleSentence": "この駅は、交通のハブとなっている。",
+      "id": "36d5026c-d49b-4cb9-934d-075fae58c331"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化；活跃化",
+      "meaningEn": "revitalization; invigoration",
+      "level": "n2n1",
+      "exampleSentence": "商店街の活性化のために、新しいイベントを企画する。",
+      "id": "1258faa4-5a58-4372-8a89-515fcb9c5389"
+    },
+    {
+      "word": "根差す",
+      "reading": "ねざす",
+      "meaningZh": "扎根；根深蒂固",
+      "meaningEn": "to take root; to be rooted in",
+      "level": "n2n1",
+      "exampleSentence": "地域に根差した活動を目指している。",
+      "id": "827ac03a-ff1c-4146-98e2-84d113819e64"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "図書館は、まちづくりにおいてどのような役割を果たすと考えられていますか。",
+      "options": [
+        "静かに本を読むだけの場所",
+        "地域住民の交流を深め、まちの活性化に貢献する場",
+        "歴史資料を保管する専門的な施設",
+        "子供たちが遊ぶための施設"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「図書館は地域社会の中心としての役割を再評価されています」「地域住民の交流を深める場となっています」「まちの活性化に役立つのです」と述べられています。",
+      "id": "403be5ce-5f63-4216-b78e-fb3128dda384"
+    },
+    {
+      "question": "図書館をまちづくりの中心に活用するために、最も大切だと述べられていることは何ですか。",
+      "options": [
+        "最新の設備を導入すること",
+        "多くの本を揃えること",
+        "住民のニーズを把握し、声を聞きながら計画を進めること",
+        "イベントを頻繁に開催すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「まちづくりに図書館を活用する際には、住民のニーズを把握することが大切です」「住民の声を聞きながら計画を進めるべきです」と述べられています。",
+      "id": "41a97acb-bfc4-4ad0-8063-e7b993ee2e89"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-02-3f46a63daa",
+  "publishedAt": "2026-06-02T06:00:00+09:00"
+}
