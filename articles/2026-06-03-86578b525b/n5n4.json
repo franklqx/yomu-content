@@ -1,0 +1,122 @@
+{
+  "title": "夏休みの人気プログラム",
+  "summary": "夏休みには、子供たちが楽しく学べるプログラムがたくさんあります。最近、新しい傾向が見られます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏休みは子供にとって大切な時間です。今年は、外で遊ぶプログラムが人気です。公園で自然を観察したり、スポーツをしたりします。体を動かすことは、子供の成長にとてもいいです。",
+      "translationZh": "暑假对孩子们来说是非常重要的时光。今年，户外活动项目很受欢迎。他们会在公园里观察大自然，或者进行体育运动。活动身体对孩子的成长非常有益。",
+      "translationEn": "Summer vacation is an important time for children. This year, programs where children play outside are popular. They observe nature in parks or play sports. Moving their bodies is very good for children's growth.",
+      "id": "f042187a-e795-4a68-be26-87782191e42e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、プログラミングを学ぶプログラムも増えています。子供たちは、コンピューターを使ってゲームを作ったり、ロボットを動かしたりします。これは、未来の技術を学ぶ良い機会です。",
+      "translationZh": "此外，学习编程的课程也在增加。孩子们使用电脑制作游戏，或者操作机器人。这是学习未来技术的好机会。",
+      "translationEn": "Also, programs to learn programming are increasing. Children use computers to make games or operate robots. This is a good opportunity to learn future technology.",
+      "id": "996dfee0-9386-49a8-9052-8cd5abc4f80b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔からあるキャンプも、形を変えています。ただ泊まるだけでなく、地域の文化を体験するプログラムが増えました。伝統的な料理を作ったり、地元の祭りを見たりします。",
+      "translationZh": "自古以来就有的露营也在改变形式。不再只是单纯地住宿，体验当地文化的项目增加了。他们会制作传统料理，或者观看当地的祭典。",
+      "translationEn": "Camps, which have existed for a long time, are also changing their form. Programs that experience local culture, not just stay overnight, have increased. They make traditional food or see local festivals.",
+      "id": "79213cfd-05ca-4ca6-b0c0-04e75b2d78e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しいプログラムは、子供たちの好奇心を育てます。そして、新しい友達を作るきっかけにもなります。夏休みは、子供たちが大きく成長できるチャンスです。",
+      "translationZh": "这些新项目能够培养孩子们的 好奇心。同时，也为他们结交新朋友提供了机会。暑假是孩子们能够大有成长的机会。",
+      "translationEn": "These new programs foster children's curiosity. And they also become a chance to make new friends. Summer vacation is a chance for children to grow a lot.",
+      "id": "39d2f35f-af49-4cef-9ea0-ac91dcccd8f9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaningZh": "暑假",
+      "meaningEn": "summer vacation",
+      "level": "n5n4",
+      "exampleSentence": "夏休みは、どこかへ行きたいです。",
+      "id": "54a25ba5-d467-428e-a2d3-06a7152a73e0"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaningZh": "孩子",
+      "meaningEn": "child",
+      "level": "n5n4",
+      "exampleSentence": "子供が公園で遊んでいます。",
+      "id": "5d616324-9bab-4fbb-b289-68ba2d152108"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "cc58dd65-56e8-437e-94ee-54585153bb9b"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然の中を散歩するのは気持ちがいいです。",
+      "id": "865eb8dd-ee53-48c2-9f77-c5fcb9035994"
+    },
+    {
+      "word": "学",
+      "reading": "まな",
+      "meaningZh": "学习",
+      "meaningEn": "learn",
+      "level": "n5n4",
+      "exampleSentence": "新しいことを学ぶのは楽しいです。",
+      "id": "61c92d13-a4e5-434b-a2ed-bc15c715b625"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n3",
+      "exampleSentence": "この経験は私にとって良い機会でした。",
+      "id": "450988d3-0896-45f7-a8a9-ac15b8f212ab"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "文化体験は面白いです。",
+      "id": "1c690066-5a54-4a09-a006-58f45a92d1df"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の夏休み、どんなプログラムが人気がありますか。",
+      "options": [
+        "プログラミングを学ぶプログラム",
+        "外で遊ぶプログラム",
+        "静かな場所で本を読むプログラム",
+        "外国語を学ぶプログラム"
+      ],
+      "correctIndex": 1,
+      "explanation": "今年は、外で遊ぶプログラムが人気です。公園で自然を観察したり、スポーツをしたりします。",
+      "id": "bad01db7-1082-4494-a42c-f46aa3764bb8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-03-86578b525b",
+  "publishedAt": "2026-06-03T06:00:00+09:00"
+}

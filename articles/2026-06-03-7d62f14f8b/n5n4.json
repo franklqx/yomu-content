@@ -1,0 +1,131 @@
+{
+  "title": "注目の高校サッカーチーム",
+  "summary": "冬の高校サッカー選手権が始まります。今年はどのチームが強いでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ高校サッカー選手権が始まります。これは日本の冬の大きなスポーツイベントです。たくさんの学校が参加します。みんな一生懸命に練習しました。",
+      "translationZh": "高中足球锦标赛很快就要开始了。这是日本冬季的一项大型体育赛事。许多学校将参加比赛。大家都很努力地练习了。",
+      "translationEn": "The high school soccer championship is starting soon. This is a big winter sports event in Japan. Many schools will participate. Everyone practiced very hard.",
+      "id": "f232db81-fe00-4c4d-9cac-23d09e973a5f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は特に注目されているチームがあります。例えば、昨年の優勝チームです。そのチームはとても強いです。新しい選手もたくさん入りました。",
+      "translationZh": "今年有一些特别受关注的队伍。例如，去年的冠军队伍。那支队伍非常强。也加入了许多新选手。",
+      "translationEn": "This year, there are some teams that are particularly noteworthy. For example, last year's winning team. That team is very strong. Many new players have also joined.",
+      "id": "80aadebe-7e93-495b-80b0-be7ec5f1fd5d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "他のチームも負けていません。新しい戦術を考えて練習しています。選手たちは、優勝するために全力を尽くします。応援しましょう。",
+      "translationZh": "其他队伍也没有输。它们正在练习新的战术。选手们将尽全力争夺冠军。让我们为他们加油吧。",
+      "translationEn": "Other teams are not losing either. They are practicing new strategies. The players will do their best to win. Let's cheer for them.",
+      "id": "dc62da3c-7bb3-4120-91cc-aeb14a0382cc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この大会は、若い選手たちの夢がたくさん詰まっています。感動的な試合が見られるでしょう。皆さんも、ぜひテレビで見てください。",
+      "translationZh": "这个比赛里充满了年轻选手们的梦想。大家可以看到感人的比赛。各位也请一定在电视上看。",
+      "translationEn": "This tournament is full of dreams for young players. You will be able to see moving matches. Everyone, please be sure to watch on TV.",
+      "id": "438ada6f-4481-46dc-b2b7-d0ce1b1b6552",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校",
+      "reading": "こうこう",
+      "meaningZh": "高中",
+      "meaningEn": "high school",
+      "level": "n5n4",
+      "exampleSentence": "私は高校でサッカーをしました。",
+      "id": "0406f906-e550-42a3-a2e3-8b5bf078c83b"
+    },
+    {
+      "word": "サッカー",
+      "reading": "サッカー",
+      "meaningZh": "足球",
+      "meaningEn": "soccer",
+      "level": "n5n4",
+      "exampleSentence": "サッカーは楽しいスポーツです。",
+      "id": "e167b878-245c-404e-ab5a-acb354a04daa"
+    },
+    {
+      "word": "選手権",
+      "reading": "せんしゅけん",
+      "meaningZh": "锦标赛，選手権",
+      "meaningEn": "championship",
+      "level": "n3",
+      "exampleSentence": "これは全国大会の選手権です。",
+      "id": "9e0b1d3f-540d-4818-b557-5884872d9a3b"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，注目",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "この映画は多くの人の注目を集めています。",
+      "id": "fe7c475b-4107-4b58-a1ab-05abdaa06151"
+    },
+    {
+      "word": "チーム",
+      "reading": "チーム",
+      "meaningZh": "队伍",
+      "meaningEn": "team",
+      "level": "n5n4",
+      "exampleSentence": "私たちは一つのチームです。",
+      "id": "d8681739-de86-4851-8530-54f388ddef2b"
+    },
+    {
+      "word": "昨年",
+      "reading": "さくねん",
+      "meaningZh": "去年",
+      "meaningEn": "last year",
+      "level": "n5n4",
+      "exampleSentence": "昨年、日本へ行きました。",
+      "id": "08560c9f-7cfd-41a5-bf63-cb3a0d631ec9"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n3",
+      "exampleSentence": "決勝戦で優勝しました。",
+      "id": "a7aa4612-db11-4d9f-a696-59003b33d379"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "58ff6e74-146b-48ab-874d-75aefbc480d3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の高校サッカー選手権で、特に注目されているのはどのチームですか。",
+      "options": [
+        "去年の準優勝チーム",
+        "新しい学校のチーム",
+        "昨年の優勝チーム",
+        "一番小さい学校のチーム"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「今年は特に注目されているチームがあります。例えば、昨年の優勝チームです。」と書いてあります。",
+      "id": "2b6694a4-bcea-48df-b80c-517601525a6c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-03-7d62f14f8b",
+  "publishedAt": "2026-06-03T06:00:00+09:00"
+}

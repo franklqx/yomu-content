@@ -1,0 +1,105 @@
+{
+  "title": "街に増える空き家、どうする？",
+  "summary": "日本では空き家が増えています。でも、空き家を町の役に立つものに変えるプロジェクトが始まっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の町で空き家が増えています。空き家とは、人が住んでいない家です。空き家が増えると、町が少しさびしくなります。でも、いい方法が見つかっています。",
+      "translationZh": "最近，日本的城镇里空房越来越多。空房是指没有人居住的房子。空房增多会让城镇变得有些冷清。但是，大家已经找到了好的解决方法。",
+      "translationEn": "Recently, vacant houses are increasing in Japanese towns. A vacant house is a house where no one lives. When vacant houses increase, towns become a little lonely. However, good solutions are being found.",
+      "id": "fc277b78-1584-48e8-a523-a7aa2460abf5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "空き家をきれいにしたり、直したりして、新しいお店やカフェにすることがあります。また、若い人たちが住むためのアパートに変わることもあります。これは、町を元気にします。",
+      "translationZh": "有时，我们会把空房打扫干净或修理好，改造成新的商店或咖啡馆。另外，也有可能改建成供年轻人居住的公寓。这能让城镇充满活力。",
+      "translationEn": "Sometimes, vacant houses are cleaned up or repaired and turned into new shops or cafes. Also, they can be changed into apartments for young people to live in. This makes the town lively.",
+      "id": "0336c65b-ee3a-4ae5-bed5-05ac881e5331",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのプロジェクトは、空き家をなくすだけでなく、町に新しい人を呼ぶこともできます。町の人々がもっと楽しく暮らせるようになります。空き家が町の宝になるのです。",
+      "translationZh": "这些项目不仅能解决空房问题，还能吸引新的人来到小镇。小镇居民的生活也会变得更加愉快。空房变成了小镇的宝藏。",
+      "translationEn": "These projects not only get rid of vacant houses but also can attract new people to the town. People in the town can live more happily. Vacant houses become treasures for the town.",
+      "id": "ffc618c1-8ae8-4b80-b465-b6b1faebbfbf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空房，空置的房屋",
+      "meaningEn": "vacant house, empty house",
+      "level": "n5n4",
+      "exampleSentence": "この町には空き家が多いです。",
+      "id": "ae01a8e6-5130-4e9c-8dca-b17fd22f31e7"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "人口が増えています。",
+      "id": "c2b2fc8b-914c-45dc-b4af-141e887a0169"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "活用，利用",
+      "meaningEn": "utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "空き家を地域のために活用します。",
+      "id": "25d0fa3e-3aeb-4d2a-9fca-7dff18c88022"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "项目",
+      "meaningEn": "project",
+      "level": "n5n4",
+      "exampleSentence": "新しいプロジェクトが始まりました。",
+      "id": "bfdad371-2e05-467a-b254-6e39ebba3e5a"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energy, vigor, health",
+      "level": "n5n4",
+      "exampleSentence": "町が元気になりました。",
+      "id": "82c0769b-768c-4e3b-b0b8-1ac915451e9e"
+    },
+    {
+      "word": "宝",
+      "reading": "たから",
+      "meaningZh": "宝藏，珍宝",
+      "meaningEn": "treasure",
+      "level": "n5n4",
+      "exampleSentence": "この古い家は町の宝です。",
+      "id": "bf65592d-a10d-4012-a620-1436f4a5bc7a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "空き家プロジェクトは、町にどのような良いことがありますか？",
+      "options": [
+        "空き家を増やすこと",
+        "町をさびしくすること",
+        "町を元気にすること",
+        "誰も住まない家を増やすこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これらのプロジェクトは、空き家をなくすだけでなく、町に新しい人を呼ぶこともできます。町の人々がもっと楽しく暮らせるようになります。空き家が町の宝になるのです。」",
+      "id": "aaf25302-f0e3-4044-ae0a-21e24d59edf3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-03-3df8323f83",
+  "publishedAt": "2026-06-03T06:00:00+09:00"
+}

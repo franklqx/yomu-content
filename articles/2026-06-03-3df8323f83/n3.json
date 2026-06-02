@@ -1,0 +1,134 @@
+{
+  "title": "増える空き家、どう活用？都市部の新しい動き",
+  "summary": "都市部でも増えている空き家問題。最近では、この空き家を地域活性化のために活用しようというプロジェクトが注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の都市部で空き家が増えているというニュースをよく聞きますね。以前は地方の問題だと思われがちでしたが、都市部でもその傾向が見られるようになりました。これは、人口減少やライフスタイルの変化などが原因と考えられています。空き家が増えると、街の景観が悪くなるだけでなく、防犯上の問題も心配されます。",
+      "translationZh": "最近，经常听到日本都市部空置房屋增加的新闻。以前人们普遍认为这是地方上的问题，但现在都市部也出现了这种趋势。这被认为是人口减少和生活方式改变等原因造成的。空置房屋增多不仅会影响街景，还会引发治安方面的担忧。",
+      "translationEn": "Recently, we often hear news about the increase in vacant houses in Japan's urban areas. While it used to be thought of as a problem mainly in rural areas, this trend is now being seen in cities as well. This is thought to be due to factors such as population decline and changes in lifestyle. An increase in vacant houses not only deteriorates the town's appearance but also raises security concerns.",
+      "id": "f4d505e5-8fbb-44da-ad44-45366e7f2d87",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、この空き家をただ放置するのではなく、地域のために活用しようという動きも活発になっています。例えば、古い一軒家をリノベーションして、カフェやシェアオフィス、地域住民が集まるコミュニティスペースとして生まれ変わらせるプロジェクトがあります。これにより、新しい人の流れが生まれ、地域が活性化することが期待されています。",
+      "translationZh": "然而，现在也有积极的动向，试图将这些空置房屋用于社区发展，而不是任其荒废。例如，有一些项目将旧式独栋房屋翻新，改造成咖啡馆、共享办公室或社区居民聚集的活动空间。通过这样做，人们期待能带来新的人流，从而振兴社区。",
+      "translationEn": "However, there are also active movements to utilize these vacant houses for the community, rather than leaving them neglected. For example, there are projects that renovate old single-family homes and transform them into cafes, co-working spaces, or community hubs for local residents. This is expected to create new flows of people and revitalize the area.",
+      "id": "054a4516-f99b-4e02-9920-f8a20e68c3cc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このようなプロジェクトが進むことによって、空き家問題の解決に貢献するだけでなく、地域ならではの魅力が再発見されることもあります。例えば、歴史のある建物を活用することで、その地域の文化や歴史を伝えることができます。住民にとっても、新しい交流が生まれるきっかけとなるでしょう。",
+      "translationZh": "通过推进这类项目，不仅有助于解决空置房屋问题，还能重新发现地区独特的魅力。例如，利用有历史的建筑，可以传承该地区的文化和历史。对于居民来说，这也是产生新交流的机会。",
+      "translationEn": "By advancing such projects, not only is the problem of vacant houses addressed, but the unique charm of the region can also be rediscovered. For instance, utilizing historic buildings can convey the area's culture and history. For residents, it will also serve as an opportunity to foster new interactions.",
+      "id": "7dd552ec-f478-4e73-bd64-87269853c7b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、空き家の活用には、建物の状態の確認や、所有者との交渉など、乗り越えなければならない課題もあります。それでも、都市部で進む空き家の新しい活用法は、これからのまちづくりにおいて、非常に重要なヒントを与えてくれると言えるでしょう。",
+      "translationZh": "当然，空置房屋的利用也面临着一些必须克服的课题，比如确认建筑物的状况以及与所有者的协商等。尽管如此，都市部正在推进的空置房屋的新用途，可以说为今后的城市建设提供了非常重要的启示。",
+      "translationEn": "Of course, utilizing vacant houses also involves challenges that must be overcome, such as checking the condition of the building and negotiating with the owner. Nevertheless, the new ways of utilizing vacant houses progressing in urban areas can be said to offer very important hints for future town development.",
+      "id": "c3ff5359-d5cf-4ec4-b382-e96a69fb90f1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置的房屋",
+      "meaningEn": "vacant house",
+      "level": "n3",
+      "exampleSentence": "都市部でも空き家が増えている。",
+      "id": "a732b88a-6e98-4346-8ae6-d37b1616731b"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "利用，活用",
+      "meaningEn": "utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "このスペースを有効活用しよう。",
+      "id": "02cf5aa3-0bcf-4fbb-8cea-b00536e7abd3"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "项目",
+      "meaningEn": "project",
+      "level": "n3",
+      "exampleSentence": "新しい街づくりプロジェクトが始まった。",
+      "id": "8c739082-8880-4adb-8b1d-6bf6e2d28ddc"
+    },
+    {
+      "word": "リノベーション",
+      "reading": "りのべーしょん",
+      "meaningZh": "翻新，革新（尤指对旧建筑的改造）",
+      "meaningEn": "renovation",
+      "level": "n3",
+      "exampleSentence": "古い家をリノベーションして住みやすくした。",
+      "id": "c9045f08-362e-4cf6-a3a5-ea983b640b81"
+    },
+    {
+      "word": "コミュニティ",
+      "reading": "こみゅにてぃ",
+      "meaningZh": "社区",
+      "meaningEn": "community",
+      "level": "n3",
+      "exampleSentence": "地域コミュニティの活動に参加する。",
+      "id": "68260a55-ed88-4773-8aff-8a6657c9a1e2"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活跃化，振兴",
+      "meaningEn": "invigoration, revitalization",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が課題だ。",
+      "id": "d4c24c7f-4957-480e-a4be-ffaf28472ce4"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，难题",
+      "meaningEn": "issue, problem, challenge",
+      "level": "n3",
+      "exampleSentence": "この問題には多くの課題がある。",
+      "id": "042dc384-88d8-418b-a332-2167629053a8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "都市部で空き家が増えている理由として、本文で述べられているのはどれですか？",
+      "options": [
+        "新しい住宅の建設が進みすぎたから",
+        "人口減少やライフスタイルの変化など",
+        "空き家税が導入されたから",
+        "地震などの自然災害が増えたから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第一段落に「これは、人口減少やライフスタイルの変化などが原因と考えられています。」とあります。",
+      "id": "15a339f7-411f-48ae-a80c-9883fd158d34"
+    },
+    {
+      "question": "空き家を活用したプロジェクトの目的は何ですか？",
+      "options": [
+        "空き家を解体して更地にするため",
+        "地域の景観を悪化させるため",
+        "地域活性化や新しい交流を生み出すため",
+        "建物を古いまま保存するため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第二段落に「この空き家を地域のために活用しようという動きも活発になっています。」とあり、第三段落にも「地域活性化」「新しい交流が生まれるきっかけ」といった記述があります。",
+      "id": "a6e5fef1-effc-4854-9971-9c0fe22b66ff"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-03-3df8323f83",
+  "publishedAt": "2026-06-03T06:00:00+09:00"
+}
