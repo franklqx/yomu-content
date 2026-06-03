@@ -1,0 +1,122 @@
+{
+  "title": "詩の朗読会、人気です",
+  "summary": "最近、地方の町で詩の朗読会が人気を集めています。多くの人が集まって、詩を楽しんでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の地方の町で、現代詩の朗読会が人気になっています。昔は詩を読む人は少なかったですが、今は違います。",
+      "translationZh": "最近，在日本的某个地方城市，现代诗朗诵会变得很受欢迎。以前读诗的人很少，但现在不一样了。",
+      "translationEn": "Recently, modern poetry reading events have become popular in a local city in Japan. In the past, few people read poetry, but now it's different.",
+      "id": "72f9f07c-d616-4723-9fe6-55508eba1559",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朗読会では、いろいろな詩が読まれます。有名な詩人の作品や、地元の人が書いた新しい詩もあります。参加者は静かに耳を傾けて、詩の世界に入ります。",
+      "translationZh": "在朗诵会上，会朗读各种各样的诗。有著名诗人的作品，也有当地人写的新诗。参加者会安静地倾听，进入诗歌的世界。",
+      "translationEn": "At the reading events, various poems are read. There are works by famous poets, and also new poems written by local people. Participants listen quietly and enter the world of poetry.",
+      "id": "3c007a03-a620-4098-a47e-f0f186b33dc3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この朗読会は、人々が心を通わせる良い機会になっています。美しい言葉を聞いて、みんなで感動を共有します。だから、毎月多くの人が集まるようになりました。",
+      "translationZh": "这个朗诵会成为了人们心灵交流的好机会。大家听着优美的语言，分享着感动。因此，每个月都有很多人聚集在这里。",
+      "translationEn": "These reading events have become a good opportunity for people to connect emotionally. They listen to beautiful words and share their feelings together. Because of this, many people have started to gather every month.",
+      "id": "f7375cc6-4eea-42d2-bba3-b2106f4e8c2f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方の町が元気になって、文化的な活動が盛んになるのは、とても良いことだと思います。これからも、このような活動が続くことを願っています。",
+      "translationZh": "我认为地方城市变得有活力，文化活动兴盛起来，是一件非常好的事情。今后也希望这样的活动能够继续下去。",
+      "translationEn": "I think it is a very good thing that local towns become lively and cultural activities become active. I hope that such activities will continue in the future.",
+      "id": "f803dc05-f1f7-445f-b9bb-40ce614f8040",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "朗読会",
+      "reading": "ろうどくかい",
+      "meaningZh": "朗诵会",
+      "meaningEn": "poetry reading event",
+      "level": "n5n4",
+      "exampleSentence": "毎月、朗読会が開かれています。",
+      "id": "4b9da59e-b0af-47a9-9556-e6e519e5c121"
+    },
+    {
+      "word": "現代詩",
+      "reading": "げんだいし",
+      "meaningZh": "现代诗",
+      "meaningEn": "modern poetry",
+      "level": "n5n4",
+      "exampleSentence": "現代詩は自由な表現が特徴です。",
+      "id": "83cf2d67-5f6f-473d-acc2-fa1c2a83615d"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, local area",
+      "level": "n5n4",
+      "exampleSentence": "地方の食べ物は美味しいです。",
+      "id": "16332781-7588-4060-a46c-e3a602248791"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "7c3b4d6e-8688-463d-b06c-b9b4a4937828"
+    },
+    {
+      "word": "参加者",
+      "reading": "さんかしゃ",
+      "meaningZh": "参加者",
+      "meaningEn": "participant",
+      "level": "n5n4",
+      "exampleSentence": "多くの参加者が集まりました。",
+      "id": "ad81edc2-ebd9-418e-a7b6-b46c342c0ac9"
+    },
+    {
+      "word": "耳を傾ける",
+      "reading": "みみを かたむける",
+      "meaningZh": "倾听",
+      "meaningEn": "to listen attentively",
+      "level": "n5n4",
+      "exampleSentence": "先生の話に耳を傾けましょう。",
+      "id": "6b9c59c0-583b-4c78-a393-8fe7463b9862"
+    },
+    {
+      "word": "心を通わせる",
+      "reading": "こころ を とおらせる",
+      "meaningZh": "心灵相通，交流感情",
+      "meaningEn": "to communicate emotionally, to connect heart-to-heart",
+      "level": "n5n4",
+      "exampleSentence": "友達と心を通わせるのは大切です。",
+      "id": "810b3e84-a1a2-4250-b881-468e09cdc53a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ詩の朗読会が人気になっていますか？",
+      "options": [
+        "詩は学ぶのが簡単だからです。",
+        "詩の内容が難しいからです。",
+        "人々が心を通わせ、感動を共有できるからです。",
+        "参加費が安いからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「この朗読会は、人々が心を通わせる良い機会になっています。美しい言葉を聞いて、みんなで感動を共有します。」",
+      "id": "e946d2f7-66cc-4551-b6f0-07eda199cdfe"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-04-f95045c056",
+  "publishedAt": "2026-06-04T06:00:00+09:00"
+}

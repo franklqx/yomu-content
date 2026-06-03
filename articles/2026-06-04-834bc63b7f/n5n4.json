@@ -1,0 +1,123 @@
+{
+  "title": "冬の施設、夏も楽しむ！",
+  "summary": "冬のスポーツをする場所が、夏にも使えるように工夫しています。これは「通年化」と言います。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬には、スキーやスノーボードができる場所がたくさんあります。でも、夏になると、これらの場所はほとんど使われなくなります。この問題を解決するために、冬のスポーツ施設を一年中使えるようにするアイデアが出てきました。これを「通年化」と言います。",
+      "translationZh": "冬天，有很多可以滑雪和单板滑雪的地方。但是，到了夏天，这些地方几乎就用不到了。为了解决这个问题，出现了让冬季运动设施一年四季都能使用的想法。这叫做“全年化”。",
+      "translationEn": "In winter, there are many places where you can ski and snowboard. However, when summer comes, these places are hardly used. To solve this problem, ideas have emerged to make winter sports facilities usable all year round. This is called 'year-round operation'.",
+      "id": "290e1fb3-2a10-4312-8796-8dcdcd4d61dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、スキー場では、夏にハイキングやマウンテンバイクができるように整備されています。また、スケートリンクをアイスホッケーだけでなく、他のスポーツやイベントに使うことも考えられています。このように、施設を色々な方法で使うことで、もっと多くの人が楽しめるようになります。",
+      "translationZh": "例如，在滑雪场，夏天会整备成可以进行徒步旅行和山地自行车的地方。另外，也在考虑将溜冰场用于冰球以外的其他运动和活动。像这样，通过用各种方法使用设施，能让更多人享受乐趣。",
+      "translationEn": "For example, at ski resorts, they are prepared for hiking and mountain biking in the summer. Also, it is being considered to use ice rinks not only for ice hockey but also for other sports and events. In this way, by using the facilities in various ways, more people can enjoy them.",
+      "id": "7a6f0d9f-dea9-426e-9038-0a1ff0c63dc6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "通年化は、施設を長く使うことができるので、とても良いことです。お金のむだをなくし、地域の人々にもっと喜んでもらえます。これからも、冬のスポーツ施設が一年中楽しめるように、色々な工夫がされるでしょう。",
+      "translationZh": "全年化是因为设施可以长时间使用，所以是非常好的事情。这样可以减少金钱的浪费，也能让当地人们更加高兴。今后，也会有各种各样的创意，让冬季运动设施一年四季都能得到享用。",
+      "translationEn": "Year-round operation is a very good thing because facilities can be used for a long time. This reduces waste of money and brings more joy to local people. In the future, various ideas will likely be developed to make winter sports facilities enjoyable throughout the year.",
+      "id": "9c1106ac-8203-4cc9-ba8e-582576e0195b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "09bf914b-c78e-42ab-9eb2-6b3eb4029393"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，场所",
+      "meaningEn": "place, location",
+      "level": "n5n4",
+      "exampleSentence": "この場所はきれいです。",
+      "id": "1e9fdc0b-cce1-4191-bfe5-6d83bfce2772"
+    },
+    {
+      "word": "夏",
+      "reading": "なつ",
+      "meaningZh": "夏天",
+      "meaningEn": "summer",
+      "level": "n5n4",
+      "exampleSentence": "夏は暑いです。",
+      "id": "079db755-2070-4941-a9e9-4ccff9121aab"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaningZh": "解决",
+      "meaningEn": "solution, resolution",
+      "level": "n3",
+      "exampleSentence": "問題を解決しました。",
+      "id": "3a36f497-3f88-4c52-a47b-2ae4e8d1b6c5"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "device, idea, ingenuity",
+      "level": "n3",
+      "exampleSentence": "新しい工夫をしました。",
+      "id": "7661a19b-5745-43d9-8cb8-dbc92a42d424"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整备，准备",
+      "meaningEn": "maintenance, preparation",
+      "level": "n3",
+      "exampleSentence": "道路を整備しています。",
+      "id": "771ae2e4-8326-4513-9f6a-da58fa1dfaa5"
+    },
+    {
+      "word": "イベント",
+      "reading": "イベント",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "楽しいイベントでした。",
+      "id": "3940775f-fae8-4a5a-a6a0-e30678ec0883"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "area, region",
+      "level": "n3",
+      "exampleSentence": "この地域は静かです。",
+      "id": "79befcef-ed0e-4e26-948c-429e32677eb2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "冬のスポーツ施設を一年中使えるようにすることを何と言いますか。",
+      "options": [
+        "全年営業",
+        "通年化",
+        "夏期利用",
+        "施設活用"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「冬のスポーツ施設を一年中使えるようにするアイデアが出てきました。これを「通年化」と言います。」と書かれています。",
+      "id": "1ed72a1b-b8d8-448c-b221-4ecda7c781a8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-04-834bc63b7f",
+  "publishedAt": "2026-06-04T06:00:00+09:00"
+}

@@ -1,0 +1,147 @@
+{
+  "title": "詩の朗読会、地方都市で静かなブーム",
+  "summary": "現代詩の朗読会が、都市部だけでなく地方都市でも注目を集めています。参加者の増加や地域コミュニティとの連携が進み、新たな文化活動として定着しつつあるようです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、都市部を中心に盛んに行われてきた現代詩の朗読会ですが、その人気は地方都市にも波及しているとのことです。各地の公民館やカフェ、時には古民家などを会場として、詩人自身や朗読愛好家によるパフォーマンスが開催されています。参加者からは、「普段触れる機会の少ない詩の世界に親しめる」「言葉の響きに感動した」といった声が聞かれ、その魅力が広がりつつあることがうかがえます。",
+      "translationZh": "近年来，以都市地区为中心而盛行的现代诗朗读会，其人气也已波及到地方城市。各地公民馆、咖啡馆，有时甚至是古民宅等都被用作会场，举办着由诗人本人或朗读爱好者带来的表演。参加者表示“能接触到平时很少有机会接触的诗歌世界”、“被语言的韵律所感动”，可以看出其魅力正在逐渐扩散。",
+      "translationEn": "In recent years, modern poetry reading events, which have been actively held mainly in urban areas, are reportedly gaining popularity in regional cities as well. Performances by poets themselves and reading enthusiasts are being held in venues such as community centers, cafes, and sometimes even old folk houses across various regions. Participants have expressed sentiments like, \"It allows me to engage with the world of poetry, which I don't often have a chance to encounter,\" and \"I was moved by the resonance of the words,\" indicating that its appeal is spreading.",
+      "id": "ba240eb7-ce37-4bc3-be04-226ba44400f0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方都市における朗読会の普及には、地域に根差した活動を重視する動きが背景にあると見られます。地元出身の詩人の作品を取り上げたり、地域の歴史や風景をテーマにした詩を朗読したりすることで、住民の関心を引きつけ、共感を呼んでいます。また、SNSなどを活用した情報発信も功を奏し、これまで朗読会に馴染みがなかった層へのリーチも可能になっているようです。",
+      "translationZh": "地方城市朗读会的普及，其背景在于重视扎根于当地的活动。通过采纳当地出身诗人的作品，或朗读以地域历史和风景为主题的诗歌，来吸引居民的关注并引起共鸣。此外，利用SNS等进行信息传播也取得了成效，似乎也使得触及到过去不熟悉朗读会的人群成为可能。",
+      "translationEn": "The spread of reading events in regional cities appears to be driven by a trend that emphasizes locally rooted activities. By featuring works by local poets or reading poems themed around the region's history and landscapes, these events attract residents' interest and foster a sense of connection. Furthermore, information dissemination utilizing social media and other platforms has also proven effective, seemingly enabling outreach to demographics previously unfamiliar with reading events.",
+      "id": "0f79d649-423b-4233-8389-31dace6cc8d6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、これらの朗読会は、参加者同士の交流の場としても機能しています。共通の趣味を持つ人々が集まることで、新たな人間関係が生まれ、地域コミュニティの活性化にも寄与する可能性が指摘されています。今後は、より多様な会場での開催や、オンラインとの連携なども視野に入れ、詩の魅力をより多くの人々に届ける試みが進められるものと期待されます。",
+      "translationZh": "此外，这些朗读会也作为参与者之间交流的场所发挥着作用。通过拥有共同兴趣的人们聚集在一起，可以形成新的人际关系，并被指出有可能促进地区社区的活性化。今后，我们期待着通过在更多样化的场所举办活动，以及与线上的联动等举措，来进一步将诗歌的魅力传递给更多的人。",
+      "translationEn": "Moreover, these reading events also function as a venue for interaction among participants. It has been pointed out that by bringing together people with common interests, new interpersonal relationships are formed, potentially contributing to the revitalization of local communities. In the future, it is anticipated that efforts will be made to deliver the appeal of poetry to a wider audience, considering the possibility of holding events in more diverse venues and integrating with online platforms.",
+      "id": "ae29fed0-f12f-4026-8614-ad0d531dacd0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "波及",
+      "reading": "はきゅう",
+      "meaningZh": "波及，扩散",
+      "meaningEn": "spread, affect",
+      "level": "n2n1",
+      "exampleSentence": "そのニュースは瞬く間に全国に波及した。",
+      "id": "fca298da-94c2-4ec1-b518-96e51e38b8f4"
+    },
+    {
+      "word": "公民館",
+      "reading": "こうみんかん",
+      "meaningZh": "公民馆",
+      "meaningEn": "community center",
+      "level": "n3",
+      "exampleSentence": "公民館で地域のイベントが開催される。",
+      "id": "92e66e70-1e09-41d8-9591-44f746f2e927"
+    },
+    {
+      "word": "愛好家",
+      "reading": "あいこうか",
+      "meaningZh": "爱好者",
+      "meaningEn": "enthusiast, lover",
+      "level": "n3",
+      "exampleSentence": "彼はクラシック音楽の熱心な愛好家だ。",
+      "id": "49b62d04-bdc8-4af0-a1ef-f08581ab9240"
+    },
+    {
+      "word": "うかがえる",
+      "reading": "うかがえる",
+      "meaningZh": "可见，能够推测",
+      "meaningEn": "can be seen, can be inferred",
+      "level": "n2n1",
+      "exampleSentence": "彼の表情から、その考えがおうかがえます。",
+      "id": "057f6e1a-3a49-4f8e-8041-1f3d23a72d91"
+    },
+    {
+      "word": "根差した",
+      "reading": "ねざした",
+      "meaningZh": "扎根于...",
+      "meaningEn": "rooted in, based on",
+      "level": "n2n1",
+      "exampleSentence": "地域に根差した活動は、住民の支持を得やすい。",
+      "id": "e0495580-c882-4f95-a5cc-728bf0342f2d"
+    },
+    {
+      "word": "功を奏する",
+      "reading": "こうをそうする",
+      "meaningZh": "奏效，成功",
+      "meaningEn": "be effective, bear fruit",
+      "level": "n2n1",
+      "exampleSentence": "彼の努力はついに功を奏し、目標を達成した。",
+      "id": "9850c6f7-52b9-4e55-9ce8-f1547dd4acf8"
+    },
+    {
+      "word": "リーチ",
+      "reading": "リーチ",
+      "meaningZh": "触及，覆盖（范围）",
+      "meaningEn": "reach",
+      "level": "n3",
+      "exampleSentence": "このキャンペーンは若年層へのリーチを目指している。",
+      "id": "612c057d-a503-474f-9dce-eac6e32f52d5"
+    },
+    {
+      "word": "寄与する",
+      "reading": "きよする",
+      "meaningZh": "贡献，起作用",
+      "meaningEn": "contribute to",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の発展に寄与する事業を始めた。",
+      "id": "55ad5e07-2c2d-431c-a753-351402f18fde"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方都市で現代詩の朗読会が人気を集めている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "詩の朗読が唯一の娯楽だから",
+        "参加者が詩の世界に親しみ、感動できるから",
+        "著名な詩人が地方都市でボランティア活動をしているから",
+        "都市部から補助金が出ているから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「参加者からは、「普段触れる機会の少ない詩の世界に親しめる」「言葉の響きに感動した」といった声が聞かれ、その魅力が広がりつつあることがうかがえます。」",
+      "id": "4e5996f2-b25c-4a92-9e28-4addf78dbcf1"
+    },
+    {
+      "question": "地方都市での朗読会が地域コミュニティの活性化に寄与すると考えられるのはなぜですか？",
+      "options": [
+        "会場費が安いため、多くの人が集まりやすいから",
+        "詩の朗読を通じて、地域住民の関心や共感が得られやすいから",
+        "参加者同士の交流が生まれ、新たな人間関係が構築される可能性があるから",
+        "オンライン配信で全国から参加できるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「さらに、これらの朗読会は、参加者同士の交流の場としても機能しています。共通の趣味を持つ人々が集まることで、新たな人間関係が生まれ、地域コミュニティの活性化にも寄与する可能性が指摘されています。」",
+      "id": "5b8311cc-1f96-46b7-b052-65f16f185b16"
+    },
+    {
+      "question": "本文によると、地方都市における朗読会の普及にはどのような動きが背景にあると見られていますか？",
+      "options": [
+        "グローバル化の進展",
+        "地域に根差した活動を重視する動き",
+        "AI技術の発展",
+        "商業施設の増加"
+      ],
+      "correctIndex": 1,
+      "explanation": "「地方都市における朗読会の普及には、地域に根差した活動を重視する動きが背景にあると見られます。」",
+      "id": "d3df0309-157e-4ebe-b0cf-ab680f57cbc3"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-04-f95045c056",
+  "publishedAt": "2026-06-04T06:00:00+09:00"
+}

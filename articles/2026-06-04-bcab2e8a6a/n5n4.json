@@ -1,0 +1,131 @@
+{
+  "title": "地域の訓練、もっと楽しく！",
+  "summary": "地域の防災訓練は大切です。でも、いつも同じだとつまらないですね。もっと楽しくなる工夫を見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "災害はいつ来るかわかりません。だから、地域で一緒に訓練をすることはとても大切です。しかし、毎年の訓練は同じ練習ばかりで、飽きてしまう人もいます。",
+      "translationZh": "灾害不知道什么时候会来。所以，在社区一起进行训练非常重要。但是，每年的训练都是同样的练习，有些人会感到厌烦。",
+      "translationEn": "We don't know when disasters will come. Therefore, training together in the community is very important. However, the annual training is always the same, and some people get bored.",
+      "id": "81f30177-a66d-49cc-a757-900c51251db5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、訓練をもっと面白くするアイデアがあります。例えば、ゲームを取り入れるのはどうでしょうか。スタンプラリーのように、いくつかのポイントを回って、災害クイズに答えるのです。",
+      "translationZh": "因此，有一些让训练变得更有趣的点子。例如，加入游戏怎么样？就像集章活动一样，去几个地方，回答关于灾害的问答题。",
+      "translationEn": "Therefore, there are ideas to make training more interesting. For example, how about incorporating games? Like a stamp rally, visit several points and answer disaster quizzes.",
+      "id": "8e236b64-c948-4daa-9666-8c64329234c1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、子供たちが楽しめる工夫も大切です。子供向けの非常食を試食するコーナーや、段ボールで秘密基地を作る体験なども良いかもしれません。家族みんなで参加できると、防災意識も自然に高まります。",
+      "translationZh": "另外，让孩子们也能开心地参与的工夫也很重要。比如，提供儿童用应急食品试吃角，或者用纸板制作秘密基地体验等，可能也会不错。如果全家都能一起参加，防灾意识也会自然提高。",
+      "translationEn": "Also, it is important to have ideas that children can enjoy. A corner to try emergency food for children, or an experience of making a secret base with cardboard boxes might be good. If the whole family can participate, disaster awareness will naturally increase.",
+      "id": "e961f89e-dcff-473b-b7e8-312e694c1b22",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "訓練が楽しいと、多くの人が参加するようになります。そして、災害への備えがもっと進むでしょう。地域のみんなで、楽しく、そしてしっかりと備えましょう。",
+      "translationZh": "如果训练变得有趣，就会有更多人来参加。然后，应对灾害的准备也会进一步推进。让我们社区的大家一起，开心地、并且切实地做好准备吧。",
+      "translationEn": "If training is fun, more people will participate. And preparedness for disasters will advance further. Let's all in the community prepare joyfully and thoroughly.",
+      "id": "0483669a-eff0-4edb-af80-9ba0f5d92df7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾害",
+      "meaningEn": "disaster",
+      "level": "n5n4",
+      "exampleSentence": "地震は大きな災害です。",
+      "id": "662ddec7-aa5d-4993-8c05-433ac7de8fd7"
+    },
+    {
+      "word": "訓練",
+      "reading": "くんれん",
+      "meaningZh": "训练",
+      "meaningEn": "training",
+      "level": "n5n4",
+      "exampleSentence": "毎月、避難訓練があります。",
+      "id": "68807c19-b49e-4b06-aac1-80d866eaa032"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "健康はとても大切です。",
+      "id": "e653f858-c0af-45b8-a169-6296695c2b7f"
+    },
+    {
+      "word": "飽きる",
+      "reading": "あきる",
+      "meaningZh": "厌烦，腻",
+      "meaningEn": "to get bored",
+      "level": "n5n4",
+      "exampleSentence": "同じことばかりで飽きてきました。",
+      "id": "0f920a9b-08ab-40d7-88d8-37c67c87488c"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "办法，技巧，创造",
+      "meaningEn": "device, idea, ingenuity",
+      "level": "n3",
+      "exampleSentence": "新しい工夫で問題を解決しました。",
+      "id": "2594d769-1c7c-4747-a3b6-1392607b99d2"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "イベントに参加しました。",
+      "id": "4dcbfc7a-a0e2-4dff-8193-da26b6e9d2dd"
+    },
+    {
+      "word": "意識",
+      "reading": "いしき",
+      "meaningZh": "意识",
+      "meaningEn": "awareness",
+      "level": "n3",
+      "exampleSentence": "安全意識を高めましょう。",
+      "id": "9fa59339-b5cf-4ed2-aabc-ac4df65e97f3"
+    },
+    {
+      "word": "備え",
+      "reading": "そなえ",
+      "meaningZh": "准备，防备",
+      "meaningEn": "preparation, provision",
+      "level": "n3",
+      "exampleSentence": "災害に備えることが大切です。",
+      "id": "0468e9f8-671e-424a-9f82-1ca0700ba1e7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域訓練をもっと楽しくするために、どのようなアイデアが紹介されていますか？",
+      "options": [
+        "ゲームやクイズを取り入れること",
+        "毎年同じ訓練を繰り返すこと",
+        "子供の参加を禁止すること",
+        "専門家だけが参加すること"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「ゲームを取り入れるのはどうでしょうか」「スタンプラリーのように、いくつかのポイントを回って、災害クイズに答えるのです」と書かれています。",
+      "id": "187f7ea6-1d93-4fe0-814c-6fb5039da8e8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-04-bcab2e8a6a",
+  "publishedAt": "2026-06-04T06:00:00+09:00"
+}

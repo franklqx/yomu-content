@@ -1,0 +1,143 @@
+{
+  "title": "地方都市で静かなブーム：現代詩の朗読会",
+  "summary": "最近、地方都市を中心に、現代詩の朗読会が静かな人気を集めています。日常の喧騒から離れ、詩の世界に浸る時間を提供しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、地方都市で現代詩の朗読会が静かに人気を集めています。都市部だけでなく、地方でも文化的なイベントへの関心が高まっているようです。参加者は、詩人が書いた言葉のリズムや響きを直接耳で感じながら、作品の世界に深く入り込むことができます。これは、本を読むのとはまた違った、感動的な体験になると言われています。",
+      "translationZh": "最近，现代诗朗诵会在地方城市悄然兴起，获得了不小的关注。看来，不仅是都市，地方上对文化活动的兴趣也在不断提高。参加者们在直接用耳朵感受诗人笔下文字的节奏和韵律的同时，能够深深地沉浸在作品的世界里。据说，这是一种与阅读书籍截然不同的、令人感动的体验。",
+      "translationEn": "Recently, readings of modern poetry have been quietly gaining popularity in regional cities. It seems that interest in cultural events is growing not only in urban areas but also in the regions. Participants can deeply immerse themselves in the world of the works while directly hearing the rhythm and resonance of the words written by the poets. It is said to be a moving experience, different from reading a book.",
+      "id": "3d4e9044-c772-4af7-9384-c3a9839d1af8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朗読会では、詩人が自作の詩を読んだり、あるいは他の詩人の作品を選んで読み上げたりすることが一般的です。話すスピードや抑揚、間の取り方など、朗読する人の解釈によって詩の印象は大きく変わります。そのため、参加者は同じ詩でも、様々な表現方法に触れることができ、新たな発見をすることが多いそうです。",
+      "translationZh": "在朗诵会上，通常是诗人朗诵自己的作品，或者选择朗诵其他诗人的作品。诗歌的给人的印象会因朗读者对语速、抑扬顿挫和停顿的处理方式等不同解读而产生很大变化。因此，据说参加者即使面对同一首诗，也能接触到各种各样的表现方式，并常常获得新的发现。",
+      "translationEn": "In reading sessions, it is common for poets to read their own poems or select and recite works by other poets. The impression of a poem changes significantly depending on the reader's interpretation of speed, intonation, and pauses. Therefore, it is often said that participants can encounter various ways of expression, even with the same poem, and make new discoveries.",
+      "id": "419dae0e-f506-479b-b95c-470a53b0b2b8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方都市では、劇場や図書館、カフェなどを会場として、比較的小規模でアットホームな雰囲気の朗読会が多く開催されています。参加費も手頃な場合が多く、気軽に立ち寄れるのが魅力です。仕事や家事で忙しい日々を送る人々にとって、このような朗読会は、心の栄養となる貴重な機会となっているのでしょう。",
+      "translationZh": "在地方城市，常以剧院、图书馆、咖啡馆等为会场，举办许多规模较小、气氛亲切的朗诵会。参加费用也通常不高，能够轻松前往是其魅力所在。对于那些在工作和家务中度过忙碌日子的人们来说，这样的朗诵会大概是他们心灵的滋养，成为宝贵的机会。",
+      "translationEn": "In regional cities, many relatively small and intimate reading sessions are held in venues such as theaters, libraries, and cafes. The participation fees are often affordable, making them easily accessible. For people busy with work and household chores, such reading sessions likely serve as valuable opportunities for spiritual nourishment.",
+      "id": "a2c5e166-454c-49c2-8cbd-832ac8d96b19",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "現代詩は、難解だと思われがちですが、朗読を通してその魅力に触れることで、より身近に感じられるようになるでしょう。地方都市での現代詩朗読会の広がりは、多様な文化活動が地域に根付いている証拠と言えるかもしれません。",
+      "translationZh": "现代诗常常被认为难以理解，但通过朗诵接触其魅力，应该会使其变得更加亲近。现代诗朗诵会在地方城市的发展，或许可以说是在证明着多样的文化活动正在扎根于地区。",
+      "translationEn": "Modern poetry is often thought to be difficult, but by experiencing its charm through reading, it may become more approachable. The spread of modern poetry readings in regional cities may be evidence that diverse cultural activities are taking root in the community.",
+      "id": "0244fb66-87d8-4c5d-b15f-d92a2384c30d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "現代詩",
+      "reading": "げんだいし",
+      "meaningZh": "现代诗",
+      "meaningEn": "modern poetry",
+      "level": "n3",
+      "exampleSentence": "この詩集は現代詩の新しい潮流を示している。",
+      "id": "d02f8be3-36b6-4559-9a10-1f8567b13592"
+    },
+    {
+      "word": "朗読会",
+      "reading": "ろうどくかい",
+      "meaningZh": "朗诵会",
+      "meaningEn": "reading session (of poetry, etc.)",
+      "level": "n3",
+      "exampleSentence": "週末に友人と朗読会に行く予定です。",
+      "id": "49f1bf51-c737-435b-b6f9-d6f21e09b83d"
+    },
+    {
+      "word": "地方都市",
+      "reading": "ちほうとし",
+      "meaningZh": "地方城市",
+      "meaningEn": "regional city, provincial town",
+      "level": "n3",
+      "exampleSentence": "地方都市の生活はのんびりしていて良い。",
+      "id": "a13f7a39-249f-43b7-a369-02812984008c"
+    },
+    {
+      "word": "静かに",
+      "reading": "しずかに",
+      "meaningZh": "悄悄地，安静地",
+      "meaningEn": "quietly, peacefully",
+      "level": "n5n4",
+      "exampleSentence": "彼は部屋を静かに去っていった。",
+      "id": "0910b943-0ee2-46e2-9ae2-ed84c6a3212e"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaningZh": "关心，兴趣",
+      "meaningEn": "interest, concern",
+      "level": "n3",
+      "exampleSentence": "最近、環境問題への関心が高まっている。",
+      "id": "b6aab6d6-1854-42d1-ad44-563afde762e4"
+    },
+    {
+      "word": "リズム",
+      "reading": "りずむ",
+      "meaningZh": "节奏",
+      "meaningEn": "rhythm",
+      "level": "n3",
+      "exampleSentence": "この音楽は心地よいリズムを持っている。",
+      "id": "2544b7f3-0332-4fec-9057-fd9f80971999"
+    },
+    {
+      "word": "抑揚",
+      "reading": "よくよう",
+      "meaningZh": "抑扬，起伏",
+      "meaningEn": "intonation, cadence",
+      "level": "n2n1",
+      "exampleSentence": "彼女の話し方は抑揚があって聞き取りやすい。",
+      "id": "2b15c86e-e0d6-4583-9845-03ee8d867ae3"
+    },
+    {
+      "word": "アットホーム",
+      "reading": "あとほーむ",
+      "meaningZh": "家庭般的，温馨的",
+      "meaningEn": "homely, cozy",
+      "level": "n3",
+      "exampleSentence": "このカフェはアットホームな雰囲気で落ち着く。",
+      "id": "88a4ad77-7d25-4d71-918d-12025ef3ae7a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方都市で現代詩の朗読会が人気を集めている理由は何ですか？",
+      "options": [
+        "参加費が非常に安いから",
+        "詩の世界に深く浸る特別な体験ができるから",
+        "有名詩人が必ず参加するから",
+        "都市部ではできない特別なイベントだから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「参加者は、詩人が書いた言葉のリズムや響きを直接耳で感じながら、作品の世界に深く入り込むことができます。これは、本を読むのとはまた違った、感動的な体験になると言われています。」とあります。",
+      "id": "a56221d8-dcf0-41d7-869a-9b209686447f"
+    },
+    {
+      "question": "朗読会で詩の印象が変わるのはなぜですか？",
+      "options": [
+        "詩の内容が毎回変わるから",
+        "参加者の人数によって変わるから",
+        "詩人が作品を解釈して読み上げる方法によるから",
+        "会場の雰囲気が毎回違うから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「話すスピードや抑揚、間の取り方など、朗読する人の解釈によって詩の印象は大きく変わります。」とあります。",
+      "id": "c62ce6d7-5b4c-457c-8f08-9e5e519a0a1b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-04-f95045c056",
+  "publishedAt": "2026-06-04T06:00:00+09:00"
+}
