@@ -1,0 +1,126 @@
+{
+  "title": "アニメ制作現場の「働き方改革」が進む？",
+  "summary": "最近、アニメ制作スタジオで労働環境の改善を目指す動きが広がっています。多くの人が、より良い作品を作るために、この変化に期待しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメは世界中で人気がありますが、その制作現場は長時間労働や厳しい納期で知られています。しかし、近年、この状況を変えようという動きが出てきました。例えば、一部のスタジオでは、労働時間を管理したり、休暇を取りやすくしたりする取り組みを始めています。これは、アニメーターが心身ともに健康に働けるようにするためです。",
+      "translationZh": "动画片在世界范围内都很受欢迎，但其制作现场以长时间劳动和严格的截止日期而闻名。然而，近年来，开始出现了改变这种状况的动向。例如，一些工作室已经开始采取措施来管理工作时间，并使休假更容易。这是为了让动画师能够在身心健康的状态下工作。",
+      "translationEn": "Anime is popular worldwide, but its production sites are known for long working hours and strict deadlines. However, in recent years, a movement to change this situation has emerged. For example, some studios have begun initiatives to manage working hours and make it easier to take leave. This is to ensure animators can work in a healthy state, both mentally and physically.",
+      "id": "6a4aca9d-25ca-4695-9a29-8a370891e0a4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "労働環境が改善されると、アニメーターのモチベーションも上がるはずです。モチベーションが高まれば、より質の高いアニメーションが生まれる可能性が高まります。だから、制作側も「働き方改革」に力を入れているのです。人が大切にされる環境があってこそ、素晴らしい作品が作れるという考え方が広がっています。",
+      "translationZh": "如果劳动环境得到改善，动画师的积极性应该也会提高。积极性提高的话，创作出更高质量动画的可能性就会增加。因此，制作方也在努力推进“工作方式改革”。“只有在人被重视的环境下，才能创作出优秀的作品”这种想法正在普及。",
+      "translationEn": "If the working environment improves, animators' motivation should also rise. With higher motivation, the possibility of creating higher quality animation increases. Therefore, the production side is also focusing on 'work style reform.' The idea that great works can only be created in an environment where people are valued is spreading.",
+      "id": "2f73815a-a265-4b9b-ad8a-0b5f5684ebf8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、すぐに全てのスタジオで環境が劇的に変わるわけではありません。まだまだ課題は多いですが、こうした動きは非常にポジティブです。ファンとしては、クリエイターたちが安心して、情熱を持って制作に取り組めるようになることを願うばかりです。そうすれば、これからも魅力的なアニメがどんどん出てくるでしょう。",
+      "translationZh": "当然，并非所有工作室的环境都能立即发生剧烈变化。尽管仍有许多挑战，但这些动向非常积极。作为粉丝，我们只希望创作者们能够安心、充满热情地投入创作。那样的话，今后也会源源不断地涌现出有魅力的动画。",
+      "translationEn": "Of course, not all studio environments will change dramatically right away. There are still many challenges, but these movements are very positive. As fans, we can only hope that creators will be able to work with peace of mind and passion. If that happens, fascinating anime will continue to be produced.",
+      "id": "8c35cc1c-5499-4bfb-a871-9b8a4a308454",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "制作現場",
+      "reading": "せいさくげんば",
+      "meaningZh": "制作现场，生产现场",
+      "meaningEn": "Production site, manufacturing site",
+      "level": "n3",
+      "exampleSentence": "この制作現場はいつも忙しいです。",
+      "id": "521f4f76-4049-448f-94c8-e06752503370"
+    },
+    {
+      "word": "長時間労働",
+      "reading": "ちょうじかんろうどう",
+      "meaningZh": "长时间劳动",
+      "meaningEn": "Long working hours",
+      "level": "n3",
+      "exampleSentence": "長時間労働は健康に悪いです。",
+      "id": "d68ab8e6-e6f0-4993-b740-eefbbcf17855"
+    },
+    {
+      "word": "納期",
+      "reading": "のうき",
+      "meaningZh": "交货期，交付日期",
+      "meaningEn": "Delivery date, deadline",
+      "level": "n3",
+      "exampleSentence": "明日はこの仕事の納期です。",
+      "id": "1ae819cc-aea5-4a3a-bd5d-d75242d0c520"
+    },
+    {
+      "word": "モチベーション",
+      "reading": "もちべーしょん",
+      "meaningZh": "积极性，动力",
+      "meaningEn": "Motivation",
+      "level": "n3",
+      "exampleSentence": "新しいプロジェクトでモチベーションが上がった。",
+      "id": "34ec63dd-9f9e-46f4-a14b-b74de681c00a"
+    },
+    {
+      "word": "質",
+      "reading": "しつ",
+      "meaningZh": "质量",
+      "meaningEn": "Quality",
+      "level": "n3",
+      "exampleSentence": "この製品は質が高いです。",
+      "id": "af65238b-d609-4d17-b4c6-9025c198a762"
+    },
+    {
+      "word": "働き方改革",
+      "reading": "はたらきかたかいかく",
+      "meaningZh": "工作方式改革",
+      "meaningEn": "Work style reform",
+      "level": "n3",
+      "exampleSentence": "働き方改革は、多くの会社で議論されています。",
+      "id": "dfb9a6e5-7f50-4b2f-a14e-7c21c04d2836"
+    },
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "Creator",
+      "level": "n3",
+      "exampleSentence": "彼は優秀なクリエイターです。",
+      "id": "8265208c-49cc-455c-9b27-de6b02ab1fba"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメ制作現場の現状について、本文ではどのようなことが述べられていますか？",
+      "options": [
+        "長時間労働や厳しい納期が問題視されていること",
+        "クリエイターのモチベーションが非常に高いこと",
+        "労働環境の改善はすでに完了していること",
+        "アニメの質が低下していること"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文の第一段落に「しかし、近年、この状況を変えようという動きが出てきました。例えば、一部のスタジオでは、労働時間を管理したり、休暇を取りやすくしたりする取り組みを始めています。」とあり、以前は長時間労働や厳しい納期があったことが示唆されています。",
+      "id": "d5e95150-5b94-463b-be19-929e8365971d"
+    },
+    {
+      "question": "労働環境が改善されることによって、どのような良い効果が期待されていますか？",
+      "options": [
+        "制作費が大幅に削減されること",
+        "アニメーターのモチベーションが上がり、より質の高いアニメーションが生まれること",
+        "スタジオの数が減少すること",
+        "ファンの数が減ってしまうこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "第二段落に「労働環境が改善されると、アニメーターのモチベーションも上がるはずです。モチベーションが高まれば、より質の高いアニメーションが生まれる可能性が高まります。」と書かれています。",
+      "id": "70ea08b5-923a-4d97-8c82-3e22dcc7d27f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-05-4db455a344",
+  "publishedAt": "2026-06-05T06:00:00+09:00"
+}

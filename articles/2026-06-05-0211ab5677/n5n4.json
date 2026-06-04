@@ -1,0 +1,122 @@
+{
+  "title": "ヴィーガン和食は人気",
+  "summary": "最近、ヴィーガン向けの和食が増えています。これは、肉や魚を食べない人のための料理です。多くの人がヴィーガン和食を楽しんでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でヴィーガン向けの和食が増えています。ヴィーガンは、肉や魚、卵、乳製品などを食べない人のことです。これらの人たちが、日本食を楽しめるように、新しいメニューがたくさん出てきました。",
+      "translationZh": "最近，日本的纯素食日式料理越来越多。纯素食者是指不吃肉、鱼、蛋、奶制品等食物的人。为了让这些人也能享受日本料理，出现了许多新菜单。",
+      "translationEn": "Recently, vegan-friendly Japanese food is increasing in Japan. Vegans are people who do not eat meat, fish, eggs, dairy products, etc. To allow these people to enjoy Japanese cuisine, many new menus have appeared.",
+      "id": "a8715a40-78b3-4050-8a7a-47c717e0e910",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司や天ぷらもヴィーガンで作ることができます。お寿司は、魚の代わりに野菜を使います。天ぷらも、野菜だけを使って揚げます。お味噌汁も、魚のだしを使わないで作っています。",
+      "translationZh": "例如，寿司和天妇罗也可以做成纯素食。寿司用蔬菜代替鱼。天妇罗也只用蔬菜来炸。味噌汤也是用不用鱼汤底做的。",
+      "translationEn": "For example, sushi and tempura can also be made vegan. Sushi uses vegetables instead of fish. Tempura is also fried using only vegetables. Miso soup is also made without using fish broth.",
+      "id": "0e11532a-7789-4187-87f4-d1a7a1e67f65",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン和食は、健康にも良いと言われています。野菜がたくさん使われているからです。また、動物にも優しい選択です。だから、多くの日本人もヴィーガン和食に興味を持っています。",
+      "translationZh": "据说纯素食日式料理对健康也很有好处。因为使用了大量的蔬菜。而且，这也是一种善待动物的选择。因此，许多日本人也对纯素食日式料理感兴趣。",
+      "translationEn": "Vegan Japanese food is said to be good for health. This is because a lot of vegetables are used. It is also a kind choice for animals. Therefore, many Japanese people are also interested in vegan Japanese food.",
+      "id": "81b5af29-0549-4657-acd6-c825b42cbe48",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "レストランやカフェでも、ヴィーガンメニューを見ることが多くなりました。旅行者にも人気があります。これから、もっとヴィーガン和食が広がるでしょう。",
+      "translationZh": "在餐厅和咖啡馆里，看到纯素食菜单的机会也变多了。它也很受旅行者的欢迎。今后，纯素食日式料理将会更加普及。",
+      "translationEn": "We are seeing more vegan menus in restaurants and cafes. It is also popular with tourists. In the future, vegan Japanese food will likely spread even more.",
+      "id": "aa570faa-46cd-4f61-97cd-b0be73db4e0a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "increase",
+      "level": "n5n4",
+      "exampleSentence": "学生が少し増えました。",
+      "id": "ee192432-0f97-41e0-b59d-9b3742d9743f"
+    },
+    {
+      "word": "代わり",
+      "reading": "かわり",
+      "meaningZh": "代替，替换",
+      "meaningEn": "instead of, substitute",
+      "level": "n5n4",
+      "exampleSentence": "肉の代わりに野菜を食べます。",
+      "id": "3200bdfa-c1ca-413c-b38e-98d23f1ded61"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために運動をします。",
+      "id": "13248416-726d-4e57-a7fc-3fa70c94e7f8"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaningZh": "动物",
+      "meaningEn": "animal",
+      "level": "n5n4",
+      "exampleSentence": "動物が好きです。",
+      "id": "f7f3ac92-5b25-4e7a-90fb-149999565d4a"
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "meaningZh": "选择",
+      "meaningEn": "choice",
+      "level": "n3",
+      "exampleSentence": "これは良い選択でした。",
+      "id": "c16380ae-92cb-47da-b510-d5346dc98fd7"
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaningZh": "兴趣",
+      "meaningEn": "interest",
+      "level": "n5n4",
+      "exampleSentence": "新しいことに興味があります。",
+      "id": "a158b343-6533-4991-9a29-f23bc8b50778"
+    },
+    {
+      "word": "旅行者",
+      "reading": "りょこうしゃ",
+      "meaningZh": "旅行者",
+      "meaningEn": "traveler",
+      "level": "n3",
+      "exampleSentence": "多くの旅行者が日本に来ます。",
+      "id": "05d29836-919b-47be-8819-59e76b8c5bd3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガンは、どんなものを食べませんか？",
+      "options": [
+        "野菜と果物",
+        "肉と魚",
+        "ご飯とパン",
+        "お菓子とジュース"
+      ],
+      "correctIndex": 1,
+      "explanation": "ヴィーガンは、肉や魚、卵、乳製品などを食べない人のことです。",
+      "id": "2fe0feff-8eb4-4daf-8ad8-d2fbcffaa460"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-05-0211ab5677",
+  "publishedAt": "2026-06-05T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "瀬戸内海クルーズ、新しい楽しみ方",
+  "summary": "瀬戸内海は美しい海です。新しいクルーズの楽しみ方を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海はとてもきれいです。たくさんの島があります。船に乗って海を見るのは気持ちがいいです。最近、新しいクルーズの楽しみ方が人気です。",
+      "translationZh": "濑户内海非常美丽。那里有许多岛屿。乘船看海感觉很好。最近，新的游轮享受方式很受欢迎。",
+      "translationEn": "The Seto Inland Sea is very beautiful. There are many islands. It feels good to see the sea by boat. Recently, new ways to enjoy cruising are popular.",
+      "id": "4db67851-9558-4462-bea7-4880e0e97040",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、夜のクルーズがあります。夜の海は静かで、星がきれいに見えます。特別なイベントもあります。食事をしながら、音楽を楽しむことができます。",
+      "translationZh": "例如，有夜间游轮。夜晚的海很安静，可以看到美丽的星星。还有特别的活动。可以一边吃饭，一边享受音乐。",
+      "translationEn": "For example, there are night cruises. The sea at night is quiet, and you can see the stars beautifully. There are also special events. You can enjoy music while eating.",
+      "id": "5fddd364-4a79-4b69-aed5-522a47688bc5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、小さな島を巡るツアーも人気です。色々な島に立ち寄って、その島の文化や食べ物を体験できます。小さい船なので、色々な場所に行けます。",
+      "translationZh": "另外，巡游小岛的旅行团也很受欢迎。可以停靠在不同的岛屿，体验那个岛的文化和美食。因为是小船，所以可以去很多地方。",
+      "translationEn": "Also, tours that visit small islands are popular. You can stop at various islands and experience the culture and food of that island. Since it's a small boat, you can go to many places.",
+      "id": "0c8ee2e8-caf7-4b92-9911-9c21cfe34c4f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "瀬戸内海クルーズは、色々な楽しみ方があります。次の旅行で、ぜひ試してみてください。",
+      "translationZh": "濑户内海游轮有各种各样的享受方式。下次旅行时，请一定要试试看。",
+      "translationEn": "There are various ways to enjoy a Seto Inland Sea cruise. Please try it on your next trip.",
+      "id": "3e71997b-e8aa-408f-9572-4a0ce8962e67",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "7892e360-8f47-4c86-92df-1c57a7d02246"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "この島はきれいです。",
+      "id": "a3797f6d-3541-491a-8268-fce417452c56"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "boat, ship",
+      "level": "n5n4",
+      "exampleSentence": "船に乗ります。",
+      "id": "cacafb99-2502-467a-8bd7-1a445a2558ab"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "海の色がきれいです。いい景色です。",
+      "id": "5a85bee8-f526-43d9-b8d0-d8bb78a41b7e"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気です。",
+      "id": "760a3109-8b7a-40be-b041-fde5a8ad5f1d"
+    },
+    {
+      "word": "夜",
+      "reading": "よる",
+      "meaningZh": "夜晚",
+      "meaningEn": "night",
+      "level": "n5n4",
+      "exampleSentence": "夜、星が見えます。",
+      "id": "cee650f7-7604-4e31-a3d6-8d66a33dacce"
+    },
+    {
+      "word": "食事",
+      "reading": "しょくじ",
+      "meaningZh": "用餐，饭",
+      "meaningEn": "meal",
+      "level": "n5n4",
+      "exampleSentence": "おいしい食事でした。",
+      "id": "2ab86081-41d9-403b-91f9-36be2fa1c9c2"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "日本の文化を体験しました。",
+      "id": "ec5a4723-0bcb-4667-9b51-f67dfe10b2b2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "夜のクルーズでは、何が見えますか。",
+      "options": [
+        "昼間の景色",
+        "たくさんの船",
+        "静かな海と星",
+        "大きい島"
+      ],
+      "correctIndex": 2,
+      "explanation": "夜の海は静かで、星がきれいに見えます。",
+      "id": "2b86350b-01b2-4697-b8c0-4431080d5f41"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-05-16e5f7aacc",
+  "publishedAt": "2026-06-05T06:00:00+09:00"
+}

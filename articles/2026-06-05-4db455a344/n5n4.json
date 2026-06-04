@@ -1,0 +1,114 @@
+{
+  "title": "アニメの会社、変わってきた",
+  "summary": "昔、アニメを作る会社は忙しすぎました。でも、今は少しずつ良くなっています。みんなが楽しく働けるように、会社が頑張っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、アニメを作る会社はとても忙しかったです。アニメを作る人は、夜遅くまで働いていました。これは、アニメが好きな人にとって、つらいことでした。",
+      "translationZh": "以前，制作动画的公司非常忙碌。制作动画的人经常工作到深夜。这对喜欢动画的人来说，是很辛苦的事情。",
+      "translationEn": "In the past, companies that made anime were very busy. People who made anime worked late into the night. This was difficult for people who loved anime.",
+      "id": "58b560bf-bff3-4f90-98ed-0c0ed6be2305",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、最近、少しずつ変わってきました。会社は、働く時間を短くしようとしています。そして、休みもしっかり取れるように、考えています。",
+      "translationZh": "但是，最近，情况一点点地在改变。公司正试图缩短工作时间。并且，也在考虑让大家能好好休息。",
+      "translationEn": "However, recently, things have started to change little by little. Companies are trying to shorten working hours. And they are thinking about making sure people can take proper breaks.",
+      "id": "a8cd033f-4997-484b-a95b-21c05d485e51",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメを作る人は、これからもアニメが好きで、楽しく働けるように、会社が努力しています。これは、とても良いことだと思います。",
+      "translationZh": "为了让制作动画的人今后也能喜欢动画并快乐地工作，公司正在努力。我认为这是一件非常好的事情。",
+      "translationEn": "Companies are making efforts so that people who make anime can continue to love anime and work happily. I think this is a very good thing.",
+      "id": "3e0bffc5-92d4-4776-83b4-03b1ba9c3cbe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "アニメ",
+      "reading": "あにめ",
+      "meaningZh": "动画",
+      "meaningEn": "animation, anime",
+      "level": "n5n4",
+      "exampleSentence": "私はアニメを見るのが好きです。",
+      "id": "982d7501-ffcf-409a-b9b2-5103094a5e89"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaningZh": "公司",
+      "meaningEn": "company",
+      "level": "n5n4",
+      "exampleSentence": "彼は新しい会社で働いています。",
+      "id": "d4e0a375-99ef-4fcc-ae51-ee1931bbef69"
+    },
+    {
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "meaningZh": "忙碌的",
+      "meaningEn": "busy",
+      "level": "n5n4",
+      "exampleSentence": "今日はとても忙しいです。",
+      "id": "844f083b-93ad-4d9c-9a97-8c6d97497a7f"
+    },
+    {
+      "word": "遅くまで",
+      "reading": "おそくまで",
+      "meaningZh": "到很晚",
+      "meaningEn": "until late",
+      "level": "n5n4",
+      "exampleSentence": "彼は遅くまで勉強しました。",
+      "id": "80c3ad7d-e36b-4f8e-a09d-8890afca0826"
+    },
+    {
+      "word": "変わる",
+      "reading": "かわる",
+      "meaningZh": "改变",
+      "meaningEn": "to change",
+      "level": "n5n4",
+      "exampleSentence": "状況が変わりました。",
+      "id": "9c665086-35f3-4294-b4f0-839e7fc63712"
+    },
+    {
+      "word": "働く",
+      "reading": "はたらく",
+      "meaningZh": "工作",
+      "meaningEn": "to work",
+      "level": "n5n4",
+      "exampleSentence": "毎日、一生懸命働いています。",
+      "id": "1c2fd0ed-6426-4671-91a4-42c0d4cfd95b"
+    },
+    {
+      "word": "努力",
+      "reading": "どりょく",
+      "meaningZh": "努力",
+      "meaningEn": "effort",
+      "level": "n3",
+      "exampleSentence": "合格のために努力しました。",
+      "id": "dc98d799-7e3e-40a7-828a-70679b39f596"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔、アニメの会社はどんな感じでしたか？",
+      "options": [
+        "みんな早く帰りました。",
+        "働く人は忙しくなかったです。",
+        "働く人は夜遅くまで働いていました。",
+        "会社は休みが多かったです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔、アニメを作る会社はとても忙しかったです。アニメを作る人は、夜遅くまで働いていました。",
+      "id": "2302650e-d4aa-4afa-9494-93f620689be8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-05-4db455a344",
+  "publishedAt": "2026-06-05T06:00:00+09:00"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "和食にヴィーガン？多様化する食の選択肢",
+  "summary": "近年、日本の伝統的な和食にもヴィーガン向けのメニューが増えています。これは、食の選択肢が広がり、より多くの人が食を楽しめるようになる素晴らしい変化です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本のレストランや家庭で「ヴィーガン」という言葉をよく聞くようになりました。ヴィーガンとは、肉や魚はもちろん、卵や乳製品も一切食べない人のことです。以前は、ヴィーガン向けの食事は限られていましたが、最近では和食の世界でもヴィーガン対応のメニューが広がりつつあります。",
+      "translationZh": "最近，在日本的餐厅和家庭中，“素食主义”这个词听到的机会变多了。素食主义者是指不仅不吃肉和鱼，连鸡蛋和奶制品也完全不吃的人。以前，适合素食主义者的餐点选择有限，但最近，日式料理领域也正在逐步推广适合素食主义者的菜单。",
+      "translationEn": "Recently, the term \"vegan\" has been heard more often in Japanese restaurants and homes. Vegans are people who eat absolutely no meat, fish, eggs, or dairy products. In the past, options for vegan meals were limited, but recently, vegan-friendly menus are gradually spreading in the world of Japanese cuisine.",
+      "id": "a929a24d-0c2e-4671-b291-2e8ee484e6ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司屋さんでは、魚の代わりに野菜や豆腐を使った「野菜寿司」を提供するところが増えています。また、出汁（だし）に魚や動物性のものを使わず、昆布や椎茸だけで作る「ヴィーガン出汁」を使ったうどんやお味噌汁も人気です。このように、工夫次第で伝統的な和食もヴィーガン仕様にすることができるのです。",
+      "translationZh": "例如，在寿司店，提供用蔬菜或豆腐代替鱼肉制作的“蔬菜寿司”的店家越来越多。此外，使用不用鱼或动物性食材，仅用海带和香菇制作的“素食高汤”制作的乌冬面和味噌汤也很受欢迎。像这样，只要稍加工夫，传统的日式料理也能做成适合素食主义者的样式。",
+      "translationEn": "For example, at sushi restaurants, more places are offering \"vegetable sushi\" made with vegetables and tofu instead of fish. Also, udon and miso soup made with \"vegan dashi,\" which uses only kelp and shiitake mushrooms without fish or animal products, are popular. In this way, with a little ingenuity, traditional Japanese cuisine can be adapted for vegans.",
+      "id": "3b2a6d2f-d782-4d5c-a98e-5f036e1c6750",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガンメニューが広がる背景には、健康志向の高まりや、環境問題への関心があります。食の選択肢が増えることは、色々な人がそれぞれの考え方やライフスタイルに合わせて、美味しい食事を楽しめるようになるということです。これからも、和食の新しい可能性が広がっていくのが楽しみですね。",
+      "translationZh": "素食菜单不断普及的背景是，人们对健康的关注度提高，以及对环境问题的关心。饮食选择的增加意味着，更多人可以根据各自的想法和生活方式享受到美味的食物。今后，日式料理新的可能性不断拓展，令人期待。",
+      "translationEn": "The background to the spread of vegan menus includes increasing health consciousness and concern for environmental issues. The expansion of food choices means that more people can enjoy delicious meals according to their own ideas and lifestyles. We look forward to seeing the new possibilities of Japanese cuisine continue to unfold.",
+      "id": "95b518e4-cba9-4771-b8dc-6997e98386c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ヴィーガン",
+      "reading": "vīgan",
+      "meaningZh": "素食主义者（不吃任何动物制品）",
+      "meaningEn": "Vegan (someone who eats no animal products)",
+      "level": "n3",
+      "exampleSentence": "彼女は健康のためにヴィーガンになった。",
+      "id": "92196fba-2757-4eac-b0a8-a1738fbef968"
+    },
+    {
+      "word": "乳製品",
+      "reading": "nyūseihin",
+      "meaningZh": "奶制品",
+      "meaningEn": "Dairy products",
+      "level": "n3",
+      "exampleSentence": "牛乳やチーズは乳製品です。",
+      "id": "dd4fd4b3-f95e-440e-acf7-4486d84e8875"
+    },
+    {
+      "word": "対応",
+      "reading": "taio",
+      "meaningZh": "对应，处理",
+      "meaningEn": "Response, dealing with, support",
+      "level": "n3",
+      "exampleSentence": "お店はヴィーガンに対応していますか。",
+      "id": "d739f234-9ffa-43bd-af22-6be83cfa6e6e"
+    },
+    {
+      "word": "提供",
+      "reading": "teikyō",
+      "meaningZh": "提供",
+      "meaningEn": "Offer, provide",
+      "level": "n3",
+      "exampleSentence": "新しいメニューを提供します。",
+      "id": "a3752062-5779-4586-88a5-8a1604cc6b65"
+    },
+    {
+      "word": "出汁",
+      "reading": "dashi",
+      "meaningZh": "高汤（日式料理的基础汤料）",
+      "meaningEn": "Dashi (Japanese soup stock)",
+      "level": "n3",
+      "exampleSentence": "この味噌汁は丁寧に出汁をとっています。",
+      "id": "8f188d59-11c8-424b-8f78-6458f697c5b8"
+    },
+    {
+      "word": "昆布",
+      "reading": "konbu",
+      "meaningZh": "海带",
+      "meaningEn": "Kelp",
+      "level": "n5n4",
+      "exampleSentence": "出汁には昆布がよく使われます。",
+      "id": "c5b70f19-5f27-419f-b07c-00f0588932aa"
+    },
+    {
+      "word": "椎茸",
+      "reading": "shītake",
+      "meaningZh": "香菇",
+      "meaningEn": "Shiitake mushroom",
+      "level": "n5n4",
+      "exampleSentence": "ステーキに椎茸を添えました。",
+      "id": "8173b26b-9d87-43e1-8c87-64069569eca0"
+    },
+    {
+      "word": "背景",
+      "reading": "haikei",
+      "meaningZh": "背景",
+      "meaningEn": "Background",
+      "level": "n3",
+      "exampleSentence": "この変化の背景には何があるのだろうか。",
+      "id": "e14297af-8b43-4d6a-8cba-3ea07f9d61e5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、和食の世界で広がっているのはどのようなメニューですか？",
+      "options": [
+        "魚介類を多く使ったメニュー",
+        "ヴィーガン向けのメニュー",
+        "肉料理中心のメニュー",
+        "伝統的な調理法のみのメニュー"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最近では和食の世界でもヴィーガン対応のメニューが広がりつつあります」と書かれています。",
+      "id": "e3fdfedb-9892-4f7d-816c-aed3a2e4311b"
+    },
+    {
+      "question": "ヴィーガンメニューが広がる背景として、本文で挙げられていることは何ですか？",
+      "options": [
+        "食料の価格が安くなったから",
+        "単に新しい料理が好きな人が増えたから",
+        "健康志向と環境問題への関心",
+        "SNSで話題になったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「ヴィーガンメニューが広がる背景には、健康志向の高まりや、環境問題への関心があります」と書かれています。",
+      "id": "3f679035-632d-4358-a2ac-c702a11eecd6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-05-0211ab5677",
+  "publishedAt": "2026-06-05T06:00:00+09:00"
+}
