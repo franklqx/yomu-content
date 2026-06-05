@@ -1,0 +1,131 @@
+{
+  "title": "美術館が新しくなった！",
+  "summary": "町の小さな美術館が新しくなりました。たくさんの人が訪れるようになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町に、小さな美術館があります。その美術館が、この度新しくなりました。建物もきれいです。展示（てんじ）も新しくなりました。",
+      "translationZh": "这个小镇上，有一座小小的美术馆。那座美术馆，最近焕然一新。建筑也很漂亮。展示品也更新了。",
+      "translationEn": "In this town, there is a small art museum. That museum has recently been renovated. The building is also beautiful. The exhibits have also been updated.",
+      "id": "98ea2af0-8d6c-420b-930f-2bd6ddbc0363",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "リニューアルの前は、あまり人が来ませんでした。でも、新しくなってから、たくさんの人が美術館に来ています。子供たちも、大人たちも、楽しそうです。",
+      "translationZh": "翻新之前，来的人不多。但是，翻新之后，很多人都来美术馆了。孩子们和大人，看起来都很开心。",
+      "translationEn": "Before the renovation, not many people came. But since it was renewed, many people are visiting the museum. Both children and adults seem to be enjoying it.",
+      "id": "69d738a7-c5d1-4172-b92c-4842b20973ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "美術館の周りの町も、元気になりました。おいしいお店や、楽しいお店が増えました。旅行（りょこう）で来る人も多くなりました。",
+      "translationZh": "美术馆周边的镇子也变得有活力了。好吃的店和有趣的店都增加了。来旅行的人也变多了。",
+      "translationEn": "The town around the museum has also become lively. Delicious shops and fun shops have increased. The number of tourists has also grown.",
+      "id": "738084e8-4185-440e-b345-f2f4e5a0829a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "美術館が新しくなったことは、町にとって、とても良いことです。これからも、この美術館が町のみんなに愛されるといいですね。",
+      "translationZh": "美术馆翻新这件事，对小镇来说是非常好的事情。今后，也希望这座美术馆能受到小镇所有人的喜爱。",
+      "translationEn": "The renovation of the art museum is a very good thing for the town. I hope this museum will continue to be loved by everyone in the town.",
+      "id": "14cfa782-b193-4ca0-b065-40b410f5a788",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meaningZh": "美术馆",
+      "meaningEn": "art museum",
+      "level": "n5n4",
+      "exampleSentence": "有名な美術館に行きました。",
+      "id": "15c0a2eb-802c-49e1-a109-7c3c51e48529"
+    },
+    {
+      "word": "新しくなる",
+      "reading": "あたらしくなる",
+      "meaningZh": "变新，更新",
+      "meaningEn": "to become new, to be renovated",
+      "level": "n5n4",
+      "exampleSentence": "この本は新しくなりました。",
+      "id": "aad2f1e6-a67c-4d65-8f4e-a20308520905"
+    },
+    {
+      "word": "展示",
+      "reading": "てんじ",
+      "meaningZh": "展览",
+      "meaningEn": "exhibition, exhibit",
+      "level": "n5n4",
+      "exampleSentence": "面白い展示がありました。",
+      "id": "4f14a1ab-890b-4135-ac70-3eac8673f073"
+    },
+    {
+      "word": "リニューアル",
+      "reading": "りにゅーある",
+      "meaningZh": "翻新，更新",
+      "meaningEn": "renewal, renovation",
+      "level": "n5n4",
+      "exampleSentence": "美術館はリニューアルしました。",
+      "id": "43061e3a-57ac-4d1a-9e7a-84a86a431cb5"
+    },
+    {
+      "word": "周り",
+      "reading": "まわり",
+      "meaningZh": "周围",
+      "meaningEn": "surroundings, around",
+      "level": "n5n4",
+      "exampleSentence": "駅の周りには店が多いです。",
+      "id": "c524a892-b615-409c-8312-0a7972eee1b3"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精神，活力",
+      "meaningEn": "energy, spirit, lively",
+      "level": "n5n4",
+      "exampleSentence": "町が元気になりました。",
+      "id": "e599ab7c-58fa-4319-84a8-90dd851a1bf2"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "人が増えました。",
+      "id": "7412c7ca-ccdb-4060-881b-e3c2beb27b13"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "友達と旅行に行きました。",
+      "id": "5dd9dcd1-e5bb-4daf-b9a5-a2ad805d704f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "美術館が新しくなって、どうなりましたか？",
+      "options": [
+        "人があまり来なくなりました。",
+        "町がおとなしくなりました。",
+        "たくさんの人が来るようになり、町も元気になりました。",
+        "展示が少なくなりました。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「新しくなってから、たくさんの人が美術館に来ています。美術館の周りの町も、元気になりました。」",
+      "id": "2ae67304-3e7d-4b11-9234-61639fc08d8e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-06-23601d2479",
+  "publishedAt": "2026-06-06T06:00:00+09:00"
+}

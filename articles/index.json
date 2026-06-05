@@ -1,7 +1,52 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-04T22:22:12.330600+00:00",
+  "generatedAt": "2026-06-05T22:16:19.094453+00:00",
   "articles": [
+    {
+      "slug": "2026-06-06-ai",
+      "publishedAt": "2026-06-06T06:00:00+09:00",
+      "imagePath": "articles/2026-06-06-ai/image.jpg",
+      "audioPaths": {
+        "n5n4": "articles/2026-06-06-ai/audio_n5n4.mp3",
+        "n3": "articles/2026-06-06-ai/audio_n3.mp3",
+        "n2n1": "articles/2026-06-06-ai/audio_n2n1.mp3"
+      },
+      "tiers": [
+        "n5n4",
+        "n3",
+        "n2n1"
+      ]
+    },
+    {
+      "slug": "2026-06-06-23601d2479",
+      "publishedAt": "2026-06-06T06:00:00+09:00",
+      "imagePath": "articles/2026-06-06-23601d2479/image.jpg",
+      "audioPaths": {
+        "n5n4": "articles/2026-06-06-23601d2479/audio_n5n4.mp3",
+        "n3": "articles/2026-06-06-23601d2479/audio_n3.mp3",
+        "n2n1": "articles/2026-06-06-23601d2479/audio_n2n1.mp3"
+      },
+      "tiers": [
+        "n5n4",
+        "n3",
+        "n2n1"
+      ]
+    },
+    {
+      "slug": "2026-06-06-064b73f043",
+      "publishedAt": "2026-06-06T06:00:00+09:00",
+      "imagePath": "articles/2026-06-06-064b73f043/image.jpg",
+      "audioPaths": {
+        "n5n4": "articles/2026-06-06-064b73f043/audio_n5n4.mp3",
+        "n3": "articles/2026-06-06-064b73f043/audio_n3.mp3",
+        "n2n1": "articles/2026-06-06-064b73f043/audio_n2n1.mp3"
+      },
+      "tiers": [
+        "n5n4",
+        "n3",
+        "n2n1"
+      ]
+    },
     {
       "slug": "2026-06-05-4db455a344",
       "publishedAt": "2026-06-05T06:00:00+09:00",
@@ -1300,36 +1345,6 @@
         "n5n4": "articles/2026-05-07-1ea247fc69/audio_n5n4.mp3",
         "n3": "articles/2026-05-07-1ea247fc69/audio_n3.mp3",
         "n2n1": "articles/2026-05-07-1ea247fc69/audio_n2n1.mp3"
-      },
-      "tiers": [
-        "n5n4",
-        "n3",
-        "n2n1"
-      ]
-    },
-    {
-      "slug": "2026-05-06-b",
-      "publishedAt": "2026-05-06T06:00:00+09:00",
-      "imagePath": "articles/2026-05-06-b/image.jpg",
-      "audioPaths": {
-        "n5n4": "articles/2026-05-06-b/audio_n5n4.mp3",
-        "n3": "articles/2026-05-06-b/audio_n3.mp3",
-        "n2n1": "articles/2026-05-06-b/audio_n2n1.mp3"
-      },
-      "tiers": [
-        "n5n4",
-        "n3",
-        "n2n1"
-      ]
-    },
-    {
-      "slug": "2026-05-06-0a63156c2b",
-      "publishedAt": "2026-05-06T06:00:00+09:00",
-      "imagePath": "articles/2026-05-06-0a63156c2b/image.jpg",
-      "audioPaths": {
-        "n5n4": "articles/2026-05-06-0a63156c2b/audio_n5n4.mp3",
-        "n3": "articles/2026-05-06-0a63156c2b/audio_n3.mp3",
-        "n2n1": "articles/2026-05-06-0a63156c2b/audio_n2n1.mp3"
       },
       "tiers": [
         "n5n4",

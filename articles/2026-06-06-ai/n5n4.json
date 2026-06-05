@@ -1,0 +1,131 @@
+{
+  "title": "AI研究を応援！学生向け助成金",
+  "summary": "このプログラムは、学生のAI研究を助けます。新しいアイデアを形にするチャンスです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、AI（人工知能）がとても人気です。たくさんの会社がAIを使っています。AIは、私たちの生活を便利にします。例えば、スマートフォンのアシスタントや、車の自動運転などです。",
+      "translationZh": "最近，AI（人工智能）非常受欢迎。很多公司都在使用AI。AI让我们的生活更方便。例如，智能手机的助手，以及汽车的自动驾驶等。",
+      "translationEn": "Recently, AI (Artificial Intelligence) is very popular. Many companies are using AI. AI makes our lives convenient. For example, smartphone assistants, and self-driving cars.",
+      "id": "b62267dc-f467-4992-972a-474dc983dae0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、学生さんがAIについてもっと勉強できるように、新しいプログラムができました。このプログラムは、学生さんのAI研究を助けるためのお金（助成金）を出します。学生さんは、自分のアイデアでAIを作ることができます。",
+      "translationZh": "因此，为了让学生们能更多地学习AI，一个新的项目诞生了。这个项目会提供帮助学生AI研究的资金（助学金）。学生们可以用自己的想法来创造AI。",
+      "translationEn": "Therefore, a new program has been created to help students study more about AI. This program provides money (grants) to support students' AI research. Students can create AI with their own ideas.",
+      "id": "b725878e-8d97-42e3-a5ab-60825795de7a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この助成金プログラムは、若い人たちの新しい考えを大切にします。AIの未来を作るのは、今の学生さんたちです。このチャンスを使って、素晴らしい研究をしてください。",
+      "translationZh": "这个助学金项目重视年轻人的新想法。创造AI的未来，正是现在的学生们。请利用这个机会，进行优秀的研究。",
+      "translationEn": "This grant program values the new ideas of young people. Today's students are the ones who will create the future of AI. Please use this chance to conduct excellent research.",
+      "id": "0a044d5b-3a12-425c-aedf-15539f4bdc7b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "興味がある学生さんは、プログラムのウェブサイトを見てください。応募方法や条件などが書いてあります。早めにチェックして、挑戦してみましょう。",
+      "translationZh": "感兴趣的学生们，请查看项目的网站。上面写有申请方法和条件等。请尽早查看，并尝试挑战一下。",
+      "translationEn": "Students who are interested, please check the program's website. It explains how to apply and the conditions. Check it early and try to challenge it.",
+      "id": "bc5313a5-7a28-4dce-a162-12a32a69846d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人工知能",
+      "reading": "じんこうちのう",
+      "meaningZh": "人工智能",
+      "meaningEn": "Artificial Intelligence",
+      "level": "n5n4",
+      "exampleSentence": "AIはたくさんのことを勉強します。",
+      "id": "e6d0859b-8ac6-4402-8880-5d09e61ebd26"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popular",
+      "level": "n5n4",
+      "exampleSentence": "このゲームは学生に人気です。",
+      "id": "36e2917c-5b76-4696-99f9-3cd6750bb948"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "インターネットはとても便利です。",
+      "id": "0078c839-8ad7-4578-9f90-22be7fe843a0"
+    },
+    {
+      "word": "プログラム",
+      "reading": "ぷろぐらむ",
+      "meaningZh": "项目，计划",
+      "meaningEn": "program",
+      "level": "n5n4",
+      "exampleSentence": "新しい学習プログラムが始まりました。",
+      "id": "4c423ada-36eb-4fd9-ad00-b4ab7a75aefd"
+    },
+    {
+      "word": "勉強",
+      "reading": "べんきょう",
+      "meaningZh": "学习",
+      "meaningEn": "study",
+      "level": "n5n4",
+      "exampleSentence": "毎日、日本語を勉強しています。",
+      "id": "d53e501d-2951-4cab-99f3-db4811559be4"
+    },
+    {
+      "word": "助成金",
+      "reading": "じょせいきん",
+      "meaningZh": "助学金，补助金",
+      "meaningEn": "grant, subsidy",
+      "level": "n3",
+      "exampleSentence": "研究のために助成金をもらいました。",
+      "id": "39b03551-8c60-4f18-9b8b-c6c50bb3e135"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaningZh": "未来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "未来は明るいと思います。",
+      "id": "88e4ba5f-bc43-4076-8317-a025f54b583e"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n3",
+      "exampleSentence": "新しい仕事に挑戦します。",
+      "id": "7c31be5b-e7b6-4ada-8691-35b270191783"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このプログラムは何のためにありますか？",
+      "options": [
+        "会社のAIを開発するため",
+        "学生のAI研究を助けるため",
+        "AIのゲームを作るため",
+        "AIの先生を育てるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "このプログラムは、学生さんのAI研究を助けるためのお金（助成金）を出します。",
+      "id": "2509e678-252d-4af0-b8bc-cf91e9a153f5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-06-ai",
+  "publishedAt": "2026-06-06T06:00:00+09:00"
+}

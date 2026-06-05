@@ -1,0 +1,122 @@
+{
+  "title": "若い人へ 地方の魅力",
+  "summary": "国は若い人の地方移住を応援しています。新しい制度が考えられています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、たくさんの町や村があります。しかし、最近、若い人は町に住むことが多いです。だから、町には人がたくさんいて、田舎には人が少なくなりました。",
+      "translationZh": "日本有很多城镇和村庄。但是，最近，年轻人多住在城市。因此，城市人很多，而乡下人变少了。",
+      "translationEn": "Japan has many towns and villages. However, recently, young people tend to live in cities. Because of this, cities have many people, and the countryside has fewer people.",
+      "id": "dce265ab-d583-47e1-ae37-d8d0c8e8fee9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "国は、若い人に地方で働くことや住むことを応援する制度を作りました。この制度は、お金の支援や、仕事を探す手伝いをします。これで、地方の町が元気になることが期待されています。",
+      "translationZh": "国家制定了支持年轻人到地方工作和居住的制度。这个制度提供金钱支持，并帮助找工作。这样，人们期待地方城镇能重新变得有活力。",
+      "translationEn": "The government created a system to support young people working and living in rural areas. This system provides financial support and helps with job searching. With this, it is expected that rural towns will become lively again.",
+      "id": "8bfd1775-00ab-476a-aca3-6da4b8bb346e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、この制度を見直す動きがあります。もっと多くの若い人が地方に行きたくなるように、支援の内容を新しくするかもしれません。例えば、新しい仕事を作るための工夫が考えられています。",
+      "translationZh": "最近，有审查这个制度的动向。为了让更多年轻人想去地方，可能会更新支援的内容。例如，正在考虑创造新工作的对策。",
+      "translationEn": "Recently, there is a move to review this system. To make more young people want to move to rural areas, the support might be updated. For example, ideas to create new jobs are being considered.",
+      "id": "bda222b8-dc9a-4e6a-8fb2-89d8d6389087",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方には、町とは違う魅力があります。きれいな自然や、おいしい食べ物、そして温かい人々がいます。制度が新しくなれば、もっと多くの若い人が地方の良さに気づくでしょう。",
+      "translationZh": "地方有与城市不同的魅力。有美丽的自然、美味的食物，以及热情的人们。如果制度更新了，会有更多的年轻人注意到地方的好处。",
+      "translationEn": "Rural areas have charms different from cities. There is beautiful nature, delicious food, and warm people. If the system is updated, more young people will notice the good aspects of rural areas.",
+      "id": "5897f45e-8e6a-4fe2-aad8-929b67e78df9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方；地区；乡下",
+      "meaningEn": "region; rural area; countryside",
+      "level": "n5n4",
+      "exampleSentence": "私は地方で育ちました。",
+      "id": "4ab7b956-0b58-4f36-9846-775bca83d8bc"
+    },
+    {
+      "word": "移住",
+      "reading": "いじゅう",
+      "meaningZh": "移居；迁移",
+      "meaningEn": "migration; moving to another place",
+      "level": "n5n4",
+      "exampleSentence": "彼は東京から大阪へ移住しました。",
+      "id": "9080c3c0-38c8-4b65-8279-bc54f3e4c018"
+    },
+    {
+      "word": "支援",
+      "reading": "しえん",
+      "meaningZh": "支援；支持；援助",
+      "meaningEn": "support; backing; assistance",
+      "level": "n5n4",
+      "exampleSentence": "国は小さな会社を支援しています。",
+      "id": "a2fb76ac-4662-4f9d-b573-1446325153d9"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度；体制",
+      "meaningEn": "system; institution",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度が始まりました。",
+      "id": "ec715a6e-7343-4674-b902-334e93709d0c"
+    },
+    {
+      "word": "見直す",
+      "reading": "みなおす",
+      "meaningZh": "重新检查；审查；重新考虑",
+      "meaningEn": "to review; to re-examine; to reconsider",
+      "level": "n5n4",
+      "exampleSentence": "計画を見直す必要があります。",
+      "id": "1d8f9e0a-667d-4eb9-bdd9-937d59f88ce2"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm; fascination; appeal",
+      "level": "n5n4",
+      "exampleSentence": "この町の魅力は、おいしい食べ物です。",
+      "id": "d0016de1-1fa4-4b68-a752-97bae32b1c85"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法；创造；改进",
+      "meaningEn": "device; invention; ingenuity; effort",
+      "level": "n5n4",
+      "exampleSentence": "新しい方法を工夫しました。",
+      "id": "55f2acfc-b582-4580-8ac5-c14417bd5c1a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "国は、若い人が地方に移住するのをどうやって応援していますか。",
+      "options": [
+        "お金をあげるだけです。",
+        "仕事を探すのを手伝います。",
+        "町に住むのを応援します。",
+        "古い制度を使います。"
+      ],
+      "correctIndex": 1,
+      "explanation": "国は、若い人に地方で働くことや住むことを応援する制度を作りました。この制度は、お金の支援や、仕事を探す手伝いをします。",
+      "id": "769fd429-db26-4795-a657-494afbbafa57"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-06-064b73f043",
+  "publishedAt": "2026-06-06T06:00:00+09:00"
+}
