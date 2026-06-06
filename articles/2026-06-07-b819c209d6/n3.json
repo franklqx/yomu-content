@@ -1,0 +1,126 @@
+{
+  "title": "人気アニメのコラボカフェ！新メニューと予約のコツ",
+  "summary": "話題のアニメとコラボしたカフェが期間限定でオープン！新しいメニューや、混雑を避けるための予約方法について紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気のアニメとカフェがコラボする企画がよく見られますね。特に、新しいシーズンが始まった作品や、劇場版が公開される作品のコラボカフェは、ファンにとって見逃せないイベントです。新しいメニューは、アニメの世界観を表現したものが多く、見た目も味も楽しめるのが魅力です。",
+      "translationZh": "最近，可以看到很多动漫和咖啡馆合作的企划。特别是，新季度开始的作品或剧场版即将上映的作品的合作咖啡馆，对于粉丝来说是不可错过的活动。新菜单很多都体现了动漫的世界观，兼具外观和口味，很有吸引力。",
+      "translationEn": "Recently, collaborations between popular anime and cafes are often seen. In particular, collaboration cafes for works whose new seasons have started or whose movies are being released are unmissable events for fans. The new menus often express the world of the anime, offering both visual and taste enjoyment.",
+      "id": "04116b21-47bf-427a-8d13-6b377e0a7f2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、こうしたコラボカフェは非常に人気があるため、予約が取れないことも少なくありません。特に週末や祝日は、開店前から行列ができることもあります。だから、行きたいと思ったら、早めに公式サイトをチェックして、予約方法を確認することが大切です。予約なしで入れる日があるかどうかも、事前に調べておくと安心ですよ。",
+      "translationZh": "然而，由于这类合作咖啡馆非常受欢迎，经常出现无法预约的情况。尤其是在周末和节假日，甚至在开店前就会排起长队。因此，如果想去，尽早查看官方网站并确认预约方法非常重要。提前了解是否有无需预约即可入场日，也能让人安心。",
+      "translationEn": "However, because these collaboration cafes are very popular, it's not uncommon to be unable to make a reservation. Especially on weekends and holidays, queues can form even before opening. Therefore, if you want to go, it's important to check the official website early and confirm the reservation method. It's also reassuring to check in advance if there are days you can enter without a reservation.",
+      "id": "9e263a3e-3ac6-4790-b3c7-73cefc6d744d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "中には、特定の時間帯しか予約ができないシステムや、抽選になる場合もあります。こういう場合は、諦めずに何度も挑戦したり、友達と協力して予約したりするのも一つの方法です。また、平日の昼間など、比較的空いている時間帯を狙って行くのも賢い戦略と言えるでしょう。せっかくのイベントですから、計画をしっかり立てて楽しみたいものですね。",
+      "translationZh": "有些地方，只能在特定时间段预约，或者需要抽签。这种情况下，不放弃并反复尝试，或者与朋友合作预约也是一种方法。另外，瞄准平日白天等相对空闲的时间段去，也可以说是明智的策略。毕竟是难得的活动，希望能好好计划后去享受。",
+      "translationEn": "Some places have systems where reservations are only possible during specific time slots, or require a lottery. In such cases, not giving up and trying multiple times, or cooperating with friends to make reservations, is one method. Also, aiming for relatively less crowded times, such as weekday afternoons, can be considered a smart strategy. After all, it's a special event, so we want to plan well and enjoy it.",
+      "id": "bcf1b18f-bc4a-4e18-baeb-4560878fdd40",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コラボ",
+      "reading": "こらぼ",
+      "meaningZh": "合作",
+      "meaningEn": "collaboration",
+      "level": "n3",
+      "exampleSentence": "人気アニメとカフェがコラボしました。",
+      "id": "64fd6bdc-18b3-4dd8-8687-fbdf93e5e627"
+    },
+    {
+      "word": "期間限定",
+      "reading": "きかんげんてい",
+      "meaningZh": "限定期间的",
+      "meaningEn": "limited time",
+      "level": "n3",
+      "exampleSentence": "このメニューは期間限定です。",
+      "id": "35f9f757-8173-428d-b598-883b4c44a3a8"
+    },
+    {
+      "word": "世界観",
+      "reading": "せかいかん",
+      "meaningZh": "世界观",
+      "meaningEn": "worldview",
+      "level": "n3",
+      "exampleSentence": "このゲームは独特な世界観を持っています。",
+      "id": "7884407f-721c-4866-9946-a8def7b9a5e0"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n3",
+      "exampleSentence": "レストランの予約をお願いします。",
+      "id": "55f30071-a566-483a-82ff-f0476f192335"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowded, congestion",
+      "level": "n3",
+      "exampleSentence": "週末は駅が大変混雑します。",
+      "id": "cc7c47b9-a04a-4018-8915-ea790ebf60a3"
+    },
+    {
+      "word": "公式サイト",
+      "reading": "こうしきサイト",
+      "meaningZh": "官方网站",
+      "meaningEn": "official website",
+      "level": "n3",
+      "exampleSentence": "イベントの詳細は公式サイトで確認してください。",
+      "id": "69185303-c5cd-469e-acfc-f4e3865e6e46"
+    },
+    {
+      "word": "抽選",
+      "reading": "ちゅうせん",
+      "meaningZh": "抽签",
+      "meaningEn": "lottery, drawing",
+      "level": "n2n1",
+      "exampleSentence": "コンサートのチケットが抽選で当たりました。",
+      "id": "364a7313-d793-4911-a60e-8b1c3da496f2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コラボカフェの人気が高い理由は何ですか？",
+      "options": [
+        "メニューが安いから",
+        "アニメの世界観を表現しているから",
+        "予約が簡単だから",
+        "誰でも入れるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「新しいメニューは、アニメの世界観を表現したものが多く、見た目も味も楽しめるのが魅力です。」と書かれています。",
+      "id": "0d6cbdef-2562-4de8-8816-0ad36bd9095d"
+    },
+    {
+      "question": "コラボカフェに行くために、最も大切なことは何ですか？",
+      "options": [
+        "友達を誘うこと",
+        "開店時間を確認すること",
+        "早めに公式サイトで予約方法を調べること",
+        "当日に直接行くこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「だから、行きたいと思ったら、早めに公式サイトをチェックして、予約方法を確認することが大切です。」と書かれています。",
+      "id": "a7c7ef89-1d21-4e80-8411-b3507f67ed9f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-07-b819c209d6",
+  "publishedAt": "2026-06-07T06:00:00+09:00"
+}

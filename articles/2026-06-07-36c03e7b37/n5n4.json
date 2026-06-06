@@ -1,0 +1,131 @@
+{
+  "title": "クリスマスマーケットのひろがり",
+  "summary": "冬になると、きれいなイルミネーションがきらめくクリスマスマーケットが世界中で開かれます。このマーケットはどのように広まったのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ドイツで始まったクリスマスマーケットは、今では世界中の国で見られます。冬の楽しみの一つになりました。",
+      "translationZh": "起源于德国的圣诞市集，如今在世界各国都能看到。它已成为冬季的乐趣之一。",
+      "translationEn": "Christmas markets, which started in Germany, can now be seen in countries all over the world. They have become one of the winter's joys.",
+      "id": "0ff35725-7e97-4ab0-b063-967da41819db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、クリスマスの飾りや食べ物を売る小さな市でした。でも、だんだん大きくなって、たくさんの人が集まるようになりました。",
+      "translationZh": "以前，它只是一个出售圣诞装饰品和食物的小市集。但是，它渐渐变大，吸引了很多人来聚集。",
+      "translationEn": "In the past, it was a small market selling Christmas decorations and food. But it gradually grew larger, and many people began to gather.",
+      "id": "ba2cccf0-91a0-465a-abb3-098d4eb7b91e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "きれいな光や音楽、おいしい食べ物があります。家族や友人と一緒に楽しむのにぴったりな場所です。だから、多くの人が好きになりました。",
+      "translationZh": "有美丽的灯光、音乐和美味的食物。这里是与家人和朋友一起享受的完美场所。因此，很多人都喜欢它。",
+      "translationEn": "There are beautiful lights, music, and delicious food. It is a perfect place to enjoy with family and friends. That's why many people have come to like it.",
+      "id": "e2f81fd0-62b4-4225-a256-5511cfd0359e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近では、日本でも大きなクリスマスマーケットがたくさん開かれています。冬の風物詩として、とても人気があります。",
+      "translationZh": "最近，在日本也举办了很多大型圣诞市集。作为冬季的特色，它们非常受欢迎。",
+      "translationEn": "Recently, many large Christmas markets are also held in Japan. They are very popular as a winter tradition.",
+      "id": "0b7b7be2-67b4-443a-bb59-d245edc50f32",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "扩散，传播",
+      "meaningEn": "to spread",
+      "level": "n5n4",
+      "exampleSentence": "そのニュースはすぐに世界に広がりました。",
+      "id": "fc279280-c214-4904-b73c-9eac6cbbcd8b"
+    },
+    {
+      "word": "始まる",
+      "reading": "はじまる",
+      "meaningZh": "开始",
+      "meaningEn": "to begin",
+      "level": "n5n4",
+      "exampleSentence": "パーティーは７時に始まります。",
+      "id": "76340256-56f3-43ac-90c6-074af573143b"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰品",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "部屋にきれいな飾りをつけました。",
+      "id": "b00b4e83-db24-4b66-a381-9a2be240dd95"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人が公園に集まりました。",
+      "id": "c498eb80-f583-42ba-a830-977d21350fb6"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaningZh": "音乐",
+      "meaningEn": "music",
+      "level": "n5n4",
+      "exampleSentence": "音楽を聴くのが好きです。",
+      "id": "9dfc0e13-8b9a-4a35-976e-799b5ab1ce09"
+    },
+    {
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meaningZh": "食物",
+      "meaningEn": "food",
+      "level": "n5n4",
+      "exampleSentence": "おいしい食べ物がいっぱいありました。",
+      "id": "fd2ff33e-3351-4ff7-8cdd-c57872209639"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この新しい店はとても人気があります。",
+      "id": "dd589e96-2c8d-4f54-a1b6-04708821b47a"
+    },
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "时令特色",
+      "meaningEn": "seasonal feature",
+      "level": "n3",
+      "exampleSentence": "桜は春の風物詩です。",
+      "id": "e24fb130-bcbd-45e0-9941-c509f5bb8320"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "クリスマスマーケットは、もともとどこの国で始まりましたか。",
+      "options": [
+        "日本",
+        "ドイツ",
+        "アメリカ",
+        "フランス"
+      ],
+      "correctIndex": 1,
+      "explanation": "ドイツで始まったクリスマスマーケットは、今では世界中の国で見られます。",
+      "id": "67977ba4-2502-46bd-bd6a-c834ada6baf3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-07-36c03e7b37",
+  "publishedAt": "2026-06-07T06:00:00+09:00"
+}

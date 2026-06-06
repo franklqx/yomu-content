@@ -1,0 +1,114 @@
+{
+  "title": "高校生、eスポーツで活躍！",
+  "summary": "最近、高校生がeスポーツの大会でとても活躍しています。彼らの技術はすごいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、eスポーツというゲームの大会が人気です。この大会には、たくさんの人が参加します。特に注目されているのは、高校生のプレイヤーたちです。彼らは若いですが、とても上手です。",
+      "translationZh": "最近，一种叫做电子竞技的游戏比赛很受欢迎。很多人参加这个比赛。特别引人注目的是高中生玩家们。他们虽然年轻，但是技术非常好。",
+      "translationEn": "Recently, esports tournaments, which are game competitions, are popular. Many people participate in these tournaments. High school players are particularly noteworthy. They are young but very skilled.",
+      "id": "d073dac2-0353-4ef7-939a-79156d4ce5d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "プロの選手のように、毎日ゲームの練習をしています。チームで協力して、難しいゲームもクリアします。高校生チームが大きな大会で優勝したこともありました。これは素晴らしいことです。",
+      "translationZh": "他们像职业选手一样，每天练习游戏。他们团队合作，克服困难的游戏。也有高中生队伍在大赛中获得冠军。这是一件很棒的事情。",
+      "translationEn": "Like professional players, they practice games every day. They cooperate as a team and clear difficult games. There were also cases where high school teams won major tournaments. This is wonderful.",
+      "id": "a0df78db-674f-4bc0-894b-9515fa8122ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "eスポーツは、ただのゲームではありません。戦略やチームワークが大切です。高校生たちは、この新しいスポーツで未来を作っています。これからも彼らの活躍が楽しみです。",
+      "translationZh": "电子竞技不仅仅是游戏。它需要策略和团队合作。高中生们正在通过这项新兴运动创造未来。我们很期待他们今后的表现。",
+      "translationEn": "Esports is not just a game. Strategy and teamwork are important. High school students are creating a future with this new sport. We look forward to their continued success.",
+      "id": "0ed44c3a-dd0d-46e7-b7a9-cb8f8676aab7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "彼は高校生です。",
+      "id": "1c1a5e00-f016-4cea-af30-6a6ff5926333"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，奋起",
+      "meaningEn": "active participation, success",
+      "level": "n5n4",
+      "exampleSentence": "選手たちの活躍を応援します。",
+      "id": "f271b45f-5ef8-4507-a8f3-3860a27d2708"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaningZh": "大赛，竞赛",
+      "meaningEn": "tournament, convention",
+      "level": "n5n4",
+      "exampleSentence": "大きな大会が始まります。",
+      "id": "6d8e82e4-f453-4834-9f56-e586c32d4167"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "大会に多くの方が参加しました。",
+      "id": "18c8cc93-b847-4b38-ab11-690ea8814092"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "skill, technique",
+      "level": "n3",
+      "exampleSentence": "彼のゲームの技術は高いです。",
+      "id": "5ce2941d-8208-4cd4-868e-44e7b3ac29eb"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "チームで協力して頑張りました。",
+      "id": "77dfb355-67f8-4046-8816-56e34b57c816"
+    },
+    {
+      "word": "戦略",
+      "reading": "せんりゃく",
+      "meaningZh": "战略",
+      "meaningEn": "strategy",
+      "level": "n3",
+      "exampleSentence": "ゲームの戦略を考えます。",
+      "id": "0e439638-52c7-438a-a6b9-7edb75fbb8f5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高校生プレイヤーは、eスポーツの大会でどのような活躍をしていますか。",
+      "options": [
+        "たくさん参加して、優勝しています。",
+        "毎日練習して、チームで協力しています。",
+        "新しいゲームを開発しています。",
+        "プロの選手と友達になっています。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「プロの選手のように、毎日ゲームの練習をしています。チームで協力して、難しいゲームもクリアします。」とあります。",
+      "id": "0d6e1a73-a8f5-4668-a022-b2262eba2373"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-07-e",
+  "publishedAt": "2026-06-07T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "人気カフェの新メニュー！",
+  "summary": "新しいアニメとのコラボカフェが始まりました。限定メニューはとてもおいしいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "新しいアニメと「カフェ・ポポ」がコラボしました。このカフェは、アニメのキャラクターをテーマにしています。新しいメニューが出ました。とても人気があります。",
+      "translationZh": "新动画和“Café Popo”进行了合作。这家咖啡馆是以动画角色为主题的。推出了新菜单。非常受欢迎。",
+      "translationEn": "A new anime has collaborated with \"Café Popo\". This cafe is themed around anime characters. New menu items have been released. They are very popular.",
+      "id": "4ce977fd-3013-4b26-8b56-5ef475e2809c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューには、キャラクターのイメージの飲み物があります。たとえば、「星空ソーダ」は青くてきれいです。食べ物もあります。「ヒーローサンド」はボリュームがあっておいしいです。",
+      "translationZh": "菜单上有角色形象的饮料。例如，“星空苏打”是蓝色而漂亮的。也有食物。“英雄三明治”分量很足，很好吃。",
+      "translationEn": "On the menu, there are drinks inspired by the characters. For example, the \"Starry Sky Soda\" is blue and beautiful. There are also food items. The \"Hero Sandwich\" is substantial and delicious.",
+      "id": "5c10170b-f4a5-4638-acf3-8b8304838220",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このカフェはとても人気なので、予約が必要です。特に週末は混んでいます。予約しないと、入れないかもしれません。ウェブサイトで予約できます。",
+      "translationZh": "这家咖啡馆非常受欢迎，所以需要预约。特别是周末人很多。如果不预约，可能进不去。可以在网站上预约。",
+      "translationEn": "This cafe is very popular, so reservations are necessary. It gets crowded, especially on weekends. If you don't reserve, you might not be able to get in. You can make a reservation on the website.",
+      "id": "32eda3a6-e10e-46a9-adae-0dce27689fba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コラボカフェの期間は短いので、早めに行ったほうがいいです。限定グッズも販売しています。アニメファンにはたまらない場所です。",
+      "translationZh": "合作咖啡馆的活动时间很短，所以最好早点去。还销售限定周边商品。对动漫迷来说，这里是无法抗拒的地方。",
+      "translationEn": "The collaboration period for the cafe is short, so it's better to go early. Limited edition merchandise is also on sale. It's an irresistible place for anime fans.",
+      "id": "23d3ce55-d26a-489c-8bf2-83736375ddda",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "c149dd35-d7a7-4bc4-8205-384f9f8c9f69"
+    },
+    {
+      "word": "最新",
+      "reading": "さいしん",
+      "meaningZh": "最新，最新款",
+      "meaningEn": "latest",
+      "level": "n5n4",
+      "exampleSentence": "最新の映画を見ました。",
+      "id": "a17dcbe0-4864-4051-b917-9287f67e704f"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定，限制",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "これは限定のグッズです。",
+      "id": "949458bd-d6c6-4ea3-9dc8-b68c638b0e26"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "807a3669-03ba-4593-a455-0650962527c0"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowded",
+      "level": "n5n4",
+      "exampleSentence": "駅はいつも混雑しています。",
+      "id": "888c3c11-4d6f-4e94-a444-db76ede78792"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaningZh": "期间",
+      "meaningEn": "period",
+      "level": "n5n4",
+      "exampleSentence": "このイベントは一週間です。",
+      "id": "5388149d-b105-46e3-97b2-7d90b47777bf"
+    },
+    {
+      "word": "販売",
+      "reading": "はんばい",
+      "meaningZh": "销售",
+      "meaningEn": "sale",
+      "level": "n5n4",
+      "exampleSentence": "新しい本を販売しています。",
+      "id": "e6828e01-fdcf-4545-ad1e-926dfe640d5b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このカフェに行くために、何が必要ですか。",
+      "options": [
+        "お金",
+        "時間",
+        "予約",
+        "友達"
+      ],
+      "correctIndex": 2,
+      "explanation": "「このカフェはとても人気なので、予約が必要です。」",
+      "id": "8242a602-3afe-40d4-87fe-c79e27a4b1be"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-07-b819c209d6",
+  "publishedAt": "2026-06-07T06:00:00+09:00"
+}
