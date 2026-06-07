@@ -1,0 +1,117 @@
+{
+  "title": "山間の秘湯で心と体を癒す湯治文化",
+  "summary": "山奥にある温泉地で、昔ながらの湯治文化を体験しませんか？自然に囲まれた静かな環境で、温泉にゆっくり浸かることで、日頃の疲れを癒しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の山間部には、昔から伝わる「湯治（とうじ）」という文化が残る温泉地が数多くあります。湯治とは、温泉地に長期滞在し、温泉水を飲んだり浴びたりすることで、病気や怪我の治療、健康増進を図ることを言います。最近では、温泉旅行として短期で訪れる人が多いですが、本来の湯治はもっと長い期間、温泉とともに生活するようなイメージです。",
+      "translationZh": "在日本的山区，保留着自古流传下来的“汤治”文化的温泉地有很多。汤治是指长期滞留在温泉地，通过饮用或浸泡温泉水来治疗疾病、伤痛，并促进健康。最近，作为温泉旅行短期访问的人很多，但原本的汤治是更长时间，如同与温泉共生般的生活。",
+      "translationEn": "In Japan's mountainous regions, there are many hot spring towns where the traditional 'Toji' (hot spring cure) culture remains. Toji refers to staying in a hot spring resort for an extended period, drinking or bathing in the hot spring water to treat illnesses and injuries, and promote health. Nowadays, many people visit for short-term hot spring trips, but the original concept of Toji was more about living alongside the hot springs for a longer duration.",
+      "id": "c1705394-d84e-4057-a0dd-b486d8882b63",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "山奥の温泉地を訪れると、都会の喧騒から離れて、静かな時間を過ごすことができます。周りには豊かな自然が広がり、鳥のさえずりや川のせせらぎを聞きながら、ゆっくりと温泉に浸かることができます。このような環境は、心身のリラックスにとても効果的だと言われています。また、湯治宿では、地元の食材を使った素朴な食事が提供されることも多く、これも旅の楽しみの一つです。",
+      "translationZh": "访问山区的温泉地，可以远离城市的喧嚣，度过宁静的时光。周围是大自然，一边听着鸟鸣和潺潺的流水声，一边悠闲地泡在温泉里。据说这样的环境对身心放松非常有效。而且，在汤治旅馆，通常会提供使用当地食材制作的朴素餐点，这也是旅途中的乐趣之一。",
+      "translationEn": "Visiting hot spring towns in the mountains allows you to escape the hustle and bustle of the city and spend peaceful time. Surrounded by abundant nature, you can relax in the hot springs while listening to the chirping of birds and the murmuring of rivers. Such an environment is said to be very effective for mental and physical relaxation. Additionally, Toji inns often serve simple meals made with local ingredients, which is also one of the joys of traveling.",
+      "id": "6cc16fdc-7b1e-4276-97e7-bedb0cdf73a4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "湯治文化は、単に温泉に入るだけでなく、その土地の風土や人々と触れ合うことも大切にしています。温泉宿の人々との温かい交流や、近隣の散策などを通して、その地域ならではの魅力を発見できるでしょう。もし機会があれば、ぜひ一度、山間の温泉地で心と体をゆっくり休める湯治を体験してみてください。",
+      "translationZh": "汤治文化不仅是泡温泉，也重视与当地的风土人情交流。通过与温泉旅馆人们的温暖交流，以及在附近散步等，您或许能发现该地区独特的魅力。如果有机会，请务必体验一次在山间温泉地让身心得到彻底休息的汤治。",
+      "translationEn": "Toji culture emphasizes not just bathing in hot springs, but also interacting with the local climate and people. Through warm exchanges with the innkeepers and strolls in the neighborhood, you can discover the unique charm of the region. If you have the chance, be sure to experience Toji at a mountain hot spring resort to let your mind and body rest.",
+      "id": "ba9b2908-ec15-4984-9cfc-a735f2b6a7fc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "利用温泉治疗疾病或增进健康。",
+      "meaningEn": "Hot spring cure; staying at a hot spring resort for therapeutic purposes.",
+      "level": "n3",
+      "exampleSentence": "風邪をひいたので、温泉で湯治をして体を温めたい。",
+      "id": "e3303aa4-d877-4870-a08a-e5f5974bdd97"
+    },
+    {
+      "word": "山間部",
+      "reading": "さんかんぶ",
+      "meaningZh": "山区，山岳地带。",
+      "meaningEn": "Mountainous area; mountain region.",
+      "level": "n3",
+      "exampleSentence": "この辺りは山間部なので、冬は雪が多くなります。",
+      "id": "54ee2f73-b1fe-4671-886b-e834290b0850"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧闹，嘈杂。",
+      "meaningEn": "Noise and bustle; clamor.",
+      "level": "n3",
+      "exampleSentence": "都会の喧騒を離れて、田舎で静かに暮らしたい。",
+      "id": "731bf25b-64ee-4ca0-8bf3-bb448939bf40"
+    },
+    {
+      "word": "さえずり",
+      "reading": "さえずり",
+      "meaningZh": "（鸟等）鸣叫，啼啭。",
+      "meaningEn": "Chirping (of birds); twittering.",
+      "level": "n3",
+      "exampleSentence": "朝、窓の外から鳥のさえずりが聞こえてきた。",
+      "id": "acdd08ba-0ce8-479f-88dd-ffd1ae955cd9"
+    },
+    {
+      "word": "せせらぎ",
+      "reading": "せせらぎ",
+      "meaningZh": "（小溪）潺潺的流水声。",
+      "meaningEn": "Murmuring (of a brook); babbling (of a stream).",
+      "level": "n3",
+      "exampleSentence": "川のせせらぎを聞いていると、心が落ち着く。",
+      "id": "bf40dfc8-cf7a-4387-8fd0-d7037f4f01b9"
+    },
+    {
+      "word": "風土",
+      "reading": "ふうど",
+      "meaningZh": "某地的自然环境和人文特色。",
+      "meaningEn": "Climate and culture of a region; local environment.",
+      "level": "n3",
+      "exampleSentence": "この地方の風土に合った作物が育てられている。",
+      "id": "1fe0b61e-9fc7-4355-9032-f7532002cb4f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「湯治」とは、どのような目的で行われるものですか？",
+      "options": [
+        "温泉地で美味しいものを食べるため",
+        "温泉地で長期滞在して健康を増進するため",
+        "都会の喧騒を避けるため",
+        "自然の中でリラックスするため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「温泉水を飲んだり浴びたりすることで、病気や怪我の治療、健康増進を図ることを言います。」とあります。",
+      "id": "0531d6c9-d15e-4402-9c90-85a1a0bff6cc"
+    },
+    {
+      "question": "山間の温泉地で過ごすことの魅力として、本文で述べられていることは何ですか？",
+      "options": [
+        "最新のショッピングモールが充実していること",
+        "温泉宿の人々との交流が少ないこと",
+        "豊かな自然の中で静かにリラックスできること",
+        "交通の便が非常に良いこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「周りには豊かな自然が広がり、鳥のさえずりや川のせせらぎを聞きながら、ゆっくりと温泉に浸かることができます。このような環境は、心身のリラックスにとても効果的だと言われています。」とあります。",
+      "id": "3f78b321-696c-4b28-8b6d-71c0a005593a"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-08-ab6c02c1a0",
+  "publishedAt": "2026-06-08T06:00:00+09:00"
+}

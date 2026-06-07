@@ -1,0 +1,123 @@
+{
+  "title": "山の温泉でリラックス",
+  "summary": "山にある温泉地へ行きませんか。昔からの温泉の入り方「湯治」を体験できます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本にはたくさんの温泉地があります。特に山の中にある温泉地はとてもきれいです。空気がおいしくて、心が休まります。",
+      "translationZh": "日本有很多温泉地。尤其是在山里的温泉地非常漂亮。空气清新，心灵也能得到休息。",
+      "translationEn": "Japan has many hot spring resorts. Especially those in the mountains are very beautiful. The air is delicious, and your mind can rest.",
+      "id": "0def6e32-2946-48a8-be70-1e6f82512c3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔から、温泉で病気を治す「湯治（とうじ）」という習慣がありました。温泉のお湯は体によいと言われています。湯治は、ただ温泉に入るだけでなく、ゆっくり時間をかけて体を良くすることです。",
+      "translationZh": "自古以来，就有通过温泉治病的“汤治”这种习惯。温泉水据说对身体有益。汤治不仅仅是泡温泉，而是要花费时间慢慢地让身体变好。",
+      "translationEn": "Since ancient times, there was a custom called 'toji' to cure illness with hot springs. The hot spring water is said to be good for the body. Toji is not just about soaking in hot springs, but about taking time to improve the body.",
+      "id": "61553c2b-1b41-444e-8089-b48ea5c96788",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今でも、湯治ができる温泉地があります。静かな山の中で、昔ながらの温泉宿に泊まることができます。おいしい地元の食べ物も楽しめます。温泉のお湯にゆっくり浸かって、日頃の疲れを癒しましょう。",
+      "translationZh": "即使是现在，也有可以进行汤治的温泉地。可以在宁静的山中，住进传统的温泉旅馆。还可以品尝美味的地方食物。请慢慢泡在温泉水中，治愈日常的疲劳吧。",
+      "translationEn": "Even now, there are hot spring resorts where you can do toji. You can stay at a traditional hot spring inn in the quiet mountains. You can also enjoy delicious local food. Soak slowly in the hot spring water and heal your daily fatigue.",
+      "id": "a29e32de-1a65-4193-b8b6-41206d622b77",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "温泉地",
+      "reading": "おんせんち",
+      "meaningZh": "温泉胜地",
+      "meaningEn": "hot spring resort",
+      "level": "n5n4",
+      "exampleSentence": "この温泉地は有名です。",
+      "id": "8277b6db-0b8c-4b59-9db4-454a8362fa0a"
+    },
+    {
+      "word": "山間",
+      "reading": "さんかん",
+      "meaningZh": "山间",
+      "meaningEn": "mountainous area",
+      "level": "n3",
+      "exampleSentence": "山間の景色は素晴らしいです。",
+      "id": "c6794c12-db55-4e81-9054-4ddc6bd8d075"
+    },
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "（用温泉）疗养",
+      "meaningEn": "hot spring cure/therapy",
+      "level": "n3",
+      "exampleSentence": "湯治のために温泉に行きました。",
+      "id": "aeb92cdc-0605-4885-879c-184683d5a195"
+    },
+    {
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaningZh": "习惯",
+      "meaningEn": "custom, habit",
+      "level": "n3",
+      "exampleSentence": "日本の面白い習慣があります。",
+      "id": "4be2cc44-8825-4b51-8741-9bb1b0771df8"
+    },
+    {
+      "word": "体",
+      "reading": "からだ",
+      "meaningZh": "身体",
+      "meaningEn": "body",
+      "level": "n5n4",
+      "exampleSentence": "体を休ませてください。",
+      "id": "a5161a8b-618e-4b4f-a580-d90f6cd44b8c"
+    },
+    {
+      "word": "昔ながら",
+      "reading": "むかしながら",
+      "meaningZh": "传统的，古老的",
+      "meaningEn": "traditional, old-fashioned",
+      "level": "n3",
+      "exampleSentence": "昔ながらのやり方で料理を作ります。",
+      "id": "5866484b-3e95-4e79-a15c-56b2dee8e991"
+    },
+    {
+      "word": "日頃",
+      "reading": "ひごろ",
+      "meaningZh": "平时，日常",
+      "meaningEn": "usually, daily",
+      "level": "n3",
+      "exampleSentence": "日頃の勉強が大切です。",
+      "id": "159390d9-48e2-47ff-8728-4720d9b2802f"
+    },
+    {
+      "word": "癒す",
+      "reading": "いやす",
+      "meaningZh": "治愈，减轻",
+      "meaningEn": "to heal, to cure",
+      "level": "n3",
+      "exampleSentence": "音楽は私の心を癒してくれます。",
+      "id": "e0780f5f-65e1-4e6a-a0b9-624c726e0894"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「湯治」とは何ですか。",
+      "options": [
+        "温泉地で速く泳ぐこと",
+        "温泉でゆっくり時間をかけて体を良くすること",
+        "温泉地で特別な料理を食べること",
+        "温泉地で友達と話すこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「湯治は、ただ温泉に入るだけでなく、ゆっくり時間をかけて体を良くすることです。」と書いてあります。",
+      "id": "f527a062-5ca8-4aac-9e6b-674818b8a12b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-08-ab6c02c1a0",
+  "publishedAt": "2026-06-08T06:00:00+09:00"
+}

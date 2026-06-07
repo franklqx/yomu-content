@@ -1,0 +1,131 @@
+{
+  "title": "朝市の魅力！新鮮な食べ物",
+  "summary": "朝市は、新鮮な食べ物がたくさんあります。観光客にもとても人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "朝市は、毎朝早く開きます。たくさんの人が市場に来ます。魚や野菜、果物など、いろいろな食べ物があります。",
+      "translationZh": "早市每天早上都很早开市。很多人会来市场。有鱼、蔬菜、水果等各种各样的食物。",
+      "translationEn": "Morning markets open early every morning. Many people come to the market. There are various foods like fish, vegetables, and fruits.",
+      "id": "fec3a7c9-634d-4f42-9f6a-46cd7d98d2f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朝市の食べ物はとても新鮮です。これは、生産者が直接売っているからです。だから、味もとてもいいです。観光客は、その新鮮な味を楽しみます。",
+      "translationZh": "早市里的食物非常新鲜。这是因为生产者直接在卖。所以味道也非常好。游客们很享受那种新鲜的味道。",
+      "translationEn": "The food at the morning market is very fresh. This is because producers sell directly. Therefore, the taste is also very good. Tourists enjoy that fresh taste.",
+      "id": "822fc4c7-8aec-42e3-bdc6-66d4b7464459",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔から、朝市は地域の人々の生活に大切でした。今でも、多くの朝市が続いています。観光客は、日本の文化や生活を感じることができます。",
+      "translationZh": "自古以来，早市对当地人们的生活就很重要。现在，许多早市仍在继续。游客们可以感受到日本的文化和生活。",
+      "translationEn": "Since ancient times, morning markets have been important to the lives of local people. Even now, many morning markets continue. Tourists can feel Japanese culture and life.",
+      "id": "aafc866b-bf69-4434-9c86-836b90580998",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし日本に来たら、ぜひ朝市に行ってみてください。美味しいものを食べて、楽しい思い出を作ってください。",
+      "translationZh": "如果您来日本，请一定去早市看看。请品尝美味的食物，留下开心的回忆。",
+      "translationEn": "If you come to Japan, please try visiting a morning market. Please eat delicious food and make happy memories.",
+      "id": "b7b560bf-de8c-4105-85f0-a45cfefea01a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "朝市",
+      "reading": "あさいち",
+      "meaningZh": "早市",
+      "meaningEn": "morning market",
+      "level": "n5n4",
+      "exampleSentence": "毎朝、朝市に行きます。",
+      "id": "f3c72b7d-cd1b-4948-834f-543aaaf34131"
+    },
+    {
+      "word": "新鮮",
+      "reading": "しんせん",
+      "meaningZh": "新鲜",
+      "meaningEn": "fresh",
+      "level": "n5n4",
+      "exampleSentence": "この魚はとても新鮮です。",
+      "id": "23733b2e-e111-41eb-a9d2-148e5ec90e25"
+    },
+    {
+      "word": "生産者",
+      "reading": "せいさんしゃ",
+      "meaningZh": "生产者，农户",
+      "meaningEn": "producer, farmer",
+      "level": "n3",
+      "exampleSentence": "生産者が直接、野菜を売っていました。",
+      "id": "ae0acdaa-13c3-4163-a018-118cb57ec9f8"
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaningZh": "直接",
+      "meaningEn": "directly",
+      "level": "n5n4",
+      "exampleSentence": "店員に直接聞きました。",
+      "id": "cb6c6a95-937e-4717-a813-4a28838254ba"
+    },
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaningZh": "味道",
+      "meaningEn": "taste",
+      "level": "n5n4",
+      "exampleSentence": "この料理の味は素晴らしいです。",
+      "id": "c05c85b5-6f4b-4d3f-9855-ab6c9c602ef0"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "游客",
+      "meaningEn": "tourist",
+      "level": "n5n4",
+      "exampleSentence": "多くの観光客が写真を撮っています。",
+      "id": "7907b644-91c2-4635-bd42-d2a556d631c7"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "in the past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔は、この辺に大きな木がありました。",
+      "id": "42f64d73-3a8e-4600-9608-63bfd1059ce3"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaningZh": "生活",
+      "meaningEn": "life, living",
+      "level": "n5n4",
+      "exampleSentence": "日本では、いろいろな生活習慣があります。",
+      "id": "36573fb8-0b09-44f1-afb2-8ac054491925"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "朝市の食べ物が新鮮なのはなぜですか。",
+      "options": [
+        "たくさんの人が買っているからです。",
+        "生産者が直接売っているからです。",
+        "市場がとても広いからです。",
+        "毎日開いているからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "朝市のは食べ物はとても新鮮です。これは、生産者が直接売っているからです。",
+      "id": "79f19db9-1cfc-4ec0-a924-1037933a39d3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-08-017298509c",
+  "publishedAt": "2026-06-08T06:00:00+09:00"
+}

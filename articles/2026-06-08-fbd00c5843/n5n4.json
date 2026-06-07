@@ -1,0 +1,123 @@
+{
+  "title": "アニメで変わった商店街",
+  "summary": "ある商店街がアニメの舞台になりました。そして、たくさんの人がその町を訪れるようになりました。商店街は元気になりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、この商店街はあまり人がいませんでした。お店も元気ではありませんでした。でも、アニメがこの町で始まりました。アニメのキャラクターが商店街を歩きました。それで、アニメのファンがたくさん町に来るようになりました。",
+      "translationZh": "以前，这条商店街人不多。店里也不景气。但是，一部动画在这座城镇开始了。动画角色走在了商店街上。因此，很多动画粉丝来到了这座城镇。",
+      "translationEn": "In the past, this shopping street didn't have many people. The shops were not doing well either. However, an anime started in this town. The anime characters walked through the shopping street. Because of that, many anime fans started coming to the town.",
+      "id": "c1b7251a-aee1-4be2-86fd-f235a9c6ab25",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人たちはアニメのために色々なことをしました。アニメのポスターを貼りました。アニメのキャラクターの旗を作りました。町をきれいにするために、みんなで掃除をしました。商店街はアニメの聖地（せいち）になりました。",
+      "translationZh": "镇上的人们为了动画做了各种各样的事情。贴上了动画海报。制作了动画角色的旗帜。为了打扫干净小镇，大家一起进行了清扫。商店街成了动画的圣地。",
+      "translationEn": "The townspeople did various things for the anime. They put up anime posters. They made flags with anime characters. To clean up the town, everyone cleaned together. The shopping street became an anime 'seichi' (sacred place).",
+      "id": "aa679e22-085e-4735-84d0-feb523c3d826",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今、商店街はとても賑やか（にぎやか）です。新しいお店もできました。観光客（かんこうきゃく）も増えました。商店街の人たちはとても喜んでいます。アニメのおかげで、町は元気になったのです。",
+      "translationZh": "现在，商店街非常热闹。新开的店也增加了。游客也变多了。商店街的人们非常高兴。多亏了动画，小镇变得有活力了。",
+      "translationEn": "Now, the shopping street is very lively. New shops have also opened. Tourists have also increased. The people in the shopping street are very happy. Thanks to the anime, the town has become energetic.",
+      "id": "6971277c-ed9b-441f-836d-e67c44587cc4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつも賑やかです。",
+      "id": "08c55ec7-0ccd-4132-920d-63fda4e2ec04"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，背景",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "この映画の舞台は京都です。",
+      "id": "d20351c7-7d99-42ba-adea-9261ab98fd17"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energetic, healthy, lively",
+      "level": "n5n4",
+      "exampleSentence": "最近、元気がないですね。",
+      "id": "d9495abc-666d-493a-888e-a1d07522fdb9"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な歌手のファンです。",
+      "id": "31152ea6-43e2-4bbc-ae84-0f42bd7ead0f"
+    },
+    {
+      "word": "貼る",
+      "reading": "はる",
+      "meaningZh": "粘贴",
+      "meaningEn": "to paste, to stick",
+      "level": "n5n4",
+      "exampleSentence": "壁にポスターを貼りました。",
+      "id": "4f345a6e-8e89-47b9-a645-2767984dd121"
+    },
+    {
+      "word": "掃除",
+      "reading": "そうじ",
+      "meaningZh": "打扫",
+      "meaningEn": "cleaning",
+      "level": "n5n4",
+      "exampleSentence": "毎日部屋の掃除をします。",
+      "id": "07b69e54-712d-4166-b415-a05292ef3a49"
+    },
+    {
+      "word": "聖地",
+      "reading": "せいち",
+      "meaningZh": "圣地",
+      "meaningEn": "sacred place, holy site",
+      "level": "n3",
+      "exampleSentence": "この場所はアニメの聖地として有名です。",
+      "id": "5b4bbb93-c5d2-4e54-bce9-2fa5977e8703"
+    },
+    {
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとても賑やかでした。",
+      "id": "0559741c-1116-4b0a-8872-566ce2cd677d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメが始まった後、商店街はどうなりましたか？",
+      "options": [
+        "お店がたくさん閉まりました。",
+        "町は静かになりました。",
+        "たくさんの人が町に来て、元気になりました。",
+        "アニメのファンは町に来なくなりました。"
+      ],
+      "correctIndex": 2,
+      "explanation": "アニメのファンがたくさん町に来るようになり、商店街は元気になりました。",
+      "id": "39035b34-e628-4365-b232-dec997fca987"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-08-fbd00c5843",
+  "publishedAt": "2026-06-08T06:00:00+09:00"
+}

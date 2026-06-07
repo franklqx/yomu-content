@@ -1,0 +1,126 @@
+{
+  "title": "産地直送の朝市、元気いっぱいの活気！",
+  "summary": "新鮮な魚や野菜が手に入る産地直送の朝市は、観光客に大人気です。地元の味覚と活気ある雰囲気を体験できます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、観光客の間で「産地直送の朝市」がとても人気を集めています。朝早くから開かれる市場には、獲れたての魚や採れたての野菜が並び、見ているだけでも楽しいです。生産者さんから直接話を聞けるのも、朝市ならではの魅力と言えるでしょう。",
+      "translationZh": "最近，“产地直送的早市”在游客中非常受欢迎。从清晨开始营业的市场里，摆满了刚捕捞的鱼和刚采摘的蔬菜，光是看着就很有趣。还能直接听到生产者讲述故事，这可以说是早市独有的魅力。",
+      "translationEn": "Recently, 'direct-from-producer morning markets' have become very popular among tourists. Markets that open early in the morning are lined with freshly caught fish and just-picked vegetables, making them enjoyable just to look at. Being able to hear directly from the producers is also a unique charm of morning markets.",
+      "id": "d5836bf9-19f1-42ba-b88b-492bfd8a8aa0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "市場の活気ある雰囲気は、訪れる人々を元気にさせます。威勢の良い声が飛び交い、人々が笑顔で交流している様子を見ると、こちらも自然と笑顔になってしまいます。新鮮な食材をその場で調理してくれるお店もあり、旅の思い出に残る美味しい体験ができますよ。",
+      "translationZh": "市场的活力氛围能够让到访的游客充满活力。看到充满干劲的声音此起彼伏，人们带着笑容交流的样子，自己也不禁会心一笑。还有一些店家会当场烹饪新鲜食材，可以获得令人难忘的美味旅行体验。",
+      "translationEn": "The lively atmosphere of the market energizes visitors. Seeing energetic voices flying around and people interacting with smiles naturally makes you smile too. Some stalls cook fresh ingredients on the spot, allowing you to have a delicious and memorable travel experience.",
+      "id": "1b64631e-1f81-4946-8695-08ecd6ccd0d3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朝市で買い物を楽しんだ後は、その新鮮な食材を使って、宿泊先のキッチンで料理を作ることもできます。地元の味を自分で再現できるのは、旅の素晴らしい思い出になります。なので、旅行の計画を立てる際は、ぜひお近くの朝市を調べてみてください。",
+      "translationZh": "在早市尽情购物之后，你还可以用那些新鲜的食材，在住宿的厨房里做饭。能够亲手复现当地的味道，会成为一次美好的旅行回忆。所以，在制定旅行计划时，请一定调查一下你附近有没有早市。",
+      "translationEn": "After enjoying shopping at a morning market, you can also use the fresh ingredients to cook in your accommodation's kitchen. Being able to recreate local flavors yourself makes for a wonderful travel memory. Therefore, when planning your trip, be sure to look up morning markets near your destination.",
+      "id": "c51cd077-54f7-4294-8ddf-6ce7a71a3d14",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "産地直送",
+      "reading": "さんちちょくそう",
+      "meaningZh": "产地直送（直接从产地发送）",
+      "meaningEn": "Direct from the place of origin",
+      "level": "n3",
+      "exampleSentence": "この野菜は産地直送なので、とても新鮮です。",
+      "id": "d82101b0-8028-441d-b791-6b0a6d69979c"
+    },
+    {
+      "word": "獲れたて",
+      "reading": "とれたて",
+      "meaningZh": "刚捕获的，刚采摘的",
+      "meaningEn": "Freshly caught/picked",
+      "level": "n3",
+      "exampleSentence": "獲れたての魚は刺身が一番美味しい。",
+      "id": "fb4c1075-885c-461d-87da-4e01b4ce4f70"
+    },
+    {
+      "word": "採れたて",
+      "reading": "とれたて",
+      "meaningZh": "刚采摘的",
+      "meaningEn": "Freshly picked",
+      "level": "n3",
+      "exampleSentence": "採れたてのトマトは甘くてジューシーだ。",
+      "id": "58076e70-cfae-4886-b3be-7cc747c5b3a1"
+    },
+    {
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaningZh": "排列，摆放",
+      "meaningEn": "To be lined up, to be arranged",
+      "level": "n5n4",
+      "exampleSentence": "市場には色々な果物が並んでいました。",
+      "id": "a6b6356c-2525-47c6-9215-72e534008abf"
+    },
+    {
+      "word": "威勢が良い",
+      "reading": "いせい が いい",
+      "meaningZh": "（说话）有气势，（声音）洪亮",
+      "meaningEn": "Energetic, spirited (voice)",
+      "level": "n3",
+      "exampleSentence": "魚屋さんの威勢の良い声が聞こえた。",
+      "id": "7f6b7fbb-cc64-494a-91e2-be8f5652ff26"
+    },
+    {
+      "word": "飛び交う",
+      "reading": "とびかう",
+      "meaningZh": "（声音、信息等）互相传来传去，此起彼伏",
+      "meaningEn": "To fly about, to be exchanged (voices, information, etc.)",
+      "level": "n3",
+      "exampleSentence": "市場では、活気のある声が飛び交っていた。",
+      "id": "ae172caa-5e1a-40d0-bbd0-3dfd2c9118be"
+    },
+    {
+      "word": "宿泊先",
+      "reading": "しゅくはくさき",
+      "meaningZh": "住宿处，下榻之处",
+      "meaningEn": "Accommodation",
+      "level": "n3",
+      "exampleSentence": "宿泊先に着いたら、すぐに荷物を置いた。",
+      "id": "6f0a3ccf-4647-496e-a97d-6195757b0f86"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "産地直送の朝市が観光客に人気な理由は何ですか？",
+      "options": [
+        "静かで落ち着いた雰囲気だから",
+        "生産者と直接話ができ、新鮮な食材や活気ある雰囲気を体験できるから",
+        "高級なレストランが多いから",
+        "特別な工芸品がたくさん売られているから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「生産者さんから直接話を聞けるのも、朝市ならではの魅力と言えるでしょう。」また、「市場の活気ある雰囲気は、訪れる人々を元気にさせます。」と書かれています。",
+      "id": "d83d7729-6744-413d-80cd-9b9f48d1424c"
+    },
+    {
+      "question": "朝市で買い物をして、その食材で何ができますか？",
+      "options": [
+        "その場で全部食べなければならない",
+        "お土産として友達に送る",
+        "宿泊先のキッチンで料理を作ることができる",
+        "市場の人に調理してもらうしかない"
+      ],
+      "correctIndex": 2,
+      "explanation": "「朝市で買い物を楽しんだ後は、その新鮮な食材を使って、宿泊先のキッチンで料理を作ることもできます。」と書かれています。",
+      "id": "4d0c703d-a5f2-4e07-a632-1fcb919b8757"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-08-017298509c",
+  "publishedAt": "2026-06-08T06:00:00+09:00"
+}
