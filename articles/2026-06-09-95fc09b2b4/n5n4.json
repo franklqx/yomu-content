@@ -1,0 +1,131 @@
+{
+  "title": "発酵食品って何？",
+  "summary": "最近、健康のために発酵食品を食べる人が増えています。発酵食品について知りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、健康（けんこう）への関心（かんしん）が高まっています。そのため、発酵食品（はっこうしょくひん）を食生活（しょくせいかつ）にとり入（い）れる人（ひと）が増（ふ）えています。",
+      "translationZh": "最近，大家对健康的关心越来越高。因此，把发酵食品加入到饮食生活中的人正在增加。",
+      "translationEn": "Recently, interest in health has been increasing. Because of this, more and more people are incorporating fermented foods into their diet.",
+      "id": "944bbc6e-5e8f-47a2-972e-1603868d8517",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品とは、微生物（びせいぶつ）の力（ちから）を使（つか）って作（つく）る食品（しょくひん）のことです。たとえば、みそ、しょうゆ、ヨーグルト、納豆（なっとう）などがそうです。これらは日本（にほん）で昔（むかし）から食（た）べられてきました。",
+      "translationZh": "发酵食品是指利用微生物的力量制作的食品。例如，味噌、酱油、酸奶、纳豆等都是。这些在日本自古以来就被食用。",
+      "translationEn": "Fermented foods are foods made using the power of microorganisms. For example, miso, soy sauce, yogurt, and natto are some of them. These have been eaten in Japan for a long time.",
+      "id": "6a14ceec-15bb-45c3-9870-d9ad99380b2d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、体（からだ）に良（よ）い菌（きん）がたくさん含（ふく）まれています。これらの菌は、私（わたし）たちの腸（ちょう）の調子（ちょうし）を整（ととの）えるのを助（たす）けてくれます。だから、健康（けんこう）に良（よ）いと言（い）われているのです。",
+      "translationZh": "发酵食品中含有许多对身体有益的菌。这些菌有助于调节我们肠道的健康。所以，它们被说成是对健康有益的。",
+      "translationEn": "Fermented foods contain many beneficial bacteria for the body. These bacteria help to regulate the condition of our intestines. That's why they are said to be good for health.",
+      "id": "1495c84d-358a-43f3-bcb9-c87d04049189",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今日（きょう）から、あなたも発酵食品を食（た）べてみませんか。毎日の食卓（しょくたく）が、もっと豊（ゆた）かになるかもしれませんよ。",
+      "translationZh": "从今天开始，你也要不要尝试吃发酵食品呢？或许你的餐桌会变得更加丰富。",
+      "translationEn": "Why don't you try eating fermented foods starting today? Your daily meals might become even richer.",
+      "id": "b3af6898-6356-473f-b95a-80817f6bb4fb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日（まいにち）歩（ある）いています。",
+      "id": "d6900a2c-2d85-4d2d-8189-ea9b55ca67c5"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaningZh": "关心，兴趣",
+      "meaningEn": "interest",
+      "level": "n5n4",
+      "exampleSentence": "この本（ほん）にとても関心があります。",
+      "id": "8142ee5a-ae95-4c46-800f-1f268d427bae"
+    },
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n5n4",
+      "exampleSentence": "みそは日本（にほん）の代表的（だいひょうてき）な発酵食品です。",
+      "id": "85ab1c3c-18d4-4821-891d-494832a3895a"
+    },
+    {
+      "word": "微生物",
+      "reading": "びせいぶつ",
+      "meaningZh": "微生物",
+      "meaningEn": "microorganism",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "74e71edd-4d5b-4c6d-8f31-630cd7c634e0"
+    },
+    {
+      "word": "食品",
+      "reading": "しょくひん",
+      "meaningZh": "食品",
+      "meaningEn": "food",
+      "level": "n5n4",
+      "exampleSentence": "この食品は安全（あんぜん）です。",
+      "id": "e93a4889-2297-4109-a83f-914976311183"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "in the past",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町（まち）はとても静（しず）かでした。",
+      "id": "3023c27b-1214-48f8-8cd0-d8b3a2e84c04"
+    },
+    {
+      "word": "腸",
+      "reading": "ちょう",
+      "meaningZh": "肠",
+      "meaningEn": "intestine",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "c90c9500-a16f-4f2e-850d-de8b7e40e551"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状态，情况",
+      "meaningEn": "condition",
+      "level": "n5n4",
+      "exampleSentence": "体（からだ）の調子が悪（わる）いです。",
+      "id": "5ad0df99-41ce-4c6f-802c-38e09e698280"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ最近、発酵食品を食べる人が増えていますか？",
+      "options": [
+        "おいしいから",
+        "安（やす）いから",
+        "健康（けんこう）への関心（かんしん）が高（たか）まったからです",
+        "種類（しゅるい）がたくさんあるからです"
+      ],
+      "correctIndex": 2,
+      "explanation": "文章（ぶんしょう）には「健康への関心が高まっています。そのため、発酵食品を食生活にとり入れる人が増えています。」と書（か）いてあります。",
+      "id": "9e667eb3-3327-4c16-9d30-e4e73f6875f5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-09-95fc09b2b4",
+  "publishedAt": "2026-06-09T06:00:00+09:00"
+}

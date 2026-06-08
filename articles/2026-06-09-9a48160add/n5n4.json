@@ -1,0 +1,122 @@
+{
+  "title": "都会から日帰り絶景旅",
+  "summary": "都会の近くにも、素晴らしい景色を楽しめる場所があります。週末に気軽に行ける日帰り旅行をご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東京や大阪のような大きな町に住んでいると、自然が遠いと感じることがあります。しかし、少し足を延ばせば、素晴らしい景色が見える場所がたくさんあります。日帰り旅行は、忙しい毎日から少し離れてリフレッシュするのにぴったりです。",
+      "translationZh": "住在东京或大阪这样的大城市，有时会觉得大自然很遥远。但是，只要稍微走远一点，就有许多可以看到绝美景色 M 的地方。一日游非常适合暂时远离忙碌的日常生活，放松身心。",
+      "translationEn": "When you live in big cities like Tokyo or Osaka, nature can feel far away. However, if you go a little further, there are many places where you can see wonderful scenery. A day trip is perfect for taking a break from busy daily life and refreshing yourself.",
+      "id": "218df74c-cc20-4526-ad2f-4ed0aef4d221",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、東京から箱根へ行くことができます。箱根は山と湖があって、とてもきれいです。美術館もたくさんあります。電車で約1時間半で行けるので、日帰りでも十分楽しめます。",
+      "translationZh": "例如，可以从东京去箱根。箱根有山有湖，非常漂亮。美术馆也很多。坐电车大约一个半小时就能到，所以即使是一日游也能玩得很开心。",
+      "translationEn": "For example, you can go to Hakone from Tokyo. Hakone has mountains and a lake, and it is very beautiful. There are also many museums. You can get there by train in about 1.5 hours, so you can enjoy it even on a day trip.",
+      "id": "980b0e00-fb2b-463e-8086-b0531aea29b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、大阪から京都の嵐山へ行くのもおすすめです。嵐山には美しい竹林があります。川沿いを散歩するのも気持ちがいいです。ここも電車で1時間ぐらいなので、気軽に訪れることができます。",
+      "translationZh": "另外，也推荐从大阪去京都的岚山。岚山有美丽的竹林。沿着河边散步也很舒服。这里坐电车也大约需要1个小时，所以可以轻松前往。",
+      "translationEn": "Also, visiting Arashiyama in Kyoto from Osaka is recommended. Arashiyama has a beautiful bamboo forest. It also feels good to walk along the river. It takes about an hour by train from here too, so you can visit easily.",
+      "id": "7cc9b7b5-91c4-430f-9173-2e051ec14747",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都会の近くには、まだ知られていない素敵な場所があるかもしれません。今度の週末は、少し遠出して、美しい景色を探しに行きませんか。",
+      "translationZh": "大城市附近，可能还有许多不为人知的美丽地方。这个周末，要不要稍微走远一点，去寻找美丽的景色呢？",
+      "translationEn": "Near big cities, there might be many wonderful, still unknown places. This coming weekend, why not go a little further and look for beautiful scenery?",
+      "id": "d80e1a0b-001c-4f0a-bffa-0df8d8aa4acf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都会",
+      "reading": "とい",
+      "meaningZh": "都市，大城市",
+      "meaningEn": "city, big city",
+      "level": "n5n4",
+      "exampleSentence": "都会は人が多いです。",
+      "id": "a126355a-1db7-4b25-8d7b-cc78c8a7bb65"
+    },
+    {
+      "word": "日帰り",
+      "reading": "ひがえり",
+      "meaningZh": "当日往返",
+      "meaningEn": "day trip",
+      "level": "n5n4",
+      "exampleSentence": "週末に日帰りで富士山を見に行きました。",
+      "id": "67ae75a3-48ca-4543-b531-d62e0172ee34"
+    },
+    {
+      "word": "絶景",
+      "reading": "ぜっけい",
+      "meaningZh": "绝景，极美的景色",
+      "meaningEn": "superb view, magnificent scenery",
+      "level": "n3",
+      "exampleSentence": "この山の上からの絶景は忘れられません。",
+      "id": "f4b103c9-079d-4a82-965a-f926794670e8"
+    },
+    {
+      "word": "気軽",
+      "reading": "きがる",
+      "meaningZh": "轻松，随意",
+      "meaningEn": "carefree, light, easy",
+      "level": "n3",
+      "exampleSentence": "もっと気軽な気持ちで話してください。",
+      "id": "1938a4b7-877c-4ea4-a002-9050c2601fe1"
+    },
+    {
+      "word": "リフレッシュ",
+      "reading": "りふれっしゅ",
+      "meaningZh": "恢复活力，放松",
+      "meaningEn": "refresh",
+      "level": "n5n4",
+      "exampleSentence": "旅行でリフレッシュしました。",
+      "id": "3176cf61-b93b-473a-9343-59bc2819f7c3"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "海の景色はとてもきれいです。",
+      "id": "4d2c3c1d-5ab5-471d-9298-0c24d08046db"
+    },
+    {
+      "word": "竹林",
+      "reading": "ちくりん",
+      "meaningZh": "竹林",
+      "meaningEn": "bamboo grove",
+      "level": "n3",
+      "exampleSentence": "嵐山の竹林は有名です。",
+      "id": "89a46900-234a-435a-a133-30f3763d44ee"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、東京から箱根へは何分ぐらいで行けますか？",
+      "options": [
+        "約30分",
+        "約1時間",
+        "約1時間半",
+        "約2時間"
+      ],
+      "correctIndex": 2,
+      "explanation": "電車で約1時間半で行けるので、日帰りでも十分楽しめます。",
+      "id": "48b3590e-c814-4f12-a56d-a9844c6c36e0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-09-9a48160add",
+  "publishedAt": "2026-06-09T06:00:00+09:00"
+}

@@ -1,0 +1,117 @@
+{
+  "title": "発酵食品ブーム！健康的な食生活への注目",
+  "summary": "最近、発酵食品が注目されています。健康意識の高まりとともに、その魅力が再発見されているのです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、スーパーなどで「発酵食品」という言葉をよく見かけるようになりました。味噌や醤油、納豆などの伝統的な食品に加えて、ヨーグルトやキムチも人気を集めています。これは、健康への関心が高まっていることと関係があるようです。",
+      "translationZh": "最近，在超市等地，我们经常能看到“发酵食品”这个词。除了味噌、酱油、纳豆等传统食品外，酸奶和泡菜也越来越受欢迎。这似乎与人们健康意识的提高有关。",
+      "translationEn": "Recently, the term 'fermented foods' has become common in supermarkets and elsewhere. In addition to traditional foods like miso, soy sauce, and natto, yogurt and kimchi are also gaining popularity. This seems to be related to the growing interest in health.",
+      "id": "4a5d86eb-8ee5-4d19-87ac-a3a5f115e219",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、私たちの体に良い影響を与える微生物がたくさん含まれています。例えば、腸内環境を整える善玉菌は、消化を助けたり、免疫力を高めたりする効果があると言われています。そのため、毎日の食事に発酵食品を取り入れる人が増えているのです。",
+      "translationZh": "发酵食品中含有许多对我们的身体有益的微生物。例如，调节肠道环境的益生菌据说有助于消化和提高免疫力。因此，越来越多的人开始在日常饮食中加入发酵食品。",
+      "translationEn": "Fermented foods contain many microorganisms that have beneficial effects on our bodies. For instance, good bacteria that regulate the gut environment are said to aid digestion and boost immunity. Consequently, more and more people are incorporating fermented foods into their daily meals.",
+      "id": "a2c9a499-4b53-4d91-8961-560fa87bc43d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品のブームは、単に健康のためだけではありません。独特の風味や食感も、多くの人を魅了しています。新しい発酵食品を使ったレシピもたくさん紹介されており、料理の楽しみも広がっています。これからも、発酵食品の魅力はさらに注目されていくでしょう。",
+      "translationZh": "发酵食品的流行不仅仅是为了健康。其独特的风味和口感也吸引了许多人。介绍了许多使用新发酵食品的食谱，也拓展了烹饪的乐趣。今后，发酵食品的魅力还将继续受到关注。",
+      "translationEn": "The boom in fermented foods isn't solely for health reasons. Their unique flavors and textures also fascinate many people. Numerous recipes using new fermented foods are being introduced, expanding the joy of cooking. The appeal of fermented foods will likely continue to be recognized even more in the future.",
+      "id": "a08b52ca-f27d-48e2-a846-ddf832379dbf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "味噌は日本の代表的な発酵食品です。",
+      "id": "0fd06916-537a-443f-b6e0-d5a4cd9b142b"
+    },
+    {
+      "word": "健康意識",
+      "reading": "けんこういしき",
+      "meaningZh": "健康意识",
+      "meaningEn": "health consciousness",
+      "level": "n3",
+      "exampleSentence": "最近、健康意識が高まっています。",
+      "id": "032efbaf-c89d-49bd-9057-420e25e745f3"
+    },
+    {
+      "word": "腸内環境",
+      "reading": "ちょうないかんきょう",
+      "meaningZh": "肠道环境",
+      "meaningEn": "gut environment",
+      "level": "n3",
+      "exampleSentence": "腸内環境を整えることは大切です。",
+      "id": "22f8eb02-7490-44ff-8e4a-77767a3a4f11"
+    },
+    {
+      "word": "善玉菌",
+      "reading": "ぜんだまきん",
+      "meaningZh": "益生菌 (字面意思：好细菌)",
+      "meaningEn": "beneficial bacteria (probiotics)",
+      "level": "n3",
+      "exampleSentence": "善玉菌は私たちの体に良い働きをします。",
+      "id": "8f7262c6-b74f-49eb-bc63-5bca56617414"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaningZh": "免疫力",
+      "meaningEn": "immunity",
+      "level": "n3",
+      "exampleSentence": "発酵食品は免疫力を高めるのに役立ちます。",
+      "id": "907f5916-0bc5-43ff-b06a-bee3bccea444"
+    },
+    {
+      "word": "風味",
+      "reading": "ふうみ",
+      "meaningZh": "风味",
+      "meaningEn": "flavor, taste",
+      "level": "n3",
+      "exampleSentence": "この料理には独特の風味があります。",
+      "id": "d150e0dc-e1a7-4302-8d06-ecbced321f4b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ発酵食品が注目されているのですか。",
+      "options": [
+        "昔から食べられてきたからです。",
+        "新しい料理のレシピがたくさんあるからです。",
+        "健康への関心が高まっているからです。",
+        "スーパーで安く買えるからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「健康意識の高まりとともに、その魅力が再発見されているのです。」とあります。",
+      "id": "20487825-cc57-4e45-8a5a-ba136c5c3e0e"
+    },
+    {
+      "question": "発酵食品に含まれる善玉菌には、どのような効果があると言われていますか。",
+      "options": [
+        "体を冷やす効果",
+        "睡眠を助ける効果",
+        "消化を助け、免疫力を高める効果",
+        "新しい味覚を作る効果"
+      ],
+      "correctIndex": 2,
+      "explanation": "「腸内環境を整える善玉菌は、消化を助けたり、免疫力を高めたりする効果があると言われています。」とあります。",
+      "id": "de5bdb55-4875-4a5f-9c60-1fe04b9da496"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-09-95fc09b2b4",
+  "publishedAt": "2026-06-09T06:00:00+09:00"
+}

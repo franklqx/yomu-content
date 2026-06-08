@@ -1,0 +1,131 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガのクリエイターになりたいですか？新しい奨学金制度ができました。あなたの夢を応援します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガは世界中で人気があります。たくさんの若者がクリエイターになりたいと思っています。でも、勉強するにはお金が必要です。",
+      "translationZh": "动画和漫画在全世界都很受欢迎。许多年轻人想成为创作者。但是，学习需要钱。",
+      "translationEn": "Anime and manga are popular all over the world. Many young people want to become creators. But, studying costs money.",
+      "id": "869bde20-f9ab-4904-be99-6888c4407ccc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、新しい奨学金制度が始まりました。この制度は、クリエイターを目指す学生を助けます。特に、アニメやマンガの分野で頑張りたい人を応援します。",
+      "translationZh": "因此，一个新的奖学金制度开始了。这个制度帮助以创作者为目标的学生。特别是，它支持想在动画和漫画领域努力的人。",
+      "translationEn": "Therefore, a new scholarship system has started. This system helps students aiming to be creators. Especially, it supports people who want to work hard in the fields of anime and manga.",
+      "id": "c6e0be38-d359-4d9c-a083-1db0651197d3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募（おうぼ）は簡単です。学校の先生に相談してください。あなたの夢を叶えるために、この奨学金が役に立つかもしれません。",
+      "translationZh": "申请很简单。请咨询学校老师。为了实现你的梦想，这个奖学金可能很有用。",
+      "translationEn": "Applying is easy. Please consult your school teacher. This scholarship might be useful for making your dream come true.",
+      "id": "d9a8b0fb-ab77-4bf4-9cb4-08f566a5aeab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度について、もっと知りたいですか？学校のウェブサイトで詳しい情報を見ることができます。ぜひチェックしてください。",
+      "translationZh": "你想更多地了解这个制度吗？你可以在学校的网站上看到详细信息。请一定要看看。",
+      "translationEn": "Do you want to know more about this system? You can see detailed information on the school's website. Please check it out.",
+      "id": "e8d65d43-838b-42ec-bda3-a79d0fc9d553",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって大学へ行きました。",
+      "id": "25a3cd2f-2117-4265-9b4c-a93ed70fd962"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体系",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度について勉強しました。",
+      "id": "124a3a71-dbe3-46cb-b9e6-8a0c818fe44e"
+    },
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なクリエイターです。",
+      "id": "70f4f04f-0975-460c-91b2-5bf103a4cc9f"
+    },
+    {
+      "word": "目指す",
+      "reading": "めざす",
+      "meaningZh": "以…为目标，瞄准",
+      "meaningEn": "to aim for",
+      "level": "n5n4",
+      "exampleSentence": "医者を目指しています。",
+      "id": "583bca51-f23c-47ce-819e-b8f79284e751"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaningZh": "分野，领域",
+      "meaningEn": "field, area",
+      "level": "n3",
+      "exampleSentence": "科学の分野で働いています。",
+      "id": "b98a1df1-3fc4-461a-9b13-5fe900ebbfa8"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningZh": "申请，应征",
+      "meaningEn": "application",
+      "level": "n5n4",
+      "exampleSentence": "この仕事に応募したいです。",
+      "id": "75c30852-fe84-4161-b4d3-e72c3a44e62f"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaningZh": "商量，咨询",
+      "meaningEn": "consultation, discussion",
+      "level": "n5n4",
+      "exampleSentence": "先生に相談しました。",
+      "id": "ace3f028-8df7-4aa5-9984-e90d0bfc075d"
+    },
+    {
+      "word": "叶う",
+      "reading": "かなう",
+      "meaningZh": "实现（愿望等）",
+      "meaningEn": "to come true",
+      "level": "n3",
+      "exampleSentence": "夢が叶いました。",
+      "id": "5b862152-76ca-4aff-937e-ef80816159b2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どのような学生を助けますか？",
+      "options": [
+        "アニメやマンガのクリエイターになりたい学生",
+        "お金がたくさんある学生",
+        "外国へ行きたい学生",
+        "スポーツが上手な学生"
+      ],
+      "correctIndex": 0,
+      "explanation": "「この制度は、クリエイターを目指す学生を助けます。特に、アニメやマンガの分野で頑張りたい人を応援します。」",
+      "id": "6725bba3-9d69-4085-b44c-6a250b26385d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-09-f82db1818e",
+  "publishedAt": "2026-06-09T06:00:00+09:00"
+}
