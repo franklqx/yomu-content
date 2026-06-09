@@ -1,0 +1,114 @@
+{
+  "title": "北海道の雪まつり、ホテルは？",
+  "summary": "冬の北海道は雪まつりで有名です。たくさんの人が北海道に来ます。だから、ホテルの予約は早めにするのが大切です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "２月になると、北海道では雪まつりが開かれます。札幌市はとてもきれいです。大きな雪の像がたくさんあります。世界中からたくさんの人が見に来ます。だから、北海道はとてもにぎやかになります。",
+      "translationZh": "到了2月，北海道会举办雪祭。札幌市非常漂亮。有很多巨大的雪雕。来自世界各地的人们都来看。因此，北海道会非常热闹。",
+      "translationEn": "In February, the Snow Festival is held in Hokkaido. Sapporo city is very beautiful. There are many large snow sculptures. Many people come from all over the world to see it. Therefore, Hokkaido becomes very lively.",
+      "id": "244200f8-7bb7-4125-b6da-243771973de8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりの時期は、北海道のホテルがとても人気があります。特に札幌のホテルは、すぐにいっぱいになります。早めにホテルを予約しないと、泊まる場所がないかもしれません。値段も高くなることがあります。",
+      "translationZh": "雪祭期间，北海道的酒店非常受欢迎。特别是札幌的酒店，很快就会满员。如果不能早点预订酒店，可能会没有住的地方。价格也可能会变高。",
+      "translationEn": "During the Snow Festival season, hotels in Hokkaido are very popular. Especially hotels in Sapporo get full quickly. If you don't book a hotel early, you might not have a place to stay. Prices can also become high.",
+      "id": "7fac5847-bf16-4434-9597-b4494b8d4a18",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "だから、北海道の雪まつりに行きたい人は、旅行の計画を早く立てましょう。ホテルは、数ヶ月前に予約するのがおすすめです。飛行機のチケットも早めに買うといいでしょう。そうすれば、安心して旅行を楽しめます。",
+      "translationZh": "所以，想去北海道雪祭的人，请尽早制定旅行计划。建议提前几个月预订酒店。尽早购买机票也是个好主意。这样，您就可以安心地享受旅行了。",
+      "translationEn": "Therefore, people who want to go to the Hokkaido Snow Festival should make their travel plans early. It is recommended to book hotels several months in advance. It's also good to buy airplane tickets early. This way, you can enjoy your trip with peace of mind.",
+      "id": "a6bccfdf-3c3c-45b4-b112-d248dca3c966",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "雪まつり",
+      "reading": "ゆきまつり",
+      "meaningZh": "雪祭",
+      "meaningEn": "Snow Festival",
+      "level": "n5n4",
+      "exampleSentence": "来週、札幌の雪まつりに行きます。",
+      "id": "7b6b782b-41e1-49e7-b0b3-d48a57bb4fb3"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名的",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "この店はとても有名です。",
+      "id": "f08bc2e8-8359-4ab0-8bf8-066ffb307f9b"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaningZh": "时期",
+      "meaningEn": "period, season",
+      "level": "n5n4",
+      "exampleSentence": "この果物は、この時期が一番おいしいです。",
+      "id": "4d11bc13-eced-46d9-8fef-a0de55bf438d"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "あの歌手は学生に人気があります。",
+      "id": "74450ea8-2ce3-414d-9e9a-65819215b7f5"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "436c972c-d676-4863-9ec6-4016a8a422e8"
+    },
+    {
+      "word": "いっぱい",
+      "reading": "いっぱい",
+      "meaningZh": "满的",
+      "meaningEn": "full",
+      "level": "n5n4",
+      "exampleSentence": "電車はもうすぐ満員になります。",
+      "id": "244b6558-4ad4-4f01-a9a1-c075512b1c60"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "旅行の計画を立てます。",
+      "id": "ff734beb-7ae8-42cf-b758-c6f9ee890b8b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつりの時期、北海道のホテルはどうなりますか。",
+      "options": [
+        "安くなります。",
+        "予約が取りにくくなります。",
+        "あまり人が来ません。",
+        "ホテルは少なくなります。"
+      ],
+      "correctIndex": 1,
+      "explanation": "雪まつりの時期は、北海道のホテルがとても人気があります。特に札幌のホテルは、すぐにいっぱいになります。",
+      "id": "33f27c67-4262-4391-ada0-2ce43afd8cce"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-10-c3d486ff33",
+  "publishedAt": "2026-06-10T06:00:00+09:00"
+}

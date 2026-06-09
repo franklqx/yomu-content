@@ -1,0 +1,131 @@
+{
+  "title": "盆踊りの新しい楽しみ方",
+  "summary": "最近、盆踊りの音楽が新しくなりました。昔の音楽と違う、新しい盆踊りを楽しんでみませんか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏は盆踊りの季節です。盆踊りは日本の伝統的なお祭りです。たくさんの人が集まって、歌を歌って、踊ります。",
+      "translationZh": "夏天是盂兰盆舞的季节。盂兰盆舞是日本的传统节日。很多人聚集在一起，唱歌，跳舞。",
+      "translationEn": "Summer is the season for Bon Odori. Bon Odori is a traditional Japanese festival. Many people gather, sing songs, and dance.",
+      "id": "bbd1c234-06fd-4495-b25e-aa7cbd315193",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の盆踊りは、音楽が少し変わりました。昔ながらの音楽も良いですが、新しい音楽も人気です。テクノロジーを使った新しい音楽演出もあります。",
+      "translationZh": "今年的盂兰盆舞，音乐有些变化。虽然传统的音乐也很好，但是新的音乐也很受欢迎。也有使用科技的新音乐表演。",
+      "translationEn": "This year's Bon Odori, the music has changed a little. Traditional music is good, but new music is also popular. There are also new musical performances using technology.",
+      "id": "7e6c384b-4f37-4a67-8f88-e2eac4eb7750",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ライトや映像を使った演出です。踊っている人と一緒に、きれいな光や映像が動きます。見ているだけでも楽しいです。",
+      "translationZh": "例如，使用灯光和影像的表演。和跳舞的人一起，美丽的灯光和影像会动起来。光是看着也很有趣。",
+      "translationEn": "For example, there are performances using lights and video. Beautiful lights and images move with the dancers. It's fun just to watch.",
+      "id": "c9cc3275-f6db-4b40-88f5-7d388bb78e64",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい盆踊りは、若い人にも人気があるそうです。昔の盆踊りの良さを残しながら、新しい楽しみ方が広がっています。",
+      "translationZh": "据说新的盂兰盆舞在年轻人中也很受欢迎。在保留了盂兰盆舞的传统魅力的同时，新的享受方式正在扩展。",
+      "translationEn": "It is said that the new Bon Odori is also popular among young people. While preserving the goodness of the old Bon Odori, new ways to enjoy it are expanding.",
+      "id": "dd9d4852-7dff-405c-b079-cbb0ef2f1919",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "盆踊り",
+      "reading": "ぼんおどり",
+      "meaningZh": "盂兰盆舞",
+      "meaningEn": "Bon Odori (Japanese folk dance performed during Obon festival)",
+      "level": "n5n4",
+      "exampleSentence": "夏には盆踊りがあります。",
+      "id": "5811ec43-a1fe-445a-85dd-84770e3ad40c"
+    },
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "春は花がきれいな季節です。",
+      "id": "1082743e-50cd-4b54-84ff-c22c558a3341"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n5n4",
+      "exampleSentence": "これは伝統的な料理です。",
+      "id": "c9a51e83-fb19-4f3d-b5e1-a2cd056eb371"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "友達が私の家に集まります。",
+      "id": "2329c6a1-b55b-40ad-b20a-6336cf71add4"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌はとても人気があります。",
+      "id": "b4fb8802-944b-432e-b7c8-511df1ec233a"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaningZh": "音乐",
+      "meaningEn": "music",
+      "level": "n5n4",
+      "exampleSentence": "音楽を聴くのが好きです。",
+      "id": "8ecd04a8-f51d-457a-8d5d-a3dbdad1e5c2"
+    },
+    {
+      "word": "演出",
+      "reading": "えんしゅつ",
+      "meaningZh": "演出，表演",
+      "meaningEn": "performance, direction",
+      "level": "n3",
+      "exampleSentence": "今日の劇の演出は素晴らしかったです。",
+      "id": "9df7870c-a4bb-429b-ae40-506032c9749f"
+    },
+    {
+      "word": "映像",
+      "reading": "えいぞう",
+      "meaningZh": "影像，视频",
+      "meaningEn": "image, video",
+      "level": "n3",
+      "exampleSentence": "テレビで美しい映像を見ました。",
+      "id": "7789eec1-c68b-4c5c-8915-a70785aadd31"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の盆踊りの音楽はどうでしたか。",
+      "options": [
+        "昔と同じでした。",
+        "少し変わりました。",
+        "音楽がありませんでした。",
+        "とても静かでした。"
+      ],
+      "correctIndex": 1,
+      "explanation": "今年の盆踊りは、音楽が少し変わりました。",
+      "id": "cb1c93d6-2ef3-4516-8d61-6bcda4a9b5d8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-10-7d9cfd4a0d",
+  "publishedAt": "2026-06-10T06:00:00+09:00"
+}

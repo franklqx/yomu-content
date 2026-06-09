@@ -1,0 +1,138 @@
+{
+  "title": "雪まつり需要予約！北海道、宿泊難易度上昇",
+  "summary": "札幌雪まつり開催に伴い、北海道内の宿泊施設は予約困難な状況となっており、特に週末やイベント会場周辺では満室が続出しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "毎年2月初旬に開催される札幌雪まつりは、国内外から多くの観光客を惹きつける一大イベントです。しかし、その人気ぶりは、開催期間中の宿泊事情に大きな影響を与えています。特に、イベント会場である大通公園周辺や、すすきの、JR札幌駅周辺のホテルは、開催前から満室となるケースが多く見られます。旅行代理店や宿泊予約サイトによると、例年この時期は「予約が取れない」という声が聞かれるほど、宿泊難易度は非常に高いとのことです。",
+      "translationZh": "每年2月初旬举办的札幌雪祭，是吸引海内外众多游客的盛大活动。然而，其高人气对活动期间的住宿情况造成了巨大影响。特别是活动会场大通公园周边、薄野、JR札幌站周边的酒店，在活动开始前就经常出现满房的情况。据旅行社和住宿预订网站称，每年这个时候都能听到“订不到房间”的声音，住宿难度非常高。",
+      "translationEn": "The Sapporo Snow Festival, held annually in early February, is a major event that attracts a large number of tourists from both Japan and abroad. However, its popularity has a significant impact on accommodation availability during the festival period. Hotels, especially those around Odori Park, Susukino, and JR Sapporo Station, which are event venues, often become fully booked even before the festival begins. According to travel agencies and accommodation booking sites, this period is known for being extremely difficult for securing lodging, with many people reporting that they \"cannot get a reservation.\"",
+      "id": "ec211c21-f5f6-410c-862e-429224d49cc7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした宿泊需要の集中は、札幌市内に限った話ではありません。近隣の市町村や、新千歳空港からのアクセスが良い地域においても、連日満室の表示が目立つようになっています。遠方からの参加者にとっては、移動時間や費用の増加も懸念されるため、早めの計画が不可欠と言えるでしょう。また、宿泊施設側も、この期間の稼働率向上を見込める反面、人員確保や仕入れコストの増加といった課題に直面していると見られます。",
+      "translationZh": "这种住宿需求的集中并非仅限于札幌市内。在邻近市町村以及从新千岁机场交通便利的地区，也随处可见连日满房的标识。对于远道而来的参与者来说，出行时间和费用的增加也令人担忧，因此可以说道，提前规划是必不可少的。此外，住宿业者虽然能预见到这一期间入住率的提高，但似乎也面临着人员配备和进货成本增加等课题。",
+      "translationEn": "This concentration of accommodation demand is not limited to Sapporo city. In neighboring municipalities and areas with good access from New Chitose Airport, signs indicating full occupancy are noticeable daily. For participants traveling from afar, concerns about increased travel time and costs are also present, making early planning indispensable. Accommodation providers, while anticipating high occupancy rates during this period, are also seen to be facing challenges such as staffing shortages and rising procurement costs.",
+      "id": "b1f3e804-d02c-4b45-90d8-30bf19e54ab3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつり期間中の宿泊予約は、まさに「早期決戦」の様相を呈しています。特に団体旅行や家族旅行では、数ヶ月前からの予約が一般的です。個人の旅行者であっても、希望する条件での宿泊を確保するためには、半年前から予約状況をチェックし始める人も少なくありません。この傾向は今後も続くと予想され、旅行者は余裕を持ったスケジュール管理と、柔軟な宿泊先の検討が求められることになります。",
+      "translationZh": "雪祭期间的住宿预订呈现出“早期决战”的态势。特别是团体旅行和家庭旅行，提前数月预订已是常态。即使是个人旅行者，为了确保能以期望的条件入住，也有不少人会提前半年开始关注预订情况。这种趋势预计将持续下去，要求旅行者进行从容的时间管理，并灵活考虑住宿选择。",
+      "translationEn": "Accommodation bookings during the Snow Festival period are akin to an \"early bird battle.\" Especially for group and family tours, reservations made several months in advance are common. Even for individual travelers, many start checking booking availability six months ahead to secure lodging that meets their preferences. This trend is expected to continue, requiring travelers to manage their schedules with ample time and consider flexible accommodation options.",
+      "id": "badee8ca-cf39-49e9-aaba-e46bc996f53b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "惹きつける",
+      "reading": "ひきつける",
+      "meaningZh": "吸引；引起（注意、兴趣等）",
+      "meaningEn": "to attract; to draw in",
+      "level": "n2n1",
+      "exampleSentence": "その美しい景色は多くの人々を惹きつけた。",
+      "id": "77cb70b1-72e7-443b-94d6-ab1bbfa6e012"
+    },
+    {
+      "word": "宿泊事情",
+      "reading": "しゅくはくじじょう",
+      "meaningZh": "住宿情况；住宿安排",
+      "meaningEn": "accommodation situation; lodging circumstances",
+      "level": "n2n1",
+      "exampleSentence": "観光シーズンの宿泊事情について説明します。",
+      "id": "519ea338-4e39-48a6-8c4b-605955bbc2eb"
+    },
+    {
+      "word": "満室",
+      "reading": "まんしつ",
+      "meaningZh": "客满；满房",
+      "meaningEn": "fully occupied; no vacancies",
+      "level": "n3",
+      "exampleSentence": "週末はホテルが満室になることが多い。",
+      "id": "b19c1fd5-875a-418c-acf7-ffce4125fcbb"
+    },
+    {
+      "word": "宿泊難易度",
+      "reading": "しゅくはくなんど",
+      "meaningZh": "住宿难度",
+      "meaningEn": "difficulty of finding accommodation",
+      "level": "n2n1",
+      "exampleSentence": "この時期、京都の宿泊難易度は非常に高い。",
+      "id": "5bf6add1-df7d-457a-bd29-ab2d459846b4"
+    },
+    {
+      "word": "懸念",
+      "reading": "けねん",
+      "meaningZh": "担忧；担心",
+      "meaningEn": "concern; apprehension",
+      "level": "n2n1",
+      "exampleSentence": "将来に対する懸念を抱いている。",
+      "id": "8cbe0ff4-9ed2-4d19-b5bf-3b1701bef448"
+    },
+    {
+      "word": "稼働率",
+      "reading": "かどうりつ",
+      "meaningZh": "稼働率；出租率；入住率",
+      "meaningEn": "operation rate; utilization rate",
+      "level": "n2n1",
+      "exampleSentence": "ホテルの稼働率が大幅に向上した。",
+      "id": "022f22fa-e9e1-4598-a022-175c04ef4cbb"
+    },
+    {
+      "word": "様相",
+      "reading": "ようそう",
+      "meaningZh": "样子；情况；局面",
+      "meaningEn": "aspect; appearance; situation",
+      "level": "n2n1",
+      "exampleSentence": "事態は予断を許さない様相を呈している。",
+      "id": "a3419340-9a67-48a9-b588-9b82d98e7727"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "札幌雪まつり期間中の宿泊予約について、記事ではどのような状況が述べられていますか？",
+      "options": [
+        "予約は比較的容易で、直前でも空室が見つかることが多い。",
+        "イベント会場周辺では予約が取りにくいが、それ以外の地域は比較的余裕がある。",
+        "国内外から多くの観光客が訪れるため、特に週末や会場周辺では予約困難な状況が続いている。",
+        "宿泊施設側が稼働率低下に悩んでおり、割引キャンペーンが多く実施されている。"
+      ],
+      "correctIndex": 2,
+      "explanation": "記事の第一段落に「特に、イベント会場である大通公園周辺や、すすきの、JR札幌駅周辺のホテルは、開催前から満室となるケースが多く見られます。…宿泊難易度は非常に高いとのことです。」とあります。",
+      "id": "b5beb395-ef40-413a-ba80-82fb9a609bb2"
+    },
+    {
+      "question": "札幌市外でも宿泊予約が困難になる理由として、記事では何が挙げられていますか？",
+      "options": [
+        "札幌市内のホテルが全て満室になったため、近隣地域への予約が集中している。",
+        "新千歳空港の閉鎖により、代替宿泊施設として近隣地域が利用されている。",
+        "雪まつり期間中は、札幌市外の宿泊施設も観光客で混雑するため。",
+        "周辺地域では、雪まつりとは無関係の別の大きなイベントが同時開催されるため。"
+      ],
+      "correctIndex": 2,
+      "explanation": "第二段落に「近隣の市町村や、新千歳空港からのアクセスが良い地域においても、連日満室の表示が目立つようになっています。」とあり、これは札幌市内の混雑が周辺地域に波及していることを示唆しています。",
+      "id": "189c3865-09fd-4850-9908-8465b08bef1a"
+    },
+    {
+      "question": "雪まつり期間中の宿泊予約に関して、旅行者はどのような点に注意すべきだと記事は示唆していますか？",
+      "options": [
+        "直前割引を狙って、キャンセル待ちを有効活用すること。",
+        "宿泊施設の口コミを参考に、最低限の設備が整った場所を選ぶこと。",
+        "早めの計画を立て、余裕を持ったスケジュール管理と柔軟な宿泊先検討を行うこと。",
+        "旅行代理店に全てを任せ、プロの判断に委ねること。"
+      ],
+      "correctIndex": 2,
+      "explanation": "第三段落に「この傾向は今後も続くと予想され、旅行者は余裕を持ったスケジュール管理と、柔軟な宿泊先の検討が求められることになります。」と述べられています。",
+      "id": "685e1b83-2997-4f8f-83d7-5b46efee7d5c"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-10-c3d486ff33",
+  "publishedAt": "2026-06-10T06:00:00+09:00"
+}

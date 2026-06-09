@@ -1,0 +1,143 @@
+{
+  "title": "防災センサーネットワークで安全な暮らしを守る",
+  "summary": "災害から私たちを守るため、新しいセンサーネットワークが導入されています。この技術について学びましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、地震や台風などの自然災害が頻繁に発生しており、私たちの生活に大きな影響を与えています。そのため、地域の人々の安全を守るための新しい技術が注目されています。その一つが「防災向けセンサーネットワーク」です。",
+      "translationZh": "近年来，地震和台风等自然灾害频繁发生，对我们的生活造成了巨大影响。因此，旨在保护当地居民安全的新技术备受关注。其中之一就是“面向防灾的传感器网络”。",
+      "translationEn": "In recent years, natural disasters such as earthquakes and typhoons have occurred frequently, significantly impacting our lives. Therefore, new technologies to protect the safety of local residents are drawing attention. One of these is the \"disaster prevention sensor network.\"",
+      "id": "66d1508e-dcf2-4f45-8992-83930319ccf6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このネットワークは、たくさんの小さなセンサーを色々な場所に設置することによって成り立っています。これらのセンサーは、気温、湿度、風の強さ、雨量、そして地盤の揺れなどを常に監視しています。もし異常が見つかれば、すぐにその情報が中心となるシステムに送られます。",
+      "translationZh": "这个网络是通过在各种地方设置许多小型传感器而构成的。这些传感器持续监测气温、湿度、风力、雨量以及地面的震动等。一旦发现异常，信息就会立即被发送到中央系统。",
+      "translationEn": "This network is made up of many small sensors installed in various locations. These sensors constantly monitor temperature, humidity, wind strength, rainfall, and ground tremors. If any abnormality is detected, the information is immediately sent to a central system.",
+      "id": "5041578f-3505-439a-8be1-56cd6055a97e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "センサーからの情報が集まると、AI（人工知能）がそれを分析し、災害の危険度を正確に判断します。そして、危険が迫っている時には、地域住民や関係機関に迅速に警告を発することができるのです。これにより、避難の準備を早めたり、被害を最小限に抑えたりすることが期待されています。",
+      "translationZh": "当传感器收集到的信息汇集时，AI（人工智能）会对其进行分析，准确判断灾害的危险程度。然后，当危险临近时，就可以迅速向当地居民和相关机构发出警报。通过这种方式，人们期望能提前做好避难准备，并将损失降到最低。",
+      "translationEn": "Once the information from the sensors is gathered, AI (Artificial Intelligence) analyzes it to accurately assess the risk of disaster. Then, when danger is imminent, it can quickly issue warnings to local residents and relevant organizations. This is expected to allow for earlier evacuation preparations and minimize damage.",
+      "id": "4e932b42-cdf2-4eb7-bfc7-6ea6b3f07249",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "防災向けセンサーネットワークの導入は、まだ始まったばかりですが、将来的には私たちの安全で安心な生活を支える重要なインフラとなるでしょう。私たちが災害に備える上で、この技術の発展に注目していくことは大切です。",
+      "translationZh": "尽管“面向防灾的传感器网络”的引入才刚刚开始，但它将来有望成为支撑我们安全、安心生活的重要基础设施。为了应对灾害，关注这项技术的发展对我们来说很重要。",
+      "translationEn": "Although the introduction of disaster prevention sensor networks has just begun, it is expected to become an important infrastructure supporting our safe and secure lives in the future. It is important for us to pay attention to the development of this technology as we prepare for disasters.",
+      "id": "0886e980-26ab-46df-b281-905b4dc76806",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾难，灾害",
+      "meaningEn": "disaster",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "6a977d22-2f83-4bc1-954c-2c6d56ce2092"
+    },
+    {
+      "word": "頻繁に",
+      "reading": "ひんぱんに",
+      "meaningZh": "频繁地",
+      "meaningEn": "frequently",
+      "level": "n3",
+      "exampleSentence": "最近、雨が頻繁に降りますね。",
+      "id": "741ba7bb-57ae-4534-9edb-387e678a9a88"
+    },
+    {
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaningZh": "影响",
+      "meaningEn": "influence, effect",
+      "level": "n3",
+      "exampleSentence": "この新しい法律は経済に大きな影響を与えるだろう。",
+      "id": "a4e057fb-9629-46fa-b7a7-2125b5ece397"
+    },
+    {
+      "word": "監視",
+      "reading": "かんし",
+      "meaningZh": "监视，監視",
+      "meaningEn": "surveillance, monitoring",
+      "level": "n2n1",
+      "exampleSentence": "カメラで常に公園内を監視している。",
+      "id": "9cd10ee8-a677-46b8-9bec-508b2f1e225c"
+    },
+    {
+      "word": "異常",
+      "reading": "いじょう",
+      "meaningZh": "异常，反常",
+      "meaningEn": "abnormality, unusual",
+      "level": "n3",
+      "exampleSentence": "機械に何かの異常があるようだ。",
+      "id": "36a4501a-14e6-4e84-962f-db6865b965bf"
+    },
+    {
+      "word": "分析",
+      "reading": "ぶんせき",
+      "meaningZh": "分析",
+      "meaningEn": "analysis",
+      "level": "n2n1",
+      "exampleSentence": "専門家がデータを分析した。",
+      "id": "ac502713-ec15-4efb-b49f-e9ca496dc529"
+    },
+    {
+      "word": "迅速に",
+      "reading": "じんそくに",
+      "meaningZh": "迅速地，麻利地",
+      "meaningEn": "promptly, quickly",
+      "level": "n3",
+      "exampleSentence": "問題が発生したら、迅速に対応してください。",
+      "id": "060cfa98-d3c9-408b-98a5-837e82ab72c8"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "infrastructure",
+      "level": "n3",
+      "exampleSentence": "新しい道路は地域のインフラを改善する。",
+      "id": "ac29168e-9e41-41bc-82e4-b0ff3d6beb06"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "防災向けセンサーネットワークは何を監視していますか？",
+      "options": [
+        "住民の活動",
+        "地域の経済状況",
+        "気温、湿度、揺れなどの環境データ",
+        "交通量"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これらのセンサーは、気温、湿度、風の強さ、雨量、そして地盤の揺れなどを常に監視しています。」",
+      "id": "035985f4-8606-4036-a666-add878fd9367"
+    },
+    {
+      "question": "このネットワークが災害の危険度を判断するために、どのような技術が使われていますか？",
+      "options": [
+        "人間の経験",
+        "AI（人工知能）",
+        "気象予報士の直感",
+        "過去の記録のみ"
+      ],
+      "correctIndex": 1,
+      "explanation": "「センサーからの情報が集まると、AI（人工知能）がそれを分析し、災害の危険度を正確に判断します。」",
+      "id": "88118a44-5d30-47b1-b4a2-f5c60bfff8e6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-10-8b684e5014",
+  "publishedAt": "2026-06-10T06:00:00+09:00"
+}

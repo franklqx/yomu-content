@@ -1,0 +1,114 @@
+{
+  "title": "防災センサーネットワーク",
+  "summary": "町に新しいセンサーができました。これは災害を防ぐためのものです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、私たちの町に新しいシステムが導入されました。それは「防災センサーネットワーク」というものです。このネットワークは、町の中のいろいろな場所にセンサーをつけます。",
+      "translationZh": "最近，我们的城镇引入了一个新系统。它叫做“防灾传感器网络”。这个网络会在城镇的各个地方安装传感器。",
+      "translationEn": "Recently, a new system was introduced in our town. It is called the \"Disaster Prevention Sensor Network.\" This network installs sensors in various places around the town.",
+      "id": "25035040-d8f3-4ff1-9315-d04f7ee52740",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "センサーは、雨の量や川の水位などを調べます。もし、雨がたくさん降ったり、川の水がいっぱいになったりしたら、すぐに町の人に知らせます。これで、災害が起きる前に早く準備ができます。",
+      "translationZh": "传感器会检查雨量和河流水位等信息。如果下很多雨，或者河水变多，它会立刻通知镇上的人。这样，在灾害发生前就能提前做好准备。",
+      "translationEn": "Sensors check things like the amount of rain and river water levels. If it rains a lot or the river water gets too high, it quickly informs the townspeople. This allows for early preparation before a disaster strikes.",
+      "id": "775e5050-91fe-4929-80b0-58cbd8b80ba5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このシステムは、夜や人がいない時でも働きます。だから、もっと安全な町になります。町の人々が安心して生活できるために、この新しいシステムはとても大切です。",
+      "translationZh": "这个系统即使在晚上或没有人值守的时候也能工作。所以，我们的城镇会变得更安全。为了让镇上的人们能安心生活，这个新系统非常重要。",
+      "translationEn": "This system works even at night or when no one is around. Therefore, our town will become safer. This new system is very important for the townspeople to live with peace of mind.",
+      "id": "d56f9542-00a3-4a98-8e09-e9747135c2f8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaningZh": "城镇，街道",
+      "meaningEn": "town, street",
+      "level": "n5n4",
+      "exampleSentence": "この町はきれいです。",
+      "id": "1eea54de-f2a3-42b8-933d-84ea25d3e73c"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "引入，采用",
+      "meaningEn": "introduction, adoption",
+      "level": "n3",
+      "exampleSentence": "新しい技術を導入しました。",
+      "id": "49d0bc42-802f-4ce8-8127-ea31022dc4c0"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place, location",
+      "level": "n5n4",
+      "exampleSentence": "ここはいい場所です。",
+      "id": "fb36479f-abeb-4134-9360-8fc4dcdeca84"
+    },
+    {
+      "word": "量",
+      "reading": "りょう",
+      "meaningZh": "量，数量",
+      "meaningEn": "quantity, amount",
+      "level": "n3",
+      "exampleSentence": "水の量が足りません。",
+      "id": "db87d44e-82bf-4b84-b67a-b8f7ca92f249"
+    },
+    {
+      "word": "水位",
+      "reading": "すいい",
+      "meaningZh": "水位",
+      "meaningEn": "water level",
+      "level": "n3",
+      "exampleSentence": "川の水位が上がっています。",
+      "id": "2d73e35e-d9ff-4f2b-b09c-c143833bc5a3"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしました。",
+      "id": "bf57e584-57f3-4d73-9b6e-dd1cf541e887"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety, security",
+      "level": "n5n4",
+      "exampleSentence": "ここは安全な場所です。",
+      "id": "af3818f3-c946-4acc-b81b-8f05271b6397"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "防災センサーネットワークは何を調べますか。",
+      "options": [
+        "町の人口",
+        "雨の量や川の水位",
+        "町の建物の数",
+        "人々の天気予報"
+      ],
+      "correctIndex": 1,
+      "explanation": "センサーは、雨の量や川の水位などを調べます。",
+      "id": "4b1c5d59-5857-4807-a379-a91a3c91c8b2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-10-8b684e5014",
+  "publishedAt": "2026-06-10T06:00:00+09:00"
+}
