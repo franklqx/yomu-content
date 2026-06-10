@@ -1,0 +1,131 @@
+{
+  "title": "野球新シーズン！注目選手は？",
+  "summary": "プロ野球の新しいシーズンが始まります。今年はどんな選手が活躍するでしょうか。注目の選手を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンがもうすぐ始まります。ファンはとても楽しみにしています。今年は新しいスター選手がたくさん登場するかもしれません。",
+      "translationZh": "职业棒球新赛季即将开始。球迷们非常期待。今年可能会出现很多新星选手。",
+      "translationEn": "The new professional baseball season will start soon. Fans are very excited. Many new star players may appear this year.",
+      "id": "04431edb-0985-488d-b55d-b6506d4debbd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目したいのは、若手の選手です。彼らは昨年から実力をつけてきました。今年の試合で、もっとすごいプレーを見せてくれるでしょう。",
+      "translationZh": "特别值得关注的是年轻选手。他们从去年开始就积累了实力。在今年的比赛中，他们会展现出更精彩的比赛。",
+      "translationEn": "Especially noteworthy are the young players. They have been gaining strength since last year. They will show more amazing plays in this year's games.",
+      "id": "5dc90076-bb04-4e5f-adc2-9a82566944b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ベテラン選手も負けていません。経験豊富な彼らは、チームを引っ張っていくでしょう。ベテランの力強いプレーは、ファンを感動させます。",
+      "translationZh": "老将选手们也毫不示弱。经验丰富的他们将带领队伍前进。老将们有力的表现会感动球迷。",
+      "translationEn": "Veteran players are not losing either. Their experience will lead the team. The powerful plays of veterans will impress the fans.",
+      "id": "951173e1-188f-40bd-b6e8-d6a3b0aa9938",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年のシーズンは、どんなドラマが生まれるか楽しみです。新しいヒーローが誕生するかもしれません。みんなで応援しましょう。",
+      "translationZh": "我很期待今年赛季会诞生怎样的故事。可能会诞生新的英雄。让我们一起加油。",
+      "translationEn": "I look forward to seeing what kind of drama will unfold this season. A new hero might be born. Let's all cheer for them.",
+      "id": "e8525a21-0f24-47de-b1dc-42c1431f560e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "野球",
+      "reading": "やきゅう",
+      "meaningZh": "棒球",
+      "meaningEn": "baseball",
+      "level": "n5n4",
+      "exampleSentence": "野球は人気のスポーツです。",
+      "id": "a2e72d21-9069-46f4-900f-107e24f4a217"
+    },
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいシーズンが始まります。",
+      "id": "a6d4dd71-e526-47d0-8abb-c23f5a4d8e8a"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な野球選手です。",
+      "id": "e98f0a51-480b-4457-8020-2569487aad6c"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention",
+      "level": "n5n4",
+      "exampleSentence": "この選手に注目しましょう。",
+      "id": "bba898f5-0999-4655-a127-c289e912ec0b"
+    },
+    {
+      "word": "若手",
+      "reading": "わかて",
+      "meaningZh": "年轻人，新秀",
+      "meaningEn": "youngsters, new talent",
+      "level": "n5n4",
+      "exampleSentence": "若手の選手が活躍しています。",
+      "id": "7417a1a0-815b-4e49-8324-f01056674b75"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaningZh": "实力",
+      "meaningEn": "ability, skill",
+      "level": "n3",
+      "exampleSentence": "彼の実力は素晴らしいです。",
+      "id": "42ea0cce-5c4a-4a6c-b7c2-302bfceb1c0d"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将，经验丰富者",
+      "meaningEn": "veteran",
+      "level": "n5n4",
+      "exampleSentence": "ベテラン選手はチームのリーダーです。",
+      "id": "06438dd0-bb0e-41a8-986c-06d212805e9e"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "彼はたくさんの経験があります。",
+      "id": "3c3aae19-fb58-4ece-886e-e9ce12ea038f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事では、誰に注目すると言っていますか？",
+      "options": [
+        "ベテラン選手だけ",
+        "若手とベテラン選手",
+        "新しい監督",
+        "外国人選手"
+      ],
+      "correctIndex": 1,
+      "explanation": "「特に注目したいのは、若手の選手です。」と「ベテラン選手も負けていません。」という部分から、若手とベテラン選手の両方に注目していることがわかります。",
+      "id": "3141dd0d-02ca-42f6-b7b4-feb088c24e02"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-11-472632a31a",
+  "publishedAt": "2026-06-11T06:00:00+09:00"
+}

@@ -1,0 +1,147 @@
+{
+  "title": "プロ野球開幕！新星とベテラン、注目の顔ぶれ",
+  "summary": "プロ野球新シーズンが開幕し、若手注目選手とベテランの活躍に期待が集まっています。各球団の戦略と選手のパフォーマンスが注目されます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球のペナントレースが幕を開けた。今シーズンは、各球団から次世代を担う若手選手の台頭が目覚ましく、ファンのみならず球界関係者からも大きな期待が寄せられている。特に、昨シーズン終盤から頭角を現した数名の若手選手は、開幕スタメンの座を掴み、その活躍ぶりは既に話題となっている。彼らがベテラン選手との融合を図りながら、チームを勝利へと導くことができるのか、その手腕が試される一年となるだろう。",
+      "translationZh": "日本职业棒球的例行赛已经拉开帷幕。本赛季，各球队涌现出肩负下一代重任的年轻选手，不仅球迷，连棒球界相关人士也寄予厚望。特别是，几位在上一赛季后半段崭露头角的年轻选手已经获得了开幕赛首发的席位，他们的活跃表现已成为热门话题。他们能否在与经验丰富的老将融合的同时，带领球队走向胜利，这将是检验他们能力的一年。",
+      "translationEn": "The curtain has risen on the Nippon Professional Baseball (NPB) pennant race. This season, the emergence of young players who will carry the next generation from each team is remarkable, garnering significant expectations not only from fans but also from industry insiders. In particular, several young players who showed promise in the latter half of last season have secured starting positions for the opening games, and their performance is already a hot topic. This year will be a test of their skills as they aim to integrate with veteran players and lead their teams to victory.",
+      "id": "4f96ef71-37ce-48de-bcd1-32dba0b7faa2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、長年チームを支えてきたベテラン勢の存在感も健在である。彼らは、培ってきた経験と技術を武器に、若手選手への指導はもちろん、勝負どころでの一本立ちが期待されている。特に、キャプテンシーを発揮し、チームの精神的支柱となっているベテラン選手は、そのリーダーシップによってチーム全体の士気を高める役割を担っている。ベテランの円熟したプレーが、若手の勢いをいかに引き出し、チームの安定した成績に繋がるのか、その化学反応が注目されるところだ。",
+      "translationZh": "另一方面，长期支持球队的老将们依然不容小觑。他们以积累的经验和技术为武器，不仅指导年轻选手，还在关键时刻被寄予独当一面的期望。特别是那些发挥队长作用、成为球队精神支柱的老将，他们通过领导力承担着提升全队士气的角色。老将们成熟的比赛风格如何激发年轻选手的活力，并につながるのか、その化学反应が注目されるところだ。",
+      "translationEn": "On the other hand, the presence of veteran players who have supported their teams for many years remains strong. Armed with their accumulated experience and skills, they are expected not only to mentor the younger players but also to step up in crucial moments. Veteran players who demonstrate leadership and serve as the team's emotional core are particularly instrumental in boosting team morale through their leadership. The synergy between the veterans' seasoned play and the young players' momentum, and how this will lead to consistent team performance, is a focal point of attention.",
+      "id": "c4ffb358-37d4-4e24-8a58-bab3145d2422",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "各球団の補強戦略や、監督の采配も、シーズンの行方を左右する重要な要素となるだろう。FA（フリーエージェント）で獲得した大型新人もいれば、育成ドラフトから這い上がってきた隠れた逸材もいる。これら多様な戦力が、どのように組み合わされ、チームとして機能していくのか。開幕から数試合を消化するごとに、各チームの個性や強みが徐々に見えてくるはずだ。ファンは、それぞれのチームが描く戦略と、それを体現する選手たちの熱戦に、大いに魅了されることとなるだろう。",
+      "translationZh": "各球队的补强策略以及教练的指挥也将是左右赛季走向的重要因素。既有通过自由球员（FA）引进的大牌新人，也有从育成选秀中脱颖而出的潜力股。这些多样的战力将如何组合，如何作为一个团队运作。随着赛季初几场比赛的结束，各队的个性和优势应该会逐渐显现。球迷们将被各球队所描绘的战略以及体现这些战略的选手们的热烈比赛深深吸引。",
+      "translationEn": "The reinforcement strategies of each team and the managers' tactics will also be crucial factors influencing the season's outcome. Some teams have acquired star rookies through free agency (FA), while others have unearthed hidden gems from their development drafts. How these diverse forces will be combined and function as a team remains to be seen. As a few games are played from the opening, the unique characteristics and strengths of each team should gradually become apparent. Fans are expected to be captivated by the strategies devised by each team and the passionate performances of the players who embody them.",
+      "id": "5b343c27-9da3-4322-b117-7562be418db5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ペナントレース",
+      "reading": "ぺなんとれーす",
+      "meaningZh": "（棒球）联盟赛",
+      "meaningEn": "pennant race (league championship)",
+      "level": "n2n1",
+      "exampleSentence": "今年のペナントレースはどのチームが制するのだろうか。",
+      "id": "91540587-f966-4163-9649-5414105c515c"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，崛起",
+      "meaningEn": "rise, emergence",
+      "level": "n2n1",
+      "exampleSentence": "若手選手の台頭がチームに活気をもたらした。",
+      "id": "c967c7df-ba9d-4944-a2d2-1a1badfdbba4"
+    },
+    {
+      "word": "頭角を現す",
+      "reading": "とうかくをあらわす",
+      "meaningZh": "崭露头角",
+      "meaningEn": "show promise, distinguish oneself",
+      "level": "n2n1",
+      "exampleSentence": "彼は学生時代から頭角を現していた選手だった。",
+      "id": "4bd64b4e-596c-4680-82c5-d03be2a79b27"
+    },
+    {
+      "word": "健在",
+      "reading": "けんざい",
+      "meaningZh": "依然健在，依然活跃",
+      "meaningEn": "still active, still strong",
+      "level": "n3",
+      "exampleSentence": "ベテラン俳優は、今でも健在ぶりを見せている。",
+      "id": "f348de5b-07b3-456d-bd47-c9c7b0603634"
+    },
+    {
+      "word": "培う",
+      "reading": "つちかう",
+      "meaningZh": "培养，锻炼，陶冶",
+      "meaningEn": "cultivate, foster, develop",
+      "level": "n3",
+      "exampleSentence": "長年の経験で培われた技術は、簡単には真似できない。",
+      "id": "47f93273-ec84-4c99-90ad-c9ff91dc8ead"
+    },
+    {
+      "word": "精神的支柱",
+      "reading": "せいしんてきしちゅう",
+      "meaningZh": "精神支柱",
+      "meaningEn": "spiritual pillar, main support",
+      "level": "n2n1",
+      "exampleSentence": "チームにとって、彼は精神的支柱のような存在だ。",
+      "id": "07e1e2a1-58fb-465b-a501-34a450b7cbc1"
+    },
+    {
+      "word": "化学反応",
+      "reading": "かがくはんのう",
+      "meaningZh": "化学反应（比喻）",
+      "meaningEn": "chemical reaction (metaphorical)",
+      "level": "n2n1",
+      "exampleSentence": "新しいメンバーとの化学反応がチームに良い影響を与えた。",
+      "id": "889c98c5-1247-4649-9d17-38bae34ad321"
+    },
+    {
+      "word": "補強",
+      "reading": "ほきょう",
+      "meaningZh": "加固，增援，补强（体育）",
+      "meaningEn": "reinforcement, strengthening",
+      "level": "n2n1",
+      "exampleSentence": "チームはオフシーズンに積極的な補強を行った。",
+      "id": "055707d1-f2ac-40da-840c-1fad5a8dea28"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今シーズンのプロ野球で、特に注目されているのはどのような選手たちですか？",
+      "options": [
+        "ベテラン選手のみ",
+        "昨シーズン活躍した選手",
+        "次世代を担う若手選手とベテラン選手",
+        "育成ドラフト出身の選手だけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文冒頭で「次世代を担う若手選手の台頭が目覚ましく」「長年チームを支えてきたベテラン勢の存在感も健在である」と述べられています。",
+      "id": "b7744c42-96dd-43ed-889a-667d591f706f"
+    },
+    {
+      "question": "ベテラン選手に期待されている役割は何ですか？",
+      "options": [
+        "若手選手の育成と、勝負どころでの活躍",
+        "チームのムードメーカーとなること",
+        "記録更新のための個人プレー",
+        "監督の指示を忠実に実行すること"
+      ],
+      "correctIndex": 0,
+      "explanation": "「彼らは、培ってきた経験と技術を武器に、若手選手への指導はもちろん、勝負どころでの一本立ちが期待されている。」と記述されています。",
+      "id": "d0d5085b-2d53-4e5f-96d0-1ed2335fc098"
+    },
+    {
+      "question": "シーズンの行方を左右する重要な要素として、本文では何が挙げられていますか？",
+      "options": [
+        "選手の個人的な人気度",
+        "観客動員数",
+        "各球団の補強戦略や監督の采配",
+        "選手の出身地"
+      ],
+      "correctIndex": 2,
+      "explanation": "「各球団の補強戦略や、監督の采配も、シーズンの行方を左右する重要な要素となるだろう。」という記述があります。",
+      "id": "dde05f95-e0e2-4a5a-9684-63c69e1721fa"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-11-472632a31a",
+  "publishedAt": "2026-06-11T06:00:00+09:00"
+}

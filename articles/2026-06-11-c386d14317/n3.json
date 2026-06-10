@@ -1,0 +1,126 @@
+{
+  "title": "若者たちが神社をきれいに！ボランティア活動の魅力",
+  "summary": "最近、若い世代が地域の神社をきれいに保つためのボランティア活動に参加しています。この活動は、地域社会とのつながりを深める良い機会となっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の各地で若い世代が地域の神社をきれいに保つためのボランティア活動に参加する動きが広がっています。昔から大切にされてきた場所ですが、高齢化や地域住民の減少などにより、手入れが行き届かなくなっている神社もあります。このような状況を改善しようと、大学生や高校生が中心となって、清掃や簡単な修復作業を行っています。",
+      "translationZh": "最近，在日本各地，年轻一代参与到维护当地神社清洁的志愿者活动中的趋势正在扩大。虽然神社自古以来就被珍视，但由于老龄化和当地居民减少等原因，有些神社已经无法得到妥善的打理。为了改善这种状况，以大学生和高中生为中心，正在进行清扫和简单的修复工作。",
+      "translationEn": "Recently, there's a growing movement across Japan where young people are participating in volunteer activities to keep local shrines clean. Although shrines have been cherished since ancient times, some are no longer adequately maintained due to aging populations and declining local residents. To improve this situation, university and high school students are taking the lead in cleaning and simple repair work.",
+      "id": "1d29ffba-174d-4abe-acf3-0a8c0d7a82e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ボランティアに参加した学生たちは、「昔の建物を直接触れることができて、歴史を感じるのが面白い」「地域の人たちと協力することで、自分の住んでいる場所への愛着がわいた」と話しています。また、作業を通して、自然や古いものへの敬意を学ぶこともできます。地域の人々も、若い世代が熱心に活動する姿を見て、大変喜んでおり、感謝の気持ちを伝えています。",
+      "translationZh": "参加志愿活动的学​​生们表示：“能够亲手接触到古老的建筑，感受历史很有趣”，“通过与当地人合作，我对居住的地方产生了更深的感情”。此外，通过这项工作，他们还可以学会尊重自然和古老事物。当地居民看到年轻一代积极参与活动的身影，也感到非常高兴，并表达了感谢之情。",
+      "translationEn": "Students who participated in the volunteer work said, \"It's interesting to directly touch old buildings and feel the history,\" and \"By cooperating with local people, I've developed a stronger affection for the place where I live.\" Furthermore, through this work, they can also learn respect for nature and old things. Local residents are also very pleased to see the young generation actively participating and express their gratitude.",
+      "id": "78086473-c267-4403-bda8-615b9f45a901",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "神社の修復ボランティアは、単に場所をきれいにすることだけが目的ではありません。参加する学生にとっては、地域社会とのつながりを強め、日本の伝統文化に触れる貴重な体験となります。地域の人々にとっては、若い力によって神社が守られ、活気が戻ることで、地域全体の活性化にもつながることが期待されています。これからも、このような学生たちの活動が、地域と文化の橋渡し役として、さらに広がっていくことでしょう。",
+      "translationZh": "神社修复志愿者活动的目的不仅仅是让地方变得干净。对于参与的学​​生来说，这是加强与当地社区联系、接触日本传统文化的宝贵体验。对于当地居民来说，通过年轻人的力量保护神社并恢复活力，有望促进整个地区的振兴。今后，像这样的学生活动，必将作为连接地区与文化的桥梁，得到进一步的推广。",
+      "translationEn": "The purpose of shrine restoration volunteer activities is not just to clean the place. For the participating students, it is a valuable experience to strengthen connections with the local community and experience Japanese traditional culture. For local residents, it is expected that the shrines will be protected by the energy of young people and regain vitality, leading to the revitalization of the entire community. Going forward, such student activities will likely expand further as a bridge between the community and culture.",
+      "id": "3643a5e5-04a4-4eee-bf97-f5d553aee3fb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "世代，时代",
+      "meaningEn": "generation",
+      "level": "n3",
+      "exampleSentence": "若い世代の意見も大切にすべきだ。",
+      "id": "68b29487-f31f-4a20-9dba-1b2533916456"
+    },
+    {
+      "word": "高齢化",
+      "reading": "こうれいか",
+      "meaningZh": "老龄化",
+      "meaningEn": "aging population",
+      "level": "n3",
+      "exampleSentence": "この地域は高齢化が進んでいる。",
+      "id": "d6612fcb-5af3-41f7-9133-27085310b1f7"
+    },
+    {
+      "word": "行き届く",
+      "reading": "いきとどく",
+      "meaningZh": "（照顾、管理等）周到，周密",
+      "meaningEn": "to reach; to be thorough",
+      "level": "n3",
+      "exampleSentence": "掃除が行き届いた部屋だった。",
+      "id": "0ddd454e-d19e-45fc-93e6-a196797f0ad0"
+    },
+    {
+      "word": "修復",
+      "reading": "しゅうふく",
+      "meaningZh": "修复，修补",
+      "meaningEn": "restoration, repair",
+      "level": "n3",
+      "exampleSentence": "古い絵画の修復作業が行われた。",
+      "id": "5aac7afc-0c01-459f-9a54-4dee3297d413"
+    },
+    {
+      "word": "愛着",
+      "reading": "あいちゃく",
+      "meaningZh": "依恋，钟爱",
+      "meaningEn": "attachment, fondness",
+      "level": "n3",
+      "exampleSentence": "長年使ってきた道具に愛着を感じる。",
+      "id": "534e6a73-0755-4750-9db8-f131697a912b"
+    },
+    {
+      "word": "敬意",
+      "reading": "けいい",
+      "meaningZh": "尊敬，敬意",
+      "meaningEn": "respect",
+      "level": "n3",
+      "exampleSentence": "先輩に対して敬意を払う。",
+      "id": "e2fe8de8-2fee-4d08-9c20-181b137c1a7d"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活跃化，活性化",
+      "meaningEn": "invigoration, revitalization",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が課題だ。",
+      "id": "89d70422-1e0a-49e7-899a-f4611cc4be31"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若い世代が神社のボランティア活動に参加するようになったのですか。",
+      "options": [
+        "神社にお金がたくさん寄付されたから",
+        "神社をきれいに保つことが彼らの義務だと感じているから",
+        "高齢化などで手入れが行き届かなくなった神社を助けたいと思ったから",
+        "ボランティアに参加すると単位がもらえるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔から大切にされてきた場所ですが、高齢化や地域住民の減少などにより、手入れが行き届かなくなっている神社もあります。このような状況を改善しようと、大学生や高校生が中心となって、清掃や簡単な修復作業を行っています。",
+      "id": "cae7965f-c1db-4163-bc8a-977b18aec2f4"
+    },
+    {
+      "question": "神社の修復ボランティア活動は、参加する学生にとってどのような良い点があると書かれていますか。",
+      "options": [
+        "歴史的な建物を壊す技術を学べる",
+        "地域社会とのつながりを強め、日本の伝統文化に触れることができる",
+        "お金がたくさんもらえる",
+        "将来、神主になるための勉強ができる"
+      ],
+      "correctIndex": 1,
+      "explanation": "参加する学生にとっては、地域社会とのつながりを強め、日本の伝統文化に触れる貴重な体験となります。",
+      "id": "abcda12e-dc34-41f2-85c6-9dabb927411f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-11-c386d14317",
+  "publishedAt": "2026-06-11T06:00:00+09:00"
+}

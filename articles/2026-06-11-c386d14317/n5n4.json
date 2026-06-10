@@ -1,0 +1,131 @@
+{
+  "title": "学生が神社をきれいにしました",
+  "summary": "地域の神社で、学生たちがボランティアをしました。古い神社がきれいになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この間、町の古い神社でボランティアがありました。たくさんの学生が参加しました。みんなで神社をきれいにしました。",
+      "translationZh": "前几天，镇上的一座古老神社举办了志愿者活动。许多学生参加了。大家一起把神社打扫干净了。",
+      "translationEn": "The other day, there was a volunteer event at an old shrine in town. Many students participated. Everyone cleaned the shrine together.",
+      "id": "f4eed1de-b68a-4d72-a814-deba2575cd5c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学生たちは、古い葉っぱを拾いました。そして、地面を掃きました。壁もきれいに拭きました。みんな一生懸命（いっしょうけんめい）働きました。",
+      "translationZh": "学生们捡起了落叶。然后，他们扫了地面。还仔细地擦了墙壁。大家都拼命地工作。",
+      "translationEn": "The students picked up old leaves. Then, they swept the ground. They also wiped the walls clean. Everyone worked very hard.",
+      "id": "050e154c-ee81-4a6f-ac7e-52871c9e965e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "神社の周りの草もたくさんありました。学生たちは、草を抜きました。だから、神社の周りがとてもすっきりしました。",
+      "translationZh": "神社周围也有很多杂草。学生们把草拔掉了。因此，神社周围变得非常整洁。",
+      "translationEn": "There was also a lot of grass around the shrine. The students pulled out the grass. So, the area around the shrine became very tidy.",
+      "id": "178b2518-18a8-4a9d-99fb-b1c547e02949",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "神社は、とてもきれいになりました。地域の人たちも喜んでいました。学生たちのボランティアは、素晴らしい（すばらしい）と思います。",
+      "translationZh": "神社变得非常干净了。当地居民也很高兴。我认为学生的志愿者活动非常棒。",
+      "translationEn": "The shrine became very clean. The local people were also happy. I think the students' volunteer work is wonderful.",
+      "id": "c2035e3e-3fc8-4e67-a6dd-8d0770cdd000",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "神社",
+      "reading": "じんじゃ",
+      "meaningZh": "神社",
+      "meaningEn": "shrine",
+      "level": "n5n4",
+      "exampleSentence": "この神社はとても有名です。",
+      "id": "58910262-dac2-4017-a58e-ba5f34d71b24"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaningZh": "学生",
+      "meaningEn": "student",
+      "level": "n5n4",
+      "exampleSentence": "多くの学生が参加しました。",
+      "id": "17de930b-13ed-44ec-8a21-7206dd23f634"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "ボランティアに参加しました。",
+      "id": "86ca08b8-942a-4adb-94cc-4901c63241ca"
+    },
+    {
+      "word": "きれい",
+      "reading": "きれい",
+      "meaningZh": "干净，漂亮",
+      "meaningEn": "clean, beautiful",
+      "level": "n5n4",
+      "exampleSentence": "部屋をきれいにしました。",
+      "id": "98a5f9b4-5430-477e-8da1-2ca94cc0157a"
+    },
+    {
+      "word": "拾いました",
+      "reading": "ひろいました",
+      "meaningZh": "捡起了",
+      "meaningEn": "picked up",
+      "level": "n5n4",
+      "exampleSentence": "ゴミを拾いました。",
+      "id": "c5ae3666-75f9-4e55-9b30-870a0f5f1407"
+    },
+    {
+      "word": "掃きました",
+      "reading": "はきました",
+      "meaningZh": "扫了",
+      "meaningEn": "swept",
+      "level": "n5n4",
+      "exampleSentence": "床を掃きました。",
+      "id": "30ae0c9d-df3c-4960-8605-f986f362aa9f"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "拼命地，努力地",
+      "meaningEn": "with all one's might, diligently",
+      "level": "n3",
+      "exampleSentence": "一生懸命勉強しました。",
+      "id": "0b362518-5913-49c6-9abf-863a950c6dda"
+    },
+    {
+      "word": "周り",
+      "reading": "まわり",
+      "meaningZh": "周围",
+      "meaningEn": "surroundings",
+      "level": "n5n4",
+      "exampleSentence": "家の周りを散歩しました。",
+      "id": "f9b87821-9c4e-4b0d-871f-8737f084292e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学生たちは、神社で何をしましたか。",
+      "options": [
+        "神社を掃除しました。",
+        "神社でゲームをしました。",
+        "神社でお祭りをしました。",
+        "神社で勉強しました。"
+      ],
+      "correctIndex": 0,
+      "explanation": "学生たちは、古い葉っぱを拾ったり、地面を掃いたりして、神社をきれいにしました。",
+      "id": "23bc584a-c0d6-4b6b-bc70-b8c835ffda3a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-11-c386d14317",
+  "publishedAt": "2026-06-11T06:00:00+09:00"
+}

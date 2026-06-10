@@ -1,0 +1,122 @@
+{
+  "title": "お弁当が届きます！",
+  "summary": "一人暮らしのお年寄りのために、お弁当を届けるサービスがあります。このサービスは、もっと広がるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今、元気な高齢者が増えています。しかし、一人で住んでいるお年寄りも多いです。買い物や料理が大変な人もいます。そのような人たちのために、お弁当を届けるサービスがあります。",
+      "translationZh": "现在，健康的老年人越来越多。但是，独自居住的老年人也很多。购物和做饭对一些人来说很困难。为了这样的人们，有送便当的服务。",
+      "translationEn": "Currently, there are more and more healthy elderly people. However, many elderly people live alone. Shopping and cooking are difficult for some people. For such people, there is a service that delivers bento boxes.",
+      "id": "5a3cd0f4-6813-429f-a5a9-b76d290fe2b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスは、家まで温かいお弁当を届けます。栄養のバランスも考えられています。毎日食べても安心できる食事です。作ることが難しい人や、買い物に行けない人には、とても助かります。",
+      "translationZh": "这项服务会将热腾腾的便当送到家中。也考虑了营养均衡。即使每天吃也很放心。对于做饭困难的人或无法购物的人来说，非常有帮助。",
+      "translationEn": "This service delivers warm bento boxes to their homes. Nutritional balance is also considered. It is a meal that can be eaten with peace of mind every day. It is very helpful for people who have difficulty cooking or cannot go shopping.",
+      "id": "8a4ef103-5388-4bd1-8e32-a2378d79e6a1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお弁当の宅配サービスは、これからもっと広がると思います。新しい会社もこのサービスを始めました。もっと多くの人が、この便利なサービスを使えるようになるでしょう。",
+      "translationZh": "我认为这个便当外送服务今后会更加普及。也有新公司开始了这项服务。会有更多的人能够使用这项便捷的服务。",
+      "translationEn": "I think this bento delivery service will become more widespread in the future. New companies have also started this service. More people will be able to use this convenient service.",
+      "id": "49a5de0e-a6e5-4d5e-8659-2b60ada1c051",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お年寄りが元気で、家にいてもおいしい食事ができるのは、とても良いことです。このサービスが、もっと多くの人の役に立つといいですね。",
+      "translationZh": "老年人健康，即使在家也能吃到美味的食物，这是件非常好的事。希望这项服务能为更多人带来帮助。",
+      "translationEn": "It is a very good thing that the elderly are healthy and can eat delicious meals even at home. I hope this service will be useful to more people.",
+      "id": "d751dfb4-61bf-4899-b377-5180d762f2cb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高齢者",
+      "reading": "こうれいしゃ",
+      "meaningZh": "老年人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "高齢者が安全に暮らせる町を作りたいです。",
+      "id": "4947f694-c8ce-464a-bae2-509c1b4ad6ff"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "外送服务",
+      "meaningEn": "delivery service",
+      "level": "n5n4",
+      "exampleSentence": "この店は宅配サービスが速いです。",
+      "id": "0de3c2ca-4cae-4d9c-b4b3-d130b4755b59"
+    },
+    {
+      "word": "お弁当",
+      "reading": "おべんとう",
+      "meaningZh": "便当",
+      "meaningEn": "bento box",
+      "level": "n5n4",
+      "exampleSentence": "今日のお弁当は唐揚げです。",
+      "id": "ce470d76-3c1b-495f-b2fd-75eee164cc67"
+    },
+    {
+      "word": "栄養",
+      "reading": "えいよう",
+      "meaningZh": "营养",
+      "meaningEn": "nutrition",
+      "level": "n5n4",
+      "exampleSentence": "野菜をたくさん食べて栄養をつけましょう。",
+      "id": "15ea79bc-353d-4cc7-bb6b-c2d1db218d6b"
+    },
+    {
+      "word": "バランス",
+      "reading": "ばらんす",
+      "meaningZh": "平衡",
+      "meaningEn": "balance",
+      "level": "n5n4",
+      "exampleSentence": "食事のバランスが大切です。",
+      "id": "55b3c2e3-34e6-444c-b9f1-16ad078396dc"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心",
+      "meaningEn": "peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "薬を飲んで、少し安心しました。",
+      "id": "462fb5d4-1d8b-4b33-ac79-2bf0bd8c29d6"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "スマホはとても便利です。",
+      "id": "ac576044-8580-409c-8279-55cc841667d8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "お弁当の宅配サービスは、どんな人の役に立ちますか？",
+      "options": [
+        "料理が上手な人",
+        "一人暮らしで買い物や料理が大変な高齢者",
+        "毎日外食する人",
+        "若い人"
+      ],
+      "correctIndex": 1,
+      "explanation": "「一人暮らしのお年寄りも多いです。買い物や料理が大変な人もいます。そのような人たちのために、お弁当を届けるサービスがあります。」",
+      "id": "64b6f160-2edc-47ee-837d-9562376e97ad"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-11-9edb18e972",
+  "publishedAt": "2026-06-11T06:00:00+09:00"
+}

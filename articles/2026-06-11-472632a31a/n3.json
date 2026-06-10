@@ -1,0 +1,134 @@
+{
+  "title": "プロ野球開幕！注目のルーキーとベテラン選手",
+  "summary": "新しいプロ野球シーズンが始まります。今年は、新人選手たちの活躍と、ベテラン選手のさらなる進化に注目が集まっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "いよいよプロ野球の新しいシーズンが開幕しました。各球団は優勝を目指して、熱い戦いを繰り広げることでしょう。特に今年は、新しいスター候補のルーキーたちと、ベテランの選手たちの活躍が期待されています。",
+      "translationZh": "职业棒球的新赛季终于拉开了帷幕。各球队为了争夺冠军，想必会展开激烈的比赛。今年尤其令人期待的是，新星候补的菜鸟选手们以及老将们的活跃表现。",
+      "translationEn": "The new professional baseball season has finally kicked off. Each team will likely engage in fierce competition aiming for the championship. This year, in particular, the performances of rookie prospects and veteran players are highly anticipated.",
+      "id": "083cf04e-4816-4b12-8f3c-e9ec1ad8e61e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ルーキーの中では、去年のドラフトで注目された選手たちが、すでに実力を見せ始めています。彼らは若い力と勢いを武器に、ベテラン選手たちに挑戦していくでしょう。そのため、試合はさらに面白くなるはずです。",
+      "translationZh": "在新人选手当中，去年选秀备受瞩目的选手们已经开始展现出实力。他们将以年轻的体力和气势为武器，向老将们发起挑战。因此，比赛应该会变得更加有趣。",
+      "translationEn": "Among the rookies, players who garnered attention in last year's draft have already begun showcasing their abilities. They will challenge the veterans with their youthful energy and momentum. Consequently, the games should become even more exciting.",
+      "id": "a9fe3703-1d00-4f12-9bb4-cb271a2af354",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方、長年チームを支えてきたベテラン選手たちも、負けてはいません。経験と知識を活かし、若い選手たちをリードしながら、自分自身もさらなる高みを目指しています。ベテランの落ち着いたプレーは、チームに安定感をもたらすだけでなく、ファンにも感動を与えます。",
+      "translationZh": "另一方面，常年支持球队的老将们也毫不示弱。他们发挥经验和知识，在带领年轻选手们的同时，自己也朝着更高的目标迈进。老将们沉稳的打法不仅给球队带来了稳定性，也带给了粉丝们感动。",
+      "translationEn": "On the other hand, the veteran players who have supported their teams for many years are not to be outdone. Utilizing their experience and knowledge, they lead the younger players while also striving for new heights themselves. The steady play of veterans not only brings stability to the team but also inspires the fans.",
+      "id": "3878d09d-4fa1-428b-9d32-ecfc71e1deb0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年のペナントレースは、新人たちの勢いとベテランの円熟味がぶつかり合う、見応えのあるものになりそうです。どのチームが頂点に立つのか、そしてどんな選手がヒーローになるのか、シーズンが進むのが楽しみです。",
+      "translationZh": "今年的例行赛似乎将成为新人势头与老将成熟技艺激烈碰撞、精彩纷呈的一季。令人期待随着赛季的推进，哪支队伍能登顶，又会有哪些选手成为英雄。",
+      "translationEn": "This year's pennant race looks set to be a compelling one, with the momentum of rookies clashing with the seasoned expertise of veterans. We look forward to the season progressing to see which team will reach the top and which players will become heroes.",
+      "id": "fb4d67de-d703-431e-834b-828c34c0b219",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "開幕",
+      "reading": "かいまく",
+      "meaningZh": "开幕；开始",
+      "meaningEn": "Opening; start",
+      "level": "n3",
+      "exampleSentence": "新しいシーズンが開幕した。",
+      "id": "6f669c19-bc72-422d-b389-816a341bb815"
+    },
+    {
+      "word": "ルーキー",
+      "reading": "るーきー",
+      "meaningZh": "新人（尤其指体育界或商业界刚入行的人）",
+      "meaningEn": "Rookie (especially in sports or business)",
+      "level": "n3",
+      "exampleSentence": "注目のルーキーがデビューした。",
+      "id": "484ee81a-a770-4d09-8a50-0ea577d77c1e"
+    },
+    {
+      "word": "ドラフト",
+      "reading": "どらふと",
+      "meaningZh": "选秀（指体育选拔新队员的制度）",
+      "meaningEn": "Draft (a system for selecting new players in sports)",
+      "level": "n3",
+      "exampleSentence": "彼はドラフト1位で指名された。",
+      "id": "4ab90ee7-60f8-4b13-a9be-4bfd55d7e436"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将；经验丰富者",
+      "meaningEn": "Veteran; experienced person",
+      "level": "n3",
+      "exampleSentence": "ベテラン選手がチームを引っ張る。",
+      "id": "84ed5262-485b-4d47-97ad-0e99a765a16a"
+    },
+    {
+      "word": "円熟味",
+      "reading": "えんじゅくみ",
+      "meaningZh": "圆熟；老练；成熟",
+      "meaningEn": "Maturity; ripeness; seasoned skill",
+      "level": "n3",
+      "exampleSentence": "彼のプレーには円熟味がある。",
+      "id": "9a110568-11f2-41a9-bd04-50197f420a3f"
+    },
+    {
+      "word": "ペナントレース",
+      "reading": "ぺなんとれーす",
+      "meaningZh": "（棒球）例行赛；锦标赛",
+      "meaningEn": "Pennant race (baseball league championship)",
+      "level": "n3",
+      "exampleSentence": "今年のペナントレースは混戦になりそうだ。",
+      "id": "66b59879-14e8-48e7-bd5c-8291d12b26be"
+    },
+    {
+      "word": "ヒーロー",
+      "reading": "ひーろー",
+      "meaningZh": "英雄",
+      "meaningEn": "Hero",
+      "level": "n5n4",
+      "exampleSentence": "彼はチームのヒーローになった。",
+      "id": "4c09df55-7fa2-423b-9a1c-2d7fc72002ea"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年のプロ野球シーズンで、特に注目されているのはどのような選手たちですか？",
+      "options": [
+        "ベテラン選手と若手選手",
+        "外国人選手と日本人選手",
+        "新人選手とベテラン選手",
+        "怪我から復帰した選手と新加入選手"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「今年は、新しいスター候補のルーキーたちと、ベテランの選手たちの活躍が期待されています。」と書かれています。",
+      "id": "e18ca7a9-85b9-459b-9209-9de600442be3"
+    },
+    {
+      "question": "ベテラン選手は、若い選手たちに対してどのような役割を果たすと書かれていますか？",
+      "options": [
+        "競争相手として厳しく接する",
+        "技術を教え、チームをリードする",
+        "経験を活かして試合の記録を伸ばす",
+        "新しい戦術を開発する"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「経験と知識を活かし、若い選手たちをリードしながら、自分自身もさらなる高みを目指しています。」と書かれています。",
+      "id": "4636077c-263e-40d6-9555-b64c57ac9df3"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-11-472632a31a",
+  "publishedAt": "2026-06-11T06:00:00+09:00"
+}
