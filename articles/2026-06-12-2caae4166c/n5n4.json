@@ -1,0 +1,122 @@
+{
+  "title": "コンビニの新スイーツ、おいしい！",
+  "summary": "コンビニで新しいスイーツがたくさん出ました。どれもとてもおいしいです。ぜひ試してみてください。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "最近、コンビニで新しいスイーツがたくさん出ました。チョコレート、ケーキ、アイスクリームなど、いろいろな種類があります。見ているだけで楽しいです。",
+      "translationZh": "最近，便利店推出了很多新的甜点。有巧克力、蛋糕、冰淇淋等各种各样的种类。光是看着就让人开心。",
+      "translationEn": "Recently, convenience stores have released many new sweets. There are various kinds such as chocolate, cake, and ice cream. Just looking at them is fun.",
+      "id": "b8b60bea-73b1-40ea-920f-ebed985ca9a3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しいスイーツは、コンビニ限定のものです。だから、他の店では買えません。限定という言葉は、特別感がありますね。",
+      "translationZh": "这些新甜点是便利店限定的。所以，在其他店是买不到的。限定这个词，很有特别的感觉呢。",
+      "translationEn": "These new sweets are convenience store exclusives. Therefore, you cannot buy them at other stores. The word 'limited' gives a special feeling.",
+      "id": "0d6ef191-c6f2-47b0-9d15-8dcefe035c8e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段も手頃で、気軽に買えます。仕事の後や、休日に、甘いものを食べるのは最高です。友達と話しながら食べるのもいいですね。",
+      "translationZh": "价格也很实惠，可以轻松购买。工作结束后或者在休息日，吃点甜的东西真是太棒了。一边和朋友聊天一边吃也不错呢。",
+      "translationEn": "The prices are reasonable, so you can buy them easily. Eating something sweet after work or on holidays is the best. It's also nice to eat them while talking with friends.",
+      "id": "5a863e9e-c470-4d16-925f-95377a1af1f8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "私もいくつか試してみました。どれも味が良かったです。特にイチゴのケーキが気に入りました。また買いに行こうと思います。",
+      "translationZh": "我也尝试了几款。味道都很好。特别喜欢草莓蛋糕。我想我还会再去买的。",
+      "translationEn": "I also tried a few. All of them tasted good. I especially liked the strawberry cake. I think I will go buy them again.",
+      "id": "f7b25b17-2a58-4ed8-adde-71a92a978347",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近，近来",
+      "meaningEn": "recently, lately",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強を頑張っています。",
+      "id": "c00db893-e664-4173-b9a1-3a4d07f21b74"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "この商品は限定５０個です。",
+      "id": "2bad5ef4-00e8-42f3-bb3b-ab317c1a04ea"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, type, sort",
+      "level": "n5n4",
+      "exampleSentence": "この店にはたくさんの種類があります。",
+      "id": "efa7010d-7149-4fad-aca2-6abb32c1697d"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格适中，实惠",
+      "meaningEn": "reasonable (price)",
+      "level": "n5n4",
+      "exampleSentence": "この服は手頃な値段でした。",
+      "id": "f953b604-0765-4138-8558-559190d787c6"
+    },
+    {
+      "word": "気軽に",
+      "reading": "きがるに",
+      "meaningZh": "随意地，轻松地",
+      "meaningEn": "freely, without hesitation",
+      "level": "n5n4",
+      "exampleSentence": "気軽に話してください。",
+      "id": "efa8322a-6886-48ec-970c-69ea4a5bf933"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaningZh": "最好，最棒",
+      "meaningEn": "the best, supreme",
+      "level": "n5n4",
+      "exampleSentence": "今日の天気は最高です。",
+      "id": "e6d94961-7c3d-4389-80a1-1f28606c5f59"
+    },
+    {
+      "word": "試す",
+      "reading": "ためす",
+      "meaningZh": "尝试，试一试",
+      "meaningEn": "to try",
+      "level": "n5n4",
+      "exampleSentence": "新しいレストランを試しました。",
+      "id": "2f9a3ef3-7469-4dfb-a09c-a31a2a005b8e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニ限定の新しいスイーツについて、筆者が気に入ったものは何ですか。",
+      "options": [
+        "チョコレートのケーキ",
+        "イチゴのケーキ",
+        "アイスクリーム",
+        "限定のパン"
+      ],
+      "correctIndex": 1,
+      "explanation": "「私もいくつか試してみました。どれも味が良かったです。特にイチゴのケーキが気に入りました。」",
+      "id": "47d2ea47-3aad-4c21-99f6-5e3560b6104a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-12-2caae4166c",
+  "publishedAt": "2026-06-12T06:00:00+09:00"
+}

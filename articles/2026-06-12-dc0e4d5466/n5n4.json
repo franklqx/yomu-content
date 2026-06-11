@@ -1,0 +1,122 @@
+{
+  "title": "春が来た！桜がきれいな街",
+  "summary": "春になりました。桜が咲き始めました。きれいな桜を見に行きましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春は桜の季節です。日本はたくさん桜があります。特に、地方の都市できれいな桜を見ることができます。もうすぐ、桜がきれいに咲きます。",
+      "translationZh": "春天是樱花的季节。日本有很多樱花。尤其是在地方城市，可以看到美丽的樱花。很快，樱花就会盛开了。",
+      "translationEn": "Spring is the season of cherry blossoms. Japan has many cherry blossoms. Especially in regional cities, you can see beautiful cherry blossoms. Soon, the cherry blossoms will bloom beautifully.",
+      "id": "fb6c69c7-6e4c-4b5f-80ad-d11c7bf76244",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、熊本県には「熊本城」があります。熊本城の周りにたくさんの桜の木があります。お城と桜はとてもきれいです。春になると、多くの人が見に行きます。",
+      "translationZh": "例如，在熊本县有“熊本城”。熊本城周围有很多樱花树。城堡和樱花非常漂亮。春天来了，很多人都会去参观。",
+      "translationEn": "For example, in Kumamoto Prefecture, there is 'Kumamoto Castle'. There are many cherry trees around Kumamoto Castle. The castle and the cherry blossoms are very beautiful. In spring, many people go to see them.",
+      "id": "14abf0e9-c604-42a9-b8e7-e1d31fa5a690",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、山形県には「霞城公園」があります。ここは昔のお城の跡です。公園には広い芝生があって、家族でピクニックをするのにいい場所です。桜の下で食べるお弁当は、とてもおいしいでしょう。",
+      "translationZh": "另外，在山形县有“霞城公园”。这里是过去城堡的遗址。公园里有宽阔的草坪，是家人野餐的好地方。在樱花树下吃的便当，一定会非常美味。",
+      "translationEn": "Also, in Yamagata Prefecture, there is 'Kajo Park'. This is the site of an old castle. The park has a wide lawn and is a good place for families to have a picnic. A bento box eaten under the cherry blossoms would be very delicious.",
+      "id": "bef27216-b365-4ffe-9fb7-cc428ee62021",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "桜は短い時間しか咲きません。だから、見られるときに、ぜひ見に行きましょう。きれいな景色を見て、春の気分を楽しみましょう。",
+      "translationZh": "樱花开放的时间很短。所以，请一定要在能看到的时候去看看。让我们欣赏美丽的景色，享受春天的感觉吧。",
+      "translationEn": "Cherry blossoms bloom only for a short time. Therefore, when you can see them, please go and see them. Let's enjoy the beautiful scenery and the feeling of spring.",
+      "id": "22e8528b-85c2-4adf-b2d5-376b0d6f86fb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "春は桜の季節です。",
+      "id": "93c064f3-ddbc-403d-8c3e-e2636f250292"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "地方の都市できれいな桜を見ることができます。",
+      "id": "46f7dd7e-6cb2-47bc-aa6a-a0a5604d5d53"
+    },
+    {
+      "word": "周り",
+      "reading": "まわり",
+      "meaningZh": "周围",
+      "meaningEn": "surroundings",
+      "level": "n5n4",
+      "exampleSentence": "熊本城の周りにたくさんの桜の木があります。",
+      "id": "2956868a-3423-4051-931c-1671308aa454"
+    },
+    {
+      "word": "跡",
+      "reading": "あと",
+      "meaningZh": "遗迹，痕迹",
+      "meaningEn": "ruins, remains",
+      "level": "n5n4",
+      "exampleSentence": "ここは昔のお城の跡です。",
+      "id": "97cef0aa-b3f5-48ab-b049-2ef3c209bc03"
+    },
+    {
+      "word": "芝生",
+      "reading": "しばふ",
+      "meaningZh": "草坪",
+      "meaningEn": "lawn",
+      "level": "n5n4",
+      "exampleSentence": "公園には広い芝生があります。",
+      "id": "e41ee695-bf70-47dc-9f77-88fcf4c29268"
+    },
+    {
+      "word": "ピクニック",
+      "reading": "ぴくにっく",
+      "meaningZh": "野餐",
+      "meaningEn": "picnic",
+      "level": "n5n4",
+      "exampleSentence": "家族でピクニックをするのにいい場所です。",
+      "id": "227eda42-b60b-449f-821d-aab1ea4ffe8b"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaningZh": "心情，感觉",
+      "meaningEn": "feeling, mood",
+      "level": "n5n4",
+      "exampleSentence": "春の気分を楽しみましょう。",
+      "id": "0c93879a-a96e-472c-99ab-a86c0268ba61"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "熊本城の周りには何がありますか。",
+      "options": [
+        "たくさんの桜の木",
+        "広い芝生",
+        "おいしいお弁当",
+        "昔のお城の跡"
+      ],
+      "correctIndex": 0,
+      "explanation": "熊本城の周りにたくさんの桜の木があります。",
+      "id": "6b809c48-5117-45cd-97c9-d481ef2c4421"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-12-dc0e4d5466",
+  "publishedAt": "2026-06-12T06:00:00+09:00"
+}

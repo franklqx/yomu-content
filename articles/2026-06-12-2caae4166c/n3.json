@@ -1,0 +1,126 @@
+{
+  "title": "コンビニ限定スイーツ新商品ラッシュ！あなたのお気に入りは？",
+  "summary": "最近、コンビニで新しいスイーツがたくさん発売されていますね。どれも美味しそうで迷ってしまいます。今回は、そんなコンビニスイーツの最新情報をお届けします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、コンビニでは魅力的なスイーツの新商品が次々と登場していて、目移りしてしまいます。特に、季節限定のフルーツを使ったものや、有名店とのコラボ商品は、発売されるとすぐに話題になることが多いです。お店に行っても、どれを買おうか迷ってしまうほどです。",
+      "translationZh": "最近，便利店里有吸引人的新甜点接二连三地登场，让人眼花缭乱。特别是使用当季限定水果的甜点，以及与名店合作的商品，一旦发售就常常成为热门话题。即使去了店里，也常常会因为不知道该买哪个而犹豫不决。",
+      "translationEn": "Recently, new attractive sweets are constantly appearing in convenience stores, making it hard to choose. Especially products using seasonal fruits or collaborations with famous shops often become hot topics as soon as they are released. Even when you go to the store, you might hesitate about which one to buy.",
+      "id": "56e44586-9258-4fd6-a21d-33ac8db93d1e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニスイーツがここまで注目されるようになったのは、その手軽さと質の高さが理由の一つでしょう。専門店で買うとそれなりのお値段がするものも、コンビニなら数百円で楽しめます。また、各社が独自性を出すために、開発に力を入れていることも、消費者を飽きさせない要因となっています。",
+      "translationZh": "便利店甜点之所以如此受到关注，原因之一在于其便捷性和高品质。原本在专卖店购买价格不菲的甜点，在便利店里几百日元就能享受到。此外，各家公司为了展现独特性而大力投入研发，也是让消费者保持新鲜感的原因。",
+      "translationEn": "One reason why convenience store sweets have become so popular is their convenience and high quality. Sweets that would be quite expensive at specialty stores can be enjoyed for a few hundred yen at convenience stores. Also, the fact that each company is investing heavily in development to differentiate themselves is a factor that keeps consumers from getting bored.",
+      "id": "4e2e2bd7-620e-4d76-91e3-c7baeab6fe46",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新商品ラッシュは、今後も続くと予想されます。新しい味や食感のスイーツが登場するたびに、私たちはその誘惑に負けてしまうかもしれません。でも、色々なコンビニスイーツを試してみることで、自分だけのお気に入りを見つける楽しみもあります。次の休日は、いつものコンビニで新しい発見をしてみてはいかがでしょうか。",
+      "translationZh": "这种新商品热潮预计今后也将持续。每次出现新口味或新口感的甜点，我们可能都会抵挡不住诱惑。但是，通过尝试各种便利店甜点，也能找到自己最喜欢的那一款。下一个休息日，不妨去常去的便利店做些新的发现怎么样？",
+      "translationEn": "This rush of new products is expected to continue in the future. Every time new flavors or textures of sweets appear, we might give in to their temptation. However, by trying various convenience store sweets, there's also the joy of finding your own favorite. On your next day off, why not make a new discovery at your usual convenience store?",
+      "id": "5a8e7814-2560-4c52-8f0c-f3a16573da0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "次々と",
+      "reading": "つぎつぎと",
+      "meaningZh": "接二连三地，一批又一批地",
+      "meaningEn": "one after another, in succession",
+      "level": "n3",
+      "exampleSentence": "新しいビルが次々と建てられている。",
+      "id": "b7fa5933-f8d5-4acd-a2a3-bc35e556c639"
+    },
+    {
+      "word": "目移りする",
+      "reading": "めうつりする",
+      "meaningZh": "眼花缭乱，看花了眼",
+      "meaningEn": "to be dazzled, to be unable to decide what to look at",
+      "level": "n3",
+      "exampleSentence": "お店にたくさん商品があって目移りしてしまった。",
+      "id": "d2ae125f-01ab-408b-a02f-948ccd0ade25"
+    },
+    {
+      "word": "コラボ商品",
+      "reading": "コラボしょうひん",
+      "meaningZh": "合作商品",
+      "meaningEn": "collaboration product",
+      "level": "n3",
+      "exampleSentence": "人気アニメとのコラボ商品が発売された。",
+      "id": "6ff63f48-f229-434c-a71e-1e026db00ffd"
+    },
+    {
+      "word": "手軽さ",
+      "reading": "てがるさ",
+      "meaningZh": "便捷，容易，简单",
+      "meaningEn": "ease, simplicity, convenience",
+      "level": "n3",
+      "exampleSentence": "この調理器具は手軽さが魅力だ。",
+      "id": "0dcc885b-09a2-454c-8aef-08cb5d4efdd6"
+    },
+    {
+      "word": "質",
+      "reading": "しつ",
+      "meaningZh": "品质，质地",
+      "meaningEn": "quality, texture",
+      "level": "n3",
+      "exampleSentence": "この服は質が良いので長持ちする。",
+      "id": "3de69b53-b649-482d-800b-f9fa982f7741"
+    },
+    {
+      "word": "独自性",
+      "reading": "どくじせい",
+      "meaningZh": "独特性",
+      "meaningEn": "originality, uniqueness",
+      "level": "n3",
+      "exampleSentence": "そのアイデアには独自性がある。",
+      "id": "296d192c-efdc-4912-a224-e4b3caf3ef1f"
+    },
+    {
+      "word": "飽きさせない",
+      "reading": "あきさせない",
+      "meaningZh": "不让人厌烦，保持新鲜感",
+      "meaningEn": "not to bore someone, to keep things interesting",
+      "level": "n3",
+      "exampleSentence": "彼はいつも面白い話で人を飽きさせない。",
+      "id": "bd2a3a9d-bf81-4484-9327-2c9c3c7bfecf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニスイーツが注目されている理由は何ですか？",
+      "options": [
+        "値段がとても安いから",
+        "手軽さと質の高さ、そして各社の開発努力があるから",
+        "有名店がコンビニに進出したから",
+        "季節限定のフルーツしか使わないから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「コンビニスイーツがここまで注目されるようになったのは、その手軽さと質の高さが理由の一つでしょう。…各社が独自性を出すために、開発に力を入れていることも、消費者を飽きさせない要因となっています。」と書かれています。",
+      "id": "be0588e3-d9cb-4570-83dc-1318bb267b9e"
+    },
+    {
+      "question": "筆者は、コンビニスイーツの新商品ラッシュについて、今後どうなると予想していますか？",
+      "options": [
+        "すぐに終わってしまう",
+        "専門店のスイーツに押されて減っていく",
+        "今後も続き、新しい発見をする楽しみがある",
+        "コラボ商品だけが人気になる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「この新商品ラッシュは、今後も続くと予想されます。…色々なコンビニスイーツを試してみることで、自分だけのお気に入りを見つける楽しみもあります。」と書かれています。",
+      "id": "bb0e3937-7620-41fc-a58d-79127833fe0e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-12-2caae4166c",
+  "publishedAt": "2026-06-12T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "新しいアニメが始まりました！",
+  "summary": "新しいアニメの初回放送はとても人気がありました。多くの人が話題にしています。それはなぜでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この度、新しいアニメが始まりました。初回放送は多くの人に見られました。テレビやインターネットで話題になっています。SNSでもたくさんのコメントがありました。",
+      "translationZh": "最近，一部新动画开播了。初回播出吸引了很多人观看。它在电视和网络上引起了热议。社交媒体上也有很多评论。",
+      "translationEn": "Recently, a new anime has started. The first broadcast was watched by many people. It's becoming a hot topic on TV and the internet. There were also many comments on social media.",
+      "id": "97b0f460-c0c6-4a3b-ab1f-3b5d71ba3bea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜこのアニメが話題になったのでしょうか。まず、キャラクターのデザインがとても良いです。そして、ストーリーが面白いです。絵もきれいです。たくさんの工夫があったと思います。",
+      "translationZh": "为什么这部动画会成为话题呢？首先，角色的设计非常好。然后，故事很有趣。画面也很漂亮。我想他们为此做了很多努力。",
+      "translationEn": "Why has this anime become a topic of conversation? First, the character designs are very good. Also, the story is interesting. The animation is beautiful too. I think they put a lot of effort into it.",
+      "id": "df7e70eb-ff34-42cf-9fc3-28f8e1b884c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの制作側は、初回放送をより多くの人に見てもらうために、いろいろな方法を使いました。放送前に予告（よこく）を出したり、声優さんのインタビューを公開したりしました。これらの工夫が、人々の興味を引いたのだと思います。",
+      "translationZh": "动画制作方使用了各种方法，让更多人观看初回播出。他们在播出前发布了预告，并公开了声优的采访。我认为这些努力引起了人们的兴趣。",
+      "translationEn": "The anime production team used various methods to get more people to watch the first broadcast. They released previews before the broadcast and published interviews with the voice actors. I believe these efforts attracted people's interest.",
+      "id": "d2f1128f-420a-44c9-9856-bc2217dc81d3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからもこのアニメが人気で続けるといいですね。次の話も楽しみにしています。皆さんもぜひ見てみてください。",
+      "translationZh": "希望这部动画今后能继续受欢迎。我也很期待下一集。大家也请一定要看看。",
+      "translationEn": "I hope this anime continues to be popular from now on. I'm also looking forward to the next episode. Please give it a watch.",
+      "id": "67100d3e-b397-44f0-926f-5e7eddb5ac64",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい本です。",
+      "id": "b609aac9-9548-4e49-93b6-1d444ab205b5"
+    },
+    {
+      "word": "アニメ",
+      "reading": "アニメ",
+      "meaningZh": "动画",
+      "meaningEn": "anime",
+      "level": "n5n4",
+      "exampleSentence": "私はアニメを見るのが好きです。",
+      "id": "fc1cd22c-6b02-4350-a656-f9b3d205b1da"
+    },
+    {
+      "word": "初回",
+      "reading": "しょかい",
+      "meaningZh": "初次，第一次",
+      "meaningEn": "first time",
+      "level": "n5n4",
+      "exampleSentence": "初回限定版はもう売り切れました。",
+      "id": "d520d796-67f0-4b5d-9c67-43308fbe0a78"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaningZh": "播放，播出",
+      "meaningEn": "broadcast",
+      "level": "n5n4",
+      "exampleSentence": "テレビでドラマが放送されます。",
+      "id": "c08c7fd0-73cb-4acc-ac5b-86a5ee0f270d"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic",
+      "level": "n5n4",
+      "exampleSentence": "このニュースは大きな話題になりました。",
+      "id": "cbaea7cb-b9d4-43b4-961b-5317b944f4cf"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "キャラクター",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このアニメのキャラクターは人気があります。",
+      "id": "3f7fd1ba-ab33-4574-b6f6-4c75c32d819c"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "办法，创造性构思",
+      "meaningEn": "ingenuity, contrivance",
+      "level": "n3",
+      "exampleSentence": "彼はいつも新しい工夫をします。",
+      "id": "d890922f-ebea-49ae-b4a0-2e8d298652a0"
+    },
+    {
+      "word": "予告",
+      "reading": "よこく",
+      "meaningZh": "预告",
+      "meaningEn": "preview, trailer",
+      "level": "n3",
+      "exampleSentence": "映画の予告を見ました。",
+      "id": "6bbaddb9-d986-4030-9be3-073e5495e266"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ新しいアニメが話題になったと思いますか。",
+      "options": [
+        "キャラクターのデザインとストーリーが面白いからです。",
+        "放送時間が長かったからです。",
+        "声優が有名だったからです。",
+        "インターネットで見られなかったからです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「キャラクターのデザインがとても良いです。そして、ストーリーが面白いです。」と書いてあります。",
+      "id": "978fb9b3-30fa-4cbb-a0a9-335b364381f6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-12-2a3cb1d3fe",
+  "publishedAt": "2026-06-12T06:00:00+09:00"
+}
