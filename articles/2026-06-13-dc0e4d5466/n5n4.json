@@ -1,0 +1,131 @@
+{
+  "title": "春が来た！桜の名所へ行こう",
+  "summary": "春になりました。各地で桜がきれいに咲き始めています。美しい桜を見に、近くの町へ出かけませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春の暖かい日が増えました。日本のあちこちで、桜の花が咲き始めました。桜は日本の春を代表する花です。ピンク色の小さな花がたくさん咲くと、町はとてもきれいになります。",
+      "translationZh": "春天温暖的日子变多了。日本各地，樱花都开始绽放了。樱花是代表日本春天的花。当许多粉红色的小花盛开时，城镇会变得非常美丽。",
+      "translationEn": "Warm spring days are increasing. Cherry blossoms are starting to bloom all over Japan. Cherry blossoms are the flowers representing Japanese spring. When many small pink flowers bloom, the town becomes very beautiful.",
+      "id": "58c6cb59-326c-451e-ad2d-eb6d74a708f4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "私の住んでいる町も、桜がとてもきれいです。町の中心にある公園は、桜の名所です。公園の川沿いには、たくさんの桜の木があります。満開の時は、まるでピンクのトンネルのようです。",
+      "translationZh": "我住的城镇，樱花也非常漂亮。镇中心公园是赏樱名所。公园的河边有很多樱花树。盛开的时候，就像粉色的隧道一样。",
+      "translationEn": "The town where I live also has very beautiful cherry blossoms. The park in the center of town is a famous spot for cherry blossoms. Along the river in the park, there are many cherry trees. When they are in full bloom, it looks like a pink tunnel.",
+      "id": "879e2db4-6d63-4205-84d9-af2ec5d507ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園には、古いお寺もあります。お寺の周りの桜も素晴らしいです。静かな雰囲気の中で、ゆっくり桜を楽しむことができます。お寺の近くには、おいしい和菓子屋さんもありますよ。",
+      "translationZh": "公园里，还有一座古老的神社。神社周围的樱花也很棒。在宁静的氛围中，可以悠闲地欣赏樱花。神社附近，还有好吃的日式点心店哦。",
+      "translationEn": "In the park, there is also an old temple. The cherry blossoms around the temple are also wonderful. You can slowly enjoy the cherry blossoms in a quiet atmosphere. Near the temple, there is also a delicious Japanese confectionery shop.",
+      "id": "f35b0314-f3f4-430a-bf31-feb7f053254c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の桜の見頃は、来週くらいからです。もし近くに来る機会があれば、ぜひこの町へ来てください。きっと、きれいな桜に感動すると思います。",
+      "translationZh": "今年的樱花观赏期，大约从下周开始。如果你们有机会来附近，请一定要来这个城镇。一定，会为美丽的樱花所感动。",
+      "translationEn": "This year's best time to see the cherry blossoms is from next week. If you have a chance to come nearby, please visit this town. I am sure you will be impressed by the beautiful cherry blossoms.",
+      "id": "5df2d9d9-f7e6-419f-9e57-bdc710332da8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "増えました",
+      "reading": "ふえました",
+      "meaningZh": "增加了",
+      "meaningEn": "increased",
+      "level": "n5n4",
+      "exampleSentence": "この町には人が増えました。",
+      "id": "b55baa9c-0429-4ebf-8e6d-2af5756d903e"
+    },
+    {
+      "word": "代表する",
+      "reading": "だいひょうする",
+      "meaningZh": "代表",
+      "meaningEn": "to represent",
+      "level": "n5n4",
+      "exampleSentence": "桜は日本の春を代表する花です。",
+      "id": "4f793e42-dec1-4e35-ad3a-2cc7218d242e"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaningZh": "名胜，著名景点",
+      "meaningEn": "famous place, scenic spot",
+      "level": "n5n4",
+      "exampleSentence": "ここは桜の名所です。",
+      "id": "a83a35f0-de86-4387-a817-4a5ebbf9a705"
+    },
+    {
+      "word": "川沿い",
+      "reading": "かわぞい",
+      "meaningZh": "沿河",
+      "meaningEn": "along the river",
+      "level": "n5n4",
+      "exampleSentence": "川沿いを散歩しました。",
+      "id": "a1bf704d-a5e0-4831-a9ba-f20562cd5de1"
+    },
+    {
+      "word": "満開",
+      "reading": "まんかい",
+      "meaningZh": "盛开",
+      "meaningEn": "full bloom",
+      "level": "n5n4",
+      "exampleSentence": "桜が満開です。",
+      "id": "ba521df1-ba13-44d3-97df-21fdeb907ecc"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n5n4",
+      "exampleSentence": "静かな雰囲気のカフェです。",
+      "id": "43183a54-21ee-4fbf-ba6a-bf1b8a582beb"
+    },
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese sweets",
+      "level": "n5n4",
+      "exampleSentence": "和菓子はお茶によく合います。",
+      "id": "6ed823f3-5f5b-44db-b70b-f76061a763a4"
+    },
+    {
+      "word": "見頃",
+      "reading": "みごろ",
+      "meaningZh": "（花、果实等）最适观赏/食用时期",
+      "meaningEn": "best time to see/eat",
+      "level": "n5n4",
+      "exampleSentence": "この桜の見頃はいつですか。",
+      "id": "40dab91c-33af-4198-a4e6-be963ad6463c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公園の川沿いには、何がたくさんありますか。",
+      "options": [
+        "古いお寺",
+        "おいしい和菓子屋さん",
+        "たくさんの桜の木",
+        "ピンクのトンネル"
+      ],
+      "correctIndex": 2,
+      "explanation": "公園の川沿いには、たくさんの桜の木があります。",
+      "id": "52a41412-ffbc-4fbd-b6d8-3ec26a1b5688"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-13-dc0e4d5466",
+  "publishedAt": "2026-06-13T06:00:00+09:00"
+}

@@ -1,0 +1,134 @@
+{
+  "title": "桜前線！地方都市で楽しむ春の絶景",
+  "summary": "桜の見頃が各地で近づいています。今回は、都会の喧騒を離れて、のんびり桜を楽しめる地方都市の見どころをご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春の訪れとともに、日本各地で桜が咲き始めました。満開の桜は本当に美しいですが、今年は少し足を延ばして、地方都市でゆっくりと桜を鑑賞するのはいかがでしょうか。都市部では見られない、素朴で温かい風景が待っているはずです。",
+      "translationZh": "随着春天的到来，日本各地的樱花已经开始绽放。樱花盛开的景色确实很美，但今年您不妨稍微伸展脚步，到地方城市悠闲地欣赏樱花如何？应该会有您在都市里看不到的，朴实而温馨的风景在等待着您。",
+      "translationEn": "With the arrival of spring, cherry blossoms have begun to bloom across Japan. While full-blown cherry blossoms are truly beautiful, how about extending your journey a bit this year and slowly appreciating them in a regional city? A simple and warm scenery, unlike what you might see in urban areas, awaits you.",
+      "id": "de1a93aa-c3ef-46da-9dbc-e2e90f1f2a5e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、山間部にある小さな町では、川沿いに桜並木が続き、その下を流れる川のせせらぎとともに、穏やかな時間が流れます。地元の人々が大切に育てている桜は、都会の桜とはまた違った趣があり、見ているだけで心が安らぎます。お花見をしながら、地元のお祭りに参加するのも楽しいでしょう。",
+      "translationZh": "例如，在山间的一个小镇上，沿着河岸是绵延的樱花树，伴随着下方流淌的溪水声，宁静的时间缓缓流淌。当地人们精心培育的樱花，有着与都市的樱花不同的韵味，光是看着就让人心神宁静。一边赏花，一边参加当地的祭典想必也很有趣。",
+      "translationEn": "For instance, in a small mountain town, cherry blossom trees line the river, and a peaceful time flows along with the murmuring of the river beneath them. The cherry blossoms, carefully nurtured by the local people, possess a charm different from those in the city, bringing a sense of peace just by looking at them. It would also be enjoyable to participate in local festivals while having a cherry blossom viewing party.",
+      "id": "4a186aba-9ed5-470b-b1da-07a4a59ea57d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、海に近い町では、青い海と桜のコントラストが楽しめます。桜のピンク色と海の青色が織りなす景色は、感動的です。港町を散策しながら、新鮮な海の幸を味わうのもおすすめです。桜の開花時期に合わせて、特別なイベントが開催されることもありますよ。",
+      "translationZh": "另外，在靠近海边的城镇，您可以欣赏到蓝色大海与樱花的对比。粉色的樱花与蓝色的海洋交织出的景色，令人感动。漫步在港口城镇，品尝新鲜的海鲜也十分推荐。配合樱花的开花时期，有时也会举办特别的活动哦。",
+      "translationEn": "Furthermore, in towns near the sea, you can enjoy the contrast between the blue ocean and the cherry blossoms. The scenery woven by the pink of the cherry blossoms and the blue of the sea is breathtaking. Strolling through the port town and savoring fresh seafood is also recommended. Special events may also be held in accordance with the cherry blossom season.",
+      "id": "4a47bd4a-74de-4679-a8bc-49d49fad502b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方都市での桜鑑賞は、ただ美しい景色を見るだけでなく、その土地ならではの文化や人々の温かさに触れる良い機会になります。次の春は、ぜひ少し遠出して、心に残る桜旅を楽しんでみてください。",
+      "translationZh": "在地方城市赏樱，不仅仅是欣赏美丽的景色，更是体验当地特有的文化和感受当地人温暖的好机会。下一个春天，请一定稍微远行，享受一次令人难忘的樱花之旅。",
+      "translationEn": "Appreciating cherry blossoms in a regional city is not just about seeing beautiful scenery; it becomes a good opportunity to experience the unique culture of the place and the warmth of its people. For your next spring, why not travel a little further and enjoy a memorable cherry blossom journey?",
+      "id": "1dc001bf-9129-4d8c-a066-eb68f2b07044",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访；访问；到来",
+      "meaningEn": "to visit; to call on; to come; to arrive",
+      "level": "n5n4",
+      "exampleSentence": "春が訪れると、気分も明るくなります。",
+      "id": "49d66f3b-fb17-4d66-a516-3107a15a9033"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧嚣；嘈杂",
+      "meaningEn": "clamor; uproar; din; bustle",
+      "level": "n3",
+      "exampleSentence": "都会の喧騒を離れて、静かな場所で過ごしたい。",
+      "id": "cdf4cf21-15d9-45bc-a830-9ccbec98e36d"
+    },
+    {
+      "word": "素朴",
+      "reading": "そぼく",
+      "meaningZh": "朴素；淳朴",
+      "meaningEn": "simplicity; plainness; rustic",
+      "level": "n3",
+      "exampleSentence": "彼女は素朴な味のお菓子が好きだ。",
+      "id": "a18d9b19-467a-4056-b29d-62c2bf6e7e90"
+    },
+    {
+      "word": "趣",
+      "reading": "おもむき",
+      "meaningZh": "韵味；情趣；意境",
+      "meaningEn": "charm; grace; taste; elegance",
+      "level": "n3",
+      "exampleSentence": "古い家には、独特の趣がある。",
+      "id": "edde603f-773d-4767-976c-6c4645e95507"
+    },
+    {
+      "word": "せせらぎ",
+      "reading": "せせらぎ",
+      "meaningZh": "潺潺流水声；溪流",
+      "meaningEn": "murmur of a stream; babbling brook",
+      "level": "n5n4",
+      "exampleSentence": "川のせせらぎを聞きながらリラックスした。",
+      "id": "8ca76539-3c76-47da-ba7c-c6e564e820e1"
+    },
+    {
+      "word": "織りなす",
+      "reading": "おりなす",
+      "meaningZh": "交织；编织",
+      "meaningEn": "to weave; to create (a pattern, etc.)",
+      "level": "n3",
+      "exampleSentence": "空と海が美しく織りなす景色に感動した。",
+      "id": "bdb205bf-eb96-4fef-bd8c-f8e3e410d339"
+    },
+    {
+      "word": "海沿い",
+      "reading": "うみぞい",
+      "meaningZh": "海边；沿海",
+      "meaningEn": "along the coast; seaside",
+      "level": "n5n4",
+      "exampleSentence": "海沿いの道をドライブするのは気持ちがいい。",
+      "id": "61190af3-5582-4f80-9c7e-708ab37c75be"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方都市で桜を楽しむことの利点は何ですか？",
+      "options": [
+        "桜が満開の時期に必ずイベントがあること。",
+        "都会では見られない素朴な風景や文化に触れられること。",
+        "交通の便が非常に良く、誰でも簡単に行けること。",
+        "有名なお店がたくさんあり、食事に困らないこと。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「都会の喧騒を離れて、のんびり桜を楽しめる地方都市の見どころをご紹介します。」や「都市部では見られない、素朴で温かい風景が待っているはずです。」と書かれています。",
+      "id": "4061bf80-4e5b-4377-a182-0759f56ffea9"
+    },
+    {
+      "question": "海に近い町での桜鑑賞の魅力として、文章中で述べられていることは何ですか？",
+      "options": [
+        "川のせせらぎを聞きながら桜を楽しめる。",
+        "山々との美しいコントラストが見られる。",
+        "青い海と桜のピンク色のコントラストが楽しめる。",
+        "地元の人々が育てた素朴な桜を見られる。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「また、海に近い町では、青い海と桜のコントラストが楽しめます。桜のピンク色と海の青色が織りなす景色は、感動的です。」と記述されています。",
+      "id": "e71952a0-5f23-4386-9c1f-6a68cc21709a"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-13-dc0e4d5466",
+  "publishedAt": "2026-06-13T06:00:00+09:00"
+}

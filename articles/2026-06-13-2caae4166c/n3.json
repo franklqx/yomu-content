@@ -1,0 +1,143 @@
+{
+  "title": "コンビニ限定スイーツ新商品ラッシュ！あなたのお気に入りは？",
+  "summary": "最近、コンビニで新しいスイーツがたくさん発売されています。今回は、その中でも注目すべき新商品と、選ぶ際のポイントを紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、コンビニのスイーツコーナーはまるで新しい宝箱のようです。各社が次々と魅力的な限定スイーツを発売しているので、どれを選ぶか迷ってしまいますよね。新しい商品が登場するたびに、SNSでも話題になり、多くの人が試しています。",
+      "translationZh": "最近，便利店的甜点区简直就像一个新宝箱。各家公司接连推出有魅力的限定甜点，让人不知道该选哪个。每次新商品登场，都会在社交媒体上引起话题，很多人都会尝试。",
+      "translationEn": "Recently, the sweets corner in convenience stores is like a new treasure chest. As each company successively releases attractive limited-edition sweets, it's hard to decide which one to choose. Every time a new product appears, it becomes a hot topic on social media, and many people try them.",
+      "id": "a3f6eff5-361a-44cd-b347-da9da155eb0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目したいのは、有名パティスリーが監修した本格的な味わいのケーキや、季節のフルーツをふんだんに使ったタルトなどです。これらの商品は、普段なかなかお店に行けない人でも、手軽に一流の味を楽しめるのが嬉しい点です。値段も手頃なので、何度でも試したくなります。",
+      "translationZh": "特别值得关注的是，有知名糕点师监修的正宗口味的蛋糕，以及大量使用当季水果的挞等。这些商品的好处是，即使平时很难去店里的人，也能轻松享受到一流的味道。价格也很实惠，让人想尝试很多次。",
+      "translationEn": "We especially want to draw attention to authentic-tasting cakes supervised by famous patisseries, and tarts packed with seasonal fruits. The great thing about these products is that even people who usually can't easily visit those shops can conveniently enjoy first-class flavors. The prices are also reasonable, making you want to try them again and again.",
+      "id": "9b464849-735d-4c4b-aeaa-706ec16b1d0d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スイーツを選ぶ際は、まず自分の好みの味を考えてみましょう。甘いものが好きなら濃厚なチョコレート系、さっぱりしたいならフルーツ系など、種類は豊富です。また、期間限定の商品も多いので、気になるものがあれば、売り切れる前に早めにチェックすることをおすすめします。",
+      "translationZh": "选择甜点时，首先可以考虑自己喜欢的口味。如果喜欢甜食，可以选择浓郁的巧克力系列；如果想吃点清爽的，可以选择水果系列，种类非常丰富。另外，因为有很多限时商品，如果有感兴趣的，建议在售罄前尽早查看。",
+      "translationEn": "When choosing sweets, first consider your preferred taste. If you like sweet things, go for rich chocolate types; if you want something refreshing, choose fruit-based ones, as the variety is abundant. Also, since many products are limited-time offers, if there's something you're interested in, we recommend checking it out early before it sells out.",
+      "id": "52335ae5-0dff-453f-8ed5-33e1a477d5a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニスイーツは、手軽に買えるだけでなく、そのクオリティの高さでも私たちの生活を豊かにしてくれます。新しい商品が登場するたびに、小さな幸せを見つけることができます。皆さんも、ぜひお近くのコンビニで、お気に入りの一品を見つけてみてください。",
+      "translationZh": "便利店的甜点不仅容易购买，其高品质也丰富了我们的生活。每次新商品登场，都能发现小小的幸福。大家也请务必在附近的便利店，找到自己喜欢的那一款。",
+      "translationEn": "Convenience store sweets not only are easy to buy, but they also enrich our lives with their high quality. Every time new products are released, we can find small joys. Everyone, please be sure to find your favorite item at a convenience store near you.",
+      "id": "ba69fe16-7436-41f1-8920-587f9f57a7b9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "宝箱",
+      "reading": "たからばこ",
+      "meaningZh": "宝箱",
+      "meaningEn": "treasure chest",
+      "level": "n5n4",
+      "exampleSentence": "宝箱の中には金貨がたくさん入っていました。",
+      "id": "f60480d7-3802-425f-b87f-7242d31e2e6e"
+    },
+    {
+      "word": "次々と",
+      "reading": "つぎつぎと",
+      "meaningZh": "接连不断地，一个接一个地",
+      "meaningEn": "one after another, in succession",
+      "level": "n3",
+      "exampleSentence": "新しいアイデアが次々と浮かびました。",
+      "id": "309367c7-9fdb-48f6-bd86-1953ca397966"
+    },
+    {
+      "word": "監修",
+      "reading": "かんしゅう",
+      "meaningZh": "监修，指导",
+      "meaningEn": "supervision, direction",
+      "level": "n3",
+      "exampleSentence": "有名なシェフがこのレストランのメニューを監修しています。",
+      "id": "3fc77e1d-e6a1-4915-a9cf-77de401b6a2f"
+    },
+    {
+      "word": "本格的",
+      "reading": "ほんかくてき",
+      "meaningZh": "正宗的，地道的",
+      "meaningEn": "authentic, genuine",
+      "level": "n3",
+      "exampleSentence": "このお店は本格的なイタリア料理が楽しめます。",
+      "id": "127bac48-6f96-4fb6-b8a4-178eb83949df"
+    },
+    {
+      "word": "ふんだんに",
+      "reading": "ふんだんに",
+      "meaningZh": "大量地，丰富地",
+      "meaningEn": "abundantly, lavishly",
+      "level": "n3",
+      "exampleSentence": "新鮮な野菜をふんだんに使ったサラダは美味しいです。",
+      "id": "e2e83222-003c-4d18-a0e4-f4fbd445dcbe"
+    },
+    {
+      "word": "手軽に",
+      "reading": "てがるに",
+      "meaningZh": "轻松地，方便地",
+      "meaningEn": "easily, readily, conveniently",
+      "level": "n3",
+      "exampleSentence": "このアプリを使えば、手軽に写真が編集できます。",
+      "id": "d5c7a83c-c637-46fc-8b7e-ccd9ad50dba5"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格适中的，实惠的",
+      "meaningEn": "reasonable, affordable",
+      "level": "n3",
+      "exampleSentence": "手頃な価格で良い品物が見つかりました。",
+      "id": "d2a0c249-89ab-47fa-81b4-b4d37173aa0e"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "售罄，卖完",
+      "meaningEn": "to sell out",
+      "level": "n3",
+      "exampleSentence": "限定品なので、すぐに売り切れてしまいました。",
+      "id": "57c06d8e-8ba9-42a4-878e-716450c89b2f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニで新しいスイーツが次々と発売されている理由は何ですか？",
+      "options": [
+        "価格が安くなったから",
+        "有名パティスリーが監修しているから",
+        "SNSで話題になっているから",
+        "季節のフルーツを多く使っているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「新しい商品が登場するたびに、SNSでも話題になり、多くの人が試しています。」と述べられています。",
+      "id": "377ad300-8c25-4c43-a83f-a761b877d599"
+    },
+    {
+      "question": "スイーツを選ぶ際に、筆者が勧めていることは何ですか？",
+      "options": [
+        "一番高い商品を選ぶこと",
+        "期間限定の商品を避けること",
+        "自分の好みの味を考えて選ぶこと",
+        "売り切れるまで待って買うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「スイーツを選ぶ際は、まず自分の好みの味を考えてみましょう。」と書かれています。",
+      "id": "92189c04-de96-45cb-af28-f5ad87f604f5"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-13-2caae4166c",
+  "publishedAt": "2026-06-13T06:00:00+09:00"
+}

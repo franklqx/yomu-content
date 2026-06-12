@@ -1,0 +1,122 @@
+{
+  "title": "コンビニ新スイーツ！",
+  "summary": "コンビニで新しいお菓子がたくさん出ました。どんなお菓子があるか見てみましょう。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "今、コンビニで新しいお菓子がたくさん売られています。チョコレートやケーキ、アイスクリームなど、いろいろな種類があります。どれもおいしそうです。",
+      "translationZh": "现在，便利店里卖着很多新点心。有巧克力、蛋糕、冰淇淋等等，种类非常多。看起来都很好吃。",
+      "translationEn": "Now, many new sweets are being sold at convenience stores. There are various kinds, such as chocolate, cake, and ice cream. They all look delicious.",
+      "id": "7271c327-961e-4166-8ff7-6a57a3b91fea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新商品は、期間限定のものが多いです。だから、早く買わないとなくなってしまいます。お店に行くと、見たことのないお菓子がたくさん並んでいます。",
+      "translationZh": "这些新品大多是限时发售的。所以，如果不快点买就会卖完。去店里的话，有很多没见过的点心摆在那里。",
+      "translationEn": "Many of these new products are limited in time. Therefore, if you don't buy them quickly, they will be gone. When you go to the store, you will see many unfamiliar sweets lined up.",
+      "id": "3806796b-deb0-4309-b006-40da68a6eefc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "私もいくつか買ってみました。値段は３００円ぐらいです。家族と一緒に食べましたが、みんな「おいしい！」と言っていました。",
+      "translationZh": "我也买了一些。价格大约是300日元。我和家人一起吃了，大家都说“好吃！”。",
+      "translationEn": "I also bought a few. The price is around 300 yen. I ate them with my family, and everyone said, 'Delicious!'",
+      "id": "8070a933-a63a-4e90-b821-2cab6060bc5e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、コンビニで新しいお菓子を探してみませんか？きっと、お気に入りの味が見つかりますよ。",
+      "translationZh": "大家也要不要在便利店找找新点心呢？肯定能找到你喜欢的口味哦。",
+      "translationEn": "Why don't you also look for new sweets at the convenience store? You will surely find your favorite flavor.",
+      "id": "50717e4b-832f-43a2-aacb-e841fd7c6997",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コンビニ",
+      "reading": "こんびに",
+      "meaningZh": "便利店",
+      "meaningEn": "convenience store",
+      "level": "n5n4",
+      "exampleSentence": "コンビニでパンを買いました。",
+      "id": "2c1174ad-afb6-408a-8ace-3e59473d45d3"
+    },
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい本です。",
+      "id": "24707a4f-eff7-4822-920b-8981a466ce32"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaningZh": "点心，零食",
+      "meaningEn": "sweets, snacks",
+      "level": "n5n4",
+      "exampleSentence": "子供はお菓子が好きです。",
+      "id": "1059aa0e-8008-4caa-be8d-e09ad31aa288"
+    },
+    {
+      "word": "売られています",
+      "reading": "うられています",
+      "meaningZh": "被卖着",
+      "meaningEn": "are being sold",
+      "level": "n5n4",
+      "exampleSentence": "この店で、たくさんの果物が売られています。",
+      "id": "be28bb34-ea6d-470f-a8c2-f743b8c8accf"
+    },
+    {
+      "word": "期間限定",
+      "reading": "きかんげんてい",
+      "meaningZh": "限时",
+      "meaningEn": "limited time",
+      "level": "n3",
+      "exampleSentence": "この飲み物は期間限定です。",
+      "id": "79825582-e20f-4476-b83b-cc684fe14c5c"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾，可惜",
+      "meaningEn": "regrettable, unfortunate",
+      "level": "n5n4",
+      "exampleSentence": "雨で遠足が中止になって残念です。",
+      "id": "dec81d13-7ddf-4ff1-b984-41c97bf763f1"
+    },
+    {
+      "word": "見つかります",
+      "reading": "みつかります",
+      "meaningZh": "被找到",
+      "meaningEn": "is found",
+      "level": "n5n4",
+      "exampleSentence": "なくした財布が見つかりました。",
+      "id": "782eeed6-9516-4e17-9645-fc4c63853314"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニの新しいお菓子は、いつまで買えますか。",
+      "options": [
+        "ずっと買えます",
+        "１週間だけ買えます",
+        "期間限定のものが多いです",
+        "来月になったら買えます"
+      ],
+      "correctIndex": 2,
+      "explanation": "文章には「この新商品は、期間限定のものが多いです。」と書いてあります。",
+      "id": "fea0565a-a005-4b3f-857c-0500bee68aac"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-13-2caae4166c",
+  "publishedAt": "2026-06-13T06:00:00+09:00"
+}

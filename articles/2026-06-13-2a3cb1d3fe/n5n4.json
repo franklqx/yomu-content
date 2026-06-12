@@ -1,0 +1,114 @@
+{
+  "title": "新しいアニメ、どうだった？",
+  "summary": "たくさんの新しいアニメが始まりました。どんなアニメが人気ですか。話題になるために、どうしますか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今月、新しいアニメがたくさん放送されました。テレビやインターネットで見ることができます。どの新しいアニメが一番人気ですか。まだ分かりません。でも、アニメの会社は、たくさんの人に見てもらいたいです。",
+      "translationZh": "这个月，有很多新动画开始播放了。可以在电视和网上观看。哪部新动画最受欢迎呢？现在还不知道。但是，动画公司希望很多人观看。",
+      "translationEn": "This month, many new anime were broadcast. You can watch them on TV and the internet. Which new anime is the most popular? We don't know yet. But, anime companies want many people to watch.",
+      "id": "99a66ead-36ac-4f86-877f-a983dd6bb6b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメが人気になるために、会社は色々な工夫をします。例えば、有名な声優さんを使ったり、絵をきれいに描いたりします。また、SNSでアニメの紹介をたくさんします。SNSは、友達と話すのに便利です。",
+      "translationZh": "为了让动画受欢迎，公司会做各种努力。例如，使用有名的配音演员，或者把画面画得很漂亮。而且，在社交媒体上大量介绍动画。社交媒体很方便用来和朋友聊天。",
+      "translationEn": "To make anime popular, companies make various efforts. For example, they use famous voice actors or draw beautiful pictures. Also, they promote anime a lot on social media. Social media is convenient for talking with friends.",
+      "id": "8db9ab3e-8162-4368-81fa-785284a88b95",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "初回放送はとても大切です。最初のアニメを見て、面白いと思ったら、次も見る人が多いです。だから、初回で「このアニメは面白い！」と思わせることが大事です。新しいアニメが、あなたの好きなアニメになるといいですね。",
+      "translationZh": "第一次播放非常重要。如果看了最初的动画觉得很有趣，很多人会接着看下一集。所以，在第一次播放时就让人觉得“这部动画很有趣！”是很重要的。希望新动画能成为你喜欢的动画。",
+      "translationEn": "The first broadcast is very important. If people watch the first episode and find it interesting, many will watch the next one. Therefore, it is important to make people think \"This anime is interesting!\" in the first episode. We hope the new anime will become your favorite.",
+      "id": "a761856c-19cb-4cf8-b73b-a9d33c6d1bf9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaningZh": "播放，播出",
+      "meaningEn": "broadcast",
+      "level": "n5n4",
+      "exampleSentence": "テレビで新しいドラマが放送されます。",
+      "id": "225072ae-d657-40fb-89ac-68aa4bec9020"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "adce90bb-d17b-4ed2-83ee-5b3e1b24478f"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，改进，创造",
+      "meaningEn": "ingenuity, devising",
+      "level": "n5n4",
+      "exampleSentence": "もっと早くできる工夫をしました。",
+      "id": "4a922405-4860-4e0e-a8dd-b82d460d558d"
+    },
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "配音演员",
+      "meaningEn": "voice actor",
+      "level": "n5n4",
+      "exampleSentence": "そのアニメの主人公は有名な声優がやっています。",
+      "id": "1361e980-1d0b-4a3e-94b9-3fdd8a61e44b"
+    },
+    {
+      "word": "紹介",
+      "reading": "しょうかい",
+      "meaningZh": "介绍",
+      "meaningEn": "introduction",
+      "level": "n5n4",
+      "exampleSentence": "友達に新しいレストランを紹介しました。",
+      "id": "75c5a451-a7d9-4717-8d5c-a317b83f44b3"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "スマートフォンはとても便利です。",
+      "id": "d09e41ca-e119-441b-a0c0-b1987097f7a4"
+    },
+    {
+      "word": "初回",
+      "reading": "しょかい",
+      "meaningZh": "初次，第一次",
+      "meaningEn": "first time",
+      "level": "n5n4",
+      "exampleSentence": "この本の初回限定版を買いました。",
+      "id": "1fec563e-c614-4da6-ae4e-16314a2a8e59"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの会社は、どうしたらアニメが人気になると考えていますか。",
+      "options": [
+        "もっとたくさんの話を作ること",
+        "有名な声優を使ったり、絵をきれいに描いたり、SNSで紹介すること",
+        "アニメをたくさんテレビで放送すること",
+        "アニメの値段を安くすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「アニメが人気になるために、会社は色々な工夫をします。例えば、有名な声優さんを使ったり、絵をきれいに描いたりします。また、SNSでアニメの紹介をたくさんします。」と書いてあります。",
+      "id": "400902de-af06-4c25-b937-f9cd65820527"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-13-2a3cb1d3fe",
+  "publishedAt": "2026-06-13T06:00:00+09:00"
+}
