@@ -1,0 +1,123 @@
+{
+  "title": "街に増える空き家、どうする？",
+  "summary": "都市部で空き家が増えています。人々は空き家を新しい場所として活用し始めています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の都市部で空き家が増えています。空き家とは、誰も住んでいない家や建物のことです。人が住まなくなった家は、そのままにしておくと古くなります。そして、街の見た目も悪くなります。",
+      "translationZh": "最近，日本的城市地区空置房屋正在增加。空置房屋是指没有人居住的房屋或建筑物。不居住的房屋，如果就这样放着会变旧。而且，街景也会变差。",
+      "translationEn": "Recently, vacant houses are increasing in urban areas of Japan. Vacant houses are houses or buildings where no one lives. If a house is left as it is, it will become old. And the appearance of the town will also worsen.",
+      "id": "4837e20f-240f-4661-9cb1-4a02422da84a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、この問題に対して、新しいアイデアが出てきました。空き家をそのままにするのではなく、別の目的で使うプロジェクトです。例えば、古い家をカフェにしたり、お店にしたりします。若者たちが集まる場所になることもあります。",
+      "translationZh": "但是，针对这个问题，出现了新的想法。这不是让空置房屋就这样放着，而是用于其他目的的项目。例如，把旧房子改造成咖啡馆或商店。有时也会成为年轻人聚集的地方。",
+      "translationEn": "However, new ideas have emerged for this problem. It is a project to use vacant houses for different purposes instead of leaving them as they are. For example, old houses are turned into cafes or shops. They can also become places where young people gather.",
+      "id": "14317d15-2f41-4014-90ec-f9b856af4697",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、空き家を地域の人のためのスペースにすることもできます。例えば、子供たちが遊ぶ場所や、地域の人たちが交流する場所です。これらのプロジェクトは、街を元気にするのに役立ちます。空き家は、新しい可能性を秘めているのです。",
+      "translationZh": "此外，空置房屋还可以成为社区居民的空间。例如，孩子们玩耍的地方，或者社区居民交流的地方。这些项目有助于使城市充满活力。空置房屋蕴藏着新的可能性。",
+      "translationEn": "Also, vacant houses can be made into spaces for local people. For example, places for children to play or places for community members to interact. These projects help to revitalize the city. Vacant houses hold new potential.",
+      "id": "29365879-f734-42f9-92dd-a4520e1ba996",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市地区，市区",
+      "meaningEn": "urban area, city center",
+      "level": "n5n4",
+      "exampleSentence": "都市部では電車が便利です。",
+      "id": "5b159bb0-d7dd-4763-a7cc-35069e58d0de"
+    },
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置房屋",
+      "meaningEn": "vacant house",
+      "level": "n5n4",
+      "exampleSentence": "この町には空き家が多いです。",
+      "id": "49515cf9-7b12-4a2c-9af1-99524b40d077"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "利用，运用",
+      "meaningEn": "utilization, making use of",
+      "level": "n5n4",
+      "exampleSentence": "この部屋を勉強に活用しましょう。",
+      "id": "d8b2ba2f-c9d0-48ac-9741-6521fa534dc7"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "项目",
+      "meaningEn": "project",
+      "level": "n5n4",
+      "exampleSentence": "新しいプロジェクトが始まりました。",
+      "id": "7205bec5-8943-43ef-9faa-e62dd080d5aa"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningZh": "目的，目标",
+      "meaningEn": "purpose, objective",
+      "level": "n5n4",
+      "exampleSentence": "私の目的は日本語を学ぶことです。",
+      "id": "9208b770-6ac5-41ac-8ce8-313487ce412b"
+    },
+    {
+      "word": "カフェ",
+      "reading": "かふぇ",
+      "meaningZh": "咖啡馆",
+      "meaningEn": "cafe",
+      "level": "n5n4",
+      "exampleSentence": "友達とカフェで会いました。",
+      "id": "8d940a2d-d7b7-4779-bf1e-7bb6168a8b68"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな地域です。",
+      "id": "0ec419c4-95b0-4150-a83f-30448ba361bb"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "exchange, interaction",
+      "level": "n5n4",
+      "exampleSentence": "色々な国の人と交流したいです。",
+      "id": "a8a39dcd-7d9e-49d2-9294-e7ef1f3bc88a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "空き家プロジェクトは何のためにありますか？",
+      "options": [
+        "空き家を壊すため",
+        "空き家を新しい目的で使うため",
+        "空き家をそのままにするため",
+        "空き家を調べるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「空き家をそのままにするのではなく、別の目的で使うプロジェクトです。」",
+      "id": "ab61d124-537c-40d9-bfb9-2e1a3bbf28e9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-14-3df8323f83",
+  "publishedAt": "2026-06-14T06:00:00+09:00"
+}

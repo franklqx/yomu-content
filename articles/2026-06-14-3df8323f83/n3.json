@@ -1,0 +1,134 @@
+{
+  "title": "都市の空き家、新しい命を吹き込むプロジェクト",
+  "summary": "都市部で増えている空き家が、リノベーションや地域活動の場として活用されるプロジェクトが増えています。これにより、地域活性化と課題解決が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の都市部では、使われていない建物、つまり「空き家」が増えています。これは、人口減少や都市構造の変化などが原因です。しかし、この空き家をそのままにしておくのではなく、新しい活用方法を見つけるプロジェクトが注目されています。",
+      "translationZh": "最近，日本的都市地区，闲置不用的建筑物，也就是“空房”在增加。这是由于人口减少和城市结构变化等原因造成的。但是，人们正关注的不是放任这些空房不管，而是寻找新的利用方法的项目。",
+      "translationEn": "Recently, in Japan's urban areas, unused buildings, or 'akiya,' are increasing. This is due to reasons such as population decline and changes in urban structure. However, instead of leaving these akiya as they are, projects finding new ways to utilize them are gaining attention.",
+      "id": "12178884-7528-423b-89f9-1bb3394918b9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、古い一軒家をリノベーションして、カフェやシェアハウスとして生まれ変わらせる事例があります。これにより、若い人たちが安く住める場所が提供されるだけでなく、地域に新しい交流が生まれることも期待できます。空き家だった場所が、人々が集まる魅力的な空間になるのです。",
+      "translationZh": "例如，有将旧式独栋房屋翻新，改造成咖啡馆或共享住宅的案例。这不仅能为年轻人提供便宜的居住空间，还能期待为社区带来新的交流。原本空置的地方，变成了人们聚集的有魅力的空间。",
+      "translationEn": "For example, there are cases where old detached houses are renovated and reborn as cafes or share houses. This not only provides affordable housing for young people but also is expected to create new interactions within the community. Places that were once vacant become attractive spaces where people gather.",
+      "id": "c0b5ad10-f081-4090-8ab1-53540ec7c3ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、空き家を地域のコミュニティスペースとして活用する動きもあります。地域のイベントやワークショップの会場にしたり、子供たちの遊び場にしたりすることで、地域住民のつながりを深めることができます。空き家問題の解決に貢献するだけでなく、地域社会全体を豊かにすることにもつながるのです。",
+      "translationZh": "此外，还有将空房用作社区活动空间的动向。通过将其用作社区活动或研讨会的场所，或作为孩子们的游乐区，可以加深社区居民之间的联系。这不仅有助于解决空房问题，也能够丰富整个社区社会。",
+      "translationEn": "There is also a movement to utilize akiya as community spaces. By using them as venues for local events and workshops, or as playgrounds for children, it can deepen the connections among local residents. This not only contributes to solving the akiya problem but also leads to enriching the entire community.",
+      "id": "0817ffee-bd90-44d5-b7e2-a1b3889bf42f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このような空き家活用プロジェクトは、都市部ならではの課題に対応しつつ、地域に新たな価値を生み出しています。今後も、様々なアイデアによって、空き家が地域にとって欠かせない存在になっていくでしょう。",
+      "translationZh": "这类空房利用项目，在应对都市特有的课题的同时，也为地区创造了新的价值。今后，通过各种各样的创意，空房将成为地区不可或缺的存在。",
+      "translationEn": "These akiya utilization projects are creating new value for the community while addressing issues unique to urban areas. In the future, through various ideas, akiya will likely become an indispensable presence for the community.",
+      "id": "264fed82-2d43-4ea3-a18a-04404672553d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置的房屋，空房",
+      "meaningEn": "vacant house, empty house",
+      "level": "n3",
+      "exampleSentence": "空き家が増えているので、活用方法が課題になっています。",
+      "id": "9da2f05b-6ed9-4e5b-9f28-709dd228cea2"
+    },
+    {
+      "word": "リノベーション",
+      "reading": "りのべーしょん",
+      "meaningZh": "翻新，改造（尤指对建筑物）",
+      "meaningEn": "renovation, refurbishment",
+      "level": "n3",
+      "exampleSentence": "古いアパートをリノベーションして、おしゃれなゲストハウスにした。",
+      "id": "459989df-6f4a-4121-a728-e72e1ad6eabf"
+    },
+    {
+      "word": "シェアハウス",
+      "reading": "しぇあはうす",
+      "meaningZh": "合租房",
+      "meaningEn": "share house",
+      "level": "n3",
+      "exampleSentence": "家賃を安くするために、シェアハウスに住むことにした。",
+      "id": "354b7e48-bbb3-4f00-865c-c9d6a4edb0f4"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流，交往",
+      "meaningEn": "exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "新しい土地で、たくさんの人々と交流したいです。",
+      "id": "58262f98-73e5-4abe-86df-2ab001c3e62c"
+    },
+    {
+      "word": "コミュニティスペース",
+      "reading": "こみゅにてぃすぺーす",
+      "meaningZh": "社区空间",
+      "meaningEn": "community space",
+      "level": "n3",
+      "exampleSentence": "この公園は、地域住民の憩いのコミュニティスペースです。",
+      "id": "05cfeb8b-78f7-4227-b595-b4bcef9f4f6c"
+    },
+    {
+      "word": "ワークショップ",
+      "reading": "わーくしょっぷ",
+      "meaningZh": "研讨会，工作坊",
+      "meaningEn": "workshop",
+      "level": "n3",
+      "exampleSentence": "週末に、陶芸のワークショップに参加する予定です。",
+      "id": "a0892c9f-5edf-44cc-83b7-8f898fbe5773"
+    },
+    {
+      "word": "つながり",
+      "reading": "つながり",
+      "meaningZh": "联系，纽带",
+      "meaningEn": "connection, tie",
+      "level": "n3",
+      "exampleSentence": "地域の人々とのつながりを大切にしたい。",
+      "id": "4cc03554-cc59-4f79-ac5b-92ef553f05e5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "都市部で空き家が増えている理由は何ですか？",
+      "options": [
+        "建材の高騰",
+        "人口減少や都市構造の変化",
+        "若者の地方移住",
+        "地震の多発"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最初の段落に「これは、人口減少や都市構造の変化などが原因です。」とあります。",
+      "id": "8f4e105a-a828-4fb7-a0a8-d6420dc43f37"
+    },
+    {
+      "question": "空き家活用プロジェクトの目的の一つとして、どのようなことが期待されていますか？",
+      "options": [
+        "地域の治安悪化",
+        "新しい文化の衰退",
+        "地域活性化や住民のつながり深化",
+        "交通渋滞の増加"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「地域活性化と課題解決が期待されています。」や「地域住民のつながりを深めることができます。」と書かれています。",
+      "id": "60ed6f58-c39f-49ec-b6ab-1c00a182954c"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-14-3df8323f83",
+  "publishedAt": "2026-06-14T06:00:00+09:00"
+}

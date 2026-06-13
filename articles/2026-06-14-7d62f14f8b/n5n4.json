@@ -1,0 +1,131 @@
+{
+  "title": "注目の高校サッカーチーム",
+  "summary": "冬の高校サッカー選手権が始まります。今年はどんなチームが人気ですか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ冬の高校サッカー選手権が始まります。全国からたくさんのチームが参加します。その中でも、今年は特に注目されているチームがあります。",
+      "translationZh": "冬季高中足球锦标赛很快就要开始了。来自全国各地的许多队伍将参加比赛。其中，今年有几支队伍特别引人注目。",
+      "translationEn": "The winter high school soccer championship is about to begin. Many teams from all over the country will participate. Among them, there are some teams that are particularly noteworthy this year.",
+      "id": "c506c7fa-95b5-43af-a3f8-3013964b5f06",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、去年の優勝チームです。そのチームはとても強かったです。今年も優勝するかもしれません。多くの人がそのチームの試合を楽しみにしています。",
+      "translationZh": "例如，去年的冠军队。那支队伍非常强大。今年也可能夺冠。许多人都期待着观看他们的比赛。",
+      "translationEn": "For example, there is last year's champion team. That team was very strong. They might win again this year. Many people are looking forward to their matches.",
+      "id": "f07d46f1-367c-4a1e-ad05-190357726d56",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、新しいスター選手がいるチームも話題です。その選手はとても速く、ドリブルも上手です。彼はチームを勝利に導くかもしれません。",
+      "translationZh": "此外，有新明星球员的队伍也成为了话题。那位选手速度很快，盘带技术也很好。他可能会带领队伍走向胜利。",
+      "translationEn": "Also, a team with a new star player is a topic of conversation. That player is very fast and good at dribbling. He might lead his team to victory.",
+      "id": "1c011169-1b59-4662-938b-ed6c2a79bb1a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の選手権は、どのチームが勝つか分かりません。全てのチームが一生懸命頑張ります。皆さんも、お気に入りのチームを応援しましょう。",
+      "translationZh": "今年的锦标赛，谁会获胜还不好说。所有队伍都会拼尽全力。大家也来为你喜欢的队伍加油吧。",
+      "translationEn": "We don't know which team will win this year's championship. All teams will try their best. Let's all cheer for our favorite teams.",
+      "id": "5bf916a6-d8bc-45e8-86f7-9134dedc9418",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "393eea40-c1c4-4965-901a-eef7a2578997"
+    },
+    {
+      "word": "選手権",
+      "reading": "せんしゅけん",
+      "meaningZh": "锦标赛",
+      "meaningEn": "championship",
+      "level": "n5n4",
+      "exampleSentence": "サッカーの選手権が近いです。",
+      "id": "38a9e697-6c40-421e-b9d4-b5148892f1d5"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "多くの人がイベントにさんがします。",
+      "id": "d07d0eed-bc62-4df7-9051-d23bb4806bc3"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，瞩目",
+      "meaningEn": "attention, notice",
+      "level": "n5n4",
+      "exampleSentence": "その新しい映画は注目されています。",
+      "id": "2a1d87b0-7186-4353-93a0-4b3870dbeaec"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "获胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": "彼らは試合でゆうしょうしました。",
+      "id": "fe8d62c4-1919-45d7-8983-d1b1530b2755"
+    },
+    {
+      "word": "去年",
+      "reading": "きょねん",
+      "meaningZh": "去年",
+      "meaningEn": "last year",
+      "level": "n5n4",
+      "exampleSentence": "きょねんは暑かったです。",
+      "id": "77a9914e-9327-4e5d-a318-717d711eb700"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "有名なせんしゅが来ました。",
+      "id": "1139e142-b4cb-4958-8a9e-33103c346642"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，熟练",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼女は絵を描くのがじょうずです。",
+      "id": "1b76a669-fa82-489b-9853-01eb46444f6f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の高校サッカー選手権で、特に注目されているのはどのようなチームですか？",
+      "options": [
+        "去年優勝したチーム",
+        "一番新しいチーム",
+        "一番大きいチーム",
+        "一番遠いチーム"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「例えば、去年の優勝チームです。そのチームはとても強かったです。」と書いてあります。",
+      "id": "481d09cb-6e02-4aab-a0f3-163f8ea3e127"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-14-7d62f14f8b",
+  "publishedAt": "2026-06-14T06:00:00+09:00"
+}

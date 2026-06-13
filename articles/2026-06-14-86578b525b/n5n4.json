@@ -1,0 +1,131 @@
+{
+  "title": "夏休みの人気プログラム",
+  "summary": "夏休みに子供たちが楽しむプログラムが増えています。今年はどんな新しいプログラムがあるのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏休みが近づいています。子供たちは学校が休みなので、たくさんの時間を過ごします。そのために、学童プログラムが人気です。学童プログラムは、子供たちが安全に楽しく過ごせる場所です。",
+      "translationZh": "暑假即将来临。孩子们因为学校放假，所以有大量的时间可以安排。因此，课后托管项目很受欢迎。课后托管项目是孩子们能够安全愉快度过时光的地方。",
+      "translationEn": "Summer vacation is approaching. Children have a lot of time because school is closed. For this reason, after-school programs are popular. After-school programs are places where children can spend their time safely and enjoyably.",
+      "id": "32e72081-9931-47da-8858-bb546d82d731",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、新しいプログラムがたくさん出てきました。例えば、プログラミングを学ぶプログラムや、自然の中で遊ぶプログラムです。子供たちは新しいことを体験して、学ぶことができます。",
+      "translationZh": "最近，出现了许多新的项目。例如，学习编程的项目，以及在大自然中玩耍的项目。孩子们可以体验新事物，并从中学习。",
+      "translationEn": "Recently, many new programs have emerged. For example, programs to learn programming and programs to play in nature. Children can experience new things and learn from them.",
+      "id": "77b3928a-2a53-4c2c-9a6a-6e67d67f0529",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、ボランティア活動も増えています。子供たちは地域の人たちと協力して、社会に貢献する方法を学びます。これは、子供たちの成長にとってとても良いことです。",
+      "translationZh": "此外，志愿服务活动也在增加。孩子们与社区居民合作，学习为社会做出贡献的方法。这对孩子们的成长非常有益。",
+      "translationEn": "Also, volunteer activities are increasing. Children cooperate with local people and learn how to contribute to society. This is very good for children's development.",
+      "id": "d55437ae-97c2-4fab-8c87-b5f8d212333b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "保護者も、子供たちが有意義な時間を過ごせるプログラムを探しています。安全で、教育的なプログラムは、とても喜ばれています。",
+      "translationZh": "监护人也在寻找能让孩子们度过有意义时光的项目。安全且具有教育意义的项目，非常受到欢迎。",
+      "translationEn": "Parents are also looking for programs where children can spend meaningful time. Safe and educational programs are very welcome.",
+      "id": "88ae8c95-6d12-4596-a9b6-4ba044008635",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaningZh": "暑假",
+      "meaningEn": "summer vacation",
+      "level": "n5n4",
+      "exampleSentence": "夏休みは、どこかへ旅行したいです。",
+      "id": "ad91aaee-b82e-42e6-8764-105a5575966e"
+    },
+    {
+      "word": "学童プログラム",
+      "reading": "がくどうプログラム",
+      "meaningZh": "课后托管项目",
+      "meaningEn": "after-school program",
+      "level": "n5n4",
+      "exampleSentence": "妹は夏休みに学童プログラムに参加します。",
+      "id": "4f47c7b6-7d73-4732-a1ee-4b31879c45d0"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popular",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはとても人気があります。",
+      "id": "e9083aac-0fa0-4886-8f3b-ea0167a09ed4"
+    },
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "新しい友達ができました。",
+      "id": "f874f2f7-9c3f-4e79-9d91-6b7694bc6d25"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "初めての海外旅行は、素晴らしい体験でした。",
+      "id": "0289dac0-60bf-4604-9caa-e36bfddb9351"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "週末は自然の中でリラックスします。",
+      "id": "08659b10-eba7-4f5f-8a98-6339cfdeb773"
+    },
+    {
+      "word": "ボランティア",
+      "reading": "ボランティア",
+      "meaningZh": "志愿者",
+      "meaningEn": "volunteer",
+      "level": "n3",
+      "exampleSentence": "彼は地域のボランティア活動に参加しました。",
+      "id": "06920035-7cf1-40ec-81cb-aba0bdc039dd"
+    },
+    {
+      "word": "保護者",
+      "reading": "ほごしゃ",
+      "meaningZh": "监护人",
+      "meaningEn": "guardian",
+      "level": "n3",
+      "exampleSentence": "保護者は子供の学校での様子を知りたいです。",
+      "id": "d74e0674-5ba0-447a-b20c-352dff8dadad"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "子供たちは夏休みにどんなプログラムに興味がありますか。",
+      "options": [
+        "プログラミングや自然体験のプログラム",
+        "難しい勉強をするプログラム",
+        "一日中ゲームをするプログラム",
+        "ただ家で休むプログラム"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「例えば、プログラミングを学ぶプログラムや、自然の中で遊ぶプログラムです。」と書かれています。",
+      "id": "d046208f-6e88-4d87-b433-6a837edb426d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-14-86578b525b",
+  "publishedAt": "2026-06-14T06:00:00+09:00"
+}
