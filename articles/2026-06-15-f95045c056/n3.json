@@ -1,0 +1,126 @@
+{
+  "title": "地方都市で広がる現代詩の朗読会",
+  "summary": "最近、地方都市で現代詩の朗読会が人気を集めています。都市部だけでなく、様々な場所で詩を楽しむ人が増えているようです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、地方都市で「現代詩の朗読会」が静かなブームになっています。元々は都市部で開かれることが多かったのですが、今では、カフェや図書館、時には地域のお祭りなど、様々な場所で開かれるようになりました。参加者からは、「詩の世界に触れる良い機会になった」「普段読まない詩に感動した」といった声が聞かれます。",
+      "translationZh": "最近，“现代诗朗诵会”在地方都市掀起了一股平静的浪潮。原本多在城市地区举办，但如今，在咖啡馆、图书馆，有时甚至是社区庆典等各种场所都能看到它的身影。参加者们纷纷表示：“这是接触诗歌世界的绝佳机会”、“被平时不常读的诗歌深深感动了”。",
+      "translationEn": "Recently, 'modern poetry reading sessions' have been quietly gaining popularity in regional cities. While they were originally more common in urban areas, they are now held in various places such as cafes, libraries, and sometimes even local festivals. Participants express comments like, 'It was a great opportunity to experience the world of poetry' and 'I was moved by poems I don't usually read.'",
+      "id": "bd2ba78d-ff4d-4928-870f-53d815ffef66",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朗読会では、参加者が自分の好きな現代詩を読み上げたり、朗読ボランティアが選んだ詩を聞いたりします。専門的な知識がなくても、詩の持つ言葉の響きやリズムを楽しむことができるのが、この朗読会の魅力です。特に、疲れている時や心が落ち着かない時に、詩の言葉が心に染み渡り、癒やされるという人も少なくありません。",
+      "translationZh": "在朗诵会上，参加者会朗读自己喜欢的现代诗，或者聆听朗诵志愿者选出的诗歌。即使没有专业知识，也能欣赏诗歌的语言韵律和节奏，这正是朗诵会的魅力所在。尤其是在疲惫或心情烦躁的时候，诗歌的语言能够深入人心，带来治愈，这样的人并不少见。",
+      "translationEn": "At these reading sessions, participants read their favorite modern poems, or listen to poems selected by volunteer readers. The appeal of these events lies in the fact that one can enjoy the sound and rhythm of words in poetry, even without specialized knowledge. Many people find that the words of poetry resonate deeply and offer solace, especially when they are tired or feeling unsettled.",
+      "id": "217eecd2-648f-4e54-920a-5728a84b8306",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方都市では、地域コミュニティの活性化にもつながるという期待もあります。朗読会をきっかけに、世代を超えて人々が集まり、交流が生まれることもあります。詩という、一見敷居が高いと思われがちな芸術に、気軽に触れられる場が増えることは、文化的な豊かさを広げる上で大切なことと言えるでしょう。",
+      "translationZh": "在地方都市，人们也期待这能促进地区社区的振兴。以朗诵会为契机，不同世代的人们得以聚集，产生交流。像诗歌这样，乍一看可能显得门槛很高的艺术，如果能有更多轻松接触的场所增加，可以说对于推广文化的丰富性是十分重要的。",
+      "translationEn": "In regional cities, there is also an expectation that these events will contribute to the revitalization of local communities. These reading sessions can serve as a catalyst for people of different generations to gather and interact. Increasing opportunities to easily engage with art forms like poetry, which might initially seem intimidating, is crucial for spreading cultural richness.",
+      "id": "de5255d0-3b18-4a4d-84af-a74a9d61fe16",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "朗読会",
+      "reading": "ろうどくかい",
+      "meaningZh": "朗诵会",
+      "meaningEn": "poetry reading session",
+      "level": "n3",
+      "exampleSentence": "週末に友達と朗読会に行きました。",
+      "id": "dba80775-d8f6-4d8b-8f38-7167213f77ed"
+    },
+    {
+      "word": "ブーム",
+      "reading": "ぶーむ",
+      "meaningZh": "热潮，风靡",
+      "meaningEn": "boom, fad",
+      "level": "n3",
+      "exampleSentence": "最近、健康的な食事がブームになっている。",
+      "id": "3f5562bf-3881-4af9-abd3-a3929e59d685"
+    },
+    {
+      "word": "カフェ",
+      "reading": "かふぇ",
+      "meaningZh": "咖啡馆",
+      "meaningEn": "cafe",
+      "level": "n5n4",
+      "exampleSentence": "友達とカフェでおしゃべりした。",
+      "id": "f57ed95e-c157-4514-accf-49ef1d59665e"
+    },
+    {
+      "word": "敷居が高い",
+      "reading": "しきいがたかい",
+      "meaningZh": "（比喻）不易接近，难以参与",
+      "meaningEn": "intimidating, difficult to approach",
+      "level": "n3",
+      "exampleSentence": "このレストランは高級すぎて敷居が高いと感じる。",
+      "id": "15b6a7f1-74b6-4681-ab6d-805aa3ab54c3"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活跃化，振兴",
+      "meaningEn": "invigoration, revitalization",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が課題となっている。",
+      "id": "b24dee3d-d023-4768-8eff-671529c70db0"
+    },
+    {
+      "word": "沈み込む",
+      "reading": "しずみこむ",
+      "meaningZh": "沉没，（心情）低落",
+      "meaningEn": "to sink in, to become depressed",
+      "level": "n3",
+      "exampleSentence": "悲しいニュースを聞いて、心が沈み込んだ。",
+      "id": "6bf1edfc-bde3-4e70-b945-94aa6b621d48"
+    },
+    {
+      "word": "染み渡る",
+      "reading": "しみわたる",
+      "meaningZh": "渗透，（感情）深入",
+      "meaningEn": "to permeate, to soak into",
+      "level": "n3",
+      "exampleSentence": "温かいスープが体に染み渡った。",
+      "id": "8cd75450-64ea-4f05-ab4e-8dc15930e608"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "現代詩の朗読会は、どのような場所で開かれるようになっていますか？",
+      "options": [
+        "主に都市部の大きなホール",
+        "高級なレストラン",
+        "カフェや図書館、地域のお祭りなど様々な場所",
+        "大学の講義室"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「今では、カフェや図書館、時には地域のお祭りなど、様々な場所で開かれるようになりました。」と書かれています。",
+      "id": "09cf44b6-d7af-4c0b-8e7c-d49f42807576"
+    },
+    {
+      "question": "朗読会が地方都市のコミュニティにとって良い影響を与える可能性があると、筆者は考えていますが、それはどのような理由からですか？",
+      "options": [
+        "詩の専門家が多く集まるから",
+        "参加者が詩の歴史について学べるから",
+        "朗読会をきっかけに、世代を超えて人々が集まり、交流が生まれる可能性があるから",
+        "新しいカフェがたくさんできるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「地方都市では、地域コミュニティの活性化にもつながるという期待もあります。朗読会をきっかけに、世代を超えて人々が集まり、交流が生まれることもあります。」と書かれています。",
+      "id": "ef04c8c0-a0e0-42ba-8dcd-aae1b99ab969"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-15-f95045c056",
+  "publishedAt": "2026-06-15T06:00:00+09:00"
+}

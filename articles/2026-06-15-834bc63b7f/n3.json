@@ -1,0 +1,135 @@
+{
+  "title": "冬の楽しみを一年中！スキー場の新しい挑戦",
+  "summary": "冬だけじゃない！スキー場が一年中楽しめる施設に変わろうとしています。そのユニークな取り組みについて見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬になると、多くの人がスキーやスノーボードを楽しむためにスキー場へ行きます。しかし、雪が降らない季節になると、スキー場はほとんど使われなくなってしまいます。この問題を解決するために、いくつかのスキー場が「通年化」という新しい挑戦を始めています。これは、冬以外でも楽しめる施設にすることで、一年中お客さんを呼び込もうという考え方です。",
+      "translationZh": "到了冬天，很多人会去滑雪场享受滑雪和滑雪板的乐趣。但是，到了不下雪的季节，滑雪场几乎就无人使用了。为了解决这个问题，一些滑雪场正在开始一项名为“全年化”的新挑战。这是通过将其变成即使在冬天以外也能享受的设施，从而吸引全年顾客的想法。",
+      "translationEn": "In winter, many people go to ski resorts to enjoy skiing and snowboarding. However, when the snowless season arrives, ski resorts become almost unused. To solve this problem, some ski resorts are starting a new challenge called 'year-round operation.' This is the idea of attracting customers all year round by turning them into facilities that can be enjoyed even outside of winter.",
+      "id": "e2e5513a-4c57-4c6c-9589-b48062bd18e9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、夏でも涼しく過ごせるように、人工雪を作る技術を使ったり、 indoor（屋内）のトランポリンやアスレチック施設を作ったりするスキー場があります。また、キャンプ場やバーベキュー施設を整備して、自然を楽しめるようにしているところもあります。このように、スキー場は、その広くて自然豊かな土地を生かして、様々なアクティビティを提供しようとしているのです。これは、地域経済の活性化にもつながるため、注目されています。",
+      "translationZh": "例如，有些滑雪场为了让人们在夏天也能凉爽地度过，会使用制造人造雪的技术，或者建造室内的蹦床和运动设施。还有些地方则整備了露营场和烧烤设施，以便人们能够享受大自然。像这样，滑雪场正试图利用其广阔而富有自然风光的土地，提供各种各样的活动。这备受关注，因为它也有助于振兴地方经济。",
+      "translationEn": "For example, some ski resorts use artificial snow-making technology to keep cool even in summer, or build indoor trampoline and athletic facilities. Some places have also developed campgrounds and barbecue facilities to allow people to enjoy nature. In this way, ski resorts are trying to offer various activities by utilizing their vast and nature-rich land. This is drawing attention as it also contributes to the revitalization of the local economy.",
+      "id": "ca083ff7-8e71-4515-91cd-e0ba3bf31aab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、通年化には課題もあります。例えば、冬のスキーシーズン以外でも十分な収入を得るためには、魅力的な施設やイベントを継続的に企画・実行していく必要があります。また、地域住民の理解や協力も不可欠です。しかし、これらの挑戦が成功すれば、スキー場は単なる冬のレジャー施設から、一年中楽しめる地域の交流拠点へと変わっていく可能性があります。",
+      "translationZh": "当然，全年化也存在一些课题。例如，为了在冬季滑雪季以外也能获得足够的收入，需要持续企划和实施有吸引力的设施和活动。此外，当地居民的理解和合作也必不可少。然而，如果这些挑战能够成功，滑雪场就有可能从单纯的冬季休闲设施转变为全年都可以享受的地区交流中心。",
+      "translationEn": "Of course, there are challenges to year-round operation. For example, to earn sufficient income outside the winter ski season, it is necessary to continuously plan and implement attractive facilities and events. Furthermore, the understanding and cooperation of local residents are also essential. However, if these challenges are successful, ski resorts could transform from mere winter leisure facilities into year-round regional hubs for community interaction.",
+      "id": "ebae4995-5cbb-4a22-ad18-656a15903d40",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スキー場",
+      "reading": "すきーじょう",
+      "meaningZh": "滑雪场",
+      "meaningEn": "ski resort",
+      "level": "n5n4",
+      "exampleSentence": "冬休みに友達とスキー場へ行きました。",
+      "id": "7088d592-3eeb-4d66-a658-bcf7880d7768"
+    },
+    {
+      "word": "通年化",
+      "reading": "つうねんか",
+      "meaningZh": "全年化，一年四季都运营",
+      "meaningEn": "year-round operation",
+      "level": "n3",
+      "exampleSentence": "この遊園地は通年化を目指しています。",
+      "id": "ae93819f-4140-4cc3-b5f3-529f7fad666a"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n3",
+      "exampleSentence": "新しい仕事に挑戦するのは勇気がいる。",
+      "id": "f012cf8f-7be1-462b-bf3b-d972577ee276"
+    },
+    {
+      "word": "人工雪",
+      "reading": "じんこうせつ",
+      "meaningZh": "人造雪",
+      "meaningEn": "artificial snow",
+      "level": "n3",
+      "exampleSentence": "人工雪を作るには特別な機械が必要です。",
+      "id": "a444b154-d8f9-4246-a43f-95a9a9e1f37a"
+    },
+    {
+      "word": "トランポリン",
+      "reading": "とらんぽりん",
+      "meaningZh": "蹦床",
+      "meaningEn": "trampoline",
+      "level": "n5n4",
+      "exampleSentence": "子供たちがトランポリンで楽しそうに跳ねていた。",
+      "id": "c2ef67e1-c714-4d7a-84a8-e1223caa9070"
+    },
+    {
+      "word": "アスレチック",
+      "reading": "あすれちっく",
+      "meaningZh": "运动，健身（常指户外运动场）",
+      "meaningEn": "athletic (often referring to an athletic course or park)",
+      "level": "n5n4",
+      "exampleSentence": "公園に子供用のアスレチック施設ができた。",
+      "id": "44c3cde1-1308-4e8c-a523-76ad17445902"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "maintenance, development, arrangement",
+      "level": "n3",
+      "exampleSentence": "公園の遊歩道が新しく整備された。",
+      "id": "fc641f67-a2bd-40d9-a685-736d735ff720"
+    },
+    {
+      "word": "地域経済",
+      "reading": "ちいきけいざい",
+      "meaningZh": "地区经济",
+      "meaningEn": "local economy",
+      "level": "n3",
+      "exampleSentence": "新しい工場ができ、地域経済が活性化した。",
+      "id": "018b69e2-0575-4d8f-94a9-3182819da8fe"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スキー場が「通年化」を目指す主な理由は何ですか？",
+      "options": [
+        "冬の間の収入を増やすため",
+        "雪が降らない季節でも利用客を呼び込むため",
+        "新しい人工雪を作る技術を試すため",
+        "地域住民のための新しい施設を作るため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「雪が降らない季節になると、スキー場はほとんど使われなくなってしまいます。この問題を解決するために、いくつかのスキー場が「通年化」という新しい挑戦を始めています。」と述べられています。",
+      "id": "91dd22ed-b9ff-4546-8996-c41e00dd4faa"
+    },
+    {
+      "question": "スキー場が夏でも楽しめるようにするために、どのような取り組みが紹介されていますか？",
+      "options": [
+        "冬と同じようにスキーができるコースを作る",
+        "屋内プールと温泉施設を増設する",
+        "人工雪や屋内アスレチック施設、キャンプ場などを整備する",
+        "地域の伝統文化を体験できるプログラムを提供する"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「夏でも涼しく過ごせるように、人工雪を作る技術を使ったり、indoor（屋内）のトランポリンやアスレチック施設を作ったりするスキー場があります。また、キャンプ場やバーベキュー施設を整備して、自然を楽しめるようにしているところもあります。」と書かれています。",
+      "id": "9c85382e-00c5-4387-9902-7b482af59ca9"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-15-834bc63b7f",
+  "publishedAt": "2026-06-15T06:00:00+09:00"
+}

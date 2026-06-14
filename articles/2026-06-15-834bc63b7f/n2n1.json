@@ -1,0 +1,147 @@
+{
+  "title": "冬スポ施設、夏も集客へ通年化の試み進む",
+  "summary": "雪不足や温暖化の影響を受け、冬期限定だったウィンタースポーツ施設の通年化に向けた取り組みが各地で進められています。新たな集客策として注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、気候変動による積雪量の減少や、夏季のレジャー需要の多様化に伴い、冬季限定で運営されてきたウィンタースポーツ施設の経営が厳しさを増している。こうした状況を受け、一部の施設では、一年を通して利用できる「通年化」への挑戦が本格化しているとのことだ。これは、従来の冬のイメージを刷新し、新たな顧客層の獲得を目指す戦略と見られる。",
+      "translationZh": "近年来，随着气候变化导致降雪量减少，以及夏季休闲需求的多元化，以往仅限冬季运营的冬季运动设施的经营面临越来越大的挑战。在此背景下，部分设施正积极尝试“全年化”运营，旨在一年四季都能吸引游客。这被视为一项旨在革新传统冬季印象、开拓新客户群体的战略。",
+      "translationEn": "In recent years, winter sports facilities, traditionally operated only during the winter season, have faced increasing management challenges due to reduced snowfall caused by climate change and the diversification of summer leisure demands. In response to these circumstances, some facilities are reportedly embarking on a serious endeavor towards 'year-round operation,' aiming to be utilized throughout the year. This is seen as a strategy to refresh the conventional winter image and attract new customer demographics.",
+      "id": "0f9e61f0-4a6d-4468-9f79-130694abfaae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "通年化の具体策としては、夏季にはインラインスケートリンクやボルダリングウォール、トランポリンパークなどを設置する試みが挙げられる。また、施設によっては、eスポーツイベントの開催や、地域住民向けの健康増進プログラムの提供など、ウィンタースポーツ以外のコンテンツを充実させることで、集客を図っている。これにより、オフシーズンの収益源を確保し、施設全体の安定的な運営を目指す動きが加速している。",
+      "translationZh": "关于全年化的具体措施，包括在夏季设置旱冰场、抱石墙和蹦床公园等。此外，一些设施通过充实冬季运动以外的内容来吸引游客，例如举办电子竞技比赛或为当地居民提供健康促进项目。这加速了旨在确保淡季收入来源、实现设施整体稳定运营的举动。",
+      "translationEn": "Specific measures for year-round operation include initiatives such as installing inline skating rinks, bouldering walls, and trampoline parks during the summer. Furthermore, some facilities are aiming to attract visitors by diversifying their offerings beyond winter sports, such as hosting e-sports events or providing health promotion programs for local residents. This is accelerating efforts to secure revenue streams during the off-season and achieve stable overall facility management.",
+      "id": "60c824c2-f6e9-43c6-ba54-f1ccfcefe88b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、通年化には設備投資や人件費の増加といった課題も伴う。特に、夏季の集客は冬季とは異なるマーケティング戦略が求められるため、専門知識やノウハウの蓄積が不可欠となる。関係者は、地域との連携を深め、多様なニーズに応えることで、持続可能な施設運営の実現に期待を寄せている。",
+      "translationZh": "然而，全年化也伴随着设备投资和人工成本增加等挑战。特别是夏季的客源吸引需要不同于冬季的营销策略，因此积累专业知识和经验至关重要。相关人士期待通过深化与当地的合作、满足多样化的需求，来实现设施的可持续运营。",
+      "translationEn": "However, year-round operation also entails challenges such as increased capital investment and labor costs. In particular, attracting visitors during the summer requires marketing strategies different from those for winter, making the accumulation of expertise and know-how indispensable. Stakeholders are pinning their hopes on achieving sustainable facility management by deepening collaboration with the local community and responding to diverse needs.",
+      "id": "4571991d-4ed3-4d2d-94a0-b47d3727c143",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "温暖化",
+      "reading": "おんだんか",
+      "meaningZh": "变暖，全球变暖",
+      "meaningEn": "global warming, warming",
+      "level": "n2n1",
+      "exampleSentence": "地球温暖化の影響は深刻である。",
+      "id": "dfa28952-4785-454e-a1f4-d3c474df76f3"
+    },
+    {
+      "word": "通年化",
+      "reading": "つうねんか",
+      "meaningZh": "全年化，一年到头",
+      "meaningEn": "year-round operation, making something available all year round",
+      "level": "n2n1",
+      "exampleSentence": "この施設は通年化を目指している。",
+      "id": "fc3e6f97-8c9e-467e-95c2-b2799fdf9ebf"
+    },
+    {
+      "word": "積雪量",
+      "reading": "せきせつりょう",
+      "meaningZh": "积雪量",
+      "meaningEn": "amount of snowfall",
+      "level": "n3",
+      "exampleSentence": "今年の積雪量は例年より少ない。",
+      "id": "0a64b8de-26f8-4e4d-a776-7ecb2cc95131"
+    },
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "diversification",
+      "level": "n2n1",
+      "exampleSentence": "消費者のニーズの多様化に対応する。",
+      "id": "7e781f29-30be-4a63-934c-b08d964a97d2"
+    },
+    {
+      "word": "刷新",
+      "reading": "さっしん",
+      "meaningZh": "革新，更新",
+      "meaningEn": "innovation, reform, renovation",
+      "level": "n2n1",
+      "exampleSentence": "古い体制を刷新する。",
+      "id": "22c8450d-e8f6-4ce3-89ce-1decc62648aa"
+    },
+    {
+      "word": "顧客層",
+      "reading": "こきゃくそう",
+      "meaningZh": "顾客层，客层",
+      "meaningEn": "customer base, customer segment",
+      "level": "n2n1",
+      "exampleSentence": "新たな顧客層を開拓する。",
+      "id": "28d98e73-fbde-4761-a47b-e8ba2191d108"
+    },
+    {
+      "word": "オフシーズン",
+      "reading": "おふしーずん",
+      "meaningZh": "淡季，非旺季",
+      "meaningEn": "off-season",
+      "level": "n3",
+      "exampleSentence": "オフシーズンは料金が安くなる。",
+      "id": "84e1f597-d6f5-4261-9456-f502d3abea72"
+    },
+    {
+      "word": "蓄積",
+      "reading": "ちくせき",
+      "meaningZh": "积累，积蓄",
+      "meaningEn": "accumulation, build-up",
+      "level": "n2n1",
+      "exampleSentence": "長年の経験が蓄積されている。",
+      "id": "4179f807-0fa2-4f58-a1f2-9eb65321b1de"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ウィンタースポーツ施設が通年化を目指す主な理由は何ですか？",
+      "options": [
+        "冬季の観客動員数が増加したため",
+        "夏季にも楽しめる新しいアクティビティを開発したため",
+        "気候変動による積雪量の減少と夏季のレジャー需要の多様化のため",
+        "施設運営のコスト削減に成功したため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「近年、気候変動による積雪量の減少や、夏季のレジャー需要の多様化に伴い、冬季限定で運営されてきたウィンタースポーツ施設の経営が厳しさを増している。」と記載されています。",
+      "id": "56271705-c1bd-471e-a6c0-e0a882cd1620"
+    },
+    {
+      "question": "冬季以外の時期に施設を集客するための具体策として、本文で挙げられているものはどれですか？",
+      "options": [
+        "冬季オリンピックの誘致",
+        "料金の大幅な値下げ",
+        "eスポーツイベントの開催や健康増進プログラムの提供",
+        "冬季スポーツの体験教室の増加"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「施設によっては、eスポーツイベントの開催や、地域住民向けの健康増進プログラムの提供など、ウィンタースポーツ以外のコンテンツを充実させることで、集客を図っている。」とあります。",
+      "id": "d88412f7-98b7-422e-9f50-52cff2947a78"
+    },
+    {
+      "question": "ウィンタースポーツ施設の通年化を進める上で、課題とされていることは何ですか？",
+      "options": [
+        "冬季の集客が困難になること",
+        "夏季の需要が予想以上に低いこと",
+        "専門知識やノウハウの蓄積、およびマーケティング戦略の必要性",
+        "地域住民の協力が得られないこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「しかし、通年化には設備投資や人件費の増加といった課題も伴う。特に、夏季の集客は冬季とは異なるマーケティング戦略が求められるため、専門知識やノウハウの蓄積が不可欠となる。」と述べられています。",
+      "id": "35c75bf0-6582-4758-adcd-5abf60d94a48"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-15-834bc63b7f",
+  "publishedAt": "2026-06-15T06:00:00+09:00"
+}

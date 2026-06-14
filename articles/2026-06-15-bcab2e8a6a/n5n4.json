@@ -1,0 +1,122 @@
+{
+  "title": "地域の防災訓練、もっと楽しく！",
+  "summary": "地域の防災訓練は大切です。しかし、ただ集まるだけではつまらないこともあります。もっと楽しく、役に立つ訓練にする工夫を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "毎年のように、地震や台風などの災害が起こります。そのため、地域で防災訓練をすることが大切です。普段から災害への準備をしておくことで、いざという時に命を守ることができます。",
+      "translationZh": "每年都会发生地震、台风等灾害。因此，在社区进行防灾演习非常重要。平时做好应对灾害的准备，就能在紧急时刻保护生命安全。",
+      "translationEn": "Disasters such as earthquakes and typhoons occur almost every year. Therefore, it is important to conduct disaster prevention drills in the community. By preparing for disasters from normal times, you can protect your life in times of emergency.",
+      "id": "556bb153-54e4-4a89-a9e7-cd676ea8ebdc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、普通の訓練は少し退屈に感じる人もいるかもしれません。そこで、訓練をもっと楽しく、記憶に残りやすくする工夫があります。例えば、ゲームを取り入れたり、地域のお店と協力したりする方法です。",
+      "translationZh": "然而，有些人可能会觉得普通的演习有点无聊。因此，有一些方法可以让演习更有趣、更容易记住。例如，可以引入游戏，或者与当地商店合作。",
+      "translationEn": "However, some people might find ordinary drills a bit boring. Therefore, there are ways to make the drills more fun and memorable. For example, by incorporating games or cooperating with local shops.",
+      "id": "7b5f8262-579c-4081-bdf9-82f74249d7e1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ゲーム形式の訓練では、クイズに答えたり、避難場所までのルートを競争したりします。子供たちも大人も、楽しみながら防災の知識を学ぶことができます。また、お店に避難場所の地図を置いてもらうことも、良いアイデアです。",
+      "translationZh": "在游戏形式的演习中，大家会回答问题，或者比赛到避难所的路线。孩子们和大人都可以一边玩一边学习防灾知识。另外，让商店里放置避难所的地图也是个好主意。",
+      "translationEn": "In game-based drills, people answer quizzes or compete to find the route to evacuation sites. Both children and adults can learn disaster prevention knowledge while having fun. Also, having shops display maps of evacuation sites is a good idea.",
+      "id": "af08bd7b-28b1-41b9-9556-fad3b52b2bbf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域住民がお互いに協力し、楽しみながら学ぶことが、防災意識を高める一番の方法です。このような工夫をして、より安全な町を作っていきましょう。",
+      "translationZh": "让社区居民互相合作，在学习中获得乐趣，是提高防灾意识的最佳方法。让我们通过这样的努力，建设一个更安全的城镇。",
+      "translationEn": "Community residents cooperating with each other and learning while having fun is the best way to raise disaster awareness. Let's build a safer town with such efforts.",
+      "id": "8e987022-6b8a-4bb8-938d-9d922487893a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾害",
+      "meaningEn": "Disaster",
+      "level": "n5n4",
+      "exampleSentence": "地震は大きな災害です。",
+      "id": "547ee2fc-197b-4b91-bacb-197a2766256c"
+    },
+    {
+      "word": "防災訓練",
+      "reading": "ぼうさいくんれん",
+      "meaningZh": "防灾演习",
+      "meaningEn": "Disaster prevention drill",
+      "level": "n5n4",
+      "exampleSentence": "来週、町で防災訓練があります。",
+      "id": "90319357-d8f0-422d-8a23-5916e957311b"
+    },
+    {
+      "word": "退屈",
+      "reading": "たいくつ",
+      "meaningZh": "无聊",
+      "meaningEn": "Boredom",
+      "level": "n5n4",
+      "exampleSentence": "この本は少し退屈です。",
+      "id": "ed8029dc-d4ee-4665-87cd-e4ce476979e2"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "办法；技巧；创造",
+      "meaningEn": "Device; Effort; Ingenuity",
+      "level": "n5n4",
+      "exampleSentence": "もっと良い方法を工夫しました。",
+      "id": "f0a6aa6a-b2a7-4cf7-96ed-7368a902eb14"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "Cooperation",
+      "level": "n5n4",
+      "exampleSentence": "みんなで協力しましょう。",
+      "id": "99a32b60-49e6-4c85-9a31-890c7f259956"
+    },
+    {
+      "word": "意識",
+      "reading": "いしき",
+      "meaningZh": "意识",
+      "meaningEn": "Consciousness; Awareness",
+      "level": "n5n4",
+      "exampleSentence": "健康に気をつける意識が大切です。",
+      "id": "cabd3f00-d15d-44c2-8e37-53a4d2caa57e"
+    },
+    {
+      "word": "避難場所",
+      "reading": "ひなんばしょ",
+      "meaningZh": "避难场所",
+      "meaningEn": "Evacuation site",
+      "level": "n5n4",
+      "exampleSentence": "地図で避難場所を確認しました。",
+      "id": "f297a88b-7ec6-4f14-a0df-ad180fdd07d9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、防災訓練をもっと楽しくするために、どのような工夫が紹介されていますか？",
+      "options": [
+        "ゲームを取り入れること",
+        "もっと長い時間をかけること",
+        "専門家だけを呼ぶこと",
+        "歌を歌うこと"
+      ],
+      "correctIndex": 0,
+      "explanation": "文章の「例えば、ゲームを取り入れたり、地域のお店と協力したりする方法です。」という部分に、ゲームを取り入れることが紹介されています。",
+      "id": "e773c155-34a0-4b25-9f18-5e5de882c721"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-15-bcab2e8a6a",
+  "publishedAt": "2026-06-15T06:00:00+09:00"
+}

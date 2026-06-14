@@ -1,0 +1,122 @@
+{
+  "title": "冬の施設、夏も楽しむ？",
+  "summary": "冬だけじゃない！スキー場が夏も楽しめるように、色々な工夫をしています。新しいアイデアを見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬のスポーツはスキーやスノーボードが人気です。でも、冬が終わると、スキー場は静かになります。多くの施設は春から秋まで閉まってしまいます。これは、もったいないことだと考える人がいます。",
+      "translationZh": "冬季的运动，滑雪和单板滑雪很受欢迎。但是，冬天一结束，滑雪场就变得冷清。很多设施会从春天到秋天都关闭。有些人觉得这很可惜。",
+      "translationEn": "Winter sports like skiing and snowboarding are popular. But when winter ends, ski resorts become quiet. Many facilities close from spring to autumn. Some people think this is a waste.",
+      "id": "bdfb0c57-6ac7-41e4-a19a-5ceacfc7d6f7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、最近「通年化（つうねんか）」という言葉をよく聞きます。これは、冬以外の季節にも施設を開けることです。例えば、夏は涼しいので、キャンプ場やアスレチック施設として使うことがあります。",
+      "translationZh": "因此，最近经常听到“全年化”这个词。这是指在冬季以外的季节也开放设施。例如，夏天很凉爽，可以作为露营场或户外运动设施使用。",
+      "translationEn": "So, recently, we often hear the word \"Tsūnenka\" (year-round operation). This means opening facilities in seasons other than winter. For example, in summer, it's cool, so they are used as campsites or adventure parks.",
+      "id": "1f8091ff-0e66-4cf5-b574-958a673fb391",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、マウンテンバイクのコースを作ったり、自然の中を歩くハイキングコースを整備したりする場所もあります。子供が遊べる公園や、おいしい食べ物が食べられるレストランも人気です。色々なアイデアで、もっとたくさんの人が楽しめるようになっています。",
+      "translationZh": "还有的地方会修建山地自行车赛道，或者整备可以在大自然中行走的徒步路线。孩子们可以玩的公园，以及可以吃到美味食物的餐厅也很受欢迎。通过各种创意，有更多的人可以来这里享受。",
+      "translationEn": "Also, some places create mountain bike courses or maintain hiking trails in nature. Parks where children can play and restaurants where you can eat delicious food are also popular. With various ideas, more and more people can enjoy them.",
+      "id": "cde66c96-88ee-4500-85dd-51e3cfd0e65e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "冬のスポーツ施設が一年中楽しめるようになると、地域（ちいき）の経済（けいざい）にも良い影響があります。これからも、新しい挑戦（ちょうせん）がたくさん出てくるでしょう。",
+      "translationZh": "如果冬季的体育设施能够全年开放，也会对当地的经济产生好的影响。今后，也会出现更多新的挑战。",
+      "translationEn": "When winter sports facilities can be enjoyed year-round, it also has a positive impact on the local economy. We expect to see many new challenges in the future.",
+      "id": "261db904-c821-4557-9508-c2cc64ade362",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "31b1470a-82b5-4d42-afef-941ec21465cd"
+    },
+    {
+      "word": "施設",
+      "reading": "しせつ",
+      "meaningZh": "设施",
+      "meaningEn": "facility",
+      "level": "n5n4",
+      "exampleSentence": "この施設はきれいです。",
+      "id": "2952bc92-9e85-4868-ac73-b9c1629bb49e"
+    },
+    {
+      "word": "通年化",
+      "reading": "つうねんか",
+      "meaningZh": "全年化，全年运营",
+      "meaningEn": "year-round operation",
+      "level": "n3",
+      "exampleSentence": "このスキー場は通年化を目指しています。",
+      "id": "9a8e0d00-db93-4230-9ef3-15fde99f8c47"
+    },
+    {
+      "word": "夏",
+      "reading": "なつ",
+      "meaningZh": "夏天",
+      "meaningEn": "summer",
+      "level": "n5n4",
+      "exampleSentence": "夏は暑いです。",
+      "id": "0301fa9a-5d77-4951-960c-aa565bcf8007"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaningZh": "孩子",
+      "meaningEn": "child",
+      "level": "n5n4",
+      "exampleSentence": "子供がたくさんいます。",
+      "id": "d5424ef5-1e10-47fe-886d-486db355837b"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "region, area",
+      "level": "n3",
+      "exampleSentence": "これは私の地域です。",
+      "id": "2a875ace-5c99-4f89-a235-e70da408c535"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n3",
+      "exampleSentence": "新しい挑戦は大切です。",
+      "id": "96e5bc65-0330-4f90-ab5f-3201794880cf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "冬のスポーツ施設は、一年中（いちねんじゅう）何ができるようになっていますか。",
+      "options": [
+        "冬だけ営業する",
+        "夏も楽しめるように工夫している",
+        "閉鎖（へいさ）して、別の建物を作る",
+        "ほとんどの施設が閉まっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "「夏も楽しめるように、色々な工夫をしています。」と書いてあります。",
+      "id": "7c625257-1ed9-4f9f-a320-cc14a817abc3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-15-834bc63b7f",
+  "publishedAt": "2026-06-15T06:00:00+09:00"
+}

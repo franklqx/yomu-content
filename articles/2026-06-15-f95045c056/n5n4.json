@@ -1,0 +1,123 @@
+{
+  "title": "詩の朗読会、人気です",
+  "summary": "最近、地方都市で現代詩の朗読会が人気を集めています。多くの人が集まり、詩を楽しんでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、地方の小さな町で、現代詩の朗読会がとても人気があります。昔は詩を読む人が少なかったですが、今は違います。多くの人が会場に集まります。",
+      "translationZh": "最近，在地方上的小镇里，现代诗朗诵会非常受欢迎。以前读诗的人很少，但现在不同了。很多人会聚集到会场。",
+      "translationEn": "Recently, in a small local town, modern poetry reading sessions have become very popular. In the past, few people read poetry, but now it's different. Many people gather at the venue.",
+      "id": "69d8e1b4-1a01-4430-8a63-bf730af93941",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朗読会では、地元の詩人や、詩が好きな普通の人々が詩を読みます。参加者は静かに耳を傾け、詩の世界に入ります。感情のこもった声で読むと、聞いている人も感動します。",
+      "translationZh": "在朗诵会上，当地的诗人和喜欢诗歌的普通人会朗读诗歌。参加者会安静地倾听，进入诗歌的世界。用充满感情的声音朗读，听众也会被打动。",
+      "translationEn": "At the reading sessions, local poets and ordinary people who like poetry read poems. Participants listen quietly and enter the world of poetry. When read with emotional voices, the listeners are also moved.",
+      "id": "9be10fb8-0004-4ddf-bd0f-2d384595cc69",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この朗読会は、都会だけでなく、地方の町でも文化を楽しむ良い機会になっています。人々は詩を通して、自分の気持ちや町のことを考えます。だから、この活動はもっと広まるでしょう。",
+      "translationZh": "这个朗诵会不仅在城市，也在地方城镇成为了享受文化的好机会。人们通过诗歌，思考自己的心情和家乡的事情。因此，这项活动将会更加普及。",
+      "translationEn": "These reading sessions have become a good opportunity to enjoy culture not only in cities but also in local towns. Through poetry, people think about their feelings and their towns. Therefore, this activity will spread more.",
+      "id": "1fa75ed5-ca3d-411f-a75c-42940c010c45",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "朗読会",
+      "reading": "ろうどくかい",
+      "meaningZh": "朗诵会",
+      "meaningEn": "poetry reading session",
+      "level": "n5n4",
+      "exampleSentence": "週末に友達と朗読会に行きます。",
+      "id": "ec018c25-2691-465b-8140-172c8afd5f33"
+    },
+    {
+      "word": "現代詩",
+      "reading": "げんだいし",
+      "meaningZh": "现代诗",
+      "meaningEn": "modern poetry",
+      "level": "n5n4",
+      "exampleSentence": "彼女は現代詩が好きです。",
+      "id": "4599d805-bafd-4093-95dd-1ba485cfe204"
+    },
+    {
+      "word": "地方都市",
+      "reading": "ちほうとし",
+      "meaningZh": "地方城市",
+      "meaningEn": "local city",
+      "level": "n5n4",
+      "exampleSentence": "私は地方都市で育ちました。",
+      "id": "62f9efa1-1d47-4152-8db0-f7a5c843e26f"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この新しいカフェは人気があります。",
+      "id": "9c8009be-e5e0-4c9a-a50a-5c0359e572d8"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "公園にたくさんの人が集まっています。",
+      "id": "ebc05416-4dea-4583-a799-43a14e7fe426"
+    },
+    {
+      "word": "参加者",
+      "reading": "さんかしゃ",
+      "meaningZh": "参加者",
+      "meaningEn": "participant",
+      "level": "n5n4",
+      "exampleSentence": "イベントの参加者が増えました。",
+      "id": "3858b646-ac8b-492d-947e-87051cbeb0fb"
+    },
+    {
+      "word": "感動する",
+      "reading": "かんどうする",
+      "meaningZh": "感动",
+      "meaningEn": "to be moved, to be impressed",
+      "level": "n5n4",
+      "exampleSentence": "この映画を見て感動しました。",
+      "id": "8b0988e7-0a93-4f05-a001-eae3178d0032"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n5n4",
+      "exampleSentence": "新しいことを学ぶ良い機会です。",
+      "id": "1ca9ba3e-616b-4d27-be08-9e48ca1eaa7c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方都市で人気があるのは何ですか？",
+      "options": [
+        "現代音楽のコンサート",
+        "現代詩の朗読会",
+        "地元の祭",
+        "映画の試写会"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近、地方の小さな町で、現代詩の朗読会がとても人気があります。」",
+      "id": "64e0477f-0da0-4261-8e25-5e71ad35cc3d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-15-f95045c056",
+  "publishedAt": "2026-06-15T06:00:00+09:00"
+}
