@@ -1,0 +1,131 @@
+{
+  "title": "コミケの新しいトレンド",
+  "summary": "コミケはたくさんの人が集まるイベントです。今回は、どんなサークルが人気だったか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コミックマーケットは、たくさんの人が集まる大きなイベントです。毎回、新しい人気ジャンルやサークルが現れます。今回は、どんな傾向が見られたでしょうか。",
+      "translationZh": "Comic Market 是一个聚集了很多人气的大型活动。每次都会出现新的热门类型和社团。这次，看到了什么样的趋势呢？",
+      "translationEn": "Comic Market is a big event where many people gather. Each time, new popular genres and circles appear. This time, what kind of trends were seen?",
+      "id": "732a8bc5-7c32-4229-9fd6-0e61b16c6758",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、アニメの二次創作が多かったです。昔のアニメを題材にした作品も目立ちました。若い人だけでなく、昔からのファンも楽しんでいるようです。",
+      "translationZh": "特别是动画的二次创作很多。以老动画为主题的作品也很显眼。似乎不只是年轻人，老粉丝们也很享受。",
+      "translationEn": "In particular, there were many derivative works of anime. Works based on old anime were also noticeable. It seems that not only young people but also long-time fans are enjoying it.",
+      "id": "1fcad8e6-78e0-417c-8542-fb5c2299b3b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、キャラクターグッズも人気でした。かわいいイラストのキーホルダーやバッグなどがたくさん売れていました。オリジナルキャラクターも好評でした。",
+      "translationZh": "另外，角色周边也很受欢迎。可爱的插画钥匙扣和包包等卖了很多。原创角色也受到了好评。",
+      "translationEn": "Also, character goods were popular. Many items like keychains and bags with cute illustrations were sold. Original characters were also well-received.",
+      "id": "d31582d5-be5a-496c-bf65-49077d2f5b53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "来年も、どんな新しいトレンドが生まれるか楽しみです。コミケは、いつも新しい発見があるイベントですね。",
+      "translationZh": "明年也很期待会诞生什么样的全新趋势。Comic Market 总是能带来新发现的活动呢。",
+      "translationEn": "Next year, I look forward to seeing what new trends will emerge. Comic Market is an event where you can always make new discoveries.",
+      "id": "d2bfde6d-2bb0-4c16-8474-b9389cca1c03",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人がイベントに集まりました。",
+      "id": "ce44632d-c05c-4cdd-9f28-411bccbbefeb"
+    },
+    {
+      "word": "毎回",
+      "reading": "まいかい",
+      "meaningZh": "每次",
+      "meaningEn": "every time",
+      "level": "n5n4",
+      "exampleSentence": "毎回、このお店で買い物をします。",
+      "id": "31007d7a-66c7-4631-a68b-a7d086f94d07"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "d00ea106-614d-4058-b3c2-f167a0fe2a02"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "倾向，趋势",
+      "meaningEn": "trend, tendency",
+      "level": "n3",
+      "exampleSentence": "最近、健康的な食べ物の傾向があります。",
+      "id": "4ad56e0c-8394-4289-9bfb-363920d23873"
+    },
+    {
+      "word": "二次創作",
+      "reading": "にじそうさく",
+      "meaningZh": "二次创作（指基于现有作品的再创作）",
+      "meaningEn": "derivative work (fan fiction, fan art, etc.)",
+      "level": "n3",
+      "exampleSentence": "アニメの二次創作はたくさんあります。",
+      "id": "8380c944-89da-489c-b65c-8651cfb06ee1"
+    },
+    {
+      "word": "題材",
+      "reading": "だいざい",
+      "meaningZh": "题材，主题",
+      "meaningEn": "subject, theme",
+      "level": "n3",
+      "exampleSentence": "この物語は昔話を題材にしています。",
+      "id": "53df49c2-a130-4608-919d-b2ef68b2cfe0"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "きゃらくたー",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このキャラクターはとてもかわいいです。",
+      "id": "104a6126-b5b3-4c5b-aa6e-bfd53bd2968d"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しいお店の発見は嬉しいです。",
+      "id": "8763977c-99e6-414d-a730-3b62720c4195"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回のコミケで、どんな創作がたくさんありましたか。",
+      "options": [
+        "昔のアニメの二次創作",
+        "ゲームの二次創作",
+        "オリジナルの漫画",
+        "音楽のCD"
+      ],
+      "correctIndex": 0,
+      "explanation": "「特に、アニメの二次創作が多かったです。」と書いてあります。",
+      "id": "a4b75a1c-6e95-4ed9-9eb2-a11284e3e1ef"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-16-ec987604cd",
+  "publishedAt": "2026-06-16T06:00:00+09:00"
+}

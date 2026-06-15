@@ -1,0 +1,122 @@
+{
+  "title": "Bリーグの新しいスター選手",
+  "summary": "Bリーグに新しいスター選手が現れました。彼の名前は田中さんです。彼はとても人気があります。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "日本のプロバスケットボールリーグ、Bリーグはとても人気があります。最近、新しいスター選手が現れました。この選手は田中太郎さんです。彼はまだ若いです。",
+      "translationZh": "日本的职业篮球联赛B联赛非常受欢迎。最近，出现了一位新明星球员。这位选手是田中太郎。他还很年轻。",
+      "translationEn": "Japan's professional basketball league, the B.League, is very popular. Recently, a new star player has emerged. This player's name is Taro Tanaka. He is still young.",
+      "id": "51b641aa-b7ab-4130-b15b-94043da68cc4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "田中さんはとても上手な選手です。彼は試合でたくさんの点を取ります。彼のジャンプは高く、シュートも正確です。チームの勝利にいつも貢献しています。",
+      "translationZh": "田中是一位非常出色的选手。他在比赛中能获得很多分数。他的跳跃很高，投篮也很准确。他总是为球队的胜利做出贡献。",
+      "translationEn": "Tanaka is a very skillful player. He scores many points in games. His jumps are high, and his shots are accurate. He always contributes to his team's victory.",
+      "id": "dbceac8a-15d8-4410-b8c0-3bf170d70ca1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "田中さんのファンはたくさんいます。試合会場はいつもファンでいっぱいです。みんな、田中さんのプレーを見るのを楽しみにしています。彼は日本のバスケットボール界に新しい風を吹いています。",
+      "translationZh": "田中选手的粉丝有很多。比赛会场总是挤满了粉丝。大家都很期待看到田中选手的比赛。他正在为日本篮球界吹来一股新风。",
+      "translationEn": "Tanaka has many fans. The game venues are always full of fans. Everyone looks forward to watching Tanaka play. He is bringing a new wind to Japanese basketball.",
+      "id": "11974aea-065a-4649-bead-87db208663b1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも田中さんの活躍が楽しみです。彼はもっと上手になるでしょう。日本のバスケットボールがもっと人気になるかもしれません。",
+      "translationZh": "今后也期待田中选手的活跃表现。他会变得更加出色。日本的篮球可能会变得更受欢迎。",
+      "translationEn": "We look forward to Tanaka's continued success. He will surely become even better. Japanese basketball might become more popular.",
+      "id": "d56042d9-dbef-4e9c-ab8d-2941d8ccfe0a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "0e39a21f-c3a8-4476-9bd6-f0352dd52635"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手，运动员",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "0e385620-9b47-4428-bd16-9293c3eb5560"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，高明",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "日本語が上手ですね。",
+      "id": "55424d4b-df3d-4996-8a2b-f2baa642aedb"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaningZh": "比赛",
+      "meaningEn": "match, game",
+      "level": "n5n4",
+      "exampleSentence": "今日の試合はとても面白かったです。",
+      "id": "271c43a8-daa1-46c4-9aa7-abf7d5dd50ba"
+    },
+    {
+      "word": "点",
+      "reading": "てん",
+      "meaningZh": "分数，点数",
+      "meaningEn": "point (in a game)",
+      "level": "n5n4",
+      "exampleSentence": "彼は１０点を取りました。",
+      "id": "1cfd6909-697e-4de2-82c6-3bec2d8cd0ee"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "チームのために貢献しました。",
+      "id": "837a6e6d-093b-4e44-8622-b1d56d98a529"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "彼女は会議で活躍しました。",
+      "id": "4b0bede1-97c9-43a6-9e9b-5945292e9d17"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "田中さんはどんな選手ですか。",
+      "options": [
+        "あまり上手ではない選手です。",
+        "とても上手な選手です。",
+        "あまり人気がありません。",
+        "いつも負けています。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「田中さんはとても上手な選手です。」という文があります。",
+      "id": "de6a9bd2-2ee7-4329-bfff-09b6ba7f1143"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-16-b",
+  "publishedAt": "2026-06-16T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "夏の夜空を彩る花火！",
+  "summary": "今年も各地で花火大会が開催されます。夏の思い出作りに、ぜひ見に行きましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏が来ました。暑いですが、楽しい季節です。夏といえば、花火大会です。夜空に大きな花が咲くのは、とてもきれいですね。",
+      "translationZh": "夏天来了。虽然热，但是是开心的季节。说到夏天，就是花火大会了。夜空中绽放的大花，非常漂亮呢。",
+      "translationEn": "Summer has come. It's hot, but it's a fun season. Speaking of summer, it's fireworks festivals. The big flowers blooming in the night sky are very beautiful, aren't they?",
+      "id": "eaea3b96-9f4e-4411-a3a0-6fed121ca679",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の夏も、たくさんの場所で花火大会が予定されています。例えば、東京の隅田川花火大会や、大阪の淀川花火大会などです。これらの大会は有名で、多くの人が見に来ます。",
+      "translationZh": "今年的夏天，也预定在很多地方举办花火大会。例如，东京的隅田川花火大会，以及大阪的淀川花火大会等。这些大会很有名，很多人会来看。",
+      "translationEn": "This summer too, fireworks festivals are planned in many places. For example, the Sumida River Fireworks Festival in Tokyo, and the Yodo River Fireworks Festival in Osaka. These festivals are famous, and many people come to see them.",
+      "id": "97bda89e-f8cd-452b-9864-731b965ced3e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は、夏の夜の特別なイベントです。家族や友達と一緒に行くと、もっと楽しいでしょう。おいしい食べ物もたくさん売っていますよ。",
+      "translationZh": "花火大会是夏夜的特别活动。和家人或朋友一起去，会更开心吧。好吃的食物也卖很多哦。",
+      "translationEn": "Fireworks festivals are special events for summer nights. It will be more fun if you go with family or friends. Lots of delicious food is also sold.",
+      "id": "19bb3e23-d15d-4121-aa11-8e1d19ed6a32",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "開催日時や場所をよく調べて、早めに準備しましょう。素敵な夏の思い出が作れるはずです。皆さん、楽しんできてくださいね。",
+      "translationZh": "请仔细查好举办日期和地点，尽早做好准备。一定能制造美好的夏日回忆。大家，请玩得开心哦。",
+      "translationEn": "Please check the date and place carefully and prepare early. You should be able to create wonderful summer memories. Everyone, please enjoy yourselves.",
+      "id": "a5df90b5-2a48-4c79-ae84-a358a13a577f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "花火大会",
+      "reading": "はなびたいかい",
+      "meaningZh": "烟花大会",
+      "meaningEn": "Fireworks festival",
+      "level": "n5n4",
+      "exampleSentence": "夏の夜に花火大会があります。",
+      "id": "02e62b85-89bf-4fc0-be0c-a728658596df"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaningZh": "举办",
+      "meaningEn": "Holding, event",
+      "level": "n5n4",
+      "exampleSentence": "お祭りが開催されます。",
+      "id": "48c7830d-812a-4f48-98fa-4bc1c8ef6942"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaningZh": "夜空",
+      "meaningEn": "Night sky",
+      "level": "n5n4",
+      "exampleSentence": "夜空に星がきれいです。",
+      "id": "5096fd6e-2f5c-4750-a8b3-ab3d8e39a3e6"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaningZh": "预定，计划",
+      "meaningEn": "Schedule, plan",
+      "level": "n5n4",
+      "exampleSentence": "会議は明日予定されています。",
+      "id": "82abc020-d857-47a5-b1f7-1f78a890a615"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名的",
+      "meaningEn": "Famous",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは有名です。",
+      "id": "862f33e2-0e6a-41bc-a03f-db971263f0f9"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "Special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "a74801f5-1f20-4cd4-95c4-1a39f26e790d"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "Preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしました。",
+      "id": "da7f2713-da08-4e8e-80d5-02d08631f678"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "Memory",
+      "level": "n5n4",
+      "exampleSentence": "素敵な思い出を作りたいです。",
+      "id": "3c39f231-a178-4eb5-825d-412a9febdbf1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会について、この記事は何を伝えていますか？",
+      "options": [
+        "花火の歴史について",
+        "今年の夏に開催される花火大会の情報と、それに行くことの楽しさについて",
+        "花火の作り方について",
+        "花火大会のチケットの値段について"
+      ],
+      "correctIndex": 1,
+      "explanation": "「今年の夏も、たくさんの場所で花火大会が予定されています。」や「家族や友達と一緒に行くと、もっと楽しいでしょう。」といった記述から、今年の夏の花火大会の情報とその楽しさについて伝えていることがわかります。",
+      "id": "3278ff24-a5f3-4944-8f12-adb20c9c2529"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-16-ccf0f866c3",
+  "publishedAt": "2026-06-16T06:00:00+09:00"
+}

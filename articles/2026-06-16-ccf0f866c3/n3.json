@@ -1,0 +1,126 @@
+{
+  "title": "夏の夜空を彩る！花火大会情報をお届け",
+  "summary": "今年の夏も各地で花火大会が開催されます。最新の開催情報をチェックして、夏の思い出を作りましょう！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏といえば、やっぱり花火大会ですよね。澄んだ夜空に咲く色とりどりの花火は、見ているだけで心が躍ります。今年も全国各地で、趣向を凝らした花火大会が開催される予定です。友人や家族と、あるいは大切な人と一緒に、夏の夜空を彩る美しい光の芸術を楽しみませんか。",
+      "translationZh": "说到夏天，果然还是花火大会呢。在清澈的夜空中绽放的五彩缤纷的烟花，光是看着就让人心潮澎湃。今年全国各地也预定会举办各种别出心裁的花火大会。你想和朋友、家人，或者重要的人一起，欣赏点缀夏夜天空的美丽光之艺术吗？",
+      "translationEn": "Speaking of summer, fireworks festivals are definitely a highlight. The colorful fireworks blooming in the clear night sky make your heart leap just by looking at them. This year, various unique fireworks festivals are scheduled to be held across the country. Why not enjoy the beautiful art of light that colors the summer night sky with your friends, family, or someone special?",
+      "id": "a02f02dc-131a-40b2-b307-ea05a653913a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会に行く際は、いくつかの注意点があります。まず、会場周辺は大変混雑することが予想されるため、公共交通機関の利用が推奨されます。また、場所によっては、事前のチケット購入が必要な場合があるので、早めに情報を確認しておきましょう。雨天の場合、残念ながら中止になることもありますので、当日の天気予報もチェックしておくと安心です。",
+      "translationZh": "去参加花火大会时，有几点需要注意。首先，由于会场周边预计会非常拥挤，因此推荐利用公共交通工具。另外，有些地方可能需要提前购票，所以最好尽早确认相关信息。如果遇到雨天，很遗憾可能会中止，所以确认当天的天气预报会让人安心。",
+      "translationEn": "When attending a fireworks festival, there are a few points to keep in mind. First, since the areas around the venue are expected to be very crowded, using public transportation is recommended. Also, some venues may require advance ticket purchase, so it's best to check the information early. In case of rain, unfortunately, it may be canceled, so checking the weather forecast on the day will give you peace of mind.",
+      "id": "ea1d5eb0-40dc-4d63-8b96-05d9b546b4da",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近では、花火だけでなく、屋台グルメや音楽ライブなど、様々なイベントが同時に開催される花火大会も増えています。これらのイベントを組み合わせることで、一日中楽しむことができます。せっかくなので、早めに会場に着いて、お祭り気分を満喫するのも良いでしょう。地元ならではの美味しいものを味わったり、浴衣を着て散策したりするのも、夏の良い思い出になるはずです。",
+      "translationZh": "最近，不仅有烟花，同时还举办各种活动的花火大会也越来越多，比如小吃摊美食和音乐现场演出等。通过将这些活动结合起来，可以玩上一整天。既然来了，早点到会场，尽情享受节日气氛也是不错的选择。品尝当地特有的美食，或者穿着浴衣散步，应该都会成为美好的夏日回忆。",
+      "translationEn": "Recently, there are more and more fireworks festivals that simultaneously host various events, such as food stalls and live music, in addition to the fireworks themselves. By combining these events, you can enjoy yourself all day long. Since you're there, it's a good idea to arrive at the venue early and fully enjoy the festival atmosphere. Tasting local delicacies or strolling around in a yukata should also become good summer memories.",
+      "id": "62ddec9c-4187-4038-9ac3-1b20019fec04",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "色とりどり",
+      "reading": "いろとりどり",
+      "meaningZh": "五颜六色的",
+      "meaningEn": "colorful, various colors",
+      "level": "n3",
+      "exampleSentence": "テーブルの上には色とりどりの花が飾られていた。",
+      "id": "dfe81ec1-bcfe-4b33-ac19-813cf7ddf35b"
+    },
+    {
+      "word": "趣向を凝らす",
+      "reading": "しゅこうをこらす",
+      "meaningZh": "煞费苦心，精心构思",
+      "meaningEn": "to devise, to plan elaborately, to take pains",
+      "level": "n2n1",
+      "exampleSentence": "このレストランは料理に趣向を凝らしている。",
+      "id": "9c296cd2-8fba-4f75-a315-18b7390e3cb3"
+    },
+    {
+      "word": "心が躍る",
+      "reading": "こころがおどる",
+      "meaningZh": "心情激动，兴奋",
+      "meaningEn": "to be excited, to be thrilled",
+      "level": "n3",
+      "exampleSentence": "明日の遠足のことで、子供たちの心が躍っている。",
+      "id": "0167eeb1-e260-44e0-9af1-15de5e2d937a"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowding, congestion",
+      "level": "n3",
+      "exampleSentence": "駅は朝のラッシュアワーで大変な混雑だった。",
+      "id": "34c5850a-2b3f-40aa-8509-85e3d0690192"
+    },
+    {
+      "word": "公共交通機関",
+      "reading": "こうきょうこうつうきかん",
+      "meaningZh": "公共交通工具",
+      "meaningEn": "public transportation",
+      "level": "n3",
+      "exampleSentence": "移動には公共交通機関を使うことが多い。",
+      "id": "e1bfd778-f61b-43d0-93b1-61935350ed17"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "（祭典等的）小吃摊，摊位",
+      "meaningEn": "stall, stand (at festivals, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "お祭りの屋台でたこ焼きを買った。",
+      "id": "6f3927f7-a6f7-453a-a3c3-e79c1ece6051"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (a casual summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りでは浴衣を着る人が多い。",
+      "id": "5d59ae00-a453-4437-a2e1-da64b027440d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会に行く前に、確認しておいた方が良いことは何ですか？",
+      "options": [
+        "会場までの地図",
+        "当日の天気予報とチケットの必要性",
+        "おすすめの屋台",
+        "交通機関の時刻表"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「事前のチケット購入が必要な場合があるので、早めに情報を確認しておきましょう。雨天の場合、残念ながら中止になることもありますので、当日の天気予報もチェックしておくと安心です。」と書かれています。",
+      "id": "df09c740-1680-4f24-abdf-0bc2f18fea44"
+    },
+    {
+      "question": "最近の花火大会では、花火以外にどのような楽しみ方がありますか？",
+      "options": [
+        "伝統芸能の鑑賞",
+        "歴史的な建物の見学",
+        "屋台グルメや音楽ライブなど",
+        "スポーツ大会の観戦"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「最近では、花火だけでなく、屋台グルメや音楽ライブなど、様々なイベントが同時に開催される花火大会も増えています。」と書かれています。",
+      "id": "a6cd7d15-3a79-40d0-b38d-e32bd44bc434"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-16-ccf0f866c3",
+  "publishedAt": "2026-06-16T06:00:00+09:00"
+}

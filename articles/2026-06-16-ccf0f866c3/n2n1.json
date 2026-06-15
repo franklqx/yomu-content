@@ -1,0 +1,147 @@
+{
+  "title": "夏の夜空彩る！全国花火大会開催情報まとめ",
+  "summary": "各地で夏の風物詩である花火大会が続々と開催されます。最新の開催情報をいち早くお届けします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今年も夏の訪れとともに、全国各地で趣向を凝らした花火大会が開催される予定です。コロナ禍を経て、多くの地域で規模を縮小したり、オンライン配信のみとなったりしていた花火大会ですが、今年は本格的な復活を遂げるとの見通しが示されています。特に、都市部においては、夜景とのコントラストを楽しむことができる大規模な花火が期待されており、多くの来場者が見込まれています。",
+      "translationZh": "随着夏天的到来，今年全国各地也将陆续举办精心策划的花火大会。经历了新冠疫情，许多地区的烟花节曾缩小规模或仅在线上直播，但预计今年将迎来全面复苏。特别是都市地区，人们期待着能与夜景形成鲜明对比的大型烟花，预计将吸引大量游客。",
+      "translationEn": "With the arrival of summer, various fireworks festivals, featuring unique designs, are scheduled to be held across the country this year. Following the pandemic, many local fireworks festivals had been scaled down or limited to online streaming. However, projections indicate a full-scale revival this year. Particularly in urban areas, large-scale fireworks that offer a striking contrast with the night cityscape are anticipated, drawing considerable crowds.",
+      "id": "e6bcff36-980d-4998-aa10-cad90a929f92",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "各自治体や実行委員会では、感染症対策に万全を期すとともに、来場者の安全確保に努めています。交通規制や会場周辺の混雑緩和策も講じられるとのことですので、お出かけの際には最新の情報を各大会の公式サイト等でご確認ください。また、一部の地域では、地元の特産品を販売する露店や、浴衣の着付けサービスなども提供される予定であり、花火鑑賞と併せて地域の魅力を満喫できる機会となるでしょう。",
+      "translationZh": "各地方政府和组委会正在尽最大努力做好防疫措施，并确保游客安全。据了解，还将实施交通管制和会场周边拥挤缓解措施，因此外出时请务必在各大会官方网站等处确认最新信息。此外，部分地区还将提供销售当地特产的摊位和浴衣穿着服务，这将是结合烟花观赏，充分体验地区魅力的好机会。",
+      "translationEn": "Local governments and organizing committees are taking thorough infection control measures and striving to ensure visitor safety. Traffic restrictions and crowd management strategies around the venue are also reportedly being implemented. Therefore, when planning your visit, please check the latest information on the official website of each event. Furthermore, some regions are planning to offer stalls selling local specialties and kimono dressing services, providing an opportunity to fully enjoy the local charm alongside the fireworks display.",
+      "id": "4fab69a7-c19e-4dc8-9882-12905e1ac1b9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "近年、環境問題への意識の高まりに伴い、ごみ削減や、より環境負荷の少ない花火玉の開発・導入を進める動きも見られます。持続可能な花火大会の実現に向けた取り組みは、参加者一人ひとりの協力も不可欠となります。美しい夏の夜空を未来に引き継ぐため、マナーを守り、ごみは持ち帰るなどの協力を呼びかけています。",
+      "translationZh": "近年来，随着环保意识的提高，也出现了减少垃圾和开发/引进环境负担更小烟花弹的动向。为实现可持续的花火大会，每位参与者的合作也至关重要。为了将美丽的夏夜天空传承给未来，呼吁大家遵守礼仪，并将垃圾带走。",
+      "translationEn": "In recent years, with growing environmental awareness, there has been a movement towards reducing waste and developing/adopting fireworks with a lower environmental impact. The realization of sustainable fireworks festivals also necessitates the cooperation of each participant. To preserve the beautiful summer night sky for the future, efforts are being made to encourage adherence to etiquette, such as taking one's own trash home.",
+      "id": "3417a9d7-564d-491f-b9b8-aa2038dd96f1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（特定季节的）特有景致，象征",
+      "meaningEn": "seasonal feature; sign of the season",
+      "level": "n2n1",
+      "exampleSentence": "桜は春の風物詩だ。",
+      "id": "f65c097d-4cf3-47a1-96d7-95669ef4da3d"
+    },
+    {
+      "word": "趣向",
+      "reading": "しゅこう",
+      "meaningZh": "意图，想法，花样",
+      "meaningEn": "taste; inclination; idea; plan",
+      "level": "n2n1",
+      "exampleSentence": "会議では様々な趣向が提案された。",
+      "id": "14795a04-1a6f-412f-8f9a-1a84b26274f4"
+    },
+    {
+      "word": "見通し",
+      "reading": "みとおし",
+      "meaningZh": "展望，预测；视野",
+      "meaningEn": "prospect; outlook; prediction; view",
+      "level": "n3",
+      "exampleSentence": "来期の業績について、明るい見通しが示された。",
+      "id": "eb495322-14d6-406d-888a-6905f4a34584"
+    },
+    {
+      "word": "見込まれる",
+      "reading": "みこまれる",
+      "meaningZh": "被期待，被预测",
+      "meaningEn": "to be expected; to be anticipated",
+      "level": "n3",
+      "exampleSentence": "来場者は1万人を見込んでいる。",
+      "id": "11983176-f3a9-4988-a862-84541e267b7f"
+    },
+    {
+      "word": "万全",
+      "reading": "ばんぜん",
+      "meaningZh": "万无一失，妥善",
+      "meaningEn": "perfection; completeness; all possible measures",
+      "level": "n2n1",
+      "exampleSentence": "事故防止のため、万全の対策を講じる必要がある。",
+      "id": "86a95620-7757-4655-9294-ff19d4defe5c"
+    },
+    {
+      "word": "講じる",
+      "reading": "こうじる",
+      "meaningZh": "采取（措施等）",
+      "meaningEn": "to take (measures, steps, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "問題解決のために、早急に措置を講じるべきだ。",
+      "id": "6c40d91d-c8cc-4841-9c1e-b46033797dad"
+    },
+    {
+      "word": "負荷",
+      "reading": "ふか",
+      "meaningZh": "负担，负荷",
+      "meaningEn": "load; burden; stress",
+      "level": "n2n1",
+      "exampleSentence": "この仕事は精神的な負荷が大きい。",
+      "id": "522f4584-3b46-4c76-a584-9e12d97dcb07"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaningZh": "不可或缺的",
+      "meaningEn": "indispensable; essential",
+      "level": "n2n1",
+      "exampleSentence": "チームワークは成功に不可欠である。",
+      "id": "af9c2034-46c8-49fd-b22f-701dad0acf0e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の夏の花火大会は、コロナ禍を経てどのように変化すると見られていますか？",
+      "options": [
+        "規模がさらに縮小される",
+        "オンライン配信のみになる",
+        "本格的な復活を遂げると見られている",
+        "中止が決定する"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「今年は本格的な復活を遂げるとの見通しが示されています」とあります。",
+      "id": "493a499b-d942-48fd-b560-b9dd52649f1e"
+    },
+    {
+      "question": "花火大会へ出かける際に、来場者に呼びかけられていることは何ですか？",
+      "options": [
+        "会場での露店利用の自粛",
+        "最新情報の確認とマナーの遵守",
+        "浴衣の着用義務化",
+        "公共交通機関の利用制限"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段と第三段に「最新の情報を各大会の公式サイト等でご確認ください」「マナーを守り、ごみは持ち帰るなどの協力を呼びかけています」とあります。",
+      "id": "56aad8f1-06b5-4972-989a-5446a47632ed"
+    },
+    {
+      "question": "近年、花火大会において環境問題への対応としてどのような動きが見られますか？",
+      "options": [
+        "花火の打ち上げ回数を増やす",
+        "環境負荷の少ない花火玉の開発・導入",
+        "会場でのプラスチック製品の使用禁止",
+        "来場者への環境税の徴収"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第三段に「環境負荷の少ない花火玉の開発・導入を進める動きも見られます」とあります。",
+      "id": "6667e4ef-2d9c-48ab-b14a-5ae256e75829"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-16-ccf0f866c3",
+  "publishedAt": "2026-06-16T06:00:00+09:00"
+}
