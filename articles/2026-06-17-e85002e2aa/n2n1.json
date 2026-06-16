@@ -1,0 +1,138 @@
+{
+  "title": "若者の間で夜行バス旅行が人気急上昇中！",
+  "summary": "近年、若者を中心に夜行バスを利用した格安旅行が注目を集めています。経済的な負担を抑えつつ、移動時間も有効活用できる点が支持されているようです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、若年層の間で夜行バスを活用した旅行スタイルが急速に普及しているとのことだ。スマートフォンやSNSの普及に伴い、情報収集が容易になったことが背景にあると見られる。特に、学割や早期予約割引などを利用することで、航空券や新幹線に比べて大幅に費用を抑えられる点が、学生や若い社会人に支持されている理由として挙げられる。",
+      "translationZh": "据悉，近年来，利用夜间巴士的旅行方式在年轻人中迅速普及。这被认为与智能手机和社交媒体的普及使得信息收集变得容易有关。特别是，通过利用学生折扣或早期预订折扣等，与机票或新干线相比，费用能大幅削减，这被认为是学生和年轻职场人士支持它的理由。",
+      "translationEn": "It is reported that travel styles utilizing overnight buses have been rapidly spreading among young people in recent years. This is believed to be due to the increased ease of information gathering with the spread of smartphones and social media. In particular, the fact that costs can be significantly reduced compared to airfare or Shinkansen by utilizing student discounts or early booking discounts is cited as a reason for its popularity among students and young working adults.",
+      "id": "4a2c1135-13f8-49d3-872a-015ff181dfa2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスの利点は、単に費用面だけにとどまらない。多くの夜行バスは、主要都市間を深夜に移動するため、日中の観光時間を最大限に確保できる。また、近年ではWi-Fi設備やリクライニング機能の充実、女性専用車両の設置など、快適性を向上させるためのサービス改善も進められており、長時間移動の負担軽減が図られている。これにより、従来は敬遠されがちだった夜行バスへのイメージも徐々に変化しつつあると言えよう。",
+      "translationZh": "夜间巴士的优点不仅在于费用方面。由于许多夜间巴士在深夜往返于主要城市之间，因此可以最大限度地保证白天的观光时间。此外，近年来，随着 Wi-Fi 设备、可躺式座椅等功能的完善以及设置女性专用车厢等服务的改善，长途旅行的负担正在减轻。因此，可以说过去常常被人们回避的夜间巴士的形象也正在逐渐改变。",
+      "translationEn": "The advantages of overnight buses are not limited to cost. Many overnight buses travel between major cities late at night, allowing for maximum utilization of daytime sightseeing hours. Furthermore, in recent years, service improvements to enhance comfort, such as the provision of Wi-Fi facilities and reclining seats, and the establishment of women-only cars, have been progressing, aiming to reduce the burden of long-distance travel. As a result, the image of overnight buses, which used to be somewhat avoided, is gradually changing.",
+      "id": "94d6bf99-4fb7-4076-bdf2-b0ca49f8e374",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかしながら、快適性が向上したとはいえ、長時間のバス移動は依然として体力的には負担となり得る。特に、寝不足や車内での過ごし方によっては、到着後の観光に影響が出る可能性も否定できない。そのため、旅行者は事前に十分な情報収集を行い、自身の体力や旅行の目的に合わせて、夜行バスの利用を検討することが肝要である。また、バス会社各社も、より快適な車内環境の提供や、多様なニーズに応えるためのサービス開発に努めていくことが期待されている。",
+      "translationZh": "然而，尽管舒适性有所提高，长时间的巴士旅行仍然可能对体力造成负担。特别是，如果睡眠不足或在车上的度过方式不当，不能排除到达目的地后观光受到影响的可能性。因此，旅行者必须提前充分收集信息，并根据自己的体力状况和旅行目的来考虑是否利用夜间巴士。此外，人们也期待各巴士公司能够努力提供更舒适的车内环境，并开发能够满足多样化需求的的服务。",
+      "translationEn": "However, despite improvements in comfort, long bus journeys can still be physically taxing. In particular, it cannot be denied that insufficient sleep or how one spends time on the bus could affect sightseeing after arrival. Therefore, it is crucial for travelers to gather sufficient information in advance and consider using overnight buses according to their physical condition and travel objectives. Furthermore, bus companies are expected to strive to provide more comfortable onboard environments and develop services to meet diverse needs.",
+      "id": "9553a541-2f78-45a5-9670-a54209e8c841",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "格安",
+      "reading": "かくやす",
+      "meaningZh": "便宜，低廉",
+      "meaningEn": "cheap, inexpensive",
+      "level": "n3",
+      "exampleSentence": "格安航空券を探しています。",
+      "id": "e6ff8936-8fc5-4f02-a31a-d7c6a0274073"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻人，青年一代",
+      "meaningEn": "young people, youth",
+      "level": "n2n1",
+      "exampleSentence": "若年層の読書離れが深刻化している。",
+      "id": "bf24427f-1765-4622-90f3-2f9b7bfdf8cd"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, diffusion",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及率は年々高まっている。",
+      "id": "4360fba6-b8dc-4e0c-8b8a-d0163a7ea6f8"
+    },
+    {
+      "word": "支持",
+      "reading": "しじ",
+      "meaningZh": "支持，拥护",
+      "meaningEn": "support",
+      "level": "n3",
+      "exampleSentence": "彼の政策は多くの国民に支持されている。",
+      "id": "3e4512ff-27b1-4bab-8d23-8d169e38219c"
+    },
+    {
+      "word": "最大限",
+      "reading": "だいげんげん",
+      "meaningZh": "最大限度",
+      "meaningEn": "the maximum, to the greatest extent",
+      "level": "n2n1",
+      "exampleSentence": "最大限の努力を払う。",
+      "id": "795174ab-de2b-420f-a0d9-9be3e52d07ab"
+    },
+    {
+      "word": "充実",
+      "reading": "じゅうじつ",
+      "meaningZh": "充实，完善",
+      "meaningEn": "fulfillment, completeness",
+      "level": "n2n1",
+      "exampleSentence": "設備が充実したホテル。",
+      "id": "fafab1e7-57e4-4b3e-b7e4-64e8e4000f11"
+    },
+    {
+      "word": "肝要",
+      "reading": "かんよう",
+      "meaningZh": "关键，重要",
+      "meaningEn": "essential, crucial",
+      "level": "n2n1",
+      "exampleSentence": "成功の鍵は、諦めないことが肝要だ。",
+      "id": "e7ffe93b-a71b-45fa-aaa6-ddb0e237e9f6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若者の間で夜行バス旅行が人気を集めている主な理由は何ですか？",
+      "options": [
+        "車内が非常に豪華であるため",
+        "移動時間中に観光できるため",
+        "費用を大幅に抑えられるため",
+        "特別な割引が常に利用できるため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中には「航空券や新幹線に比べて大幅に費用を抑えられる点が、学生や若い社会人に支持されている理由として挙げられる」と記載されています。",
+      "id": "ac1c80bf-d267-4f64-9141-4bd25323d9a8"
+    },
+    {
+      "question": "夜行バスの利点として、本文で挙げられていないものはどれですか？",
+      "options": [
+        "日中の観光時間を有効活用できる",
+        "費用を安く抑えられる",
+        "Wi-Fi設備が充実している",
+        "渋滞に巻き込まれることがない"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文では、日中の観光時間の有効活用、費用の抑制、Wi-Fi設備などの快適性向上について言及されていますが、渋滞に巻き込まれないことについては触れられていません。",
+      "id": "ce23e5bb-da51-4d6e-bf9c-861b4478559b"
+    },
+    {
+      "question": "夜行バス旅行を検討する上で、旅行者が留意すべき点は何ですか？",
+      "options": [
+        "常に寝不足になるので、事前の睡眠が不可欠だ",
+        "到着後の観光に影響が出る可能性もあるため、計画は慎重に行うべきだ",
+        "バス会社によってサービスが大きく異なるため、比較検討が必要だ",
+        "特に若者以外には推奨されない旅行方法である"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「長時間のバス移動は依然として体力的には負担となり得る」「寝不足や車内での過ごし方によっては、到着後の観光に影響が出る可能性も否定できない」と述べられており、事前の情報収集と慎重な計画の重要性が説かれています。",
+      "id": "7e4a406d-22a1-4a90-9888-10dfd62a9d2d"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-17-e85002e2aa",
+  "publishedAt": "2026-06-17T06:00:00+09:00"
+}

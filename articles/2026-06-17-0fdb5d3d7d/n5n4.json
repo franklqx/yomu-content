@@ -1,0 +1,122 @@
+{
+  "title": "電気自動車をもっと便利に",
+  "summary": "電気自動車（EV）は便利です。もっと充電ができるように、充電の場所が増えています。これで、EVはもっと使いやすくなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）が人気です。EVはガソリン車と違って、電気で動きます。だから、環境にやさしい車です。でも、充電する場所が少ないことが問題でした。",
+      "translationZh": "最近，电动汽车（EV）很受欢迎。EV和汽油车不同，它是用电驱动的。因此，是一种环保的汽车。但是，充电地点少曾经是个问题。",
+      "translationEn": "Recently, electric cars (EVs) are popular. Unlike gasoline cars, EVs run on electricity. Therefore, they are environmentally friendly cars. However, having few charging places was a problem.",
+      "id": "45ef8d67-f199-42d6-b62d-bfa864bc0370",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからは、もっとたくさんの充電器が作られます。お店や道の駅など、いろいろな場所に充電器ができます。これで、EVをもっと遠くまで安心して運転できます。",
+      "translationZh": "今后，将会建造更多的充电器。在商店和路边休息站等各种地方都会有充电器。这样，就可以更安心地将EV开到更远的地方。",
+      "translationEn": "From now on, more chargers will be built. Chargers will be available in various places such as shops and roadside stations. This will allow you to drive EVs further with peace of mind.",
+      "id": "fa744327-be61-46d6-97a9-f83487db4b42",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電器は、早く充電できます。30分ぐらいで、たくさんの電気が入ります。旅行や長い道のりでも、充電を待つ時間が短くなります。",
+      "translationZh": "快速充电器可以快速充电。大约30分钟就能充满很多电。即使是旅行或长途驾驶，等待充电的时间也会变短。",
+      "translationEn": "Fast chargers can charge quickly. A lot of electricity can be added in about 30 minutes. Even on trips or long journeys, the waiting time for charging will be shorter.",
+      "id": "f70996c1-e2e2-46bf-86ab-f91df52cddf5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "充電の場所が増えることで、EVを使う人がもっと増えるでしょう。EVは未来の車です。これからの生活がもっと便利になります。",
+      "translationZh": "随着充电地点的增加，使用EV的人可能会更多。EV是未来的汽车。今后的生活会变得更加便利。",
+      "translationEn": "As charging locations increase, more people will likely use EVs. EVs are the cars of the future. Our lives will become more convenient from now on.",
+      "id": "7a661275-3ea2-484b-861b-b2504dddeb34",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "electric car",
+      "level": "n5n4",
+      "exampleSentence": "電気自動車は静かです。",
+      "id": "3ad28023-853e-4109-8f46-7d118f9c2900"
+    },
+    {
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaningZh": "充电",
+      "meaningEn": "charging",
+      "level": "n5n4",
+      "exampleSentence": "携帯電話を充電します。",
+      "id": "61052a80-6f77-45da-b90f-887908dc7304"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place, location",
+      "level": "n5n4",
+      "exampleSentence": "この場所はきれいです。",
+      "id": "a5885d9b-71d7-44b9-834d-b8a73b854732"
+    },
+    {
+      "word": "急速",
+      "reading": "きゅうそく",
+      "meaningZh": "急速，快速",
+      "meaningEn": "rapid, quick",
+      "level": "n3",
+      "exampleSentence": "急速に人気が出ました。",
+      "id": "31634a71-a23e-4dab-b4e6-7dc7de3d40c4"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "expansion, extension",
+      "level": "n3",
+      "exampleSentence": "サービスの拡充が期待されます。",
+      "id": "e117a968-9d7a-4373-89bf-4e1aba1518a4"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n3",
+      "exampleSentence": "環境を守りましょう。",
+      "id": "2b641a09-56b4-43c8-a322-e76d802873cc"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaningZh": "驾驶",
+      "meaningEn": "driving",
+      "level": "n5n4",
+      "exampleSentence": "車を運転するのは楽しいです。",
+      "id": "ffcd5724-622c-4231-b01b-9017dd83b8ce"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "充電器はどこにできますか。",
+      "options": [
+        "お店や道の駅など、いろいろな場所",
+        "駅の中だけ",
+        "家の中だけ",
+        "山の上だけ"
+      ],
+      "correctIndex": 0,
+      "explanation": "お店や道の駅など、いろいろな場所に充電器ができます。",
+      "id": "44cc33ac-ab85-4d46-8d3d-cf074e14a373"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-17-0fdb5d3d7d",
+  "publishedAt": "2026-06-17T06:00:00+09:00"
+}

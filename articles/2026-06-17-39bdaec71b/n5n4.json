@@ -1,0 +1,123 @@
+{
+  "title": "ご当地ラーメンが東京に！",
+  "summary": "日本全国のご当地ラーメンが東京に集まっています。色々な味を楽しめるようになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本にはたくさんの有名なラーメンがあります。例えば、札幌の味噌ラーメンや博多の豚骨ラーメンです。これらのラーメンは、それぞれの町でとても人気があります。最近、このご当地ラーメンが東京でも食べられるようになりました。",
+      "translationZh": "日本有很多有名的拉面。例如，札幌的味噌拉面和博多的豚骨拉面。这些拉面在各自的城市里非常受欢迎。最近，这些地方特色拉面在东京也能吃到了。",
+      "translationEn": "Japan has many famous ramen. For example, Sapporo's miso ramen and Hakata's tonkotsu ramen. These ramen are very popular in their respective towns. Recently, these local ramen have become available to eat in Tokyo.",
+      "id": "a2eeedd3-83f6-4be2-b61b-b3705ea32d00",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京には、色々な場所から来たラーメン屋さんがオープンしました。北から南まで、有名なラーメンの味が東京で楽しめます。お店がたくさんあるので、選ぶのが楽しいです。友達と一緒に行ってみるのもいいですね。",
+      "translationZh": "来自日本各地（从北到南）的拉面店在东京开了分店。可以在东京品尝到有名的拉面味道。因为店很多，所以选择也很有趣。和朋友一起去看看也不错。",
+      "translationEn": "Ramen shops from various places in Japan have opened in Tokyo. From north to south, you can enjoy famous ramen flavors in Tokyo. There are many shops, so choosing is fun. It's also nice to go with friends.",
+      "id": "7dc7fb96-5c64-4708-adc4-e8c905000fbe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、その町に行かないと食べられないラーメンがたくさんありました。でも、今は東京で色々な味を試すことができます。新しいラーメン屋さんもどんどんできています。ラーメンが好きな人には、とても嬉しいニュースです。",
+      "translationZh": "以前，有很多拉面是必须去那个地方才能吃到的。但是，现在可以在东京尝试各种各样的味道。新开的拉面店也越来越多。这对喜欢拉面的人来说，真是个好消息。",
+      "translationEn": "In the past, there were many ramen that you could only eat by going to that specific town. But now, you can try various flavors in Tokyo. New ramen shops are opening more and more. This is very happy news for ramen lovers.",
+      "id": "80fdd654-1266-4291-852e-65be9d623aa7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ご当地",
+      "reading": "ごとうち",
+      "meaningZh": "当地的，地方特色的",
+      "meaningEn": "local, regional",
+      "level": "n5n4",
+      "exampleSentence": "これはご当地のお土産です。",
+      "id": "33740109-bb99-4cb9-8079-ac454af915c0"
+    },
+    {
+      "word": "ラーメン",
+      "reading": "らーめん",
+      "meaningZh": "拉面",
+      "meaningEn": "ramen",
+      "level": "n5n4",
+      "exampleSentence": "ラーメンが好きです。",
+      "id": "84e58548-e626-4dbe-b6f5-7bebe0e639fc"
+    },
+    {
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaningZh": "进入，拓展（市场）",
+      "meaningEn": "advance, expansion",
+      "level": "n3",
+      "exampleSentence": "新しい市場に進出しました。",
+      "id": "e16fd315-4344-4cb8-bfb4-9c6ee89766b9"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "あの人は有名です。",
+      "id": "795ec133-c939-46f0-a3f7-25c3c9dbd22d"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この店は人気があります。",
+      "id": "66a112e5-a681-49ef-89d0-6501016bf4e1"
+    },
+    {
+      "word": "豚骨",
+      "reading": "とんこつ",
+      "meaningZh": "猪骨（用于熬汤）",
+      "meaningEn": "pork bone",
+      "level": "n3",
+      "exampleSentence": "豚骨スープは美味しいです。",
+      "id": "0f8b19c6-875b-445b-9e32-07db35fb070e"
+    },
+    {
+      "word": "オープン",
+      "reading": "おーぷん",
+      "meaningZh": "开业，开张",
+      "meaningEn": "open",
+      "level": "n5n4",
+      "exampleSentence": "新しいレストランがオープンしました。",
+      "id": "b6780cdb-e9c0-4c9e-a347-9b63e58e51ba"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、ここに大きな木がありました。",
+      "id": "893dbdda-3d36-4028-b0e3-24f09fbb4a87"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東京で色々なご当地ラーメンが食べられるようになったのは、いつからですか？",
+      "options": [
+        "昔から",
+        "最近",
+        "明日から",
+        "分かりません"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近、このご当地ラーメンが東京でも食べられるようになりました。」",
+      "id": "486c953e-a0a5-4de9-a1d5-f8bbbf9b9bfc"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-17-39bdaec71b",
+  "publishedAt": "2026-06-17T06:00:00+09:00"
+}

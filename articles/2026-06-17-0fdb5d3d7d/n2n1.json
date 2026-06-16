@@ -1,0 +1,147 @@
+{
+  "title": "EV急速充電網、全国で拡充へ ～利便性向上と普及促進目指す～",
+  "summary": "電気自動車（EV）の普及を後押しするため、全国各地で急速充電網の整備が加速しています。これにより、EVユーザーの利便性向上と、さらなる普及促進が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、地球温暖化対策や脱炭素社会の実現に向け、電気自動車（EV）への関心が高まっています。しかし、EVの普及を阻む要因の一つとして、充電インフラ、特に急速充電器の設置場所や台数が十分でないことが指摘されてきました。この課題を克服するため、国や地方自治体、民間企業が連携し、全国的な急速充電網の拡充に乗り出しています。高速道路のサービスエリアや道の駅、商業施設、集合住宅など、多様な場所に充電器が設置されつつあり、長距離移動の際の不安解消や、日常的な利用における利便性の向上が図られています。",
+      "translationZh": "近年来，为了应对全球变暖和实现脱碳社会，公众对电动汽车（EV）的关注度日益提高。然而，阻碍EV普及的一个因素是充电基础设施不足，特别是快速充电器的设置地点和数量不够充足。为了克服这一挑战，国家、地方政府和私营企业正在合作，致力于扩大全国范围内的快速充电网络。充电器正被安装在高速公路服务区、休息站、商业设施和公寓楼等各种场所，旨在缓解长途旅行时的顾虑，并提高日常使用的便利性。",
+      "translationEn": "In recent years, interest in electric vehicles (EVs) has been growing in pursuit of climate change countermeasures and the realization of a decarbonized society. However, one of the factors hindering EV adoption has been the insufficient availability of charging infrastructure, particularly fast chargers in terms of location and number. To overcome this challenge, the government, local authorities, and private companies are collaborating to expand the nationwide fast-charging network. Chargers are being installed in diverse locations such as highway service areas, roadside stations, commercial facilities, and apartment complexes, aiming to alleviate concerns during long-distance travel and improve convenience for daily use.",
+      "id": "e8a69167-3d78-4be7-91c3-f7103f560fca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網の拡充は、単に充電スポットを増やすだけでなく、充電時間の短縮や、より多くの車種に対応できる汎用性の高い充電器の導入も視野に入れています。また、再生可能エネルギー由来の電力を使用した充電を促進することで、EVの環境負荷をさらに低減させる取り組みも進められています。これにより、EVは環境性能だけでなく、経済性や利便性の面でもガソリン車との競争力を高めることが期待されており、持続可能なモビリティ社会の実現に大きく貢献すると見られています。",
+      "translationZh": "快速充电网络的扩张不仅在于增加充电点，还着眼于缩短充电时间并引入能够兼容更多车型的高通用性充电器。此外，还在推进使用可再生能源电力进行充电的措施，以进一步降低EV的环境负担。由此，EV有望在环境性能之外，在经济性和便利性方面也能与燃油车提高竞争力，并被认为将为实现可持续移动出行社会做出巨大贡献。",
+      "translationEn": "The expansion of the fast-charging network not only involves increasing charging points but also considers reducing charging times and introducing highly versatile chargers compatible with a wider range of vehicle models. Furthermore, initiatives are underway to further reduce the environmental impact of EVs by promoting charging using electricity derived from renewable energy sources. Consequently, EVs are expected to enhance their competitiveness against gasoline vehicles not only in terms of environmental performance but also in economy and convenience, and are seen as making a significant contribution to the realization of a sustainable mobility society.",
+      "id": "0f3ec4fe-f5be-4d15-a336-5b773c358f32",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後の課題としては、設置場所の確保や電力供給能力の増強、利用料金体系の標準化などが挙げられます。これらの課題を一つずつ解決していくことで、EVがより身近な存在となり、社会全体での普及が加速することが期待されます。急速充電網の拡充は、我が国のカーボンニュートラル達成に向けた重要な一歩であり、自動車産業の変革を促すとともに、新たなビジネスチャンスを生み出す可能性も秘めています。",
+      "translationZh": "未来的课题包括确保安装地点、增强电力供应能力以及标准化收费体系等。通过逐一解决这些问题，EV有望变得更加普及，并加速在整个社会范围内的推广。快速充电网络的扩张是我国实现碳中和目标的重要一步，它有望推动汽车产业的变革，并孕育新的商业机会。",
+      "translationEn": "Future challenges include securing installation sites, strengthening power supply capacity, and standardizing fee structures. By addressing these issues one by one, EVs are expected to become more familiar and their adoption throughout society will accelerate. The expansion of the fast-charging network is a crucial step towards achieving carbon neutrality in our country, and it holds the potential to drive transformation in the automotive industry while creating new business opportunities.",
+      "id": "8d088326-09c4-4b52-8a84-fee002af6f7c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩大，充实",
+      "meaningEn": "expansion, extension, enlargement",
+      "level": "n2n1",
+      "exampleSentence": "急速充電網の拡充が急務となっている。",
+      "id": "2f3e1725-d759-4470-a6ea-f9c9d36e7a0f"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, diffusion, propagation",
+      "level": "n3",
+      "exampleSentence": "電気自動車の普及には充電インフラの整備が不可欠だ。",
+      "id": "a1eacde1-07fd-4bb2-9282-18ed1ffaea18"
+    },
+    {
+      "word": "阻む",
+      "reading": "はばむ",
+      "meaningZh": "阻碍，阻止",
+      "meaningEn": "to hinder, to obstruct, to impede",
+      "level": "n2n1",
+      "exampleSentence": "充電インフラの不足がEV普及の大きな障害となっている。",
+      "id": "e2ff7d6f-01ad-4a90-ad72-04619261935d"
+    },
+    {
+      "word": "指摘",
+      "reading": "してき",
+      "meaningZh": "指出，指摘",
+      "meaningEn": "pointing out, indication, diagnosis",
+      "level": "n3",
+      "exampleSentence": "専門家は、充電設備の不足を繰り返し指摘している。",
+      "id": "dd4b5088-c155-471c-acf9-6de108422f82"
+    },
+    {
+      "word": "克服",
+      "reading": "こくふく",
+      "meaningZh": "克服，战胜",
+      "meaningEn": "overcoming (difficulties)",
+      "level": "n2n1",
+      "exampleSentence": "この課題を克服するために、官民一体となった取り組みが必要だ。",
+      "id": "c3c4f103-b377-48ba-993a-b323578cdc94"
+    },
+    {
+      "word": "汎用性",
+      "reading": "はんようせい",
+      "meaningZh": "通用性，广泛适用性",
+      "meaningEn": "versatility, general applicability",
+      "level": "n2n1",
+      "exampleSentence": "様々な車種に対応できる汎用性の高い充電器が求められている。",
+      "id": "f0cb2921-c975-4b5e-a1f7-27f143a82d9a"
+    },
+    {
+      "word": "環境負荷",
+      "reading": "かんきょうふか",
+      "meaningZh": "环境负荷，环境负担",
+      "meaningEn": "environmental burden, environmental load",
+      "level": "n2n1",
+      "exampleSentence": "再生可能エネルギーの利用は、環境負荷の低減に繋がる。",
+      "id": "0249ade5-ddb6-48f1-948f-fbcc6e52e806"
+    },
+    {
+      "word": "競争力",
+      "reading": "きょうそうりょく",
+      "meaningZh": "竞争力",
+      "meaningEn": "competitiveness",
+      "level": "n3",
+      "exampleSentence": "EVは、性能向上によりガソリン車に対する競争力を高めている。",
+      "id": "90634b85-aebc-4fcb-874e-6a24054d4b93"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、電気自動車（EV）の普及を阻む要因の一つは何だと指摘されていますか？",
+      "options": [
+        "車両価格の高さ",
+        "充電インフラ、特に急速充電器の不足",
+        "バッテリーの寿命の短さ",
+        "デザインの魅力の欠如"
+      ],
+      "correctIndex": 1,
+      "explanation": "「しかし、EVの普及を阻む要因の一つとして、充電インフラ、特に急速充電器の設置場所や台数が十分でないことが指摘されてきました。」",
+      "id": "47c86ba6-4321-489e-8cc9-1e453fd43f5f"
+    },
+    {
+      "question": "急速充電網の拡充により、どのような効果が期待されていますか？",
+      "options": [
+        "EVの製造コスト削減",
+        "充電時間の長期化",
+        "EVユーザーの利便性向上と普及促進",
+        "ガソリンスタンドの廃止"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これにより、EVユーザーの利便性向上と、さらなる普及促進が期待されています。」および「長距離移動の際の不安解消や、日常的な利用における利便性の向上が図られています。」",
+      "id": "3b1aa83a-121e-4c1d-b3b4-f815e2be4ddd"
+    },
+    {
+      "question": "今後の急速充電網の拡充における課題として、記事ではどのような点が挙げられていますか？",
+      "options": [
+        "充電器の性能低下",
+        "電力供給能力の不足や利用料金体系の標準化",
+        "EV以外の車両への充電への移行",
+        "充電器の設置場所の過剰な増加"
+      ],
+      "correctIndex": 1,
+      "explanation": "「今後の課題としては、設置場所の確保や電力供給能力の増強、利用料金体系の標準化などが挙げられます。」",
+      "id": "2a552269-3486-4b87-8cae-b7bcd37b2756"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-17-0fdb5d3d7d",
+  "publishedAt": "2026-06-17T06:00:00+09:00"
+}
