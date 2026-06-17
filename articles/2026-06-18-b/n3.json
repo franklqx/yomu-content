@@ -1,0 +1,117 @@
+{
+  "title": "Bリーグ注目の新星！若き才能がコートを沸かせる",
+  "summary": "Bリーグに現れた新しいスター選手に注目が集まっています。若いながらも驚くべき才能を見せる選手たちの活躍を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、プロバスケットボールBリーグで、目覚ましい活躍を見せる若い選手たちが話題になっています。彼らは、まだ経験は浅いながらも、その高い技術と情熱で、多くのファンを魅了しています。特に、〇〇選手は、そのスピードと正確なシュートで、チームを勝利に導く重要な存在となっています。",
+      "translationZh": "最近，职业篮球B联赛中，一位展现出惊人表现的年轻选手成为了热门话题。尽管经验尚浅，但他们凭借高超的技术和热情吸引了众多粉丝。特别是〇〇选手，以其速度和精准的投篮，成为了带领球队走向胜利的重要人物。",
+      "translationEn": "Recently, young players showing remarkable performance have become a hot topic in the professional basketball B.League. Although they may not have much experience yet, they captivate many fans with their high skills and passion. Player XX, in particular, has become a crucial presence leading the team to victory with their speed and accurate shooting.",
+      "id": "41d391cf-3f36-4b58-8d2b-f3ad83d400e2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "〇〇選手が注目される理由の一つは、試合の流れを変えることができる点です。劣勢の場面でも、彼のプレーを見ると、チーム全体に勢いが生まれることがあります。また、常に新しいスキルを習得しようと努力している姿は、他の若い選手たちの模範となっています。このように、彼はプレーだけでなく、その姿勢でも多くの人を惹きつけているのです。",
+      "translationZh": "〇〇选手受到关注的原因之一是他能够改变比赛的走向。即使在劣势的情况下，看到他的表现，整个队伍都会焕发活力。而且，他不断努力学习新技能的样子，也为其他年轻选手树立了榜样。这样一来，他不仅在球场上，也在态度上吸引了许多人。",
+      "translationEn": "One reason why Player XX is gaining attention is their ability to change the flow of the game. Even in disadvantageous situations, seeing their play can energize the entire team. Furthermore, their constant effort to learn new skills serves as a role model for other young players. Thus, they attract many people not only with their play but also with their attitude.",
+      "id": "34197b36-55aa-4d56-adf1-b9b9ac8860d6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "Bリーグは、このような若い才能が次々と現れることで、さらに盛り上がりを見せています。ベテラン選手たちの経験に、若い選手の勢いが加わることで、よりエキサイティングな試合が期待できるでしょう。今後も、〇〇選手をはじめとする若きスターたちの活躍から目が離せません。彼らがBリーグをどのように発展させていくのか、非常に楽しみです。",
+      "translationZh": "B联赛正是因为这样年轻的才能接连涌现，才变得更加热闹。老将们的经验加上年轻选手的活力，有望带来更精彩的比赛。今后，我们也将继续关注包括〇〇选手在内的年轻明星们的表现。他们将如何发展B联赛，令人非常期待。",
+      "translationEn": "The B.League is becoming even more exciting with the continuous emergence of such young talent. With the addition of young players' momentum to the experience of veteran players, more exciting games can be expected. We cannot take our eyes off the performance of young stars, including Player XX, from now on. We are very much looking forward to how they will develop the B.League.",
+      "id": "c4faa8c4-6b6d-4eff-9338-19ad98ebd999",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "显著的，惊人的",
+      "meaningEn": "remarkable, striking",
+      "level": "n3",
+      "exampleSentence": "彼は目覚ましい成長を遂げた。",
+      "id": "98a081ba-068f-4a58-bb15-f42d84c0bf7f"
+    },
+    {
+      "word": "魅了する",
+      "reading": "みりょうする",
+      "meaningZh": "迷惑，吸引",
+      "meaningEn": "to fascinate, to charm",
+      "level": "n3",
+      "exampleSentence": "その美しい景色に魅了された。",
+      "id": "4a84ef79-acfa-4f79-912d-1a7df666f32a"
+    },
+    {
+      "word": "劣勢",
+      "reading": "れっせい",
+      "meaningZh": "劣势",
+      "meaningEn": "disadvantage, unfavorable position",
+      "level": "n3",
+      "exampleSentence": "試合は劣勢だったが、諦めなかった。",
+      "id": "365ad50f-b587-4312-8cd2-4c4308eb0092"
+    },
+    {
+      "word": "模範",
+      "reading": "もはん",
+      "meaningZh": "模范，榜样",
+      "meaningEn": "model, example",
+      "level": "n3",
+      "exampleSentence": "彼は皆の模範となるような行動をとった。",
+      "id": "002e7080-4e08-44ed-a750-f7c8c754533e"
+    },
+    {
+      "word": "勢い",
+      "reading": "いきおい",
+      "meaningZh": "气势，活力",
+      "meaningEn": "momentum, vigor",
+      "level": "n3",
+      "exampleSentence": "チームは勢いに乗って得点を重ねた。",
+      "id": "10d75720-445b-4a47-81eb-ff7c06a81016"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaningZh": "发展",
+      "meaningEn": "development, progress",
+      "level": "n3",
+      "exampleSentence": "この地域は急速に発展している。",
+      "id": "a898bbfd-b43f-4606-aab1-e189c99424d4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "〇〇選手が注目される理由は何ですか？",
+      "options": [
+        "経験が豊富だから",
+        "試合の流れを変えることができるから",
+        "怪我が多いから",
+        "あまり練習しないから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「〇〇選手が注目される理由の一つは、試合の流れを変えることができる点です。」と書かれています。",
+      "id": "365e501d-2800-4eb6-b6e7-8f9e3c67b210"
+    },
+    {
+      "question": "Bリーグがさらに盛り上がると期待されるのはなぜですか？",
+      "options": [
+        "若い選手が減ったから",
+        "ベテラン選手しかいなくなったから",
+        "若い才能とベテラン選手の経験が合わさるから",
+        "試合が少なくなったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「ベテラン選手たちの経験に、若い選手の勢いが加わることで、よりエキサイティングな試合が期待できるでしょう。」と書かれています。",
+      "id": "b66d35b2-5c68-46da-bcc8-38eb5ecdfa96"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-18-b",
+  "publishedAt": "2026-06-18T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "コミケの新しいトレンド",
+  "summary": "コミケでは、いろいろなサークルがありました。今年は特に人気のあるジャンルがありました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コミックマーケットは、たくさんの人が集まるイベントです。今年は、特にアニメの新しいキャラクターのグッズが人気でした。多くのサークルが、これらのグッズを売っていました。",
+      "translationZh": "Comic Market 是一个聚集了很多人气的活动。今年，特别是动画新角色的周边商品很受欢迎。许多同人社团都在出售这些商品。",
+      "translationEn": "Comic Market is an event where many people gather. This year, new anime character goods were particularly popular. Many circles were selling these goods.",
+      "id": "95a0bd17-946f-49c7-814b-69047d9c9ac6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、昔から人気のあるゲームの新しいイラストも目立ちました。昔のアニメやゲームのファンも、たくさん会場に来ていました。懐かしい作品のグッズは、すぐに売り切れました。",
+      "translationZh": "另外，从以前就受欢迎的游戏的新插画也很显眼。怀旧动画和游戏粉丝也来了很多人。怀旧作品的周边很快就卖完了。",
+      "translationEn": "Also, new illustrations of popular old games were noticeable. Many fans of old anime and games also came to the venue. Goods from nostalgic works sold out quickly.",
+      "id": "e4a46880-7820-4831-b1fa-e94227810767",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、VTuberというインターネットで活動する人が人気です。コミケでも、VTuberのファンアートのサークルがたくさんありました。新しい形のファン活動が見られました。",
+      "translationZh": "最近，VTuber（在网络上活动的艺人）很受欢迎。在 Comic Market，也有很多 VTuber 的粉丝艺术社团。可以看到新形式的粉丝活动。",
+      "translationEn": "Recently, VTubers, who are active on the internet, are popular. At Comic Market, there were also many circles for VTuber fan art. A new form of fan activity could be seen.",
+      "id": "918cdd64-c5ea-4b7a-94a4-2b3b2b5f30db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "来年のコミケも楽しみです。どんな新しいトレンドが生まれるか、わくわくしますね。",
+      "translationZh": "我很期待明年的 Comic Market。不知道会诞生什么样的新的潮流，好兴奋啊。",
+      "translationEn": "I am looking forward to next year's Comic Market. I'm excited to see what new trends will emerge.",
+      "id": "170660b0-1e52-48bc-a3b8-99daea21839e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "イベント",
+      "reading": "イベント",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "週末に大きいイベントがあります。",
+      "id": "129926b8-f326-450c-86fb-0b4607ecf3ed"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "キャラクター",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このアニメのキャラクターが好きです。",
+      "id": "5a0d3af8-0281-45cf-b2c8-bb26122ffd3c"
+    },
+    {
+      "word": "グッズ",
+      "reading": "グッズ",
+      "meaningZh": "周边商品",
+      "meaningEn": "goods",
+      "level": "n5n4",
+      "exampleSentence": "新しいグッズを買いました。",
+      "id": "a1d5e113-b04a-44f0-a1c4-27d2c8e54091"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "2d321c94-30fa-46dc-af18-37d61a680f18"
+    },
+    {
+      "word": "イラスト",
+      "reading": "イラスト",
+      "meaningZh": "插画",
+      "meaningEn": "illustration",
+      "level": "n5n4",
+      "exampleSentence": "きれいなイラストですね。",
+      "id": "1790d08c-f8ef-47e3-9935-bb0ac8497e23"
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningZh": "怀旧的，怀念的",
+      "meaningEn": "nostalgic",
+      "level": "n5n4",
+      "exampleSentence": "この音楽を聞くと、子供の時を思い出して懐かしいです。",
+      "id": "b47eb1db-d930-49cd-9c9a-c873356d2284"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n5n4",
+      "exampleSentence": "チケットはもう売り切れました。",
+      "id": "33873bef-0977-4945-9f0d-86d3782033e6"
+    },
+    {
+      "word": "トレンド",
+      "reading": "トレンド",
+      "meaningZh": "潮流，趋势",
+      "meaningEn": "trend",
+      "level": "n5n4",
+      "exampleSentence": "最近のファッションのトレンドは何ですか。",
+      "id": "97a4ed6c-1a34-4263-a372-7dd26a3ed054"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年のコミケで人気だったものは何ですか？",
+      "options": [
+        "昔のゲームの音楽",
+        "昔のアニメのフィギュア",
+        "新しいアニメのキャラクターのグッズ",
+        "VTuberのライブチケット"
+      ],
+      "correctIndex": 2,
+      "explanation": "今年は、特にアニメの新しいキャラクターのグッズが人気でした。",
+      "id": "f34fd17c-920d-40e8-8f6f-d5188290b7bf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-18-ec987604cd",
+  "publishedAt": "2026-06-18T06:00:00+09:00"
+}

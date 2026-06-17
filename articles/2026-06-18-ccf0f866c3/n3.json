@@ -1,0 +1,143 @@
+{
+  "title": "夏の夜空を彩る！花火大会開催情報",
+  "summary": "夏の風物詩である花火大会。今年の夏も各地で大規模な花火大会が開催されます。最新の開催情報をチェックして、夏の思い出を作りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "毎年夏になると、各地で花火大会が開催され、夜空に咲く大輪の花を楽しむことができます。今年は特に多くの場所で、コロナ禍を経て久しぶりに本格的な花火大会が復活する予定なので、多くの人が期待しています。",
+      "translationZh": "每年夏天，各地都会举办烟花大会，让人们欣赏夜空中绽放的硕大烟花。今年尤其是在很多地方，经过新冠疫情后，期待已久的盛大烟花大会将时隔多年再次复苏，许多人都对此充满期待。",
+      "translationEn": "Every summer, fireworks festivals are held in various locations, allowing people to enjoy the large blossoms that bloom in the night sky. This year, in particular, many places are planning to revive full-scale fireworks festivals after a long hiatus due to the pandemic, so many people are looking forward to it.",
+      "id": "36b0a7b4-09cd-424c-98fa-de6874f6ab1e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会の開催情報は、各自治体のウェブサイトや観光協会のサイトで確認することができます。事前に情報を集めておけば、当日の混雑を避けたり、おすすめの鑑賞スポットを見つけたりすることも可能になります。せっかく行くなら、一番良い場所で見たいですよね。",
+      "translationZh": "烟花大会的举办信息可以在各自治体或旅游协会的网站上查到。如果提前收集好信息，就可以避开当天的拥挤，也能找到推荐的观赏地点。既然要去，当然想在最好的地方观看。",
+      "translationEn": "Information about fireworks festivals can be found on the websites of local governments and tourism associations. By gathering information in advance, you can avoid crowds on the day and find recommended viewing spots. If you're going to attend, you'll want to see it from the best spot, right?",
+      "id": "6689389c-d3c1-4e9e-ad4f-362c30726940",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近では、花火を打ち上げるだけでなく、音楽とのコラボレーションや、周辺でのイベントなども企画されていることが多いです。一日中楽しめるような工夫がされているので、家族や友人と一緒に、夏の夜を満喫してみてはいかがでしょうか。",
+      "translationZh": "最近，很多烟花大会不仅会燃放烟花，还会策划与音乐的合作，以及周边的活动等。有很多能让你尽情享受一整天的安排，不妨和家人或朋友一起，好好享受夏夜吧。",
+      "translationEn": "Recently, many fireworks festivals not only feature fireworks displays but also often include collaborations with music and surrounding events. They are designed so that you can enjoy the whole day, so why not make the most of a summer night with your family and friends?",
+      "id": "a01840fc-9798-4680-b693-997644304f8c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ただし、当日は大変な混雑が予想されるため、公共交通機関の利用が推奨されます。また、会場によってはレジャーシートの持ち込みが制限されていたり、飲食物の持ち込みが禁止されていたりすることもあるので、事前にルールを確認しておくことが大切です。",
+      "translationZh": "但是，当天预计会非常拥挤，因此推荐使用公共交通工具。另外，根据会场不同，可能会限制携带野餐垫，或禁止携带饮食，因此提前确认好规定很重要。",
+      "translationEn": "However, as significant crowds are expected on the day, using public transportation is recommended. Also, depending on the venue, bringing leisure sheets may be restricted, or bringing food and drinks may be prohibited, so it is important to check the rules in advance.",
+      "id": "4e8ad06a-6475-4b1c-8c21-78064ac525cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（季节的）特色，风物",
+      "meaningEn": "seasonal feature; something that evokes a particular season",
+      "level": "n3",
+      "exampleSentence": "桜は春の風物詩です。",
+      "id": "aa99cadf-851b-4bc8-afaf-477f2c0347d4"
+    },
+    {
+      "word": "大規模",
+      "reading": "だい きぼ",
+      "meaningZh": "大规模的",
+      "meaningEn": "large-scale",
+      "level": "n3",
+      "exampleSentence": "大規模な災害が発生した。",
+      "id": "43491136-a19e-40be-88ac-6c08c158b00c"
+    },
+    {
+      "word": "復活",
+      "reading": "ふっかつ",
+      "meaningZh": "复苏，复活",
+      "meaningEn": "revival; restoration",
+      "level": "n3",
+      "exampleSentence": "伝統的な祭りが復活した。",
+      "id": "ae236338-b847-4d4b-b22c-b9b9901b7bea"
+    },
+    {
+      "word": "本格的",
+      "reading": "ほんかく てき",
+      "meaningZh": "真正的，本格的，正式的",
+      "meaningEn": "authentic; full-scale; proper",
+      "level": "n3",
+      "exampleSentence": "本格的なイタリア料理を味わった。",
+      "id": "ac4fbc86-0388-4297-90c7-3fc652144461"
+    },
+    {
+      "word": "自治体",
+      "reading": "じち たい",
+      "meaningZh": "自治体",
+      "meaningEn": "local government; municipality",
+      "level": "n3",
+      "exampleSentence": "この自治体は子育て支援に力を入れている。",
+      "id": "ea2a1cd0-4c9f-4493-bac2-a9b2caf05d71"
+    },
+    {
+      "word": "鑑賞",
+      "reading": "かんしょう",
+      "meaningZh": "欣赏",
+      "meaningEn": "appreciation; admiration (of art, music, etc.)",
+      "level": "n3",
+      "exampleSentence": "美術館で絵画を鑑賞した。",
+      "id": "acdcd993-3e3d-471b-aa89-56b1f32d5198"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "device; scheme; idea; invention",
+      "level": "n3",
+      "exampleSentence": "問題を解決するために、新しい工夫が必要だ。",
+      "id": "e8a1c6ca-5084-4959-9e0c-ad1ce8e0210f"
+    },
+    {
+      "word": "満喫",
+      "reading": "まんきつ",
+      "meaningZh": "尽情享受",
+      "meaningEn": "enjoyment; satisfaction",
+      "level": "n3",
+      "exampleSentence": "休暇を十分に満喫した。",
+      "id": "2f031ea3-6dfc-4bc8-bd4d-26857456ca66"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の夏の花火大会は、例年と比べてどのような特徴がありますか？",
+      "options": [
+        "規模が小さくなる",
+        "音楽とのコラボレーションが増える",
+        "コロナ禍を経て本格的な開催が復活する",
+        "開催される場所が減る"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第一段落に「今年は特に多くの場所で、コロナ禍を経て久しぶりに本格的な花火大会が復活する予定なので、多くの人が期待しています。」とあります。",
+      "id": "2bf42336-8d16-432e-a31e-6d857f1fa16b"
+    },
+    {
+      "question": "花火大会へ行く前に、確認しておくべきことは何ですか？",
+      "options": [
+        "当日の天気予報",
+        "会場までの交通手段",
+        "会場の飲食持ち込みルール",
+        "過去の花火の映像"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「会場によってはレジャーシートの持ち込みが制限されていたり、飲食物の持ち込みが禁止されていたりすることもあるので、事前にルールを確認しておくことが大切です。」とあります。",
+      "id": "593ca926-f651-4443-9cbe-236e17558fa4"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-18-ccf0f866c3",
+  "publishedAt": "2026-06-18T06:00:00+09:00"
+}

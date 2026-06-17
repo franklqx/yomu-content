@@ -1,0 +1,122 @@
+{
+  "title": "夏の夜空を彩る花火！",
+  "summary": "今年も各地で花火大会が開催されます。夏の思い出を作りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏になると、夜空にきれいな花火が上がります。花火大会は、夏の日本の大切なイベントです。今年も多くの場所で花火大会が開催されます。",
+      "translationZh": "夏天一到，夜空中就会绽放出美丽的花火。花火大会是日本夏天重要的活动。今年也有很多地方会举办花火大会。",
+      "translationEn": "When summer comes, beautiful fireworks light up the night sky. Fireworks festivals are important summer events in Japan. Many places will hold fireworks festivals again this year.",
+      "id": "b1f3c343-9448-4f80-a873-4504b21314ea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会では、たくさんの種類の花火を見ることができます。大きな花火や、色とりどりの花火はとてもきれいです。音楽に合わせて花火が上がることもあります。",
+      "translationZh": "在花火大会上，可以看到很多种类的烟花。大大的烟花和五颜六色的烟花非常漂亮。有时烟花会配合音乐绽放。",
+      "translationEn": "At fireworks festivals, you can see many types of fireworks. Big fireworks and colorful fireworks are very beautiful. Sometimes fireworks are set off to music.",
+      "id": "5374f90b-5461-4aea-bb16-9df7da81c944",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は、家族や友達と一緒に行くのが楽しいです。浴衣を着て行く人もたくさんいます。屋台で食べ物を買って、花火を見るのは特別な体験です。",
+      "translationZh": "和家人或朋友一起去参加花火大会很有趣。穿浴衣去的人也很多。在小摊上买些吃的，然后看烟花，是一种特别的体验。",
+      "translationEn": "It's fun to go to a fireworks festival with family or friends. Many people wear yukata. Buying food from stalls and watching fireworks is a special experience.",
+      "id": "66f9958e-668b-4e52-9296-f30aa4fedcf8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年、あなたの町でも花火大会はありますか？ぜひ、夏の夜空を楽しんでください。",
+      "translationZh": "今年，你的城市也有花火大会吗？请一定好好享受夏天的夜空。",
+      "translationEn": "Will there be a fireworks festival in your town this year? Please enjoy the summer night sky.",
+      "id": "b2ee6993-d7d4-407b-9224-6a7d4a9c0886",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "花火",
+      "reading": "はなび",
+      "meaningZh": "烟花",
+      "meaningEn": "fireworks",
+      "level": "n5n4",
+      "exampleSentence": "夜空に大きな花火が上がりました。",
+      "id": "6354e038-111b-43e8-96f4-125d94040670"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaningZh": "大会，盛会",
+      "meaningEn": "convention, festival, tournament",
+      "level": "n5n4",
+      "exampleSentence": "花火大会は夏の楽しみです。",
+      "id": "27e851f9-761a-4029-b5fa-4cf318021d9a"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaningZh": "举办",
+      "meaningEn": "hold, open",
+      "level": "n3",
+      "exampleSentence": "来週、お祭りが開催されます。",
+      "id": "49239fa7-428e-4061-abf1-6ff1e6bf769c"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaningZh": "夜空",
+      "meaningEn": "night sky",
+      "level": "n5n4",
+      "exampleSentence": "夜空に星がたくさん見えます。",
+      "id": "c3df3331-ac10-4079-a6e3-4cff0ed28bbe"
+    },
+    {
+      "word": "色とりどり",
+      "reading": "いろとりどり",
+      "meaningZh": "五颜六色",
+      "meaningEn": "various colors, colorful",
+      "level": "n3",
+      "exampleSentence": "きれいな色の花が咲いています。",
+      "id": "e9c16252-8ab4-48cb-96cd-1721206db48e"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (light summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りには浴衣を着ます。",
+      "id": "2c99e876-cc20-4016-8d1d-4b46ae4afda9"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "（路边）摊位",
+      "meaningEn": "stall, stand",
+      "level": "n5n4",
+      "exampleSentence": "屋台でおいしいものを買いました。",
+      "id": "57d44d79-792b-40d0-b1d0-cbb0d9d43d7d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会で何を見ることができますか？",
+      "options": [
+        "たくさんの種類の花火",
+        "きれいな星",
+        "大きな山",
+        "遠い海"
+      ],
+      "correctIndex": 0,
+      "explanation": "花火大会では、たくさんの種類の花火を見ることができます。",
+      "id": "96f5366a-864f-4f97-a800-cac47cb58736"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-18-ccf0f866c3",
+  "publishedAt": "2026-06-18T06:00:00+09:00"
+}

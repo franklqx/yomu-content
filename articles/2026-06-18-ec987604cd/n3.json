@@ -1,0 +1,126 @@
+{
+  "title": "コミケで発見！今期注目のサークル傾向",
+  "summary": "今回のコミケでは、例年とは少し違うサークルの傾向が見られました。特に注目すべきは、新しいジャンルの台頭や、既存ジャンルの進化です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今回のコミックマーケットでは、多くの新しいジャンルのサークルが目につきました。特に、インディーズゲームやVTuber関連のグッズを扱うサークルが増えているように感じられます。これらのサークルは、SNSでの情報発信も活発で、若い世代を中心に多くのファンを集めていました。そのため、既存のジャンルだけではなく、新しい分野への関心も高まっていることが分かります。",
+      "translationZh": "这次的Comic Market（同人展）中，许多新类型的社团引人注目。特别是，经营独立游戏和VTuber相关周边商品的社团似乎在增加。这些社团在社交媒体上的信息发布也很活跃，吸引了以年轻一代为中心的大量粉丝。因此，可以看出人们对新领域（不仅是现有类型）的兴趣也在提高。",
+      "translationEn": "At this Comic Market, many new genre circles caught our eye. In particular, we felt there was an increase in circles handling indie games and VTuber-related merchandise. These circles are also actively disseminating information on social media, attracting a large number of fans, especially among the younger generation. Therefore, it is evident that interest is growing not only in existing genres but also in new fields.",
+      "id": "b8e3a419-ae14-40ee-8830-249fecda040e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、既存のジャンルにおいても、サークルが工夫を凝らしている様子が見られました。例えば、アニメや漫画の二次創作でも、単なるキャラクターグッズに留まらず、オリジナルのストーリーを重視した作品や、体験型の企画を打ち出すサークルもありました。このように、参加者を楽しませるための多様なアプローチが取られているのが印象的です。",
+      "translationZh": "此外，在现有类型中，我们也看到了社团们绞尽脑汁进行创新的情况。例如，即使是动画和漫画的二次创作，也有社团不满足于仅仅制作角色周边，而是注重原创故事，或者推出体验型企划。像这样，为了让参加者尽兴而采取的多种多样的策略，给人留下了深刻的印象。",
+      "translationEn": "Furthermore, even within existing genres, circles were seen making innovative efforts. For example, in fan fiction of anime and manga, there were circles that went beyond simple character goods, emphasizing original stories or proposing experiential projects. Thus, it was impressive to see the diverse approaches taken to entertain participants.",
+      "id": "eb2a7aca-36e6-4f0f-906b-ef8fd5e0097f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、サークル参加者の間では、会場の混雑や、より快適に参加できる環境整備への要望も聞かれます。昨年から、入場制限や分散入場の試みも行われていますが、今後もより多くの人が楽しめるような工夫が求められるでしょう。サークル側も、来場者側も、より良いイベントにするために協力していくことが大切だと考えられます。",
+      "translationZh": "另一方面，在社团参加者中，也听到了关于会场拥挤以及希望改善环境以便更舒适地参与的愿望。从去年开始，虽然也尝试了入场限制和分散入场的措施，但今后可能还需要更多的创新，以便让更多人能够享受其中。我们认为，社团方和来场者双方都应合作，共同打造一个更美好的活动。",
+      "translationEn": "On the other hand, among circle participants, requests are also heard regarding venue congestion and the need for better environmental arrangements to allow for a more comfortable participation. Since last year, attempts at admission restrictions and staggered entry have been made, but further innovations will likely be needed in the future so that more people can enjoy the event. It is thought to be important for both the circles and the visitors to cooperate in making it a better event.",
+      "id": "2e8b357f-94ca-4189-9f1b-eea3919bb442",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コミックマーケット",
+      "reading": "こみっくまーけっと",
+      "meaningZh": "日本最大的同人志即卖会",
+      "meaningEn": "Japan's largest doujinshi convention",
+      "level": "n3",
+      "exampleSentence": "コミックマーケットは年に数回開催されます。",
+      "id": "5f608dd0-b871-4307-8cf1-74e42e0edb97"
+    },
+    {
+      "word": "サークル",
+      "reading": "さーくる",
+      "meaningZh": "同人活动中，指创作和销售同人志或相关产品的团体。",
+      "meaningEn": "In doujin activities, a group that creates and sells doujinshi or related products.",
+      "level": "n3",
+      "exampleSentence": "このサークルは毎回人気があります。",
+      "id": "3f59f8cc-aef4-43b8-9b99-40688c07fbe2"
+    },
+    {
+      "word": "インディーズゲーム",
+      "reading": "いんでぃーずげーむ",
+      "meaningZh": "独立游戏，指由个人或小型开发团队制作的游戏。",
+      "meaningEn": "Indie game, referring to games produced by individuals or small development teams.",
+      "level": "n3",
+      "exampleSentence": "インディーズゲームのコーナーは面白い作品が多いです。",
+      "id": "25bbb993-e2ff-482c-8d38-cf86343a768c"
+    },
+    {
+      "word": "二次創作",
+      "reading": "にじそうさく",
+      "meaningZh": "二次创作，指以现有作品（如漫画、动画、小说等）的角色或世界观为基础进行的再创作。",
+      "meaningEn": "Derivative work, referring to new creations based on characters or worldviews from existing works (e.g., manga, anime, novels).",
+      "level": "n3",
+      "exampleSentence": "彼の二次創作は原作ファンにも好評です。",
+      "id": "cba44048-d1c8-47cc-8a8c-8ee026750baa"
+    },
+    {
+      "word": "工夫を凝らす",
+      "reading": "くふうをこらす",
+      "meaningZh": "煞费苦心，精心设计。",
+      "meaningEn": "To make elaborate efforts; to devise ingeniously.",
+      "level": "n3",
+      "exampleSentence": "この企画には、たくさんの工夫が凝らされています。",
+      "id": "50cfcba2-65b9-4936-b5cb-634513abfae1"
+    },
+    {
+      "word": "留まる",
+      "reading": "とどまる",
+      "meaningZh": "停留在，限于。",
+      "meaningEn": "To remain; to be limited to.",
+      "level": "n3",
+      "exampleSentence": "彼の才能は、一時的な人気に留まるものではない。",
+      "id": "62ec03df-c6b6-4187-a9d6-a0f1cc63ca5f"
+    },
+    {
+      "word": "環境整備",
+      "reading": "かんきょうせいび",
+      "meaningZh": "环境整備，改善环境。",
+      "meaningEn": "Environmental improvement; preparing the environment.",
+      "level": "n3",
+      "exampleSentence": "イベント会場の環境整備は重要です。",
+      "id": "25c58978-9a1e-4ace-bd63-9dea6baf23f0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今期のコミケで、特に増えていると感じられるジャンルは何ですか？",
+      "options": [
+        "歴史資料",
+        "古典文学",
+        "インディーズゲームやVTuber関連",
+        "料理レシピ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「特に、インディーズゲームやVTuber関連のグッズを扱うサークルが増えているように感じられます。」と書かれています。",
+      "id": "7418e857-8c0e-454e-8140-2c75c08289ef"
+    },
+    {
+      "question": "二次創作において、サークルはどのような工夫をしていましたか？",
+      "options": [
+        "キャラクターグッズだけを販売する",
+        "オリジナルのストーリーや体験企画を重視する",
+        "原作に忠実な内容のみを作る",
+        "SNSでの宣伝を一切行わない"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「単なるキャラクターグッズに留まらず、オリジナルのストーリーを重視した作品や、体験型の企画を打ち出すサークルもありました。」とあります。",
+      "id": "bbb286dd-fbb2-4390-b22d-263dad8bbf17"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-18-ec987604cd",
+  "publishedAt": "2026-06-18T06:00:00+09:00"
+}

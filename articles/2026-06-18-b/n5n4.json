@@ -1,0 +1,131 @@
+{
+  "title": "Bリーグの新しいスター",
+  "summary": "Bリーグには新しいスター選手がいます。彼の名前は〇〇です。彼はとても上手です。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "日本のプロバスケットボールリーグ「Bリーグ」に、新しいスター選手が出てきました。この選手はとても人気があります。多くのファンが彼のプレーを見ています。",
+      "translationZh": "在日本的职业篮球联赛“B联赛”中，出现了一位新的明星选手。这位选手非常受欢迎。许多球迷都在看他的比赛。",
+      "translationEn": "A new star player has emerged in Japan's professional basketball league, the B.League. This player is very popular. Many fans are watching his games.",
+      "id": "6032a05e-dd2a-4e17-b0cd-f363b8404d7c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しいスターの名前は、田中（たなか）〇〇（まるまる）選手です。彼はまだ若いです。しかし、彼のバスケットボールの技術はとても高いです。彼は得点（とくてん）をたくさん取ることができます。",
+      "translationZh": "这位新星的名字是田中〇〇选手。他还很年轻。但是，他的篮球技术非常高超。他能得到很多分数。",
+      "translationEn": "The name of this new star is Tanaka Marumaru. He is still young. However, his basketball skills are very high. He can score many points.",
+      "id": "eb2030be-4a89-4193-84d4-c0c957dc5894",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "〇〇選手は、チームのために一生懸命（いっしょうけんめい）プレーします。彼のパスも正確（せいかく）で、チームメイトも喜んでいます。これからも、彼の活躍（かつやく）が楽しみです。",
+      "translationZh": "〇〇选手为了队伍拼命地打球。他的传球也很精准，队友们也很高兴。今后也期待他的活跃表现。",
+      "translationEn": "Player 〇〇 plays hard for his team. His passes are also accurate, and his teammates are happy. We look forward to his future success.",
+      "id": "3b5a8afc-9812-471d-b265-e19e1b196597",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "Bリーグは、もっと面白くなるでしょう。〇〇選手のような若いスターが、リーグを盛り上げています。皆さんも、ぜひBリーグの試合を見てみてください。",
+      "translationZh": "B联赛将会变得更加有趣。像〇〇选手这样的年轻明星正在让联赛更加热闹。大家也请一定要看看B联赛的比赛。",
+      "translationEn": "The B.League will likely become more exciting. Young stars like player 〇〇 are energizing the league. Everyone, please try to watch a B.League game.",
+      "id": "57645c12-2882-4fa1-9203-1798aa88121d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スター",
+      "reading": "すたー",
+      "meaningZh": "明星，巨星",
+      "meaningEn": "star",
+      "level": "n5n4",
+      "exampleSentence": "彼はチームのスターです。",
+      "id": "7c415793-e193-4fa7-9c11-2e88d3753732"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "有名なテニス選手です。",
+      "id": "3e2127b9-bf6f-4d3d-9c49-0aa2c59113d2"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手は人気があります。",
+      "id": "1c666577-4802-4865-b9a9-9f11cf43387e"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "skill",
+      "level": "n5n4",
+      "exampleSentence": "彼の運転技術はすごいです。",
+      "id": "ac492b03-c0df-4da8-bf95-cd2167011fff"
+    },
+    {
+      "word": "得点",
+      "reading": "とくてん",
+      "meaningZh": "得分",
+      "meaningEn": "score",
+      "level": "n5n4",
+      "exampleSentence": "試合でたくさん得点しました。",
+      "id": "697bfeb8-aaa3-4577-894c-df2234ffe70c"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "拼命地，努力地",
+      "meaningEn": "with all one's might",
+      "level": "n5n4",
+      "exampleSentence": "一生懸命勉強しました。",
+      "id": "8245c922-fe57-47f9-8de7-c4ca45f428de"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaningZh": "准确，正确",
+      "meaningEn": "accurate",
+      "level": "n5n4",
+      "exampleSentence": "正確な情報が必要です。",
+      "id": "bf0ca7de-4126-4b8e-9457-d967be0b1e9b"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有作为",
+      "meaningEn": "activity, success",
+      "level": "n5n4",
+      "exampleSentence": "選手たちの活躍が期待されます。",
+      "id": "9392019c-0190-4001-8468-9a94fb8376ed"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "〇〇選手はどのような選手ですか。",
+      "options": [
+        "まだ若くて、技術が高い選手",
+        "いつも怪我をしている選手",
+        "あまり試合に出ない選手",
+        "人気がない選手"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「この選手はとても人気があります。彼はまだ若いです。しかし、彼のバスケットボールの技術はとても高いです。」と書いてあります。",
+      "id": "f628df4c-8e52-406a-b842-e8e13e60ad3c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-18-b",
+  "publishedAt": "2026-06-18T06:00:00+09:00"
+}
