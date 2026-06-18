@@ -1,0 +1,123 @@
+{
+  "title": "お年寄りのための宅配サービス",
+  "summary": "最近、お年寄りのための宅配サービスが広がっています。これは、一人暮らしのお年寄りにとってとても助かるサービスです。このサービスは、毎日の生活をより便利にします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、一人暮らしのお年寄りがたくさんいます。買い物や料理が大変になる人もいます。そこで、家まで食事を届けるサービスが始まりました。このサービスは、お年寄りの生活を助けるために作られました。",
+      "translationZh": "日本有很多独自居住的老年人。购物和做饭对一些人来说变得很困难。因此，开始出现了将食物送到家中的服务。这项服务是为了帮助老年人的生活而创建的。",
+      "translationEn": "There are many elderly people living alone in Japan. Shopping and cooking can become difficult for some people. Therefore, a service that delivers meals to their homes has started. This service was created to help the lives of the elderly.",
+      "id": "46f2137c-db72-4e88-a7c7-8c2cce859099",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この宅配サービスは、栄養のある温かい食事を毎日届けます。メニューは毎日変わるので、飽きません。また、配達する人が毎日顔を見るので、安心できます。もし体調が悪そうな時も、すぐに家族に連絡できます。",
+      "translationZh": "这项宅配服务每天提供营养丰富的热餐。菜单每天更换，所以不会吃腻。而且，每天送餐的人都能看到老年人的脸，所以他们感到安心。如果身体状况看起来不好，也可以立即联系家人。",
+      "translationEn": "This delivery service delivers nutritious, warm meals every day. The menu changes daily, so you won't get tired of it. Also, since the delivery person sees their face every day, the elderly can feel at ease. If they seem unwell, their family can be contacted immediately.",
+      "id": "95fe775c-ad33-4b1b-9d23-27ca41de86af",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスを利用するお年寄りは増えています。家族も、遠くに住んでいると心配ですが、このサービスがあれば安心できます。これからも、このサービスはもっと広がるでしょう。お年寄りが元気に毎日を過ごせるように、大切な役割を果たします。",
+      "translationZh": "使用这项服务的老年人正在增加。家人虽然住在远处也会担心，但有了这项服务就可以安心了。今后，这项服务也会进一步扩大。它将发挥重要作用，帮助老年人健康地度过每一天。",
+      "translationEn": "The number of elderly people using this service is increasing. Although families worry when they live far away, they can feel relieved with this service. This service will likely expand further in the future. It plays an important role in helping the elderly live healthy lives every day.",
+      "id": "2ce9c29c-bd9b-45fd-aa9e-3252193aaa65",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お年寄り",
+      "reading": "おとしより",
+      "meaningZh": "老年人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "この町には、お年寄りがたくさん住んでいます。",
+      "id": "ad3f0e33-6942-46b8-b0e8-c966899f38c1"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "送货上门服务",
+      "meaningEn": "delivery service",
+      "level": "n5n4",
+      "exampleSentence": "最近、食べ物の宅配サービスが人気です。",
+      "id": "654a904b-b447-40f7-9a43-8912fb4adf0e"
+    },
+    {
+      "word": "一人暮らし",
+      "reading": "ひとりぐらし",
+      "meaningZh": "独自生活",
+      "meaningEn": "living alone",
+      "level": "n5n4",
+      "exampleSentence": "祖母は一人暮らしですが、元気です。",
+      "id": "a2ad1959-227d-4337-b0e4-3668056c8657"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaningZh": "购物",
+      "meaningEn": "shopping",
+      "level": "n5n4",
+      "exampleSentence": "毎日、近くのスーパーで買い物をします。",
+      "id": "e8944574-606b-4960-8e4f-f2b2b7c8e85d"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "烹饪；料理",
+      "meaningEn": "cooking; dish",
+      "level": "n5n4",
+      "exampleSentence": "新しい料理の作り方を習いました。",
+      "id": "e56005bf-a951-408b-a593-29b4fb411934"
+    },
+    {
+      "word": "栄養",
+      "reading": "えいよう",
+      "meaningZh": "营养",
+      "meaningEn": "nutrition",
+      "level": "n3",
+      "exampleSentence": "バランスの取れた栄養が必要です。",
+      "id": "4755e7da-9fb6-41f0-9397-56b6365ae09c"
+    },
+    {
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaningZh": "配送；递送",
+      "meaningEn": "delivery",
+      "level": "n5n4",
+      "exampleSentence": "郵便物の配達は午前中です。",
+      "id": "2760aa8b-5783-485d-a971-ab1b132aa099"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心；放心",
+      "meaningEn": "relief; peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "家族が無事だと聞いて安心しました。",
+      "id": "e6ebe9fa-4c26-4aee-b91c-2d6fd31df80f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "宅配サービスは、誰のためにあると言っていますか？",
+      "options": [
+        "料理が好きな人のため",
+        "一人暮らしのお年寄りのため",
+        "配達員のため",
+        "買い物に行けない人のため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「お年寄りのための宅配サービス」と書いてあります。また、「一人暮らしのお年寄りがたくさんいます。買い物や料理が大変になる人もいます。そこで、家まで食事を届けるサービスが始まりました。」とあります。",
+      "id": "d2cee18a-c0fd-4d62-a24f-da3a5e6a731b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-19-9edb18e972",
+  "publishedAt": "2026-06-19T06:00:00+09:00"
+}

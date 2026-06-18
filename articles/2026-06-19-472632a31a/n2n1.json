@@ -1,0 +1,147 @@
+{
+  "title": "プロ野球新シーズン開幕！注目は？",
+  "summary": "プロ野球の新シーズンがいよいよ開幕します。各球団から期待の選手たちが注目を集めており、今シーズンの行方を占う上で重要な存在となるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球のペナントレースが、いよいよ熱を帯びてきました。各球団ともに、優勝に向けた戦力補強や若手選手の育成に力を入れており、新シーズンは例年以上に白熱した展開が予想されています。特に、昨シーズンの成績を踏まえ、大型補強を行った球団や、期待の若手が台頭してきた球団には、多くのファンが注目しているとのことです。",
+      "translationZh": "职业棒球的例行赛终于变得火热起来。各球团都在致力于战力补充和年轻选手培养以争夺冠军，新赛季预计将比往年更加白热化。特别是，考虑到上赛季的成绩，进行了大规模补强的球团，以及涌现出令人期待的年轻选手的球团，吸引了众多粉丝的关注。",
+      "translationEn": "The professional baseball pennant race has finally begun to heat up. All teams are focusing on strengthening their rosters and developing young players for the championship race, and this new season is expected to be more intense than ever. In particular, teams that have made significant acquisitions based on last season's performance, and teams where promising young players have emerged, are reportedly attracting considerable attention from fans.",
+      "id": "646876b4-07ac-4a40-913e-a62b72763411",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "注目選手としては、まず、メジャーリーグでの経験を経て帰国したベテラン投手が挙げられます。その豊富な経験と卓越した投球術は、チームの若手投手陣に良い刺激を与えるとともに、ローテーションの軸として大きな期待が寄せられています。また、昨シーズン、新人ながら驚異的な打撃成績を残した若手スラッガーも、今シーズンの更なる飛躍が期待されており、各球団の投手陣は警戒を強めていると見られます。",
+      "translationZh": "在备受瞩目的选手方面，首先不得不提的是，一位结束了在大联盟的经验后回国的资深投手。他丰富的经验和卓越的投球技巧，不仅能给队内的年轻投手们带来积极的刺激，而且作为轮值核心，人们对他寄予厚望。此外，上赛季作为新人却打出了惊人成绩的年轻强棒，本赛季也备受期待能有更大突破，各球团的投手阵容据信已加强了戒备。",
+      "translationEn": "Among the players to watch, a veteran pitcher who has returned from Major League experience is a prime candidate. His extensive experience and exceptional pitching skills are expected to provide a positive influence on the team's younger pitchers, while he is also anticipated to be a key figure in the starting rotation. Furthermore, a young slugger who achieved remarkable batting performance as a rookie last season is expected to make even greater strides this season, leading observers to believe that opposing pitching staffs are heightening their vigilance.",
+      "id": "b5902814-dc33-4c15-81f2-95d21400b769",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、育成ドラフトから這い上がり、一軍の座を掴んだ選手にも熱い視線が注がれています。当初は地道な努力が実を結び、徐々に評価を高めていった経緯があり、その粘り強さと成長力は多くのファンを魅了しています。彼らがレギュラーシーズンを通してどのような活躍を見せるのか、球界関係者のみならず、野球ファンの間でも大きな話題となることは間違いないでしょう。",
+      "translationZh": "此外，从育成选秀中脱颖而出并获得一军席位的选手也受到了热切的关注。他当初凭借不懈的努力，逐步提高了自己的评价，其坚韧不拔的精神和成长能力吸引了众多粉丝。无论是在职业界相关人士中，还是在棒球迷之间，他整个常规赛期间将展现出怎样的表现，无疑将成为一个热门话题。",
+      "translationEn": "Furthermore, keen attention is also being paid to a player who rose through the developmental draft to secure a spot on the first team. His journey, marked by persistent effort that gradually led to increased recognition, along with his tenacity and potential for growth, captivates many fans. How he performs throughout the regular season is sure to become a major topic of discussion not only among baseball insiders but also among fans nationwide.",
+      "id": "51b1ecb8-ca8a-4898-b722-ec1a018027e0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ペナントレース",
+      "reading": "ぺなんとれーす",
+      "meaningZh": "（棒球）联赛冠军赛",
+      "meaningEn": "pennant race (baseball league championship)",
+      "level": "n2n1",
+      "exampleSentence": "今年のペナントレースはどのチームが制するだろうか。",
+      "id": "cb827858-0d77-4811-8217-68a82daca084"
+    },
+    {
+      "word": "熱を帯びる",
+      "reading": "ねつをおびる",
+      "meaningZh": "变得火热，气氛热烈",
+      "meaningEn": "to become heated, to gain momentum",
+      "level": "n2n1",
+      "exampleSentence": "試合終盤に差し掛かり、会場のボルテージはさらに熱を帯びてきた。",
+      "id": "34bd2896-03ce-4f73-99a1-346a14d52d8a"
+    },
+    {
+      "word": "戦力補強",
+      "reading": "せんりょくほきょう",
+      "meaningZh": "战力补充，加强实力",
+      "meaningEn": "reinforcement of strength, strengthening a team's capabilities",
+      "level": "n2n1",
+      "exampleSentence": "チームはオフシーズン中に積極的な戦力補強を行った。",
+      "id": "5d818113-8f98-4bb8-b2d2-917c00d97244"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，崛起",
+      "meaningEn": "rise, emergence",
+      "level": "n2n1",
+      "exampleSentence": "若手選手の台頭が目覚ましい。",
+      "id": "d93f4590-1fdd-4c03-95ff-f32f639429e1"
+    },
+    {
+      "word": "卓越",
+      "reading": "たくえつ",
+      "meaningZh": "卓越，杰出",
+      "meaningEn": "excellence, superiority",
+      "level": "n2n1",
+      "exampleSentence": "彼の技術は他に卓越している。",
+      "id": "55ac5a6a-85c4-4f45-b6c9-87bcb74c801b"
+    },
+    {
+      "word": "スラッガー",
+      "reading": "すらっがー",
+      "meaningZh": "强力击球手，重炮手",
+      "meaningEn": "slugger",
+      "level": "n3",
+      "exampleSentence": "このチームには強力なスラッガーが複数いる。",
+      "id": "df0ae5b9-402d-45ac-8e0d-e518d4a34e3b"
+    },
+    {
+      "word": "警戒",
+      "reading": "けいかい",
+      "meaningZh": "警戒，警惕",
+      "meaningEn": "caution, vigilance",
+      "level": "n3",
+      "exampleSentence": "相手チームのエースに対しては、最大限の警戒が必要だ。",
+      "id": "fd06068d-42b8-4d8e-831d-ea0ab2fdae54"
+    },
+    {
+      "word": "育成ドラフト",
+      "reading": "いくせいどらすと",
+      "meaningZh": "（棒球）育成选秀",
+      "meaningEn": "developmental draft (in baseball)",
+      "level": "n2n1",
+      "exampleSentence": "育成ドラフトから支配下選手に昇格するのは容易ではない。",
+      "id": "b412aff9-e425-4184-aedd-9788e45d7a67"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新シーズン、例年以上に白熱した展開が予想される主な理由は何ですか？",
+      "options": [
+        "選手の移籍が活発だから",
+        "球団の戦力補強や若手選手の成長が期待されるから",
+        "試合時間が短縮されるから",
+        "新しい球場が開設されるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中には「各球団ともに、優勝に向けた戦力補強や若手選手の育成に力を入れており、新シーズンは例年以上に白熱した展開が予想されています」と記載されています。",
+      "id": "2a3fc7e2-8df8-42d0-8d32-347625b88806"
+    },
+    {
+      "question": "メジャーリーグでの経験を経て帰国したベテラン投手への期待は何ですか？",
+      "options": [
+        "若手投手の指導とローテーションの軸となること",
+        "打撃でもチームを牽引すること",
+        "速球のスピードをさらに上げるためのトレーニング",
+        "コーチとしての手腕を発揮すること"
+      ],
+      "correctIndex": 0,
+      "explanation": "「その豊富な経験と卓越した投球術は、チームの若手投手陣に良い刺激を与えるとともに、ローテーションの軸として大きな期待が寄せられています」という記述があります。",
+      "id": "a1ddf097-d055-4894-b108-f201d65a72e4"
+    },
+    {
+      "question": "育成ドラフトから這い上がった選手が注目されている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "当初からスター選手としての素質があったから",
+        "SNSでの人気が高いから",
+        "地道な努力と粘り強さ、成長力があるから",
+        "外国人選手とのトレードで獲得されたから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「当初は地道な努力が実を結び、徐々に評価を高めていった経緯があり、その粘り強さと成長力は多くのファンを魅了しています」と説明されています。",
+      "id": "09898b97-b42d-4564-93f1-ac5f2cf69d9d"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-19-472632a31a",
+  "publishedAt": "2026-06-19T06:00:00+09:00"
+}

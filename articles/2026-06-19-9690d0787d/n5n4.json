@@ -1,0 +1,122 @@
+{
+  "title": "新しいアートと伝統の出会い",
+  "summary": "現代アートと伝統工芸が一緒に展示されています。新しい発見がありますよ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、面白い展示会がありました。それは、現代アートと日本の伝統工芸のコラボ展です。新しい技術と古い技術が合わさっています。とてもきれいでした。",
+      "translationZh": "最近，有一个有趣的展览。那是现代艺术和日本传统工艺的合作展。新技术和老技术结合在一起。非常漂亮。",
+      "translationEn": "Recently, there was an interesting exhibition. It was a collaboration exhibition between modern art and Japanese traditional crafts. New techniques and old techniques are combined. It was very beautiful.",
+      "id": "8d9b04dd-59cf-4f06-8bf5-14494a37fac0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、有名な陶芸家が作った花瓶がありました。その花瓶には、若いデザイナーが描いた絵が使われていました。伝統的な形に、現代的なデザインが加わっていました。",
+      "translationZh": "例如，有位著名的陶艺家制作的花瓶。那个花瓶使用了年轻设计师画的图案。传统造型加上了现代设计。",
+      "translationEn": "For example, there was a vase made by a famous ceramic artist. The vase used a design drawn by a young designer. Modern design was added to the traditional shape.",
+      "id": "cc2519c0-e813-421c-98b7-b5320dd60452",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、職人が作った着物もありました。その着物には、新しい素材が使われていました。色もとても明るくて、驚きました。昔ながらの良さと新しいアイデアが一つになっています。",
+      "translationZh": "还有，也有职人做的和服。那件和服使用了新材料。颜色也非常鲜艳，让我吃惊。传统的美好和新想法融为一体。",
+      "translationEn": "Also, there were kimonos made by artisans. New materials were used for those kimonos. The colors were also very bright, which surprised me. The traditional goodness and new ideas have become one.",
+      "id": "2d94d716-cdb8-4531-ab7f-f9f9f5d61d98",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展示会は、多くの人に新しい発見を与えました。伝統の大切さと、新しいものの面白さを感じました。機会があれば、ぜひ行ってみてください。",
+      "translationZh": "这个展览给很多人带来了新的发现。我感受到了传统的重要性，以及新事物的趣味。如果有机会，请一定要去看看。",
+      "translationEn": "This exhibition gave many people new discoveries. I felt the importance of tradition and the interestingness of new things. If you have a chance, please try to go.",
+      "id": "4f9301af-2cb7-4594-8efd-0c37a0375f2a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "展示会",
+      "reading": "てんじかい",
+      "meaningZh": "展览会",
+      "meaningEn": "exhibition, exhibition fair",
+      "level": "n5n4",
+      "exampleSentence": "面白い展示会がありました。",
+      "id": "4328f88d-300c-43f9-9bf0-581bded3f334"
+    },
+    {
+      "word": "現代アート",
+      "reading": "げんだいアート",
+      "meaningZh": "现代艺术",
+      "meaningEn": "modern art",
+      "level": "n5n4",
+      "exampleSentence": "現代アートと伝統工芸が合わさっています。",
+      "id": "292d7fc5-d90e-4561-8bcf-7f0c20a3b9f5"
+    },
+    {
+      "word": "伝統工芸",
+      "reading": "でんとうこうげい",
+      "meaningZh": "传统工艺",
+      "meaningEn": "traditional crafts",
+      "level": "n5n4",
+      "exampleSentence": "伝統工芸も展示されています。",
+      "id": "d1d8ba1c-d17b-4556-a097-60e181ff9c22"
+    },
+    {
+      "word": "陶芸家",
+      "reading": "とうげいか",
+      "meaningZh": "陶艺家",
+      "meaningEn": "potter, ceramic artist",
+      "level": "n5n4",
+      "exampleSentence": "有名な陶芸家が花瓶を作りました。",
+      "id": "96e4d6f8-040e-4da1-bfb1-7ce8446c83d5"
+    },
+    {
+      "word": "デザイナー",
+      "reading": "デザイナー",
+      "meaningZh": "设计师",
+      "meaningEn": "designer",
+      "level": "n5n4",
+      "exampleSentence": "若いデザイナーが絵を描きました。",
+      "id": "5657ac05-884c-4732-81d9-b788fc99aa66"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，职人",
+      "meaningEn": "artisan, craftsman",
+      "level": "n5n4",
+      "exampleSentence": "職人が着物を作りました。",
+      "id": "bd2ad0f0-1cb5-433b-aa3e-45e6cce38296"
+    },
+    {
+      "word": "素材",
+      "reading": "そざい",
+      "meaningZh": "材料",
+      "meaningEn": "material, raw materials",
+      "level": "n5n4",
+      "exampleSentence": "新しい素材が使われました。",
+      "id": "b801431f-7cd2-496a-92e3-f917363967ca"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "展示会では、何と何が一緒に展示されていましたか？",
+      "options": [
+        "現代アートと現代音楽",
+        "伝統工芸と現代音楽",
+        "現代アートと伝統工芸",
+        "伝統工芸と伝統音楽"
+      ],
+      "correctIndex": 2,
+      "explanation": "「現代アートと日本の伝統工芸のコラボ展です。」と書いてあります。",
+      "id": "ef03871d-97f5-4983-8229-5ebfac560fd7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-19-9690d0787d",
+  "publishedAt": "2026-06-19T06:00:00+09:00"
+}

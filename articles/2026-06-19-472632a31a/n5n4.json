@@ -1,0 +1,131 @@
+{
+  "title": "注目のプロ野球選手",
+  "summary": "新しいプロ野球シーズンが始まります。今年はどんな選手が活躍するでしょうか。注目の選手をいくつか紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンがもうすぐ始まります。たくさんのチームがあります。どのチームも優勝を目指して頑張ります。ファンは新しいシーズンが来るのをとても楽しみにしています。",
+      "translationZh": "职业棒球的新赛季很快就要开始了。有很多队伍。每个队伍都努力争取优胜。球迷们非常期待新赛季的到来。",
+      "translationEn": "The new professional baseball season will start soon. There are many teams. Every team will do its best to aim for victory. Fans are really looking forward to the new season.",
+      "id": "be59a112-8707-4939-a25e-7aecf6388abd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目したい選手がいます。たとえば、山田選手です。彼は去年のシーズンでたくさんのホームランを打ちました。今年も彼のバッティングに期待しましょう。彼はとてもパワフルな選手です。",
+      "translationZh": "有一些特别值得关注的选手。例如，山田选手。他去年赛季打了许多全垒打。今年也期待他的打击表现吧。他是一位非常有力量的选手。",
+      "translationEn": "There are some players we want to pay special attention to. For example, Yamada is one of them. He hit many home runs last season. Let's look forward to his batting again this year. He is a very powerful player.",
+      "id": "3d9bd205-869a-495f-8d49-6190c4fb43f5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、新しい若い選手も注目です。佐藤選手は去年デビューしました。彼はとても速いボールを投げることができます。これからもっと上手になるでしょう。彼のピッチングを見てみましょう。",
+      "translationZh": "另外，新来的年轻选手也值得关注。佐藤选手去年出道。他能投出非常快的球。今后会变得更厉害吧。让我们看看他的投球吧。",
+      "translationEn": "Also, new young players are noteworthy. Sato debuted last year. He can throw a very fast ball. He will probably become even better from now on. Let's watch his pitching.",
+      "id": "5a126b11-a7ba-4179-98e6-40c90994d887",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年のシーズンはとても面白くなりそうです。新しいスター選手が現れるかもしれません。皆で応援しましょう。野球はチームのスポーツですが、個人の力も大切です。",
+      "translationZh": "今年的赛季看起来会非常有趣。可能会出现新的明星选手。大家一起加油助威吧。棒球是团队运动，但个人能力也很重要。",
+      "translationEn": "This season looks like it will be very exciting. New star players might appear. Let's all cheer for them. Baseball is a team sport, but individual strength is also important.",
+      "id": "e661d539-6130-4841-8c0b-26e0760e45f9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいシーズンが始まります。",
+      "id": "96cabc5e-d5ee-4a64-bbbb-2839dbcd1033"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention",
+      "level": "n5n4",
+      "exampleSentence": "注目の選手を紹介します。",
+      "id": "c8feb23f-12ed-4038-9c0e-b411de722c69"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "山田選手はパワフルです。",
+      "id": "66dfa970-7402-40c8-9fc1-95d4bc247e90"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": "チームは優勝を目指します。",
+      "id": "4409b904-2f93-4ac5-9127-71cccf2ff046"
+    },
+    {
+      "word": "ホームラン",
+      "reading": "ほーむらん",
+      "meaningZh": "本垒打",
+      "meaningEn": "home run",
+      "level": "n5n4",
+      "exampleSentence": "たくさんのホームランを打ちました。",
+      "id": "0e404de8-6f9d-48bf-9ed7-d20a889689a6"
+    },
+    {
+      "word": "バッティング",
+      "reading": "ばってぃんぐ",
+      "meaningZh": "击球（技术）",
+      "meaningEn": "batting",
+      "level": "n5n4",
+      "exampleSentence": "彼のバッティングに期待します。",
+      "id": "b2dba49a-b9b3-41a1-9f9c-1b31d1e36e5b"
+    },
+    {
+      "word": "デビュー",
+      "reading": "でびゅー",
+      "meaningZh": "出道",
+      "meaningEn": "debut",
+      "level": "n5n4",
+      "exampleSentence": "佐藤選手は去年デビューしました。",
+      "id": "d73c3608-b3fa-446d-8f01-a7291b1afe16"
+    },
+    {
+      "word": "ピッチング",
+      "reading": "ぴっちんぐ",
+      "meaningZh": "投球（技术）",
+      "meaningEn": "pitching",
+      "level": "n5n4",
+      "exampleSentence": "彼のピッチングを見てください。",
+      "id": "1c8e2d54-f425-42fd-8875-3f200fee2d7c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "去年のシーズンで、山田選手は何をたくさん打ちましたか。",
+      "options": [
+        "速いボール",
+        "ホームラン",
+        "ヒット",
+        "三振"
+      ],
+      "correctIndex": 1,
+      "explanation": "「彼は去年のシーズンでたくさんのホームランを打ちました。」",
+      "id": "dc06a0b0-c6bc-47ee-8979-fe7e0cfdfce6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-19-472632a31a",
+  "publishedAt": "2026-06-19T06:00:00+09:00"
+}

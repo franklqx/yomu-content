@@ -1,0 +1,146 @@
+{
+  "title": "プロ野球新シーズン！注目の選手は誰？",
+  "summary": "新しいプロ野球シーズンが始まります。今回は、特に注目すべき選手たちを紹介します。彼らの活躍から目が離せません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の世界では、毎年新しいスター選手が登場し、ファンを魅了しています。今年のシーズンも例外ではなく、多くの期待が寄せられている選手がいます。特に、若手の中には、昨シーズンから実力を伸ばしてきた選手も少なくありません。彼らがチームを優勝に導くような活躍を見せてくれるのか、注目が集まっています。",
+      "translationZh": "在日本职业棒球界，每年都有新的明星选手登场，吸引着粉丝。今年的赛季也不例外，有很多备受期待的选手。特别是，一些年轻选手在上个赛季以来实力不断增长。他们能否拿出带领队伍夺冠的表现，正受到关注。",
+      "translationEn": "In the world of professional baseball, new star players emerge every year, captivating fans. This season is no exception, with many players drawing significant anticipation. Notably, among the younger generation, several players have been steadily improving their skills since last season. Attention is focused on whether they will deliver performances that lead their teams to victory.",
+      "id": "5d4bbbdd-c5c9-4cfe-b1fc-fcbc5db4abea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、〇〇球団の新人、山田選手は、キャンプから好調を維持しており、オープン戦でも素晴らしいバッティングを見せました。彼のパワフルなスイングは、多くのファンを興奮させています。監督も「期待以上の働きをしてくれている」と語っており、開幕からの起用が濃厚です。彼がプロの世界でどれだけ通用するのか、非常に楽しみですね。",
+      "translationZh": "例如，〇〇球队的新人选手山田，从训练营开始就保持着良好状态，在热身赛中也展现了出色的击球表现。他有力的挥棒让许多粉丝激动不已。教练也表示“他的表现超出了预期”，很可能从赛季初就开始启用他。他能在职业棒球界达到什么水平，非常令人期待。",
+      "EnTranslation": "For example, Yamada, a rookie from the XX team, has maintained good form since spring training and showed excellent batting in exhibition games. His powerful swing excites many fans. The manager has also commented, 'He's performing beyond our expectations,' making his early season debut highly probable. We are very much looking forward to seeing how he fares in the professional league.",
+      "id": "c0f5adf1-6d2f-4a84-aec7-e5a676737604",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    },
+    {
+      "text": "また、ベテランの選手たちも、まだまだ健在です。ベテランだからといって侮れません。長年の経験で培われた技術や、状況判断の的確さには、若手選手にはない魅力があります。彼らが若手選手を引っ張り、チーム全体のレベルアップに貢献している姿は、素晴らしいものです。ベテランの意地と、若手の勢いがぶつかり合う、熱い戦いが期待できるでしょう。",
+      "translationZh": "此外，老将们也依然宝刀未老。不能因为他们是老将就小看他们。凭借多年经验培养出的技术，以及对情况判断的精准，他们有着年轻选手所没有的魅力。他们带领年轻选手，为提升整个队伍水平做出贡献的样子，非常棒。我们可以期待一场老将们的斗志与年轻选手的冲劲相互碰撞的激烈比赛。",
+      "EnTranslation": "Furthermore, veteran players are still very much in top form. One shouldn't underestimate them just because they are veterans. Their skills honed over many years of experience and their accurate judgment of situations possess a charm that younger players lack. It's wonderful to see them lead the younger players and contribute to raising the overall team level. We can anticipate an intense battle where the pride of veterans clashes with the momentum of the young players.",
+      "id": "abcde5b0-e02f-441b-8eb6-13ebbb695e93",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    },
+    {
+      "text": "今年のプロ野球は、新しい顔ぶれとベテランの実力、それぞれのドラマが繰り広げられるはずです。どのチームが頂点に立つのか、そして注目選手たちがどんな活躍を見せてくれるのか、シーズン開幕が待ちきれませんね。",
+      "translationZh": "今年的职业棒球，应该会上演新面孔与老将实力、各自的精彩故事。哪个队伍会站在顶峰，以及备受瞩目的选手们会展现出怎样的表现，真是等不及赛季开始了。",
+      "EnTranslation": "This year's professional baseball season promises a unfolding drama featuring new faces and the proven skills of veterans. We can hardly wait for the season to begin to see which team will reach the top and what kind of performances the spotlighted players will deliver.",
+      "id": "448c8f38-088b-4fa3-8dbd-b865e0258793",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "魅了",
+      "reading": "みりょう",
+      "meaningZh": "使人着迷，迷惑",
+      "meaningEn": "to charm, to fascinate, to enchant",
+      "level": "n3",
+      "exampleSentence": "その美しい景色に魅了された。",
+      "id": "a7bd9adf-b902-46bf-8fd7-388d08595eeb"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaningZh": "例外",
+      "meaningEn": "exception",
+      "level": "n3",
+      "exampleSentence": "彼はいつも時間に正確で、遅刻したことはない。今回も例外ではないだろう。",
+      "id": "395f7b4a-f687-40d1-9fe2-855f7df52ba5"
+    },
+    {
+      "word": "新人",
+      "reading": "しんじん",
+      "meaningZh": "新人",
+      "meaningEn": "rookie, new face",
+      "level": "n5n4",
+      "exampleSentence": "彼はこのチームの新人選手です。",
+      "id": "c0eefbb3-6916-4178-804a-cba280179170"
+    },
+    {
+      "word": "オープン戦",
+      "reading": "おーぷんせん",
+      "meaningZh": "（棒球）热身赛，季前赛",
+      "meaningEn": "exhibition game, preseason game",
+      "level": "n3",
+      "exampleSentence": "オープン戦で良い成績を残した。",
+      "id": "c2c5a5ee-e4bf-45f7-a0ff-ae600f7fe3ba"
+    },
+    {
+      "word": "濃厚",
+      "reading": "のうこう",
+      "meaningZh": "（可能性）大的，极有可能的",
+      "meaningEn": "rich, thick; (of possibility) strong, likely",
+      "level": "n3",
+      "exampleSentence": "優勝候補として濃厚だ。",
+      "id": "ff6f64b1-3ba2-4955-abb3-1db96f33a1de"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将，经验丰富的人",
+      "meaningEn": "veteran",
+      "level": "n3",
+      "exampleSentence": "彼は長年の経験を持つベテラン選手です。",
+      "id": "b28ce0de-926b-46e2-849a-98977ab6f39f"
+    },
+    {
+      "word": "侮る",
+      "reading": "あなどる",
+      "meaningZh": "小看，轻视，侮辱",
+      "meaningEn": "to slight, to look down on, to underestimate",
+      "level": "n3",
+      "exampleSentence": "相手を侮ってはいけない。",
+      "id": "a7883df5-3122-4c98-b715-f1601f92193f"
+    },
+    {
+      "word": "意地",
+      "reading": "いじ",
+      "meaningZh": "（不服输的）固执，倔强，好胜心",
+      "meaningEn": "spirit, pride, obstinacy",
+      "level": "n3",
+      "exampleSentence": "彼の意地は、最後まで諦めさせなかった。",
+      "id": "ba6292c3-4f6b-4a7c-b6b1-afb3b9668bb6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "山田選手について、本文でどのように述べられていますか？",
+      "options": [
+        "彼はベテラン選手で、経験豊富だ。",
+        "彼は新人選手で、キャンプから調子が良く、オープン戦でも活躍した。",
+        "彼は怪我のため、開幕戦には出場できないだろう。",
+        "彼は打撃は良いが、守備には課題がある。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「〇〇球団の新人、山田選手は、キャンプから好調を維持しており、オープン戦でも素晴らしいバッティングを見せました。」と書かれています。",
+      "id": "c9faf102-f26a-451f-9616-ac5f744eb4a6"
+    },
+    {
+      "question": "ベテラン選手について、本文で述べられている魅力は何ですか？",
+      "options": [
+        "若手にはないスピードとパワー。",
+        "長年の経験に裏打ちされた技術と的確な状況判断。",
+        "常に新しい戦術を試す柔軟性。",
+        "相手チームを驚かせるような、予測不能なプレー。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「長年の経験で培われた技術や、状況判断の的確さには、若手選手にはない魅力があります。」と説明されています。",
+      "id": "3775d989-ee7f-41b8-b565-1f7151df76e9"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-19-472632a31a",
+  "publishedAt": "2026-06-19T06:00:00+09:00"
+}

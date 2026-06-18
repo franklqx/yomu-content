@@ -1,0 +1,135 @@
+{
+  "title": "高齢者向け宅配サービス、ますます便利に",
+  "summary": "高齢者の生活を支える宅配サービスが拡大しています。外出が難しい方々にとって、食料品や日用品の購入が楽になり、安心感が増しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、高齢者向けの宅配サービスの利用が急速に増えています。これは、高齢者自身が外出することなく、食料品や日用品などを自宅まで届けてもらえるサービスだからです。特に、一人暮らしの高齢者や、体の不自由な方々にとっては、生活必需品の確保が容易になり、大変助かっています。",
+      "translationZh": "近年来，面向老年人的宅配服务使用量正在迅速增加。这是因为，这项服务使得老年人无需外出，就可以将食品和日用品等送到家中。特别是对于独居老人或行动不便的人来说，确保生活必需品变得容易，非常有帮助。",
+      "translationEn": "In recent years, the use of delivery services for the elderly has been rapidly increasing. This is because the service allows the elderly to receive groceries and daily necessities delivered to their homes without having to go out. It is particularly helpful for elderly people living alone or those with physical disabilities, making it easier to secure essential goods.",
+      "id": "981f48dc-e24d-4609-8bb3-0faadeaa88c0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのサービスは、単に物を届けるだけでなく、配達員が高齢者とコミュニケーションをとることで、見守りの役割も果たしています。配達の際に、体調の変化に気づいたり、困っている様子を見かけたりした場合、家族や地域包括支援センターなどに連絡してくれることもあります。そのため、離れて暮らす家族も安心して、サービスを利用させることができます。",
+      "translationZh": "这些服务不仅是送货，配送员通过与老年人交流，也起到了看护的作用。在配送时，如果注意到他们身体状况的变化，或者看到他们有困难的样子，有时会联系家人或社区综合支援中心。因此，即使是分开居住的家人也能安心地让他们使用这项服务。",
+      "translationEn": "These services not only deliver goods but also serve a monitoring role as delivery staff communicate with the elderly. During deliveries, they may notice changes in health or see signs of distress, and sometimes contact family members or community support centers. Therefore, even family members living apart can let them use the service with peace of mind.",
+      "id": "8374f3a8-6d0f-48d1-b2b3-6bd70333169a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、最近では、栄養バランスの取れた食事を温かいまま届ける「配食サービス」も注目されています。調理が難しい高齢者や、健康管理のために栄養バランスを意識したい方にとって、手軽に利用できる点が魅力です。このようなサービスが拡充されることで、高齢者がより豊かで安心した生活を送れるようになることが期待されています。",
+      "translationZh": "此外，最近备受关注的是将营养均衡的餐食在温热状态下送达的“配餐服务”。对于做饭困难的老年人，或者希望注重营养均衡以进行健康管理的人来说，可以轻松使用的这一点很有吸引力。随着这类服务的扩展，人们期待老年人能够过上更丰富、更安心的生活。",
+      "translationEn": "Furthermore, 'meal delivery services' that deliver nutritionally balanced meals while still warm are also gaining attention recently. The convenience of easily using these services is appealing to the elderly who find cooking difficult or those who want to be mindful of nutritional balance for health management. With the expansion of such services, it is expected that the elderly will be able to live richer and more secure lives.",
+      "id": "e250b683-5d3b-48d3-b612-d5f786fed969",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "送货上门服务，特指将商品送到顾客家里的服务。",
+      "meaningEn": "Home delivery service, specifically a service that delivers goods to the customer's home.",
+      "level": "n3",
+      "exampleSentence": "重い荷物も宅配サービスで楽に運べます。",
+      "id": "dc813d25-8e2c-4069-a532-e0b1a5c610de"
+    },
+    {
+      "word": "急速に",
+      "reading": "きゅうそくに",
+      "meaningZh": "非常快地，迅速地。",
+      "meaningEn": "Rapidly, quickly.",
+      "level": "n3",
+      "exampleSentence": "技術は急速に進歩しています。",
+      "id": "769a029c-9c90-4530-8e28-4a082fb10ca9"
+    },
+    {
+      "word": "体の不自由な方",
+      "reading": "からだのふじゆうなかた",
+      "meaningZh": "行动不便的人，身体残疾的人。",
+      "meaningEn": "Person with physical disabilities, person with limited mobility.",
+      "level": "n3",
+      "exampleSentence": "体の不自由な方でも利用できるスロープが設置されました。",
+      "id": "8e6c487b-76e9-4092-8b98-e855c19fd786"
+    },
+    {
+      "word": "必需品",
+      "reading": "ひつじゅひん",
+      "meaningZh": "生活上必需的物品。",
+      "meaningEn": "Necessities, essential goods.",
+      "level": "n3",
+      "exampleSentence": "食料品や薬は生活必需品です。",
+      "id": "055d3308-094a-4ed3-8858-40a62f644927"
+    },
+    {
+      "word": "見守り",
+      "reading": "みまもり",
+      "meaningZh": "照看，监视，关注。",
+      "meaningEn": "Watching over, looking after, monitoring.",
+      "level": "n3",
+      "exampleSentence": "地域での見守り活動が重要になっています。",
+      "id": "04930ff4-5e01-467e-8340-9f3446003b65"
+    },
+    {
+      "word": "地域包括支援センター",
+      "reading": "ちいきほうかつしえんセンター",
+      "meaningZh": "日本为老年人提供综合支援的公共机构。",
+      "meaningEn": "Community General Support Center (a public institution in Japan providing comprehensive support for the elderly).",
+      "level": "n3",
+      "exampleSentence": "困ったことがあれば、地域包括支援センターに相談できます。",
+      "id": "95b8f17c-0a6c-4b6a-b36b-f0c5552ba09b"
+    },
+    {
+      "word": "配食サービス",
+      "reading": "はいしょくサービス",
+      "meaningZh": "将烹饪好的餐食配送到家的服务。",
+      "meaningEn": "Meal delivery service (service that delivers cooked meals to homes).",
+      "level": "n3",
+      "exampleSentence": "配食サービスを利用して、毎日の食事の準備を楽にしています。",
+      "id": "70b9c492-400c-4a4d-b2b9-73cb007c72de"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大，充实。",
+      "meaningEn": "Expansion, increase, reinforcement.",
+      "level": "n2n1",
+      "exampleSentence": "サービスの拡充が求められています。",
+      "id": "394db942-42d3-4414-b86b-10327ff67ec1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高齢者向け宅配サービスが利用される理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "配達員が若いから",
+        "商品が安いから",
+        "高齢者が外出せずに生活必需品を手に入れられるから",
+        "無料で利用できるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「高齢者自身が外出することなく、食料品や日用品などを自宅まで届けてもらえるサービスだからです。」とあります。",
+      "id": "5cf4ea0f-e721-4fe6-ab1c-b61d88c57ca2"
+    },
+    {
+      "question": "宅配サービスは、どのような役割も果たしていると書かれていますか？",
+      "options": [
+        "配達員がおしゃべり相手になる",
+        "見守り",
+        "専門的な医療相談",
+        "家事の手伝い"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「配達員が高齢者とコミュニケーションをとることで、見守りの役割も果たしています。」とあります。",
+      "id": "c6b4c427-6355-4648-b853-2a9b6aea12ad"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-19-9edb18e972",
+  "publishedAt": "2026-06-19T06:00:00+09:00"
+}
