@@ -1,0 +1,122 @@
+{
+  "title": "沖縄の島巡りは楽しい！",
+  "summary": "沖縄にはたくさんのきれいな島があります。離島ホップで色々な島を巡るツアーが人気です。ぜひ行ってみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には、きれいな海がたくさんあります。そして、たくさんの島もあります。石垣島（いしがきじま）や宮古島（みやこじま）などが有名です。これらの島を「離島（りとう）」と呼びます。",
+      "translationZh": "冲绳有许多美丽的大海。而且，也有很多岛屿。石垣岛和宫古岛等很出名。这些岛屿被称为“离岛”。",
+      "translationEn": "Okinawa has many beautiful seas. And, there are also many islands. Islands like Ishigaki Island and Miyako Island are famous. These islands are called 'remote islands'.",
+      "id": "95aae7cb-e454-451f-abbb-13da85a3c5fe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、「離島ホップ」という言葉が人気です。これは、一つの島だけでなく、いくつかの島を船で巡る旅行のことです。飛行機や船を使って、島から島へ移動します。色々な島を見て、その島ならではの体験ができます。",
+      "translationZh": "最近，“离岛跳跃”这个说法很受欢迎。这是指不只去一个岛，而是乘船游览几个岛的旅行。使用飞机或船，可以从一个岛移动到另一个岛。可以看看各种岛屿，体验只有那个岛才有的特色。",
+      "translationEn": "Recently, the term 'remote island hopping' is popular. This means traveling by boat to several islands, not just one. Using airplanes or boats, you move from island to island. You can see various islands and have unique experiences.",
+      "id": "75467032-3837-487d-8804-9524274b5391",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、夏にはきれいな海で泳いだり、シュノーケリングをしたりできます。冬でも温暖（おんだん）なので、散歩（さんぽ）を楽しむ人もいます。それぞれの島に、おいしい食べ物やきれいな景色があります。",
+      "translationZh": "例如，夏天可以去美丽的大海游泳，或者浮潜。即使是冬天也很温暖，所以也有人喜欢散步。每个岛都有美味的食物和美丽的景色。",
+      "translationEn": "For example, in summer, you can swim in the beautiful sea or go snorkeling. It is warm even in winter, so some people enjoy walking. Each island has delicious food and beautiful scenery.",
+      "id": "4022b22a-0660-4f80-89b4-b995b3b48f2f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "沖縄の離島ツアーは、新しい発見がたくさんあります。忙しい日常（にちじょう）を忘れて、リラックスするのにぴったりです。ぜひ、次の旅行で行ってみてください。",
+      "translationZh": "冲绳的离岛之旅有很多新的发现。非常适合忘记忙碌的日常生活，放松身心。请务必在下次旅行时去尝试一下。",
+      "translationEn": "Okinawa's remote island tours offer many new discoveries. It is perfect for forgetting your busy daily life and relaxing. Please try it on your next trip.",
+      "id": "fe256f5e-cf34-4c54-88d2-edd0fc086db3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "沖縄には、たくさんの離島があります。",
+      "id": "d9b3fc50-7478-466e-a7ed-e9c8ec68201d"
+    },
+    {
+      "word": "巡る",
+      "reading": "めぐる",
+      "meaningZh": "巡游，游览",
+      "meaningEn": "to go around, to visit",
+      "level": "n5n4",
+      "exampleSentence": "島を巡るツアーは楽しいです。",
+      "id": "b6e063a2-36b0-4791-8448-1167bf698d6d"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "沖縄で特別な体験をしました。",
+      "id": "924cf84b-ed48-49a1-8384-a5db0280f977"
+    },
+    {
+      "word": "泳ぐ",
+      "reading": "およぐ",
+      "meaningZh": "游泳",
+      "meaningEn": "to swim",
+      "level": "n5n4",
+      "exampleSentence": "海で泳ぐのは気持ちいいです。",
+      "id": "77c6f4c6-fa9e-43b3-b511-3bb123773ab1"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaningZh": "散步",
+      "meaningEn": "walk, stroll",
+      "level": "n5n4",
+      "exampleSentence": "公園を散歩しました。",
+      "id": "fe3793ff-d161-42c8-bbe2-90f888618268"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "この島の景色はとてもきれいです。",
+      "id": "018e9931-0017-4cdb-a2dc-c1f55afb7e3c"
+    },
+    {
+      "word": "日常",
+      "reading": "にちじょう",
+      "meaningZh": "日常",
+      "meaningEn": "daily life",
+      "level": "n5n4",
+      "exampleSentence": "忙しい日常を忘れたいです。",
+      "id": "dff274e3-8e55-469e-90c5-f5ba27020e5b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」とは、どのような旅行ですか？",
+      "options": [
+        "一つの島だけに行く旅行",
+        "船でいくつかの島を巡る旅行",
+        "沖縄本島だけを観光する旅行",
+        "飛行機で遠い国に行く旅行"
+      ],
+      "correctIndex": 1,
+      "explanation": "「離島ホップ」とは、一つの島だけでなく、いくつかの島を船で巡る旅行のことです。",
+      "id": "77825525-272c-4c1d-8053-791579b35be5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-20-46dffb8a6c",
+  "publishedAt": "2026-06-20T06:00:00+09:00"
+}

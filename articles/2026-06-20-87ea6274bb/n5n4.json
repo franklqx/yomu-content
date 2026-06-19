@@ -1,0 +1,122 @@
+{
+  "title": "新しい和菓子、若い人に人気！",
+  "summary": "和菓子職人が新しい和菓子を作りました。若い人にも人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔から、和菓子は年配の人に人気がありました。でも、最近は違います。若い人も和菓子が好きになっています。これは、和菓子職人の努力のおかげです。",
+      "translationZh": "过去，和果子主要受老年人喜爱。但是，最近情况不同了。年轻人也开始喜欢和果子了。这要归功于和果子师傅们的努力。",
+      "translationEn": "In the past, Japanese sweets were popular with older people. But recently, it's different. Young people are also starting to like Japanese sweets. This is thanks to the efforts of Japanese sweet artisans.",
+      "id": "0dfba79a-fe82-4893-a330-a6a2cd5d245e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ある和菓子職人は、若い人に新しい和菓子を考えました。見た目がきれいな和菓子です。味も新しいものがあります。例えば、抹茶だけではなく、イチゴやチョコレートの味もあります。",
+      "translationZh": "有一位和果子师傅，为年轻人构思了新的和果子。这种和果子外观很漂亮。味道也有新的尝试。例如，不仅有抹茶味，还有草莓和巧克力味。",
+      "translationEn": "One Japanese sweet artisan came up with new Japanese sweets for young people. The sweets look beautiful. They also have new flavors. For example, there are flavors like strawberry and chocolate, not just matcha.",
+      "id": "7aa06933-95f9-44f8-b840-b1d78c743b9e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい和菓子は、SNSでも話題になりました。写真がきれなので、たくさんの人がSNSに写真をのせました。その結果、お店に来る若い人が増えました。",
+      "translationZh": "这种新和果子在社交媒体上也成为了热门话题。因为照片很漂亮，很多人把照片发到了社交媒体上。结果，来店里的年轻人增加了。",
+      "translationEn": "These new Japanese sweets became a hot topic on social media too. Because the photos were beautiful, many people posted pictures on social media. As a result, the number of young people visiting the shop increased.",
+      "id": "bdc5ae75-5be5-4d15-98fc-4ce1a01f88e1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "和菓子職人は、これからも新しい挑戦を続けます。日本の伝統的なお菓子を、もっと多くの人に楽しんでもらいたいと思っています。",
+      "translationZh": "和果子师傅今后也会继续新的挑战。他们希望让更多人享受到日本的传统点心。",
+      "translationEn": "The Japanese sweet artisan will continue to take on new challenges. They want more people to enjoy traditional Japanese sweets.",
+      "id": "58b4e837-bc14-4aa5-9a26-08bf5606e34e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese sweets",
+      "level": "n5n4",
+      "exampleSentence": "この和菓子はおいしいです。",
+      "id": "ab9bd221-25b7-4485-b3a3-421ad0a1e793"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，师傅",
+      "meaningEn": "artisan, craftsman",
+      "level": "n5n4",
+      "exampleSentence": "彼はパンを作る職人です。",
+      "id": "d8166687-9b38-4fc9-bc24-893b7cd5a85f"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻人，青年阶层",
+      "meaningEn": "young people, youth",
+      "level": "n5n4",
+      "exampleSentence": "若年層に人気のあるゲームです。",
+      "id": "a4efb66a-b1ee-4c43-af77-ab853cc35cfc"
+    },
+    {
+      "word": "リブランド",
+      "reading": "りぶらんど",
+      "meaningZh": "重新品牌化，品牌重塑",
+      "meaningEn": "rebranding",
+      "level": "n5n4",
+      "exampleSentence": "会社は新しいリブランドをしました。",
+      "id": "999c3c81-6c31-483c-addb-653f2f894a1d"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "f1e7a74a-8e57-459d-bff1-30d061e96668"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n5n4",
+      "exampleSentence": "これは伝統的な建物です。",
+      "id": "7bf2893a-9014-4f51-8d8b-9456358693e4"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n3",
+      "exampleSentence": "新しい仕事に挑戦します。",
+      "id": "8de1266a-dbde-4910-aee7-460c0bfb0e3a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、和菓子職人は若い人向けにどんな和菓子を作りましたか？",
+      "options": [
+        "昔からある伝統的な和菓子",
+        "見た目がきれいな新しい味の和菓子",
+        "チョコレート味だけの和菓子",
+        "甘くない和菓子"
+      ],
+      "correctIndex": 1,
+      "explanation": "「ある和菓子職人は、若い人に新しい和菓子を考えました。見た目がきれいな和菓子です。味も新しいものがあります。」と書いてあります。",
+      "id": "d2922d49-14b6-49ca-8b67-dfa3e92a5852"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-20-87ea6274bb",
+  "publishedAt": "2026-06-20T06:00:00+09:00"
+}

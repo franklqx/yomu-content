@@ -1,0 +1,131 @@
+{
+  "title": "高校生プログラマー集まれ！",
+  "summary": "高校生を対象にしたプログラミングコンテスト「ハッカソン」について紹介します。新しいアイデアを形にしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、高校生向けのハッカソンが人気です。ハッカソンは、プログラミングの技術を使って、新しいアイデアを形にするイベントです。多くの高校生が参加しています。",
+      "translationZh": "最近，面向高中生的黑客松很受欢迎。黑客松是利用编程技术将新想法变为现实的活动。许多高中生正在参加。",
+      "translationEn": "Recently, hackathons for high school students have become popular. A hackathon is an event where participants use programming skills to bring new ideas to life. Many high school students are participating.",
+      "id": "1176f7b0-6a0e-4ee8-804f-2371bb12eb50",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、チームで協力します。短い時間で、アプリやウェブサイトを作ります。初めての人でも、経験のある人に教えてもらえます。だから、安心して参加できます。",
+      "translationZh": "在黑客松中，大家会组队合作。在很短的时间内，制作应用程序或网站。即使是初学者，也能得到有经验的人的指导。所以，可以安心参加。",
+      "translationEn": "In a hackathon, participants cooperate in teams. They create apps or websites in a short amount of time. Even beginners can be taught by experienced people. Therefore, you can participate with peace of mind.",
+      "id": "2293c6a4-4d39-43d1-99a7-54182c1eebc4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイベントは、プログラミングの勉強になります。そして、友達もできます。新しい技術に興味がある高校生は、ぜひ参加してみてください。",
+      "translationZh": "这项活动有助于学习编程。而且，还能交到朋友。对新技术感兴趣的高中生，请一定要试着参加一下。",
+      "translationEn": "This event is a good way to study programming. Also, you can make new friends. High school students interested in new technologies should definitely try participating.",
+      "id": "0a58d335-79ab-4502-8c68-c49070bfbc27",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "次のハッカソンは、夏休みに開かれる予定です。詳しい情報は、ウェブサイトで確認してください。皆さんの参加を待っています。",
+      "translationZh": "下一场黑客松预定在暑假期间举行。详细信息请在网站上确认。我们期待大家的参加。",
+      "translationEn": "The next hackathon is scheduled to be held during the summer vacation. Please check the website for detailed information. We are waiting for your participation.",
+      "id": "2359b94a-999b-458b-8ae5-b8c444127095",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生は勉強が忙しいです。",
+      "id": "77548a62-0abf-4955-8843-ec37adb4236a"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このゲームは学生に人気です。",
+      "id": "04e57098-2b8c-4072-a60c-d06d17c09259"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を学びたいです。",
+      "id": "c0a2f5d4-dec7-4c76-8f2b-d27ffeeb77e6"
+    },
+    {
+      "word": "アイデア",
+      "reading": "アイデア",
+      "meaningZh": "想法，点子",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアを思いつきました。",
+      "id": "be1e0fbc-0b0e-40af-99a1-08184fa182fe"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "チームで協力して頑張りました。",
+      "id": "54d28100-7630-4af9-8c91-2625f0b71a90"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "仕事の経験があります。",
+      "id": "bfd2b41c-0873-4b34-bfca-98d6abc83e64"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n3",
+      "exampleSentence": "合格して安心しました。",
+      "id": "4115aab4-f709-49ac-9576-ed8faf0f2536"
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaningZh": "兴趣",
+      "meaningEn": "interest",
+      "level": "n3",
+      "exampleSentence": "歴史に興味があります。",
+      "id": "fadecb66-17ef-481b-b61c-fe425dfe67a5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンは、どのようなイベントですか？",
+      "options": [
+        "プログラミングの大会",
+        "高校生の発表会",
+        "新しいアイデアを形にするイベント",
+        "友達と遊ぶイベント"
+      ],
+      "correctIndex": 2,
+      "explanation": "「ハッカソンは、プログラミングの技術を使って、新しいアイデアを形にするイベントです。」",
+      "id": "fcd8bddd-e9a2-4e94-8234-33acac3a890c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-20-22473898ef",
+  "publishedAt": "2026-06-20T06:00:00+09:00"
+}
