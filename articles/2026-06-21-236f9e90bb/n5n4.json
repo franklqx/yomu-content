@@ -1,0 +1,123 @@
+{
+  "title": "ドローンで荷物を運びます",
+  "summary": "最近、ドローンで荷物を運ぶ実験が始まりました。これは新しい技術です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ドローンという小さな飛行機で荷物を運ぶ実験が始まりました。これは新しい技術です。この技術は、山や離島など、人が行きにくい場所で役立つかもしれません。",
+      "translationZh": "最近，利用一种叫做无人机的[飞行器]运送货物的实验开始了。这是一项新技术。这项技术可能在山区和离岛等人们难以到达的地方很有用。",
+      "translationEn": "Recently, experiments to deliver packages using small airplanes called drones have started. This is a new technology. This technology might be useful in places that are hard for people to reach, such as mountains and remote islands.",
+      "id": "05598d50-dd77-48d0-8d5c-c8f88d5b0712",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験では、ドローンが荷物を安全に運ぶことができるか、試しました。天気や風の影響も調べました。もしうまくいけば、将来、もっと多くの場所でドローンが荷物を運ぶようになるでしょう。",
+      "translationZh": "在实验中，我们尝试了无人机是否能安全地运送货物。我们也调查了天气和风的影响。如果成功的话，将来无人机可能会在更多地方运送货物。",
+      "translationEn": "In the experiment, we tested whether drones could deliver packages safely. We also investigated the effects of weather and wind. If it goes well, drones will likely deliver packages in more places in the future.",
+      "id": "27b2c60b-b57a-408c-b085-4d5b2b323a28",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送は、とても便利になる可能性があります。例えば、急いで薬が必要な時などに、早く届けることができます。しかし、まだ課題もあります。安全な飛行や、たくさんの荷物を運ぶ方法などを、もっと考える必要があります。",
+      "translationZh": "无人机配送有很大的可能变得非常方便。例如，在紧急需要药物的时候，可以快速送到。但是，还有一些问题。需要更多地考虑安全飞行以及运送大量货物的方法等。",
+      "translationEn": "Drone delivery has the potential to become very convenient. For example, it can deliver quickly when medicine is needed urgently. However, there are still challenges. We need to think more about safe flight and how to deliver many packages.",
+      "id": "6280f046-f239-44a9-8ce9-c6656f340938",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンが空を飛んでいます。",
+      "id": "354e7cb6-7ace-4326-913a-40d2c2c98c98"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n3",
+      "exampleSentence": "この荷物は明日配送されます。",
+      "id": "5b27e34d-9041-43d4-ae86-d152e0cf2d93"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしています。",
+      "id": "3d698aa0-837d-4b4a-9bfc-880450073ffa"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この技術は素晴らしいです。",
+      "id": "de2772a7-8c45-44d4-ab30-7839e16e6183"
+    },
+    {
+      "word": "役立つ",
+      "reading": "やくだつ",
+      "meaningZh": "有用，有帮助",
+      "meaningEn": "to be useful",
+      "level": "n5n4",
+      "exampleSentence": "この辞書は勉強に役立ちます。",
+      "id": "41d0fa24-ea08-4990-87ef-6460072a76d5"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety, safe",
+      "level": "n5n4",
+      "exampleSentence": "安全に道路を渡りましょう。",
+      "id": "ab61e44f-124d-4602-b091-21880fe2089f"
+    },
+    {
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaningZh": "影响",
+      "meaningEn": "influence, effect",
+      "level": "n3",
+      "exampleSentence": "天気は私たちの計画に影響します。",
+      "id": "6277ea0e-824a-48e0-9d61-759b826c7bbd"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "issue, challenge",
+      "level": "n3",
+      "exampleSentence": "この問題は大きな課題です。",
+      "id": "a34e6b7b-9ac2-4872-be15-0cb6407a8b3b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送は、どんな場所で役立つと考えられていますか？",
+      "options": [
+        "人がたくさん住んでいる場所",
+        "会社やお店がたくさんある場所",
+        "山や離島など、行きにくい場所",
+        "海の上や空の上"
+      ],
+      "correctIndex": 2,
+      "explanation": "実験では、ドローンで荷物を運ぶ技術は、山や離島など、人が行きにくい場所で役立つかもしれないと書かれています。",
+      "id": "2fe048b4-1395-45ab-a908-f0a5b89d6b12"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-21-236f9e90bb",
+  "publishedAt": "2026-06-21T06:00:00+09:00"
+}

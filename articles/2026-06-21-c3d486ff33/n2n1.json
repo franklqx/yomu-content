@@ -1,0 +1,147 @@
+{
+  "title": "雪まつり、北海道の宿泊難で高額化、予約はお早めに",
+  "summary": "札幌雪まつり開催期間中、北海道全域で宿泊施設の予約が困難な状況となっており、料金も高騰しているとのことです。早めの予約が推奨されます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "毎年2月に開催される札幌雪まつりは、国内外から多くの観光客を惹きつける一大イベントであるが、その期間中の北海道における宿泊事情は、近年ますます厳しさを増している。特に、札幌市内だけでなく、近郊都市や道内主要観光地においても、ホテルの予約が困難になり、料金も高騰する傾向にあるとのことだ。これは、イベントへの期待感の高まりと、インバウンド需要の回復が重なったことに起因すると見られている。",
+      "translationZh": "每年2月举办的札幌雪祭是吸引海内外众多游客的一大盛会，但近年来，在其举办期间北海道的住宿情况日益严峻。特别是，不仅是札幌市内，近郊城市及北海道主要旅游景点，酒店预订都变得困难，并且价格趋于高涨。这被认为是由于对活动期待的提高与入境旅游需求的恢复叠加所致。",
+      "translationEn": "The Sapporo Snow Festival, held every February, is a major event that attracts many tourists from both Japan and abroad. However, accommodation conditions in Hokkaido during this period have become increasingly severe in recent years. Specifically, not only in Sapporo city but also in neighboring cities and major tourist destinations across Hokkaido, hotel bookings are becoming difficult, and prices tend to soar. This is seen as a result of the heightened anticipation for the event coinciding with the recovery of inbound tourism demand.",
+      "id": "38640c3e-47c1-40a1-a403-40d7d7bf0180",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この状況に伴い、宿泊施設側も対応に追われている。一部では、通常期よりも大幅に高い価格設定がなされるケースが見受けられるほか、数ヶ月前からの予約受付開始や、連泊を条件とするプランの導入なども実施されている。また、札幌市外の地方都市に宿泊し、そこからイベント会場へ日帰りで向かうという選択肢を選ぶ観光客も増えていると報じられている。これは、都市部の宿泊施設不足を回避するための現実的な対応策と言えるだろう。",
+      "translationZh": "伴随这一情况，住宿设施方面也应接不暇。部分地区出现了比平时显著高昂的定价情况，此外，也开始实行提前数月开始接受预订，或以连续入住为条件的方案。同时，据报道，选择入住札幌市外的其他城市，然后当日往返活动会场的游客也在增加。这可以说是一种为规避市区住宿设施不足的现实应对策略。",
+      "translationEn": "In response to this situation, accommodation providers are also struggling to keep up. In some cases, prices are set significantly higher than during normal periods, and measures such as opening reservations several months in advance or introducing plans that require consecutive nights of stay are being implemented. Furthermore, it is reported that an increasing number of tourists are choosing to stay in regional cities outside Sapporo and commute to the event venue on a daily basis. This can be considered a practical measure to avoid the shortage of accommodation in urban areas.",
+      "id": "5e44728e-5864-43c4-afd7-78a8e1e248ab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "関係者は、「雪まつりは地域経済の活性化に大きく貢献する一方で、宿泊施設の供給能力には限界がある。今後も需要の増加が見込まれるため、観光客には早期の予約検討を強く呼びかけたい」と語っている。この宿泊難は、イベント開催時期に集中する観光客への対応という、多くの人気観光地が抱える共通の課題を浮き彫りにしていると言えよう。",
+      "translationZh": "相关人士表示：“雪祭在为地区经济注入活力的同时，住宿设施的供给能力是有限的。由于预计今后需求仍将增长，我们强烈呼吁游客考虑尽早预订。”这一住宿难问题，可以说是凸显了众多热门旅游景点都面临的共同课题，即如何应对集中在活动举办时期的游客。",
+      "translationEn": "Officials state, 'While the Snow Festival greatly contributes to the revitalization of the local economy, there are limits to the accommodation capacity. As demand is expected to continue to increase, we strongly urge tourists to consider booking well in advance.' This accommodation difficulty highlights a common challenge faced by many popular tourist destinations: how to manage the influx of tourists concentrated during event periods.",
+      "id": "8694c24f-f2b3-4b4a-8a04-441ce1792886",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "惹きつける",
+      "reading": "ひきつける",
+      "meaningZh": "吸引，引起",
+      "meaningEn": "to attract, to draw",
+      "level": "n2n1",
+      "exampleSentence": "その美しい景色は多くの旅行者を惹きつけた。",
+      "id": "76c48453-0e1d-4775-b7c8-4e05230be2be"
+    },
+    {
+      "word": "厳しさ",
+      "reading": "きびしさ",
+      "meaningZh": "严峻，严格",
+      "meaningEn": "severity, strictness",
+      "level": "n3",
+      "exampleSentence": "この状況の厳しさを理解する必要がある。",
+      "id": "d68e3ecd-63c0-45e5-be46-8fd937086579"
+    },
+    {
+      "word": "起因する",
+      "reading": "きいんする",
+      "meaningZh": "起因于，由于",
+      "meaningEn": "to originate from, to be caused by",
+      "level": "n2n1",
+      "exampleSentence": "この問題は長年の慣習に起因している。",
+      "id": "7457f050-483c-4d97-97c5-7ee326e2b2ce"
+    },
+    {
+      "word": "インバウンド",
+      "reading": "いんばうんど",
+      "meaningZh": "入境旅游",
+      "meaningEn": "inbound tourism",
+      "level": "n2n1",
+      "exampleSentence": "インバウンド需要の回復が経済を後押ししている。",
+      "id": "5b523a95-2c95-49dc-9a8e-3df6684a2206"
+    },
+    {
+      "word": "重なる",
+      "reading": "かさなる",
+      "meaningZh": "重叠，叠加",
+      "meaningEn": "to overlap, to pile up",
+      "level": "n3",
+      "exampleSentence": "偶然と幸運が重なり、成功を収めた。",
+      "id": "c99b30e6-d758-41ce-91d0-e2099b1f8a23"
+    },
+    {
+      "word": "対応に追われる",
+      "reading": "たいおうにおわれる",
+      "meaningZh": "忙于应对",
+      "meaningEn": "to be busy dealing with",
+      "level": "n2n1",
+      "exampleSentence": "予期せぬ事態に、関係者は対応に追われた。",
+      "id": "5bb9bb80-ee27-4c88-a415-7e637d5b01f6"
+    },
+    {
+      "word": "連泊",
+      "reading": "れんぱく",
+      "meaningZh": "连续住宿",
+      "meaningEn": "consecutive nights of stay",
+      "level": "n3",
+      "exampleSentence": "連泊割引プランは魅力的だ。",
+      "id": "d98d3bf2-002b-4b55-b479-8a9f90e7eda0"
+    },
+    {
+      "word": "回避",
+      "reading": "かいひ",
+      "meaningZh": "回避，避免",
+      "meaningEn": "avoidance, evasion",
+      "level": "n2n1",
+      "exampleSentence": "危険を回避するために、ルートを変更した。",
+      "id": "ed63576e-fd05-4631-b2f6-53bfe9a17c5a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "札幌雪まつり期間中の北海道の宿泊施設について、本文ではどのように述べられていますか？",
+      "options": [
+        "予約が容易で、料金も安くなっている。",
+        "予約が困難で、料金も高騰する傾向にある。",
+        "札幌市内のみ予約が困難で、近郊は問題ない。",
+        "料金は高騰しているが、予約は比較的容易である。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「...ホテルの予約が困難になり、料金も高騰する傾向にあるとのことだ。」と記載されています。",
+      "id": "b5e00548-19a7-4565-a3bd-6756296f9748"
+    },
+    {
+      "question": "宿泊施設側が実施している対応策として、本文に記載されているものはどれですか？",
+      "options": [
+        "料金を大幅に値下げしている。",
+        "予約受付を遅らせている。",
+        "連泊を条件とするプランを導入している。",
+        "札幌市外からのアクセスを制限している。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「...連泊を条件とするプランの導入なども実施されている。」と記載されています。",
+      "id": "87284703-0452-4e47-9a05-43d132093021"
+    },
+    {
+      "question": "関係者が観光客に強く呼びかけていることは何ですか？",
+      "options": [
+        "イベント会場でのマナーを守ること",
+        "地元住民への配慮を忘れないこと",
+        "早期の予約を検討すること",
+        "札幌市外への宿泊を避けること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「...観光客には早期の予約検討を強く呼びかけたい」と記載されています。",
+      "id": "8e7aaff6-5f13-475d-b876-0474bc23fad0"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-21-c3d486ff33",
+  "publishedAt": "2026-06-21T06:00:00+09:00"
+}

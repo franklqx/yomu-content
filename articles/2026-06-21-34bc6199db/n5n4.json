@@ -1,0 +1,123 @@
+{
+  "title": "夜の図書館、開きます！",
+  "summary": "ある町で、図書館が夜も開く実験を始めました。たくさんの人が図書館に来るようになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔から、図書館は昼間だけ開いていました。でも、仕事や学校が終わってから行きたい人もいました。だから、ある町で新しいことを始めました。それは、図書館を夜も開けるようにすることです。",
+      "translationZh": "过去，图书馆只在白天开放。但是，也有一些人希望在工作或学校结束后去。因此，有一个城镇开始做一件新事情。那就是让图书馆也能在晚上开放。",
+      "translationEn": "For a long time, libraries were only open during the day. However, there were also people who wanted to go after work or school. So, a certain town started something new. It was to make the library open in the evening as well.",
+      "id": "d3faf3e8-b554-40a9-9ecd-d2e342dc295c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この町では、図書館の開ける時間を長くしました。夜の７時や８時まで開けています。この実験は、まだ始まったばかりです。でも、すでに多くの人が喜んでいます。仕事帰りの人や、学生さんがよく来ます。",
+      "translationZh": "在这个城镇，图书馆的开放时间延长了。一直开到晚上7点或8点。这个实验才刚刚开始。但是，已经有很多人感到高兴。下班回家的人和学生经常来。",
+      "translationEn": "In this town, the library's opening hours were extended. It is open until 7 or 8 in the evening. This experiment has just begun. However, many people are already happy. People returning from work and students often come.",
+      "id": "5371caa9-c8de-4b50-a686-a293fb0efabe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜の図書館は、とても静かです。じっくり本を読みたい人には、いい場所です。この実験が成功したら、他の町でも同じようにするかもしれません。夜の図書館は、みんなの生活をもっと豊かにするかもしれません。",
+      "translationZh": "晚上的图书馆非常安静。对于想静下心来读书的人来说，是个好地方。如果这个实验成功了，其他城镇也可能会这样做。晚上的图书馆可能会让大家的生活更加丰富。",
+      "translationEn": "The library at night is very quiet. It is a good place for people who want to read books carefully. If this experiment is successful, other towns might do the same. The library at night might make everyone's lives richer.",
+      "id": "c9da2e84-3f31-41e1-bc49-2e3bc5e50289",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaningZh": "图书馆",
+      "meaningEn": "library",
+      "level": "n5n4",
+      "exampleSentence": "図書館で本を借りました。",
+      "id": "2f4d5a11-274d-49ce-ba1f-0dee73cb3205"
+    },
+    {
+      "word": "夜",
+      "reading": "よる",
+      "meaningZh": "夜晚",
+      "meaningEn": "night",
+      "level": "n5n4",
+      "exampleSentence": "夜は星がきれいです。",
+      "id": "d9903dc3-da6b-418a-bded-40a6f61e740b"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaningZh": "营业",
+      "meaningEn": "business, operation",
+      "level": "n5n4",
+      "exampleSentence": "この店は夜遅くまで営業しています。",
+      "id": "50a3890a-72b0-4322-9939-41c6d66c9c19"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい方法を実験しています。",
+      "id": "efd6958d-5f3b-49af-8e68-ac09516a5992"
+    },
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaningZh": "城镇，街道",
+      "meaningEn": "town, street",
+      "level": "n5n4",
+      "exampleSentence": "この町はとてもきれいです。",
+      "id": "486025f0-7911-4784-9ce2-98b7a22e1d4d"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "in the past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔は、この辺に森がありました。",
+      "id": "16cbef82-28de-4307-9065-504ec04e05f6"
+    },
+    {
+      "word": "仕事帰り",
+      "reading": "しごとかえり",
+      "meaningZh": "下班回家",
+      "meaningEn": "returning from work",
+      "level": "n3",
+      "exampleSentence": "仕事帰りに、友達と会いました。",
+      "id": "bd59de2a-445d-4460-a0ba-46c7e51fb24e"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静",
+      "meaningEn": "quiet",
+      "level": "n5n4",
+      "exampleSentence": "図書館は静かな場所です。",
+      "id": "a2ce7155-e092-4f3c-bd07-0d6a5c06f5e4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ図書館を夜も開けるようにする実験を始めましたか？",
+      "options": [
+        "もっと新しい本を置くためです。",
+        "夜に図書館に来たい人がいたからです。",
+        "図書館を大きくするためです。",
+        "図書館をきれいにするためです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔から、図書館は昼間だけ開いていました。でも、仕事や学校が終わってから行きたい人もいました。だから、ある町で新しいことを始めました。",
+      "id": "2149986a-3eac-47b7-9dde-b75e516e457f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-21-34bc6199db",
+  "publishedAt": "2026-06-21T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "北海道の冬！予約は早めに",
+  "summary": "冬の北海道はとてもきれいです。特に雪まつりの時期は、たくさんの人が北海道に来ます。ホテルはすぐにいっぱいになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬の北海道は、雪がたくさん降ります。とてもきれいです。冬の北海道で一番有名なのは、雪まつりです。札幌（さっぽろ）という町で、大きな雪の像（ぞう）がたくさん作られます。世界中からたくさんの人が雪まつりを見に来ます。",
+      "translationZh": "冬天的北海道会下很多雪。非常美丽。冬天北海道最有名的是雪祭。在叫做札幌的城市，会制作很多大的雪雕。来自世界各地的人们会来看雪祭。",
+      "translationEn": "Hokkaido in winter gets a lot of snow. It is very beautiful. The most famous thing in Hokkaido in winter is the Snow Festival. In a city called Sapporo, many large snow sculptures are made. Many people from all over the world come to see the Snow Festival.",
+      "id": "45d734bc-90f5-415e-b901-9c22aa32ad12",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりの時期は、北海道に泊まる場所（ところ）を探すのが少しむずかしくなります。たくさんの人が来るので、ホテルや旅館（りょかん）はすぐに予約でいっぱいになります。特に札幌の近くのホテルは、早く予約しないと泊まることができません。",
+      "translationZh": "雪祭期间，在北海道找住宿的地方会变得有点困难。因为来的人很多，所以酒店和旅馆很快就会被预订满。特别是札幌附近的酒店，如果不早点预订就住不了。",
+      "translationEn": "During the Snow Festival period, finding a place to stay in Hokkaido becomes a little difficult. Because many people come, hotels and inns get fully booked quickly. Especially hotels near Sapporo cannot be booked if you don't reserve early.",
+      "id": "f7309abe-5dd9-476f-97e9-0dbd3e203a13",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし雪まつりの時期に北海道旅行をしたいなら、旅行の計画を早く立てることが大切です。飛行機（ひこうき）のチケットも、ホテルの予約も、数ヶ月前（かずかげつまえ）から予約する方がいいでしょう。そうすれば、希望（きぼう）のホテルに泊まることができます。",
+      "translationZh": "如果想在雪祭期间去北海道旅行，尽早制定旅行计划很重要。飞机票和酒店预订，最好提前几个月预订。这样的话，就可以住进希望的酒店了。",
+      "translationEn": "If you want to travel to Hokkaido during the Snow Festival, it is important to make your travel plans early. It is better to book flight tickets and hotel reservations several months in advance. This way, you can stay at your desired hotel.",
+      "id": "8b0d5eb6-6341-4c47-998a-c858f0ed678a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "北海道の冬は、雪もきれいで、食べ物も美味しいです。雪まつりはとても楽しいイベントです。でも、旅行に行くときは、宿泊（しゅくはく）の予約を忘れないようにしましょう。",
+      "translationZh": "北海道的冬天，雪很美，食物也很美味。雪祭是非常开心的活动。但是，去旅行的时候，不要忘记预订住宿。",
+      "translationEn": "Hokkaido's winter has beautiful snow and delicious food. The Snow Festival is a very enjoyable event. However, when you go on a trip, don't forget to book your accommodation.",
+      "id": "27d7ee19-a18f-4f1a-ab7f-a04448963691",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "13a4225a-8c74-4819-a037-c960c879d1b0"
+    },
+    {
+      "word": "雪まつり",
+      "reading": "ゆきまつり",
+      "meaningZh": "雪祭",
+      "meaningEn": "Snow Festival",
+      "level": "n5n4",
+      "exampleSentence": "札幌の雪まつりは有名です。",
+      "id": "76e9fe23-99d5-4ec1-ab9a-3b03e4f00202"
+    },
+    {
+      "word": "宿泊",
+      "reading": "しゅくはく",
+      "meaningZh": "住宿",
+      "meaningEn": "accommodation",
+      "level": "n5n4",
+      "exampleSentence": "宿泊の予約をしました。",
+      "id": "83bf2ac1-80dc-4e99-81e7-7d8246611270"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "ホテルを予約しました。",
+      "id": "c668d15d-ac12-4707-a618-165b4c0fef71"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place, location",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "e4308263-8592-408b-8f75-910e986c52ee"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "健康は大切です。",
+      "id": "6583cca8-c0cf-419c-be6c-8f4eb620fc5b"
+    },
+    {
+      "word": "数ヶ月前",
+      "reading": "すうかげつまえ",
+      "meaningZh": "几个月前",
+      "meaningEn": "several months ago",
+      "level": "n5n4",
+      "exampleSentence": "数ヶ月前に引っ越しました。",
+      "id": "31053779-0d85-48c3-8d1b-a83eaa9cb526"
+    },
+    {
+      "word": "希望",
+      "reading": "きぼう",
+      "meaningZh": "希望",
+      "meaningEn": "hope, wish",
+      "level": "n5n4",
+      "exampleSentence": "私の希望は医者になることです。",
+      "id": "770eb4e6-6adf-4444-b77b-0803052a5e97"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつりの時期に北海道でホテルを探すのは、なぜむずかしいですか。",
+      "options": [
+        "北海道の冬はとても寒いからです。",
+        "雪まつりには世界中からたくさんの人が来るからです。",
+        "北海道にはホテルがたくさんないからです。",
+        "雪まつりは夜だけだからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "たくさんの人が来るので、ホテルや旅館（りょかん）はすぐに予約でいっぱいになります。",
+      "id": "e0654747-9489-4d4b-9bfb-b3c7d7e3196d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-21-c3d486ff33",
+  "publishedAt": "2026-06-21T06:00:00+09:00"
+}

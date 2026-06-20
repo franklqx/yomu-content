@@ -1,0 +1,147 @@
+{
+  "title": "図書館、夜の扉を開く？都内公立図書館で夜間営業実験",
+  "summary": "都内の一部公立図書館で、利用者の利便性向上を目指した夜間営業の実験が開始された。これに伴い、新たな図書館利用の可能性が模索されている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、働き方やライフスタイルの多様化に伴い、従来の開館時間では図書館を利用しにくいという声が聞かれるようになった。こうした背景を受け、東京都内のいくつかの公立図書館では、一部の施設において夜間開館の実験的な取り組みが実施されているとのことだ。この実験は、主に社会人や学生など、日中に図書館へ足を運ぶことが困難な層の利用促進を目的としていると見られる。",
+      "translationZh": "近年来，随着工作方式和生活方式的多样化，出现了“由于传统的开放时间难以利用图书馆”的声音。在此背景下，东京都内的一些公共图书馆据称正在部分设施中实施夜间开放的实验性措施。此项实验被认为主要目的是促进难以在白天前往图书馆的群体，如上班族和学生的使用。",
+      "translationEn": "In recent years, with the diversification of working styles and lifestyles, there have been voices suggesting that it is difficult to use libraries with their conventional opening hours. Against this backdrop, some public libraries in Tokyo are reportedly conducting experimental initiatives for evening opening hours at certain facilities. This experiment appears to be aimed at promoting usage among demographics who find it difficult to visit libraries during the day, such as working adults and students.",
+      "id": "c6c335eb-c376-4a3f-b99f-fd00227960c6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間営業の実施にあたっては、セキュリティ対策や人員配置、そして資料の貸出・返却システムの運用などが課題として挙げられる。しかし、これらの課題をクリアするため、最新の予約システムや無人化技術の導入なども検討されており、図書館運営の効率化とサービス拡充の両立が図られている。利用者のニーズに応じた柔軟なサービス提供が、今後の図書館のあり方を示すものとして注目されている。",
+      "translationZh": "在实施夜间营业方面，安保措施、人员配置以及资料借还系统的运营等被列为课题。然而，为解决这些课题，也正在探讨引进最新的预约系统和无人化技术，力求在提高图书馆运营效率的同时扩大服务范围。为满足利用者需求而提供的灵活服务，正作为未来图书馆发展方向而备受关注。",
+      "translationEn": "Regarding the implementation of evening opening hours, challenges such as security measures, staffing, and the operation of the book lending and return system are cited. However, to overcome these challenges, the introduction of the latest reservation systems and unmanned technologies is being considered, aiming to balance operational efficiency with service expansion. Flexible service provision tailored to user needs is drawing attention as an indicator of the future direction of libraries.",
+      "id": "414459f0-0924-482d-aa06-43c7e69c6dc2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回の夜間営業実験は、図書館が地域住民にとってより身近な存在となるための重要な一歩と位置づけられている。開かれた図書館運営の推進は、生涯学習の機会拡大や、地域コミュニティの活性化にも寄与するものと期待されている。実験の結果次第では、今後、全国の公立図書館へと同様の取り組みが広がる可能性も否定できない。",
+      "translationZh": "此次夜间营业实验被定位为图书馆成为地区居民更亲近的存在的重要一步。推动开放式的图书馆运营，也有望为扩大终身学习机会和激活地区社区做出贡献。根据实验结果，不能排除未来类似措施在全国公共图书馆推广的可能性。",
+      "translationEn": "This evening opening experiment is positioned as an important step towards making libraries a more accessible presence for local residents. Promoting open library management is also expected to contribute to expanding opportunities for lifelong learning and revitalizing local communities. Depending on the results of the experiment, it cannot be ruled out that similar initiatives may spread to public libraries nationwide in the future.",
+      "id": "e53aaa1c-6066-4024-9c54-b5629f00e6b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "diversification",
+      "level": "n2n1",
+      "exampleSentence": "働き方の多様化に対応するため、企業は新たな制度を導入した。",
+      "id": "f57aa035-6959-4a2f-92fb-263a46280f10"
+    },
+    {
+      "word": "〜に伴い",
+      "reading": "〜にともない",
+      "meaningZh": "伴随着...",
+      "meaningEn": "along with; accompanying",
+      "level": "n2n1",
+      "exampleSentence": "技術の進歩に伴い、私たちの生活は大きく変化した。",
+      "id": "a76d85cf-d549-44f5-8b99-818ea4decd6d"
+    },
+    {
+      "word": "実験的",
+      "reading": "じっけんてき",
+      "meaningZh": "实验性的",
+      "meaningEn": "experimental",
+      "level": "n3",
+      "exampleSentence": "この新しい企画は実験的なものであり、結果はまだ分からない。",
+      "id": "835fbbeb-913b-4d97-aeed-bf49479526ca"
+    },
+    {
+      "word": "利用促進",
+      "reading": "りようそくしん",
+      "meaningZh": "促进利用",
+      "meaningEn": "promotion of use; encouraging utilization",
+      "level": "n2n1",
+      "exampleSentence": "新サービスの利用促進のため、キャンペーンが実施された。",
+      "id": "a15be26c-a321-48f7-9a26-bac586d320b1"
+    },
+    {
+      "word": "〜と見られる",
+      "reading": "〜とみられる",
+      "meaningZh": "被认为；被看作是",
+      "meaningEn": "is considered to be; is seen as",
+      "level": "n2n1",
+      "exampleSentence": "この現象は、社会の変化の一環と見られている。",
+      "id": "69c08255-b697-4a2c-baeb-815456485efe"
+    },
+    {
+      "word": "人員配置",
+      "reading": "じんいんはいち",
+      "meaningZh": "人员配置",
+      "meaningEn": "staffing; personnel assignment",
+      "level": "n2n1",
+      "exampleSentence": "プロジェクトの成功には、適切な人員配置が不可欠である。",
+      "id": "47ed8bcd-8a07-44cf-b108-814dfe534d22"
+    },
+    {
+      "word": "効率化",
+      "reading": "こうりつか",
+      "meaningZh": "提高效率",
+      "meaningEn": "streamlining; making more efficient",
+      "level": "n3",
+      "exampleSentence": "業務の効率化を図るため、新しいシステムが導入された。",
+      "id": "47a1cfd2-f5b7-4091-82d8-a6d924df50b6"
+    },
+    {
+      "word": "生涯学習",
+      "reading": "しょうがいろがくしゅう",
+      "meaningZh": "终身学习",
+      "meaningEn": "lifelong learning",
+      "level": "n3",
+      "exampleSentence": "生涯学習の機会は、人生を豊かにするために重要だ。",
+      "id": "17f8935f-4183-46da-8634-1d9fe966e033"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "一部の公立図書館で夜間営業実験が行われている主な理由は何ですか。",
+      "options": [
+        "図書館の建物を有効活用するため",
+        "日中に利用できない層の利便性を向上させるため",
+        "夜間に読書をする人の増加に対応するため",
+        "図書館職員の残業時間を削減するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この実験は、主に社会人や学生など、日中に図書館へ足を運ぶことが困難な層の利用促進を目的としていると見られる。」という記述から、日中に利用できない層の利便性向上が理由であることがわかります。",
+      "id": "8ae9631c-86ba-4847-97ec-347035b7e911"
+    },
+    {
+      "question": "夜間営業の実施にあたって、課題として挙げられていることは何ですか。",
+      "options": [
+        "資料の陳列方法",
+        "利用者の年齢層",
+        "セキュリティ対策や人員配置",
+        "予約システムの開発コスト"
+      ],
+      "correctIndex": 2,
+      "explanation": "「夜間営業の実施にあたっては、セキュリティ対策や人員配置や資料の貸出・返却システムの運用などが課題として挙げられる。」と本文に記されています。",
+      "id": "698301b6-3260-4d8f-a19d-169bb89be744"
+    },
+    {
+      "question": "今回の夜間営業実験は、将来的にどのような影響を与える可能性があると期待されていますか。",
+      "options": [
+        "図書館の蔵書が増える",
+        "図書館が地域コミュニティの活性化に貢献する",
+        "図書館の利用者が減る",
+        "図書館の開館時間が大幅に短縮される"
+      ],
+      "correctIndex": 1,
+      "explanation": "「開かれた図書館運営の推進は、生涯学習の機会拡大や、地域コミュニティの活性化にも寄与するものと期待されている。」という部分から、地域コミュニティの活性化への貢献が期待されていることがわかります。",
+      "id": "d01d96b8-3d75-4f4c-b6e9-8cc14c6324b3"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-21-34bc6199db",
+  "publishedAt": "2026-06-21T06:00:00+09:00"
+}
