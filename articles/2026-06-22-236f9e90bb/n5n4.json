@@ -1,0 +1,131 @@
+{
+  "title": "ドローンが荷物を運ぶ？",
+  "summary": "最近、ドローンで荷物を運ぶ実験が始まりました。これはとても新しい技術です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ドローンで荷物を運ぶ実験が始まりました。これはとても新しい技術です。空を飛ぶ小さな機械が、私たちの代わりに荷物を届けます。",
+      "translationZh": "最近，用无人机运送包裹的实验开始了。这是一项非常新的技术。在空中飞行的微小机器，会代替我们送达包裹。",
+      "translationEn": "Recently, experiments to deliver packages by drone have begun. This is a very new technology. Small machines flying in the sky will deliver packages for us.",
+      "id": "db5ec5f5-29d6-47a5-b950-6b639a2abea9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、山や田んぼがある場所で行われています。人が住んでいる場所から少し離れている場所です。そこへ、薬や食料品を届けます。",
+      "translationZh": "这个实验是在有山和稻田的地方进行的。是从人们居住的地方稍微有点远的地方。向那里运送药品和食品。",
+      "translationEn": "This experiment is being conducted in places with mountains and rice fields. It's a place a little far from where people live. They deliver medicine and food there.",
+      "id": "19165e66-057d-482b-aa14-fbec271a2af8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローンが荷物を運ぶと、とても速く届けられます。また、人が行くのが難しい場所にも行けます。将来、もっとたくさんの場所で使われるようになるかもしれません。",
+      "translationZh": "如果无人机运送包裹，会很快送到。而且，也能去到人们难以到达的地方。将来，可能会在更多的地方被使用。",
+      "translationEn": "If drones deliver packages, they can be delivered very quickly. Also, they can go to places that are difficult for people to reach. In the future, they may be used in many more places.",
+      "id": "faf0797a-b868-485a-ae38-9bbe11d4a9ac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、まだ安全の問題や、天気の悪い日は飛べないなどの問題があります。これらの問題を解決するために、研究が続けられています。",
+      "translationZh": "但是，还有安全问题，以及天气不好时无法飞行等问题。为了解决这些问题，研究正在继续。",
+      "translationEn": "However, there are still problems such as safety issues and not being able to fly on bad weather days. Research is continuing to solve these problems.",
+      "id": "2f66e77b-2c2b-4199-b93c-f8cdb982bc83",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンは空を飛びます。",
+      "id": "75df49e9-1096-403e-8dca-7d95ace4c380"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n5n4",
+      "exampleSentence": "この会社は速い配送ができます。",
+      "id": "a961ae92-7cb9-416d-ada9-2d1b1f8c1496"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしています。",
+      "id": "74cb7f86-d58b-42e7-9e9d-69a6b030ca98"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "これは新しい技術です。",
+      "id": "a495860c-359a-4f09-adee-23414d71facb"
+    },
+    {
+      "word": "運ぶ",
+      "reading": "はこぶ",
+      "meaningZh": "搬运，运输",
+      "meaningEn": "to carry, to transport",
+      "level": "n5n4",
+      "exampleSentence": "重い箱を運びました。",
+      "id": "302b041e-f1c2-4565-9596-dc4aa4cfb1ee"
+    },
+    {
+      "word": "代替",
+      "reading": "だいたい",
+      "meaningZh": "代替",
+      "meaningEn": "instead of, in place of",
+      "level": "n3",
+      "exampleSentence": "私が代わりに彼に話しました。",
+      "id": "204f7152-ca5e-4774-a7fa-53735d8e111c"
+    },
+    {
+      "word": "食料品",
+      "reading": "しょくりょうひん",
+      "meaningZh": "食品，食材",
+      "meaningEn": "groceries, food products",
+      "level": "n3",
+      "exampleSentence": "スーパーで食料品を買いました。",
+      "id": "94c60724-10a4-4274-a863-421314749107"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaningZh": "解决",
+      "meaningEn": "solution, solving",
+      "level": "n3",
+      "exampleSentence": "問題の解決策を探しています。",
+      "id": "6b7ff694-f3a1-4fdd-b1a7-2cc1fd00f2c7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実験は、どんな場所で行われていますか？",
+      "options": [
+        "人がたくさん住んでいる町",
+        "海の上",
+        "山や田んぼがある場所",
+        "大きなお店の中"
+      ],
+      "correctIndex": 2,
+      "explanation": "この実験は、山や田んぼがある場所で行われています。人が住んでいる場所から少し離れている場所です。",
+      "id": "0e8cd657-a3d4-4f34-8f83-b535a5add11f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-22-236f9e90bb",
+  "publishedAt": "2026-06-22T06:00:00+09:00"
+}

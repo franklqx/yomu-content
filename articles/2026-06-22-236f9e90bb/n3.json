@@ -1,0 +1,134 @@
+{
+  "title": "ドローン配送、未来の買い物体験は？",
+  "summary": "近年、ドローンを使った荷物の配送実験が各地で行われています。この技術は、私たちの生活をどのように変えるのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ドローンを使った荷物の配達が話題になっていますね。これは、自動で空を飛ぶ小さな飛行機を使って、注文した商品を届ける新しい方法です。今まで車やバイクで配達していたものが、ドローンで運ばれるようになるかもしれません。",
+      "translationZh": "最近，使用无人机运送包裹的配送方式引起了话题。这是一种利用自动飞行的微型飞机来递送订购商品的新方法。以前通过汽车或摩托车配送的东西，今后或许能通过无人机来运送了。",
+      "translationEn": "Recently, package delivery using drones has become a hot topic. This is a new method that uses small, automatically flying aircraft to deliver ordered goods. Things that were previously delivered by cars or motorcycles may soon be transported by drones.",
+      "id": "15531015-fd24-46f2-8eae-d868c7cfff97",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送の実証実験は、様々な場所で行われています。例えば、山間部や離島など、交通が不便な地域で、食料品や薬を迅速に届けるために活用されています。このような実験が進むことで、災害時にも役立つことが期待されています。",
+      "translationZh": "无人机配送的实际测试正在各地进行。例如，在交通不便的山区和离岛地区，无人机被用于快速递送食品和药品。随着这些实验的推进，人们期待它在灾害发生时也能发挥作用。",
+      "translationEn": "Demonstration experiments for drone delivery are being conducted in various locations. For instance, in areas with inconvenient transportation, such as mountainous regions and remote islands, drones are being utilized to quickly deliver groceries and medicine. As these experiments progress, it is expected that they will also be useful during disasters.",
+      "id": "5cab5001-1c67-4399-bc01-1968e922b77c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、ドローン配送にはまだ課題もあります。例えば、天候の影響を受けやすいことや、安全に荷物を届けるための技術開発が十分ではないことです。しかし、これらの課題を乗り越えれば、私たちの生活がより便利になる可能性を秘めています。",
+      "translationZh": "当然，无人机配送仍然存在一些课题。例如，它容易受到天气影响，并且为了安全地递送包裹所需的技术开发尚不充分。但是，如果能克服这些课题，它就蕴藏着使我们的生活变得更加便利的可能性。",
+      "translationEn": "Of course, there are still challenges with drone delivery. For example, it is susceptible to weather conditions, and the technological development for safely delivering packages is not yet sufficient. However, if these challenges are overcome, it holds the potential to make our lives more convenient.",
+      "id": "d61afc89-d536-43d4-8dac-db0501ab2e3c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "将来、ネットで注文したものが、数十分で空から届くようになるかもしれません。そうなれば、急いでいる時や、買い物に行くのが難しい時でも、すぐに欲しいものが手に入るようになり、とても便利でしょう。",
+      "translationZh": "将来，在网上订购的商品或许能在几十分钟内从天而降。那样的话，即使在急需或不方便出门购物时，也能很快得到想要的物品，那将非常方便。",
+      "translationEn": "In the future, things ordered online might arrive from the sky within tens of minutes. If that happens, it would be very convenient to get what you want immediately, even when you're in a hurry or find it difficult to go shopping.",
+      "id": "81606214-fcb4-47b9-9829-fcd7efe8786b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n3",
+      "exampleSentence": "最近、ドローンで撮影した空撮映像が人気です。",
+      "id": "c737786f-c1a0-4f18-b693-a73a0be02631"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n3",
+      "exampleSentence": "この荷物は明日配送される予定です。",
+      "id": "4281191f-68fb-40f4-891c-269116948e29"
+    },
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "验证实验，实证实验",
+      "meaningEn": "demonstration experiment",
+      "level": "n3",
+      "exampleSentence": "新しいシステムの性能を調べるために、実証実験を行いました。",
+      "id": "ab59fbce-ae32-4a41-9334-8477e35e9ce1"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic, talk",
+      "level": "n3",
+      "exampleSentence": "新しい映画が大きな話題になっています。",
+      "id": "f0ce2e4a-5d10-436e-815b-7eb5ffed8e38"
+    },
+    {
+      "word": "迅速",
+      "reading": "じんそく",
+      "meaningZh": "迅速",
+      "meaningEn": "quick, prompt",
+      "level": "n3",
+      "exampleSentence": "緊急事態には迅速な対応が必要です。",
+      "id": "54a24121-e309-466c-8129-b66f4a8a4aba"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "task, issue, challenge",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトにはまだ多くの課題があります。",
+      "id": "9f961420-38d8-4aea-b53f-5856b33b82e9"
+    },
+    {
+      "word": "乗り越える",
+      "reading": "のりこえる",
+      "meaningZh": "克服，越过",
+      "meaningEn": "to overcome, to get over",
+      "level": "n3",
+      "exampleSentence": "困難を乗り越えて、目標を達成しました。",
+      "id": "31ff763d-0c08-46be-874f-51f411ccc630"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実証実験は、どのような場所で特に役立つと期待されていますか？",
+      "options": [
+        "交通が便利な都市部",
+        "海の近くの観光地",
+        "交通が不便な地域や離島",
+        "大きなショッピングモール"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「例えば、山間部や離島など、交通が不便な地域で、食料品や薬を迅速に届けるために活用されています。」と述べられています。",
+      "id": "d98aed16-6191-4d74-b25a-6f1b5632eeee"
+    },
+    {
+      "question": "ドローン配送が実用化される上での課題は何ですか？",
+      "options": [
+        "荷物が重すぎること",
+        "配達員が不足すること",
+        "天候の影響を受けやすく、安全技術が未熟なこと",
+        "配達料金が高すぎること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「例えば、天候の影響を受けやすいことや、安全に荷物を届けるための技術開発が十分ではないことです。」と課題について説明されています。",
+      "id": "1cfaee13-f023-4416-9a80-efbf34cc9547"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-22-236f9e90bb",
+  "publishedAt": "2026-06-22T06:00:00+09:00"
+}

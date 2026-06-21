@@ -1,0 +1,131 @@
+{
+  "title": "北海道の雪まつり、ホテルは？",
+  "summary": "北海道で雪まつりが始まります。たくさんの人が北海道に来ます。ホテルは早く予約しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "北海道で有名な雪まつりがもうすぐ始まります。たくさんの人が雪まつりを見に北海道へ行きます。だから、ホテルや旅館はとても人気があります。",
+      "translationZh": "北海道有名的雪祭马上就要开始了。很多人会去北海道看雪祭。因此，酒店和旅馆非常受欢迎。",
+      "translationEn": "Hokkaido's famous Snow Festival will start soon. Many people will go to Hokkaido to see the Snow Festival. Therefore, hotels and inns are very popular.",
+      "id": "e4595d91-7f2c-4cda-9577-bd7237409d70",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりの期間中は、ホテルを予約するのが難しいです。特に札幌では、ホテルがすぐいっぱいになります。旅行の計画を早く立てることが大切です。",
+      "translationZh": "在雪祭期间，预订酒店很困难。尤其是在札幌，酒店很快就会住满。提前制定旅行计划很重要。",
+      "translationEn": "During the Snow Festival period, it is difficult to book a hotel. Especially in Sapporo, hotels fill up quickly. It is important to make travel plans early.",
+      "id": "9c74019a-995f-4760-a8e9-2d387fd2ce83",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もしホテルが見つからなかったら、どうしたらいいですか？少し遠い町で探したり、早く予約したりする方法があります。早めに準備をしましょう。",
+      "translationZh": "如果找不到酒店该怎么办？可以在稍微远一点的城镇寻找，或者提前预订。请尽早做好准备。",
+      "translationEn": "What should you do if you can't find a hotel? There are ways to look in towns a little further away or book early. Let's prepare in advance.",
+      "id": "214ab9d7-4c83-4595-a6b0-bbfb72134a6e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりはとても楽しいイベントです。北海道の冬を楽しんでください。でも、旅行の準備は忘れないでくださいね。",
+      "translationZh": "雪祭是一个非常有趣的活动。请享受北海道的冬天。但是，请不要忘记旅行的准备。",
+      "translationEn": "The Snow Festival is a very fun event. Please enjoy Hokkaido's winter. However, don't forget your travel preparations.",
+      "id": "677f9c5d-9b26-4b07-96b0-5ec7cd52ab06",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "雪まつり",
+      "reading": "ゆきまつり",
+      "meaningZh": "雪祭",
+      "meaningEn": "Snow Festival",
+      "level": "n5n4",
+      "exampleSentence": "北海道の雪まつりは有名です。",
+      "id": "66d5454a-5c8a-4e0b-9de8-9c5860560d42"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはとても有名です。",
+      "id": "b516ce5d-62c3-4f9b-9e85-30d9692979a4"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity, popular",
+      "level": "n5n4",
+      "exampleSentence": "このアニメは子供たちに人気があります。",
+      "id": "62157c1c-5e8c-47ae-85c0-5156ae83e51c"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaningZh": "期间",
+      "meaningEn": "period",
+      "level": "n5n4",
+      "exampleSentence": "セールは一週間だけの期間です。",
+      "id": "f5deeca4-5fe4-455c-ba21-3dd098ec4a5d"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation, booking",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "58d12ba5-2bb4-4acc-b04c-e1c3e3426ef0"
+    },
+    {
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaningZh": "困难的",
+      "meaningEn": "difficult",
+      "level": "n5n4",
+      "exampleSentence": "この問題は難しいです。",
+      "id": "d81de65e-9ab7-453f-93fa-47470ec26ba9"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "旅行の計画を立てました。",
+      "id": "fda84e03-1e69-48ad-9468-8c19f9755e26"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしています。",
+      "id": "6875fcea-1865-416a-a56d-035e2f959064"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつりの期間中、北海道でホテルを予約するのはなぜ難しいですか。",
+      "options": [
+        "ホテルが少ないからです。",
+        "たくさんの人が北海道に来るからです。",
+        "ホテルが高いからです。",
+        "雪がたくさん降るからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「たくさんの人が雪まつりを見に北海道へ行きます。だから、ホテルや旅館はとても人気があります。」と書いてあります。",
+      "id": "5566cd10-58a0-44df-9601-071d3a3f0d26"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-22-c3d486ff33",
+  "publishedAt": "2026-06-22T06:00:00+09:00"
+}

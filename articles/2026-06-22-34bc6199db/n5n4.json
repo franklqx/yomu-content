@@ -1,0 +1,131 @@
+{
+  "title": "図書館の夜、開いています！",
+  "summary": "ある図書館で夜にも開く実験を始めました。たくさんの人が図書館を利用できるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある町で新しい試みがありました。それは、公立図書館の夜間営業実験です。今まで、図書館は午後5時か6時に閉まることが多かったです。でも、この実験では、夜遅くまで開いています。",
+      "translationZh": "最近，某个小镇上有一个新的尝试。那就是公共图书馆的夜间营业实验。以前，图书馆很多时候下午5点或6点就关门了。但是，这次实验中，图书馆会开到很晚。",
+      "translationEn": "Recently, a new experiment started in a certain town. It is the public library's night opening experiment. Until now, libraries often closed at 5 or 6 PM. But, in this experiment, the library is open until late at night.",
+      "id": "005b3eac-2a12-4228-b5d6-a835f66efa9d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、もっと多くの人に図書館を利用してほしいという考えから始まりました。仕事が終わってから図書館に行きたい人や、学校が終わってから勉強したい学生がたくさんいます。",
+      "translationZh": "这个实验是从希望更多人能够利用图书馆的想法开始的。有很多人在工作结束后想去图书馆，也有学生在放学后想去学习。",
+      "translationEn": "This experiment started from the idea that we want more people to use the library. There are many people who want to go to the library after work, and many students who want to study after school.",
+      "id": "1275c700-03bd-4884-85f3-6eb9d38b73f7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜に図書館が開くと、色々なことができます。本を読んだり、調べ物をしたり、静かな場所で勉強したりできます。この実験がうまくいけば、他の町でも夜間営業が広がるかもしれません。",
+      "translationZh": "晚上图书馆开门后，可以做各种事情。可以读书，可以查资料，也可以在安静的地方学习。如果这个实验成功了，夜间营业或许会在其他小镇也推广开来。",
+      "translationEn": "When the library is open at night, various things can be done. You can read books, do research, or study in a quiet place. If this experiment goes well, night opening might spread to other towns as well.",
+      "id": "2e4f0eb8-f455-4b29-9057-c25dea5eadea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい取り組みは、地域の人々にとってとても便利になる可能性があります。夜の図書館で、新しい発見や学びがあるかもしれませんね。",
+      "translationZh": "这个新的举措，对当地居民来说，有可能会变得非常方便。在晚上的图书馆，或许会有新的发现和学习。",
+      "translationEn": "This new initiative has the potential to be very convenient for the local people. There might be new discoveries and learning opportunities at the library at night.",
+      "id": "e482a15f-2e53-45f3-a8e9-e848817c479b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公立図書館",
+      "reading": "こうりつとしょかん",
+      "meaningZh": "公共图书馆",
+      "meaningEn": "public library",
+      "level": "n5n4",
+      "exampleSentence": "公立図書館は誰でも利用できます。",
+      "id": "5dfce5e7-fbc6-42a8-b5dc-a40c983b738c"
+    },
+    {
+      "word": "夜間営業",
+      "reading": "やかんえいぎょう",
+      "meaningZh": "夜间营业",
+      "meaningEn": "night opening hours",
+      "level": "n5n4",
+      "exampleSentence": "この店は夜間営業をしています。",
+      "id": "69be795c-bcbd-4530-8dcf-8e9b80e2425f"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい方法を実験しています。",
+      "id": "6096967c-4c47-439c-970d-f333c84a71b9"
+    },
+    {
+      "word": "試み",
+      "reading": "こころみ",
+      "meaningZh": "尝试，试行",
+      "meaningEn": "attempt, trial",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい試みです。",
+      "id": "f47c75aa-6fa0-481d-bf29-63143541009f"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用，使用",
+      "meaningEn": "use, utilize",
+      "level": "n5n4",
+      "exampleSentence": "図書館の施設を利用します。",
+      "id": "c06faae4-8a88-46fa-abc1-baf0c48dc0ad"
+    },
+    {
+      "word": "考え",
+      "reading": "かんがえ",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea, thought",
+      "level": "n5n4",
+      "exampleSentence": "それは良い考えですね。",
+      "id": "62bcade4-b362-4087-b0a4-ca67e8a5843b"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaningZh": "学生",
+      "meaningEn": "student",
+      "level": "n5n4",
+      "exampleSentence": "彼は大学生です。",
+      "id": "570ba726-43e2-4104-a178-dd50d8359320"
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "扩大，推广",
+      "meaningEn": "spread, expand",
+      "level": "n5n4",
+      "exampleSentence": "噂が広がる。",
+      "id": "7a877af0-e657-4882-a1b3-0d0f750c7e74"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この図書館は、なぜ夜遅くまで開ける実験をしていますか？",
+      "options": [
+        "もっと多くの人に利用してほしいから。",
+        "図書館の先生がもっと働きたいから。",
+        "夜に本を読む人が少ないから。",
+        "お金をもっと稼ぎたいから。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「この実験は、もっと多くの人に図書館を利用してほしいという考えから始まりました。」",
+      "id": "70246e6d-cc3d-4ea7-b27b-3a9bdb0639b1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-22-34bc6199db",
+  "publishedAt": "2026-06-22T06:00:00+09:00"
+}

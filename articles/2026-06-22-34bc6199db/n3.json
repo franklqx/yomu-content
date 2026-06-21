@@ -1,0 +1,143 @@
+{
+  "title": "夜の図書館、新しい発見！実験始まる",
+  "summary": "多くの公立図書館で、夜間開館の実験が始まりました。仕事帰りの人も利用しやすくなり、注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、いくつかの公立図書館で、夜間開館の実験が行われています。これまでは夕方には閉まってしまう図書館が多かったため、仕事や学校が終わってから利用するのが難しいという声がありました。今回の実験は、そうした声に応えるためのものです。夜遅くまで開いていることで、これまで図書館に来られなかった人たちにも本に触れる機会が増えるかもしれません。",
+      "translationZh": "最近，一些公共图书馆正在进行夜间开放的实验。过去，很多图书馆傍晚就关门了，这使得下班或放学后难以利用图书馆，对此曾有各种声音。这次实验就是为了回应这些声音。通过晚开馆，或许能增加那些以前无法来图书馆的人们接触书籍的机会。",
+      "translationEn": "Recently, some public libraries have been experimenting with evening hours. In the past, many libraries closed in the evening, making it difficult for people to use them after work or school, and there were voices expressing this concern. This experiment aims to respond to such feedback. By staying open late, more people who couldn't visit the library before may have the chance to engage with books.",
+      "id": "325307d1-e093-4cbe-bdac-e0dd9f91514f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間開館の実験について、図書館側は「利用者のニーズを把握するため」と話しています。開館時間を延ばすことによって、どのような人が、どのような目的で夜の図書館を利用するのか、データを集めることが重要だからです。もし利用者が多ければ、今後、夜間開館が本格的に導入される可能性もあります。",
+      "translationZh": "关于夜间开放的实验，图书馆方面表示“是为了了解利用者的需求”。因为延长开放时间，收集关于什么样的人、以什么样的目的利用夜间图书馆的数据非常重要。如果利用人数很多，今后夜间开放也有可能被正式引进。",
+      "translationEn": "Regarding the experiment with evening hours, the library stated, 'It is to understand user needs.' This is because it is important to collect data on who uses the library at night and for what purpose by extending the opening hours. If there are many users, there is a possibility that evening hours will be fully introduced in the future.",
+      "id": "2b7a8aae-b454-4e80-9da8-99d98a3b0e5f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、図書館のあり方を見直す良い機会になると考えられます。図書館は、静かに本を読むだけの場所ではなく、地域の人々が集まるコミュニティスペースとしての役割も持っています。夜遅くまで開いていることで、仕事帰りの人がリラックスしたり、学生が静かな環境で勉強したりする場としても活用できるでしょう。",
+      "translationZh": "这次实验被认为是一个重新审视图书馆存在方式的好机会。图书馆不仅仅是安静读书的地方，也承担着作为社区居民聚集的空间的角色。通过晚开馆，对于下班回家的人来说，可以作为一个放松的场所，对于学生来说，也可以作为一个在安静环境中学习的场所来利用。",
+      "translationEn": "This experiment is considered a good opportunity to re-examine the role of libraries. Libraries are not just places for quiet reading but also serve as community spaces where local residents gather. By staying open late, they can also be utilized as places for people returning from work to relax or for students to study in a quiet environment.",
+      "id": "f385e351-9ab3-44b0-ae2d-cbdf46647dce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、夜間開館には、人員の確保や安全対策など、クリアしなければならない課題もあります。しかし、利用者の利便性を高めるためのこうした試みは、図書館が地域社会にさらに貢献していくための大切な一歩と言えるのではないでしょうか。",
+      "translationZh": "当然，夜间开放也存在必须解决的课题，比如确保人员和安全对策等。然而，这种为了提高利用者便利性而进行的尝试，可以说是在图书馆为地区社会做出更大贡献方面迈出的重要一步吧。",
+      "translationEn": "Of course, there are challenges to overcome with evening hours, such as securing staff and implementing safety measures. However, such initiatives to enhance user convenience can be considered an important step for libraries to contribute further to the local community, can't they?",
+      "id": "3d85e958-824b-4070-baf4-45f25429d35e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公立図書館",
+      "reading": "こうりつとしょかん",
+      "meaningZh": "公共图书馆",
+      "meaningEn": "public library",
+      "level": "n3",
+      "exampleSentence": "この公立図書館は、最新の本もたくさんあります。",
+      "id": "ed5c2b9f-bc62-4619-9b82-72b077ad5697"
+    },
+    {
+      "word": "夜間営業",
+      "reading": "やかんえいぎょう",
+      "meaningZh": "夜间营业",
+      "meaningEn": "nighttime business hours",
+      "level": "n3",
+      "exampleSentence": "デパートの夜間営業は、週末に人気があります。",
+      "id": "0c7a2c41-8026-4b89-b38e-98e8d730f7a0"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい薬の効果を実験で確かめます。",
+      "id": "ef204bda-95a4-4540-b166-74bac314cb01"
+    },
+    {
+      "word": "声",
+      "reading": "こえ",
+      "meaningZh": "（在这里指）意见、呼声",
+      "meaningEn": "voice, opinion, demand",
+      "level": "n5n4",
+      "exampleSentence": "多くの人の声が、政策を変えるきっかけになりました。",
+      "id": "6ce19eab-48ad-429d-aa6d-5ba0ebe831e4"
+    },
+    {
+      "word": "把握する",
+      "reading": "はあくする",
+      "meaningZh": "掌握，理解",
+      "meaningEn": "to grasp, to understand, to comprehend",
+      "level": "n3",
+      "exampleSentence": "状況を正確に把握することが大切です。",
+      "id": "3974cc6b-6b36-42f2-a0b5-ab590aedd0c4"
+    },
+    {
+      "word": "本格的",
+      "reading": "ほんかくてき",
+      "meaningZh": "正式的，本格的",
+      "meaningEn": "authentic, full-scale, official",
+      "level": "n3",
+      "exampleSentence": "来月、本格的なトレーニングが始まります。",
+      "id": "c83742de-a94d-4155-85bf-96dfdb4d8bef"
+    },
+    {
+      "word": "コミュニティスペース",
+      "reading": "こみゅにてぃすぺーす",
+      "meaningZh": "社区空间",
+      "meaningEn": "community space",
+      "level": "n3",
+      "exampleSentence": "この公園は、住民のためのコミュニティスペースです。",
+      "id": "3040bb9b-173e-4f8c-afb2-0a82f4f672b0"
+    },
+    {
+      "word": "利便性",
+      "reading": "りべんせい",
+      "meaningZh": "便利性",
+      "meaningEn": "convenience",
+      "level": "n3",
+      "exampleSentence": "駅が近くなったので、生活の利便性が向上しました。",
+      "id": "9dbcadb4-5b98-4522-a2f9-b8d568df36a4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回の公立図書館の夜間営業実験の主な目的は何ですか？",
+      "options": [
+        "図書館の建物を新しくするため",
+        "夜間利用者のニーズを把握するため",
+        "夜間に開催するイベントを増やすため",
+        "図書館の職員を増やすため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「利用者のニーズを把握するため」と書かれています。",
+      "id": "e0fedce4-54fb-4e8a-8324-4690040d95a3"
+    },
+    {
+      "question": "夜間開館の実験によって、図書館はどのような役割を果たすことが期待されていますか？",
+      "options": [
+        "最新のビジネス書だけを置く場所",
+        "学校の宿題だけを教える場所",
+        "地域の人々が集まるコミュニティスペース",
+        "最新のテクノロジーを学ぶ場所"
+      ],
+      "correctIndex": 2,
+      "explanation": "「地域の人々が集まるコミュニティスペースとしての役割も持っています」と書かれています。",
+      "id": "100ef7c0-2b00-47d1-97d8-b2cd72e956c1"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-22-34bc6199db",
+  "publishedAt": "2026-06-22T06:00:00+09:00"
+}
