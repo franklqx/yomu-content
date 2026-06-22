@@ -1,0 +1,131 @@
+{
+  "title": "商店街と地域通貨",
+  "summary": "商店街が地域通貨を使っています。これは、地域を元気にするための良い方法です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "商店街は、地域の人々が集まる大切な場所です。しかし、最近、元気がない商店街も増えています。そこで、地域通貨を使う取り組みが始まりました。",
+      "translationZh": "商店街是当地人聚集的重要场所。但是，最近，有些商店街变得不太有活力了。因此，开始有了使用地域货币的举措。",
+      "translationEn": "Shopping streets are important places where local people gather. However, recently, there are more and more shopping streets that are not very lively. Therefore, an initiative using local currency has begun.",
+      "id": "452d6ab0-9378-4722-a7c5-f102bafdc41a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨とは、その地域だけで使えるお金のことです。例えば、お店で買い物をすると、地域通貨がもらえます。その地域通貨で、また商店街のお店で買い物ができます。",
+      "translationZh": "地域货币是指只能在该地区使用的钱。例如，在商店购物时，可以获得地域货币。用那种地域货币，又可以在商店街的商店里购物。",
+      "translationEn": "Local currency is money that can only be used in that region. For example, when you shop at a store, you can receive local currency. With that local currency, you can shop again at stores in the shopping street.",
+      "id": "834b14fe-3874-479b-a3a6-0f95cbf89211",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この取り組みは、地域の人々がお金を使う場所を商店街に集中させることができます。これにより、商店街のお店はもっと元気になります。地域全体が活気づくことが期待されます。",
+      "translationZh": "这项举措可以让当地人把花钱的地方集中在商店街。这样，商店街的商店会变得更有活力。人们期待整个地区都能变得活跃起来。",
+      "translationEn": "This initiative allows local people to concentrate where they spend money in the shopping street. This makes the stores in the shopping street more vibrant. It is expected that the entire region will become more lively.",
+      "id": "82ffda20-890c-43c4-a354-e4cb8c6c2cd5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨は、環境に優しいという考え方もあります。お金を地域の中で回すことで、遠くから物を運ぶ必要が少なくなります。これは、地球にも良いことです。",
+      "translationZh": "地域货币也有环保的理念。通过让金钱在地区内流通，可以减少长途运输物品的需求。这对地球也是有益的。",
+      "translationEn": "Local currency also has the concept of being environmentally friendly. By circulating money within the region, the need to transport goods from afar decreases. This is also good for the planet.",
+      "id": "4b3c4afa-822e-466d-805e-77c3c31886c6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はきれいです。",
+      "id": "725ef92f-0d5e-47ca-a341-4441a75f16f9"
+    },
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "地域货币",
+      "meaningEn": "local currency",
+      "level": "n5n4",
+      "exampleSentence": "地域通貨を使ってみましょう。",
+      "id": "a616fcfa-717e-416b-b214-1e37cee4435c"
+    },
+    {
+      "word": "取り組み",
+      "reading": "とりくみ",
+      "meaningZh": "举措，措施",
+      "meaningEn": "initiative, effort",
+      "level": "n5n4",
+      "exampleSentence": "新しい取り組みが始まりました。",
+      "id": "c7fb5b34-4e2b-4d88-a89b-771899c4fb68"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energy, liveliness, health",
+      "level": "n5n4",
+      "exampleSentence": "商店街が元気になりました。",
+      "id": "e959f531-1f8b-4578-96c4-7236d497918c"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "活用",
+      "meaningEn": "utilization, application",
+      "level": "n3",
+      "exampleSentence": "地域通貨をうまく活用しています。",
+      "id": "135fb7ce-d0d2-4b3b-b2d6-041fb6f36321"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "人々が集まります。",
+      "id": "9cfe1462-a285-48f1-a8aa-51113128cefa"
+    },
+    {
+      "word": "活気づく",
+      "reading": "かつづく",
+      "meaningZh": "变得活跃",
+      "meaningEn": "to become lively, to be invigorated",
+      "level": "n3",
+      "exampleSentence": "町が活気づいています。",
+      "id": "90351531-bae2-4d43-8eab-8d0e81c232db"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n3",
+      "exampleSentence": "環境を守ることが大切です。",
+      "id": "f1f76c0c-ae5c-4da9-b446-5cb2bbdf2fd0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨を使うと、どのような良いことがありますか。",
+      "options": [
+        "お店がもっと高くなります。",
+        "地域の人々がお金を使う場所が商店街に集中します。",
+        "外国からたくさんの人が来ます。",
+        "地域通貨はどこでも使えます。"
+      ],
+      "correctIndex": 1,
+      "explanation": "この取り組みは、地域の人々がお金を使う場所を商店街に集中させることができます。これにより、商店街のお店はもっと元気になります。",
+      "id": "e5314654-7183-4bbe-896d-7c2071f21498"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-23-b6105dfb66",
+  "publishedAt": "2026-06-23T06:00:00+09:00"
+}

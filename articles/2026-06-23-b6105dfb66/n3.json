@@ -1,0 +1,126 @@
+{
+  "title": "商店街を元気にする「地域通貨」の力",
+  "summary": "最近、商店街で地域通貨を使った新しい取り組みが始まっています。これにより、地域経済の活性化が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの商店街で、その地域だけで使える「地域通貨」を活用した新しい取り組みが注目されています。地域通貨とは、特定の地域やコミュニティ内でのみ利用できるお金のことです。これにより、お金が地域内で循環し、地域経済の活性化につながることが期待されています。",
+      "translationZh": "最近，在许多商店街，利用仅限该地区使用的“地域货币”的新举措正受到关注。地域货币是指仅能在特定地区或社区内使用的货币。通过这种方式，人们期待金钱能在地区内循环，从而带动地区经济的活性化。",
+      "translationEn": "Recently, new initiatives utilizing 'local currencies,' usable only within specific regions, are gaining attention in many shopping streets. Local currency is money that can only be used within a particular area or community. Through this, it is expected that money will circulate within the region, leading to the revitalization of the local economy.",
+      "id": "126b1060-fcfe-420d-8e13-b29a97b19ccc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある商店街では、地域通貨で購入すると、通常の価格よりも少し安くなる特典を設けています。また、地域通貨を使って買い物をした人に、地域のお店で使えるポイントを付与するサービスもあります。このような工夫をすることで、住民は地域通貨を使うメリットを感じ、積極的に利用するようになります。",
+      "translationZh": "例如，在某个商店街，设立了使用地域货币购买时比通常价格稍便宜的优惠。此外，还有一项服务是为使用地域货币购物的顾客提供可在当地商店使用的积分。通过这样的努力，居民会感受到使用地域货币的好处，并积极地利用它。",
+      "translationEn": "For example, in a certain shopping street, they have introduced a benefit where purchasing with local currency results in a slightly lower price than usual. There is also a service that awards points usable at local stores to those who shop using local currency. By making such efforts, residents feel the benefits of using local currency and become more inclined to use it.",
+      "id": "fd57eac0-825d-42ed-af85-36ee6bee6034",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨の導入は、単に買い物を便利にするだけでなく、地域住民の連帯感を高める効果もあります。地域のお店を応援したいという気持ちが、通貨を通じて形になり、地域全体の一体感を醸成することもあるのです。そのため、地域通貨は、経済的な側面だけではなく、社会的な側面からも商店街の活性化に貢献すると考えられています。",
+      "translationZh": "引入地域货币不仅能让购物更便利，还有提高地区居民团结感的效果。想要支持本地店铺的心情，通过货币得以体现，有时也能培养整个地区的归属感。因此，地域货币被认为不仅在经济层面，也在社会层面为商店街的活性化做出贡献。",
+      "translationEn": "The introduction of local currency not only makes shopping more convenient but also has the effect of enhancing the sense of solidarity among local residents. The desire to support local shops takes shape through the currency, sometimes fostering a sense of unity throughout the community. Therefore, local currency is considered to contribute to the revitalization of shopping streets not only from an economic perspective but also from a social one.",
+      "id": "e7d70003-d16f-49b6-9ffb-2ff179738bb1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "只在特定地区或社区内使用的货币。",
+      "meaningEn": "Currency used only within a specific region or community.",
+      "level": "n3",
+      "exampleSentence": "この町では、地域通貨「〇〇円」が使われています。",
+      "id": "74d1d6f3-6c10-4842-8cb6-32c4cbcbb11a"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "有效地利用。",
+      "meaningEn": "Effective utilization; making good use of.",
+      "level": "n3",
+      "exampleSentence": "この技術を最大限に活用しましょう。",
+      "id": "3374d442-a63b-424b-8ea4-9c35f566f22f"
+    },
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店聚集的街道。",
+      "meaningEn": "Shopping street; a street lined with shops.",
+      "level": "n3",
+      "exampleSentence": "商店街を歩くと、活気があって楽しいです。",
+      "id": "d2bcb319-d91f-455d-830a-31e7e79881e1"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "使变得有活力；使活跃起来。",
+      "meaningEn": "Activation; revitalization.",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が急務です。",
+      "id": "e72af72a-494a-400d-9e0d-adf333c942a6"
+    },
+    {
+      "word": "循環",
+      "reading": "じゅんかん",
+      "meaningZh": "循环；轮转。",
+      "meaningEn": "Circulation; cycle.",
+      "level": "n3",
+      "exampleSentence": "お金が地域の中で循環することが大切です。",
+      "id": "33b2163e-a852-407d-b2f2-df21acaff3dc"
+    },
+    {
+      "word": "特典",
+      "reading": "とくてん",
+      "meaningZh": "特别的优惠或好处。",
+      "meaningEn": "Special privilege; special benefit; bonus.",
+      "level": "n3",
+      "exampleSentence": "会員になると、様々な特典があります。",
+      "id": "27b8b8f2-adf4-4f96-bdaa-d11ef8dd0f20"
+    },
+    {
+      "word": "連帯感",
+      "reading": "れんたいかん",
+      "meaningZh": "团结一致的感觉；集体感。",
+      "meaningEn": "Sense of solidarity; sense of unity.",
+      "level": "n3",
+      "exampleSentence": "チームには強い連帯感があります。",
+      "id": "16aa8425-0f77-4a80-9127-9f16703f4710"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨の主な目的は何ですか？",
+      "options": [
+        "地域外への送金を容易にすること",
+        "地域内でお金が使われ、経済を活発にすること",
+        "海外との貿易を促進すること",
+        "新しい技術開発を支援すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「お金が地域内で循環し、地域経済の活性化につながることが期待されています。」と説明されています。",
+      "id": "0973c4d9-12d1-4c49-ada1-827c0ccc46a0"
+    },
+    {
+      "question": "商店街が地域通貨を導入する理由として、本文で述べられていないものはどれですか？",
+      "options": [
+        "地域住民の連帯感を高めるため",
+        "地域通貨利用者に特典を提供するため",
+        "地域経済を活性化するため",
+        "地域通貨の国際的な価値を高めるため"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文では、地域通貨の国際的な価値を高めることについては触れられていません。地域経済の活性化、特典の提供、連帯感の向上については述べられています。",
+      "id": "840be09a-3b25-4e28-983e-369c37c3b70c"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-23-b6105dfb66",
+  "publishedAt": "2026-06-23T06:00:00+09:00"
+}

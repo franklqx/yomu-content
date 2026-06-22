@@ -1,0 +1,131 @@
+{
+  "title": "昔の道具が人気？",
+  "summary": "最近、昔の民芸品が若い人たちの間で人気です。これはとても面白いことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、日本には「民芸運動」という考え方がありました。これは、昔から伝わる丈夫で美しい道具を大切にしよう、という運動です。例えば、お皿やコップ、椅子などです。人々は、こうした道具を生活の中で使っていました。",
+      "translationZh": "过去，日本有一种叫做“民艺运动”的理念。这是一个重视从古代流传下来的、结实而美丽的器物的运动。例如，盘子、杯子、椅子等。人们在生活中使用这些器物。",
+      "translationEn": "In the past, Japan had an idea called the 'Mingei Movement.' This was a movement to cherish strong and beautiful objects passed down from ancient times. For example, plates, cups, and chairs. People used these objects in their daily lives.",
+      "id": "2f12364a-ab3e-4cd1-be72-be719aeaf1cf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、時代が変わって、新しいものがたくさん出ました。それで、昔の民芸品は少しずつ忘れられてしまいました。しかし、最近、若い人たちの間で、昔の民芸品が再び注目されています。SNSで写真を見たり、お店で探したりする人が増えています。",
+      "translationZh": "但是，时代改变了，新事物大量出现。因此，过去的民艺品被一点点遗忘了。然而，最近，在年轻人之间，过去的民艺品再次受到关注。在社交媒体上看到照片，或在商店里寻找的人正在增加。",
+      "translationEn": "However, times changed, and many new things appeared. So, old folk crafts were gradually forgotten. But recently, old folk crafts are gaining attention again among young people. More people are looking at photos on social media or searching in shops.",
+      "id": "7976eb2d-7ec6-4ed3-b059-7d77ce8b3ebc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜ、昔の民芸品が人気なのでしょうか。それは、一つ一つ手作りで、温かみがあるからです。また、丈夫で長く使えるものが多いことも理由です。古いデザインが、かえって新しく見えることもあります。",
+      "translationZh": "为什么过去的民艺品会受欢迎呢？那是因为它们都是手工制作，充满温度。此外，结实耐用也是一个原因。旧的设计有时反而会显得新颖。",
+      "translationEn": "Why are old folk crafts popular? It's because each one is handmade and has warmth. Also, many of them are durable and can be used for a long time. Old designs can sometimes look new in contrast.",
+      "id": "29b02c28-1e66-468f-ae0c-0d19fd760524",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいコレクターは、これらの民芸品をSNSで紹介しています。そして、若い人たちが、これらの道具を現代の生活に取り入れています。昔の知恵や技術が、新しい形で私たちの生活を豊かにしてくれるでしょう。",
+      "translationZh": "新的收藏家在社交媒体上介绍这些民艺品。然后，年轻人将这些器物融入现代生活。过去的智慧和技术，将以新的形式丰富我们的生活。",
+      "translationEn": "New collectors introduce these folk crafts on social media. And young people are incorporating these objects into their modern lives. The wisdom and techniques of the past will enrich our lives in new ways.",
+      "id": "5e5e3ef5-82b2-43aa-a903-5d7e602d8211",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "过去，以前",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "これは昔の日本の写真です。",
+      "id": "53cf627b-4fc7-45e4-9cab-c3ee530de4bf"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaningZh": "工具，用具",
+      "meaningEn": "tool, implement, utensil",
+      "level": "n5n4",
+      "exampleSentence": "台所にはたくさんの道具があります。",
+      "id": "e77f45ec-ab9c-4615-a6cf-a6c66b6ce862"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要，珍惜",
+      "meaningEn": "important, precious, to cherish",
+      "level": "n5n4",
+      "exampleSentence": "この本は私にとって大切です。",
+      "id": "ef508b37-ebda-4916-bb27-4de1772d34e9"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity, popular",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "83ee7341-e0c8-420f-9f73-c87882e38d70"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいことに興味があります。",
+      "id": "33a55f45-8743-4f42-9eae-a31d8cb4399f"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，注视",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "この新しい技術は世界から注目されています。",
+      "id": "182f09d5-5f88-4284-b474-efd8f24853c8"
+    },
+    {
+      "word": "温かみ",
+      "reading": "ぬくもり",
+      "meaningZh": "温暖，温情",
+      "meaningEn": "warmth",
+      "level": "n3",
+      "exampleSentence": "手作りのセーターは温かみがあります。",
+      "id": "e9202b5c-8cc6-4017-b82d-3941f8af7e7e"
+    },
+    {
+      "word": "豊か",
+      "reading": "ゆたか",
+      "meaningZh": "丰富，富裕",
+      "meaningEn": "abundant, rich, wealthy",
+      "level": "n3",
+      "exampleSentence": "自然が豊かできれいな町です。",
+      "id": "b55edf2e-a67a-486e-9608-ae405b2dac22"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ最近、昔の民芸品が人気が出てきましたか？",
+      "options": [
+        "安くてたくさん買えるからです。",
+        "SNSで新しいデザインがたくさん出たからです。",
+        "手作りで温かみがあり、丈夫だからです。",
+        "若い人たちが昔の生活に憧れているからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「それは、一つ一つ手作りで、温かみがあるからです。また、丈夫で長く使えるものが多いことも理由です。」と書いてあります。",
+      "id": "42d4c7c7-b56c-4ccd-864b-2608716a5321"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-23-e8b1c0ac34",
+  "publishedAt": "2026-06-23T06:00:00+09:00"
+}

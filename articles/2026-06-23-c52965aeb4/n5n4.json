@@ -1,0 +1,131 @@
+{
+  "title": "新しい工場ができました",
+  "summary": "日本の会社が新しい半導体工場を作りました。これはとても大切なことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の会社が新しい工場を建てました。この工場は半導体を作ります。半導体は、スマホやパソコンに使う大事な部品です。",
+      "translationZh": "一家日本公司建造了一座新工厂。这座工厂生产半导体。半导体是智能手机和电脑使用的重要零件。",
+      "translationEn": "A Japanese company built a new factory. This factory makes semiconductors. Semiconductors are important parts used in smartphones and computers.",
+      "id": "65bc7c1e-8ff7-4732-945c-db599ac018ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい工場は、去年から準備していました。たくさんの人が一生懸命働きました。そして、この春に工場が動きました。",
+      "translationZh": "新工厂从去年就开始准备了。很多人努力工作。然后，在今年春天工厂开始运转了。",
+      "translationEn": "The new factory had been preparing since last year. Many people worked very hard. And, this spring, the factory started operating.",
+      "id": "1f2cbd97-5798-4a1e-9310-258ee07b48ba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この工場で、もっとたくさんの半導体が作れるようになります。日本の技術がもっと強くなるでしょう。これは国にとっても良いことです。",
+      "translationZh": "这座工厂将能够生产更多的半导体。日本的技术将变得更强大。这对国家来说也是好事。",
+      "translationEn": "With this factory, we will be able to produce more semiconductors. Japan's technology will likely become stronger. This is good for the country too.",
+      "id": "25ce0055-f8e0-4542-ad37-5cb8964a462a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "会社の人たちは、「これからも良い製品を作ります」と言いました。新しい工場は、未来のためにとても大切です。",
+      "translationZh": "公司的人说：“今后也会制造好的产品。”新工厂对未来非常重要。",
+      "translationEn": "The company people said, \"We will continue to make good products.\" The new factory is very important for the future.",
+      "id": "9d0a2788-b516-45e3-b3db-2423a56c1a0c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaningZh": "工厂",
+      "meaningEn": "factory",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい工場です。",
+      "id": "27e42952-0a54-48f8-813f-29410e289c44"
+    },
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "半導体は小さいです。",
+      "id": "c3123234-b4a5-4d48-8d6d-a075aec83cf7"
+    },
+    {
+      "word": "部品",
+      "reading": "ぶひん",
+      "meaningZh": "零件，部件",
+      "meaningEn": "part, component",
+      "level": "n5n4",
+      "exampleSentence": "これは車の部品です。",
+      "id": "357fff71-7803-4cee-9b5f-0291cc8f24dc"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしました。",
+      "id": "df5e1e97-5796-46da-96bf-e1fc38561d4a"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "拼命地，努力地",
+      "meaningEn": "with all one's might, very hard",
+      "level": "n5n4",
+      "exampleSentence": "一生懸命勉強しました。",
+      "id": "dfbac158-66c6-472b-808d-169a1e8d399b"
+    },
+    {
+      "word": "動きました",
+      "reading": "うごきました",
+      "meaningZh": "动了，开始运转了",
+      "meaningEn": "moved, started operating",
+      "level": "n5n4",
+      "exampleSentence": "機械が動きました。",
+      "id": "4c895233-6b50-4601-a17f-2ce34450c629"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "日本の技術はすごいです。",
+      "id": "d3c1a568-807e-4307-a332-d0a8758a820c"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaningZh": "未来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "未来は明るいです。",
+      "id": "78e8e2fb-a85e-45cb-aaf5-2690404dd7d3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい工場は何を作りますか。",
+      "options": [
+        "車",
+        "スマホ",
+        "半導体",
+        "パソコン"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「この工場は半導体を作ります。」と書いてあります。",
+      "id": "fe7ee517-0965-4396-bf2f-136864889f38"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-23-c52965aeb4",
+  "publishedAt": "2026-06-23T06:00:00+09:00"
+}
