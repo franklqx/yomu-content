@@ -1,0 +1,131 @@
+{
+  "title": "注目の高校サッカーチーム",
+  "summary": "高校サッカー選手権が始まりました。今年はどこのチームが強いでしょうか。注目しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬の高校サッカー選手権が始まりました。全国からたくさんのチームが参加しています。みんな一生懸命（いっしょうけんめい）試合をしています。応援（おうえん）している人も多いです。",
+      "translationZh": "冬季的高校足球锦标赛开始了。来自全国各地的许多队伍参加了比赛。大家都在拼命地比赛。为他们加油助威的人也很多。",
+      "translationEn": "The winter high school soccer championship has begun. Many teams from all over the country are participating. Everyone is playing with all their might. Many people are cheering for them.",
+      "id": "c87035e7-a948-4547-bd5a-088e64ca09d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は特に注目されているチームがあります。去年の優勝（ゆうしょう）チームも強いですが、新しいチームも力をつけてきました。例えば、A高校は去年ベスト８でした。今年はもっと上を目指しています。",
+      "translationZh": "今年有几支队伍特别引人注目。去年的冠军队伍也很强，但新队伍也增强了实力。例如，A高中去年进入了八强。今年他们瞄准更高的目标。",
+      "translationEn": "This year, there are some teams that are particularly noteworthy. Last year's champion team is still strong, but new teams have also gained strength. For example, A High School was in the top 8 last year. This year, they are aiming higher.",
+      "id": "9bf488ac-cb80-4724-aec0-4e46bdd671c6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "B高校の選手（せんしゅ）はとても速いです。パスも上手です。監督（かんとく）は「チームワークを大切にしたい」と言っていました。練習をたくさんしたそうです。",
+      "translationZh": "B高中的选手们跑得非常快。传球也很出色。教练说：“我们想重视团队合作。”据说他们进行了大量的练习。",
+      "translationEn": "The players from B High School are very fast. Their passing is also skillful. The coach said, \"We want to value teamwork.\" They reportedly practiced a lot.",
+      "id": "2929177d-f97f-4b3d-b017-f52f5806dd34",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "どのチームが優勝するか、まだわかりません。でも、どの試合も楽しみです。みんながんばってほしいです。応援しましょう。",
+      "translationZh": "哪支队伍能夺冠，现在还不知道。但是，每一场比赛都让人期待。希望大家都能加油。让我们一起为他们加油吧。",
+      "translationEn": "We don't know yet which team will win. But every match is exciting. We hope everyone does their best. Let's cheer for them.",
+      "id": "10b482aa-6689-4bae-a52b-5f639918e190",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手権",
+      "reading": "せんしゅけん",
+      "meaningZh": "锦标赛，锦标赛",
+      "meaningEn": "championship",
+      "level": "n5n4",
+      "exampleSentence": "サッカーの全国選手権は有名です。",
+      "id": "30868379-94d9-41c7-895e-d09de9bd7fde"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "大会に多くの人が参加しました。",
+      "id": "88487749-d67d-41a2-a50d-3981d3b58c23"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "拼命地，努力地",
+      "meaningEn": "with all one's might, eagerly",
+      "level": "n5n4",
+      "exampleSentence": "彼は一生懸命勉強しています。",
+      "id": "bf7a837c-a2c5-4ba0-b161-029276c7163c"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "支持，声援",
+      "meaningEn": "support, cheering",
+      "level": "n5n4",
+      "exampleSentence": "友達の試合を応援に行きました。",
+      "id": "78c11859-1c85-4521-bedd-a242bdbf837c"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，注视",
+      "meaningEn": "attention, notice",
+      "level": "n5n4",
+      "exampleSentence": "新しい映画に注目が集まっています。",
+      "id": "9892d0a6-b15f-4a98-af20-ed78caf53c1b"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": "今年の大会で優勝したいです。",
+      "id": "2c4ee50d-edd1-4c3e-a873-66377a5ec7ba"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "6ce1eec0-db77-4336-a292-3a98bbcd3b8e"
+    },
+    {
+      "word": "監督",
+      "reading": "かんとく",
+      "meaningZh": "教练，监督",
+      "meaningEn": "coach, manager",
+      "level": "n5n4",
+      "exampleSentence": "野球チームの監督が話しました。",
+      "id": "09d0387e-03cf-4901-ae45-d530930c833a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "B高校の選手はどんなところが上手ですか。",
+      "options": [
+        "足が速くて、パスも上手です。",
+        "背が高くて、よく点を取ります。",
+        "よく走りますが、パスは苦手です。",
+        "声が大きくて、チームをまとめます。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「B高校の選手（せんしゅ）はとても速いです。パスも上手です。」と書いてあります。",
+      "id": "d2d2008c-c733-4455-ac62-feb9960e0299"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-24-7d62f14f8b",
+  "publishedAt": "2026-06-24T06:00:00+09:00"
+}

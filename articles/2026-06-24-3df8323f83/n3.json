@@ -1,0 +1,126 @@
+{
+  "title": "都市の空き家、新たな命を吹き込むプロジェクト",
+  "summary": "都市部で増えている空き家を、カフェやシェアハウスなど、地域に役立つ施設として活用する動きが広がっています。これにより、街の活性化が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の都市部では、使われなくなった古い家、いわゆる「空き家」が増えています。これらの空き家は、街の景観を悪くするだけでなく、防犯上の問題も引き起こしかねません。しかし、近年、これらの空き家を魅力的なスペースに生まれ変わらせるプロジェクトが注目されています。",
+      "translationZh": "最近，日本的城市地区，废弃不用的老房子，也就是所谓的“空置房”越来越多。这些空置房不仅影响街区景观，还可能引发治安问题。然而，近年来，将这些空置房改造成有吸引力空间的企划备受关注。",
+      "translationEn": "Recently, in Japan's urban areas, unused old houses, so-called 'akiya' (vacant houses), are increasing. These vacant houses not only worsen the town's appearance but can also cause security issues. However, in recent years, projects that transform these vacant houses into attractive spaces have been gaining attention.",
+      "id": "d8fe358f-cc64-4751-ad18-890a86a50f50",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、古い町家をリノベーションして、おしゃれなカフェやゲストハウスとして再生する例があります。地元の人々が集まるコミュニティスペースになったり、旅行者が気軽に泊まれる場所になったりすることで、地域に新しい活気をもたらしています。このように、空き家を地域資源として活用する試みは、多くの可能性を秘めていると言えるでしょう。",
+      "translationZh": "例如，将老式町屋翻新，改造成时尚咖啡馆或旅馆的例子。通过成为当地人聚集的社区空间，或是旅行者可以随意投宿的地方，为地区带来了新的活力。像这样，将空置房作为地区资源加以利用的尝试，可以说蕴含着许多可能性。",
+      "translationEn": "For example, there are cases where old traditional townhouses (machiya) are renovated and reborn as stylish cafes or guesthouses. By becoming community spaces where local people gather, or places where travelers can easily stay, they bring new vitality to the area. Thus, attempts to utilize vacant houses as local resources can be said to hold many possibilities.",
+      "id": "167e9cf7-29c7-4df9-adec-3b330ba565d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "空き家活用プロジェクトは、単に建物を再利用するだけではありません。地域住民のニーズを聞きながら進めることで、より地域に根差した、愛される場所が生まれます。空き家が減るだけでなく、地域コミュニティの活性化にもつながることから、今後もこのような取り組みが広がっていくことが期待されています。",
+      "translationZh": "空置房利用项目不仅仅是简单地再利用建筑物。通过听取当地居民的需求来推进，就能诞生更扎根于当地、受人喜爱的场所。这不仅能减少空置房，还能促进社区的活性化，因此今后这类举措的推广也备受期待。",
+      "translationEn": "Vacant house utilization projects are not just about reusing buildings. By proceeding while listening to the needs of local residents, more community-based and beloved places are created. As this not only reduces vacant houses but also leads to the revitalization of local communities, such initiatives are expected to spread further in the future.",
+      "id": "4a7a88ff-aea0-4526-9fbe-dc983b878cff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置房，空屋",
+      "meaningEn": "vacant house, empty house",
+      "level": "n3",
+      "exampleSentence": "都市部で空き家が増加していることが問題になっています。",
+      "id": "3d794c58-bf8b-40a1-9e84-e74f2901e672"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "利用，运用",
+      "meaningEn": "utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "このスペースを会議室として活用できます。",
+      "id": "ed5e4dcb-691b-46ff-90af-ef382def77b7"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "计划，项目",
+      "meaningEn": "project",
+      "level": "n3",
+      "exampleSentence": "新しいプロジェクトが成功することを願っています。",
+      "id": "cfd702bb-abfc-4f19-9b32-bbde8d02c774"
+    },
+    {
+      "word": "リノベーション",
+      "reading": "りのべーしょん",
+      "meaningZh": "翻新，革新（尤指对建筑物的内部改造）",
+      "meaningEn": "renovation (especially interior remodeling of buildings)",
+      "level": "n3",
+      "exampleSentence": "古いアパートをリノベーションして、モダンな部屋にしました。",
+      "id": "43d947aa-300b-47e5-a894-bd7c0c541765"
+    },
+    {
+      "word": "コミュニティ",
+      "reading": "こみゅにてぃ",
+      "meaningZh": "社区，社群",
+      "meaningEn": "community",
+      "level": "n3",
+      "exampleSentence": "地域コミュニティのイベントに参加しました。",
+      "id": "80883265-7a74-4e7b-9a38-6049e02e1b6a"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，活跃化",
+      "meaningEn": "revitalization, invigoration",
+      "level": "n3",
+      "exampleSentence": "商店街の活性化のために新しいお店がオープンしました。",
+      "id": "cd723335-129b-42ba-bfd7-f42104638f11"
+    },
+    {
+      "word": "根差す",
+      "reading": "ねざす",
+      "meaningZh": "扎根，根植于",
+      "meaningEn": "to take root, to be rooted in",
+      "level": "n3",
+      "exampleSentence": "この文化は地域に深く根差しています。",
+      "id": "cbce8d17-ea70-4078-be0c-15b12f5d6944"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "都市部で空き家が増えていることの、どのような問題点が本文で述べられていますか？",
+      "options": [
+        "景観が悪くなることと、防犯上の問題",
+        "近隣住民との騒音トラブル",
+        "建物の老朽化による倒壊の危険",
+        "固定資産税の増加"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「これらの空き家は、街の景観を悪くするだけでなく、防犯上の問題も引き起こしかねません。」と書かれています。",
+      "id": "86890eb5-a1f5-4dfd-a741-e6cbce8c63e1"
+    },
+    {
+      "question": "空き家活用プロジェクトが地域にもたらす良い点は、どのようなことだと説明されていますか？",
+      "options": [
+        "建物の固定資産税が安くなること",
+        "地域コミュニティの活性化と、新しい活気",
+        "空き家を解体する費用が節約できること",
+        "都市部への人口集中を緩和すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「地域に新しい活気をもたらしています。」や「地域コミュニティの活性化にもつながる」と説明されています。",
+      "id": "9487d7dd-2614-492c-b65a-5c8b1b93fde1"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-24-3df8323f83",
+  "publishedAt": "2026-06-24T06:00:00+09:00"
+}

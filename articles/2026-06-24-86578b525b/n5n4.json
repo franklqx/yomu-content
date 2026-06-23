@@ -1,0 +1,122 @@
+{
+  "title": "夏休みの人気プログラム",
+  "summary": "夏休みが始まりました。子供たちのためのプログラムが人気です。どのようなプログラムがあるか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏休みが始まりました。多くの子供たちは学校が休みになります。そのため、子供たちが楽しく過ごせるプログラムがたくさんあります。これらのプログラムは「学童プログラム」と呼ばれます。",
+      "translationZh": "暑假开始了。许多孩子们学校放假了。因此，有很多孩子们可以愉快度过的项目。这些项目被称为“学童项目”。",
+      "translationEn": "Summer vacation has started. Many children have a break from school. Therefore, there are many programs where children can have fun. These programs are called 'after-school programs'.",
+      "id": "e50d7142-c70f-4c4e-8d2c-5269f7dada7d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、新しいタイプの学童プログラムが人気です。例えば、プログラミングを学ぶプログラムや、科学実験をするプログラムがあります。子供たちは新しいことを学ぶことができます。",
+      "translationZh": "最近，新型的学童项目很受欢迎。例如，有学习编程的项目和做科学实验的项目。孩子们可以学习新事物。",
+      "translationEn": "Recently, new types of after-school programs are popular. For example, there are programs to learn programming and programs to do science experiments. Children can learn new things.",
+      "id": "d5bd1452-e72c-4987-b19e-e945edb4b7f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、自然体験ができるプログラムも人気があります。山や海に行って、植物や生き物を観察します。体を動かして、友達と協力することも大切です。",
+      "translationZh": "此外，可以体验大自然的项目也很受欢迎。去山里或海边，观察植物和生物。活动身体，和朋友合作也很重要。",
+      "translationEn": "Also, programs that offer nature experiences are popular. They go to the mountains or the sea to observe plants and animals. Moving their bodies and cooperating with friends is also important.",
+      "id": "29e3eccf-22c4-4ac0-87ac-5bd6b903ace5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのプログラムは、子供たちの成長にとても良い影響を与えます。夏休みに新しい経験をすることは、子供たちの将来にとって大切なことです。",
+      "translationZh": "这些项目对孩子们的成长有非常好的影响。暑假期间获得新体验，对孩子们的将来来说很重要。",
+      "translationEn": "These programs have a very good influence on children's growth. Gaining new experiences during summer vacation is important for children's future.",
+      "id": "65f6b7ea-5a3b-437c-8baf-e71aff57d9d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaningZh": "暑假",
+      "meaningEn": "summer vacation",
+      "level": "n5n4",
+      "exampleSentence": "夏休みはどこかへ行きたいです。",
+      "id": "cbecd9e7-58d4-4bf3-a05e-e40e10ee3bc0"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaningZh": "孩子",
+      "meaningEn": "child",
+      "level": "n5n4",
+      "exampleSentence": "子供たちが公園で遊んでいます。",
+      "id": "2c5c6380-e584-428f-b711-635dac7c34ac"
+    },
+    {
+      "word": "プログラム",
+      "reading": "プログラム",
+      "meaningZh": "项目，计划",
+      "meaningEn": "program",
+      "level": "n5n4",
+      "exampleSentence": "新しいプログラムに参加しました。",
+      "id": "c3697511-05f1-4e32-a0da-8d2583bb0517"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店はとても人気があります。",
+      "id": "4d971f48-d2de-418f-b64a-ff07fef34da1"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaningZh": "最初，开头",
+      "meaningEn": "beginning, first",
+      "level": "n5n4",
+      "exampleSentence": "物語の最初がおもしろいです。",
+      "id": "c3a8b74a-ad83-457c-af94-bf017d0cbf06"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然の中でリラックスしました。",
+      "id": "7ae52042-5286-4533-b220-ff6324e81362"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "楽しい経験をしました。",
+      "id": "1e9ca5e2-57ee-45e3-90c2-8dec10da0ae6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、どのような学童プログラムが人気ですか。",
+      "options": [
+        "料理を学ぶプログラム",
+        "プログラミングや科学実験のプログラム",
+        "音楽を学ぶプログラム",
+        "外国語を学ぶプログラム"
+      ],
+      "correctIndex": 1,
+      "explanation": "最近、新しいタイプの学童プログラムが人気です。例えば、プログラミングを学ぶプログラムや、科学実験をするプログラムがあります。",
+      "id": "da89cea8-5243-4676-b2e6-be5c2cf05d83"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-24-86578b525b",
+  "publishedAt": "2026-06-24T06:00:00+09:00"
+}

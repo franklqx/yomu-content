@@ -1,0 +1,113 @@
+{
+  "title": "空き家が新しい場所になる",
+  "summary": "日本では、使われていない家が増えています。これらの家を使いやすい場所にするプロジェクトがあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、人が住んでいない家（空き家）が増えています。特に町では、古い家がたくさんあります。これらの家は、そのままにしておくと、だんだん悪くなります。",
+      "translationZh": "在日本，不住人的房子（空置房）正在增加。尤其是在城镇里，有很多老房子。如果这些房子就这样放着，会慢慢变坏。",
+      "translationEn": "In Japan, houses where no one lives (akiyajin) are increasing. Especially in towns, there are many old houses. If these houses are left as they are, they will gradually deteriorate.",
+      "id": "4f6e1c29-8f98-4766-9095-d66070a492f0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、空き家をきれいにしたり、直したりして、新しい場所として使うプロジェクトが始まりました。例えば、古い家をカフェやお店、または人々が集まる場所に変えることができます。",
+      "translationZh": "因此，开始了一些项目，将空置房打扫干净、修理好，作为新的场所使用。例如，可以将老房子改建成咖啡馆、商店，或者人们聚集的地方。",
+      "translationEn": "Therefore, projects have started to clean and repair empty houses and use them as new places. For example, old houses can be turned into cafes, shops, or places where people gather.",
+      "id": "ab92e3b4-c1f4-4b55-865d-d30d81a3ae09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このプロジェクトは、町を元気にする助けになります。空き家が減ると、町はもっときれいになります。そして、新しい人が来て、町はもっと楽しくなります。",
+      "translationZh": "这个项目有助于使城镇恢复活力。空置房减少了，城镇会变得更干净。然后，新的人会来，城镇会变得更有趣。",
+      "translationEn": "This project helps to revitalize the town. When vacant houses decrease, the town becomes cleaner. Then, new people come, and the town becomes more enjoyable.",
+      "id": "988b5559-3535-4a36-aa69-4e117e9b93a5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "空き家を大切に使うことは、とても良いことです。地域の人々も、新しい場所ができることを喜んでいます。これから、もっと多くの空き家が活用されるでしょう。",
+      "translationZh": "好好利用空置房是一件非常好的事情。当地居民也为新场所的建成感到高兴。今后，将会有更多的空置房被利用起来。",
+      "translationEn": "Using vacant houses with care is a very good thing. Local residents are also happy about the creation of new places. In the future, more and more vacant houses will likely be utilized.",
+      "id": "aeecb7ba-8c9e-4f32-8253-a10cab051f43",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置房",
+      "meaningEn": "vacant house",
+      "level": "n5n4",
+      "exampleSentence": "この町には空き家が多いです。",
+      "id": "1dc0ed76-98d1-4dfc-8347-35d9a5ec1d5f"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "人口が増えています。",
+      "id": "0e6b2abe-8e93-45ea-8b64-9e0ef777f97a"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "项目",
+      "meaningEn": "project",
+      "level": "n5n4",
+      "exampleSentence": "新しいプロジェクトが始まりました。",
+      "id": "36331469-77d8-4f26-a50a-4d5c6a948be8"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "活用，利用",
+      "meaningEn": "utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "この場所をうまく活用したいです。",
+      "id": "152c1bf8-e297-4249-813c-0f07f6587401"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energy, vitality, health",
+      "level": "n5n4",
+      "exampleSentence": "町が元気になりました。",
+      "id": "225f2a2d-cdd6-478a-a42f-66bba99bc70e"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "area, region",
+      "level": "n3",
+      "exampleSentence": "地域の人が集まります。",
+      "id": "0cf73f53-024a-4a54-b72b-c02843c69aac"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "空き家プロジェクトは何のためにありますか？",
+      "options": [
+        "家を壊すため",
+        "町を元気にするため",
+        "新しい車を買うため",
+        "外国人が住むため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「このプロジェクトは、町を元気にする助けになります。」",
+      "id": "0b11b0fd-85d5-44a4-8f69-a59a066fe1b3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-24-3df8323f83",
+  "publishedAt": "2026-06-24T06:00:00+09:00"
+}
