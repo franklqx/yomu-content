@@ -1,0 +1,126 @@
+{
+  "title": "体育館、地域のみんなの場所になった！実験始まる",
+  "summary": "学校の体育館が、授業時間外に地域住民にも開放される実験が始まりました。これにより、地域交流の活性化が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、私たちの住む地域で、学校の体育館を授業がない時間に地域の人たちにも開放する実験が始まりました。これまで体育館は主に生徒たちのための場所でしたが、これからは、スポーツを楽しみたい大人や子供たちが気軽に利用できるようになります。この取り組みは、地域住民の健康増進だけでなく、世代を超えた交流を深めるきっかけになることが期待されています。",
+      "translationZh": "最近，在我们居住的地区，一项实验开始了：学校的体育馆在没有课的时间里也向社区居民开放。过去，体育馆主要供学生使用，但今后，想要运动的大人和孩子们也可以轻松利用。",
+      "translationEn": "Recently, in our neighborhood, an experiment has begun where the school gymnasium is opened to community members during non-class hours. In the past, the gymnasium was mainly for students, but from now on, adults and children who want to enjoy sports can use it easily.",
+      "id": "336d6fa5-0798-45f2-be1c-703c9a629ea0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験が行われるのは、〇〇小学校の体育館です。平日の放課後や週末など、生徒がいない時間帯が選ばれました。登録制なので、利用したい人は事前に簡単な手続きを済ませる必要があります。これにより、安全が確保され、施設が大切に使われるようになります。地域住民からは、「近くで気軽に運動できる場所ができて嬉しい」「子供たちと一緒に来たい」といった声が聞かれています。",
+      "translationZh": "进行这项实验的是〇〇小学的体育馆。平日放学后和周末等学生不在的时间段被选定。因为是注册制，所以想使用的人需要提前完成简单的手续。这样做可以确保安全，并使设施被珍惜使用。社区居民表示：“很高兴有了可以在附近轻松运动的地方”、“想带孩子们一起来”。",
+      "translationEn": "The gymnasium of XX Elementary School is where this experiment is taking place. Time slots when students are not present, such as weekday afternoons and weekends, have been chosen. Since it is a registration system, those who wish to use it must complete a simple procedure in advance. This ensures safety and that the facility is used with care. Community residents have expressed their pleasure, saying, \"I'm happy to have a place nearby where I can exercise easily\" and \"I want to come with my children.\"",
+      "id": "5b72f62b-331a-4c24-a184-bd9a41d7fd78",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "体育館の開放によって、地域住民がお互いを知り、助け合う機会が増えると考えられます。例えば、スポーツをきっかけに知り合った人同士で、地域のイベントを企画することもできるかもしれません。もちろん、学校側にとっても、地域とのつながりが強まることは、子供たちの教育にも良い影響を与えるでしょう。この実験が成功すれば、他の学校でも同様の取り組みが広がる可能性があります。",
+      "translationZh": "通过体育馆的开放，人们认为社区居民相互认识、互相帮助的机会将会增加。例如，以运动为契机认识的人们可能会一起策划社区活动。当然，对于学校来说，与社区的联系加强也会对孩子们的教育产生积极影响。如果这次实验成功，类似的举措可能会在其他学校推广开来。",
+      "translationEn": "It is thought that opening the gymnasium will increase opportunities for community members to get to know each other and help one another. For example, people who meet through sports might plan community events together. Of course, for the school, strengthening ties with the community will also have a positive impact on children's education. If this experiment is successful, similar initiatives may spread to other schools.",
+      "id": "15c23c34-3a49-4e03-b2c3-7f7da98a970f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, open",
+      "level": "n3",
+      "exampleSentence": "図書館は午前9時に開放されます。",
+      "id": "02a1aa62-9cf6-455c-be01-f65e13a68647"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい学習方法の実験が行われています。",
+      "id": "5201f682-f51b-4502-80b4-0a4d01b0db74"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "area, region",
+      "level": "n3",
+      "exampleSentence": "この地域は自然が多くてきれいです。",
+      "id": "563d7df2-cc61-465c-93e6-ad8bd0bd30fa"
+    },
+    {
+      "word": "住民",
+      "reading": "じゅうみん",
+      "meaningZh": "居民",
+      "meaningEn": "resident, inhabitant",
+      "level": "n3",
+      "exampleSentence": "地域の住民がイベントに参加しました。",
+      "id": "d1f0eb94-833e-4089-b8c7-2a2b5f9ae97a"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，活跃",
+      "meaningEn": "activation, invigoration",
+      "level": "n3",
+      "exampleSentence": "商店街の活性化のために新しいお店ができました。",
+      "id": "7248c82e-6335-42b6-a4ad-dde508d3335d"
+    },
+    {
+      "word": "取り組み",
+      "reading": "とりくみ",
+      "meaningZh": "措施，努力，合作",
+      "meaningEn": "effort, initiative, approach",
+      "level": "n3",
+      "exampleSentence": "環境保護のための新しい取り組みが始まりました。",
+      "id": "7c9bb118-ea2d-4fea-8340-ff920e4f8578"
+    },
+    {
+      "word": "健康増進",
+      "reading": "けんこうぞうしん",
+      "meaningZh": "促进健康",
+      "meaningEn": "health promotion",
+      "level": "n3",
+      "exampleSentence": "ウォーキングは健康増進に役立ちます。",
+      "id": "0cf1f6d0-cb63-4671-883f-a775d8dc8560"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館が地域住民に開放される実験の目的は何ですか？",
+      "options": [
+        "生徒のためにより多くの運動時間を確保するため",
+        "地域住民の健康増進と交流を深めるため",
+        "学校の設備を最新のものに更新するため",
+        "地域住民から利用料を徴収するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「この取り組みは、地域住民の健康増進だけでなく、世代を超えた交流を深めるきっかけになることが期待されています。」と書かれています。",
+      "id": "8234af83-a72e-41ce-ad27-c525f0e5c267"
+    },
+    {
+      "question": "体育館を利用したい住民は何をする必要がありますか？",
+      "options": [
+        "特別なスポーツの資格を取ること",
+        "事前に簡単な登録手続きを済ませること",
+        "体育館の先生に許可を得ること",
+        "毎日利用状況を確認すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「登録制なので、利用したい人は事前に簡単な手続きを済ませる必要があります。」と書かれています。",
+      "id": "e15977a4-0a15-42f8-86e1-736d86951bda"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-25-124842a915",
+  "publishedAt": "2026-06-25T06:00:00+09:00"
+}

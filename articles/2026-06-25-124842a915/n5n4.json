@@ -1,0 +1,122 @@
+{
+  "title": "体育館、みんなで使おう！",
+  "summary": "学校の体育館が地域の人にも開放される実験が始まりました。みんなで楽しく使いたいですね。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、私たちの住んでいる町で新しい実験が始まりました。それは、学校の体育館を地域の人たちにも使ってもらうことです。今まで、体育館は主に学校の生徒が使っていました。",
+      "translationZh": "最近，我们居住的城镇开始了一项新实验。那就是让学校的体育馆也供社区居民使用。直到现在，体育馆主要由学校的学生使用。",
+      "translationEn": "Recently, a new experiment started in our town. It is about letting community people use the school gymnasium. Until now, the gymnasium was mainly used by school students.",
+      "id": "f2221017-40e1-4c34-8f3f-7b7f7edbec6f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験では、土曜日や日曜日に、地域の大人や子供たちが体育館でスポーツをすることができます。例えば、バレーボールをしたり、バスケットボールをしたりできます。とても楽しそうです。",
+      "translationZh": "在这个实验中，周六和周日，社区的成年人和孩子们可以在体育馆进行体育活动。例如，可以打排球，也可以打篮球。听起来很有趣。",
+      "translationEn": "In this experiment, on Saturdays and Sundays, adults and children from the community can play sports in the gymnasium. For example, they can play volleyball or basketball. It looks very fun.",
+      "id": "9222e3b4-28a2-422a-a4b2-7e1664099a91",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学校の先生は、「みんなが体育館をきれいに使ってくれると嬉しいです」と言いました。地域の人たちと学校が仲良くなる良い機会になるでしょう。",
+      "translationZh": "学校的老师说：“如果大家都能好好地使用体育馆，我们会很高兴。”这将会是社区和学校增进友谊的好机会。",
+      "translationEn": "The school teacher said, \"We would be happy if everyone uses the gymnasium cleanly.\" This will be a good opportunity for the community and the school to become friends.",
+      "id": "c914830a-a4d3-4134-a799-dde4c3a645c6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、まだ始まったばかりです。これからどうなるか、みんなで注目しましょう。地域の人たちが学校を身近に感じるようになるかもしれません。",
+      "translationZh": "这项实验才刚刚开始。我们大家一起来关注一下今后会怎样发展吧。也许社区的人们会觉得学校离自己更近了。",
+      "translationEn": "This experiment has just begun. Let's all pay attention to what happens next. Perhaps community people will feel closer to the school.",
+      "id": "6ef4ab77-686e-42ef-bfa5-55b6f0725852",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "体育館で運動をしました。",
+      "id": "500c4798-3ea0-4d01-a4e4-8bcf57279633"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域，社区",
+      "meaningEn": "area, region, community",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても安全です。",
+      "id": "7a474d7d-3eac-4dcc-8956-dd62b51bae8b"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, open",
+      "level": "n5n4",
+      "exampleSentence": "図書館は午前9時に開放されます。",
+      "id": "8dbebe53-95cb-4407-b417-d9c42ffb5559"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしています。",
+      "id": "36b2a363-f322-4e6b-8cbc-db12f8297a8a"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaningZh": "学生（中小学）",
+      "meaningEn": "student (elementary/middle school)",
+      "level": "n5n4",
+      "exampleSentence": "多くの生徒が図書館で勉強しています。",
+      "id": "381215d2-d69a-457d-a8dc-b8aac627b135"
+    },
+    {
+      "word": "仲良し",
+      "reading": "なかよし",
+      "meaningZh": "亲密的朋友，关系好",
+      "meaningEn": "good friend, close relationship",
+      "level": "n5n4",
+      "exampleSentence": "私たちは昔からの仲良しです。",
+      "id": "6e5c2291-1399-46ac-af9a-e18e22405b86"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity, chance",
+      "level": "n5n4",
+      "exampleSentence": "これは良い機会です。",
+      "id": "e8bcf687-ae90-40c5-ab4f-ac808f6fb627"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館は、誰が主に使っていましたか？",
+      "options": [
+        "地域の大人",
+        "地域の子供",
+        "学校の生徒",
+        "先生たち"
+      ],
+      "correctIndex": 2,
+      "explanation": "今まで、体育館は主に学校の生徒が使っていました。",
+      "id": "c4786699-2449-4dee-b761-3e49df3702da"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-25-124842a915",
+  "publishedAt": "2026-06-25T06:00:00+09:00"
+}

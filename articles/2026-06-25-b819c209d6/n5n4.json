@@ -1,0 +1,122 @@
+{
+  "title": "コラボカフェの新メニュー",
+  "summary": "人気アニメのコラボカフェが新しいメニューを出しました。予約がとても混んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "人気のアニメ「〇〇（アニメ名）」のコラボカフェが、新しいメニューを始めました。このカフェは、いつもたくさんのファンでいっぱいです。",
+      "translationZh": "人气动画《〇〇（动画名）》的合作咖啡厅推出了新菜单。这家咖啡厅总是挤满了许多粉丝。",
+      "translationEn": "The collaboration cafe for the popular anime \"〇〇 (Anime Title)\" has started new menu items. This cafe is always full of many fans.",
+      "id": "017b5681-a1d6-49be-a087-ba940422c152",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいメニューは、アニメのキャラクターをイメージしたデザートやドリンクです。見た目もとてもきれいで、味もおいしいと評判です。",
+      "translationZh": "新菜单是模仿动画角色形象制作的甜点和饮品。它们看起来很漂亮，味道也很美味，评价很好。",
+      "translationEn": "The new menu includes desserts and drinks inspired by the anime characters. They look very beautiful and are reputed to taste delicious.",
+      "id": "0a763917-391a-449c-9ba3-880df04390c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このカフェは人気があるので、予約をするのがむずかしいです。特に週末は、予約の電話がとても混んでいます。早めに予約しないと、行くことができません。",
+      "translationZh": "因为这家咖啡厅很受欢迎，所以很难预订。特别是周末，预订电话非常繁忙。如果不早点预订，就去不了。",
+      "translationEn": "Because this cafe is popular, it is difficult to make a reservation. Especially on weekends, reservation phone calls are very busy. If you don't reserve early, you cannot go.",
+      "id": "b0c001de-f774-48e3-aaff-299dc82169e2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "カフェのホームページで、予約の情報を確認してください。新しいメニューを食べて、楽しい時間を過ごしましょう。",
+      "translationZh": "请在咖啡厅的官方网站上确认预约信息。让我们品尝新菜单，度过愉快的时光吧。",
+      "translationEn": "Please check the reservation information on the cafe's website. Let's eat the new menu and have a good time.",
+      "id": "4f36e805-01eb-464f-8d9c-86517c701f94",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメは人気があります。",
+      "id": "85fde4a7-aa5d-4048-830e-bedc500d95dc"
+    },
+    {
+      "word": "アニメ",
+      "reading": "あにめ",
+      "meaningZh": "动画",
+      "meaningEn": "anime",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "8c5746e8-3cf3-4b90-ac36-c3fcd3af157b"
+    },
+    {
+      "word": "カフェ",
+      "reading": "かふぇ",
+      "meaningZh": "咖啡厅",
+      "meaningEn": "cafe",
+      "level": "n5n4",
+      "exampleSentence": "駅の近くに新しいカフェができました。",
+      "id": "37fb9adc-925f-43e2-b1d6-e57ff0d0d476"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "今日のランチメニューは何ですか。",
+      "id": "e5b33d8e-4be6-4d53-815f-267ff4b2c694"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约，预定",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "92a1a7e5-8074-4838-acde-58ea380ee517"
+    },
+    {
+      "word": "混んでいます",
+      "reading": "こんでいます",
+      "meaningZh": "拥挤，繁忙",
+      "meaningEn": "crowded, busy",
+      "level": "n5n4",
+      "exampleSentence": "電車がとても混んでいます。",
+      "id": "c8d9345a-7c88-4962-9a2f-959a504a6344"
+    },
+    {
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaningZh": "信息",
+      "meaningEn": "information",
+      "level": "n3",
+      "exampleSentence": "旅行の情報はインターネットで調べました。",
+      "id": "7b75231c-a8ab-4f8e-889b-8365a394db83"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このカフェの予約はどうしてむずかしいですか。",
+      "options": [
+        "メニューがおいしくないからです。",
+        "カフェが小さいからです。",
+        "人気があって、混んでいるからです。",
+        "アニメが面白くないからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「このカフェは人気があるので、予約をするのがむずかしいです。特に週末は、予約の電話がとても混んでいます。」",
+      "id": "a5733f19-faa4-4564-bcda-b0bfb8831f48"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-25-b819c209d6",
+  "publishedAt": "2026-06-25T06:00:00+09:00"
+}

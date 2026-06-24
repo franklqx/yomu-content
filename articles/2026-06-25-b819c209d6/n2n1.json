@@ -1,0 +1,147 @@
+{
+  "title": "人気アニメのコラボカフェ、新メニュー登場で予約殺到",
+  "summary": "某人气动漫与咖啡馆合作推出的新菜单，因其独特的设计和丰富的口味而备受瞩目，导致预订异常火爆。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都内某所で開催されている人気アニメ「〇〇（作品名）」とカフェチェーン「△△（店名）」のコラボレーションカフェにおいて、本日より期間限定の新メニューが提供開始されたとのことだ。今回の新メニューは、作品の世界観を忠実に再現したビジュアルと、キャラクターをイメージした独創的な味わいが特徴として挙げられており、発表以来、ファンの間で大きな話題を呼んでいた。特に、主人公が劇中で愛飲するドリンクを模した「□□（メニュー名）」は、その再現度の高さからSNS上での投稿が後を絶たない状況となっている。",
+      "translationZh": "据称，在东京某地人气动漫《〇〇（作品名）》与连锁咖啡店“△△（店名）”合作举办的联名咖啡馆，从今天起开始提供限期的新菜单。本次新菜单的特点在于忠实再现了作品世界观的视觉效果，以及以角色为灵感而设计的独创口味，自公布以来就在粉丝之间引起了巨大反响。特别是，模仿主角在剧中爱饮的饮品而制作的“□□（菜单名）”，因其高度的还原度，在社交媒体上的发布内容络绎不绝。",
+      "translationEn": "It is reported that a limited-time new menu has been launched today at the collaboration cafe between the popular anime \"〇〇 (Work Title)\" and the cafe chain \"△△ (Shop Name)\" held in a certain location in Tokyo. This new menu is characterized by visuals that faithfully reproduce the work's worldview and original flavors inspired by the characters, and has generated significant buzz among fans since its announcement. In particular, the \"□□ (Menu Name)\", which mimics the drink frequently consumed by the protagonist in the show, has led to an unending stream of posts on social media due to its high degree of accuracy.",
+      "id": "f332d1e9-acf4-4b74-a94c-156df142a724",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新メニューの登場に伴い、カフェの予約状況は急激に混雑度を増している。特に週末や祝日においては、開店前から行列ができることも珍しくなく、一部の時間帯では予約が数週間先まで埋まっているという報告も上がっている。カフェ側は、混雑緩和のために、事前予約制の導入や、整理券の配布などを検討している模様だが、ファンの熱意に応えつつ、円滑な運営を図るための対応に追われているのが現状であると見られる。",
+      "translationZh": "随着新菜单的推出，咖啡馆的预约情况急剧升温，变得非常拥挤。尤其是在周末和节假日，开店前就排起长队已是常态，并且有报告称部分时段的预约已经排到了几周之后。咖啡馆方面似乎正在考虑引入事前预约制或发放整理券等措施来缓解拥挤，但目前的状况是，他们正忙于应对，以在满足粉丝热情的同时，实现顺畅的运营。",
+      "translationEn": "With the introduction of the new menu, the cafe's reservation situation has rapidly become crowded. Especially on weekends and holidays, it is not uncommon to see queues forming before opening, and reports indicate that some time slots are fully booked for several weeks in advance. The cafe appears to be considering measures such as implementing a prior reservation system or distributing numbered tickets to alleviate congestion, but the current situation suggests they are busy responding to meet fan enthusiasm while striving for smooth operations.",
+      "id": "979af6fd-cea8-48df-839e-816d18a2d6ed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このようなコラボカフェの盛況は、当該アニメ作品の根強い人気を示すものと言えるだろう。作品の世界観に浸れる空間や、キャラクターをモチーフにした飲食メニューは、ファンにとって特別な体験を提供し、消費意欲を刺激する要因となっている。今後も、同様の企画が様々な作品で展開されることが予想され、アニメファン向けの市場は更なる拡大を見せるとの観測もなされている。",
+      "translationZh": "此类联名咖啡馆的火爆景象，可以说表明了该动画作品持久不衰的人气。粉丝们能够在其中沉浸于作品世界观的空间，以及以角色为主题的饮食菜单，为粉丝提供了特别的体验，并成为刺激消费欲望的因素。预计今后类似的企划将在各种作品中展开，也有预测称面向动漫迷的市场将进一步扩大。",
+      "translationEn": "The success of such collaboration cafes can be said to demonstrate the enduring popularity of the anime work in question. The spaces that allow fans to immerse themselves in the work's worldview, along with food and drink menus themed around the characters, offer a special experience for fans and act as a factor stimulating their desire to consume. It is anticipated that similar projects will be developed for various works in the future, with observations suggesting that the market for anime fans will see further expansion.",
+      "id": "0084f7c0-f402-41a3-91dd-51d3528b04f8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コラボレーション",
+      "reading": "ころぼれーしょん",
+      "meaningZh": "合作，协作",
+      "meaningEn": "collaboration",
+      "level": "n2n1",
+      "exampleSentence": "人気ブランド同士のコラボレーション商品が話題を呼んでいる。",
+      "id": "cfa93d24-a557-4c69-a673-d1c4e1f3b9fc"
+    },
+    {
+      "word": "提供",
+      "reading": "ていきょう",
+      "meaningZh": "提供",
+      "meaningEn": "provision, offering",
+      "level": "n3",
+      "exampleSentence": "新しいサービスを提供する準備が整いました。",
+      "id": "a4245a75-b296-4415-9a07-34606e647953"
+    },
+    {
+      "word": "模倣",
+      "reading": "もほう",
+      "meaningZh": "模仿，仿制",
+      "meaningEn": "imitation, emulation",
+      "level": "n2n1",
+      "exampleSentence": "そのデザインは古典的な建築様式を模倣している。",
+      "id": "7c58cb02-a91a-4f12-b207-9fb5eed2fd52"
+    },
+    {
+      "word": "後を絶たない",
+      "reading": "あとをたたない",
+      "meaningZh": "接连不断，络绎不绝",
+      "meaningEn": "unending, continuous",
+      "level": "n2n1",
+      "exampleSentence": "苦情の電話が後を絶たない状況だ。",
+      "id": "3df93d89-b0a1-48e7-bbda-850e6044483d"
+    },
+    {
+      "word": "〜に伴い",
+      "reading": "〜にともない",
+      "meaningZh": "伴随...，随着...",
+      "meaningEn": "along with, accompanying",
+      "level": "n2n1",
+      "exampleSentence": "新技術の導入に伴い、業務プロセスが変更された。",
+      "id": "4008483d-b455-4a9b-a561-4d31ab4f866e"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowding, congestion",
+      "level": "n3",
+      "exampleSentence": "ラッシュアワーの電車内は大変な混雑だった。",
+      "id": "b45571b8-aac9-4aeb-8e3a-91fdad08b0c8"
+    },
+    {
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaningZh": "缓和，缓解",
+      "meaningEn": "relaxation, easing",
+      "level": "n2n1",
+      "exampleSentence": "政府は経済の停滞緩和策を発表した。",
+      "id": "4cb8938c-cc9a-4285-b9ab-9fb1b374ed7a"
+    },
+    {
+      "word": "盛況",
+      "reading": "せいきょう",
+      "meaningZh": "盛况，热闹",
+      "meaningEn": "great success, thriving business",
+      "level": "n2n1",
+      "exampleSentence": "週末のイベントは予想以上の盛況ぶりだった。",
+      "id": "f3ef4cec-f5a2-46d6-a927-65ce7346628c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回のコラボカフェの新メニューが話題となっている主な理由は何ですか。",
+      "options": [
+        "価格が非常に手頃であるため",
+        "作品の世界観を再現したビジュアルと独創的な味わいのため",
+        "有名声優が来店するイベントが開催されるため",
+        "予約なしでいつでも入店できるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "第一段に「今回の新メニューは、作品の世界観を忠実に再現したビジュアルと、キャラクターをイメージした独創的な味わいが特徴として挙げられており、発表以来、ファンの間で大きな話題を呼んでいた」と記載されている。",
+      "id": "e866a664-4dda-4251-aea2-caa6dc3ba8f4"
+    },
+    {
+      "question": "新メニュー登場後、カフェの予約状況はどうなっていますか。",
+      "options": [
+        "予約が取りやすくなった",
+        "予約は以前と変わらない",
+        "週末を中心に予約が数週間先まで埋まるほど混雑している",
+        "予約システムが一時的に停止された"
+      ],
+      "correctIndex": 2,
+      "explanation": "第二段に「新メニューの登場に伴い、カフェの予約状況は急激に混雑度を増している。特に週末や祝日においては、...一部の時間帯では予約が数週間先まで埋まっているという報告も上がっている」とある。",
+      "id": "b6df1761-b821-4ed6-a75c-c4b7e14c46f9"
+    },
+    {
+      "question": "カフェ側が混雑緩和のために検討している可能性のある対策は何ですか。",
+      "options": [
+        "メニューの提供を一時停止する",
+        "店舗の営業時間を短縮する",
+        "事前予約制や整理券の配布",
+        "価格を値上げする"
+      ],
+      "correctIndex": 2,
+      "explanation": "第二段に「カフェ側は、混雑緩和のために、事前予約制の導入や、整理券の配布などを検討している模様だが、...」と記述されている。",
+      "id": "30b0d2e0-9fef-46a5-9c4c-4dd84b581310"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-06-25-b819c209d6",
+  "publishedAt": "2026-06-25T06:00:00+09:00"
+}

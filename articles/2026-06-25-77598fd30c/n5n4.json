@@ -1,0 +1,131 @@
+{
+  "title": "七夕の光、新しい名所",
+  "summary": "今年の夏、特別な七夕のライトアップがあります。新しい場所で、きれいな光を見ましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ七夕です。日本には、七夕を祝う特別なイベントがたくさんあります。今年も、新しい場所で七夕のライトアップが始まります。それはとてもきれいな光のイベントです。",
+      "translationZh": "七夕节快到了。日本有很多庆祝七夕的特别活动。今年，新的地方也将开始七夕灯光秀。这是一个非常美丽的灯光活动。",
+      "translationEn": "Tanabata is coming soon. Japan has many special events to celebrate Tanabata. This year, a Tanabata light-up will begin in a new place. It is a very beautiful light event.",
+      "id": "1a282d18-23f3-4036-94e1-0f5cb7c5dc82",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい名所は、街の中心にあります。大きな公園で、たくさんの木があります。七夕の飾りや、色とりどりの光で公園が飾られます。夜になると、公園は夢のような場所になります。",
+      "translationZh": "这个新景点位于市中心。是一个大公园，有很多树。公园将被七夕装饰和五颜六色的灯光装饰。到了晚上，公园就会变成一个梦幻般的地方。",
+      "translationEn": "This new spot is in the center of the city. It is a big park with many trees. The park will be decorated with Tanabata ornaments and colorful lights. At night, the park becomes a dreamlike place.",
+      "id": "5e450542-0e0b-4995-a0d4-37a327b53bd8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "家族や友達と一緒に、このきれいな光を見に行きませんか。願い事を書いた短冊を笹に結ぶこともできます。夏の夜空の下で、素敵な思い出を作りましょう。",
+      "translationZh": "你想和家人或朋友一起去看这些美丽的光吗？你也可以把写有愿望的短册系在竹枝上。让我们在夏夜的星空下创造美好的回忆吧。",
+      "translationEn": "Would you like to go see these beautiful lights with your family or friends? You can also tie short strips of paper with your wishes to bamboo branches. Let's make wonderful memories under the summer night sky.",
+      "id": "d727155f-7592-4e11-8669-fb3631d78b9b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このライトアップは、7月上旬から始まります。詳しい情報は、市のウェブサイトで確認してください。この機会に、新しい名所を訪れてみてください。",
+      "translationZh": "这个灯光秀从七月初开始。请在市的网站上确认详细信息。请借此机会参观这个新景点。",
+      "translationEn": "This light-up starts from early July. Please check the city's website for detailed information. Please take this opportunity to visit the new spot.",
+      "id": "cc6e8edb-f392-4617-b60a-019c89cf264b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "七夕",
+      "reading": "たなばた",
+      "meaningZh": "七夕节",
+      "meaningEn": "Tanabata festival (the Star Festival)",
+      "level": "n5n4",
+      "exampleSentence": "七夕に願い事をします。",
+      "id": "148b9f89-9b5c-4530-bfb6-cbc20bf42df0"
+    },
+    {
+      "word": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "meaningZh": "灯光秀，亮灯",
+      "meaningEn": "light-up",
+      "level": "n5n4",
+      "exampleSentence": "公園のライトアップがきれいです。",
+      "id": "c9849279-2c33-4e83-ba33-09d16861881d"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaningZh": "名胜，景点",
+      "meaningEn": "famous place, sight",
+      "level": "n5n4",
+      "exampleSentence": "京都には古い名所がたくさんあります。",
+      "id": "743c216b-8146-4dcf-b37d-805c7dd4c29f"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "今日は特別な日です。",
+      "id": "33ceaf8a-1818-4ceb-a7f5-e97c001001f2"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaningZh": "中心",
+      "meaningEn": "center",
+      "level": "n5n4",
+      "exampleSentence": "この店は街の中心にあります。",
+      "id": "604e9bea-0efe-4b74-b591-4197a9e94e97"
+    },
+    {
+      "word": "飾る",
+      "reading": "かざる",
+      "meaningZh": "装饰",
+      "meaningEn": "to decorate",
+      "level": "n5n4",
+      "exampleSentence": "部屋を花で飾りました。",
+      "id": "7b7ad553-bb4b-4b69-847f-846d22877ec4"
+    },
+    {
+      "word": "夢",
+      "reading": "ゆめ",
+      "meaningZh": "梦",
+      "meaningEn": "dream",
+      "level": "n5n4",
+      "exampleSentence": "良い夢を見ました。",
+      "id": "1d0e11a3-566b-474f-bdd8-5c598ad5574f"
+    },
+    {
+      "word": "願い事",
+      "reading": "ねがいごと",
+      "meaningZh": "愿望",
+      "meaningEn": "wish",
+      "level": "n5n4",
+      "exampleSentence": "七夕に願い事をします。",
+      "id": "3c752c34-700a-4c40-aacd-d9c5d7ab0d33"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい七夕のライトアップは、どこで見られますか。",
+      "options": [
+        "駅の近く",
+        "街の中心にある公園",
+        "海辺",
+        "山の上"
+      ],
+      "correctIndex": 1,
+      "explanation": "この新しい名所は、街の中心にあります。大きな公園で、たくさんの木があります。",
+      "id": "0966ab75-0a3c-4578-9442-0c99c6632629"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-25-77598fd30c",
+  "publishedAt": "2026-06-25T06:00:00+09:00"
+}
