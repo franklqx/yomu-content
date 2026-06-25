@@ -1,0 +1,122 @@
+{
+  "title": "沖縄の島々へ行こう！",
+  "summary": "沖縄にはたくさんのきれいな島があります。離島ホップは、いくつかの島を巡る楽しい旅行です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には、たくさんの美しい島があります。これらの島は「離島（りとう）」と呼ばれています。離島ホップは、いくつかの離島を訪れる旅行スタイルです。飛行機や船を使って、島から島へ移動します。",
+      "translationZh": "冲绳有很多美丽的岛屿。这些岛屿被称为“离岛”。跳岛游是一种游览几个离岛的旅行方式。乘坐飞机或船，从一个岛屿移动到另一个岛屿。",
+      "translationEn": "Okinawa has many beautiful islands. These islands are called 'ritou' (remote islands). Island hopping is a travel style of visiting several remote islands. You move from island to island using airplanes or boats.",
+      "id": "14ef03d0-aec6-47f4-99ea-8bbfb2b048cf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、沖縄の離島ホップが人気です。特に若い人たちの間で話題になっています。きれいな海や白い砂浜は、とても魅力的です。シュノーケリングやダイビングを楽しむ人も多いです。",
+      "translationZh": "最近，冲绳的跳岛游很受欢迎。特别是在年轻人之间成为了热门话题。美丽的大海和白色的沙滩非常有魅力。很多人也在这里享受浮潜和潜水。",
+      "translationEn": "Recently, Okinawa's island hopping has become popular. It is especially a hot topic among young people. The beautiful sea and white sandy beaches are very attractive. Many people also enjoy snorkeling and diving.",
+      "id": "b58bdaba-4414-4f32-80e3-54a3f9681f09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップの魅力は、いろいろな島を体験できることです。それぞれの島に、違った自然や文化があります。例えば、石垣島（いしがきじま）から西表島（いりおもてじま）へ行くことができます。どちらの島も素晴らしいです。",
+      "translationZh": "跳岛游的魅力在于可以体验各种各样的岛屿。每个岛屿都有不同的自然和文化。例如，可以从石垣岛去西表岛。两个岛都很棒。",
+      "translationEn": "The charm of island hopping is that you can experience various islands. Each island has different nature and culture. For example, you can go from Ishigaki Island to Iriomote Island. Both islands are wonderful.",
+      "id": "3a6df9f1-49e0-4318-82b4-5de30c435a96",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "旅行の計画を立てることも楽しい時間です。どの島へ行くか、何をするか、友達と相談しながら決めましょう。沖縄の離島で、素敵な思い出を作りませんか。",
+      "translationZh": "制定旅行计划也是愉快的时光。和朋友商量决定要去哪个岛，做什么。要不要在冲绳的离岛创造美好的回忆呢？",
+      "translationEn": "Planning your trip is also a fun time. Let's decide which islands to visit and what to do while consulting with friends. Why not create wonderful memories on Okinawa's remote islands?",
+      "id": "4dc259f8-3bee-45a5-b58d-915dbd7c63d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "沖縄にはたくさんの離島があります。",
+      "id": "c796726c-6d34-418f-9a1f-2a24c060e1d8"
+    },
+    {
+      "word": "巡る",
+      "reading": "めぐる",
+      "meaningZh": "巡游，游览",
+      "meaningEn": "to go around, to visit",
+      "level": "n5n4",
+      "exampleSentence": "いくつかの島を巡る旅行です。",
+      "id": "90de6afc-c1c8-40af-9aaf-edcde45e6163"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaningZh": "移动",
+      "meaningEn": "movement, transfer",
+      "level": "n5n4",
+      "exampleSentence": "島から島へ移動します。",
+      "id": "61f956d7-f98e-47bc-bbc8-0d5590a5bbf3"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この旅行は人気があります。",
+      "id": "089b945a-d803-43e8-bdac-2384c71118d5"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic of conversation",
+      "level": "n5n4",
+      "exampleSentence": "若い人の間で話題です。",
+      "id": "3ea8354d-7d4a-4728-88ac-1daaf9f2057b"
+    },
+    {
+      "word": "魅力的",
+      "reading": "みりょくてき",
+      "meaningZh": "有魅力",
+      "meaningEn": "attractive",
+      "level": "n3",
+      "exampleSentence": "きれいな海は魅力的です。",
+      "id": "ee76cbb2-4f9d-414d-848d-17f835ff3984"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "いろいろな島を体験できます。",
+      "id": "58634cb2-74b3-404f-a047-b4cb646478bb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」とは、どのような旅行ですか？",
+      "options": [
+        "一つの島で長く過ごす旅行",
+        "いくつかの島を訪ねる旅行",
+        "沖縄本島だけを観光する旅行",
+        "ダイビングだけをする旅行"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「離島ホップは、いくつかの離島を訪れる旅行スタイルです。」と書かれています。",
+      "id": "083aa916-fd0e-4f5d-a9eb-1a4a119386e0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-26-46dffb8a6c",
+  "publishedAt": "2026-06-26T06:00:00+09:00"
+}

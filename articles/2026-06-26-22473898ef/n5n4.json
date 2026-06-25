@@ -1,0 +1,114 @@
+{
+  "title": "高校生プログラマー集まれ！",
+  "summary": "高校生向けのプログラミングイベント「ハッカソン」があります。新しいプログラムを作る楽しいイベントです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "これは高校生のためのイベントです。名前はハッカソンと言います。プログラムを作ることが好きな学生が集まります。みんなで力を合わせて、新しいプログラムを作ります。",
+      "translationZh": "这是一个面向高中生的活动。它叫做黑客马拉松。喜欢编程的学生会聚集在一起。大家齐心协力，创造新的程序。",
+      "translationEn": "This is an event for high school students. Its name is Hackathon. Students who like programming gather. Everyone works together to create a new program.",
+      "id": "aa45bc87-eea5-4299-a9f8-1560546547aa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、たくさんのアイデアが出ます。短い時間で、アイデアを形にします。チームで協力することが大切です。先生や先輩がサポートしますから、安心してください。",
+      "translationZh": "在黑客马拉松中，会产生很多想法。在短时间内，将想法变成现实。在团队中合作很重要。老师和前辈会提供支持，所以请放心。",
+      "translationEn": "In a hackathon, many ideas come out. In a short time, ideas are made into shape. Cooperating in a team is important. Teachers and seniors will support you, so please don't worry.",
+      "id": "bd2acebf-5c1b-4b47-b624-1715b9234440",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイベントは、プログラミングのスキルを上げる良い機会です。新しい友達を作ることもできます。また、自分の作ったプログラムを発表する場所もあります。ぜひ参加してください。",
+      "translationZh": "这个活动是提高编程技能的好机会。你也可以交到新朋友。此外，还有一个展示你所做程序的地方。请务必参加。",
+      "translationEn": "This event is a good opportunity to improve programming skills. You can also make new friends. Also, there is a place to present the programs you made. Please join us.",
+      "id": "6c075de4-2c12-47e8-a0cd-84b2072e68fd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生がたくさん参加しました。",
+      "id": "62ff81f2-6a97-43e9-9aff-49928bf0e42f"
+    },
+    {
+      "word": "集まります",
+      "reading": "あつまります",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "人々が広場に集まりました。",
+      "id": "fe592936-7392-4532-aa37-8e2cbe0a7064"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n5n4",
+      "exampleSentence": "チームで協力することが大切です。",
+      "id": "83f91646-358f-4fee-ad7d-fb5b10f47859"
+    },
+    {
+      "word": "アイデア",
+      "reading": "アイデア",
+      "meaningZh": "想法，点子",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアを思いつきました。",
+      "id": "4bf8c966-ac08-4d65-a7fb-bf08bb33f38f"
+    },
+    {
+      "word": "形",
+      "reading": "かたち",
+      "meaningZh": "形状，形态",
+      "meaningEn": "shape, form",
+      "level": "n5n4",
+      "exampleSentence": "アイデアを形にします。",
+      "id": "a0a25d13-d060-4c12-b1ae-06f1920ae042"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n3",
+      "exampleSentence": "これは良い機会です。",
+      "id": "d9a6fef1-1fbd-4772-9c76-b811b60515e7"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaningZh": "发表，发布",
+      "meaningEn": "presentation, announcement",
+      "level": "n5n4",
+      "exampleSentence": "自分の作品を発表します。",
+      "id": "b212ea24-7c28-4e40-83e8-893c7e87f763"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンは誰のためのイベントですか。",
+      "options": [
+        "大学生",
+        "社会人",
+        "高校生",
+        "小学生"
+      ],
+      "correctIndex": 2,
+      "explanation": "これは高校生のためのイベントです。名前はハッカソンと言います。",
+      "id": "7417a3b8-f4a0-490d-b25c-a51448e30226"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-26-22473898ef",
+  "publishedAt": "2026-06-26T06:00:00+09:00"
+}

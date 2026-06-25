@@ -1,0 +1,126 @@
+{
+  "title": "沖縄離島ツアー：新しい旅の形、離島ホップ！",
+  "summary": "最近、沖縄の離島を巡る「離島ホップ」という新しい旅行スタイルが人気です。複数の島を訪れることで、沖縄の多様な魅力を発見できます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には、本島以外にもたくさんの魅力的な島があります。しかし、限られた時間の中でいくつかの島を訪れるのは難しいと感じる人もいるでしょう。そこで注目されているのが、「離島ホップ」という新しい旅行スタイルです。これは、飛行機やフェリーを乗り継いで、まるでビールのホップのように次々と島を渡り歩く旅のことです。",
+      "translationZh": "冲绳除了本岛之外，还有许多迷人的离岛。但是，可能有些人会觉得在有限的时间里游览几个岛屿很困难。因此，“離島跳跃”这种新的旅行方式受到了关注。这是一种通过转乘飞机或渡轮，像啤酒花一样连续穿梭于各个岛屿的旅行方式。",
+      "translationEn": "Okinawa has many charming islands besides the main island. However, some people might feel it's difficult to visit several islands within a limited time. That's why a new travel style called 'Ritou Hop' is gaining attention. This refers to a journey where you hop from one island to another, like beer hops, by transferring between planes and ferries.",
+      "id": "01a8a3dd-a8d7-42c1-9094-1556b157fbc4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップの魅力は、短期間で多様な沖縄の自然や文化に触れられることです。例えば、初日は石垣島で美しい海を楽しみ、二日目は小浜島でゆったりとした時間を過ごし、三日目には西表島で亜熱帯のジャングルを探検するといったプランも可能です。それぞれの島に個性があるため、飽きずに旅を満喫できます。",
+      "translationZh": "離島跳跃的魅力在于，你可以在短时间内接触到冲绳多样的自然和文化。例如，第一天在石垣岛享受美丽的大海，第二天在小滨岛度过悠闲的时光，第三天在西表岛探险亚热带丛林，这样的行程也是可能的。因为每个岛屿都有其独特性，所以可以不感到厌烦地充分享受旅途。",
+      "translationEn": "The appeal of Ritou Hop is that you can experience Okinawa's diverse nature and culture in a short period. For instance, a plan where you enjoy the beautiful sea on Ishigaki Island on the first day, spend a relaxing time on Kohama Island on the second, and explore the subtropical jungle on Iriomote Island on the third is possible. Each island has its own character, so you can enjoy the trip without getting bored.",
+      "id": "fdb2c59e-7c2a-46a8-ad9e-2930af650219",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この旅行スタイルは、移動手段の計画が重要になります。航空券やフェリーチケットは早めに予約しておくと安心ですが、天候によって欠航することもあるので、ある程度の柔軟性も必要です。しかし、そういった予期せぬ出来事も、旅の面白い思い出になることがあります。離島ホップで、あなただけの特別な沖縄を見つけてみませんか。",
+      "translationZh": "这种旅行方式，交通手段的计划变得很重要。虽然提前预订机票和船票会比较安心，但有时也会因为天气原因而停航，所以也需要一定的灵活性。然而，那些意想不到的事件有时也会成为旅途中有趣的记忆。为什么不通过離島跳跃，发现属于你自己的特别的冲绳呢？",
+      "translationEn": "Planning transportation is crucial for this travel style. It's advisable to book flight and ferry tickets in advance, but since cancellations due to weather can occur, a certain degree of flexibility is also necessary. However, such unexpected events can also become interesting memories of the trip. Why not discover your own special Okinawa through Ritou Hop?",
+      "id": "a826c40b-041a-449a-aefa-7a54c5a58cc9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n3",
+      "exampleSentence": "沖縄には小さな離島がたくさんあります。",
+      "id": "5ed589e1-f3d8-40e3-801f-01f0d57ea670"
+    },
+    {
+      "word": "ホップ",
+      "reading": "ほっぷ",
+      "meaningZh": "啤酒花（引申为跳跃、连接）",
+      "meaningEn": "hop (in beer, extended to mean jumping or connecting)",
+      "level": "n3",
+      "exampleSentence": "このツアーは、島から島へとホップするように計画されています。",
+      "id": "4bc9b56e-4ab8-4f87-a31e-9b04f0d18a2e"
+    },
+    {
+      "word": "乗り継ぐ",
+      "reading": "のりつぐ",
+      "meaningZh": "转乘，接续",
+      "meaningEn": "to transfer (to another vehicle)",
+      "level": "n3",
+      "exampleSentence": "空港で飛行機を乗り継いで目的地へ向かいました。",
+      "id": "90dd30c0-5757-4625-b902-c7f405ebb3c8"
+    },
+    {
+      "word": "渡り歩く",
+      "reading": "わたりあるく",
+      "meaningZh": "走遍，巡游",
+      "meaningEn": "to travel around, to hop from place to place",
+      "level": "n3",
+      "exampleSentence": "バックパッカーはよく国々を渡り歩きます。",
+      "id": "5e19906d-eb50-4230-b954-4c5055802901"
+    },
+    {
+      "word": "亜熱帯",
+      "reading": "あねったい",
+      "meaningZh": "亚热带",
+      "meaningEn": "subtropical",
+      "level": "n3",
+      "exampleSentence": "沖縄は亜熱帯気候に属しています。",
+      "id": "1fdfbde1-a8ba-4903-9bbf-c1c58da3f899"
+    },
+    {
+      "word": "欠航",
+      "reading": "けっこう",
+      "meaningZh": "（航班、船班）停航",
+      "meaningEn": "cancellation (of a flight or ship service)",
+      "level": "n3",
+      "exampleSentence": "悪天候のため、飛行機は欠航になりました。",
+      "id": "eabecb38-1121-4c7e-a292-28bb0cca1f06"
+    },
+    {
+      "word": "柔軟性",
+      "reading": "じゅうなんせい",
+      "meaningZh": "灵活性",
+      "meaningEn": "flexibility",
+      "level": "n3",
+      "exampleSentence": "計画にはある程度の柔軟性が必要です。",
+      "id": "ff517bbb-8945-41cd-b369-b3da94673dbc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」とは、どのような旅行スタイルですか？",
+      "options": [
+        "一つの島をじっくり観光する旅行",
+        "飛行機やフェリーで複数の島を巡る旅行",
+        "沖縄本島だけを周遊する旅行",
+        "ダイビングを中心に楽しむ旅行"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「飛行機やフェリーを乗り継いで、まるでビールのホップのように次々と島を渡り歩く旅のことです」と説明されています。",
+      "id": "3902af25-6012-4cfc-bacd-408cb949b64b"
+    },
+    {
+      "question": "離島ホップの旅行において、特に重要になることは何ですか？",
+      "options": [
+        "現地の言葉をたくさん覚えること",
+        "高級なホテルを予約すること",
+        "移動手段の計画を立てること",
+        "たくさんの土産物を買うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「この旅行スタイルは、移動手段の計画が重要になります」と書かれています。",
+      "id": "47debc35-4ad0-4fb9-b4de-cc373a6b3436"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-26-46dffb8a6c",
+  "publishedAt": "2026-06-26T06:00:00+09:00"
+}
