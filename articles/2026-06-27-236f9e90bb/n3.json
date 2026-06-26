@@ -1,0 +1,135 @@
+{
+  "title": "ドローン配送：未来の買い物体験が始まる？",
+  "summary": "最近、ドローンを使った荷物配送の実証実験が各地で行われています。この技術が実用化されれば、私たちの生活はどのように変わるのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、あちこちでドローンが空を飛んでいるのを見かけるようになりました。ただの趣味で飛ばしている人もいますが、実は、荷物を運ぶための実験も進んでいるんです。例えば、山間部や離島など、交通が不便な場所で、食料品や薬などを届ける試みがされています。",
+      "translationZh": "最近，我们在各地都能看到无人机在空中飞翔。虽然有些人只是出于兴趣爱好而飞行，但实际上，用于运送货物的实验也在推进中。例如，在山区或离岛等交通不便的地区，正在进行运送食品或药品等尝试。",
+      "translationEn": "Recently, we've started seeing drones flying in the sky in many places. While some people fly them just for hobbies, experiments for delivering goods are actually progressing. For instance, trials are being conducted in inconveniently accessible areas like mountainous regions and remote islands to deliver groceries and medicine.",
+      "id": "6b6f7aeb-5bab-4fcc-987d-7794b21aafba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送のメリットは、何と言っても速さと便利さです。渋滞の心配もなく、人が行くのが難しい場所にも直接届けることができます。また、人手不足が問題になっている物流業界にとっても、新しい解決策となる可能性があります。ただし、天候に左右されたり、安全な飛行ルートを確保したりするなど、まだ課題も多いのが現状です。",
+      "translationZh": "无人机配送的优点，最不用说的就是速度和便利性。没有堵车的担忧，而且可以直接送到人们难以到达的地方。此外，对于人力短缺已成为问题的物流行业来说，它也有可能成为新的解决方案。然而，目前仍有许多课题，比如会受天气影响，以及如何确保安全的飞行路线等。",
+      "translationEn": "The biggest advantages of drone delivery are speed and convenience. There's no worry about traffic jams, and deliveries can be made directly to places difficult for people to reach. Furthermore, it could become a new solution for the logistics industry, which is facing labor shortages. However, the current situation still presents many challenges, such as being affected by weather and ensuring safe flight paths.",
+      "id": "e5de7645-4c82-40a2-ab9c-6c5c5bc93d88",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "技術が進歩するにつれて、将来的には、私たちの家までドローンが荷物を届けてくれるようになるかもしれません。そうなれば、重い荷物を運ぶ必要もなくなり、買い物の仕方が大きく変わるでしょう。もちろん、法律や安全基準などの整備も必要になりますが、未来の生活が少しずつ現実のものになってきていると感じます。",
+      "translationZh": "随着技术的进步，未来或许无人机就能将包裹送到我们家中。一旦实现，就不再需要搬运重物，购物方式也将发生巨大变化。当然，法律和安全标准的完善也变得必要，但我感觉未来的生活正一点点变成现实。",
+      "translationEn": "As technology advances, it's possible that in the future, drones will deliver packages right to our homes. If that happens, there will be no need to carry heavy items, and the way we shop will change dramatically. Of course, the establishment of laws and safety standards will also be necessary, but I feel that future life is gradually becoming a reality.",
+      "id": "cfdc9cfe-3bb8-4f5f-9103-701096b9c0d9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "验证实验，实证试验",
+      "meaningEn": "Demonstration experiment, pilot test",
+      "level": "n3",
+      "exampleSentence": "新しいシステムの効果を実証実験で確かめた。",
+      "id": "ce003f12-0d04-47d7-8c86-242976566e7b"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "Delivery",
+      "level": "n3",
+      "exampleSentence": "この地域では、荷物の配送が遅れることが多い。",
+      "id": "e7e44bf2-571c-4736-a6f2-9c297cf751e0"
+    },
+    {
+      "word": "山間部",
+      "reading": "さんかんぶ",
+      "meaningZh": "山区，山地",
+      "meaningEn": "Mountainous area",
+      "level": "n3",
+      "exampleSentence": "山間部では、携帯電話の電波が届きにくい。",
+      "id": "5deb1319-65ad-419f-a8bb-4e2cd1644fb5"
+    },
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "Remote island",
+      "level": "n3",
+      "exampleSentence": "離島へのフェリーは、天候によって欠航することがある。",
+      "id": "56acc6a0-192b-462a-a285-022a92f95c64"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "Labor shortage",
+      "level": "n3",
+      "exampleSentence": "多くの業界で人手不足が深刻な問題となっている。",
+      "id": "519d292f-c771-436c-8a54-4a6c84f66564"
+    },
+    {
+      "word": "物流",
+      "reading": "ぶつりゅう",
+      "meaningZh": "物流",
+      "meaningEn": "Logistics, physical distribution",
+      "level": "n3",
+      "exampleSentence": "物流コストの削減が急務である。",
+      "id": "57955f6f-cb64-44fd-b102-e2b6d9393f21"
+    },
+    {
+      "word": "渋滞",
+      "reading": "じゅうたい",
+      "meaningZh": "堵车，拥挤",
+      "meaningEn": "Traffic jam, congestion",
+      "level": "n3",
+      "exampleSentence": "朝のラッシュアワーは、いつもひどい渋滞になる。",
+      "id": "189134e6-494b-4894-868c-7256daf82ff4"
+    },
+    {
+      "word": "左右される",
+      "reading": "さゆうされる",
+      "meaningZh": "受影响，被左右",
+      "meaningEn": "To be influenced by, to be swayed by",
+      "level": "n3",
+      "exampleSentence": "彼は周りの意見に左右されやすい性格だ。",
+      "id": "9a83714b-e447-471f-a5b8-718053e029a5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実証実験は、主にどのような場所で行われていますか？",
+      "options": [
+        "交通が便利な大都市",
+        "交通が不便な山間部や離島",
+        "海上の船の上",
+        "地下鉄の駅構内"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章中には「山間部や離島など、交通が不便な場所で、食料品や薬などを届ける試みがされています。」と書かれています。",
+      "id": "7683539f-7536-4f57-9724-0aaa375069e4"
+    },
+    {
+      "question": "ドローン配送のメリットとして、本文で触れられていないものはどれですか？",
+      "options": [
+        "渋滞の心配がないこと",
+        "人手不足の解消に役立つこと",
+        "天候に左右されないこと",
+        "人が行くのが難しい場所にも届けられること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「天候に左右されたり、安全な飛行ルートを確保したりするなど、まだ課題も多いのが現状です。」と述べられており、天候に左右されないことはメリットとして挙げられていません。",
+      "id": "521cae02-8619-4adc-984b-302b63376384"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-27-236f9e90bb",
+  "publishedAt": "2026-06-27T06:00:00+09:00"
+}

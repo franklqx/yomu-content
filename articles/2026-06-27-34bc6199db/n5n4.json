@@ -1,0 +1,131 @@
+{
+  "title": "図書館の夜、開いてます",
+  "summary": "ある図書館で、夜にも開ける実験を始めました。多くの人が喜んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある公立図書館で新しい実験が始まりました。それは、夜にも図書館を開けることです。普段は午後5時に閉まりますが、この実験では夜8時まで開いています。",
+      "translationZh": "最近，某个公共图书馆开始了一项新实验。那就是晚上也开放图书馆。通常图书馆下午5点就关门了，但在这次实验中，会开到晚上8点。",
+      "translationEn": "Recently, a new experiment started at a public library. It is about opening the library at night. Usually, it closes at 5 PM, but in this experiment, it stays open until 8 PM.",
+      "id": "98f80e3f-ede6-4c5c-996d-0df36fe18207",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、仕事帰りの人や、昼間忙しい人に本を読んでもらうために考えられました。図書館が夜まで開いていると、もっとたくさんの人が利用できます。これはとても良い考えだと思います。",
+      "translationZh": "这项实验是为了让下班回家的人和白天很忙的人能够读书而设想的。如果图书馆开到晚上，会有更多的人能够利用。我认为这是个非常好的想法。",
+      "translationEn": "This experiment was thought up to allow people returning from work and those busy during the day to read books. If the library is open until night, more people can use it. I think this is a very good idea.",
+      "id": "7e3720ec-64a0-43a5-9d53-0a25543cd28d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験が始まってから、図書館は前よりずっと人が多くなりました。特に夕方から夜にかけて、多くの人が来ています。人々は静かな図書館でゆっくり本を選んでいます。",
+      "translationZh": "实验开始后，图书馆比以前人多了很多。特别是从傍晚到晚上这段时间，很多人都来了。人们在安静的图书馆里悠闲地选书。",
+      "translationEn": "After the experiment began, the library became much more crowded than before. Especially from evening to night, many people are coming. People are quietly choosing books in the peaceful library.",
+      "id": "0722dcad-532b-4a66-8c11-e737ed63f400",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館の人は、「多くの人が喜んでくれて嬉しいです。これからも続けられるように頑張りたいです。」と言っていました。夜に本が読めるのは、素晴らしいことですね。",
+      "translationZh": "图书馆的工作人员说：“很高兴很多人都感到高兴。我们希望能继续努力，让它能够持续下去。”晚上能读书，真是件了不起的事啊。",
+      "translationEn": "The library staff said, \"We are happy that many people are pleased. We want to do our best so that it can continue in the future.\" Being able to read books at night is wonderful, isn't it?",
+      "id": "db8d35a6-ecab-4d93-b8eb-b300c40d4f93",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaningZh": "图书馆",
+      "meaningEn": "library",
+      "level": "n5n4",
+      "exampleSentence": "図書館で本を借りました。",
+      "id": "a0268179-f76b-4a3a-bd82-8e4ff12b0720"
+    },
+    {
+      "word": "夜",
+      "reading": "よる",
+      "meaningZh": "夜晚",
+      "meaningEn": "night",
+      "level": "n5n4",
+      "exampleSentence": "夜は静かです。",
+      "id": "0abcf607-b920-4796-9417-ec45dc437212"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい実験を始めました。",
+      "id": "02ddc0f7-732b-4cf5-838c-879c1bb92e26"
+    },
+    {
+      "word": "閉まります",
+      "reading": "しまります",
+      "meaningZh": "关闭",
+      "meaningEn": "to close",
+      "level": "n5n4",
+      "exampleSentence": "お店が閉まります。",
+      "id": "8022e51f-7c4c-48bd-9f0e-344056f08905"
+    },
+    {
+      "word": "普段",
+      "reading": "ふだん",
+      "meaningZh": "平时",
+      "meaningEn": "usually, habitually",
+      "level": "n5n4",
+      "exampleSentence": "普段は電車で学校に行きます。",
+      "id": "7ffb5056-9fc8-4393-baa0-599c0b2ef75b"
+    },
+    {
+      "word": "仕事帰り",
+      "reading": "しとかえり",
+      "meaningZh": "下班回家",
+      "meaningEn": "returning from work",
+      "level": "n5n4",
+      "exampleSentence": "仕事帰りに買い物をする。",
+      "id": "9e8a7c8a-1592-4e24-b344-670826125ddc"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用",
+      "meaningEn": "use, utilize",
+      "level": "n5n4",
+      "exampleSentence": "図書館を利用する。",
+      "id": "98507722-e438-4d3d-b523-c416f60f9832"
+    },
+    {
+      "word": "喜んで",
+      "reading": "よろこんで",
+      "meaningZh": "高兴地，欣然",
+      "meaningEn": "gladly, happily",
+      "level": "n5n4",
+      "exampleSentence": "喜んでお手伝いします。",
+      "id": "9a89e49e-734a-408a-bfc6-2ca6faaccdf5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この図書館の実験は何時まで開いていますか。",
+      "options": [
+        "午後5時まで",
+        "夜8時まで",
+        "午前8時まで",
+        "午前5時まで"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「この実験では夜8時まで開いています」と書いてあります。",
+      "id": "8c09d6b0-4d2d-41ab-8ffa-7ac2fd0aa7d3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-27-34bc6199db",
+  "publishedAt": "2026-06-27T06:00:00+09:00"
+}

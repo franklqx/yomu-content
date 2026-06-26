@@ -1,0 +1,122 @@
+{
+  "title": "ドローンが荷物を運ぶ？",
+  "summary": "最近、ドローンで荷物を運ぶ実験が行われています。これは未来の新しい配達方法かもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ドローンを使った新しい配達の実験が始まりました。ドローンは空を飛ぶ小さな機械です。この実験では、ドローンが小さなお店からお客さんの家まで荷物を運びました。",
+      "translationZh": "最近，利用无人机的新型配送实验开始了。无人机是一种在空中飞行的微型机器。在这个实验中，无人机将小件包裹从一家小店送到了顾客的家中。",
+      "translationEn": "Recently, a new delivery experiment using drones has started. Drones are small machines that fly in the sky. In this experiment, drones carried small packages from a small shop to a customer's home.",
+      "id": "6de31195-2a98-4f9c-a6cd-0b3bfd9c6a44",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験はうまくいきました。ドローンは安全に荷物を運びました。風が強い日もありましたが、ドローンはちゃんと飛べました。お店の人も、お客さんも、この新しい配達に興味がありました。",
+      "translationZh": "实验很成功。无人机安全地运送了包裹。即使在刮风的日子里，无人机也能正常飞行。店主和顾客都对这种新的配送方式很感兴趣。",
+      "translationEn": "The experiment was successful. The drones carried the packages safely. Even on windy days, the drones could fly properly. Both the shop staff and the customers were interested in this new delivery method.",
+      "id": "224744aa-a95a-41e8-9f9a-568d65e22630",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この技術がもっと進めば、私たちの生活がもっと便利になるでしょう。例えば、遠い山や島にも、すぐに荷物が届くようになります。でも、まだ安全や法律の問題があります。",
+      "translationZh": "如果这项技术进一步发展，我们的生活将会更加便利。例如，即使是偏远的山区或岛屿，也能很快收到包裹。但是，目前还有安全和法律方面的问题。",
+      "translationEn": "If this technology advances further, our lives will become more convenient. For example, packages will be delivered quickly even to remote mountains or islands. However, there are still safety and legal issues.",
+      "id": "0296ba67-8213-4c6e-b482-094a5c21d8ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、このドローン配達がもっと広がるかもしれません。未来の配達は、ドローンが当たり前になるかもしれませんね。",
+      "translationZh": "今后，这种无人机配送可能会得到更广泛的应用。未来的配送，无人机或许会变得很普遍。",
+      "translationEn": "In the future, this drone delivery might spread more. In the future, drones may become commonplace for deliveries.",
+      "id": "03599e55-58b5-49f3-b295-401d6bfd154a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンが空を飛んでいます。",
+      "id": "8e689e7c-90a8-43ec-837e-06fea6dd5acd"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n3",
+      "exampleSentence": "新しい配送方法を試しました。",
+      "id": "5ff35abf-8dbf-4bc8-a7ed-ac0dd17ef77f"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "この実験は成功しました。",
+      "id": "5324f8b4-6c38-460f-b200-b53ec1363a8b"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaningZh": "机器",
+      "meaningEn": "machine",
+      "level": "n5n4",
+      "exampleSentence": "これはとても小さい機械です。",
+      "id": "31aac3ad-c125-4617-b796-51caf8879156"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety, security",
+      "level": "n5n4",
+      "exampleSentence": "安全に注意してください。",
+      "id": "9b712fdf-e622-43f9-afea-943f5356b605"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "dcd8b25c-3f31-43bf-b3bb-ea2e2356149c"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaningZh": "未来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "未来の生活はどうなりますか。",
+      "id": "bd9f232f-f9c7-4a7d-8f8b-ea139cbe6ad2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実験で、ドローンは何を運びましたか。",
+      "options": [
+        "食べ物",
+        "手紙",
+        "荷物",
+        "野菜"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「ドローンが小さなお店からお客さんの家まで荷物を運びました。」と書いてあります。",
+      "id": "253bdba4-6241-438e-a8d4-5cf295956c1a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-27-236f9e90bb",
+  "publishedAt": "2026-06-27T06:00:00+09:00"
+}
