@@ -1,0 +1,114 @@
+{
+  "title": "発酵食品って何？",
+  "summary": "最近、発酵食品が人気です。これは私たちの健康に良いからです。発酵食品について学びましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、発酵食品がとても人気があります。例えば、ヨーグルトや味噌、納豆などです。これらの食品は、私たちの体にとって良いものが多いです。だから、多くの人が食べるようになりました。",
+      "translationZh": "最近，发酵食品非常受欢迎。例如，酸奶、味噌和纳豆等。这些食品对我们的身体有很多好处。因此，很多人开始吃它们。",
+      "translationEn": "Recently, fermented foods have become very popular. For example, yogurt, miso, and natto. These foods are often good for our bodies. That's why many people have started eating them.",
+      "id": "978500a6-9ec9-4362-a054-b020098ce458",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、体に良い菌がたくさん入っています。この菌は、私たちの胃や腸の調子を良くしてくれます。そのため、病気になりにくくなったり、肌がきれいになったりすると言われています。",
+      "translationZh": "发酵食品中含有许多对身体有益的菌。这些菌能改善我们胃肠的健康状况。因此，据说它们可以帮助我们不易生病，皮肤也会变得更漂亮。",
+      "translationEn": "Fermented foods contain many beneficial bacteria for our bodies. These bacteria improve the condition of our stomachs and intestines. Therefore, it is said that they help us become less prone to illness and improve our skin.",
+      "id": "8fb3185c-60c7-4fdf-b5bd-d9adb11a5f62",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "健康のために、毎日少しずつ発酵食品を食べるのがおすすめです。朝食にヨーグルトを食べたり、昼食に味噌汁を飲んだりすると良いでしょう。色々な発酵食品を試してみて、自分に合うものを見つけましょう。",
+      "translationZh": "为了健康，建议每天吃一点发酵食品。早餐吃酸奶，午餐喝味噌汤是不错的选择。请尝试各种发酵食品，找到适合自己的。",
+      "translationEn": "For health, it is recommended to eat fermented foods little by little every day. It is good to eat yogurt for breakfast or drink miso soup for lunch. Try various fermented foods and find what suits you.",
+      "id": "010f5e0c-d437-40a3-94b4-4fda720b073f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n5n4",
+      "exampleSentence": "ヨーグルトは発酵食品の一つです。",
+      "id": "76502f2c-85b8-441a-b77f-ceaad3eb7583"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "6b9d992f-befa-4217-82a3-dc4637a98fc6"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために運動をします。",
+      "id": "e6c1e768-f6a8-4177-ae5a-6252d81b9501"
+    },
+    {
+      "word": "ヨーグルト",
+      "reading": "よーぐると",
+      "meaningZh": "酸奶",
+      "meaningEn": "yogurt",
+      "level": "n5n4",
+      "exampleSentence": "朝ごはんにはヨーグルトを食べます。",
+      "id": "7e945396-a0ba-4dc6-abf3-e961d154a743"
+    },
+    {
+      "word": "味噌",
+      "reading": "みそ",
+      "meaningZh": "味噌",
+      "meaningEn": "miso",
+      "level": "n5n4",
+      "exampleSentence": "味噌汁は日本の伝統的なスープです。",
+      "id": "790f2ce4-c59b-4c8d-b993-9052f3d8e365"
+    },
+    {
+      "word": "納豆",
+      "reading": "なっとう",
+      "meaningZh": "纳豆",
+      "meaningEn": "natto",
+      "level": "n5n4",
+      "exampleSentence": "納豆は朝ごはんによく食べられます。",
+      "id": "dd859a8c-8605-4114-9d86-6289f56d820c"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状况，状态",
+      "meaningEn": "condition",
+      "level": "n5n4",
+      "exampleSentence": "体調が悪いです。",
+      "id": "7f19b32e-e7df-45c5-8f09-75c68e12d5c6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ発酵食品は人気がありますか。",
+      "options": [
+        "安くておいしいからです。",
+        "体に良い菌がたくさん入っているからです。",
+        "作ることが簡単だからです。",
+        "新しい食べ物だからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「発酵食品には、体に良い菌がたくさん入っています。この菌は、私たちの胃や腸の調子を良くしてくれます。」と書いてあります。",
+      "id": "d5045deb-6b7e-40f6-96fc-473f5c5b7a1c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-28-95fc09b2b4",
+  "publishedAt": "2026-06-28T06:00:00+09:00"
+}

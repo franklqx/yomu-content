@@ -1,0 +1,135 @@
+{
+  "title": "秋の味覚シーズン到来！限定商品で楽しもう",
+  "summary": "秋は美味しいものがたくさん！お店ではこの時期だけの特別な商品が登場しているので、ぜひチェックしてみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋になると、栗やさつまいも、きのこなど、美味しい食べ物がたくさん出てきますね。この「食欲の秋」を楽しむために、多くの店でこの時期限定の商品が販売されています。例えば、コンビニでは栗を使ったスイーツが、スーパーでは秋の味覚を詰め合わせたお弁当が人気です。これら限定商品は、秋ならではの味覚を気軽に味わえるので、多くの人に喜ばれています。",
+      "translationZh": "一到秋天，栗子、红薯、蘑菇等美味的食物就多了起来。为了享受这个“食欲之秋”，许多商店都会销售这个时期限定的商品。例如，便利店里有栗子甜点，超市里则有汇集了秋季美味的便当很受欢迎。这些限定商品因为能让人轻松品尝到秋季特有的味道，所以受到了很多人的喜爱。",
+      "translationEn": "When autumn arrives, delicious foods like chestnuts, sweet potatoes, and mushrooms become abundant. To enjoy this 'appetite autumn,' many stores are selling limited-edition products for this season. For instance, convenience stores offer chestnut-based sweets, and supermarkets feature popular bento boxes filled with autumn flavors. These limited items are appreciated by many because they allow people to easily savor the unique tastes of fall.",
+      "id": "c5beedbb-093c-4e12-8a9a-53fbcfd299e2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "カフェやレストランでも、秋限定のメニューが登場します。温かい飲み物や、季節の野菜を使ったパスタ、デザートなど、その時期にしか味わえない特別な体験ができます。お店によっては、生産者がこだわって作った食材を使っているので、味はもちろん、その背景にあるストーリーも楽しめます。新しい味との出会いは、秋の生活をより豊かにしてくれるでしょう。",
+      "translationZh": "咖啡馆和餐厅也会推出秋季限定菜单。你可以体验到只有那个时期才能品尝到的特别之处，比如热饮、使用时令蔬菜制作的意面和甜点等。有些店会使用精心栽培的食材，所以不仅味道好，你还能享受到其背后的故事。与新味道的相遇，会让秋季的生活更加丰富多彩。",
+      "translationEn": "Cafes and restaurants also introduce autumn-limited menus. You can have special experiences only available during that season, such as warm drinks, pasta made with seasonal vegetables, and desserts. Some establishments use ingredients carefully cultivated by producers, so you can enjoy not only the taste but also the story behind them. Encounters with new flavors will surely enrich your autumn life.",
+      "id": "77f4fb76-bd41-4457-8359-e082d1c8d3e4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "限定商品と聞くと、少し値段が高いイメージがあるかもしれませんが、多くの場合、その品質や特別感を考えると、むしろお得だと感じることもあります。また、販売期間が短いので、迷っているとすぐに売り切れてしまうことも。ですので、気になる商品があれば、早めにチェックすることをおすすめします。秋の味覚を存分に楽しみましょう！",
+      "translationZh": "说到限定商品，可能会觉得价格有点高，但很多时候，考虑到其品质和独特性，反而会觉得很划算。而且，因为销售期很短，犹豫的话很快就会卖完。所以，如果有感兴趣的商品，建议尽早查看。让我们尽情享受秋天的美味吧！",
+      "translationEn": "When you hear 'limited edition,' you might imagine a slightly higher price, but often, considering their quality and special nature, you might find them quite worthwhile. Also, since the sales period is short, they can sell out quickly if you hesitate. Therefore, if there's a product you're interested in, we recommend checking it out early. Let's fully enjoy the flavors of autumn!",
+      "id": "9830ca5d-8c39-4a9b-9e46-80f38ba0f894",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "食欲",
+      "reading": "しょくよく",
+      "meaningZh": "食欲",
+      "meaningEn": "appetite",
+      "level": "n3",
+      "exampleSentence": "秋になると食欲が増します。",
+      "id": "4bae2c1a-9cbe-46ab-ae33-6a81271badb0"
+    },
+    {
+      "word": "彩る",
+      "reading": "いろどる",
+      "meaningZh": "增添色彩，点缀",
+      "meaningEn": "to color, to decorate",
+      "level": "n3",
+      "exampleSentence": "秋の風景が紅葉で彩られている。",
+      "id": "cfe56db5-ba31-4574-b670-8c0239ea47d9"
+    },
+    {
+      "word": "スイーツ",
+      "reading": "すいーつ",
+      "meaningZh": "甜点，点心",
+      "meaningEn": "sweets, desserts",
+      "level": "n5n4",
+      "exampleSentence": "食後にスイーツを食べたい。",
+      "id": "b3608542-7607-4c91-9032-907f4e03c3c8"
+    },
+    {
+      "word": "詰め合わせ",
+      "reading": "つめあわせ",
+      "meaningZh": "什锦，组合",
+      "meaningEn": "assortment, gift box",
+      "level": "n3",
+      "exampleSentence": "これは色々な和菓子が詰め合わせになっている。",
+      "id": "b3a1d790-d998-49f9-b031-5d0e39c6e9af"
+    },
+    {
+      "word": "こだわって",
+      "reading": "こだわって",
+      "meaningZh": "讲究，精心",
+      "meaningEn": "meticulous, particular",
+      "level": "n3",
+      "exampleSentence": "彼は食材選びにとてもこだわっている。",
+      "id": "6a61343b-a17e-4356-b1e8-00c090e87003"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaningZh": "背景",
+      "meaningEn": "background",
+      "level": "n3",
+      "exampleSentence": "この絵の背景は美しい。",
+      "id": "5654ba2c-60be-4ce4-969d-0fa91837a5f3"
+    },
+    {
+      "word": "豊かに",
+      "reading": "ゆたかに",
+      "meaningZh": "丰富地，富裕地",
+      "meaningEn": "richly, abundantly",
+      "level": "n3",
+      "exampleSentence": "音楽は私たちの生活を豊かにしてくれる。",
+      "id": "d7de3614-1073-45a1-847f-a19a9e91b0c6"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "售罄",
+      "meaningEn": "to sell out",
+      "level": "n3",
+      "exampleSentence": "人気の商品はすぐに売り切れてしまう。",
+      "id": "abb85400-ddf0-438a-9225-5d584cca22c1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "秋限定の商品が人気な理由は何ですか？",
+      "options": [
+        "値段が安いから",
+        "秋ならではの味覚を気軽に味わえるから",
+        "保存がきくから",
+        "見た目が地味だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「これら限定商品は、秋ならではの味覚を気軽に味わえるので、多くの人に喜ばれています。」と書かれています。",
+      "id": "c25ec7d3-4b76-4170-9a05-2be1181660aa"
+    },
+    {
+      "question": "カフェやレストランの秋限定メニューについて、本文で述べられていることはどれですか？",
+      "options": [
+        "値段がとても高い",
+        "一年中同じメニューである",
+        "季節の食材や特別な体験ができる",
+        "地元の食材は使われていない"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「カフェやレストランでも、秋限定のメニューが登場します。温かい飲み物や、季節の野菜を使ったパスタ、デザートなど、その時期にしか味わえない特別な体験ができます。」と書かれています。",
+      "id": "359ac890-b869-4199-8f92-3d65f6cefb44"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-28-26f6e5544d",
+  "publishedAt": "2026-06-28T06:00:00+09:00"
+}

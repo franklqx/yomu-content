@@ -1,0 +1,122 @@
+{
+  "title": "秋の味覚！限定スイーツ登場",
+  "summary": "秋になりました。美味しいものがたくさんあります。お店には秋の限定商品がたくさん出ました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋は美味しい季節です。栗、さつまいも、ぶどうなど、秋の味覚がたくさんあります。これらの味覚を使ったお菓子や飲み物も人気です。",
+      "translationZh": "秋天是美味的季节。有栗子、红薯、葡萄等很多秋季的美味。用这些美味做成的点心和饮料也很受欢迎。",
+      "translationEn": "Autumn is a delicious season. There are many autumn tastes such as chestnuts, sweet potatoes, and grapes. Sweets and drinks made with these tastes are also popular.",
+      "id": "445a9172-3ab2-4401-a3b3-483fb3a7f5ac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この季節、お店には「限定商品」がたくさん並びます。限定商品とは、今しか買えない特別な商品です。特にスイーツのお店では、秋の味覚を使ったケーキやパイがたくさん見られます。",
+      "translationZh": "这个季节，店里会摆出很多“限定商品”。限定商品是指现在才能买到的特别商品。尤其是在甜品店，可以看到很多使用秋季美味做成的蛋糕和派。",
+      "translationEn": "In this season, many \"limited products\" line the shelves in stores. Limited products are special items that can only be bought now. Especially in sweet shops, you can see many cakes and pies made with autumn tastes.",
+      "id": "c9ea1b69-3f85-4446-9143-3d9f9cd1fc8a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、栗を使ったモンブランや、さつまいものタルトはとても美味しいです。チョコレートのお店でも、秋限定の味が出ることがあります。コーヒーショップでも、かぼちゃのラテなどが人気です。",
+      "translationZh": "例如，用栗子做的蒙布朗蛋糕和红薯挞非常好吃。巧克力店里也可能推出秋季限定口味。在咖啡店里，南瓜拿铁等也很受欢迎。",
+      "translationEn": "For example, Mont Blanc cakes made with chestnuts and sweet potato tarts are very delicious. Chocolate shops may also offer autumn-limited flavors. Pumpkin lattes are also popular at coffee shops.",
+      "id": "3abfd459-e490-49c4-8183-f6bd04ddd5fd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "限定商品はすぐになくなることがあります。もし気になる商品があったら、早めに買いに行くのがおすすめです。秋の味覚を楽しみましょう。",
+      "translationZh": "限定商品有时会很快卖完。如果有什么您在意的商品，建议您尽早去购买。让我们一起享受秋天的美味吧。",
+      "translationEn": "Limited products can disappear quickly. If there is a product you are interested in, it is recommended to go and buy it early. Let's enjoy the autumn tastes.",
+      "id": "f1b890c8-82ab-43cd-be78-c16eb729a327",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は涼しい季節です。",
+      "id": "6deb4156-54c9-47f0-a53d-99e717cabf56"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味觉，美味",
+      "meaningEn": "taste, flavor",
+      "level": "n3",
+      "exampleSentence": "この料理は秋の味覚がします。",
+      "id": "9701756f-1130-462c-9190-890a2a325ea5"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limit, restriction",
+      "level": "n5n4",
+      "exampleSentence": "この商品は限定です。",
+      "id": "5f51654c-3be1-4c90-a75b-55d0f7b0244b"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningZh": "商品",
+      "meaningEn": "product, merchandise",
+      "level": "n5n4",
+      "exampleSentence": "新しい商品が出ました。",
+      "id": "15d8d381-3a49-4a9a-8041-650f52071c43"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別なケーキです。",
+      "id": "c5c86b25-ece0-4cf3-b76f-fd3a39854066"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "cd303251-f426-48f6-97d9-78570a4c0021"
+    },
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaningZh": "味道",
+      "meaningEn": "taste, flavor",
+      "level": "n5n4",
+      "exampleSentence": "このお菓子は甘い味です。",
+      "id": "2759e935-a8d9-41dc-9a9b-e81c06f265ac"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "秋の限定商品で、筆者は特におすすめしているものは何ですか？",
+      "options": [
+        "栗のモンブランとさつまいものタルト",
+        "かぼちゃのラテ",
+        "チョコレートケーキ",
+        "ぶどう"
+      ],
+      "correctIndex": 0,
+      "explanation": "例えば、栗を使ったモンブランや、さつまいものタルトはとても美味しいです。",
+      "id": "209c1da5-fdc5-4e24-aa55-6b3cf837f84a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-28-26f6e5544d",
+  "publishedAt": "2026-06-28T06:00:00+09:00"
+}

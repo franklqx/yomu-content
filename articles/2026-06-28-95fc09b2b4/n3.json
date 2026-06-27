@@ -1,0 +1,134 @@
+{
+  "title": "発酵食品ブーム！健康的な食生活を始めよう",
+  "summary": "最近、発酵食品が注目されています。健康意識の高まりとともに、その人気はますます大きくなっています。この記事では、発酵食品の魅力と、私たちの食生活への取り入れ方についてご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、健康への関心が高まる中で、発酵食品がブームになっています。味噌や醤油、納豆といった日本の伝統的な食品はもちろん、ヨーグルトやキムチなども人気です。これは、発酵食品に含まれる善玉菌が、私たちの腸内環境を整えるのに役立つと考えられているからです。",
+      "translationZh": "近年来，随着人们对健康关注度的提高，发酵食品迎来了热潮。不仅是味噌、酱油、纳豆等日本的传统食品，酸奶和泡菜等也备受欢迎。这是因为发酵食品中含有的益生菌被认为有助于调节我们的肠道环境。",
+      "translationEn": "In recent years, with rising health consciousness, fermented foods have become a boom. Not only traditional Japanese foods like miso, soy sauce, and natto, but also yogurt and kimchi are popular. This is because the good bacteria contained in fermented foods are thought to help regulate our gut environment.",
+      "id": "4e1831d4-cc55-49e6-a610-0958760aa531",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品を日常的に食べることで、免疫力アップや便秘解消などの効果が期待できると言われています。そのため、健康志向の人々を中心に、積極的に食生活に取り入れる動きが見られます。例えば、朝食にヨーグルトを食べたり、毎日の食事に味噌汁を加えたりするのは、手軽に始められる方法です。",
+      "translationZh": "据说，通过日常食用发酵食品，可以期待提高免疫力、缓解便秘等效果。因此，以注重健康的人们为中心，出现了积极将其纳入饮食生活中的动向。例如，早餐吃酸奶，或者在每日的饮食中加入味噌汤，都是可以轻松开始的方法。",
+      "translationEn": "It is said that by eating fermented foods daily, effects such as boosting immunity and relieving constipation can be expected. Therefore, mainly among health-conscious people, there is a movement to actively incorporate them into their diet. For example, eating yogurt for breakfast or adding miso soup to your daily meals are easy ways to start.",
+      "id": "8663212c-2fec-444d-8b3f-254ea4242c30",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、発酵食品には塩分が多く含まれるものもあるため、摂りすぎには注意が必要です。また、種類によって栄養価や効果も異なりますから、バランス良く様々な食品を試してみるのが良いでしょう。自分の体調や好みに合わせて、無理なく続けることが大切です。",
+      "translationZh": "然而，由于有些发酵食品含有较多盐分，因此需要注意不要摄入过多。另外，营养价值和效果也因种类而异，所以最好能均衡地尝试各种食品。重要的是根据自己的身体状况和喜好，不勉强地持续下去。",
+      "translationEn": "However, since some fermented foods contain a lot of salt, caution is needed not to consume too much. Also, the nutritional value and effects vary depending on the type, so it is best to try various foods in a balanced way. It is important to continue without overdoing it, according to your physical condition and preferences.",
+      "id": "11ae68e8-daa4-4bbc-b467-eed65c39b639",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品ブームは、単なる流行ではなく、健康的な生活を送りたいという人々の願いの表れと言えます。この機会に、あなたも発酵食品の素晴らしい世界を探求してみてはいかがでしょうか。",
+      "translationZh": "发酵食品的流行，与其说仅仅是一种潮流，不如说是人们希望过上健康生活愿望的体现。借此机会，你不妨也来探索一下发酵食品的奇妙世界呢？",
+      "translationEn": "The fermented food boom is not just a trend, but can be said to be an expression of people's desire to live a healthy life. On this occasion, why not explore the wonderful world of fermented foods yourself?",
+      "id": "749ab085-9b98-490f-b759-52c3b4612ffb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "納豆は代表的な日本の発酵食品です。",
+      "id": "df284ada-b26c-4258-a59c-420221c0cd2e"
+    },
+    {
+      "word": "ブーム",
+      "reading": "ぶーむ",
+      "meaningZh": "热潮；风靡一时的事物",
+      "meaningEn": "boom; craze",
+      "level": "n3",
+      "exampleSentence": "健康志向のブームは続いています。",
+      "id": "83074588-3b86-4720-bb40-e9826be2e7c3"
+    },
+    {
+      "word": "腸内環境",
+      "reading": "ちょうないかんきょう",
+      "meaningZh": "肠道环境",
+      "meaningEn": "gut environment; intestinal flora",
+      "level": "n3",
+      "exampleSentence": "腸内環境を整えることが健康に良いです。",
+      "id": "c4c5070b-01b4-4f0a-93eb-69cdd4ef5c0b"
+    },
+    {
+      "word": "善玉菌",
+      "reading": "ぜんだまきん",
+      "meaningZh": "益生菌；有益菌",
+      "meaningEn": "beneficial bacteria; good bacteria",
+      "level": "n3",
+      "exampleSentence": "善玉菌を増やすためにヨーグルトを食べています。",
+      "id": "ddfda8a3-97a5-4bee-9ae1-6799d7fc1dfb"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaningZh": "免疫力",
+      "meaningEn": "immunity; immune power",
+      "level": "n3",
+      "exampleSentence": "バランスの取れた食事は免疫力を高めます。",
+      "id": "4667c73e-b83d-44e8-97f5-9482aae2ea75"
+    },
+    {
+      "word": "便秘解消",
+      "reading": "べんぴかいしょう",
+      "meaningZh": "缓解便秘",
+      "meaningEn": "relief of constipation",
+      "level": "n3",
+      "exampleSentence": "食物繊維は便秘解消に役立ちます。",
+      "id": "d4e26fb2-9f1c-48cd-a2e0-fc8498991ac0"
+    },
+    {
+      "word": "健康志向",
+      "reading": "けんこうしこう",
+      "meaningZh": "注重健康；健康导向",
+      "meaningEn": "health-conscious; health-oriented",
+      "level": "n3",
+      "exampleSentence": "健康志向のライフスタイルが人気です。",
+      "id": "b5838451-b1d8-49fd-967a-adb8436c835a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品がブームになっている主な理由は何ですか？",
+      "options": [
+        "安くて手に入りやすいから",
+        "美味しいから",
+        "健康に良いと考えられているから",
+        "テレビでよく紹介されているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「健康意識の高まりとともに、その人気はますます大きくなっています」「善玉菌が、私たちの腸内環境を整えるのに役立つと考えられているからです」と書かれています。",
+      "id": "dbc568cc-a58a-4657-b9b1-ab39e4170057"
+    },
+    {
+      "question": "発酵食品を食べる際の注意点として、本文で述べられていることは何ですか？",
+      "options": [
+        "食べすぎると太りやすくなる",
+        "塩分が多いものもあるので摂りすぎに注意が必要",
+        "毎日同じものを食べ続けた方が効果的",
+        "値段が高いものが多い"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「発酵食品には塩分が多く含まれるものもあるため、摂りすぎには注意が必要です。」と述べられています。",
+      "id": "3f17d6ba-53a0-46a7-8ac7-00d51ccd14bf"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-28-95fc09b2b4",
+  "publishedAt": "2026-06-28T06:00:00+09:00"
+}
