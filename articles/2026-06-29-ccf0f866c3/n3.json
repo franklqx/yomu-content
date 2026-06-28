@@ -1,0 +1,126 @@
+{
+  "title": "夏の夜空を彩る！花火大会開催情報",
+  "summary": "夏の風物詩といえば、やはり花火大会ですよね。今年の夏も各地で素晴らしい花火が打ち上げられます。最新の開催情報をチェックしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏といえば、多くの人が思い浮かべるのが花火大会ではないでしょうか。色とりどりの花火が夜空に咲き、見る人の心を和ませてくれます。今年はコロナの影響も落ち着き、各地で規模を拡大して開催されるところも多いようです。",
+      "translationZh": "说到夏天，我想很多人会想到烟花大会吧。五彩缤纷的烟花在夜空中绽放，让人们的心情平静下来。今年，受疫情影响的情况有所缓和，很多地方似乎也在扩大规模举办活动。",
+      "translationEn": "Speaking of summer, isn't fireworks festival something many people imagine? Colorful fireworks bloom in the night sky, soothing people's hearts. This year, the impact of the corona has subsided, and it seems that many places are expanding their scale to hold events.",
+      "id": "0dd3edcd-ad2b-4aa2-b198-2fa777897710",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会に行く際には、いくつかの注意点があります。まず、会場周辺は大変混雑することが予想されるため、公共交通機関の利用が推奨されます。また、雨天の場合は中止または延期になることもありますので、事前に天気予報を確認しておくと安心です。",
+      "translationZh": "去参加烟花大会时，有几点需要注意。首先，由于预计会场周边会非常拥挤，因此推荐使用公共交通工具。另外，如果下雨，活动可能会中止或延期，所以提前确认天气预报会让人安心。",
+      "translationEn": "When attending a fireworks festival, there are a few points to note. First, since the venue area is expected to be very crowded, using public transportation is recommended. Also, in case of rain, the event may be canceled or postponed, so it is reassuring to check the weather forecast in advance.",
+      "id": "881d2a31-c4dc-4c1c-ab23-d5a96cec1200",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は、夏の思い出作りにぴったりのイベントです。家族や友人と一緒に、夜空を彩る美しい光の芸術を楽しんでみませんか。最新の情報は、各自治体のウェブサイトや観光協会のサイトなどで確認できますので、ぜひチェックしてみてください。",
+      "translationZh": "烟花大会是制作夏日回忆的绝佳活动。您不想和家人或朋友一起，欣赏点缀夜空的、美丽的光的艺术吗？最新信息可以在各自治体的网站或旅游协会的网站上查到，请务必查看一下。",
+      "translationEn": "Fireworks festivals are perfect events for making summer memories. Why not enjoy the beautiful art of light that colors the night sky with your family and friends? You can check the latest information on the websites of each municipality or tourism association, so please be sure to take a look.",
+      "id": "7da2cbac-839b-4012-b32a-3111aac00d35",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（季节的）风物诗，象征",
+      "meaningEn": "seasonal feature; something that evokes a particular season",
+      "level": "n3",
+      "exampleSentence": "夏祭りは夏の風物詩だ。",
+      "id": "aae34dc2-d373-4efb-a1cc-94d3105522b5"
+    },
+    {
+      "word": "彩る",
+      "reading": "いろどる",
+      "meaningZh": "染色，点缀",
+      "meaningEn": "to color; to decorate",
+      "level": "n3",
+      "exampleSentence": "夜空を花火が彩る。",
+      "id": "224f4ce4-d8a3-41bf-8fee-e19a04124aaf"
+    },
+    {
+      "word": "和ませる",
+      "reading": "なごませる",
+      "meaningZh": "使平静，使缓和",
+      "meaningEn": "to soothe; to pacify",
+      "level": "n3",
+      "exampleSentence": "美しい音楽は心を和ませる。",
+      "id": "9f87708d-1d5c-40d6-bc1d-892f214b8314"
+    },
+    {
+      "word": "落ち着く",
+      "reading": "おちつく",
+      "meaningZh": "平静下来，稳定下来",
+      "meaningEn": "to calm down; to settle down",
+      "level": "n3",
+      "exampleSentence": "彼は興奮していたが、やがて落ち着いた。",
+      "id": "fa3a8a39-04e1-47ad-81e6-63dcffc0b2ab"
+    },
+    {
+      "word": "規模",
+      "reading": "きぼ",
+      "meaningZh": "规模",
+      "meaningEn": "scale; scope",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトは非常に大きな規模で行われている。",
+      "id": "1a3bd5fc-a676-4b3d-8713-90b5d184ede4"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowding; congestion",
+      "level": "n3",
+      "exampleSentence": "駅はラッシュアワーで大変混雑していた。",
+      "id": "389264cf-87cc-43f2-aa0c-6634f1c2785d"
+    },
+    {
+      "word": "自治体",
+      "reading": "じちたい",
+      "meaningZh": "自治体",
+      "meaningEn": "municipality; local government",
+      "level": "n3",
+      "exampleSentence": "この問題について、自治体は住民と協力する必要がある。",
+      "id": "70c97f56-66b4-492d-bd5d-eea0dc2cbbcf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会に行く前に、天気予報を確認しておくと良い理由は何ですか？",
+      "options": [
+        "会場が暑いので涼むため",
+        "雨天の場合、中止や延期の可能性があるため",
+        "交通機関の混雑を避けるため",
+        "特別なチケットが必要になる場合があるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「雨天の場合は中止または延期になることもありますので、事前に天気予報を確認しておくと安心です。」と書かれています。",
+      "id": "c9b68980-bf5a-4a4a-a48b-d82d9f83a8ff"
+    },
+    {
+      "question": "筆者は、花火大会はどのようなイベントだと述べていますか？",
+      "options": [
+        "最新の技術を競うイベント",
+        "夏の思い出作りにぴったりのイベント",
+        "地域の文化を学ぶイベント",
+        "新しい友達を作るためのイベント"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「花火大会は、夏の思い出作りにぴったりのイベントです。」と書かれています。",
+      "id": "8d687422-c8a2-42cf-bd84-b28fd422422b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-29-ccf0f866c3",
+  "publishedAt": "2026-06-29T06:00:00+09:00"
+}

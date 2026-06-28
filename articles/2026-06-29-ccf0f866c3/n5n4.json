@@ -1,0 +1,122 @@
+{
+  "title": "夏祭りの花火大会",
+  "summary": "今年の夏、花火大会があります。みんなで楽しみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ夏です。夏は花火大会の季節です。今年も各地で花火大会があります。",
+      "translationZh": "夏天快到了。夏天是烟花大会的季节。今年各地也有烟花大会。",
+      "translationEn": "Summer is coming soon. Summer is the season for fireworks festivals. This year, there will be fireworks festivals in various places.",
+      "id": "586cc11c-81f6-450b-9488-efef482ecb99",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は夜に開かれます。きれいな花火がたくさん上がります。空が明るくなります。",
+      "translationZh": "烟花大会在晚上举行。会有很多漂亮的花火升空。天空会变亮。",
+      "translationEn": "Fireworks festivals are held at night. Many beautiful fireworks go up. The sky becomes bright.",
+      "id": "8bf7012e-de66-4ef1-8ca4-cf20e0f00003",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "家族や友達と一緒に行くと、もっと楽しいです。浴衣を着る人も多いです。夏らしいですね。",
+      "translationZh": "和家人或朋友一起去会更开心。穿浴衣的人也很多。很有夏天的感觉呢。",
+      "translationEn": "It's more fun to go with family or friends. Many people wear yukata. It feels very summery.",
+      "id": "2f7f871d-df75-4c3e-a0a3-6a769fcd6c3c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "近くの公園で花火大会があります。来週の土曜日です。皆さんもぜひ来てください。",
+      "translationZh": "附近的公园有烟花大会。是下周六。请大家务必前来。",
+      "translationEn": "There is a fireworks festival at a nearby park. It is next Saturday. Please come everyone.",
+      "id": "e6ddbc08-1423-471e-baf7-401fcbde3064",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夏祭り",
+      "reading": "なつまつり",
+      "meaningZh": "夏日祭典",
+      "meaningEn": "Summer festival",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りに行きました。",
+      "id": "667c9212-1fda-4918-ab8f-93715be85162"
+    },
+    {
+      "word": "花火大会",
+      "reading": "はなびたいかい",
+      "meaningZh": "烟花大会",
+      "meaningEn": "Fireworks festival",
+      "level": "n5n4",
+      "exampleSentence": "花火大会はとてもきれいです。",
+      "id": "0aed0da4-e7f2-4a54-bc40-523cfc683eb1"
+    },
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "Season",
+      "level": "n5n4",
+      "exampleSentence": "春はいい季節です。",
+      "id": "82645731-518a-4131-9eda-4648850b8850"
+    },
+    {
+      "word": "各地",
+      "reading": "かくち",
+      "meaningZh": "各地",
+      "meaningEn": "Various places",
+      "level": "n5n4",
+      "exampleSentence": "各地から人が集まります。",
+      "id": "032fb3b8-28b1-434e-a9e9-c68cf5498a7c"
+    },
+    {
+      "word": "開かれます",
+      "reading": "ひらかれます",
+      "meaningZh": "被举行，被召开",
+      "meaningEn": "Is held, is opened",
+      "level": "n5n4",
+      "exampleSentence": "会議は明日開かれます。",
+      "id": "c36cfa2b-b1e1-4d38-b21f-1e70d2591498"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "Yukata (summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りで浴衣を着ます。",
+      "id": "e7afac0c-e31f-4e25-8261-3d5f15f20bde"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaningZh": "下周",
+      "meaningEn": "Next week",
+      "level": "n5n4",
+      "exampleSentence": "来週、友達に会います。",
+      "id": "01b00c41-41bd-48c0-bbb2-884366ad1f2e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会はいつ開かれますか。",
+      "options": [
+        "今週の土曜日",
+        "来週の日曜日",
+        "来週の土曜日",
+        "今年の夏"
+      ],
+      "correctIndex": 2,
+      "explanation": "近くの公園で花火大会があります。来週の土曜日です。",
+      "id": "da6c37e3-c62d-4e9f-84d5-b1c776410b57"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-29-ccf0f866c3",
+  "publishedAt": "2026-06-29T06:00:00+09:00"
+}

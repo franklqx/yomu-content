@@ -1,0 +1,131 @@
+{
+  "title": "コミケの新しいトレンド",
+  "summary": "コミケにはたくさんのサークルがあります。今年のトレンドを見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コミケはたくさんの人が集まるイベントです。世界中からアニメやマンガが好きな人が来ます。会場には、たくさんのサークルがありました。サークルは、自分たちの作品を売ったり、見せたりするグループです。",
+      "translationZh": "Comiket 是一个聚集了很多人气的活动。来自世界各地喜欢动画和漫画的人们会来。会场里有很多社团。社团是贩卖或展示自己作品的团体。",
+      "translationEn": "Comiket is an event where many people gather. People who like anime and manga come from all over the world. There were many circles at the venue. Circles are groups that sell or show their own works.",
+      "id": "df7de971-51d5-4c62-88cf-07d216ecaab5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年のトレンドは、新しいアニメのキャラクターでした。特に人気があったのは、明るい色を使ったデザインです。多くのサークルが、この新しいキャラクターのグッズを売っていました。ファンの皆さんは、とても喜んでいました。",
+      "translationZh": "今年的趋势是新动画的角色。特别受欢迎的是使用了明亮色彩的设计。许多社团都在出售这些新角色的周边商品。粉丝们都非常高兴。",
+      "translationEn": "This year's trend was new anime characters. Especially popular were designs using bright colors. Many circles were selling goods of these new characters. The fans were all very happy.",
+      "id": "aa3eadbd-ac45-406e-9bd7-785dcca6072f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、昔のアニメのキャラクターも人気がありました。新しいキャラクターだけでなく、懐かしいキャラクターも注目されました。昔からのファンは、自分の好きなキャラクターを見つけて、嬉しそうでした。",
+      "translationZh": "此外，老动画的角色也很受欢迎。不仅是新角色，怀旧的角色也受到了关注。老粉丝们找到自己喜欢的角色，看起来很高兴。",
+      "translationEn": "Also, old anime characters were popular. Not only new characters but also nostalgic characters attracted attention. Long-time fans found their favorite characters and looked happy.",
+      "id": "1bc412ac-34f8-4d7c-9e95-e7d80cbc2c0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コミケは、いつも新しい発見があります。来年も、どんなトレンドがあるか楽しみです。皆さんも、ぜひ参加してみてください。",
+      "translationZh": "Comiket 总是有新的发现。明年也令人期待会有什么样的趋势。大家也请一定要来参加看看。",
+      "translationEn": "Comiket always has new discoveries. I'm looking forward to seeing what trends there will be next year. I hope you will all try participating too.",
+      "id": "b3f1b665-28d1-4592-8507-10512655d925",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人がイベントに集まりました。",
+      "id": "5682e9e2-206a-4ea1-a052-f46f6251c98c"
+    },
+    {
+      "word": "世界中",
+      "reading": "せかいじゅう",
+      "meaningZh": "全世界",
+      "meaningEn": "all over the world",
+      "level": "n5n4",
+      "exampleSentence": "世界中から観光客が来ます。",
+      "id": "ae0e7f46-07d3-4b8b-b007-b63d533537b1"
+    },
+    {
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaningZh": "会场",
+      "meaningEn": "venue, site",
+      "level": "n5n4",
+      "exampleSentence": "大きな会場でした。",
+      "id": "cf2d1838-7614-4091-9c9f-8c9488c2aa27"
+    },
+    {
+      "word": "グループ",
+      "reading": "ぐるーぷ",
+      "meaningZh": "小组",
+      "meaningEn": "group",
+      "level": "n5n4",
+      "exampleSentence": "友達とグループを作りました。",
+      "id": "4511cc36-7187-4b5e-848f-8b9397ce66ee"
+    },
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "趋势，潮流",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "この服は今のトレンドです。",
+      "id": "f62f64b8-b652-4543-ad57-0025e3718cb4"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "きゃらくたー",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n3",
+      "exampleSentence": "このアニメのキャラクターが好きです。",
+      "id": "c575be0e-6b3d-4e04-a5b1-7c3cdbc55ff1"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "a43e6271-ad66-4c88-84c3-d6297c21c946"
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningZh": "怀旧的，怀念的",
+      "meaningEn": "nostalgic",
+      "level": "n3",
+      "exampleSentence": "昔の歌を聞くと懐かしい気持ちになります。",
+      "id": "2eb9dec2-af3c-4bd8-a634-be29356d1831"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年のコミケで人気があったのは、どんなキャラクターですか？",
+      "options": [
+        "昔のアニメのキャラクターだけ",
+        "新しいアニメのキャラクターと昔のアニメのキャラクター",
+        "明るい色を使ったデザインのキャラクター",
+        "会場にいたすべてのキャラクター"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「今年のトレンドは、新しいアニメのキャラクターでした。また、昔のアニメのキャラクターも人気がありました。」と書いてあります。",
+      "id": "3a191965-10de-4ffe-9ae2-d6d341be0b58"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-29-ec987604cd",
+  "publishedAt": "2026-06-29T06:00:00+09:00"
+}

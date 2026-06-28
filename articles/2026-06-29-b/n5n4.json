@@ -1,0 +1,131 @@
+{
+  "title": "Bリーグの新スター選手",
+  "summary": "プロバスケットボールBリーグに新しいスター選手が現れました。彼はとても人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本のプロバスケットボールリーグ「Bリーグ」に、新しいスター選手がいます。その選手はとても若いです。しかし、たくさんのファンがいます。",
+      "translationZh": "在日本的职业篮球联赛“B.LEAGUE”中，出现了一位新的明星球员。这位球员非常年轻。但是，他拥有许多粉丝。",
+      "translationEn": "In Japan's professional basketball league 'B.LEAGUE', there is a new star player. This player is very young. However, he has many fans.",
+      "id": "4ee1373b-c56f-4948-aef2-0ad4b2ca306a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この選手は、とても速いです。そして、シュートが上手です。試合では、いつも一生懸命プレーしています。彼のプレーは、人々を感動させます。",
+      "translationZh": "这位球员速度非常快。而且，投篮很出色。在比赛中，他总是努力拼搏。他的表现感动了人们。",
+      "translationEn": "This player is very fast. And his shooting is excellent. In games, he always plays with all his might. His play moves people.",
+      "id": "99b806c4-9f1a-45d2-963c-5134e1f4cd2e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "彼の名前は、まだあまり知られていません。でも、これからもっと有名になるでしょう。Bリーグの未来は、この若いスター選手にかかっています。",
+      "translationZh": "他的名字，现在还不是非常出名。但是，今后一定会变得更加有名。B.LEAGUE的未来，就寄托在这位年轻的明星球员身上。",
+      "translationEn": "His name is not yet widely known. But he will probably become more famous from now on. The future of the B.LEAGUE depends on this young star player.",
+      "id": "a3910df9-15e5-488c-83d5-972f371d7262",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、Bリーグの試合を見てみませんか。この新しいスター選手の活躍を応援しましょう。",
+      "translationZh": "大家也要不要看看B.LEAGUE的比赛呢？让我们一起为这位新星选手的活跃加油吧。",
+      "translationEn": "Won't you all try watching a B.LEAGUE game? Let's cheer for the success of this new star player.",
+      "id": "dae4be8f-c9b7-44f3-a195-6d0d68c7a0f2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "プロ",
+      "reading": "ぷろ",
+      "meaningZh": "职业",
+      "meaningEn": "professional",
+      "level": "n5n4",
+      "exampleSentence": "彼はプロのサッカー選手です。",
+      "id": "9d9cf958-f08a-4fad-82a2-15be09d7e45e"
+    },
+    {
+      "word": "バスケットボール",
+      "reading": "ばすけっとぼーる",
+      "meaningZh": "篮球",
+      "meaningEn": "basketball",
+      "level": "n5n4",
+      "exampleSentence": "私の好きなスポーツはバスケットボールです。",
+      "id": "9d6c6127-2cfb-4829-a124-d6445d8cd70d"
+    },
+    {
+      "word": "リーグ",
+      "reading": "りーぐ",
+      "meaningZh": "联盟",
+      "meaningEn": "league",
+      "level": "n5n4",
+      "exampleSentence": "このリーグはとても強いです。",
+      "id": "b44e57c9-b8ae-4105-8e89-a5332ebe926f"
+    },
+    {
+      "word": "スター",
+      "reading": "すたー",
+      "meaningZh": "明星（选手）",
+      "meaningEn": "star",
+      "level": "n5n4",
+      "exampleSentence": "彼はチームのスターです。",
+      "id": "fcc7398b-2769-42f8-b4db-eb7c59c86ae9"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手，运动员",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "あの選手はとても速いです。",
+      "id": "41747bde-3f8e-40fd-9052-0523bb7668df"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手は日本で人気があります。",
+      "id": "024ee2ac-cb96-452e-8024-b3b6808071bb"
+    },
+    {
+      "word": "速い",
+      "reading": "はやい",
+      "meaningZh": "快的",
+      "meaningEn": "fast",
+      "level": "n5n4",
+      "exampleSentence": "電車はとても速いです。",
+      "id": "b8ec0612-38b3-4b82-8a68-a2ff86037421"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，拿手",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼は日本語が上手です。",
+      "id": "04f50aa4-a1ec-4e5d-a5ce-0dfcca759d39"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいスター選手は、どんなプレーをしますか。",
+      "options": [
+        "遅くて、シュートが下手です。",
+        "速くて、シュートが上手です。",
+        "あまり走らないで、パスばかりです。",
+        "いつもベンチにいます。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この選手は、とても速いです。そして、シュートが上手です。」",
+      "id": "7ff54f6e-ede7-4571-b9d6-aa0ca0cf38fc"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-29-b",
+  "publishedAt": "2026-06-29T06:00:00+09:00"
+}
