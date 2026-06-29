@@ -1,0 +1,135 @@
+{
+  "title": "ヴィーガン和食、広がる選択肢",
+  "summary": "最近、ヴィーガン向けの和食メニューが増えています。これまで難しかった和食を、もっと多くの人が楽しめるようになっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本のレストランでヴィーガン向けの和食メニューを見かけることが多くなりました。ヴィーガンとは、肉や魚だけでなく、卵や乳製品も食べない人のことです。そのため、伝統的な和食はヴィーガンに対応するのが難しいと考えられていました。しかし、工夫次第で、美味しいヴィーガン和食が作れることがわかってきたのです。",
+      "translationZh": "最近，在日本的餐厅里，看到适合素食者（Vegan）的和食菜单的机会变多了。所谓素食者，是指不仅不吃肉和鱼，也不吃鸡蛋和乳制品的人。因此，人们曾认为传统的和食很难做到适合素食者。但是，大家发现只要有创意，就能做出美味的素食和食。",
+      "translationEn": "Recently, it has become common to see Japanese cuisine menus catering to vegans in Japanese restaurants. Vegans are people who do not eat meat or fish, as well as eggs and dairy products. Therefore, traditional Japanese cuisine was considered difficult to adapt for vegans. However, it has been discovered that delicious vegan Japanese food can be made with a little ingenuity.",
+      "id": "f09961ec-f04b-419c-8c70-e1aab4749456",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司では、魚の代わりにアボカドや野菜を使ったものが人気です。また、出汁（だし）を取るときに、昆布や野菜から旨味を引き出す方法が研究されています。これにより、動物性食材を使わなくても、深い味わいの料理を作ることが可能になりました。お店によっては、ヴィーガン対応の調味料を用意しているところもあります。",
+      "translationZh": "例如，在寿司方面，使用牛油果或蔬菜代替鱼肉的寿司很受欢迎。此外，在制作高汤（Dashi）时，人们正在研究如何从海带和蔬菜中提取鲜味。这样一来，即使不使用动物性食材，也能做出味道浓郁的料理。有些店还准备了适合素食者的调味料。",
+      "translationEn": "For example, in sushi, varieties using avocado and vegetables instead of fish are popular. Also, methods for extracting umami from konbu and vegetables when making dashi (soup stock) are being researched. This makes it possible to create dishes with deep flavors without using animal-derived ingredients. Some restaurants even offer vegan-friendly condiments.",
+      "id": "20b99f2b-2ff3-42ec-bb03-642d4cdbebeb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン和食が広がることで、食の選択肢が増え、より多くの人が日本の食文化を楽しめるようになります。健康や環境への関心が高い人たちだけでなく、新しい食体験を求めている人たちにも、ヴィーガン和食は魅力的な選択肢となるでしょう。今後も、この動きはさらに大きくなっていくと考えられます。",
+      "translationZh": "随着素食和食的普及，饮食选择增加了，更多人能够享受日本的饮食文化。不仅是对健康和环境有较高关注的人，对于寻求全新饮食体验的人来说，素食和食也将成为有吸引力的选择。预计未来，这一趋势会进一步扩大。",
+      "translationEn": "As vegan Japanese cuisine spreads, dietary options increase, allowing more people to enjoy Japanese food culture. Vegan Japanese food will likely become an attractive choice not only for those highly interested in health and the environment but also for people seeking new culinary experiences. It is expected that this movement will continue to grow in the future.",
+      "id": "3563d6e6-2934-4520-9d76-4c2498d6614d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ヴィーガン",
+      "reading": "ゔぃーがん",
+      "meaningZh": "素食者（不食用肉、鱼、蛋、奶等所有动物性食品）",
+      "meaningEn": "Vegan (a person who does not eat or use animal products, including meat, fish, eggs, and dairy)",
+      "level": "n3",
+      "exampleSentence": "最近、ヴィーガンの人が増えているそうです。",
+      "id": "441e2bf2-19f2-4b9b-a849-3ee3a9208a30"
+    },
+    {
+      "word": "乳製品",
+      "reading": "にゅうせいひん",
+      "meaningZh": "奶制品",
+      "meaningEn": "Dairy products",
+      "level": "n3",
+      "exampleSentence": "牛乳やチーズは乳製品です。",
+      "id": "0661dced-68a7-446b-8686-e860d250a2fe"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "Traditional",
+      "level": "n3",
+      "exampleSentence": "これは私たちの伝統的な習慣です。",
+      "id": "b89139af-50f9-4845-bc23-f612f7820f3e"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaningZh": "对应，应对",
+      "meaningEn": "Correspondence, support, adaptation",
+      "level": "n3",
+      "exampleSentence": "お客様の要望に対応します。",
+      "id": "460adc13-3479-4339-b24d-e928feb26e50"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "创造性，技巧，想办法",
+      "meaningEn": "Ingenuity, device, effort",
+      "level": "n3",
+      "exampleSentence": "この問題を解決するために、色々な工夫をしました。",
+      "id": "ab1350b5-2022-4cad-ae67-25125b70f140"
+    },
+    {
+      "word": "出汁",
+      "reading": "だし",
+      "meaningZh": "高汤（日式汤料）",
+      "meaningEn": "Dashi (Japanese soup stock)",
+      "level": "n3",
+      "exampleSentence": "この料理は、昆布から取った出汁を使っています。",
+      "id": "dec59e0b-b149-4f15-87ff-ada825560c42"
+    },
+    {
+      "word": "旨味",
+      "reading": "うまみ",
+      "meaningZh": "鲜味",
+      "meaningEn": "Umami (savory taste)",
+      "level": "n3",
+      "exampleSentence": "このスープは、野菜の旨味がよく出ています。",
+      "id": "a2447018-813d-4364-adb0-b3203712caaa"
+    },
+    {
+      "word": "選択肢",
+      "reading": "せんたくし",
+      "meaningZh": "选择（项），选择范围",
+      "meaningEn": "Option, choice",
+      "level": "n3",
+      "exampleSentence": "いくつか選択肢がありますが、どれがいいですか。",
+      "id": "40c35fe2-0916-4435-942e-7fbacadcf566"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガンはどのようなものを食べないのですか？",
+      "options": [
+        "肉と魚だけ",
+        "卵と乳製品だけ",
+        "肉、魚、卵、乳製品など",
+        "野菜だけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「ヴィーガンとは、肉や魚だけでなく、卵や乳製品も食べない人のことです。」と書かれています。",
+      "id": "e40209e7-1b6b-4894-a203-cd1b6ca0b896"
+    },
+    {
+      "question": "ヴィーガン和食が広がることで、どのようなことが期待されていますか？",
+      "options": [
+        "和食がもっと高価になること",
+        "ヴィーガンでない人が和食を食べなくなること",
+        "食の選択肢が増え、より多くの人が和食を楽しめるようになること",
+        "伝統的な和食がなくなること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「ヴィーガン和食が広がることで、食の選択肢が増え、より多くの人が日本の食文化を楽しめるようになります。」と書かれています。",
+      "id": "472aa86a-2a47-46fc-b222-1b90932aeeea"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-06-30-0211ab5677",
+  "publishedAt": "2026-06-30T06:00:00+09:00"
+}

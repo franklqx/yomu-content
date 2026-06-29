@@ -1,0 +1,114 @@
+{
+  "title": "ヘルシー和食！ヴィーガンメニュー",
+  "summary": "最近、ヴィーガン向けの和食メニューが増えています。お肉やお魚を使わない、新しい和食の形です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本にはおいしい和食がたくさんあります。すし、てんぷら、ラーメンなど、人気があります。でも、お肉やお魚が苦手な人もいます。また、動物の食べ物を食べないヴィーガンの人もいます。",
+      "translationZh": "日本有很多美味的和食。寿司、天妇罗、拉面等都很受欢迎。但是，也有不喜欢吃肉或鱼的人。还有，不吃动物性食物的素食者（Vegan）也存在。",
+      "translationEn": "Japan has many delicious Japanese dishes. Sushi, tempura, and ramen are popular. However, some people don't like meat or fish. Also, there are people who are vegan and do not eat animal products.",
+      "id": "9b6e1034-8c15-43a2-a389-0d31f92510da",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、ヴィーガン向けの和食が増えています。例えば、お肉の代わりに野菜を使った「野菜すし」や「豆腐ハンバーグ」です。お魚の代わりに、こんにゃくや野菜を使います。味もおいしくて、見た目もきれいです。",
+      "translationZh": "最近，面向素食者的日式菜单在增加。例如，用蔬菜代替肉做的“蔬菜寿司”和“豆腐汉堡肉饼”。用魔芋或蔬菜代替鱼。味道也很美味，外观也很漂亮。",
+      "translationEn": "Recently, more Japanese menus for vegans are appearing. For example, there are 'vegetable sushi' and 'tofu hamburger steaks' using vegetables instead of meat. Konjac and vegetables are used instead of fish. They taste good and look beautiful.",
+      "id": "38afd7c8-09cf-4ccf-acbf-08db3d916067",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン和食は、ヘルシーで体にいいです。環境にもやさしいと言われています。たくさんの人がヴィーガン和食を試しています。これからも、もっと色々なメニューが出てくるでしょう。",
+      "translationZh": "素食日式料理对身体健康有益。据说也对环境友好。很多人正在尝试素食日式料理。今后，应该会推出更多各种各样的菜单。",
+      "translationEn": "Vegan Japanese food is healthy and good for the body. It is also said to be kind to the environment. Many people are trying vegan Japanese food. More and more diverse menus will likely appear in the future.",
+      "id": "991075b4-2f40-4ecd-9c56-6b0f898a449f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "広がり",
+      "reading": "ひろがり",
+      "meaningZh": "扩展；普及",
+      "meaningEn": "spread; expansion",
+      "level": "n5n4",
+      "exampleSentence": "ヴィーガンメニューの広がりは素晴らしいです。",
+      "id": "87bea265-cd5d-44bd-b08d-e513fec9ada9"
+    },
+    {
+      "word": "向け",
+      "reading": "むけ",
+      "meaningZh": "面向；针对",
+      "meaningEn": "for; aimed at",
+      "level": "n5n4",
+      "exampleSentence": "これは子供向けの絵本です。",
+      "id": "f3db15df-fcc6-45e8-9bfd-19b75fe1ac36"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaningZh": "不擅长；不善；讨厌",
+      "meaningEn": "weakness; dislike",
+      "level": "n5n4",
+      "exampleSentence": "私はピーマンが苦手です。",
+      "id": "ea03cfaf-c72a-4f36-bc22-e7e3acfea385"
+    },
+    {
+      "word": "野菜",
+      "reading": "やさい",
+      "meaningZh": "蔬菜",
+      "meaningEn": "vegetable",
+      "level": "n5n4",
+      "exampleSentence": "毎日、色々な野菜を食べましょう。",
+      "id": "cdca2dbc-025c-491a-8779-d46b54276059"
+    },
+    {
+      "word": "豆腐",
+      "reading": "とうふ",
+      "meaningZh": "豆腐",
+      "meaningEn": "tofu",
+      "level": "n5n4",
+      "exampleSentence": "豆腐はタンパク質がたくさん入っています。",
+      "id": "2b4e1811-5613-42a5-8239-cc4205788044"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n3",
+      "exampleSentence": "環境を守るために、ゴミを減らしましょう。",
+      "id": "33a83bdf-51e6-4f7d-a23b-6fbccaebf53b"
+    },
+    {
+      "word": "ヘルシー",
+      "reading": "へるしー",
+      "meaningZh": "健康的",
+      "meaningEn": "healthy",
+      "level": "n5n4",
+      "exampleSentence": "朝ごはんはヘルシーなものがいいです。",
+      "id": "c4441246-b684-4345-8be7-78a555c8ff77"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガン向けの和食メニューで、お肉やお魚の代わりに何を使いますか？",
+      "options": [
+        "こんにゃく",
+        "野菜や豆腐",
+        "きのこ",
+        "すべて"
+      ],
+      "correctIndex": 3,
+      "explanation": "文には「お肉の代わりに野菜を使った『野菜すし』や『豆腐ハンバーグ』です。お魚の代わりに、こんにゃくや野菜を使います。」と書いてあります。野菜、豆腐、こんにゃくはすべて使われています。",
+      "id": "9c3951cc-9f85-4bfc-8520-3764c2947d52"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-30-0211ab5677",
+  "publishedAt": "2026-06-30T06:00:00+09:00"
+}

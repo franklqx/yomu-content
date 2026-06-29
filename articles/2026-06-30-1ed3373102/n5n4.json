@@ -1,0 +1,122 @@
+{
+  "title": "スマートシティ実験、成功！",
+  "summary": "新しい技術を使った街の実験が終わりました。結果はとても良かったです。便利な生活が期待できます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "新しい街づくりが進んでいます。これは「スマートシティ」というものです。たくさんの新しい技術を使います。例えば、自動運転の車や、便利な情報を提供するシステムです。",
+      "translationZh": "新的城市建设正在推进。这就是所谓的“智慧城市”。它使用许多新技术。例如，自动驾驶汽车和提供便捷信息的系统。",
+      "translationEn": "New city development is progressing. This is called a \"smart city.\" It uses many new technologies. For example, self-driving cars and systems that provide useful information.",
+      "id": "ce383ce3-7551-4ecb-bdaf-7a65c612e352",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この街で、いくつかの実験が行われました。人々は新しい技術を試しました。例えば、スマホでバスを呼ぶ実験です。バスはすぐ来ました。とても便利でした。",
+      "translationZh": "在这个城市里，进行了一些实验。人们尝试了新技术。例如，用智能手机叫公交车的实验。公交车很快就来了。非常方便。",
+      "translationEn": "In this city, several experiments were conducted. People tried new technologies. For example, there was an experiment to call a bus with a smartphone. The bus came quickly. It was very convenient.",
+      "id": "8713bc49-5f7a-460c-8695-d0af185582e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、ゴミ箱の実験もありました。ゴミ箱がいっぱいになると、自動で知らせてくれます。これで、街がきれいになります。この実験は成功しました。",
+      "translationZh": "此外，还有一个关于垃圾箱的实验。当垃圾箱满了时，它会自动通知。这样，街道就会变得干净。这个实验成功了。",
+      "translationEn": "There was also an experiment with trash cans. When a trash can gets full, it automatically notifies someone. This will help keep the city clean. This experiment was successful.",
+      "id": "4c49f7f2-00c5-478a-8dfa-8ad818812250",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スマートシティの技術は、私たちの生活をより良くします。これからも、色々な実験が続くでしょう。未来の街が楽しみです。",
+      "translationZh": "智慧城市的技术将使我们的生活变得更好。今后，各种实验还将继续。我期待未来的城市。",
+      "translationEn": "Smart city technologies will make our lives better. Various experiments will continue in the future. I am looking forward to the future city.",
+      "id": "98bbae9c-33df-4161-a3a3-92af6a29160c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スマートシティ",
+      "reading": "すまーとしティ",
+      "meaningZh": "智慧城市",
+      "meaningEn": "smart city",
+      "level": "n5n4",
+      "exampleSentence": "スマートシティは未来の街です。",
+      "id": "fa42d562-ba38-4bfb-bd79-d59cdfef988f"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術がたくさん使われました。",
+      "id": "4ec48d78-9bc6-412b-82ce-17b890cad714"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "この実験は成功しました。",
+      "id": "e275169b-04ce-47ad-ab74-d4aae258f14c"
+    },
+    {
+      "word": "自動運転",
+      "reading": "じどううんてん",
+      "meaningZh": "自动驾驶",
+      "meaningEn": "autonomous driving",
+      "level": "n3",
+      "exampleSentence": "自動運転の車が走っています。",
+      "id": "57ffdfe6-fe92-467b-9c64-a1d9929bde3a"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "スマホはとても便利です。",
+      "id": "0b8a01bc-7dbf-414a-918e-50aa09cfabb3"
+    },
+    {
+      "word": "通知",
+      "reading": "つうち",
+      "meaningZh": "通知",
+      "meaningEn": "notification",
+      "level": "n5n4",
+      "exampleSentence": "ゴミ箱がいっぱいだと通知が来ます。",
+      "id": "d9fe33ba-1a04-4f40-b68f-9994bf9cf31c"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待",
+      "meaningEn": "expectation",
+      "level": "n3",
+      "exampleSentence": "未来の生活に期待しています。",
+      "id": "3c3c4875-ee1d-4361-8d86-8262bf849096"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ゴミ箱の実験では、何が自動で分かりましたか？",
+      "options": [
+        "ゴミ箱がいっぱいになったこと",
+        "ゴミ箱が壊れたこと",
+        "新しいゴミ箱が来たこと",
+        "バスが来たこと"
+      ],
+      "correctIndex": 0,
+      "explanation": "ゴミ箱がいっぱいになると、自動で知らせてくれます。",
+      "id": "70b4e9ab-3a54-4c9f-bb8d-d63d7c5b0755"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-30-1ed3373102",
+  "publishedAt": "2026-06-30T06:00:00+09:00"
+}

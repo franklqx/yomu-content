@@ -1,0 +1,131 @@
+{
+  "title": "瀬戸内海の新しい旅",
+  "summary": "瀬戸内海で新しいクルーズ旅行を楽しみましょう。美味しい食べ物と美しい景色があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海はとても美しい海です。たくさんの島があります。この海を船で旅するのは楽しいです。",
+      "translationZh": "濑户内海是非常美丽的海。有很多岛屿。乘船在这片海域旅行很有趣。",
+      "translationEn": "The Seto Inland Sea is a very beautiful sea. There are many islands. Traveling by boat in this sea is enjoyable.",
+      "id": "6a4d27c5-80ee-479d-9a03-e3a8e63529d7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、新しいクルーズ船がたくさん出ました。ただ景色を見るだけでなく、船の上で美味しいものが食べられます。",
+      "translationZh": "最近，有很多新的游轮出现了。不只是看风景，还可以在船上吃到美味的东西。",
+      "translationEn": "Recently, many new cruise ships have appeared. You can not only see the scenery but also eat delicious food on the ship.",
+      "id": "4f97c379-55c3-442b-8067-e7e1651f854d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、地元の魚を使った料理や、その土地ならではのお菓子があります。特別な時間を過ごせます。",
+      "translationZh": "例如，有用当地的鱼做的料理，以及那个地方特有的点心。可以度过特别的时光。",
+      "translationEn": "For example, there are dishes made with local fish and sweets unique to the area. You can spend a special time.",
+      "id": "79747cc8-5e87-49ec-8413-dacbf12d7e04",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜は、船からきれいな夜景も見えます。音楽を聞きながら、ロマンチックな夜を過ごせます。",
+      "translationZh": "晚上，从船上还能看到美丽的夜景。一边听着音乐，一边可以度过浪漫的夜晚。",
+      "translationEn": "At night, you can also see beautiful night views from the ship. You can spend a romantic night while listening to music.",
+      "id": "8fbd3d41-5b6c-46d8-95a7-b7b5eda6ffdc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": "瀬戸内海は穏やかです。",
+      "id": "b9d3bf81-093a-4acb-b496-68d002df8feb"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "この地域にはたくさんの島があります。",
+      "id": "209674ee-762d-4fd9-a8d5-2aa35a26767f"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "ship, boat",
+      "level": "n5n4",
+      "exampleSentence": "船に乗って旅行しました。",
+      "id": "91869fe5-abd6-4bea-b084-42109d480c74"
+    },
+    {
+      "word": "旅",
+      "reading": "たび",
+      "meaningZh": "旅行",
+      "meaningEn": "trip, journey",
+      "level": "n5n4",
+      "exampleSentence": "楽しい旅になりました。",
+      "id": "42a90061-f853-4b48-a801-83506b50d94d"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "海の景色がとてもきれいです。",
+      "id": "f62acd56-869e-433c-b3c7-b9fb94380ac1"
+    },
+    {
+      "word": "美味しい",
+      "reading": "おいしい",
+      "meaningZh": "美味的",
+      "meaningEn": "delicious",
+      "level": "n5n4",
+      "exampleSentence": "この料理はとても美味しいです。",
+      "id": "6a81dcc7-8d0a-43cb-a960-276ad5ca48fa"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "今日は特別な日です。",
+      "id": "af63168b-2353-4564-b51d-d336c5d83920"
+    },
+    {
+      "word": "夜景",
+      "reading": "やけい",
+      "meaningZh": "夜景",
+      "meaningEn": "night view",
+      "level": "n5n4",
+      "exampleSentence": "夜景がきれいなレストランに行きました。",
+      "id": "13f26d53-bb16-41b2-a9a1-66a7543bea61"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいクルーズ船で何ができますか？",
+      "options": [
+        "景色を見ることだけ",
+        "美味しいものを食べること",
+        "歌を歌うこと",
+        "本を読むこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「美味しいものが食べられます。」と書いてあります。",
+      "id": "bf6ff53d-e68c-4088-9330-163310cbfc18"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-06-30-16e5f7aacc",
+  "publishedAt": "2026-06-30T06:00:00+09:00"
+}
