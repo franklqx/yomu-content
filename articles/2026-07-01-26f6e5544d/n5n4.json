@@ -1,0 +1,131 @@
+{
+  "title": "秋の味覚！限定スイーツ登場",
+  "summary": "秋になりました。美味しいものがたくさんあります。お店には新しい限定商品が出ました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋は美味しい季節です。栗（くり）、さつまいも、かぼちゃなど、秋の味覚がたくさんあります。この季節になると、たくさんの食べ物屋さんが限定商品を出します。",
+      "translationZh": "秋天是美味的季节。有栗子、红薯、南瓜等，秋季的美味有很多。进入这个季节，很多食品店会推出限定商品。",
+      "translationEn": "Autumn is a delicious season. There are many autumn tastes like chestnuts, sweet potatoes, and pumpkins. When this season comes, many food shops release limited-time products.",
+      "id": "9f79d215-4378-4af4-a599-05ae53f950bd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、コンビニでは、栗を使ったモンブランケーキが人気です。パン屋さんでは、かぼちゃのパンや、さつまいもを使ったデニッシュが出ました。どれも秋らしくて、とてもおいしそうです。",
+      "translationZh": "例如，便利店里，使用栗子做的蒙布朗蛋糕很受欢迎。面包店里，有南瓜面包，以及使用了红薯的丹麦酥。看起来都很有秋天的特色，而且非常好吃。",
+      "translationEn": "For example, at convenience stores, Mont Blanc cake made with chestnuts is popular. At bakeries, pumpkin bread and Danish pastries made with sweet potatoes have appeared. They all look autumnal and very delicious.",
+      "id": "62083a2a-3bcd-4770-b3d8-1aa78dc344f0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "カフェでも、秋限定のドリンクがあります。キャラメル味のラテや、りんごを使ったホットドリンクなどです。温かい飲み物は、秋の涼しい日にぴったりです。",
+      "translationZh": "咖啡店里也有秋季限定的饮品。有焦糖口味的拿铁，以及使用苹果的热饮等。温暖的饮品，非常适合秋天凉爽的日子。",
+      "translationEn": "Cafes also have autumn-limited drinks. There are caramel-flavored lattes and hot drinks made with apples. Warm drinks are perfect for cool autumn days.",
+      "id": "22766d5f-c0a6-4228-8059-2f24e258f554",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの限定商品は、秋の間だけ楽しめます。気になったら、お店で探してみてください。新しい秋の味覚に出会えるかもしれませんよ。",
+      "translationZh": "这些限定商品，只能在秋天期间享用。如果感兴趣，请到店里寻找一下。也许能遇到新的秋季美味哦。",
+      "translationEn": "These limited-time products can only be enjoyed during autumn. If you are interested, please look for them at the shops. You might discover new autumn tastes.",
+      "id": "f36f8164-4a96-4a9d-93c0-c356a9e242ea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は食べ物が美味しい季節です。",
+      "id": "0d2d7d17-1e7b-49f0-aa37-d6a1781b6b9a"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "美味，味道",
+      "meaningEn": "taste, flavor",
+      "level": "n5n4",
+      "exampleSentence": "この料理は秋の味覚がします。",
+      "id": "53fb77ff-36b7-490e-a506-30a3ae9eb02c"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定，限制",
+      "meaningEn": "limit, restriction",
+      "level": "n5n4",
+      "exampleSentence": "これは限定のバッグです。",
+      "id": "52288ca6-f050-487b-a2ee-e65037fc5ffe"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningZh": "商品",
+      "meaningEn": "product, merchandise",
+      "level": "n5n4",
+      "exampleSentence": "新しい商品がたくさん出ました。",
+      "id": "0b438741-06e0-4f23-aa67-8808ead15974"
+    },
+    {
+      "word": "栗",
+      "reading": "くり",
+      "meaningZh": "栗子",
+      "meaningEn": "chestnut",
+      "level": "n5n4",
+      "exampleSentence": "秋には栗のお菓子が人気です。",
+      "id": "6d385291-3e4c-462f-9537-4e90488a0efe"
+    },
+    {
+      "word": "かぼちゃ",
+      "reading": "かぼちゃ",
+      "meaningZh": "南瓜",
+      "meaningEn": "pumpkin",
+      "level": "n5n4",
+      "exampleSentence": "かぼちゃのスープは美味しいです。",
+      "id": "2d5c2e53-84b7-4276-aa64-d3cdf055af67"
+    },
+    {
+      "word": "キャラメル",
+      "reading": "キャラメル",
+      "meaningZh": "焦糖",
+      "meaningEn": "caramel",
+      "level": "n5n4",
+      "exampleSentence": "キャラメルの味が好きです。",
+      "id": "79ca30f6-954c-4014-8d0c-43654e255e1a"
+    },
+    {
+      "word": "温かい",
+      "reading": "あたたかい",
+      "meaningZh": "温暖的",
+      "meaningEn": "warm",
+      "level": "n5n4",
+      "exampleSentence": "温かい飲み物を飲みたいです。",
+      "id": "af723205-4aa7-4756-8f11-eeaf2ecf5059"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニで人気があるのは、どんなケーキですか？",
+      "options": [
+        "りんごのケーキ",
+        "かぼちゃのケーキ",
+        "栗のケーキ",
+        "さつまいものケーキ"
+      ],
+      "correctIndex": 2,
+      "explanation": "例えば、コンビニでは、栗（くり）を使ったモンブランケーキが人気です。",
+      "id": "ff6e0c1a-bccb-490d-9939-fb81664f9420"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-01-26f6e5544d",
+  "publishedAt": "2026-07-01T06:00:00+09:00"
+}
