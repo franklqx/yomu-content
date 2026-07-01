@@ -1,0 +1,143 @@
+{
+  "title": "街でよく見かける？ロボット案内員が増えています",
+  "summary": "最近、都市部でロボット案内員を見かける機会が増えています。彼らは、旅行者や住民に情報を提供する新しいサービスとして注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、大都市の駅や商業施設などで、ロボットが案内係として活躍する姿をよく見かけるようになりました。これらのロボットは、音声や画面を通して、道案内をしたり、施設やイベントの情報を伝えたりします。利用者は、知りたい情報を簡単に入手できるので、とても便利だと感じているようです。",
+      "translationZh": "近年来，在大都市的车站和商业设施等地，经常能看到机器人作为向导活跃的身影。这些机器人通过语音和屏幕提供问路指引、介绍设施或活动信息。使用者因为能轻松获取想知道的信息，感觉非常方便。",
+      "translationEn": "In recent years, we have increasingly seen robots working as guides at stations and commercial facilities in large cities. These robots provide directions and information about facilities and events through voice and screens. Users seem to find it very convenient because they can easily obtain the information they want.",
+      "id": "ed89a4fe-e86b-4855-8b87-f4734cf1c477",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員が増えている理由の一つに、人手不足の問題があります。特に観光地では、多くの言語に対応できる案内人の確保が難しい場合があります。しかし、ロボットであれば、多言語対応が比較的容易であり、24時間稼働させることも可能です。そのため、サービス提供側にとっても大きなメリットがあるのです。",
+      "translationZh": "机器人向导增加的原因之一是人手不足的问题。尤其是在观光地，确保能对应多种语言的向导可能很困难。但是，如果是机器人，对应多语言相对容易，并且可以24小时运行。因此，对于服务提供方来说，也存在很大的优势。",
+      "translationEn": "One reason for the increase in robot guides is the issue of labor shortages. Especially in tourist areas, it can be difficult to secure guides who can handle many languages. However, with robots, multilingual support is relatively easy, and they can operate 24 hours a day. Therefore, there are significant benefits for service providers as well.",
+      "id": "fc5530b5-f4ff-44d2-b09f-87cd3c70f8d7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、ロボット案内員にも課題があります。例えば、複雑な質問にうまく答えられなかったり、予期せぬトラブルに対応できなかったりすることもあります。また、人間のような温かい対応を期待する利用者にとっては、少し物足りなさを感じるかもしれません。しかし、技術は日々進歩しており、今後さらに自然で親切な案内ができるようになることが期待されています。",
+      "translationZh": "当然，机器人向导也有其挑战。例如，有时无法很好地回答复杂的问题，或者无法应对突发状况。另外，对于期待像人类一样温暖回应的使用者来说，可能会觉得有些不足。但是，技术日新月异，未来有望能提供更自然、更亲切的导览。",
+      "translationEn": "Of course, robot guides also have challenges. For example, they may not be able to answer complex questions well or may not be able to handle unexpected situations. Also, users who expect warm, human-like interaction might find them somewhat lacking. However, technology is advancing daily, and it is expected that they will be able to provide even more natural and friendly guidance in the future.",
+      "id": "bbf66326-0613-4894-ba66-f91098d4d235",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、ロボット案内員は、都市部における情報提供のあり方を大きく変えつつあります。将来的には、私たちが街を歩くとき、より多くの場面でロボットの助けを借りることになるかもしれません。新しい技術が私たちの生活をどのように豊かにしていくのか、注目していく価値は十分にあるでしょう。",
+      "translationZh": "像这样，机器人向导正在深刻地改变着都市部提供信息的方式。将来，当我们走在街上时，或许会在更多场合借助机器人的帮助。这些新技术将如何丰富我们的生活，值得我们持续关注。",
+      "translationEn": "In this way, robot guides are significantly changing the way information is provided in urban areas. In the future, as we walk around the city, we may rely on robots for help in more situations. It is certainly worth paying attention to how new technologies will enrich our lives.",
+      "id": "e18bdfea-094b-435e-ac73-8b85ab61869f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "向导，接待员",
+      "meaningEn": "guide, attendant",
+      "level": "n3",
+      "exampleSentence": "駅の案内員に道を聞きました。",
+      "id": "ee214ced-46c8-46fc-b002-15cc1f0425e9"
+    },
+    {
+      "word": "商業施設",
+      "reading": "しょうぎょうしせつ",
+      "meaningZh": "商业设施（如商场、购物中心）",
+      "meaningEn": "commercial facility (e.g., shopping mall, commercial complex)",
+      "level": "n3",
+      "exampleSentence": "新しい商業施設がオープンしました。",
+      "id": "886454c2-c9fb-430f-99d7-ecb3c2ccdccf"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，积极表现",
+      "meaningEn": "activity, playing an active part",
+      "level": "n3",
+      "exampleSentence": "彼は会議で活躍しました。",
+      "id": "5790bf71-c33f-46a4-8cba-c97a7f7c3c9b"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "この工場は人手不足で困っています。",
+      "id": "99e5e887-678d-4184-8459-ff732c985e58"
+    },
+    {
+      "word": "確保",
+      "reading": "かくほ",
+      "meaningZh": "确保，保证",
+      "meaningEn": "securing, ensuring",
+      "level": "n3",
+      "exampleSentence": "安全を確保するために、新しいシステムを導入しました。",
+      "id": "8ddfcf61-cf49-4cde-9dbd-7f7fda79cd9e"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaningZh": "对应，处理，应对",
+      "meaningEn": "correspondence, coping with, dealing with",
+      "level": "n3",
+      "exampleSentence": "お客様からのクレームに丁寧に対応しました。",
+      "id": "3e515243-f0a2-4929-8c80-534985fea0a7"
+    },
+    {
+      "word": "予期せぬ",
+      "reading": "よきせぬ",
+      "meaningZh": "意想不到的，意外的",
+      "meaningEn": "unexpected",
+      "level": "n3",
+      "exampleSentence": "予期せぬ出来事が起こりました。",
+      "id": "e622d686-b6f8-4166-83bf-ac6d68b53881"
+    },
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaningZh": "进步，进展",
+      "meaningEn": "progress, advance",
+      "level": "n3",
+      "exampleSentence": "科学技術の進歩は目覚ましいです。",
+      "id": "31bba36c-ffb1-42b8-a0ed-acb6843a9f45"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が増えている理由として、本文では何が挙げられていますか？",
+      "options": [
+        "ロボットが人間より優れているから",
+        "人手不足の問題と、多言語対応が容易なため",
+        "利用者がロボットとの会話を楽しみにしているから",
+        "ロボットの導入費用が安いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ロボット案内員が増えている理由の一つに、人手不足の問題があります。」とあり、また「多言語対応が比較的容易であり、24時間稼働させることも可能です。」とも書かれています。",
+      "id": "10fba54f-1b28-4147-9ece-65d27c5f1ac8"
+    },
+    {
+      "question": "ロボット案内員の課題として、本文で触れられていないものはどれですか？",
+      "options": [
+        "複雑な質問に答えられないことがある",
+        "人間のような温かい対応ができないことがある",
+        "予期せぬトラブルに対応できないことがある",
+        "感情を持っていないため、人間味がない"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文では「複雑な質問にうまく答えられなかったり、予期せぬトラブルに対応できなかったりすることもあります。」「人間のような温かい対応を期待する利用者にとっては、少し物足りなさを感じるかもしれません。」と述べられていますが、「感情を持っていないため、人間味がない」という直接的な表現はありません。",
+      "id": "4f4feacf-aefc-4612-86e7-b02521413c96"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-02-b3f2035f3f",
+  "publishedAt": "2026-07-02T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ローカル線で満喫一日旅",
+  "summary": "ローカル線一日乗り放題切符は、安くて楽しい旅ができます。この切符を使って、田舎の景色を楽しみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本のローカル線は、とても魅力的です。車窓からの景色は、いつもきれいです。田んぼや山、小さな町が見えます。都会とは違う、静かな時間が流れます。",
+      "translationZh": "日本的地方铁路线非常有魅力。车窗外的风景总是很美。可以看到田野、山和许多小镇。这里流淌着与都市不同的宁静时光。",
+      "translationEn": "Japan's local train lines are very charming. The scenery from the train window is always beautiful. You can see rice fields, mountains, and small towns. A quiet time flows here, different from the city.",
+      "id": "5c6a9c34-e31e-4707-a2a2-ac869385da99",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「ローカル線一日乗り放題切符」という便利な切符があります。これは、一日中、指定されたローカル線が何度でも乗れる切符です。値段も安いですから、気軽に旅ができます。",
+      "translationZh": "有一种叫做“地方铁路线一日无限次乘车券”的方便车票。这种票可以在一天内，在指定的路线内不限次数地乘坐。价格也很便宜，所以可以轻松地去旅行。",
+      "translationEn": "There is a convenient ticket called 'Local Line One-Day Pass'. With this ticket, you can ride designated local lines as many times as you want all day. It's also inexpensive, so you can travel easily.",
+      "id": "58b0aa97-5c81-4363-9532-4099c0439f66",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符を使えば、色々な駅で降りて、散歩をすることもできます。おいしい地元の食べ物を探したり、古い町並みを見たりするのも楽しいでしょう。また、知らない町の人と話すことも、旅の思い出になります。",
+      "translationZh": "使用这张票，可以在很多车站下车，散散步。寻找美味的当地食物，看看古老的街景也会很有趣。而且，与不认识的町上的人交谈，也会成为旅途的回忆。",
+      "translationEn": "With this ticket, you can get off at various stations and take a walk. It would be fun to look for delicious local food or see old townscapes. Also, talking to people in towns you don't know can become a travel memory.",
+      "id": "5b63fe4a-d6a2-42f7-8ecf-e47ac1478f2c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "次の休みは、この切符で、ゆっくりとした旅をしてみませんか。きっと、新しい発見がたくさんあるはずです。家族や友達と一緒に行くのも良いですね。",
+      "translationZh": "下一个假期，不妨用这张票来一次悠闲的旅行怎么样？一定会有很多新的发现。和家人或朋友一起去也很好。",
+      "translationEn": "For your next holiday, why not try a slow-paced trip with this ticket? You are sure to have many new discoveries. Going with family or friends is also a good idea.",
+      "id": "6cf056f9-cb1a-4665-a0ef-51fadbcf4f1c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ローカル線",
+      "reading": "ろーかるせん",
+      "meaningZh": "地方铁路线",
+      "meaningEn": "local train line",
+      "level": "n5n4",
+      "exampleSentence": "このローカル線は景色がきれいだ。",
+      "id": "c5b5ac9e-ad6e-497e-b0df-ac84336f6606"
+    },
+    {
+      "word": "一日乗り放題切符",
+      "reading": "いちにちのりほうだい切符",
+      "meaningZh": "一日无限次乘车券",
+      "meaningEn": "one-day unlimited ride ticket",
+      "level": "n5n4",
+      "exampleSentence": "一日乗り放題切符を買った。",
+      "id": "52dd38f1-d37a-4644-b556-93cf5c1d9562"
+    },
+    {
+      "word": "車窓",
+      "reading": "しゃそう",
+      "meaningZh": "（火车的）车窗",
+      "meaningEn": "train window",
+      "level": "n5n4",
+      "exampleSentence": "車窓から富士山が見えた。",
+      "id": "ccc20519-279d-4611-8857-198fab74303c"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "この場所は景色がとても良い。",
+      "id": "9532c1ed-114a-4bde-a6b4-b8c21e2e9a3a"
+    },
+    {
+      "word": "魅力的",
+      "reading": "みりょくてき",
+      "meaningZh": "有魅力的",
+      "meaningEn": "attractive",
+      "level": "n3",
+      "exampleSentence": "この町はとても魅力的だ。",
+      "id": "30dc2e2e-6675-4c08-b9a3-ce72f6ed5931"
+    },
+    {
+      "word": "気軽に",
+      "reading": "きがるに",
+      "meaningZh": "轻易地，随意地",
+      "meaningEn": "freely, without hesitation",
+      "level": "n3",
+      "exampleSentence": "気軽に話してください。",
+      "id": "c111ed04-ebb1-4660-b2ac-9aab8c611c6a"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaningZh": "散步",
+      "meaningEn": "walk, stroll",
+      "level": "n5n4",
+      "exampleSentence": "公園を散歩する。",
+      "id": "3c030790-7fd6-428c-8c88-b4abe1c1914d"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "楽しい思い出がたくさんできた。",
+      "id": "e473ad2d-c60c-4ffe-b250-eda1f60dc441"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「ローカル線一日乗り放題切符」のいいところは、何ですか？",
+      "options": [
+        "速く目的地に着けること",
+        "安くて、一日中たくさん乗れること",
+        "車内でお弁当が食べられること",
+        "景色がまったく見えないこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「これは、一日中、指定されたローカル線が何度でも乗れる切符です。値段も安いですから、気軽に旅ができます。」と書いてあります。",
+      "id": "7ab7fb4f-33d7-45c1-80ad-9e0e3a3d41d2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-02-473f71c275",
+  "publishedAt": "2026-07-02T06:00:00+09:00"
+}

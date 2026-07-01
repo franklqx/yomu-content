@@ -1,0 +1,138 @@
+{
+  "title": "都市部で増加するロボット案内員：快適な生活を支える新技術",
+  "summary": "都市部を中心に、ロボットによる案内・誘導サービスの導入が進んでいます。これにより、地域住民や観光客の利便性向上、多言語対応の強化が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、東京や大阪といった大都市圏において、公共施設や商業施設、観光地などでロボットが案内員として活躍する光景が目につくようになってきた。これらのロボットは、音声認識や人工知能（AI）を駆使し、道案内や施設紹介、さらには周辺情報の提供まで、多岐にわたる業務をこなす。従来の人間による案内サービスに加え、最新技術を取り入れたロボット案内員は、情報提供の迅速化と均質化に貢献していると見られている。",
+      "translationZh": "近年来，在东京和大阪等大都市圈，在公共设施、商业设施和旅游景点等地，机器人作为向导活跃的景象变得显眼。这些机器人利用语音识别和人工智能（AI），能够处理包括问路、设施介绍乃至周边信息提供在内的广泛业务。除了传统的人工导览服务，被认为结合了最新技术的机器人导览员正在为信息提供的迅速化和均质化做出贡献。",
+      "translationEn": "In recent years, in major metropolitan areas like Tokyo and Osaka, the sight of robots actively working as guides in public facilities, commercial establishments, and tourist spots has become noticeable. These robots, utilizing speech recognition and artificial intelligence (AI), handle a wide range of tasks, including providing directions, introducing facilities, and even offering surrounding information. In addition to traditional human guidance services, robot guides incorporating the latest technology are seen as contributing to the speed and standardization of information dissemination.",
+      "id": "523e68f2-3da4-4c81-9490-dd212bfc7119",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員の導入は、特に多言語対応が求められる場面でその効果を発揮する。訪日外国人観光客の増加に伴い、言語の壁を越えたスムーズな情報提供が不可欠となっている。ロボットであれば、事前に学習させた複数の言語で対応が可能であり、時間帯を問わず一定のサービスを提供し続けることができる。これにより、観光立国としての日本の魅力向上にも繋がると期待されているのだ。",
+      "translationZh": "机器人导览员的引入，尤其是在需要多语言服务的场合发挥了其效果。随着访日外国游客的增加，跨越语言障碍的顺畅信息提供变得不可或缺。机器人可以以预先学习的多种语言进行应对，并且不受时间限制地持续提供一定水平的服务。这被期待能有助于提升作为旅游立国的日本的吸引力。",
+      "translationEn": "The introduction of robot guides proves particularly effective in situations requiring multilingual support. With the increase in inbound foreign tourists, seamless information provision that overcomes language barriers has become essential. Robots can handle inquiries in multiple languages that they have been trained on, and can continue to provide a consistent level of service regardless of the time of day. This is expected to contribute to enhancing Japan's appeal as a tourist destination.",
+      "id": "04c36412-6f47-4762-b603-a4147d980f74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、ロボット案内員の普及には、初期投資の大きさや、複雑な状況への対応能力、そして人間ならではの温かみや柔軟なコミュニケーションといった要素が課題として挙げられることもある。しかし、技術の進歩は目覚ましく、将来的にはより高度な対話能力や、利用者の感情を読み取る機能なども搭載されるようになるかもしれない。今後、ロボットと人間が協調し、より質の高いサービスを提供する未来が描かれている。",
+      "translationZh": "另一方面，机器人导览员的普及也面临着初期投资巨大、应对复杂情况的能力不足，以及缺乏人类特有的温暖和灵活沟通能力等课题。然而，技术的进步是显著的，未来或许会搭载更高级的对话能力以及读取利用者情感的功能。未来，人们描绘着机器人与人类协同工作，提供更高质量服务的图景。",
+      "translationEn": "On the other hand, challenges in the widespread adoption of robot guides include significant initial investment, limitations in handling complex situations, and the absence of human warmth and flexible communication. However, technological advancements are remarkable, and in the future, robots may be equipped with more advanced conversational abilities and functions to read user emotions. A future where robots and humans collaborate to provide higher quality services is being envisioned.",
+      "id": "4dcdb25a-695e-4a9c-8a05-75086dd7a1c0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "駆使",
+      "reading": "くし",
+      "meaningZh": "充分运用，熟练使用",
+      "meaningEn": "to make full use of, to wield skillfully",
+      "level": "n2n1",
+      "exampleSentence": "彼は最新の技術を駆使して、画期的な製品を開発した。",
+      "id": "d9799533-5501-463a-b7d2-64107b7803ea"
+    },
+    {
+      "word": "多岐にわたる",
+      "reading": "たきにわたる",
+      "meaningZh": "广泛的，多方面的",
+      "meaningEn": "wide-ranging, diverse",
+      "level": "n2n1",
+      "exampleSentence": "この問題は多岐にわたる議論を呼んでいる。",
+      "id": "bb44e585-b870-4bad-b0ac-6a5596e23357"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "彼の地域社会への貢献は高く評価されている。",
+      "id": "ce4a49d9-2ef8-42a6-ad72-183667c67055"
+    },
+    {
+      "word": "迅速化",
+      "reading": "じんそくか",
+      "meaningZh": "迅速化，加快",
+      "meaningEn": "acceleration, making faster",
+      "level": "n2n1",
+      "exampleSentence": "業務の迅速化を図るため、新しいシステムが導入された。",
+      "id": "414ee9ed-82fc-4c32-a040-2d268e8ab705"
+    },
+    {
+      "word": "均質化",
+      "reading": "きんしつか",
+      "meaningZh": "均质化，标准化",
+      "meaningEn": "homogenization, standardization",
+      "level": "n2n1",
+      "exampleSentence": "サービスの均質化は、顧客満足度向上に繋がる。",
+      "id": "f4ceb755-7247-44f0-abdc-1edb1039f64d"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "导入，引进",
+      "meaningEn": "introduction, adoption",
+      "level": "n3",
+      "exampleSentence": "新しい技術の導入には、慎重な検討が必要だ。",
+      "id": "208d327c-6328-40df-9725-f7ba156ec26c"
+    },
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "显著的，惊人的",
+      "meaningEn": "remarkable, striking",
+      "level": "n3",
+      "exampleSentence": "彼女は学業において目覚ましい成果を上げた。",
+      "id": "4177bea3-94f8-4347-8313-52afe8ad76b8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が都市部で増加している主な理由は何ですか？",
+      "options": [
+        "人間よりもコストが安いから",
+        "最新技術の導入による利便性向上と多言語対応のため",
+        "人間が案内業務を嫌がるようになったため",
+        "AIが人間の仕事を奪うことに国民が賛成しているため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「情報提供の迅速化と均質化に貢献していると見られている。」、第二段に「言語の壁を越えたスムーズな情報提供が不可欠となっている。ロボットであれば、事前に学習させた複数の言語で対応が可能であり」とあり、利便性向上や多言語対応が理由であることが示唆されている。",
+      "id": "46b80fcf-96b3-4f22-89bb-fdd47a6941d2"
+    },
+    {
+      "question": "ロボット案内員が多言語対応で有利とされるのはなぜですか？",
+      "options": [
+        "人間よりも多くの言語を話せるから",
+        "観光客がロボットとの会話を好むから",
+        "時間帯を問わず、学習済みの複数言語で対応できるから",
+        "発音が正確で聞き取りやすいから"
+      ],
+      "correctIndex": 2,
+      "explanation": "第二段落に「ロボットであれば、事前に学習させた複数の言語で対応が可能であり、時間帯を問わず一定のサービスを提供し続けることができる。」と記されている。",
+      "id": "ec6f6aaa-9496-4915-ab27-692aec9df8ce"
+    },
+    {
+      "question": "ロボット案内員の普及における課題として、本文ではどのような点が挙げられていますか？",
+      "options": [
+        "ロボットがすぐに故障してしまうこと",
+        "初期投資の大きさや、人間のような柔軟な対応が難しいこと",
+        "利用者がロボットを怖がること",
+        "AIが進化しすぎて人間を支配する可能性があること"
+      ],
+      "correctIndex": 1,
+      "explanation": "第三段落に「一方で、ロボット案内員の普及には、初期投資の大きさや、複雑な状況への対応能力、そして人間ならではの温かみや柔軟なコミュニケーションといった要素が課題として挙げられることもある。」と述べられている。",
+      "id": "a39d5519-d555-4307-80e3-ca98feb67e40"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-02-b3f2035f3f",
+  "publishedAt": "2026-07-02T06:00:00+09:00"
+}

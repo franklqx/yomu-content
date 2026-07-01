@@ -1,0 +1,114 @@
+{
+  "title": "街にロボットが増えた",
+  "summary": "最近、街でロボットを見る機会が増えました。特に駅やデパートで、ロボットが案内をしています。これはとても便利です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の大きな街でロボットを見るようになりました。駅や空港、デパートなどで、ロボットが人々に話しかけています。ロボットは、場所を教えたり、地図を見せたりします。これは、困っている人を助けるためです。",
+      "translationZh": "最近，在日本的大城市里，人们开始能看到机器人了。在车站、机场、百货公司等地，机器人会和人们搭话。机器人会告诉人们地点，或者展示地图。这是为了帮助有困难的人。",
+      "translationEn": "Recently, in big cities in Japan, we have started to see robots. At stations, airports, and department stores, robots talk to people. Robots tell people where to go or show them maps. This is to help people who are in trouble.",
+      "id": "90ca6ca7-e1ba-42bd-b85b-773d272781d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのロボットは「案内員（あんないいん）」と呼ばれています。案内員ロボットは、日本語だけでなく、英語や中国語など、いろいろな言葉で話すことができます。だから、外国から来た人も安心です。道が分からない時、ロボットに聞くと、すぐに教えてくれます。",
+      "translationZh": "这些机器人被称为“向导员”。向导员机器人不仅会说日语，还会说英语、中文等各种语言。所以，从外国来的人也感到安心。不知道路的时候，问机器人，它会马上告诉我们。",
+      "translationEn": "These robots are called 'guides'. Guide robots can speak not only Japanese but also various languages such as English and Chinese. Therefore, people from foreign countries can also feel at ease. When you don't know the way, if you ask a robot, it will tell you immediately.",
+      "id": "8189f309-17ee-4c24-a882-fdb83065c1bd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "案内員ロボットは、いつも笑顔で、丁寧に説明します。疲れたり、間違えたりすることもありません。これからも、案内員ロボットはもっと増えるでしょう。街がもっと便利で、住みやすくなるかもしれません。",
+      "translationZh": "向导员机器人总是带着笑容，细致地说明。它们也不会疲劳，也不会出错。今后，向导员机器人应该会更多。街道可能会变得更加方便，更加容易居住。",
+      "translationEn": "Guide robots always smile and explain carefully. They also do not get tired or make mistakes. In the future, the number of guide robots will likely increase further. Cities may become more convenient and easier to live in.",
+      "id": "ce01f142-a75d-4f4b-85d4-02bb1ecd8467",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "街",
+      "reading": "まち",
+      "meaningZh": "街道；街市；城市",
+      "meaningEn": "town, street, city",
+      "level": "n5n4",
+      "exampleSentence": "この街はとてもきれいです。",
+      "id": "e28ed844-375d-4cce-bc64-59e9ba682f05"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加；增多",
+      "meaningEn": "to increase, to multiply",
+      "level": "n5n4",
+      "exampleSentence": "学生が減って、会社員が増えました。",
+      "id": "d5ba1044-1090-42a3-a074-1f0a7c33d3ce"
+    },
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "向导；领队；接待员",
+      "meaningEn": "guide, receptionist",
+      "level": "n5n4",
+      "exampleSentence": "空港で案内員が助けてくれました。",
+      "id": "5901678b-37f0-4106-87ca-2158016c060b"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "chance, opportunity",
+      "level": "n5n4",
+      "exampleSentence": "日本語を話す機会をください。",
+      "id": "8a5dac70-444f-4a78-9fda-6d802d0243ac"
+    },
+    {
+      "word": "話しかける",
+      "reading": "はなしかける",
+      "meaningZh": "搭话；对（某人）说话",
+      "meaningEn": "to speak to, to address",
+      "level": "n5n4",
+      "exampleSentence": "知らない人に話しかけないでください。",
+      "id": "f8fb21bf-f28b-4311-bc1a-cf319286e842"
+    },
+    {
+      "word": "困る",
+      "reading": "こまる",
+      "meaningZh": "为难；困扰；麻烦",
+      "meaningEn": "to be troubled, to be in a fix",
+      "level": "n5n4",
+      "exampleSentence": "道が分からなくて困っています。",
+      "id": "4657b0fd-a291-4e49-8c88-87d5aefe0ff8"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心；放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "お母さんは子供が無事だと聞いて安心しました。",
+      "id": "3a74a884-f1c4-4cea-b91a-955070c0535e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "街でロボットは何をしていますか。",
+      "options": [
+        "写真を撮っています。",
+        "歌を歌っています。",
+        "案内をしています。",
+        "買い物をしています。"
+      ],
+      "correctIndex": 2,
+      "explanation": "案内員ロボットは、人々に話しかけて、場所を教えたり、地図を見せたりします。",
+      "id": "247a2f50-0eec-4c78-a9b1-34a1e6faff22"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-02-b3f2035f3f",
+  "publishedAt": "2026-07-02T06:00:00+09:00"
+}
