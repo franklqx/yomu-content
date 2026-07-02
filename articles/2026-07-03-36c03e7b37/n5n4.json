@@ -1,0 +1,122 @@
+{
+  "title": "クリスマスマーケットが人気",
+  "summary": "冬の楽しみ、クリスマスマーケット。最近、日本でもたくさん開かれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬になると、きれいなイルミネーションが街を飾ります。そして、クリスマスの準備が始まります。ヨーロッパでは、昔から「クリスマスマーケット」という特別な市場があります。",
+      "translationZh": "到了冬天，漂亮的彩灯装饰着街道。然后，圣诞节的准备就开始了。在欧洲，自古以来就有一种叫做“圣诞市集”的特别市场。",
+      "translationEn": "When winter comes, beautiful illuminations decorate the town. Then, Christmas preparations begin. In Europe, there has long been a special market called a 'Christmas market'.",
+      "id": "c877dc73-6143-4e32-b8a0-76e77612c9d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クリスマスマーケットは、クリスマスの約１ヶ月前から開かれます。そこでは、手作りの飾りや、おいしい食べ物、温かい飲み物が売られています。歌を歌ったり、みんなで楽しんだりします。",
+      "translationZh": "圣诞市集在圣诞节前大约一个月开始。在那里，会卖手工制作的装饰品、美味的食物和热饮。大家会唱歌，一起享受欢乐。",
+      "translationEn": "Christmas markets open about a month before Christmas. There, handmade decorations, delicious food, and warm drinks are sold. People sing songs and enjoy themselves together.",
+      "id": "ac417cc3-9d2a-43eb-a1c9-028c0dba08d9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、このクリスマスマーケットが日本でも人気になっています。東京や大阪など、いろいろな都市で開かれています。きれいな飾りを見たり、特別な食べ物を食べたりするのは楽しいです。",
+      "translationZh": "最近，这个圣诞市集在日本也变得很受欢迎。在东京、大阪等各种城市都举办着。看到漂亮的装饰，吃到特别的食物，感觉很开心。",
+      "translationEn": "Recently, these Christmas markets have become popular in Japan too. They are held in various cities such as Tokyo and Osaka. It is fun to see beautiful decorations and eat special foods.",
+      "id": "793c4a94-e118-4f02-bcf8-cc60a5428477",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "家族や友達と一緒に行くと、もっと楽しいです。寒い冬ですが、クリスマスマーケットは心も体も温かくしてくれます。",
+      "translationZh": "和家人或朋友一起去的话，会更开心。虽然是寒冷的冬天，但圣诞市集能让心和身体都感到温暖。",
+      "translationEn": "It is even more fun to go with family or friends. It is a cold winter, but Christmas markets warm both the heart and the body.",
+      "id": "533a8921-23a7-4395-a818-1081fe8cfe4d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "3285bffa-ec9c-4ca7-8074-a77c48537541"
+    },
+    {
+      "word": "市場",
+      "reading": "いちば",
+      "meaningZh": "市场",
+      "meaningEn": "market",
+      "level": "n5n4",
+      "exampleSentence": "これは大きな市場です。",
+      "id": "06c3ae18-bb14-4eb0-8139-da303a1c0122"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "クリスマスの飾りがありました。",
+      "id": "836a9ade-a753-4986-809f-47d1ea1678a9"
+    },
+    {
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meaningZh": "食物",
+      "meaningEn": "food",
+      "level": "n5n4",
+      "exampleSentence": "おいしい食べ物がたくさんあります。",
+      "id": "8a3aac5f-5d99-4b84-bd0e-b9915438b36c"
+    },
+    {
+      "word": "飲み物",
+      "reading": "のみもの",
+      "meaningZh": "饮料",
+      "meaningEn": "drink",
+      "level": "n5n4",
+      "exampleSentence": "温かい飲み物が飲みたいです。",
+      "id": "0f42b342-c80e-48b9-b41a-92e4e5f68569"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この店は人気があります。",
+      "id": "5f7962b2-d9cb-46aa-b2af-7e7422ebca23"
+    },
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaningZh": "都市",
+      "meaningEn": "city",
+      "level": "n3",
+      "exampleSentence": "東京は大きな都市です。",
+      "id": "fc275f05-f673-4ae9-815f-1c14446ecb28"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "クリスマスマーケットは、いつから開かれますか。",
+      "options": [
+        "春から",
+        "夏から",
+        "クリスマスの約１ヶ月前から",
+        "冬が終わってから"
+      ],
+      "correctIndex": 2,
+      "explanation": "ヨーロッパでは、昔から「クリスマスマーケット」という特別な市場があります。クリスマスマーケットは、クリスマスの約１ヶ月前から開かれます。",
+      "id": "66a51a9a-e5bb-4d27-83db-096ded6dda60"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-03-36c03e7b37",
+  "publishedAt": "2026-07-03T06:00:00+09:00"
+}

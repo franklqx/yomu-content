@@ -1,0 +1,126 @@
+{
+  "title": "高校生がeスポーツ界を席巻！未来のスター候補たち",
+  "summary": "最近、eスポーツの世界で高校生プレイヤーの活躍が目覚ましいです。彼らは驚くべき実力で大会を盛り上げ、多くの注目を集めています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、eスポーツの人気が世界的に高まっています。特に、若い世代のプレイヤーたちがプロ顔負けの活躍を見せており、その中でも高校生たちの躍進は目を見張るものがあります。彼らは、日々の学校生活を送りながらも、熱心に練習を重ね、数々の大会で素晴らしい成績を収めているのです。",
+      "translationZh": "近年来，电子竞技的人气在全球范围内不断升高。特别是年轻一代的选手们展现出了不亚于职业选手的实力，其中高中生选手的飞跃尤其引人注目。他们一边过着学校生活，一边热心地进行练习，并在许多比赛中取得了优异的成绩。",
+      "translationEn": "In recent years, the popularity of esports has been rising globally. Especially, young generation players are showing performances comparable to professionals, and among them, the progress of high school students is remarkable. While leading their daily school lives, they diligently practice and have achieved excellent results in numerous tournaments.",
+      "id": "5952a8c4-9c79-4eb7-a129-0bcf83756c47",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "彼らが驚くべきパフォーマンスを発揮できるのは、ゲームに対する深い理解と、チームメイトとの連携が優れているからでしょう。大会では、プレッシャーの中でも冷静に状況を判断し、的確な指示を出す姿が見られます。試合が終わると、まるで普通の高校生に戻ったかのように、友達と談笑している様子は微笑ましいものです。",
+      "translationZh": "他们之所以能发挥出惊人的表现，可能是因为他们对游戏有深刻的理解，并且与队友的协作能力很强。在比赛中，可以看到他们在巨大的压力下冷静地判断情况并发出准确的指示。比赛结束后，他们又变回普通高中生，和朋友们谈笑风生的样子让人感到欣慰。",
+      "translationEn": "The reason they can exhibit astonishing performances is likely due to their deep understanding of games and excellent teamwork. In tournaments, they can be seen calmly assessing situations and giving precise instructions even under pressure. After the match, it's heartwarming to see them chatting with friends as if they've returned to being ordinary high school students.",
+      "id": "1d08a71c-50d5-4b74-8c6a-beba9451626b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "eスポーツは、単なるゲームではなく、高度な戦略や判断力が求められる競技として認識され始めています。高校生たちが、このような新しい分野で才能を開花させていることは、将来のスポーツ界にとっても大きな希望と言えるでしょう。彼らの活躍が、これからも多くの人を魅了し続けることは間違いありません。",
+      "translationZh": "电子竞技正开始被视为一种需要高度战略和判断力的竞技，而不仅仅是游戏。高中生们在新兴领域展现出的才能，可以说是对未来体育界的一大希望。他们的活跃无疑将继续吸引众多观众。",
+      "translationEn": "Esports is beginning to be recognized not just as a game, but as a competition requiring advanced strategies and decision-making skills. The fact that high school students are blossoming their talents in such a new field can be said to be a great hope for the future of the sports world. There is no doubt that their achievements will continue to fascinate many people.",
+      "id": "44263ef3-2d13-488a-ade0-d4f72e3f7027",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "席巻",
+      "reading": "せっけん",
+      "meaningZh": "席卷，占领",
+      "meaningEn": "sweep over, sweep through",
+      "level": "n2n1",
+      "exampleSentence": "若手俳優が映画界を席巻している。",
+      "id": "21c9d705-5d01-4c2b-8244-8029306a6a37"
+    },
+    {
+      "word": "躍進",
+      "reading": "やくしん",
+      "meaningZh": "飞跃，突飞猛进",
+      "meaningEn": "great progress, leap",
+      "level": "n3",
+      "exampleSentence": "新チームは躍進を続けている。",
+      "id": "0d45876f-4878-46f9-98b2-5f26e0677ac7"
+    },
+    {
+      "word": "目を見張る",
+      "reading": "めをみはる",
+      "meaningZh": "引人注目，令人惊叹",
+      "meaningEn": "remarkable, striking",
+      "level": "n3",
+      "exampleSentence": "彼の語学力は目を見張るものがある。",
+      "id": "10bb3110-4a3c-4c50-949b-68cdde33c423"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "协作，合作",
+      "meaningEn": "cooperation, coordination",
+      "level": "n3",
+      "exampleSentence": "チームの連携がうまくいった。",
+      "id": "673ec71e-1d60-424b-baf2-cfe02ae0b3c4"
+    },
+    {
+      "word": "プレッシャー",
+      "reading": "ぷれっしゃー",
+      "meaningZh": "压力",
+      "meaningEn": "pressure",
+      "level": "n3",
+      "exampleSentence": "試合のプレッシャーに打ち勝った。",
+      "id": "94b2dd0f-0a80-432d-a7cb-ab5d48de0cb7"
+    },
+    {
+      "word": "的確",
+      "reading": "てきかく",
+      "meaningZh": "准确，恰当",
+      "meaningEn": "accurate, appropriate",
+      "level": "n3",
+      "exampleSentence": "的確なアドバイスをくれた。",
+      "id": "8eb27fbc-5c97-4839-8eb8-8196879f4fac"
+    },
+    {
+      "word": "開花",
+      "reading": "かいか",
+      "meaningZh": "开花，（才能）显露",
+      "meaningEn": "bloom, blossom (talent)",
+      "level": "n3",
+      "exampleSentence": "彼の才能がようやく開花した。",
+      "id": "0baaf253-fa64-488c-ae08-5582e9240553"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事によると、eスポーツ界で高校生が活躍している理由は何ですか？",
+      "options": [
+        "ゲームの歴史が長いから",
+        "学校の授業でeスポーツを教えているから",
+        "ゲームへの深い理解とチームメイトとの良い連携があるから",
+        "大会の賞金が高いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「彼らが驚くべきパフォーマンスを発揮できるのは、ゲームに対する深い理解と、チームメイトとの連携が優れているからでしょう。」と書かれています。",
+      "id": "87af5bce-2881-4e69-89cf-38ffc6951dd0"
+    },
+    {
+      "question": "eスポーツは、この記事でどのように説明されていますか？",
+      "options": [
+        "単なる遊び",
+        "子供だけが楽しむもの",
+        "高度な戦略や判断力が求められる競技",
+        "あまり人気のないスポーツ"
+      ],
+      "correctIndex": 2,
+      "explanation": "「eスポーツは、単なるゲームではなく、高度な戦略や判断力が求められる競技として認識され始めています。」と述べられています。",
+      "id": "f827143f-5fe1-442d-a491-9590673903a2"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-03-e",
+  "publishedAt": "2026-07-03T06:00:00+09:00"
+}

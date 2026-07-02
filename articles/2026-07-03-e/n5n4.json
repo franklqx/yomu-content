@@ -1,0 +1,123 @@
+{
+  "title": "高校生、eスポーツで大活躍",
+  "summary": "最近、高校生がeスポーツの大会でとても良い成績を出しています。彼らの活躍はすごいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今、eスポーツというゲームの大会が人気です。たくさんの人がテレビやインターネットで見ます。その大会に、若い高校生がたくさん参加しています。",
+      "translationZh": "现在，叫做电子竞技的游戏比赛很受欢迎。很多人在电视或网上观看。很多年轻的高中生参加这些比赛。",
+      "translationEn": "Currently, esports tournaments are popular. Many people watch them on TV and the internet. Many young high school students are participating in these tournaments.",
+      "id": "4068795e-c2e8-40a3-af6c-ca72567517db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この前の大きな大会で、高校生チームが優勝しました。彼らは毎日練習をしました。チームのメンバーはみんな高校生です。みんなで力を合わせて、難しい試合に勝ちました。",
+      "translationZh": "在上次的大型比赛中，一个高中生队伍赢得了冠军。他们每天都练习。队伍的成员都是高中生。大家齐心协力，赢得了困难的比赛。",
+      "translationEn": "In a recent big tournament, a high school team won first place. They practiced every day. All the team members are high school students. They worked together and won difficult matches.",
+      "id": "52afd512-bba2-49f1-8f69-5210fa796569",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "高校生プレーヤーの活躍は、多くの人に感動を与えています。彼らは「将来、プロのeスポーツ選手になりたい」と言っています。これからも彼らの成長が楽しみです。",
+      "translationZh": "高中生选手的活跃感动了很多人。他们说：“将来想成为职业电子竞技选手。” 今后也期待他们的成长。",
+      "translationEn": "The performance of high school players is inspiring many people. They say, \"We want to become professional esports players in the future.\" We look forward to their continued growth.",
+      "id": "b15e63d3-9d62-4f55-b526-fbafe83c0a5c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が楽しいです。",
+      "id": "c9de37f6-ac8f-4b53-ad4f-0c43a58d02c4"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメはとても人気があります。",
+      "id": "9d8b61e1-97a1-4746-8c06-317faee2b807"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "パーティーに友達が参加しました。",
+      "id": "b45bd65b-e5a7-4632-b49f-6f755484ae03"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaningZh": "大赛",
+      "meaningEn": "tournament, competition",
+      "level": "n5n4",
+      "exampleSentence": "明日はスポーツの大会があります。",
+      "id": "84b3478e-7354-45be-b808-42a639bf2cb3"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": "私たちのチームが優勝しました。",
+      "id": "a4e82ff3-9a87-41b7-9362-3275e597b9be"
+    },
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaningZh": "练习",
+      "meaningEn": "practice",
+      "level": "n5n4",
+      "exampleSentence": "毎日、日本語を練習します。",
+      "id": "86334097-918c-4cb0-8b1a-f47aeaf69478"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "being moved, impression",
+      "level": "n5n4",
+      "exampleSentence": "その映画はとても感動的でした。",
+      "id": "18d36e8a-a8af-40c0-b93c-ed057c6b9799"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaningZh": "将来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "将来、医者になりたいです。",
+      "id": "ecadd21b-296a-4318-85a3-fed6b8188013"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "eスポーツの大会で優勝したのは誰ですか。",
+      "options": [
+        "プロの選手",
+        "高校生チーム",
+        "有名なゲーム会社",
+        "テレビの司会者"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この前の大きな大会で、高校生チームが優勝しました。」",
+      "id": "7bb9be08-7a85-4593-90e8-111b55841bc7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-03-e",
+  "publishedAt": "2026-07-03T06:00:00+09:00"
+}

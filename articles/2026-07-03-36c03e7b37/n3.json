@@ -1,0 +1,134 @@
+{
+  "title": "クリスマスマーケット、日本でも広がる魅力",
+  "summary": "ヨーロッパの冬の風物詩であるクリスマスマーケットが、日本でも人気を集めています。その広がりと魅力を探ってみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ヨーロッパでは、冬になると各地でクリスマスマーケットが開かれ、多くの人々で賑わいます。キラキラと輝くイルミネーション、温かい飲み物、そして手作りの雑貨などが並び、訪れる人々を魅了します。しかし、このクリスマスマーケットは、今やヨーロッパだけのものではなく、日本でもその人気が高まっているのです。",
+      "translationZh": "在欧洲，一到冬天，各地就会举办圣诞市集，吸引许多人前来。闪闪发光的彩灯、热乎乎的饮品，以及手工杂货等琳琅满目，深深吸引着到访的游客。然而，这圣诞市集如今已不仅仅是欧洲的特色，在日本也正日益受到欢迎。",
+      "translationEn": "In Europe, Christmas markets are held in various places during winter, bustling with many people. Sparkling illuminations, warm drinks, and handmade crafts line the stalls, charming visitors. However, these Christmas markets are no longer exclusive to Europe; their popularity is also growing in Japan.",
+      "id": "f595be37-d539-4f75-b4e2-a686d065df8f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "日本でクリスマスマーケットが広がり始めたのは、比較的新しい現象です。最初は都市部を中心に開催されていましたが、最近では地方都市や観光地でも見られるようになりました。これは、日本人がヨーロッパの文化に興味を持ち始めていることや、特別な冬の体験を求めていることが理由の一つと考えられます。",
+      "translationZh": "圣诞市集在日本开始普及是相对较新的现象。最初主要在城市地区举办，但最近在地方城市和旅游景点也开始出现。这被认为是日本人开始对欧洲文化感兴趣，以及他们寻求特别的冬季体验的原因之一。",
+      "translationEn": "The spread of Christmas markets in Japan is a relatively recent phenomenon. Initially, they were mainly held in urban areas, but recently they have also begun to appear in regional cities and tourist destinations. This is considered to be due to Japanese people's growing interest in European culture and their desire for unique winter experiences.",
+      "id": "6c58a637-42ca-4f1c-bb9e-62e482f8ea1a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クリスマスマーケットの魅力は、その雰囲気だけではありません。地元の食材を使った料理やお菓子、そして地元の職人が作った工芸品などが販売されることも多く、地域活性化にもつながっています。また、家族や友人と一緒に楽しめるイベントとして、多くの人に愛されています。",
+      "translationZh": "圣诞市集的魅力不仅仅在于它的氛围。很多时候，也会售卖使用当地食材制作的料理和点心，以及当地工匠制作的手工艺品，这也促进了地区的活力。此外，它作为一个可以与家人和朋友一同享受的活动，深受许多人喜爱。",
+      "translationEn": "The charm of Christmas markets is not just their atmosphere. Often, dishes and sweets made with local ingredients, as well as crafts made by local artisans, are sold, contributing to regional revitalization. Furthermore, it is loved by many as an event that can be enjoyed with family and friends.",
+      "id": "41304b99-68fc-4401-a117-05c1b18ccc8e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後も、クリスマスマーケットは日本各地でさらに広がりを見せるでしょう。新しいマーケットが誕生したり、既存のマーケットがより魅力的になったりすることで、冬の日本の街がさらに彩り豊かになることが期待されます。皆さんも、ぜひお近くのクリスマスマーケットを訪れてみてはいかがでしょうか。",
+      "translationZh": "今后，圣诞市集在日本各地有望进一步发展。随着新市集的诞生，以及现有市集的不断完善，预计日本的冬季街景将更加丰富多彩。大家何不也去附近的圣诞市集看看呢？",
+      "translationEn": "Going forward, Christmas markets are expected to spread further across Japan. With the creation of new markets and the enhancement of existing ones, Japanese winter streetscapes are anticipated to become even more colorful. Why don't you also visit a Christmas market near you?",
+      "id": "f8150332-557c-444b-9a80-90316fa85515",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（季节的）特色，景物",
+      "meaningEn": "seasonal event; characteristic of a season",
+      "level": "n3",
+      "exampleSentence": "春の風物詩といえば、桜ですね。",
+      "id": "ad22aec6-5ab4-4b29-879d-e6996b85a42c"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，熙熙攘攘",
+      "meaningEn": "to be crowded; to be bustling",
+      "level": "n3",
+      "exampleSentence": "週末の商店街はいつも賑わっています。",
+      "id": "f3c8f003-661a-4994-8f09-d12a25621470"
+    },
+    {
+      "word": "魅了する",
+      "reading": "みりょうする",
+      "meaningZh": "吸引，迷住",
+      "meaningEn": "to fascinate; to charm",
+      "level": "n3",
+      "exampleSentence": "その美しい景色に魅了されました。",
+      "id": "77078353-1abb-4914-94b5-e2bb78a011aa"
+    },
+    {
+      "word": "現象",
+      "reading": "げんしょう",
+      "meaningZh": "现象",
+      "meaningEn": "phenomenon",
+      "level": "n3",
+      "exampleSentence": "近年、キャッシュレス決済が普及する現象が見られます。",
+      "id": "5a42dfdd-efce-4830-956b-107d51d8f585"
+    },
+    {
+      "word": "中心に",
+      "reading": "ちゅうしんに",
+      "meaningZh": "以…为中心",
+      "meaningEn": "centered around; focusing on",
+      "level": "n3",
+      "exampleSentence": "この地域は、農業を中心に発展してきました。",
+      "id": "2d588011-b8fb-4073-b42b-29a1f641af21"
+    },
+    {
+      "word": "地域活性化",
+      "reading": "ちいきかっせいか",
+      "meaningZh": "地区振兴",
+      "meaningEn": "regional revitalization",
+      "level": "n3",
+      "exampleSentence": "地方創生のため、地域活性化が叫ばれています。",
+      "id": "1738dcfe-8264-456c-b9b6-02b9679b5913"
+    },
+    {
+      "word": "彩り豊か",
+      "reading": "いろどりゆたか",
+      "meaningZh": "色彩丰富，五彩缤纷",
+      "meaningEn": "rich in color; colorful",
+      "level": "n3",
+      "exampleSentence": "秋になると、山が彩り豊かになります。",
+      "id": "9d6b97a7-f51f-4d59-9958-507696a5e24e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヨーロッパのクリスマスマーケットは、日本でも人気が高まっている理由として、記事では何が挙げられていますか？",
+      "options": [
+        "ヨーロッパの文化への関心と特別な体験への欲求",
+        "日本の伝統的な冬のイベントとの融合",
+        "安価で質の高い商品が手に入ること",
+        "メディアでの頻繁な紹介"
+      ],
+      "correctIndex": 0,
+      "explanation": "「日本人がヨーロッパの文化に興味を持ち始めていることや、特別な冬の体験を求めていることが理由の一つと考えられます。」と書かれています。",
+      "id": "04b6419b-9aca-4ef7-be88-67f37ff7aba4"
+    },
+    {
+      "question": "クリスマスマーケットの魅力について、本文で述べられていることは何ですか？",
+      "options": [
+        "主にヨーロッパの工芸品が手に入る点",
+        "地域活性化に貢献し、家族や友人と楽しめる点",
+        "最新のテクノロジーを使ったイベントが開催される点",
+        "一年中開催されており、いつでも訪れることができる点"
+      ],
+      "correctIndex": 1,
+      "explanation": "「地域活性化にもつながっています。また、家族や友人と一緒に楽しめるイベントとして、多くの人に愛されています。」と書かれています。",
+      "id": "473a83eb-c19f-431b-8098-7da32a0aaf30"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-03-36c03e7b37",
+  "publishedAt": "2026-07-03T06:00:00+09:00"
+}

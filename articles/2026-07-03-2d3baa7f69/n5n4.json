@@ -1,0 +1,122 @@
+{
+  "title": "アニメグッズの不思議な販売方法",
+  "summary": "アニメの限定グッズは人気ですが、買えない人もいます。それはなぜでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメのグッズはとても人気があります。特に、限定販売のグッズはすぐに売り切れます。ファンは「欲しい！」と思います。しかし、お店に行っても、もうありません。それは残念なことです。",
+      "translationZh": "动画周边商品非常受欢迎。特别是限定销售的周边商品，很快就会卖完。粉丝们会想“好想要啊！”。但是，即使去了店里，也已经没有了。那真是令人遗憾的事情。",
+      "translationEn": "Anime goods are very popular. Especially, limited edition goods sell out quickly. Fans think, \"I want it!\". However, even if you go to the store, they are already gone. That is a regrettable thing.",
+      "id": "9134ff20-e2f0-493b-b117-4f4cd24db8ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "限定グッズが買えない理由の一つに「転売」があります。転売とは、買ったものをすぐに高く売ることです。一部の人が、たくさんのグッズを買って、高く売ってお金儲けをします。これは、本当のファンにとって悲しいことです。",
+      "translationZh": "买不到限定周边商品的原因之一是“转卖”。转卖就是把买到的东西马上高价卖出去。有些人会买很多周边商品，然后高价卖出去赚钱。这对于真正的粉丝来说是件悲伤的事情。",
+      "translationEn": "One reason why limited edition goods cannot be bought is \"resale\". Resale means buying something and immediately selling it at a higher price. Some people buy many goods and make money by selling them at high prices. This is sad for true fans.",
+      "id": "c644cd46-02dd-4413-ba91-a486e82ab8ae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "会社は、もっと多くのファンにグッズを届けたいと思っています。だから、限定販売の方法を考えます。例えば、抽選（ちゅうせん）にしたり、買える数を少なくしたりします。でも、転売の問題は、まだ解決していません。",
+      "translationZh": "公司希望将周边商品送到更多的粉丝手中。因此，他们会考虑限定销售的方法。例如，进行抽签，或者减少可以购买的数量。但是，转卖的问题还没有解决。",
+      "translationEn": "Companies want to deliver goods to more fans. Therefore, they think about ways of limited sales. For example, they might use a lottery system, or limit the number of items one can buy. However, the problem of resale has not yet been solved.",
+      "id": "7ec494b0-46ad-4734-be28-e3920d7f3bfa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ファンは、好きなアニメのグッズを正しく買いたいと思っています。転売がなくなって、みんなが楽しめるようになるといいですね。",
+      "translationZh": "粉丝们希望能够正确地购买自己喜欢的动画周边。如果转卖消失，大家都能享受其中，那就好了。",
+      "translationEn": "Fans want to buy anime goods they like fairly. It would be good if reselling disappeared and everyone could enjoy them.",
+      "id": "186a9656-a59c-495a-bd56-0b11b4f7322c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "goods, merchandise",
+      "level": "n5n4",
+      "exampleSentence": "このアニメのグッズが欲しいです。",
+      "id": "54fb7476-6053-4502-893b-f32be724d845"
+    },
+    {
+      "word": "限定販売",
+      "reading": "げんていはんばい",
+      "meaningZh": "限定销售",
+      "meaningEn": "limited sale",
+      "level": "n5n4",
+      "exampleSentence": "この商品は限定販売です。",
+      "id": "f0dd982f-d6cb-429d-b2e6-dd2040419f56"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n5n4",
+      "exampleSentence": "人気の商品はすぐに売り切れます。",
+      "id": "a4deeac5-9c90-49c9-82c8-a99d1cedab3a"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾",
+      "meaningEn": "regrettable, unfortunate",
+      "level": "n5n4",
+      "exampleSentence": "買えなくて残念でした。",
+      "id": "6e3276ae-97a6-4c28-bebd-f66a8519108d"
+    },
+    {
+      "word": "転売",
+      "reading": "てんばい",
+      "meaningZh": "转卖",
+      "meaningEn": "resale",
+      "level": "n5n4",
+      "exampleSentence": "転売は良くないと思います。",
+      "id": "4b7cc473-aa04-413a-afe8-077f644a6e7b"
+    },
+    {
+      "word": "儲ける",
+      "reading": "もうける",
+      "meaningZh": "赚钱",
+      "meaningEn": "to make money, to profit",
+      "level": "n5n4",
+      "exampleSentence": "お金を儲けたいです。",
+      "id": "2d0fd26f-16c2-490e-ac6f-21bdfdb8ffea"
+    },
+    {
+      "word": "抽選",
+      "reading": "ちゅうせん",
+      "meaningZh": "抽签",
+      "meaningEn": "lottery, raffle",
+      "level": "n5n4",
+      "exampleSentence": "抽選で当たりますように。",
+      "id": "de20e157-f74d-483d-916b-2725fd14a3ed"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ限定グッズはすぐに買えなくなりますか？",
+      "options": [
+        "人気がないからです。",
+        "転売されるからです。",
+        "お店が少ないからです。",
+        "値段が高いからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「限定グッズが買えない理由の一つに「転売」があります。」と書いてあります。",
+      "id": "a9ba465e-6089-4f5c-bfcc-c29fc5ef0f5b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-03-2d3baa7f69",
+  "publishedAt": "2026-07-03T06:00:00+09:00"
+}
