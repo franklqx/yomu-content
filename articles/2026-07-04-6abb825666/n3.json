@@ -1,0 +1,134 @@
+{
+  "title": "新学期！文房具トレンドで気分転換しよう",
+  "summary": "新しい学期が始まる前に、文房具を新しくしてみませんか？最近のトレンドをチェックして、お気に入りのアイテムを見つけましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "４月になり、新しい学期がスタートしましたね。学校や仕事で新しいことを始めるこの時期は、気分も新たにしたいものです。そこで、文房具に注目してみましょう。お気に入りのペンやノートがあると、勉強や仕事がもっと楽しくなることがありますよ。",
+      "translationZh": "四月到了，新学期已经开始。在学校或工作中开始新事物之际，也想换换心情。因此，让我们关注一下文具吧。如果有喜欢的笔或笔记本，学习和工作会变得更加有趣。",
+      "translationEn": "April has arrived, and the new school year has begun. This is a time when you start new things at school or work, so you'll want to refresh your mood. Let's turn our attention to stationery. Having a favorite pen or notebook can make studying and working more enjoyable.",
+      "id": "7c97826c-e8f7-4b36-80e7-feba4f1874a4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近の文房具トレンドとして、まず「機能性」が挙げられます。例えば、インクの色が豊富で書きやすいゲルインクボールペンや、ページを破らずに繰り返し使えるノートなどが人気です。また、環境に配慮した素材で作られた文房具も増えています。これらは、持っているだけで少し賢い気分になれますね。",
+      "translationZh": "最近的文具趋势，首先可以列举“功能性”。例如，墨水颜色丰富、书写顺畅的啫喱墨水圆珠笔，以及不损坏纸张即可反复使用的笔记本很受欢迎。此外，使用环保材料制作的文具也在增加。这些物品，光是拥有就会让人觉得自己有点聪明。",
+      "translationEn": "As a recent stationery trend, 'functionality' is worth mentioning first. For example, gel ink ballpoint pens with a wide variety of ink colors and smooth writing, as well as notebooks that can be used repeatedly without tearing pages, are popular. Also, stationery made from environmentally friendly materials is increasing. Just owning these can make you feel a bit smarter.",
+      "id": "da06c845-328a-469b-9579-182cb8a13d45",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "次に、「デザイン性」も重要なポイントです。特に若い世代の間では、キャラクターものだけでなく、シンプルでおしゃれなデザインの文房具が好まれています。色合いが落ち着いていて、どんな場面でも使いやすいものが選ばれているようです。友達とお揃いのデザインを選ぶのも楽しいでしょう。",
+      "translationZh": "其次，“设计性”也是一个重要点。尤其是在年轻一代中，除了卡通角色之外，简洁时尚设计的文具更受欢迎。似乎大家都在选择色调沉稳、在任何场合都易于使用的款式。和朋友选同样的设计也会很有趣。",
+      "translationEn": "Next, 'design' is also an important point. Especially among the younger generation, stationery with simple and stylish designs, not just character-themed ones, is preferred. It seems people are choosing items with calm colors that are easy to use in any situation. Choosing matching designs with friends would also be fun.",
+      "id": "d785edb9-85f9-4b24-874e-8158a99a1b71",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい文房具を手に入れると、それだけでやる気が出ることがあります。機能的でデザインも良いお気に入りの文房具を見つけて、新しい学期を気持ちよくスタートさせてみませんか。",
+      "translationZh": "拿到新的文具，光是这样就会让人有动力。何不找到功能性强、设计也很棒的喜欢的文具，愉快地开启新学期呢？",
+      "translationEn": "Getting new stationery can be motivating in itself. Why not find your favorite stationery, which is both functional and well-designed, and start the new semester on a high note?",
+      "id": "8ccdb209-ccf7-471b-b483-304f317248de",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文房具",
+      "reading": "ぶんぼVideo",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しいペンケースを買いました。",
+      "id": "18e35adf-a000-4054-a2fb-ab1e3c73c764"
+    },
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "潮流，趋势",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "ファッションのトレンドは速く変わります。",
+      "id": "683a996e-1fd0-405c-8cfc-83a05e756c19"
+    },
+    {
+      "word": "機能性",
+      "reading": "きのうせい",
+      "meaningZh": "功能性",
+      "meaningEn": "functionality",
+      "level": "n3",
+      "exampleSentence": "このスマートフォンの機能性は素晴らしいです。",
+      "id": "9e9acd67-ac91-4171-919c-9fa224378108"
+    },
+    {
+      "word": "ゲルインクボールペン",
+      "reading": "げるインクボールペン",
+      "meaningZh": "啫喱墨水圆珠笔",
+      "meaningEn": "gel ink ballpoint pen",
+      "level": "n3",
+      "exampleSentence": "ゲルインクボールペンは滑らかな書き心地が特徴です。",
+      "id": "f89baf6d-b2df-4dbf-9605-5b5d31651eb9"
+    },
+    {
+      "word": "環境に配慮した",
+      "reading": "かんきょうに はいりょした",
+      "meaningZh": "考虑环境的，环保的",
+      "meaningEn": "environmentally friendly",
+      "level": "n3",
+      "exampleSentence": "環境に配慮した製品を選びたいです。",
+      "id": "f528567a-89e1-46bc-9475-59b9514db514"
+    },
+    {
+      "word": "デザイン性",
+      "reading": "デザインせい",
+      "meaningZh": "设计性",
+      "meaningEn": "design appeal",
+      "level": "n3",
+      "exampleSentence": "この商品のデザイン性が高い。",
+      "id": "b3416674-a0c8-4fcd-b359-0fb75e588d3a"
+    },
+    {
+      "word": "やる気",
+      "reading": "やるき",
+      "meaningZh": "干劲，积极性",
+      "meaningEn": "motivation, enthusiasm",
+      "level": "n3",
+      "exampleSentence": "やる気が出てきたので、勉強を始めます。",
+      "id": "3666709c-0edf-4ef4-bf2f-06fd2ac8185c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の文房具トレンドで、「機能性」以外に重視されている点は何ですか？",
+      "options": [
+        "価格の安さ",
+        "デザイン性",
+        "有名ブランド",
+        "限定品"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「次に、「デザイン性」も重要なポイントです。」とあります。",
+      "id": "6bcbf30c-41a0-45d2-8e3b-66bbc3433596"
+    },
+    {
+      "question": "環境に配慮した文房具が増えている理由は何ですか？",
+      "options": [
+        "デザインがおしゃれだから",
+        "機能性が高いから",
+        "環境問題への関心が高まっているから",
+        "値段が安いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「環境に配慮した素材で作られた文房具も増えています。」と述べられており、これは環境問題への関心の高まりを示唆しています。",
+      "id": "3a445110-1850-4630-9004-c7a251ad2f56"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-04-6abb825666",
+  "publishedAt": "2026-07-04T06:00:00+09:00"
+}

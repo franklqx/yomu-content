@@ -1,0 +1,122 @@
+{
+  "title": "お寿司の値上げ、どう？",
+  "summary": "最近、回転寿司の値段が上がりました。お客さんはどう思っているでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気のある回転寿司チェーンで値段が上がりました。おいしいお寿司を安く食べられるので、いつもたくさんのお客さんがいました。でも、値段が上がって、少し残念に思う人もいます。",
+      "translationZh": "最近，一家受欢迎的回转寿司连锁店涨价了。因为能便宜地吃到美味的寿司，所以店里总是顾客盈门。但是，价格上涨后，有些人也感到有些遗憾。",
+      "translationEn": "Recently, a popular conveyor belt sushi chain raised its prices. Because people could eat delicious sushi cheaply, there were always many customers. However, after the prices went up, some people feel a little disappointed.",
+      "id": "ca4eafa2-81b4-48ff-9b62-c6c521d508ae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がった後、お店に来るお客さんの数が少し減ったという話もあります。特に、家族で来ている人は、前より少し考えるかもしれません。でも、お寿司はやっぱり人気があります。だから、まだたくさんのお客さんがお店に来ています。",
+      "translationZh": "据说，涨价后，来店里的顾客数量有所减少。特别是家庭一起来的客人，可能会比以前多考虑一下。但是，寿司毕竟还是很受欢迎的。所以，还是有很多顾客光顾店里。",
+      "translationEn": "There are also reports that the number of customers decreased slightly after the price increase. Especially people coming with family might think a little more than before. However, sushi is still popular. So, many customers still come to the restaurant.",
+      "id": "22547b09-164b-44cc-b463-8b77fb00d5df",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店の人は「材料費が上がったので、仕方ないです」と言っています。これからも、おいしいお寿司をみんなに提供するために、頑張ると言っていました。",
+      "translationZh": "店里的人说：“因为材料费上涨了，没办法。”他们还说，今后也会努力，为大家提供美味的寿司。",
+      "translationEn": "The restaurant staff say, 'It can't be helped because the material costs have gone up.' They also said they will continue to work hard to provide delicious sushi to everyone.",
+      "id": "d04e0b4c-b81f-426e-985b-00d01379d23c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんは、回転寿司の値段が上がったことについてどう思いますか。これからも、安くておいしい回転寿司があるといいですね。",
+      "translationZh": "大家对回转寿司涨价这件事怎么看呢？今后，要是能有又便宜又好吃的寿司就好了呢。",
+      "translationEn": "What do you think about the price increase at conveyor belt sushi restaurants? It would be nice if there were still cheap and delicious conveyor belt sushi in the future.",
+      "id": "5d80b77c-ef8a-40a4-8a09-f760c6cef80d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "子供が回転寿司が好きです。",
+      "id": "7a7d07ca-4ace-4575-bd2d-5a76c6ce5419"
+    },
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n5n4",
+      "exampleSentence": "パンの値上げは困ります。",
+      "id": "878c1ef5-916e-49ea-94d4-bb84e3b47950"
+    },
+    {
+      "word": "客足",
+      "reading": "きゃくあし",
+      "meaningZh": "客流量，顾客（的到来）",
+      "meaningEn": "customer traffic",
+      "level": "n3",
+      "exampleSentence": "新しい店は客足が多いです。",
+      "id": "94d54d71-29bb-4e5e-b416-e724662f6bea"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾，可惜",
+      "meaningEn": "disappointing, regrettable",
+      "level": "n5n4",
+      "exampleSentence": "試合に負けて残念でした。",
+      "id": "0ecfc71a-d65a-44e9-a231-5e011b21320a"
+    },
+    {
+      "word": "材料費",
+      "reading": "ざいりょうひ",
+      "meaningZh": "材料费",
+      "meaningEn": "material cost",
+      "level": "n3",
+      "exampleSentence": "材料費が高くなりました。",
+      "id": "3ff8a628-9e2d-4485-b92f-d7e53f0bdd06"
+    },
+    {
+      "word": "提供",
+      "reading": "ていきょう",
+      "meaningZh": "提供",
+      "meaningEn": "to provide, to offer",
+      "level": "n3",
+      "exampleSentence": "サービスを提供します。",
+      "id": "3584d46e-a172-41fa-9de7-c446551b02f9"
+    },
+    {
+      "word": "仕方ない",
+      "reading": "しかたがない",
+      "meaningZh": "没办法，情有可原",
+      "meaningEn": "it can't be helped, unavoidable",
+      "level": "n5n4",
+      "exampleSentence": "雨だから、遠足は中止です。仕方ないですね。",
+      "id": "e790e340-d038-45d9-90f3-80947cdc0df7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司の値段が上がった理由は何ですか？",
+      "options": [
+        "お客さんが減ったから",
+        "材料費が上がったから",
+        "新しいメニューが出たから",
+        "お店が広くなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「材料費が上がったので、仕方ないです」と書かれています。",
+      "id": "89e08a46-802a-4c84-a0e6-fbf21808bccd"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-04-e84a2b4f5e",
+  "publishedAt": "2026-07-04T06:00:00+09:00"
+}
