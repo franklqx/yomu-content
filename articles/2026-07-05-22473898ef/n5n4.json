@@ -1,0 +1,122 @@
+{
+  "title": "高校生プログラマー集まれ！",
+  "summary": "高校生向けのプログラミングコンテストが開催されます。新しいアイデアを形にしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "これは高校生のためのプログラミングコンテストです。名前は「ハッカソン」と言います。プログラミングが好きな学生がたくさん参加します。",
+      "translationZh": "这是一个面向高中生的编程比赛。名字叫做“黑客松”。许多喜欢编程的学生将参加。",
+      "translationEn": "This is a programming contest for high school students. Its name is \"Hackathon\". Many students who like programming will participate.",
+      "id": "1e5dbda8-ac46-4f19-accd-4658d246b795",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、チームを作ります。そして、決められた時間内に一つのアイデアをプログラムにします。例えば、新しいゲームや便利なアプリです。",
+      "translationZh": "在黑客松，会组建团队。然后，在规定时间内将一个想法变成程序。例如，新的游戏或有用的应用程序。",
+      "translationEn": "In a hackathon, you form teams. Then, within a set time, you turn an idea into a program. For example, a new game or a useful app.",
+      "id": "01cab10a-136b-406e-88a1-969a53e7056f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイベントは、学生が技術を学び、友達を作る良い機会です。経験がなくても心配ありません。先生や先輩が手伝ってくれます。",
+      "translationZh": "这个活动是学生学习技术、交朋友的好机会。即使没有经验也不用担心。老师和学长会帮忙。",
+      "translationEn": "This event is a good opportunity for students to learn technology and make friends. Don't worry if you don't have experience. Teachers and seniors will help you.",
+      "id": "e4526beb-4cf9-4f0e-ac13-8dafc39f3d39",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は特別なテーマがあります。それは「未来の町」です。みんなでアイデアを出し合って、未来の町を作るプログラムを作りましょう。",
+      "translationZh": "今年有一个特别的主题。那就是“未来的城市”。大家一起集思广益，制作一个创造未来城市的程序吧。",
+      "translationEn": "This year there is a special theme. It is \"The City of the Future\". Let's brainstorm together and create a program that builds the city of the future.",
+      "id": "47b53944-bd66-4b9a-bf4c-9adeba0f1aa8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生は元気です。",
+      "id": "0c887b20-0b0e-495f-9913-8459c357b75f"
+    },
+    {
+      "word": "プログラマー",
+      "reading": "ぷろぐらまー",
+      "meaningZh": "程序员",
+      "meaningEn": "programmer",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なプログラマーです。",
+      "id": "f91f0e0d-9a89-4f66-a6ca-2439a1a8b0d3"
+    },
+    {
+      "word": "集まれ",
+      "reading": "あつまれ",
+      "meaningZh": "集合吧，聚集吧",
+      "meaningEn": "gather, come together",
+      "level": "n5n4",
+      "exampleSentence": "みんな、ここに集まれ！",
+      "id": "ff313872-e41b-427c-bdb9-d981cab71500"
+    },
+    {
+      "word": "コンテスト",
+      "reading": "こんてすと",
+      "meaningZh": "竞赛，比赛",
+      "meaningEn": "contest",
+      "level": "n5n4",
+      "exampleSentence": "歌のコンテストがありました。",
+      "id": "bb3df74a-27a1-4934-821e-baba9979d1fe"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアを考えました。",
+      "id": "d3b02fc9-5aa5-457e-b3fb-432f4fb612da"
+    },
+    {
+      "word": "チーム",
+      "reading": "ちーむ",
+      "meaningZh": "队伍，团队",
+      "meaningEn": "team",
+      "level": "n5n4",
+      "exampleSentence": "私たちは新しいチームを作りました。",
+      "id": "73e4ed3e-5b57-4584-a90a-4ca82c9bbd86"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を勉強しています。",
+      "id": "08e2a6c1-da6b-4431-907d-a00776f29531"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このハッカソンで、高校生は何を作りますか。",
+      "options": [
+        "新しいゲーム",
+        "便利なアプリ",
+        "未来の町を作るプログラム",
+        "歌"
+      ],
+      "correctIndex": 2,
+      "explanation": "「今年は特別なテーマがあります。それは「未来の町」です。みんなでアイデアを出し合って、未来の町を作るプログラムを作りましょう。」",
+      "id": "4fe4dddd-f3a1-4a5e-a6d1-75f2c03c0824"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-05-22473898ef",
+  "publishedAt": "2026-07-05T06:00:00+09:00"
+}

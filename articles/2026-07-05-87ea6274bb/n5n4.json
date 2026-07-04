@@ -1,0 +1,131 @@
+{
+  "title": "新しい和菓子、若い人にも",
+  "summary": "和菓子職人が新しい和菓子を作っています。若い人にも人気が出そうです。一緒に見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔からある和菓子は、とてもおいしいです。でも、若い人にはあまり知られていません。そこで、和菓子職人が新しい和菓子を作り始めました。見た目もかわいくて、味も新しいものが多いです。",
+      "translationZh": "自古以来流传的和菓子非常美味。但是，年轻人却不太了解它们。因此，和菓子师傅们开始制作新的和菓子。这些和菓子不仅外观可爱，味道上也有很多创新。",
+      "translationEn": "Traditional Japanese sweets have always been delicious. However, young people are not very familiar with them. So, Japanese confectioners have started making new kinds of sweets. They are cute in appearance and many have new flavors.",
+      "id": "23c90b44-854e-471a-a716-155102b577b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、フルーツを使った和菓子があります。色もきれいで、さっぱりした味です。これなら、甘いものが苦手な人でも食べやすいかもしれません。SNSで写真を撮って、友達に教えたくなりますね。",
+      "translationZh": "例如，有使用水果制作的和菓子。颜色也很漂亮，味道清爽。这样的话，即使不喜欢甜食的人也可能容易接受。拍下照片发到社交媒体上，一定会想和朋友分享吧。",
+      "translationEn": "For example, there are Japanese sweets made with fruit. They have beautiful colors and a refreshing taste. This might make them easy to eat even for people who don't like sweet things. You'll want to take photos for social media and show your friends.",
+      "id": "618d8d41-c120-4888-873f-6b9c5dc15cfc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、伝統的な和菓子を小さくしたり、食べやすい形にしたりする工夫も見られます。お茶の時間だけでなく、ちょっとしたおやつにもぴったりです。昔の味を大切にしながら、新しい時代に合わせて変わっていくのは素晴らしいことです。",
+      "translationZh": "此外，还能看到将传统和菓子做得更小巧、更易于食用的形状的创新。它们不仅适合在茶点时间享用，也十分适合作为小零食。在珍视传统味道的同时，适应新时代的变化，这是非常棒的。",
+      "translationEn": "Also, we can see efforts to make traditional Japanese sweets smaller or in easier-to-eat shapes. They are perfect not only for tea time but also as a small snack. It is wonderful that they are changing to suit the new era while cherishing the old flavors.",
+      "id": "96dab662-c20e-4729-b2cf-021c5c5d0e58",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、もっとたくさんの若い人が和菓子に興味を持つようになるでしょう。新しい和菓子は、日本の文化を伝える良い方法だと思います。",
+      "translationZh": "今后，会有更多的年轻人对和菓子产生兴趣。我认为新的和菓子是传承日本文化的好方法。",
+      "translationEn": "From now on, more and more young people will become interested in Japanese sweets. I think new Japanese sweets are a good way to convey Japanese culture.",
+      "id": "043ede31-222a-441c-882b-a0deaa5f9c7a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese traditional confectionery",
+      "level": "n5n4",
+      "exampleSentence": "この和菓子はとてもきれいです。",
+      "id": "c0b86361-d693-4ee9-9a59-18ea4124db43"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，师傅",
+      "meaningEn": "artisan, craftsman",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なパンの職人です。",
+      "id": "5eac91db-dbc8-4a0b-8a5d-b525ebb9b658"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻人，青年阶层",
+      "meaningEn": "young people, younger generation",
+      "level": "n3",
+      "exampleSentence": "若年層に人気のあるデザインです。",
+      "id": "841de401-010d-49d2-b3b6-ed37797c3db9"
+    },
+    {
+      "word": "リブランド",
+      "reading": "りぶらんど",
+      "meaningZh": "品牌重塑",
+      "meaningEn": "rebranding",
+      "level": "n3",
+      "exampleSentence": "新しいロゴでリブランドしました。",
+      "id": "09e4c9a3-3c7f-451e-b461-8d27bf256ac1"
+    },
+    {
+      "word": "フルーツ",
+      "reading": "ふるーつ",
+      "meaningZh": "水果",
+      "meaningEn": "fruit",
+      "level": "n5n4",
+      "exampleSentence": "このケーキにフルーツがたくさん入っています。",
+      "id": "b1239bdf-4397-4229-8b4e-261aa3b9b4f8"
+    },
+    {
+      "word": "さっぱりした",
+      "reading": "さっぱりした",
+      "meaningZh": "清爽的，清淡的",
+      "meaningEn": "refreshing, light",
+      "level": "n5n4",
+      "exampleSentence": "暑い日にさっぱりした飲み物が飲みたいです。",
+      "id": "74ce9cd8-d101-44a3-903b-73d43dabe34b"
+    },
+    {
+      "word": "SNS",
+      "reading": "えすえぬえす",
+      "meaningZh": "社交媒体",
+      "meaningEn": "Social Networking Service",
+      "level": "n5n4",
+      "exampleSentence": "SNSで友達とつながっています。",
+      "id": "51e05b39-4e3c-4eb4-b795-acefe3f72365"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造性的努力",
+      "meaningEn": "ingenuity, device, effort",
+      "level": "n3",
+      "exampleSentence": "この問題の解決に新しい工夫が必要です。",
+      "id": "f8a552fb-26e3-4939-8ed6-532997890d56"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい和菓子が若い人に人気が出そうですか？",
+      "options": [
+        "はい、人気が出そうです。",
+        "いいえ、人気が出ないでしょう。",
+        "わかりません。",
+        "昔の和菓子の方が人気です。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「若い人にも人気が出そうです。」と書いてあります。",
+      "id": "434fa1f6-b694-4e66-81a7-25cd66a31cac"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-05-87ea6274bb",
+  "publishedAt": "2026-07-05T06:00:00+09:00"
+}

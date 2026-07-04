@@ -1,0 +1,131 @@
+{
+  "title": "沖縄の島々を旅しよう！",
+  "summary": "沖縄にはたくさんのきれいな島があります。島から島へ旅行するツアーはとても人気です。ぜひ行ってみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には、たくさんの美しい島があります。それらの島を巡る「離島（りとう）ホップ」という旅行が人気です。一度にいくつかの島を訪れることができます。",
+      "translationZh": "冲绳有很多美丽的岛屿。一种叫做“跳岛游”（離島ホップ）的旅行方式非常受欢迎。一次可以游览几个岛屿。",
+      "translationEn": "Okinawa has many beautiful islands. Traveling around these islands, called 'island hopping', is popular. You can visit several islands at once.",
+      "id": "a862cb1b-ad7f-4b0c-8f6c-a7b670f44b47",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップツアーは、飛行機や船を使います。たとえば、那覇（なは）から出発して、慶良間（けらま）諸島や宮古（みやこ）島へ行くことができます。どの島も違った魅力があります。",
+      "translationZh": "跳岛游旅行通常会使用飞机或船。例如，你可以从那霸出发，前往庆良间诸岛或宫古岛。每个岛屿都有不同的魅力。",
+      "translationEn": "Island hopping tours use planes or boats. For example, you can depart from Naha and go to the Kerama Islands or Miyako Island. Each island has a different charm.",
+      "id": "4c130e09-a79f-4d55-af4b-2403add70e52",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "きれいな海で泳いだり、おいしいものを食べたり、島の人と話したりするのも楽しいです。島でのんびり過ごす時間は、きっと良い思い出になります。",
+      "translationZh": "你可以在美丽的大海里游泳，吃好吃的东西，和岛上的人们聊天，这些都很有趣。在岛上悠闲度过的时光一定会成为美好的回忆。",
+      "translationEn": "Swimming in the beautiful sea, eating delicious food, and talking with the islanders are also fun. The time spent relaxing on the islands will surely become a good memory.",
+      "id": "acd82e0c-5f70-4e10-92c7-f67d06a29317",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の夏は、沖縄の離島で特別な体験をしませんか。きっと、あなたの好きな島が見つかるはずです。",
+      "translationZh": "今年夏天，为什么不去冲绳的离岛体验特别的经历呢？你一定能找到你喜欢的岛屿。",
+      "translationEn": "Why not have a special experience on one of Okinawa's remote islands this summer? You are sure to find an island you like.",
+      "id": "09ce9b59-fcb2-4fe8-94ad-070428d1e2d3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "沖縄にはたくさんの離島があります。",
+      "id": "de28f250-cc03-4166-9527-90691d6d9160"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "北海道へ旅行したいです。",
+      "id": "4cded3af-b2b3-49ea-86cc-decdc9d90aa3"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "fa2df7a4-7c67-4b36-8ff5-259dac4c64f4"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "访问，拜访",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "京都を訪れました。",
+      "id": "c68f51b1-905e-46ed-8906-38db966c3c0c"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaningZh": "飞机",
+      "meaningEn": "airplane",
+      "level": "n5n4",
+      "exampleSentence": "飛行機で東京へ行きます。",
+      "id": "a7c9fedd-9b5e-47fd-b5a4-5328428e7bd9"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "boat, ship",
+      "level": "n5n4",
+      "exampleSentence": "港で船を見ました。",
+      "id": "a4fb9d37-1cdf-4e16-80cb-05ae9b8837c9"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n3",
+      "exampleSentence": "この街の魅力は、古い建物です。",
+      "id": "c4a891c9-3ea2-4637-9c50-d0d199cb322e"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "初めての登山体験でした。",
+      "id": "f135cf35-75ac-4458-9af5-c0e203958895"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、沖縄のどんな旅行が人気ですか。",
+      "options": [
+        "都会の旅行",
+        "一人旅",
+        "離島ホップ",
+        "温泉旅行"
+      ],
+      "correctIndex": 2,
+      "explanation": "「それらの島を巡る「離島（りとう）ホップ」という旅行が人気です。」",
+      "id": "33674730-379a-438c-b266-3e2593b5a3ed"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-05-46dffb8a6c",
+  "publishedAt": "2026-07-05T06:00:00+09:00"
+}

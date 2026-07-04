@@ -1,0 +1,126 @@
+{
+  "title": "高校生プログラマー集まれ！ハッカソンでアイデアを形にしよう",
+  "summary": "高校生プログラマーを対象としたハッカソンが開催されます。このイベントは、若者たちが集まり、チームでアイデアを出し合い、短期間でプログラムを開発するものです。新しい技術に触れ、仲間と協力しながら、自分のアイデアを形にする絶好の機会です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、高校生を対象としたプログラミングコンテスト、通称「ハッカソン」が注目を集めています。ハッカソンとは、ハッキング（ここでは創造的な問題解決の意味）とマラソンを組み合わせた言葉で、限られた時間内に集中的にプログラムなどを開発するイベントのことです。特に若い才能の発掘と育成を目的として、各地で様々なハッカソンが企画されています。参加者は、自分のアイデアを形にしたいという熱意を持った高校生プログラマーたちです。",
+      "translationZh": "最近，以高中生为对象的编程比赛，俗称“黑客松”（Hackathon），正受到越来越多的关注。黑客松是将黑客（Hack，在此意为创造性解决问题）和马拉松（Marathon）结合而成的词语，指的是在有限的时间内集中开发程序等的活动。各地正在策划各种黑客松，特别以发掘和培养年轻人才为目的。参加者是怀揣将自己的想法变为现实的热情的程序员高中生。",
+      "translationEn": "Recently, programming contests for high school students, commonly known as 'hackathons', are gaining attention. A hackathon is a portmanteau of 'hacking' (in this context, creative problem-solving) and 'marathon', referring to an event where participants intensely develop programs or other creations within a limited timeframe. Various hackathons are being planned in different locations, particularly with the aim of discovering and nurturing young talent. Participants are high school programmers eager to bring their ideas to life.",
+      "id": "e9b2c350-375c-4e0f-bf5b-6c91431e6cfb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、参加者は数人のチームを組みます。まず、自分たちが解決したい社会問題や、実現したいサービスについて話し合います。アイデアが固まったら、それぞれの役割分担をして、コーディング（プログラムを書くこと）やデザインなどの開発作業に入ります。徹夜で作業することもありますが、仲間と協力しながら、新しいものを創り出す達成感は格別です。初心者でも経験者でも、お互いに学び合いながら進めるのがハッカソンの良いところでもあります。",
+      "translationZh": "在黑客松中，参加者会组成几人一组的团队。首先，大家会讨论他们想要解决的社会问题或想要实现的服务的想法。一旦想法确定，就会分配各自的任务，然后开始编码（编写程序）和设计等开发工作。有时也会通宵工作，但与伙伴们合作，创造新事物的成就感是特别的。黑客松的好处在于，无论是初学者还是有经验者，都可以互相学习，共同前进。",
+      "translationEn": "In a hackathon, participants form small teams. First, they discuss social issues they want to solve or services they want to realize. Once an idea is solidified, they divide roles and begin development tasks such as coding (writing programs) and design. Although they might work through the night, the sense of accomplishment from creating something new while collaborating with teammates is exceptional. A great aspect of hackathons is that both beginners and experienced individuals can learn from each other as they progress.",
+      "id": "01e04e78-c889-4341-bd60-0407ca761d15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このようなイベントに参加することは、プログラミングスキルを向上させるだけでなく、チームワークや問題解決能力を養う良い機会になります。また、同じ目標を持つ仲間と出会えるため、将来につながるネットワークを築くことも可能です。企業からの協賛も多く、優秀な作品には賞が与えられたり、アイデアが実際にサービス化されたりする可能性もあります。プログラミングに興味がある高校生は、ぜひ一度チャレンジしてみてはいかがでしょうか。",
+      "translationZh": "参加这样的活动，不仅能提高编程技能，也是培养团队合作和解决问题能力的好机会。此外，由于能遇到拥有相同目标的朋友，也有可能建立起对未来有益的人脉。许多企业提供赞助，优秀的作品可能会获奖，或者其创意有可能被实际开发成服务。对编程感兴趣的高中生，不妨尝试挑战一次吧。",
+      "translationEn": "Participating in such events is not only a good opportunity to improve programming skills but also to foster teamwork and problem-solving abilities. Furthermore, it allows participants to meet peers with similar goals, potentially building a network that can lead to future opportunities. Many companies offer sponsorship, and excellent projects may receive awards or have their ideas developed into actual services. For high school students interested in programming, why not give it a try?",
+      "id": "c537592c-e6c8-49f3-9e26-7f46113bef20",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ハッカソン",
+      "reading": "はッカそん",
+      "meaningZh": "黑客松（一种限时编程开发活动）",
+      "meaningEn": "Hackathon (a timed programming development event)",
+      "level": "n3",
+      "exampleSentence": "高校生向けのハッカソンが開催される予定です。",
+      "id": "e859128f-8d87-4a43-91f9-b6fa84aa2631"
+    },
+    {
+      "word": "通称",
+      "reading": "つうしょう",
+      "meaningZh": "俗称，别名",
+      "meaningEn": "Common name, alias",
+      "level": "n3",
+      "exampleSentence": "この技術は、通称「〇〇」と呼ばれています。",
+      "id": "2dfea1c6-64e4-42aa-b50b-36e818e26b9d"
+    },
+    {
+      "word": "発掘",
+      "reading": "はっくつ",
+      "meaningZh": "发掘，挖掘",
+      "meaningEn": "Excavation, discovery",
+      "level": "n3",
+      "exampleSentence": "才能の発掘がイベントの目的の一つです。",
+      "id": "4cf9d0dc-7b63-4bc8-a859-1f50d299b944"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaningZh": "培养，培育",
+      "meaningEn": "Nurturing, cultivation",
+      "level": "n3",
+      "exampleSentence": "次世代のプログラマー育成を目指しています。",
+      "id": "7f24090e-ba38-489a-ad66-ef7921617f2d"
+    },
+    {
+      "word": "コーディング",
+      "reading": "こーでぃんぐ",
+      "meaningZh": "编码，编写程序",
+      "meaningEn": "Coding (writing computer programs)",
+      "level": "n3",
+      "exampleSentence": "アイデアを形にするために、コーディング作業を進めます。",
+      "id": "52ff17e0-f70a-47d8-bc42-cb2c4fcab5d0"
+    },
+    {
+      "word": "養う",
+      "reading": "やしなう",
+      "meaningZh": "培养，养育；（能力等）锻炼",
+      "meaningEn": "To cultivate, to nurture; to train (skills, etc.)",
+      "level": "n3",
+      "exampleSentence": "チームワークを養う良い機会です。",
+      "id": "ca3bc9d8-dbf1-4b58-95be-b3c9d9d06833"
+    },
+    {
+      "word": "協賛",
+      "reading": "きょうさん",
+      "meaningZh": "赞助，赞助（活动等）",
+      "meaningEn": "Sponsorship",
+      "level": "n3",
+      "exampleSentence": "多くの企業がこのイベントに協賛しています。",
+      "id": "fc9efd3b-9d44-4fb6-9ad7-f80529a98759"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンとは、どのようなイベントのことですか。",
+      "options": [
+        "プログラマーが新しい言語を学ぶための研修会",
+        "限られた時間内に集中的にプログラムなどを開発するイベント",
+        "プログラミングの歴史について発表する会",
+        "企業が新しい技術を発表する展示会"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ハッカソンとは、限られた時間内に集中的にプログラムなどを開発するイベントのことです。」と書かれています。",
+      "id": "7b8e6434-5174-4014-9da4-231c9084101d"
+    },
+    {
+      "question": "ハッカソンに参加することのメリットとして、本文で述べられていることは何ですか。",
+      "options": [
+        "プログラミングスキルだけでなく、チームワークや問題解決能力も向上すること",
+        "必ず優秀な賞を獲得できること",
+        "イベントの主催者から直接スカウトされること",
+        "最新のプログラミング言語をすべて習得できること"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「このようなイベントに参加することは、プログラミングスキルを向上させるだけでなく、チームワークや問題解決能力を養う良い機会になります。」と書かれています。",
+      "id": "7a8326d0-495b-4fce-92d0-87c5e1ec2bb8"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-05-22473898ef",
+  "publishedAt": "2026-07-05T06:00:00+09:00"
+}

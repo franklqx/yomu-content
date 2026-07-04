@@ -1,0 +1,146 @@
+{
+  "title": "高校生プログラマーの祭典、ハッカソン開催へ",
+  "summary": "若手プログラマー育成を目指し、高校生を対象としたハッカソンが開催される運びとなった。次世代を担う才能の発掘が期待される。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、IT分野における人材育成の重要性が叫ばれる中、特に将来の産業を支える若年層への早期教育が注目されています。このような背景を踏まえ、この度、全国の高校生プログラマーを対象とした「高校生ハッカソン」が企画・開催されることとなりました。本イベントは、単にプログラミングスキルを競う場に留まらず、チームでの協働作業を通じて、創造性や問題解決能力を育むことを目的としております。",
+      "translationZh": "近年来，随着 IT 领域人才培养的重要性日益凸显，早期教育尤其受到关注，以培养支撑未来产业的年轻一代。在此背景下，一项面向全国高中程序员的“高中生黑客松”已被策划并即将举办。本次活动不仅限于比拼编程技能，更旨在通过团队协作，培养创造力和解决问题的能力。",
+      "translationEn": "In recent years, as the importance of nurturing talent in the IT field has been emphasized, early education for young people who will support future industries has been gaining attention. Against this backdrop, a \"High School Programmer Hackathon\" targeting high school students nationwide has been planned and will be held. This event aims not only to compete in programming skills but also to foster creativity and problem-solving abilities through collaborative teamwork.",
+      "id": "d5269777-7b32-4f64-b34e-ff61b2e4aa71",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンとは、短期間で集中的にアイデアを出し合い、プロトタイプ（試作品）を開発するイベントのことです。参加者は、与えられたテーマや課題に対し、自らの技術力と発想力を駆使して、革新的なソリューションを生み出すことが求められます。今回の高校生ハッカソンでは、教育、地域活性化、環境問題といった、現代社会が抱える諸課題をテーマに設定する予定であり、参加者には SDGs（持続可能な開発目標）達成に貢献するようなアイデアの創出も期待されています。",
+      "translationZh": "黑客松是一种在短时间内集中构思、开发原型（试制品）的活动。参与者需要运用自身的技术能力和创意，针对给定的主题或课题，创造出创新的解决方案。本次高中生黑客松计划将围绕教育、地区振兴、环境问题等当代社会面临的各种挑战设定主题，并期望参与者能创造出有助于实现 SDGs（可持续发展目标）的创意。",
+      "translationEn": "A hackathon is an event where participants intensively brainstorm and develop prototypes (trial products) in a short period. Participants are required to utilize their technical skills and imagination to create innovative solutions for given themes or challenges. This high school hackathon plans to set themes such as education, regional revitalization, and environmental issues, which are contemporary societal challenges, and participants are expected to generate ideas that contribute to achieving SDGs (Sustainable Development Goals).",
+      "id": "1a063ae2-ce62-44ef-838a-a37e108eaf9a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "本イベントの開催に伴い、専門家によるメンター制度も導入されるとのことです。経験豊富なエンジニアやデザイナーが、参加チームに対し技術的なアドバイスやフィードバックを行うことで、より質の高い成果物の完成を支援します。また、優秀な成績を収めたチームには、賞金や、企業でのインターンシップ機会などが提供される見込みとなっており、参加者のモチベーション向上に繋がるものと見られています。",
+      "translationZh": "据了解，本次活动还将引入专家指导制度。经验丰富的工程师和设计师将为参赛团队提供技术建议和反馈，以支持更高质量成果的完成。此外，成绩优异的团队有望获得奖金或在企业实习的机会，这被认为将有助于提高参与者的积极性。",
+      "translationEn": "It is understood that a mentor system by experts will also be introduced with the holding of this event. Experienced engineers and designers will provide technical advice and feedback to participating teams, supporting the completion of higher quality deliverables. Furthermore, teams that achieve excellent results are expected to be awarded prize money and opportunities for internships at companies, which is seen as a way to boost participants' motivation.",
+      "id": "cb8abca4-aa73-41fb-9109-cf18e361ff15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "高校生ハッカソンは、次世代のイノベーターを育成する上で、極めて重要な意義を持つと考えられます。実践的なスキル習得のみならず、チームワークやコミュニケーション能力、そして社会課題への関心を深める機会となるでしょう。このイベントを通じて、未来を切り拓く若き才能が数多く輩出されることが期待されています。",
+      "translationZh": "高中生黑客松被认为在培养下一代创新者方面具有极其重要的意义。它不仅是学习实践技能的机会，也将是加深团队合作、沟通能力以及对社会问题关注的平台。人们期待通过此次活动，能涌现出许多开创未来的年轻人才。",
+      "translationEn": "The high school hackathon is considered to hold extremely significant importance in nurturing the next generation of innovators. It will serve as an opportunity not only to acquire practical skills but also to deepen teamwork, communication abilities, and interest in social issues. It is anticipated that numerous young talents who will pave the way for the future will emerge through this event.",
+      "id": "c677315f-6775-47cd-9a28-269f78e72d8f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "叫ばれる",
+      "reading": "よばれる",
+      "meaningZh": "被呼吁，被强调",
+      "meaningEn": "to be called, to be emphasized",
+      "level": "n2n1",
+      "exampleSentence": "IT分野における人材育成の重要性が叫ばれている。",
+      "id": "59c46b18-0234-4be4-9699-01e102b6e7df"
+    },
+    {
+      "word": "踏まえ",
+      "reading": "ふまえ",
+      "meaningZh": "基于，考虑到",
+      "meaningEn": "based on, taking into consideration",
+      "level": "n2n1",
+      "exampleSentence": "これらの点を踏まえ、計画を見直す必要がある。",
+      "id": "1689f35b-ec9e-46d4-b4fc-f78645350e77"
+    },
+    {
+      "word": "留まる",
+      "reading": "とどまる",
+      "meaningZh": "限于，停留",
+      "meaningEn": "to be limited to, to remain",
+      "level": "n3",
+      "exampleSentence": "この議論は、単なる批判に留まるべきではない。",
+      "id": "44829da7-46f2-4770-bb32-1df8502c0fab"
+    },
+    {
+      "word": "駆使",
+      "reading": "くし",
+      "meaningZh": "巧妙运用，充分利用",
+      "meaningEn": "to make full use of, to employ skillfully",
+      "level": "n2n1",
+      "exampleSentence": "彼はその言語能力を駆使して、交渉を成功させた。",
+      "id": "08f1059e-ee1e-44f6-b739-bf755ad51973"
+    },
+    {
+      "word": "諸課題",
+      "reading": "しょだい",
+      "meaningZh": "各种课题，诸多问题",
+      "meaningEn": "various issues, a multitude of problems",
+      "level": "n2n1",
+      "exampleSentence": "現代社会は、経済、環境など、多くの諸課題に直面している。",
+      "id": "92167206-dbb4-4c88-bc38-21bf82b365ce"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "导入，引进",
+      "meaningEn": "introduction, adoption",
+      "level": "n3",
+      "exampleSentence": "新しいシステムが導入され、業務効率が改善された。",
+      "id": "1dfd7908-993d-460e-85cf-3ceecd7c8472"
+    },
+    {
+      "word": "見込み",
+      "reading": "みこみ",
+      "meaningZh": "预测，预期，可能性",
+      "meaningEn": "prospect, expectation, estimate",
+      "level": "n2n1",
+      "exampleSentence": "来年の売上は、前年比で増加する見込みだ。",
+      "id": "e8d0ca51-ac75-4bba-94ed-3702e9d229ea"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回の高校生ハッカソンが目的としていることは何ですか？",
+      "options": [
+        "プログラミングスキルのみを向上させること",
+        "チームでの協働を通じて創造性や問題解決能力を育むこと",
+        "企業への就職活動を支援すること",
+        "最新のプログラミング言語を学ぶこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「本イベントは、単にプログラミングスキルを競う場に留まらず、チームでの協働作業を通じて、創造性や問題解決能力を育むことを目的としております。」と述べられています。",
+      "id": "2a6b3f17-0b74-46eb-927d-b82619ec5953"
+    },
+    {
+      "question": "ハッカソンで参加者に期待されていることの一つは何ですか？",
+      "options": [
+        "過去の成功事例を分析すること",
+        "既存のソフトウェアのバグを見つけること",
+        "SDGs達成に貢献するようなアイデアを創出すること",
+        "イベントの運営を手伝うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "「参加者には SDGs（持続可能な開発目標）達成に貢献するようなアイデアの創出も期待されています。」と記述されています。",
+      "id": "01501702-c63f-4c8b-95b8-d424f0f5ffea"
+    },
+    {
+      "question": "イベントで導入されるメンター制度の役割は何ですか？",
+      "options": [
+        "参加者の生活指導を行うこと",
+        "参加チームに技術的なアドバイスやフィードバックを提供すること",
+        "イベントの広報活動を行うこと",
+        "賞金やインターンシップの選考を行うこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「経験豊富なエンジニアやデザイナーが、参加チームに対し技術的なアドバイスやフィードバックを行うことで、より質の高い成果物の完成を支援します。」と説明されています。",
+      "id": "a2755f78-7d62-4363-83e9-3296a1d4ab40"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-05-22473898ef",
+  "publishedAt": "2026-07-05T06:00:00+09:00"
+}
