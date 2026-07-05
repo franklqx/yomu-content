@@ -1,0 +1,122 @@
+{
+  "title": "地域通貨で街が元気に",
+  "summary": "地域通貨は、その地域だけで使えるお金です。商店街で地域通貨を使うと、お店も人も元気になります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "商店街は、昔から地域の人々の生活に大切でした。しかし、最近、元気がない商店街が増えています。そこで、新しいアイデアが生まれました。それは「地域通貨」を使うことです。",
+      "translationZh": "商店街自古以来就对当地居民的生活很重要。但是，最近，越来越多的商店街变得没有活力。因此，一个新想法诞生了。那就是使用“地域货币”。",
+      "translationEn": "Shopping streets have been important to the lives of local people since ancient times. However, recently, more and more shopping streets are losing their vitality. Therefore, a new idea was born. It is to use \"local currency.\"",
+      "id": "c876ef8b-ba12-4c1d-bd65-d5c2a787796c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨は、その地域でしか使えない特別な通貨です。例えば、A市で地域通貨を作ったとします。その通貨は、A市の商店街のお店でしか使えません。これは、地域のお金が地域の中で回るようにするための工夫です。",
+      "translationZh": "地域货币是一种只能在该地区使用的特殊货币。例如，假设在 A 市制作了地域货币。这种货币只能在 A 市商店街的商店使用。这是为了让区域内的金钱在区域内流通而采取的措施。",
+      "translationEn": "Local currency is special money that can only be used in that region. For example, let's assume local currency is created in City A. That currency can only be used at shops in the shopping streets of City A. This is an effort to make local money circulate within the region.",
+      "id": "4798924e-bfe1-43ac-99be-c62814c9eaa9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨を使うと、地域のお店はもっとお客さんが来るようになります。お客さんも、普段買わないものをお得に買えるかもしれません。地域通貨は、お店と地域の人々をつなぐ、良い方法です。",
+      "translationZh": "使用地域货币，可以让当地商店吸引更多顾客。顾客也可能以优惠的价格买到平时不买的东西。地域货币是连接商店和当地居民的好方法。",
+      "translationEn": "By using local currency, local shops can attract more customers. Customers may also be able to buy things they wouldn't normally buy at a good price. Local currency is a good way to connect shops and local people.",
+      "id": "4bf36e87-5494-4e2e-b147-749203bff645",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この取り組みは、多くの商店街で始まっています。地域通貨で、商店街がもっと元気になることが期待されています。皆さんの街にも、地域通貨があるかもしれませんね。",
+      "translationZh": "这项举措已经在许多商店街开始了。人们期望通过地域货币，商店街能变得更加有活力。也许你的城市也有地域货币。",
+      "translationEn": "This initiative has begun in many shopping streets. It is expected that shopping streets will become more vibrant with local currency. Perhaps your city also has local currency.",
+      "id": "1ac4112b-d6fb-4c36-ba4e-c058d321acaa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつも賑やかです。",
+      "id": "dead9d5d-5516-4390-8010-a0f0766980f8"
+    },
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "地域货币",
+      "meaningEn": "local currency",
+      "level": "n5n4",
+      "exampleSentence": "地域通貨でお買い物をしました。",
+      "id": "bf60ebeb-c05f-40ad-9513-b3206543a7d1"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力；健康",
+      "meaningEn": "energetic; healthy",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも元気です。",
+      "id": "cec558d5-e54f-4e6d-9ef0-506889cbdaa2"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "友達は私にとって大切です。",
+      "id": "b9bb26c1-e7cb-4dcf-aa4e-bc3744d73ecf"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通；平常",
+      "meaningEn": "ordinary; usual",
+      "level": "n5n4",
+      "exampleSentence": "今日は普通の日です。",
+      "id": "e3cab317-b7be-4540-989f-6a4d22c6feb2"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法；点子；办法",
+      "meaningEn": "idea; ingenuity; device",
+      "level": "n3",
+      "exampleSentence": "この問題の解決に新しい工夫が必要です。",
+      "id": "95ab362f-53e5-484b-a551-550cfc000b88"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待",
+      "meaningEn": "expectation",
+      "level": "n3",
+      "exampleSentence": "将来に大きな期待をしています。",
+      "id": "8c3fff96-8a08-4865-accb-fb6329a3a386"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨は、どこで使うことができますか。",
+      "options": [
+        "世界中",
+        "国のどこでも",
+        "その地域だけ",
+        "インターネットだけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "地域通貨は、その地域でしか使えない特別な通貨です。例えば、A市で地域通貨を作ったとします。その通貨は、A市の商店街のお店でしか使えません。",
+      "id": "de738ed1-2d80-4a0d-99e1-96a5ccc76dc6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-06-b6105dfb66",
+  "publishedAt": "2026-07-06T06:00:00+09:00"
+}

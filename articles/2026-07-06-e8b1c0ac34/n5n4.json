@@ -1,0 +1,122 @@
+{
+  "title": "昔の道具が新しい！",
+  "summary": "昔からある民芸品が、若い人たちの間で人気です。その理由を見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、日本にはたくさんの民芸品がありました。手で作られた、とても美しい道具です。たとえば、お皿やコップ、かごなどです。これらは生活にとても役立ちました。そして、形もきれいでした。",
+      "translationZh": "以前，日本有很多民俗工艺品。它们是手工制作的，非常精美的器物。例如，盘子、杯子、篮子等。这些对生活非常有帮助。而且，它们的造型也很漂亮。",
+      "translationEn": "In the past, Japan had many folk crafts. These were beautiful tools made by hand. For example, plates, cups, and baskets. They were very useful for daily life. And their shapes were also beautiful.",
+      "id": "9618bb34-0611-44f3-a6d5-8ab5d5abc9a6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、若い人たちの間で、これらの民芸品がまた人気になっています。昔のものは、今見るととても新しく見えます。シンプルで、使いやすいからです。SNSでも、民芸品の写真がたくさん見られます。",
+      "translationZh": "最近，在年轻人中间，这些民俗工艺品又开始受欢迎了。旧的东西，现在看会显得非常新。因为它们简单、易于使用。在社交媒体上，也能看到很多民俗工艺品的照片。",
+      "translationEn": "Recently, among young people, these folk crafts are becoming popular again. Old things look very new when seen now. This is because they are simple and easy to use. Many photos of folk crafts can also be seen on social media.",
+      "id": "b6fdf7e6-11ad-4bc7-93f2-8eff6bdfede0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいコレクターは、古い民芸品を大切にしています。そして、それを自分の部屋に飾ったり、使ったりしています。古いものに新しい価値を見つけているのです。これはとても良いことだと思います。",
+      "translationZh": "新的收藏家们珍视这些旧的民俗工艺品。并且，他们会把它们装饰在自己的房间里，或者使用它们。他们在旧事物中发现了新的价值。我认为这是一件非常好的事情。",
+      "translationEn": "New collectors cherish old folk crafts. And they decorate their rooms with them, or use them. They are finding new value in old things. I think this is a very good thing.",
+      "id": "4e70d52d-47dc-4b1d-8270-209b29d967f1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "民芸運動は、物を大切にする心を育てます。これからも、古い民芸品と新しい世代が、もっとつながっていくでしょう。",
+      "translationZh": "民艺运动培养了珍惜物品的心。今后，旧的民俗工艺品和新一代也将会更加紧密地联系在一起。",
+      "translationEn": "The folk craft movement fosters a heart that cherishes things. From now on, old folk crafts and new generations will likely become even more connected.",
+      "id": "fe8943fb-c9e7-4749-bf59-e32c331b8f98",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町はとても静かでした。",
+      "id": "6cf61717-9f9a-4102-8c9f-d79a6f002dbf"
+    },
+    {
+      "word": "民芸品",
+      "reading": "みんげいひん",
+      "meaningZh": "民俗工艺品",
+      "meaningEn": "folk craft",
+      "level": "n5n4",
+      "exampleSentence": "これは美しい民芸品です。",
+      "id": "e2821dad-9c85-4d12-9e86-07a4f4b88a7a"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaningZh": "工具，器物",
+      "meaningEn": "tool, implement",
+      "level": "n5n4",
+      "exampleSentence": "料理の道具がたくさんあります。",
+      "id": "9e71eef2-c9a6-4b2d-9f99-59f95252c13f"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "f46b393f-8186-4262-b3bc-de0d20c30714"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が面白いです。",
+      "id": "fbc1843d-5934-42cb-81c4-faafe6ee6a2f"
+    },
+    {
+      "word": "価値",
+      "reading": "かち",
+      "meaningZh": "价值",
+      "meaningEn": "value",
+      "level": "n3",
+      "exampleSentence": "この絵には高い価値があります。",
+      "id": "058cbf46-2d8b-488c-890a-bee1df5c79d7"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要，珍惜",
+      "meaningEn": "important, precious",
+      "level": "n5n4",
+      "exampleSentence": "家族は私にとって大切です。",
+      "id": "0a6b4d16-ee2d-4ab2-9144-52ac571e066e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若い人たちの間で民芸品が人気ですか？",
+      "options": [
+        "とても高いからです。",
+        "SNSでたくさん見かけるからです。",
+        "シンプルで使いやすいからです。",
+        "有名な人が使っているからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「シンプルで、使いやすいからです。」という理由が書かれています。",
+      "id": "1d06123e-670f-4e15-b5c0-ea9cf80ea0d6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-06-e8b1c0ac34",
+  "publishedAt": "2026-07-06T06:00:00+09:00"
+}

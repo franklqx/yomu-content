@@ -1,0 +1,126 @@
+{
+  "title": "民芸運動の魅力再発見！新しい世代のコレクターたち",
+  "summary": "かつて日本で広まった民芸運動が、今、若い世代の間で静かに再評価されています。彼らは、古いものの中に新しい価値を見出しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "柳宗悦（やぎむねよし）によって始められた民芸運動は、生活の中で使われる「用の美」を大切にする考え方でした。しかし、時代が進むにつれて、その価値が忘れられがちになっていました。ところが最近、若い世代の間で、この民芸品に再び注目が集まっているのです。",
+      "translationZh": "由柳宗悦发起的民艺运动，是一种重视日常生活中使用的“实用之美”的理念。然而，随着时代的变迁，其价值似乎逐渐被遗忘。但最近，在年轻一代中，这种对民艺品的关注又重新兴盛起来。",
+      "translationEn": "The Mingei movement, started by Soetsu Yanagi, was a philosophy that valued the 'beauty of utility' used in daily life. However, as time went on, its value tended to be forgotten. Recently, however, this folk craft has been gaining attention again among the younger generation.",
+      "id": "ec7f8567-9ee3-412c-bc95-1802eabfb998",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "SNSなどを通じて、昔ながらの陶器や布製品の美しさが紹介されるようになり、多くの若者が興味を持つようになりました。彼らは、大量生産されるものとは違う、一つ一つ手作りされた温かみや、そこに込められた作り手の物語に魅力を感じているようです。古いものが、新しい感性で「おしゃれ」に見えるようになったのです。",
+      "translationZh": "通过社交媒体等平台，昔日陶器和布艺制品的美丽被介绍开来，吸引了许多年轻人产生兴趣。他们似乎被与大量生产的物品不同，每一个手工制作的温暖感，以及其中蕴含的制作者的故事所吸引。古老的事物，就这样以新的感受被视为“时尚”。",
+      "translationEn": "Through platforms like social media, the beauty of traditional pottery and textiles has been introduced, sparking interest among many young people. They seem to be drawn to the warmth of each handmade item, different from mass-produced goods, and the stories of the artisans embedded within them. Old items have come to be seen as 'stylish' with a new sensibility.",
+      "id": "0e95ba2d-8436-4eef-af8a-88faad2f6269",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新世代のコレクターたちは、単に古いものを集めるだけでなく、それを現代の生活に取り入れて楽しんでいます。例えば、古い染付（そめつけ）の小皿をアクセサリー入れにしたり、絣（かすり）の布をモダンなバッグにリメイクしたりする人もいます。このように、民芸運動の精神は、形を変えながらも、現代に息づいていると言えるでしょう。",
+      "translationZh": "新一代的收藏家们，不仅是收集旧物，还将其融入现代生活并乐在其中。例如，有人将旧时的染付小碟用作首饰盒，也有人将絣织布改造成时髦的包袋。如此看来，民艺运动的精神，即使改变了形式，也依旧在现代生活中焕发生机。",
+      "translationEn": "New generation collectors don't just gather old items; they incorporate them into their modern lives with enjoyment. For example, some use old sometsuke small plates as accessory holders, and others remake kasuri fabrics into modern bags. In this way, it can be said that the spirit of the Mingei movement, while changing its form, is still alive in contemporary times.",
+      "id": "69f00869-0f6e-45d7-8afe-100be0f87e94",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "柳宗悦",
+      "reading": "やぎむねよし",
+      "meaningZh": "日本的民艺理论家、评论家",
+      "meaningEn": "Japanese folk craft theorist and critic",
+      "level": "n2n1",
+      "exampleSentence": "柳宗悦は民芸運動の中心人物でした。",
+      "id": "53b255d2-e4e2-4fda-bc70-3e18761fe971"
+    },
+    {
+      "word": "民芸運動",
+      "reading": "みんげいうんどう",
+      "meaningZh": "重视日常实用美的美术运动",
+      "meaningEn": "Folk craft movement emphasizing the beauty of everyday utility",
+      "level": "n3",
+      "exampleSentence": "民芸運動は、庶民の生活に根ざした美を広めました。",
+      "id": "ef60b233-8ce1-4716-a210-28e898520ee2"
+    },
+    {
+      "word": "用の美",
+      "reading": "ようのび",
+      "meaningZh": "实用物品所具有的美",
+      "meaningEn": "Beauty found in practical objects",
+      "level": "n3",
+      "exampleSentence": "この茶碗には用の美が感じられます。",
+      "id": "23dfb837-1212-4416-a414-7024d7868e3d"
+    },
+    {
+      "word": "SNS",
+      "reading": "エスエヌエス",
+      "meaningZh": "社交媒体服务（Social Networking Service）",
+      "meaningEn": "Social Networking Service",
+      "level": "n3",
+      "exampleSentence": "SNSで新しい情報を見つけました。",
+      "id": "f8f00815-b633-4d7f-abf6-abd33d0a45f0"
+    },
+    {
+      "word": "染付",
+      "reading": "そめつけ",
+      "meaningZh": "在陶器上用蓝色颜料绘制图案后施釉烧成的装饰技法",
+      "meaningEn": "A decorative technique on pottery using blue pigment to draw patterns before glazing and firing",
+      "level": "n3",
+      "exampleSentence": "このお皿は染付の模様が美しいです。",
+      "id": "d1cd3d42-a0c2-44e3-944d-372b1ce04a74"
+    },
+    {
+      "word": "絣",
+      "reading": "かすり",
+      "meaningZh": "一种用特殊染色和织造方法制成的带有模糊图案的织物",
+      "meaningEn": "A type of woven fabric with blurred patterns, made using special dyeing and weaving techniques",
+      "level": "n3",
+      "exampleSentence": "彼女は絣の着物を着ていました。",
+      "id": "88c2ff8f-ba3b-4b2b-ac0d-f596984bfa53"
+    },
+    {
+      "word": "リメイク",
+      "reading": "りめいく",
+      "meaningZh": "重新制作，改造",
+      "meaningEn": "Remake, redesign",
+      "level": "n3",
+      "exampleSentence": "古いジーンズをリメイクしてスカートを作りました。",
+      "id": "a4f92a5f-6a42-4f4d-aa77-3fc35187d3e4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "民芸運動が大切にしていた考え方とは何ですか？",
+      "options": [
+        "最新のデザインと技術",
+        "大量生産による安さ",
+        "生活の中で使われる「用の美」",
+        "海外の最新トレンド"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「柳宗悦（やぎむねよし）によって始められた民芸運動は、生活の中で使われる「用の美」を大切にする考え方でした。」と書かれています。",
+      "id": "2df0866e-8a9a-4e92-9a5c-dbe797a1f487"
+    },
+    {
+      "question": "若い世代が民芸品に魅力を感じる理由として、本文で述べられているものはどれですか？",
+      "options": [
+        "安く手に入りやすいから",
+        "SNSで流行しているから",
+        "手作りの温かみや作り手の物語に惹かれるから",
+        "有名ブランドとコラボしているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「彼らは、大量生産されるものとは違う、一つ一つ手作りされた温かみや、そこに込められた作り手の物語に魅力を感じているようです。」と書かれています。",
+      "id": "ef56cb7e-c7b8-4cc1-b34b-0876619a018b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-06-e8b1c0ac34",
+  "publishedAt": "2026-07-06T06:00:00+09:00"
+}
