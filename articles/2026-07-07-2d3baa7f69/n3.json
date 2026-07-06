@@ -1,0 +1,143 @@
+{
+  "title": "アニメグッズの限定販売と転売問題について考えよう",
+  "summary": "人気アニメの限定グッズがすぐに売り切れるのはなぜでしょう。そして、なぜ転売ヤーが問題になるのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気アニメの限定グッズが発売されると、すぐに売り切れてしまうことがよくありますね。これは、本当にそのアニメが好きなファンにとっては残念なことです。なぜなら、欲しいと思っても手に入れることができないからです。",
+      "translationZh": "最近，人气动画的限定周边商品发售时，经常会立刻售罄。这对于真心喜爱该动画的粉丝来说是非常遗憾的。因为，即使想得到，也无法如愿。",
+      "translationEn": "Recently, when limited edition merchandise for popular anime is released, it often sells out immediately. This is disappointing for fans who truly love the anime, because they can't get what they want even if they want it.",
+      "id": "dab650cd-0e28-40d6-a52c-0c5e657a6673",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "限定グッズがすぐに売り切れてしまう理由の一つに、転売ヤーの存在があります。転売ヤーとは、商品を安く買って、それを高い値段で売る人たちのことです。彼らは、限定グッズが人気であることを知っているので、大量に買って、必要としているファンに高値で売ろうとします。",
+      "translationZh": "限定周边商品之所以会迅速售罄，原因之一在于转售商的存在。转售商是指低价买进商品，再高价卖出的人。他们知道限定商品很受欢迎，所以会大量购入，然后试图以高价卖给真正需要的粉丝。",
+      "translationEn": "One reason why limited edition merchandise sells out so quickly is the existence of resellers. Resellers are people who buy products cheaply and then sell them at a higher price. They know that limited edition goods are popular, so they buy them in large quantities and try to sell them at a high price to fans who need them.",
+      "id": "7f623731-27bb-4c2b-bed8-e41b7e5616d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このような転売行為は、本来グッズを大切にしたいファンから適正な価格を取り上げてしまうため、問題視されています。また、限定グッズの希少性が失われ、アニメ文化全体のイメージが悪くなる可能性もあります。だから、運営側も対策を考えていく必要があるでしょう。",
+      "translationZh": "这种转售行为之所以受到关注，是因为它剥夺了原本想珍惜这些周边的粉丝以合理价格购买的机会。此外，限定商品稀缺性的意义也会消失，甚至可能影响到整个动漫文化的形象。因此，主办方也需要考虑对策。",
+      "translationEn": "Such resale activities are viewed as a problem because they take away the opportunity for fans who genuinely want to cherish the merchandise to purchase it at a fair price. Furthermore, the scarcity of limited edition goods loses its meaning, and it could potentially harm the image of anime culture as a whole. Therefore, organizers will likely need to consider countermeasures.",
+      "id": "55c260c6-7f93-4fc1-b826-dabfcee01d33",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ファンが公平にグッズを買えるようにするためには、購入制限を設けたり、抽選販売にしたりするなど、様々な方法が考えられます。アニメを愛する気持ちが、お金儲けの道具にされないように、私たち一人ひとりも、転売品を買わないという意識を持つことが大切だと思います。",
+      "translationZh": "为了让粉丝能公平地购买到周边商品，可以考虑多种方法，例如设定购买数量限制，或者采用抽签销售。我认为，为了不让对动画的热爱变成赚钱的工具，我们每个人也应该有不购买转售品的意识，这一点很重要。",
+      "translationEn": "To ensure that fans can purchase merchandise fairly, various methods can be considered, such as setting purchase limits or using lotteries. I believe it's important for each of us to have the awareness not to buy resold items, so that the love for anime is not exploited as a tool for making money.",
+      "id": "fb191830-88ea-4402-8681-cd161ec3c01d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定的，限量的",
+      "meaningEn": "limited",
+      "level": "n3",
+      "exampleSentence": "この商品は数量限定です。",
+      "id": "de4c1535-bfb6-4e92-8552-a115db2e2187"
+    },
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "merchandise, goods",
+      "level": "n5n4",
+      "exampleSentence": "アニメのグッズがたくさん売られていました。",
+      "id": "b62ff438-18f7-480e-bfed-befb8daa777d"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖光，售罄",
+      "meaningEn": "to sell out",
+      "level": "n3",
+      "exampleSentence": "人気の商品はすぐに売り切れてしまいます。",
+      "id": "a1465ee6-b5da-4df9-9e59-7bc1597c84f2"
+    },
+    {
+      "word": "転売ヤー",
+      "reading": "てんばいやー",
+      "meaningZh": "转售商，黄牛",
+      "meaningEn": "reseller, scalper",
+      "level": "n3",
+      "exampleSentence": "転売ヤーのせいで、定価で買えないことがあります。",
+      "id": "3275cc43-e0cb-4d4c-a915-981b2c50fc49"
+    },
+    {
+      "word": "大量",
+      "reading": "たいりょう",
+      "meaningZh": "大量，许多",
+      "meaningEn": "large quantity",
+      "level": "n3",
+      "exampleSentence": "彼は大量の在庫を抱えている。",
+      "id": "672bc4dc-5d7a-4a26-88d2-6bef63915c52"
+    },
+    {
+      "word": "適正な",
+      "reading": "てきせいな",
+      "meaningZh": "适当的，合适的，公平的",
+      "meaningEn": "proper, appropriate, fair",
+      "level": "n3",
+      "exampleSentence": "適正な価格で取引されるべきです。",
+      "id": "b2d445c5-8f04-4445-89aa-474c8d45f604"
+    },
+    {
+      "word": "希少性",
+      "reading": "きしょうせい",
+      "meaningZh": "稀少性，珍贵性",
+      "meaningEn": "scarcity, rarity",
+      "level": "n2n1",
+      "exampleSentence": "この切手は希少性が高い。",
+      "id": "f2416295-3891-41eb-89fc-a3bf25ede4dd"
+    },
+    {
+      "word": "運営側",
+      "reading": "うんえいがわ",
+      "meaningZh": "运营方，主办方",
+      "meaningEn": "management side, organizers",
+      "level": "n3",
+      "exampleSentence": "運営側はファンの意見を聞くべきだ。",
+      "id": "8857da01-caeb-49b0-955c-e147bfd65b09"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ人気アニメの限定グッズはすぐに売り切れてしまうのですか。",
+      "options": [
+        "ファンがグッズをあまり買わないからです。",
+        "転売ヤーが大量に買って高く売ろうとするからです。",
+        "グッズのデザインが良くないからです。",
+        "アニメ自体がもう人気がないからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「限定グッズがすぐに売り切れてしまう理由の一つに、転売ヤーの存在があります。」と説明されています。",
+      "id": "720c76f4-df96-407c-9162-4c15d45064c3"
+    },
+    {
+      "question": "筆者は、転売問題に対してどのような意識が大切だと述べていますか。",
+      "options": [
+        "転売ヤーから安く買う意識。",
+        "限定グッズはすぐに買う必要はないという意識。",
+        "転売品を買わないという意識。",
+        "運営側にもっと対策を求める意識。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落で、「私たち一人ひとりも、転売品を買わないという意識を持つことが大切だと思います。」と述べられています。",
+      "id": "6ef2a70a-1719-43ca-9937-1bf5d45f79b3"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-07-2d3baa7f69",
+  "publishedAt": "2026-07-07T06:00:00+09:00"
+}

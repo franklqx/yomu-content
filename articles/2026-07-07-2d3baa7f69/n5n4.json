@@ -1,0 +1,131 @@
+{
+  "title": "アニメグッズ、人気で買えない？",
+  "summary": "人気のアニメグッズはすぐに売り切れます。残念ながら、買えない人もたくさんいます。これは困った問題です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメの新しいグッズが発売されました。とても人気があります。お店に行っても、すぐに売り切れてしまいます。欲しい人が買えないことがあります。",
+      "translationZh": "新的动画周边商品发售了。非常受欢迎。即使去了商店，也会很快卖光。想要的人有时买不到。",
+      "translationEn": "New anime goods have been released. They are very popular. Even if you go to the store, they sell out immediately. Sometimes people who want them cannot buy them.",
+      "id": "6719827c-75cd-4250-a0b2-94214990727b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "人気なグッズは、ネットでもすぐに売れてしまいます。残念ながら、買えなかった人もいます。これは、本当のファンにとって、とても悲しいことです。",
+      "translationZh": "受欢迎的周边商品，在网上也很快就卖完了。很遗憾，也有买不到的人。这对真正的粉丝来说，是非常令人难过的事情。",
+      "translationEn": "Popular goods also sell out quickly online. Unfortunately, some people could not buy them. This is very sad for true fans.",
+      "id": "3e60e009-85fd-4ebf-80b7-bf6af7b53763",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そして、問題があります。それは「転売」です。買えなかった人が、高い値段でグッズを買うことがあります。そして、もっと高い値段で売ります。これは、困ったことです。",
+      "translationZh": "然后，有一个问题。那就是“倒卖”。买不到的人，有时会以高价买下周边商品。然后，再以更高的价格卖出去。这是令人困扰的事情。",
+      "translationEn": "And then, there is a problem. It is 'reselling'. People who couldn't buy sometimes buy goods at high prices. Then, they sell them at even higher prices. This is a troublesome issue.",
+      "id": "cf2ff521-97f7-4ffc-a775-4925b7ac7372",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "本当のファンは、普通にグッズを楽しみたいです。高い値段で買わなければならないのは、つらいです。みんなが楽しくアニメグッズを買えるようになると、いいですね。",
+      "translationZh": "真正的粉丝，只是想好好享受周边商品。不得不花高价去买，是很痛苦的。大家都能够开心地购买动画周边商品就好了。",
+      "translationEn": "True fans just want to enjoy the goods normally. Having to buy them at high prices is painful. It would be good if everyone could happily buy anime merchandise.",
+      "id": "763f5ca6-0351-4fa9-b7d3-7048a2ca4284",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "goods, merchandise",
+      "level": "n5n4",
+      "exampleSentence": "このアニメのグッズが欲しいです。",
+      "id": "c47f91c2-02fd-4032-a7d6-ce19753350c9"
+    },
+    {
+      "word": "発売",
+      "reading": "はつばい",
+      "meaningZh": "发售，上市",
+      "meaningEn": "release, sale",
+      "level": "n5n4",
+      "exampleSentence": "新しい本が発売されました。",
+      "id": "f8fd8744-707e-4d2a-91d4-91ac673c2a49"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "b58e9c2d-8cf8-4d75-975f-5edde276a886"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖光",
+      "meaningEn": "to sell out",
+      "level": "n5n4",
+      "exampleSentence": "チケットはもう売り切れました。",
+      "id": "95eada64-9b39-4711-9edf-dd9c1b2acd72"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾，可惜",
+      "meaningEn": "regrettable, unfortunate",
+      "level": "n5n4",
+      "exampleSentence": "雨で残念ですが、遠足は中止です。",
+      "id": "505ddc31-dba6-480f-add9-04e8dde3a853"
+    },
+    {
+      "word": "転売",
+      "reading": "てんばい",
+      "meaningZh": "倒卖，转卖",
+      "meaningEn": "resale, scalping",
+      "level": "n3",
+      "exampleSentence": "チケットの転売は禁止されています。",
+      "id": "05d0f98d-ab4f-4ed8-b0b0-e872e96e439f"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この商品の値段はいくらですか。",
+      "id": "9f530372-e993-47e6-ae1d-a04d875ab065"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，一般",
+      "meaningEn": "ordinary, normal",
+      "level": "n5n4",
+      "exampleSentence": "今日は普通の日です。",
+      "id": "efe58c81-e84d-4312-819b-baac9b261531"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "人気のアニメグッズは、どうして買えないことがありますか。",
+      "options": [
+        "値段が高すぎるからです。",
+        "お店が遠すぎるからです。",
+        "すぐに売り切れてしまうからです。",
+        "デザインが好きではないからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「人気なグッズは、お店に行っても、すぐに売り切れてしまいます。」と書いてあります。",
+      "id": "c3cbf1e0-907e-448f-84e0-eef0565b5a08"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-07-2d3baa7f69",
+  "publishedAt": "2026-07-07T06:00:00+09:00"
+}

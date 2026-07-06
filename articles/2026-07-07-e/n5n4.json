@@ -1,0 +1,131 @@
+{
+  "title": "高校生、eスポーツで活躍！",
+  "summary": "最近、eスポーツの大会で高校生がすごい活躍をしています。若い力はすごいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、eスポーツというゲームの大会が人気です。たくさんの人が見ています。この大会に、高校生が参加して、すごい成績を出しています。彼らはとても強いです。",
+      "translationZh": "最近，一种叫做 eSports 的游戏比赛很受欢迎。很多人都在观看。在这些比赛中，高中生们参加并取得了优异的成绩。他们非常厉害。",
+      "translationEn": "Recently, game competitions called eSports are popular. Many people are watching. High school students are participating in these tournaments and achieving great results. They are very strong.",
+      "id": "36b794f9-df91-4ede-8732-0767e7fadc02",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "eスポーツは、ただゲームをすることではありません。チームで力を合わせたり、速く考えたりする力が必要です。高校生は、学校の勉強も大切にしながら、一生懸命練習しました。",
+      "translationZh": "eSports不仅仅是玩游戏。需要团队合作和快速思考的能力。高中生们在努力练习的同时，也重视学校的学习。",
+      "translationEn": "eSports is not just about playing games. It requires teamwork and the ability to think quickly. High school students practiced hard while also valuing their school studies.",
+      "id": "9edee24e-47fa-438d-a7a3-5580a30225ac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ある高校生チームは、大きな大会で優勝しました。たくさんの応援がありました。彼らの名前は、ゲームの世界で有名になりました。これからも、彼らの活躍が楽しみです。",
+      "translationZh": "一个高中生团队在一个大型比赛中获胜了。他们得到了很多支持。他们的名字在游戏界变得很有名。今后，也期待他们的活跃表现。",
+      "translationEn": "A high school team won a major tournament. They received a lot of support. Their names became famous in the gaming world. We look forward to their future success.",
+      "id": "b2357293-12f0-43e6-8306-90e1367a78c1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "eスポーツは、新しいスポーツとして注目されています。若い世代が、この分野で輝いています。彼らの情熱と技術は、私たちに元気を与えてくれます。",
+      "translationZh": "eSports正作为一项新兴运动受到关注。年轻一代在这个领域闪耀着光芒。他们的热情和技术给我们带来了活力。",
+      "translationEn": "eSports is gaining attention as a new sport. The younger generation is shining in this field. Their passion and skills give us energy.",
+      "id": "9f071ea0-bc12-4f0e-8a04-27452a122a53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaningZh": "大会，比赛",
+      "meaningEn": "tournament, competition",
+      "level": "n5n4",
+      "exampleSentence": "大きな大会で優勝しました。",
+      "id": "7d611df4-66ee-467c-8685-9b632a0604a7"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生が参加しています。",
+      "id": "eec79dfe-5d81-4319-9711-89e5b9edc0ba"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "active participation, distinguished service",
+      "level": "n5n4",
+      "exampleSentence": "高校生が活躍しています。",
+      "id": "d5201186-01b8-4c31-b085-ef4e3d71fa9e"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "eスポーツは人気です。",
+      "id": "5e63d8b7-069b-40a2-b91e-eb85ea18130f"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "大会に参加しました。",
+      "id": "214075d5-5628-41d7-be61-56f0884fa0bd"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaningZh": "成绩",
+      "meaningEn": "result, achievement",
+      "level": "n5n4",
+      "exampleSentence": "良い成績を出しました。",
+      "id": "0aea4458-ef78-489a-983c-c6494b03e664"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "拼命地，努力地",
+      "meaningEn": "with all one's might, very hard",
+      "level": "n5n4",
+      "exampleSentence": "一生懸命練習しました。",
+      "id": "aad4d608-d62e-4685-9975-d2286655aa55"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": "チームが優勝しました。",
+      "id": "ead8f7d7-43bc-4519-a147-a219dab30d5b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高校生は、eスポーツの大会でどのような結果を出しましたか。",
+      "options": [
+        "残念ながら、あまり良い結果は出ませんでした。",
+        "優勝したり、すごい成績を出したりしました。",
+        "大会には参加しませんでした。",
+        "ゲームはあまり好きではありませんでした。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この大会に、高校生が参加して、すごい成績を出しています。」と「ある高校生チームは、大きな大会で優勝しました。」という部分からわかります。",
+      "id": "53538f25-6405-4738-98b6-7475b4f8a501"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-07-e",
+  "publishedAt": "2026-07-07T06:00:00+09:00"
+}
