@@ -1,0 +1,122 @@
+{
+  "title": "注目の高校サッカーチーム",
+  "summary": "高校サッカー選手権は毎年とても人気があります。今年はどのチームが注目されているか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "高校サッカー選手権が始まりました。たくさんの応援があります。今年は強いチームがたくさんあります。みんな、一生懸命頑張っています。",
+      "translationZh": "高中足球锦标赛开始了。有很多的应援。今年有很多强队。大家都在拼命努力。",
+      "translationEn": "The high school soccer championship has begun. There is a lot of support. There are many strong teams this year. Everyone is working very hard.",
+      "id": "e2f6483d-b2e9-496b-be5f-ec369e854d76",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目されているチームがいくつかあります。例えば、去年の優勝チームです。そのチームは今年も強いです。新しい選手も活躍しています。",
+      "translationZh": "有几支队伍特别受关注。例如，去年的冠军队伍。那支队伍今年也很强。新的选手们也表现活跃。",
+      "translationEn": "There are a few teams that are particularly attracting attention. For example, last year's champion team. That team is strong again this year. New players are also performing well.",
+      "id": "f6d804db-86ae-4497-a261-31c4e41ae810",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "他にも、初めて大会に出るチームがあります。そのチームは勢いがあります。これまで練習をたくさんしました。応援したくなりますね。",
+      "translationZh": "除此之外，还有第一次参加比赛的队伍。那支队伍很有气势。到目前为止，他们练习了很多。让人想为他们加油呢。",
+      "translationEn": "Besides them, there are teams participating in the tournament for the first time. That team has momentum. They have practiced a lot so far. It makes you want to cheer for them.",
+      "id": "d6f1034b-b5ee-479a-8685-117feb30ff27",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "試合はとても面白いです。最後まで何が起こるか分かりません。みんなで応援しましょう。",
+      "translationZh": "比赛非常有趣。直到最后都不知道会发生什么。大家一起加油吧。",
+      "translationEn": "The matches are very interesting. We don't know what will happen until the very end. Let's all cheer together.",
+      "id": "a450d26a-3cbb-4315-9714-73b177ad2348",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手権",
+      "reading": "せんしゅけん",
+      "meaningZh": "锦标赛，選手権",
+      "meaningEn": "championship",
+      "level": "n5n4",
+      "exampleSentence": "この大会は全国選手権です。",
+      "id": "af22469f-d94c-44b9-bd5a-19a52424bca1"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，瞩目",
+      "meaningEn": "attention, notice",
+      "level": "n5n4",
+      "exampleSentence": "この新しい映画に注目しています。",
+      "id": "cc347b80-a2f6-4aa9-b6e4-5a6b920d5828"
+    },
+    {
+      "word": "去年",
+      "reading": "きょねん",
+      "meaningZh": "去年",
+      "meaningEn": "last year",
+      "level": "n5n4",
+      "exampleSentence": "去年、日本へ行きました。",
+      "id": "dce28e68-6983-4a3b-9c9e-84d4f67268d8"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": "私たちも優勝したいです。",
+      "id": "fc5154c5-ec00-4611-a773-30067b5ae6e0"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "3c193269-8054-4fe5-8511-b86c0b403fc0"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有功绩",
+      "meaningEn": "activity, success",
+      "level": "n5n4",
+      "exampleSentence": "新しいメンバーが活躍しています。",
+      "id": "ca597cfb-c5da-4327-a104-b91e20cc9c2e"
+    },
+    {
+      "word": "勢い",
+      "reading": "いきおい",
+      "meaningZh": "气势，活力",
+      "meaningEn": "momentum, vigor",
+      "level": "n3",
+      "exampleSentence": "そのチームは勢いがあります。",
+      "id": "668e0f8c-6621-4296-b54c-1fe7aa7bf4c6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "去年の優勝チームについて、文章は何と言っていますか？",
+      "options": [
+        "今年は弱いですが、頑張っています。",
+        "去年も強かったです。今年も強いです。",
+        "今年は初めて大会に出ます。",
+        "新しい選手はいません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「特に注目されているチームがいくつかあります。例えば、去年の優勝チームです。そのチームは今年も強いです。」と書いてあります。",
+      "id": "6f11a1e2-3b19-471e-84ad-24535e14306e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-08-7d62f14f8b",
+  "publishedAt": "2026-07-08T06:00:00+09:00"
+}

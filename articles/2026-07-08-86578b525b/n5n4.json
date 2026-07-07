@@ -1,0 +1,122 @@
+{
+  "title": "夏休みの人気プログラム",
+  "summary": "夏休み、子供たちはどう過ごしますか？最近、新しいプログラムが人気です。どんなプログラムがあるか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏休みが始まりました。子供たちは学校が休みで、とても楽しいです。最近、夏休みのプログラムが人気があります。多くの子供たちがこれらのプログラムに参加しています。",
+      "translationZh": "暑假开始了。孩子们不用上学，非常开心。最近，暑期项目很受欢迎。很多孩子都参加了这些项目。",
+      "translationEn": "Summer vacation has begun. Children don't have school and are very happy. Recently, summer programs have become popular. Many children are participating in these programs.",
+      "id": "84edfefa-1316-4627-aaa9-d61cedeb5223",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一番人気なのは、自然体験プログラムです。山へ行ったり、川で遊んだりします。子供たちは自然の中で新しいことを学びます。虫を見つけたり、魚を捕まえたりします。とても勉強になります。",
+      "translationZh": "最受欢迎的是自然体验项目。他们去山里，在河边玩耍。孩子们在自然中学习新事物。他们会发现虫子，捕捉鱼。这非常有益。",
+      "translationEn": "The most popular are nature experience programs. They go to the mountains and play in the river. Children learn new things in nature. They find insects and catch fish. It is very educational.",
+      "id": "f248bfc1-26f8-43ca-aa8b-07590946a04e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "次に人気なのは、学習プログラムです。プログラミングや英語を勉強する子供たちが増えています。将来のために、早いうちから勉強を始めるのは良いことです。先生が優しく教えてくれます。",
+      "translationZh": "其次受欢迎的是学习项目。越来越多的孩子学习编程和英语。为了未来，尽早开始学习是件好事。老师会温柔地教他们。",
+      "translationEn": "Next in popularity are learning programs. More and more children are studying programming and English. It is good to start studying early for the future. Teachers teach them kindly.",
+      "id": "3851fe9b-92c7-4a40-b2a3-9e0c6a911856",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのプログラムは、子供たちの夏休みをより豊かにします。新しい友達もできて、楽しい思い出がたくさん作れます。保護者にとっても、安心できる夏休みになります。",
+      "translationZh": "这些项目丰富了孩子们的暑假生活。他们还能交到新朋友，留下许多快乐的回忆。对家长来说，这也是一个安心的暑假。",
+      "translationEn": "These programs enrich children's summer vacation. They can also make new friends and create many happy memories. For parents, it is also a reassuring summer vacation.",
+      "id": "3be0dc4b-94ec-4e7e-9fdc-e2483bbbced9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaningZh": "暑假",
+      "meaningEn": "summer vacation",
+      "level": "n5n4",
+      "exampleSentence": "夏休みはいつからですか。",
+      "id": "08b8aa26-98d8-4b66-a4de-5e8c5599f87b"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaningZh": "孩子",
+      "meaningEn": "child",
+      "level": "n5n4",
+      "exampleSentence": "子供たちは公園で遊んでいます。",
+      "id": "b5c78c01-3237-413e-875a-8d643216c7f0"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはとても人気があります。",
+      "id": "4103b7ce-a062-4992-a7b5-6837be059f60"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然の中で散歩するのは気持ちいいです。",
+      "id": "3748f081-3d44-4cc2-8874-b3120348b94e"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "田舎で農業体験をしました。",
+      "id": "e4481338-c677-4450-b8e8-dd911caacea9"
+    },
+    {
+      "word": "勉強",
+      "reading": "べんきょう",
+      "meaningZh": "学习",
+      "meaningEn": "study",
+      "level": "n5n4",
+      "exampleSentence": "毎日、日本語を勉強します。",
+      "id": "807c953a-d78c-400f-9ad1-ae4384bdb576"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaningZh": "将来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "将来、医者になりたいです。",
+      "id": "19eee257-ee9a-4bf3-921b-348f369a7893"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "子供たちが自然体験プログラムで何をするのが好きですか。",
+      "options": [
+        "ゲームをすること",
+        "友達と話すこと",
+        "虫を見つけたり、魚を捕まえたりすること",
+        "テレビを見ること"
+      ],
+      "correctIndex": 2,
+      "explanation": "一番人気なのは、自然体験プログラムです。山へ行ったり、川で遊んだりします。子供たちは自然の中で新しいことを学びます。虫を見つけたり、魚を捕まえたりします。",
+      "id": "5c26038b-dc38-44ca-886f-8edeb2368fcf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-08-86578b525b",
+  "publishedAt": "2026-07-08T06:00:00+09:00"
+}

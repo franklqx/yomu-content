@@ -1,0 +1,122 @@
+{
+  "title": "空き家が新しい場所になる",
+  "summary": "日本では、使われていない家が増えています。これらの家を使いやすくするプロジェクトがあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、古い家が空き家になることがあります。空き家は、人が住んでいない家です。街には、空き家が増えている場所があります。",
+      "translationZh": "在日本，老房子有时会变成空置房。空置房是没有人居住的房子。在城市里，有一些地方空置房在增加。",
+      "translationEn": "In Japan, old houses sometimes become vacant houses. Vacant houses are houses where no one lives. In cities, there are places where vacant houses are increasing.",
+      "id": "a862ac62-c6af-4663-8d80-556f13dd6ed9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、空き家をきれいにしたり、直したりするプロジェクトが始まりました。空き家をカフェやお店、または新しい家に変えます。",
+      "translationZh": "因此，清理和修理空置房子的项目开始了。空置房被改造成咖啡馆、商店或新家。",
+      "translationEn": "Therefore, projects to clean and repair vacant houses have started. Vacant houses are transformed into cafes, shops, or new homes.",
+      "id": "78a7a0f9-29a9-40b2-a2cd-a1a8ffc7ce29",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このプロジェクトは、街を元気にするのに役立ちます。古い家が新しくなり、人々がそこに行くのが楽しくなります。街にも、新しい人が住むようになります。",
+      "translationZh": "这个项目有助于让城市充满活力。旧房子变得新，人们去那里变得开心。城市里也会有新的人居住。",
+      "translationEn": "This project helps to energize the city. Old houses become new, and people enjoy going there. New people will also start living in the city.",
+      "id": "f39c4239-ebd0-4032-9531-7a8173c6c3c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "空き家活用プロジェクトは、これからも大切になるでしょう。街がもっと良くなるために、色々なアイデアがあります。",
+      "translationZh": "空置房利用项目今后也会很重要。为了让城市变得更好，有各种各样的想法。",
+      "translationEn": "Vacant house utilization projects will likely remain important in the future. There are various ideas to make the city even better.",
+      "id": "212550b3-9151-4a8d-9a7e-58e0cb629bf6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置房屋",
+      "meaningEn": "vacant house",
+      "level": "n5n4",
+      "exampleSentence": "この町に空き家が多いです。",
+      "id": "2e816a0c-da9d-4c56-b58c-1600b3cf802e"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "利用，活用",
+      "meaningEn": "utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "この部屋を勉強に活用します。",
+      "id": "3861c077-ca33-42f5-8c17-d260ed4d7da6"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "项目",
+      "meaningEn": "project",
+      "level": "n5n4",
+      "exampleSentence": "新しいプロジェクトが始まりました。",
+      "id": "60e2b791-9e74-4bf0-97ca-7870fc8e7248"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有精神，健康，活力",
+      "meaningEn": "energetic, healthy, lively",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも元気です。",
+      "id": "348b11b2-5a2f-4f50-a2ea-5367e670549e"
+    },
+    {
+      "word": "役立つ",
+      "reading": "やくだつ",
+      "meaningZh": "有帮助，有用",
+      "meaningEn": "to be useful, to be helpful",
+      "level": "n5n4",
+      "exampleSentence": "この辞書は勉強に役立ちます。",
+      "id": "cc674925-f9d0-45e8-809c-197e991d4b25"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアがありますか。",
+      "id": "af931688-b8e1-472b-953c-aa80b4647116"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "健康は大切です。",
+      "id": "219f318b-2cd4-4a08-9c20-3653435218fd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "空き家活用プロジェクトは何をしていますか。",
+      "options": [
+        "空き家を壊しています。",
+        "空き家をきれいにしたり、新しい場所に変えたりしています。",
+        "空き家で新しいお店を作っています。",
+        "空き家をそのままにしています。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「空き家をきれいにしたり、直したりするプロジェクトが始まりました。空き家をカフェやお店、または新しい家に変えます。」とあります。",
+      "id": "3b244774-b563-4fad-ad87-8f181bd94a7a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-08-3df8323f83",
+  "publishedAt": "2026-07-08T06:00:00+09:00"
+}
