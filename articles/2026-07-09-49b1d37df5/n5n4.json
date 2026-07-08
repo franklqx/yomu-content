@@ -1,0 +1,122 @@
+{
+  "title": "街角のおいしい発見",
+  "summary": "最近、街にフードトラックがたくさん出てきました。新しいお店の発見が楽しいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街でフードトラックをよく見かけます。色々な食べ物のお店があって、楽しいです。新しい街の風景になりました。",
+      "translationZh": "最近，在街上经常能看到餐车。有很多不同种类的食物店，很有趣。它们成了城市新的风景。",
+      "translationEn": "Recently, we often see food trucks in town. There are many food shops, which is fun. They have become part of the new cityscape.",
+      "id": "88e9ffb5-f45a-456d-a1e0-1e035c31740e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、色々な街で人気があります。特に新しいビルができた場所や、公園の近くに集まることが多いです。手軽に美味しいものが食べられます。",
+      "translationZh": "餐车在不同的城市都很受欢迎。尤其是在新建了建筑的地方，或者公园附近，它们常常聚集在那里。可以方便地吃到美味的东西。",
+      "translationEn": "Food trucks are popular in various cities. They often gather, especially in places where new buildings have been built or near parks. You can easily eat delicious food.",
+      "id": "a4598127-9542-4c59-9774-ddb8c9edd8d6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市の再開発が進んで、新しい空間ができています。そこにフードトラックがたくさん来ると、もっと賑やかになります。人々は気軽に立ち寄って、食事を楽しんでいます。",
+      "translationZh": "城市的再开发正在进行，新的空间正在被创造出来。当很多餐车来到那里，会变得更加热闹。人们可以随意停下来，享受美食。",
+      "translationEn": "Urban redevelopment is progressing, creating new spaces. When many food trucks come to these places, they become more lively. People can stop by casually and enjoy their meals.",
+      "id": "db0d9a3f-a91d-473a-8ac2-884f3afb03e1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "私も新しいフードトラックを見つけるのが好きです。今度、この近くにできた新しい広場に行ってみようと思います。きっと新しい発見があるはずです。",
+      "translationZh": "我也喜欢发现新的餐车。下次，我想去这个附近新开放的广场看看。肯定会有新的发现。",
+      "translationEn": "I also like finding new food trucks. Next time, I want to go to the new plaza that opened nearby. I'm sure there will be new discoveries.",
+      "id": "6bcf9021-3687-4b33-a41c-5adfdfe69d7b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "街に新しいフードトラックが来ました。",
+      "id": "cc7a5a12-3d2f-433b-aac8-653e68f6ffa2"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n5n4",
+      "exampleSentence": "新しいお店の発見は楽しいです。",
+      "id": "27e19786-5b95-4a30-9f12-c1ab16cf4533"
+    },
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaningZh": "都市",
+      "meaningEn": "city",
+      "level": "n5n4",
+      "exampleSentence": "この都市はとても大きいです。",
+      "id": "6a6c6385-1e43-4602-8380-9d95a94e1e4f"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发",
+      "meaningEn": "redevelopment",
+      "level": "n3",
+      "exampleSentence": "街の再開発が進んでいます。",
+      "id": "d6570482-6e53-48f5-9d1f-cf520d479499"
+    },
+    {
+      "word": "空間",
+      "reading": "くうかん",
+      "meaningZh": "空间",
+      "meaningEn": "space",
+      "level": "n5n4",
+      "exampleSentence": "新しい空間ができました。",
+      "id": "27adcdcb-caef-4516-a201-537fd070154f"
+    },
+    {
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとても賑やかでした。",
+      "id": "2812aecc-05ea-4e74-ae42-703e01c3805c"
+    },
+    {
+      "word": "気軽に",
+      "reading": "きがるに",
+      "meaningZh": "随意地，轻松地",
+      "meaningEn": "freely, casually",
+      "level": "n5n4",
+      "exampleSentence": "気軽に話してください。",
+      "id": "3503b389-32d7-4438-91d3-f1cbb76f1181"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックはどこに集まることが多いですか？",
+      "options": [
+        "駅の近く",
+        "新しいビルや公園の近く",
+        "デパートの中",
+        "静かな住宅街"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「特に新しいビルができた場所や、公園の近くに集まることが多いです。」と書いてあります。",
+      "id": "782852cb-8c3a-43ed-b15b-51c020e5d5a5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-09-49b1d37df5",
+  "publishedAt": "2026-07-09T06:00:00+09:00"
+}

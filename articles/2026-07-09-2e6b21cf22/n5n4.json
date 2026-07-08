@@ -1,0 +1,122 @@
+{
+  "title": "お正月の新しい買い方",
+  "summary": "お正月は新しい買い方が人気です。昔と違って、便利な方法がたくさんあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐお正月です。日本人はお正月のために色々な準備をします。例えば、食べ物や飾りを買います。最近、お正月の準備の仕方が変わってきました。",
+      "translationZh": "新年快到了。日本人会为新年做各种准备。比如，购买食物和装饰品。最近，准备新年习俗的方式正在改变。",
+      "translationEn": "New Year is coming soon. Japanese people prepare many things for New Year. For example, they buy food and decorations. Recently, the way of preparing for New Year has changed.",
+      "id": "ed980029-57b4-41e4-b9c6-ae85fa148ed8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、お店に行って直接買いました。でも、今はインターネットで買う人が増えています。家から出なくても、いろいろなものが買えて便利です。特に、おせち料理は人気があります。",
+      "translationZh": "以前，人们会直接去商店购买。但是，现在在网上购物的人增加了。不出家门也能买到各种东西，很方便。特别是“御节料理”很受欢迎。",
+      "translationEn": "In the past, people went to stores and bought directly. But now, more people are buying on the internet. It's convenient because you can buy various things without leaving home. Especially, Osechi-ryori (New Year's food) is popular.",
+      "id": "11db664c-e220-4dbb-9dfe-bf904af21741",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、小さい家族のためのおせちも売られています。昔は大きな家族で集まることが多かったです。だから、たくさんの量が必要でした。でも、今は夫婦二人や、一人暮らしの人も多いです。そのため、小さいサイズのおせちが便利になりました。",
+      "translationZh": "此外，也出售供小家庭享用的御节料理。过去，大家庭聚在一起的情况很多。所以，需要大量的份量。但是，现在夫妇两人或独自生活的人也很多。因此，小份量的御节料理变得很方便。",
+      "translationEn": "Also, Osechi for small families are sold. In the past, it was common for big families to gather. So, a large amount was needed. But now, there are many couples or people living alone. Therefore, small-sized Osechi has become convenient.",
+      "id": "41861425-9a11-4524-acd6-77be177dda54",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お正月の準備は、昔と違って、もっと簡単で便利になっています。新しい買い方で、楽しいお正月を迎えましょう。",
+      "translationZh": "准备新年的方式和以前不一样了，变得更简单、更方便了。用新的购物方式，迎接愉快的新年吧。",
+      "translationEn": "Preparing for New Year is different from the past; it's becoming easier and more convenient. Let's welcome a happy New Year with new ways of shopping.",
+      "id": "7860b7d1-2fbe-4a91-b21e-cfee8d8ab615",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "お正月の準備をします。",
+      "id": "062e6a13-2be7-4bb3-a4ee-ea49753027ea"
+    },
+    {
+      "word": "消費",
+      "reading": "しょうひ",
+      "meaningZh": "消费",
+      "meaningEn": "consumption",
+      "level": "n3",
+      "exampleSentence": "新しい消費の形です。",
+      "id": "aa9de945-91d7-4301-925e-f33b8dfc3329"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n3",
+      "exampleSentence": "昔からの伝統があります。",
+      "id": "2fead704-7a35-4e6f-aa78-6d78dde49e3d"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气；流行",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この食べ物は人気があります。",
+      "id": "b0407e47-080b-470f-9259-2f15e4948530"
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaningZh": "直接",
+      "meaningEn": "directly",
+      "level": "n5n4",
+      "exampleSentence": "店で直接買います。",
+      "id": "d35f0cd2-c7e4-4811-87bc-90f397e518b5"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "インターネットは便利です。",
+      "id": "4e01ec19-0fdf-4524-b382-287b30e6070f"
+    },
+    {
+      "word": "量",
+      "reading": "りょう",
+      "meaningZh": "量；数量",
+      "meaningEn": "quantity",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの量が必要です。",
+      "id": "bce907b6-d9a1-492d-a684-50dd9d297947"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今、お正月の準備で人気があるのは何ですか？",
+      "options": [
+        "お店で直接買うこと",
+        "インターネットで買うこと",
+        "家族と集まること",
+        "手作りのおせち"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「今はインターネットで買う人が増えています。」とあります。",
+      "id": "c9bc9d20-9f61-4b56-99b8-76966f8aeaa9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-09-2e6b21cf22",
+  "publishedAt": "2026-07-09T06:00:00+09:00"
+}

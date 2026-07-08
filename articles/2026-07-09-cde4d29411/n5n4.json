@@ -1,0 +1,131 @@
+{
+  "title": "二次元アイドルの進化",
+  "summary": "昔と比べて、二次元アイドルのライブはもっとすごくなりました。技術が進んだからです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルはアニメやゲームだけでした。でも、今は違います。特別な技術で、まるで本物のアイドルみたいです。",
+      "translationZh": "以前，二次元偶像只存在于动画和游戏中。但是，现在不一样了。通过特殊技术，她们就像真的一样。",
+      "translationEn": "In the past, 2D idols were only in anime and games. But now, it's different. With special technology, they are like real idols.",
+      "id": "9d3be240-60fd-4672-b627-efedeb1eeddb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ホログラム技術を使います。大きくてきれいな映像がステージに出て、歌ったり踊ったりします。お客さんはとても喜びます。",
+      "translationZh": "例如，使用全息技术。又大又美的影像出现在舞台上，唱歌跳舞。观众非常高兴。",
+      "translationEn": "For example, they use hologram technology. Big, beautiful images appear on stage, singing and dancing. The audience is very happy.",
+      "id": "a7c820f0-3f8f-465e-81e3-c9aa6bedf21a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "３D技術も進みました。キャラクターがもっとリアルに見えます。顔の動きや表情も豊かになりました。だから、もっと感動します。",
+      "translationZh": "3D技术也进步了。角色看起来更真实了。脸部动作和表情也更丰富了。所以，更加感动。",
+      "translationEn": "3D technology has also improved. The characters look more realistic. Facial movements and expressions have become richer. Therefore, it is more moving.",
+      "id": "ccb7ce4c-da96-4f86-9bb6-1e92673342f4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、二次元アイドルのライブはもっと面白くなるでしょう。新しい技術がたくさん使われるからです。みんなで楽しみましょう。",
+      "translationZh": "今后，二次元偶像的演唱会会变得更加有趣。因为会有很多新技术被使用。大家一起期待吧。",
+      "translationEn": "From now on, 2D idol concerts will become more interesting. Because many new technologies will be used. Let's look forward to it together.",
+      "id": "6ad830e5-f9af-434d-876f-3dbadd385f65",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町はとても静かでした。",
+      "id": "a82f6521-e713-4fa1-8301-966c42bc7e8c"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, technique",
+      "level": "n5n4",
+      "exampleSentence": "この新しい技術はすごいです。",
+      "id": "38ec152b-c58b-4a13-966c-c173d9ec1b49"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別なイベントです。",
+      "id": "fd754773-46f4-4eee-bf0f-ec8b7ffb4617"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaningZh": "真实，真的",
+      "meaningEn": "true, real",
+      "level": "n5n4",
+      "exampleSentence": "それは本当の話ですか？",
+      "id": "404183dc-ce57-4a34-a213-ab524d290241"
+    },
+    {
+      "word": "例えば",
+      "reading": "たとえば",
+      "meaningZh": "例如",
+      "meaningEn": "for example",
+      "level": "n5n4",
+      "exampleSentence": "色々な果物があります。例えば、りんごやみかんです。",
+      "id": "f1204b65-3975-4172-92b3-fad825bf098b"
+    },
+    {
+      "word": "映像",
+      "reading": "えいぞう",
+      "meaningZh": "影像",
+      "meaningEn": "image, video",
+      "level": "n3",
+      "exampleSentence": "きれいな映像が見えました。",
+      "id": "f80d719e-e46d-4ad7-9cfa-ddce8b6dffb0"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaningZh": "表情",
+      "meaningEn": "facial expression",
+      "level": "n3",
+      "exampleSentence": "彼の表情は変わらなかった。",
+      "id": "36473504-1a19-4f9c-89c3-cab82507d611"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "deep emotion, impression",
+      "level": "n3",
+      "exampleSentence": "その話を聞いて感動しました。",
+      "id": "9cec7d3f-fc0c-4223-9f9f-e2e76704a019"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "二次元アイドルのライブが昔と比べてすごくなったのはなぜですか。",
+      "options": [
+        "お客さんがたくさん来たからです。",
+        "歌が上手になったからです。",
+        "特別な技術が進んだからです。",
+        "会場が大きくなったからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔と比べて、二次元アイドルのライブはもっとすごくなりました。技術が進んだからです。",
+      "id": "d62a3a32-be93-410b-8b6b-dc731c799025"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-09-cde4d29411",
+  "publishedAt": "2026-07-09T06:00:00+09:00"
+}

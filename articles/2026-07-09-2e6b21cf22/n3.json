@@ -1,0 +1,135 @@
+{
+  "title": "新しい年、新しい買い方！お正月準備のトレンド",
+  "summary": "お正月の準備は、昔ながらの方法だけでなく、新しいトレンドも生まれています。今年はどんな変化があるのでしょうか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、毎年お正月が近づくと、人々は家を掃除したり、特別な料理を準備したりして、新しい年を迎える準備をします。これは「正月準備（しょうがつじゅんび）」と呼ばれています。しかし、近年、この正月準備のスタイルに変化が見られます。例えば、昔は家族みんなで集まって手作りすることが多かったおせち料理ですが、最近は有名店のおせちを予約する人が増えています。",
+      "translationZh": "在日本，每年临近新年，人们都会打扫房屋、准备特别的料理来迎接新年。这被称为“正月准备”。然而，近年来，这种正月准备的风格正在发生变化。例如，过去许多家庭会聚集在一起亲手制作“御节料理”（正月特色料理），但最近选择预订知名店铺御节的人越来越多。",
+      "translationEn": "In Japan, as the New Year approaches each year, people prepare to welcome the new year by cleaning their homes and preparing special dishes. This is called 'shogatsu junbi' (New Year preparations). However, in recent years, the style of these preparations has been changing. For example, while the Osechi ryori (traditional New Year's food) was often made by hand with the whole family gathering in the past, recently, more people are choosing to reserve Osechi from famous restaurants.",
+      "id": "21612e78-e2a3-47a0-8e99-0482bd9baed9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、お正月の飾り付けも、伝統的なものだけでなく、もっとシンプルでモダンなデザインが人気を集めています。SNSなどで「#お正月インテリア」といったハッシュタグで検索すると、たくさんのアイデアが見つかります。特に若い世代の間では、派手な飾りよりも、おしゃれで場所を取らないものが好まれる傾向があります。",
+      "translationZh": "此外，新年装饰也不再局限于传统样式，更加简约时尚的设计也越来越受欢迎。如果在SNS等平台搜索“#新年室内装饰”之类的标签，就能找到很多创意。特别是在年轻一代中，比起华丽的装饰，人们更倾向于选择时髦且不占地方的物品。",
+      "translationEn": "Furthermore, for New Year's decorations, simpler and more modern designs are gaining popularity, not just traditional ones. If you search on SNS with hashtags like '#OshogatsuInterior', you can find many ideas. Especially among younger generations, there is a tendency to prefer stylish and space-saving items over flashy decorations.",
+      "id": "82776b9c-ec22-4926-aa2f-efb76dee3dbd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、時代とともに正月準備の形は変わっていますが、新しい年を気持ちよく迎えたいという気持ちは昔も今も変わりません。忙しい現代人にとって、便利なサービスや新しいアイデアを取り入れながら、自分らしいお正月を楽しむことが大切になっているようです。",
+      "translationZh": "像这样，随着时代变迁，正月准备的形式也在改变，但想要愉快地迎接新年的心情，无论过去还是现在都未曾改变。对于忙碌的现代人来说，在融入便利的服务和新想法的同时，享受属于自己的新年似乎变得更加重要了。",
+      "translationEn": "In this way, the form of New Year preparations is changing with the times, but the desire to welcome the new year with a good feeling remains unchanged from the past to the present. For busy modern people, it seems important to enjoy their own New Year while incorporating convenient services and new ideas.",
+      "id": "bb17bea7-5a73-482e-af61-822047265734",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "正月準備",
+      "reading": "しょうがつじゅんび",
+      "meaningZh": "新年（正月）的准备工作",
+      "meaningEn": "New Year preparations",
+      "level": "n3",
+      "exampleSentence": "お正月の準備は、12月中に済ませておくのが一般的です。",
+      "id": "d3a64c0a-6c3c-4f03-b435-ba4ab26a8903"
+    },
+    {
+      "word": "おせち料理",
+      "reading": "おせちりょうり",
+      "meaningZh": "正月期间吃的传统料理，多层漆盒装着",
+      "meaningEn": "Osechi ryori (traditional Japanese New Year food)",
+      "level": "n3",
+      "exampleSentence": "デパートでおせち料理を予約しました。",
+      "id": "0d172c2a-b7c1-416d-8b44-8a1d52fad8de"
+    },
+    {
+      "word": "予約する",
+      "reading": "よやくする",
+      "meaningZh": "预订",
+      "meaningEn": "to reserve, to book",
+      "level": "n3",
+      "exampleSentence": "レストランの席を予約しました。",
+      "id": "0618b3f7-f332-4ae8-b0a9-776bf80a0737"
+    },
+    {
+      "word": "飾り付け",
+      "reading": "かざりつけ",
+      "meaningZh": "装饰，布置",
+      "meaningEn": "decoration",
+      "level": "n3",
+      "exampleSentence": "部屋の飾り付けをしました。",
+      "id": "5b0e7d39-a262-4272-8ab1-24ee8f58dc80"
+    },
+    {
+      "word": "モダン",
+      "reading": "モダン",
+      "meaningZh": "现代的，摩登的",
+      "meaningEn": "modern",
+      "level": "n3",
+      "exampleSentence": "この家具はデザインがモダンだ。",
+      "id": "3f6e2740-af11-462a-91f9-b3e87920307d"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "世代",
+      "meaningEn": "generation",
+      "level": "n3",
+      "exampleSentence": "若い世代は新しい技術に興味がある。",
+      "id": "2ed71a57-7186-41ec-aa56-3a530baf3641"
+    },
+    {
+      "word": "場所を取る",
+      "reading": "ばしょをとる",
+      "meaningZh": "占地方，占用空间",
+      "meaningEn": "to take up space",
+      "level": "n3",
+      "exampleSentence": "この棚はあまり場所を取りません。",
+      "id": "2a863f2b-f440-4cb5-9730-b4986e4ea8ea"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaningZh": "采纳，吸收，引入",
+      "meaningEn": "to adopt, to incorporate",
+      "level": "n3",
+      "exampleSentence": "新しい方法を取り入れる。",
+      "id": "e6a76f04-d0c7-4c23-8b26-8cd098b3c04f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近のお正月準備で、おせち料理はどうなっていますか？",
+      "options": [
+        "家族みんなで作ることが増えている",
+        "有名店で予約する人が増えている",
+        "手作りする人が少なくなっている",
+        "昔ながらの方法が一番人気だ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最近は有名店のおせちを予約する人が増えています。」と書かれています。",
+      "id": "b4f6f5e3-7deb-4741-be6c-b5c42272ad3b"
+    },
+    {
+      "question": "若い世代がお正月の飾り付けに求めているものは何ですか？",
+      "options": [
+        "伝統的で華やかなもの",
+        "場所を取らない、おしゃれなもの",
+        "SNSで話題になっているもの",
+        "手作りできる簡単なもの"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「特に若い世代の間では、派手な飾りよりも、おしゃれで場所を取らないものが好まれる傾向があります。」と書かれています。",
+      "id": "54c58565-eab0-46af-b563-4f46c7a09527"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-09-2e6b21cf22",
+  "publishedAt": "2026-07-09T06:00:00+09:00"
+}
