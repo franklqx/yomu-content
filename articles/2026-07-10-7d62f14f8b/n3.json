@@ -1,0 +1,126 @@
+{
+  "title": "注目の高校サッカー！強豪校の戦術と選手に迫る",
+  "summary": "高校サッカー選手権の季節がやってきました。毎年、多くの注目を集める強豪校の中から、今年のダークホースや注目選手をご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今年も高校サッカー選手権の季節がやってきました。全国から集まる強豪校の熱い戦いは、多くのサッカーファンを魅了します。特に、過去の大会で実績のある学校は、今年も優勝候補として注目されています。彼らの戦術や選手のレベルは非常に高く、見ごたえのある試合が期待できます。",
+      "translationZh": "今年，高中足球锦标赛的季节又到了。来自全国各地的强队之间的激烈比赛吸引了众多足球迷。特别是那些在往届比赛中取得过优异成绩的学校，今年也备受瞩目，被视为夺冠热门。他们的战术和球员水平非常高，可以期待一场精彩绝伦的比赛。",
+      "translationEn": "The high school soccer championship season has arrived again this year. The heated matches among strong teams from all over the country captivate many soccer fans. Schools with a history of success in past tournaments are particularly watched this year as championship contenders. Their tactics and player levels are very high, and exciting games are expected.",
+      "id": "124dd6d0-74c0-420f-9298-d3560c1d7867",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の大会で特に注目すべきは、伝統校でありながらも、近年新たな戦術を取り入れて躍進しているチームです。監督の采配や、個々の選手の才能が組み合わさることで、独特のサッカーを展開しています。練習グラウンドでは、選手たちが厳しい練習に励んでおり、その努力が試合での力強いプレーに繋がっています。",
+      "translationZh": "今年大赛中特别值得关注的是，一些传统强队近年来引入了新的战术并取得了显著进步。教练的指挥和个别选手的才能相结合，形成了独特的足球风格。在训练场上，球员们正刻苦训练，他们的努力也体现在比赛中强劲的表现上。",
+      "translationEn": "Particularly noteworthy in this year's tournament are traditional powerhouses that have recently introduced new tactics and made significant progress. The combination of the coach's strategy and individual players' talent leads to a unique style of football. On the practice fields, the players are working hard, and their efforts translate into powerful play during matches.",
+      "id": "c3069053-25b1-4bf1-80d2-7b08703a1d7d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、全国大会初出場ながら、地域予選を勝ち抜いてきたダークホースにも注目です。彼らはプレッシャーも少ないため、思い切ったプレーを見せてくれるかもしれません。チーム全体で一つの目標に向かって努力する姿は、多くの感動を与えてくれるでしょう。彼らの健闘を祈ります。",
+      "translationZh": "此外，我们也不能忽视那些首次参加全国大赛，却通过地区预选赛脱颖而出的黑马球队。由于他们没有太大的压力，可能会打出令人意想不到的精彩表现。他们全队朝着一个目标努力的样子，一定会带给我们许多感动。我们祝愿他们旗开得胜。",
+      "translationEn": "Furthermore, attention should also be paid to the dark horses who have advanced through regional qualifiers despite being first-time participants in the national tournament. Since they have less pressure, they might show daring plays. The sight of the entire team working towards a single goal will surely bring much emotion. We wish them good luck.",
+      "id": "29f98683-e9b5-424c-81db-c12c6d7735e5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手権",
+      "reading": "せんしゅけん",
+      "meaningZh": "锦标赛（特指高中足球锦标赛）",
+      "meaningEn": "Championship (specifically, the High School Soccer Championship)",
+      "level": "n3",
+      "exampleSentence": "全国高校サッカー選手権は毎年盛り上がります。",
+      "id": "00c990e3-8314-467e-8b11-ffd9df2f7ea0"
+    },
+    {
+      "word": "強豪校",
+      "reading": "きょうごうこう",
+      "meaningZh": "强队，名牌学校",
+      "meaningEn": "Strong school, renowned school",
+      "level": "n3",
+      "exampleSentence": "この学校はサッカーの強豪校として有名です。",
+      "id": "f94b0101-9b96-463d-91e6-1da8a56f52d1"
+    },
+    {
+      "word": "戦術",
+      "reading": "せんじゅつ",
+      "meaningZh": "战术",
+      "meaningEn": "Tactics",
+      "level": "n3",
+      "exampleSentence": "相手チームの戦術を分析します。",
+      "id": "64731428-f137-4f3a-9b0d-6e44a50532d8"
+    },
+    {
+      "word": "躍進",
+      "reading": "やくしん",
+      "meaningZh": "飞跃，大发展",
+      "meaningEn": "Leap, great progress",
+      "level": "n3",
+      "exampleSentence": "新チームは目覚ましい躍進を遂げました。",
+      "id": "d408cc73-4569-4b53-9fd9-63aa525fc0ba"
+    },
+    {
+      "word": "采配",
+      "reading": "さいはい",
+      "meaningZh": "指挥，调度",
+      "meaningEn": "Command, direction, management",
+      "level": "n3",
+      "exampleSentence": "監督の采配が的中しました。",
+      "id": "66ab7cc3-6fe8-4471-9a94-7e34c756acd3"
+    },
+    {
+      "word": "ダークホース",
+      "reading": "だーくほーす",
+      "meaningZh": "黑马（出人意料的获胜者）",
+      "meaningEn": "Dark horse (unexpected winner)",
+      "level": "n3",
+      "exampleSentence": "今年の大会のダークホースはどのチームだろうか。",
+      "id": "973ccba1-201d-4558-a2b1-e492b9172a2c"
+    },
+    {
+      "word": "地域予選",
+      "reading": "ちいきよせん",
+      "meaningZh": "地区预选赛",
+      "meaningEn": "Regional preliminary round",
+      "level": "n3",
+      "exampleSentence": "地域予選を突破して全国大会に出場します。",
+      "id": "605368bc-0288-4df1-b9d5-d13a21cf709c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "伝統校でありながら、近年新たな戦術を取り入れて躍進しているチームについて、文章ではどのように説明されていますか？",
+      "options": [
+        "監督の采配と個々の選手の才能で、独特のサッカーを展開している。",
+        "過去の大会の実績を基に、堅実な守備を重視した戦術をとっている。",
+        "攻撃的な選手が多く、とにかく得点を多く取ることを目指している。",
+        "監督が替わってから、チームの調子が落ちている。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「監督の采配や、個々の選手の才能が組み合わさることで、独特のサッカーを展開しています。」という記述があります。",
+      "id": "3a8927d3-3076-4967-8cef-3fc19f15d178"
+    },
+    {
+      "question": "「ダークホース」に注目する理由は何だと文章は述べていますか？",
+      "options": [
+        "彼らは優勝候補として最も期待されているから。",
+        "彼らはプレッシャーが少なく、思い切ったプレーを見せてくれるかもしれないから。",
+        "彼らは地域予選で最も多くの得点を記録したから。",
+        "彼らの練習グラウンドは非常に設備が整っているから。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「彼らはプレッシャーも少ないため、思い切ったプレーを見せてくれるかもしれません。」と述べられています。",
+      "id": "77aa2b24-94aa-4aed-a8e2-daefc249a419"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-10-7d62f14f8b",
+  "publishedAt": "2026-07-10T06:00:00+09:00"
+}

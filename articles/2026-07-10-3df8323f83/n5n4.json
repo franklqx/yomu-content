@@ -1,0 +1,114 @@
+{
+  "title": "街に増える空き家、どうする？",
+  "summary": "日本では空き家が増えています。そこで、空き家を使いやすいようにするプロジェクトが都市部で始まっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の都市部で「空き家」が増えています。空き家とは、人が住まなくなった家です。空き家がたくさんあると、町が寂しく見えます。また、古くなりすぎると危ないこともあります。",
+      "translationZh": "最近，日本的城市地区“空置房屋”正在增加。空置房屋是指不再有人居住的房屋。空置房屋很多的话，会让城镇显得冷清。而且，如果变得太旧，也可能变得危险。",
+      "translationEn": "Recently, \"empty houses\" are increasing in urban areas of Japan. An empty house is a house where people no longer live. If there are many empty houses, the town can look lonely. Also, if they become too old, they can be dangerous.",
+      "id": "67bddb98-f33d-4949-a4b0-415c19c29564",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、空き家をきれいにしたり、新しく使ったりするプロジェクトが始まりました。例えば、古い家をカフェやお店に変えることがあります。若い人たちが住みやすいように、シェアハウスにするアイデアもあります。",
+      "translationZh": "因此，开始了一些清理和翻新空置房屋的项目。例如，有时会将旧房子改建成咖啡馆或商店。还有将空置房屋改建成共享住宅，让年轻人更容易居住的想法。",
+      "translationEn": "Therefore, projects to clean up and reuse empty houses have begun. For example, old houses are sometimes turned into cafes or shops. There are also ideas to make them into share houses so that young people can live there more easily.",
+      "id": "0202b0b8-77eb-4b64-b6fe-13cfc49f13b9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのプロジェクトは、空き家をなくすだけでなく、地域を元気にする目的もあります。昔からの町に新しい人が来て、活気が出るといいですね。皆さんの町にも、空き家を活用するアイデアがあるかもしれません。",
+      "translationZh": "这些项目不仅是为了消除空置房屋，也有让地区变得有活力的目的。很高兴看到旧街区有新人到来，变得有活力。也许你们的城镇也有利用空置房屋的点子。",
+      "translationEn": "These projects not only aim to eliminate empty houses but also to revitalize the community. It would be good if new people came to old towns and brought vitality. Perhaps there are ideas to utilize empty houses in your town too.",
+      "id": "997fadcc-30a5-43dc-897e-39c5a2ca51a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置房屋",
+      "meaningEn": "empty house, vacant house",
+      "level": "n5n4",
+      "exampleSentence": "この地域には空き家が多いです。",
+      "id": "d51dab4a-48d0-47ba-a080-c0daf604920a"
+    },
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市部",
+      "meaningEn": "urban area, city area",
+      "level": "n5n4",
+      "exampleSentence": "都市部では人口が増えています。",
+      "id": "b663f0ac-8491-457d-bd5f-461f2ac03d8f"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "项目",
+      "meaningEn": "project",
+      "level": "n5n4",
+      "exampleSentence": "新しいプロジェクトが始まりました。",
+      "id": "b7afe0dc-19a4-4c3a-8e9d-bb2101a59f29"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "利用，活用",
+      "meaningEn": "utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "このスペースを学習に活用しましょう。",
+      "id": "1a1a3a46-1501-40e4-b354-b53cc00b3836"
+    },
+    {
+      "word": "寂しい",
+      "reading": "さびしい",
+      "meaningZh": "寂寞的，冷清的",
+      "meaningEn": "lonely, desolate, quiet",
+      "level": "n5n4",
+      "exampleSentence": "誰もいない部屋は寂しいです。",
+      "id": "dc5b813e-3dcc-4be1-87fa-30ec106dcf9d"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有精神，有活力",
+      "meaningEn": "energetic, lively, healthy",
+      "level": "n5n4",
+      "exampleSentence": "町が元気になりました。",
+      "id": "4b5f06fe-aedb-43e8-811e-60e3d73829f1"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "vitality, liveliness, animation",
+      "level": "n3",
+      "exampleSentence": "市場には活気がありました。",
+      "id": "a61600a1-0674-4d12-9ab3-0eb72369e93b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "都市部で空き家が増えているのはなぜですか？",
+      "options": [
+        "空き家をもっと作るためです。",
+        "空き家をきれいにしたいからです。",
+        "人が住まなくなった家が増えたからです。",
+        "空き家が危ないから、全部なくしたいからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「空き家とは、人が住まなくなった家です。」と書いてあります。",
+      "id": "59463c4b-c414-408e-acda-1c5d4c43a573"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-10-3df8323f83",
+  "publishedAt": "2026-07-10T06:00:00+09:00"
+}

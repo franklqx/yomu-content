@@ -1,0 +1,134 @@
+{
+  "title": "都市の空き家、新たな命を吹き込むプロジェクト",
+  "summary": "都市部で増え続ける空き家問題。しかし、近年、これらの空き家を魅力的な空間として活用するプロジェクトが注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの都市部で空き家が増えていることが問題になっています。人が住まなくなってから長い時間が経った建物は、街の景観を悪くするだけでなく、防犯上の問題も心配されます。そのため、これらの空き家をただ放置するのではなく、地域のために役立てようという動きが広がっています。",
+      "translationZh": "最近，许多城市地区空置房屋增加的问题成为了一个议题。房屋无人居住长时间后，不仅影响城市景观，也令人担忧治安问题。因此，与其放任这些空置房屋不管，不如将其用于社区的活动，这样的举措正在逐渐推广。",
+      "translationEn": "Recently, the problem of increasing vacant houses in many urban areas has become an issue. Houses that have been left uninhabited for a long time not only worsen the cityscape but also raise concerns about security. Therefore, instead of simply leaving these vacant houses unattended, initiatives to utilize them for the benefit of the community are spreading.",
+      "id": "39c60ab3-24bf-43e3-a1c0-acb6fbd64fa9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "空き家活用プロジェクトでは、古い家をリノベーションして、カフェやシェアハウス、アトリエなどに生まれ変わらせることがよくあります。例えば、築100年以上の古民家を、地域の人が集まるギャラリー兼カフェとして再生した例があります。このようなプロジェクトは、地域に新しい活気をもたらし、住民同士の交流を深めるきっかけにもなります。",
+      "translationZh": "在空置房屋利用项目中，经常会将旧房屋翻新，改造成咖啡馆、共享住宅或工作室等。例如，有一个案例是将有100多年历史的旧民居改造成了当地人聚集的美术馆兼咖啡馆。这样的项目为地区带来了新的活力，也成为了加深居民之间交流的契机。",
+      "translationEn": "In vacant house utilization projects, old houses are often renovated and transformed into spaces like cafes, share houses, or ateliers. For instance, there is a case where a traditional house over 100 years old was reborn as a gallery and cafe where local people gather. Such projects bring new vitality to the community and serve as an opportunity to deepen interaction among residents.",
+      "id": "88243aee-13b8-456a-8bfc-0f5fca81fd3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "空き家を有効活用することは、街の魅力向上だけでなく、経済的なメリットも期待できます。例えば、活用されずに放置されていた建物が、新しい店舗や住居として機能することで、地域にお金が循環するようになります。また、プロジェクトによっては、空き家を借りる際の初期費用が抑えられるため、起業したい人や新しい暮らしを始めたい人にとっても、挑戦しやすい環境が生まれます。",
+      "translationZh": "有效利用空置房屋，不仅能提升街区魅力，还能带来经济效益。例如，未被利用而闲置的建筑物，通过作为新的店铺或住宅发挥作用，就能使资金在地区内循环起来。此外，根据项目不同，租赁空置房屋的初期费用也能得到抑制，因此对于想要创业或开始新生活的人来说，也创造了一个更易于尝试的环境。",
+      "translationEn": "Effectively utilizing vacant houses not only enhances the charm of a town but also brings expected economic benefits. For example, buildings that were left unused can start functioning as new shops or residences, leading to money circulation within the community. Furthermore, depending on the project, initial costs for renting vacant houses can be reduced, creating an environment where it is easier for aspiring entrepreneurs or those seeking a new lifestyle to take the leap.",
+      "id": "3fd832c1-3c38-4027-9d3b-ea5367b931aa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "空き家活用プロジェクトは、地域社会にとって多くの可能性を秘めています。行政やNPO、地域住民が協力し合うことで、さらに多様なアイデアが生まれてくるでしょう。これからも、これらのプロジェクトがどのように発展していくのか、注目していきたいところです。",
+      "translationZh": "空置房屋利用项目蕴含着对社区的诸多可能性。通过政府、非营利组织和当地居民的合作，将会涌现出更多样化的创意。今后，我们也将继续关注这些项目将如何发展。",
+      "translationEn": "Vacant house utilization projects hold much potential for the community. As the government, NPOs, and local residents collaborate, even more diverse ideas are likely to emerge. We will continue to pay attention to how these projects develop in the future.",
+      "id": "5001974a-f1bf-4c7c-8149-02cceb5165a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置房屋",
+      "meaningEn": "vacant house",
+      "level": "n3",
+      "exampleSentence": "都市部で空き家が増えているらしい。",
+      "id": "184a9eba-f6f5-4ebb-8604-451f5476619e"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "利用，运用",
+      "meaningEn": "utilization, application",
+      "level": "n3",
+      "exampleSentence": "このスペースをもっと有効に活用したい。",
+      "id": "2fb0d783-ff9c-433e-a0ae-1937ee4e9dbd"
+    },
+    {
+      "word": "リノベーション",
+      "reading": "りのべーしょん",
+      "meaningZh": "翻新，改造",
+      "meaningEn": "renovation",
+      "level": "n3",
+      "exampleSentence": "古いアパートをリノベーションして、おしゃれな住まいにした。",
+      "id": "6ded80a8-d3d7-43de-8f28-4cec51f29c89"
+    },
+    {
+      "word": "シェアハウス",
+      "reading": "しぇあはうす",
+      "meaningZh": "合租公寓，共享住宅",
+      "meaningEn": "share house",
+      "level": "n3",
+      "exampleSentence": "最近、シェアハウスに住む若者が増えている。",
+      "id": "10563cdb-d8cb-4c7a-b075-a0f90b38f1e4"
+    },
+    {
+      "word": "アトリエ",
+      "reading": "あとりにえ",
+      "meaningZh": "工作室（尤指艺术家、设计师等）",
+      "meaningEn": "atelier, studio",
+      "level": "n3",
+      "exampleSentence": "彼はアトリエで絵を描いている。",
+      "id": "b76579f9-ace1-493e-a39f-7008b8fa38ee"
+    },
+    {
+      "word": "景観",
+      "reading": "けいかん",
+      "meaningZh": "景象，风景",
+      "meaningEn": "scenery, landscape",
+      "level": "n3",
+      "exampleSentence": "この地域は美しい景観で知られている。",
+      "id": "f3a97e7b-40e7-4950-ab48-1834b0796131"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "使活跃起来；激活",
+      "meaningEn": "revitalization; activation",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が急務となっている。",
+      "id": "11b681e2-1942-4c0a-a6da-ef7938fea3f2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "都市部で空き家が増えている理由として、本文ではどのような点が挙げられていますか？",
+      "options": [
+        "建物の老朽化が進んでいるため",
+        "人が住まなくなってから時間が経ち、街の景観を悪くしたり、防犯上の問題が心配されたりするため",
+        "固定資産税が高くなりすぎたため",
+        "災害が多い地域になっているため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「人が住まなくなってから長い時間が経った建物は、街の景観を悪くするだけでなく、防犯上の問題も心配されます。」と書かれています。",
+      "id": "2ab80f7d-fd4e-4bab-a6fd-d2bb7ce936a3"
+    },
+    {
+      "question": "空き家活用プロジェクトのメリットとして、本文で述べられていないものはどれですか？",
+      "options": [
+        "地域に新しい活気をもたらす",
+        "起業したい人にとって挑戦しやすい環境が生まれる",
+        "建物の固定資産税を大幅に削減できる",
+        "住民同士の交流を深めるきっかけになる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、地域への活気、起業しやすい環境、住民交流の促進がメリットとして挙げられていますが、固定資産税の削減については言及されていません。",
+      "id": "747f0e0b-ed74-4fd3-a2de-b56d298932f9"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-10-3df8323f83",
+  "publishedAt": "2026-07-10T06:00:00+09:00"
+}

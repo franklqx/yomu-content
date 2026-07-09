@@ -1,0 +1,131 @@
+{
+  "title": "注目の高校サッカーチーム",
+  "summary": "高校サッカー選手権は毎年とても人気があります。今年はどんなチームが注目されていますか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬になると、高校サッカー選手権が始まります。これはとても有名な大会です。たくさんの人がテレビで見ます。今年も強いチームがたくさんあります。",
+      "translationZh": "冬天一到，高中足球锦标赛就开始了。这是一个非常受欢迎的比赛。很多人在电视上看。今年也有很多强队。",
+      "translationEn": "When winter comes, the high school soccer championship begins. This is a very famous tournament. Many people watch it on TV. There are many strong teams again this year.",
+      "id": "421fc297-1e8c-44bd-b95f-430926d3e45b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目されているチームがいくつかあります。例えば、去年の優勝チームです。そのチームは今年も強いです。新しい選手も上手です。",
+      "translationZh": "有几支队伍特别引人注目。例如，去年的冠军队。那支队伍今年也很强。新来的选手也很厉害。",
+      "translationEn": "There are some teams that are particularly drawing attention. For example, last year's winning team. That team is strong again this year. The new players are also skillful.",
+      "id": "a66baedc-324c-4fc5-9124-ac68dc7fa2c0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、昔から強い高校も注目されています。その高校はいつも良い選手を育てます。今年の試合も楽しみです。",
+      "translationZh": "另外，一直以来都很强的几所高中也备受关注。那几所高中总是培养出好选手。今年的比赛也很令人期待。",
+      "translationEn": "Also, high schools that have been strong for a long time are also being watched. Those high schools always develop good players. This year's matches are also something to look forward to.",
+      "id": "6b9d248d-e932-4fbc-aa8b-7dcf4040b2fa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この大会では、色々なドラマがあります。一生懸命頑張る選手たちの姿は、私たちに感動を与えます。応援したくなるチームを見つけてください。",
+      "translationZh": "在这个比赛中，有各种各样的故事。拼命努力的选手们的姿态，带给我们感动。请找到让你想为之加油的队伍。",
+      "translationEn": "In this tournament, there are various dramas. The sight of players working hard gives us inspiration. Please find a team you want to cheer for.",
+      "id": "eb294e79-38da-46fd-9a86-c4900125e21d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "72b1f6ae-220f-4e76-a66b-68e46529cc9e"
+    },
+    {
+      "word": "選手権",
+      "reading": "せんしゅけん",
+      "meaningZh": "锦标赛",
+      "meaningEn": "championship",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "9ef31e61-e7c3-4665-b4f7-f8ee5ef1b3f7"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "7d9fffde-6ce0-4fb4-821c-10dc8f1c2efd"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，获胜",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "5ea35426-686e-4d29-b6eb-47fc68d7e1c1"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "1fd293cc-69bd-415e-b38e-9f0e2b1a58c2"
+    },
+    {
+      "word": "育てる",
+      "reading": "そだてる",
+      "meaningZh": "培养，养育",
+      "meaningEn": "to raise, to bring up, to cultivate",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "074f19a2-ba93-4a75-ad99-b24d28f44293"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "deep emotion, impression",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "b57ed062-e32c-45a9-bb88-36090f12ea39"
+    },
+    {
+      "word": "姿",
+      "reading": "すがた",
+      "meaningZh": "姿态，样子",
+      "meaningEn": "figure, appearance, shape",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "c9692d39-89f6-4421-9c02-3603b9d03245"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事では、どの大会について話していますか？",
+      "options": [
+        "全国高校野球選手権",
+        "全国高校サッカー選手権",
+        "インターハイ",
+        "箱根駅伝"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事の最初の文に「冬になると、高校サッカー選手権が始まります。」と書いてあります。",
+      "id": "244461f4-300b-4bd9-ac59-c992906e2953"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-10-7d62f14f8b",
+  "publishedAt": "2026-07-10T06:00:00+09:00"
+}
