@@ -1,0 +1,122 @@
+{
+  "title": "新しいお正月の準備",
+  "summary": "お正月の準備は変わってきました。新しいトレンドがあります。みんなは新しい方法でお正月を迎えます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐお正月です。人々はお正月の準備を始めます。昔は、家族で集まって、いろいろな準備をしました。でも、最近、準備の仕方が少し変わっています。",
+      "translationZh": "新年快到了。人们开始准备过新年。以前，大家会聚集在一起，做各种准备。但是，最近，准备的方式有些改变了。",
+      "translationEn": "New Year is coming soon. People are starting to prepare for New Year. In the past, families gathered and did various preparations. However, recently, the way of preparation has changed a little.",
+      "id": "30680d58-ec09-453a-962a-334ae3fb45cf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、おせち料理です。昔のおせちは、家で作ることが多かったです。でも、今は、買う人も増えています。デパートやお店で、おいしいおせちが売っています。忙しい人には便利です。",
+      "translationZh": "例如，年菜（osechi）。以前的年菜，很多是在家做的。但是，现在，买的人也增加了。百货公司和商店里，卖着好吃的年菜。这对忙碌的人来说很方便。",
+      "translationEn": "For example, osechi dishes. In the past, osechi was often made at home. But now, more people are buying it. Delicious osechi is sold at department stores and shops. It is convenient for busy people.",
+      "id": "588f5595-ff84-4b5f-9405-0cd56bb37fbc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、お正月の飾りも変わっています。昔は、大きな松飾りや生け花が人気でした。今は、小さくてかわいい飾りが人気です。玄関や部屋に、簡単に飾れるものが好まれます。",
+      "translationZh": "还有，新年的装饰品也在变化。以前，大的松树装饰和插花很受欢迎。现在，小巧可爱的装饰品很受欢迎。人们喜欢可以轻松装饰在门口或房间里的东西。",
+      "translationEn": "Also, New Year's decorations are changing. In the past, large pine decorations and ikebana were popular. Now, small and cute decorations are popular. Things that can be easily displayed at the entrance or in rooms are preferred.",
+      "id": "a34b447d-ab7f-403a-bb1b-b6ed7ff1bc3a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいお正月の準備は、もっと楽で、楽しいものになっています。いろいろな選択肢があって、自分に合った方法で、新しい年を迎えることができます。",
+      "translationZh": "新年的准备变得更加轻松和愉快。有各种各样的选择，人们可以用适合自己的方式迎接新年。",
+      "translationEn": "New Year's preparations are becoming more relaxed and enjoyable. With various options, people can welcome the New Year in a way that suits them.",
+      "id": "8e5c3203-d636-4b57-bffc-c63c068d2ac3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "お正月の準備を始めます。",
+      "id": "19fb83c5-ca7e-46ba-abc5-834a9b4363f6"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔は、よく公園で遊びました。",
+      "id": "58281c0f-3b9c-496e-bcf8-bb206f89aea8"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、忙しいです。",
+      "id": "0fa39287-a524-47ea-bbc4-fafb1f9896bc"
+    },
+    {
+      "word": "おせち料理",
+      "reading": "おせちりょうり",
+      "meaningZh": "新年家宴（特指日本新年吃的菜肴）",
+      "meaningEn": "osechi-ryori (traditional Japanese New Year food)",
+      "level": "n5n4",
+      "exampleSentence": "おせち料理を買いました。",
+      "id": "b1d3e8d0-5512-4b7f-abc0-cab4b0b180b7"
+    },
+    {
+      "word": "デパート",
+      "reading": "でぱーと",
+      "meaningZh": "百货公司",
+      "meaningEn": "department store",
+      "level": "n5n4",
+      "exampleSentence": "デパートで買い物をします。",
+      "id": "732a455d-e0ec-44e4-a5bf-c9e47f7b51cb"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰品",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "部屋に飾りをつけます。",
+      "id": "4033471e-20d9-4c20-9bf5-ca5469245289"
+    },
+    {
+      "word": "選択肢",
+      "reading": "せんたくし",
+      "meaningZh": "选择（项），选项",
+      "meaningEn": "option, choice",
+      "level": "n3",
+      "exampleSentence": "たくさんの選択肢があります。",
+      "id": "588052ae-ed2e-4c85-9289-c82bf9e621c0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「おせち料理」について、最近の傾向はどうですか？",
+      "options": [
+        "家で作る人が増えています。",
+        "買う人が増えています。",
+        "お店では売っていません。",
+        "値段が高くなりました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「今は、買う人も増えています。デパートやお店で、おいしいおせちが売っています。」",
+      "id": "1094e9f9-8e80-4be3-8610-8327dc51a0f3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-12-2e6b21cf22",
+  "publishedAt": "2026-07-12T06:00:00+09:00"
+}

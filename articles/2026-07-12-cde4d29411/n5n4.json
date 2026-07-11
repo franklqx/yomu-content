@@ -1,0 +1,122 @@
+{
+  "title": "二次元アイドルの進化",
+  "summary": "昔の二次元アイドルと今のアイドルは違います。技術が進んで、もっと楽しめます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元のアイドルはアニメやゲームにいました。歌を歌ったり、踊ったりしました。でも、今のアイドルはもっとすごいです。新しい技術がたくさん使われています。",
+      "translationZh": "以前，二次元偶像存在于动画和游戏中。她们唱歌跳舞。但是，现在的偶像更厉害了。很多新技术被使用。",
+      "translationEn": "In the past, 2D idols were in anime and games. They sang songs and danced. But, current idols are more amazing. Many new technologies are used.",
+      "id": "57862c0e-69f5-4b6a-83f9-0a8a8e6299e8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ホログラムの技術です。アイドルがステージに現れて、歌って踊ります。本物の人がそこにいるみたいです。ファンはとても感動します。",
+      "translationZh": "例如，全息投影技术。偶像会出现在舞台上，唱歌跳舞。就像真人就在那里一样。粉丝们非常感动。",
+      "translationEn": "For example, hologram technology. Idols appear on stage, singing and dancing. It's like a real person is there. Fans are very moved.",
+      "id": "8889bd8d-7ded-4c7c-b831-4670447ecd87",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ライトや映像も工夫されています。キラキラした光や、きれいな景色がステージを飾ります。音楽と合わさって、特別な空間が作られます。",
+      "translationZh": "灯光和影像也经过精心设计。闪闪发光的光芒和美丽的景色装饰着舞台。与音乐结合，创造出特别的空间。",
+      "translationEn": "Lights and visuals are also cleverly designed. Sparkling lights and beautiful scenery decorate the stage. Combined with the music, a special space is created.",
+      "id": "feedd577-ca0a-4946-a7b0-f7c2785d1349",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも二次元アイドルの技術は進化するでしょう。もっと楽しくて、新しい体験ができるかもしれません。",
+      "translationZh": "今后，二次元偶像的技术也会继续进化。也许能够体验到更有趣、全新的事物。",
+      "translationEn": "In the future, 2D idol technology will likely continue to evolve. We might be able to have more fun and new experiences.",
+      "id": "18050023-334c-46df-a132-112b11e0139b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この新しい技術はすごいです。",
+      "id": "47e67645-781f-4543-a949-7968559fbc7b"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "in the past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔はスマホがありませんでした。",
+      "id": "6d303793-568e-4709-852a-d902559ffe82"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化，发展",
+      "meaningEn": "evolution, development",
+      "level": "n3",
+      "exampleSentence": "技術はどんどん進化します。",
+      "id": "05a8554e-0f3e-43f4-9589-af650aecd8ed"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，一般",
+      "meaningEn": "normal, ordinary",
+      "level": "n5n4",
+      "exampleSentence": "今日は普通の日です。",
+      "id": "dfb9b51a-49b2-4723-adb6-7bd5db826ae8"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "deep emotion, impression",
+      "level": "n3",
+      "exampleSentence": "映画を見て感動しました。",
+      "id": "17d66288-bb64-4d16-a627-14ade568cd4e"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "device, idea, effort",
+      "level": "n3",
+      "exampleSentence": "新しい工夫で問題が解決しました。",
+      "id": "4e370ccf-c5da-4d94-ada5-828f87113077"
+    },
+    {
+      "word": "空間",
+      "reading": "くうかん",
+      "meaningZh": "空间",
+      "meaningEn": "space",
+      "level": "n3",
+      "exampleSentence": "広い空間でリラックスしました。",
+      "id": "94b72cfe-7b5a-4f69-9a66-364737d04234"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今の二次元アイドルのライブで、どんな技術が使われていますか？",
+      "options": [
+        "昔の技術だけ",
+        "ホログラムとライト",
+        "古いゲームの技術",
+        "特別な話をする技術"
+      ],
+      "correctIndex": 1,
+      "explanation": "例えば、ホログラムの技術です。アイドルがステージに現れて、歌って踊ります。",
+      "id": "3e7f7f01-1b56-4258-b604-9a1d51ca7019"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-12-cde4d29411",
+  "publishedAt": "2026-07-12T06:00:00+09:00"
+}

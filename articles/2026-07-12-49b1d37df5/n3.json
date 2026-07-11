@@ -1,0 +1,134 @@
+{
+  "title": "話題のフードトラック、街の風景を変える？",
+  "summary": "最近、都市部でフードトラックの活躍が目立ちます。これらは単なる食事の提供だけでなく、街の雰囲気を変える力も持っているようです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街を歩いていると、おしゃれなフードトラックをよく見かけませんか？特に駅前や公園の近くなど、人が集まる場所には、個性的なメニューを提供するトラックがたくさん出店しています。これは、都市の再開発が進む中で生まれてきた新しい動きの一つと言えるでしょう。",
+      "translationZh": "最近，走在街上，您是不是经常能看到时髦的餐车？尤其是在车站前或公园附近等人聚集的地方，有很多提供特色菜单的餐车出店。这可以说是随着城市再开发而产生的新动向之一。",
+      "translationEn": "Recently, when walking around town, don't you often see stylish food trucks? Especially in places where people gather, such as in front of stations or near parks, many trucks offering unique menus are setting up shop. This can be said to be one of the new movements that have emerged amidst urban redevelopment.",
+      "id": "bd2b3a21-47e4-45b2-aa2d-6ee0ffc13a1f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、店舗を持つよりも初期費用が少なく済むため、新しいビジネスを始めたい人にとって魅力的な選択肢です。また、固定の場所にとらわれず、イベントや人の流れに合わせて移動できるのが強みです。そのため、これまであまり利用されていなかったエリアでも、フードトラックが出店することで新しい賑わいが生まれることがあります。",
+      "translationZh": "餐车由于创业初期费用比实体店少，对于想开始新事业的人来说是很有吸引力的选择。而且，它的优势在于不受固定地点限制，可以根据活动或人流进行移动。因此，即使在以前不太被利用的区域，餐车的出现也能带来新的热闹。",
+      "translationEn": "Food trucks are an attractive option for those who want to start a new business, as the initial costs are lower than opening a brick-and-mortar store. Furthermore, their strength lies in their mobility, allowing them to move according to events or foot traffic, rather than being tied to a fixed location. Consequently, new liveliness can be created in areas that were not previously utilized much, simply by food trucks setting up shop.",
+      "id": "febf05e4-379b-4a76-a067-744a48cfb81a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市の再開発は、単に建物を新しくするだけでなく、そこに住む人々の生活を豊かにすることも目的としています。フードトラックは、人々が気軽に立ち寄って食事を楽しめる場を提供し、地域コミュニティの活性化にも貢献しています。例えば、週末に公園でフードトラックが集まるイベントが開かれれば、家族連れや友人同士で賑わう光景が見られるでしょう。",
+      "translationZh": "城市再开发的目的不仅是使建筑焕然一新，也旨在丰富居民的生活。餐车提供了人们可以随意停留、享受美食的场所，并为地区社区的活性化做出了贡献。例如，如果周末在公园举办餐车聚集的活动，就能看到全家出游或朋友结伴而来的热闹景象。",
+      "translationEn": "Urban redevelopment aims not only to modernize buildings but also to enrich the lives of the people who live there. Food trucks provide a place for people to casually stop by and enjoy meals, contributing to the revitalization of local communities. For instance, if an event where food trucks gather is held in a park on a weekend, one would see a lively scene with families and friends enjoying themselves.",
+      "id": "0c5c25c6-8e8c-4b30-bcc7-fea6d89dd5c3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、一方で、フードトラックが増えることで、既存の飲食店との間でトラブルが起こる可能性も指摘されています。また、路上駐車やゴミの問題など、解決すべき課題もあります。今後、これらの課題をクリアしながら、フードトラックが都市の魅力の一部として、より一層発展していくことが期待されています。",
+      "translationZh": "然而，另一方面，也有人指出，随着餐车的增加，可能会与现有的餐饮店发生纠纷。此外，还有路边停车和垃圾处理等需要解决的问题。今后，期待餐车在解决这些问题的同时，能作为城市魅力的一部分得到进一步发展。",
+      "translationEn": "However, on the other hand, it is also pointed out that the increase in food trucks could potentially lead to conflicts with existing restaurants. Furthermore, there are issues that need to be resolved, such as illegal parking and waste management. In the future, it is expected that food trucks will continue to develop further as a part of the city's charm, while overcoming these challenges.",
+      "id": "cd893fbb-fd7d-4a6f-a724-47fab46d6790",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车",
+      "meaningEn": "food truck",
+      "level": "n3",
+      "exampleSentence": "話題のフードトラックが週末のイベントに出店していた。",
+      "id": "f2162a89-c524-4117-9abe-4cca5e6c3e32"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发",
+      "meaningEn": "redevelopment",
+      "level": "n3",
+      "exampleSentence": "この地域は大規模な再開発が行われている。",
+      "id": "afa590f9-e8f8-40e3-96af-6a9a47c78ed8"
+    },
+    {
+      "word": "出店",
+      "reading": "しゅってん",
+      "meaningZh": "开店，设摊",
+      "meaningEn": "setting up a store/stall",
+      "level": "n3",
+      "exampleSentence": "新しいカフェが駅前に出店した。",
+      "id": "bffdeb98-61bf-4337-b0a8-aa8cc2323b0c"
+    },
+    {
+      "word": "固定",
+      "reading": "こてい",
+      "meaningZh": "固定",
+      "meaningEn": "fixed, stationary",
+      "level": "n3",
+      "exampleSentence": "この仕事は固定の場所で働く必要がある。",
+      "id": "4cee0c26-a33a-4b05-8c6d-2d162a8ecb27"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，活跃化",
+      "meaningEn": "invigoration, activation",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が求められている。",
+      "id": "96b8eacc-6d3a-4703-b33f-4c136f7bc4d2"
+    },
+    {
+      "word": "コミュニティ",
+      "reading": "こみゅにてぃ",
+      "meaningZh": "社区，社群",
+      "meaningEn": "community",
+      "level": "n3",
+      "exampleSentence": "地域のコミュニティ活動に参加した。",
+      "id": "226ef8f6-ea09-440d-ac2c-9434642562c3"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "issue, challenge, problem",
+      "level": "n3",
+      "exampleSentence": "この問題には多くの課題がある。",
+      "id": "3ed7571c-bd73-4a7f-bfe6-6685a1fb1252"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックが都市の風景を変える理由として、本文で挙げられていることは何ですか？",
+      "options": [
+        "既存の店舗より家賃が安いから",
+        "移動できるため、新しい場所で賑わいを生む可能性があるから",
+        "メニューが豊富で、どこでも同じものが食べられるから",
+        "都市再開発で必ずフードトラックが設置されるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「固定の場所にとらわれず、イベントや人の流れに合わせて移動できるのが強みです。そのため、これまであまり利用されていなかったエリアでも、フードトラックが出店することで新しい賑わいが生まれることがあります」と書かれています。",
+      "id": "7da1996c-8fa4-4000-bb30-a19f6b50ef1f"
+    },
+    {
+      "question": "フードトラックの増加に関して、本文で指摘されている懸念点は何ですか？",
+      "options": [
+        "食品の安全性が低いこと",
+        "固定店舗との間でトラブルが起こる可能性や、路上駐車・ゴミの問題",
+        "メニューが限られていて、消費者の選択肢が少ないこと",
+        "イベント開催時に交通渋滞を引き起こすこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後の段落に「一方で、フードトラックが増えることで、既存の飲食店との間でトラブルが起こる可能性も指摘されています。また、路上駐車やゴミの問題など、解決すべき課題もあります」とあります。",
+      "id": "5b7d8c5a-fdbd-4ef6-9d62-fc716f66b2b8"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-12-49b1d37df5",
+  "publishedAt": "2026-07-12T06:00:00+09:00"
+}

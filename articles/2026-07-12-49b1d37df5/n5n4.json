@@ -1,0 +1,122 @@
+{
+  "title": "話題のフードトラック！",
+  "summary": "最近、街でフードトラックがたくさん見られます。おいしい食べ物がたくさんありますよ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市で「フードトラック」が人気です。フードトラックは、車で食べ物を売るお店です。色々な種類の食べ物があります。例えば、おいしいハンバーガーや、甘いクレープがあります。",
+      "translationZh": "最近，城市里“餐车”很受欢迎。餐车是在车上卖食物的店。有各种各样的食物。比如，有好吃的汉堡包，也有甜的薄饼。",
+      "translationEn": "Recently, 'food trucks' are popular in the city. Food trucks are shops that sell food from a vehicle. There are many kinds of food. For example, there are delicious hamburgers and sweet crepes.",
+      "id": "b387586e-cb1d-40e4-922c-b6ed841a3cc3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、公園や駅の近くによく来ます。仕事の昼休みや、週末に便利です。新しい場所で、おいしいものを食べられるのは楽しいです。色々な人が集まって、賑やかになります。",
+      "translationZh": "餐车经常在公园或车站附近出现。在工作午休时间或周末很方便。能在新的地方吃到好吃的食物，这很有趣。很多人聚集在一起，变得很热闹。",
+      "translationEn": "Food trucks often come near parks or stations. They are convenient for lunch breaks during work or on weekends. It's fun to eat delicious food in a new place. Many people gather, and it becomes lively.",
+      "id": "9834d2bf-bbcd-4ba2-8264-23bb889a0091",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市の古い場所が新しく変わっています。そこに、フードトラックがたくさん来るようになりました。古い街が、もっと魅力的な場所になります。人々は、新しい食べ物と新しい雰囲気を楽しんでいます。",
+      "translationZh": "城市的老地方正在变得焕然一新。在那里，餐车也变多了。旧街区变得更有吸引力了。人们正在享受新的食物和新的氛围。",
+      "translationEn": "Old parts of the city are being redeveloped. Many food trucks have started coming to these places. Old towns become more attractive places. People are enjoying new food and new atmospheres.",
+      "id": "9478e0d4-d802-40bc-bdb5-fe0fb4cb85b1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、フードトラックは増えるかもしれません。街がもっと面白くなるでしょう。皆さんも、ぜひフードトラックを探してみてください。きっと、お気に入りの味が見つかりますよ。",
+      "translationZh": "今后，餐车可能会继续增加。城市也会变得更有趣。大家也请一定要找找看餐车。一定能找到你喜欢的口味哦。",
+      "translationEn": "In the future, food trucks may increase. The city will become more interesting. Everyone, please try looking for food trucks. You will surely find your favorite taste.",
+      "id": "fb089cab-87e4-4f7c-aae9-b519f188871c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "駅の前に新しいフードトラックが来ました。",
+      "id": "f69d9357-da0b-4f94-b36e-36373944fa8c"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "106f3063-834f-4790-a20f-05d7b3eed38b"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, type",
+      "level": "n5n4",
+      "exampleSentence": "色々な種類の本があります。",
+      "id": "8c5b365b-0e43-46b6-92f7-413fc7eb0eaa"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このカバンはとても便利です。",
+      "id": "a869703e-f6a4-48e9-800e-d94ca76c0559"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n5n4",
+      "exampleSentence": "この街の魅力は、古い建物です。",
+      "id": "fa040751-d0d2-4ecb-9e97-18e315795bfc"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "氛围，气氛",
+      "meaningEn": "atmosphere",
+      "level": "n5n4",
+      "exampleSentence": "カフェの雰囲気がいいです。",
+      "id": "c102cbe4-37fa-44a7-8db0-26343c2fd882"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发，重建",
+      "meaningEn": "redevelopment",
+      "level": "n3",
+      "exampleSentence": "この地区は再開発中です。",
+      "id": "3f5c5524-5b69-412c-9135-cd15cc20d411"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックは、どんな時に便利ですか？",
+      "options": [
+        "毎日、家で食べる時",
+        "仕事の昼休みや、週末",
+        "雨の日だけ",
+        "寝る前だけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "「仕事の昼休みや、週末に便利です。」と書いてあります。",
+      "id": "06e0c0cc-8144-47e2-a7ae-fdfe1c80273f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-12-49b1d37df5",
+  "publishedAt": "2026-07-12T06:00:00+09:00"
+}
