@@ -1,0 +1,131 @@
+{
+  "title": "Jリーグの工夫！",
+  "summary": "Jリーグのチームは、もっとたくさんの人に見に来てほしいです。それで、いろいろな工夫をしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "Jリーグには、たくさんのサッカーチームがあります。町の小さなチームも、大きいです。これらのチームは、もっとお客さんを呼びたいです。だから、いろいろなことをしています。",
+      "translationZh": "J联赛有很多足球队。小镇上的球队也很重要。这些球队想吸引更多的观众。因此，他们正在做各种各样的事情。",
+      "translationEn": "J. League has many soccer teams. Small town teams are also important. These teams want to attract more spectators. So, they are doing various things.",
+      "id": "54564aaf-b87a-43da-be17-3ef78ade3749",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、試合の日に特別なイベントをします。子供たちが遊べる場所を作ったり、地元の食べ物を売ったりします。家族みんなで楽しむことができます。",
+      "translationZh": "例如，他们在比赛日举办特别活动。他们会设置孩子们可以玩耍的地方，或者出售当地的食物。全家人都可以享受。",
+      "translationEn": "For example, they hold special events on game days. They set up places where children can play, or sell local food. The whole family can enjoy.",
+      "id": "a1c9e5eb-7439-45a5-8e65-9eb0046fba6d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、地域の人たちと仲良くなることも大切です。学校に行ったり、お祭りに参加したりします。みんながチームのことを好きになります。",
+      "translationZh": "此外，与当地人建立良好关系也很重要。他们会去学校，参加节日庆典。这样大家都会喜欢上这支队伍。",
+      "translationEn": "In addition, building good relationships with local people is also important. They visit schools and participate in festivals. This makes everyone like the team.",
+      "id": "5bf75dc1-ab8b-45ac-aa37-70da6da61e50",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの工夫で、スタジアムがもっとたくさんの人でいっぱいになります。チームも地域も、もっと元気になるでしょう。",
+      "translationZh": "通过这些努力，体育场会挤满更多的人。球队和地区都会变得更加充满活力。",
+      "translationEn": "With these efforts, stadiums will be filled with more people. Both the team and the region will become more vibrant.",
+      "id": "ded5ce67-1209-4505-8d1d-76271129b946",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法；办法；创造；改进",
+      "meaningEn": "idea; method; invention; improvement",
+      "level": "n5n4",
+      "exampleSentence": "いい工夫ですね。",
+      "id": "43c6e9fb-4c3a-4757-ad71-87e3bd14e55d"
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaningZh": "观众",
+      "meaningEn": "spectator; audience",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの観客が来ました。",
+      "id": "218e79d4-5342-496e-8851-12b32a27cff1"
+    },
+    {
+      "word": "動員",
+      "reading": "どういん",
+      "meaningZh": "动员；号召",
+      "meaningEn": "mobilization; appeal",
+      "level": "n3",
+      "exampleSentence": "選手を動員する。",
+      "id": "92b7ed2f-8c68-4837-9629-055e38fb4fdc"
+    },
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaningZh": "城镇；街道",
+      "meaningEn": "town; street",
+      "level": "n5n4",
+      "exampleSentence": "この町はきれいです。",
+      "id": "272bf182-5ccc-4837-893e-ce1156665e01"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "0ff394c2-20fb-47a3-ab44-865277fa9f15"
+    },
+    {
+      "word": "イベント",
+      "reading": "イベント",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "楽しいイベントでした。",
+      "id": "4d9c66ef-1149-4f0c-a4bc-6dbdb87ca43d"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区；地域",
+      "meaningEn": "region; area",
+      "level": "n5n4",
+      "exampleSentence": "この地域は有名です。",
+      "id": "53511bff-4775-499b-bd76-f7ea41ed2192"
+    },
+    {
+      "word": "元気になる",
+      "reading": "げんき に なる",
+      "meaningZh": "变得有精神；变得健康",
+      "meaningEn": "to become energetic; to become healthy",
+      "level": "n5n4",
+      "exampleSentence": "友達に会って元気になる。",
+      "id": "c5d46c7c-fe76-41bb-8a3b-bb073c77f8c5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Jリーグのチームは、どうして工夫をしていますか。",
+      "options": [
+        "もっとお金がほしいからです。",
+        "もっとたくさんの人に見に来てほしいからです。",
+        "もっと強いチームになりたいからです。",
+        "もっと広いスタジアムがほしいからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「Jリーグのチームは、もっとお客さんを呼びたいです。」と書いてあります。",
+      "id": "db34a888-b72b-4329-b5e9-c51c6a57275f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-13-j",
+  "publishedAt": "2026-07-13T06:00:00+09:00"
+}

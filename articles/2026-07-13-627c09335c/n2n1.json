@@ -1,0 +1,138 @@
+{
+  "title": "煌めく冬の彩り、各地でイルミネーション開催",
+  "summary": "全国各地で冬の風物詩ともいえるイルミネーションイベントが開催されています。趣向を凝らした光の装飾は、訪れる人々に幻想的なひとときを提供しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "晩秋から初冬にかけて、各地で冬の風物詩であるイルミネーションの点灯が相次いでいる。近年、単なる光の装飾にとどまらず、最新のプロジェクションマッピング技術を駆使した光のアート作品として展開されるケースも増えており、その演出は年々高度化する傾向にあるとのことだ。家族連れはもちろん、カップルや友人同士でも楽しめるイベントとして、多くの人々が訪れている。",
+      "translationZh": "从晚秋到初冬，各地陆续点亮了作为冬季一道风景线的彩灯。近年来，其形式已不再局限于单纯的灯光装饰，越来越多地采用最新的投影映射技术，将其发展为光之艺术作品，演出效果也呈现出年复一年高度化的趋势。这已成为一个家庭、情侣或朋友一同都能享受的活动，吸引着众多游客。",
+      "translationEn": "From late autumn into early winter, illuminations, a quintessential winter attraction, are being lit up across various regions. In recent years, there has been an increasing trend for these events to go beyond mere light decorations, evolving into artistic light displays utilizing cutting-edge projection mapping technology, with their presentation becoming more sophisticated year by year. These events are popular among families, couples, and groups of friends alike, drawing large crowds.",
+      "id": "4f8326f7-eed8-46cc-bd1a-c3d02369760b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に都市部では、商業施設や公園などを舞台に、華やかな光のトンネルや、シンボルツリーを模した巨大なオブジェなどが設置されることが多い。LED技術の進歩により、省エネルギーでありながらも、色彩豊かでダイナミックな光の演出が可能となった。これにより、環境への配慮をしつつ、幻想的な景観を創出することが実現されており、地域活性化の一助ともなっていると見られる。",
+      "translationZh": "尤其是在城市地区，常以商业设施或公园为舞台，设置华丽的光之隧道或模仿象征性树木的巨大装置。得益于LED技术的进步，在节能的同时，也能够实现色彩丰富、动感十足的光影效果。这使得在兼顾环保的同时，创造出梦幻般的景观成为可能，并被认为有助于地区振兴。",
+      "translationEn": "Particularly in urban areas, commercial facilities and parks often serve as venues for elaborate light tunnels and giant installations resembling iconic trees. Advances in LED technology have enabled vibrant and dynamic light displays with rich colors while remaining energy-efficient. This has made it possible to create fantastical scenery while also considering environmental impact, and is seen as contributing to regional revitalization.",
+      "id": "be292cb9-cb01-42ef-adaa-a9a17afceba1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "各地のイルミネーションイベントは、それぞれが独自のテーマやコンセプトを掲げており、その地域ならではの特色を反映した装飾が見られるのも魅力の一つである。例えば、歴史的な建造物と光のコラボレーションや、地元の伝承をモチーフにした光のアートなどは、訪れる人々に新たな感動を与えている。これらのイベントは、地域住民の交流を深めるとともに、観光客誘致にも大きく貢献している。",
+      "translationZh": "各地的彩灯活动都以其独特的 theame 或理念为特色，能够欣赏到反映当地独有特征的装饰也是其魅力之一。例如，历史建筑与灯光的结合，或以当地传说为主题的光之艺术，都为游客带来了新的感动。这些活动不仅加深了当地居民的交流，也为吸引游客做出了巨大贡献。",
+      "translationEn": "Each illumination event across the country boasts its own unique theme and concept, with one of their charms being the decorations that reflect the distinctive characteristics of their respective regions. For instance, collaborations between historical structures and light displays, or light art installations inspired by local folklore, offer new sensory experiences to visitors. These events play a significant role in fostering community interaction and attracting tourists.",
+      "id": "662f4983-3516-4082-a24a-273a3cb3b57c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（季节的）代表性事物，风物诗",
+      "meaningEn": "seasonal feature; thing characteristic of a season",
+      "level": "n2n1",
+      "exampleSentence": "桜は春の風物詩だ。",
+      "id": "7b419dde-626b-44bc-81b3-7dfa09dcb123"
+    },
+    {
+      "word": "相次ぐ",
+      "reading": "あいつぐ",
+      "meaningZh": "接连发生，接二连三",
+      "meaningEn": "to happen one after another; to follow in succession",
+      "level": "n2n1",
+      "exampleSentence": "事故が相次いで発生した。",
+      "id": "0d100f06-c5fa-4c71-8687-504bb3a8b4bd"
+    },
+    {
+      "word": "駆使する",
+      "reading": "くしする",
+      "meaningZh": "充分利用，巧妙运用",
+      "meaningEn": "to make full use of; to employ skillfully",
+      "level": "n2n1",
+      "exampleSentence": "最新技術を駆使した製品。",
+      "id": "48ccaf9f-d786-4113-816e-fec9ba0d14d1"
+    },
+    {
+      "word": "高度化",
+      "reading": "こうどか",
+      "meaningZh": "高度化，提高水平",
+      "meaningEn": "sophistication; upgrading; becoming more advanced",
+      "level": "n2n1",
+      "exampleSentence": "技術の高度化が進んでいる。",
+      "id": "81bb24e9-c6f1-468f-91f8-a87f184fc16a"
+    },
+    {
+      "word": "模する",
+      "reading": "もする",
+      "meaningZh": "模仿，仿制",
+      "meaningEn": "to imitate; to model after",
+      "level": "n2n1",
+      "exampleSentence": "本物そっくりに模した模型。",
+      "id": "ab22c489-569a-458a-948b-cc4fc9cc1c48"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "关怀，体谅，考虑",
+      "meaningEn": "consideration; care; concern",
+      "level": "n3",
+      "exampleSentence": "相手の気持ちに配慮する。",
+      "id": "50ef799a-33d3-46bf-b971-931cd326ba14"
+    },
+    {
+      "word": "地域活性化",
+      "reading": "ちいきかっせいか",
+      "meaningZh": "地区振兴",
+      "meaningEn": "regional revitalization; regional development",
+      "level": "n2n1",
+      "exampleSentence": "地域活性化のために新しいイベントを企画した。",
+      "id": "230d86f7-2901-45a4-8c0a-8421a25c75f7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、近年のイルミネーションイベントはどのような傾向にあると述べられていますか。",
+      "options": [
+        "単なる光の装飾に留まり、技術的な進歩は見られない。",
+        "プロジェクションマッピング技術などを駆使し、演出が高度化している。",
+        "省エネルギー化が進み、色彩が単調になっている。",
+        "地域活性化への貢献が見られなくなっている。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「近年、単なる光の装飾にとどまらず、最新のプロジェクションマッピング技術を駆使した光のアート作品として展開されるケースも増えており、その演出は年々高度化する傾向にあるとのことだ。」という記述から、プロジェクションマッピング技術などを駆使し、演出が高度化していることがわかります。",
+      "id": "8edc5013-6ec9-4b5f-9b17-d28c8e4045bc"
+    },
+    {
+      "question": "LED技術の進歩は、イルミネーションのどのような点に貢献していますか。",
+      "options": [
+        "より大規模な設置スペースを必要とするようになった。",
+        "環境への負荷を増大させるようになった。",
+        "省エネルギーでありながら、色彩豊かでダイナミックな演出を可能にした。",
+        "設置コストが大幅に上昇した。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「LED技術の進歩により、省エネルギーでありながらも、色彩豊かでダイナミックな光の演出が可能となった。」という記述が、LED技術の貢献を示しています。",
+      "id": "41907f32-99e0-4739-9a5b-dcff7c334ee0"
+    },
+    {
+      "question": "各地のイルミネーションイベントの魅力として、どのような点が挙げられていますか。",
+      "options": [
+        "全国どこでも同じような装飾が見られること。",
+        "最新の技術のみが重視され、伝統的な要素は排除されていること。",
+        "その地域ならではの特色を反映した独自のテーマやコンセプトの装飾が見られること。",
+        "イベントの開催期間が非常に短いこと。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「各地のイルミネーションイベントは、それぞれが独自のテーマやコンセプトを掲げており、その地域ならではの特色を反映した装飾が見られるのも魅力の一つである。」という記述が、イベントの魅力として挙げられています。",
+      "id": "f6fe9583-514a-4749-b949-e4aeeee8a7a1"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-13-627c09335c",
+  "publishedAt": "2026-07-13T06:00:00+09:00"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "育休取得率、過去最高を更新：企業の意識改革が進む",
+  "summary": "男性の育児休業取得率が過去最高を更新したことが明らかになりました。背景には、政府の推進策に加え、企業の積極的な取り組みが見られます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "厚生労働省が発表した最新の統計によると、男性の育児休業取得率は過去最高の13.96％に達したとのことです。この数字は、前年の12.65％を上回り、年々上昇傾向にあることが示されました。女性の取得率も依然として高く、全体として子育てを両立させやすい環境整備が進んでいると見られます。",
+      "translationZh": "厚生劳动省公布的最新统计数据显示，男性育儿休假休假率达到了创纪录的13.96%。这一数字超过了去年的12.65%，显示出逐年上升的趋势。女性的休假率也依然很高，整体来看，为实现育儿与工作的两立创造环境的整備工作正在推进。",
+      "translationEn": "According to the latest statistics released by the Ministry of Health, Labour and Welfare, the paternity leave uptake rate has reached a record high of 13.96%. This figure surpasses last year's 12.65%, indicating an upward trend year by year. The uptake rate for women also remains high, suggesting that efforts to create an environment conducive to balancing childcare and work are progressing overall.",
+      "id": "2a826fcd-a093-41d0-ad31-93075b68877a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした取得率の向上には、政府による「プラチナくるみん」認定制度などの推進策が後押ししている側面がある一方、企業側も独自に育休取得を奨励する動きを活発化させていることが背景にあると指摘されています。例えば、男性社員に対して育休取得を奨励する研修を実施したり、取得しやすいように短期間の育休制度を導入したりする企業が増加しているのです。",
+      "translationZh": "这种休假率的提高，一方面得益于政府的“白金くるみん”认定制度等推广政策的推动，另一方面，企业自身也正积极地鼓励育儿休假制度，这被认为是其背景原因。例如，越来越多的企业开始为男性员工实施鼓励休育儿假的培训，或者引入短期育儿休假制度以便于休假。",
+      "translationEn": "The improvement in these uptake rates is partly supported by government initiatives such as the 'Platinum Kurumin' certification system. Furthermore, it is pointed out that companies themselves are also actively promoting the acquisition of childcare leave. For instance, there is an increasing number of companies implementing training to encourage male employees to take childcare leave or introducing short-term childcare leave systems to make it easier to take leave.",
+      "id": "5c1a10f0-de91-4841-a797-52c3d2f08c6d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、依然として「職場の理解が得られない」「業務への影響が心配」といった声も聞かれます。育休取得率のさらなる向上には、制度の拡充のみならず、経営層から一般社員に至るまで、組織全体での意識改革と、具体的なサポート体制の構築が不可欠であると考えられます。",
+      "translationZh": "然而，依然存在“难以获得职场理解”、“担心对工作业务的影响”等声音。育儿休假取得率的进一步提高，不仅需要制度的完善，更需要从经营层到普通员工，全组织范围内的意识改革以及具体支持体系的构建，这被认为是不可或缺的。",
+      "translationEn": "However, concerns such as 'lack of understanding from colleagues' and 'worry about the impact on work duties' are still heard. Further improvement in the childcare leave uptake rate is considered to require not only the expansion of systems but also a company-wide cultural shift in awareness from management to general employees, along with the establishment of concrete support structures.",
+      "id": "439fc860-fbc4-4297-82ae-06e6b8cbe71b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "取得率，成功率",
+      "meaningEn": "acquisition rate, uptake rate",
+      "level": "n2n1",
+      "exampleSentence": "育児休業の取得率を向上させるため、企業は様々な施策を講じている。",
+      "id": "a8f75b76-64c4-4df5-83f2-768a5f6b509c"
+    },
+    {
+      "word": "厚生労働省",
+      "reading": "こうせいろうどうしょう",
+      "meaningZh": "日本厚生劳动省（负责社会保障、卫生、劳动等事务的中央部门）",
+      "meaningEn": "Ministry of Health, Labour and Welfare",
+      "level": "n3",
+      "exampleSentence": "厚生労働省は、最新の労働市場に関するデータを発表した。",
+      "id": "ffa4b610-516e-4853-8518-4272fe71bffc"
+    },
+    {
+      "word": "推し進める",
+      "reading": "おしすすめる",
+      "meaningZh": "推进，推动",
+      "meaningEn": "to promote, to push forward",
+      "level": "n2n1",
+      "exampleSentence": "政府は、働き方改革を推し進める方針である。",
+      "id": "a2d84c51-a9b1-4e1a-8618-10f7cf0d458d"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "支持，推动，帮助",
+      "meaningEn": "support, encouragement, push",
+      "level": "n2n1",
+      "exampleSentence": "彼の成功は、多くの人々の後押しによってもたらされた。",
+      "id": "d231b73d-88eb-4817-95be-ac0d5da8d8de"
+    },
+    {
+      "word": "奨励",
+      "reading": "しょうれい",
+      "meaningZh": "奖励，鼓励",
+      "meaningEn": "encouragement, promotion",
+      "level": "n2n1",
+      "exampleSentence": "会社は、社員の自己啓発を奨励する制度を設けている。",
+      "id": "42c6cd4b-440f-4853-b2f1-2669c1164a19"
+    },
+    {
+      "word": "両立",
+      "reading": "りょうりつ",
+      "meaningZh": "（事业与家庭等）兼顾，并存",
+      "meaningEn": "compatibility, balancing",
+      "level": "n2n1",
+      "exampleSentence": "仕事と育児の両立は、多くの女性にとって大きな課題である。",
+      "id": "595bf623-5307-414c-bab5-016071e28742"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaningZh": "不可缺少的，必需的",
+      "meaningEn": "indispensable, essential",
+      "level": "n2n1",
+      "exampleSentence": "成功のためには、努力と忍耐が不可欠だ。",
+      "id": "a55dcd13-81d7-4702-a599-638e0d564171"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男性の育児休業取得率が過去最高を更新したとのことですが、その具体的な数値はどのくらいですか？",
+      "options": [
+        "12.65％",
+        "13.96％",
+        "約14％",
+        "前年比1.31％増"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中に「男性の育児休業取得率は過去最高の13.96％に達したとのことです」と記載されています。",
+      "id": "4df0a1c0-97cb-4f07-999e-eeac5cd0ce89"
+    },
+    {
+      "question": "育児休業取得率の向上に寄与していると考えられる要因は何ですか？",
+      "options": [
+        "企業の業績向上のみ",
+        "政府の推進策と企業の積極的な取り組み",
+        "男性社員の意識改革のみ",
+        "育児休業期間の長期化"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「政府による「プラチナくるみん」認定制度などの推進策が後押ししている側面がある一方、企業側も独自に育休取得を奨励する動きを活発化させていることが背景にある」と説明されています。",
+      "id": "f7d27d31-a811-453a-b31a-06d6bf9a4f58"
+    },
+    {
+      "question": "育児休業取得率をさらに向上させるために、何が必要だと本文では述べられていますか？",
+      "options": [
+        "取得期間をさらに延長すること",
+        "給与補償を増やすこと",
+        "組織全体での意識改革と具体的なサポート体制の構築",
+        "男性社員への罰則強化"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「育休取得率のさらなる向上には、制度の拡充のみならず、経営層から一般社員に至るまで、組織全体での意識改革と、具体的なサポート体制の構築が不可欠であると考えられます」とあります。",
+      "id": "1bd8c923-4cc6-4081-84e8-40b31130fc52"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-13-2e8791ca78",
+  "publishedAt": "2026-07-13T06:00:00+09:00"
+}

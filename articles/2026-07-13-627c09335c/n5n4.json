@@ -1,0 +1,114 @@
+{
+  "title": "冬のイルミネーション特集",
+  "summary": "冬になると、街がキラキラ光ります。きれいなイルミネーションを見て、冬を楽しみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬は寒いです。でも、街はとてもきれいです。たくさんの光がきらきらしています。これはイルミネーションです。冬の楽しみの一つです。",
+      "translationZh": "冬天很冷。但是，街道非常漂亮。有很多光在闪闪发光。这就是彩灯装饰。是冬天的一大乐趣。",
+      "translationEn": "It is cold in winter. But the streets are very beautiful. Many lights are sparkling. This is illumination. It is one of the joys of winter.",
+      "id": "540befcc-a943-4dd0-94a6-db295de89639",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園や駅の近くできれいなイルミネーションが見られます。大きな木に光が飾られています。歩いていると、心が温かくなります。友達や家族と見に行くのがおすすめです。",
+      "translationZh": "可以在公园和车站附近看到美丽的彩灯装饰。大树上装饰着灯光。走在路上，心里会变得温暖。推荐和朋友或家人一起去看。",
+      "translationEn": "You can see beautiful illuminations near parks and stations. Lights are decorated on big trees. As you walk, your heart becomes warm. It is recommended to go see them with friends or family.",
+      "id": "9707a73e-709d-4722-9eb9-e52afed568ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特別なイベントもあります。音楽が流れて、光が動きます。とてもロマンチックな雰囲気です。写真を撮るのも楽しいです。冬の思い出をたくさん作りましょう。",
+      "translationZh": "还有特别的活动。会播放音乐，灯光会动。气氛非常浪漫。拍照也很有趣。让我们留下许多冬天的回忆吧。",
+      "translationEn": "There are also special events. Music plays, and the lights move. The atmosphere is very romantic. Taking pictures is also fun. Let's make many winter memories.",
+      "id": "4ccd5131-2389-40cb-b921-86de11cfdfb0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "640f4ac6-c325-4340-b5ff-b7f576c9903d"
+    },
+    {
+      "word": "街",
+      "reading": "まち",
+      "meaningZh": "街道，城市",
+      "meaningEn": "town, city",
+      "level": "n5n4",
+      "exampleSentence": "街はとてもきれいです。",
+      "id": "7275dd3c-bbff-48a3-834a-0c1a58d6c8d1"
+    },
+    {
+      "word": "光",
+      "reading": "ひかり",
+      "meaningZh": "光，光线",
+      "meaningEn": "light",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの光がきらきらしています。",
+      "id": "006e3d61-b3f7-46c4-b939-3491eddcc97d"
+    },
+    {
+      "word": "見られます",
+      "reading": "みられます",
+      "meaningZh": "能看到（見える的可能态）",
+      "meaningEn": "can see",
+      "level": "n5n4",
+      "exampleSentence": "きれいなイルミネーションが見られます。",
+      "id": "2df0e558-6a89-40fb-9a20-776082c271d1"
+    },
+    {
+      "word": "飾る",
+      "reading": "かざる",
+      "meaningZh": "装饰",
+      "meaningEn": "to decorate",
+      "level": "n5n4",
+      "exampleSentence": "木に光が飾られています。",
+      "id": "c7203471-f5bf-4b74-a79b-0e6960b356b3"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "とてもロマンチックな雰囲気です。",
+      "id": "d9e137e6-d8c7-49ff-a40c-2a7db0c9d00c"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "冬の思い出をたくさん作りましょう。",
+      "id": "4da97b42-8895-478a-a2a8-53ecaedd47b7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "イルミネーションはどこで見られますか。",
+      "options": [
+        "駅の中だけ",
+        "公園や駅の近く",
+        "学校の中",
+        "家の中だけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "公園や駅の近くできれいなイルミネーションが見られます。",
+      "id": "d49a0bb0-7dca-4b9b-85fe-c430a7f84b89"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-13-627c09335c",
+  "publishedAt": "2026-07-13T06:00:00+09:00"
+}

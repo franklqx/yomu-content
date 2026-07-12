@@ -1,0 +1,123 @@
+{
+  "title": "育児休業、どうなってる？",
+  "summary": "最近、男性の育児休業についてのニュースがありました。もっと多くの人が育児休業を取るようになっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、育児休業についての新しいデータが出ました。育児休業は、子供が生まれた後に休むことです。女性だけではなく、男性も取ることができます。このデータによると、育児休業を取る人が増えています。特に、男性の育児休業取得率が少し上がりました。",
+      "translationZh": "最近，关于育儿假的最新数据出来了。育儿假是指孩子出生后可以休息。不仅女性，男性也可以休。根据这些数据，休育儿假的人正在增加。特别是，男性育儿假的取得率有所提高。",
+      "translationEn": "Recently, new data about childcare leave was released. Childcare leave is a break taken after a child is born. Not only women, but men can also take it. According to this data, the number of people taking childcare leave is increasing. In particular, the rate of men taking childcare leave has slightly increased.",
+      "id": "38e00af0-64e4-429b-a2df-26d0c652d43f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "育児休業を取ることは、家族にとってとても大切です。お父さんが育児に参加すると、お母さんの負担が軽くなります。そして、子供との時間も増えます。会社は、育児休業を取りやすいように、色々な工夫をしています。例えば、休んでも給料の一部が出たり、復帰しやすいようにサポートしたりします。",
+      "translationZh": "休育儿假对家庭来说非常重要。如果父亲参与育儿，母亲的负担就会减轻。而且，与孩子相处的时间也会增加。公司为了让育儿假更容易休，正在做各种各样的事情。例如，即使休假也能获得一部分工资，或者提供支持以便更容易地重返工作岗位。",
+      "translationEn": "Taking childcare leave is very important for families. When fathers participate in childcare, mothers' burdens become lighter. Also, time with the child increases. Companies are making various efforts to make it easier to take childcare leave. For example, they provide part of the salary even during leave, or offer support to make returning to work easier.",
+      "id": "672132cb-7925-455c-9b1c-03ef4fefdd8e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、まだ課題もあります。男性の育児休業取得率は、女性に比べるとまだまだ低いです。会社によっては、男性が育児休業を取りにくい雰囲気があるかもしれません。国も、もっと多くの人が育児休業を取れるように、法律を変えたり、会社に協力を求めたりしています。これからも、育児休業が当たり前になる社会を目指しています。",
+      "translationZh": "但是，仍然存在一些问题。与女性相比，男性育儿假的取得率仍然很低。根据公司不同，可能存在男性不易休育儿假的氛围。国家也在改变法律，请求公司合作，以便更多人能够休育儿假。今后，我们正以育儿假成为社会常态的目标努力。",
+      "translationEn": "However, there are still challenges. The rate of men taking childcare leave is still low compared to women. Depending on the company, there might be an atmosphere where it is difficult for men to take childcare leave. The government is also changing laws and asking for cooperation from companies so that more people can take childcare leave. From now on, we aim for a society where childcare leave is commonplace.",
+      "id": "901c3529-4dcb-4c15-a87c-a1709961ae7b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "育児休業",
+      "reading": "いくじきゅうぎょう",
+      "meaningZh": "育儿假",
+      "meaningEn": "childcare leave",
+      "level": "n5n4",
+      "exampleSentence": "男性も育児休業を取ることができます。",
+      "id": "a115bb12-f982-4673-ad7a-fe32c2e0a1b8"
+    },
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "取得率",
+      "meaningEn": "acquisition rate",
+      "level": "n3",
+      "exampleSentence": "男性の取得率が上がりました。",
+      "id": "cd0c0c2e-8b39-42aa-88df-bcff0856d4d6"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担",
+      "meaningEn": "burden",
+      "level": "n5n4",
+      "exampleSentence": "お母さんの負担が軽くなりました。",
+      "id": "177a0fdd-96f8-4038-95b5-276800ca6e09"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "父は育児に参加しています。",
+      "id": "9c402717-8dac-49b5-bda4-8447b0c59c72"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法、办法、创造",
+      "meaningEn": "device, scheme, invention, ingenuity",
+      "level": "n3",
+      "exampleSentence": "会社は色々な工夫をしています。",
+      "id": "bf4e9782-edd6-4d91-abdd-f0e10c5c95d5"
+    },
+    {
+      "word": "復帰",
+      "reading": "ふっき",
+      "meaningZh": "复归、重返",
+      "meaningEn": "return",
+      "level": "n3",
+      "exampleSentence": "仕事に復帰するのは大変です。",
+      "id": "f25940a6-6dc1-44f3-89ec-d447ebb256c1"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题、问题",
+      "meaningEn": "task, challenge, problem",
+      "level": "n3",
+      "exampleSentence": "まだ課題がたくさんあります。",
+      "id": "be122fcf-8e2e-491c-949e-933e118fa8c8"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere, mood",
+      "level": "n3",
+      "exampleSentence": "会社に話しやすい雰囲気があります。",
+      "id": "89edbc24-c431-4f1c-b29e-75c87bd9c2ca"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男性の育児休業取得率は、以前と比べてどうなりましたか？",
+      "options": [
+        "低くなりました",
+        "変わりません",
+        "少し上がりました",
+        "ゼロになりました"
+      ],
+      "correctIndex": 2,
+      "explanation": "データによると、男性の育児休業取得率が少し上がりました。",
+      "id": "820af02c-5529-4b93-acba-e40534bb2b22"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-13-2e8791ca78",
+  "publishedAt": "2026-07-13T06:00:00+09:00"
+}

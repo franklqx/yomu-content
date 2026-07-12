@@ -1,0 +1,143 @@
+{
+  "title": "育休取得率の最新データと企業の取り組み",
+  "summary": "男性の育児休業取得率が過去最高を更新しました。企業も積極的に支援策を導入しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、男性の育児休業（育休）を取得する人が増えています。最新のデータによると、男性の育休取得率は過去最高の17.13％となりました。これは、社会全体で子育てへの関心が高まっていることの表れと言えるでしょう。しかし、依然として多くの課題が残っています。",
+      "translationZh": "近年来，休育儿假的男性人数正在增加。根据最新数据，男性育儿假的取得率达到了历史最高点17.13%。这可以说反映了整个社会对育儿的关注度在提高。然而，仍然存在许多挑战。",
+      "translationEn": "In recent years, the number of men taking childcare leave (ikukyu) has been increasing. According to the latest data, the rate of men taking childcare leave reached a record high of 17.13%. This can be seen as a reflection of the growing societal interest in childcare. However, many challenges still remain.",
+      "id": "97df4ecc-4086-4278-aa0d-da8f510f5315",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "育休を取得することのメリットは、単に子育てに参加するだけではありません。男性が育休を取得することで、夫婦間の家事・育児の分担がより公平になり、妻の負担軽減につながります。また、職場復帰後のキャリア形成においても、子育て経験が新たな視点をもたらすことも期待されています。企業側も、こうしたメリットを理解し始めています。",
+      "translationZh": "休育儿假的益处不仅仅是参与育儿。男性休育儿假，有助于夫妻之间更公平地分担家务和育儿，减轻妻子的负担。此外，人们也期待育儿经验能在重返职场后的职业发展中带来新的视角。企业方面也开始理解这些益处。",
+      "translationEn": "The benefits of taking childcare leave are not just about participating in childcare. When men take childcare leave, the division of household chores and childcare between spouses becomes fairer, leading to a reduction in the wife's burden. Furthermore, it is expected that the experience of raising children will bring new perspectives to career development after returning to work. Companies are also beginning to understand these benefits.",
+      "id": "27484081-def2-4378-a4c3-8b21bbcd8873",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "多くの企業では、育休を取得しやすい環境を作るために、様々な取り組みを行っています。例えば、育休中の給与保障を手厚くしたり、復帰後のキャリアプランを共に考えたりする制度を導入する会社が増えています。また、上司や同僚が育休取得を積極的に推奨する文化を醸成することも大切です。これにより、男性が安心して育休を取得できるようになるでしょう。",
+      "translationZh": "为了创造更容易休育儿假的良好环境，许多企业正在采取各种措施。例如，越来越多的公司正在引入旨在提供更丰厚育儿假期间的工资保障，以及共同规划重返职场后职业生涯的制度。此外，培养一种由上司和同事积极鼓励休育儿假的文化也至关重要。通过这些措施，男性将能够安心地休育儿假。",
+      "translationEn": "Many companies are implementing various initiatives to create an environment where taking childcare leave is easier. For example, an increasing number of companies are introducing systems that provide more generous wage guarantees during childcare leave and jointly consider career plans for returning to work. It is also important to foster a culture where supervisors and colleagues actively encourage taking childcare leave. This will enable men to take childcare leave with peace of mind.",
+      "id": "9ebae389-4c59-400b-bc6e-f19b55f4724a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "男性の育休取得率の向上は、少子化対策としても期待されています。子育てしやすい社会を実現するためには、企業と従業員、そして社会全体が協力していくことが不可欠です。これからも、育休に関する制度や企業の取り組みに注目していきましょう。",
+      "translationZh": "提高男性育儿假的取得率也被寄予厚望，认为其有助于应对少子化问题。为了实现一个有利于育儿的社会，企业、员工以及整个社会必须齐心协力。今后，我们也将继续关注与育儿假相关的制度和企业的举措。",
+      "translationEn": "Improving the rate of men taking childcare leave is also expected to be a measure against the declining birthrate. To create a society that is conducive to raising children, it is essential for companies, employees, and society as a whole to cooperate. Let us continue to pay attention to systems and corporate initiatives related to childcare leave.",
+      "id": "65a9fb45-1e15-4c66-bb75-38a96e396e40",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "育児休業",
+      "reading": "いくじきゅうぎょう",
+      "meaningZh": "育儿假（父母在生育后一段时间内暂停工作照顾孩子）",
+      "meaningEn": "Childcare leave (leave of absence for parents to care for a child after childbirth)",
+      "level": "n3",
+      "exampleSentence": "男性も育児休業を取得できるようになってきた。",
+      "id": "1cd99c48-142d-4813-8d13-3715f9e178b0"
+    },
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "取得率，获得率",
+      "meaningEn": "Acquisition rate; rate of obtaining",
+      "level": "n3",
+      "exampleSentence": "今年の資格取得率は目標を達成できた。",
+      "id": "cf8de186-acad-4e73-a4e9-b900f497e052"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaningZh": "最高，最高纪录",
+      "meaningEn": "Highest; record-high",
+      "level": "n3",
+      "exampleSentence": "気温が最高を記録した。",
+      "id": "96242370-4e8d-450a-b5fd-79d946eccce9"
+    },
+    {
+      "word": "表れ",
+      "reading": "あらわれ",
+      "meaningZh": "表现，显示",
+      "meaningEn": "Expression; manifestation",
+      "level": "n3",
+      "exampleSentence": "彼の態度は怒りの表れだった。",
+      "id": "12a4f722-57c5-4b6f-a31f-6492b950e4d1"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "Task; challenge; issue",
+      "level": "n3",
+      "exampleSentence": "この問題にはまだ多くの課題がある。",
+      "id": "c6e96978-1941-4872-a043-f77a1f2b130d"
+    },
+    {
+      "word": "公平",
+      "reading": "こうへい",
+      "meaningZh": "公平，公正",
+      "meaningEn": "Fair; impartial; just",
+      "level": "n3",
+      "exampleSentence": "すべての子供たちに公平な機会を与えるべきだ。",
+      "id": "87a868dd-6031-4931-a83d-2501276c0b73"
+    },
+    {
+      "word": "負担軽減",
+      "reading": "ふたんけいげん",
+      "meaningZh": "减轻负担",
+      "meaningEn": "Reduction of burden",
+      "level": "n3",
+      "exampleSentence": "AIの導入は業務の負担軽減につながる。",
+      "id": "956b12f6-af1a-4358-9502-b85bbfe798ae"
+    },
+    {
+      "word": "醸成",
+      "reading": "じょうせい",
+      "meaningZh": "培养，酿成（尤指积极的氛围或习惯）",
+      "meaningEn": "Cultivation; fostering (especially of a positive atmosphere or habit)",
+      "level": "n2n1",
+      "exampleSentence": "チーム内に協力の精神を醸成することが重要だ。",
+      "id": "53804f3b-4023-4b12-a230-2f1cde30be3e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男性の育児休業取得率が過去最高になった主な理由は何だと考えられますか？",
+      "options": [
+        "企業が育児休業を強制するようになったから",
+        "男性の育児への関心が高まり、社会全体で子育てへの意識が変わってきたから",
+        "育児休業中の給料が全額支払われるようになったから",
+        "子育て支援金が大幅に増額されたから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「男性の育児休業（育休）を取得する人が増えています。最新のデータによると、男性の育休取得率は過去最高の17.13％となりました。これは、社会全体で子育てへの関心が高まっていることの表れと言えるでしょう。」と書かれています。",
+      "id": "83fceed9-a2f3-4dc5-864f-c895fb9d15d7"
+    },
+    {
+      "question": "企業が男性の育休取得を促進するために行っている取り組みとして、本文に挙げられていないものはどれですか？",
+      "options": [
+        "育休中の給与保障を手厚くする",
+        "育休取得を推奨する文化を作る",
+        "育児・介護休業法を厳格に適用する",
+        "復帰後のキャリアプランを共に考える制度を導入する"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、給与保障、文化醸成、キャリアプランの導入について触れていますが、育児・介護休業法の厳格な適用については直接言及されていません。",
+      "id": "f0a82312-bd6d-4a37-9975-80bf5bc6b8b2"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-13-2e8791ca78",
+  "publishedAt": "2026-07-13T06:00:00+09:00"
+}
