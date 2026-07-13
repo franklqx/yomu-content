@@ -1,0 +1,114 @@
+{
+  "title": "図書館の夜、開いています！",
+  "summary": "ある図書館で、夜も開ける実験が始まりました。仕事帰りの人も本を読めるようになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある公立図書館で新しい実験が始まりました。それは、図書館を夜遅くまで開けるということです。今まで、図書館は夕方には閉まることが多かったです。でも、この実験で夜も開くことになりました。",
+      "translationZh": "最近，某个公共图书馆开始了一个新的实验。那就是，图书馆会开到很晚。以前，图书馆经常在傍晚就关门了。但是，通过这个实验，它将会在夜间开放。",
+      "translationEn": "Recently, a new experiment started at a public library. That is, the library will be open late into the night. Until now, libraries often closed in the evening. However, with this experiment, it will be open at night.",
+      "id": "97bb67a6-0575-4eba-a161-16ac27927984",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、仕事や学校が終わってから図書館に行きたい人のために行われています。仕事帰りに図書館に寄って、本を借りたり、静かな場所で勉強したりすることができます。とても便利になるでしょう。",
+      "translationZh": "这个实验是为了那些想在工作或学习结束后去图书馆的人而进行的。下班后可以去图书馆借书，或者在安静的地方学习。这会变得非常方便。",
+      "translationEn": "This experiment is being conducted for people who want to go to the library after finishing work or school. You can stop by the library after work to borrow books or study in a quiet place. It will become very convenient.",
+      "id": "0fdbf186-7dee-44ec-b4ed-7840697d500f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館の担当者は、「多くの人に図書館を利用してほしいです。夜間営業がうまくいけば、他の図書館でも広がるかもしれません。」と話しています。この実験の結果が注目されています。",
+      "translationZh": "图书馆的负责人说：“我们希望很多人都能利用图书馆。如果夜间开放实验成功，或许会推广到其他图书馆。”这个实验的结果备受关注。",
+      "translationEn": "A library official said, \"We want many people to use the library. If the night opening experiment is successful, it may spread to other libraries.\" The results of this experiment are attracting attention.",
+      "id": "4c5de618-3f17-45fa-8843-253407a0110e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公立図書館",
+      "reading": "こうりつとしょかん",
+      "meaningZh": "公共图书馆",
+      "meaningEn": "public library",
+      "level": "n5n4",
+      "exampleSentence": "公立図書館は誰でも無料で使えます。",
+      "id": "6bdaaf45-987a-4d66-ad1c-4d81a593542e"
+    },
+    {
+      "word": "夜間営業",
+      "reading": "やかんえいぎょう",
+      "meaningZh": "夜间营业",
+      "meaningEn": "night opening hours / operating at night",
+      "level": "n5n4",
+      "exampleSentence": "この店は夜間営業もしています。",
+      "id": "df0c4561-8b9b-4382-9c14-392e5ef5b725"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい方法の実験をしました。",
+      "id": "0ecd69ea-abb1-458e-b802-c7d07cc1c6f4"
+    },
+    {
+      "word": "仕事帰り",
+      "reading": "しとかえり",
+      "meaningZh": "下班回家",
+      "meaningEn": "returning from work",
+      "level": "n5n4",
+      "exampleSentence": "仕事帰りに友達と会いました。",
+      "id": "8d21ce22-a807-4a26-8d9d-835b085395f0"
+    },
+    {
+      "word": "利用する",
+      "reading": "りようする",
+      "meaningZh": "利用",
+      "meaningEn": "to use, to utilize",
+      "level": "n5n4",
+      "exampleSentence": "このパスでバスを利用できます。",
+      "id": "b3fbf84d-efc1-440f-8293-4c471bfe269c"
+    },
+    {
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaningZh": "负责人",
+      "meaningEn": "person in charge",
+      "level": "n3",
+      "exampleSentence": "担当者に連絡してください。",
+      "id": "d6045fe6-51b1-47bb-8cdf-f0a8a40c705e"
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "扩散，推广",
+      "meaningEn": "to spread, to expand",
+      "level": "n5n4",
+      "exampleSentence": "情報がインターネットで広がりました。",
+      "id": "84e52244-01d7-4b5b-98cb-97e2ea4ee66e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この図書館の夜間営業実験は何のためですか。",
+      "options": [
+        "もっと多くの本を置くため",
+        "仕事や学校が終わった人が利用できるようにするため",
+        "図書館を大きくするため",
+        "新しい本を早く出すため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この実験は、仕事や学校が終わってから図書館に行きたい人のために行われています。」",
+      "id": "e5e2d202-50c8-415b-a5d0-d1e157ceb217"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-14-34bc6199db",
+  "publishedAt": "2026-07-14T06:00:00+09:00"
+}

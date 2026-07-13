@@ -1,0 +1,131 @@
+{
+  "title": "雪まつり！北海道の宿は高い？",
+  "summary": "北海道で雪まつりが始まります。たくさんの人が北海道に来ます。ホテルや旅館は、早く予約した方がいいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "北海道では、毎年２月に雪まつりがあります。雪まつりはとても有名です。世界中からたくさんの人が見に来ます。そのため、北海道はとてもにぎやかになります。",
+      "translationZh": "北海道每年二月都会举办雪祭。雪祭非常有名。来自世界各地的人们都会来看。因此，北海道会变得非常热闹。",
+      "translationEn": "In Hokkaido, there is a Snow Festival every February. The Snow Festival is very famous. Many people come from all over the world to see it. Therefore, Hokkaido becomes very lively.",
+      "id": "f1f33e87-4569-4879-9f7b-936227b707dd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりの時期は、北海道のホテルや旅館の値段が高くなります。特に札幌では、部屋を見つけるのが難しくなります。旅行の計画を早く立てることが大切です。",
+      "translationZh": "雪祭期间，北海道的酒店和旅馆价格会上涨。尤其是在札幌，找房间会变得困难。尽早制定旅行计划很重要。",
+      "translationEn": "During the Snow Festival season, prices for hotels and inns in Hokkaido go up. Especially in Sapporo, it becomes difficult to find rooms. It is important to make travel plans early.",
+      "id": "85e2d18d-62e6-4a01-8113-c449354a9fbf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "早めに予約すると、いい部屋を安い値段で見つけられるかもしれません。飛行機や電車も、早めに予約する方がいいでしょう。雪まつりを楽しみにしている人は多いですから。",
+      "translationZh": "如果早点预订，也许能以便宜的价格找到好的房间。飞机和电车也最好早点预订。因为有很多期待雪祭的人。",
+      "translationEn": "If you book early, you might be able to find a good room at a cheaper price. It's also better to book flights and trains early. Many people are looking forward to the Snow Festival.",
+      "id": "06294390-ce4b-49a3-8f85-ab62a4734f78",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、札幌だけでなく、近くの街に泊まるのも良い方法です。電車で移動すれば、雪まつりの会場にも行きやすいです。色々な場所を考えてみてください。",
+      "translationZh": "另外，不只住在札幌，住在附近的城市也是个好方法。如果坐电车移动，去雪祭会场也很方便。请考虑各种地方。",
+      "translationEn": "Also, staying in nearby towns, not just Sapporo, is a good idea. If you travel by train, it is easy to get to the Snow Festival venue. Please consider various places.",
+      "id": "f2fa40d4-2780-468f-bcae-f481a73c9fce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "雪まつり",
+      "reading": "ゆきまつり",
+      "meaningZh": "雪祭",
+      "meaningEn": "Snow Festival",
+      "level": "n5n4",
+      "exampleSentence": "北海道の雪まつりは有名です。",
+      "id": "138ed22a-4d34-4439-990a-c38db73d76ef"
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaningZh": "每年",
+      "meaningEn": "every year",
+      "level": "n5n4",
+      "exampleSentence": "毎年、桜がきれいです。",
+      "id": "c176e546-2aa6-4fa0-90b6-52b0b11760a6"
+    },
+    {
+      "word": "世界中",
+      "reading": "せかいじゅう",
+      "meaningZh": "世界各地",
+      "meaningEn": "all over the world",
+      "level": "n5n4",
+      "exampleSentence": "世界中から人が集まります。",
+      "id": "f114ff00-5472-46e2-8fa8-88e67a65fa26"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとてもにぎやかでした。",
+      "id": "97539638-5392-4ba9-ae5a-740fda1595b3"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaningZh": "时期，时节",
+      "meaningEn": "season, time",
+      "level": "n5n4",
+      "exampleSentence": "この時期は寒いです。",
+      "id": "4a199dd8-08d9-436f-b796-361196502be5"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この商品の値段はいくらですか。",
+      "id": "bfa5c8b3-ae95-4ea7-a62f-73e790315936"
+    },
+    {
+      "word": "部屋",
+      "reading": "へや",
+      "meaningZh": "房间",
+      "meaningEn": "room",
+      "level": "n5n4",
+      "exampleSentence": "ホテルに部屋を予約しました。",
+      "id": "3d201d14-c740-412c-9a40-a46cbf996096"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "旅行の計画を立てます。",
+      "id": "ccaabcbd-33fb-4393-a316-27ab93a5b380"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつりの時期、北海道で部屋を見つけるのはどんな時が一番難しいですか？",
+      "options": [
+        "早く予約した時",
+        "値段が安い時",
+        "札幌で",
+        "近くの街で"
+      ],
+      "correctIndex": 2,
+      "explanation": "特に札幌では、部屋を見つけるのが難しくなります。",
+      "id": "a5fedebc-04ab-416e-b815-c964cff3ca1e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-14-c3d486ff33",
+  "publishedAt": "2026-07-14T06:00:00+09:00"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "ドローンで荷物を届けます",
+  "summary": "最近、ドローンを使った荷物の配送実験が行われています。これは新しい配送方法です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ドローンを使った荷物の配送実験が始まりました。ドローンは空を飛ぶ小さな機械です。この機械は、箱などを運びます。これは新しい配送の方法です。",
+      "translationZh": "最近，利用无人机配送包裹的实验开始了。无人机是一种在空中飞行的 H小机器。这种机器可以运送箱子等物品。这是一种新的配送方式。",
+      "translationEn": "Recently, experiments using drones to deliver packages have begun. A drone is a small machine that flies in the sky. This machine carries boxes and other items. This is a new delivery method.",
+      "id": "d44f75d0-57ac-475e-bcaf-9a18e7fc324c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、町や村で行われています。遠い場所や、人が行きにくい場所へ荷物を送るために、ドローンが使われます。例えば、薬や食料品を送ることができます。",
+      "translationZh": "这些实验在城镇和乡村进行。为了将包裹送到偏远地区或人们难以到达的地方，无人机被使用。例如，可以运送药品和食品。",
+      "translationEn": "These experiments are being conducted in towns and villages. Drones are used to send packages to distant places or areas that are difficult for people to access. For example, medicine and food can be delivered.",
+      "id": "6b361138-9d39-4ca5-8641-0231cb844c38",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送は、まだ始まったばかりです。たくさんの人が、この新しい技術に注目しています。これからも、もっと便利になるかもしれません。",
+      "translationZh": "无人机配送才刚刚开始。很多人都在关注这项新技术。今后，它可能会变得更加方便。",
+      "translationEn": "Drone delivery has just begun. Many people are paying attention to this new technology. It may become even more convenient in the future.",
+      "id": "dbc3e534-019c-405d-b12f-92f57acc4d33",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンが空を飛んでいます。",
+      "id": "a09fa3d2-e7f8-4e26-8b6f-53be029f76ef"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n5n4",
+      "exampleSentence": "荷物の配送は早いです。",
+      "id": "7fe4a2c1-0181-47c0-b8ed-14a2dbbe1b0b"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をします。",
+      "id": "b3f229ef-54c7-4110-9723-996ace3c9303"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaningZh": "机器",
+      "meaningEn": "machine",
+      "level": "n5n4",
+      "exampleSentence": "これは便利な機械です。",
+      "id": "80000509-96f9-4462-a2c3-598f38f0d310"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place, location",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "0eeb44d7-608b-492f-be5a-67a37cf0eb55"
+    },
+    {
+      "word": "薬",
+      "reading": "くすり",
+      "meaningZh": "药",
+      "meaningEn": "medicine",
+      "level": "n5n4",
+      "exampleSentence": "熱があるので薬を飲みます。",
+      "id": "52d7feab-9d55-4092-b1ac-41587b0c05ec"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この技術は素晴らしいです。",
+      "id": "ae3be8c1-0c7a-4fe8-9c1e-57bbee5c6404"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実験は何のために行われていますか？",
+      "options": [
+        "空をきれいにします。",
+        "遠い場所へ荷物を送るためです。",
+        "新しいゲームを作るためです。",
+        "人がもっと外に出るためです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「遠い場所や、人が行きにくい場所へ荷物を送るために、ドローンが使われます。」",
+      "id": "c5d21172-bc75-4e57-9e4c-add40c215176"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-14-236f9e90bb",
+  "publishedAt": "2026-07-14T06:00:00+09:00"
+}

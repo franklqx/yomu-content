@@ -1,0 +1,143 @@
+{
+  "title": "ドローン配送、未来の買い物体験が始まる？",
+  "summary": "最近、ドローンを使った荷物の配送実験が行われています。これにより、私たちの生活がもっと便利になるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、空を飛ぶドローンが荷物を運ぶ実験が各地で行われています。この技術がもっと進めば、遠い場所や急いでいる時に、すぐに物が届くようになるでしょう。",
+      "translationZh": "最近，在各地都在进行无人机运送包裹的实验。如果这项技术进一步发展，未来在偏远地区或紧急情况下，物品就能迅速送达。",
+      "translationEn": "Recently, experiments where drones fly and carry packages are being conducted in various locations. If this technology advances further, it will become possible to receive items quickly when you are in a remote place or in a hurry.",
+      "id": "e439bbfd-d432-493a-83de-ef6776c3153d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、山間部や離島など、交通が不便な地域では、ドローン配送が大きな助けになると期待されています。また、災害時にも、人が行くのが難しい場所へ物資を届ける手段として注目されています。",
+      "translationZh": "例如，在山区或离岛等交通不便的地区，人们期待无人机配送能提供很大的帮助。此外，在灾害发生时，它也被视为一种能够向难以到达的地区运送物资的手段而受到关注。",
+      "translationEn": "For instance, in areas with inconvenient transportation such as mountainous regions or remote islands, drone delivery is expected to be of great assistance. Furthermore, during disasters, it is gaining attention as a means to deliver supplies to places that are difficult for people to reach.",
+      "id": "b8043c2d-0e68-4792-89c9-601a59ff2310",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、ドローン配送を実現するためには、まだ解決しなければならない課題がたくさんあります。例えば、天候の影響を受けやすいことや、安全な飛行ルートを確保すること、そしてプライバシーの問題などです。これらの課題を一つずつクリアしていく必要があります。",
+      "translationZh": "然而，要实现无人机配送，还有许多需要解决的课题。例如，它容易受天气影响，如何确保安全的飞行路线，以及隐私问题等等。必须逐一克服这些课题。",
+      "translationEn": "However, there are still many issues that need to be resolved to realize drone delivery. For example, it is susceptible to weather conditions, ensuring safe flight paths, and privacy concerns. These issues must be overcome one by one.",
+      "id": "22823978-337a-4d61-893d-5b3be13e81bb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの実験や研究が進むことで、将来、私たちはオンラインで注文したものが、あっという間に自宅に届く、そんな便利な生活を送ることができるようになるかもしれませんね。",
+      "translationZh": "随着这些实验和研究的推进，未来我们或许就能过上那种便利的生活，即网上订购的东西瞬间送到家。",
+      "translationEn": "As these experiments and research progress, in the future, we may be able to live a convenient life where things ordered online arrive at our homes in an instant.",
+      "id": "1c691bb8-63fe-4d17-9813-67ecdb9e767a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n3",
+      "exampleSentence": "最近、ドローンで撮影された美しい風景写真を見た。",
+      "id": "662c2a8c-54c5-4943-bc67-07478cca77d2"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n3",
+      "exampleSentence": "この会社は迅速な配送サービスで知られている。",
+      "id": "5655dfd7-007e-4ea5-9045-34300b2ed905"
+    },
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "验证实验，实证实验",
+      "meaningEn": "demonstration experiment, pilot program",
+      "level": "n3",
+      "exampleSentence": "新しいシステムの効果を確かめるための実証実験が行われた。",
+      "id": "05bb4b45-5186-4a46-9f97-4405509db874"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaningZh": "交通",
+      "meaningEn": "traffic, transportation",
+      "level": "n5n4",
+      "exampleSentence": "この地域は交通の便があまり良くない。",
+      "id": "70f1f46e-55ae-4be2-8739-50346a9d7880"
+    },
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾害",
+      "meaningEn": "disaster",
+      "level": "n3",
+      "exampleSentence": "地震による災害で多くの建物が壊れた。",
+      "id": "bc7e836f-98f4-481b-b531-fb7a693dbcaa"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "issue, challenge, task",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには多くの課題があるが、乗り越えていきたい。",
+      "id": "99a3c673-b0f6-4ab5-a27c-b5f051dc576e"
+    },
+    {
+      "word": "プライバシー",
+      "reading": "ぷらいばしー",
+      "meaningZh": "隐私",
+      "meaningEn": "privacy",
+      "level": "n3",
+      "exampleSentence": "個人情報のプライバシーを守ることが重要だ。",
+      "id": "6e9cec72-2324-45a4-901c-df644ca6837d"
+    },
+    {
+      "word": "あっという間",
+      "reading": "あっというま",
+      "meaningZh": "转眼之间，一下子",
+      "meaningEn": "in the blink of an eye, in an instant",
+      "level": "n3",
+      "exampleSentence": "子供の成長はあっという間だ。",
+      "id": "5f5a7169-7741-4700-8709-752be0484933"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送は、どのような場所で特に役立つと期待されていますか？",
+      "options": [
+        "交通が便利な都市部",
+        "人の往来が多い商業施設",
+        "交通が不便な地域や離島",
+        "山や森の中の特別な場所"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の「例えば、山間部や離島など、交通が不便な地域では、ドローン配送が大きな助けになると期待されています。」という部分からわかります。",
+      "id": "9a87fa2f-9ea5-4e51-82ec-587efe7fc15d"
+    },
+    {
+      "question": "ドローン配送を実現するために、まだ解決すべき課題は何ですか？",
+      "options": [
+        "ドローンの値段が高いこと",
+        "天候の影響や安全な飛行ルートの確保、プライバシーの問題",
+        "荷物を運ぶスピードが遅いこと",
+        "充電に時間がかかること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の「しかし、ドローン配送を実現するためには、まだ解決しなければならない課題がたくさんあります。例えば、天候の影響を受けやすいことや、安全な飛行ルートを確保すること、そしてプライバシーの問題などです。」という部分に書かれています。",
+      "id": "9bad4a2a-fa7f-48ba-81b1-605b857ab7b4"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-14-236f9e90bb",
+  "publishedAt": "2026-07-14T06:00:00+09:00"
+}
