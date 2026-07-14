@@ -1,0 +1,131 @@
+{
+  "title": "アニメで有名になった町",
+  "summary": "ある商店街がアニメの舞台になりました。町の人々は、アニメのおかげで元気になりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、この商店街はあまり元気ではありませんでした。でも、アニメの新しい物語の舞台になりました。それから、たくさんの人がこの町に来るようになりました。",
+      "translationZh": "以前，这条商店街不太景气。但是，它成为了一部新动画故事的舞台。从那时起，很多人来到了这个小镇。",
+      "translationEn": "In the past, this shopping street was not very lively. However, it became the setting for a new anime story. Since then, many people have started coming to this town.",
+      "id": "b8255c51-47fa-476b-afc5-5e0ed865ba56",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメのファンは、物語に出てくる場所を見に来ます。商店街には、アニメのポスターがたくさん貼られました。お店の人も、アニメのキャラクターのグッズを売りました。",
+      "translationZh": "动画的粉丝会来看故事里出现的场景。商店街里贴了很多动画的海报。店主们也卖了动画角色的周边商品。",
+      "translationEn": "Anime fans come to see the places that appear in the story. Many anime posters were put up in the shopping street. The shopkeepers also sold goods featuring anime characters.",
+      "id": "241e697f-61cb-4fa2-9f4a-6580e19cafc8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町はとてもにぎやかになりました。新しいお客さんが来て、お店はもっと忙しくなりました。町の人々は、アニメが来たことをとても喜んでいます。",
+      "translationZh": "小镇变得非常热闹。新顾客的到来让店铺更加忙碌。镇上的人们非常高兴动画来到了这里。",
+      "translationEn": "The town became very lively. New customers came, and the shops became busier. The townspeople are very happy that the anime came here.",
+      "id": "f40667e8-e11d-4931-a564-527f93a1ac39",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、この町はアニメと一緒に発展していくでしょう。町の人々は、新しいアイデアを考えて、町をもっと良くしていきます。",
+      "translationZh": "今后，这个小镇也会与动画一起发展下去。镇上的人们会思考新的点子，让小镇变得更好。",
+      "translationEn": "From now on, this town will likely continue to develop together with anime. The townspeople will think of new ideas to make the town even better.",
+      "id": "94233e51-2d37-4fe4-aa2b-e17090b58a12",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はきれいです。",
+      "id": "94e2a234-6547-4a13-b743-b1232cdf51e0"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台；场景",
+      "meaningEn": "stage; setting",
+      "level": "n5n4",
+      "exampleSentence": "この場所はアニメの舞台です。",
+      "id": "b08f018e-3c6d-4b58-9e21-6d8d329da6df"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力；精神",
+      "meaningEn": "energetic; lively",
+      "level": "n5n4",
+      "exampleSentence": "町は元気になりました。",
+      "id": "b811c6d6-d0c5-484b-9d93-c0169e48719f"
+    },
+    {
+      "word": "物語",
+      "reading": "ものがたり",
+      "meaningZh": "故事",
+      "meaningEn": "story",
+      "level": "n5n4",
+      "exampleSentence": "面白い物語を読みました。",
+      "id": "c9f92d75-517c-4c2b-b344-d14c506745fc"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝；爱好者",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はアニメのファンです。",
+      "id": "d4f58090-49e1-45d4-b28d-e2f94729b361"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方；地点",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "0015ac46-dc31-4a19-b971-23fe61150114"
+    },
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "goods; merchandise",
+      "level": "n5n4",
+      "exampleSentence": "アニメのグッズを買いました。",
+      "id": "0a0fb6a4-a710-49c7-83e7-a62f988d1493"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively; bustling",
+      "level": "n5n4",
+      "exampleSentence": "週末は駅前がにぎやかです。",
+      "id": "afc7dc3c-53fb-49ea-b5ca-ba1f67e8429d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの舞台になった後、商店街はどうなりましたか？",
+      "options": [
+        "お客さんが減りました。",
+        "町はあまり変わらなかった。",
+        "町はとてもにぎやかになりました。",
+        "お店は全部閉まりました。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「町はとてもにぎやかになりました。」という文があります。",
+      "id": "e5218c4c-7fc4-4cd8-9bb0-558c97108246"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-15-fbd00c5843",
+  "publishedAt": "2026-07-15T06:00:00+09:00"
+}

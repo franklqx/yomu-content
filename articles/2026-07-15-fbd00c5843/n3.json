@@ -1,0 +1,126 @@
+{
+  "title": "アニメ聖地、商店街の復活物語",
+  "summary": "アニメの舞台になった商店街が、地域活性化に成功しています。ファンが訪れることで、昔ながらの商店街に活気が戻ってきました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある商店街がアニメの「聖地」として注目されています。アニメのキャラクターが歩いた道や、印象的なシーンが描かれた場所を訪れるために、全国から多くのファンがやって来るのです。その結果、これまで静かだった商店街に、以前のような賑わいが戻りつつあります。",
+      "translationZh": "最近，有一条商店街作为动画的“圣地”而备受瞩目。为了探访动画角色走过的街道或描绘了印象深刻场景的地方，来自全国各地的许多粉丝前来。结果，原本安静的商店街正逐渐恢复以往的热闹。",
+      "translationEn": "Recently, a certain shopping street has gained attention as an anime 'sacred place'. Many fans from all over the country visit to see the paths where anime characters walked and the locations depicted in memorable scenes. As a result, the previously quiet shopping street is gradually regaining its former liveliness.",
+      "id": "91359e63-67b3-4965-8ddb-cf40b324017c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "商店街の人々も、この変化を喜んでいます。ファンをもてなすために、アニメのキャラクターをデザインした商品の販売や、コラボイベントなどが企画されています。お店の人は、「ファンの方々のおかげで、新しいお客さんが増え、商店街全体が元気になった」と話しています。このように、アニメの力は地域を活性化する大きなきっかけになることがあります。",
+      "translationZh": "商店街的人们也对这一变化感到高兴。为了招待粉丝，他们策划了销售印有动画角色设计的商品以及举办合作活动等。店主们表示：“托粉丝们的福，新顾客增加了，整个商店街都变得有活力了。” 像这样，动漫的力量有时会成为振兴地区的重要契机。",
+      "translationEn": "The people in the shopping street are also pleased with this change. To entertain fans, they are planning events such as selling products designed with anime characters and holding collaboration events. Shop owners say, 'Thanks to the fans, new customers have increased, and the entire shopping street has become lively.' In this way, the power of anime can sometimes be a significant trigger for regional revitalization.",
+      "id": "65fc5955-1a75-43d0-8827-1abb6c379be3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、アニメの聖地になったからといって、すぐに問題が解決するわけではありません。しかし、商店街の人々が協力し、新しいアイデアを取り入れながら、ファンとの関係を大切にしていることが、成功の秘訣と言えるでしょう。これからも、この商店街がアニメの力と共に発展していく様子が楽しみです。",
+      "translationZh": "当然，仅仅因为成为了动漫圣地，问题也不会立刻解决。但是，商店街的人们齐心协力，在接纳新想法的同时，珍惜与粉丝们的关系，这可以说就是成功的秘诀。今后，也期待这家商店街能借助动漫的力量持续发展。",
+      "translationEn": "Of course, just because it became an anime sacred place does not mean all problems are immediately solved. However, the fact that the people in the shopping street cooperate, incorporate new ideas, and cherish their relationships with fans can be said to be the key to success. We look forward to seeing this shopping street continue to develop with the power of anime in the future.",
+      "id": "33122b9d-7188-4eb7-9cdd-e26210f55a13",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地",
+      "reading": "せいち",
+      "meaningZh": "圣地；（粉丝心中的）重要地点",
+      "meaningEn": "sacred place; (important location for fans)",
+      "level": "n3",
+      "exampleSentence": "この場所は、多くのファンにとって大切な聖地です。",
+      "id": "2e8b0cf2-35bb-4757-accd-158d2a332acb"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台；（故事发生的）背景、地点",
+      "meaningEn": "stage; setting; location (of a story)",
+      "level": "n3",
+      "exampleSentence": "この町は、人気のドラマの舞台になりました。",
+      "id": "89be8195-b559-4e68-8286-25acab369047"
+    },
+    {
+      "word": "賑わい",
+      "reading": "にぎわい",
+      "meaningZh": "热闹；繁荣",
+      "meaningEn": "bustle; liveliness; prosperity",
+      "level": "n3",
+      "exampleSentence": "お祭りの日は、公園はたくさんの人で賑わいました。",
+      "id": "1803d596-d664-4f90-9157-94aabbd81268"
+    },
+    {
+      "word": "もてなす",
+      "reading": "もてなす",
+      "meaningZh": "款待；招待",
+      "meaningEn": "to entertain; to treat (guests)",
+      "level": "n3",
+      "exampleSentence": "お客様を心を込めてもてなしました。",
+      "id": "7df0c4b4-10d3-4034-86ce-91c7c19970f4"
+    },
+    {
+      "word": "企画",
+      "reading": "きかく",
+      "meaningZh": "企划；策划",
+      "meaningEn": "plan; project; scheme",
+      "level": "n3",
+      "exampleSentence": "新しいイベントを企画しています。",
+      "id": "00b71fe2-96e7-444b-87b5-6244cbf71b6e"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化；活跃化",
+      "meaningEn": "revitalization; activation",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の活性化が求められています。",
+      "id": "010b614a-a333-4d17-a664-0ce1c32150cd"
+    },
+    {
+      "word": "きっかけ",
+      "reading": "きっかけ",
+      "meaningZh": "契机；机会；开头",
+      "meaningEn": "chance; trigger; start",
+      "level": "n3",
+      "exampleSentence": "この本を読んだのが、旅行に行くきっかけになりました。",
+      "id": "6a06ce3a-1ce9-4718-af4c-ad091df0ed0b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの聖地になった商店街では、どのような変化が見られますか？",
+      "options": [
+        "ファンが訪れるようになり、商店街に賑わいが戻ってきた。",
+        "アニメのキャラクターが商店街で実際に働き始めた。",
+        "商店街の全てのお店がアニメグッズ専門店になった。",
+        "ファン同士のトラブルが増えて、商店街が静かになった。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「アニメの舞台になった商店街が、地域活性化に成功しています。ファンが訪れることで、昔ながらの商店街に活気が戻ってきました。」",
+      "id": "7396a651-7fa7-4dca-bfc4-96213bba4d5d"
+    },
+    {
+      "question": "商店街の人々が、ファンを大切にしている理由は何だと考えられますか？",
+      "options": [
+        "ファンは商店街にとって、地域を活性化させるための大切な存在だから。",
+        "アニメの制作会社から、ファンへの対応を強く求められているから。",
+        "ファン以外のお客さんが、商店街に来なくなったから。",
+        "ファンが商店街の経営に直接参加しているから。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「ファンとの関係を大切にしていることが、成功の秘訣と言えるでしょう。」これは、ファンが商店街に活気をもたらしているという文脈から理解できます。",
+      "id": "7cca7951-5eb0-44a2-ad8c-4f26bb505cd4"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-15-fbd00c5843",
+  "publishedAt": "2026-07-15T06:00:00+09:00"
+}

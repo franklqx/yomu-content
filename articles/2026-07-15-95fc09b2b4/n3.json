@@ -1,0 +1,134 @@
+{
+  "title": "発酵食品ブーム！健康的な食生活への新しい波",
+  "summary": "近年、健康志向の高まりとともに、発酵食品が注目されています。昔から親しまれてきた発酵食品の魅力と、それが私たちの食生活に与える良い影響について見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、スーパーに行くと、ヨーグルトや納豆だけでなく、キムチや味噌、甘酒など、様々な発酵食品が目につくようになりました。これは、人々の健康に対する意識が高まっていることと関係があるようです。健康のために、体に良いものを積極的に取り入れようとする人が増えているのですね。",
+      "translationZh": "最近，去超市的话，除了酸奶和纳豆，泡菜、味噌、甜酒酿等各种发酵食品也随处可见。这似乎与人们健康意识的提高有关。为了健康，越来越多的人开始积极摄取对身体有益的食物。",
+      "translationEn": "Recently, when you go to the supermarket, you can see various fermented foods such as kimchi, miso, and amazake, not just yogurt and natto. This seems to be related to the increasing health consciousness of people. More and more people are trying to actively incorporate foods that are good for their bodies for the sake of their health.",
+      "id": "9967e8e8-510f-440c-976d-7406a5bf6fec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、私たちの体に役立つ「善玉菌」がたくさん含まれています。これらの菌は、腸内環境を整えることで、消化を助けたり、免疫力を高めたりする効果があると言われています。ですから、毎日の食事に少しずつ発酵食品を取り入れると、体調が良くなることが期待できるのです。",
+      "translationZh": "发酵食品中含有许多对我们身体有益的“益生菌”。据说这些菌通过调节肠道环境，有助于消化和提高免疫力。因此，如果每天的饮食中逐渐加入发酵食品，有望改善身体状况。",
+      "translationEn": "Fermented foods contain many 'good bacteria' that are beneficial to our bodies. These bacteria are said to help digestion and boost immunity by improving the intestinal environment. Therefore, if you gradually incorporate fermented foods into your daily diet, you can expect your physical condition to improve.",
+      "id": "6be7c599-cc86-4907-bc8a-adb45c93577c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、発酵食品なら何でも良いというわけではありません。中には塩分や糖分が多く含まれているものもあるため、選ぶ際には注意が必要です。表示をよく見て、自分の体調や目的に合ったものを選ぶことが大切だと言えるでしょう。いろいろな種類を試しながら、お気に入りの発酵食品を見つけるのも楽しいですね。",
+      "translationZh": "但是，并非所有发酵食品都好。有些发酵食品含有较多的盐分或糖分，因此选择时需要注意。仔细查看标签，选择适合自己身体状况和目的的食品非常重要。一边尝试各种种类，一边找到自己喜欢的发酵食品也很有趣。",
+      "translationEn": "However, not all fermented foods are good. Some fermented foods contain high amounts of salt or sugar, so caution is needed when choosing. It can be said that it is important to check the labels carefully and choose what suits your physical condition and goals. It's also fun to find your favorite fermented foods while trying various types.",
+      "id": "f5dfe67f-a4d8-4fe0-9085-17c724605cf5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品ブームは、単なる流行ではなく、健康的な生活を送りたいという人々の願いの表れかもしれません。これからも、発酵食品が私たちの食卓を豊かにし、健康をサポートしてくれることを期待しましょう。",
+      "translationZh": "发酵食品热潮不仅仅是单纯的流行，也许是人们希望过上健康生活愿望的体现。今后，也让我们期待发酵食品能丰富我们的餐桌，并支持我们的健康。",
+      "translationEn": "The fermented food boom may not just be a trend, but a reflection of people's desire to live a healthy life. Let's continue to expect fermented foods to enrich our dining tables and support our health.",
+      "id": "ef896d16-dcb2-4052-a223-0b1085a4092e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "キムチも発酵食品の一つです。",
+      "id": "6d6c431e-a7da-46fa-bb1f-238ccd0fa9d9"
+    },
+    {
+      "word": "健康志向",
+      "reading": "けんこうしこう",
+      "meaningZh": "健康意识，注重健康",
+      "meaningEn": "health-conscious",
+      "level": "n3",
+      "exampleSentence": "健康志向の人が増えている。",
+      "id": "0a283be5-efe9-4e55-9fdb-57f279fd3efb"
+    },
+    {
+      "word": "善玉菌",
+      "reading": "ぜんだまきん",
+      "meaningZh": "益生菌",
+      "meaningEn": "beneficial bacteria",
+      "level": "n3",
+      "exampleSentence": "善玉菌を増やすためにヨーグルトを食べる。",
+      "id": "ab08edd7-874c-4194-8448-57efee684a3b"
+    },
+    {
+      "word": "腸内環境",
+      "reading": "ちょうないかんきょう",
+      "meaningZh": "肠道环境",
+      "meaningEn": "intestinal environment",
+      "level": "n3",
+      "exampleSentence": "腸内環境を整えることが大切だ。",
+      "id": "6c890d94-8953-4870-9ee2-a9bdcef4ac8b"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaningZh": "免疫力",
+      "meaningEn": "immunity",
+      "level": "n3",
+      "exampleSentence": "免疫力を高めるには、バランスの取れた食事が良い。",
+      "id": "7dffb2e2-389d-4e71-9133-dcd71181ce8b"
+    },
+    {
+      "word": "消化",
+      "reading": "しょうか",
+      "meaningZh": "消化",
+      "meaningEn": "digestion",
+      "level": "n3",
+      "exampleSentence": "この食べ物は消化に良いです。",
+      "id": "f625cf88-484e-4051-a647-fca265e697a1"
+    },
+    {
+      "word": "期待できる",
+      "reading": "きたいできる",
+      "meaningZh": "可以期待，有望",
+      "meaningEn": "can be expected",
+      "level": "n3",
+      "exampleSentence": "この薬で効果が期待できます。",
+      "id": "f1e65b91-cb99-4eff-a792-e401c913d5b6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品が注目されている理由は何ですか？",
+      "options": [
+        "昔から好きだったから",
+        "健康に対する意識が高まっているから",
+        "スーパーでよく見かけるから",
+        "特に理由はない"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「健康志向の高まりとともに、発酵食品が注目されています。」と書かれています。",
+      "id": "1bf33b12-e7f1-445c-a39e-d65b773f3e66"
+    },
+    {
+      "question": "発酵食品に含まれる「善玉菌」の働きとして、本文で述べられていることはどれですか？",
+      "options": [
+        "塩分や糖分を多くすること",
+        "消化を助け、免疫力を高めること",
+        "食べ物の味を良くすること",
+        "保存期間を長くすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「これらの菌は、腸内環境を整えることで、消化を助けたり、免疫力を高めたりする効果があると言われています。」と説明されています。",
+      "id": "9cfc4746-53f2-4c15-bf14-07eff2c19fb8"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-15-95fc09b2b4",
+  "publishedAt": "2026-07-15T06:00:00+09:00"
+}

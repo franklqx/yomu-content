@@ -1,0 +1,114 @@
+{
+  "title": "発酵食品は体にいい！",
+  "summary": "最近、発酵食品が人気です。健康のために食べる人が増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、健康（けんこう）に気（き）をつける人が増えています。そのため、発酵食品（はっこうしょくひん）が注目（ちゅうもく）されています。発酵食品は、ヨーグルト、味噌（みそ）、納豆（なっとう）など、いろいろな種類（しゅるい）があります。",
+      "translationZh": "最近，注意健康的人增加了。因此，发酵食品受到了关注。发酵食品有酸奶、味噌、纳豆等各种各样的种类。",
+      "translationEn": "Recently, more people are paying attention to their health. Because of that, fermented foods are getting attention. Fermented foods include various types like yogurt, miso, and natto.",
+      "id": "f6fed4de-e830-463e-8f20-19055110f5bf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、体（からだ）に良（よ）い菌（きん）がたくさん入（はい）っています。これらの菌は、お腹（なか）の調子（ちょうし）を整（ととの）えたり、病気（びょうき）になりにくくしたりする働（はたら）きがあります。",
+      "translationZh": "发酵食品中含有许多对身体有益的菌。这些菌有调整肠胃功能、不易生病的作用。",
+      "translationEn": "Fermented foods contain many beneficial bacteria for the body. These bacteria help regulate digestion and make it harder to get sick.",
+      "id": "d32118a1-6e47-426c-8b3f-b85c68a98614",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朝（あさ）ごはんの時（とき）にヨーグルトを食（た）べたり、昼（ひる）ごはんや晩（ばん）ごはんにお味噌汁（みそしる）を飲（の）んだりするのは、簡単（かんたん）に発酵食品を食生活（しょくせいかつ）取（と）り入（い）れる方法（ほうほう）です。毎日（まいにち）続（つづ）けると、元気（げんき）になれるかもしれません。",
+      "translationZh": "早餐时吃酸奶，午餐或晚餐时喝味噌汤，是简单地将发酵食品融入饮食生活的方法。如果每天坚持，也许会变得更有活力。",
+      "translationEn": "Eating yogurt for breakfast, or drinking miso soup for lunch or dinner, are easy ways to incorporate fermented foods into your diet. If you continue daily, you might become more energetic.",
+      "id": "19a3b0c7-b44a-41e6-aa49-9d0385a0bc0d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n5n4",
+      "exampleSentence": "納豆（なっとう）は日本（にほん）の代表的（だいひょうてき）な発酵食品です。",
+      "id": "eb5cdc63-dcfa-42b0-8551-8312b5d4957d"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日（まいにち）運動（うんどう）しています。",
+      "id": "e1a96c33-4f42-41d8-83e9-5937586650d7"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはいつも人気があります。",
+      "id": "bd7dd0e9-eaa4-4428-ad18-2d13857ea032"
+    },
+    {
+      "word": "菌",
+      "reading": "きん",
+      "meaningZh": "细菌，菌",
+      "meaningEn": "bacteria",
+      "level": "n5n4",
+      "exampleSentence": "ヨーグルトには良い菌が入っています。",
+      "id": "714cb9ab-cbe8-4c11-a86d-e776f6efafab"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状态，情况（多指身体或机械等）",
+      "meaningEn": "condition",
+      "level": "n5n4",
+      "exampleSentence": "お腹の調子が悪いです。",
+      "id": "b96465f7-30a2-4a30-a06b-3264dfd8ed88"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaningZh": "简单",
+      "meaningEn": "easy, simple",
+      "level": "n5n4",
+      "exampleSentence": "この料理は簡単においしく作れます。",
+      "id": "4209a1bd-45c3-4d6d-b672-24e173eebe6d"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaningZh": "生活",
+      "meaningEn": "life, living",
+      "level": "n5n4",
+      "exampleSentence": "規則正（きそくただ）しい生活を送（おく）っています。",
+      "id": "bad722bf-ed4c-411c-8860-f2b29dc451d7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品が人気になった理由（りゆう）は何ですか。",
+      "options": [
+        "安（やす）いから",
+        "おいしいから",
+        "健康に良いから",
+        "種類が多いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文（ほんぶん）に「健康（けんこう）に気（き）をつける人が増えています。そのため、発酵食品（はっこうしょくひん）が注目（ちゅうもく）されています。」と書（か）いてあります。",
+      "id": "ac8e6182-5553-4110-b8e8-777715042c42"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-15-95fc09b2b4",
+  "publishedAt": "2026-07-15T06:00:00+09:00"
+}

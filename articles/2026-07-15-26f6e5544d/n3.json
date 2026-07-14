@@ -1,0 +1,126 @@
+{
+  "title": "秋の味覚、限定商品で満喫しませんか？",
+  "summary": "秋になり、美味しいものがたくさん出回る季節になりました。今回は、この時期ならではの限定商品をご紹介します。ぜひチェックしてみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋といえば、食欲の秋ですね。栗やさつまいも、きのこなど、美味しい食材がたくさん旬を迎えます。そんな秋の味覚をさらに楽しませてくれるのが、各店から登場する期間限定の商品です。コンビニのお菓子から、レストランの特別メニューまで、この時期だけ味わえる特別なものばかりなので、見逃せません。",
+      "translationZh": "说到秋天，就是食欲之秋。栗子、红薯、蘑菇等美味食材都迎来了应季。而让这份秋日美味更添乐趣的，是各家推出的限时商品。从便利店的零食到餐厅的特别套餐，都是这个时期才能品尝到的特别美味，不容错过。",
+      "translationEn": "When we talk about autumn, it's the season for appetite. Delicious ingredients like chestnuts, sweet potatoes, and mushrooms are in season. What further enhances the enjoyment of these autumn flavors are the limited-time products released by various shops. From convenience store snacks to special restaurant menus, they are all unique to this season, so you won't want to miss them.",
+      "id": "672e601b-9fe8-40d5-8900-6f4984f4cdea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、人気のカフェでは、栗を使ったモンブランが季節限定で販売されています。濃厚なクリームとサクサクのメレンゲの組み合わせは、まさに秋の味覚の王様と言えるでしょう。また、チョコレートブランドからも、秋の味覚をイメージした新しいフレーバーのチョコレートが登場しています。パッケージも秋らしくて可愛いので、自分へのご褒美やプレゼントにもぴったりです。",
+      "translationZh": "例如，人气咖啡店会季节限定发售使用栗子制作的蒙布朗。浓厚的奶油与酥脆的蛋白霜的组合，堪称秋日味觉之王。此外，巧克力品牌也推出了以秋季味觉为灵感的新口味巧克力。包装也充满了秋天的气息，非常可爱，无论是送给自己还是作为礼物都十分合适。",
+      "translationEn": "For example, popular cafes are seasonally offering Mont Blanc cakes made with chestnuts. The combination of rich cream and crispy meringue can truly be called the king of autumn flavors. Also, chocolate brands have introduced new flavored chocolates inspired by autumn tastes. The packaging is also charmingly autumnal, making them perfect as a treat for yourself or as a gift.",
+      "id": "9a2e0162-b423-4183-b5ad-a01d38996862",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、スーパーマーケットやデパートでも、秋の味覚をテーマにしたお弁当や惣菜が数多く並びます。きのこご飯のおにぎりや、かぼちゃを使ったサラダなど、手軽に秋の味覚を楽しめる商品がたくさんあります。これらの限定商品は、発売期間が短いものが多いので、気になるものがあれば、早めにチェックすることをおすすめします。せっかくの秋ですから、美味しいもので食欲の秋を満喫しましょう。",
+      "translationZh": "此外，超市和百货公司也会摆出许多以秋季味觉为主题的便当和熟食。有香菇饭团、南瓜沙拉等，有很多可以轻松享受秋季美味的商品。这些限定商品很多发售期间都很短，如果有什么感兴趣的，建议尽早查看。既然是秋天，就用美味的东西来尽情享受食欲之秋吧。",
+      "translationEn": "Furthermore, supermarkets and department stores offer many bento boxes and side dishes themed around autumn flavors. There are numerous products like rice balls with mushroom rice and salads using pumpkin that allow you to easily enjoy autumn tastes. Since many of these limited products have short sales periods, we recommend checking them out early if you're interested. Since it's autumn, let's fully enjoy the season of appetite with delicious food.",
+      "id": "fcee5fc7-9280-4349-b7ee-c4cb6d5996e1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "食欲",
+      "reading": "しょくよく",
+      "meaningZh": "食欲",
+      "meaningEn": "Appetite",
+      "level": "n3",
+      "exampleSentence": "秋になると食欲が増します。",
+      "id": "b13b4acf-6eac-499b-99de-103ee57a7ba5"
+    },
+    {
+      "word": "旬",
+      "reading": "しゅん",
+      "meaningZh": "（蔬菜、水果等的）应季，当造",
+      "meaningEn": "Season (for produce)",
+      "level": "n3",
+      "exampleSentence": "この魚は旬の時期に食べるのが一番美味しいです。",
+      "id": "551ef94b-935c-47f2-b377-7547db88b0d6"
+    },
+    {
+      "word": "期間限定",
+      "reading": "きかんげんてい",
+      "meaningZh": "限时，期间限定",
+      "meaningEn": "Limited time offer",
+      "level": "n3",
+      "exampleSentence": "このキャンペーンは期間限定なので、お早めにどうぞ。",
+      "id": "47ce5de0-79a7-4373-91c4-121000c60eec"
+    },
+    {
+      "word": "モンブラン",
+      "reading": "もんぶらん",
+      "meaningZh": "蒙布朗（一种栗子奶油蛋糕）",
+      "meaningEn": "Mont Blanc (a type of chestnut cream cake)",
+      "level": "n5n4",
+      "exampleSentence": "秋になるとモンブランが食べたくなります。",
+      "id": "83573fdb-7d95-4db7-9c60-93843d61776e"
+    },
+    {
+      "word": "イメージ",
+      "reading": "イメージ",
+      "meaningZh": "印象，形象",
+      "meaningEn": "Image",
+      "level": "n3",
+      "exampleSentence": "その商品の新しいイメージCMが話題になっています。",
+      "id": "983bb13e-5cb2-4231-8502-abeed4c5dca3"
+    },
+    {
+      "word": "ご褒美",
+      "reading": "ごほうび",
+      "meaningZh": "奖励，奖赏",
+      "meaningEn": "Reward",
+      "level": "n3",
+      "exampleSentence": "頑張った自分へのご褒美に、美味しいケーキを買いました。",
+      "id": "eed0741c-67ec-4976-9928-8c4e1e654697"
+    },
+    {
+      "word": "惣菜",
+      "reading": "そうざい",
+      "meaningZh": "熟食，便菜",
+      "meaningEn": "Prepared food, side dish",
+      "level": "n3",
+      "exampleSentence": "スーパーでいくつか惣菜を買って帰りました。",
+      "id": "6c734c1b-0cd1-4cec-98a9-4b2c842e486c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、秋に旬を迎える食材の例として挙げられているものはどれですか？",
+      "options": [
+        "りんご、ぶどう",
+        "栗、さつまいも、きのこ",
+        "さんま、鮭",
+        "柿、梨"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「栗やさつまいも、きのこなど、美味しい食材がたくさん旬を迎えます。」と書かれています。",
+      "id": "dd5543a5-83d3-4cf7-b05d-e41347c9341d"
+    },
+    {
+      "question": "限定商品について、筆者が推奨していることは何ですか？",
+      "options": [
+        "発売期間中に何度も買うこと",
+        "SNSで感想を共有すること",
+        "気になるものは早めにチェックすること",
+        "レストランで特別な予約をすること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「発売期間が短いものが多いので、気になるものがあれば、早めにチェックすることをおすすめします。」とあります。",
+      "id": "e76c1d5b-f626-4639-aa46-87e694093cac"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-15-26f6e5544d",
+  "publishedAt": "2026-07-15T06:00:00+09:00"
+}

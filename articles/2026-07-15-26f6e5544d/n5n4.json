@@ -1,0 +1,131 @@
+{
+  "title": "秋の味覚、限定商品！",
+  "summary": "秋になりました。おいしい食べ物がいっぱいです。お店には特別な商品があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋は食べ物がおいしい季節です。栗、さつまいも、かぼちゃなど、いろいろな味覚があります。この季節になると、多くの店で新しい商品が出ます。それは、秋だけの特別な商品です。",
+      "translationZh": "秋天是食物美味的季节。有栗子、红薯、南瓜等各种味道。一到这个季节，很多商店就会推出新商品。这些是只属于秋天的特别商品。",
+      "translationEn": "Autumn is a delicious season for food. There are various tastes like chestnuts, sweet potatoes, and pumpkins. When this season comes, many shops release new products. These are special products only for autumn.",
+      "id": "9dedbc77-876d-4f7c-ba3f-b63b13b5ce08",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、コンビニでは秋の味のスイーツがたくさん出ました。モンブランケーキや、さつまいもを使ったプリンなどです。これらの商品は人気があります。すぐに売り切れてしまうこともあります。",
+      "translationZh": "例如，便利店推出了很多秋季口味的甜点。有栗子蛋糕和用红薯做的布丁等。这些商品很受欢迎。有时会很快就卖光。",
+      "translationEn": "For example, convenience stores have released many sweets with autumn flavors. There are Mont Blanc cakes and puddings made with sweet potatoes. These products are popular. Sometimes they sell out quickly.",
+      "id": "ad858bc8-1655-4c5a-b65a-dc8a1d452113",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "カフェでも秋限定のドリンクがあります。かぼちゃラテや、りんごを使ったホットドリンクなどです。温かい飲み物は、秋の涼しい日にぴったりです。友達とカフェで話すときにもいいですね。",
+      "translationZh": "咖啡馆也有秋季限定的饮品。有南瓜拿铁和用苹果做的热饮等。热饮非常适合秋天凉爽的日子。和朋友在咖啡馆聊天时也很不错。",
+      "translationEn": "Cafes also have limited autumn drinks. There are pumpkin lattes and hot drinks made with apples. Warm drinks are perfect for cool autumn days. It's also nice when talking with friends at a cafe.",
+      "id": "2e7b22e9-489a-4ceb-8493-dd04a6ae1b08",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スーパーでは、秋の味覚を使ったお弁当やパンも売っています。栗ごはんや、きのこを使ったパンなどです。手軽に秋の味を楽しむことができます。皆さんも、この秋だけの特別な味を試してみませんか。",
+      "translationZh": "超市里也卖用秋季食材做的便当和面包。有栗子饭或使用蘑菇做的面包等。可以轻松地享受秋天的味道。大家不也来尝尝只属于这个秋天的特别味道吗？",
+      "translationEn": "Supermarkets also sell bento boxes and bread using autumn flavors. There is chestnut rice and bread using mushrooms. You can easily enjoy the taste of autumn. Why don't you all try the special taste only for this autumn?",
+      "id": "979e5f84-53a5-4dda-84ef-33a62189c172",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は涼しい季節です。",
+      "id": "7b43376e-fb75-4a9f-a7d0-3d4ac14ba1ba"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味觉，美味",
+      "meaningEn": "taste, flavor",
+      "level": "n5n4",
+      "exampleSentence": "この果物はいい味覚です。",
+      "id": "7d4972fd-21b0-4648-9620-4f6e1a6c39c0"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "この商品は数量限定です。",
+      "id": "692bbc77-cecf-436e-82c9-9705a3a9956c"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningZh": "商品",
+      "meaningEn": "product, merchandise",
+      "level": "n5n4",
+      "exampleSentence": "新しい商品がたくさん出ました。",
+      "id": "7d60ddb3-9aa3-4afc-8216-64d2b8f4a3b9"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "今日は特別な日です。",
+      "id": "1f7b7a0c-5387-467d-863e-44f5936f6cda"
+    },
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaningZh": "味道",
+      "meaningEn": "taste, flavor",
+      "level": "n5n4",
+      "exampleSentence": "このケーキは甘い味です。",
+      "id": "bf9ab7e7-57a5-42e0-909d-e40c28f70d29"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメは学生に人気です。",
+      "id": "2d13f83b-c62c-4d39-b543-78998cb4f268"
+    },
+    {
+      "word": "売切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n5n4",
+      "exampleSentence": "チケットはもう売切れました。",
+      "id": "00ed30ed-73ad-4fd4-9d7a-bb3481858ecc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニの秋限定の商品は、どんなものがありますか。",
+      "options": [
+        "栗ごはん",
+        "かぼちゃラテ",
+        "モンブランケーキ",
+        "きのこパン"
+      ],
+      "correctIndex": 2,
+      "explanation": "例えば、コンビニでは秋の味のスイーツがたくさん出ました。モンブランケーキや、さつまいもを使ったプリンなどです。",
+      "id": "9a013884-bbc1-4180-897c-c2b4246b8d88"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-15-26f6e5544d",
+  "publishedAt": "2026-07-15T06:00:00+09:00"
+}
