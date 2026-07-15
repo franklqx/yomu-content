@@ -1,0 +1,122 @@
+{
+  "title": "スマートシティ実験、成果は？",
+  "summary": "新しい街づくり、スマートシティの実験が終わりました。この実験で、どんなことがわかりましたか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある町でスマートシティの実験がありました。この実験は、新しい技術を使って、もっと便利な町を作るためのものです。たくさんの人が実験に参加しました。",
+      "translationZh": "最近，在一个城镇里举行了智慧城市实验。这个实验是为了使用新技术，创造一个更方便的城镇。很多人参加了这个实验。",
+      "translationEn": "Recently, there was a smart city experiment in a certain town. This experiment was for creating a more convenient town using new technology. Many people participated in the experiment.",
+      "id": "22b8f6e1-68cc-46a0-ac25-6fadb8a44936",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験では、自動運転の車が走りました。また、家の中の電気やエアコンをスマホでコントロールできるようになりました。これは、とても便利でした。",
+      "translationZh": "在实验中，自动驾驶的汽车行驶了。另外，家里的电和空调可以通过智能手机来控制了。这个非常方便。",
+      "translationEn": "In the experiment, self-driving cars ran. Also, it became possible to control the lights and air conditioner in the house with a smartphone. This was very convenient.",
+      "id": "199b4d87-04b5-4541-bfec-0fe48f871a83",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験で、たくさんのデータが集まりました。これらのデータは、これからの町づくりのために大切に使われます。もっと安全で、もっと住みやすい町になるでしょう。",
+      "translationZh": "通过这个实验，收集了很多数据。这些数据将被珍贵地用于今后的城镇建设。城镇会变得更安全，更宜居。",
+      "translationEn": "Through this experiment, a lot of data was collected. This data will be used carefully for future town development. The town will become safer and more livable.",
+      "id": "87ed0f5d-4d3f-469d-990a-b29cdc33e16c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スマートシティの技術は、これからも進んでいきます。私たちの生活は、もっと良くなるかもしれません。次回の実験も楽しみです。",
+      "translationZh": "智慧城市的技术今后也会不断发展。我们的生活可能会变得更好。我非常期待下一次的实验。",
+      "translationEn": "Smart city technology will continue to advance. Our lives may become even better. I am looking forward to the next experiment.",
+      "id": "464dcfe7-c4db-4508-8677-f74f850725c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スマートシティ",
+      "reading": "すまーとしティ",
+      "meaningZh": "智慧城市",
+      "meaningEn": "Smart City",
+      "level": "n5n4",
+      "exampleSentence": "スマートシティは、新しい技術を使います。",
+      "id": "2fbc1f5b-4d57-4a39-82e4-336e4dadeed3"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "Experiment",
+      "level": "n5n4",
+      "exampleSentence": "この薬の実験をしました。",
+      "id": "8a384338-cb4e-4d9f-b5cb-8c005cdd3ffe"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "Technology",
+      "level": "n3",
+      "exampleSentence": "新しい技術はすごいですね。",
+      "id": "4cd7f508-6021-4c82-9d8a-cac40d87bee6"
+    },
+    {
+      "word": "自動運転",
+      "reading": "じどううんてん",
+      "meaningZh": "自动驾驶",
+      "meaningEn": "Self-driving",
+      "level": "n3",
+      "exampleSentence": "自動運転の車が走っていました。",
+      "id": "d94dd878-4073-4d3e-81a4-6197fe559c2b"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "Convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "9b43a9b6-1feb-4214-9aa6-e8e7cddeda16"
+    },
+    {
+      "word": "データ",
+      "reading": "でーた",
+      "meaningZh": "数据",
+      "meaningEn": "Data",
+      "level": "n5n4",
+      "exampleSentence": "たくさんのデータがありました。",
+      "id": "8e046c00-935f-4a31-bb2b-bb4f96881e8b"
+    },
+    {
+      "word": "町づくり",
+      "reading": "まちづくり",
+      "meaningZh": "城镇建设",
+      "meaningEn": "Town development",
+      "level": "n3",
+      "exampleSentence": "町づくりのために、計画を立てました。",
+      "id": "724b03ba-f787-4361-99bc-ca5ddbe8bc6b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実験で、どんなことが便利になりましたか？",
+      "options": [
+        "自動運転の車が走ったこと",
+        "家の中の電気をスマホでコントロールできるようになったこと",
+        "たくさんのデータが集まったこと",
+        "新しい技術が進んだこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「家の中の電気やエアコンをスマホでコントロールできるようになりました。これは、とても便利でした。」と書かれています。",
+      "id": "16ffa66f-0851-4eb3-9764-df4c2a98218c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-16-1ed3373102",
+  "publishedAt": "2026-07-16T06:00:00+09:00"
+}

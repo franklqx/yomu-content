@@ -1,0 +1,122 @@
+{
+  "title": "瀬戸内海の新しい旅",
+  "summary": "瀬戸内海で新しいクルーズ旅行を楽しみませんか。美味しいものやきれいな景色がたくさんあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海はとてもきれいです。たくさんの島があります。海の色は青くて、空もきれいです。クルーズ船に乗ると、島を見ることができます。",
+      "translationZh": "濑户内海非常漂亮。有很多岛屿。海的颜色是蓝色的，天空也很美。乘坐游船，可以看到岛屿。",
+      "translationEn": "The Seto Inland Sea is very beautiful. There are many islands. The color of the sea is blue, and the sky is also beautiful. When you ride a cruise ship, you can see the islands.",
+      "id": "a737e64f-8e8b-469c-a05b-9eefc5bd3e5e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、瀬戸内海で新しい楽しみ方ができました。それは、船の上で美味しいものを食べることです。地元の魚や果物はおいしいです。海を見ながら食べると、もっとおいしくなります。",
+      "translationZh": "最近，在濑户内海有了新的享受方式。那就是在船上吃美味的东西。当地的鱼和水果很好吃。一边看海一边吃，会变得更美味。",
+      "translationEn": "Recently, a new way to enjoy the Seto Inland Sea has become available. That is eating delicious food on the ship. Local fish and fruits are tasty. Eating while looking at the sea makes it even more delicious.",
+      "id": "4af06c36-9193-4834-8888-0308b375d48f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、夜のクルーズも人気があります。夜の海は静かで、星がきれいです。特別な時間を過ごすことができます。家族や友達と一緒に行くのもいいでしょう。",
+      "translationZh": "另外，夜晚的巡航也很受欢迎。夜晚的海很安静，星星很漂亮。可以度过一段特别的时光。和家人或朋友一起去也很好。",
+      "translationEn": "Also, night cruises are popular. The sea at night is quiet, and the stars are beautiful. You can spend a special time. It would be good to go with family or friends.",
+      "id": "7b586058-2a28-4e22-a088-5ad6fec3eb03",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "瀬戸内海クルーズは、いろいろな楽しみ方があります。次の休みは、ぜひ瀬戸内海へ行ってみてください。",
+      "translationZh": "濑户内海巡航有各种各样的享受方式。下一个假期，请一定要去濑户内海试试看。",
+      "translationEn": "There are various ways to enjoy a Seto Inland Sea cruise. For your next holiday, please try going to the Seto Inland Sea.",
+      "id": "6b7a7533-419d-4340-b9e6-eaed71c87f9e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": "瀬戸内海は島がたくさんあります。",
+      "id": "ae510b8e-e13a-437c-b73e-c17dc1f0255b"
+    },
+    {
+      "word": "クルーズ",
+      "reading": "くるーず",
+      "meaningZh": "巡航，游览",
+      "meaningEn": "cruise",
+      "level": "n5n4",
+      "exampleSentence": "船でクルーズをしました。",
+      "id": "96ae9499-268f-488e-a08d-706970578f53"
+    },
+    {
+      "word": "楽しみ方",
+      "reading": "たのしみかた",
+      "meaningZh": "享受方式，玩法",
+      "meaningEn": "way to enjoy",
+      "level": "n5n4",
+      "exampleSentence": "このゲームの楽しみ方を教えてください。",
+      "id": "aab4709f-994d-411d-8268-301830ccaf05"
+    },
+    {
+      "word": "美味しい",
+      "reading": "おいしい",
+      "meaningZh": "好吃的",
+      "meaningEn": "delicious",
+      "level": "n5n4",
+      "exampleSentence": "このケーキはとても美味しいです。",
+      "id": "7b88d14a-78ac-46a6-8e75-148561066b59"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "山の景色がきれいです。",
+      "id": "8ff60326-db0f-4994-88ec-7275d392500a"
+    },
+    {
+      "word": "夜",
+      "reading": "よる",
+      "meaningZh": "夜晚",
+      "meaningEn": "night",
+      "level": "n5n4",
+      "exampleSentence": "夜は星がきれいです。",
+      "id": "8298aeab-1b7f-45db-adef-b0f2dce1fcdf"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "31e7ee18-53e8-460b-8d87-57697e82fa99"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "船の上で何を食べることができますか。",
+      "options": [
+        "地元の魚や果物",
+        "パンとコーヒー",
+        "ラーメンと餃子",
+        "サンドイッチ"
+      ],
+      "correctIndex": 0,
+      "explanation": "地元の魚や果物はおいしいです。海を見ながら食べると、もっとおいしくなります。",
+      "id": "392a3c86-fc39-49a0-baac-9de124cfc306"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-16-16e5f7aacc",
+  "publishedAt": "2026-07-16T06:00:00+09:00"
+}

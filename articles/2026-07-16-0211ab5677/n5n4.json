@@ -1,0 +1,122 @@
+{
+  "title": "ヴィーガン和食、広がる！",
+  "summary": "最近、ヴィーガン向けの和食メニューが増えています。みんなに嬉しい選択肢です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でヴィーガン向けの和食が増えています。ヴィーガンは動物性のものを食べません。でも、日本の料理は魚や肉を使わないものもたくさんあります。",
+      "translationZh": "最近，在日本，适合纯素食者的日式料理正在增加。纯素食者不吃动物性食品。但是，日本料理中也有很多不使用鱼肉或肉类的菜肴。",
+      "translationEn": "Recently, Japanese food for vegans is increasing in Japan. Vegans do not eat animal products. However, there are many Japanese dishes that do not use fish or meat.",
+      "id": "416302cb-10ae-4d4a-9eea-aa64d09fdcbf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、野菜だけの天ぷらや、豆腐を使った料理があります。お寿司でも、野菜だけの「ベジタリアン寿司」があります。これは、ヴィーガンの方も楽しめます。",
+      "translationZh": "例如，有只用蔬菜做的天妇罗，还有用豆腐做的料理。在寿司方面，也有只有蔬菜的“素食寿司”。这个，即使是纯素食者也可以享用。",
+      "translationEn": "For example, there are vegetable-only tempura and dishes using tofu. Even in sushi, there is \"vegetarian sushi\" made only with vegetables. Vegans can enjoy this too.",
+      "id": "c3865194-a5d9-4dd4-b5bb-e92a09a86c2a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "レストランだけでなく、スーパーでもヴィーガンのお弁当や惣菜を見ることが多くなりました。選べるものが増えるのは、とても良いことですね。",
+      "translationZh": "不仅是餐厅，在超市也能经常看到适合纯素食者的便当和熟食。可供选择的东西增加了，这是一件非常好的事情。",
+      "translationEn": "Not only in restaurants, but also in supermarkets, we are seeing more bento boxes and side dishes for vegans. It's a very good thing that the options are increasing.",
+      "id": "821457e3-e04b-4db9-8f1f-4fc6fd6bceec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、もっと色々なヴィーガン和食が増えるといいですね。みんなが美味しく食べられるのは、嬉しいことです。",
+      "translationZh": "今后，如果能增加更多各种各样的纯素日式料理就太好了。大家都能美味地吃饭，这是一件令人高兴的事。",
+      "translationEn": "It would be great if more and more diverse vegan Japanese dishes appear in the future. It is a happy thing that everyone can eat deliciously.",
+      "id": "007434ee-7621-49b3-bbf9-23c53a6b5e09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "この店で、新しいメニューが増えました。",
+      "id": "3e75fbeb-420e-4d4b-b92f-b989a4de941d"
+    },
+    {
+      "word": "動物性",
+      "reading": "どうぶつせい",
+      "meaningZh": "动物性的",
+      "meaningEn": "animal-based",
+      "level": "n5n4",
+      "exampleSentence": "ヴィーガンは動物性のものを食べません。",
+      "id": "ccb67118-9b19-48de-b15b-7a9276694547"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "料理，菜肴",
+      "meaningEn": "cooking, dish",
+      "level": "n5n4",
+      "exampleSentence": "日本の料理は美味しいです。",
+      "id": "8190a07c-723e-4ffc-b44a-add7f3a2b7ef"
+    },
+    {
+      "word": "野菜",
+      "reading": "やさい",
+      "meaningZh": "蔬菜",
+      "meaningEn": "vegetable",
+      "level": "n5n4",
+      "exampleSentence": "毎日、野菜を食べましょう。",
+      "id": "c523ec71-82b5-4edd-90c3-c47f707e9d1d"
+    },
+    {
+      "word": "豆腐",
+      "reading": "とうふ",
+      "meaningZh": "豆腐",
+      "meaningEn": "tofu",
+      "level": "n5n4",
+      "exampleSentence": "この料理に豆腐が入っていますか？",
+      "id": "2cbda121-5518-4eb4-9fef-f96368e3a5b8"
+    },
+    {
+      "word": "寿司",
+      "reading": "すし",
+      "meaningZh": "寿司",
+      "meaningEn": "sushi",
+      "level": "n5n4",
+      "exampleSentence": "お寿司を食べたいです。",
+      "id": "62b0742e-4f01-4a55-a3c8-1ec2ee4a0b4f"
+    },
+    {
+      "word": "選択肢",
+      "reading": "せんたくし",
+      "meaningZh": "选择（项），选择的余地",
+      "meaningEn": "option, choice",
+      "level": "n3",
+      "exampleSentence": "この中から、一つ選択肢を選んでください。",
+      "id": "cdd07d1b-189b-450c-998c-8b3eb8b92e41"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガンは、どんなものを食べませんか？",
+      "options": [
+        "野菜",
+        "果物",
+        "動物性のもの",
+        "お米"
+      ],
+      "correctIndex": 2,
+      "explanation": "「ヴィーガンは動物性のものを食べません。」と書いてあります。",
+      "id": "91c087f8-e1fe-4811-9c89-496e7ad3cabd"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-16-0211ab5677",
+  "publishedAt": "2026-07-16T06:00:00+09:00"
+}
