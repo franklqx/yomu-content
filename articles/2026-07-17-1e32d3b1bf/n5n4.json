@@ -1,0 +1,131 @@
+{
+  "title": "新しい働き方",
+  "summary": "最近、副業をすることが許されました。多くの人が新しい働き方をしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、会社で働くのは一つだけでした。でも、今は違います。会社は「副業をしてもいいですよ」と言っています。これを「副業解禁」と言います。",
+      "translationZh": "以前，工作只能在一个公司做。但是，现在不一样了。公司说“做副业是可以的”。这叫做“副业解禁”。",
+      "translationEn": "In the past, working was only for one company. But now, it's different. Companies say, 'It's okay to do side jobs.' This is called 'allowing side jobs'.",
+      "id": "d4cfaff6-a298-48c1-8390-cf45a1b2821a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業をすると、お金をもう少し稼ぐことができます。また、新しいことを学ぶ機会も増えます。例えば、趣味を仕事にすることもできます。",
+      "translationZh": "通过做副业，可以多赚一些钱。另外，学习新事物的机会也增加了。例如，也可以把兴趣变成工作。",
+      "translationEn": "By doing side jobs, you can earn a little more money. Also, opportunities to learn new things increase. For example, you can also turn a hobby into a job.",
+      "id": "616f39c4-bd38-481d-b2b8-6f6e77859740",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "会社にとっても、いいことがあります。社員が色々な経験をすると、会社に新しいアイデアを持ってくるかもしれません。だから、会社も副業を認めるようになりました。",
+      "translationZh": "对公司来说，也有好处。如果员工积累了各种经验，可能会为公司带来新的想法。所以，公司也开始允许副业了。",
+      "translationEn": "For companies, there are also good things. If employees gain various experiences, they might bring new ideas to the company. Therefore, companies have also started to allow side jobs.",
+      "id": "df1912c5-0c7e-4126-94c7-c60816f739cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業解禁は、私たちの働き方を変えています。これからも、もっと自由な働き方が増えていくでしょう。",
+      "translationZh": "副业解禁正在改变我们的工作方式。今后，也会有更多自由的工作方式增加。",
+      "translationEn": "Allowing side jobs is changing our way of working. From now on, more flexible ways of working will likely increase.",
+      "id": "b9b484ab-e0e9-4997-95dc-2c4b3de6be1b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业，兼职",
+      "meaningEn": "side job, part-time job",
+      "level": "n5n4",
+      "exampleSentence": "彼は昼は会社員で、夜は副業をしています。",
+      "id": "f9255b72-4de5-4478-9583-b3563cf23474"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解除禁令，允许",
+      "meaningEn": "lifting of a ban, allowing",
+      "level": "n3",
+      "exampleSentence": "今年の夏から、プールが解禁されました。",
+      "id": "2106ff84-ae85-4a67-abcf-3348c5a88ff8"
+    },
+    {
+      "word": "働き方",
+      "reading": "はたらきかた",
+      "meaningZh": "工作方式",
+      "meaningEn": "way of working",
+      "level": "n5n4",
+      "exampleSentence": "新しい働き方について考えています。",
+      "id": "21853379-25a5-4ae2-8734-cd67702f5808"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "in the past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔は、この町はとても静かでした。",
+      "id": "20033bff-e14b-435e-afcf-ba156191a696"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity, chance",
+      "level": "n3",
+      "exampleSentence": "新しい仕事をする機会がありました。",
+      "id": "8a822944-e10b-4e07-b2d6-a53f9c9bba44"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaningZh": "兴趣，爱好",
+      "meaningEn": "hobby",
+      "level": "n5n4",
+      "exampleSentence": "私の趣味は読書です。",
+      "id": "201689b4-134f-4553-aef3-afe27cc3e95b"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "たくさんの経験をしました。",
+      "id": "46f2ea32-cc42-488d-b18f-52afb91c19c5"
+    },
+    {
+      "word": "アイデア",
+      "reading": "アイデア",
+      "meaningZh": "主意，想法",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "いいアイデアを思いつきました。",
+      "id": "915e53b2-9e53-43ad-aeac-18ab3585394a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「副業解禁」とは、どういう意味ですか？",
+      "options": [
+        "会社で働くことをやめること",
+        "会社で働く以外に、もう一つ仕事をしていいこと",
+        "会社で働く時間が長くなること",
+        "新しい会社に移ること"
+      ],
+      "correctIndex": 1,
+      "explanation": "「副業解禁」とは、会社は「副業をしてもいいですよ」と言っています。これを「副業解禁」と言います。",
+      "id": "c68ab87f-f540-4c59-9d3a-c0ed98a9fe6d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-17-1e32d3b1bf",
+  "publishedAt": "2026-07-17T06:00:00+09:00"
+}

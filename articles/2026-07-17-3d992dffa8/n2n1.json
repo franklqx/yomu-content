@@ -1,0 +1,147 @@
+{
+  "title": "古書店街に文学の灯火（ともしび）を　イベント開催へ",
+  "summary": "都内有数の古書店街で、文学をテーマにしたイベントが開催されることになった。地域活性化と文化振興を兼ねた試みとして注目されている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東京・神保町古書店街において、来る秋に文学イベントが開催される見通しであることが明らかになった。このイベントは、長年培われてきた書物の文化を次世代に継承するとともに、地域経済の活性化を図ることを目的として企画されているとのことである。関係者によれば、著名な作家や評論家を招いた講演会、古書にまつわるエッセイコンテスト、さらには朗読会などが検討されており、多角的なアプローチで文学の魅力を発信していく方針だ。",
+      "translationZh": "据悉，东京神保町古书街预计将在即将到来的秋季举办文学活动。此次活动旨在将长年积累的书籍文化传承给下一代，并促进地区经济的活性化。据相关人士透露，活动正在筹备中，包括邀请知名作家和评论家进行演讲、举办以古书为主题的随笔比赛，以及朗诵会等，计划以多角度的方式传播文学的魅力。",
+      "translationEn": "It has become clear that a literary event is expected to be held in Tokyo's Jinbocho old bookstore district this coming autumn. This event is reportedly planned with the dual goals of passing down the culture of books, cultivated over many years, to the next generation, and revitalizing the local economy. According to sources, plans are being considered for lectures by renowned authors and critics, an essay contest related to old books, and recitation events, with a policy to disseminate the appeal of literature through multifaceted approaches.",
+      "id": "cff9cbfb-756f-4112-8e5d-012a0afd38c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "近年、インターネットの普及や読書スタイルの多様化に伴い、実店舗を持つ古書店を取り巻く環境は厳しさを増している。そのような状況下で、地域全体を巻き込んだ文学イベントの開催は、新たな顧客層の開拓や、古書店街ならではの魅力を再発見する契機となると期待されている。イベントの企画・運営には、地元の古書店主だけでなく、地域住民や学生ボランティアも参加するとのことで、官民一体となった取り組みとなる見込みだ。",
+      "translationZh": "近年来，随着互联网的普及和阅读方式的多样化，实体古书店所面临的环境日益严峻。在此背景下，通过举办全地区参与的文学活动，有望开拓新的客户群体，并成为重新发现古书街独特魅力的契机。据了解，此次活动的企划与运营不仅有当地古书店店主参与，还将有地区居民和学生志愿者加入，预计将成为官民一体的合作项目。",
+      "translationEn": "In recent years, the environment surrounding old bookstores with physical stores has become increasingly challenging due to the spread of the internet and the diversification of reading styles. Under such circumstances, holding a literary event involving the entire community is expected to serve as an opportunity to attract new customer segments and rediscover the unique charm of the old bookstore district. It is anticipated that not only local bookstore owners but also community residents and student volunteers will participate in the planning and operation of the event, forming a collaborative effort between the public and private sectors.",
+      "id": "cd8b1365-9d3c-49f3-9aa2-95679411a00d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントの成功は、古書店街の存続のみならず、地域文化の振興にも大きく寄与するものと見られる。関係各所では、イベントの詳細な内容や日程について、今後速やかに発表される予定であり、多くの文学愛好家からの関心が寄せられている。",
+      "translationZh": "此次活动的成功，不仅对古书街的存续至关重要，也被认为将极大地促进地区文化的繁荣。相关各方预计将尽快公布活动的具体内容和日程，目前已吸引了众多文学爱好者的关注。",
+      "translationEn": "The success of this event is seen as greatly contributing not only to the survival of the old bookstore district but also to the promotion of regional culture. Various parties involved are expected to announce the detailed content and schedule of the event promptly, and significant interest from many literature enthusiasts is anticipated.",
+      "id": "f435bf88-9eef-4d40-8acd-fdd0f6fff94e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "灯火",
+      "reading": "ともしび",
+      "meaningZh": "灯火，光亮",
+      "meaningEn": "light, lamp",
+      "level": "n2n1",
+      "exampleSentence": "暗闇の中に灯火が見えた。",
+      "id": "2482ed22-c8e2-40a9-a9f6-28a276fc05ce"
+    },
+    {
+      "word": "継承",
+      "reading": "けいしょう",
+      "meaningZh": "继承，传授",
+      "meaningEn": "succession, inheritance",
+      "level": "n2n1",
+      "exampleSentence": "伝統技術の継承が課題となっている。",
+      "id": "41fa7983-05e9-4f5a-a882-0dfad60c898c"
+    },
+    {
+      "word": "図る",
+      "reading": "はかる",
+      "meaningZh": "图谋，谋划，力求",
+      "meaningEn": "to plan, to attempt, to aim for",
+      "level": "n2n1",
+      "exampleSentence": "地域活性化を図るための新事業を立ち上げた。",
+      "id": "7bd68262-d509-487d-8abf-8f0e9e042594"
+    },
+    {
+      "word": "招く",
+      "reading": "まねく",
+      "meaningZh": "邀请；引起，导致",
+      "meaningEn": "to invite; to cause, to lead to",
+      "level": "n3",
+      "exampleSentence": "専門家を招いて講演会を開催する。／不注意が事故を招いた。",
+      "id": "0c74ef83-ecf9-4fc6-85ae-868318874b20"
+    },
+    {
+      "word": "多角的",
+      "reading": "たかくてき",
+      "meaningZh": "多方面的，多角度的",
+      "meaningEn": "multifaceted, multilateral",
+      "level": "n2n1",
+      "exampleSentence": "多角的な視点から問題を分析する。",
+      "id": "228b4ac6-c0e4-4e47-9e69-165703877ee8"
+    },
+    {
+      "word": "取り巻く",
+      "reading": "とりまく",
+      "meaningZh": "包围，围绕",
+      "meaningEn": "to surround, to encircle",
+      "level": "n2n1",
+      "exampleSentence": "厳しい経営環境に取り巻かれている。",
+      "id": "1bd9743a-4370-43e6-89b2-7472afb32808"
+    },
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaningZh": "契机，机会",
+      "meaningEn": "opportunity, trigger",
+      "level": "n2n1",
+      "exampleSentence": "この経験が彼の人生の大きな契機となった。",
+      "id": "740999db-1d22-4365-8de7-dd6524c69420"
+    },
+    {
+      "word": "官民一体",
+      "reading": "かんみんいったい",
+      "meaningZh": "官民一体，公私合营",
+      "meaningEn": "cooperation between government and private sector",
+      "level": "n2n1",
+      "exampleSentence": "官民一体となった地域開発が進められている。",
+      "id": "52db97e7-17fc-4e6f-a9dd-249e248abfab"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回の文学イベントが開催される主な目的は何ですか。",
+      "options": [
+        "古書店の経営改善のみを目的としている",
+        "地域経済の活性化と文化の継承を兼ねている",
+        "若者向けの新しい読書スタイルの普及",
+        "インターネット販売の促進"
+      ],
+      "correctIndex": 1,
+      "explanation": "関係者によれば、このイベントは「長年培われてきた書物の文化を次世代に継承するとともに、地域経済の活性化を図ることを目的として企画されている」とのことである。",
+      "id": "47e0f151-646d-467b-93f9-8dda84deedfd"
+    },
+    {
+      "question": "古書店を取り巻く環境が厳しくなっている要因として、本文では何が挙げられていますか。",
+      "options": [
+        "古書の価格が高騰していること",
+        "読書人口が減少していること",
+        "インターネットの普及と読書スタイルの多様化",
+        "大型書店の進出"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「近年、インターネットの普及や読書スタイルの多様化に伴い、実店舗を持つ古書店を取り巻く環境は厳しさを増している」と記載されている。",
+      "id": "6b74bb7c-4ea5-4d69-91c2-3bb8d3dfbb3b"
+    },
+    {
+      "question": "イベントの企画・運営には、どのような人々が関わると述べられていますか。",
+      "options": [
+        "作家と評論家のみ",
+        "地域住民と学生ボランティア",
+        "イベント企画専門の業者",
+        "行政関係者のみ"
+      ],
+      "correctIndex": 1,
+      "explanation": "「イベントの企画・運営には、地元の古書店主だけでなく、地域住民や学生ボランティアも参加するとのことで」と記されている。",
+      "id": "e6840763-4ef1-4032-9e01-cf7b88eace27"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-17-3d992dffa8",
+  "publishedAt": "2026-07-17T06:00:00+09:00"
+}

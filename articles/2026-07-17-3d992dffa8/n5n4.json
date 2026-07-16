@@ -1,0 +1,122 @@
+{
+  "title": "古本町の文化祭",
+  "summary": "古本町で文学イベントが開かれました。多くの人が本を楽しみました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋のいい天気の日、古本町で特別なイベントがありました。それは、たくさんの古い本がある町で開かれる文学のお祭りです。町はとてもきれいで、たくさんの人が集まりました。",
+      "translationZh": "秋日天气很好的一天，在古书店街举行了一个特别的活动。这是一个在有很多旧书的城镇里举行的文学庆典。小镇非常漂亮，吸引了很多人。",
+      "translationEn": "On a beautiful autumn day, a special event was held in the old bookstore district. It was a literary festival held in a town full of old books. The town was very beautiful and many people gathered.",
+      "id": "82927c7a-d9e1-4bfa-a051-531f89dc762a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントでは、有名な作家さんが本についての話をしました。子供たちも大人たちも、作家さんの話を聞いて、本についてもっと知りました。本を読むのが好きになりました。",
+      "translationZh": "在活动中，一位著名作家讲述了关于书籍的故事。孩子们和成年人都听了作家的演讲，对书有了更多的了解。他们变得更喜欢读书了。",
+      "translationEn": "At the event, a famous writer talked about books. Both children and adults listened to the writer's talk and learned more about books. They came to like reading more.",
+      "id": "e04909ad-7722-4040-b34c-b1682bc55909",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古い本屋さんも、特別な本を並べました。人々は、めずらしい本を見つけて、買いました。町全体が、本でいっぱいになるような、楽しい一日でした。",
+      "translationZh": "旧书店也摆出了特别的书籍。人们找到了稀有的书并购买了。这是城镇整个都充满书籍的快乐的一天。",
+      "translationEn": "Old bookstores also displayed special books. People found and bought rare books. It was a fun day, as if the whole town was filled with books.",
+      "id": "75092507-19d2-4347-80b3-e68c1a3473ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイベントは、本の大切さを教えてくれました。また来年も、この町で文学イベントがあるといいなと思います。",
+      "translationZh": "这个活动告诉了我们书的重要性。我希望明年也能在这个小镇举办文学活动。",
+      "translationEn": "This event taught us the importance of books. I hope there will be a literary event in this town again next year.",
+      "id": "169bc464-617a-40da-8b89-f0ce0311b084",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古本町",
+      "reading": "ふるほんちょう",
+      "meaningZh": "古书店街",
+      "meaningEn": "Old bookstore district",
+      "level": "n5n4",
+      "exampleSentence": "古本町は静かで落ち着いた雰囲気です。",
+      "id": "ea18f7ec-2cda-4e82-bb27-bbbdd9a76ad4"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaningZh": "文学",
+      "meaningEn": "Literature",
+      "level": "n5n4",
+      "exampleSentence": "私は日本の文学が好きです。",
+      "id": "1db7d2a6-eb10-43ff-811b-7f0c0388687d"
+    },
+    {
+      "word": "イベント",
+      "reading": "いべんと",
+      "meaningZh": "活动",
+      "meaningEn": "Event",
+      "level": "n5n4",
+      "exampleSentence": "週末に楽しいイベントがあります。",
+      "id": "cfa184a5-50f2-4c5e-9e48-0ba3dab828f5"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "To gather",
+      "level": "n5n4",
+      "exampleSentence": "公園にたくさんの人が集まっています。",
+      "id": "040c9b91-d819-45d3-be3c-92ac88a65691"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaningZh": "作家",
+      "meaningEn": "Writer, author",
+      "level": "n5n4",
+      "exampleSentence": "有名な作家のサイン会に行きました。",
+      "id": "5adbcb08-3a5c-4d26-9684-f14cfda9f272"
+    },
+    {
+      "word": "めずらしい",
+      "reading": "めずらしい",
+      "meaningZh": "稀有的，罕见的",
+      "meaningEn": "Rare, unusual",
+      "level": "n5n4",
+      "exampleSentence": "これはめずらしい切手です。",
+      "id": "1bfbba80-d737-4f49-9556-08fedfb8c6da"
+    },
+    {
+      "word": "大切さ",
+      "reading": "たいせつさ",
+      "meaningZh": "重要性",
+      "meaningEn": "Importance",
+      "level": "n5n4",
+      "exampleSentence": "友達の大切さを改めて感じました。",
+      "id": "b5e65a40-e857-43ec-852e-d8caecff1aa4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このイベントはどこで開かれましたか？",
+      "options": [
+        "公園",
+        "図書館",
+        "古本町",
+        "学校"
+      ],
+      "correctIndex": 2,
+      "explanation": "イベントは古本町で開かれました。",
+      "id": "154fc731-e73a-427f-9404-8b1144c0aef4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-17-3d992dffa8",
+  "publishedAt": "2026-07-17T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "若手力士、人気急上昇！",
+  "summary": "若手力士が番付を上がり、人気者になっています。新しいスターの誕生です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、相撲界で若手の力士が注目されています。彼らは力があり、戦いがとても強いです。番付（ばんづけ）もどんどん上がっています。",
+      "translationZh": "最近，相扑界的新秀力士受到了关注。他们很有力量，比赛非常精彩。排名也在不断上升。",
+      "translationEn": "Recently, young sumo wrestlers have been gaining attention in the sumo world. They are strong and their matches are very intense. Their rank (banzuke) is also climbing steadily.",
+      "id": "9e730bfb-a8b0-4c0a-8acc-4ec6c3c85483",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい力士は、ファンがたくさんできています。テレビやインターネットで、彼らの活躍が見られます。応援する人も増えました。",
+      "translationZh": "新力士们吸引了很多粉丝。人们可以在电视或网络上看到他们的活跃表现。支持他们的人也增加了。",
+      "translationEn": "New wrestlers are gaining many fans. Their performances can be seen on TV and the internet. The number of supporters has also increased.",
+      "id": "add11da5-c171-419c-affc-6a00764e3d00",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔の力士も素晴らしかったですが、新しい力士の時代が来たようです。彼らは、相撲をもっと面白くしてくれるでしょう。",
+      "translationZh": "虽然以前的力士也很棒，但似乎新一代力士的时代已经到来。他们会让相扑变得更加有趣。",
+      "translationEn": "Past wrestlers were also great, but it seems a new era of young wrestlers has arrived. They will likely make sumo even more exciting.",
+      "id": "75583da6-41fb-4c3c-a62e-ed5e0fdd639f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、この若手力士たちが、どんな活躍をするか楽しみです。日本の国技である相撲を、もっと多くの人に知ってもらいたいです。",
+      "translationZh": "今后，非常期待这些年轻力士们会取得怎样的成就。我希望他们能让更多人了解日本的国技——相扑。",
+      "translationEn": "We look forward to seeing what these young wrestlers will achieve from now on. I hope they will help more people learn about sumo, the national sport of Japan.",
+      "id": "1185edfc-9049-4a6b-865f-7cd65fc0596f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "相扑选手",
+      "meaningEn": "sumo wrestler",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な力士です。",
+      "id": "9ff387b9-605c-4ceb-b2de-f9eb787ce8af"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）等级名册",
+      "meaningEn": "ranking list (in sumo)",
+      "level": "n3",
+      "exampleSentence": "新しい番付が発表されました。",
+      "id": "b31863e6-8532-43ec-9dd6-915d0ac6d32d"
+    },
+    {
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaningZh": "晋升，升级",
+      "meaningEn": "promotion",
+      "level": "n3",
+      "exampleSentence": "彼は番付に昇進しました。",
+      "id": "455afc9d-699c-4b00-be9d-ccefaa962917"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手は人気があります。",
+      "id": "b5388230-bd89-4440-962d-a980c14b9890"
+    },
+    {
+      "word": "若手",
+      "reading": "わかて",
+      "meaningZh": "年轻人，新秀",
+      "meaningEn": "young people, newcomer",
+      "level": "n5n4",
+      "exampleSentence": "若手の俳優が活躍しています。",
+      "id": "f318cf77-3fd9-4f64-88f4-935d48acc4fb"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention",
+      "level": "n3",
+      "exampleSentence": "彼の新しいプロジェクトに注目が集まっています。",
+      "id": "82bcd738-b515-45b4-bba8-3c9ad0c34893"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "active performance, success",
+      "level": "n3",
+      "exampleSentence": "選手たちの活躍を期待します。",
+      "id": "0b86cb71-8902-4d33-98e4-f1e955fd6263"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、相撲界で注目されているのは誰ですか？",
+      "options": [
+        "昔の力士",
+        "新しい力士",
+        "ファン",
+        "テレビ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「最近、相撲界で若手の力士が注目されています。」とあります。",
+      "id": "d2f4b499-4dfc-4cb4-9b00-923ed0b058e2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-17-00a5715c8f",
+  "publishedAt": "2026-07-17T06:00:00+09:00"
+}
