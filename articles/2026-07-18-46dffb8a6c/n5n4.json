@@ -1,0 +1,122 @@
+{
+  "title": "沖縄の島々を巡ろう！",
+  "summary": "沖縄にはたくさんのきれいな島があります。島から島へ行く旅行はとても楽しいです。ぜひ体験してください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には、たくさんの美しい島があります。例えば、石垣島や宮古島などが有名です。これらの島は、とてもきれいです。",
+      "translationZh": "冲绳有很多美丽的岛屿。例如，石垣岛和宫古岛很有名。这些岛屿非常漂亮。",
+      "translationEn": "Okinawa has many beautiful islands. For example, Ishigaki Island and Miyako Island are famous. These islands are very beautiful.",
+      "id": "ff8b4572-a80d-41e9-9ea2-00b8fe5fba62",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、「離島ホップ」という旅行が人気です。これは、一つの島から別の島へ移動しながら観光する旅行です。飛行機や船を使います。",
+      "translationZh": "最近，“跳岛游”这样的旅行很受欢迎。这是一种边从一个岛屿移动到另一个岛屿边观光旅行。会使用飞机或船。",
+      "translationEn": "Recently, travel called 'island hopping' is popular. This is travel where you tour while moving from one island to another. You use planes or boats.",
+      "id": "ce4822df-67a1-4276-830f-c37271f03b24",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップのツアーはたくさんあります。色々な島を訪れることができます。きれいな海を見たり、おいしいものを食べたりできます。",
+      "translationZh": "有很多跳岛游的旅游套餐。您可以参观各种各样的岛屿。您可以看美丽的大海，也可以吃美味的东西。",
+      "translationEn": "There are many island hopping tours. You can visit various islands. You can see the beautiful sea and eat delicious food.",
+      "id": "9ba95072-fc86-4e6a-8bc7-73b4eab2cc45",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "沖縄の島々は、それぞれ違った魅力があります。この旅行で、たくさんの思い出を作ってください。きっと楽しいですよ。",
+      "translationZh": "冲绳的各个岛屿各有不同的魅力。请用这次旅行创造很多回忆。一定会很开心的。",
+      "translationEn": "The islands of Okinawa each have different charms. Please make many memories with this trip. It will surely be fun.",
+      "id": "f5e5aac7-0ef3-4aac-98ab-2afc848390fb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "沖縄には、たくさんの離島があります。",
+      "id": "3f0318d8-3cd4-4985-bacd-23ff345b6c05"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "53d23b8e-40b8-4f56-a3f7-8128ad8f07f6"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaningZh": "移动，迁移",
+      "meaningEn": "move, transport",
+      "level": "n5n4",
+      "exampleSentence": "電車で移動しました。",
+      "id": "84145cc5-56c9-4cfa-8f02-1b5a0ab7c857"
+    },
+    {
+      "word": "観光",
+      "reading": "かんこう",
+      "meaningZh": "观光",
+      "meaningEn": "sightseeing",
+      "level": "n5n4",
+      "exampleSentence": "京都で観光しました。",
+      "id": "b3941257-502a-49ef-964c-43006b226df8"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "访问，拜访",
+      "meaningEn": "visit",
+      "level": "n5n4",
+      "exampleSentence": "来週、友達を訪ねます。",
+      "id": "45015cdc-62aa-42c8-9cfc-58cf16408547"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n3",
+      "exampleSentence": "この町の魅力は、歴史的な建物です。",
+      "id": "25a90b4a-a0a6-45d7-ada8-ac90625bad79"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "旅行でたくさんの思い出を作りました。",
+      "id": "f04caa19-d95f-44e4-ad53-b70ded13599d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」とは、どのような旅行ですか？",
+      "options": [
+        "一つの島でゆっくり過ごす旅行",
+        "色々な島を移動しながら観光する旅行",
+        "沖縄本島だけを観光する旅行",
+        "飛行機に乗らない旅行"
+      ],
+      "correctIndex": 1,
+      "explanation": "「これは、一つの島から別の島へ移動しながら観光する旅行です。」",
+      "id": "057ff822-67ca-49bf-a97b-66fe1791bb4b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-18-46dffb8a6c",
+  "publishedAt": "2026-07-18T06:00:00+09:00"
+}

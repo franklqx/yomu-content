@@ -1,0 +1,135 @@
+{
+  "title": "高校生プログラマー集まれ！ハッカソンでアイデアを形にしよう",
+  "summary": "高校生プログラマーを対象としたハッカソンが開催されます。このイベントでは、参加者がチームを組んで、短期間で新しいアイデアを形にします。プログラミングスキルを試したい、仲間と協力したい高校生はぜひ参加してみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの高校生がプログラミングに興味を持っています。そこで、そんな高校生たちが集まって、自分のアイデアを形にする「ハッカソン」が開催されることになりました。ハッカソンとは、短期間で集中的にソフトウェアやサービスを開発するイベントのことです。参加者はチームを組み、与えられたテーマや自分で考えたアイデアをもとに、実際に動くものを作り上げます。プログラミングのスキルだけではなく、チームで協力してアイデアをまとめ、発表する力も養うことができます。",
+      "translationZh": "最近，许多高中生对编程产生了兴趣。因此，一个名为“黑客马拉松”的活动将举办，让这些高中生聚集在一起，将自己的想法变成现实。黑客马拉松是一种在短时间内集中开发软件或服务的活动。参与者组成团队，根据给定的主题或自己想到的想法，制作出实际可用的东西。这不仅可以锻炼编程技能，还能培养团队合作、整理想法和发表的能力。",
+      "translationEn": "Recently, many high school students have become interested in programming. Therefore, a \"hackathon\" will be held, where these high school students can gather and turn their ideas into reality. A hackathon is an event where software or services are developed intensively in a short period. Participants form teams and create something functional based on a given theme or their own ideas. It not only hones programming skills but also cultivates teamwork, idea consolidation, and presentation abilities.",
+      "id": "740cfdfe-d804-4011-a634-b4e8b1ad93d1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このハッカソンでは、特に高校生プログラマーを応援したいと考えています。経験が浅くても、情熱があれば大丈夫です。ベテランのプログラマーやデザイナーがメンターとして参加し、技術的なアドバイスをしたり、アイデアを具体化する手助けをしたりします。だから、プログラミング初心者でも安心して参加できるでしょう。また、様々な学校から集まる仲間たちと交流できるのも、このイベントの魅力の一つです。新しい友達ができたり、将来につながるネットワークができたりするかもしれません。",
+      "translationZh": "这次黑客马拉松特别希望能支持高中生程序员。即使经验不足，只要有热情就没问题。经验丰富的程序员和设计师将作为导师参加，提供技术建议，并帮助将想法具体化。因此，即使是编程初学者也可以安心参加。此外，能够与来自不同学校的同伴交流，也是这个活动的魅力之一。可能会交到新朋友，或者建立对未来有益的人脉。",
+      "translationEn": "This hackathon specifically aims to support high school programmers. Even if you have little experience, passion is enough. Experienced programmers and designers will participate as mentors, offering technical advice and helping to materialize ideas. Therefore, even programming beginners can participate with peace of mind. Also, interacting with peers from various schools is one of the attractions of this event. You might make new friends or build a network that could lead to future opportunities.",
+      "id": "2ff9647e-4409-49ce-8104-3af507fedec6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントの参加にあたっては、いくつかの条件があります。まず、高校生であること。そして、プログラミングに興味があることです。特別なスキルがなくても、やる気があれば参加できます。チームは当日発表されることもありますが、事前に友達と組んでくることも可能です。ハッカソン当日は、アイデアソン（アイデアを出し合うこと）から始まり、開発、そして最終発表という流れになります。短期間で集中して取り組むため、大変ですが、達成感は大きいでしょう。将来、IT業界で活躍したいと考えている高校生にとっては、素晴らしい経験になるはずです。",
+      "translationZh": "参加活动有一些条件。首先，必须是高中生。其次，对编程感兴趣。即使没有特殊技能，只要有积极性就可以参加。团队可能会在当天公布，但也可以事先与朋友组队前来。黑客马拉松当天，将从头脑风暴（交流想法）开始，然后是开发，最后是成果发表。由于是短时间内集中攻克，虽然辛苦，但成就感会很大。对于将来想在IT行业有所作为的高中生来说，这应该是一次绝佳的体验。",
+      "translationEn": "There are a few requirements to participate in the event. First, you must be a high school student. Second, you must be interested in programming. You don't need special skills; motivation is sufficient. Teams may be formed on the day, but you can also form a team with friends beforehand. On the day of the hackathon, the process will start with an ideathon (brainstorming ideas), followed by development, and finally, a presentation. Because it involves intensive work in a short period, it will be challenging, but the sense of accomplishment will be immense. For high school students who aspire to work in the IT industry in the future, this should be a wonderful experience.",
+      "id": "eb6d8bfa-04c3-4a4a-a42b-7d2a0e5d27ea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ハッカソン",
+      "reading": "はかとん",
+      "meaningZh": "黑客马拉松（一种短期内集中开发软件或服务的活动）",
+      "meaningEn": "Hackathon (an event where software or services are developed intensively in a short period)",
+      "level": "n3",
+      "exampleSentence": "高校生向けのハッカソンに参加して、新しいサービスを開発しました。",
+      "id": "bd79a7a2-275d-4d95-b0c9-5a2056db2ecb"
+    },
+    {
+      "word": "プログラマー",
+      "reading": "ぷろぐらまー",
+      "meaningZh": "程序员",
+      "meaningEn": "Programmer",
+      "level": "n3",
+      "exampleSentence": "彼は優秀なプログラマーとして知られています。",
+      "id": "4022e4c3-3bef-4e0e-99a0-151e10d2da49"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法，点子",
+      "meaningEn": "Idea",
+      "level": "n5n4",
+      "exampleSentence": "面白いアイデアを思いつきました。",
+      "id": "405dd730-13df-49e5-ad8d-2fca810653da"
+    },
+    {
+      "word": "形にする",
+      "reading": "かたちにする",
+      "meaningZh": "使之成形，实现",
+      "meaningEn": "To give shape to, to realize",
+      "level": "n3",
+      "exampleSentence": "彼の夢は、ついに形になりました。",
+      "id": "dc5d4d7c-fdae-4c20-aec2-5686dae1f079"
+    },
+    {
+      "word": "養う",
+      "reading": "やしなう",
+      "meaningZh": "培养，养育",
+      "meaningEn": "To cultivate, to foster, to nurture",
+      "level": "n3",
+      "exampleSentence": "この経験を通じて、問題解決能力を養うことができます。",
+      "id": "e59ac93a-7847-4c85-ad9e-478fdc5aa838"
+    },
+    {
+      "word": "メンター",
+      "reading": "めんたー",
+      "meaningZh": "导师，顾问",
+      "meaningEn": "Mentor",
+      "level": "n3",
+      "exampleSentence": "経験豊富なメンターからアドバイスをもらいました。",
+      "id": "7157787c-686f-4778-8748-6767bdb6c209"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流，交往",
+      "meaningEn": "Exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "様々な分野の人々と交流する機会があります。",
+      "id": "17de875d-8537-44c9-98f7-6c5504916879"
+    },
+    {
+      "word": "アイデアソン",
+      "reading": "あいであそん",
+      "meaningZh": "构思马拉松（侧重于产生和讨论想法的活动）",
+      "meaningEn": "Ideathon (an event focused on generating and discussing ideas)",
+      "level": "n3",
+      "exampleSentence": "イベントの初めには、アイデアソンで活発な意見交換が行われました。",
+      "id": "22a6a92a-2a69-4907-af00-ae01bf476c77"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このハッカソンは、どのような人を主な対象としていますか？",
+      "options": [
+        "プロのソフトウェア開発者",
+        "IT企業の経営者",
+        "プログラミングに興味のある高校生",
+        "大学のコンピュータサイエンス専攻の学生"
+      ],
+      "correctIndex": 2,
+      "explanation": "文章中に「高校生プログラマーを応援したい」とあり、対象が高校生であることがわかります。",
+      "id": "2f479c1e-a66c-48b1-a351-eab978d12bb6"
+    },
+    {
+      "question": "ハッカソンに参加するメリットとして、本文で述べられていることは何ですか？",
+      "options": [
+        "高度なプログラミング技術を学ぶことができる",
+        "チームで協力してアイデアを形にし、発表する経験ができる",
+        "有名企業のインターンシップに参加できる機会が得られる",
+        "最新のプログラミング言語について専門的な知識を得られる"
+      ],
+      "correctIndex": 1,
+      "explanation": "「プログラミングのスキルだけではなく、チームで協力してアイデアをまとめ、発表する力も養うことができます。」と書かれています。",
+      "id": "1137d0d2-adc4-4ca1-80ca-0234b0f12ba6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-18-22473898ef",
+  "publishedAt": "2026-07-18T06:00:00+09:00"
+}

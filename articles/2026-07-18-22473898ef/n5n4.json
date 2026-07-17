@@ -1,0 +1,131 @@
+{
+  "title": "高校生ハッカソン開催！",
+  "summary": "高校生プログラマーが集まるハッカソンが開催されました。みんなで協力して新しいものを作りました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "これは高校生のためのハッカソンでした。プログラミングが好きな学生が集まりました。新しいアイデアを考えるイベントです。",
+      "translationZh": "这是一个面向高中生的黑客马拉松。喜欢编程的学生们聚集在一起。这是一个构思新想法的活动。",
+      "translationEn": "This was a hackathon for high school students. Students who like programming gathered. It is an event to think of new ideas.",
+      "id": "7b88b876-e3dd-46c3-95c6-8941649b9400",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントでは、チームを作りました。チームのメンバーはみんなで話し合いました。そして、コンピューターでプログラムを作りました。",
+      "translationZh": "在活动中，我们组建了团队。团队成员们一起讨论。然后，他们在电脑上编写了程序。",
+      "translationEn": "During the event, we formed teams. Team members discussed together. Then, they created programs on computers.",
+      "id": "8a618771-3ed1-4b21-84cf-713337037dde",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "短い時間でしたが、とても楽しい時間でした。参加した学生たちは、協力することの大切さを学びました。また、新しい技術もたくさん学びました。",
+      "translationZh": "虽然时间很短，但度过了一段非常愉快的时光。参加的学生们学会了合作的重要性。此外，他们还学到了很多新技术。",
+      "translationEn": "Although it was a short time, it was a very enjoyable time. The participating students learned the importance of cooperation. They also learned many new technologies.",
+      "id": "6ad085fa-bcbc-4aa4-b3a5-7b037d6d4f42",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このハッカソンは成功しました。将来、このイベントから素晴らしいプログラマーがたくさん出るでしょう。",
+      "translationZh": "这次黑客马拉松很成功。将来，一定会有很多优秀的程序员从这次活动中涌现出来。",
+      "translationEn": "This hackathon was a success. In the future, many great programmers will emerge from this event.",
+      "id": "fb2508ab-4c25-4436-8b45-482955f8c976",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生は学校で勉強します。",
+      "id": "ad22a097-92c9-4e91-9545-b43d74ed7481"
+    },
+    {
+      "word": "プログラマー",
+      "reading": "ぷろぐらまー",
+      "meaningZh": "程序员",
+      "meaningEn": "programmer",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なプログラマーです。",
+      "id": "3a4b32f1-c1c0-4d9d-9284-3780f5715bc3"
+    },
+    {
+      "word": "ハッカソン",
+      "reading": "はっかそん",
+      "meaningZh": "黑客马拉松（指一种编程竞赛活动）",
+      "meaningEn": "hackathon",
+      "level": "n5n4",
+      "exampleSentence": "ハッカソンで新しいアプリを作りました。",
+      "id": "7fd5c6f0-30a4-4073-af0d-e57cbb134248"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人がパーティーに集まりました。",
+      "id": "954ace24-751c-46dd-bea6-754c78516195"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアがありましたか？",
+      "id": "512d73e9-67db-475e-9b12-28cc00e6b3f4"
+    },
+    {
+      "word": "チーム",
+      "reading": "ちーむ",
+      "meaningZh": "队伍，团队",
+      "meaningEn": "team",
+      "level": "n5n4",
+      "exampleSentence": "私たちはお互いに助け合いました。",
+      "id": "32c7df70-d6ca-436a-8e09-b0bc0765aa7f"
+    },
+    {
+      "word": "協力する",
+      "reading": "きょうりょくする",
+      "meaningZh": "合作，协作",
+      "meaningEn": "to cooperate",
+      "level": "n5n4",
+      "exampleSentence": "みんなで協力して問題を解決しました。",
+      "id": "9d55d8f8-f122-4748-90bb-8e086f9810c6"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術を学ぶことは大切です。",
+      "id": "cd87b27d-8062-4fed-bc7b-571282dfd610"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このハッカソンは誰のためのものでしたか？",
+      "options": [
+        "大学生",
+        "社会人",
+        "高校生",
+        "小学生"
+      ],
+      "correctIndex": 2,
+      "explanation": "これは高校生のためのハッカソンでした。プログラミングが好きな学生が集まりました。",
+      "id": "2e5460b0-9dbd-4fe6-bab5-0c1e400a270d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-18-22473898ef",
+  "publishedAt": "2026-07-18T06:00:00+09:00"
+}

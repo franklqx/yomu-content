@@ -1,0 +1,131 @@
+{
+  "title": "新しい和菓子、若い人にも",
+  "summary": "和菓子屋さんが新しい和菓子を作りました。若い人にも人気が出そうです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔からある和菓子は、お茶と一緒に食べることが多いです。でも、最近の若い人には、あまり知られていません。そこで、和菓子屋さんは考えました。",
+      "translationZh": "自古以来流传的和菓子，经常搭配茶一起食用。但是，最近的年轻一代不太了解它们。于是，和菓子店老板们开始思考。",
+      "translationEn": "Traditional Japanese sweets, called wagashi, are often eaten with tea. However, many young people nowadays are not familiar with them. So, wagashi shop owners thought about this.",
+      "id": "cb92074c-7703-4f03-8740-962d66da7368",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいデザインの和菓子をたくさん作りました。見た目がきれいなので、写真に撮りたくなります。味も、フルーツを使ったりして、食べやすいものにしました。",
+      "translationZh": "他们制作了许多新设计的和菓子。因为外观很漂亮，让人很想拍照。味道上也使用了水果等，使其更容易入口。",
+      "translationEn": "They made many wagashi with new designs. They look beautiful, so people want to take pictures of them. For the taste, they used fruits and made them easy to eat.",
+      "id": "03171467-4e43-49c1-90ea-a2875df57920",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "SNSで「いいね！」がたくさんきました。若い人たちが「かわいい！」「おいしそう！」とコメントしています。和菓子屋さんは、この新しい和菓子がもっと広がることを期待しています。",
+      "translationZh": "在社交媒体上收到了很多“赞”。年轻人们评论说“好可爱！”、“看起来很好吃！”。和菓子店老板们期待着这款新和菓子能更广泛地传播。",
+      "translationEn": "They received many 'likes' on social media. Young people commented, 'Cute!' and 'Looks delicious!'. The wagashi shop owners hope these new wagashi will spread more.",
+      "id": "2b366374-f50f-47dd-a73f-5b6db6b5eca6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい和菓子は、お土産にもいいかもしれません。友達にプレゼントしたら、きっと喜ばれるでしょう。これからも、色々な和菓子が出てくるのが楽しみです。",
+      "translationZh": "这款新和菓子，也许也很适合作为伴手礼。如果送给朋友，一定会让他们开心的。今后，也很期待能出现各种各样的和菓子。",
+      "translationEn": "These new wagashi might also be good as souvenirs. If you give them as a gift to a friend, they will surely be pleased. I look forward to seeing various wagashi appear in the future.",
+      "id": "ac10a9b4-f6d3-4556-b21f-dba8aee5ddbd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese traditional sweets",
+      "level": "n5n4",
+      "exampleSentence": "この和菓子はとてもきれいです。",
+      "id": "06e10fb6-03c4-4d88-add7-e4b34b52b632"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，技师",
+      "meaningEn": "craftsman, artisan",
+      "level": "n3",
+      "exampleSentence": "彼は有名な和菓子職人です。",
+      "id": "28e1a301-21de-4c42-8200-72935e68ba8f"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻一代",
+      "meaningEn": "young generation",
+      "level": "n3",
+      "exampleSentence": "若年層に人気のあるデザインです。",
+      "id": "2f077c7e-48c6-4274-a991-518f8bb50341"
+    },
+    {
+      "word": "リブランド",
+      "reading": "りぶらんど",
+      "meaningZh": "品牌重塑",
+      "meaningEn": "rebranding",
+      "level": "n3",
+      "exampleSentence": "新しいブランドにリブランドしました。",
+      "id": "21071c87-311b-4d78-ba4c-66125521de2c"
+    },
+    {
+      "word": "デザイン",
+      "reading": "でざいん",
+      "meaningZh": "设计",
+      "meaningEn": "design",
+      "level": "n5n4",
+      "exampleSentence": "この服のデザインが好きです。",
+      "id": "c9ac6e22-032a-4486-8684-25c03317703f"
+    },
+    {
+      "word": "フルーツ",
+      "reading": "ふるーつ",
+      "meaningZh": "水果",
+      "meaningEn": "fruit",
+      "level": "n5n4",
+      "exampleSentence": "朝食にフルーツを食べました。",
+      "id": "cfc0cf97-5fc3-437f-a345-b2d3f6268cf5"
+    },
+    {
+      "word": "SNS",
+      "reading": "えすえぬえす",
+      "meaningZh": "社交媒体",
+      "meaningEn": "Social Networking Service (SNS)",
+      "level": "n5n4",
+      "exampleSentence": "SNSで友達と話します。",
+      "id": "2a07a0c8-2be7-4c0c-8611-58a99ac1b61e"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待",
+      "meaningEn": "expectation, hope",
+      "level": "n3",
+      "exampleSentence": "彼の成功を期待しています。",
+      "id": "a907ba6f-7dc1-4bea-b98b-7b3bdcf14c87"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この和菓子屋さんは、誰のために新しい和菓子を作りましたか。",
+      "options": [
+        "お年寄り",
+        "子供",
+        "若い人",
+        "外国人"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「最近の若い人には、あまり知られていません。そこで、和菓子屋さんは考えました。」と書いてあります。",
+      "id": "f2428b2d-87c0-4a07-969b-8641017b0c40"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-18-87ea6274bb",
+  "publishedAt": "2026-07-18T06:00:00+09:00"
+}
