@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町おこしの力",
+  "summary": "アニメの舞台になった場所を訪れる人が増えています。これは「聖地巡礼」と呼ばれます。聖地巡礼は、町を元気にする力があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、「聖地巡礼」という言葉をよく聞きます。これは、アニメの物語の舞台になった場所をファンが訪れることです。たくさんの人が、好きなアニメの景色を見て、感動しています。",
+      "translationZh": "最近，经常听到“圣地巡礼”这个词。这是指粉丝们去访问动画故事发生地的行为。很多人看到喜欢的动画中的景色，感到很感动。",
+      "translationEn": "Recently, the term 'anime pilgrimage' is heard often. This is when fans visit places that became the setting for anime stories. Many people feel moved by seeing the scenery from their favorite anime.",
+      "id": "57acf5a1-a16a-43de-9b0f-a63a860425b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある町では、アニメに登場した橋や建物が人気になりました。遠くからファンが来て、写真をとったり、お土産を買ったりします。その結果、町の小さなお店も人が集まるようになりました。",
+      "translationZh": "例如，在一个小镇上，动画中出现的桥和建筑变得很受欢迎。来自远方的粉丝会来，拍照、买纪念品。结果，镇上的小商店也开始聚集人气。",
+      "translationEn": "For example, in one town, a bridge and buildings that appeared in an anime became popular. Fans come from far away, take pictures, and buy souvenirs. As a result, small shops in the town also started to attract people.",
+      "id": "cebc6795-9af1-4185-9405-439c821b2dda",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "聖地巡礼は、地方の経済を助けることがあります。アニメのファンがお金を使うことで、町が元気になります。町の人々も、アニメのおかげで新しい仕事が生まれることに期待しています。",
+      "translationZh": "圣地巡礼有时能帮助地方经济。因为动画粉丝花钱，小镇会变得有活力。镇上的人们也期待着因为动画而产生新的工作。",
+      "translationEn": "Anime pilgrimages can sometimes help local economies. As anime fans spend money, towns become more vibrant. People in the towns also expect new jobs to be created thanks to anime.",
+      "id": "fa3bf730-7ff2-4be1-9172-a09b4392c777",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、多くの人が一度に来ると、町が忙しくなりすぎることがあります。ゴミの問題や、静かな生活が守れないことも心配されています。町とファンがお互いを大切にすることが大事です。",
+      "translationZh": "但是，如果很多人一次性涌入，小镇可能会变得过于繁忙。人们也担心垃圾问题和无法维持宁静生活。町和粉丝相互珍惜是很重要的。",
+      "translationEn": "However, if many people visit at once, towns can become too busy. There are also concerns about trash problems and the inability to maintain a peaceful life. It is important for towns and fans to value each other.",
+      "id": "73bb7d2b-c829-454b-92e0-971897363684",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "圣地巡礼（指动漫粉丝为探访动画取景地而进行的旅行）",
+      "meaningEn": "anime pilgrimage (travel by anime fans to visit filming locations)",
+      "level": "n5n4",
+      "exampleSentence": "多くのファンが聖地巡礼をしています。",
+      "id": "e4549d12-eac0-4ff4-9fed-a1f34b4d8ec3"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，场景",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "このアニメの舞台は海の近くの町です。",
+      "id": "e1c5826b-2d22-4a1a-a585-f87e33e4bc2c"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はこの歌手の熱心なファンです。",
+      "id": "0eea81cf-e61f-4a0c-94e1-08c3c2b6806c"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "deeply moved, touched",
+      "level": "n5n4",
+      "exampleSentence": "その映画を見て、とても感動しました。",
+      "id": "b0eee489-29c9-4bac-a70a-d7d5b25c6c18"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaningZh": "登场，出现",
+      "meaningEn": "appearance, entering (the stage)",
+      "level": "n5n4",
+      "exampleSentence": "新しいキャラクターが登場しました。",
+      "id": "75c9e359-1918-4657-95c6-9bc1b362dd4a"
+    },
+    {
+      "word": "結果",
+      "reading": "けっか",
+      "meaningZh": "结果",
+      "meaningEn": "result, outcome",
+      "level": "n5n4",
+      "exampleSentence": "一生懸命勉強した結果、試験に合格しました。",
+      "id": "30b8faed-1deb-46e5-aefe-0e679865efc7"
+    },
+    {
+      "word": "経済",
+      "reading": "けいざい",
+      "meaningZh": "经济",
+      "meaningEn": "economy",
+      "level": "n3",
+      "exampleSentence": "この新しいプロジェクトは町の経済に良い影響を与えます。",
+      "id": "29ff92fa-31ce-4923-8368-448a8d52aacc"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待",
+      "meaningEn": "expectation, hope",
+      "level": "n5n4",
+      "exampleSentence": "将来について、みんな期待を持っています。",
+      "id": "0da1af10-0b8a-46b3-b976-b2e0761b002c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの舞台になった場所を訪れることを何と言いますか？",
+      "options": [
+        "町おこし",
+        "聖地巡礼",
+        "経済活動",
+        "ファン活動"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「アニメの物語の舞台になった場所をファンが訪れること。これは「聖地巡礼」と呼ばれます。」と書いてあります。",
+      "id": "d2209542-3898-471d-8b27-9393b29c67f0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-19-220265558d",
+  "publishedAt": "2026-07-19T06:00:00+09:00"
+}

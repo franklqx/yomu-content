@@ -1,0 +1,135 @@
+{
+  "title": "アニメ聖地巡礼：地域を元気にする新しい旅",
+  "summary": "アニメの舞台となった場所を訪れる「聖地巡礼」が人気を集めています。これにより、地方の経済が活性化されるケースが増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、「聖地巡礼」という言葉をよく耳にするようになりました。これは、人気アニメの舞台となった実際の場所をファンが訪れる旅行のことです。アニメが放送されると、その舞台となった町や景色に多くのファンが集まるようになり、地域がにぎわうことが多くなりました。",
+      "translationZh": "最近，我们经常听到“圣地巡礼”这个词。这是指人气动漫的取景地，粉丝们会去实际的地点进行旅行。动漫播出后，许多粉丝会聚集到其取景地所在的城镇或风景区，使得当地变得热闹起来。",
+      "translationEn": "Recently, the term 'anime pilgrimage' has become frequently heard. This refers to fans visiting the actual locations that served as settings for popular anime. Once an anime is broadcast, many fans gather in the towns and scenic spots that became the settings, often bringing vitality to the region.",
+      "id": "a0574fab-5d96-4fc1-9906-d1f07fe22c53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある地方の小さな町がアニメの重要な舞台になったとしましょう。すると、全国からアニメファンがその町を訪れるようになります。ファンは、アニメに登場した場所で写真を撮ったり、地元の特産品を買ったりします。その結果、宿泊施設や飲食店にもお客さんが増え、地域経済の活性化につながっています。",
+      "translationZh": "例如，假设某个地方的一个小镇成为了动漫的重要舞台。那么，来自全国各地的动漫粉丝就会开始拜访那个小镇。粉丝们会在动漫中出现过的地点拍照留念，或者购买当地的特产。其结果是，旅馆和餐馆的顾客也增加了，从而带动了当地经济的活性化。",
+      "translationEn": "For example, let's say a small town in a certain region becomes an important setting for an anime. Then, anime fans from all over the country start visiting that town. Fans take photos at places that appeared in the anime and buy local specialty products. As a result, the number of customers increases at accommodations and restaurants, leading to the revitalization of the local economy.",
+      "id": "711b731f-d60e-47e8-8935-251bdd6647d0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ただし、聖地巡礼がすべて順調に進むわけではありません。地域によっては、多くの観光客が訪れることで、住民の生活に影響が出たり、ゴミの問題が発生したりすることもあります。そのため、地域とファンがお互いを理解し、協力しながら、より良い関係を築いていくことが大切です。アニメの力で地域を盛り上げるためには、持続可能な取り組みが求められています。",
+      "translationZh": "然而，圣地巡礼并非总是一帆风顺。在某些地区，大量游客的到访可能会影响到当地居民的生活，或者引发垃圾问题。因此，地区和粉丝之间互相理解、共同合作，建立更好的关系是非常重要的。为了利用动漫的力量振兴当地，需要可持续的措施。",
+      "translationEn": "However, anime pilgrimages do not always proceed smoothly. In some regions, the influx of many tourists can affect the lives of residents or cause problems with garbage. Therefore, it is important for the region and fans to understand each other and cooperate to build better relationships. Sustainable initiatives are required to boost local communities with the power of anime.",
+      "id": "73508f36-8eb9-4347-91b0-fce0fa8b07af",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "动漫、电影等的取景地巡游",
+      "meaningEn": "Pilgrimage to sacred sites (locations featured in anime, movies, etc.)",
+      "level": "n3",
+      "exampleSentence": "彼の趣味はアニメの聖地巡礼です。",
+      "id": "44abf126-0dac-4d17-abda-325409e61436"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "（故事、戏剧等的）背景，场景",
+      "meaningEn": "Setting, stage (for a story, play, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "この小説の舞台は江戸時代です。",
+      "id": "86953783-603e-4ffb-916e-09b0f17e0906"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "To gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "多くの人がイベントに集まりました。",
+      "id": "e3760520-cf4a-4f41-bd43-e3d19ee0d2cf"
+    },
+    {
+      "word": "にぎわう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，繁荣",
+      "meaningEn": "To be bustling, to be lively",
+      "level": "n3",
+      "exampleSentence": "お祭りの日は町がにぎわいます。",
+      "id": "b2583937-a274-4f90-88bc-b1d0b3877fd6"
+    },
+    {
+      "word": "特産品",
+      "reading": "とくさんひん",
+      "meaningZh": "特产",
+      "meaningEn": "Local specialty product",
+      "level": "n3",
+      "exampleSentence": "その地域にはおいしい特産品がたくさんあります。",
+      "id": "47815aca-329a-4be5-b280-bb581edef9e1"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，活跃化",
+      "meaningEn": "Revitalization, activation",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が課題です。",
+      "id": "ccb2e80e-ff64-46fe-a2d6-a315c21007ca"
+    },
+    {
+      "word": "住民",
+      "reading": "じゅうみん",
+      "meaningZh": "居民",
+      "meaningEn": "Resident, inhabitant",
+      "level": "n3",
+      "exampleSentence": "住民の意見を聞くことが大切です。",
+      "id": "2861e4c7-9b06-40bd-8214-b017c12c58a9"
+    },
+    {
+      "word": "持続可能",
+      "reading": "じぞくかのう",
+      "meaningZh": "可持续的",
+      "meaningEn": "Sustainable",
+      "level": "n2n1",
+      "exampleSentence": "持続可能な開発を目指しています。",
+      "id": "43198873-822a-4515-a254-c5c0ccecb47d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの聖地巡礼が地方経済に与える影響として、本文で述べられていることは何ですか？",
+      "options": [
+        "アニメファンが訪れることで、宿泊施設や飲食店が潤う。",
+        "聖地巡礼によって、アニメの制作費が増加する。",
+        "地域住民がアニメの舞台になることを嫌がるようになる。",
+        "特産品が売れなくなり、地域経済が衰退する。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「ファンは、アニメに登場した場所で写真を撮ったり、地元の特産品を買ったりします。その結果、宿泊施設や飲食店にもお客さんが増え、地域経済の活性化につながっています。」と書かれています。",
+      "id": "31b69f97-04a3-467f-a6e9-aba7b74d3bd4"
+    },
+    {
+      "question": "聖地巡礼を進める上で、地域とファンが協力して行うべきこととして、本文で強調されている点は何ですか？",
+      "options": [
+        "ファンは地元住民の迷惑を顧みず、自由に観光を楽しむべきだ。",
+        "地域はファンからの要望にすべて応えるべきだ。",
+        "お互いを理解し、協力してより良い関係を築くこと。",
+        "聖地巡礼のルールを厳しくし、ファンを制限すること。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「地域とファンがお互いを理解し、協力しながら、より良い関係を築いていくことが大切です。」と述べられています。",
+      "id": "223d38b8-29b7-4764-8f86-0b1bfa2e5971"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-19-220265558d",
+  "publishedAt": "2026-07-19T06:00:00+09:00"
+}

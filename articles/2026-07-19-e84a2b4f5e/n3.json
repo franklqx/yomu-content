@@ -1,0 +1,135 @@
+{
+  "title": "回転寿司の値上げ、お客さんの心にも影響？",
+  "summary": "最近、多くの回転寿司チェーンが価格を上げましたが、それに伴って客足にも変化が見られるようです。この状況について考えてみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの回転寿司チェーンで商品の値上げが続いています。原材料費や人件費の高騰がその主な理由だと言われています。以前は一皿100円（税抜き）という手軽さが魅力でしたが、今では120円や150円といった価格帯が増え、中には200円を超える皿もあります。",
+      "translationZh": "最近，许多回转寿司连锁店都在持续涨价。主要原因是原材料费和人工费的上涨。以前一盘100日元（不含税）的实惠价格很有吸引力，但现在120日元或150日元的价位越来越多，甚至还有超过200日元的盘子。",
+      "translationEn": "Recently, many conveyor belt sushi chains have been raising their prices. The main reasons cited are the rising costs of raw materials and labor. Previously, the appeal was the affordability of 100 yen (tax excluded) per plate, but now prices of 120 or 150 yen are becoming more common, and some plates even exceed 200 yen.",
+      "id": "9b02db4a-2890-4bd8-ba97-3550dc5bf6fa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "価格が上がったことで、これまで気軽に利用していたお客さんの中には、少し足が遠のいたと感じている人もいるようです。特に、家族連れでたくさんのお皿を食べる場合、以前よりも予算を意識するようになるでしょう。その一方で、品質が良くなったと感じるお客さんもいるため、一概に客足が減ったとは言えない状況です。",
+      "translationZh": "由于价格上涨，一些以前经常光顾的顾客似乎觉得不太常来了。特别是家庭聚餐吃很多盘子的时候，大家会比以前更在意预算。另一方面，也有顾客认为品质有所提高，所以不能一概而论地说客流量减少了。",
+      "translationEn": "With the price increase, some customers who used to visit casually seem to feel they are coming less often. Especially when a family eats many plates, they will likely be more budget-conscious than before. On the other hand, some customers feel the quality has improved, so it's not a situation where we can say customer traffic has definitively decreased.",
+      "id": "10bdaf90-b19a-424c-b2fc-988a6dafa3aa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "回転寿司チェーン側も、ただ値上げするだけでなく、新しいメニューを開発したり、特別なキャンペーンを実施したりして、お客さんを呼び込もうとしています。例えば、期間限定の高級ネタを提供したり、アプリ会員限定の割引を行ったりするなどの工夫が見られます。これらの努力が、今後のお客さんの回転にどう影響していくか注目されます。",
+      "translationZh": "回转寿司连锁店方面，也不仅仅是涨价，还在开发新菜单、实施特别活动来吸引顾客。例如，可以见到提供限时的高级食材，或者针对App会员进行折扣等措施。这些努力今后将如何影响顾客流量，值得关注。",
+      "translationEn": "Conveyor belt sushi chains are not just raising prices; they are also developing new menus and running special campaigns to attract customers. For instance, efforts such as offering premium ingredients for a limited time or providing discounts exclusively for app members can be seen. It will be interesting to see how these efforts will affect customer traffic in the future.",
+      "id": "72a9b72a-02a2-480b-b163-5d26bac16d91",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n3",
+      "exampleSentence": "多くの商品が値上げされた。",
+      "id": "d270fdfa-30c4-48e8-ba71-6ffa85ac1489"
+    },
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "（价格等）飞涨",
+      "meaningEn": "soaring (prices, etc.)",
+      "level": "n3",
+      "exampleSentence": "原材料費の高騰が続いている。",
+      "id": "95664003-77d1-4b2c-ac84-553a0d915496"
+    },
+    {
+      "word": "手軽さ",
+      "reading": "てがるさ",
+      "meaningZh": "方便，轻易，简单",
+      "meaningEn": "ease, simplicity, affordability",
+      "level": "n3",
+      "exampleSentence": "この料理は手軽に作れるのが良い。",
+      "id": "93539896-07b8-41cd-90ad-7f8941865142"
+    },
+    {
+      "word": "足が遠のく",
+      "reading": "あしがとおのく",
+      "meaningZh": "（去某地）次数减少，不常去了",
+      "meaningEn": "to visit less often, to stop frequenting a place",
+      "level": "n3",
+      "exampleSentence": "値段が高くなってから、その店には足が遠のいた。",
+      "id": "9a6c1599-8ae3-4149-b147-0bc104804d9a"
+    },
+    {
+      "word": "家族連れ",
+      "reading": "かぞぞれ",
+      "meaningZh": "一家人一同（出行）",
+      "meaningEn": "family outing, people with children",
+      "level": "n3",
+      "exampleSentence": "週末は家族連れで賑わっていた。",
+      "id": "30a8a59b-3084-4e1d-a969-0e1119207ba4"
+    },
+    {
+      "word": "一概に",
+      "reading": "いちがいに",
+      "meaningZh": "一概地，笼统地",
+      "meaningEn": "unconditionally, sweeping, generally",
+      "level": "n3",
+      "exampleSentence": "この問題を一概に良いとも悪いとも言えない。",
+      "id": "50dde255-7e42-49fa-a6ba-9ed2b19e5dfe"
+    },
+    {
+      "word": "キャンペーン",
+      "reading": "きゃんぺーん",
+      "meaningZh": "活动，宣传活动",
+      "meaningEn": "campaign, promotion",
+      "level": "n5n4",
+      "exampleSentence": "期間限定のキャンペーンを実施中です。",
+      "id": "c8b4f0d1-d460-4c4b-88ee-6f113d29d508"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，谋划，创意",
+      "meaningEn": "device, scheme, ingenuity",
+      "level": "n3",
+      "exampleSentence": "どうすればもっと売れるか、工夫を凝らした。",
+      "id": "bc750df7-fa35-4854-900b-2a784c6674b4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司チェーンが値上げする主な理由は何ですか？",
+      "options": [
+        "もっと高級にするため",
+        "お客さんがたくさん来るので",
+        "原材料費や人件費の高騰のため",
+        "新しい店舗を建てるため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「原材料費や人件費の高騰がその主な理由だと言われています」と書かれています。",
+      "id": "f9b56ffa-3dd2-4571-aa6c-0cc9e46989e9"
+    },
+    {
+      "question": "値上げ後、お客さんの反応について、筆者はどのように述べていますか？",
+      "options": [
+        "全員がお客さんは来なくなったと言っている",
+        "品質が良くなったと感じる人もいる",
+        "値上げに不満で誰も来なくなった",
+        "値段を気にせず以前より多く来るようになった"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「その一方で、品質が良くなったと感じるお客さんもいるため、一概に客足が減ったとは言えない状況です」とあります。",
+      "id": "4ae391c9-a628-4328-9f51-a734d802866b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-19-e84a2b4f5e",
+  "publishedAt": "2026-07-19T06:00:00+09:00"
+}

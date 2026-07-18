@@ -1,0 +1,122 @@
+{
+  "title": "新しい文房具で気分転換！",
+  "summary": "新しい学期が始まりますね。新しい文房具を揃えて、学校生活を楽しくしましょう。最近の文房具トレンドを紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ新しい学期が始まります。学校に行くのが楽しみですね。特に、新しい文房具はわくわくします。ペンやノート、ファイルなど、いろいろな種類があります。",
+      "translationZh": "很快新学期就要开始了。去学校令人期待呢。特别是新的文具，让人很兴奋。有笔、笔记本、文件夹等等各种各样的种类。",
+      "translationEn": "The new school term will start soon. Going to school is exciting, isn't it? New stationery, in particular, is thrilling. There are various types such as pens, notebooks, and files.",
+      "id": "c2f2dc60-4c72-4ce9-86d9-8150cabb8a74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、人気があるのは、かわいいデザインのペンケースです。キャラクターものや、シンプルなものまで、たくさん種類があります。友達と色違いで持つと楽しいかもしれません。",
+      "translationZh": "最近受欢迎的是，有着可爱设计的笔袋。有卡通人物的，也有简约风格的，种类非常多。和朋友一人一个颜色分开用，可能会很有趣。",
+      "translationEn": "Recently, cute design pencil cases are popular. There are many kinds, from character goods to simple ones. It might be fun to have different colors with your friends.",
+      "id": "55831e39-7b3b-4b0a-a21e-7f90ee25fd20",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ノートも進化しています。書きやすい紙を使っているノートや、好きな色を選べるノートがあります。勉強がもっと楽しくなりそうですね。いろいろなノートを見てみましょう。",
+      "translationZh": "笔记本也在进步。有使用容易书写的纸张的笔记本，也有可以自由选择颜色的笔记本。学习好像会变得更有趣呢。让我们来看看各种各样的笔记本吧。",
+      "translationEn": "Notebooks are also evolving. There are notebooks that use paper that is easy to write on, and notebooks where you can choose your favorite color. Studying seems like it will become more enjoyable. Let's look at various notebooks.",
+      "id": "01b7f79c-51b8-437d-8893-6bed26b58a5b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい文房具で、新しい学期を気持ちよくスタートしましょう。お気に入りの文房具を見つけて、学校生活をさらに楽しんでください。",
+      "translationZh": "用新的文具，愉快地开始新学期吧。找到自己喜欢的文具，请更加享受学校生活。",
+      "translationEn": "Let's start the new school term pleasantly with new stationery. Find your favorite stationery and enjoy your school life even more.",
+      "id": "79ece391-254d-49da-b3fc-06fbab813f55",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文房具",
+      "reading": "ぶんぼGoods",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いました。",
+      "id": "ffc4e03a-77ca-4ac3-bf05-273797298f28"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaningZh": "学期",
+      "meaningEn": "school term",
+      "level": "n5n4",
+      "exampleSentence": "二学期が始まります。",
+      "id": "ea7a52ef-4cf8-4ac4-8ab0-928717ee2dbe"
+    },
+    {
+      "word": "気分転換",
+      "reading": "きぶんてんかん",
+      "meaningZh": "转换心情",
+      "meaningEn": "change of pace, refreshment",
+      "level": "n5n4",
+      "exampleSentence": "休みの日は気分転換をします。",
+      "id": "9607f3cc-9566-48c8-93ac-db5fb1b4b099"
+    },
+    {
+      "word": "わくわく",
+      "reading": "わくわく",
+      "meaningZh": "兴奋，激动（象声词）",
+      "meaningEn": "exciting, thrilling (onomatopoeia)",
+      "level": "n5n4",
+      "exampleSentence": "旅行に行くのがわくわくします。",
+      "id": "72b379bb-b8ce-40f4-831d-ab3714266dba"
+    },
+    {
+      "word": "ペンケース",
+      "reading": "ぺんけーす",
+      "meaningZh": "笔袋，铅笔盒",
+      "meaningEn": "pencil case",
+      "level": "n5n4",
+      "exampleSentence": "かわいいペンケースが欲しいです。",
+      "id": "a851cb7e-fc01-4df4-b304-52b2361033f6"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化，进步",
+      "meaningEn": "evolution, progress",
+      "level": "n3",
+      "exampleSentence": "この技術は急速に進化しました。",
+      "id": "df29fcd4-58d8-4031-8554-c0e4c61f29f3"
+    },
+    {
+      "word": "お気に入り",
+      "reading": "おきにいり",
+      "meaningZh": "最喜欢的，心爱的",
+      "meaningEn": "favorite",
+      "level": "n5n4",
+      "exampleSentence": "これが私のお気に入りの本です。",
+      "id": "a276603e-2372-430a-9655-51c98d816d4a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい学期に向けて、どんな文房具が人気ですか。",
+      "options": [
+        "キャラクターのノート",
+        "かわいいデザインのペンケース",
+        "書きやすい鉛筆",
+        "カラフルな消しゴム"
+      ],
+      "correctIndex": 1,
+      "explanation": "最近、人気があるのは、かわいいデザインのペンケースです。",
+      "id": "b5334114-8d3a-4bba-9cff-ee686ee185b5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-19-6abb825666",
+  "publishedAt": "2026-07-19T06:00:00+09:00"
+}

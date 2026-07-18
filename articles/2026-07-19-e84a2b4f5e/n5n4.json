@@ -1,0 +1,114 @@
+{
+  "title": "お寿司の値上げ、どうする？",
+  "summary": "最近、回転寿司の値段が上がりました。お客さんはどう思っているでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気のある回転寿司チェーンで値段が上がりました。これまで１００円で食べられたお寿司が、１２０円や１５０円になりました。たくさんの人が利用していたので、驚いた人も多いでしょう。",
+      "translationZh": "最近，很受欢迎的回转寿司连锁店涨价了。以前100日元就能吃到的寿司，现在变成了120日元或150日元。因为很多人光顾，所以很多人都感到惊讶。",
+      "translationEn": "Recently, popular conveyor belt sushi chains have raised their prices. Sushi that used to cost 100 yen now costs 120 or 150 yen. Many people who used to visit are likely surprised.",
+      "id": "4e471b8b-ecbc-40e7-9985-71e20cb34cc1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったので、お客さんの数も少し減ったようです。前はいつも混んでいましたが、今は少し空いている時間もあります。でも、お寿司はやっぱり美味しいので、来るのをやめない人もたくさんいます。",
+      "translationZh": "因为价格上涨了，顾客数量似乎也减少了一些。以前总是很拥挤，但现在也有一些时间比较空。不过，寿司毕竟还是美味的，所以很多人并没有停止光顾。",
+      "translationEn": "Because the prices went up, the number of customers seems to have decreased a little. It used to be always crowded, but now there are times when it's a bit empty. However, sushi is still delicious, so many people are still coming.",
+      "id": "9f490c58-8d21-4b15-b2d0-f4c6025c7126",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店は、材料費などが上がったために、値段を上げざるを得なかったと言っています。これからも、お寿司を安く楽しむのは少し難しくなるかもしれませんね。",
+      "translationZh": "店家表示，因为食材费等上涨，不得不提高价格。今后，可能还是会稍微有点难享受到便宜的寿司了。",
+      "translationEn": "The restaurants say they had no choice but to raise prices because costs like ingredients have gone up. It might become a little harder to enjoy sushi cheaply from now on.",
+      "id": "f444851d-d7e4-4c2e-8447-52532574ce39",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "週末は回転寿司に行きました。",
+      "id": "1c93c591-ca57-4037-ac8d-3d7f67dc98bc"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "789974c5-9bad-42d4-801c-0c24db711dda"
+    },
+    {
+      "word": "上がる",
+      "reading": "あがる",
+      "meaningZh": "上涨，升高",
+      "meaningEn": "to go up, to rise",
+      "level": "n5n4",
+      "exampleSentence": "電気代が上がりました。",
+      "id": "69aaad40-8c1a-4f9a-a778-1dee38904e8a"
+    },
+    {
+      "word": "お客さん",
+      "reading": "おきゃくさん",
+      "meaningZh": "客人，顾客",
+      "meaningEn": "customer",
+      "level": "n5n4",
+      "exampleSentence": "たくさんのお客さんが店に来ました。",
+      "id": "14476cb5-8f10-40d6-b1fa-c91f4826998c"
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "meaningZh": "减少",
+      "meaningEn": "to decrease, to reduce",
+      "level": "n5n4",
+      "exampleSentence": "生徒の数が減っています。",
+      "id": "62cfea4c-ddb0-427d-8786-79515754131c"
+    },
+    {
+      "word": "材料費",
+      "reading": "ざいりょうひ",
+      "meaningZh": "材料费",
+      "meaningEn": "cost of materials",
+      "level": "n3",
+      "exampleSentence": "材料費が高くなったので、料理の値段も上げました。",
+      "id": "6ef52e10-ac90-4c9d-94ec-ffee69708421"
+    },
+    {
+      "word": "〜ざるを得ない",
+      "reading": "〜ざるをえない",
+      "meaningZh": "不得不...",
+      "meaningEn": "cannot help but do, have no choice but to do",
+      "level": "n3",
+      "exampleSentence": "忙しいので、残業せざるを得ませんでした。",
+      "id": "803c32d4-2d7b-41b5-8895-af4665656348"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司の値段が上がった主な理由は何ですか？",
+      "options": [
+        "お客さんが減ったから",
+        "材料費が上がったから",
+        "お店がもっと儲けたいから",
+        "美味しいお寿司がなくなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「材料費などが上がったために、値段を上げざるを得なかったと言っています」と書いてあります。",
+      "id": "8bbdd84f-79c2-450d-9020-ab247ebd8739"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-19-e84a2b4f5e",
+  "publishedAt": "2026-07-19T06:00:00+09:00"
+}
