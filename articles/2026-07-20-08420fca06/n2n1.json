@@ -1,0 +1,138 @@
+{
+  "title": "学生街の救世主？ボリューム満点定食店が人気",
+  "summary": "学生街に、驚くほどのボリュームで提供される定食が人気を集めている。手頃な価格と満腹感は、学生たちの経済的・食生活を支える存在となっているようだ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都内某所の学生街において、近年、ボリューム満点の定食を提供する飲食店が学生を中心に絶大な支持を得ているとのことだ。これらの店では、一般的な定食の倍はあろうかというほどの量のご飯やおかずが提供され、その価格も学生の懐事情に配慮されたものとなっている。これにより、多くの学生が日々の食費を抑えつつ、満腹感を得ることができているという。",
+      "translationZh": "据报道，在东京某处的学生街，近年来，提供分量十足的定食的餐馆在学生群体中获得了巨大的支持。这些店提供的米饭和菜肴量是普通定食的两倍，价格也考虑到学生的经济状况。因此，许多学生在日常节省伙食费的同时，也能获得饱腹感。",
+      "translationEn": "In a certain student district in Tokyo, restaurants offering generous portions of set meals have recently been gaining immense popularity, especially among students. These establishments serve meals with rice and side dishes that appear to be double the usual quantity, at prices considerate of students' financial situations. This allows many students to save on daily food expenses while still achieving a feeling of fullness.",
+      "id": "69074fcb-82c5-4c7e-a119-e63e25526169",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした店舗の繁盛は、単に安価で量が多いというだけでなく、地域経済の活性化にも寄与していると見られる。学生は地域における重要な消費層であり、彼らの支持を集める店が増えることは、周辺の商店街にとっても好影響をもたらす可能性がある。また、こうした「大盛り」文化は、食欲旺盛な若者たちのニーズに応える形で、都市部だけでなく地方の学生街にも広がりを見せている。",
+      "translationZh": "这些店铺的繁荣，不仅在于价格实惠、分量足，也被认为有助于促进区域经济的活跃。学生是区域内重要的消费群体，增加吸引他们支持的店铺数量，也可能给周边的商业街带来积极影响。此外，这种“大份量”文化，作为满足食欲旺盛的年轻人的需求的一种形式，不仅在城市地区，也在地方的学生街蔓延开来。",
+      "translationEn": "The prosperity of these eateries is seen not only as being inexpensive and large in portion size but also as contributing to the revitalization of the local economy. Students represent a significant consumer base in their communities, and an increase in establishments attracting their patronage could potentially bring positive effects to surrounding shopping streets. Furthermore, this 'large portion' culture, catering to the appetites of young people, is spreading not only in urban areas but also in student districts in regional areas.",
+      "id": "51fcf8ac-2130-47f1-8eac-0488ad6943ae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、健康志向の高まりや食の多様化といった現代的な食のトレンドとは一線を画す側面も指摘されている。しかしながら、卒業後もその味とボリュームを懐かしく語る卒業生も少なくないことから、学生時代の食生活における「思い出」や「満足感」といった、価格や健康面だけでは測れない価値を提供していることは間違いないだろう。",
+      "translationZh": "另一方面，也有人指出，这与日益增长的健康意识和饮食多样化的现代饮食趋势有所不同。然而，不少毕业生在毕业后仍会怀念其美味与分量，这无疑表明这些店铺提供了在价格和健康方面之外，无法衡量的价值，即学生时代饮食生活中的“回忆”和“满足感”。",
+      "translationEn": "On the other hand, it is also pointed out that this trend stands apart from contemporary food trends such as the rise of health consciousness and the diversification of diets. However, given that many alumni fondly recall the taste and generous portions long after graduation, it is undeniable that these establishments offer value that cannot be measured solely by price or health considerations, such as 'memories' and 'satisfaction' within their student-life diets.",
+      "id": "8c4727be-575e-4e09-a72f-8e7599c755fe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "絶大",
+      "reading": "ぜつだい",
+      "meaningZh": "极大的，压倒性的",
+      "meaningEn": "immense, overwhelming",
+      "level": "n2n1",
+      "exampleSentence": "彼の人気は絶大だ。",
+      "id": "4a7b1655-10f8-41a7-8c17-0d69f19b9c0b"
+    },
+    {
+      "word": "懐事情",
+      "reading": "かいじじょう",
+      "meaningZh": "经济状况，经济能力",
+      "meaningEn": "financial situation, economic capacity",
+      "level": "n2n1",
+      "exampleSentence": "学生は懐事情が厳しい。",
+      "id": "20c21cac-26ef-44f9-8ee1-88ea85406784"
+    },
+    {
+      "word": "繁盛",
+      "reading": "はんじょう",
+      "meaningZh": "兴隆，生意兴旺",
+      "meaningEn": "prosperity, thriving business",
+      "level": "n3",
+      "exampleSentence": "この店はいつも繁盛している。",
+      "id": "bd2f33c2-525a-42ec-b655-a80c955e09ad"
+    },
+    {
+      "word": "寄与",
+      "reading": "きよ",
+      "meaningZh": "贡献，起作用",
+      "meaningEn": "contribution, helping",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の発展に寄与する。",
+      "id": "4485364d-d84d-43c3-91eb-43fd880320fb"
+    },
+    {
+      "word": "食欲旺盛",
+      "reading": "しょくよくおうせい",
+      "meaningZh": "食欲旺盛",
+      "meaningEn": "having a hearty appetite",
+      "level": "n3",
+      "exampleSentence": "彼は食欲旺盛で、たくさん食べる。",
+      "id": "355c4317-a8b7-4dd4-b1d6-3df338c4aee1"
+    },
+    {
+      "word": "一線を画す",
+      "reading": "いっせんをかくす",
+      "meaningZh": "划清界限，区别对待",
+      "meaningEn": "to draw a line, to distinguish oneself",
+      "level": "n2n1",
+      "exampleSentence": "彼の考え方は、他の人とは一線を画す。",
+      "id": "d8224076-76e6-4aba-b847-20a1455f6755"
+    },
+    {
+      "word": "測る",
+      "reading": "はかる",
+      "meaningZh": "测量，衡量",
+      "meaningEn": "to measure, to gauge",
+      "level": "n3",
+      "exampleSentence": "この成果をどのように測るべきか。",
+      "id": "5b73d471-d568-404c-b3d6-d99e748304df"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学生街で人気の大盛り定食店が支持されている主な理由は何ですか？",
+      "options": [
+        "高級食材を使用しているから",
+        "伝統的な日本食を提供しているから",
+        "安価でボリュームがあるから",
+        "静かで落ち着いた雰囲気だから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中に「これらの店では、一般的な定食の倍はあろうかというほどの量のご飯やおかずが提供され、その価格も学生の懐事情に配慮されたものとなっている。」とあり、安価でボリュームがあることが支持される理由として挙げられている。",
+      "id": "67d3761e-471d-482c-b06b-12913d0f3049"
+    },
+    {
+      "question": "こうした定食店の繁盛は、地域経済にどのような影響を与える可能性がありますか？",
+      "options": [
+        "地域経済の停滞を招く",
+        "周辺の商店街の活性化に寄与する",
+        "食料品の価格高騰を引き起こす",
+        "学生の消費意欲を低下させる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「地域経済の活性化にも寄与していると見られる。学生は地域における重要な消費層であり、彼らの支持を集める店が増えることは、周辺の商店街にとっても好影響をもたらす可能性がある。」と記載されている。",
+      "id": "02a84379-0f62-4009-a5f7-f51679dca94b"
+    },
+    {
+      "question": "現代の食のトレンドとは一線を画すという指摘がある一方で、これらの店が提供している価値は何だと述べられていますか？",
+      "options": [
+        "最新の健康食品の提供",
+        "学生時代の思い出と満足感",
+        "国際的な料理の多様性",
+        "短期的なダイエット効果"
+      ],
+      "correctIndex": 1,
+      "explanation": "「しかしながら、卒業後もその味とボリュームを懐かしく語る卒業生も少なくないことから、学生時代の食生活における「思い出」や「満足感」といった、価格や健康面だけでは測れない価値を提供していることは間違いないだろう。」という部分から、学生時代の思い出や満足感が価値であるとわかる。",
+      "id": "a95c1159-c371-4694-a573-e509a58db24f"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-20-08420fca06",
+  "publishedAt": "2026-07-20T06:00:00+09:00"
+}

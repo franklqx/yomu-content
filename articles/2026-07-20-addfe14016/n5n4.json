@@ -1,0 +1,122 @@
+{
+  "title": "東北に新しい道",
+  "summary": "東北地方で自転車の道が作られています。観光客が楽しみにしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東北地方は、とても美しい場所です。山や海がきれいです。最近、自転車で旅行する人が増えています。",
+      "translationZh": "东北地方是非常美丽的地方。山和海都很漂亮。最近，骑自行车旅行的人增加了。",
+      "translationEn": "The Tohoku region is a very beautiful place. The mountains and the sea are beautiful. Recently, more and more people are traveling by bicycle.",
+      "id": "2dfeb690-48db-4181-abd5-06c4ca7751bb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そのため、東北では自転車が通りやすい道を作っています。この道は「サイクリングロード」と呼ばれます。海や山を見ながら走ることができます。",
+      "translationZh": "因此，东北正在修建容易骑自行车的道路。这条路被称为“自行车道”。可以一边看着海和山一边骑行。",
+      "translationEn": "Therefore, Tohoku is building roads that are easy to cycle on. These roads are called 'cycling roads'. You can ride while looking at the sea and mountains.",
+      "id": "4362ccbb-ab20-44f1-bdf9-9d6e4bedbcb6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい道は、たくさんの人が東北に来るのを助けます。旅行者はおいしい食べ物を食べたり、きれいな景色を見たりできます。",
+      "translationZh": "这条新路将帮助更多人来到东北。游客可以品尝美味的食物，欣赏美丽的风景。",
+      "translationEn": "These new roads will help many people come to Tohoku. Tourists can eat delicious food and see beautiful scenery.",
+      "id": "f80f792b-d62b-4a51-a863-c1901e29e800",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このプロジェクトはまだ進んでいます。これからも、もっと良い道ができるでしょう。東北の旅行がもっと楽しくなります。",
+      "translationZh": "这个项目仍在进行中。今后，还会建成更好的道路。东北的旅行将变得更加愉快。",
+      "translationEn": "This project is still ongoing. Better roads will be built in the future. Traveling in Tohoku will become more enjoyable.",
+      "id": "4ebc8ee9-f5df-41c6-bb16-4992e6c6e241",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地区，地方",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "ここは私の住んでいる地方です。",
+      "id": "ea0ce1ce-4337-4b4f-94e8-a93b1a51da34"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "maintenance,整備",
+      "level": "n5n4",
+      "exampleSentence": "道路の整備が進んでいます。",
+      "id": "2fe9eb93-3f8e-44b5-89a7-70f2fa22a22a"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaningZh": "自行车",
+      "meaningEn": "bicycle",
+      "level": "n5n4",
+      "exampleSentence": "私は自転車で学校に行きます。",
+      "id": "662ed7ee-0f49-43d4-b993-6840f00b3f58"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "观光客，游客",
+      "meaningEn": "tourist",
+      "level": "n5n4",
+      "exampleSentence": "この町にはたくさんの観光客が来ます。",
+      "id": "03faf814-cc03-413f-951a-970153b78720"
+    },
+    {
+      "word": "道",
+      "reading": "みち",
+      "meaningZh": "道路，路",
+      "meaningEn": "road, path",
+      "level": "n5n4",
+      "exampleSentence": "この道はどこへ行きますか。",
+      "id": "9abf5053-bf47-4a6c-befa-03868c107565"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "最近、外国人が増えています。",
+      "id": "e73b9e95-e6f5-454b-8706-f05c559af9e1"
+    },
+    {
+      "word": "助ける",
+      "reading": "たすける",
+      "meaningZh": "帮助",
+      "meaningEn": "to help, to save",
+      "level": "n5n4",
+      "exampleSentence": "困っている人を助けました。",
+      "id": "a86230ed-3b7c-4e58-b3c3-682da89b5c20"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北で新しく作られている道は何ですか？",
+      "options": [
+        "おいしい食べ物の道",
+        "サイクリングロード",
+        "山へ行く道",
+        "海への道"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「この道は『サイクリングロード』と呼ばれます。」と書いてあります。",
+      "id": "7b618d2b-7e68-446e-84aa-ac510e399100"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-20-addfe14016",
+  "publishedAt": "2026-07-20T06:00:00+09:00"
+}

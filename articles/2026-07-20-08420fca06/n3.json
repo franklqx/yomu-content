@@ -1,0 +1,126 @@
+{
+  "title": "学生街で大人気！コスパ最強のボリューム定食店",
+  "summary": "学生街で、安くてボリューム満点の定食が食べられると評判のお店があります。毎日多くの学生で賑わっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学の近くにある「満腹食堂」は、学生さんたちに大人気の定食屋さんです。ここのお店は、なんといってもボリュームがすごいことで有名で、お腹いっぱい食べたい学生さんがいつもたくさん集まっています。メニューも豊富で、毎日来ても飽きないのが嬉しいところです。特に、唐揚げ定食や生姜焼き定食は、ご飯がすすむと評判です。",
+      "translationZh": "大学附近有一家叫做“满腹食堂”的定食店，深受学生们的欢迎。这家店以其超大的份量而闻名，总是有很多想吃饱饱的学生聚集在这里。菜单也很丰富，每天来都不会觉得腻，这一点很令人开心。特别是炸鸡定食和姜汁烧肉定食，据说非常下饭。",
+      "translationEn": "Near the university, 'Manpuku Shokudo' is a very popular set meal restaurant among students. This place is famous for its incredibly large portions, and it always attracts many students who want to eat until they are full. The menu is also extensive, making it enjoyable to visit every day without getting bored. In particular, the fried chicken set meal and the ginger pork set meal are said to be excellent with rice.",
+      "id": "72c31370-de56-4ce8-b910-b584b164b57b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店が学生さんに支持される理由は、味もさることながら、値段も手頃だからです。学生さんにとって、毎日外食するのは経済的に大変なこともありますが、ここではリーズナブルな価格で満足できる量のお食事ができます。そのため、テスト期間中や、友達と集まって食事をする際にも、よく利用されているようです。お店の人の温かい対応も、学生さんたちがリラックスできる理由の一つでしょう。",
+      "translationZh": "这家店受到学生们支持的原因，除了味道好之外，价格也很实惠。对学生来说，每天在外吃饭在经济上可能有些困难，但在那里，他们可以用合理的价格吃到满足份量的餐点。因此，在考试期间或与朋友聚餐时，这里也经常被光顾。店员们亲切热情的态度，或许也是学生们能够放松心情的原因之一。",
+      "translationEn": "The reason this restaurant is supported by students is not only its taste but also its affordable prices. For students, eating out every day can be economically challenging, but here they can enjoy a satisfying meal in terms of quantity at a reasonable price. Therefore, it seems to be frequently used during exam periods or when meeting friends for meals. The warm hospitality of the staff might also be one of the reasons students can relax.",
+      "id": "92492d2f-5cd3-41c2-94f7-964d87fce491",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「満腹食堂」では、日替わり定食も人気があります。その日の仕入れによって内容が変わるため、いつ来ても新しい発見があるのが魅力です。例えば、ある日は魚の塩焼き、またある日は野菜炒めといった具合です。ご飯のおかわりが無料であることも、学生さんにとっては大変ありがたいサービスです。みんなでワイワイ言いながら食事を楽しめる、そんな温かい雰囲気のお店です。",
+      "translationZh": "在“满腹食堂”，每日更换的特选定食也很受欢迎。因为每天的内容会根据当天的进货情况而变化，所以每次来都能有新的发现，这一点很有魅力。例如，有时是烤鱼，有时是炒蔬菜。米饭可以免费续加，这对学生来说也是一项非常感激的服务。这是一家大家可以一边热闹地聊天，一边享受美食的，充满温馨气氛的店。",
+      "translationEn": "'Manpuku Shokudo' also offers a popular daily special set meal. Since the contents change depending on the day's procurement, the appeal lies in having new discoveries every time you visit. For example, one day it might be grilled fish, and another day it might be stir-fried vegetables. The free refills of rice are also a much-appreciated service for students. It's a restaurant with a warm atmosphere where everyone can enjoy their meal while chatting cheerfully.",
+      "id": "35e2f140-b05a-4cc0-bde7-4070b7417973",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "配有主菜、米饭、味噌汤等的套餐",
+      "meaningEn": "set meal (usually including a main dish, rice, and miso soup)",
+      "level": "n5n4",
+      "exampleSentence": "今日のランチは和風の定食にしました。",
+      "id": "a6cb53d6-358f-4002-86e6-b06bca889a14"
+    },
+    {
+      "word": "ボリューム",
+      "reading": "ぼりゅーむ",
+      "meaningZh": "量，份量（尤指食物）",
+      "meaningEn": "volume, portion size (especially for food)",
+      "level": "n3",
+      "exampleSentence": "この店のパスタはボリュームがあって満足です。",
+      "id": "5ad1c5ee-c532-4faf-a47e-aa0c00087b33"
+    },
+    {
+      "word": "コスパ",
+      "reading": "こすぱ",
+      "meaningZh": "性价比 (cost performance)",
+      "meaningEn": "cost performance, value for money",
+      "level": "n3",
+      "exampleSentence": "このお店はコスパがとても良いと評判です。",
+      "id": "d84b5e7b-07a4-4cc9-ac88-384f33336e29"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，熙熙攘攘",
+      "meaningEn": "to be crowded, bustling",
+      "level": "n3",
+      "exampleSentence": "週末の商店街はいつも賑わっています。",
+      "id": "684eab63-4200-4867-9b95-4be1b3f16bbb"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格适中，实惠",
+      "meaningEn": "affordable, reasonable (price)",
+      "level": "n3",
+      "exampleSentence": "手頃な価格で美味しいコーヒーが飲めるカフェです。",
+      "id": "7e599dd4-6584-4fa6-90c1-d63e741d52f2"
+    },
+    {
+      "word": "支持される",
+      "reading": "しじされる",
+      "meaningZh": "被支持，被拥护",
+      "meaningEn": "to be supported, favored",
+      "level": "n3",
+      "exampleSentence": "その新しいサービスは多くの若者に支持されている。",
+      "id": "88c15ec2-9e6c-4a42-ac38-e48fe97cb32a"
+    },
+    {
+      "word": "仕入れ",
+      "reading": "しいれ",
+      "meaningZh": "进货，采购",
+      "meaningEn": "procurement, purchasing (of goods)",
+      "level": "n3",
+      "exampleSentence": "魚屋さんは毎朝市場から新鮮な魚を仕入れています。",
+      "id": "ad4d2abb-dcce-457f-8f2c-a1e8e5505d2f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「満腹食堂」が学生に人気がある主な理由は何ですか？",
+      "options": [
+        "静かで勉強しやすいから",
+        "メニューが毎日変わるから",
+        "安くて量が多いから",
+        "駅に近いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「このお店が学生さんに支持される理由は、味もさることながら、値段も手頃だからです。」「ここのお店は、なんといってもボリュームがすごいことで有名で、お腹いっぱい食べたい学生さんがいつもたくさん集まっています。」",
+      "id": "4b6142b1-a9ca-4bee-9bf3-83594c3a0edb"
+    },
+    {
+      "question": "「日替わり定食」の魅力は何ですか？",
+      "options": [
+        "いつも同じメニューで安心できる",
+        "値段が一番安い",
+        "その日の仕入れによって内容が変わるので、新しい発見がある",
+        "量が少ないのでヘルシー"
+      ],
+      "correctIndex": 2,
+      "explanation": "「『満腹食堂』では、日替わり定食も人気があります。その日の仕入れによって内容が変わるため、いつ来ても新しい発見があるのが魅力です。」",
+      "id": "187131cc-1d1c-4f24-a3c2-0f4395125b97"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-20-08420fca06",
+  "publishedAt": "2026-07-20T06:00:00+09:00"
+}

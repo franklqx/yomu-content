@@ -1,0 +1,131 @@
+{
+  "title": "夢を叶える奨学金",
+  "summary": "アニメーターになりたいですか？新しい奨学金ができました。夢を応援します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメーターになりたい若者がたくさんいます。しかし、学校に行くお金がない人もいます。そのため、新しい奨学金制度が始まりました。",
+      "translationZh": "有很多想成为动画师的年轻人。但是，也有一些人没有钱上学。因此，新的奖学金制度开始了。",
+      "translationEn": "There are many young people who want to become animators. However, some people do not have money to go to school. Therefore, a new scholarship system has started.",
+      "id": "5183d3c7-4455-4483-8fd1-b5410c39cdaa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、アニメの仕事に興味がある人向けです。将来、アニメーターやデザイナーになりたい学生が対象です。応募は簡単です。",
+      "translationZh": "这个奖学金是面向对动画工作感兴趣的人。将来想成为动画师或设计师的学生可以申请。申请很简单。",
+      "translationEn": "This scholarship is for people interested in animation work. Students who want to become animators or designers in the future are eligible. Application is easy.",
+      "id": "ab83b5e4-d33a-457a-9b83-18f0d6469a2d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "奨学金をもらうと、学費の心配が少なくなります。もっと勉強に集中できます。そして、自分の夢に近づくことができます。",
+      "translationZh": "获得奖学金后，学费的担忧会减少。可以更集中地学习。然后，就能更接近自己的梦想。",
+      "translationEn": "If you receive the scholarship, your worries about tuition fees will decrease. You can concentrate more on your studies. And you can get closer to your dreams.",
+      "id": "feec2e3e-a796-4fd4-bccf-cdce32adb162",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度は、日本の文化を世界に広めることも目指しています。才能のある若者を応援して、素晴らしいアニメをたくさん作ってほしいです。",
+      "translationZh": "这个制度也以将日本文化传播到世界为目标。希望支持有才能的年轻人，创作出更多优秀的作品。",
+      "translationEn": "This system also aims to spread Japanese culture to the world. We hope to support talented young people and have them create many wonderful animations.",
+      "id": "c936b965-cb14-487a-a7a0-37c8b13508d9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "アニメーター",
+      "reading": "あにめーたー",
+      "meaningZh": "动画师",
+      "meaningEn": "animator",
+      "level": "n5n4",
+      "exampleSentence": "彼はアニメーターになるために、毎日絵をかいています。",
+      "id": "35e630aa-754d-4082-9440-3ab721ff2f04"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "成績が良いと、奨学金をもらえます。",
+      "id": "992715d8-bc03-4396-a807-83fbbffef67b"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体制",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度について、説明を聞きました。",
+      "id": "7ffcc033-51dd-4965-98ae-6096cd3a7743"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaningZh": "对象",
+      "meaningEn": "target, object",
+      "level": "n5n4",
+      "exampleSentence": "このイベントは、子供が対象です。",
+      "id": "0934bacf-26a6-4965-b769-694bc04d51d6"
+    },
+    {
+      "word": "学費",
+      "reading": "がくひ",
+      "meaningZh": "学费",
+      "meaningEn": "tuition fee",
+      "level": "n5n4",
+      "exampleSentence": "学費を払うために、アルバイトをしています。",
+      "id": "96f84b10-b8f6-413d-b4e5-03c682ba2344"
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaningZh": "担心，担忧",
+      "meaningEn": "worry",
+      "level": "n5n4",
+      "exampleSentence": "明日の天気 が 心配 です。",
+      "id": "76b51c40-a80f-47af-add9-5fb79bae6e3f"
+    },
+    {
+      "word": "目指す",
+      "reading": "めざす",
+      "meaningZh": "目标是，旨在",
+      "meaningEn": "to aim for",
+      "level": "n5n4",
+      "exampleSentence": "彼はプロのサッカー選手 を 目指して います。",
+      "id": "fa0a6a44-0bda-4790-a6a8-2f2d12f91278"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化 は 面白い です。",
+      "id": "e77122cf-f341-42d2-aaec-2e12fb6c6f10"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どんな人のためですか？",
+      "options": [
+        "アニメの仕事が好きな人",
+        "アニメをたくさん見ている人",
+        "アニメの会社で働いている人",
+        "アニメのゲームが好きな人"
+      ],
+      "correctIndex": 0,
+      "explanation": "「この奨学金は、アニメの仕事に興味がある人向けです。」",
+      "id": "28bf5959-a4a0-4168-82c8-9b451fd763f6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-20-f82db1818e",
+  "publishedAt": "2026-07-20T06:00:00+09:00"
+}

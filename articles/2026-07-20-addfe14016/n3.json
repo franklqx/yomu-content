@@ -1,0 +1,134 @@
+{
+  "title": "東北を自転車で楽しむ！新しいサイクリングロード計画",
+  "summary": "東北地方では、美しい自然を巡る新しいサイクリングロードの整備が進んでいます。旅行者にとって、この地域をより深く体験できる魅力的な機会となるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、東北地方では、豊かな自然や歴史的な街並みを自転車で気軽に楽しめるように、サイクリングロードの整備が進められています。特に、海岸沿いや山間部など、これまで交通の便が悪かった地域でも、安全に走れる道を作る計画が進んでいるのです。",
+      "translationZh": "近年来，东北地区正致力于建设自行车道，以便人们能轻松地骑自行车享受其丰富的自然风光和历史街区。特别是在海岸线和山区等交通不便的地区，也正在推进建设安全骑行道路的计划。",
+      "translationEn": "In recent years, the Tohoku region has been developing cycling roads to allow people to easily enjoy its rich natural scenery and historical towns by bicycle. In particular, plans are progressing to create safe riding paths in areas that were previously difficult to access, such as along the coast and in mountainous regions.",
+      "id": "a8bce9cc-adaa-4404-98f8-fad32f40b360",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのサイクリングロードが完成すれば、車では見過ごしてしまうような小さな集落や、美しい田園風景をゆっくりと眺めることができます。また、地元の特産品を味わえる道の駅や、温泉なども点在しているので、立ち寄りながら旅をするのが楽しみになりそうです。",
+      "translationZh": "如果这些自行车道建成，人们将能够悠闲地欣赏到乘汽车可能忽略的小村庄和美丽的田园风光。此外，沿途还散布着可以品尝当地特产的 roadside station（道の駅）和温泉，因此一边游览一边旅行将会非常令人期待。",
+      "translationEn": "Once these cycling roads are completed, people will be able to slowly take in small villages and beautiful rural landscapes that might be overlooked by car. Additionally, there are roadside stations where you can sample local specialties and hot springs scattered along the way, making it enjoyable to travel with frequent stops.",
+      "id": "5a457d12-9320-4a30-ae60-b7eecbe889ba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "整備が進む理由の一つには、震災からの復興を支援する目的もあります。新しい観光ルートを作ることで、地域経済の活性化につながることが期待されているのです。地域住民も、自分たちの地域を訪れるサイクリストを温かく迎える準備をしています。",
+      "translationZh": "推进建设的一个原因是为了支持灾后重建。通过创建新的旅游路线，人们期待能促进当地经济的振兴。当地居民也在准备热情欢迎到访其地区的骑行者。",
+      "translationEn": "One of the reasons for this development is also to support reconstruction after the earthquake disaster. By creating new tourist routes, it is expected to revitalize the local economy. Local residents are also preparing to warmly welcome cyclists visiting their communities.",
+      "id": "8a6e677f-14c2-4eaf-bde4-4ceee666fcb9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東北地方を自転車で旅することは、その土地の魅力を肌で感じられる素晴らしい体験になるでしょう。計画が進むことで、より多くの人がこの地域の新しい楽しみ方を発見してくれることを願っています。",
+      "translationZh": "骑自行车游览东北地区将是一种能够亲身感受该地区魅力的绝佳体验。随着计划的推进，我们希望更多人能发现这个地区新的游玩方式。",
+      "translationEn": "Traveling through the Tohoku region by bicycle will be a wonderful experience where you can feel the charm of the land firsthand. As the plans progress, we hope that more people will discover new ways to enjoy this region.",
+      "id": "3424e75b-7fe0-4746-9d0f-48381fe177c5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整备，修建",
+      "meaningEn": "maintenance, development, improvement",
+      "level": "n3",
+      "exampleSentence": "新しい道路の整備が進んでいる。",
+      "id": "22229c53-e2fc-4680-b1bc-dce856bf4454"
+    },
+    {
+      "word": "豊か",
+      "reading": "ゆたか",
+      "meaningZh": "丰富的，富裕的",
+      "meaningEn": "abundant, rich, plentiful",
+      "level": "n3",
+      "exampleSentence": "この地域は自然が豊かだ。",
+      "id": "89d44188-ab26-4401-bbf3-c314aed47856"
+    },
+    {
+      "word": "点在",
+      "reading": "てんざい",
+      "meaningZh": "散布，星罗棋布",
+      "meaningEn": "to be scattered about, to be dotted around",
+      "level": "n3",
+      "exampleSentence": "公園の中にいくつかのベンチが点在している。",
+      "id": "0b486ecf-7ed3-49bf-8afa-66e15ba5a9a5"
+    },
+    {
+      "word": "見過ごす",
+      "reading": "みすごす",
+      "meaningZh": "忽略，忽视，错过",
+      "meaningEn": "to overlook, to miss, to let pass",
+      "level": "n3",
+      "exampleSentence": "大切なことを見過ごしてはいけない。",
+      "id": "3abad0ea-8124-4db7-a039-f41db9bb6eb7"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，活跃化",
+      "meaningEn": "activation, invigoration",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の活性化が課題です。",
+      "id": "3087c994-ed02-43cd-a013-4250f0e40179"
+    },
+    {
+      "word": "肌で感じる",
+      "reading": "はだでかんじる",
+      "meaningZh": "亲身感受，切身感受",
+      "meaningEn": "to feel something firsthand, to experience directly",
+      "level": "n3",
+      "exampleSentence": "現地の文化を肌で感じることができた。",
+      "id": "57f13026-4d3b-4d05-a2a2-33f32a965da7"
+    },
+    {
+      "word": "震災",
+      "reading": "しんさい",
+      "meaningZh": "地震灾害",
+      "meaningEn": "earthquake disaster",
+      "level": "n3",
+      "exampleSentence": "震災からの復興はまだ途上だ。",
+      "id": "27774a12-8cc1-46d7-8ff3-abc86683c270"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方でサイクリングロードの整備が進んでいる主な理由は何ですか？",
+      "options": [
+        "新しい商業施設を作るため",
+        "世界遺産を誘致するため",
+        "自転車で地域を巡る新しい観光ルートを作り、地域を活性化するため",
+        "国際的な自転車レースを開催するため"
+      ],
+      "correctIndex": 2,
+      "explanation": "「整備が進む理由の一つには、震災からの復興を支援する目的もあります。新しい観光ルートを作ることで、地域経済の活性化につながることが期待されているのです。」という部分から、新しい観光ルートを作り、地域を活性化することが目的だとわかります。",
+      "id": "a34f6de6-0d34-4ead-9111-635a0124d67b"
+    },
+    {
+      "question": "サイクリングロードが完成すると、どのような楽しみ方ができるようになりますか？",
+      "options": [
+        "車から降りずに景色を楽しむ",
+        "車では見過ごすような場所をゆっくり訪れ、地元の特産品や温泉などを楽しむ",
+        "短時間で多くの都市を巡る",
+        "サイクリングロード以外の場所へは行けなくなる"
+      ],
+      "correctIndex": 1,
+      "explanation": "「車では見過ごしてしまうような小さな集落や、美しい田園風景をゆっくりと眺めることができます。また、地元の特産品を味わえる道の駅や、温泉なども点在しているので、立ち寄りながら旅をするのが楽しみになりそうです。」という説明から、ゆっくりと旅を楽しむことができるとわかります。",
+      "id": "7179d1ef-4ead-4c69-adf5-181ea8470b95"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-20-addfe14016",
+  "publishedAt": "2026-07-20T06:00:00+09:00"
+}

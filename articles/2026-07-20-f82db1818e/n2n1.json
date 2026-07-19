@@ -1,0 +1,147 @@
+{
+  "title": "若手クリエイター育成へ新奨学金制度創設",
+  "summary": "アニメ・漫画業界を目指す若年層を支援するため、新たな奨学金制度が創設されることが明らかになりました。この制度は、才能ある人材の育成と、将来の業界を担うクリエイターの輩出を目的としています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、アニメや漫画といった日本のポップカルチャーが世界的に注目を集める中、次世代を担うクリエイターの育成が急務とされています。こうした状況を踏まえ、才能がありながらも経済的な理由で夢を諦めざるを得ない若者たちを支援するため、新たな奨学金制度が創設される運びとなりました。この制度は、将来有望なクリエイター志望者に対し、学費や制作活動に必要な費用の一部を補助することを想定しており、業界全体の活性化に繋がることが期待されています。",
+      "translationZh": "近年来，动漫和漫画等日本流行文化在全球范围内备受瞩目，培养下一代创作者已成为当务之急。鉴于这种情况，一项新的奖学金制度将被设立，以支持那些有才华但因经济原因不得不放弃梦想的年轻人。该制度旨在为有前途的未来创作者提供部分学费和创作活动所需费用的补助，并有望促进整个行业的活力。",
+      "translationEn": "In recent years, Japan's pop culture, such as anime and manga, has garnered global attention, making the cultivation of next-generation creators an urgent task. Against this backdrop, a new scholarship system is set to be established to support young individuals who possess talent but are forced to abandon their dreams due to financial constraints. This system is envisioned to provide financial assistance covering a portion of tuition fees and essential expenses for creative activities to promising aspiring creators, with the expectation of revitalizing the industry as a whole.",
+      "id": "c9e81bf9-3855-4225-9630-761f85fc5db8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "奨学金制度の運営には、複数のアニメ制作会社や出版社が協力するとのことです。具体的な支給額や対象となる条件については、現在、制度設計の最終段階に入っており、近々発表される見込みと伝えられています。特に、国際的なコンクールでの受賞歴がある者や、独創的な企画を持つ者などが優先的に選考される可能性も示唆されており、選抜基準の厳格さがうかがえます。",
+      "translationZh": "据了解，多家动画制作公司和出版社将合作运营该奖学金制度。具体的奖学金金额和申请条件目前正处于制度设计的最后阶段，预计近期将公布。尤其值得注意的是，有迹象表明，在国际竞赛中获奖者或拥有独创企划者可能被优先考虑，这暗示了选拔标准的严格性。",
+      "translationEn": "It is understood that multiple animation production companies and publishing houses will cooperate in operating the scholarship program. The specific scholarship amounts and eligibility criteria are currently in the final stages of system design and are expected to be announced soon. In particular, it has been suggested that individuals with a history of winning international competitions or those with original project proposals may be given priority in the selection process, indicating the rigor of the selection standards.",
+      "id": "5b4f064b-544b-4159-affc-75a10dcace63",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度の創設は、経済的なハードルを低くすることで、より多くの才能ある若者がクリエイターとしてのキャリアを追求できる機会を与えるものと見られます。また、奨学金受給者に対しては、メンター制度を通じた指導や、業界内でのネットワーク構築の機会も提供される予定であり、単なる経済的支援にとどまらない包括的なサポート体制が構築されることになります。",
+      "translationZh": "该制度的设立被认为将通过降低经济门槛，为更多有才华的年轻人提供追求创意职业生涯的机会。此外，奖学金获得者还将通过导师制度获得指导，并有机会在行业内建立人脉，从而建立一个不仅仅是经济支持的全面支持体系。",
+      "translationEn": "The establishment of this program is seen as an opportunity to lower financial barriers, enabling more talented young individuals to pursue careers as creators. Furthermore, scholarship recipients are scheduled to receive guidance through a mentorship program and opportunities to build networks within the industry, creating a comprehensive support system that extends beyond mere financial assistance.",
+      "id": "47894ee9-8a3f-4f83-ab3c-0f43acff783f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaningZh": "培养，培育",
+      "meaningEn": "cultivation, development",
+      "level": "n2n1",
+      "exampleSentence": "若手人材の育成が急務となっている。",
+      "id": "6c874ba4-436a-43a6-ba02-091eeb733d46"
+    },
+    {
+      "word": "創設",
+      "reading": "そうせつ",
+      "meaningZh": "创设，创立",
+      "meaningEn": "establishment, founding",
+      "level": "n2n1",
+      "exampleSentence": "新たな奨学金制度を創設する。",
+      "id": "5285829f-21ae-42c0-b01c-b4413bd58e58"
+    },
+    {
+      "word": "急務",
+      "reading": "きゅうむ",
+      "meaningZh": "急务，紧急任务",
+      "meaningEn": "urgent task, pressing matter",
+      "level": "n2n1",
+      "exampleSentence": "喫緊の課題への対応が急務である。",
+      "id": "f86800c1-1b1f-4d0a-989a-43e68103908c"
+    },
+    {
+      "word": "踏まえ",
+      "reading": "ふまえ",
+      "meaningZh": "考虑到，基于",
+      "meaningEn": "based on, in consideration of",
+      "level": "n3",
+      "exampleSentence": "現状を踏まえて、最善の策を講じる。",
+      "id": "e536fbc9-6ba0-4dc6-aa85-230cb96bb7aa"
+    },
+    {
+      "word": "運びとなる",
+      "reading": "はこびとなる",
+      "meaningZh": "（事情）发展到……（局面），（计划）付诸实施",
+      "meaningEn": "to develop into, to be put into practice",
+      "level": "n2n1",
+      "exampleSentence": "長年の議論の末、ついに制度化の運びとなった。",
+      "id": "2eb313c0-5416-4d76-868a-55166c16403c"
+    },
+    {
+      "word": "補助",
+      "reading": "ほじょ",
+      "meaningZh": "补助，补贴",
+      "meaningEn": "subsidy, assistance",
+      "level": "n3",
+      "exampleSentence": "政府は中小企業に補助金を支給した。",
+      "id": "e9765b49-22fb-4c8c-940c-4863c0ed0eb1"
+    },
+    {
+      "word": "運営",
+      "reading": "うんえい",
+      "meaningZh": "运营，经营",
+      "meaningEn": "operation, management",
+      "level": "n3",
+      "exampleSentence": "この団体の運営はボランティアによって支えられている。",
+      "id": "372568d6-0ffa-4fc9-8770-dff7529efe66"
+    },
+    {
+      "word": "伝わる",
+      "reading": "つたわる",
+      "meaningZh": "流传，传达",
+      "meaningEn": "to be transmitted, to be told",
+      "level": "n5n4",
+      "exampleSentence": "そのニュースは瞬く間に世界中に伝わった。",
+      "id": "0ee8781f-ff27-4170-93d4-3b1f19e60ee0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度が創設された主な理由は何ですか。",
+      "options": [
+        "アニメ・漫画業界の国際的な地位向上",
+        "経済的な理由で才能ある若者が夢を諦めるのを防ぐため",
+        "既存の奨学金制度が不十分だったため",
+        "海外のクリエイターを日本に誘致するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「才能がありながらも経済的な理由で夢を諦めざるを得ない若者たちを支援するため、新たな奨学金制度が創設される運びとなりました」と記載されています。",
+      "id": "85991d27-6cdd-417e-935d-5c956a132e58"
+    },
+    {
+      "question": "奨学金制度の運営には、どのような組織が協力すると述べられていますか。",
+      "options": [
+        "大学と研究機関",
+        "政府機関とNPO法人",
+        "アニメ制作会社と出版社",
+        "財団法人と国際機関"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「奨学金制度の運営には、複数のアニメ制作会社や出版社が協力するとのことです」とあります。",
+      "id": "5605c4b9-96f6-4dba-ae25-4f03c62abfb6"
+    },
+    {
+      "question": "この奨学金制度が受給者に提供する支援には、どのようなものが含まれる予定ですか。",
+      "options": [
+        "制作機材の無償貸与と作品の海外プロモーション",
+        "経済的支援に加え、メンター制度やネットワーク構築の機会",
+        "国内外での作品発表の場と賞金",
+        "専属のエージェント契約と制作スタジオの提供"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第三段に「単なる経済的支援にとどまらない包括的なサポート体制が構築されることになります」とあり、メンター制度やネットワーク構築の機会も提供される予定であることが示唆されています。",
+      "id": "2ae5aed6-5679-4f30-89c1-333b48d95900"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-20-f82db1818e",
+  "publishedAt": "2026-07-20T06:00:00+09:00"
+}

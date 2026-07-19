@@ -1,0 +1,122 @@
+{
+  "title": "学生街の人気店！ボリューム満点定食",
+  "summary": "学生さんに大人気のごはん屋さんの紹介です。安くておいしい、ボリューム満点の定食が食べられます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町には、学生さんがたくさん住んでいます。だから、学生さんのために安くておいしいお店がたくさんあります。その中でも、特に人気なのが「ボリューム満点定食店」です。",
+      "translationZh": "这个城镇住着很多学生。所以，有很多又便宜又好吃面向学生的店。其中，特别受欢迎的是“分量十足定食店”。",
+      "translationEn": "Many students live in this town. Therefore, there are many shops that are cheap and delicious for students. Among them, the particularly popular ones are 'Volume Full Set Meal Shops'.",
+      "id": "cfbde3ed-edfe-4c25-b736-605571f843cf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店の定食は、とても量が多いです。ごはんもおかずも、普通のお店の２倍くらいあります。でも、値段はとても安いです。だから、いつも学生さんでいっぱいです。",
+      "translationZh": "这家店的定食分量非常多。米饭和配菜都大约是普通店家的两倍。但是，价格却非常便宜。所以，店里总是挤满了学生。",
+      "translationEn": "The set meals at this restaurant are very large. Both the rice and the side dishes are about twice as much as in a normal restaurant. However, the price is very cheap. That's why it's always full of students.",
+      "id": "328f7a6a-24de-4dac-9ac8-3c4c62650679",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "人気メニューは、からあげ定食としょうが焼き定食です。どちらも、ごはんが進む、おいしい味付けです。お腹いっぱい食べたい学生さんには、ぴったりの場所ですよ。",
+      "translationZh": "人气菜单是炸鸡定食和姜汁烧肉定食。两者都是能让米饭变得美味的调味。对于想吃饱饱的学生来说，这里是绝佳的地方。",
+      "translationEn": "The popular menu items are the fried chicken set meal and the ginger pork set meal. Both have delicious seasoning that goes well with rice. It's the perfect place for students who want to eat until they are full.",
+      "id": "2b1fd2d3-4f1c-4aa2-82c8-e62fa709e463",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店の人はみんな親切です。忙しい時間でも、笑顔で対応してくれます。おいしい定食を、気持ちよく食べられるお店です。",
+      "translationZh": "店里的人都很亲切。即使在忙碌的时候，也会带着笑容应对。这是一家可以愉快地享用美味定食的店。",
+      "translationEn": "Everyone at the restaurant is kind. Even during busy hours, they respond with a smile. It is a restaurant where you can pleasantly eat delicious set meals.",
+      "id": "4eecfb1d-36b5-4bbf-be29-bbcaf7354776",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaningZh": "学生",
+      "meaningEn": "student",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な大学の学生です。",
+      "id": "a3099acc-e2bc-49f4-bf2c-6267e0663f5a"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "9b9d0b59-e5c5-460b-b114-7b16bf0264f8"
+    },
+    {
+      "word": "ボリューム",
+      "reading": "ぼりゅーむ",
+      "meaningZh": "分量，量",
+      "meaningEn": "volume, quantity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはボリュームがあっておいしいです。",
+      "id": "3fa77379-8b7a-4d19-a891-7b56f98d0f2e"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐（主食、配菜、汤饭）",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "今日の定食は何ですか。",
+      "id": "51e43e56-43ed-41a1-96d8-dcbb830612ea"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この商品の値段はいくらですか。",
+      "id": "1b443ed9-b4a1-4a5e-bb73-7139ef3fbe56"
+    },
+    {
+      "word": "おかず",
+      "reading": "おかず",
+      "meaningZh": "（下饭的）菜",
+      "meaningEn": "side dish",
+      "level": "n5n4",
+      "exampleSentence": "ごはんとおかずをください。",
+      "id": "e65de16a-bca3-41dd-b1bb-9369d4fe8dea"
+    },
+    {
+      "word": "味付け",
+      "reading": "あじつけ",
+      "meaningZh": "调味，味道",
+      "meaningEn": "seasoning, flavor",
+      "level": "n3",
+      "exampleSentence": "この料理はちょうどいい味付けです。",
+      "id": "5fe18a0f-8ed7-43ce-a0b8-d941110a8fdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食店が学生さんに人気がある理由は何ですか。",
+      "options": [
+        "おいしいから",
+        "値段が安くて量が多いから",
+        "店員さんが有名だから",
+        "メニューが多いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "このお店の定食は、とても量が多いです。でも、値段はとても安いです。だから、いつも学生さんでいっぱいです。",
+      "id": "8194e807-c0fc-461e-9550-0daabacebd64"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-20-08420fca06",
+  "publishedAt": "2026-07-20T06:00:00+09:00"
+}
