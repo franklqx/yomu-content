@@ -1,0 +1,126 @@
+{
+  "title": "コミケで見えた！今期のサークル傾向をチェック",
+  "summary": "今回のコミケでは、新しいジャンルや表現方法を取り入れたサークルが目立ちました。どのような傾向があったのか、見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏のコミックマーケット（コミケ）は、多くのクリエイターが集まる一大イベントです。今回も、個性豊かなサークルがたくさん参加していましたが、いくつかの注目すべき傾向が見られました。特に、従来の人気ジャンルに加え、新しいアニメやゲームの二次創作が目立っていたのが印象的でした。新しい作品が次々と生まれる中で、ファンがそれを支えている様子がよく分かりました。",
+      "translationZh": "夏季的Comic Market（Comiket）是一个汇集了众多创作者的盛大活动。这次也有许多富有创意的社团参加，其中一些引人注目的趋势尤为明显。尤其值得注意的是，除了以往热门的类型之外，新的动画和游戏二次创作也十分抢眼。在源源不断的新作品中，粉丝们对其的支持也得到了充分体现。",
+      "translationEn": "The summer Comic Market (Comiket) is a major event where many creators gather. This time too, many unique circles participated, and several noteworthy trends were observed. In particular, in addition to traditionally popular genres, secondary creations from new anime and games were prominent, which was impressive. Amidst the continuous emergence of new works, it was clear how fans support them.",
+      "id": "02f89a50-7ee0-4138-a381-282ddd9a86d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、表現方法の多様化も感じられました。イラストだけでなく、最近では短いアニメーションやボイスドラマを頒布するサークルも増えています。そのため、参加者は自分の好きな作品を様々な形で楽しめるようになっています。このように、技術の進歩とともに、表現の幅が広がっているのは素晴らしいことだと思います。",
+      "translationZh": "此外，还能感受到表现形式的多样化。不仅是插画，最近发布短篇动画或语音剧的社团也增加了。因此，参与者能够以各种形式享受自己喜欢的作品。像这样，随着技术进步，表现的广度也在不断扩大，我认为这是一件非常棒的事情。",
+      "translationEn": "Furthermore, diversification in expression methods was also felt. Besides illustrations, circles distributing short animations and voice dramas have been increasing recently. Therefore, attendees can enjoy their favorite works in various forms. It's wonderful that the scope of expression is expanding along with technological advancements.",
+      "id": "a9144af0-bb4f-4965-8640-a6afcf5fa0ea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、昔から愛されている作品の二次創作も、根強い人気があることが分かります。長年ファンを続けている人たちが、新しい世代にその魅力を伝えようとしているのかもしれません。このように、新しいものと古いものが共存しているからこそ、コミケはますます面白くなるのだと感じました。",
+      "translationZh": "另一方面，也可以看出，深受喜爱的经典作品的二次创作依然拥有稳固的人气。也许是因为长年支持的粉丝们，正努力将这份魅力传递给新一代。正因如此，新旧事物共存，我感到Comic Market变得越来越有趣了。",
+      "translationEn": "On the other hand, it's evident that secondary creations of long-loved works also maintain a strong popularity. Perhaps fans who have continued for many years are trying to convey their charm to the new generation. It is precisely because new and old things coexist that Comiket becomes increasingly interesting, I felt.",
+      "id": "74e03b4b-a3ac-4a00-84f0-d8df181f1f1a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コミックマーケット",
+      "reading": "こみっくまーけっと",
+      "meaningZh": "Comic Market，日本最大的同人志即卖会",
+      "meaningEn": "Comic Market, Japan's largest doujinshi convention",
+      "level": "n3",
+      "exampleSentence": "コミックマーケットには毎年多くの人が訪れます。",
+      "id": "c2a42617-eccf-4712-9b18-62be5516e8d8"
+    },
+    {
+      "word": "サークル",
+      "reading": "さーくる",
+      "meaningZh": "社团（指在同人展会等场合进行创作和贩售的团体）",
+      "meaningEn": "Circle (a group that creates and sells at events like doujinshi conventions)",
+      "level": "n3",
+      "exampleSentence": "このサークルは新しいイラスト集を出しました。",
+      "id": "3f8dcb00-3961-47c3-8a02-583bae02821c"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "趋势，倾向",
+      "meaningEn": "Trend, tendency",
+      "level": "n3",
+      "exampleSentence": "最近の若者の間では、健康志向の傾向が見られます。",
+      "id": "f66fec8f-c422-44bf-be5b-1853cef483ca"
+    },
+    {
+      "word": "二次創作",
+      "reading": "にじそうさく",
+      "meaningZh": "二次创作（在现有作品基础上进行的创作）",
+      "meaningEn": "Secondary creation (creation based on existing works)",
+      "level": "n3",
+      "exampleSentence": "人気の漫画の二次創作小説がたくさん書かれています。",
+      "id": "b731ba7f-e614-485e-84f4-267860226c13"
+    },
+    {
+      "word": "頒布",
+      "reading": "はんぷ",
+      "meaningZh": "分发，配布（主要用于活动或展会）",
+      "meaningEn": "Distribution, circulation (mainly used for events or conventions)",
+      "level": "n3",
+      "exampleSentence": "イベントで無料のチラシを頒布しました。",
+      "id": "33b2e334-69f5-41d7-a534-eddb11d8cabe"
+    },
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "Diversification",
+      "level": "n3",
+      "exampleSentence": "食生活の多様化が進んでいます。",
+      "id": "658cf7fd-321a-43cf-b8a0-f70ecd0d7663"
+    },
+    {
+      "word": "根強い",
+      "reading": "ねづよい",
+      "meaningZh": "根深蒂固的，根深蒂固的",
+      "meaningEn": "Deep-rooted, persistent",
+      "level": "n3",
+      "exampleSentence": "その古い習慣は、今でも根強く残っています。",
+      "id": "66826ddc-07c1-4e4c-a3cc-da5b16b19081"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回のコミケで、どのような新しい傾向が見られましたか？",
+      "options": [
+        "昔からの人気ジャンルばかりだった",
+        "新しいアニメやゲームの二次創作が目立っていた",
+        "同人誌以外のグッズ販売が中心だった",
+        "海外からの参加者が非常に多かった"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「特に、従来の人気ジャンルに加え、新しいアニメやゲームの二次創作が目立っていたのが印象的でした。」とあります。",
+      "id": "66d1d57e-6d57-46c9-be7a-ef3a0baedac6"
+    },
+    {
+      "question": "サークルが増えている表現方法は、どのようなものですか？",
+      "options": [
+        "昔ながらの油絵",
+        "短いアニメーションやボイスドラマ",
+        "書道作品",
+        "伝統工芸品"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「イラストだけでなく、最近では短いアニメーションやボイスドラマを頒布するサークルも増えています。」とあります。",
+      "id": "7f133929-6440-40a2-920d-1dcf6d6b28f3"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-21-ec987604cd",
+  "publishedAt": "2026-07-21T06:00:00+09:00"
+}

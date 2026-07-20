@@ -1,0 +1,117 @@
+{
+  "title": "Bリーグの新しいスター選手に注目！",
+  "summary": "プロバスケットボールBリーグで、若きスター選手が次々と現れています。彼らの活躍は、リーグをさらに盛り上げています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、プロバスケットボールBリーグで目覚ましい活躍を見せる若手選手が増えています。特に、〇〇選手は、その驚異的な身体能力と正確なシュートで、多くのファンを魅了しています。試合を見ていると、彼がコートにいるだけで空気が変わるのを感じます。",
+      "translationZh": "最近，在职业篮球B联赛中，表现出色的年轻选手越来越多。特别是XX选手，以其惊人的身体能力和精准的投篮吸引了众多粉丝。观看比赛时，能感觉到他一上场，比赛的气氛就变了。",
+      "translationEn": "Recently, more and more young players are showing remarkable performance in the professional basketball B.League. In particular, player XX is captivating many fans with his incredible physical ability and accurate shooting. When watching a game, you can feel the atmosphere change just by him being on the court.",
+      "id": "697eea48-5049-4236-8fbb-9c46a59258ce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "〇〇選手は、まだ若いながらも、チームの中心選手として試合を引っ張っています。彼のパスセンスは抜群で、チームメイトを活かすプレーも得意です。ベテラン選手たちも、彼のプレーから刺激を受けているようです。これからも、もっと成長していくことでしょう。",
+      "translationZh": "XX选手虽然还年轻，但已经作为球队的核心球员带领比赛。他的传球视野出色，也很擅长带动队友的打法。就连老将们，似乎也从他的打法中获得了刺激。今后，他也会继续成长。",
+      "translationEn": "Although player XX is still young, he is leading games as a central player for his team. His passing sense is outstanding, and he is also good at plays that utilize his teammates. Even the veteran players seem to be inspired by his play. He will surely continue to grow from now on.",
+      "id": "25b0025e-c6b5-4898-9cc5-d389d27b1235",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "Bリーグは、こうした新しいスター選手の登場によって、さらに人気が高まっています。彼らのプレーは、バスケットボールの魅力を多くの人に伝えています。試合会場に行けば、その熱気を肌で感じることができるはずです。ぜひ一度、Bリーグの試合を観戦してみてはいかがでしょうか。",
+      "translationZh": "B联赛因为这些新星的登场，人气越来越高。他们的比赛将篮球的魅力传达给了许多人。如果去比赛场馆，应该能亲身感受到那种热烈气氛。要不要找个时间去观看一场B联赛的比赛呢？",
+      "translationEn": "The B.League is becoming even more popular with the emergence of these new star players. Their play conveys the charm of basketball to many people. If you go to a game venue, you should be able to feel the excitement firsthand. Why don't you try watching a B.League game sometime?",
+      "id": "1414b9ff-69e2-45f6-9a1e-9214521b8c3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "惊人的，显著的",
+      "meaningEn": "remarkable, striking",
+      "level": "n3",
+      "exampleSentence": "近年、科学技術は目覚ましい進歩を遂げている。",
+      "id": "ee1aa4cc-f2c8-4a1e-bee4-8b2a0b1ca99c"
+    },
+    {
+      "word": "身体能力",
+      "reading": "しんたいのうりょく",
+      "meaningZh": "身体能力",
+      "meaningEn": "physical ability",
+      "level": "n3",
+      "exampleSentence": "彼は高い身体能力を持っている。",
+      "id": "7f776a55-57f3-4096-9519-4d040beb675a"
+    },
+    {
+      "word": "パスセンス",
+      "reading": "ぱせんす",
+      "meaningZh": "传球能力（尤指篮球等运动中）",
+      "meaningEn": "passing sense (especially in sports like basketball)",
+      "level": "n3",
+      "exampleSentence": "彼のパスセンスはチームに不可欠だ。",
+      "id": "1fcadc62-cd51-4eec-a648-3d22088ea43d"
+    },
+    {
+      "word": "刺激",
+      "reading": "しげき",
+      "meaningZh": "刺激，激励",
+      "meaningEn": "stimulation, encouragement",
+      "level": "n3",
+      "exampleSentence": "若い選手たちのプレーはベテランに刺激を与える。",
+      "id": "a4846645-e281-4be6-b4f5-67e3ca6a9a4d"
+    },
+    {
+      "word": "中心選手",
+      "reading": "ちゅうしんせんしゅ",
+      "meaningZh": "核心球员",
+      "meaningEn": "key player, central player",
+      "level": "n3",
+      "exampleSentence": "彼はチームの中心選手として活躍している。",
+      "id": "222ddc96-0183-4f34-84b6-4d57e200e6c1"
+    },
+    {
+      "word": "熱気",
+      "reading": "ねっき",
+      "meaningZh": "热气，热情",
+      "meaningEn": "enthusiasm, fervor",
+      "level": "n3",
+      "exampleSentence": "会場は観客の熱気で満ちていた。",
+      "id": "696a78a9-1cc4-4cd7-a125-24a4fb4fd1b9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、最近Bリーグで注目されているのはどのような選手ですか？",
+      "options": [
+        "ベテラン選手",
+        "若手選手",
+        "外国人選手",
+        "審判"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事の最初の段落に「最近、プロバスケットボールBリーグで目覚ましい活躍を見せる若手選手が増えています。」と書かれています。",
+      "id": "84851c58-2f4a-43af-b133-5a1b424e20f7"
+    },
+    {
+      "question": "〇〇選手は、どのようなプレーが得意だと書かれていますか？",
+      "options": [
+        "守備専門のプレー",
+        "観客を驚かせるような派手なプレー",
+        "チームメイトを活かすプレー",
+        "一人で得点を重ねるプレー"
+      ],
+      "correctIndex": 2,
+      "explanation": "二番目の段落に「彼のパスセンスは抜群で、チームメイトを活かすプレーも得意です。」とあります。",
+      "id": "1481ceff-073a-4e3f-bcd7-292b2a4e3fc9"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-21-b",
+  "publishedAt": "2026-07-21T06:00:00+09:00"
+}

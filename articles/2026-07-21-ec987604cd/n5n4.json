@@ -1,0 +1,132 @@
+{
+  "title": "コミケの新しいトレンド",
+  "summary": "コミケの最新のトレンドについて話しましょう。どんなサークルが人気でしたか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コミケは大きいです。たくさんの人が来ます。毎年、新しいトレンドがあります。今期のコミケでも、いくつかの面白い傾向が見られました。",
+      "translationZh": "Comic Market 很大。很多人来。每年都有新的趋势。在这一季的 Comic Market 中，也看到了几个有趣的倾向。",
+      "translationEn": "Comic Market is big. Many people come. Every year, there are new trends. In this season's Comic Market, several interesting trends were also seen.",
+      "id": "1009e004-8560-45cd-8f54-c7b1783ceea3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一番目立ったのは、昔のアニメのグッズでした。新しいアニメも人気ですが、古いアニメのファンもたくさんいました。懐かしいキャラクターの絵や、同人誌がたくさん売れていました。",
+      "translationZh": "最引人注目的是老动画的周边商品。新动画也很受欢迎，但是老动画的粉丝也很多。怀旧角色的画以及同人志卖得很多。",
+      "translationEn": "The most noticeable thing was goods from old anime. New anime are also popular, but there were many fans of old anime too. Pictures of nostalgic characters and doujinshi were selling well.",
+      "id": "c8bd6ff9-85e5-4ac9-9979-f9a2dbc4d57c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、ゲーム関連のサークルも多かったです。特に、インディーゲームという小さな会社が作ったゲームが人気でした。これらのゲームは、ユニークなアイデアがいっぱいでした。",
+      "translationZh": "另外，游戏相关的社团也很多。特别是，被称为独立游戏的、小公司制作的游戏很受欢迎。这些游戏充满了独特的想法。",
+      "translationEn": "Also, there were many game-related circles. Especially popular were games made by small companies, called indie games. These games were full of unique ideas.",
+      "id": "63f706fe-d152-4521-94c8-034691387f9d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、手作りのアクセサリーや小物も注目されました。一つ一つ丁寧に作られた品物は、特別感がありました。多くの人が、そのようなユニークなアイテムを買っていました。",
+      "translationZh": "今年，手工制作的饰品和小物品也受到了关注。一件一件精心制作的物品，很有特别感。很多人购买了那样的独特物品。",
+      "translationEn": "This year, handmade accessories and small items also attracted attention. Items carefully made one by one had a special feeling. Many people bought such unique items.",
+      "id": "ea5e54fe-4964-45c3-85b9-90be4bd3cbbf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "趋势；潮流",
+      "meaningEn": "trend",
+      "level": "n5n4",
+      "exampleSentence": "今年のファッションのトレンドは何ですか。",
+      "id": "87ef818d-5c69-4b0e-b9f5-6b348ff8a4d9"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "倾向；趋势",
+      "meaningEn": "tendency; trend",
+      "level": "n3",
+      "exampleSentence": "最近、若者の読書離れという傾向がある。",
+      "id": "9270ab9e-5f63-48b5-8952-d6560fb1f798"
+    },
+    {
+      "word": "目立つ",
+      "reading": "めだつ",
+      "meaningZh": "显眼；引人注目",
+      "meaningEn": "to be conspicuous; to stand out",
+      "level": "n5n4",
+      "exampleSentence": "彼の赤いシャツはよく目立っていた。",
+      "id": "60346d39-125d-4226-b8dc-e5dfdc2c66df"
+    },
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品；商品",
+      "meaningEn": "goods; merchandise",
+      "level": "n5n4",
+      "exampleSentence": "このアニメのグッズが欲しいです。",
+      "id": "bb557867-b54c-4f79-87d1-fd03c3ac958f"
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningZh": "怀旧的；令人怀念的",
+      "meaningEn": "nostalgic",
+      "level": "n5n4",
+      "exampleTranslation": "子供の頃の歌を聴いて懐かしくなりました。",
+      "id": "80a062fc-4b1c-4be5-8a00-8498ce5c64a0",
+      "exampleSentence": null
+    },
+    {
+      "word": "同人誌",
+      "reading": "どうじんし",
+      "meaningZh": "同人志（爱好者自行出版的书刊）",
+      "meaningEn": "doujinshi (fan-made magazine)",
+      "level": "n3",
+      "exampleSentence": "コミケではたくさんの同人誌が売られます。",
+      "id": "1e82d5dd-20d9-4bc1-a4b6-48c3369a4cc6"
+    },
+    {
+      "word": "ユニーク",
+      "reading": "ゆにーく",
+      "meaningZh": "独特的；独一无二的",
+      "meaningEn": "unique",
+      "level": "n5n4",
+      "exampleSentence": "彼女はユニークな考え方を持っている。",
+      "id": "6ab75f3b-282f-464f-af3f-acf4b9c00f98"
+    },
+    {
+      "word": "手作り",
+      "reading": "てづくり",
+      "meaningZh": "手工制作的",
+      "meaningEn": "handmade",
+      "level": "n5n4",
+      "exampleSentence": "これは母が手作りしたケーキです。",
+      "id": "0dd1c5f2-0cb5-4c38-a185-1975b636436b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回のコミケで、特に人気があったのはどんな種類のグッズでしたか？",
+      "options": [
+        "新しいアニメのグッズ",
+        "昔のアニメのグッズ",
+        "ゲームのソフト",
+        "手作りのアクセサリー"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「一番目立ったのは、昔のアニメのグッズでした。」と書かれています。",
+      "id": "937dcdc3-9584-4a95-ae7c-b5d2bd5dda77"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-21-ec987604cd",
+  "publishedAt": "2026-07-21T06:00:00+09:00"
+}

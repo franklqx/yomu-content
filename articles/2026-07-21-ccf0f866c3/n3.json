@@ -1,0 +1,143 @@
+{
+  "title": "夏の夜空を彩る！花火大会開催情報",
+  "summary": "日本の夏といえば、やっぱり花火大会！今年も各地で素晴らしい花火が打ち上がります。最新の開催情報をチェックして、夏の思い出を作りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏の風物詩である花火大会が、今年も全国各地で開催されます。夜空に咲く色とりどりの大輪の花は、見ているだけで心が躍りますね。友人や家族と一緒に、夏の夜空を彩る美しい光のショーを楽しみませんか。",
+      "translationZh": "作为夏日风物诗的花火大会，今年也将在日本全国各地举行。在夜空中绽放的五彩缤纷的巨型烟花，光是看着就能让人心潮澎湃。要不要和朋友或家人一起，来欣赏装点夏夜天空的美丽光之秀呢？",
+      "translationEn": "The fireworks festival, a symbol of summer, will be held across Japan again this year. The colorful, large blossoms that bloom in the night sky make your heart dance just by watching them. Why not enjoy a beautiful light show that colors the summer night sky with your friends and family?",
+      "id": "90aa4f1e-7fa6-48e5-86b5-97fbbaffa1a5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会によっては、屋台が出店されたり、音楽とのコラボレーションがあったりと、趣向を凝らしたイベントが企画されています。事前にインターネットで情報を調べておくと、より一層楽しめるでしょう。例えば、人気の花火大会では、早めに場所取りをしないと良い席で見られないこともあります。",
+      "translationZh": "根据不同的花火大会，还会举办别出心裁的活动，比如会摆设小吃摊，或者与音乐进行联动。如果事先在网上查好信息，将会更加尽兴。例如，在人气很高的花火大会上，如果不早点占好位置，可能就看不到好的席位了。",
+      "translationEn": "Depending on the fireworks festival, unique events are planned, such as food stalls or collaborations with music. If you check the information online in advance, you will likely enjoy it even more. For example, at popular fireworks festivals, if you don't secure a spot early, you might not be able to get a good seat.",
+      "id": "651ac18c-9b1b-4b4c-8790-5932a32af1d6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会へ行く際は、浴衣を着て出かけるのも素敵です。日本の夏らしさを満喫できるのでおすすめです。ただし、当日は大変混雑することが予想されますから、交通機関の遅延なども考慮して、時間に余裕を持って行動することが大切です。",
+      "translationZh": "去参加花火大会时，穿上浴衣出门也很棒。因为能充分体验到日本夏天的风情，所以很推荐。但是，当天预计会非常拥挤，所以考虑到交通工具可能会延误等情况，留有充裕的时间行动非常重要。",
+      "translationEn": "When going to a fireworks festival, it's also wonderful to wear a yukata. It's recommended because you can fully enjoy the Japanese summer atmosphere. However, since it is expected to be very crowded on the day, it is important to act with plenty of time, considering potential transportation delays.",
+      "id": "7650170a-db35-4a39-9e5f-1675d6f9f62d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "残念ながら、雨天のため中止となる場合もあります。事前に天気予報を確認し、開催の有無をチェックしておくようにしましょう。安全に注意して、素晴らしい夏の思い出を作ってくださいね。",
+      "translationZh": "很遗憾，也有可能因为雨天而中止。请事先确认天气预报，并留意是否举办。请注意安全，创造美好的夏日回忆吧。",
+      "translationEn": "Unfortunately, some events may be canceled due to rain. Please check the weather forecast in advance and confirm whether the event will be held. Please be mindful of safety and create wonderful summer memories.",
+      "id": "d7c72106-c05d-42ea-bca8-236021ee96dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（季节的）风物诗，代表性事物",
+      "meaningEn": "seasonal feature; lyric poetry about seasons",
+      "level": "n3",
+      "exampleSentence": "夏祭りや花火大会は日本の夏の風物詩です。",
+      "id": "2c0b289c-31ca-45b0-8bfa-3e7b172a52f8"
+    },
+    {
+      "word": "躍る",
+      "reading": "おどる",
+      "meaningZh": "跳跃，（心情）激动，活跃",
+      "meaningEn": "to jump, to leap; to dance; to be lively",
+      "level": "n5n4",
+      "exampleSentence": "きれいな花火を見て、心が躍った。",
+      "id": "8834f434-349b-454e-9f64-bf5f20a1cfd8"
+    },
+    {
+      "word": "趣向を凝らす",
+      "reading": "しゅこうをこらす",
+      "meaningZh": "精心策划，绞尽脑汁",
+      "meaningEn": "to devise an original plan; to take pains with",
+      "level": "n3",
+      "exampleSentence": "このイベントは、参加者を楽しませるために趣向が凝らされています。",
+      "id": "353e4671-5603-4c0a-8841-670679799c46"
+    },
+    {
+      "word": "出店",
+      "reading": "でみせ",
+      "meaningZh": "（临时）摊位，小店",
+      "meaningEn": "stall; booth",
+      "level": "n3",
+      "exampleSentence": "お祭りの会場には、たくさんの出店がありました。",
+      "id": "842eda67-c266-49dc-a18b-3a0e437eaa89"
+    },
+    {
+      "word": "席取り",
+      "reading": "せきとり",
+      "meaningZh": "占座位",
+      "meaningEn": "reserving a seat",
+      "level": "n3",
+      "exampleSentence": "良い場所で花火を見るために、朝早くから席取りをする人がいます。",
+      "id": "4384f970-ec72-4ccb-9b6f-36ef821fca9b"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (informal summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りには浴衣を着ていくと、気分が盛り上がります。",
+      "id": "06785a2a-2b7c-4095-b0c3-55b2306b45e0"
+    },
+    {
+      "word": "満喫する",
+      "reading": "まんきつする",
+      "meaningZh": "充分享受，尽情享受",
+      "meaningEn": "to enjoy oneself to the fullest",
+      "level": "n3",
+      "exampleSentence": "せっかくの休暇なので、旅行を存分に満喫したいです。",
+      "id": "9eb8e6a5-d501-4377-9265-943247a5b997"
+    },
+    {
+      "word": "余裕",
+      "reading": "よゆう",
+      "meaningZh": "（时间、空间、经济等）余地，从容，充裕",
+      "meaningEn": "leeway; margin; composure; surplus",
+      "level": "n5n4",
+      "exampleSentence": "電車が遅れるかもしれないので、時間に余裕を持って家を出ました。",
+      "id": "5d3456a7-37cb-4b49-bcae-be2690b6f823"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会について、筆者が最も伝えたいことは何ですか。",
+      "options": [
+        "花火の歴史について",
+        "浴衣の着付け方について",
+        "最新の開催情報を確認して楽しむこと",
+        "屋台で売られている食べ物について"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「最新の開催情報をチェックして、夏の思い出を作りましょう。」とあり、また「事前にインターネットで情報を調べておくと、より一層楽しめるでしょう。」と述べていることから、開催情報を確認することの重要性がわかります。",
+      "id": "b0315fbf-7ab0-4a9d-96d3-770924dc5844"
+    },
+    {
+      "question": "花火大会へ行く際に、時間に余裕を持つことが大切だと書かれている理由は何ですか。",
+      "options": [
+        "花火が始まるのが早いから",
+        "浴衣に着替えるのに時間がかかるから",
+        "当日は大変混雑することが予想されるから",
+        "屋台で買い物をしたいから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「当日は大変混雑することが予想されますから、交通機関の遅延なども考慮して、時間に余裕を持って行動することが大切です。」と書かれており、混雑と交通機関の遅延を考慮して時間に余裕を持つことが推奨されています。",
+      "id": "f57767f5-b78d-4f90-a288-afe489e92504"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-21-ccf0f866c3",
+  "publishedAt": "2026-07-21T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "夏の夜空に光る！花火大会",
+  "summary": "今年の夏、各地で花火大会が開催されます。楽しい夏の思い出を作りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏が来ました。暑いですが、楽しい季節です。夏といえば、花火大会です。夜空にきれいに咲く花火は、見ているだけでワクワクします。",
+      "translationZh": "夏天来了。虽然很热，但是个开心的季节。说到夏天，就是花火大会了。在夜空中美丽绽放的烟花，光是看着就让人兴奋。",
+      "translationEn": "Summer has come. It's hot, but it's a fun season. When you think of summer, you think of fireworks festivals. The fireworks that bloom beautifully in the night sky make you excited just by watching them.",
+      "id": "3ff5e000-5821-40ea-8ab8-3a3adc0dc1aa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、いくつかの場所で大きな花火大会があります。例えば、東京の隅田川花火大会は有名です。たくさんの人が見に来ます。浴衣を着て、友達や家族と行くのも良いでしょう。",
+      "translationZh": "今年，有几个地方会举办大型烟花大会。例如，东京的隅田川花火大会很有名。很多人都会来看。穿上浴衣，和朋友或家人一起去也是不错的选择。",
+      "translationEn": "This year, there are big fireworks festivals in several places. For example, the Sumida River Fireworks Festival in Tokyo is famous. Many people come to see it. It would be nice to wear a yukata and go with friends or family.",
+      "id": "0f6f7f3c-c982-415e-b12e-76537a2ee6e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会では、屋台も楽しみの一つです。たこ焼きやりんご飴など、美味しいものがたくさんあります。花火を見ながら食べるのは、とてもおいしいです。",
+      "translationZh": "在烟花大会上，小吃摊也是乐趣之一。有章鱼烧、糖葫芦等很多好吃的食物。一边看烟花一边吃，非常好吃。",
+      "translationEn": "At fireworks festivals, food stalls are also one of the pleasures. There are many delicious things like takoyaki and candied apples. Eating while watching the fireworks is very tasty.",
+      "id": "26522248-9888-41a6-8c6a-5f30d68571d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会の情報は、インターネットで調べられます。開催日時や場所を確認して、ぜひ見に行きましょう。夏の夜空を彩る花火は、きっと素晴らしい思い出になります。",
+      "translationZh": "烟花大会的信息可以在网上查询。请确认举办日期和地点，一定去看看。点亮夏夜天空的烟花，一定会成为美好的回忆。",
+      "translationEn": "You can find information about fireworks festivals on the internet. Please check the date and time and location, and be sure to go see them. The fireworks that color the summer night sky will surely become wonderful memories.",
+      "id": "cc31a919-70e4-42ce-8954-2e78d2fed1f8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "花火大会",
+      "reading": "はなびたいかい",
+      "meaningZh": "烟花大会",
+      "meaningEn": "Fireworks festival",
+      "level": "n5n4",
+      "exampleSentence": "夏には花火大会がたくさんあります。",
+      "id": "81ea9da1-6764-426d-9846-70c62b7fd4a2"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaningZh": "举办",
+      "meaningEn": "Hold, be held",
+      "level": "n3",
+      "exampleSentence": "来週、お祭りが開催されます。",
+      "id": "5a52f920-f90a-49e0-8da4-01519b72f99f"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaningZh": "夜空",
+      "meaningEn": "Night sky",
+      "level": "n5n4",
+      "exampleSentence": "夜空に星がきれいです。",
+      "id": "e43f7f56-19b8-4784-82a8-a46d3bf5e1ab"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（日本夏季和服）",
+      "meaningEn": "Yukata (Japanese summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りで浴衣を着ました。",
+      "id": "f53c7373-c524-438a-88ba-ebc7f7732228"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "小吃摊，路边摊",
+      "meaningEn": "Stall, stand",
+      "level": "n5n4",
+      "exampleSentence": "屋台でおいしそうな匂いがします。",
+      "id": "2bbe6ab4-3283-4356-a4e8-119a37e53fb5"
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "meaningZh": "确认",
+      "meaningEn": "Confirmation",
+      "level": "n3",
+      "exampleSentence": "時間と場所を確認してください。",
+      "id": "643be499-246a-494f-a245-e022eae350e5"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "Memory",
+      "level": "n5n4",
+      "exampleSentence": "この旅行は良い思い出になりました。",
+      "id": "32d3f852-ead2-48f9-b79b-2e08fd3a7299"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会の楽しみの一つは何ですか？",
+      "options": [
+        "たくさんの勉強",
+        "おいしい屋台の食べ物",
+        "静かな場所で休むこと",
+        "新しい友達を作ること"
+      ],
+      "correctIndex": 1,
+      "explanation": "花火大会では、屋台も楽しみの一つです。たこ焼きやりんご飴など、美味しいものがたくさんあります。",
+      "id": "0e290e54-1d8e-4397-bfbb-108c8d9fa772"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-21-ccf0f866c3",
+  "publishedAt": "2026-07-21T06:00:00+09:00"
+}

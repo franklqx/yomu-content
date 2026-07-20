@@ -1,0 +1,131 @@
+{
+  "title": "Bリーグの新スター！",
+  "summary": "Bリーグに新しいスター選手が現れました。彼はとても上手です。多くの人が彼に注目しています。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "日本のプロバスケットボールリーグ、Bリーグはとても人気があります。最近、新しいスター選手がチームに加わりました。その選手はまだ若いです。でも、プレーがとても上手です。",
+      "translationZh": "日本的职业篮球联赛B联赛非常受欢迎。最近，一位新的明星球员加入了球队。这位选手还很年轻。但是，他的比赛打得非常好。",
+      "translationEn": "Japan's professional basketball league, B.League, is very popular. Recently, a new star player joined a team. That player is still young. But, his playing is very skillful.",
+      "id": "c2b904d5-24df-49a5-89c9-51e93dffcbd1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "彼の名前は田中（たなか）です。田中選手は、速いスピードでコートを走ります。そして、正確なシュートを決めます。彼のプレーを見ると、ファンはとても喜びます。",
+      "translationZh": "他的名字是田中。田中选手以很快的速度在球场上奔跑。然后，他会投进准确的投篮。看到他的比赛，粉丝们会非常高兴。",
+      "translationEn": "His name is Tanaka. Tanaka-san runs the court with fast speed. And, he makes accurate shots. When fans watch his play, they become very happy.",
+      "id": "c629b45d-a017-43dd-b5e5-efb2d1cc856c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "去年の試合（しあい）では、田中選手がチームを勝利に導きました。彼は最後の数秒で逆転（ぎゃくてん）のシュートを決めました。会場（かいじょう）は大きな歓声（かんせい）でいっぱいになりました。",
+      "translationZh": "去年的比赛中，田中选手带领球队获得了胜利。他在最后几秒钟投进了逆转的投篮。会场充满了巨大的欢呼声。",
+      "translationEn": "In last year's game, Tanaka-san led the team to victory. He made a come-from-behind shot in the final seconds. The venue was filled with loud cheers.",
+      "id": "bbecae8c-b46d-4745-b3c8-2c8cbb52950b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも田中選手の活躍（かつやく）が楽しみです。Bリーグはもっと面白くなるでしょう。皆（みな）さんも、ぜひBリーグの試合を見てください。",
+      "translationZh": "今后也期待田中选手的活跃表现。B联赛会变得更加有趣。大家也请一定要看看B联赛的比赛。",
+      "translationEn": "We look forward to Tanaka-san's continued success. The B.League will become more interesting. Everyone, please be sure to watch B.League games.",
+      "id": "b6fec090-68e5-4e16-8b0b-78b377ab9581",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手，运动员",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "3e7751bf-601a-4613-a75a-73bb453587b2"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "d0846648-08a9-4fc2-8fa8-c5baa67299f6"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，高明",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "料理が上手な人です。",
+      "id": "85067d0a-72fd-49d9-81c0-3ea6a7424b9e"
+    },
+    {
+      "word": "スピード",
+      "reading": "すぴーど",
+      "meaningZh": "速度",
+      "meaningEn": "speed",
+      "level": "n5n4",
+      "exampleSentence": "彼はスピードが速いです。",
+      "id": "40f2a3ea-6830-4e1b-a9e4-a413f65bd010"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaningZh": "正确，精确",
+      "meaningEn": "accurate, precise",
+      "level": "n3",
+      "exampleSentence": "正確な情報が必要です。",
+      "id": "91778a7b-b903-418f-a5dc-88962028b8b6"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaningZh": "比赛",
+      "meaningEn": "match, game",
+      "level": "n5n4",
+      "exampleSentence": "次の試合はいつですか。",
+      "id": "8c3e6cd3-20f6-41b6-bd43-c52ae85d703a"
+    },
+    {
+      "word": "勝利",
+      "reading": "しょうり",
+      "meaningZh": "胜利",
+      "meaningEn": "victory",
+      "level": "n3",
+      "exampleSentence": "チームは勝利を収めました。",
+      "id": "68fcec39-07a4-4c30-94a1-b386c277f4be"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有功绩",
+      "meaningEn": "active participation, success",
+      "level": "n3",
+      "exampleSentence": "彼は会議で活躍しました。",
+      "id": "1186f0ff-8ec9-47bd-90ed-0a4ab375d1f8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "田中選手はどんなプレーをしますか。",
+      "options": [
+        "遅いスピードでゆっくりプレーする",
+        "速いスピードで正確なシュートを決める",
+        "あまり点を取らない",
+        "いつも試合に負ける"
+      ],
+      "correctIndex": 1,
+      "explanation": "田中選手は、速いスピードでコートを走ります。そして、正確なシュートを決めます。",
+      "id": "b13db4c4-1999-4d12-bd27-f261ff6a7960"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-21-b",
+  "publishedAt": "2026-07-21T06:00:00+09:00"
+}
