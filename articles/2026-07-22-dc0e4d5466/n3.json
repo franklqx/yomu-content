@@ -1,0 +1,135 @@
+{
+  "title": "桜前線！地方都市で春を満喫しよう",
+  "summary": "桜の季節が近づき、各地で美しい桜が見頃を迎えます。今回は、都会の喧騒から離れて、のんびり桜を楽しめる地方都市の魅力を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春になると、日本各地で桜が咲き始め、特別な季節がやってきます。特に、地方都市では、都会とは違った魅力的な桜の名所がたくさんあります。例えば、川沿いに続く桜並木や、古いお寺の境内に咲く桜は、心を落ち着かせてくれます。見頃の時期に訪れると、満開の桜の下でピクニックを楽しむ人々で賑わいます。",
+      "translationZh": "春天一到，日本各地就开始绽放樱花，一个特别的季节就此来临。尤其是在地方城市，有很多与大都市截然不同的迷人赏樱景点。例如，沿着河岸绵延的樱花道，或是在古老寺庙庭院里盛开的樱花，都能让人心情平静。在最佳观赏期前往，樱花树下挤满了享受野餐的人们。",
+      "translationEn": "When spring arrives, cherry blossoms begin to bloom all over Japan, marking the start of a special season. Especially in regional cities, there are many charming cherry blossom spots that differ from those in urban areas. For instance, rows of cherry trees along riversides or blossoms in the precincts of old temples can bring a sense of peace. Visiting during the peak viewing season, you'll find it bustling with people enjoying picnics under the fully bloomed cherry trees.",
+      "id": "47531a6d-9dd1-442e-803b-6e002f39334b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方都市の桜の魅力は、その景観だけではありません。地域の人々との温かい交流も、旅の楽しみの一つです。桜祭りでは、地元の特産品を食べたり、伝統芸能を見たりすることができます。また、桜の開花に合わせて行われるイベントも多く、訪れる人を楽しませてくれます。こうした体験を通して、その土地の文化に触れることができるのは、地方ならではの醍醐味と言えるでしょう。",
+      "translationZh": "地方城市樱花的魅力不仅在于风景。与当地人热情的交流也是旅途的乐趣之一。在樱花节上，你可以品尝当地特产，观看传统表演。此外，配合樱花开放而举行的活动也很多，让游客乐在其中。通过这些体验，能够接触到当地的文化，这可以说是地方特有的绝妙之处。",
+      "translationEn": "The charm of cherry blossoms in regional cities is not limited to their scenery. Warm interactions with local people are also one of the joys of traveling. At cherry blossom festivals, you can taste local specialties and watch traditional performances. Furthermore, many events are held in conjunction with the blooming of the cherry blossoms, delighting visitors. Being able to experience the local culture through these encounters is a unique pleasure of regional areas.",
+      "id": "0316ea14-f768-4909-94f7-b27df3ccfcab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "桜の見頃は短いため、事前に開花情報をしっかり確認することが大切です。最近では、インターネットで簡単に開花予報を調べることができます。計画を立てる際は、交通手段や宿泊施設についても早めに調べておくと安心です。せっかくの桜の旅なので、計画通りに進めて、最高の思い出を作りましょう。",
+      "translationZh": "由于樱花的花期很短，提前确认开花信息非常重要。最近，可以通过互联网轻松查询开花预报。制定计划时，及早确认交通方式和住宿设施也会让人安心。既然是难得的赏樱之旅，就按照计划进行，创造最美好的回忆吧。",
+      "translationEn": "Since the cherry blossom viewing season is short, it's important to check the blooming information thoroughly in advance. Nowadays, you can easily check the blooming forecasts online. When making plans, it's also advisable to research transportation and accommodation early for peace of mind. As it's a precious cherry blossom trip, let's proceed according to plan and create the best memories.",
+      "id": "31ad8912-ca63-4b26-9de3-3c211b16bc9b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "桜並木",
+      "reading": "さくらなみき",
+      "meaningZh": "（道路两旁或河岸边）一排排的樱花树",
+      "meaningEn": "rows of cherry trees (along a street or riverbank)",
+      "level": "n3",
+      "exampleSentence": "川沿いの桜並木がとてもきれいでした。",
+      "id": "d8d4c031-e9b8-431b-a4b5-e4a9516a5a16"
+    },
+    {
+      "word": "境内に",
+      "reading": "けいだい に",
+      "meaningZh": "寺庙或神社的院内、范围内",
+      "meaningEn": "within the precincts of a temple or shrine",
+      "level": "n3",
+      "exampleSentence": "古いお寺の境内に、静かに桜が咲いていました。",
+      "id": "a07f9ad1-8432-4414-89a0-acb82d40ff33"
+    },
+    {
+      "word": "心を落ち着かせてくれます",
+      "reading": "こころ を おちつかせてくれます",
+      "meaningZh": "让人心情平静",
+      "meaningEn": "calms one's mind",
+      "level": "n3",
+      "exampleSentence": "静かな音楽は、私の心を落ち着かせてくれます。",
+      "id": "76401f38-1bf7-4d96-a29f-80a2432ea1c4"
+    },
+    {
+      "word": "賑わいます",
+      "reading": "にぎわいます",
+      "meaningZh": "热闹，兴旺",
+      "meaningEn": "be crowded, be bustling",
+      "level": "n3",
+      "exampleSentence": "週末の市場はいつも賑わっています。",
+      "id": "b07cb686-173a-47f0-85aa-649a2a9246be"
+    },
+    {
+      "word": "特産品",
+      "reading": "とくさんひん",
+      "meaningZh": "特产",
+      "meaningEn": "local specialty product",
+      "level": "n3",
+      "exampleSentence": "この地域には美味しい特産品がたくさんあります。",
+      "id": "c58ca9b7-1148-4304-827b-a9b174880191"
+    },
+    {
+      "word": "伝統芸能",
+      "reading": "でんとうげいのう",
+      "meaningZh": "传统表演艺术",
+      "meaningEn": "traditional performing arts",
+      "level": "n3",
+      "exampleSentence": "お祭りで、地元の伝統芸能を披露しました。",
+      "id": "cb01b94e-9d58-4a19-ad61-717333e00508"
+    },
+    {
+      "word": "醍醐味",
+      "reading": "だいごみ",
+      "meaningZh": "（事物）最有趣、最精彩的部分；绝妙之处",
+      "meaningEn": "the real pleasure, the best part",
+      "level": "n2n1",
+      "exampleSentence": "旅の醍醐味は、予期せぬ出会いかもしれません。",
+      "id": "77f1f0a6-eb62-4210-90d3-e1c086ae684e"
+    },
+    {
+      "word": "開花情報",
+      "reading": "かいかじょうほう",
+      "meaningZh": "开花信息",
+      "meaningEn": "information about blooming",
+      "level": "n3",
+      "exampleSentence": "桜の開花情報をチェックしてから、旅行の計画を立てました。",
+      "id": "651b3149-02a2-4bad-bd6d-a69381d46df3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方都市の桜の魅力として、本文で述べられていることは何ですか？",
+      "options": [
+        "桜並木が長く、桜の数が非常に多いこと",
+        "桜の下で静かに読書ができること",
+        "美しい景観や、地域の人々との交流、文化体験ができること",
+        "交通の便が良く、多くの観光客が訪れること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「地方都市の桜の魅力は、その景観だけではありません。地域の人々との温かい交流も、旅の楽しみの一つです。」「こうした体験を通して、その土地の文化に触れることができるのは、地方ならではの醍醐味と言えるでしょう。」と述べられています。",
+      "id": "1dd6d71c-5ace-4c93-a246-5fdb30d451fe"
+    },
+    {
+      "question": "桜の旅行を計画する上で、筆者が特に注意を促していることは何ですか？",
+      "options": [
+        "桜祭りの日程を最優先すること",
+        "開花情報を事前に確認し、交通手段や宿泊施設を早めに調べること",
+        "現地の言葉を事前に学習しておくこと",
+        "桜の写真をたくさん撮るための準備をすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には、「桜の見頃は短いため、事前に開花情報をしっかり確認することが大切です。」「計画を立てる際は、交通手段や宿泊施設についても早めに調べておくと安心です。」と書かれています。",
+      "id": "7ca7678d-d1ef-48e7-9ac8-a430b45c219c"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-22-dc0e4d5466",
+  "publishedAt": "2026-07-22T06:00:00+09:00"
+}

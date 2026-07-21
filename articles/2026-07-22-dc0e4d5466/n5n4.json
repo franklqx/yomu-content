@@ -1,0 +1,131 @@
+{
+  "title": "春の訪れ、桜の町へ",
+  "summary": "春になりました。桜がきれいに咲く町へ行きませんか。きれいな景色を楽しみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ春です。日本はだんだん暖かくなります。たくさんの桜が咲きます。特に地方の町はきれいです。",
+      "translationZh": "春天快到了。日本渐渐变暖。许多樱花会盛开。尤其是地方上的小镇非常美丽。",
+      "translationEn": "Spring is coming soon. Japan is gradually getting warmer. Many cherry blossoms will bloom. Especially towns in the countryside are beautiful.",
+      "id": "c8ead190-1892-4556-b2b8-5b47b7af594e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、熊本県の「くまもと花見町」は有名です。この町には大きながあります。川沿いに桜がたくさん並んでいます。",
+      "translationZh": "例如，熊本县的“熊本赏花镇”很有名。这个小镇有一棵大樱花树。河边排列着许多樱花。",
+      "translationEn": "For example, 'Kumamoto Hanami Town' in Kumamoto Prefecture is famous. There is a big cherry tree in this town. Many cherry blossoms line the river.",
+      "id": "af2afdb1-e3ba-4c36-9ea8-a5a06d88e710",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人々は桜が大好きです。毎年、桜の季節にお祭りをします。おいしい食べ物や楽しいイベントがあります。多くの人が見にきます。",
+      "translationZh": "镇上的人们非常喜欢樱花。每年，在樱花季节都会举办祭典。有美味的食物和有趣的活动。很多人都会来观看。",
+      "translationEn": "The townspeople love cherry blossoms. Every year, they hold a festival during the cherry blossom season. There is delicious food and fun events. Many people come to see them.",
+      "id": "174c01b3-27ee-4099-82e5-8cac670a2292",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、あなたの町から近い桜の名所へ行ってみませんか。きれいな桜を見て、春を感じてください。",
+      "translationZh": "今年，您要不要去您家附近有名的赏樱地点看看呢？请看看美丽的樱花，感受春天。",
+      "translationEn": "This year, why not go to a famous cherry blossom viewing spot near your town? Please look at the beautiful cherry blossoms and feel the spring.",
+      "id": "8ddf5cd2-b3ad-4bbf-a058-6e85a3cf4def",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访；游览",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "友人の家を訪れました。",
+      "id": "a6229a75-06b6-48ff-915e-4492506272a3"
+    },
+    {
+      "word": "暖かく",
+      "reading": "あたたかく",
+      "meaningZh": "暖和地",
+      "meaningEn": "warmly",
+      "level": "n5n4",
+      "exampleSentence": "今日は暖かくでいい天気です。",
+      "id": "ba56e4e1-c35e-42af-9e95-1ee48171ac6a"
+    },
+    {
+      "word": "桜",
+      "reading": "さくら",
+      "meaningZh": "樱花",
+      "meaningEn": "cherry blossom",
+      "level": "n5n4",
+      "exampleSentence": "桜の花が満開です。",
+      "id": "6dfc5b73-a808-472a-88dc-6e01d0b56ecd"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方；地区",
+      "meaningEn": "region; district",
+      "level": "n5n4",
+      "exampleSentence": "地方の食べ物は美味しいです。",
+      "id": "cbb74ec4-8aaa-4772-a458-2279ee88e879"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "このお寺はとても有名です。",
+      "id": "0a34952d-9f65-4020-afa7-6a43384a271b"
+    },
+    {
+      "word": "川沿い",
+      "reading": "かわぞい",
+      "meaningZh": "沿着河边",
+      "meaningEn": "along the river",
+      "level": "n5n4",
+      "exampleSentence": "川沿いを散歩しました。",
+      "id": "47a54e31-c8af-4b1b-b13a-5168c3df3217"
+    },
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "春の季節が好きです。",
+      "id": "e160b39f-ca92-4004-85c3-15b98aaaa392"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaningZh": "名胜",
+      "meaningEn": "famous place",
+      "level": "n3",
+      "exampleSentence": "京都には古い名所がたくさんあります。",
+      "id": "ccb52511-9170-4290-a732-adf53e19c6dc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「くまもと花見町」のどこがきれいですかの？",
+      "options": [
+        "町の中央",
+        "川沿い",
+        "山の頂上",
+        "駅の近く"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「川沿いに桜がたくさん並んでいます。」と書いてあります。",
+      "id": "90198fba-bd1d-4293-9bf7-9be6f123ebcf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-22-dc0e4d5466",
+  "publishedAt": "2026-07-22T06:00:00+09:00"
+}

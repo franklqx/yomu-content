@@ -1,0 +1,122 @@
+{
+  "title": "コンビニ新スイーツ、おいしい！",
+  "summary": "コンビニで新しいお菓子がたくさん出ました。どれもとてもおいしいです。ぜひ試してください。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "コンビニでは、季節ごとに新しいお菓子が出ます。特に夏は、冷たいスイーツがたくさんあります。チョコレート、クリーム、フルーツなど、色々な種類があります。",
+      "translationZh": "便利店里，每个季节都会推出新的点心。特别是夏天，有很多冰凉的甜点。有巧克力、奶油、水果等各种各样的种类。",
+      "translationEn": "Convenience stores release new sweets every season. Especially in summer, there are many cold sweets. There are various kinds, such as chocolate, cream, and fruit.",
+      "id": "1b604b1d-9023-4096-a5ff-25c753900ab1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、新しいスイーツが次々に出てきました。お店に行くと、どれを買おうか迷ってしまいます。パッケージもかわいくて、見ているだけでも楽しいです。",
+      "translationZh": "最近，新的甜点接二连三地上市了。去店里的时候，会让人犹豫买哪个好。包装也很可爱，光是看着就很有趣。",
+      "translationEn": "Recently, new sweets have been released one after another. When I go to the store, I can't decide which one to buy. The packaging is also cute, and it's fun just to look at them.",
+      "id": "2a0361c5-5ab8-44e8-b6be-422afbc6e4a6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "友達とコンビニに行きました。そして、一番人気があるというシュークリームを買いました。クリームがたくさん入っていて、とてもおいしかったです。",
+      "translationZh": "我和朋友去了便利店。然后，买了据说最受欢迎的泡芙。里面有很多奶油，非常好吃。",
+      "translationEn": "I went to the convenience store with my friend. Then, we bought a cream puff that was said to be the most popular. It was filled with lots of cream and was very delicious.",
+      "id": "733d7dfe-5d1b-446b-aa70-043958b846e2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、お気に入りのコンビニスイーツを見つけてください。新しい味は、気分を明るくしてくれますよ。",
+      "translationZh": "大家也请找出自己喜欢的便利店甜点吧。新的口味能让心情变得愉快哦。",
+      "translationEn": "Everyone, please find your favorite convenience store sweets. New flavors can brighten your mood.",
+      "id": "e5e46a0c-088a-4880-8dd0-7bb942849a42",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コンビニ",
+      "reading": "こんびに",
+      "meaningZh": "便利店",
+      "meaningEn": "convenience store",
+      "level": "n5n4",
+      "exampleSentence": "毎朝、コンビニでコーヒーを買います。",
+      "id": "b146410a-ee25-4aea-9369-2e55ac67f225"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "この味は、この地域限定です。",
+      "id": "17a56613-dc80-4993-96b6-72d1f6ee1ada"
+    },
+    {
+      "word": "スイーツ",
+      "reading": "すいーつ",
+      "meaningZh": "甜点",
+      "meaningEn": "sweets, dessert",
+      "level": "n5n4",
+      "exampleSentence": "甘いスイーツが大好きです。",
+      "id": "48d452fa-0944-4603-a856-2c332d2f9383"
+    },
+    {
+      "word": "新商品",
+      "reading": "しんしょうひん",
+      "meaningZh": "新商品",
+      "meaningEn": "new product",
+      "level": "n5n4",
+      "exampleSentence": "新しい商品の発表会がありました。",
+      "id": "13e57325-b844-41d3-920f-519e0f480d4d"
+    },
+    {
+      "word": "次々",
+      "reading": "つぎつぎ",
+      "meaningZh": "接二连三，一个接一个",
+      "meaningEn": "one after another",
+      "level": "n5n4",
+      "exampleSentence": "新しい本が次々に出ています。",
+      "id": "082c3be2-587b-46d7-8d51-855296bfeefb"
+    },
+    {
+      "word": "迷う",
+      "reading": "まよう",
+      "meaningZh": "犹豫，迷路",
+      "meaningEn": "to lose one's way; to get lost; to hesitate",
+      "level": "n5n4",
+      "exampleSentence": "どれを買うか迷っています。",
+      "id": "d9063183-1c05-4c34-922e-888742c1ab42"
+    },
+    {
+      "word": "シュークリーム",
+      "reading": "しゅーくりーむ",
+      "meaningZh": "泡芙",
+      "meaningEn": "cream puff",
+      "level": "n5n4",
+      "exampleSentence": "このシュークリームはとてもおいしいです。",
+      "id": "5784cecc-75cd-4cc8-86d3-d151a50fe084"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニで新しいお菓子がたくさん出ました。どんなお菓子ですか？",
+      "options": [
+        "冷たいお菓子",
+        "温かいお菓子",
+        "しょっぱいお菓子",
+        "辛いお菓子"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「特に夏は、冷たいスイーツがたくさんあります。」と書いてあります。",
+      "id": "ea3f8df4-5413-4d91-89db-14f54ad8dd7f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-22-2caae4166c",
+  "publishedAt": "2026-07-22T06:00:00+09:00"
+}

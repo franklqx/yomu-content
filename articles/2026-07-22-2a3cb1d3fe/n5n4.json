@@ -1,0 +1,131 @@
+{
+  "title": "新しいアニメが始まった！",
+  "summary": "新しいアニメがテレビで始まりました。たくさんの人がこのアニメを見ています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今月、新しいアニメが始まりました。このアニメはとても人気があります。毎週楽しみにしている人が多いです。",
+      "translationZh": "这个月，一部新动画片开播了。这部动画片非常受欢迎。很多人每周都在期待它。",
+      "translationEn": "This month, a new anime started. This anime is very popular. Many people look forward to it every week.",
+      "id": "1bab36b2-f5ee-4b2b-81d9-2d1c483516fd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの会社は、このアニメを有名にするために、たくさんの工夫をしました。例えば、SNSで短い動画を流しました。多くの人がそれを見て、アニメに興味を持ちました。",
+      "translationZh": "动画公司为了让这部动画片出名，做了很多努力。例如，他们在社交媒体上发布了短视频。很多人看了视频，对动画片产生了兴趣。",
+      "translationEn": "The anime company made many efforts to make this anime famous. For example, they released short videos on social media. Many people watched them and became interested in the anime.",
+      "id": "f88c42e0-16ef-4470-ac7e-5940985b5798",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、声優さんたちのインタビューも公開しました。声優さんたちの話を聞いて、アニメの世界がもっと分かりやすくなりました。だから、もっと多くの人がアニメを見たいと思いました。",
+      "translationZh": "此外，还公开了声优们的采访。听了声优们的话，动画的世界变得更容易理解了。因此，更多的人想看这部动画片。",
+      "translationEn": "Also, interviews with the voice actors were released. Listening to the voice actors' stories made the anime world easier to understand. Therefore, more people wanted to watch the anime.",
+      "id": "f6274827-fc54-42b7-a186-21d8efc95106",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最初のアニメ放送はとてもうまくいきました。これからも、このアニメがもっと人気になることを期待しています。",
+      "translationZh": "最初的动画播放非常成功。今后，我们也期待这部动画片能更受欢迎。",
+      "translationEn": "The first broadcast of the anime went very well. We expect this anime to become even more popular from now on.",
+      "id": "5249435a-8e21-4b1d-85f2-125a348e5f8a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい本です。",
+      "id": "3eb5c5cc-5aa7-4b9f-b924-28f844d1f34b"
+    },
+    {
+      "word": "アニメ",
+      "reading": "あにめ",
+      "meaningZh": "动画片",
+      "meaningEn": "anime",
+      "level": "n5n4",
+      "exampleSentence": "私はアニメを見るのが好きです。",
+      "id": "3122a945-29ac-4698-b864-ce03dc400af8"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaningZh": "播放，播出",
+      "meaningEn": "broadcast",
+      "level": "n5n4",
+      "exampleSentence": "テレビで新しいドラマが放送されます。",
+      "id": "a18a2b54-eb6e-4c7a-a9f3-ef9c6b4510b6"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "ad2fcb39-1775-43c8-904d-c14f9784f0f5"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，创造，技巧",
+      "meaningEn": "device, invention, effort",
+      "level": "n3",
+      "exampleSentence": "彼は新しいアイデアを工夫しました。",
+      "id": "3ba0b5b5-abd9-4fa8-af36-7a34b96021d8"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは有名です。",
+      "id": "7334ac6e-5c65-44a5-bdb4-5ca019c6505c"
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaningZh": "兴趣",
+      "meaningEn": "interest",
+      "level": "n5n4",
+      "exampleSentence": "歴史に興味があります。",
+      "id": "0721b6f9-15dc-4fe6-a84e-12dce5fe84e9"
+    },
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "声优",
+      "meaningEn": "voice actor",
+      "level": "n3",
+      "exampleSentence": "そのアニメの主人公は有名な声優がやりました。",
+      "id": "a4178f50-fe72-4804-842f-8051615f2b6c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの会社は何をしましたか？",
+      "options": [
+        "短い動画を流しました。",
+        "歌を歌いました。",
+        "ゲームを作りました。",
+        "映画を撮りました。"
+      ],
+      "correctIndex": 0,
+      "explanation": "アニメの会社は、このアニメを有名にするために、たくさんの工夫をしました。例えば、SNSで短い動画を流しました。",
+      "id": "fc8a00ce-6907-4737-8a18-5da92088b580"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-22-2a3cb1d3fe",
+  "publishedAt": "2026-07-22T06:00:00+09:00"
+}
