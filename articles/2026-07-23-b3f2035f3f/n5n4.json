@@ -1,0 +1,123 @@
+{
+  "title": "街にロボットが増えた！",
+  "summary": "最近、街でロボットを見る機会が増えました。特に、案内をするロボットはとても便利です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の大きな街でロボットを見る機会が増えています。ロボットは、お店や駅で働いています。例えば、道案内をするロボットがいます。",
+      "translationZh": "最近，在日本的大城市里看到机器人的机会增加了。机器人会在商店和车站工作。例如，有在指路的机器人。",
+      "translationEn": "Recently, opportunities to see robots have increased in big cities in Japan. Robots work in shops and at stations. For example, there are robots that guide people.",
+      "id": "90393a03-48e6-4bf1-9b0e-6e8d9540ebd4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このロボットは、とても親切（しんせつ）です。困（こま）っている人を見ると、すぐに話しかけてくれます。どこに行きたいか聞（き）いて、一番（いちばん）いい道（みち）を教（おし）えてくれます。",
+      "translationZh": "这个机器人非常亲切。看到有困难的人，它会马上搭话。它会问你想去哪里，然后告诉你最好的路线。",
+      "translationEn": "This robot is very kind. When it sees someone in trouble, it speaks to them immediately. It asks where they want to go and tells them the best way.",
+      "id": "cb5898fc-9441-4b9f-867e-801647977e8d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員（あんないいん）は、日本語（にほんご）だけでなく、英語（えいご）や中国語（ちゅうごくご）でも話せます。だから、外国（がいこく）から来た人（ひと）も安心（あんしん）して利用（りよう）できます。これからも、もっと増（ふ）えるでしょう。",
+      "translationZh": "机器人导览员不仅会说日语，也会说英语和中文。所以，从外国来的人也能安心地使用。今后，可能还会更多地增加。",
+      "translationEn": "Robot guides can speak not only Japanese but also English and Chinese. Therefore, people from foreign countries can also use them with peace of mind. They will likely increase more in the future.",
+      "id": "76ebd784-772b-42e0-a03b-bda07b42e450",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "街",
+      "reading": "まち",
+      "meaningZh": "街道，街市",
+      "meaningEn": "town, street, city",
+      "level": "n5n4",
+      "exampleSentence": "この街はきれいです。",
+      "id": "70fc31fd-7070-48b2-ab72-a607dc040612"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "chance, opportunity",
+      "level": "n5n4",
+      "exampleSentence": "練習する機会があります。",
+      "id": "b526091e-f25d-4b5e-a8de-0acca2196ac0"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaningZh": "引导，向导",
+      "meaningEn": "guidance, information",
+      "level": "n5n4",
+      "exampleSentence": "駅の案内所はどこですか。",
+      "id": "074b702d-4f49-4acf-8a1f-40869a01fde4"
+    },
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaningZh": "亲切",
+      "meaningEn": "kind, friendly",
+      "level": "n5n4",
+      "exampleSentence": "あの人はとても親切です。",
+      "id": "e60e9509-090b-4b17-9e5c-ef5e15ebf30b"
+    },
+    {
+      "word": "困る",
+      "reading": "こまる",
+      "meaningZh": "为难，困难",
+      "meaningEn": "to be troubled, to be in a fix",
+      "level": "n5n4",
+      "exampleSentence": "お金がなくて困っています。",
+      "id": "0c4b40cc-7d8e-42a3-b7b9-d7caf6879b86"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaningZh": "最，第一",
+      "meaningEn": "most, first",
+      "level": "n5n4",
+      "exampleSentence": "これが一番おいしいです。",
+      "id": "bc0fe1b7-f8db-4a8b-9e42-36c63df3d4b8"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaningZh": "外国",
+      "meaningEn": "foreign country",
+      "level": "n5n4",
+      "exampleSentence": "外国へ旅行したいです。",
+      "id": "7ee0796c-bdeb-43e6-b1de-8d0f83beba54"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用，使用",
+      "meaningEn": "use, utilization",
+      "level": "n5n4",
+      "exampleSentence": "このアプリを利用できます。",
+      "id": "50b92c7f-d7df-45f3-a089-a705466c2446"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員は、どんなことができますか。",
+      "options": [
+        "お店で物を売る",
+        "困っている人を助ける",
+        "料理を作る",
+        "車を運転する"
+      ],
+      "correctIndex": 1,
+      "explanation": "困（こま）っている人を見ると、すぐに話しかけてくれます。",
+      "id": "9b14d0d3-a82f-43c5-8c3d-354ccb2bf631"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-23-b3f2035f3f",
+  "publishedAt": "2026-07-23T06:00:00+09:00"
+}

@@ -1,0 +1,147 @@
+{
+  "title": "都市部で増加、ロボット案内員の導入が進む背景",
+  "summary": "訪日外国人観光客の増加や人手不足を背景に、都市部を中心にロボット案内員の導入が進んでいます。これにより、多言語対応や24時間稼働といった利便性の向上が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、都市部におけるロボット案内員の導入が顕著に増加している。特に、大型商業施設や観光案内所、公共交通機関などにおいて、多言語での情報提供や道案内を行うロボットの姿が見られるようになった。これは、訪日外国人観光客の増加に伴う対応の必要性や、国内における人手不足といった社会的な課題が背景にあると見られている。",
+      "translationZh": "近年来，都市部引进机器人导览员的现象显著增加。特别是在大型商业设施、旅游咨询处、公共交通枢纽等地，可以看到能够提供多语言信息和路线指引的机器人。这被认为是以访日外国游客的增加所带来的应对需求以及国内人力短缺等社会性问题为背景。",
+      "translationEn": "In recent years, the introduction of robot guides in urban areas has increased remarkably. Especially in large commercial facilities, tourist information centers, and public transportation hubs, robots capable of providing multilingual information and directions are now visible. This is seen as being driven by the need to accommodate the rise in foreign tourists visiting Japan and by social issues such as domestic labor shortages.",
+      "id": "942a9640-bc8d-4217-be61-9c2af6f793be",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員が導入される最大のメリットの一つは、言語の壁を越えた対応が可能になる点である。AI技術の進化により、自然な対話形式での質問応答や、複雑な情報検索にも対応できるロボットが登場している。これにより、従来の人間による案内では難しかった、時間帯や担当者のスキルに左右されない、均一で質の高いサービス提供が実現されることが期待されている。",
+      "translationZh": "机器人导览员被引进的最大优点之一是能够跨越语言障碍进行应对。随着人工智能技术的进步，出现了能够以自然对话形式进行问答、甚至处理复杂信息搜索的机器人。这使得原本通过人工导览难以实现的、不受时段和人员技能影响的、均一且高质量的服务提供成为可能，并备受期待。",
+      "translationEn": "One of the biggest advantages of introducing robot guides is the ability to provide services that overcome language barriers. With the advancement of AI technology, robots capable of answering questions in a natural conversational style and even handling complex information searches are emerging. This is expected to achieve uniform, high-quality service provision, unaffected by time of day or staff expertise, which was difficult with traditional human guidance.",
+      "id": "adf0e256-5480-4890-b084-8fe0b8741b12",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、ロボット案内員の導入には課題も存在する。高額な初期投資や、想定外の質問への対応能力の限界、そして何よりも、人間ならではの温かみや共感といった感情的なコミュニケーションの不足が指摘されている。そのため、ロボットと人間が協働し、それぞれの長所を活かしたハイブリッドな案内体制を構築することが、今後の発展の鍵となると考えられている。技術の進歩とともに、より人間らしい、きめ細やかな対応ができるロボットの開発が求められている。",
+      "translationZh": "另一方面，引进机器人导览员也存在挑战。例如，高昂的初期投资、应对意料之外问题的能力有限，以及最重要的是，缺乏人类特有的温暖和共情等情感交流。因此，构建机器人与人类协作、发挥各自优势的混合式导览体系，被认为是未来发展的关键。随着技术的进步，人们期待能够开发出更具人性化、更细致周到的机器人。",
+      "translationEn": "On the other hand, there are also challenges associated with the introduction of robot guides. These include high initial investment costs, limitations in their ability to handle unexpected questions, and, most importantly, a lack of emotional communication such as warmth and empathy inherent in humans. Therefore, building a hybrid guidance system where robots and humans collaborate, leveraging their respective strengths, is considered key to future development. Alongside technological advancements, there is a demand for the development of robots that can offer more human-like and nuanced support.",
+      "id": "10b99752-98be-4467-a2f1-805523b9a8de",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "顕著",
+      "reading": "けんちょ",
+      "meaningZh": "显著，明显",
+      "meaningEn": "remarkable, noticeable",
+      "level": "n2n1",
+      "exampleSentence": "近年、技術の進歩は顕著である。",
+      "id": "6bad36a6-3719-4db7-87e6-0c6ccf670ad6"
+    },
+    {
+      "word": "訪日外国人観光客",
+      "reading": "ほうにちがいこくじんかんこうきゃく",
+      "meaningZh": "访日外国游客",
+      "meaningEn": "foreign tourists visiting Japan",
+      "level": "n2n1",
+      "exampleSentence": "訪日外国人観光客の増加は、経済活性化に貢献している。",
+      "id": "89f9edef-2bce-4d31-ab8a-eb5d23f6f6db"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "多くの業界で人手不足が深刻化している。",
+      "id": "0d45967d-4005-45e1-a372-e026ec13d664"
+    },
+    {
+      "word": "顕著",
+      "reading": "けんちょ",
+      "meaningZh": "显著，明显",
+      "meaningEn": "remarkable, noticeable",
+      "level": "n2n1",
+      "exampleSentence": "近年、技術の進歩は顕著である。",
+      "id": "59f33ba5-be2d-4a1b-8aba-89df9f316561"
+    },
+    {
+      "word": "言語の壁",
+      "reading": "げんごのかべ",
+      "meaningZh": "语言障碍，语言的障碍",
+      "meaningEn": "language barrier",
+      "level": "n3",
+      "exampleSentence": "国際交流において、言語の壁は常に課題となる。",
+      "id": "2fd723de-9738-454e-be04-81f512ba582a"
+    },
+    {
+      "word": "質問応答",
+      "reading": "しつもんおうとう",
+      "meaningZh": "问答",
+      "meaningEn": "question and answer",
+      "level": "n2n1",
+      "exampleSentence": "チャットボットの質問応答能力は年々向上している。",
+      "id": "b82fb93d-642d-4a45-a269-4f8cdf418ba9"
+    },
+    {
+      "word": "協働",
+      "reading": "きょうどう",
+      "meaningZh": "协作，协同工作",
+      "meaningEn": "collaboration, working together",
+      "level": "n2n1",
+      "exampleSentence": "チームでの協働により、プロジェクトは成功裡に終わった。",
+      "id": "c88d4693-151d-45a0-aef9-c6b1f97a3bcb"
+    },
+    {
+      "word": "きめ細やか",
+      "reading": "きめこまやか",
+      "meaningZh": "细致入微，周到",
+      "meaningEn": "meticulous, detailed, thoughtful",
+      "level": "n2n1",
+      "exampleSentence": "顧客一人ひとりにきめ細やかな対応を心がけている。",
+      "id": "945ba2b7-c1bd-467f-8943-6f3dceaed7d6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、都市部でロボット案内員の導入が増加している主な理由は何ですか？",
+      "options": [
+        "ロボットの価格が大幅に下がったため",
+        "訪日外国人観光客の増加と人手不足のため",
+        "最新のAI技術を試験的に導入したいため",
+        "案内員の高齢化問題に対応するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「訪日外国人観光客の増加に伴う対応の必要性や、国内における人手不足といった社会的な課題が背景にあると見られている。」と述べられています。",
+      "id": "5c07572c-77e4-41bf-9215-3eac620c3fb2"
+    },
+    {
+      "question": "ロボット案内員がもたらす利点として、記事中で特に強調されている点は何ですか？",
+      "options": [
+        "人間のような感情的な対応ができること",
+        "人件費を大幅に削減できること",
+        "言語の壁を越えた均一で質の高いサービス提供が可能になること",
+        "予期せぬ事態にも柔軟に対応できること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「言語の壁を越えた対応が可能になる点」「均一で質の高いサービス提供が実現されることが期待されている。」と説明されています。",
+      "id": "e296e51d-79cb-4762-a95d-69c61d901900"
+    },
+    {
+      "question": "ロボット案内員の導入における課題として、記事ではどのような点が指摘されていますか？",
+      "options": [
+        "メンテナンス費用が高額であること",
+        "人間のような温かみのあるコミュニケーションが不足していること",
+        "限られた場所でしか利用できないこと",
+        "最新技術への対応が追いつかないこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「人間ならではの温かみや共感といった感情的なコミュニケーションの不足が指摘されている。」と具体的に挙げられています。",
+      "id": "dbdb88f6-e655-4eaf-89fb-0d023b90e177"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-23-b3f2035f3f",
+  "publishedAt": "2026-07-23T06:00:00+09:00"
+}

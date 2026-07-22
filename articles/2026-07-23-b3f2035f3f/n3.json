@@ -1,0 +1,126 @@
+{
+  "title": "街でよく見る？ロボット案内員が増えている理由",
+  "summary": "最近、デパートや駅でロボットが案内をしているのを見かけませんか？今回は、都市部でロボット案内員が増えている背景と、そのメリットについて見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市部のデパートや駅、観光地などで、ロボットが案内業務を行う姿をよく見かけるようになりました。これらのロボットは、音声で道案内をしたり、周辺の施設情報を説明したりと、人間と同じような役割を担っています。専門家によると、人手不足や、より効率的なサービス提供が求められていることが、ロボット案内員が増えている背景にあるそうです。",
+      "translationZh": "最近，在都市区的百货公司、车站和旅游景点，我们经常能看到机器人提供向导服务。这些机器人能用语音指路，说明周边设施信息，承担着与人类相似的角色。专家表示，人手不足以及对更有效率的服务需求不断增长，是机器人导览员增加的背景。",
+      "translationEn": "Recently, in urban department stores, stations, and tourist spots, we often see robots performing guidance duties. These robots guide people by voice and explain information about surrounding facilities, taking on roles similar to humans. According to experts, labor shortages and the demand for more efficient service provision are the backgrounds behind the increase in robot guides.",
+      "id": "44b3abf4-3a2c-4ef9-8613-16ab418b223e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員には、いくつかのメリットがあります。まず、24時間いつでも対応できるという点です。人間のように休憩を取る必要がないため、いつでも正確な情報を提供できます。また、多言語対応が可能なロボットも多く、外国人観光客が多い場所では特に役立ちます。さらに、感染症対策としても、人と接する機会を減らせるため、有効だと考えられています。",
+      "translationZh": "机器人导览员有几个优点。首先，它们可以24小时随时提供服务。因为不像人类需要休息，所以可以随时提供准确的信息。此外，很多机器人支持多语言，在外语游客较多的地方尤其有用。而且，作为防止感染的对策，减少与人接触的机会，也被认为是非常有效的。",
+      "translationEn": "Robot guides have several advantages. Firstly, they can operate 24 hours a day. Unlike humans, they don't need breaks, so they can provide accurate information at any time. Also, many robots can support multiple languages, making them particularly useful in places with many foreign tourists. Furthermore, as a measure against infectious diseases, reducing human contact is also considered effective.",
+      "id": "bf14480f-a5a6-41fe-a062-f7139b1e43b8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、ロボットがすべてを代替できるわけではありません。複雑な質問への対応や、感情のこもったコミュニケーションは、まだ人間にしかできません。しかし、情報提供という点においては、ロボットは非常に頼りになる存在になりつつあります。今後、技術が進歩すれば、さらに多様な場面でロボットが活躍することが期待されるでしょう。",
+      "translationZh": "当然，机器人并非万能，无法取代所有工作。处理复杂问题和富有感情的交流，目前仍只能由人类完成。然而，在提供信息方面，机器人正变得越来越值得信赖。未来，随着技术的进步，预计机器人将在更多样化的场景中发挥作用。",
+      "translationEn": "Of course, robots cannot replace everything. Handling complex questions and emotional communication can still only be done by humans. However, in terms of providing information, robots are becoming very reliable. As technology advances in the future, robots are expected to play active roles in even more diverse situations.",
+      "id": "ac696436-7910-43c6-8164-2f4858044dd9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "导览员；向导",
+      "meaningEn": "guide; attendant",
+      "level": "n3",
+      "exampleSentence": "駅員さんに切符売り場の場所を案内員に聞きました。",
+      "id": "25914775-71c7-471b-954c-96dff994c0cd"
+    },
+    {
+      "word": "効率的",
+      "reading": "こうりつてき",
+      "meaningZh": "有效率的；效率高的",
+      "meaningEn": "efficient",
+      "level": "n3",
+      "exampleSentence": "もっと効率的な勉強方法を見つけたいです。",
+      "id": "76aed67b-93fe-4372-8afd-10802bdcdc81"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaningZh": "背景；原因",
+      "meaningEn": "background; cause",
+      "level": "n3",
+      "exampleSentence": "この問題の背景には、経済的な理由があると考えられています。",
+      "id": "e80ca590-54ed-4676-a12c-caf2d546493e"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaningZh": "应对；对应；处理",
+      "meaningEn": "response; dealing with; support",
+      "level": "n3",
+      "exampleSentence": "お客様からの問い合わせに迅速に対応しました。",
+      "id": "7f4f50a3-820c-412d-9714-5b88b6ff5880"
+    },
+    {
+      "word": "多言語",
+      "reading": "たげんご",
+      "meaningZh": "多语言",
+      "meaningEn": "multilingual",
+      "level": "n3",
+      "exampleSentence": "このホテルは多言語対応のスタッフがいます。",
+      "id": "987dd693-4e9a-43f8-b0b5-4061b43d5109"
+    },
+    {
+      "word": "感染症",
+      "reading": "かんせんしょう",
+      "meaningZh": "传染病；感染症",
+      "meaningEn": "infectious disease",
+      "level": "n2n1",
+      "exampleSentence": "季節の変わり目は、感染症にかかりやすいので注意が必要です。",
+      "id": "886da545-032a-430a-a24d-2bc12431fcce"
+    },
+    {
+      "word": "代替",
+      "reading": "だいたい",
+      "meaningZh": "代替；替代品",
+      "meaningEn": "substitution; alternative",
+      "level": "n2n1",
+      "exampleSentence": "AIの発展により、人間の仕事の一部が代替される可能性がある。",
+      "id": "0a72267e-f0e4-4d85-8031-c456b1144361"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が増えている理由として、記事で述べられているのはどれですか？",
+      "options": [
+        "ロボットの方が人間より料金が安いから",
+        "人手不足と、より効率的なサービス提供の要求があるから",
+        "人間が案内業務をしたがらないから",
+        "ロボットの方が旅行客に人気があるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第一段落に「人手不足や、より効率的なサービス提供が求められていることが、ロボット案内員が増えている背景にあるそうです。」と書かれています。",
+      "id": "2fd13824-030c-403b-bf6a-3261a24ce579"
+    },
+    {
+      "question": "ロボット案内員のメリットとして、記事で挙げられていないものはどれですか？",
+      "options": [
+        "24時間いつでも対応できること",
+        "多言語での対応が可能であること",
+        "複雑な質問にも正確に答えられること",
+        "感染症対策として有効であること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第三段落に「複雑な質問への対応や、感情のこもったコミュニケーションは、まだ人間にしかできません。」と書かれており、ロボットは複雑な質問に正確に答えられるわけではないことが示唆されています。",
+      "id": "9fd89d6c-6ffc-4afa-8f54-b9d57efb11a2"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-23-b3f2035f3f",
+  "publishedAt": "2026-07-23T06:00:00+09:00"
+}

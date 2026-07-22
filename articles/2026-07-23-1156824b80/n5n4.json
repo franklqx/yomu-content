@@ -1,0 +1,122 @@
+{
+  "title": "純喫茶が若者に人気",
+  "summary": "最近、若い人たちの間で「純喫茶」が人気です。昔ながらの喫茶店が注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で「純喫茶」が人気になっています。純喫茶は、昔からある特別な喫茶店のことです。コーヒーやケーキを楽しむことができます。",
+      "translationZh": "最近，在年轻人中间“纯喫茶”变得很受欢迎。纯喫茶是指从以前就有的、特别的咖啡店。可以在那里享用咖啡和蛋糕。",
+      "translationEn": "Recently, 'jun-kissa' (old-fashioned coffee shops) have become popular among young people. Jun-kissa are special coffee shops that have existed for a long time. You can enjoy coffee and cake there.",
+      "id": "6ffc1d45-65fa-4791-9101-a6a97ac99a94",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶の店内は、レトロで落ち着いた雰囲気があります。おしゃれなインテリアや、昔の音楽も楽しめます。友達とゆっくり話すのに良い場所です。",
+      "translationZh": "纯喫茶的店内有复古又平静的氛围。还可以欣赏时髦的室内装饰和老式音乐。是和朋友悠闲交谈的好地方。",
+      "translationEn": "The interior of a jun-kissa has a retro and calm atmosphere. You can also enjoy stylish interior decorations and old music. It's a good place to chat leisurely with friends.",
+      "id": "6367d186-2767-480f-a817-2797ddb2326b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューも昔ながらのものです。クリームソーダやプリン、ナポリタンなどがあります。見た目も可愛くて、写真に撮りたくなります。",
+      "translationZh": "菜单也是老式的。有漂浮冰淇淋汽水、布丁、那不勒斯意面等。看起来也很可爱，让人想拍照。",
+      "translationEn": "The menu is also old-fashioned. There are items like cream soda, pudding, and Neapolitan spaghetti. They also look cute and make you want to take pictures.",
+      "id": "3750af9d-ebe0-41a2-867e-54dc2f67ef92",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "SNSで純喫茶の写真がたくさん共有されています。多くの若い人が、純喫茶の特別な雰囲気を楽しんでいます。新しい体験ができるので、人気が出ているのでしょう。",
+      "translationZh": "SNS 上分享了很多纯喫茶的照片。很多年轻人正在享受纯喫茶的特别氛围。因为能获得新体验，所以人气不断上升吧。",
+      "translationEn": "Many photos of jun-kissa are shared on social media. Many young people are enjoying the special atmosphere of jun-kissa. It's probably becoming popular because you can have a new experience.",
+      "id": "d20ee422-74df-49a9-b1ea-1ccba1c794d0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "その店は若者に人気です。",
+      "id": "52ede216-2934-4e10-b3ac-1530ab622e0e"
+    },
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "纯喫茶（老式咖啡店）",
+      "meaningEn": "old-fashioned coffee shop",
+      "level": "n5n4",
+      "exampleSentence": "純喫茶でコーヒーを飲みました。",
+      "id": "ef5a54e3-08a9-4c94-8196-31bdd4e33533"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この本は人気があります。",
+      "id": "0d9273b8-a600-42a2-993e-16b4ed7a6716"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛，氛围",
+      "meaningEn": "atmosphere",
+      "level": "n5n4",
+      "exampleSentence": "お店の雰囲気がいいです。",
+      "id": "bb118c81-928e-411b-adb6-8c632dec6fc9"
+    },
+    {
+      "word": "レトロ",
+      "reading": "れとろ",
+      "meaningZh": "复古的",
+      "meaningEn": "retro",
+      "level": "n5n4",
+      "exampleSentence": "レトロなデザインが好きです。",
+      "id": "88ba35a9-c5c8-4f52-b05d-680d0a63c3b6"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "メニューを見てください。",
+      "id": "582df867-9ddb-4408-a2c9-f09b71e7dc9c"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "新しい体験は楽しいです。",
+      "id": "29e68317-ccc7-4228-8dbf-4eaba1e81af0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若者は純喫茶に惹かれていますか。",
+      "options": [
+        "安くておいしいから",
+        "店員が親切だから",
+        "特別な雰囲気と体験ができるから",
+        "勉強するのに静かだから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「多くの若い人が、純喫茶の特別な雰囲気を楽しんでいます。新しい体験ができるので、人気が出ているのでしょう。」",
+      "id": "73405b9c-352f-4515-9175-b8c95c592518"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-23-1156824b80",
+  "publishedAt": "2026-07-23T06:00:00+09:00"
+}
