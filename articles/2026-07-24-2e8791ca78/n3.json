@@ -1,0 +1,135 @@
+{
+  "title": "育休取得率、最新データと企業の取り組み",
+  "summary": "男性の育児休業取得率が過去最高を更新しました。企業も社員が休みを取りやすい環境を作るための取り組みを進めています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "厚生労働省が発表した最新のデータによると、男性の育児休業取得率は過去最高の17.13％となりました。これは、国が目標としていた13％を大きく上回る数字です。女性の取得率は約80％ですが、男性の取得率が上がったことは、子育てに対する社会全体の意識が変わってきている証拠と言えるでしょう。",
+      "translationZh": "根据厚生劳动省发布的最新数据，男性育儿休假（育休）的休假率达到了创纪录的17.13%。这一数字远超了国家设定的13%的目标。虽然女性的休假率约为80%，但男性休假率的上升可以说是育儿观念在整个社会发生变化的证明。",
+      "translationEn": "According to the latest data released by the Ministry of Health, Labour and Welfare, the rate of men taking childcare leave has reached a record high of 17.13%. This figure significantly exceeds the government's target of 13%. While the female leave rate is around 80%, the increase in male leave rate can be seen as evidence of changing societal awareness towards childcare.",
+      "id": "7486724e-7214-4d42-a1a5-1bf9e26660a2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜ男性の取得率が上がっているのでしょうか。一つの理由として、企業側が育児休業を取りやすいような制度を整え始めていることが挙げられます。例えば、育休を取得した社員に手当を支給したり、短時間勤務を選択できるようにしたりする企業が増えています。これにより、仕事と家庭の両立がしやすくなったと感じる男性が増えているのでしょう。",
+      "translationZh": "为什么男性休假率在上升呢？一个原因是企业方面开始着手建立更容易休育儿假的制度。例如，越来越多的企业开始向休育儿假的员工发放津贴，或者允许他们选择弹性工作时间。这大概使得越来越多的男性认为工作与家庭兼顾变得更容易了。",
+      "translationEn": "Why is the male leave rate increasing? One reason is that companies are beginning to establish systems that make it easier to take childcare leave. For instance, more companies are providing allowances to employees who take childcare leave or allowing them to choose shorter working hours. This is likely making it easier for more men to balance work and family life.",
+      "id": "cd6cdc85-8359-4637-bd9e-db020a7bc5b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、まだ課題は残っています。特に中小企業では、人手不足のため、男性が育休を取得することに抵抗を感じるケースも少なくありません。しかし、政府は育休取得を促進するために、企業への助成金制度を拡充するなど、様々な支援策を打ち出しています。今後、さらに多くの企業で、育児休業が当たり前の権利として認められるようになっていくことが期待されます。",
+      "translationZh": "当然，仍然存在一些问题。尤其是在中小企业，由于人手不足，男性在休育儿假时感到顾虑的情况并不少见。然而，政府正在推出各种支持措施，例如扩大对企业的补助金制度，以促进育儿假的休假。未来，人们期待育儿休假能在更多企业中被视为一项理所当然的权利。",
+      "translationEn": "Of course, challenges remain. Especially in small and medium-sized enterprises, many men feel hesitant to take childcare leave due to labor shortages. However, the government is implementing various support measures, such as expanding subsidy systems for companies, to promote childcare leave. It is expected that in the future, childcare leave will be recognized as a matter of course in more companies.",
+      "id": "e0d7e4b5-b582-4008-8ca0-1c556bff212d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "（某种资格、权利、休假等）获得的比率",
+      "meaningEn": "acquisition rate",
+      "level": "n3",
+      "exampleSentence": "育児休業の取得率を上げることは、政府の目標の一つです。",
+      "id": "8a5b1dfc-56af-4477-8d47-74f2b323f177"
+    },
+    {
+      "word": "更新する",
+      "reading": "こうしんする",
+      "meaningZh": "（记录、记录等）打破，创新高",
+      "meaningEn": "to update, to renew",
+      "level": "n3",
+      "exampleSentence": "この記録は去年の記録を更新しました。",
+      "id": "67847297-3bd4-4e50-834d-4746e2ea8a23"
+    },
+    {
+      "word": "厚労省",
+      "reading": "こうろうしょう",
+      "meaningZh": "厚生劳动省（日本政府部门）",
+      "meaningEn": "Ministry of Health, Labour and Welfare",
+      "level": "n3",
+      "exampleSentence": "厚労省は、国民の健康と福祉に関する政策を担当しています。",
+      "id": "0210bc54-81b3-45a3-b4cf-16efec23981b"
+    },
+    {
+      "word": "上回る",
+      "reading": "うわまわる",
+      "meaningZh": "超过，超出",
+      "meaningEn": "to exceed, to surpass",
+      "level": "n3",
+      "exampleSentence": "予想を上回る成績で合格しました。",
+      "id": "043efb03-b9a8-4078-ae97-0fc1742f6efa"
+    },
+    {
+      "word": "携わる",
+      "reading": "たずさわる",
+      "meaningZh": "参与，从事（某项工作或活动）",
+      "meaningEn": "to be involved in, to engage in",
+      "level": "n3",
+      "exampleSentence": "彼は長年、教育分野に携わっています。",
+      "id": "eb835f7f-de9c-4c89-995f-7c5293d87c72"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体制",
+      "meaningEn": "system, institution",
+      "level": "n3",
+      "exampleSentence": "新しい年金制度が導入されました。",
+      "id": "d8169d37-423f-4346-bb38-c8c038a1f4aa"
+    },
+    {
+      "word": "手当",
+      "reading": "てあて",
+      "meaningZh": "津贴，补助金",
+      "meaningEn": "allowance, grant",
+      "level": "n3",
+      "exampleSentence": "会社は家族手当を支給しています。",
+      "id": "6f005ca2-19a2-4225-96dc-14a0674e3028"
+    },
+    {
+      "word": "拡充する",
+      "reading": "かくじゅうする",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "to expand, to enlarge",
+      "level": "n3",
+      "exampleSentence": "サービスの範囲を拡充する必要があります。",
+      "id": "c33216e7-f08d-4a78-97a8-3e38014be8a9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最新のデータによると、男性の育児休業取得率は何％でしたか。",
+      "options": [
+        "約80％",
+        "13％",
+        "17.13％",
+        "約20％"
+      ],
+      "correctIndex": 2,
+      "explanation": "データによると、男性の育児休業取得率は過去最高の17.13％となりました。",
+      "id": "0e18349b-d342-4148-8e93-d59c813b9f8a"
+    },
+    {
+      "question": "男性の育児休業取得率が上がっている理由として、本文で述べられていることは何ですか。",
+      "options": [
+        "国が育児休業を義務付けたから。",
+        "男性の育児への関心がなくなったから。",
+        "企業が育児休業を取りやすい制度を整え始めているから。",
+        "女性の育児休業取得率が下がったから。"
+      ],
+      "correctIndex": 2,
+      "explanation": "なぜ男性の取得率が上がっているのでしょうか。一つの理由として、企業側が育児休業を取りやすいような制度を整え始めていることが挙げられます。",
+      "id": "d622be1b-2f73-4779-b8ec-d17bab36974a"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-24-2e8791ca78",
+  "publishedAt": "2026-07-24T06:00:00+09:00"
+}

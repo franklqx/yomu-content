@@ -1,0 +1,131 @@
+{
+  "title": "Jリーグの熱狂！応援の工夫",
+  "summary": "Jリーグのチームは、もっとたくさんの人に応援に来てほしいと思っています。そのため、いろいろな工夫をしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "Jリーグのサッカーは、とても面白いです。でも、いくつかのチームは、お客さんが少ないです。そこで、チームは新しいアイデアを考えました。たくさんの人がスタジアムに来るように、工夫をしています。",
+      "translationZh": "J联赛的足球非常有趣。但是，一些球队的观众不多。所以，球队想出了新点子。他们努力让更多人来到体育场。",
+      "translationEn": "J.League soccer is very interesting. However, some teams have few spectators. So, the teams came up with new ideas. They are making efforts to bring more people to the stadium.",
+      "id": "bfa169ac-2c90-4b69-9761-c830a03eb279",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、子供たちが喜ぶイベントをすることがあります。キャラクターショーをしたり、選手と写真を撮れる時間を作ったりします。家族みんなで楽しめるように、工夫しています。また、地元の食べ物を売ることも人気です。",
+      "translationZh": "例如，他们有时会举办让孩子们高兴的活动。他们会举办角色表演，或者安排能和选手合影的时间。他们努力让全家人都能享受其中。另外，销售当地食物也很受欢迎。",
+      "translationEn": "For example, they sometimes hold events that children enjoy. They have character shows or create time to take photos with players. They try to make it enjoyable for the whole family. Also, selling local food is popular.",
+      "id": "b26634d0-7049-4906-bcef-2e81a6920ef8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "試合の日以外にも、イベントをすることがあります。ファン感謝デーのようなイベントです。ファンは選手と直接話したり、練習を見たりできます。これにより、チームとファンの距離が近くなります。",
+      "translationZh": "有时，他们也会在比赛日以外的日子举办活动。比如球迷感谢日之类的活动。球迷可以和选手直接交流，观看训练。这样，球队和球迷的距离就拉近了。",
+      "translationEn": "Sometimes, they hold events on days other than match days. Events like Fan Appreciation Day. Fans can talk directly with players and watch practice. This brings the team and fans closer.",
+      "id": "22c5b8ea-3706-4934-8c21-ba97cf4a9fa7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの工夫によって、スタジアムはもっと楽しくなります。たくさんの人がサッカーを楽しみ、チームを応援します。Jリーグのチームは、これからも良いアイデアを考え続けるでしょう。",
+      "translationZh": "通过这些努力，体育场会变得更加有趣。更多的人会享受足球，支持球队。J联赛的球队今后也会继续思考好的点子。",
+      "translationEn": "Through these efforts, the stadium becomes more fun. More people enjoy soccer and support their team. J.League teams will continue to think of good ideas in the future.",
+      "id": "0fff7b00-0e79-4820-98da-9edfdeea3c80",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，谋划，巧妙；办法，对策",
+      "meaningEn": "device, ingenuity, figuring out a way; effort, measure",
+      "level": "n5n4",
+      "exampleSentence": "新しい企画を立てるために、いろいろな工夫をしました。",
+      "id": "04486682-a7fa-4032-b7f4-e8b419796f11"
+    },
+    {
+      "word": "お客さん",
+      "reading": "きゃくさん",
+      "meaningZh": "客人，顾客，观众",
+      "meaningEn": "customer, guest, spectator",
+      "level": "n5n4",
+      "exampleSentence": "今日の試合には、たくさんの応援のお客さんが来ました。",
+      "id": "d036eb8d-2306-4c20-a18f-a4cc8a45f130"
+    },
+    {
+      "word": "スタジアム",
+      "reading": "すたじあむ",
+      "meaningZh": "体育场",
+      "meaningEn": "stadium",
+      "level": "n5n4",
+      "exampleSentence": "週末、スタジアムでサッカーの試合があります。",
+      "id": "249e4b4b-cd75-4a0b-881c-4aaac0e0535a"
+    },
+    {
+      "word": "イベント",
+      "reading": "いべんと",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "夏休みに、子供向けのイベントがたくさんあります。",
+      "id": "5778c264-6679-4138-834a-41812ce20470"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "きゃらくたー",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "子供たちは、アニメのキャラクターが好きです。",
+      "id": "fc5f6ecd-995f-4195-936b-b5e265a3f6b9"
+    },
+    {
+      "word": "地元",
+      "reading": "じもと",
+      "meaningZh": "当地，本地",
+      "meaningEn": "local area, hometown",
+      "level": "n5n4",
+      "exampleSentence": "このお店は、地元の野菜を使っています。",
+      "id": "98a35782-0271-4266-9e05-39ba4b76e9a0"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝，爱好者",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼は、その歌手の熱心なファンです。",
+      "id": "86a6cee9-c85a-4c6b-9b76-531de2d64e63"
+    },
+    {
+      "word": "距離",
+      "reading": "きょり",
+      "meaningZh": "距离",
+      "meaningEn": "distance",
+      "level": "n5n4",
+      "exampleSentence": "駅と学校の距離は、歩いて10分ぐらいです。",
+      "id": "163d28ef-0328-4ea8-a400-7ac174c4e2eb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Jリーグのチームは、どうして工夫をしていますか。",
+      "options": [
+        "もっとお金を稼ぐためです。",
+        "もっとたくさんの人に応援に来てほしいからです。",
+        "もっと強いチームを作るためです。",
+        "もっと面白い試合をするためです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「Jリーグのチームは、もっとたくさんの人に応援に来てほしいと思っています。そのため、いろいろな工夫をしています。」と書いてあります。",
+      "id": "1b0bf026-1ae4-465c-9779-0cf3d84d1c8b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-24-j",
+  "publishedAt": "2026-07-24T06:00:00+09:00"
+}

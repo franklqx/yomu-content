@@ -1,0 +1,122 @@
+{
+  "title": "育休のデータ、どうなった？",
+  "summary": "男性の育休取得率が少し上がりました。会社も工夫をしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、男性の育児休業を取る人が増えています。国のデータによると、去年の取得率は約17%でした。これは前の年より少し高くなりました。",
+      "translationZh": "最近，休育儿假的男性变多了。根据国家的数据，去年的休假率为17%左右。这比前一年稍有提高。",
+      "translationEn": "Recently, more men are taking childcare leave. According to national data, last year's leave rate was about 17%. This is slightly higher than the previous year.",
+      "id": "c89cb62a-54b6-4fa6-b8d7-e1499259814f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "育児休業は、赤ちゃんが生まれたときに、お父さんやお母さんが休むことができる制度です。前は、お母さんが休むことがほとんどでした。しかし、今は男性も育児の大変さを知るようになりました。",
+      "translationZh": "育儿假是一种制度，在婴儿出生时，父亲或母亲可以休假。以前，几乎都是母亲休假。但是，现在男性也知道了育儿的辛苦。",
+      "translationEn": "Childcare leave is a system that allows fathers and mothers to take time off when a baby is born. Before, it was mostly mothers who took leave. However, now men also understand the difficulties of childcare.",
+      "id": "9fa59dbc-b023-4741-a530-3c6d85e9714b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "会社も育児休業を応援しています。例えば、短い期間だけ休むことができるようにしたり、休んでいる間も給料の一部を払ったりする会社があります。これは、男性がもっと育児休業を取りやすくするためです。",
+      "translationZh": "公司也在支持育儿假。例如，有些公司允许员工只休短时间，或者在休假期间支付部分工资。这是为了让男性更容易休育儿假。",
+      "translationEn": "Companies are also supporting childcare leave. For example, some companies allow employees to take leave for shorter periods or pay part of their salary during their leave. This is to make it easier for men to take childcare leave.",
+      "id": "ac5fd9ad-fd4b-473d-8b09-3bb09176b3e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "育児休業を取ることは、家族にとってとても大切です。お父さんもお母さんも、子育てを一緒に楽しむことができます。これからも、もっと多くの人が育児休業を利用できるといいですね。",
+      "translationZh": "休育儿假对家庭来说非常重要。父亲和母亲都可以一起享受育儿的乐趣。今后，希望有更多的人能够利用育儿假。",
+      "translationEn": "Taking childcare leave is very important for families. Both fathers and mothers can enjoy raising children together. It would be good if more people could use childcare leave in the future.",
+      "id": "045576c7-3a4b-4f05-a45d-de3470064928",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "取得率",
+      "meaningEn": "Acquisition rate",
+      "level": "n3",
+      "exampleSentence": "男性の育休取得率が上がった。",
+      "id": "d1e8d451-3f98-4932-97f6-0812ce9fe616"
+    },
+    {
+      "word": "育児休業",
+      "reading": "いくじきゅうぎょう",
+      "meaningZh": "育儿假",
+      "meaningEn": "Childcare leave",
+      "level": "n3",
+      "exampleSentence": "育児休業は家族のために大切です。",
+      "id": "4090e705-681e-4598-b2e8-089b3428e9e6"
+    },
+    {
+      "word": "取得",
+      "reading": "しゅとく",
+      "meaningZh": "取得",
+      "meaningEn": "Acquisition",
+      "level": "n3",
+      "exampleSentence": "新しい資格を取得しました。",
+      "id": "7f74294e-7de7-4e7a-a6d1-4192dda84163"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "System",
+      "level": "n3",
+      "exampleSentence": "この会社には新しい制度があります。",
+      "id": "4007590d-f217-4551-b2a6-3c4c4ade39d1"
+    },
+    {
+      "word": "応援する",
+      "reading": "おうえんする",
+      "meaningZh": "支持，声援",
+      "meaningEn": "To support",
+      "level": "n5n4",
+      "exampleSentence": "会社は育児休業を応援しています。",
+      "id": "31aa7ce5-2ea8-466b-af7f-8c6b4279964d"
+    },
+    {
+      "word": "工夫する",
+      "reading": "くふうする",
+      "meaningZh": "想办法，巧妙处理",
+      "meaningEn": "To devise ways, to contrive",
+      "level": "n3",
+      "exampleSentence": "会社は男性が取りやすいように工夫しています。",
+      "id": "8b5e1b77-0df3-40c7-b097-595ff87b1bef"
+    },
+    {
+      "word": "利用する",
+      "reading": "りようする",
+      "meaningZh": "利用",
+      "meaningEn": "To use, to utilize",
+      "level": "n5n4",
+      "exampleSentence": "この制度を利用したいです。",
+      "id": "9b3eb355-c0b8-4bbf-aeff-d40583fa0e02"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男性の育児休業取得率は、去年、どのくらいでしたか？",
+      "options": [
+        "約5%",
+        "約10%",
+        "約17%",
+        "約25%"
+      ],
+      "correctIndex": 2,
+      "explanation": "国のデータによると、去年の取得率は約17%でした。",
+      "id": "85ac4944-f01a-4fb9-9be5-75f64f70e2bf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-24-2e8791ca78",
+  "publishedAt": "2026-07-24T06:00:00+09:00"
+}

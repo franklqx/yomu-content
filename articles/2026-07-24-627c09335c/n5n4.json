@@ -1,0 +1,122 @@
+{
+  "title": "冬のキラキラ！イルミネーション特集",
+  "summary": "冬になると、街がきれいに光ります。イルミネーションはとても人気があります。今年の冬は、きれいな光を見に行きましょう！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬は寒いです。でも、夜の街はとてもきれいです。たくさんの光がきらきらしています。これはイルミネーションといいます。冬の楽しみの一つです。",
+      "translationZh": "冬天很冷。但是，夜晚的街道非常漂亮。很多灯光闪闪发光。这叫做彩灯装饰。是冬天的一个乐趣。",
+      "translationEn": "Winter is cold. But, the night city is very beautiful. Many lights are sparkling. This is called illuminations. It is one of the winter enjoyments.",
+      "id": "1b27d399-3253-4c66-8830-2ddd9b38ea02",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園や駅の近くできれいなイルミネーションを見ることができます。色とりどりの光が木に飾られています。歩いていると、心が温かくなります。",
+      "translationZh": "在公园或车站附近可以看到美丽的彩灯装饰。五颜六色的灯光装饰在树上。走在路上，心里会感到温暖。",
+      "translationEn": "You can see beautiful illuminations near parks and stations. Colorful lights are decorated on the trees. When you walk, your heart becomes warm.",
+      "id": "98f7aaba-065f-48f3-8d16-ae8ef85ad4e8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "家族や友達と一緒に行くのがおすすめです。写真を撮って、思い出を作りましょう。温かい飲み物を飲みながら、光を見るのは最高です。",
+      "translationZh": "推荐和家人或朋友一起去。拍照，留下回忆吧。一边喝着热饮，一边看着灯光，感觉很棒。",
+      "translationEn": "It is recommended to go with family or friends. Let's take pictures and make memories. It's the best to watch the lights while drinking a warm beverage.",
+      "id": "edc39c23-2bdb-4939-89fd-57e1c9a5aea6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の冬も、いろいろな場所でイルミネーションが楽しめます。お近くのイルミネーションの場所を調べて、ぜひ行ってみてください。きっと素敵な冬の思い出になりますよ。",
+      "translationZh": "今年的冬天，在各种地方也能享受彩灯装饰。请调查一下您附近的彩灯装饰地点，一定要去看看。一定会成为美好的冬天回忆哦。",
+      "translationEn": "This winter too, you can enjoy illuminations in various places. Please research the illumination spots near you and be sure to go. It will surely become a wonderful winter memory.",
+      "id": "ee672d52-1d8e-4c19-9c1e-0ada89fc0da5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "2088c76e-f769-4d75-838f-c517b0914c8c"
+    },
+    {
+      "word": "光",
+      "reading": "ひかり",
+      "meaningZh": "光，光芒",
+      "meaningEn": "light, shine",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの光がきらきらしています。",
+      "id": "7f364e67-014d-4f1f-8e49-0fe1f1fb6454"
+    },
+    {
+      "word": "飾る",
+      "reading": "かざる",
+      "meaningZh": "装饰",
+      "meaningEn": "to decorate",
+      "level": "n5n4",
+      "exampleSentence": "木に光を飾りました。",
+      "id": "ec8c3529-a67e-427c-a8e2-f40a9e6c6b72"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園で遊びました。",
+      "id": "2f3ce20c-e44b-44f2-9786-43be5ebf53c8"
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaningZh": "朋友",
+      "meaningEn": "friend",
+      "level": "n5n4",
+      "exampleSentence": "友達と話します。",
+      "id": "35d66846-2899-4230-83ca-2003c3979c98"
+    },
+    {
+      "word": "温かい",
+      "reading": "あたたかい",
+      "meaningZh": "温暖的",
+      "meaningEn": "warm",
+      "level": "n5n4",
+      "exampleSentence": "温かい飲み物が好きです。",
+      "id": "1e5ce9b1-2fb9-4f7f-bba7-224ef40da5cc"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "大切な思い出です。",
+      "id": "1d490dfc-0873-4564-af2b-6a938efaeeb3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "イルミネーションはどんな時に見られますか。",
+      "options": [
+        "朝の街",
+        "夜の街",
+        "雨の日に",
+        "夏に"
+      ],
+      "correctIndex": 1,
+      "explanation": "冬は寒いです。でも、夜の街はとてもきれいです。たくさんの光がきらきらしています。これはイルミネーションといいます。",
+      "id": "82db586f-f7a1-4ff1-b8fe-33022b5ed2a9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-24-627c09335c",
+  "publishedAt": "2026-07-24T06:00:00+09:00"
+}
