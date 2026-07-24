@@ -1,0 +1,122 @@
+{
+  "title": "夜行バスで旅に出よう！",
+  "summary": "夜行バスは安くて便利です。若者はよく夜行バスで旅行をします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人の間で夜行バスを使った旅行が人気です。夜行バスは、夜にバスに乗って、朝に目的地に着くことができます。寝ている間に移動できるので、時間の節約になります。",
+      "translationZh": "最近，年轻人中间利用夜间巴士旅行很受欢迎。夜间巴士是指晚上乘坐巴士，早上到达目的地。因为可以在睡觉的时候移动，所以能节省时间。",
+      "translationEn": "Recently, traveling by overnight bus has become popular among young people. Overnight buses allow you to get on the bus at night and arrive at your destination in the morning. You can travel while sleeping, which saves time.",
+      "id": "5fbb526b-f127-4dbe-806e-5768c774930a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスの一番の魅力は、料金が安いことです。飛行機や新幹線と比べると、かなり安く旅行ができます。そのため、あまりお金がない学生さんにも人気があります。週末や短い休みを利用して、遠くの街へ行くことができます。",
+      "translationZh": "夜间巴士最大的魅力是价格便宜。与飞机和新干线相比，旅行费用会便宜很多。因此，对于不太有钱的学生也很受欢迎。可以利用周末或短暂的假期去远方的城市。",
+      "translationEn": "The biggest attraction of overnight buses is their low price. Compared to airplanes and bullet trains, travel is much cheaper. Therefore, they are also popular with students who don't have much money. You can use weekends or short breaks to go to distant cities.",
+      "id": "741d03e0-22be-4bd5-b75d-048399b2da55",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスの車内では、リクライニングシートや毛布が用意されていることが多いです。快適に眠れるように工夫されています。もちろん、家で寝るのと同じではありませんが、十分休むことができます。朝、目的地に着いたら、すぐに観光を始めることができます。",
+      "translationZh": "在夜间巴士的车内，通常会准备可调节的座椅和毛毯。为了能舒适地睡觉而做了改进。当然，和在家睡觉不一样，但可以充分休息。早上到达目的地后，就可以立刻开始观光了。",
+      "translationEn": "Inside the overnight bus, reclining seats and blankets are often provided. Efforts are made to ensure comfortable sleep. Of course, it's not the same as sleeping at home, but you can rest sufficiently. When you arrive at your destination in the morning, you can start sightseeing right away.",
+      "id": "5c4b68ac-4207-4283-ace4-a2ccb6f225a9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バス旅行は、新しい発見がたくさんあります。早起きして、知らない街の朝の空気を吸うのは気持ちがいいです。次の旅行も夜行バスで計画したいと思っています。",
+      "translationZh": "夜间巴士旅行有很多新的发现。早起，呼吸陌生城市早晨的空气感觉很好。我打算下次旅行也计划乘坐夜间巴士。",
+      "translationEn": "Overnight bus travel offers many new discoveries. Waking up early and breathing the morning air of an unfamiliar city feels good. I want to plan my next trip by overnight bus too.",
+      "id": "6cc4f33a-8d64-4faa-a78d-6fdc24160feb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夜行バス",
+      "reading": "やこうバス",
+      "meaningZh": "夜间巴士",
+      "meaningEn": "overnight bus",
+      "level": "n5n4",
+      "exampleSentence": "夜行バスは安いです。",
+      "id": "fff56844-66f0-462f-b1c1-171550107f1f"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は旅行が好きです。",
+      "id": "afa98de6-f464-413a-ba73-936e37591487"
+    },
+    {
+      "word": "格安",
+      "reading": "かくやす",
+      "meaningZh": "便宜，廉价",
+      "meaningEn": "cheap, inexpensive",
+      "level": "n5n4",
+      "exampleSentence": "格安なホテルを探しました。",
+      "id": "f718c5de-2181-4791-99aa-273a9a6459d2"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, attraction",
+      "level": "n3",
+      "exampleSentence": "この街の魅力は自然です。",
+      "id": "372717da-4cda-46e1-acb2-31514d2aaf70"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaningZh": "费用，价格",
+      "meaningEn": "fee, charge, fare",
+      "level": "n5n4",
+      "exampleSentence": "バスの料金はいくらですか。",
+      "id": "d37a2d35-a2af-4171-a997-0b186d65c850"
+    },
+    {
+      "word": "節約",
+      "reading": "せつやく",
+      "meaningZh": "节约",
+      "meaningEn": "saving, economy",
+      "level": "n3",
+      "exampleSentence": "電気代を節約しています。",
+      "id": "fd2eb6f9-081c-4d45-b582-6004de0abeee"
+    },
+    {
+      "word": "目的地",
+      "reading": "もくてきち",
+      "meaningZh": "目的地",
+      "meaningEn": "destination",
+      "level": "n5n4",
+      "exampleSentence": "目的地に着きました。",
+      "id": "4c5fa666-4bb9-476d-a186-680323b66f31"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "夜行バス旅行のいいところは、何ですか。",
+      "options": [
+        "景色がきれい",
+        "時間が節約できること",
+        "食べ物が美味しいこと",
+        "友達に会えること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「寝ている間に移動できるので、時間の節約になります。」と書いてあります。",
+      "id": "ff7f50c2-5e78-46fb-9cc9-a3c8ff95eaad"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-25-e85002e2aa",
+  "publishedAt": "2026-07-25T06:00:00+09:00"
+}

@@ -1,0 +1,134 @@
+{
+  "title": "全国のご当地ラーメン、東京で人気上昇中！",
+  "summary": "日本各地で愛されているご当地ラーメンが、今東京で注目を集めています。その人気の理由を探ってみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、地域ごとに特色のある美味しいラーメンがたくさんありますよね。例えば、北海道の濃厚な味噌ラーメンや、博多の豚骨ラーメンなどは全国的に有名ですが、最近では、それらの「ご当地ラーメン」が東京でも気軽に食べられるお店が増えています。",
+      "translationZh": "日本各地有许多各具特色的美味拉面，对吧。例如，北海道浓厚的味噌拉面、博多豚骨拉面等在日本全国都很有名，但最近，这些“地方特色拉面”能在东京轻松吃到的店也越来越多。",
+      "translationEn": "Japan has many delicious ramen with unique regional characteristics, right? For example, Hokkaido's rich miso ramen and Hakata's tonkotsu ramen are famous nationwide, and recently, more and more shops are offering these 'local specialty ramen' that can be easily enjoyed in Tokyo.",
+      "id": "b98c3e77-5991-4c0d-8a16-9a667a3df4af",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京は、様々な情報が集まる場所ですから、地方の美味しいものがすぐに話題になりやすいです。多くの人が新しい味を試したいと思っているので、専門店が増えると、多くの人が訪れるようになります。",
+      "translationZh": "因为东京是各种信息汇集的地方，所以地方上的美味很容易成为话题。许多人都想尝试新口味，所以专卖店一增加，就会有很多人光顾。",
+      "translationEn": "Since Tokyo is a place where various information gathers, delicious local foods tend to become topics quickly. Because many people want to try new tastes, as specialty stores increase, many people start visiting them.",
+      "id": "6fc3c70a-19a9-4754-aba2-75ebf1c243cf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、SNSの普及も大きな要因です。美味しいラーメンの写真は、多くの人の興味を引きつけます。そのため、地方のお店が東京に進出するだけでなく、東京にいながらにして、まるで現地で食べているかのような体験ができるお店も増えているのです。",
+      "translationZh": "此外，SNS的普及也是一个重要因素。美味拉面的照片会吸引很多人的兴趣。因此，不仅是地方上的店面开始进军东京，就连在东京也能体验到如同在当地品尝一样的店也越来越多。",
+      "translationEn": "Furthermore, the spread of SNS is also a major factor. Pictures of delicious ramen attract the interest of many people. Therefore, not only are shops from local areas expanding into Tokyo, but shops are also increasing where one can have an experience in Tokyo as if they were eating on-site.",
+      "id": "6ec4e6ac-f742-445a-9299-0ce117352141",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "色々な地域のご当地ラーメンが東京で食べられるようになり、私たちにとっては選択肢が増えて嬉しい限りです。これからも、どんな新しいラーメンが東京に登場するのか、楽しみですね。",
+      "translationZh": "各种地方特色拉面都能在东京吃到，对我们来说选择增加了，真是太开心了。今后，还有什么样的新拉面会出现在东京呢，真是令人期待。",
+      "translationEn": "It's wonderful that we can now eat various local specialty ramen in Tokyo, and our choices have increased. We look forward to seeing what new ramen will appear in Tokyo from now on.",
+      "id": "10af6e38-6931-4cad-8c75-1ed1a8490ff0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ご当地",
+      "reading": "ごとうち",
+      "meaningZh": "当地，地方特色",
+      "meaningEn": "local specialty, regional",
+      "level": "n3",
+      "exampleSentence": "このお祭りは、ご当地グルメが有名です。",
+      "id": "36dcd77b-7275-4463-be30-d244635cd645"
+    },
+    {
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaningZh": "进入，扩展（市场等）",
+      "meaningEn": "advance, expansion (into a market, etc.)",
+      "level": "n3",
+      "exampleSentence": "多くの企業が海外市場に進出している。",
+      "id": "8a47cb22-f39f-4c89-96d0-61ff3cb4fa44"
+    },
+    {
+      "word": "特色",
+      "reading": "とくしょく",
+      "meaningZh": "特色，特点",
+      "meaningEn": "characteristic, feature",
+      "level": "n3",
+      "exampleSentence": "この地域は、豊かな自然が特色です。",
+      "id": "91ca9785-22be-48c2-8ff3-170fd6776c56"
+    },
+    {
+      "word": "豚骨",
+      "reading": "とんこつ",
+      "meaningZh": "猪骨（常用于拉面汤底）",
+      "meaningEn": "pork bone (often used for ramen broth)",
+      "level": "n3",
+      "exampleSentence": "博多ラーメンは豚骨スープが特徴です。",
+      "id": "1e5fb59f-238f-40dc-9cd4-1150168b924e"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, popularization",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及は急速に進んだ。",
+      "id": "a6e319fd-6616-426b-983f-819b08cbeb65"
+    },
+    {
+      "word": "要因",
+      "reading": "よういん",
+      "meaningZh": "因素",
+      "meaningEn": "factor, cause",
+      "level": "n3",
+      "exampleSentence": "成功の要因を分析する。",
+      "id": "9fd18935-6f43-46c3-b0db-6cf1f2c3f0b6"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "異文化体験は貴重だ。",
+      "id": "a91f1c12-ca7d-4c86-9bad-101ecffdaff8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ東京でご当地ラーメンの人気が高まっているのですか。",
+      "options": [
+        "東京にはラーメン屋が少ないから",
+        "地方の美味しいものが東京に集まりやすく、SNSで話題になりやすいから",
+        "ご当地ラーメンは昔から東京で人気があったから",
+        "東京の人は新しい味をあまり試さないから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「東京は、様々な情報が集まる場所ですから、地方の美味しいものがすぐに話題になりやすいです。」",
+      "id": "71cbaf8e-94ac-4128-93d7-b7213dbc1d8a"
+    },
+    {
+      "question": "SNSがご当地ラーメンの東京進出にどのように影響していますか。",
+      "options": [
+        "SNSはラーメンの味を悪くしている",
+        "SNSのおかげで、東京にいながら現地のような体験ができるお店が増えている",
+        "SNSは地方のラーメン店が東京に出店するのを妨げている",
+        "SNSはご当地ラーメンの情報をあまり広めない"
+      ],
+      "correctIndex": 1,
+      "explanation": "「また、SNSの普及も大きな要因です。...そのため、地方のお店が東京に進出するだけでなく、東京にいながらにして、まるで現地で食べているかのような体験ができるお店も増えているのです。」",
+      "id": "81d5c3bc-406b-459b-9261-7e36f30d90c3"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-25-39bdaec71b",
+  "publishedAt": "2026-07-25T06:00:00+09:00"
+}

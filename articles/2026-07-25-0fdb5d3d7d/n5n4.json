@@ -1,0 +1,122 @@
+{
+  "title": "電気自動車をもっと便利に",
+  "summary": "電気自動車（EV）の充電をもっと早く、もっと簡単にできるような新しい計画があります。これからのEVはもっと使いやすくなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）が人気です。でも、充電に時間がかかるのが心配な人もいます。そこで、もっと速く充電できる場所を増やす計画が進んでいます。",
+      "translationZh": "最近，电动汽车（EV）很受欢迎。但是，有些人担心充电需要很长时间。因此，增加可以更快充电的地点（充电站）的计划正在推进中。",
+      "translationEn": "Recently, electric vehicles (EVs) are popular. However, some people worry that charging takes a long time. Therefore, a plan to increase places where charging can be done faster is progressing.",
+      "id": "a7a3381b-5138-46c8-abaa-8b520c5153c3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この計画では、たくさんの場所に新しい充電器をつけます。高速道路のサービスエリアや、お店の駐車場などです。これで、遠くまで運転しても安心できますね。",
+      "translationZh": "在这个计划中，将在许多地方安装新的充电器。例如高速公路的服务区或商店的停车场。这样一来，即使开得很远也能安心。",
+      "translationEn": "In this plan, new chargers will be installed in many places. For example, in highway service areas and store parking lots. This will make you feel secure even when driving long distances.",
+      "id": "1f2248b5-dcd3-4b86-b8b0-abb9a688351e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "速い充電器があれば、短い時間で電池がいっぱいになります。旅行や買い物に行くときにも、あまり待たなくて済みます。EVの生活がもっと快適になるでしょう。",
+      "translationZh": "如果有快速充电器，电池可以在很短的时间内充满。去旅行或购物时，也不用等太久。电动汽车的生活会变得更加舒适。",
+      "translationEn": "With fast chargers, the battery will be full in a short time. You won't have to wait much when you go on trips or shopping. Life with EVs will become more comfortable.",
+      "id": "8f444c15-b328-42d0-9500-cae7156d4dbc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "国や会社が協力して、この計画を進めています。これから、もっと多くの人が電気自動車を使いやすくなることが期待されています。",
+      "translationZh": "国家和公司正在合作推进这个计划。今后，人们期待有更多人能更方便地使用电动汽车。",
+      "translationEn": "The country and companies are cooperating to advance this plan. From now on, it is expected that more people will find it easier to use electric vehicles.",
+      "id": "e9f52971-233e-49d5-a8bc-bef262775ad9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "electric vehicle",
+      "level": "n5n4",
+      "exampleSentence": "電気自動車は静かです。",
+      "id": "3a69d7c2-b7f3-4f6a-b0cd-6e99b7f8bc3a"
+    },
+    {
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaningZh": "充电",
+      "meaningEn": "charging",
+      "level": "n5n4",
+      "exampleSentence": "スマートフォンの充電をしました。",
+      "id": "3d13bf60-8fed-4162-bf21-36190dd4c920"
+    },
+    {
+      "word": "速い",
+      "reading": "はやい",
+      "meaningZh": "快的",
+      "meaningEn": "fast",
+      "level": "n5n4",
+      "exampleSentence": "この車は速いです。",
+      "id": "f4575f9c-d5d8-463c-9b42-84413201b29f"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地点，地方",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "この場所はきれいです。",
+      "id": "cc10ac5e-5d97-4607-bcda-0c06ebed12fe"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "新しい計画を立てました。",
+      "id": "df0bd86c-7ac9-4894-b843-940ad682bac1"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "5baabbf5-698e-4674-a71d-7edb32ab4e46"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "みんなで協力しましょう。",
+      "id": "f5c62861-1209-4aa4-aa41-597f7750e8cb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事によると、電気自動車の充電について、どんな計画が進んでいますか？",
+      "options": [
+        "充電をもっと遅くする計画",
+        "充電できる場所をもっと増やす計画",
+        "充電器をもっと少なくする計画",
+        "充電料金をもっと高くする計画"
+      ],
+      "correctIndex": 1,
+      "explanation": "「もっと速く充電できる場所を増やす計画が進んでいます。」",
+      "id": "816dc2fc-4381-45ae-bbee-dafbb1deab43"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-25-0fdb5d3d7d",
+  "publishedAt": "2026-07-25T06:00:00+09:00"
+}

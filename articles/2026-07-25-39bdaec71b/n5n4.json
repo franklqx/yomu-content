@@ -1,0 +1,114 @@
+{
+  "title": "ご当地ラーメン、東京に集まる！",
+  "summary": "日本各地のご当地ラーメンが東京に集まっています。色々な味を楽しめるようになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、ラーメンは一つの味でした。でも、今は違います。北海道から九州まで、色々な地方のラーメンがあります。それぞれの地方に特別な味があります。例えば、豚骨ラーメンや味噌ラーメンです。これらはとても人気があります。",
+      "translationZh": "以前，拉面只有一种味道。但是，现在不一样了。从北海道到九州，有各种地方的拉面。每个地方都有特别的味道。例如，有豚骨拉面和味噌拉面。它们非常受欢迎。",
+      "translationEn": "In the past, ramen had only one flavor. But now, it's different. From Hokkaido to Kyushu, there are various regional ramens. Each region has a special taste. For example, there are tonkotsu ramen and miso ramen. These are very popular.",
+      "id": "c2ccf37c-5d57-466b-ae4e-d65ac6f2c7ed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、東京で地方のラーメンを食べられるお店が増えました。東京は日本の首都です。色々な人が東京に住んでいます。だから、地方のラーメン屋さんは東京に進出します。東京で自分の地方の味を広めたいのです。",
+      "translationZh": "最近，能在东京吃到地方拉面的店增加了。东京是日本的首都。各种各样的人住在东京。所以，地方的拉面店会进军东京。他们想在东京推广自己地方的味道。",
+      "translationEn": "Recently, shops where you can eat regional ramen have increased in Tokyo. Tokyo is the capital of Japan. Various people live in Tokyo. Therefore, regional ramen shops advance into Tokyo. They want to spread their regional taste in Tokyo.",
+      "id": "27c835f7-745b-4874-9bfe-6d69892497ed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京に住んでいる人も、旅行で東京に来た人も、色々なラーメンを楽しめます。これはとても良いことです。新しい味に出会うことができます。ラーメンを通して、日本の色々な地方を知ることもできます。",
+      "translationZh": "住在东京的人，或者来东京旅行的人，都可以享用各种拉面。这是一件非常好的事情。可以遇见新的味道。通过拉面，也可以了解日本的各种地方。",
+      "translationEn": "People living in Tokyo and people visiting Tokyo can enjoy various ramens. This is a very good thing. You can encounter new flavors. Through ramen, you can also learn about various regions of Japan.",
+      "id": "2188ec9b-1b17-4f91-a0ad-41977942af58",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "各地",
+      "reading": "そこかしこ",
+      "meaningZh": "各地；到处",
+      "meaningEn": "various places; everywhere",
+      "level": "n5n4",
+      "exampleSentence": "各地から観光客が来ています。",
+      "id": "16b41b01-157a-4138-a711-a5fe791b2052"
+    },
+    {
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaningZh": "（企业等）进入（新市场等）",
+      "meaningEn": "advance; enter (a new market, etc.)",
+      "level": "n3",
+      "exampleSentence": "新しい支店が駅前に進出しました。",
+      "id": "91be5c2d-78c0-473e-984e-6f2e240c4734"
+    },
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "meaningZh": "首都",
+      "meaningEn": "capital city",
+      "level": "n5n4",
+      "exampleSentence": "東京は日本の首都です。",
+      "id": "2e76072a-f3f3-4397-bd28-c280013e1b27"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "日本の文化を体験しました。",
+      "id": "5090ee44-280d-4b5d-a5d8-4132b97d6277"
+    },
+    {
+      "word": "豚骨",
+      "reading": "とんこつ",
+      "meaningZh": "猪骨",
+      "meaningEn": "pork bone",
+      "level": "n5n4",
+      "exampleSentence": "豚骨ラーメンは人気があります。",
+      "id": "ce3a6539-c9a9-48b7-800d-b6c8fb44ff1b"
+    },
+    {
+      "word": "味噌",
+      "reading": "みそ",
+      "meaningZh": "味噌",
+      "meaningEn": "miso",
+      "level": "n5n4",
+      "exampleSentence": "味噌汁は日本の代表的なスープです。",
+      "id": "a393b692-1156-4210-8582-cf1b3313bfc7"
+    },
+    {
+      "word": "代表的",
+      "reading": "だいひょうてき",
+      "meaningZh": "代表性的",
+      "meaningEn": "typical; representative",
+      "level": "n3",
+      "exampleSentence": "これは日本の代表的なお祭りです。",
+      "id": "978bc811-ece9-49c9-8ee2-934d2b2fb072"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ地方のラーメン屋さんは東京に進出しますか？",
+      "options": [
+        "東京に住んでいる人が少ないからです。",
+        "東京で新しい味を作りたいからです。",
+        "東京で自分の地方の味を広めたいからです。",
+        "東京のラーメンがまずいからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「地方のラーメン屋さんは東京に進出します。東京で自分の地方の味を広めたいのです。」",
+      "id": "28d3c392-bfe4-4115-9cc7-bf0efb7636a6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-25-39bdaec71b",
+  "publishedAt": "2026-07-25T06:00:00+09:00"
+}

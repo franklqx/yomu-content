@@ -1,0 +1,143 @@
+{
+  "title": "EV急速充電網、もっと便利に！",
+  "summary": "電気自動車（EV）がもっと普及するために、急速充電ができる場所が増えています。これにより、長距離の移動も楽になります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、電気自動車（EV）の利用者が増えています。しかし、充電に時間がかかることが、EV普及の課題の一つでした。そこで、公共の場所や商業施設に急速充電器を設置する動きが、日本全国で進んでいます。",
+      "translationZh": "近年来，电动汽车（EV）的使用者正在增加。然而，充电耗时是 EV 普及的课题之一。因此，在日本全国范围内，在公共场所和商业设施设置快速充电器的动向正在推进。",
+      "translationEn": "In recent years, the number of electric vehicle (EV) users has been increasing. However, the time it takes to charge has been one of the challenges for EV adoption. Therefore, efforts to install fast chargers in public places and commercial facilities are progressing across Japan.",
+      "id": "b4af4e89-4f94-4589-9d18-851f5a711eaa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網が拡充されれば、ガソリン車のように気軽に長距離のドライブを楽しむことができます。目的地までの途中で充電できる場所が増えるので、充電切れの心配が減り、安心感が増すでしょう。",
+      "translationZh": "如果快速充电网络得到扩充，就可以像汽油车一样轻松享受长途驾驶的乐趣。因为在去往目的地的途中可以充电的地方增加了，所以对充电耗尽的担忧会减少，安心感也会增加。",
+      "translationEn": "If the fast-charging network is expanded, people will be able to enjoy long-distance drives as casually as with gasoline cars. As more charging locations become available along the route to the destination, concerns about running out of charge will decrease, and a sense of security will increase.",
+      "id": "985f6613-bdb6-4a5d-aff0-7350adabe911",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、急速充電器の設置場所や数には、まだ地域差があります。また、充電料金についても、利用者が納得できるような、わかりやすい料金体系が求められています。これらの課題を解決していくことが、EV社会への移行をさらに加速させる鍵となります。",
+      "translationZh": "但是，快速充电器的设置地点和数量仍然存在地区差异。此外，关于充电费用，也需要一种让用户能够接受、易于理解的收费体系。解决这些课题，将是进一步加速向 EV 社会过渡的关键。",
+      "translationEn": "However, there are still regional differences in the locations and number of fast chargers installed. Furthermore, a clear and understandable pricing system that users can accept is needed for charging fees. Solving these challenges will be key to further accelerating the transition to an EV society.",
+      "id": "e88da038-e362-4a20-b002-b161f2cbc507",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "環境問題への意識が高まる中、EVは今後ますます重要な乗り物になるでしょう。急速充電網の整備が進むことで、より多くの人がEVを選びやすくなり、持続可能な社会の実現に貢献することが期待されます。",
+      "translationZh": "随着对环境问题的意识提高，EV 今后将成为越来越重要的交通工具。通过推进快速充电网络的建设，将有更多的人更容易选择 EV，并有望为实现可持续社会做出贡献。",
+      "translationEn": "With rising awareness of environmental issues, EVs will likely become increasingly important vehicles in the future. As the development of the fast-charging network progresses, it is expected that more people will find it easier to choose EVs, contributing to the realization of a sustainable society.",
+      "id": "3e5a8f4f-0da2-42b4-9538-7deae23a38e9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "Electric Vehicle (EV)",
+      "level": "n3",
+      "exampleSentence": "最近、街で電気自動車をよく見かけるようになりました。",
+      "id": "43b02926-3581-4dc6-be1a-f0f35872fced"
+    },
+    {
+      "word": "急速充電",
+      "reading": "きゅうそくじゅうでん",
+      "meaningZh": "快速充电",
+      "meaningEn": "Fast charging",
+      "level": "n3",
+      "exampleSentence": "この充電スタンドでは、急速充電が可能です。",
+      "id": "a70e4e5e-be4d-47f4-a995-a32c726f9296"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "Expansion, enlargement",
+      "level": "n2n1",
+      "exampleSentence": "サービスの拡充により、顧客満足度が向上しました。",
+      "id": "5a0f1d49-d624-4e52-8bb3-d51b7802c9d8"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "Spread, diffusion",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及率は非常に高いです。",
+      "id": "0b0df384-bd64-427e-a094-0f21a973a31d"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "Issue, challenge, problem",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには多くの課題があります。",
+      "id": "f25acfbf-9774-4497-9a8e-25ff2f58965b"
+    },
+    {
+      "word": "ガソリン車",
+      "reading": "ガソリンしゃ",
+      "meaningZh": "汽油车",
+      "meaningEn": "Gasoline car",
+      "level": "n3",
+      "exampleSentence": "まだガソリン車に乗っている人が多いです。",
+      "id": "5f477376-a753-43e9-a363-6a3d37f39195"
+    },
+    {
+      "word": "料金体系",
+      "reading": "りょうきんたいけい",
+      "meaningZh": "收费体系，定价结构",
+      "meaningEn": "Pricing system, fee structure",
+      "level": "n3",
+      "exampleSentence": "新しい料金体系について説明します。",
+      "id": "74b9bc6b-14e9-47c8-8cf2-106b8dd55642"
+    },
+    {
+      "word": "持続可能",
+      "reading": "じぞくかのう",
+      "meaningZh": "可持续的",
+      "meaningEn": "Sustainable",
+      "level": "n2n1",
+      "exampleSentence": "持続可能な開発目標（SDGs）が重要視されています。",
+      "id": "6e46245b-c1f7-4b04-ab17-cc325476710a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "EVが普及するための課題は何だと書かれていますか？",
+      "options": [
+        "充電に時間がかかること",
+        "値段が高いこと",
+        "デザインが良くないこと",
+        "走れる距離が短いこと"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文の第一段落に「しかし、充電に時間がかかることが、EV普及の課題の一つでした。」と書かれています。",
+      "id": "509eef6e-db0d-41fc-a562-7c1e34cb51ac"
+    },
+    {
+      "question": "急速充電網が拡充されると、どのようなメリットがあると考えられますか？",
+      "options": [
+        "充電器の設置場所が増えるだけ",
+        "EVの値段が安くなる",
+        "長距離の移動がしやすくなり、充電切れの心配が減る",
+        "ガソリン車の利用者が減る"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第二段落に「急速充電網が拡充されれば、ガソリン車のように気軽に長距離のドライブを楽しむことができます。目的地までの途中で充電できる場所が増えるので、充電切れの心配が減り、安心感が増すでしょう。」と書かれています。",
+      "id": "b9bcb380-873d-45c6-8ef1-b4f83e8ff1a4"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-25-0fdb5d3d7d",
+  "publishedAt": "2026-07-25T06:00:00+09:00"
+}
