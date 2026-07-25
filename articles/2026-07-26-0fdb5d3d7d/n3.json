@@ -1,0 +1,117 @@
+{
+  "title": "EV急速充電網、もっと便利になる？",
+  "summary": "電気自動車（EV）の普及には、充電インフラの整備が欠かせません。急速充電網の拡充について、その現状とこれからを分かりやすく解説します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、環境問題への関心が高まるにつれて、電気自動車（EV）を選ぶ人が増えています。EVは走行中に二酸化炭素を出さないため、地球に優しい乗り物として注目されています。しかし、EVを日常的に使う上で、充電の場所や時間の問題が気になる人もいるでしょう。特に、長距離を移動する際には、充電スポットが十分にあるか心配になります。",
+      "translationZh": "近年来，随着对环境问题关注度的提高，选择电动汽车（EV）的人正在增加。EV在行驶过程中不排放二氧化碳，因此作为一种对地球友好的交通工具备受瞩目。然而，对于日常使用EV的人来说，充电地点和时间的问题可能会让人担心。特别是在长途旅行时，人们会担心充电点是否足够。",
+      "translationEn": "In recent years, as interest in environmental issues grows, more people are choosing electric vehicles (EVs). EVs do not emit carbon dioxide while driving, making them an environmentally friendly mode of transportation. However, some people may be concerned about charging locations and times when using EVs daily. Especially when traveling long distances, people worry if there are enough charging spots.",
+      "id": "badf43b7-b35d-4021-aa13-ae871225d408",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした課題を解決するため、国や企業は急速充電網の拡充に力を入れています。急速充電器は、短時間でEVのバッテリーを充電できるため、ガソリン車のように気軽に給油できる環境を目指しています。高速道路のサービスエリアや商業施設の駐車場などに設置が進められていますが、まだ十分とは言えない地域もあります。",
+      "translationZh": "为了解决这些问题，国家和企业正致力于扩大快速充电网络。快速充电器可以在短时间内为EV电池充电，旨在创建一个像燃油车一样方便加油的环境。虽然在高速公路服务区和商业设施停车场等地方正在不断设置，但仍有些地区未能完全满足需求。",
+      "translationEn": "To solve these issues, the government and companies are focusing on expanding the fast-charging network. Fast chargers can charge EV batteries in a short time, aiming for an environment where refueling is as easy as with gasoline cars. Installation is progressing in places like highway service areas and commercial facility parking lots, but some areas still fall short.",
+      "id": "97fded58-98df-4609-9178-e95cf5524f1e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網がさらに拡充されれば、EVの利便性は格段に向上します。長距離ドライブも安心して楽しめるようになり、EVの普及をさらに後押しするでしょう。もちろん、充電料金や、充電器のメンテナンスといった課題もありますが、技術の進歩とともに、これらの問題も少しずつ解決されていくことが期待されます。",
+      "translationZh": "如果快速充电网络进一步扩大，EV的便利性将大大提高。长途驾驶也将能安心享受，这将进一步推动EV的普及。当然，也存在充电费用和充电器维护等问题，但随着技术进步，人们期待这些问题也能逐渐得到解决。",
+      "translationEn": "If the fast-charging network expands further, the convenience of EVs will significantly improve. Long-distance drives will become more enjoyable with peace of mind, which will further boost EV adoption. Of course, there are also challenges such as charging fees and charger maintenance, but with technological advancements, these issues are expected to be gradually resolved.",
+      "id": "7efcb283-efd2-45a8-8680-03d1a3dff70c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "Electric Vehicle (EV)",
+      "level": "n3",
+      "exampleSentence": "電気自動車は環境に優しいです。",
+      "id": "07bb7161-68a5-40d1-90bb-7ff48e6b6c47"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及；推广",
+      "meaningEn": "Spread; diffusion; popularization",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及率は高いです。",
+      "id": "fd6a870d-97d4-427a-b87b-ac7810c611d7"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "Fast charger",
+      "level": "n3",
+      "exampleSentence": "サービスエリアに急速充電器が設置されました。",
+      "id": "66751b24-f475-4318-9b3a-69a7a35a4f95"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充；扩大",
+      "meaningEn": "Expansion; enlargement",
+      "level": "n3",
+      "exampleSentence": "サービスの拡充が求められています。",
+      "id": "24012dc4-5211-4410-80df-ffbee70b810b"
+    },
+    {
+      "word": "インフラ",
+      "reading": "インフラ",
+      "meaningZh": "基础设施",
+      "meaningEn": "Infrastructure",
+      "level": "n3",
+      "exampleSentence": "充電インフラの整備は急務です。",
+      "id": "8c30feb2-f02f-41a7-88cb-f559361edb87"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "推动；支持",
+      "meaningEn": "Push; support; boost",
+      "level": "n3",
+      "exampleSentence": "政府の政策が経済を後押ししました。",
+      "id": "043bf409-dd7d-4c1f-b350-3a98aa7812bb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "EVの普及のために、現在どのような取り組みが行われていますか？",
+      "options": [
+        "ガソリンスタンドの増設",
+        "充電インフラの拡充",
+        "公共交通機関の無料化",
+        "EVの価格引き下げのみ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「国や企業は急速充電網の拡充に力を入れています」と書かれています。",
+      "id": "389e2331-700d-4fd1-b58d-2fcd605e0009"
+    },
+    {
+      "question": "急速充電網が拡充されることによって、どのようなメリットが期待できますか？",
+      "options": [
+        "EVの価格が大幅に下がる",
+        "充電にかかる時間が長くなる",
+        "EVの利便性が向上し、普及が進む",
+        "ガソリン車の利用が減ることはない"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「急速充電網がさらに拡充されれば、EVの利便性は格段に向上します。EVの普及をさらに後押しするでしょう」と書かれています。",
+      "id": "e52bbde4-2c38-4370-90c7-89f89badf3d2"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-26-0fdb5d3d7d",
+  "publishedAt": "2026-07-26T06:00:00+09:00"
+}

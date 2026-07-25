@@ -1,0 +1,131 @@
+{
+  "title": "夜行バスでお得旅行！",
+  "summary": "夜行バスは安いです。若者はよく使います。旅行がお得になります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で夜行バスを使った旅行が人気です。夜行バスは、夜にバスに乗って、朝に目的地に着くことができます。寝ている間に移動できるので、時間を有効に使えます。",
+      "translationZh": "最近，年轻人之间使用夜间巴士旅行很受欢迎。夜间巴士可以在晚上乘坐，早上到达目的地。因为可以在睡觉的时候移动，所以可以有效地利用时间。",
+      "translationEn": "Recently, travel using overnight buses has become popular among young people. Overnight buses allow you to board the bus at night and arrive at your destination in the morning. Since you can travel while sleeping, you can use your time effectively.",
+      "id": "9d9ed7ab-3875-46ef-bf3f-edf7a10a080a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスの最大のメリットは、料金が安いことです。飛行機や新幹線と比べると、とても安いです。そのため、少ないお金で旅行したい学生さんや若い社会人にぴったりです。",
+      "translationZh": "夜间巴士最大的优点是价格便宜。与飞机或新干线相比，非常便宜。因此，非常适合想用少量钱旅行的学生和年轻的在职人员。",
+      "translationEn": "The biggest advantage of overnight buses is their low price. Compared to airplanes and bullet trains, they are very cheap. Therefore, they are perfect for students and young working adults who want to travel on a budget.",
+      "id": "6d197f46-10f7-4b30-9f38-863ddd1a154f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "旅行先では、ホテルに泊まらないで、夜行バスの夜を眠る時間に使います。そして、朝早くから観光を始めることができます。こうすることで、宿泊費も節約できます。週末に短い旅行をするのに便利です。",
+      "translationZh": "在旅行目的地，不入住酒店，而是利用夜间巴士的夜晚来睡觉。然后，可以从一大早开始观光。通过这样做，还可以节省住宿费。方便在周末进行短途旅行。",
+      "translationEn": "At the travel destination, instead of staying in a hotel, you use the night on the overnight bus to sleep. Then, you can start sightseeing early in the morning. By doing this, you can also save on accommodation costs. It is convenient for taking short trips on weekends.",
+      "id": "1d74e50f-b325-4342-b93e-0e506bdee7d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、夜行バスは長時間座っているのが少し大変なこともあります。しかし、最近は座席が広くて快適なバスも増えています。工夫次第で、安くても楽しい旅行ができます。",
+      "translationZh": "当然，长时间坐在夜间巴士里有时会有点辛苦。但是，最近座位宽敞舒适的巴士也增加了。只要想办法，即使便宜也能进行愉快的旅行。",
+      "translationEn": "Of course, sitting on an overnight bus for a long time can be a bit challenging. However, recently, buses with wider and more comfortable seats are increasing. With some ingenuity, you can have a fun trip even on a budget.",
+      "id": "dce02e16-4689-4714-b7fb-6e95e647c289",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夜行バス",
+      "reading": "やこうバス",
+      "meaningZh": "夜间巴士",
+      "meaningEn": "overnight bus",
+      "level": "n5n4",
+      "exampleSentence": "夜行バスで大阪に行きました。",
+      "id": "4c76842a-35e8-4808-828c-02d9ea2dd0d6"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者がたくさん集まりました。",
+      "id": "083a20da-c054-4aa8-90b6-2e66aae8ec8c"
+    },
+    {
+      "word": "格安",
+      "reading": "かくやす",
+      "meaningZh": "廉价，便宜",
+      "meaningEn": "cheap, inexpensive",
+      "level": "n5n4",
+      "exampleSentence": "格安のホテルを探しました。",
+      "id": "80665d01-bb3b-4a69-a006-0c4048502ab6"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "来週、旅行に行きます。",
+      "id": "5c29d4e0-ca52-454b-aec6-7b68873af796"
+    },
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaningZh": "有效",
+      "meaningEn": "effective, valid",
+      "level": "n3",
+      "exampleSentence": "時間を有効に使いたいです。",
+      "id": "2ac6c37d-6e5b-4909-984e-e36111429c50"
+    },
+    {
+      "word": "メリット",
+      "reading": "めりっと",
+      "meaningZh": "优点",
+      "meaningEn": "merit, advantage",
+      "level": "n3",
+      "exampleSentence": "この計画のメリットは何ですか。",
+      "id": "f0375bb2-5b6f-421b-bb88-9664de383d4c"
+    },
+    {
+      "word": "宿泊費",
+      "reading": "しゅくはくひ",
+      "meaningZh": "住宿费",
+      "meaningEn": "accommodation cost",
+      "level": "n3",
+      "exampleSentence": "宿泊費を節約しました。",
+      "id": "c6a94c2e-43a5-465e-b0b2-f048baddd25c"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "device, invention, idea, ingenuity",
+      "level": "n3",
+      "exampleSentence": "工夫して問題を解決しました。",
+      "id": "114af496-cf65-48fb-80af-ca5c6596f7da"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "夜行バス旅行のメリットは何ですか。",
+      "options": [
+        "夜行バスはとても速いからです。",
+        "夜行バスは安くて、時間を有効に使えるからです。",
+        "夜行バスはホテルの予約が簡単だからです。",
+        "夜行バスは景色がきれいだからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「夜行バスの最大のメリットは、料金が安いことです。」と「寝ている間に移動できるので、時間を有効に使えます。」と書いてあります。",
+      "id": "e6585a01-18cb-4179-aa9e-c4e0405eb232"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-26-e85002e2aa",
+  "publishedAt": "2026-07-26T06:00:00+09:00"
+}

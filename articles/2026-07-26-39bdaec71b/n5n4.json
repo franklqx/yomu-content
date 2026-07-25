@@ -1,0 +1,114 @@
+{
+  "title": "ご当地ラーメン、東京に集まる！",
+  "summary": "日本各地の美味しいラーメンが東京に集まっています。色々な味を楽しめますよ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本にはたくさんの美味しいラーメンがあります。北海道から沖縄まで、色々な味があります。最近、これらの「ご当地ラーメン」が東京でも食べられるようになりました。",
+      "translationZh": "日本有很多美味的拉面。从北海道到冲绳，有各种各样的味道。最近，这些“地方特色拉面”在东京也能吃到了。",
+      "translationEn": "There are many delicious ramen in Japan. From Hokkaido to Okinawa, there are various flavors. Recently, these 'local specialty ramen' have become available to eat in Tokyo too.",
+      "id": "1ab4400b-a579-4b49-9762-ac0987caac52",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京に新しいラーメン屋さんがたくさんできました。それは、日本各地の有名なラーメン屋さんの支店です。例えば、豚骨ラーメンや味噌ラーメンなど、色々な種類があります。",
+      "translationZh": "东京新开了许多拉面店。它们是日本各地著名拉面店的分店。例如，有豚骨拉面、味噌拉面等各种种类。",
+      "translationEn": "Many new ramen shops have opened in Tokyo. These are branches of famous ramen shops from all over Japan. For example, there are various types like tonkotsu ramen and miso ramen.",
+      "id": "4c8e6e16-1c0b-453a-b4ec-fa930911e86d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "色々な地域から来たラーメンを東京で食べられるのは、とても嬉しいことです。旅行に行かなくても、その地域の味を楽しむことができます。皆さんもぜひ、東京で色々なご当地ラーメンを試してみてください。",
+      "translationZh": "能在东京吃到来自不同地区的拉面，真是非常开心。即使不去旅行，也能享受到那个地区的味道。大家也请一定在东京尝试一下各种地方特色拉面。",
+      "translationEn": "It's very happy to be able to eat ramen from various regions in Tokyo. You can enjoy the taste of that region without traveling. Everyone, please try various local specialty ramen in Tokyo.",
+      "id": "8f5caf99-06d2-494e-a7ed-65d6e2aeb490",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "各地",
+      "reading": " banget",
+      "meaningZh": "各地，各处",
+      "meaningEn": "various places",
+      "level": "n5n4",
+      "exampleSentence": "各地のお祭りは楽しいです。",
+      "id": "df9abec2-ec87-443c-92f3-237fb00cc0f5"
+    },
+    {
+      "word": "美味しい",
+      "reading": "oishii",
+      "meaningZh": "好吃的，美味的",
+      "meaningEn": "delicious",
+      "level": "n5n4",
+      "exampleSentence": "このケーキはとても美味しいです。",
+      "id": "e582afdf-d18f-4beb-83b9-29cff1012350"
+    },
+    {
+      "word": "最近",
+      "reading": "saikin",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が面白いです。",
+      "id": "1b5f2cf6-681d-463b-ac3e-54f697fd09c6"
+    },
+    {
+      "word": "支店",
+      "reading": "shiten",
+      "meaningZh": "分店",
+      "meaningEn": "branch store",
+      "level": "n5n4",
+      "exampleSentence": "このお店は支店がたくさんあります。",
+      "id": "272af4fd-aca4-4abb-80a3-7507f25f536e"
+    },
+    {
+      "word": "種類",
+      "reading": "shurui",
+      "meaningZh": "种类",
+      "meaningEn": "kind, type",
+      "level": "n5n4",
+      "exampleSentence": "この店には色々な種類のパンがあります。",
+      "id": "dc29ba14-1d7a-4838-a872-18fc1c926cc5"
+    },
+    {
+      "word": "地域",
+      "reading": "chiiki",
+      "meaningZh": "地区，地域",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "これは私の住んでいる地域です。",
+      "id": "a6cd6982-a8a8-45d4-970f-c93968ca0966"
+    },
+    {
+      "word": "旅行",
+      "reading": "ryokou",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "夏に北海道へ旅行したいです。",
+      "id": "d88ba7a5-5bdb-4a77-95b0-d6e17f709fd8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東京で、日本各地のラーメンが食べられるようになりましたか。",
+      "options": [
+        "はい、食べられるようになりました。",
+        "いいえ、まだ食べられません。",
+        "少しだけ食べられます。",
+        "東京では食べられません。"
+      ],
+      "correctIndex": 0,
+      "explanation": "最近、これらの「ご当地ラーメン」が東京でも食べられるようになりました。",
+      "id": "431915fa-123d-4717-bdbc-d34f6528858e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-26-39bdaec71b",
+  "publishedAt": "2026-07-26T06:00:00+09:00"
+}

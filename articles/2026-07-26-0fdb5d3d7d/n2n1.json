@@ -1,0 +1,138 @@
+{
+  "title": "EV急速充電網、全国で拡充へ～利便性向上と普及促進目指す",
+  "summary": "電気自動車（EV）の普及を後押しするため、全国各地で急速充電網の整備が進められています。これにより、EVユーザーの利便性が大幅に向上し、さらなる普及が期待されます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、地球温暖化対策や持続可能な社会の実現に向け、電気自動車（EV）への関心が高まっています。しかし、EVの普及を阻む一因として、航続距離への不安や充電インフラの不足が指摘されてきました。こうした状況を受け、政府および民間企業は、EVユーザーがどこでも安心して充電できる環境を整備するため、急速充電網の拡充に注力しています。",
+      "translationZh": "近年来，为应对全球变暖和实现可持续社会，公众对电动汽车（EV）的关注度日益提高。然而，续航里程的担忧和充电基础设施的不足一直是阻碍EV普及的因素之一。面对这种情况，政府和民间企业正致力于扩大快速充电网络，以期为EV用户提供随时随地都能安心充电的环境。",
+      "translationEn": "In recent years, interest in electric vehicles (EVs) has been growing in response to global warming measures and the goal of achieving a sustainable society. However, concerns about driving range and a lack of charging infrastructure have been identified as factors hindering EV adoption. In response to this situation, the government and private companies are focusing on expanding the rapid charging network to create an environment where EV users can charge with peace of mind anywhere.",
+      "id": "9cad47e7-9353-4bee-8ec7-8d52aa460527",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "具体的には、高速道路のサービスエリアやパーキングエリア、都市部の商業施設、さらには地方の道の駅など、多様な場所に設置が進められています。これにより、長距離移動はもちろんのこと、日常的な買い物やレジャーの際にも気軽に充電できるようになり、EVの利便性は格段に向上すると見られています。また、充電時間の短縮も技術開発によって進んでおり、ガソリン車と遜色ない利用体験が提供される日も近いとのことです。",
+      "translationZh": "具体而言，充电桩正被安装在高速公路的服务区和停车场、城市商业设施，甚至包括地方的道の駅等多种场所。这不仅方便了长途旅行，也使得在日常购物和休闲时能够轻松充电，预计EV的便利性将得到显著提升。此外，随着技术的进步，充电时间也在缩短，据称提供不亚于燃油车的用户体验的日子已经不远了。",
+      "translationEn": "Specifically, installations are proceeding in various locations such as highway service and parking areas, urban commercial facilities, and even rural roadside stations. This is expected to significantly improve the convenience of EVs, making charging easily accessible not only for long-distance travel but also during daily shopping and leisure activities. Furthermore, technological advancements are reducing charging times, with reports suggesting that an user experience comparable to gasoline vehicles will soon be available.",
+      "id": "5c7d0339-cfae-495d-b538-81792c653865",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この急速充電網の拡充は、EVの普及を加速させるだけでなく、関連産業の活性化にも繋がると期待されています。充電インフラの整備に伴い、新たなビジネスチャンスが生まれ、雇用創出にも貢献するでしょう。EVシフトが本格化する中で、このインフラ整備は、日本のエネルギー政策における重要な柱の一つとして位置づけられています。",
+      "translationZh": "此次快速充电网络的扩张不仅有望加速EV的普及，还有望带动相关产业的振兴。随着充电基础设施的完善，新的商业机会将应运而生，并为创造就业做出贡献。在EV转型全面展开之际，此次基础设施建设被定位为日本能源政策的重要支柱之一。",
+      "translationEn": "This expansion of the rapid charging network is expected not only to accelerate the adoption of EVs but also to revitalize related industries. The development of charging infrastructure is anticipated to create new business opportunities and contribute to job creation. As the shift to EVs gains momentum, this infrastructure development is positioned as one of the key pillars of Japan's energy policy.",
+      "id": "e6c76c3e-e5b8-4aac-aca4-819e32cb0905",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩大，充实",
+      "meaningEn": "expansion, augmentation",
+      "level": "n2n1",
+      "exampleSentence": "この計画は、教育施設の拡充を目的としています。",
+      "id": "8b5ecb1b-88b5-4ba5-b0fa-c4a0f33ffef3"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, dissemination",
+      "level": "n3",
+      "exampleSentence": "インターネットの普及は、私たちの生活を大きく変えました。",
+      "id": "0c7b22d9-51b6-44e4-8fb7-166adfa4e2cc"
+    },
+    {
+      "word": "阻む",
+      "reading": "はばむ",
+      "meaningZh": "阻碍，阻止",
+      "meaningEn": "to hinder, to block",
+      "level": "n2n1",
+      "exampleSentence": "悪天候が計画の遂行を阻んだ。",
+      "id": "13e609ce-1cf9-425c-9b34-6477ea401864"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "infrastructure",
+      "level": "n3",
+      "exampleSentence": "社会資本整備（インフラ整備）は国の発展に不可欠です。",
+      "id": "09fdce67-08aa-457c-b8f6-9814e9682245"
+    },
+    {
+      "word": "利便性",
+      "reading": "りべんせい",
+      "meaningZh": "便利性",
+      "meaningEn": "convenience",
+      "level": "n2n1",
+      "exampleSentence": "新しい駅の開業により、地域の利便性が向上しました。",
+      "id": "9ba4ac0c-c7f8-42d1-9313-d065db83faef"
+    },
+    {
+      "word": "格段",
+      "reading": "かくだん",
+      "meaningZh": "格外，特别，显著",
+      "meaningEn": "remarkably, considerably",
+      "level": "n2n1",
+      "exampleSentence": "この新技術により、生産性は格段に向上した。",
+      "id": "e62dde2c-fd31-42f1-841e-be5677af6b0a"
+    },
+    {
+      "word": "遜色",
+      "reading": "そんしょく",
+      "meaningZh": "逊色，差别",
+      "meaningEn": "a disadvantage, inferiority",
+      "level": "n2n1",
+      "exampleSentence": "最新モデルは、旧モデルと比べても遜色ない性能を持っている。",
+      "id": "3b4052b3-78e0-410a-a411-1639ca78bc27"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "EVの普及を阻む一因とされているものは何ですか？",
+      "options": [
+        "充電料金の高さ",
+        "充電インフラの不足",
+        "デザインの多様性のなさ",
+        "メンテナンスの難しさ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中では、「EVの普及を阻む一因として、航続距離への不安や充電インフラの不足が指摘されてきました。」と述べられています。",
+      "id": "f5e7b299-96ba-46f4-925f-9e1d248e53d9"
+    },
+    {
+      "question": "急速充電網の拡充により、どのような効果が期待されていますか？",
+      "options": [
+        "EVの価格低下",
+        "EVユーザーの利便性向上と普及促進",
+        "ガソリンスタンドの減少",
+        "自動車メーカーの負担増加"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「EVユーザーがどこでも安心して充電できる環境を整備するため、急速充電網の拡充に注力しています。」や「EVの利便性は格段に向上すると見られています。」と述べられており、普及促進への期待も示唆されています。",
+      "id": "7eaadd56-966d-44a5-ac93-23348360c7cd"
+    },
+    {
+      "question": "急速充電網の整備は、EV普及以外にどのような貢献をすると考えられていますか？",
+      "options": [
+        "伝統工芸の発展",
+        "地方経済の活性化と雇用創出",
+        "宇宙開発の促進",
+        "農業技術の向上"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後の段落には、「この急速充電網の拡充は、EVの普及を加速させるだけでなく、関連産業の活性化にも繋がると期待されています。」、「新たなビジネスチャンスが生まれ、雇用創出にも貢献するでしょう。」と記されています。",
+      "id": "f8918bde-a637-401f-be23-f4600a5613d6"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-26-0fdb5d3d7d",
+  "publishedAt": "2026-07-26T06:00:00+09:00"
+}

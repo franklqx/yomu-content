@@ -1,0 +1,122 @@
+{
+  "title": "電気自動車をもっと便利に",
+  "summary": "電気自動車（EV）をもっと使いやすくするために、急速充電器がたくさん作られています。これはとても良いことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）が人気です。でも、充電に時間がかかるのが心配な人もいます。そこで、EVをもっと便利にするために、急速充電器がたくさん作られています。",
+      "translationZh": "最近，电动汽车（EV）很受欢迎。但是，也有人担心充电需要很长时间。因此，为了让电动汽车更方便，正在建造很多快速充电器。",
+      "translationEn": "Recently, electric vehicles (EVs) are popular. However, some people worry about the long charging time. Therefore, many fast chargers are being built to make EVs more convenient.",
+      "id": "2a3f2edc-7854-4b68-b9dd-1d7374a1e4d9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電器があると、短い時間でEVのバッテリーを充電できます。これは、長い道のりを運転する時にとても役立ちます。ガソリンスタンドでガソリンを入れるように、早く充電が終わります。",
+      "translationZh": "有了快速充电器，可以在很短的时间内为电动汽车的电池充电。这在长途驾驶时非常有帮助。就像在加油站加油一样，充电很快就结束了。",
+      "translationEn": "With a fast charger, you can charge an EV's battery in a short time. This is very helpful when driving long distances. It finishes charging quickly, like refueling at a gas station.",
+      "id": "a8d16d55-b98e-44bc-8716-aaa260f2bd6a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "日本でも、たくさんの場所で急速充電器が作られています。高速道路のサービスエリアや、お店の駐車場などです。これで、EVの利用者が安心して運転できるようになります。",
+      "translationZh": "在日本，很多地方也在建设快速充电器。例如高速公路的服务区和商店的停车场。这样，电动汽车的使用者就能安心地驾驶了。",
+      "translationEn": "In Japan too, fast chargers are being built in many places. These include highway service areas and parking lots of shops. This will allow EV users to drive with peace of mind.",
+      "id": "fcca74e3-d06e-4a6c-b840-c66bcf799ebf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網が広がることは、環境にも良いことです。ガソリン車より、EVは空気をきれいにします。これからもEVがもっと増えて、私たちの生活が便利になるでしょう。",
+      "translationZh": "快速充电网络的扩展对环境也有好处。与汽油车相比，电动汽车能净化空气。今后电动汽车会越来越多，我们的生活也会变得更加便利。",
+      "translationEn": "The expansion of the fast charging network is also good for the environment. EVs clean the air better than gasoline cars. EVs will continue to increase in the future, and our lives will become more convenient.",
+      "id": "34715530-30ee-4261-b7aa-d17ef663a3b9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "electric vehicle",
+      "level": "n5n4",
+      "exampleSentence": "電気自動車は静かです。",
+      "id": "3116a09a-dbab-4316-b342-dc1920dd982e"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "fast charger",
+      "level": "n5n4",
+      "exampleSentence": "急速充電器で充電しました。",
+      "id": "46090e6e-b556-4f5d-b229-ecb00abdb674"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "923ef996-974e-4e9e-ba62-6e070bb01c20"
+    },
+    {
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaningZh": "充电",
+      "meaningEn": "charging",
+      "level": "n5n4",
+      "exampleSentence": "スマートフォンの充電が必要です。",
+      "id": "88e890ab-5cc3-47d3-a89a-7eb4246bbb51"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaningZh": "时间",
+      "meaningEn": "time",
+      "level": "n5n4",
+      "exampleSentence": "時間がかかります。",
+      "id": "d6581d91-afdd-4d85-bdf5-c76228cdaa83"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "良い場所を見つけました。",
+      "id": "90589690-c698-4b80-90fd-9a2ac17021e1"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n3",
+      "exampleSentence": "環境を守ることが大切です。",
+      "id": "14431c2d-bde2-4bee-9c94-cec6625916e6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "急速充電器があると、何が便利になりますか？",
+      "options": [
+        "ガソリン車が速く走れるようになる",
+        "短い時間でEVのバッテリーを充電できる",
+        "電気自動車が安くなる",
+        "充電器がどこにでもあるようになる"
+      ],
+      "correctIndex": 1,
+      "explanation": "急速充電器があると、短い時間でEVのバッテリーを充電できます。",
+      "id": "439f64b0-8720-4c0c-b234-07484396fe87"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-26-0fdb5d3d7d",
+  "publishedAt": "2026-07-26T06:00:00+09:00"
+}

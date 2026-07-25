@@ -1,0 +1,147 @@
+{
+  "title": "若者の間で夜行バス旅行が人気上昇中",
+  "summary": "近年、若年層を中心に夜行バスを利用した格安旅行が注目を集めている。このトレンドは、経済的な理由だけでなく、旅のスタイルそのものの変化も背景にあると見られる。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、宿泊費や移動費を抑えたいという若者の間で、夜行バスを利用した旅行が静かなブームとなっている。特に、週末や連休を利用して遠方へ出かける際に、移動時間を有効活用できる点が評価されているとのことだ。多くの夜行バス運行会社では、女性専用車両やプライベート感のある座席、無料Wi-Fiなどのサービスを拡充しており、快適性の向上も利用者増につながっていると見られる。",
+      "translationZh": "近年来，在希望削减住宿费和交通费的年轻人之间，利用夜间巴士进行的旅行正掀起一股不大但持续的潮流。尤其是在利用周末或长假前往远方时，能够有效利用移动时间的这一点受到了好评。据称，许多夜间巴士运营公司正在扩充女性专用车厢、有隐私感的座位、免费Wi-Fi等服务，舒适度的提升也促成了用户数量的增加。",
+      "translationEn": "In recent years, a quiet boom has emerged among young people seeking to save on accommodation and travel costs, with overnight bus trips gaining popularity. This trend is particularly noted for weekends and holidays, where travelers can effectively utilize travel time to visit distant locations. It is reported that many overnight bus companies are enhancing their services, including dedicated cars for women, private seating options, and free Wi-Fi, which are contributing to an increase in users due to improved comfort.",
+      "id": "b02a9184-180b-4344-94e6-d7da545f0338",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この現象の背景には、単に経済的なメリットだけではない要因も指摘されている。SNSの普及に伴い、友人同士で手軽に旅行の計画を立て、情報共有することが容易になったことも大きい。また、移動中に読書をしたり、映画を鑑賞したりと、車内での過ごし方を工夫することで、旅のプロセス自体を楽しむという価値観も広がっているようだ。",
+      "translationZh": "这一现象的背景，除了单纯的经济效益之外，还有其他因素被指出。随着社交媒体的普及，朋友之间可以轻松地制定旅行计划并共享信息，这也起到了很大的作用。此外，通过在旅途中阅读、看电影等方式，工夫于车内的度过时光，享受旅途过程本身的价值观似乎也在扩展。",
+      "translationEn": "Beyond mere economic benefits, other factors are cited as contributing to this phenomenon. The spread of social media has made it easier for friends to casually plan trips and share information. Furthermore, a value system that embraces enjoying the travel process itself, by finding ways to spend time on the bus, such as reading or watching movies, appears to be spreading.",
+      "id": "2b0d6f33-8dc8-49f8-a889-7d61303b6c0a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、長時間の移動に伴う体調管理や、目的地でのアクティビティを最大限に楽しむための休息の確保など、注意すべき点も存在する。旅行会社やバス会社は、こうした利用者側のニーズに応えつつ、安全で快適な旅を提供するための努力を続けている。今後も、若者のライフスタイルや価値観の変化とともに、夜行バス旅行の形も進化していくことが予想される。",
+      "translationZh": "另一方面，也存在需要注意的事项，例如长时间移动带来的身体状况管理，以及为最大限度享受目的地活动而确保休息等。旅行社和巴士公司在满足这些顾客需求的同时，也在持续努力提供安全舒适的旅行。今后，随着年轻人生活方式和价值观的变化，夜间巴士旅行的形式也有望继续进化。",
+      "translationEn": "On the other hand, there are points to consider, such as managing physical condition during long journeys and ensuring adequate rest to fully enjoy activities at the destination. Travel agencies and bus companies continue to strive to provide safe and comfortable journeys while responding to these user needs. It is anticipated that the form of overnight bus travel will continue to evolve alongside changes in the lifestyles and values of young people.",
+      "id": "d30b3249-e076-4b25-9a23-9041c8b28745",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "格安",
+      "reading": "かくやす",
+      "meaningZh": "便宜；廉价",
+      "meaningEn": "cheap; inexpensive",
+      "level": "n3",
+      "exampleSentence": "格安航空券を探す。",
+      "id": "3262f3c6-8ebd-4bb6-bc36-6d4a5d19fae6"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻人；青年层",
+      "meaningEn": "young people; youth",
+      "level": "n2n1",
+      "exampleSentence": "若年層の支持を集める新製品。",
+      "id": "fffc547c-0e41-4e18-9143-408a279e8ccf"
+    },
+    {
+      "word": "運行",
+      "reading": "うんこう",
+      "meaningZh": "（车辆、船舶、飞机等）运行，开行",
+      "meaningEn": "operation; running",
+      "level": "n2n1",
+      "exampleSentence": "バスの運行状況を確認する。",
+      "id": "666af9c0-43c8-4cdd-9efd-e3afb22c7ee6"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充；充实",
+      "meaningEn": "expansion; enlargement",
+      "level": "n2n1",
+      "exampleSentence": "サービスの拡充を図る。",
+      "id": "0c14e402-caf9-4df8-be66-ed8c422c5376"
+    },
+    {
+      "word": "有効活用",
+      "reading": "ゆうこうかつよう",
+      "meaningZh": "有效利用",
+      "meaningEn": "effective utilization",
+      "level": "n2n1",
+      "exampleSentence": "時間を有効活用する。",
+      "id": "cd5e60a1-14dd-4cc0-bdb8-5485ee28d51b"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaningZh": "背景",
+      "meaningEn": "background",
+      "level": "n3",
+      "exampleSentence": "事件の背景を調べる。",
+      "id": "8dd854cf-46ae-4228-93ad-bc357fac3069"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及；推广",
+      "meaningEn": "spread; dissemination",
+      "level": "n3",
+      "exampleSentence": "インターネットの普及が進む。",
+      "id": "0a4fa129-bca3-419f-8aa0-c91fa32bbd79"
+    },
+    {
+      "word": "価値観",
+      "reading": "かちかん",
+      "meaningZh": "价值观",
+      "meaningEn": "values; sense of values",
+      "level": "n2n1",
+      "exampleSentence": "現代の若者の価値観は多様だ。",
+      "id": "f02eb9d7-1760-4468-a981-7796eab76fc0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若者の間で夜行バス旅行が人気を集めている理由として、本文で述べられていないものはどれか。",
+      "options": [
+        "移動費や宿泊費を抑えられるから",
+        "SNSで旅行情報を共有しやすいから",
+        "車内でのプライベート空間が確保しやすいから",
+        "移動時間を観光に充てられるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「プライベート感のある座席」というサービス拡充の例は挙げられていますが、それが人気を集めている直接的な理由として述べられているわけではありません。むしろ、経済性や情報共有の容易さ、移動時間の有効活用が理由として挙げられています。",
+      "id": "7c302cf3-85b0-4b5f-aee9-8f5298ae6733"
+    },
+    {
+      "question": "夜行バス旅行のどのような点が、旅のプロセス自体を楽しむという価値観につながっていると本文は示唆しているか。",
+      "options": [
+        "移動中に地図で次の目的地を確認できること",
+        "車内で映画鑑賞や読書など、自分の時間を楽しめること",
+        "到着後すぐに観光地を巡れること",
+        "夜行バスならではの特別な車内食が提供されること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「移動中に読書をしたり、映画を鑑賞したりと、車内での過ごし方を工夫することで、旅のプロセス自体を楽しむという価値観も広がっているようだ」と記載されており、車内での個人的な時間を楽しむことが、旅のプロセスを楽しむことに繋がっていることが示唆されています。",
+      "id": "532908b9-2f82-4799-b83b-86048aad3b7a"
+    },
+    {
+      "question": "夜行バス旅行において、利用者側が注意すべき点として本文で言及されていることは何か。",
+      "options": [
+        "スマートフォンの充電ができないこと",
+        "車内での飲食が全面的に禁止されていること",
+        "長時間の移動による体調管理や、休息の確保",
+        "目的地でのアクティビティが制限されること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「長時間の移動に伴う体調管理や、目的地でのアクティビティを最大限に楽しむための休息の確保など、注意すべき点も存在する」と明記されています。",
+      "id": "44bf4a9f-5da1-4a36-8b58-764325c88954"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-26-e85002e2aa",
+  "publishedAt": "2026-07-26T06:00:00+09:00"
+}
