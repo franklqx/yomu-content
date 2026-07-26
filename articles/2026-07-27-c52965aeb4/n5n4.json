@@ -1,0 +1,114 @@
+{
+  "title": "新しい工場ができました",
+  "summary": "日本の会社が新しい工場を作りました。この工場は半導体を作ります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の半導体メーカーが新しい工場を建てました。この工場は、とても小さくて大事な部品を作るための場所です。もうすぐ、この工場で物が作られ始めます。",
+      "translationZh": "日本的一家半导体制造商建造了一座新工厂。这座工厂是制造非常小且重要的零件的地方。很快，这家工厂将开始生产产品。",
+      "translationEn": "A Japanese semiconductor maker built a new factory. This factory is a place to make very small and important parts. Soon, production will start in this factory.",
+      "id": "26d74569-9c40-4dc0-ba5e-db38a1d095cf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "半導体は、スマートフォンやコンピューターなど、いろいろな機械に必要です。日本の会社は、もっと良い半導体を作りたいと思っています。だから、新しい工場で最新の技術を使います。",
+      "translationZh": "半导体是智能手机和电脑等各种机器所必需的。这家日本公司希望制造更好的半导体。因此，他们将在新工厂使用最新的技术。",
+      "translationEn": "Semiconductors are necessary for various machines like smartphones and computers. The Japanese company wants to make better semiconductors. Therefore, they will use the latest technology in the new factory.",
+      "id": "decdf207-4138-4b4e-8b77-ac4027197d2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい工場ができると、日本の技術がもっと強くなります。そして、世界中の人々に、良い製品を届けることができます。会社の人たちは、新しい工場で働くのを楽しみにしています。",
+      "translationZh": "随着新工厂的建成，日本的技术将变得更加强大。然后，他们可以将优质产品提供给世界各地的人们。公司员工们期待在新工厂工作。",
+      "translationEn": "With the new factory built, Japan's technology will become stronger. Then, they can deliver good products to people around the world. The company employees are looking forward to working at the new factory.",
+      "id": "ca5b86db-5ffa-48b6-961c-5de6e984d332",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaningZh": "工厂",
+      "meaningEn": "factory",
+      "level": "n5n4",
+      "exampleSentence": "新しい工場で働きます。",
+      "id": "59ab792a-bfe8-4b42-84a0-518e9f783b28"
+    },
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "半導体は小さいですが、大切です。",
+      "id": "b0096c9b-28ca-43af-942c-6b7c71c41151"
+    },
+    {
+      "word": "建てる",
+      "reading": "たてる",
+      "meaningZh": "建造",
+      "meaningEn": "to build",
+      "level": "n5n4",
+      "exampleSentence": "家を建てました。",
+      "id": "05fd3aee-58d4-426b-9478-0e61c7500120"
+    },
+    {
+      "word": "部品",
+      "reading": "ぶひん",
+      "meaningZh": "零件，部件",
+      "meaningEn": "part, component",
+      "level": "n5n4",
+      "exampleSentence": "この機械の部品は高いです。",
+      "id": "66c2024c-ac8e-4f00-9063-e472b4b1ac72"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "日本の技術はすごいです。",
+      "id": "36df4441-cffd-4c81-b576-b7be318e7df5"
+    },
+    {
+      "word": "最新",
+      "reading": "さいしん",
+      "meaningZh": "最新",
+      "meaningEn": "latest, newest",
+      "level": "n3",
+      "exampleSentence": "最新のコンピューターを買いました。",
+      "id": "a8ba29fb-cdd0-411e-b924-516d31b96b88"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaningZh": "必要",
+      "meaningEn": "necessary",
+      "level": "n5n4",
+      "exampleSentence": "水は生きていくのに必要です。",
+      "id": "a57d3df0-899c-4a89-83b4-d1f80ba4224b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい工場は何を作りますか？",
+      "options": [
+        "車",
+        "半導体",
+        "食べ物",
+        "服"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「この工場は半導体を作ります。」と書いてあります。",
+      "id": "be839d03-5e59-4fb3-9c56-fb8ea7f978e7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-27-c52965aeb4",
+  "publishedAt": "2026-07-27T06:00:00+09:00"
+}

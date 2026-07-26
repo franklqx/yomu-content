@@ -1,0 +1,131 @@
+{
+  "title": "民芸品、また人気！",
+  "summary": "昔からある民芸品が、今また若者の間で人気です。新しいコレクターがたくさん出てきました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、日本にはたくさんの民芸品がありました。それは、特別な技術を持つ人が、毎日使うために作ったものです。形がきれいで、とても丈夫でした。しかし、時代が進んで、新しいものがたくさんできました。民芸品は少しずつ忘れられていきました。",
+      "translationZh": "以前，日本有很多民俗工艺品。那是拥有特殊技艺的人们，为了日常使用而制作的。它们的造型很美，而且非常结实。但是，随着时代发展，新产品大量出现。民俗工艺品也一点点被遗忘了。",
+      "translationEn": "In the past, Japan had many folk crafts. These were made by people with special skills for daily use. Their shapes were beautiful and they were very durable. However, as times changed, many new things were created. Folk crafts were gradually forgotten.",
+      "id": "3f595c1d-7c0c-48d0-82b3-53d2ff3d8c4e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、最近、民芸品がまた注目されています。特に若い人たちの間で人気が出てきました。昔の民芸品の良さが、今の時代に合っていると感じる人が増えています。SNSで写真を見ることも多くなりました。",
+      "translationZh": "但是，最近，民俗工艺品又受到了关注。特别是在年轻人之间，它们越来越受欢迎。越来越多的人觉得，过去民俗工艺品的优点很适合现代。在社交媒体上看到它们照片的机会也变多了。",
+      "translationEn": "But recently, folk crafts are gaining attention again. They are becoming popular, especially among young people. More and more people feel that the goodness of old folk crafts suits the current era. We are also seeing more pictures on social media.",
+      "id": "b1634ff0-d69d-4b0b-b300-4c718f452bde",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいコレクターもたくさんいます。彼らは、古い民芸品を探して集めています。そして、その良さをSNSで広めています。昔の技術やデザインが、新しい世代に受け継がれていくのは、とても良いことだと思います。",
+      "translationZh": "也有很多新的收藏家。他们寻找并收集旧的民俗工艺品。然后，他们在社交媒体上宣传它们的美好。我认为，过去的技艺和设计能够被新一代继承，这是一件非常好的事情。",
+      "translationEn": "There are also many new collectors. They search for and collect old folk crafts. Then, they spread their value on social media. I think it is a very good thing that old techniques and designs are being passed on to the new generation.",
+      "id": "25e266e8-a642-4f2c-ae96-dbc10dc44c8d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "民芸運動の考え方は、これからも大切です。それは、ただ古いものを集めることだけではありません。生活を豊かにするものを大切にする心です。この気持ちが、新しい形で広がっていくといいですね。",
+      "translationZh": "民艺运动的理念，今后也非常重要。它不仅仅是收集旧物品。它是一种珍惜能让生活变得更美好的事物的心情。我希望这份心意能以新的形式传播下去。",
+      "translationEn": "The idea of the Folk Art Movement is important for the future. It's not just about collecting old things. It's a spirit of cherishing things that enrich life. It would be great if this spirit spreads in new ways.",
+      "id": "f83a6496-63f2-4efc-8833-50976cd45087",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "民芸品",
+      "reading": "みんげいひん",
+      "meaningZh": "民俗工艺品",
+      "meaningEn": "folk craft",
+      "level": "n5n4",
+      "exampleSentence": "このお皿は民芸品です。",
+      "id": "08c891f7-b358-4715-abc9-b0c9e58a9710"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌は若者に人気があります。",
+      "id": "205ec320-3a7c-417d-b7de-dd0cf5a29c1a"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町はとても静かでした。",
+      "id": "4dc5104c-4415-4445-b711-829cefa476ac"
+    },
+    {
+      "word": "丈夫",
+      "reading": "じょうぶ",
+      "meaningZh": "结实，牢固",
+      "meaningEn": "strong, durable",
+      "level": "n5n4",
+      "exampleSentence": "このかばんはとても丈夫です。",
+      "id": "647a5031-35d2-4ecb-a73c-b90b960c7005"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaningZh": "时代，时期",
+      "meaningEn": "era, period",
+      "level": "n5n4",
+      "exampleSentence": "古い時代には、今と違う生活がありました。",
+      "id": "8d579cbc-5b5f-4a40-a854-ec4e0ae15c9c"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "新しい映画に注目が集まっています。",
+      "id": "e5e4b183-cf60-4d30-a65c-00eb0c01714b"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n3",
+      "exampleSentence": "このお祭りは長い伝統があります。",
+      "id": "fbaac31a-1073-4f22-942a-bb12e64afd09"
+    },
+    {
+      "word": "受け継ぐ",
+      "reading": "うけつぐ",
+      "meaningZh": "继承",
+      "meaningEn": "inherit, succeed",
+      "level": "n3",
+      "exampleSentence": "父の技術を子供が受け継ぎました。",
+      "id": "d254758f-1596-466a-a8a7-c3a5202c5a9c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、何が若者の間で人気が出てきましたか。",
+      "options": [
+        "新しい技術",
+        "古い車",
+        "民芸品",
+        "外国の料理"
+      ],
+      "correctIndex": 2,
+      "explanation": "最近、民芸品がまた注目されています。特に若い人たちの間で人気が出てきました。",
+      "id": "7166dc52-df1d-4df3-99df-44f8a3da9226"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-27-e8b1c0ac34",
+  "publishedAt": "2026-07-27T06:00:00+09:00"
+}

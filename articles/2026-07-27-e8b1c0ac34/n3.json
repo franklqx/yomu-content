@@ -1,0 +1,126 @@
+{
+  "title": "民芸運動の魅力再発見！新しい世代のコレクターたち",
+  "summary": "かつて注目された民芸運動が、若い世代によって再び評価されています。彼らは、昔ながらの工芸品に新しい価値を見出しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "柳宗悦（やなぎむねよし）が中心となって広めた民芸運動は、庶民の手仕事による「用の美」を大切にする考え方でした。しかし、時代が進むにつれて、その価値が忘れられかけていました。ところが最近、若い世代の間で、昔ながらの民芸品に再び関心が集まっているのです。",
+      "translationZh": "以柳宗悦为中心推广的民艺运动，是一种重视庶民手工制作的“实用之美”的理念。然而，随着时代的变迁，其价值逐渐被遗忘。但最近，在年轻一代中，对传统民艺品再次产生了兴趣。",
+      "translationEn": "The Mingei movement, spearheaded by Yanagi Sōetsu, emphasized the 'beauty of utility' in the handcrafted works of ordinary people. However, as time passed, its value began to be forgotten. Recently, however, there has been renewed interest in traditional folk crafts among the younger generation.",
+      "id": "cf61ee71-2225-4175-997f-0cc2bf83f194",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいコレクターたちは、インターネットを通じて、全国各地のユニークな民芸品の情報に簡単にアクセスできるようになりました。彼らは、大量生産品にはない、一点一点異なる表情や、作り手の温かみを感じられる点に魅力を感じているようです。SNSで情報を共有することも、この動きを加速させています。",
+      "translationZh": "新一代的收藏家们，通过互联网，可以轻松地获取到日本各地独特民艺品的信息。他们似乎被那些批量生产的产品所没有的、独一无二的表情以及能感受到制作者的温暖的特点所吸引。在社交媒体上分享信息，也加速了这一趋势。",
+      "translationEn": "New collectors can now easily access information about unique folk crafts from all over the country through the internet. They seem to be attracted by the unique expressions, different from mass-produced items, and the warmth of the creators that can be felt in each piece. Sharing information on social media is also accelerating this trend.",
+      "id": "34270d81-5aab-41e1-854e-e0bc647f0abd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は「古いもの」と見なされがちだった民芸品ですが、現代のライフスタイルに合わせて、インテリアとして取り入れたり、実用的な雑貨として使ったりする人が増えています。伝統的な技術やデザインが、現代の感覚と融合することで、新たな価値を生み出しているのです。このように、民芸運動は時代を超えて、私たちの生活を豊かにしてくれる可能性を秘めています。",
+      "translationZh": "虽然过去民艺品常常被视为“旧物”，但现在越来越多的人将其融入现代生活方式，作为室内装饰或实用杂货来使用。传统的技艺和设计与现代审美融合，创造出新的价值。就这样，民艺运动跨越时代，蕴藏着丰富我们生活的可能性。",
+      "translationEn": "Although folk crafts were often seen as 'old things' in the past, more and more people are incorporating them into their modern lifestyles as interior decor or practical everyday items. Traditional techniques and designs are merging with contemporary sensibilities to create new value. In this way, the Mingei movement transcends time and holds the potential to enrich our lives.",
+      "id": "4dcdac43-3155-4a1d-9bd6-8ef5553f05a3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "民芸運動",
+      "reading": "みんげいうんどう",
+      "meaningZh": "以“实用之美”为理念，推广庶民手工艺术的运动。",
+      "meaningEn": "A movement that promoted folk art and crafts with the concept of 'beauty of utility'.",
+      "level": "n3",
+      "exampleSentence": "民芸運動は日本の文化に大きな影響を与えました。",
+      "id": "e7caf6f8-1fb0-49ec-a7ca-5a34d06dce02"
+    },
+    {
+      "word": "柳宗悦",
+      "reading": "やなぎむねよし",
+      "meaningZh": "日本民艺运动的创始人之一。",
+      "meaningEn": "One of the founders of the Japanese Mingei movement.",
+      "level": "n3",
+      "exampleSentence": "柳宗悦の思想は多くの人に影響を与えた。",
+      "id": "299b29c7-92a6-45d1-9ab0-499570888d22"
+    },
+    {
+      "word": "庶民",
+      "reading": "しょみん",
+      "meaningZh": "普通老百姓。",
+      "meaningEn": "Ordinary people; the common folk.",
+      "level": "n3",
+      "exampleSentence": "庶民の生活を支える技術が大切だ。",
+      "id": "e7271fce-f320-44d7-b54d-48909d2b859b"
+    },
+    {
+      "word": "用の美",
+      "reading": "ようのび",
+      "meaningZh": "实用性中蕴含的美。",
+      "meaningEn": "Beauty found in utility or practicality.",
+      "level": "n3",
+      "exampleSentence": "この茶碗は用の美を感じさせるデザインだ。",
+      "id": "73ee1b4c-ca44-4550-8613-63a13ff8ef63"
+    },
+    {
+      "word": "コレクター",
+      "reading": "これくたー",
+      "meaningZh": "收藏家。",
+      "meaningEn": "Collector.",
+      "level": "n3",
+      "exampleSentence": "彼は古い切手を集めるコレクターです。",
+      "id": "f270020d-22e9-470e-87f7-192765c42e51"
+    },
+    {
+      "word": "ユニーク",
+      "reading": "ゆにーく",
+      "meaningZh": "独特的，独一无二的。",
+      "meaningEn": "Unique.",
+      "level": "n3",
+      "exampleSentence": "この絵はユニークな発想で描かれている。",
+      "id": "b3ad0c87-8c73-496d-8c4a-502a64c04cd4"
+    },
+    {
+      "word": "ライフスタイル",
+      "reading": "らいふすたいる",
+      "meaningZh": "生活方式。",
+      "meaningEn": "Lifestyle.",
+      "level": "n3",
+      "exampleSentence": "現代人のライフスタイルは多様化している。",
+      "id": "8b77d306-a5a8-4fed-9274-56ace9e90925"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若い世代が民芸品に再び魅力を感じている理由は何ですか？",
+      "options": [
+        "価格が安くなったから",
+        "インターネットで情報が見つけやすいから",
+        "学校で教わる機会が増えたから",
+        "大量生産品の方が質が良いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しいコレクターたちは、インターネットを通じて、全国各地のユニークな民芸品の情報に簡単にアクセスできるようになりました。",
+      "id": "8f6c449c-410f-4836-bb82-0de092afb347"
+    },
+    {
+      "question": "民芸運動が大切にしてきた考え方は何ですか？",
+      "options": [
+        "芸術家の個性を表現すること",
+        "最新のデザインを取り入れること",
+        "庶民の手仕事による「用の美」",
+        "高価な素材を使うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "柳宗悦（やなぎむねよし）が中心となって広めた民芸運動は、庶民の手仕事による「用の美」を大切にする考え方でした。",
+      "id": "dbca8034-e550-4007-89db-221e6039b7a3"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-27-e8b1c0ac34",
+  "publishedAt": "2026-07-27T06:00:00+09:00"
+}

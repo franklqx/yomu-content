@@ -1,0 +1,143 @@
+{
+  "title": "地域通貨で商店街を元気に！新しい取り組み",
+  "summary": "最近、地域通貨を使って商店街を活性化させようという動きが広がっています。この記事では、その取り組みについて紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの商店街で地域通貨を導入する動きが見られます。地域通貨とは、その地域だけで使えるお金のことです。これを使うことで、地域内での経済循環を促し、商店街の活性化を目指しています。例えば、ある街では、地元の農産物や工芸品を買うと、そのお店で使えるポイントが貯まるようになっています。",
+      "translationZh": "最近，许多商店街出现了引入地域货币的动向。地域货币是指仅在该地区内可以使用的钱。通过使用它，旨在促进区域内的经济循环，并振兴商店街。例如，在某个城镇，购买当地农产品或手工艺品时，可以累积在该店使用的积分。",
+      "translationEn": "Recently, there's been a growing trend in many shopping streets to introduce local currencies. A local currency is money that can only be used within that specific region. By using these, the aim is to promote economic circulation within the area and revitalize shopping streets. For instance, in one town, when you buy local agricultural products or crafts, you earn points that can be used at that store.",
+      "id": "4f4e9460-1574-48a8-bf6a-ca487f6049e9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨の利点は、単にお金が地域内を回るだけではありません。住民同士のつながりを深めるきっかけにもなります。地域通貨を通じて、お店の人と顔見知りの関係になったり、地域イベントに参加したりする機会が増えるからです。この取り組みによって、地域への愛着が深まることも期待されています。",
+      "translationZh": "地域货币的好处不仅仅是让金钱在地区内流通。它也为加深居民之间的联系提供了契机。通过地域货币，与店主成为熟识的机会增多，也有机会参加地区活动。这项举措还期望能加深对当地的归属感。",
+      "translationEn": "The benefits of local currencies go beyond just circulating money within the region. They also serve as an opportunity to deepen connections between residents. Through local currencies, opportunities increase to become acquainted with shopkeepers and participate in local events. This initiative is also expected to foster a greater sense of attachment to the community.",
+      "id": "55ddca34-9315-4a48-94db-de30bc6b3ffd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、地域通貨を成功させるためには、いくつか課題もあります。まず、住民にその価値を理解してもらい、積極的に使ってもらう必要があります。そのためには、お店側も地域通貨での支払いを歓迎する姿勢を示すことが大切です。また、スマホアプリなど、新しい技術を活用して、より便利に使えるように工夫することも、普及の鍵となるでしょう。",
+      "translationZh": "然而，要使地域货币取得成功，也存在一些课题。首先，需要让居民理解其价值并积极使用。为此，店方也必须展现出欢迎使用地域货币支付的态度。此外，活用智能手机应用程序等新技术，使其使用更加便捷，也将是普及的关键。",
+      "translationEn": "However, there are also several challenges in making local currencies successful. Firstly, residents need to understand their value and be encouraged to use them actively. Therefore, it is important for shop owners to show a welcoming attitude towards payments made with local currencies. Furthermore, utilizing new technologies such as smartphone apps to make them more convenient to use will also be key to their widespread adoption.",
+      "id": "cd0331ee-51d0-4dbc-b7ab-88bb91de1cb6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨は、地域経済を活性化させるだけでなく、人々のつながりを強める力も持っています。これからも、様々な工夫をしながら、地域通貨が商店街と住民を結びつける架け橋となっていくことが期待されます。皆さんの街でも、このような取り組みが行われているかもしれませんね。",
+      "translationZh": "地域货币不仅能振兴区域经济，还拥有加强人们联系的力量。今后，通过各种创新，地域货币有望成为连接商店街和居民的桥梁。在大家的城市里，也许也正在进行着这样的举措。",
+      "translationEn": "Local currencies have the power not only to revitalize local economies but also to strengthen connections among people. Moving forward, with various innovations, local currencies are expected to become a bridge connecting shopping streets and residents. Perhaps such initiatives are also taking place in your town.",
+      "id": "e18a2103-6d45-4bf8-8ec4-25a87bbc3472",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "仅限特定区域内流通使用的货币",
+      "meaningEn": "Local currency (usable only within a specific region)",
+      "level": "n3",
+      "exampleSentence": "この街では、地域通貨を使うと割引がある。",
+      "id": "ea508168-cb91-4e49-857c-0eb202425d2c"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "使变得活跃、有生气",
+      "meaningEn": "Activation, revitalization",
+      "level": "n3",
+      "exampleSentence": "商店街の活性化のために、新しいイベントを企画した。",
+      "id": "8e7099c1-6427-4da3-a2e2-fddd35319445"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "引进，采纳",
+      "meaningEn": "Introduction, adoption",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入することになった。",
+      "id": "5f3f6667-17cd-4c9a-93a3-39c0a467104a"
+    },
+    {
+      "word": "経済循環",
+      "reading": "けいざいじゅんかん",
+      "meaningZh": "指货币、商品、服务等在经济主体之间周而复始的流动",
+      "meaningEn": "Economic circulation",
+      "level": "n3",
+      "exampleSentence": "地域通貨は経済循環を良くすると言われている。",
+      "id": "05e1f839-18ca-48c1-a977-7a0588e5c723"
+    },
+    {
+      "word": "つながり",
+      "reading": "つながり",
+      "meaningZh": "联系，关系",
+      "meaningEn": "Connection, tie",
+      "level": "n5n4",
+      "exampleSentence": "地域の人々とのつながりを大切にしたい。",
+      "id": "d6146eb3-0593-4717-9b49-a0aac99f3c32"
+    },
+    {
+      "word": "愛着",
+      "reading": "あいちゃく",
+      "meaningZh": "喜爱，依恋",
+      "meaningEn": "Attachment, affection",
+      "level": "n3",
+      "exampleSentence": "この土地への愛着が強い。",
+      "id": "d9aea9b9-2808-44da-801f-ced12070cca4"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "需要解决的问题、课题",
+      "meaningEn": "Issue, challenge, task",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには多くの課題がある。",
+      "id": "396b345e-50d5-470f-bb1f-537616bd31b8"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "广泛流传、普及",
+      "meaningEn": "Spread, diffusion",
+      "level": "n3",
+      "exampleSentence": "この技術の普及には時間がかかるだろう。",
+      "id": "80b12903-f229-4b95-91c4-4534e98796ea"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨を導入する主な目的は何ですか？",
+      "options": [
+        "地域外への経済効果を高めるため",
+        "地域内での経済循環を促し、商店街を活性化するため",
+        "外国からの観光客を増やすため",
+        "新しい税金を集めるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「これを使うことで、地域内での経済循環を促し、商店街の活性化を目指しています。」と書かれています。",
+      "id": "1841986d-ac55-4fa4-933c-388be72c044b"
+    },
+    {
+      "question": "地域通貨を成功させるために、筆者はどのようなことが大切だと述べていますか？",
+      "options": [
+        "地域通貨の専門家をたくさん雇うこと",
+        "他国の通貨制度を参考にして、すぐに真似すること",
+        "住民に価値を理解してもらい、お店側も歓迎する姿勢を示すこと",
+        "広告をたくさん出して、一方的に宣伝すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「まず、住民にその価値を理解してもらい、積極的に使ってもらう必要があります。そのためには、お店側も地域通貨での支払いを歓迎する姿勢を示すことが大切です。」と書かれています。",
+      "id": "c73c7082-20a0-4c6d-bc5f-f91c405b9210"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-27-b6105dfb66",
+  "publishedAt": "2026-07-27T06:00:00+09:00"
+}

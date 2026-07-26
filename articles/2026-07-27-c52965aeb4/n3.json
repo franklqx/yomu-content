@@ -1,0 +1,143 @@
+{
+  "title": "国産半導体メーカー、新工場稼働で未来を拓く",
+  "summary": "国内の半導体メーカーが新しい工場を稼働させました。これにより、技術力の向上と国際競争力の強化が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "国内の大手半導体メーカーである「テクノコア」が、最新鋭の生産ラインを備えた新工場を稼働させました。この工場は、これまで以上に高性能な半導体を製造できる能力を持っています。地元経済の活性化にもつながることから、地域住民からも大きな期待が寄せられています。",
+      "translationZh": "国内大型半导体制造商“Tech-Core”启动了配备了最先进生产线的 But new factory. This factory has the capability to manufacture even higher-performance semiconductors than before. As it is expected to revitalize the local economy, great expectations are also placed by local residents.",
+      "translationEn": "Domestic major semiconductor manufacturer \"Tech-Core\" has started operation of its new factory equipped with the latest production lines. This factory has the capability to manufacture even higher-performance semiconductors than before. As it is expected to revitalize the local economy, great expectations are also placed by local residents.",
+      "id": "883f166a-cfbc-46cf-854e-d2ed3bd9a38b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新工場では、特にAI（人工知能）や自動運転技術に不可欠な最先端チップの生産に注力します。世界的に半導体の需要が高まる中、国内生産能力を強化することは、サプライチェーンの安定化という観点からも非常に重要です。このため、政府も補助金などで支援を表明しています。",
+      "translationZh": "But new factory will focus on the production of cutting-edge chips essential for AI (Artificial Intelligence) and autonomous driving technology. With the global demand for semiconductors increasing, strengthening domestic production capacity is also extremely important from the perspective of stabilizing the supply chain. For this reason, the government has also announced support through subsidies and other means.",
+      "translationEn": "But new factory will focus on the production of cutting-edge chips essential for AI (Artificial Intelligence) and autonomous driving technology. With the global demand for semiconductors increasing, strengthening domestic production capacity is also extremely important from the perspective of stabilizing the supply chain. For this reason, the government has also announced support through subsidies and other means.",
+      "id": "ccb68291-1dbe-421c-b357-45370faae43a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、新工場の稼働は順調に進むばかりではありません。高度な技術を持つ人材の確保や、国際的な価格競争への対応など、乗り越えるべき課題も少なくありません。メーカーは、これらの課題を克服しながら、持続的な成長を目指していくことになります。",
+      "translationZh": "However, the operation of the new factory is not progressing smoothly. There are many challenges to overcome, such as securing personnel with advanced technical skills and responding to international price competition. The manufacturer aims for sustainable growth while overcoming these challenges.",
+      "translationEn": "However, the operation of the new factory is not progressing smoothly. There are many challenges to overcome, such as securing personnel with advanced technical skills and responding to international price competition. The manufacturer aims for sustainable growth while overcoming these challenges.",
+      "id": "ff894cf5-3b43-4ee2-8105-2c42a14ca1dd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回の新工場稼働をきっかけに、日本の半導体産業が再び国際的な競争力を取り戻すことが期待されています。技術革新を続けながら、安定した製品供給ができるようになれば、私たちの生活もさらに便利になるでしょう。",
+      "translationZh": "With the start of operation of this new factory, it is expected that Japan's semiconductor industry will regain its international competitiveness. If stable product supply becomes possible while continuing technological innovation, our lives will also become more convenient.",
+      "translationEn": "With the start of operation of this new factory, it is expected that Japan's semiconductor industry will regain its international competitiveness. If stable product supply becomes possible while continuing technological innovation, our lives will also become more convenient.",
+      "id": "6ef6ade2-2847-40ad-9f62-0a853d0b84c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "この部品は半導体で作られています。",
+      "id": "3708b70d-f3e2-43d1-b333-c85ada7abe99"
+    },
+    {
+      "word": "メーカー",
+      "reading": "めーかー",
+      "meaningZh": "制造商",
+      "meaningEn": "manufacturer",
+      "level": "n5n4",
+      "exampleSentence": "有名なカメラメーカーです。",
+      "id": "6b0e7e90-8e54-45b0-b9b6-4393e8b12aa1"
+    },
+    {
+      "word": "稼働",
+      "reading": "かどう",
+      "meaningZh": "运行，运转",
+      "meaningEn": "operation, running",
+      "level": "n3",
+      "exampleSentence": "工場が今日から稼働を開始します。",
+      "id": "eb4b729f-bb3c-43f1-bf0f-614e908b675d"
+    },
+    {
+      "word": "最新鋭",
+      "reading": "さいしんえい",
+      "meaningZh": "最尖端的，最先进的",
+      "meaningEn": "state-of-the-art, latest",
+      "level": "n3",
+      "exampleSentence": "最新鋭の設備を導入しました。",
+      "id": "b12d25da-7e9d-4c43-b82e-84800af319d2"
+    },
+    {
+      "word": "性能",
+      "reading": "せいのう",
+      "meaningZh": "性能",
+      "meaningEn": "performance",
+      "level": "n3",
+      "exampleSentence": "この車の性能は素晴らしいです。",
+      "id": "1671c71e-34ff-4443-a116-142a2a651f8d"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaningZh": "不可或缺的，必需的",
+      "meaningEn": "essential, indispensable",
+      "level": "n3",
+      "exampleSentence": "健康のためには、睡眠は不可欠です。",
+      "id": "b919b963-a1e8-49c4-b4b6-b30331a90a13"
+    },
+    {
+      "word": "サプライチェーン",
+      "reading": "さぷらいちぇーん",
+      "meaningZh": "供应链",
+      "meaningEn": "supply chain",
+      "level": "n3",
+      "exampleSentence": "サプライチェーンの混乱が問題になっています。",
+      "id": "657ddcc4-cb3c-40aa-a393-d6bb68d95149"
+    },
+    {
+      "word": "補助金",
+      "reading": "ほじょきん",
+      "meaningZh": "补助金，补贴",
+      "meaningEn": "subsidy, grant",
+      "level": "n3",
+      "exampleSentence": "政府から補助金を受けました。",
+      "id": "9487ba74-cfd1-4a1a-bf23-f2af1c1cdf09"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新工場では、どのような分野の半導体生産に力を入れますか？",
+      "options": [
+        "主にゲーム用チップ",
+        "AIや自動運転技術向けの最先端チップ",
+        "一般的な家電製品用チップ",
+        "低価格の汎用チップ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「新工場では、特にAI（人工知能）や自動運転技術に不可欠な最先端チップの生産に注力します。」と書かれています。",
+      "id": "0d895e7c-99c1-4692-8e59-66cd79a1f9b9"
+    },
+    {
+      "question": "新工場の稼働にあたり、メーカーが直面している課題は何ですか？",
+      "options": [
+        "工場の建設費が高すぎること",
+        "国際的な需要が低下していること",
+        "高度な技術を持つ人材の確保と国際競争への対応",
+        "政府からの支援が十分でないこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「しかし、新工場の稼働は順調に進むばかりではありません。高度な技術を持つ人材の確保や、国際的な価格競争への対応など、乗り越えるべき課題も少なくありません。」と書かれています。",
+      "id": "1206198a-43fc-4ac8-a9b5-d3692ec70038"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-27-c52965aeb4",
+  "publishedAt": "2026-07-27T06:00:00+09:00"
+}

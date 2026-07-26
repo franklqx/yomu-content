@@ -1,0 +1,131 @@
+{
+  "title": "地域通貨で商店街を元気に！",
+  "summary": "地域通貨は、その地域だけで使えるお金です。商店街は地域通貨を使って、お店を助けています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "商店街は、昔はとてもにぎやかでした。でも、最近は元気がないお店が増えています。そこで、新しいアイデアが生まれました。それが「地域通貨」です。",
+      "translationZh": "商店街以前非常热闹。但是，最近不景气（元気がない）的店铺增加了。于是，一个新的想法诞生了。那就是“地域货币”。",
+      "translationEn": "Shopping streets were very lively in the past. However, recently, more and more shops are not doing well. Therefore, a new idea was born. That is \"local currency.\"",
+      "id": "b3456c2d-5874-4df8-a20f-0a6532dc3553",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨は、その町や地域だけで使えるお金のことです。例えば、A町で地域通貨を作ったら、A町のお店でしか使うことができません。これは、町の中にお金がもっと回るようにする工夫です。",
+      "translationZh": "地域货币是指只能在该城镇或地区使用的钱。例如，如果在A镇发行了地域货币，那么它只能在A镇的店铺中使用。这是为了让金钱在城镇内更多地流通的措施。",
+      "translationEn": "Local currency is money that can only be used in that town or region. For example, if a local currency is created in Town A, it can only be used at shops in Town A. This is an effort to make money circulate more within the town.",
+      "id": "86781eb6-4661-41da-b0ab-7d7c65671818",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "商店街では、この地域通貨を使うと、特別なサービスがあることがあります。例えば、割引があったり、ポイントが貯まったりします。そうすると、お客さんは地域通貨を使いやすくなります。そして、地域のお店も助かります。",
+      "translationZh": "在商店街，使用这种地域货币有时会有特别的服务。例如，可以打折，或者可以累积积分。这样一来，顾客就更容易使用地域货币。同时，也帮助了当地的店铺。",
+      "translationEn": "In shopping streets, there are sometimes special services when using this local currency. For example, there might be discounts, or points may be accumulated. This makes it easier for customers to use local currency. And, it also helps local shops.",
+      "id": "50208b07-78a4-410d-9e5b-b53e98123233",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨は、町の人たちのつながりを強くする効果もあります。みんなで地域通貨を使うことで、町への愛着が深まります。これからも、地域通貨が商店街を元気にすることを期待しています。",
+      "translationZh": "地域货币还有加强城镇居民之间联系的作用。通过大家一起使用地域货币，加深了对城镇的喜爱。今后，也期待地域货币能让商店街变得更加有活力。",
+      "translationEn": "Local currency also has the effect of strengthening the connections between people in the town. By using local currency together, people's affection for the town deepens. We hope that local currency will continue to energize shopping streets in the future.",
+      "id": "ee7c216f-2cd5-4084-800d-feda88e70173",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街，商业街",
+      "meaningEn": "shopping street, commercial district",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつも人が多いです。",
+      "id": "e10944e4-748e-4e17-a8d3-53601ca01ee0"
+    },
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "地域货币",
+      "meaningEn": "local currency",
+      "level": "n5n4",
+      "exampleSentence": "地域通貨を使うと、お得なことがあります。",
+      "id": "6eb7048a-2a87-4332-888c-4d14c9be7bf3"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹的，繁华的",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りの日は、町がとてもにぎやかでした。",
+      "id": "25db3126-da12-4471-9a2e-f863c573d55b"
+    },
+    {
+      "word": "元気がない",
+      "reading": "げんきがない",
+      "meaningZh": "没精神，不景气",
+      "meaningEn": "not lively, in low spirits, sluggish",
+      "level": "n5n4",
+      "exampleSentence": "最近、その店は元気がないようです。",
+      "id": "2d2877aa-3d04-4f84-a0dd-b3a2b0039174"
+    },
+    {
+      "word": "アイデア",
+      "reading": "アイデア",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアを思いつきました。",
+      "id": "1df73a47-d971-4745-a05c-f312bc7131e2"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，创造，巧妙的办法",
+      "meaningEn": "device, scheme, ingenuity",
+      "level": "n5n4",
+      "exampleSentence": "もっと便利にするための工夫が必要です。",
+      "id": "acd3748e-99a9-4be3-b1d8-4c05fceef6eb"
+    },
+    {
+      "word": "割引",
+      "reading": "わりびき",
+      "meaningZh": "折扣",
+      "meaningEn": "discount",
+      "level": "n5n4",
+      "exampleSentence": "このカードを見せると、割引があります。",
+      "id": "cb2c97f8-7bad-4552-a1ac-9305185a8233"
+    },
+    {
+      "word": "愛着",
+      "reading": "あいちゃく",
+      "meaningZh": "喜爱，依恋",
+      "meaningEn": "attachment, affection",
+      "level": "n3",
+      "exampleSentence": "この町に強い愛着を感じています。",
+      "id": "039a7b90-df68-43c8-b3ee-d645f8862589"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "商店街で地域通貨が使われるのはなぜですか？",
+      "options": [
+        "もっと便利にするためです。",
+        "町の人々がお金持ちになるためです。",
+        "地域のお店を助けるためです。",
+        "町がもっと大きくなるためです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「地域通貨は、町の中にお金がもっと回るようにする工夫です。」「そして、地域のお店も助かります。」",
+      "id": "3986014c-f6a0-4641-8331-f1f73548a1c6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-27-b6105dfb66",
+  "publishedAt": "2026-07-27T06:00:00+09:00"
+}
