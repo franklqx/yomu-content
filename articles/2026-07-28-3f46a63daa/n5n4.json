@@ -1,0 +1,122 @@
+{
+  "title": "図書館とまちづくり",
+  "summary": "図書館は本を読むだけの場所ではありません。図書館はまちづくりでも大切です。いろいろな活動が図書館でできます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "図書館は、町の人々が集まる場所です。静かに本を読むことができます。でも、図書館はそれだけではありません。町を良くするための活動もできます。",
+      "translationZh": "图书馆是镇上人们聚集的地方。可以在那里安静地读书。但是，图书馆不仅仅是那样。也可以在那里开展为了让城镇变得更好的活动。",
+      "translationEn": "Libraries are places where townspeople gather. You can read books quietly there. However, libraries are not just for that. You can also do activities there to make the town better.",
+      "id": "cbe5f991-d110-4fcf-90bc-80edd3209cf1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、図書館でイベントをすることがあります。子供向けの読み聞かせ会や、大人のための講座（こうざ）です。これらのイベントは、町の人々が交流する良い機会になります。",
+      "translationZh": "例如，图书馆会举办活动。有面向儿童的读书会，也有面向大人的讲座。这些活动成为镇上人们交流的好机会。",
+      "translationEn": "For example, events are sometimes held at the library. There are storytelling sessions for children and lectures for adults. These events become good opportunities for townspeople to interact.",
+      "id": "3d30007e-4e3b-47dc-b200-903f7781473e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、図書館は地域の情報（じょうほう）の中心にもなります。新しいお店の情報や、町のイベントの情報などを集めることができます。町を良くするために、図書館は大切な役割（やくわり）を果たします。",
+      "translationZh": "此外，图书馆也成为地区信息的中心。可以收集新店铺的信息、镇上活动的信息等。为了让城镇变得更好，图书馆发挥着重要的作用。",
+      "translationEn": "In addition, libraries also become centers for local information. You can gather information about new shops and town events. Libraries play an important role in making the town better.",
+      "id": "a401e51c-00c8-490a-93dc-6aa714b986c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館を起点にして、町を元気にする活動がたくさん考えられます。これからも図書館は、町にとって大切な場所であり続けるでしょう。",
+      "translationZh": "以图书馆为起点，可以设想出许多让城镇充满活力的活动。今后，图书馆也将继续是城镇中重要的场所。",
+      "translationEn": "Starting from the library, many activities to energize the town can be imagined. Libraries will continue to be important places for the town from now on.",
+      "id": "40638c82-96f9-4f85-b756-787d8133aff4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaningZh": "图书馆",
+      "meaningEn": "library",
+      "level": "n5n4",
+      "exampleSentence": "図書館で本を借りました。",
+      "id": "964fa08d-d753-46cc-b852-e788e8759dec"
+    },
+    {
+      "word": "まちづくり",
+      "reading": "まちづくり",
+      "meaningZh": "城镇建设，社区营造",
+      "meaningEn": "town development, community building",
+      "level": "n5n4",
+      "exampleSentence": "新しいまちづくり計画が始まりました。",
+      "id": "c764be9b-7b2d-4928-958b-94afba34a5f0"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "公園にたくさんの人が集まりました。",
+      "id": "677faf5e-bf32-4176-ab0a-05d4be13f969"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n5n4",
+      "exampleSentence": "これは良い機会です。",
+      "id": "d05f3d14-76f8-4290-af93-b4a9f1556eb7"
+    },
+    {
+      "word": "講座",
+      "reading": "こうざ",
+      "meaningZh": "讲座，课程",
+      "meaningEn": "lecture, course",
+      "level": "n5n4",
+      "exampleSentence": "日本語の講座があります。",
+      "id": "346f1e67-3e26-43b0-a2fb-f1a654e7c70b"
+    },
+    {
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaningZh": "信息",
+      "meaningEn": "information",
+      "level": "n5n4",
+      "exampleSentence": "最新の情報が必要です。",
+      "id": "d65ddd4e-fe55-42f4-91c2-6dbc7ec7a530"
+    },
+    {
+      "word": "役割",
+      "reading": "やくわり",
+      "meaningZh": "作用，角色",
+      "meaningEn": "role, part",
+      "level": "n5n4",
+      "exampleSentence": "彼は大切な役割をしました。",
+      "id": "76515f7b-7ee3-496a-9153-a6cc5241c3ca"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "図書館は、まちづくりにとってどのような役割がありますか。",
+      "options": [
+        "人々が集まる場所です。",
+        "イベントを開催する場所です。",
+        "地域の情報が集まる場所です。",
+        "本を読むだけの場所です。"
+      ],
+      "correctIndex": 2,
+      "explanation": "また、図書館は地域の情報（じょうほう）の中心にもなります。",
+      "id": "bc2e5a1c-ac8c-41f7-a5be-136dfd932bb7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-28-3f46a63daa",
+  "publishedAt": "2026-07-28T06:00:00+09:00"
+}

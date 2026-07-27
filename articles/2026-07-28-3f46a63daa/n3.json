@@ -1,0 +1,135 @@
+{
+  "title": "図書館から広がる、新しいまちづくり",
+  "summary": "最近、図書館が単なる本の貸し出し場所ではなく、地域活性化の中心として注目されています。図書館を起点とした、まちづくりの新しい動きを見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "図書館といえば、静かに本を読む場所、というイメージが強いかもしれません。しかし、最近では、地域住民が集まり、交流する「まちづくりの拠点」としての役割が期待されています。例えば、図書館で地域の歴史についての講座が開かれたり、地元の作家を招いたイベントが企画されたりすることもあります。",
+      "translationZh": "说到图书馆，很多人可能觉得它只是一个安静读书的地方。然而，最近图书馆被寄予厚望，成为居民聚集、交流的“社区建设据点”。例如，图书馆会举办关于当地历史的讲座，或者策划邀请本地作家参加的活动。",
+      "translationEn": "When you think of a library, you might have a strong image of a quiet place to read books. However, recently, libraries are expected to play a role as a 'community development hub' where local residents gather and interact. For instance, lectures on local history might be held at the library, or events inviting local authors may be planned.",
+      "id": "5f687764-837a-4768-80f8-a78091ad56c3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館がまちづくりの中心になることで、地域に新しい風が吹くことがあります。本を読みに来るだけでなく、様々な人が図書館に集まるようになれば、自然と地域の人々のつながりが深まるからです。また、図書館が地域の課題について考える場を提供することで、住民が主体的にまちづくりに関わるきっかけも生まれます。",
+      "translationZh": "通过让图书馆成为社区建设的中心，有时会为地区带来一股新风。因为如果不仅仅是来读书，各种各样的人聚集到图书馆，地区居民之间的联系自然会加深。此外，通过图书馆提供思考地区课题的场所，也创造了居民积极参与社区建设的机会。",
+      "translationEn": "When libraries become centers for community development, new energy can blow into the area. This is because if various people gather at the library, not just to read books, the connections between local residents naturally deepen. Furthermore, by providing a space to think about local issues, libraries also create opportunities for residents to actively participate in community development.",
+      "id": "6b658e29-ed32-4066-a12b-6cc7992e2e8c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館を起点にしたまちづくりは、まだ新しい試みですが、成功している事例も増えています。地域住民のニーズに応えながら、図書館が多機能なスペースとして活用されていくことで、より魅力的なまちが生まれるでしょう。これからも、図書館が果たす役割に注目していきたいですね。",
+      "translationZh": "以图书馆为起点的社区建设，虽然还是新的尝试，但成功的案例也在增加。通过将图书馆作为多功能空间加以利用，并回应地区居民的需求，将会诞生更具魅力的城镇。今后，我们也希望继续关注图书馆将扮演的角色。",
+      "translationEn": "Community development starting from libraries is still a new endeavor, but successful examples are increasing. By utilizing libraries as multifunctional spaces while responding to the needs of local residents, more attractive towns will likely be born. We want to continue paying attention to the role libraries will play in the future.",
+      "id": "180f52df-9d3b-4297-b1b1-d063994cbb62",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "起点",
+      "reading": "きてん",
+      "meaningZh": "起点；出发点",
+      "meaningEn": "starting point; origin",
+      "level": "n3",
+      "exampleSentence": "この駅を起点にして、観光地を回ります。",
+      "id": "b7a0911c-2395-41a9-9c40-8cdada2ae86e"
+    },
+    {
+      "word": "まちづくり",
+      "reading": "まちづくり",
+      "meaningZh": "社区建设；城镇规划",
+      "meaningEn": "community development; town planning",
+      "level": "n3",
+      "exampleSentence": "私たちは、この街をもっと良くするためのまちづくりをしています。",
+      "id": "a42430da-fa35-4de6-99dc-50f3ba5e7668"
+    },
+    {
+      "word": "拠点",
+      "reading": "きょてん",
+      "meaningZh": "据点；基地",
+      "meaningEn": "base; center; stronghold",
+      "level": "n3",
+      "exampleSentence": "この公園は、地域の交流の拠点となっています。",
+      "id": "26ebc413-02ad-4f59-9b2f-50f0b4943d79"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活跃化；振兴",
+      "meaningEn": "invigoration; revitalization",
+      "level": "n2n1",
+      "exampleSentence": "商店街の活性化のために、新しいイベントを企画しました。",
+      "id": "8e8a1cce-de72-44a6-b1ca-5b77d15c2612"
+    },
+    {
+      "word": "講座",
+      "reading": "こうざ",
+      "meaningZh": "讲座；课程",
+      "meaningEn": "course; lecture series",
+      "level": "n3",
+      "exampleSentence": "図書館で、初心者向けの日本語講座が開かれます。",
+      "id": "1bc69a27-4536-48e9-80a2-3dffe6baf79c"
+    },
+    {
+      "word": "招く",
+      "reading": "まねく",
+      "meaningZh": "邀请；招致",
+      "meaningEn": "to invite; to bring about",
+      "level": "n3",
+      "exampleSentence": "有名な専門家を招いて、講演会を行います。",
+      "id": "bb71f11b-d8cb-4b9e-91a2-d250bd2bc228"
+    },
+    {
+      "word": "つながり",
+      "reading": "つながり",
+      "meaningZh": "联系；关系",
+      "meaningEn": "connection; link; relationship",
+      "level": "n3",
+      "exampleSentence": "地域の人々とのつながりを大切にしています。",
+      "id": "f5265868-fb11-4097-b92a-415a55210b25"
+    },
+    {
+      "word": "主体的に",
+      "reading": "しゅたいてきに",
+      "meaningZh": "主体地；主动地",
+      "meaningEn": "actively; taking initiative",
+      "level": "n2n1",
+      "exampleSentence": "自分で考えて、主体的に行動することが大切です。",
+      "id": "0b76f8c1-473f-46e1-a36c-03890590f310"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の図書館は、どのような役割が期待されていますか。",
+      "options": [
+        "静かに本を読むだけの場所",
+        "地域住民が集まるまちづくりの拠点",
+        "子供向けの絵本を専門に扱う場所",
+        "最新のテクノロジーを学ぶ施設"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「図書館が、地域住民が集まり、交流する「まちづくりの拠点」としての役割が期待されています。」とあります。",
+      "id": "247ed329-c41b-466e-baca-7f91f07180e8"
+    },
+    {
+      "question": "図書館がまちづくりの中心になることで、どのような良いことが期待できますか。",
+      "options": [
+        "地域住民がお金持ちになる",
+        "地域の人々のつながりが深まる",
+        "図書館の利用者が減る",
+        "地域の治安が悪くなる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「本を読みに来るだけでなく、様々な人が図書館に集まるようになれば、自然と地域の人々のつながりが深まるからです。」とあります。",
+      "id": "f04b663d-a2ce-42c0-8cfa-0f9508bf06ea"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-28-3f46a63daa",
+  "publishedAt": "2026-07-28T06:00:00+09:00"
+}

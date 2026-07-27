@@ -1,0 +1,134 @@
+{
+  "title": "災害を防ぐ！新しいセンサーネットワークとは？",
+  "summary": "近年、災害への備えが重要になっています。この記事では、災害対策に役立つ新しいセンサーネットワークについて、N3レベルの日本語で解説します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でも地震や台風などの自然災害が増えています。そのため、災害から私たちを守るための新しい技術が注目されています。その一つが「防災向けセンサーネットワーク」です。これは、たくさんのセンサーを使い、災害の兆候を早く見つけるための仕組みです。",
+      "translationZh": "最近，日本也地震和台风等自然灾害频发。因此，保护我们免受灾害的新技术备受关注。其中之一就是“防灾用传感器网络”。这是一种利用大量传感器，尽早发现灾害征兆的机制。",
+      "translationEn": "Recently, natural disasters such as earthquakes and typhoons have been increasing in Japan. Therefore, new technologies to protect us from disasters are gaining attention. One of them is the 'disaster prevention sensor network.' This is a system that uses many sensors to detect signs of disaster early.",
+      "id": "83f3aed5-d87b-4733-b237-85bedd5d9054",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このネットワークは、例えば、地面の動きや川の水位、気温の変化などを常に監視しています。もし、いつもと違う異常なデータが見つかると、すぐにシステムがそれを検知し、関係者に知らせることができます。これにより、避難の準備を早く始めたり、被害を最小限に抑えたりすることが可能になります。",
+      "translationZh": "这个网络例如会持续监控地面的移动、河流水位、气温变化等。如果发现与平时不同的异常数据，系统会立即检测到并通知相关人员。这样一来，就可以尽早开始避难准备，或将损失降到最低。",
+      "translationEn": "This network constantly monitors things like ground movement, river water levels, and temperature changes. If unusual data, different from normal, is found, the system can detect it immediately and notify the relevant parties. This makes it possible to start evacuation preparations early and minimize damage.",
+      "id": "522d6e01-23f7-464a-8a14-0856c5358943",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "センサーネットワークを導入することには、たくさんのメリットがあります。しかし、すべての場所で完璧に機能させるためには、まだ技術的な課題も残っています。例えば、センサーの設置場所や、集まったデータをどう分析するか、また、電気が使えなくなった時の対応なども考える必要があります。",
+      "translationZh": "引入传感器网络有很多优点。但是，要让它在所有地方都能完美运行，仍然存在技术上的挑战。例如，需要考虑传感器的安装位置、如何分析收集到的数据，以及停电时如何应对等问题。",
+      "translationEn": "There are many benefits to introducing a sensor network. However, there are still technical challenges to make it function perfectly everywhere. For example, we need to consider sensor placement, how to analyze the collected data, and what to do when electricity is unavailable.",
+      "id": "0d23cf11-466a-444d-991a-9560a1ba0f00",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "それでも、このような新しい技術は、私たちの安全を守るために非常に重要です。これからも、さらに多くの地域でセンサーネットワークが活用され、より安全な社会が実現されることを期待しています。皆さんも、災害への備えについて、日頃から考えておくことが大切です。",
+      "translationZh": "尽管如此，这样的新技术对于保护我们的安全来说非常重要。我们期待今后在更多地区能够活用传感器网络，实现更安全的社会。大家平时也思考如何防灾非常重要。",
+      "translationEn": "Nevertheless, such new technologies are very important for protecting our safety. We hope that sensor networks will be utilized in more areas in the future, leading to a safer society. It is also important for everyone to think about disaster preparedness in daily life.",
+      "id": "ce93fb6a-4cb3-4cb6-bd0a-d3ba90a611be",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾害",
+      "meaningEn": "disaster",
+      "level": "n5n4",
+      "exampleSentence": "地震は大きな災害を引き起こすことがあります。",
+      "id": "7cc1c503-48c8-4ab7-9440-d34fe48fc54f"
+    },
+    {
+      "word": "兆候",
+      "reading": "ちょうこう",
+      "meaningZh": "征兆，迹象",
+      "meaningEn": "sign, indication",
+      "level": "n3",
+      "exampleSentence": "雨の兆候が見られる。",
+      "id": "026a7c70-d5b2-4b44-a542-5f635a2a1b5d"
+    },
+    {
+      "word": "監視",
+      "reading": "かんし",
+      "meaningZh": "监视，监控",
+      "meaningEn": "monitoring, surveillance",
+      "level": "n3",
+      "exampleSentence": "カメラで常に監視している。",
+      "id": "4e6bb917-ab51-4bdb-af73-0e7907f4892f"
+    },
+    {
+      "word": "異常",
+      "reading": "いじょう",
+      "meaningZh": "异常",
+      "meaningEn": "abnormality, anomaly",
+      "level": "n3",
+      "exampleSentence": "機械に異常が発生した。",
+      "id": "904defa2-f9eb-44bd-bc97-f3150aaa0a71"
+    },
+    {
+      "word": "検知",
+      "reading": "けんち",
+      "meaningZh": "探测，检测",
+      "meaningEn": "detection",
+      "level": "n3",
+      "exampleSentence": "煙を検知するセンサー。",
+      "id": "a00fb253-9fdc-4529-b264-92e21f395fb0"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "导入，引入",
+      "meaningEn": "introduction, adoption",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入する。",
+      "id": "f6e8dea0-7565-4e4b-8e26-22c739abd3cd"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "challenge, issue",
+      "level": "n3",
+      "exampleSentence": "解決すべき課題がたくさんある。",
+      "id": "cd596f8f-7d59-4007-ac92-5a1d1fada915"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "防災向けセンサーネットワークは、どのようなことを早期に発見するために使われますか？",
+      "options": [
+        "人々の活動の異常",
+        "災害の兆候",
+        "天気の変化",
+        "経済の変動"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「災害の兆候を早く見つけるための仕組みです」と書かれています。",
+      "id": "b10054fb-08c0-4715-b696-ae83b9f8da95"
+    },
+    {
+      "question": "センサーネットワークを導入する際の課題として、本文で挙げられていることは何ですか？",
+      "options": [
+        "コストが高すぎること",
+        "データの分析方法が確立されていないこと",
+        "電気が使えない時の対応",
+        "センサーの精度が低いこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「例えば、センサーの設置場所や、集まったデータをどう分析するか、また、電気が使えなくなった時の対応なども考える必要があります。」と書かれており、電気が使えなくなった時の対応も課題として挙げられています。",
+      "id": "2c6a718a-5e3a-4012-9bf5-c56f1c209b9e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-28-8b684e5014",
+  "publishedAt": "2026-07-28T06:00:00+09:00"
+}

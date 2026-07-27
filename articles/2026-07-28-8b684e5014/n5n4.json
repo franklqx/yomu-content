@@ -1,0 +1,131 @@
+{
+  "title": "安全を守る新しい技術",
+  "summary": "災害から私たちの町を守るために、新しいセンサーネットワークが使われています。これは、安全のためにとても大切な技術です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、町で新しいセンサーネットワークが使われ始めました。このネットワークは、災害が起きる前に早く知らせるためのものです。例えば、地震や雨がたくさん降った時、早く危険を知らせることができます。",
+      "translationZh": "最近，城镇开始使用新的传感器网络。这个网络是为了在灾害发生前快速发出警报。例如，在发生地震或下大雨时，可以快速告知危险。",
+      "translationEn": "Recently, a new sensor network has started to be used in towns. This network is for quickly notifying before disasters happen. For example, it can quickly inform of danger when an earthquake occurs or it rains a lot.",
+      "id": "d1b600d5-fd9e-4cde-b4f5-a70ea33f8468",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "センサーは、特別な機械です。町の色々な場所に置かれます。これらのセンサーが、温度や揺れ、水の量などを調べます。集まった情報は、コンピューターに送られます。",
+      "translationZh": "传感器是一种特殊的机器。它们被放置在城镇的各个地方。这些传感器会检查温度、摇晃、水量等。收集到的信息会被发送到电脑。",
+      "translationEn": "Sensors are special machines. They are placed in various locations in the town. These sensors check things like temperature, shaking, and water levels. The collected information is sent to computers.",
+      "id": "d03ac38e-b326-41dc-aece-afb683fcdffc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンピューターは、センサーからの情報を分析します。もし危険なことが分かったら、すぐに人々や関係者に知らせます。これにより、災害が大きくなる前に、早く避難したり、対策をとったりすることができます。",
+      "translationZh": "电脑会分析传感器传来的信息。如果发现有危险，会立刻通知人们和相关人员。这样，在灾害扩大之前，就可以快速避难或采取对策。",
+      "translationEn": "Computers analyze the information from the sensors. If something dangerous is found, people and relevant parties are notified immediately. This allows for quick evacuation and countermeasures before the disaster becomes severe.",
+      "id": "6ee98b65-d27d-44bc-8de9-da6f87115c0d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい技術は、私たちの生活をより安全にするために開発されました。これからも、もっと便利な技術が出てくるでしょう。私たちは、このような技術を理解し、上手に使うことが大切です。",
+      "translationZh": "这项新技术是为了让我们的生活更安全而开发的。今后，还会出现更多方便的技术。我们理解并善于使用这些技术很重要。",
+      "translationEn": "This new technology was developed to make our lives safer. More convenient technologies will likely appear in the future. It is important for us to understand and use such technologies well.",
+      "id": "1e1cf593-8752-4941-8f19-4d766d77de17",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい本です。",
+      "id": "ef9be8ec-593f-45d2-9842-c73256a5afa8"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この技術はすごいです。",
+      "id": "276ea889-6781-4ebe-90b0-4a8fc0caada6"
+    },
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾害",
+      "meaningEn": "disaster",
+      "level": "n5n4",
+      "exampleSentence": "災害に注意しましょう。",
+      "id": "871eedd5-0120-4381-861e-d9d21130506b"
+    },
+    {
+      "word": "センサー",
+      "reading": "せんさー",
+      "meaningZh": "传感器",
+      "meaningEn": "sensor",
+      "level": "n5n4",
+      "exampleSentence": "この機械はセンサーです。",
+      "id": "debdcddf-3bc1-4400-a19b-c68c6d2441fd"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place, location",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "0bff79e4-d363-4751-808f-9c7024da64d2"
+    },
+    {
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaningZh": "信息",
+      "meaningEn": "information",
+      "level": "n5n4",
+      "exampleSentence": "大切な情報です。",
+      "id": "5d0bc2e9-f40e-4934-a432-9e6693d5f784"
+    },
+    {
+      "word": "危険",
+      "reading": "きけん",
+      "meaningZh": "危险",
+      "meaningEn": "danger",
+      "level": "n5n4",
+      "exampleSentence": "危険な場所には行かないでください。",
+      "id": "79ab5af9-61f7-4138-a476-fcb87931a71a"
+    },
+    {
+      "word": "避難",
+      "reading": "ひなん",
+      "meaningZh": "避难",
+      "meaningEn": "evacuation",
+      "level": "n3",
+      "exampleSentence": "避難場所へ行きましょう。",
+      "id": "d34f50ff-5f64-4e6c-8e29-aa559c864b91"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいセンサーネットワークは何のために使われますか？",
+      "options": [
+        "町をきれいに made",
+        "災害を早く知らせるため",
+        "新しい店を作るため",
+        "町を涼しくするため"
+      ],
+      "correctIndex": 1,
+      "explanation": "このネットワークは、災害が起きる前に早く知らせるためのものです。",
+      "id": "b028b15f-b5cc-4c12-a3ed-e9da2d247f78"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-28-8b684e5014",
+  "publishedAt": "2026-07-28T06:00:00+09:00"
+}

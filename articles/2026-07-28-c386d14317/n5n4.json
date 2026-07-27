@@ -1,0 +1,122 @@
+{
+  "title": "学生が神社をきれいにしました",
+  "summary": "多くの学生がボランティアに参加しました。彼らは古い神社をきれいにしました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町に古い神社があります。その神社の名前は「ひかり神社」です。最近、神社は少し汚れていました。だから、町の人々が心配していました。",
+      "translationZh": "这个镇上有一座古老的神社。神社的名字叫“光神社”。最近，神社有点脏了。所以，镇上的人们很担心。",
+      "translationEn": "There is an old shrine in this town. The shrine's name is 'Hikari Shrine'. Recently, the shrine was a little dirty. So, the townspeople were worried.",
+      "id": "20ec1ed8-db7a-4efe-bbe9-c5bbc4a09597",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、学生たちがボランティアをすることにしました。たくさんの学生が参加しました。彼らは「ひかり神社」をきれいにするために集まりました。みんな、やる気がありました。",
+      "translationZh": "于是，学生们决定做志愿者。许多学生参加了。他们聚集起来是为了打扫“光神社”。大家很有干劲。",
+      "translationEn": "Therefore, the students decided to volunteer. Many students participated. They gathered to clean 'Hikari Shrine'. Everyone was motivated.",
+      "id": "60864fbb-314f-45ea-8f89-c676c5420ea2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学生たちは、落ち葉を集めたり、草を抜いたりしました。また、古い建物をきれいに拭きました。みんな一生懸命働きました。神社の周りがとてもきれいになりました。",
+      "translationZh": "学生们收集了落叶，拔了草。他们还仔细地擦拭了旧建筑。大家努力工作。神社周围变得非常干净。",
+      "translationEn": "The students collected fallen leaves and pulled weeds. They also carefully wiped the old buildings. Everyone worked hard. The area around the shrine became very clean.",
+      "id": "d685796e-ecc5-4b62-bbe3-54edda9e2e3e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人々は学生たちに感謝しました。「きれいになって嬉しいです。ありがとう。」と言いました。学生たちも、地域のために何かできて、嬉しかったです。",
+      "translationZh": "镇上的人们感谢学生们。他们说：“很高兴变得干净。谢谢。”学生们也很高兴能为社区做些事情。",
+      "translationEn": "The townspeople thanked the students. They said, 'We are happy it became clean. Thank you.' The students were also happy to be able to do something for the community.",
+      "id": "6002479d-8ecb-4e79-a407-4467e6b1eb31",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "神社",
+      "reading": "じんじゃ",
+      "meaningZh": "神社",
+      "meaningEn": "shrine",
+      "level": "n5n4",
+      "exampleSentence": "この町に古い神社があります。",
+      "id": "e48fa952-fc9c-4a2c-8ff4-b7782c51e956"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaningZh": "学生",
+      "meaningEn": "student",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの学生が参加しました。",
+      "id": "ead3eb2f-1d80-438c-bba7-2026a6cf2f8e"
+    },
+    {
+      "word": "ボランティア",
+      "reading": "ぼらんてぃあ",
+      "meaningZh": "志愿者",
+      "meaningEn": "volunteer",
+      "level": "n5n4",
+      "exampleSentence": "学生たちがボランティアをすることにしました。",
+      "id": "a1c2ac54-d34a-45da-a767-ce37aa167d9e"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの学生が参加しました。",
+      "id": "3f8412a3-f3d6-4916-b7b2-5b9ff11de452"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "gather",
+      "level": "n5n4",
+      "exampleSentence": "彼らは「ひかり神社」をきれいにするために集まりました。",
+      "id": "1d422c3b-a80f-487c-95aa-a943516dbf04"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "拼命地，努力地",
+      "meaningEn": "very hard, with all one's might",
+      "level": "n5n4",
+      "exampleSentence": "みんな一生懸命働きました。",
+      "id": "2889e642-83eb-4171-97c8-122cecabcc86"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaningZh": "感谢",
+      "meaningEn": "gratitude, thanks",
+      "level": "n5n4",
+      "exampleSentence": "町の人々は学生たちに感謝しました。",
+      "id": "e63fdd5f-129d-4f28-a581-65ffb2946f1c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学生たちは、どの場所をきれいにするために集まりましたか。",
+      "options": [
+        "公園",
+        "駅",
+        "神社",
+        "学校"
+      ],
+      "correctIndex": 2,
+      "explanation": "学生たちは、「ひかり神社」をきれいにするために集まりました。",
+      "id": "8a2b3a0c-a03b-46d7-85dc-91ce70872704"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-28-c386d14317",
+  "publishedAt": "2026-07-28T06:00:00+09:00"
+}

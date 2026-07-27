@@ -1,0 +1,135 @@
+{
+  "title": "学生ボランティア、神社の歴史を次世代へ",
+  "summary": "地域の歴史ある神社が、学生たちの手で蘇りました。文化財保護への熱意が、古き良きものを未来へ繋いでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔から地域の人々に大切にされてきた古い神社がありますが、最近は建物の傷みが目立つようになっていました。そこで、地元の大学の学生たちが「この歴史ある建物を自分たちの手で守りたい」と考え、修復ボランティアを企画しました。参加者は、歴史や文化に興味のある学生たちです。",
+      "translationZh": "虽然有一座自古以来就被当地居民珍视的古老神社，但近年来建筑的损毁变得显而易见。因此，当地大学的学生们认为“想用自己的双手守护这座历史悠久的建筑”，并策划了修复志愿者活动。参加者是对历史和文化感兴趣的学生。",
+      "translationEn": "There is an old shrine that has been cherished by the local community for a long time, but in recent years, damage to the building has become noticeable. Therefore, university students from the area decided they wanted to protect this historic structure with their own hands and organized a restoration volunteer project. The participants are students interested in history and culture.",
+      "id": "a80081b6-5c0f-4687-9d59-24b535fe1e79",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ボランティア活動では、まず専門家から建物の構造や修復方法について学びました。その後、学生たちは古い木材の汚れを落としたり、ペンキが剥げた部分を丁寧に塗り直したりしました。大変な作業でしたが、皆で協力しながら進めたので、楽しかったという声も多く聞かれました。昔の職人さんの技を学びながら、作業は進んでいきました。",
+      "translationZh": "在志愿者活动中，学生们首先从专家那里学习了建筑结构和修复方法。之后，学生们清洁了旧木材上的污垢，并仔细地重新粉刷了剥落油漆的部分。虽然工作很辛苦，但由于大家齐心协力地进行，所以也听到了很多表示“很有趣”的声音。在学习古代工匠技艺的同时，工作也在顺利进行。",
+      "translationEn": "During the volunteer activities, students first learned about the building's structure and restoration methods from experts. Afterward, they cleaned dirt off old wooden materials and carefully repainted areas where the paint had peeled. Although the work was demanding, many students expressed that they enjoyed it because they worked together. The work progressed while learning the techniques of ancient craftsmen.",
+      "id": "a48219ba-c009-4468-b31e-8b847ad17906",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "修復作業が終わった後、神社は以前よりもずっときれいになりました。学生たちは、自分たちの活動によって地域の大切な文化財が守られたことを、とても誇りに思っています。この経験を通して、彼らは歴史を学ぶだけでなく、地域社会に貢献することの大切さも学びました。これからも、このような活動が続くことが期待されています。",
+      "translationZh": "修复工作完成后，神社变得比以前干净多了。学生们对自己通过活动守护了当地重要的文化遗产感到非常自豪。通过这次经历，他们不仅学习了历史，也懂得了为社区做贡献的重要性。人们期望今后也能继续开展这样的活动。",
+      "translationEn": "After the restoration work was completed, the shrine became much cleaner than before. The students feel very proud that their activities have helped preserve an important cultural asset of the community. Through this experience, they learned not only about history but also the importance of contributing to the local community. It is hoped that such activities will continue in the future.",
+      "id": "687456fc-aa93-4466-bd12-8a2ae1c87e0c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "傷み",
+      "reading": "いたみ",
+      "meaningZh": "损坏，损伤",
+      "meaningEn": "damage, deterioration",
+      "level": "n3",
+      "exampleSentence": "古い建物は年月とともに傷みやすくなります。",
+      "id": "c3f89de8-0090-47b3-9845-9253696a84d3"
+    },
+    {
+      "word": "修復",
+      "reading": "しゅうふく",
+      "meaningZh": "修复，修补",
+      "meaningEn": "restoration, repair",
+      "level": "n3",
+      "exampleSentence": "文化財の修復には専門的な知識が必要です。",
+      "id": "fa76d040-56e2-4264-80e0-df77166a19d6"
+    },
+    {
+      "word": "企画",
+      "reading": "きかく",
+      "meaningZh": "策划，计划",
+      "meaningEn": "plan, project, scheme",
+      "level": "n3",
+      "exampleSentence": "新しいイベントを企画しています。",
+      "id": "16458765-f25c-4848-bb21-bad8fe5efdae"
+    },
+    {
+      "word": "構造",
+      "reading": "こうぞう",
+      "meaningZh": "结构",
+      "meaningEn": "structure, construction",
+      "level": "n3",
+      "exampleSentence": "この橋はユニークな構造をしています。",
+      "id": "5e01d43a-4cf1-4abc-8071-3eb5656321ad"
+    },
+    {
+      "word": "剥げる",
+      "reading": "はげる",
+      "meaningZh": "（颜色、油漆等）脱落，褪色",
+      "meaningEn": "to peel off, to fade (paint, color)",
+      "level": "n3",
+      "exampleSentence": "古い壁のペンキが剥げてきました。",
+      "id": "19f65dfc-b3e5-47eb-95d1-a736956d6574"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation, collaboration",
+      "level": "n3",
+      "exampleSentence": "チームで協力して目標を達成しました。",
+      "id": "408d865b-75ab-4c0d-bccd-96ae6496977f"
+    },
+    {
+      "word": "文化財",
+      "reading": "ぶんかざい",
+      "meaningZh": "文化财产",
+      "meaningEn": "cultural property, heritage",
+      "level": "n3",
+      "exampleSentence": "このお寺は国の大切な文化財です。",
+      "id": "97e3119d-4968-48f4-b446-0b9ca968df0b"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "地域社会に貢献できる仕事がしたいです。",
+      "id": "e51b9299-804a-4cc7-ad9a-5b98a5908910"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学生たちが神社の修復ボランティアを企画したのはなぜですか？",
+      "options": [
+        "神社がお祭りの準備をしていたから",
+        "もっと多くの人が神社に来るようにするため",
+        "歴史ある建物を自分たちの手で守りたいと考えたから",
+        "専門家から建物の構造を学びたかったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「この歴史ある建物を自分たちの手で守りたい」と考え、修復ボランティアを企画しました。と書かれています。",
+      "id": "d1d23ff2-8f57-493e-a888-1a786c326351"
+    },
+    {
+      "question": "このボランティア活動を通して、学生たちは何を学びましたか？",
+      "options": [
+        "古い木材の扱い方だけ",
+        "ペンキの塗り方だけ",
+        "歴史を学ぶことと、地域社会に貢献することの大切さ",
+        "職人さんの技だけで、地域貢献は関係ない"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「彼らは歴史を学ぶだけでなく、地域社会に貢献することの大切さも学びました。」とあります。",
+      "id": "3ce7098a-0536-48e1-8f53-f1d5fdc4c311"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-28-c386d14317",
+  "publishedAt": "2026-07-28T06:00:00+09:00"
+}
