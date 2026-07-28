@@ -1,0 +1,131 @@
+{
+  "title": "週休３日制、どう？",
+  "summary": "最近、週に３日休む会社があります。社員の声を聞いてみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある会社で週休３日制の試験を始めました。これは、１週間に３日休む働き方です。社員は「時間ができて嬉しい」と言っています。",
+      "translationZh": "最近，一家公司开始试行每周休三天制。这是一种一周休三天的生活方式。员工们说：“（休假多了）时间变多了，很高兴。”",
+      "translationEn": "Recently, a company started a trial of the three-day weekend system. This is a way of working where you get three days off per week. Employees say, 'I'm happy because I have more time.'",
+      "id": "4735fbea-d559-4484-87ea-abdecdbf7bc9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度は、社員の生活をより良くするためです。例えば、家族と過ごす時間が増えたり、勉強をしたりする時間ができます。仕事の効率も上がるかもしれません。",
+      "translationZh": "这个制度是为了让员工的生活更好。例如，与家人共度的时间增加了，或者有时间学习。工作效率也可能提高。",
+      "translationEn": "This system is to make employees' lives better. For example, they have more time to spend with family or to study. Work efficiency might also increase.",
+      "id": "b3c9c928-2bf1-44c3-b721-6ad14688576d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、仕事が減るわけではありません。決められた時間内に仕事を終わらせる必要があります。会社は「生産性が落ちないか心配です」とも言っています。",
+      "translationZh": "但是，工作量并没有减少。必须在规定的时间内完成工作。公司也表示：“我们担心生产力会不会下降。”",
+      "translationEn": "However, the amount of work does not decrease. It is necessary to finish the work within the set time. The company also says, 'We are worried if productivity will fall.'",
+      "id": "f17b760d-8c50-475d-bb5e-aea2982c154c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい働き方が、これからどうなるか、みんな注目しています。良い結果が出るといいですね。",
+      "translationZh": "大家都在关注这种新的工作方式今后会如何发展。希望会取得好结果。",
+      "translationEn": "Everyone is paying attention to how this new way of working will turn out in the future. It would be good if good results come out.",
+      "id": "300744ef-4132-444d-aece-04e7ac9cd66c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "週休",
+      "reading": "しゅうきゅう",
+      "meaningZh": "每周休息",
+      "meaningEn": "weekly holiday",
+      "level": "n5n4",
+      "exampleSentence": "週休２日制は一般的です。",
+      "id": "139d7746-a75e-43ba-83cc-31d39bfb3d14"
+    },
+    {
+      "word": "試験",
+      "reading": "しけん",
+      "meaningZh": "试验，考试",
+      "meaningEn": "trial, test, exam",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の試験をします。",
+      "id": "82b4af03-aae1-4acb-aec4-3cfd3a909338"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "导入，引入",
+      "meaningEn": "introduction",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入しました。",
+      "id": "8d8ded10-5683-4171-bfa3-e6670472c5ae"
+    },
+    {
+      "word": "声",
+      "reading": "こえ",
+      "meaningZh": "声音，意见",
+      "meaningEn": "voice, opinion",
+      "level": "n5n4",
+      "exampleSentence": "社員の声を聞きます。",
+      "id": "f89e59fd-7364-406c-a7e0-c4a7fc611e96"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n3",
+      "exampleSentence": "この会社の制度は面白いです。",
+      "id": "ecdbfcb0-77da-415b-ad19-e776efca251c"
+    },
+    {
+      "word": "効率",
+      "reading": "こうりつ",
+      "meaningZh": "效率",
+      "meaningEn": "efficiency",
+      "level": "n3",
+      "exampleSentence": "仕事の効率を上げます。",
+      "id": "cf24d497-1033-44e5-9e70-1ee6be6d6875"
+    },
+    {
+      "word": "生産性",
+      "reading": "せいさんせい",
+      "meaningZh": "生产性",
+      "meaningEn": "productivity",
+      "level": "n3",
+      "exampleSentence": "生産性が落ちました。",
+      "id": "31c57736-cf4e-4808-9f96-12c46832bd0d"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "注目",
+      "meaningEn": "attention",
+      "level": "n3",
+      "exampleSentence": "このニュースに注目しています。",
+      "id": "bfff5359-36a1-49c9-a7a0-4d32da7772dd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "会社は週休３日制を試験で導入しました。社員はどう感じていますか？",
+      "options": [
+        "仕事が増えて疲れたと言っています。",
+        "時間ができて嬉しいと言っています。",
+        "給料が減って困っています。",
+        "会社をやめたいと言っています。"
+      ],
+      "correctIndex": 1,
+      "explanation": "社員は「時間ができて嬉しい」と言っています。",
+      "id": "80761552-1532-49bc-9718-5ba53da126d2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-29-bfe8e932ed",
+  "publishedAt": "2026-07-29T06:00:00+09:00"
+}

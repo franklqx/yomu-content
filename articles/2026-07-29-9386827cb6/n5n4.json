@@ -1,0 +1,123 @@
+{
+  "title": "公園で広がるスケボー文化",
+  "summary": "最近、都市の公園でスケートボードをする人が増えています。若い人を中心に、新しい文化が生まれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市の公園でスケートボードをする人がたくさん見られます。公園は、子供だけでなく、大人も楽しむ場所になりました。特に週末は、多くの若者が集まっています。",
+      "translationZh": "最近，在城市公园里可以看到很多玩滑板的人。公园不仅是孩子们的玩乐场所，大人们也在这里享受乐趣。尤其是在周末，很多年轻人会聚集在那里。",
+      "translationEn": "Recently, many people playing skateboards can be seen in city parks. Parks have become places for adults to enjoy, not just children. Especially on weekends, many young people gather there.",
+      "id": "89abf41a-1fd5-496b-a8a4-9ec15303e193",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スケートボードは、ただのスポーツではありません。音楽を聴きながら、友達と技を練習します。お互いに教え合ったり、応援したりする姿は、とても楽しそうです。",
+      "translationZh": "滑板不仅仅是一项运动。人们一边听着音乐，一边和朋友练习技巧。他们互相教导、互相鼓励的样子，看起来非常开心。",
+      "translationEn": "Skateboarding is not just a sport. People listen to music and practice tricks with friends. They teach and encourage each other, which looks very fun.",
+      "id": "7c32eb81-441b-435e-8466-48616775c607",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園でスケートボードをする文化は、新しいコミュニティを作っています。初めての人でも、経験者と一緒に練習すれば、すぐに上達できます。この活動は、街を元気にする力があります。",
+      "translationZh": "在公园玩滑板的文化正在创造一个新的社群。即使是初学者，只要和有经验的人一起练习，也能很快进步。这项活动有让城市充满活力的力量。",
+      "translationEn": "The culture of skateboarding in parks is creating a new community. Even beginners can improve quickly by practicing with experienced people. This activity has the power to energize the city.",
+      "id": "e0718b1e-f38c-456e-b934-e5c9aee78e75",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "友達と公園で遊びました。",
+      "id": "140cec51-4c06-4d34-ba48-a52a4c9ef7a8"
+    },
+    {
+      "word": "スケートボード",
+      "reading": "すけーとぼーど",
+      "meaningZh": "滑板",
+      "meaningEn": "skateboard",
+      "level": "n5n4",
+      "exampleSentence": "公園でスケートボードをするのが好きです。",
+      "id": "da10208d-cffe-4e43-a8cc-97a538ee36fc"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "2f0b45c0-4aac-4360-804d-05e3fa407818"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人がイベントに集まりました。",
+      "id": "62c2a85c-7dae-4733-98ef-918128154116"
+    },
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaningZh": "练习",
+      "meaningEn": "practice",
+      "level": "n5n4",
+      "exampleSentence": "毎日、日本語の練習をします。",
+      "id": "277dbd0f-f920-436e-aff9-5d0ae28f2daf"
+    },
+    {
+      "word": "教える",
+      "reading": "おしえる",
+      "meaningZh": "教，教导",
+      "meaningEn": "to teach",
+      "level": "n5n4",
+      "exampleSentence": "先生が生徒に数学を教えました。",
+      "id": "248d56e0-3bf5-4733-ae1d-f2603ed08bbd"
+    },
+    {
+      "word": "応援する",
+      "reading": "おうえんする",
+      "meaningZh": "支持，加油",
+      "meaningEn": "to support, to cheer for",
+      "level": "n5n4",
+      "exampleSentence": "チームを応援するために、スタジアムに行きました。",
+      "id": "5680491b-aa47-40f3-9996-81adeaab9400"
+    },
+    {
+      "word": "経験者",
+      "reading": "けいけんしゃ",
+      "meaningZh": "有经验的人",
+      "meaningEn": "experienced person",
+      "level": "n3",
+      "exampleSentence": "経験者のアドバイスは役に立ちます。",
+      "id": "688fae5b-7902-4918-9dc0-a863ac288228"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公園でスケートボードをする人は、どんなことをしていますか。",
+      "options": [
+        "一人で静かに本を読んでいます。",
+        "音楽を聴きながら友達と技を練習しています。",
+        "仕事の会議をしています。",
+        "子供たちと鬼ごっこをしています。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「音楽を聴きながら、友達と技を練習します。」とあります。",
+      "id": "f3811d4d-5c6d-4abb-9579-891cbf2b7d6a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-29-9386827cb6",
+  "publishedAt": "2026-07-29T06:00:00+09:00"
+}

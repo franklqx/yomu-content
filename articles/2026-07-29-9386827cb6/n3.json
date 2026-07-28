@@ -1,0 +1,143 @@
+{
+  "title": "公園で広がるスケボー文化！若者の熱気と新しい風",
+  "summary": "最近、都市公園でスケートボードを楽しむ若者が増えています。彼らの情熱と、それが生み出す新しい文化について見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都市の公園に行くと、以前よりも多くの若者がスケートボードに熱中している姿を目にします。平らな広場や階段などで、技を練習したり、友達と楽しそうに滑ったりしています。彼らの周りには、応援する人や、その様子を写真に撮る人もいて、公園に新しい活気が生まれています。",
+      "translationZh": "去到城市公园，会比以前看到更多年轻人热衷于滑板的身影。他们在平坦的广场或台阶上练习技巧，或与朋友们开心地滑行。他们周围有人为他们加油，也有人拍照记录，公园里因此诞生了新的活力。",
+      "translationEn": "When you go to city parks, you see more young people than before engrossed in skateboarding. They practice tricks in flat areas and on stairs, or glide around happily with friends. Around them, there are people cheering them on and others taking photos, creating new energy in the park.",
+      "id": "cb0e5c71-be5a-4921-b8e1-e763ddafc238",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スケートボードは単なるスポーツではなく、自己表現の手段でもあると考える若者が多いようです。それぞれが独自のスタイルで技を磨き、仲間と交流しながら、自分らしい表現方法を見つけています。公園が、彼らにとっては練習場所であると同時に、創造性を発揮するコミュニティの場にもなっているのです。",
+      "translationZh": "许多年轻人认为，滑板不仅仅是一项运动，也是一种自我表达的方式。他们各自以独特的风格磨练技巧，同时与同伴交流，寻找最能展现自我的表达方式。公园对他们来说，既是练习的场所，也成为了发挥创造力的社区空间。",
+      "translationEn": "Many young people seem to consider skateboarding not just a sport, but also a means of self-expression. Each person hones their skills in their own unique style, and while interacting with peers, they find their own way of expression. The park serves as both a place for practice and a community space for them to demonstrate creativity.",
+      "id": "62e29cab-36c7-49f8-800a-2e0a14531cad",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、公園でのスケートボードには、場所によってはルールやマナーの問題も生じがちです。他の公園利用者とのトラブルを避けるために、最近では、スケートボード専用のエリアを公園内に設ける動きも出てきています。これにより、スケーターも一般利用者も、より快適に公園を利用できるようになることが期待されています。",
+      "translationZh": "然而，在公园进行滑板活动有时也会引发关于规则和礼仪的问题。为了避免与其他公园使用者发生冲突，最近也出现了在公园内设置滑板专用区域的动向。人们期待此举能让滑板爱好者和普通使用者都能更舒适地利用公园。",
+      "translationEn": "However, skateboarding in parks can sometimes lead to issues regarding rules and manners, depending on the location. To avoid trouble with other park users, there have recently been moves to establish dedicated skateboarding areas within parks. This is expected to allow both skaters and general users to enjoy the park more comfortably.",
+      "id": "faa16af4-241f-4ee9-bdfb-b502adeaced8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園で広がるスケートボード文化は、都市に新しい風を吹き込んでいます。若者たちの情熱が、公園という公共空間をより多様で魅力的な場所へと変えつつあるのです。これからも、彼らが安全に、そして自由にその文化を育んでいけるような環境が大切になっていくでしょう。",
+      "translationZh": "在公园里不断扩展的滑板文化，正为城市注入一股新的活力。年轻人的热情正在将公园这个公共空间，转变成一个更加多元且富有魅力的场所。未来，能够让他们安全、自由地培育这种文化的环​​境将变得愈发重要。",
+      "translationEn": "The expanding skateboarding culture in parks is bringing a fresh breeze to the city. The passion of young people is transforming public spaces like parks into more diverse and attractive places. Moving forward, an environment that allows them to safely and freely cultivate this culture will become increasingly important.",
+      "id": "8ce790df-b590-44d4-80fd-8d9b217929cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "熱中",
+      "reading": "ねっちゅう",
+      "meaningZh": "热衷，沉迷",
+      "meaningEn": "enthusiasm, be absorbed in",
+      "level": "n3",
+      "exampleSentence": "彼は新しい趣味に熱中している。",
+      "id": "edb1c467-df0d-46f3-ae05-7893e13bf37c"
+    },
+    {
+      "word": "自己表現",
+      "reading": "じこひょうげん",
+      "meaningZh": "自我表达",
+      "meaningEn": "self-expression",
+      "level": "n3",
+      "exampleSentence": "絵を描くことは私の自己表現の方法です。",
+      "id": "6495cefd-c3ab-44c8-b847-c8983c95c6cd"
+    },
+    {
+      "word": "磨く",
+      "reading": "みがく",
+      "meaningZh": "磨练，擦亮",
+      "meaningEn": "polish, refine",
+      "level": "n3",
+      "exampleSentence": "語学力は毎日勉強して磨く必要がある。",
+      "id": "f15a7c06-fa91-4f1f-aed7-c2dc336eeaf4"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaningZh": "伙伴，同伴",
+      "meaningEn": "companion, friend, mate",
+      "level": "n3",
+      "exampleSentence": "彼は昔からの仲間とよく集まっている。",
+      "id": "f6e7b66a-0d73-4770-94e1-d8bf225abc80"
+    },
+    {
+      "word": "創造性",
+      "reading": "そうぞうせい",
+      "meaningZh": "创造性",
+      "meaningEn": "creativity",
+      "level": "n2n1",
+      "exampleSentence": "この仕事には高い創造性が求められます。",
+      "id": "e0482cc8-1cd9-4090-87ea-025719682e7e"
+    },
+    {
+      "word": "マナー",
+      "reading": "マナー",
+      "meaningZh": "礼仪，风度",
+      "meaningEn": "manner, etiquette",
+      "level": "n3",
+      "exampleSentence": "公共の場ではマナーを守ることが大切です。",
+      "id": "e0bd2bc5-698d-4fc3-8fbb-38d9c5c51527"
+    },
+    {
+      "word": "専用",
+      "reading": "せんよう",
+      "meaningZh": "专用",
+      "meaningEn": "exclusive use, for exclusive use",
+      "level": "n3",
+      "exampleSentence": "この部屋は会議専用です。",
+      "id": "10ffb9a1-a540-4712-a6d8-73462631c0ee"
+    },
+    {
+      "word": "多様",
+      "reading": "たよう",
+      "meaningZh": "多样，多种多样",
+      "meaningEn": "diverse, variety",
+      "level": "n2n1",
+      "exampleSentence": "現代社会は多様な価値観を持っています。",
+      "id": "8fe430e5-c823-4b16-a317-c46d479725cc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公園でスケートボードを楽しむ若者が増えている理由は何ですか？",
+      "options": [
+        "単に暇だから",
+        "自己表現の手段であり、仲間と交流できる場だから",
+        "親がお金を出してくれるから",
+        "他にすることがないから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「スケートボードは単なるスポーツではなく、自己表現の手段でもあると考える若者が多いようです。それぞれが独自のスタイルで技を磨き、仲間と交流しながら、自分らしい表現方法を見つけています。」と書かれています。",
+      "id": "07104986-4b3d-416e-9e8c-e31c2d01f515"
+    },
+    {
+      "question": "公園でのスケートボードに関して、どのような問題が指摘されていますか？",
+      "options": [
+        "騒音の問題",
+        "場所によってはルールやマナーの問題",
+        "スケートボードが壊れる問題",
+        "天候が悪くなる問題"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の「しかし、公園でのスケートボードには、場所によってはルールやマナーの問題も生じがちです。」という部分からわかります。",
+      "id": "ae409b3f-6ebc-491f-8002-a5ea213e2f88"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-29-9386827cb6",
+  "publishedAt": "2026-07-29T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "敬老の日に手作りギフト",
+  "summary": "敬老の日には、おじいさんやおばあさんに手作りのプレゼントを贈りましょう。心がこもったギフトはきっと喜ばれます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "９月は敬老の日があります。おじいさんやおばあさんに感謝の気持ちを伝えます。プレゼントをあげる人も多いです。今年は、手作りのプレゼントはどうですか。",
+      "translationZh": "九月是敬老节。向爷爷奶奶表达感谢的心情。送礼物的人也很多。今年，手工制作的礼物怎么样呢？",
+      "translationEn": "September is Respect for the Aged Day. We express our gratitude to our grandparents. Many people give presents. How about handmade presents this year?",
+      "id": "cd4b88a7-5593-4d29-bcff-f1e3d4167b5c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "手作りのギフトは、心がこもっています。例えば、写真立て、手編みのマフラー、手作りのカードなどがあります。作るのに時間はかかりますが、気持ちが伝わります。",
+      "translationZh": "手工制作的礼物，饱含心意。例如，有相框、手织的围巾、手工制作的卡片等。虽然制作需要时间，但心意能够传达。",
+      "translationEn": "Handmade gifts are full of heart. For example, there are photo frames, hand-knitted scarves, and handmade cards. It takes time to make them, but your feelings will be conveyed.",
+      "id": "1d278319-e30f-4777-af1b-8cbd8273e4fd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "簡単なものから始めましょう。子供と一緒に作るのも楽しいです。絵を描いたり、折り紙を折ったりするのも良いアイデアです。世界に一つだけのプレゼントになります。",
+      "translationZh": "从简单的东西开始吧。和孩子们一起制作也很有趣。画画、折纸也是好主意。会成为世界上独一无二的礼物。",
+      "translationEn": "Let's start with simple things. Making them with children is also fun. Drawing pictures or folding origami are also good ideas. It will be a unique gift in the world.",
+      "id": "7ad3cab8-d567-46bc-96b7-900aacf1028f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "おじいさんやおばあさんは、プレゼントをもらうととても嬉しいです。特に、孫からの手作りのプレゼントは、宝物になります。ぜひ、挑戦してみてください。",
+      "translationZh": "爷爷奶奶收到礼物会非常高兴。特别是孙辈亲手制作的礼物，会成为珍宝。请一定要尝试一下。",
+      "translationEn": "Grandparents are very happy when they receive gifts. Especially, handmade gifts from grandchildren become treasures. Please give it a try.",
+      "id": "826ee391-2afc-4fa8-8396-e8554f3463d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "敬老の日",
+      "reading": "けいろうのひ",
+      "meaningZh": "敬老节",
+      "meaningEn": "Respect for the Aged Day",
+      "level": "n5n4",
+      "exampleSentence": "敬老の日は、お年寄りに感謝する日です。",
+      "id": "0fb51793-3d08-4079-8da4-9dab1298ad26"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaningZh": "感谢",
+      "meaningEn": "gratitude",
+      "level": "n5n4",
+      "exampleSentence": "お父さん、いつもありがとう。感謝しています。",
+      "id": "8beb8a93-3678-43dc-b2be-10054a33b38a"
+    },
+    {
+      "word": "手作り",
+      "reading": "てづくり",
+      "meaningZh": "手工制作",
+      "meaningEn": "handmade",
+      "level": "n5n4",
+      "exampleSentence": "これは私が手作りしたケーキです。",
+      "id": "ed333297-2572-4394-b7cb-55829f05c108"
+    },
+    {
+      "word": "ギフト",
+      "reading": "ぎふと",
+      "meaningZh": "礼物",
+      "meaningEn": "gift",
+      "level": "n5n4",
+      "exampleSentence": "誕生日プレゼントに、素敵なギフトをもらいました。",
+      "id": "3927b309-7d8b-4f0b-a675-3e4b1d612a02"
+    },
+    {
+      "word": "写真立て",
+      "reading": "しゃしんたて",
+      "meaningZh": "相框",
+      "meaningEn": "photo frame",
+      "level": "n5n4",
+      "exampleSentence": "この写真立てに、家族の写真を入れました。",
+      "id": "16323de2-33db-48cf-8ba9-e10e300646c7"
+    },
+    {
+      "word": "込める",
+      "reading": "こめる",
+      "meaningZh": "寄托，饱含",
+      "meaningEn": "to put in, to include",
+      "level": "n3",
+      "exampleSentence": "この手紙には、たくさんの思いを込めました。",
+      "id": "b295309c-3ae3-4527-8d6e-40a053d766d4"
+    },
+    {
+      "word": "宝物",
+      "reading": "たからもの",
+      "meaningZh": "宝物",
+      "meaningEn": "treasure",
+      "level": "n5n4",
+      "exampleSentence": "この古いコインは、私にとって宝物です。",
+      "id": "c00b7476-a1d2-46a3-baa1-38f0914c1255"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "敬老の日に、どんなプレゼントがおすすめですか。",
+      "options": [
+        "お店で買った高いプレゼント",
+        "手作りのプレゼント",
+        "お菓子だけ",
+        "何もあげない"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事には「今年は、手作りのプレゼントはどうですか。」と書いてあります。",
+      "id": "e3ff277c-25c8-4515-9dae-82f75ee8cbd6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-29-d9f7a678ca",
+  "publishedAt": "2026-07-29T06:00:00+09:00"
+}
