@@ -1,0 +1,117 @@
+{
+  "title": "広がる高齢者向け宅配サービス",
+  "summary": "高齢化社会が進む中、食事の宅配サービスがますます便利になっています。このサービスは、高齢者の生活を支える大切な役割を担っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、日本は高齢化が急速に進んでおり、一人暮らしの高齢者も増えています。そのため、食事の準備が難しかったり、買い物に行くのが大変だったりする高齢者を支援する「高齢者向け宅配サービス」が注目されています。このサービスは、栄養バランスの取れた食事を自宅まで届けてくれるので、高齢者とその家族にとって大きな助けとなっています。",
+      "translationZh": "近年来，日本老龄化进程迅速，独居老人也越来越多。因此，“面向老年人的送餐服务”受到了关注，该服务旨在支持那些在准备餐食上有困难或外出购物不便的老年人。这项服务能将营养均衡的餐食送到家中，因此对老年人及其家人来说是极大的帮助。",
+      "translationEn": "In recent years, Japan has been rapidly aging, and the number of elderly people living alone is increasing. Therefore, 'delivery services for the elderly,' which support seniors who find meal preparation difficult or shopping trips challenging, are gaining attention. This service delivers nutritionally balanced meals to their homes, providing significant assistance to both the elderly and their families.",
+      "id": "dda84b52-76cf-4c31-8ee3-686417e244a8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "宅配サービスを利用することには、多くのメリットがあります。まず、毎日栄養士が考えた健康的な食事が届くため、栄養不足の心配がありません。また、配達員が定期的に訪問することで、安否確認にもつながります。万が一、体調が悪くなった場合でも、すぐに異変に気づいてもらえる可能性があるからです。",
+      "translationZh": "利用送餐服务有很多优点。首先，因为每天都会送来营养师设计的健康餐食，所以不用担心营养不足。另外，送餐员的定期拜访也有助于确认安全。这是因为，万一身体不适，送餐员也有可能及时发现异常。",
+      "translationEn": "There are many benefits to using delivery services. Firstly, because nutritious meals designed by dietitians are delivered daily, there is no worry about nutritional deficiencies. Furthermore, regular visits by delivery personnel can lead to safety checks. This is because, in the event of feeling unwell, it's possible for abnormalities to be noticed promptly.",
+      "id": "9f49ad44-0a46-4b38-92ca-1e2e391d222c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、サービスが広がるにつれて、料金やメニューの多様性など、さらに改善が求められる点もあります。高齢者のニーズは一人ひとり異なりますから、できるだけ多くの人が利用しやすいように、サービス内容を工夫していくことが大切です。今後も、こうしたサービスが地域社会に貢献していくことが期待されています。",
+      "translationZh": "然而，随着服务的普及，在费用、菜单多样性等方面，还有进一步改进的空间。因为老年人的需求各不相同，所以重要的是要努力改进服务内容，使其尽可能被更多人方便地使用。今后，人们也期待这类服务能为社区做出贡献。",
+      "translationEn": "However, as these services expand, there are also areas that require further improvement, such as pricing and menu diversity. Since the needs of the elderly vary from person to person, it is important to innovate service content so that as many people as possible can use them easily. Moving forward, these services are expected to continue contributing to local communities.",
+      "id": "1168af12-1e66-4a59-92f8-848a9a934d91",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高齢化",
+      "reading": "こうれいか",
+      "meaningZh": "老龄化",
+      "meaningEn": "aging population",
+      "level": "n3",
+      "exampleSentence": "日本は高齢化社会と呼ばれている。",
+      "id": "40812f46-9067-444a-8bdd-87ae70b68f65"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "送餐/配送服务",
+      "meaningEn": "delivery service",
+      "level": "n3",
+      "exampleSentence": "この地域では、食料品の宅配サービスが人気だ。",
+      "id": "e4a67062-6a4d-40b7-99af-069be5603b95"
+    },
+    {
+      "word": "栄養バランス",
+      "reading": "えいようバランス",
+      "meaningZh": "营养均衡",
+      "meaningEn": "nutritional balance",
+      "level": "n3",
+      "exampleSentence": "健康のためには、栄養バランスの取れた食事を心がけましょう。",
+      "id": "8be7b907-db56-4755-974d-60dd5e713b77"
+    },
+    {
+      "word": "安否確認",
+      "reading": "あんぴかくにん",
+      "meaningZh": "确认安全（是否安好）",
+      "meaningEn": "safety check",
+      "level": "n3",
+      "exampleSentence": "離れて暮らす家族の安否確認を毎日している。",
+      "id": "9544211a-5f32-4892-973a-9cb2c526b8d3"
+    },
+    {
+      "word": "異変",
+      "reading": "いへん",
+      "meaningZh": "异常，异状",
+      "meaningEn": "unusual event, change, abnormality",
+      "level": "n3",
+      "exampleSentence": "いつもと違う様子に、何か異変を感じた。",
+      "id": "2ec0a9ca-c73b-48f5-a04e-664ed9a42461"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "巧妙的方法，想法，创造",
+      "meaningEn": "device, scheme, invention, ingenuity",
+      "level": "n3",
+      "exampleSentence": "この問題を解決するために、新しい工夫が必要だ。",
+      "id": "ec218504-acf8-4a8d-a0a0-cb793d2b2dd7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高齢者向け宅配サービスが注目されている主な理由は何ですか？",
+      "options": [
+        "料金が安いから",
+        "メニューが豊富だから",
+        "一人暮らしの高齢者を支援するため",
+        "配達員が若いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「一人暮らしの高齢者も増えています。そのため、食事の準備が難しかったり、買い物に行くのが大変だったりする高齢者を支援する「高齢者向け宅配サービス」が注目されています。」と書かれています。",
+      "id": "129544db-d220-44e8-bb32-4eb7eca63371"
+    },
+    {
+      "question": "宅配サービスを利用するメリットとして、本文で述べられていないものはどれですか？",
+      "options": [
+        "栄養不足の心配がないこと",
+        "配達員による安否確認につながること",
+        "高齢者が外出する機会が増えること",
+        "体調不良時に異変に気づいてもらえる可能性があること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、宅配サービスが栄養不足の心配がないこと、安否確認につながること、体調不良時に異変に気づいてもらえる可能性があることについて述べられていますが、高齢者が外出する機会が増えることについては触れられていません。",
+      "id": "48ab0442-5e7f-4cf5-8fe2-5196870ed05e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-30-9edb18e972",
+  "publishedAt": "2026-07-30T06:00:00+09:00"
+}

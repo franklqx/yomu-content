@@ -1,0 +1,147 @@
+{
+  "title": "プロ野球、新シーズン開幕！注目選手は？",
+  "summary": "プロ野球の新シーズンが開幕し、各球団から期待の選手たちが注目されています。今季の行方を占う上で、彼らの活躍は欠かせないでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球のペナントレースがいよいよ開幕した。今シーズンも、各球団が優勝を目指し、熱戦を繰り広げることが予想される。特に注目を集めているのは、移籍組や若手の台頭だ。FAで新天地に移った選手たちが、それぞれのチームでどのような化学反応を起こすのか、ファンならずとも期待が高まるところである。",
+      "translationZh": "职业棒球的例行赛终于拉开了帷幕。本赛季，各球队预计将为了夺冠而展开激战。特别引人注目的是转会球员和新秀的崛起。FA转会到新队伍的选手们，会在各自的队伍中产生怎样的化学反应，这不仅让粉丝们，也让所有人都充满期待。",
+      "translationEn": "The professional baseball pennant race has finally begun. This season, each team is expected to engage in fierce competition with the goal of winning the championship. Particularly drawing attention are players who have transferred and emerging young talents. How the players who moved to new teams via free agency will create chemical reactions within their respective clubs is something that raises expectations not only for fans but for everyone involved.",
+      "id": "ad38ff1c-b6f5-41f4-90c9-85d4a5c50fe9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "中でも、大型契約を結び移籍してきたベテラン選手の動向は、チームの勝敗を左右しかねない。彼らが培ってきた経験とリーダーシップは、若手選手の成長を促すとともに、チーム全体の士気を高める効果が期待されている。また、昨シーズンに飛躍的な成長を見せた若手選手が、今シーズンもその勢いを維持できるかどうかも、大きな見どころの一つと言えるだろう。",
+      "translationZh": "其中，以大额合同转会而来的经验丰富的资深选手的动向，可能会左右球队的胜败。他们积累的经验和领导力，不仅能促进年轻选手的成长，还被期望能提高整个队伍的士气。此外，去年赛季展现出飞跃性成长的年轻选手，本赛季能否保持这种势头，也可谓是看点之一。",
+      "translationEn": "Among them, the movements of veteran players who have transferred with large contracts could potentially influence the team's wins and losses. The experience and leadership they have cultivated are expected to not only promote the growth of younger players but also boost the morale of the entire team. Furthermore, whether the young players who showed remarkable growth last season can maintain that momentum this season is also considered a major highlight.",
+      "id": "cbf7e77e-eef0-4ebb-be4b-a733d366f488",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、各球団の育成戦略の成果も、新シーズンでは顕著になると見られる。ドラフトで獲得した有望選手や、二軍で着実に実力をつけてきた選手が、一軍の舞台で輝く姿は、ファンに新たな感動を与えるだろう。監督やコーチ陣の手腕によって、埋もれていた才能が開花するケースも少なくないため、ベンチ入りメンバーの序列争いにも注目したい。",
+      "translationZh": "此外，各球队的育成战略成果，在本赛季新联赛中预计将更加显著。通过选秀获得的有潜力的选手，以及在二军稳步提升实力的选手，在一军舞台上闪耀的身姿，将带给粉丝新的感动。由于被埋没的天才因教练组的执教能力而绽放的情况并不罕见，因此对替补席成员的排名竞争也值得关注。",
+      "translationEn": "Furthermore, the results of each team's development strategies are expected to become more prominent in the new season. The sight of promising players acquired through the draft, and those who have steadily improved their skills in the minor leagues, shining on the top-team stage will likely bring new excitement to the fans. As there are not a few cases where hidden talents blossom due to the skills of the managers and coaches, the competition for starting positions among bench members is also worth paying attention to.",
+      "id": "1fd7c05c-063e-46b1-acba-ffb299e5bb4c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ペナントレース",
+      "reading": "ぺなんどれーす",
+      "meaningZh": "（棒球）例行赛，联赛",
+      "meaningEn": "pennant race (baseball league season)",
+      "level": "n2n1",
+      "exampleSentence": "今年のペナントレースはどのチームが制するだろうか。",
+      "id": "6a3f2ca4-eb4b-4475-a945-d3935b4e3789"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，崛起",
+      "meaningEn": "rise, emergence",
+      "level": "n2n1",
+      "exampleSentence": "若手選手の台頭がチームに勢いをもたらした。",
+      "id": "af293364-ae49-4808-925d-dc5811801706"
+    },
+    {
+      "word": "化学反応",
+      "reading": "かがくはんのう",
+      "meaningZh": "化学反应；（比喻）相互作用，融合",
+      "meaningEn": "chemical reaction; (metaphorical) interaction, fusion",
+      "level": "n2n1",
+      "exampleSentence": "新しいメンバーが加わり、チーム内で面白い化学反応が起きている。",
+      "id": "177a3a02-9f48-41b1-b6df-83450aea300f"
+    },
+    {
+      "word": "培う",
+      "reading": "つちかう",
+      "meaningZh": "培养，培养，锻炼",
+      "meaningEn": "cultivate, foster, train",
+      "level": "n3",
+      "exampleSentence": "長年の努力で、彼は専門知識を培ってきた。",
+      "id": "390323cf-c019-462d-9485-3a27f48ac074"
+    },
+    {
+      "word": "士気",
+      "reading": "しき",
+      "meaningZh": "士气",
+      "meaningEn": "morale",
+      "level": "n2n1",
+      "exampleSentence": "勝利はチームの士気を大いに高めた。",
+      "id": "8e33d84a-7cba-406e-b781-5db0ec4103d2"
+    },
+    {
+      "word": "飛躍的",
+      "reading": "ひやくてき",
+      "meaningZh": "飞跃的，跳跃的",
+      "meaningEn": "leaping, dramatic, remarkable",
+      "level": "n3",
+      "exampleSentence": "技術の飛躍的な進歩により、生活が便利になった。",
+      "id": "016eb2e7-a5dd-4a7d-9b6e-0cfe01fa4d75"
+    },
+    {
+      "word": "顕著",
+      "reading": "けんちょ",
+      "meaningZh": "显著，明显",
+      "meaningEn": "remarkable, noticeable, prominent",
+      "level": "n2n1",
+      "exampleSentence": "経済成長の顕著な兆候が見られる。",
+      "id": "06fd472b-f253-45b5-8f19-bd5ca0402f84"
+    },
+    {
+      "word": "序列",
+      "reading": "じゅれつ",
+      "meaningZh": "序列，顺序",
+      "meaningEn": "sequence, order, ranking",
+      "level": "n2n1",
+      "exampleSentence": "チーム内での選手の序列は、監督の采配によって決まる。",
+      "id": "5cdbb45e-2d87-4fdd-abdf-9e362f25ba40"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、今シーズンのプロ野球で特に注目されているのはどのような選手たちか？",
+      "options": [
+        "移籍してきたベテラン選手と若手選手",
+        "長距離打者と盗塁の多い選手",
+        "外国人選手と育成選手",
+        "過去の最多勝投手と新人王候補"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文第一段に「特に注目を集めているのは、移籍組や若手の台頭だ。」と記載されている。",
+      "id": "1eb06e0a-8ad1-42d3-899c-8644089ce9fc"
+    },
+    {
+      "question": "ベテラン選手がチームに与える効果として、本文では何が挙げられているか？",
+      "options": [
+        "怪我の予防と早期回復",
+        "若手選手の成長促進と士気の向上",
+        "観客動員数の増加とグッズ売上の向上",
+        "相手チームの分析能力の向上"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「彼らが培ってきた経験とリーダーシップは、若手選手の成長を促すとともに、チーム全体の士気を高める効果が期待されている。」とある。",
+      "id": "df2d2a4b-bbc9-4520-9a3e-1cde303a262e"
+    },
+    {
+      "question": "新シーズンで顕著になると見られるものは何か？",
+      "options": [
+        "監督の采配",
+        "審判の判定精度",
+        "各球団の育成戦略の成果",
+        "選手の契約更改"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「各球団の育成戦略の成果も、新シーズンでは顕著になると見られる。」と述べられている。",
+      "id": "5ca2f982-c616-48fc-a57f-a2f85412bc3e"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-07-30-472632a31a",
+  "publishedAt": "2026-07-30T06:00:00+09:00"
+}

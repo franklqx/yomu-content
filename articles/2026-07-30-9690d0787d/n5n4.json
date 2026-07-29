@@ -1,0 +1,131 @@
+{
+  "title": "新しいアートと伝統の出会い",
+  "summary": "現代アートと伝統工芸が一緒に展示されています。新しい発見がたくさんあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今、美術館で面白い展示があります。それは、現代アートと日本の伝統工芸のコラボ展です。たくさんの新しい作品が見られます。",
+      "translationZh": "现在，美术馆有一个有趣的展览。那是现代艺术和日本传统工艺的合作展。可以看到很多新作品。",
+      "translationEn": "There is an interesting exhibition at the museum now. It is a collaboration exhibition of modern art and Japanese traditional crafts. You can see many new works.",
+      "id": "f2bdf415-2aad-4826-90b9-78acc54ef28e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "現代アートの作家は、新しいアイデアで作品を作ります。一方、伝統工芸の職人さんは、昔からの技術を使います。この展示では、二つのものが合わさっています。",
+      "translationZh": "现代艺术的作家用新想法创作作品。另一方面，传统工艺的匠人用传统技术。在这个展览中，两者结合在了一起。",
+      "translationEn": "Modern artists create works with new ideas. On the other hand, traditional craftspeople use old techniques. In this exhibition, the two are combined.",
+      "id": "347a766b-ba54-4bca-b7a7-0579778fa04e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、有名な陶芸家が作った器に、若いアーティストが絵を描きました。とてもきれいな器になりました。伝統の技術と現代のデザインが一つになったのです。",
+      "translationZh": "例如，在一位有名的陶艺家制作的器皿上，一位年轻的艺术家画了画。变成了一个非常漂亮的器皿。传统的技术和现代的设计融为一体了。",
+      "translationEn": "For example, a young artist drew a picture on a vase made by a famous ceramic artist. It became a very beautiful vase. Traditional techniques and modern design became one.",
+      "id": "0bf52a0a-dab3-4cee-9b31-66fe0dfc95a2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展示は、古いものと新しいものが、どうやって一緒に美しくなれるかを見せてくれます。アートが好きな人、工芸が好きな人、両方におすすめです。",
+      "translationZh": "这个展览展示了旧事物和新事物如何能一起变得美丽。推荐给喜欢艺术的人，喜欢工艺的人，以及两者都喜欢的人。",
+      "translationEn": "This exhibition shows how old and new things can become beautiful together. It is recommended for people who like art, people who like crafts, and both.",
+      "id": "64e8f232-7887-4be2-8cca-e5bd7409519b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meaningZh": "美术馆",
+      "meaningEn": "art museum",
+      "level": "n5n4",
+      "exampleSentence": "週末に美術館へ行きました。",
+      "id": "b0329ec4-c578-4f5a-bbfe-a74e14a78b88"
+    },
+    {
+      "word": "展示",
+      "reading": "てんじ",
+      "meaningZh": "展览",
+      "meaningEn": "exhibition",
+      "level": "n5n4",
+      "exampleSentence": "新しい絵の展示が始まりました。",
+      "id": "f2b60938-32ee-4e36-8dc3-8305f45556ee"
+    },
+    {
+      "word": "現代アート",
+      "reading": "げんだいアート",
+      "meaningZh": "现代艺术",
+      "meaningEn": "modern art",
+      "level": "n5n4",
+      "exampleSentence": "現代アートは少しむずかしいです。",
+      "id": "7f2fcb69-4616-41c0-b54a-d589af2ad647"
+    },
+    {
+      "word": "伝統工芸",
+      "reading": "でんとうこうげい",
+      "meaningZh": "传统工艺",
+      "meaningEn": "traditional craft",
+      "level": "n5n4",
+      "exampleSentence": "日本の伝統工芸は世界で有名です。",
+      "id": "cfe10979-5e0e-4265-9400-4e124882933b"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaningZh": "作家，作者",
+      "meaningEn": "writer, artist, author",
+      "level": "n5n4",
+      "exampleSentence": "この作家の本が好きです。",
+      "id": "720c96e1-57ee-455a-8c6b-b7c8b4689eab"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，匠人",
+      "meaningEn": "craftsman, artisan",
+      "level": "n5n4",
+      "exampleSentence": "彼はとても上手な職人です。",
+      "id": "c832011a-8ccc-4c3a-9781-06436e61fcae"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "skill, technique",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術を学びたいです。",
+      "id": "71e10ced-5f31-4c02-8f96-872ac3647e2e"
+    },
+    {
+      "word": "合わさる",
+      "reading": "あわせる",
+      "meaningZh": "结合，合并",
+      "meaningEn": "to combine, to join",
+      "level": "n5n4",
+      "exampleSentence": "二つの色が合わさって、きれいな色になりました。",
+      "id": "d00bd93f-a148-421d-a1a1-8a812778df73"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この展示では、何と何が一緒に展示されていますか。",
+      "options": [
+        "現代アートと伝統工芸",
+        "古い絵と新しい絵",
+        "日本の工芸と外国の工芸",
+        "陶芸と絵"
+      ],
+      "correctIndex": 0,
+      "explanation": "現代アートの作家は、新しいアイデアで作品を作ります。一方、伝統工芸の職人さんは、昔からの技術を使います。この展示では、二つのものが合わさっています。",
+      "id": "907a773f-2cb5-462b-8573-4b7489c9c7de"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-30-9690d0787d",
+  "publishedAt": "2026-07-30T06:00:00+09:00"
+}

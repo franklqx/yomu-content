@@ -1,0 +1,143 @@
+{
+  "title": "プロ野球新シーズン！注目の若手選手３選",
+  "summary": "新しいプロ野球シーズンが開幕しました。特に期待されている若手選手たちに注目しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンが始まり、ファンの間では新しいスター選手への期待が高まっています。特に、今年注目されているのは、まだ若いながらも素晴らしい実力を見せている選手たちです。彼らの活躍は、チームの成績はもちろん、リーグ全体の盛り上がりにもつながるでしょう。",
+      "translationZh": "职业棒球新赛季已经开始，球迷们对新星选手的期待也越来越高。特别是今年备受瞩目的，是那些虽然年轻但已经展现出出色实力的选手们。他们的活跃不仅关系到球队的成绩，也会带动整个联赛的热度。",
+      "translationEn": "The new professional baseball season has begun, and expectations are high among fans for new star players. This year, particular attention is being paid to players who, despite their youth, are already showing exceptional talent. Their performance will not only affect their team's results but also contribute to the league's overall excitement.",
+      "id": "00d19cc2-9f50-40f4-91c2-bc81c8ae2510",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "まず、〇〇球団の新人、山田選手です。彼はオープン戦から打撃好調で、早くもチームの４番候補として期待されています。昨シーズン、チームは苦戦しましたが、山田選手のような新しい力が入ったことで、今シーズンは優勝争いに加われるかもしれません。",
+      "translationZh": "首先是〇〇球队的新人，山田选手。他从热身赛开始打击状态就很好，已经被寄予厚望，有望成为球队的第四棒。上个赛季球队表现不佳，但随着山田选手这样的新力量的加入，本赛季或许能够加入争夺冠军的行列。",
+      "translationEn": "First is Yamada, a rookie from the XX team. He has been in great hitting form since the exhibition games and is already expected to be a candidate for the cleanup hitter position. Last season, the team struggled, but with the addition of new talent like Yamada, they might be able to contend for the championship this season.",
+      "id": "27891d14-719e-4523-832f-a7ff773ebfdf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "次に、△△球団のピッチャー、佐藤投手。彼は去年のドラフトで１位指名された選手で、その速球は球界でもトップクラスだと言われています。まだ経験は浅いものの、彼の力強いピッチングは打者を圧倒する力を持っています。チームの投手陣を支える存在として、その成長が楽しみです。",
+      "translationZh": "接下来是△△球队的投手，佐藤投手。他是去年选秀状元，他的快速球被认为是联盟顶级的。虽然经验尚浅，但他强有力的投球具有压倒打者的实力。作为支撑球队投手阵的关键人物，他的成长令人期待。",
+      "translationEn": "Next is pitcher Sato from the △△ team. He was the first pick in last year's draft, and his fastball is said to be among the best in the league. Although he lacks experience, his powerful pitching has the ability to overwhelm batters. We look forward to his development as a key player supporting the team's pitching staff.",
+      "id": "5bc3535b-75f3-449a-a5c5-d74065428e35",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最後に、□□球団のキャッチャー、田中選手。彼は堅実な守備と、チャンスに強いバッティングが持ち味です。ベテラン選手もいますが、田中選手のような若手がチームを引っ張っていくことで、チーム全体の士気も上がることでしょう。彼のリードにも注目が集まっています。",
+      "translationZh": "最后是□□球队的捕手，田中选手。他的特点是稳健的防守以及在关键时刻发挥作用的打击能力。虽然队里也有经验丰富的老将，但像田中选手这样的年轻球员带领球队前进，会提升整个队伍的士气。他的指挥能力也备受关注。",
+      "translationEn": "Finally, there is Tanaka, the catcher for the □□ team. His strengths are his solid defense and his clutch hitting ability. Although there are veteran players on the team, the emergence of young players like Tanaka leading the team will likely boost the morale of the entire squad. His game-calling is also drawing attention.",
+      "id": "6724c81c-24cb-4136-91aa-5abaebd893d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スター選手",
+      "reading": "すたーせんしゅ",
+      "meaningZh": "明星选手",
+      "meaningEn": "star player",
+      "level": "n3",
+      "exampleSentence": "今年は新しいスター選手が何人も現れるだろう。",
+      "id": "0c14fbe4-b181-4ed1-9a83-00974df48186"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaningZh": "实力",
+      "meaningEn": "ability, capability",
+      "level": "n3",
+      "exampleSentence": "彼の実力はまだ未知数だ。",
+      "id": "6b0f4590-13c5-4187-9846-fcca0c9efab0"
+    },
+    {
+      "word": "オープン戦",
+      "reading": "おーぷんせん",
+      "meaningZh": "热身赛（棒球）",
+      "meaningEn": "exhibition game (baseball)",
+      "level": "n3",
+      "exampleSentence": "オープン戦で活躍した選手が、シーズンでも活躍するとは限らない。",
+      "id": "de824987-668d-4c5e-80f6-dcb83de16fb8"
+    },
+    {
+      "word": "打撃",
+      "reading": "だげき",
+      "meaningZh": "打击（棒球）",
+      "meaningEn": "batting (baseball)",
+      "level": "n3",
+      "exampleSentence": "彼の打撃は力強い。",
+      "id": "932691bc-1f01-41d6-96c4-b110412e81b8"
+    },
+    {
+      "word": "４番候補",
+      "reading": "よんばんこうほ",
+      "meaningZh": "第四棒候选人（棒球）",
+      "meaningEn": "candidate for the cleanup hitter (baseball)",
+      "level": "n3",
+      "exampleSentence": "チームの４番候補として期待されている。",
+      "id": "16a7a453-1368-477b-a689-e31479969346"
+    },
+    {
+      "word": "苦戦",
+      "reading": "くせん",
+      "meaningZh": "苦战，艰难作战",
+      "meaningEn": "struggle, hard fight",
+      "level": "n3",
+      "exampleSentence": "昨シーズンは苦戦しましたが、今シーズンこそは頑張りたい。",
+      "id": "10ffd0a7-14fe-472f-a80b-b1543e504eed"
+    },
+    {
+      "word": "ピッチング",
+      "reading": "ぴっちんぐ",
+      "meaningZh": "投球（棒球）",
+      "meaningEn": "pitching (baseball)",
+      "level": "n3",
+      "exampleSentence": "彼のピッチングはとても速い。",
+      "id": "784bfe29-9850-4acb-80c5-f565053ef323"
+    },
+    {
+      "word": "堅実",
+      "reading": "けんじつ",
+      "meaningZh": "扎实，可靠",
+      "meaningEn": "solid, steady, reliable",
+      "level": "n3",
+      "exampleSentence": "堅実な守備でチームを支えている。",
+      "id": "b7bcc1c3-7ec7-45d4-a5c4-7b413749a54b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "山田選手は、オープン戦でどのような調子でしたか？",
+      "options": [
+        "打撃は不調だった",
+        "ピッチャーとして活躍した",
+        "打撃好調で期待されている",
+        "まだ実力が未知数だ"
+      ],
+      "correctIndex": 2,
+      "explanation": "彼はオープン戦から打撃好調で、早くもチームの４番候補として期待されています。",
+      "id": "5cd9405e-e121-40d5-83d7-d8617a3b9047"
+    },
+    {
+      "question": "佐藤投手のピッチングの特徴は何だと言われていますか？",
+      "options": [
+        "経験豊富で安定している",
+        "コントロールが良い",
+        "速球がトップクラスだ",
+        "打者を打ち取るのが苦手だ"
+      ],
+      "correctIndex": 2,
+      "explanation": "その速球は球界でもトップクラスだと言われています。",
+      "id": "dfce8b69-908a-468d-a46c-ba0ea6c3888a"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-30-472632a31a",
+  "publishedAt": "2026-07-30T06:00:00+09:00"
+}

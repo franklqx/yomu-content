@@ -1,0 +1,131 @@
+{
+  "title": "注目のプロ野球選手",
+  "summary": "新しいプロ野球シーズンが始まります。今年はどんな選手が活躍するでしょうか。注目の選手をいくつか紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンがもうすぐ始まります。たくさんのチームがあります。どのチームも優勝を目指しています。ファンは新しいシーズンをとても楽しみにしています。",
+      "translationZh": "职业棒球新赛季即将开始。有很多球队。每支球队都以夺冠为目标。球迷们非常期待新赛季。",
+      "translationEn": "The new professional baseball season will start soon. There are many teams. Every team aims to win. Fans are very much looking forward to the new season.",
+      "id": "d3326b08-e5b8-40ef-8a8e-0461f1cec698",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年のシーズンで、特に注目したい選手がいます。例えば、若い選手です。彼らは去年のシーズンでよく練習しました。今年はもっと上手になるでしょう。",
+      "translationZh": "在本赛季，有一些特别值得关注的选手。例如，年轻的选手们。他们去年赛季努力训练。今年会变得更出色。",
+      "translationEn": "This season, there are some players we want to pay special attention to. For example, young players. They practiced well last season. They will become better this year.",
+      "id": "b9b5da05-c6f6-4bf1-833f-2437142062f7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ベテランの選手も大切です。経験がある選手はチームを助けます。彼らは若い選手に良い手本を見せます。ベテランの活躍も楽しみです。",
+      "translationZh": "经验丰富的老将也很重要。有经验的选手会帮助球队。他们会给年轻选手们树立好榜样。也很期待老将们的表现。",
+      "translationEn": "Experienced veteran players are also important. Players with experience help the team. They show a good example to the young players. We are also looking forward to the performance of the veterans.",
+      "id": "ff32239b-09f9-453b-bfbb-c6ce2a399d3a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいシーズンは、たくさんの面白い試合があるでしょう。応援したい選手を見つけて、野球を楽しみましょう。",
+      "translationZh": "新赛季将会有许多有趣的比赛。找到你想支持的选手，一起享受棒球吧。",
+      "translationEn": "There will be many interesting games in the new season. Find the players you want to cheer for and enjoy baseball.",
+      "id": "1e7e7c29-b059-44ae-9ae6-913ea1254a96",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいシーズンが始まります。",
+      "id": "3bae8011-fce6-493a-b650-807add493606"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention, notice",
+      "level": "n5n4",
+      "exampleSentence": "注目したい選手がいます。",
+      "id": "178b4d65-b767-49e9-9483-e9d917932347"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "若い選手は上手です。",
+      "id": "e9737bc8-95b7-4446-83dd-6b8faa1b8797"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "championship, victory",
+      "level": "n5n4",
+      "exampleSentence": "チームは優勝を目指しています。",
+      "id": "736a1912-ec23-4b11-9bc7-fd41ede29177"
+    },
+    {
+      "word": "目指す",
+      "reading": "めざす",
+      "meaningZh": "以…为目标",
+      "meaningEn": "to aim for",
+      "level": "n5n4",
+      "exampleSentence": "目標を目指して頑張ります。",
+      "id": "b27396cf-bec5-4afa-b81e-1153b378cda5"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，熟练",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼は日本語が上手です。",
+      "id": "4ebc31c3-2663-40d5-8498-b70084275c93"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将，老手",
+      "meaningEn": "veteran",
+      "level": "n5n4",
+      "exampleSentence": "ベテラン選手がチームを引っ張ります。",
+      "id": "abc138ad-34ae-494c-b97d-d149d5485601"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "私には運転の経験があります。",
+      "id": "b7a27522-091f-4a70-8548-eb3e2642ec07"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事で、新しいシーズンについて何が話されていますか。",
+      "options": [
+        "新しいスタジアムについて",
+        "注目したい選手について",
+        "試合のルールについて",
+        "過去の試合の結果について"
+      ],
+      "correctIndex": 1,
+      "explanation": "「今年のシーズンで、特に注目したい選手がいます。」と書いてあります。",
+      "id": "91f13926-0933-4959-abeb-630e0fe2de48"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-30-472632a31a",
+  "publishedAt": "2026-07-30T06:00:00+09:00"
+}

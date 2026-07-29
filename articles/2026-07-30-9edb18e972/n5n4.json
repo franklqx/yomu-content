@@ -1,0 +1,114 @@
+{
+  "title": "お年寄りのための宅配サービス",
+  "summary": "最近、お年寄りのための宅配サービスが広がっています。これは、元気がないお年寄りが家にいるときに、食べ物や日用品を届けるサービスです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、買い物は自分で店に行ってしました。しかし、最近は、年を取った人が増えています。そのため、家の外に出るのが難しい人もいます。そういう人たちのために、宅配サービスができました。",
+      "translationZh": "以前，购物是自己去店里进行的。但是，最近老年人增加了。因此，有对出门感到困难的人。为了这样的人们，宅配服务被创造出来了。",
+      "translationEn": "In the past, people went to stores themselves to shop. However, recently, the number of elderly people is increasing. Therefore, some people find it difficult to go outside their homes. For such people, delivery services have been created.",
+      "id": "80305edb-63a4-4b53-ad21-e8bdfa6129d3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスは、家まで食べ物や薬を届けます。ボタン一つで注文できるものもあります。配達する人は、元気かどうか、声を聞いて確認することもあります。これは、安心のためにとても大切です。",
+      "translationZh": "这项服务会把食物和药品送到家。有些东西按一个按钮就可以订购。配送员有时会听声音确认是否安好。这为了安心非常重要。",
+      "translationEn": "This service delivers food and medicine to homes. Some items can be ordered with just one button. The delivery person sometimes checks if the person is doing well by listening to their voice. This is very important for peace of mind.",
+      "id": "9a15cbbd-6135-44a7-bf79-76d88b248558",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスのおかげで、お年寄りは安全に家で暮らすことができます。家族も安心できます。これからも、もっと多くの人がこのサービスを使うようになるでしょう。",
+      "translationZh": "托这项服务的福，老年人可以在家安全地生活。家人也可以安心。今后，将会有更多的人使用这项服务。",
+      "translationEn": "Thanks to this service, elderly people can live safely at home. Their families can also be at ease. From now on, more and more people will likely use this service.",
+      "id": "4ec0c3ab-c192-4c86-849c-beafe91fea02",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お年寄り",
+      "reading": "おとしより",
+      "meaningZh": "老年人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "お年寄りはゆっくり歩きます。",
+      "id": "9a2fc6d3-7890-4132-b1de-fb5c6e222d98"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "送货上门服务",
+      "meaningEn": "delivery service",
+      "level": "n5n4",
+      "exampleSentence": "この会社は食べ物の宅配サービスをしています。",
+      "id": "b844146b-1528-48ae-8a62-1ecfdd5913d0"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "学生の数が毎年増えています。",
+      "id": "46b9d0b9-0f8d-4f62-8f09-45edc9c1103e"
+    },
+    {
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaningZh": "困难的",
+      "meaningEn": "difficult",
+      "level": "n5n4",
+      "exampleSentence": "この問題はとても難しいです。",
+      "id": "b534a19a-fbb0-4169-9b2c-81c41bcc2172"
+    },
+    {
+      "word": "届ける",
+      "reading": "とどける",
+      "meaningZh": "送达",
+      "meaningEn": "to deliver",
+      "level": "n5n4",
+      "exampleSentence": "手紙を友達に届けました。",
+      "id": "2d25120a-c672-4606-a448-95d8ff297e13"
+    },
+    {
+      "word": "確認する",
+      "reading": "かくにんする",
+      "meaningZh": "确认",
+      "meaningEn": "to confirm",
+      "level": "n3",
+      "exampleSentence": "予約を確認しました。",
+      "id": "fa6422f7-0747-466a-a4e3-f22b769143bc"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "家族が無事だと聞いて安心しました。",
+      "id": "90524717-f4a2-441e-98a4-ed1ee0d1ffcd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "宅配サービスは、どんな人のためにありますか。",
+      "options": [
+        "忙しい人のため",
+        "元気な人のため",
+        "家の外に出るのが難しい人のため",
+        "若い人のため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「家の外に出るのが難しい人もいます。そういう人たちのために、宅配サービスができました。」と書いてあります。",
+      "id": "bea2d0f2-0154-41e4-9dd3-85fb5f3b9ded"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-30-9edb18e972",
+  "publishedAt": "2026-07-30T06:00:00+09:00"
+}
