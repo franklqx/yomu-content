@@ -1,0 +1,122 @@
+{
+  "title": "コミケの新しいトレンド",
+  "summary": "コミケで人気のあるサークルの傾向が変わりました。新しいジャンルが注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コミックマーケットは、たくさんの人が集まるイベントです。今回は、新しいサークルがたくさんありました。特に、ゲームやアニメの新しいジャンルが人気でした。",
+      "translationZh": "Comic Market 是一个聚集了许多人的活动。这次，新社团有很多。特别是，游戏和动漫的新类型很受欢迎。",
+      "translationEn": "Comic Market is an event where many people gather. This time, there were many new circles. In particular, new genres of games and anime were popular.",
+      "id": "40d5c2f8-850f-4d1c-8b89-5ac0342e7adc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔から人気のあるジャンルも、まだありました。でも、若い人たちの間で、もっと新しいものが好きな人が増えたようです。",
+      "translationZh": "过去一直很受欢迎的类型也仍然存在。但是，在年轻人之间，似乎喜欢更新颖事物的人增加了。",
+      "translationEn": "Genres that have been popular for a long time still existed. However, among young people, it seems that more people like newer things.",
+      "id": "b59f984c-cd28-4328-9554-ae4e9584a8f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コスプレイヤーもたくさんいました。彼らは、人気のアニメやゲームのキャラクターの服を着ていました。写真をとる人も多かったです。",
+      "translationZh": "也有很多cosplayer。他们穿着人气动漫或游戏角色的服装。拍照的人也很多。",
+      "translationEn": "There were also many cosplayers. They were wearing clothes of popular anime and game characters. Many people were taking pictures.",
+      "id": "c52ac6b3-753e-4e68-b7d1-18cdbb9b5b83",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回のコミケは、新しい発見がたくさんありました。来年も、どんな新しいトレンドがあるか楽しみです。",
+      "translationZh": "这次的Comic Market，有很多新的发现。明年，也很期待会有什么样的新趋势。",
+      "translationEn": "This Comic Market had many new discoveries. I look forward to seeing what new trends there will be next year.",
+      "id": "1aa3c25c-bda1-47ec-8fb3-940bf0c63a6e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コミックマーケット",
+      "reading": "こみっくまーけっと",
+      "meaningZh": "Comic Market（日本最大的同人志即卖会）",
+      "meaningEn": "Comic Market (Japan's largest doujinshi convention)",
+      "level": "n5n4",
+      "exampleSentence": "コミックマーケットはとても大きいです。",
+      "id": "999079c8-96b8-48c3-a8e0-209712e32ade"
+    },
+    {
+      "word": "イベント",
+      "reading": "いべんと",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "楽しいイベントでした。",
+      "id": "6d50a683-dd17-4272-8a96-df15c6e686e7"
+    },
+    {
+      "word": "サークル",
+      "reading": "さーくる",
+      "meaningZh": "社团（同人展上的创作团体）",
+      "meaningEn": "circle (creative group at a doujinshi convention)",
+      "level": "n5n4",
+      "exampleSentence": "このサークルは有名です。",
+      "id": "141a2d76-fdde-4e25-b9d3-9482062bbd62"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "倾向，趋势",
+      "meaningEn": "trend, tendency",
+      "level": "n3",
+      "exampleSentence": "最近の傾向は変わりました。",
+      "id": "a5814090-66b1-4a80-ac42-7ccd7800a4ee"
+    },
+    {
+      "word": "ジャンル",
+      "reading": "じゃんる",
+      "meaningZh": "种类，类型",
+      "meaningEn": "genre, type",
+      "level": "n5n4",
+      "exampleSentence": "好きなジャンルは何ですか。",
+      "id": "b165ee8d-2790-4f87-a11f-750b270653a4"
+    },
+    {
+      "word": "コスプレイヤー",
+      "reading": "こすぷれい‌やー",
+      "meaningZh": "Cosplayer（角色扮演者）",
+      "meaningEn": "cosplayer",
+      "level": "n5n4",
+      "exampleSentence": "コスプレイヤーがたくさんいます。",
+      "id": "200f1713-53e8-4f36-a532-e654dd0c5c16"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しい発見がありました。",
+      "id": "59f2b395-ea0a-4f1d-a227-e6b1db8039fb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回のコミケで人気があったのは、どんなジャンルですか。",
+      "options": [
+        "昔からあるジャンル",
+        "新しいゲームやアニメのジャンル",
+        "コスプレの衣装",
+        "食べ物"
+      ],
+      "correctIndex": 1,
+      "explanation": "特に、ゲームやアニメの新しいジャンルが人気でした。",
+      "id": "76052c99-d03e-48a7-88e0-923860c7e9be"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-31-ec987604cd",
+  "publishedAt": "2026-07-31T06:00:00+09:00"
+}

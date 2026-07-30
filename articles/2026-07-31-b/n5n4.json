@@ -1,0 +1,131 @@
+{
+  "title": "Bリーグの新スター選手",
+  "summary": "Bリーグに新しいスター選手が現れました。彼のプレーはとてもすごいです。多くの人が注目しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本のプロバスケットボールリーグ、Bリーグはとても人気があります。最近、新しいスター選手がチームに加わりました。彼の名前は田中（たなか）です。",
+      "translationZh": "日本的职业篮球联赛 B联赛非常受欢迎。最近，一位新的明星球员加入了球队。他的名字是田中。",
+      "translationEn": "Japan's professional basketball league, the B.League, is very popular. Recently, a new star player joined a team. His name is Tanaka.",
+      "id": "3a953e88-14d9-4654-be7f-1e9219a85436",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "田中選手はとても若いです。でも、彼のプレーは経験のある選手みたいです。シュートがとても上手で、ドリブルも速いです。彼はチームの勝利にたくさん貢献しています。",
+      "translationZh": "田中选手非常年轻。但是，他的打法像有经验的选手一样。投篮技术非常好，运球也很快。他对球队的胜利做出了很多贡献。",
+      "translationEn": "Tanaka is very young. However, his play is like that of an experienced player. His shooting is very good, and his dribbling is fast. He contributes a lot to his team's victories.",
+      "id": "c7cc19e3-7e17-40ab-a5c1-148fd5097ff6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "試合（しあい）の時、たくさんのファンが見に来ます。田中選手がボールを持つと、会場はとても盛り上がります。彼のプレーを見ていると、元気が出ます。",
+      "translationZh": "比赛时，有很多粉丝来看。田中选手拿到球时，会场气氛非常热烈。看他的比赛，会让人充满活力。",
+      "translationEn": "During games, many fans come to watch. When Tanaka has the ball, the venue becomes very exciting. Watching his play energizes people.",
+      "id": "3ca878a1-4ec4-45ac-ae1c-01f766519182",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "田中選手はまだ若いので、これからもっと上手になるでしょう。Bリーグは彼のような新しいスター選手がたくさん出てくるのを期待しています。",
+      "translationZh": "田中选手还很年轻，今后会变得更强。B联赛期待他这样的新星选手能不断涌现。",
+      "translationEn": "Tanaka is still young, so he will likely become even better in the future. The B.League hopes to see many new stars like him emerge.",
+      "id": "796376ba-0bed-4479-a520-89acf29250b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "96b3df19-a5e5-49ce-980a-e1b068b693aa"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手，运动员",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "f15464bb-7206-40e0-8a15-7d08055202f1"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの経験があります。",
+      "id": "db460e39-b708-45d5-8d9f-45d50633f7d7"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，高明",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼女は日本語が上手です。",
+      "id": "87fbb4f3-5d92-4635-83da-7b2b9c0e507b"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaningZh": "比赛",
+      "meaningEn": "match, game",
+      "level": "n5n4",
+      "exampleSentence": "今日の試合はとても面白かったです。",
+      "id": "be225e6a-29b1-4636-94e4-4cd00ea05b47"
+    },
+    {
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaningZh": "会场",
+      "meaningEn": "venue, meeting place",
+      "level": "n5n4",
+      "exampleSentence": "大きな会場でコンサートがありました。",
+      "id": "70a860b9-2ee1-4304-aca9-33d68469f341"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精力，活力",
+      "meaningEn": "energy, vigor",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも元気です。",
+      "id": "c2f6691a-0ea2-4a7d-86aa-e70a6bd8056c"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待，期望",
+      "meaningEn": "expectation, hope",
+      "level": "n3",
+      "exampleSentence": "明日のテストの結果が期待です。",
+      "id": "53408b0f-dd62-48a8-9e40-691d859dc996"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "田中選手はどんな選手ですか。",
+      "options": [
+        "経験がたくさんあるベテラン選手です。",
+        "とても若いが、プレーが上手な選手です。",
+        "あまり人気のない選手です。",
+        "シュートは下手ですが、ドリブルは速いです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「田中選手はとても若いです。でも、彼のプレーは経験のある選手みたいです。シュートがとても上手で、ドリブルも速いです。」と書いてあります。",
+      "id": "d96e00a6-8af7-4da7-add9-7b4966835a5b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-31-b",
+  "publishedAt": "2026-07-31T06:00:00+09:00"
+}

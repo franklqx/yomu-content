@@ -1,0 +1,126 @@
+{
+  "title": "Bリーグ注目の新星！若き才能が開花する",
+  "summary": "プロバスケットボールBリーグで、期待の新星が次々と現れています。彼らの情熱と才能は、リーグに新たな風を吹き込んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、日本のプロバスケットボールリーグ「Bリーグ」は、若い才能が目覚ましい活躍を見せています。特に、〇〇選手（チーム名：△△）は、その驚異的な身体能力と正確なシュートで、多くのファンを魅了しています。彼はまだ若いながらも、試合の流れを変える力を持っており、チームにとって欠かせない存在となっています。",
+      "translationZh": "近年来，日本职业篮球联赛“B LEAGUE”涌现出许多表现出色的年轻天才。特别是〇〇选手（所属球队：△△），以其惊人的身体素质和精准的投篮吸引了众多粉丝。他虽然年轻，却有能力改变比赛的走向，成为了球队不可或缺的存在。",
+      "translationEn": "In recent years, Japan's professional basketball league, the 'B.LEAGUE', has seen remarkable performances from young talents. In particular, player XX (Team: YY) captivates many fans with his astonishing physical abilities and accurate shooting. Despite his youth, he possesses the power to change the flow of a game and has become an indispensable presence for his team.",
+      "id": "8a08dfe2-bdd1-4256-9f4d-e6afdc8a54eb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "〇〇選手がこれほど早く成長できたのは、日々の厳しい練習の成果はもちろん、チームメイトやコーチからのサポートがあってこそです。彼は練習中も常に真剣な表情を崩さず、一つ一つのプレーを大切にしています。その努力が実を結び、試合では自信に満ちたプレーを見せているのです。",
+      "translationZh": "〇〇选手之所以能如此迅速地成长，除了每天刻苦训练的成果之外，也离不开队友和教练的支持。他在训练中也总是表情严肃，珍惜每一次的攻防。他的努力得到了回报，在比赛中展现出充满自信的表现。",
+      "translationEn": "The reason player XX could grow so rapidly is not only the result of his daily rigorous training but also thanks to the support from his teammates and coaches. He maintains a serious expression even during practice, valuing each play. His efforts have paid off, and he shows confident play in games.",
+      "id": "5968e53e-9d68-448c-8b1c-1fb8ea84757e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "Bリーグは、このような若いスター選手たちの台頭によって、さらに盛り上がりを見せています。彼らのプレーを見ていると、将来への期待感が高まります。これから、彼らがどのように成長し、リーグを牽引していくのか、目が離せません。ファンとしては、彼らの活躍を応援し続けるでしょう。",
+      "translationZh": "B LEAGUE因为这些年轻明星选手的崛起而变得更加激动人心。看着他们的比赛，对未来的期待感油然而生。他们今后将如何成长，引领联盟，令人拭目以待。作为粉丝，我们会继续支持他们的活跃表现。",
+      "translationEn": "The B.LEAGUE is becoming even more exciting with the emergence of such young star players. Watching their games heightens expectations for the future. We can't take our eyes off how they will grow and lead the league from now on. As fans, we will continue to cheer for their success.",
+      "id": "6de7dfa4-06c1-4ffc-a165-8c51f9b55de7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新星",
+      "reading": "しんせい",
+      "meaningZh": "新出现的杰出人物，新星",
+      "meaningEn": "new star; rising star",
+      "level": "n3",
+      "exampleSentence": "この若手俳優は、まさに新星だ。",
+      "id": "bf206261-c259-4d9e-8db5-b18d6796feb9"
+    },
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "惊人的，显著的",
+      "meaningEn": "remarkable; striking; brilliant",
+      "level": "n3",
+      "exampleSentence": "彼の成績は目覚ましいものがある。",
+      "id": "462aa76a-8788-4803-9799-ef53186d09ee"
+    },
+    {
+      "word": "身体能力",
+      "reading": "しんたいのうりょく",
+      "meaningZh": "身体能力",
+      "meaningEn": "physical ability; physical prowess",
+      "level": "n3",
+      "exampleSentence": "長年のトレーニングで身体能力が向上した。",
+      "id": "4ec5754d-bee0-4784-8374-e7738110454a"
+    },
+    {
+      "word": "魅了する",
+      "reading": "みりょうする",
+      "meaningZh": "迷惑，吸引住",
+      "meaningEn": "to fascinate; to charm; to captivate",
+      "level": "n3",
+      "exampleSentence": "その美しい景色に魅了された。",
+      "id": "83affb3a-1ed9-49ce-af8a-f91d0e4cacf9"
+    },
+    {
+      "word": "欠かせない",
+      "reading": "かかせない",
+      "meaningZh": "不可或缺的",
+      "meaningEn": "indispensable; essential",
+      "level": "n3",
+      "exampleSentence": "チームにとって、彼の存在は欠かせない。",
+      "id": "047a12ee-578b-4fe5-b167-392cfe3b475a"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "出现，兴起",
+      "meaningEn": "rise; emergence",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術の台頭が業界を変えた。",
+      "id": "7cc9dd84-b3f7-41d8-9b38-660fa0f66813"
+    },
+    {
+      "word": "牽引する",
+      "reading": "けんいんする",
+      "meaningZh": "牵引，领导",
+      "meaningEn": "to pull; to lead; to pioneer",
+      "level": "n2n1",
+      "exampleSentence": "彼はその分野を牽引する存在だ。",
+      "id": "324a485d-f19a-493e-9522-3a24928687eb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "〇〇選手がファンを魅了している理由は何ですか？",
+      "options": [
+        "チームへの貢献度が高いから",
+        "驚異的な身体能力と正確なシュートだから",
+        "経験豊富でリーダーシップがあるから",
+        "試合にいつも遅刻しないから"
+      ],
+      "correctIndex": 1,
+      "explanation": "文中には「その驚異的な身体能力と正確なシュートで、多くのファンを魅了しています。」とあります。",
+      "id": "9b0f39af-8ec2-4e14-ab17-f4b35ce1d6b5"
+    },
+    {
+      "question": "〇〇選手が早く成長できた要因として、本文で述べられていることは何ですか？",
+      "options": [
+        "才能があったから",
+        "練習時間が長かったから",
+        "厳しい練習と、チームメイト・コーチのサポートがあったから",
+        "試合にたくさん出場できたから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「日々の厳しい練習の成果はもちろん、チームメイトやコーチからのサポートがあってこそです。」と説明されています。",
+      "id": "66b96b18-94b9-48b8-8500-a64815053893"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-07-31-b",
+  "publishedAt": "2026-07-31T06:00:00+09:00"
+}

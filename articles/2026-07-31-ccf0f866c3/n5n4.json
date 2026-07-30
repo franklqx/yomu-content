@@ -1,0 +1,122 @@
+{
+  "title": "夏の夜空を彩る花火！",
+  "summary": "今年の夏も、各地で花火大会が開催されます。楽しい夏の思い出を作りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏になると、きれいな花火が見られます。夜空に大きな花火が上がります。色々な色や形の花火があります。見ているだけで楽しい気持ちになります。",
+      "translationZh": "到了夏天，就能看到漂亮的花火。巨大的花火会升上夜空。有各种颜色和形状的花火。光是看着就让人心情愉快。",
+      "translationEn": "When summer comes, you can see beautiful fireworks. Big fireworks rise into the night sky. There are fireworks of various colors and shapes. Just looking at them makes you feel happy.",
+      "id": "f7b6f804-7645-46cf-a2cd-d05edf3206ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、たくさんの場所で花火大会があります。例えば、東京や大阪で大きな花火大会があります。友達や家族と一緒に行くと、もっと楽しいでしょう。",
+      "translationZh": "今年，有很多地方会举办花火大会。例如，东京和大阪有大型花火大会。和朋友或家人一起去的话，会更开心吧。",
+      "translationEn": "This year, there are fireworks festivals in many places. For example, there are big fireworks festivals in Tokyo and Osaka. It will be more fun if you go with friends or family.",
+      "id": "034c7b6d-5e07-4a07-84c6-8918a1be507e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会に行くときは、早めに場所を取ることが大切です。浴衣を着ると、もっと雰囲気が楽しめます。おいしい食べ物もたくさんありますよ。",
+      "translationZh": "去参加花火大会时，尽早占个好位置很重要。穿上浴衣，更能享受气氛。还有很多好吃的食物哦。",
+      "translationEn": "When you go to a fireworks festival, it is important to secure a good spot early. Wearing a yukata will enhance the atmosphere. There are also many delicious foods.",
+      "id": "707bb688-05e0-4092-aead-25e45ee5ba08",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会の情報は、インターネットで調べられます。行きたい場所の花火大会を調べて、計画を立てましょう。夏の夜空を楽しみましょう。",
+      "translationZh": "可以在网上查询花火大会的信息。查询想去的地方的花火大会，然后制定计划吧。一起享受夏夜的星空吧。",
+      "translationEn": "You can find information about fireworks festivals on the internet. Research the fireworks festival in the place you want to go and make a plan. Let's enjoy the summer night sky.",
+      "id": "e2aadcbf-1970-4005-ad6b-ad2d95ac0916",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "花火",
+      "reading": "はなび",
+      "meaningZh": "烟花",
+      "meaningEn": "fireworks",
+      "level": "n5n4",
+      "exampleSentence": "夜空に大きな花火が上がりました。",
+      "id": "9ac86ae2-9512-4964-a6ab-eda8e5e4b5db"
+    },
+    {
+      "word": "夏",
+      "reading": "なつ",
+      "meaningZh": "夏天",
+      "meaningEn": "summer",
+      "level": "n5n4",
+      "exampleSentence": "夏は暑いです。",
+      "id": "b44cafd4-7a42-4f43-b218-b1e7330e5bd6"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaningZh": "大会，比赛",
+      "meaningEn": "convention, meeting, tournament",
+      "level": "n5n4",
+      "exampleSentence": "今年は花火大会がたくさんあります。",
+      "id": "595f6425-51fb-4d64-9bad-afd9a064abd5"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaningZh": "夜空",
+      "meaningEn": "night sky",
+      "level": "n5n4",
+      "exampleSentence": "夜空に星がきれいです。",
+      "id": "fe617f0d-f067-46b8-bdea-8a741e954684"
+    },
+    {
+      "word": "色々な",
+      "reading": "いろいろな",
+      "meaningZh": "各种各样的",
+      "meaningEn": "various",
+      "level": "n5n4",
+      "exampleSentence": "色々な種類の花があります。",
+      "id": "76c03735-28a2-43f5-a27f-f42dfe4d7621"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "このカフェは落ち着いた雰囲気です。",
+      "id": "5b12ca84-28c1-491d-a090-3ef76771031d"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りで浴衣を着ました。",
+      "id": "194b8576-8fb1-4137-aa22-e8638dd3a021"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会に行くとき、一番大切なことは何ですか？",
+      "options": [
+        "浴衣を着ること",
+        "おいしいものを食べること",
+        "早めに場所を取ること",
+        "友達と行くこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "「花火大会に行くときは、早めに場所を取ることが大切です。」",
+      "id": "964be25b-2775-42ff-b9d8-a5cda1be0680"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-07-31-ccf0f866c3",
+  "publishedAt": "2026-07-31T06:00:00+09:00"
+}
