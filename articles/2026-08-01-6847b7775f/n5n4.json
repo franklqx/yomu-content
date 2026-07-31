@@ -1,0 +1,123 @@
+{
+  "title": "古民家ステイ、人気です！",
+  "summary": "山陰地方で古い家（古民家）に泊まるのが人気です。たくさんの人が体験しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、山陰地方で「古民家ステイ」が人気です。古民家とは、古い日本の家です。静かな田舎にあることが多いです。都会の生活と違う、ゆっくりした時間を過ごせます。",
+      "translationZh": "最近，在山阴地区，“古民家住宿”很受欢迎。古民家是指日本的旧式房屋。它们通常位于宁静的乡村。你可以体验与城市生活不同的悠闲时光。",
+      "translationEn": "Recently, 'Kominka Stay' has become popular in the San'in region. Kominka refers to old Japanese houses. They are often located in quiet rural areas. You can spend a relaxed time, different from city life.",
+      "id": "e2ae5869-ee0c-4571-9bf0-c99f9558da80",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家に泊まると、昔の日本の生活を感じられます。広い畳の部屋や、古い木の柱があります。自分で料理をすることもできます。地元の野菜や魚はとてもおいしいです。",
+      "translationZh": "住在古民家，你可以感受到过去日本的生活方式。有宽敞的榻榻米房间和古老的木柱。你也可以自己做饭。当地的蔬菜和鱼都非常美味。",
+      "translationEn": "When you stay in a Kominka, you can feel the life of old Japan. There are spacious tatami rooms and old wooden pillars. You can also cook for yourself. Local vegetables and fish are very delicious.",
+      "id": "36cef653-ec3a-4aef-89a9-ab71483bfca1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に若い人たちの間で人気が高まっています。SNSで写真を共有する人も多いです。古民家ステイは、旅行の新しい形として注目されています。山陰地方の自然や文化も楽しめます。",
+      "translationZh": "尤其在年轻人中，人气越来越高。很多人会在社交媒体上分享照片。古民家住宿正作为一种新的旅行方式受到关注。你还可以享受山阴地区的自然和文化。",
+      "translationEn": "It is becoming particularly popular among young people. Many people share photos on social media. Kominka Stay is gaining attention as a new form of travel. You can also enjoy the nature and culture of the San'in region.",
+      "id": "e257e45f-6e0d-47f7-9437-0a4dc33ace03",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地区，地方",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地方は海がきれいです。",
+      "id": "91322a2e-a5ac-450f-be74-b2e42c9b515b"
+    },
+    {
+      "word": "古民家",
+      "reading": "こみんか",
+      "meaningZh": "古老的日本传统房屋",
+      "meaningEn": "old Japanese-style house",
+      "level": "n5n4",
+      "exampleSentence": "古民家でゆっくり休みました。",
+      "id": "f2ee2baf-d4b8-4dc3-bbc5-d77067ac46bb"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "d14af233-a5c4-43b1-8ec9-8aa983e1bb7e"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaningZh": "都市，城市",
+      "meaningEn": "city, urban area",
+      "level": "n5n4",
+      "exampleSentence": "都会は人が多いです。",
+      "id": "3ddeb973-6e49-48a7-9ad0-7d0000323c47"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaningZh": "生活",
+      "meaningEn": "life, living",
+      "level": "n5n4",
+      "exampleSentence": "田舎での生活は静かです。",
+      "id": "6b4d7e4d-f8c3-4931-b5ce-d75c9335180c"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "old times, past",
+      "level": "n5n4",
+      "exampleSentence": "昔の写真をみました。",
+      "id": "28b9f41b-c8c1-494a-a55b-cc187d99cae4"
+    },
+    {
+      "word": "畳",
+      "reading": "たたみ",
+      "meaningZh": "榻榻米垫子",
+      "meaningEn": "tatami mat",
+      "level": "n5n4",
+      "exampleSentence": "部屋は畳の匂いがしました。",
+      "id": "964b0366-dc0a-40e9-8d3d-29e979b5720a"
+    },
+    {
+      "word": "形",
+      "reading": "かたち",
+      "meaningZh": "形状，样子，形式",
+      "meaningEn": "shape, form, style",
+      "level": "n5n4",
+      "exampleSentence": "新しい形のかばんです。",
+      "id": "6ee33fac-2b5a-44d7-86bd-11f97a7d6d44"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "古民家ステイは、どこで人気がありますか？",
+      "options": [
+        "都会",
+        "山陰地方",
+        "海",
+        "田舎"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近、山陰地方で「古民家ステイ」が人気です。」",
+      "id": "1b7a2bdd-b3d5-4523-ace8-033653bd350f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-01-6847b7775f",
+  "publishedAt": "2026-08-01T06:00:00+09:00"
+}

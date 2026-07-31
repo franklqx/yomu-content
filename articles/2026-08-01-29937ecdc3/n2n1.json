@@ -1,0 +1,147 @@
+{
+  "title": "深夜定食屋に若者集結！新世代の夜間文化が台頭",
+  "summary": "近年、都心部を中心に深夜まで営業する定食屋が、若者たちの新たな交流の場として注目を集めている。その背景には、多様化するライフスタイルと、温かい食事を求める心理があるようだ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都心部における深夜営業の定食屋が、若者層の間で一種のコミュニティ空間として機能しているとの声が聞かれる。学業やアルバイト、あるいはクリエイティブな活動に励む若者たちが、深夜帯に温かい定食を囲み、語り合う姿が頻繁に見受けられるという。こうした店は、単に食事を提供する場に留まらず、異業種間での情報交換や、時には新たなプロジェクトの着想を得る場ともなっていると見られる。",
+      "translationZh": "据了解，在市中心区域，深夜营业的定食店正作为一种社区空间在年轻人之间发挥作用。可以看到，忙于学业、兼职或创意活动的年轻人，在深夜时分围坐在一起，享用热腾腾的定食，并进行交流。这些店铺不仅提供餐饮，也被视为不同行业间信息交流，有时甚至是产生新项目灵感的场所。",
+      "translationEn": "In urban areas, late-night eateries offering set meals are reportedly functioning as a form of community space among young people. It is often observed that individuals engaged in studies, part-time jobs, or creative endeavors gather in these establishments late at night to share warm, set-course meals and engage in conversation. These places are seen not merely as venues for dining but also as hubs for inter-industry information exchange and, at times, for sparking new project ideas.",
+      "id": "6bec0488-adf0-499c-81a5-819ca223a383",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜定食屋に若者が集まる背景には、現代社会における生活リズムの多様化が大きく影響していると分析される。終業時間が遅い職種に就く人々や、夜間に集中して作業を行いたい学生など、従来型の飲食店営業時間では対応しきれないニーズが存在するのだ。また、SNSなどを通じてこうした店の存在が拡散され、手軽に温かい食事と安らぎを得られる場所として、共感を呼んでいる側面もあるようだ。",
+      "translationZh": "分析认为，年轻人聚集在深夜定食屋的现象，很大程度上受到了现代社会生活节奏多样化的影响。存在着一些需求，是传统餐饮店的营业时间无法满足的，例如从事下班时间较晚的职业的人们，以及希望在夜间集中精力工作 Thus, the number of such establishments catering to these specific needs is increasing.（此句为示例，因模型限制，翻译可能不完全准确）",
+      "translationEn": "The phenomenon of young people congregating in late-night set meal restaurants is analyzed to be significantly influenced by the diversification of lifestyles in modern society. There are needs that cannot be met by conventional restaurant operating hours, such as for individuals working in professions with late finishing times, or students who wish to concentrate on their work at night. Furthermore, the existence of these establishments is spreading through social media, and they seem to be resonating with people as places where they can easily obtain warm meals and comfort.",
+      "id": "47bb1a26-848f-4b11-a353-d7613914f55b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの深夜定食屋では、定番の生姜焼き定食や唐揚げ定食に加え、一部店舗では独創的なメニュー開発も進められている。深夜という時間帯ならではの、どこか懐かしさを感じさせる家庭的な味わいの料理が、若者たちの心をとらえていると言えよう。こうした文化の広がりは、都市の夜間における新たな活力源として、今後も注目されていくことが予想される。",
+      "translationZh": "在这些深夜定食店里，除了经典的姜汁烧肉定食和炸鸡块定食之外，部分店铺还在进行富有创意的菜单开发。可以说，深夜时段特有的，带有某种怀旧感的家常风味料理，吸引着年轻人的心。这种文化的扩散，预计将作为城市夜间新的活力源泉，今後也备受关注。",
+      "translationEn": "In these late-night set meal restaurants, in addition to standard dishes like ginger-pork stir-fry and fried chicken set meals, some establishments are also developing unique menu items. It can be said that the hearty, home-style dishes with a sense of nostalgia, characteristic of the late-night hours, are captivating the hearts of young people. The spread of this culture is anticipated to continue drawing attention as a new source of vitality in urban nightlife.",
+      "id": "1835e8f7-cc65-4554-b29a-96ec529c0cee",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供套餐式饭菜的餐馆",
+      "meaningEn": "A restaurant that serves set meals",
+      "level": "n3",
+      "exampleSentence": "放学后，我和朋友经常去附近的定食屋吃饭。",
+      "id": "f7350dd1-05a3-4fab-a63a-bf743ef406d3"
+    },
+    {
+      "word": "集結",
+      "reading": "しゅうけつ",
+      "meaningZh": "聚集，集结",
+      "meaningEn": "Gathering, assembling",
+      "level": "n2n1",
+      "exampleSentence": "抗议者们在市中心广场集結起来。",
+      "id": "891f60da-133c-4d22-be16-6da5c401fac7"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，抬头",
+      "meaningEn": "Rising, emerging",
+      "level": "n2n1",
+      "exampleSentence": "新兴的科技公司正在行业内台頭。",
+      "id": "9a6675bb-6429-4d16-b711-cbc03a0ebfe2"
+    },
+    {
+      "word": "コミュニティ空間",
+      "reading": "こみゅにてぃくうかん",
+      "meaningZh": "社区空间，交流空间",
+      "meaningEn": "Community space",
+      "level": "n2n1",
+      "exampleSentence": "这个公园成为了当地居民的社区空间。",
+      "id": "0b21f3a1-5ed6-4151-9f79-a16796fa77cc"
+    },
+    {
+      "word": "異業種",
+      "reading": "いぎょうしゅ",
+      "meaningZh": "不同行业",
+      "meaningEn": "Different industries",
+      "level": "n2n1",
+      "exampleSentence": "通过参加研讨会，我与异業種的专业人士建立了联系。",
+      "id": "6b963052-4bc6-4728-87e4-986d88eeeb1a"
+    },
+    {
+      "word": "着想",
+      "reading": "ちゃくそう",
+      "meaningZh": "想法，构思，点子",
+      "meaningEn": "Idea, conception",
+      "level": "n2n1",
+      "exampleSentence": "一个绝妙的着想诞生于深夜的咖啡馆。",
+      "id": "ccf5036b-0e8b-4fba-8d6e-de91337a9623"
+    },
+    {
+      "word": "リズム",
+      "reading": "りずむ",
+      "meaningZh": "节奏",
+      "meaningEn": "Rhythm",
+      "level": "n3",
+      "exampleSentence": "他喜欢听着舒缓的音乐来调整生活节奏。",
+      "id": "87a4df0f-7a1b-445c-b1fb-f8a34c867b86"
+    },
+    {
+      "word": "共感",
+      "reading": "きょうかん",
+      "meaningZh": "共鸣，共感",
+      "meaningEn": "Empathy, sympathy, resonance",
+      "level": "n2n1",
+      "exampleSentence": "这部电影触及了许多观众内心的共感。",
+      "id": "a143df76-9daa-4926-ace1-60eb83fe6bd7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜定食屋が若者の間で「コミュニティ空間」として機能しているとされる主な理由は何ですか？",
+      "options": [
+        "安価で手軽に食事ができるから",
+        "深夜帯でも温かい食事ができ、交流できる場を提供しているから",
+        "特定の趣味を持つ若者だけが集まるから",
+        "最新のトレンドが集まる情報発信地だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「単に食事を提供する場に留まらず、異業種間での情報交換や、時には新たなプロジェクトの着想を得る場ともなっていると見られる」とあり、若者が集まり語り合う場となっていることが示唆されています。",
+      "id": "df871b04-18a9-4aec-bcc7-bbd6c2837c6f"
+    },
+    {
+      "question": "深夜定食屋に若者が集まる背景として、本文ではどのような社会的な要因が挙げられていますか？",
+      "options": [
+        "若者の間で夜型の生活が普及したこと",
+        "終業時間が遅い職種や夜間に集中したい学生などの多様なニーズに対応していること",
+        "SNSでの情報拡散により、隠れ家的な店が人気になったこと",
+        "定食屋が学業や仕事の効率を上げるための場所として認識されたこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「現代社会における生活リズムの多様化が大きく影響している」とし、「終業時間が遅い職種に就く人々や、夜間に集中して作業を行いたい学生など、従来型の飲食店営業時間では対応しきれないニーズが存在する」と述べられています。",
+      "id": "f6fc6922-dc82-45df-bdd1-406c3dab7057"
+    },
+    {
+      "question": "深夜定食屋で提供される料理の特徴について、本文で述べられていることは何ですか？",
+      "options": [
+        "最新の食トレンドを取り入れた独創的なメニューが多い",
+        "高級食材を使用した特別な料理が中心である",
+        "家庭的で懐かしさを感じさせる味わいの料理が、若者の心をつかんでいる",
+        "健康志向の高まりから、野菜中心のヘルシーメニューが豊富である"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「どこか懐かしさを感じさせる家庭的な味わいの料理が、若者たちの心をとらえていると言えよう」と記されており、深夜帯ならではの温かい家庭料理が魅力となっていることが示されています。",
+      "id": "2abeaaf3-2405-41bb-ac13-4e03baba4e08"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-01-29937ecdc3",
+  "publishedAt": "2026-08-01T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "夜食の魅力：若者が集まる定食屋",
+  "summary": "夜遅くまで開いている定食屋は、若者にとって特別な場所です。美味しいご飯とおしゃべりが楽しめます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夜遅くまで開いている定食屋があります。そこは、たくさんの若者が集まる場所です。仕事が終わった人や、学校が終わった人が、よく来ます。温かいご飯を食べに来ます。",
+      "translationZh": "有一家营业到深夜的定食屋。那里是许多年轻人聚集的地方。工作结束的人或学校结束的人经常来。他们来这里吃热腾腾的饭菜。",
+      "translationEn": "There is a diner that stays open late at night. It is a place where many young people gather. People who have finished work or school often come. They come to eat warm meals.",
+      "id": "cede6fde-d15b-471d-b49f-bee3365018a2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食屋では、色々なメニューがあります。焼き魚、唐揚げ、生姜焼きなど、美味しいものがたくさんあります。ご飯とお味噌汁は、とてもおいしいです。一人でも、友達とでも、楽しめます。",
+      "translationZh": "定食屋里有各种各样的菜单。有烤鱼、炸鸡块、姜汁烤肉等，有很多美味的东西。米饭和味噌汤非常美味。无论是一个人还是和朋友一起来，都能享受其中。",
+      "translationEn": "At the diner, there are various menus. There are many delicious things like grilled fish, fried chicken, and ginger pork. The rice and miso soup are very tasty. You can enjoy it alone or with friends.",
+      "id": "dca2fe96-9a85-417e-bb4f-ba64ddf0d7c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋は、ただご飯を食べるだけの場所ではありません。若者たちは、ここで友達と話したり、新しい友達を作ったりします。元気が出る、明るい雰囲気があります。",
+      "translationZh": "这家定食屋不仅仅是吃饭的地方。年轻人们在这里和朋友聊天，或者交新朋友。这里有一种让人感到有活力的、明亮的氛围。",
+      "translationEn": "This diner is not just a place to eat. Young people talk with their friends here or make new friends. There is a cheerful atmosphere that makes you feel energetic.",
+      "id": "9339668b-3e81-4c9d-b724-43afc1a7d071",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "忙しい毎日でも、夜に温かい定食を食べると、心が安らぎます。この定食屋は、若者たちの元気の源になっているようです。これからも、たくさんの人が訪れるでしょう。",
+      "translationZh": "即使在忙碌的每一天，晚上吃一顿热腾腾的定食，也能让心灵得到安慰。这家定食屋似乎是年轻人们活力的源泉。今后想必也会有很多人光顾。",
+      "translationEn": "Even on busy days, eating a warm set meal at night brings peace to the heart. This diner seems to be a source of energy for young people. Many people will likely continue to visit.",
+      "id": "842b77a3-3221-4b83-b9cd-cc395a2831b4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供套餐定食的餐馆",
+      "meaningEn": "Diner serving set meals",
+      "level": "n5n4",
+      "exampleSentence": "この定食屋は安くておいしいです。",
+      "id": "84088dae-e02a-45e9-8f28-9e5123050522"
+    },
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaningZh": "深夜，很晚",
+      "meaningEn": "Late night",
+      "level": "n5n4",
+      "exampleSentence": "深夜まで勉強しました。",
+      "id": "48f8032e-fa6a-469c-aeb9-d9665185cf09"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "To gather",
+      "level": "n5n4",
+      "exampleSentence": "友達が集まってパーティーをしました。",
+      "id": "925c78e5-34bf-403a-ac2a-a2900e44d783"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "Menu",
+      "level": "n5n4",
+      "exampleSentence": "メニューを見て、何を食べようか決めました。",
+      "id": "b09c91ca-7d46-4bae-b047-5d0dd075ae48"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "日式炸鸡块",
+      "meaningEn": "Japanese fried chicken",
+      "level": "n5n4",
+      "exampleSentence": "唐揚げが一番好きです。",
+      "id": "586f5ff9-e165-4105-b977-50e77854fe17"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛，氛围",
+      "meaningEn": "Atmosphere, mood",
+      "level": "n3",
+      "exampleSentence": "このカフェは落ち着いた雰囲気です。",
+      "id": "1b1b5246-c582-4664-a352-6402af903d16"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精力，活力",
+      "meaningEn": "Energy, vitality",
+      "level": "n5n4",
+      "exampleSentence": "元気が出ました。",
+      "id": "2778571b-1aec-4bc9-ad78-b8b45d13d014"
+    },
+    {
+      "word": "安らぎ",
+      "reading": "やすらぎ",
+      "meaningZh": "安宁，平静",
+      "meaningEn": "Peace, tranquility",
+      "level": "n3",
+      "exampleSentence": "静かな場所で安らぎを感じました。",
+      "id": "3772398f-a51a-412b-b5b8-cd6ad20c3bd7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋は、どのような人がよく来ますか。",
+      "options": [
+        "子供たち",
+        "お年寄り",
+        "若者たち",
+        "観光客"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「たくさんの若者が集まる場所です」と書かれています。",
+      "id": "6a4b905e-197b-43dc-8621-d12ccf09f8b3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-01-29937ecdc3",
+  "publishedAt": "2026-08-01T06:00:00+09:00"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "深夜定食屋：年轻人的深夜食堂文化",
+  "summary": "都市の片隅にある深夜営業の定食屋は、若者たちが集まる特別な場所になっています。そこでは、温かい食事と共に、様々な人間模様が繰り広げられています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "仕事や勉強で遅くなった夜、街は静まり返っていますが、一部の定食屋はまだ明かりを灯しています。特に、若者たちの間で、こうした深夜営業の定食屋が「第二の我が家」のように人気を集めているのです。手頃な値段で温かい食事ができるだけでなく、店員さんや他のお客さんとのちょっとした会話も、一日の疲れを癒してくれるからです。",
+      "translationZh": "晚上，当工作或学习结束，街道变得寂静时，有些定食屋仍然亮着灯。特别是在年轻人中间，这样的深夜营业的定食屋正像“第二个家”一样受到欢迎。不仅能以实惠的价格吃到热腾腾的饭菜，还能和店员或其他的顾客进行一些小小的交谈，这能治愈一天疲惫的心灵。",
+      "translationEn": "Late at night, after work or study, the city is quiet, but some restaurants still have their lights on. Especially among young people, these late-night diners are becoming popular like a 'second home'. Not only can they get a warm meal at an affordable price, but the brief conversations with staff and other customers also help to soothe the fatigue of the day.",
+      "id": "178a6557-d5d5-42be-b48c-e746b31d21d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした定食屋には、様々な背景を持つ若者が集まります。深夜までアルバイトをしている学生、残業で遅くなった会社員、あるいは単に一人で静かに食事をしたい人など、その顔ぶれは多岐にわたります。店側も、そんな若者たちのニーズに応えようと、メニューを工夫したり、居心地の良い空間を作ったりしています。だから、お客さんは安心して、自分の時間を楽しむことができるのです。",
+      "translationZh": "这类定食屋聚集着各种背景的年轻人。有打零工到深夜的学生，有加班晚归的上班族，也有只是想一个人安静吃饭的人，来这里的客人形形色色。店家也为了满足这些年轻人的需求，精心设计菜单，营造舒适的空间。因此，顾客们可以安心地享受属于自己的时光。",
+      "translationEn": "Young people from various backgrounds gather at these diners. Students working part-time until late, office workers returning late from overtime, or those who simply want to dine alone in peace – the clientele is diverse. The restaurants, in turn, try to meet the needs of these young people by devising creative menus and creating a comfortable atmosphere. Because of this, customers can relax and enjoy their own time.",
+      "id": "e8fb60cf-2e89-4ccf-9b03-8737787cfb5f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜の定食屋は、単に食事をする場所というだけではありません。そこは、都会の喧騒から離れて、ほっと一息つける、地域コミュニティのような場所にもなっています。今日あった出来事を話したり、時には人生の悩みを打ち明けたりすることもあるでしょう。このような温かい交流があるからこそ、若者たちは深夜でも安心して、この店に足を運ぶのかもしれません。",
+      "translationZh": "深夜的定食屋不仅仅是吃饭的地方。那里也是一个远离城市喧嚣，可以让人稍作喘息的，类似社区的地方。人们会聊聊今天发生的事情，有时也会倾诉人生的烦恼。正是因为有这样温暖的交流，年轻人才会在深夜也安心地来到这家店。",
+      "translationEn": "Late-night diners are more than just places to eat. They have become like a community space, a place to take a breather away from the hustle and bustle of the city. People might share what happened today, or sometimes confide their life worries. Perhaps it is precisely because of such warm interactions that young people feel safe visiting these places even late at night.",
+      "id": "99910c4a-8ca3-474e-ba66-bca4cd6fff30",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "深夜営業",
+      "reading": "しんやえいぎょう",
+      "meaningZh": "深夜营业",
+      "meaningEn": "late-night business operations",
+      "level": "n3",
+      "exampleSentence": "このラーメン屋は深夜営業しているので、よく利用します。",
+      "id": "435d3116-2d73-4455-97e8-bde71e808e09"
+    },
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "定食屋，提供固定套餐的餐馆",
+      "meaningEn": "a restaurant serving set meals",
+      "level": "n3",
+      "exampleSentence": "今日のランチは、近所の定食屋で和風ハンバーグ定食を食べた。",
+      "id": "59b0af78-16bc-4b2b-a0c8-2505efba8f4b"
+    },
+    {
+      "word": "人気を集める",
+      "reading": "にんきをあつめる",
+      "meaningZh": "聚集人气，受欢迎",
+      "meaningEn": "to be popular, to attract popularity",
+      "level": "n3",
+      "exampleSentence": "新しいカフェは、そのおしゃれな内装で若者の人気を集めている。",
+      "id": "40b3f35c-e817-4cba-be9b-fb791abf38be"
+    },
+    {
+      "word": "手頃な",
+      "reading": "てごろな",
+      "meaningZh": "价格适中的，容易承受的",
+      "meaningEn": "affordable, reasonable",
+      "level": "n3",
+      "exampleSentence": "ここは手頃な価格で美味しい料理が食べられるので、学生に人気だ。",
+      "id": "f071f44e-9695-48a5-8019-380f5574c804"
+    },
+    {
+      "word": "癒す",
+      "reading": "いやす",
+      "meaningZh": "治愈，慰藉",
+      "meaningEn": "to heal, to soothe",
+      "level": "n3",
+      "exampleSentence": "美しい景色を見ていると、心が癒される。",
+      "id": "8e20bf0c-53bf-45d8-a568-5530a1adf36d"
+    },
+    {
+      "word": "多岐にわたる",
+      "reading": "たきにわたる",
+      "meaningZh": "形形色色的，多种多样的",
+      "meaningEn": "diverse, varied, wide-ranging",
+      "level": "n2n1",
+      "exampleSentence": "このイベントには、様々な年齢層や職業の人々が参加し、その顔ぶれは多岐にわたった。",
+      "id": "682f5354-e83e-4adf-b159-b3181a94c09c"
+    },
+    {
+      "word": "ニーズに応える",
+      "reading": "ニーズにこたえる",
+      "meaningZh": "满足需求",
+      "meaningEn": "to meet needs, to cater to needs",
+      "level": "n3",
+      "exampleSentence": "企業は顧客のニーズに応えるために、常に新しい商品開発を行っている。",
+      "id": "2e74e554-7c77-4bc3-8bcf-0c3399e415ba"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧嚣，嘈杂",
+      "meaningEn": "clamor, noise, bustle",
+      "level": "n2n1",
+      "exampleSentence": "都会の喧騒から離れて、静かな田舎で暮らしたい。",
+      "id": "7f370736-afdf-435d-a124-a6a7be62288b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜営業の定食屋が若者に人気を集めている理由は何ですか？",
+      "options": [
+        "料理がとても豪華だから",
+        "遅くまで開いていて、手頃な価格で食事ができ、店員や他のお客さんとの交流があるから",
+        "芸能人がよく来るから",
+        "静かで落ち着いた雰囲気だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「手頃な値段で温かい食事ができるだけでなく、店員さんや他のお客さんとのちょっとした会話も、一日の疲れを癒してくれるからです。」と書かれています。",
+      "id": "1d5441f8-2b3e-4c36-8625-9c6d41696138"
+    },
+    {
+      "question": "深夜の定食屋は、若者にとってどのような場所になっていますか？",
+      "options": [
+        "勉強や仕事をするための場所",
+        "最新の流行を知るための場所",
+        "都会の喧騒から離れて、ほっと一息つける地域コミュニティのような場所",
+        "お金を節約するための場所"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「そこは、都会の喧騒から離れて、ほっと一息つける、地域コミュニティのような場所にもなっています。」と書かれています。",
+      "id": "f7838283-6b47-4cb5-89c6-4c4efcc2caab"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-01-29937ecdc3",
+  "publishedAt": "2026-08-01T06:00:00+09:00"
+}

@@ -1,0 +1,105 @@
+{
+  "title": "アニメの新時代！",
+  "summary": "最近、インターネットでアニメがたくさん見られます。新しいアニメもたくさん作られています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、インターネットでアニメをたくさん見ることができます。これは「配信プラットフォーム」のおかげです。有名な会社がたくさん、新しいアニメを作っています。",
+      "translationZh": "最近，我们可以在互联网上看到很多动画。这要归功于“流媒体平台”。很多有名的公司正在制作新的动画。",
+      "translationEn": "Recently, we can watch many anime on the internet. This is thanks to \"streaming platforms\". Many famous companies are making new anime.",
+      "id": "fb083ccf-1d8e-4ba1-a65a-3c0ab560d461",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、テレビでアニメを見ることが多かったです。でも、今はいろいろなプラットフォームがあります。例えば、NetflixやAmazon Prime Videoです。これらのプラットフォームは、オリジナルのアニメを作っています。",
+      "translationZh": "以前，我们多在电视上看动画。但是，现在有很多平台。比如，Netflix 和 Amazon Prime Video。这些平台正在制作原创动画。",
+      "translationEn": "In the past, we often watched anime on TV. But now, there are various platforms. For example, Netflix and Amazon Prime Video. These platforms are making original anime.",
+      "id": "d28ee3b7-23e1-45c3-8540-af40bb94a41c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "オリジナルのアニメは、とても人気があります。世界中の人がそのアニメを見ます。だから、アニメを作る会社はもっと増えています。アニメは、これからももっと面白くなります。",
+      "translationZh": "原创动画非常受欢迎。全世界的人都会看这些动画。所以，制作动画的公司越来越多。动画以后也会变得更加有趣。",
+      "translationEn": "Original anime are very popular. People all over the world watch these anime. Therefore, the number of companies making anime is increasing. Anime will become even more interesting in the future.",
+      "id": "f4755595-6ed4-4682-a983-b80cff694752",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信",
+      "reading": "はいしん",
+      "meaningZh": "配信，传播",
+      "meaningEn": "distribution, streaming",
+      "level": "n5n4",
+      "exampleSentence": "インターネットで動画を配信します。",
+      "id": "b14940f5-af58-4802-8666-f3ea3be9926c"
+    },
+    {
+      "word": "プラットフォーム",
+      "reading": "ぷらっとふぉーむ",
+      "meaningZh": "平台",
+      "meaningEn": "platform",
+      "level": "n5n4",
+      "exampleSentence": "このプラットフォームは使いやすいです。",
+      "id": "a175eded-f2c7-4638-937f-5432de9565c6"
+    },
+    {
+      "word": "オリジナル",
+      "reading": "おりじなる",
+      "meaningZh": "原创",
+      "meaningEn": "original",
+      "level": "n5n4",
+      "exampleSentence": "これはオリジナルの物語です。",
+      "id": "01496a56-2248-4ab5-bf9f-3894461ac10b"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，崛起",
+      "meaningEn": "rise, emergence",
+      "level": "n3",
+      "exampleSentence": "新しい技術の台頭が見られます。",
+      "id": "c210f017-d031-45f4-8578-f98773385e10"
+    },
+    {
+      "word": "世界中",
+      "reading": "せかいじゅう",
+      "meaningZh": "全世界",
+      "meaningEn": "all over the world",
+      "level": "n5n4",
+      "exampleSentence": "世界中の人がこのニュースを知っています。",
+      "id": "60d681fa-10c2-4744-8389-905d78a29f71"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "increase",
+      "level": "n5n4",
+      "exampleSentence": "学生の数が少し増えました。",
+      "id": "bf57dee8-a206-4435-ae47-a2b105870804"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今、アニメはどこでたくさん見られますか？",
+      "options": [
+        "テレビ",
+        "インターネット",
+        "本",
+        "映画館"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最近、インターネットでアニメをたくさん見ることができます。」と書いてあります。",
+      "id": "6a34af0a-ee48-4648-9577-318c8596ccc1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-01-d3d7c33476",
+  "publishedAt": "2026-08-01T06:00:00+09:00"
+}
