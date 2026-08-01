@@ -1,0 +1,114 @@
+{
+  "title": "若手力士の人気",
+  "summary": "新しい力士がたくさん人気になっています。力士は、相撲の試合で勝つために頑張っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、新しい若い力士が注目されています。彼らは、相撲の番付でどんどん上に上がっています。ファンは、彼らの活躍をとても楽しみにしています。",
+      "translationZh": "最近，新的年轻力士受到了关注。他们正在相扑等级排名中不断上升。粉丝们非常期待他们的活跃表现。",
+      "translationEn": "Recently, new young sumo wrestlers have been gaining attention. They are climbing higher and higher in the sumo rankings. Fans are eagerly anticipating their success.",
+      "id": "3bd868ab-70f2-4c2a-8e89-a0e99de4091f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "力士は、毎日厳しい練習をしています。勝つために、体を強くして、技術を磨いています。番付が上がると、もっと強い相手と戦うことになります。",
+      "translationZh": "力士们每天都在刻苦训练。为了获胜，他们锻炼强壮的身体，磨练技术。排名上升后，他们将与更强的对手比赛。",
+      "translationEn": "Sumo wrestlers train strictly every day. To win, they strengthen their bodies and polish their skills. As their rank increases, they will fight stronger opponents.",
+      "id": "dc1f2f38-0e17-421b-9ca0-96cdb1701d62",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "若い力士が勝つと、たくさんの人が喜んで応援します。彼らの名前も、テレビやインターネットでよく見かけます。相撲は、これからも面白くなりそうです。",
+      "translationZh": "当年轻力士获胜时，很多人会高兴地为他们加油。他们的名字也经常在电视和互联网上看到。相扑今后看起来会很有趣。",
+      "translationEn": "When young sumo wrestlers win, many people rejoice and cheer for them. Their names are also often seen on TV and the internet. Sumo looks like it will continue to be interesting.",
+      "id": "3448af5b-4b97-451c-8685-fb83dda4e57f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若手",
+      "reading": "わかて",
+      "meaningZh": "年轻，新手",
+      "meaningEn": "young person, newcomer",
+      "level": "n5n4",
+      "exampleSentence": "この会社には若手の社員がたくさんいます。",
+      "id": "7a89ac9c-8ccf-4b31-af8a-436769e8770a"
+    },
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "相扑选手",
+      "meaningEn": "sumo wrestler",
+      "level": "n5n4",
+      "exampleSentence": "彼は強い力士になりたいです。",
+      "id": "56401533-6f49-4759-93eb-987f4d84e810"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）等级排名",
+      "meaningEn": "ranking (in sumo)",
+      "level": "n3",
+      "exampleSentence": "新しい番付が発表されました。",
+      "id": "692764db-e961-4b83-a1d1-2a299b0c46a7"
+    },
+    {
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaningZh": "晋升",
+      "meaningEn": "promotion",
+      "level": "n3",
+      "exampleSentence": "彼は部長に昇進しました。",
+      "id": "7b8995a4-8be1-4f69-8bca-8ac5f1c05ec7"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "5cc65527-90db-4966-b667-773fd079ace8"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "彼の演技に注目が集まりました。",
+      "id": "7d70b28c-8f38-44ae-abff-b8d7ee684161"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有功绩",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "選手たちの活躍を期待しています。",
+      "id": "794c4177-ce40-4c67-8394-dff3f29a7490"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい力士が人気になっているのはなぜですか？",
+      "options": [
+        "彼らはとても面白いからです。",
+        "彼らは番付で上に上がっているからです。",
+        "彼らは毎日練習しないからです。",
+        "彼らはテレビに出ないからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しい若い力士が注目されています。彼らは、相撲の番付でどんどん上に上がっています。",
+      "id": "5c93efc6-df44-40d5-82df-c5ecb482c116"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-02-00a5715c8f",
+  "publishedAt": "2026-08-02T06:00:00+09:00"
+}

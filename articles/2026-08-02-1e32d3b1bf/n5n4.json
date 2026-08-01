@@ -1,0 +1,122 @@
+{
+  "title": "新しい働き方",
+  "summary": "会社員が会社以外の仕事もできるようになった。これは働き方を変えます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、会社の外で仕事をする人が増えています。これは「副業」と言います。昔は、会社員は一つの会社でしか働けませんでした。でも、今は多くの会社で副業が許されるようになりました。",
+      "translationZh": "最近，在公司外面工作的人正在增加。这叫做“副业”。以前，公司职员只能在一家公司工作。但是，现在很多公司都允许副业了。",
+      "translationEn": "Recently, more people are working outside their companies. This is called 'fukugyo' (side job). In the past, employees could only work for one company. However, many companies now allow side jobs.",
+      "id": "bd7bdb89-e5d8-48f0-94ac-d115a983bfc2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業をすることで、新しい経験ができます。自分の好きなことや、興味のあることを仕事にすることもできます。お金を稼ぐことも大切ですが、新しいスキルを学ぶこともできます。",
+      "translationZh": "通过副业，可以获得新的经验。也可以将自己喜欢的事情或感兴趣的事情作为工作。赚钱很重要，但也可以学习新的技能。",
+      "translationEn": "By doing side jobs, you can gain new experiences. You can also make work out of things you like or are interested in. Earning money is important, but you can also learn new skills.",
+      "id": "757200eb-65c2-4474-9d28-21b5dbbff3b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業は、会社員にとって良い機会です。自分の可能性を広げることができます。しかし、本業（今の仕事）を大切にすることも忘れないでください。バランスが大事です。",
+      "translationZh": "副业对公司职员来说是个好机会。可以拓宽自己的可能性。但是，请不要忘记也要重视主业（现在的工作）。平衡很重要。",
+      "translationEn": "Side jobs are a good opportunity for employees. You can expand your possibilities. However, please don't forget to value your main job. Balance is important.",
+      "id": "7d8c6896-0bd2-4bc1-8441-599d5102d5e0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業が解禁されて、働き方が少しずつ変わってきました。これからの社会で、もっと多くの人が自由に働けるようになるでしょう。",
+      "translationZh": "副业解禁后，工作方式正在一点点地改变。在今后的社会中，将会有更多的人能够自由地工作。",
+      "translationEn": "With side jobs now allowed, working styles are gradually changing. In the future society, more people will likely be able to work freely.",
+      "id": "e34019b3-c5a5-4c1c-af30-e3d44326164c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业，兼职",
+      "meaningEn": "side job, second job",
+      "level": "n5n4",
+      "exampleSentence": "彼は週末に副業をしています。",
+      "id": "b90d1423-cca2-447d-b0b0-c27996d2d366"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解禁，解除禁令",
+      "meaningEn": "lifting of a ban, to open to the public",
+      "level": "n3",
+      "exampleSentence": "この公園は今日から解禁になります。",
+      "id": "b59c6be0-31ce-4a14-a946-bf1746c95176"
+    },
+    {
+      "word": "働き方",
+      "reading": "はたらきかた",
+      "meaningZh": "工作方式",
+      "meaningEn": "way of working, work style",
+      "level": "n5n4",
+      "exampleSentence": "新しい働き方を考えましょう。",
+      "id": "ceeeb957-3381-4a2b-844f-0e1eb2c5b9ec"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの経験をしました。",
+      "id": "bb77044c-ac0a-42ca-ba02-55b1a5a86624"
+    },
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "meaningZh": "可能，可能性",
+      "meaningEn": "possibility, potential",
+      "level": "n3",
+      "exampleSentence": "これは私にとって大きな可能だと思います。",
+      "id": "8b82d182-8f0f-41ad-b29e-31dc9cd5b9d6"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important, precious",
+      "level": "n5n4",
+      "exampleSentence": "家族は私にとって大切です。",
+      "id": "6ba3f4e1-08a0-4742-8b41-0261ca86d204"
+    },
+    {
+      "word": "バランス",
+      "reading": "ばらんす",
+      "meaningZh": "平衡",
+      "meaningEn": "balance",
+      "level": "n3",
+      "exampleSentence": "仕事と生活のバランスが大事です。",
+      "id": "429d8aaa-aca4-4a60-936a-526bd8d57aca"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔、会社員は何ができましたか。",
+      "options": [
+        "会社以外の仕事もできた。",
+        "一つの会社でしか働けなかった。",
+        "たくさんの会社で働けた。",
+        "自由に仕事を選べた。"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔は、会社員は一つの会社でしか働けませんでした。",
+      "id": "5c812fa5-1d0e-49de-a9c6-c2d3ef5bf3f8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-02-1e32d3b1bf",
+  "publishedAt": "2026-08-02T06:00:00+09:00"
+}

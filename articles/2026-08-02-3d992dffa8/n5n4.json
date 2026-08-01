@@ -1,0 +1,122 @@
+{
+  "title": "本屋さんの町で文学イベント",
+  "summary": "古い本屋さんがたくさんある町で、特別な文学イベントが開かれます。本が好きな人には楽しいイベントです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町には古い本屋さんがたくさんあります。だから、「古書店街」と呼ばれています。この週末、古書店街で文学イベントがあります。色々な人が町に集まります。",
+      "translationZh": "这个城镇有很多旧书店。因此，它被称为“旧书店街”。这个周末，旧书店街将举办文学活动。各种各样的人们将聚集到这个城镇。",
+      "translationEn": "This town has many old bookstores. Therefore, it is called \"Old Bookstore Street\". This weekend, there is a literary event in the Old Bookstore Street. Many different people will gather in the town.",
+      "id": "16d3d4ae-b282-44f7-8ed1-7bfd00d80646",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントでは、有名な作家さんの話を聞くことができます。また、昔の本を見ることもできます。本について、いろいろなことを学ぶことができます。本が好きな人には、とてもいい機会です。",
+      "translationZh": "在活动中，你可以听到著名作家讲座。此外，你还可以看到过去的旧书。你可以学到很多关于书的知识。对于喜欢书的人来说，这是一个非常好的机会。",
+      "translationEn": "At the event, you can listen to famous writers. Also, you can see old books from the past. You can learn many things about books. It is a very good opportunity for people who like books.",
+      "id": "c94c3b7c-4636-4550-990e-c5d1f868a2df",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "子供向けのイベントもあります。子供たちが絵本を読んでもらったり、絵を描いたりします。家族で楽しむことができます。このイベントは、町をさらに元気にします。",
+      "translationZh": "也有面向儿童的活动。孩子们可以听绘本故事，也可以画画。全家都可以享受。这个活动让城镇更加充满活力。",
+      "translationEn": "There are also events for children. Children can have picture books read to them or draw pictures. Families can enjoy it. This event makes the town even more lively.",
+      "id": "5d295e5d-1026-4936-968d-ab5d671a8766",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古書店街のイベントは、明日までです。もし時間があれば、ぜひ来てください。きっと楽しい時間を過ごせます。古い本と新しい発見がたくさんあります。",
+      "translationZh": "旧书店街的活动将持续到明天。如果你有时间，请一定要来。你一定会度过愉快的时光。这里有许多旧书和新的发现。",
+      "translationEn": "The event in the Old Bookstore Street lasts until tomorrow. If you have time, please come. You will surely have a good time. There are many old books and new discoveries.",
+      "id": "f6d36550-7b6e-46de-ac11-0c563fa76b29",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古書店",
+      "reading": "こしょてん",
+      "meaningZh": "旧书店",
+      "meaningEn": "used bookstore",
+      "level": "n5n4",
+      "exampleSentence": "この町には古書店がたくさんあります。",
+      "id": "74856423-7b81-42d3-a51c-edb2c66b0a9a"
+    },
+    {
+      "word": "街",
+      "reading": "まち",
+      "meaningZh": "街道，城镇",
+      "meaningEn": "town, street",
+      "level": "n5n4",
+      "exampleSentence": "古書店街はとてもにぎやかです。",
+      "id": "a3713112-de7e-4015-9fa4-49d5ab9de93f"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaningZh": "文学",
+      "meaningEn": "literature",
+      "level": "n5n4",
+      "exampleSentence": "文学イベントは面白いです。",
+      "id": "f793c5a4-fda2-4146-9175-e26860fedfbe"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaningZh": "作家",
+      "meaningEn": "writer, author",
+      "level": "n5n4",
+      "exampleSentence": "有名な作家の話を聞きました。",
+      "id": "09e758e5-5218-4a0b-a1ad-45b8c304e2fe"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n5n4",
+      "exampleSentence": "これはいい機会です。",
+      "id": "93b5619b-8486-430d-83f8-d28ebb4134d7"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaningZh": "孩子",
+      "meaningEn": "child",
+      "level": "n5n4",
+      "exampleSentence": "子供向けのイベントがあります。",
+      "id": "54592ae8-f629-43ff-9ca7-8e93f938ccb4"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n5n4",
+      "exampleSentence": "古い本の中に新しい発見がありました。",
+      "id": "2516b3d7-7b55-4955-85fc-f625550bf818"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このイベントで、どんなことができますか？",
+      "options": [
+        "有名な作家の話を聞くことと、昔の本を見ること。",
+        "新しい本を買うことだけ。",
+        "ゲームをすること。",
+        "映画を見ること。"
+      ],
+      "correctIndex": 0,
+      "explanation": "イベントでは、有名な作家さんの話を聞くことができます。また、昔の本を見ることもできます。",
+      "id": "47c3def6-8387-4eb9-aba5-6b917d1ef005"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-02-3d992dffa8",
+  "publishedAt": "2026-08-02T06:00:00+09:00"
+}

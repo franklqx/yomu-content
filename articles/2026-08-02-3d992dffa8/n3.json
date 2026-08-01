@@ -1,0 +1,144 @@
+{
+  "title": "古書店街の文学イベント：本と文化の祭典",
+  "summary": "この秋、古書店街で特別な文学イベントが開催されます。作家との交流や朗読会など、本好きにはたまらない企画が満載です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋も深まり、読書にぴったりの季節になりました。そんな中、昔ながらの古書店が立ち並ぶ街で、毎年恒例の文学イベントが開催されることになりました。このイベントは、地域に根差した文化活動として、多くの人々に親しまれています。",
+      "translationZh": "秋意渐浓，正是读书的好时节。此时，在遍布着老式旧书店的街道上，一年一度的文学活动即将举行。这项活动作为扎根于当地的文化活动，深受许多人的喜爱。",
+      "translationEn": "As autumn deepens, it's the perfect season for reading. Amidst this, an annual literary event is set to take place in a town lined with old bookstores. This event has become a beloved local cultural activity.",
+      "id": "54da5858-0374-4c10-ba76-d31bbbe50440",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントでは、人気の作家を招いたトークショーや、朗読会が企画されています。参加者は、普段なかなか聞けない作家の創作秘話に耳を傾けたり、お気に入りの作品をプロの朗読で楽しんだりすることができます。 bookstore（書店）の店主も、この日のために特別な本を並べるので、掘り出し物が見つかるかもしれません。",
+      "translationZh": "活动中，计划举办邀请人气作家进行的脱口秀以及朗读会。参加者可以听到平时难以听到的作家创作背后的故事，或者享受专业朗读带来的喜爱作品的乐趣。书店的老板们也会为这一天准备特别的书籍，或许能找到意想不到的宝藏。",
+      "translationEn": "The event features talk shows with popular authors and reading sessions. Attendees can listen to authors' secret stories about their creative process, which are rarely heard, or enjoy their favorite works through professional readings. Bookstore owners also prepare special books for this day, so you might find some hidden gems.",
+      "id": "befdf0a8-5065-4736-a70b-ceecd5a69f60",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、古書街を散策しながら、隠れ家のようなカフェで休憩することもできます。文学に囲まれながら、ゆったりとした時間を過ごすのは、何とも贅沢な体験でしょう。このイベントは、単に本を読むだけでなく、文化や人との繋がりを感じられる貴重な機会となります。",
+      "translationZh": "此外，漫步在旧书街，还可以在像藏身之处一样的咖啡馆休憩。在文学的氛围中度过悠闲的时光，真是一种奢侈的体验。这个活动不仅仅是读书，更是一个能感受到文化与人情联系的宝贵机会。",
+      "translationEn": "Furthermore, while strolling through the old bookstore district, you can also take a break at a cozy, hidden-like cafe. Spending a relaxing time surrounded by literature is truly a luxurious experience. This event is not just about reading books, but also a precious opportunity to feel culture and human connections.",
+      "id": "650c46ed-33a0-48c9-afc2-7c8ccb9d5c7c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイベントに参加すれば、きっと新しい発見があるはずです。本が好きな人も、そうでない人も、この機会に古書街を訪れてみてはいかがでしょうか。きっと、心に残る一日になることでしょう。",
+      "translationZh": "参加这项活动，一定会带来新的发现。无论是否喜欢读书，都不妨借此机会来旧书街逛逛。相信一定会成为难忘的一天。",
+      "translationEn": "By participating in this event, you are sure to make new discoveries. Whether you are a book lover or not, why not visit the old bookstore district on this occasion? It will surely be a memorable day.",
+      "id": "cf364621-47c6-4619-9841-d58c7246da56",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "深まり",
+      "reading": "ふかまり",
+      "meaningZh": "加深；加剧",
+      "meaningEn": "deepening; intensification",
+      "level": "n3",
+      "exampleSentence": "秋の気配が深まる。",
+      "id": "e569c8c7-fecd-4b51-99e5-0e965fb9776a"
+    },
+    {
+      "word": "毎年恒例",
+      "reading": "まいねんこうれい",
+      "meaningZh": "每年例行（的）",
+      "meaningEn": "annual; customary every year",
+      "level": "n3",
+      "exampleSentence": "毎年恒例の祭りが行われた。",
+      "id": "dff473bf-99cd-4529-901d-d62e829dd810"
+    },
+    {
+      "word": "親しまれています",
+      "reading": "したしまれています",
+      "meaningZh": "被喜爱；被亲近",
+      "meaningEn": "is popular; is beloved",
+      "level": "n3",
+      "exampleSentence": "その歌手は多くの人に親しまれている。",
+      "id": "a6b05d56-dedf-44b3-90b9-2e0313a68c60"
+    },
+    {
+      "word": "招いた",
+      "reading": "まねいた",
+      "meaningZh": "邀请（过去式）",
+      "meaningEn": "invited",
+      "level": "n3",
+      "example        ": "有名な先生を招いた講演会。",
+      "id": "24337711-cd45-4ec8-9c19-d89b15725618",
+      "exampleSentence": null
+    },
+    {
+      "word": "創作秘話",
+      "reading": "そうさくひわ",
+      "meaningZh": "创作的秘密故事",
+      "meaningEn": "secret stories behind creation",
+      "level": "n3",
+      "exampleSentence": "作家の創作秘話が聞けた。",
+      "id": "030de43e-2cb5-4cb7-be5d-8a32d659f97b"
+    },
+    {
+      "word": "掘り出し物",
+      "reading": "ほりだしもの",
+      "meaningZh": "意外的发现；珍品",
+      "meaningEn": "a find; a bargain; a treasure",
+      "level": "n3",
+      "exampleSentence": "古い家具の中に掘り出し物があった。",
+      "id": "0d706252-a828-449f-9adb-516af35720c2"
+    },
+    {
+      "word": "隠れ家",
+      "reading": "かくれが",
+      "meaningZh": "藏身之处；隐蔽处",
+      "meaningEn": "hideout; retreat; cozy place",
+      "level": "n3",
+      "exampleSentence": "街の片隅に隠れ家のようなカフェを見つけた。",
+      "id": "66ee5831-3420-4dca-8785-42f4c2d714d2"
+    },
+    {
+      "word": "贅沢",
+      "reading": "ぜいたく",
+      "meaningZh": "奢侈；浪费",
+      "meaningEn": "luxury; extravagance",
+      "level": "n3",
+      "exampleSentence": "たまには贅沢な食事もいい。",
+      "id": "b08aab3d-e586-40e4-ab69-028ec3f6457b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文学イベントでは、どのような企画が予定されていますか。",
+      "options": [
+        "有名な作家のサイン会とサイン本販売",
+        "作家との交流や朗読会",
+        "文学作品の映画化の発表会",
+        "最新の文学賞の授賞式"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「人気の作家を招いたトークショーや、朗読会が企画されています。」とあります。",
+      "id": "fc40242e-311b-429c-8f9c-10e0a38dd6d9"
+    },
+    {
+      "question": "イベントに参加すると、どのような体験が期待できますか。",
+      "options": [
+        "最新のベストセラーを安く購入できる",
+        "作家の創作秘話を聞いたり、朗読を楽しんだりできる",
+        "文学だけでなく、最新のファッションにも触れられる",
+        "古書街の歴史について深く学べる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「普段なかなか聞けない作家の創作秘話に耳を傾けたり、お気に入りの作品をプロの朗読で楽しんだりすることができます。」と述べられています。",
+      "id": "b5dfbd61-34f3-4b70-ad99-dc605d960d24"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-02-3d992dffa8",
+  "publishedAt": "2026-08-02T06:00:00+09:00"
+}
