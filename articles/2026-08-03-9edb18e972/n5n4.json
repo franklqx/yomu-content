@@ -1,0 +1,122 @@
+{
+  "title": "お年寄りに食事を届けます",
+  "summary": "最近、一人暮らしのお年寄りが増えています。そのために、食事を届けるサービスが人気です。このサービスは、お年寄りの生活を助けます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、一人で住んでいるお年寄りが多くなりました。外に出るのがむずかしい人もいます。そのため、家まで食事を届けるサービスが広まっています。このサービスは、とても便利です。",
+      "translationZh": "在日本，独自居住的老年人变多了。有些人出门有困难。因此，将食物送到家里的服务正在普及。这项服务非常方便。",
+      "translationEn": "In Japan, there are many elderly people living alone. Some people find it difficult to go out. Therefore, services that deliver meals to their homes are spreading. This service is very convenient.",
+      "id": "2f0a4e82-c8da-4438-8c6b-46be7f11f76a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスでは、栄養のあるおいしい食事が毎日届けられます。自分で料理ができない人や、買い物に行けない人にとって、ありがたいです。家族も安心できます。",
+      "translationZh": "这项服务每天都会提供有营养又美味的餐点。对于不能自己做饭或不能去购物的人来说，这很感激。家人也能安心。",
+      "translationEn": "With this service, nutritious and delicious meals are delivered daily. It is appreciated by people who cannot cook for themselves or go shopping. Families can also feel at ease.",
+      "id": "ede1a432-42e5-4a20-811b-120b82a604de",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "サービスを利用する人は、毎日決まった時間に食事を受け取ります。配達する人は、元気かどうかも確認します。もし、元気がないように見えたら、家族に連絡します。これは大切なことです。",
+      "translationZh": "使用这项服务的人会在每天固定的时间收到餐点。配送员还会确认他们是否安好。如果看起来没精神，会联系家人。这是很重要的事情。",
+      "translationEn": "People using the service receive meals at a fixed time every day. The delivery person also checks if they are well. If they seem unwell, they contact the family. This is important.",
+      "id": "817fb816-ff61-483d-a56f-954b2321986b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この食事の宅配サービスは、これからももっと必要になるでしょう。社会全体で、お年寄りを支えることが大切です。このサービスは、その一つです。",
+      "translationZh": "这种送餐服务今后会变得更加必要。整个社会支持老年人很重要。这项服务就是其中之一。",
+      "translationEn": "This meal delivery service will likely become more necessary in the future. It is important for society as a whole to support the elderly. This service is one way to do that.",
+      "id": "e1998aad-b8a8-4b24-be05-230554588260",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お年寄り",
+      "reading": "おとしより",
+      "meaningZh": "老人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "この町には、お年寄りがたくさん住んでいます。",
+      "id": "d2d62d32-a2ab-47c6-ba19-78f82751cece"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "宅配服务",
+      "meaningEn": "delivery service",
+      "level": "n5n4",
+      "exampleSentence": "食料品の宅配サービスを利用しています。",
+      "id": "7c9b2f62-2d2c-4c2e-a89d-215063d12598"
+    },
+    {
+      "word": "一人暮らし",
+      "reading": "ひとりぐらし",
+      "meaningZh": "独居，独自生活",
+      "meaningEn": "living alone",
+      "level": "n5n4",
+      "exampleSentence": "彼は一人暮らしが長いです。",
+      "id": "b5c69dab-799b-49e3-8442-e793b53e0704"
+    },
+    {
+      "word": "栄養",
+      "reading": "えいよう",
+      "meaningZh": "营养",
+      "meaningEn": "nutrition",
+      "level": "n5n4",
+      "exampleSentence": "バランスの取れた栄養が必要です。",
+      "id": "eb7b1745-10ad-436a-ba47-f11a0470b5d4"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この駅はとても便利です。",
+      "id": "09d86fb4-b20c-42cc-bb3f-47ec4dbb67cf"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "合格して、やっと安心しました。",
+      "id": "bdb5effd-4d40-46da-b268-6508fe35e4f4"
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "meaningZh": "确认",
+      "meaningEn": "confirmation",
+      "level": "n5n4",
+      "exampleSentence": "予約時間を確認してください。",
+      "id": "2110294c-4ffd-4cca-9daa-6db246a917e1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "食事の宅配サービスは、どんな人に役立ちますか。",
+      "options": [
+        "料理が好きな人",
+        "一人暮らしのお年寄り",
+        "いつも忙しい学生",
+        "毎日運動する人"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「一人で住んでいるお年寄りが多くなりました」「家まで食事を届けるサービスが広まっています」と書いてあります。",
+      "id": "e1fe6382-d271-499a-a578-d38443b36d84"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-03-9edb18e972",
+  "publishedAt": "2026-08-03T06:00:00+09:00"
+}

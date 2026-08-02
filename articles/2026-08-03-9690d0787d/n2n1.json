@@ -1,0 +1,138 @@
+{
+  "title": "伝統と革新の融合：現代アート×伝統工芸展、新たな美の創造",
+  "summary": "現代アートと伝統工芸が交差する注目の展覧会が開催。異分野の作家らが技法や素材を融合させ、時代を超えた新たな美の形を提示している。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、異分野間のコラボレーションが注目を集める中、現代アートと日本の伝統工芸が融合した展覧会が開催されている。本展では、国内外で活躍する現代アーティストたちが、陶芸、染織、漆芸といった伝統的な技法に新たな視点を取り入れ、革新的な作品を発表。伝統工芸の持つ奥深い歴史と現代アートの持つ自由な発想が響き合い、観る者に新鮮な驚きと感動を与えているとのことだ。",
+      "translationZh": "近年来，跨领域合作备受瞩目，一场融合了现代艺术与日本传统工艺的展览正在举行。本次展览中，活跃于国内外的一众现代艺术家们，将陶艺、染织、漆艺等传统技法融入新的视角，展出了富有创新精神的作品。据了解，传统工艺所蕴含的深厚历史与现代艺术所拥有的自由创意相互碰撞，为观者带来了新鲜的惊喜与感动。",
+      "translationEn": "In recent years, collaborations between different fields have been gaining attention, and an exhibition merging contemporary art with Japanese traditional crafts has opened. In this exhibition, contemporary artists active both domestically and internationally are presenting innovative works by incorporating new perspectives into traditional techniques such as pottery, dyeing and weaving, and lacquerware. It is reported that the profound history of traditional crafts and the free ideas of contemporary art resonate with each other, offering viewers fresh surprise and emotion.",
+      "id": "1e869107-8234-404d-9b88-53cdd53a31c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある作家は、長年培われてきた陶芸の釉薬（ゆうやく）技術を応用しつつ、デジタル技術を駆使した造形手法を取り入れている。その結果、伝統的な温かみと近未来的なデザインが共存する、これまでにない器が生み出された。また、別のブースでは、伝統的な染織の技法を用いて、抽象的な現代絵画のようなテキスタイル作品が展示されており、素材の質感と色彩のコントラストが印象的であると評判だ。",
+      "translationZh": "例如，某位作家在长期积累的陶艺釉药技术应用的同时，也采用了运用数字技术创作的造型手法。其结果是，诞生了兼具传统韵味与未来感设计的、前所未有的器皿。此外，在另一个展位上，则使用传统的染织技法，展示了如同抽象现代绘画般的纺织品作品，据评价，素材的质感与色彩的对比令人印象深刻。",
+      "translationEn": "For example, one artist, while applying long-cultivated glazing techniques in pottery, has also incorporated modeling methods that make extensive use of digital technology. The result is the creation of unprecedented vessels where traditional warmth and futuristic design coexist. Furthermore, in another booth, textile works resembling abstract contemporary paintings are displayed using traditional dyeing and weaving techniques, and are favorably noted for the striking contrast between the texture of the materials and the colors.",
+      "id": "7b01e5d7-00bb-4328-8b75-91b1c30ce200",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "本展の企画者は、「伝統工芸は、単に過去の遺産ではなく、現代においても進化しうる豊かな表現媒体である」と語る。今回のコラボレーションは、若い世代の工芸作家らの新たな挑戦を促すとともに、伝統技術の継承と発展に新たな光を当てるものと見られている。来場者からは、「普段触れる機会のない工芸品に、現代アートの視点から触れられて新鮮だった」「伝統技術の奥深さを再認識した」といった声が聞かれ、文化の継承と革新が両立する可能性を示唆している。",
+      "translationZh": "本次展览的策划者表示：“传统工艺不仅仅是过去的遗产，也是在现代仍能不断发展的丰富表现媒介。”此次合作被认为，不仅能激发年轻一代工艺作家们的新挑战，也为传统技术的传承与发展带来了新的启示。参观者们纷纷表示：“能从现代艺术的视角接触到平时没有机会接触到的工艺品，感觉很新鲜”、“再次认识到了传统技术的深奥”。这暗示了文化传承与革新并存的可能性。",
+      "translationEn": "The organizer of this exhibition states, 'Traditional crafts are not merely relics of the past, but rich expressive mediums that can evolve even in the present day.' This collaboration is seen as encouraging new challenges for young craft artists and shedding new light on the inheritance and development of traditional techniques. Visitors have commented, 'It was refreshing to experience craft items, which I don't usually have a chance to encounter, from the perspective of contemporary art,' and 'I was reminded of the depth of traditional techniques,' suggesting the possibility of achieving both cultural inheritance and innovation.",
+      "id": "40957314-ab41-4761-96f0-7ff2ee22b3af",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "融合",
+      "reading": "ゆうごう",
+      "meaningZh": "融合，结合",
+      "meaningEn": "fusion, merging",
+      "level": "n2n1",
+      "exampleSentence": "文化の融合は新しい価値観を生み出す。",
+      "id": "ce1e679d-83af-4f4a-9e35-9b63d68c3a22"
+    },
+    {
+      "word": "伝統工芸",
+      "reading": "でんとうこうげい",
+      "meaningZh": "传统工艺",
+      "meaningEn": "traditional crafts",
+      "level": "n3",
+      "exampleSentence": "日本の伝統工芸品は海外でも人気が高い。",
+      "id": "abc7bb44-d192-4610-b89d-4d9b6d73caa1"
+    },
+    {
+      "word": "革新",
+      "reading": "かくしん",
+      "meaningZh": "革新，创新",
+      "meaningEn": "innovation, reform",
+      "level": "n2n1",
+      "exampleSentence": "技術革新が産業の発展を牽引する。",
+      "id": "8a7633d3-d675-46d3-bcc8-354096b44ca1"
+    },
+    {
+      "word": "釉薬",
+      "reading": "ゆうやく",
+      "meaningZh": "釉药（陶瓷表面的光滑涂层）",
+      "meaningEn": "glaze (a smooth coating on ceramics)",
+      "level": "n2n1",
+      "exampleSentence": "この陶器の独特な釉薬の色合いが美しい。",
+      "id": "953e258b-d265-4d7e-bef3-24660407ff5f"
+    },
+    {
+      "word": "駆使",
+      "reading": "くし",
+      "meaningZh": "充分利用，运用自如",
+      "meaningEn": "to make full use of, to wield",
+      "level": "n2n1",
+      "exampleSentence": "彼は語学力を駆使して国際会議で活躍した。",
+      "id": "6a0792cf-9d2d-4e18-8130-45de4609bab2"
+    },
+    {
+      "word": "共存",
+      "reading": "きょうぞん",
+      "meaningZh": "共存",
+      "meaningEn": "coexistence",
+      "level": "n2n1",
+      "exampleSentence": "自然と人間社会の共存を目指す。",
+      "id": "68d13c1e-c78a-49e7-b9ef-76b5cb65f906"
+    },
+    {
+      "word": "継承",
+      "reading": "けいしょう",
+      "meaningZh": "继承，传承",
+      "meaningEn": "inheritance, succession",
+      "level": "n2n1",
+      "exampleSentence": "家業の継承は長男の義務だと考えられていた。",
+      "id": "7a7bf34d-b1a8-4412-9f5c-f3c8b5b54581"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この展覧会で現代アートと伝統工芸がどのように組み合わされているか。",
+      "options": [
+        "伝統工芸の作家が現代アートの技法を学んでいる。",
+        "現代アーティストが伝統工芸の素材や技法に新たな視点を取り入れている。",
+        "両者は互いに干渉せず、別々の展示スペースで紹介されている。",
+        "伝統工芸品を現代アートの文脈で販売している。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「現代アーティストたちが、陶芸、染織、漆芸といった伝統的な技法に新たな視点を取り入れ、革新的な作品を発表」とある。",
+      "id": "1edf9b98-3998-45c7-8bb1-2e45c07cc6bd"
+    },
+    {
+      "question": "展覧会の企画者は、伝統工芸についてどのように述べているか。",
+      "options": [
+        "伝統工芸は過去の遺物であり、現代では価値がない。",
+        "伝統工芸は現代においても進化しうる、豊かな表現媒体である。",
+        "伝統工芸は現代アートに吸収されるべきである。",
+        "伝統工芸は今後、発展の余地がない分野である。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第三段に「伝統工芸は、単に過去の遺産ではなく、現代においても進化しうる豊かな表現媒体である」と企画者の言葉が引用されている。",
+      "id": "88c81bac-4b4e-45f1-a5cf-a6bcd5d5c98c"
+    },
+    {
+      "question": "このコラボレーション展がもたらす効果として、本文では何が挙げられているか。",
+      "options": [
+        "伝統工芸の衰退を加速させる。",
+        "現代アートの市場価値を低下させる。",
+        "若い世代の工芸作家の挑戦を促し、伝統技術の継承と発展に貢献する。",
+        "伝統工芸と現代アートの間の交流を完全に断絶させる。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「今回のコラボレーションは、若い世代の工芸作家らの新たな挑戦を促すとともに、伝統技術の継承と発展に新たな光を当てるものと見られている」と記載されている。",
+      "id": "2c37bac3-5fff-4446-910f-f4ea27b49533"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-03-9690d0787d",
+  "publishedAt": "2026-08-03T06:00:00+09:00"
+}

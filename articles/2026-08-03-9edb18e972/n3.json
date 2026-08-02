@@ -1,0 +1,126 @@
+{
+  "title": "高齢者向け宅配サービス、ますます便利に！",
+  "summary": "高齢者が自宅で安心して暮らせるよう、食事や日用品の宅配サービスが広がっています。このサービスは、高齢者の生活を支える重要な役割を果たしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、高齢者だけが住んでいる家庭が増えています。そのため、食事の準備や買い物に行くことが難しくなった高齢者を支援する、宅配サービスの需要が高まっています。このサービスは、栄養バランスの取れた食事を毎日届けるだけでなく、買い物代行や安否確認なども行っています。",
+      "translationZh": "近年来，只有老年人居住的家庭正在增多。因此，能够支援那些准备餐食或出门购物变得困难的老年人的宅配服务的需求正在提高。这项服务不仅每天配送营养均衡的餐食，还提供代购和确认安全状况等服务。",
+      "translationEn": "In recent years, there has been an increase in households where only elderly people live. Therefore, the demand for delivery services that support elderly people who find it difficult to prepare meals or go shopping is growing. This service not only delivers nutritionally balanced meals daily but also offers services like shopping assistance and welfare checks.",
+      "id": "8e1bb00a-e1e0-40a8-9381-38e89cf933df",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "宅配サービスが拡大したことで、高齢者は自宅にいながら必要なものが手に入りやすくなりました。例えば、外出が困難な方でも、温かい食事や日用品を届けてもらえるため、生活の質が向上します。また、配達員が毎日のように訪れることで、地域社会とのつながりを保ち、孤立を防ぐ効果も期待されています。",
+      "translationZh": "随着宅配服务的扩大，老年人在家也能更容易地获得所需物品。例如，即使是行动不便的人，也能收到热腾腾的餐食和日用品，从而提高了生活质量。此外，由于配送员几乎每天都会来访，人们也期待它能帮助老年人保持与社区的联系，防止孤立。",
+      "translationEn": "With the expansion of delivery services, it has become easier for the elderly to obtain necessary items while staying at home. For instance, even those with mobility issues can receive warm meals and daily necessities, leading to an improved quality of life. Furthermore, as delivery personnel visit almost daily, it is expected to help maintain connections with the community and prevent isolation.",
+      "id": "0a8671e7-60b9-459c-90e0-9b23d0b0ade4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、サービスが増えるにつれて、料金や内容の比較が難しくなるという声も聞かれます。利用する側としては、自分の状況や希望に合ったサービスを、よく調べて選ぶことが大切です。また、事業者側も、より多くの高齢者が安心して利用できるよう、サービスの透明性を高め、地域との連携を深める努力が求められています。",
+      "translationZh": "然而，也有声音表示，随着服务的增加，比较价格和内容变得更加困难。对于使用者来说，仔细研究并选择符合自己情况和期望的服务非常重要。同时，服务提供方也需要努力提高服务的透明度，深化与社区的合作，以便更多的老年人能够安心使用。",
+      "translationEn": "However, as the number of services increases, some express that comparing prices and contents becomes more difficult. For users, it is important to research thoroughly and choose a service that matches their situation and preferences. Meanwhile, service providers are also urged to enhance service transparency and deepen community collaboration so that more elderly individuals can use them with peace of mind.",
+      "id": "0f325220-0cbc-48f5-bb5b-b662d3e62afa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "送货上门的服务",
+      "meaningEn": "Delivery service",
+      "level": "n3",
+      "exampleSentence": "高齢者向けに、食材の宅配サービスが人気です。",
+      "id": "f229370b-5f5e-423a-98ce-6335a29819ee"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaningZh": "需求",
+      "meaningEn": "Demand",
+      "level": "n3",
+      "exampleSentence": "この地域では、新しいバス路線の需要が高まっています。",
+      "id": "148ae8b9-4bd0-48f1-9c90-0c0a6f2bb9f2"
+    },
+    {
+      "word": "栄養バランス",
+      "reading": "えいようバランス",
+      "meaningZh": "营养均衡",
+      "meaningEn": "Nutritional balance",
+      "level": "n3",
+      "exampleSentence": "健康のために、栄養バランスの取れた食事を心がけましょう。",
+      "id": "f5267da9-1de5-4d0f-9f15-0f1eee470d36"
+    },
+    {
+      "word": "安否確認",
+      "reading": "あんぴかくにん",
+      "meaningZh": "安全确认，确认某人是否平安",
+      "meaningEn": "Welfare check, confirmation of safety",
+      "level": "n3",
+      "exampleSentence": "離れて住む親の安否確認を、定期的に行っています。",
+      "id": "fb2f9a6d-d7ad-467c-8289-9b1ced3ae82f"
+    },
+    {
+      "word": "質",
+      "reading": "しつ",
+      "meaningZh": "质量，品质",
+      "meaningEn": "Quality",
+      "level": "n3",
+      "exampleSentence": "この製品は質が高いので、値段も少し高いです。",
+      "id": "2255b7d1-9b90-488d-9a8f-6d631307c178"
+    },
+    {
+      "word": "孤立",
+      "reading": "こりつ",
+      "meaningZh": "孤立，孤独",
+      "meaningEn": "Isolation",
+      "level": "n3",
+      "exampleSentence": "高齢者の孤立を防ぐための地域活動が活発になっています。",
+      "id": "0f3ef7eb-6f77-49c7-b678-7713262ba9b9"
+    },
+    {
+      "word": "透明性",
+      "reading": "とうめいせい",
+      "meaningZh": "透明度",
+      "meaningEn": "Transparency",
+      "level": "n2n1",
+      "exampleSentence": "会社の経営における透明性は、信頼を得るために不可欠です。",
+      "id": "02a452c7-2c15-4744-9905-2d233d3053f7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "宅配サービスが広がっている主な理由は何ですか？",
+      "options": [
+        "サービスが安くなったから",
+        "高齢者が自宅で安心して暮らせるようにするため",
+        "配達員が少ないから",
+        "新しい技術が開発されたから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第一段落には「高齢者だけが住んでいる家庭が増えています。そのため、食事の準備や買い物に行くことが難しくなった高齢者を支援する、宅配サービスの需要が高まっています。」と書かれています。",
+      "id": "c0fc415a-7e77-4621-aa8b-bebbf6f34676"
+    },
+    {
+      "question": "宅配サービスがもたらす良い点として、本文で述べられていないものはどれですか？",
+      "options": [
+        "生活の質が向上する",
+        "地域社会とのつながりを保てる",
+        "新しい友達ができる",
+        "孤立を防ぐ効果が期待される"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、生活の質向上、地域社会とのつながり、孤立防止について触れていますが、「新しい友達ができる」という点については言及されていません。",
+      "id": "d15f88d7-9699-4f86-915e-7b6d140a12b0"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-03-9edb18e972",
+  "publishedAt": "2026-08-03T06:00:00+09:00"
+}

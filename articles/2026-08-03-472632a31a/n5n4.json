@@ -1,0 +1,131 @@
+{
+  "title": "注目のプロ野球選手",
+  "summary": "新しいプロ野球シーズンが始まります。今年はどんな選手が活躍するでしょうか。注目の選手をいくつか紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンがもうすぐ始まります。たくさんのファンが楽しみにしています。今年は新しいスター選手が出てくるかもしれません。ベテラン選手も頑張っています。みんなで応援しましょう。",
+      "translationZh": "职业棒球的新赛季很快就要开始了。很多球迷都在期待。今年可能会出现新的明星选手。老将们也在努力。大家一起加油吧。",
+      "translationEn": "The new professional baseball season is about to begin. Many fans are looking forward to it. New star players may emerge this year. Veteran players are also working hard. Let's all cheer for them.",
+      "id": "c2211491-6108-4345-9d2d-822959e3a029",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目したい選手がいます。若い選手ですが、去年からとても上手になりました。彼のヒットはいつもすごいです。ホームランをたくさん打ってほしいです。ファンは彼のプレーを見るのが好きです。",
+      "translationZh": "有几位特别值得关注的选手。虽然是年轻选手，但从去年开始变得非常厉害。他的安打总是很精彩。希望能打出很多本垒打。粉丝们喜欢看他的比赛。",
+      "translationEn": "There are some players we especially want to watch. Although he is a young player, he has become very good since last year. His hits are always amazing. We hope he hits many home runs. Fans like to watch his plays.",
+      "id": "d5dd6737-8ab6-430b-8819-61cd268e7d9a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ベテランのピッチャーもいます。彼は経験がたくさんあります。去年のシーズンは少し大変でした。でも、彼はまた頑張っています。彼の投げ方はとてもきれいです。チームのために勝ってほしいです。",
+      "translationZh": "也有经验丰富的投手。他有很多经验。去年的赛季有点辛苦。但是，他又在努力了。他的投球姿势非常漂亮。希望能为队伍获胜。",
+      "translationEn": "There is also a veteran pitcher. He has a lot of experience. Last season was a bit tough for him. But he is trying hard again. His pitching form is very beautiful. We hope he wins for the team.",
+      "id": "72b4b374-e069-4e4d-9997-f151e9a78477",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいシーズンはどんなドラマがあるか楽しみです。どのチームが優勝するか、誰が一番活躍するか、予想するのは面白いです。皆さんも好きな選手を見つけて、応援してください。",
+      "translationZh": "我很期待新赛季会有怎样的故事。预测哪支队伍会夺冠，谁会表现最活跃，都很有趣。大家也请找到自己喜欢的选手，为他们加油。",
+      "translationEn": "We look forward to seeing what kind of drama the new season will bring. It's fun to guess which team will win and who will be the most active player. Please find your favorite players and cheer for them.",
+      "id": "1df7e936-f3ea-40bf-b375-d3571e63b5b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "あの選手はとても速いです。",
+      "id": "e5086413-8c4f-4551-ab43-f3aa5447b45f"
+    },
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいシーズンが始まります。",
+      "id": "c6bd86a7-f26a-4fba-afab-395f74d0542f"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention",
+      "level": "n5n4",
+      "exampleSentence": "この試合に注目してください。",
+      "id": "c17d0985-3086-4b3f-a663-469edf357892"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长，高明",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼は歌が上手です。",
+      "id": "2d27736e-96db-405a-8436-aebf590bafae"
+    },
+    {
+      "word": "ホームラン",
+      "reading": "ほーむらん",
+      "meaningZh": "本垒打",
+      "meaningEn": "home run",
+      "level": "n5n4",
+      "exampleSentence": "ホームランが出ました！",
+      "id": "657352a2-5ebe-4399-ad3a-1a571c85ea14"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将，资深人士",
+      "meaningEn": "veteran",
+      "level": "n5n4",
+      "exampleSentence": "ベテランの選手がチームを引っ張ります。",
+      "id": "b0072a37-2efb-45d3-b91d-afb1da4c2493"
+    },
+    {
+      "word": "ピッチャー",
+      "reading": "ぴっちゃー",
+      "meaningZh": "投手",
+      "meaningEn": "pitcher",
+      "level": "n5n4",
+      "exampleSentence": "ピッチャーがボールを投げました。",
+      "id": "b2e2cba2-40f7-432c-b4c5-049ac45e141d"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "championship, victory",
+      "level": "n5n4",
+      "exampleSentence": "今年の優勝はどのチームでしょう。",
+      "id": "f7a0de00-bd2c-4cd5-b2ca-b17f50285975"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、注目されている若い選手について、どのようなことが書かれていますか？",
+      "options": [
+        "去年からとても上手になったこと",
+        "ホームランをたくさん打ったこと",
+        "ベテランのピッチャーであること",
+        "チームを優勝させたこと"
+      ],
+      "correctIndex": 0,
+      "explanation": "「若い選手ですが、去年からとても上手になりました。」と書かれています。",
+      "id": "5728fa0a-f682-4bdb-b2bd-2402ca8534f5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-03-472632a31a",
+  "publishedAt": "2026-08-03T06:00:00+09:00"
+}
