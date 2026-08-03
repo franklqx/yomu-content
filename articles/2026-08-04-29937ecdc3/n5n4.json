@@ -1,0 +1,131 @@
+{
+  "title": "夜食の魅力：若者が集まる店",
+  "summary": "夜遅くまで開いている定食屋は、若者にとって特別な場所です。おいしい食べ物と楽しい時間があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夜遅くまで開いている定食屋があります。ここは、たくさんの若者が集まる場所です。仕事が終わった人や、学校が終わった人が来ます。みんなで、おいしいご飯を食べます。",
+      "translationZh": "有开到很晚的定食屋。这里是很多年轻人聚集的地方。工作结束的人、学校放学的人都会来。大家一起吃美味的饭。",
+      "translationEn": "There are casual restaurants that are open late at night. This is a place where many young people gather. People who finished work or school come here. Everyone eats delicious food together.",
+      "id": "2607346e-a5d6-4425-9203-9111861061ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食屋のメニューは、いろいろな料理があります。生姜焼き、唐揚げ、焼き魚など、人気があります。ご飯とお味噌汁も、とてもおいしいです。一人でも、友達とも、楽しく食べられます。",
+      "translationZh": "定食屋的菜单有各种各样的料理。姜汁烧肉、炸鸡块、烤鱼等很受欢迎。米饭和味噌汤也非常美味。一个人或和朋友一起，都能开心地用餐。",
+      "translationEn": "The restaurant menus have various dishes. Ginger pork stir-fry, fried chicken, and grilled fish are popular. The rice and miso soup are also very delicious. You can enjoy eating alone or with friends.",
+      "id": "69a6996c-efdb-4536-a063-e7a4ba39472a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋は、ただご飯を食べるだけではありません。若者たちは、ここで友達と話したり、笑ったりします。一日の疲れを忘れて、リラックスできる時間です。だから、この店は若者に人気があります。",
+      "translationZh": "这家定食屋不仅仅是吃饭的地方。年轻人们在这里和朋友聊天、欢笑。这是能忘记一天疲惫、放松的时间。因此，这家店很受年轻人欢迎。",
+      "translationEn": "These restaurants are not just places to eat. Young people talk and laugh with their friends here. It's a time to forget the day's fatigue and relax. That's why these places are popular with young people.",
+      "id": "a2f2edd5-97d9-4cf3-8b42-977e2909efb5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜遅くに温かいご飯を食べると、心が落ち着きます。明日も頑張ろう、という気持ちになります。この定食屋は、若者たちの元気の源になっているのかもしれません。",
+      "translationZh": "深夜吃上一顿热腾腾的饭，心灵会平静下来。会让人有“明天也要加油”的心情。这家定食屋，也许正成为年轻人们活力的源泉。",
+      "translationEn": "Eating a warm meal late at night calms the heart. It makes you feel motivated to do your best tomorrow. These restaurants might be a source of energy for young people.",
+      "id": "50a5c5db-d1d3-406c-9d65-a9dbaa9f996c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供套餐饭的餐馆",
+      "meaningEn": "set meal restaurant",
+      "level": "n5n4",
+      "exampleSentence": "この定食屋は安くておいしいです。",
+      "id": "f2c35370-d2ff-4d6a-80a2-2843e2e40fb4"
+    },
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaningZh": "深夜",
+      "meaningEn": "late at night",
+      "level": "n5n4",
+      "exampleSentence": "深夜に勉強するのは大変です。",
+      "id": "264a6624-410c-4638-a128-d6f5838961c4"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人が広場に集まりました。",
+      "id": "52611437-910f-4c28-a546-958565926ce6"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "レストランでメニューを見ました。",
+      "id": "e43838be-bfe1-4bf1-a7d7-1845571f2ed3"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "c24c1109-55b8-4dcc-a47d-12f40ef88fd3"
+    },
+    {
+      "word": "生姜焼き",
+      "reading": "しょうがやき",
+      "meaningZh": "姜汁烤猪肉",
+      "meaningEn": "ginger pork stir-fry",
+      "level": "n5n4",
+      "exampleSentence": "生姜焼き定食を注文しました。",
+      "id": "f72d927e-5983-4365-8d58-dd0e5bc666ea"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "日式炸鸡块",
+      "meaningEn": "Japanese fried chicken",
+      "level": "n5n4",
+      "exampleSentence": "唐揚げは子供に人気です。",
+      "id": "947f3fd1-db1d-45cf-a63c-9c70b9dc0f92"
+    },
+    {
+      "word": "疲れ",
+      "reading": "つかれ",
+      "meaningZh": "疲劳",
+      "meaningEn": "tiredness",
+      "level": "n5n4",
+      "exampleSentence": "仕事で疲れました。",
+      "id": "76ba9ef6-c897-450b-8d8a-a63d40e69af3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋は、どんな時間に開いていますか。",
+      "options": [
+        "朝早く",
+        "昼間だけ",
+        "夜遅くまで",
+        "いつも開いている"
+      ],
+      "correctIndex": 2,
+      "explanation": "「夜遅くまで開いている定食屋があります。」という文に書いてあります。",
+      "id": "0711b492-b979-4e61-9fdc-664d580e20f5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-04-29937ecdc3",
+  "publishedAt": "2026-08-04T06:00:00+09:00"
+}

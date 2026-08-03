@@ -1,0 +1,122 @@
+{
+  "title": "古民家ステイ、人気です！",
+  "summary": "最近、山陰地方で古い家（古民家）に泊まるのが人気です。静かで、日本らしい体験ができます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には古い家がたくさんあります。特に山陰地方には、きれいな古民家が多いです。最近、この古民家をきれいに直して、泊まれるようにする人が増えています。これを「古民家ステイ」と言います。",
+      "translationZh": "日本有很多老房子。特别是在山阴地区，有很多漂亮的古民家。最近，越来越多的人把这些古民家修缮好，让人们可以入住。这被称为“古民家Stay”。",
+      "translationEn": "Japan has many old houses. Especially in the San'in region, there are many beautiful kominka. Recently, more and more people are renovating these old houses to make them available for stays. This is called 'Kominka Stay'.",
+      "id": "e28ec4b7-968e-46d6-b03d-4081729dc15e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家ステイは、ただ泊まるだけではありません。昔の日本の生活を体験できます。静かな場所で、ゆっくり休むことができます。都会の生活とはちがう、特別な時間です。",
+      "translationZh": "古民家Stay不仅仅是住一晚。你可以体验过去日本的生活。在安静的地方，可以悠闲地休息。这是与城市生活不同的、特别的时光。",
+      "translationEn": "Kominka Stay is not just about staying overnight. You can experience traditional Japanese life. In a quiet place, you can relax slowly. It's a special time, different from city life.",
+      "id": "bb9c385a-5eaa-4a95-9bad-a8075ea1b0ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "山陰地方は、海がきれいで、自然も豊かです。古い町並みも残っています。古民家に泊まって、その土地の文化や食べ物を楽しむことができます。多くの人が、この体験に満足しています。",
+      "translationZh": "山阴地区，大海很美，自然也很丰富。古老的街景也保留着。住在古民家，可以享受当地的文化和食物。很多人对这种体验感到满意。",
+      "translationEn": "The San'in region has beautiful seas and abundant nature. Old townscapes also remain. By staying in a kominka, you can enjoy the local culture and food. Many people are satisfied with this experience.",
+      "id": "74d245b9-0ff2-4560-ba58-a719396ed4a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし日本へ旅行に来たら、古民家ステイを考えてみませんか。きっと、忘れられない思い出ができるでしょう。新しい旅行の形として、もっと人気が出るかもしれません。",
+      "translationZh": "如果来日本旅行，您不考虑一下古民家Stay吗？一定能留下难忘的回忆。作为一种新的旅行方式，它可能会变得更受欢迎。",
+      "translationEn": "If you come to travel in Japan, why not consider a Kominka Stay? You will surely make unforgettable memories. As a new form of travel, it may become even more popular.",
+      "id": "63094f12-b9db-48d0-ab85-e1b68c83ee1d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古民家",
+      "reading": "こみんか",
+      "meaningZh": "古老的日式房屋",
+      "meaningEn": "old Japanese house",
+      "level": "n5n4",
+      "exampleSentence": "この古民家はとてもきれいです。",
+      "id": "f7371b2e-c6d3-48c4-b250-85509931ac62"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "山陰地方は海がきれいです。",
+      "id": "2c79ebd2-881c-4374-b09b-4fff5cd37847"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化を体験したいです。",
+      "id": "747c80ea-8740-4efe-b2e3-8fa80d121899"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静",
+      "meaningEn": "quiet",
+      "level": "n5n4",
+      "exampleSentence": "この公園はとても静かです。",
+      "id": "03be0f98-5cc1-4b6a-98d7-5048ef606842"
+    },
+    {
+      "word": "直す",
+      "reading": "なおす",
+      "meaningZh": "修理，修缮",
+      "meaningEn": "to repair, to fix",
+      "level": "n5n4",
+      "exampleSentence": "古い家を新しく直しました。",
+      "id": "72c45d90-08d7-47e9-98ee-cee431cec18a"
+    },
+    {
+      "word": "町並み",
+      "reading": "まちなみ",
+      "meaningZh": "街景，街貌",
+      "meaningEn": "streetscape",
+      "level": "n3",
+      "exampleSentence": "古い町並みが残っている京都は素晴らしいです。",
+      "id": "5d36974c-fc71-4d04-82f1-822933f31850"
+    },
+    {
+      "word": "豊か",
+      "reading": "ゆたか",
+      "meaningZh": "丰富，富裕",
+      "meaningEn": "abundant, rich",
+      "level": "n3",
+      "exampleSentence": "この島は自然が豊かです。",
+      "id": "c1e40875-c901-4558-bb1e-ca7a152ef57a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "古民家ステイでは、どんな体験ができますか。",
+      "options": [
+        "都会の賑やかな生活",
+        "昔の日本の生活",
+        "最新のテクノロジー",
+        "速い電車の旅"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔の日本の生活を体験できます。",
+      "id": "388482b8-0841-4064-8097-9e14b00c0003"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-04-6847b7775f",
+  "publishedAt": "2026-08-04T06:00:00+09:00"
+}

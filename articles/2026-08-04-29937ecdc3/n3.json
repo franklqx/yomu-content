@@ -1,0 +1,135 @@
+{
+  "title": "深夜定食屋：年轻人的秘密基地",
+  "summary": "夜晚的定食屋是许多年轻人放松和交流的场所。这里不仅提供美食，更是承载着他们独特文化的地方。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "仕事や勉強で遅くなった夜、街の明かりが少なくなる頃、ひっそりと灯りをともす定食屋があります。こうした深夜営業の店には、決まった時間に家へ帰れない若者たちが集まってきます。彼らは、温かい食事をとりながら、一日の疲れを癒したり、仲間と語り合ったりしています。",
+      "translationZh": "下班或学习到深夜，当街上的灯火逐渐稀少时，有些定食屋仍静静地亮着灯。这类深夜营业的店，聚集了无法按时回家的年轻人。他们一边吃着热腾腾的饭菜，一边疗愈一天的疲惫，或与朋友们畅谈。",
+      "translationEn": "Late at night after work or studying, when the city lights begin to dim, there are eateries that quietly keep their lights on. These late-night establishments attract young people who cannot return home at regular hours. While enjoying warm meals, they heal the day's fatigue or chat with friends.",
+      "id": "5468f080-2403-45b8-896d-1b31b8e4e4ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜の定食屋は、単に空腹を満たす場所ではありません。そこは、多様な価値観を持つ若者たちが、お互いの存在を認め合い、リラックスできる空間なのです。メニューには、定番の生姜焼き定食から、少し変わった創作料理まであり、選ぶ楽しさもあります。店によっては、漫画や雑誌が置いてあったり、静かに音楽が流れていたりして、居心地が良いと感じる人も多いようです。",
+      "translationZh": "深夜的定食屋，不仅仅是填饱肚子的地方。那里是拥有不同价值观的年轻人们，能够互相认可彼此的存在，并放松的空间。菜单上有从经典的姜汁烧肉套餐，到有些新奇的创意料理，选择也充满乐趣。有些店还提供漫画和杂志，或者播放着舒缓的音乐，许多人觉得这里非常舒适。",
+      "translationEn": "Late-night eateries are not just places to satisfy hunger. They are spaces where young people with diverse values can acknowledge each other's presence and relax. The menus range from classic ginger pork set meals to slightly unusual creative dishes, offering a variety of choices. Some shops also have manga and magazines available, or play quiet music, making many people feel quite comfortable.",
+      "id": "41b6c1bb-c9a1-4320-8b51-84a4eb5ad210",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この文化は、現代の若者のライフスタイルの変化とも関係があるでしょう。夜遅くまで活動する人が増え、それに応えるように深夜営業の店も増えています。定食屋という、昔ながらの温かみのある場所が、新しい時代の若者たちにも受け入れられているのは、興味深い現象と言えます。彼らにとって、ここは日々の喧騒から離れて、自分らしくいられる大切な場所なのです。",
+      "translationZh": "这种文化，或许也与现代年轻人生活方式的变化有关。夜间活动的人增加，作为回应，深夜营业的店也随之增多。像定食屋这样，充满传统温情的地方，也被新时代的年轻人所接受，这可以说是一种有趣的现象。对他们来说，这里是远离日常喧嚣，能够做自己的重要场所。",
+      "translationEn": "This culture is likely related to the changing lifestyles of today's youth. As more people are active late into the night, late-night establishments have also increased in response. It is an interesting phenomenon that traditional, warm places like set meal restaurants are being embraced by the youth of this new era. For them, this is a cherished place where they can be themselves, away from the hustle and bustle of daily life.",
+      "id": "8c27fee7-d0dd-4bcd-b15c-f2a73fa322ad",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供固定套餐的餐馆",
+      "meaningEn": "A restaurant that serves set meals.",
+      "level": "n3",
+      "exampleSentence": "夕食は近所の定食屋で食べた。",
+      "id": "53a27822-b018-40b8-ae75-83615246de83"
+    },
+    {
+      "word": "深夜営業",
+      "reading": "しんやえいぎょう",
+      "meaningZh": "深夜营业",
+      "meaningEn": "Late-night business operation.",
+      "level": "n3",
+      "exampleSentence": "このコンビニは深夜営業しているので助かる。",
+      "id": "6453971e-c95d-496f-bef6-8535d3adb09a"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "To gather, to assemble.",
+      "level": "n3",
+      "exampleSentence": "週末は友達と駅前に集まることにしている。",
+      "id": "58a5a518-dc9e-413a-afa9-0dbcc607d61d"
+    },
+    {
+      "word": "語り合う",
+      "reading": "かたりあう",
+      "meaningZh": "交谈，倾谈",
+      "meaningEn": "To talk with each other, to converse.",
+      "level": "n3",
+      "exampleSentence": "久しぶりに会ったので、積もる話に花を咲かせた。",
+      "id": "f48a260d-823b-4ce5-9f62-8b6522a80658"
+    },
+    {
+      "word": "価値観",
+      "reading": "かちかん",
+      "meaningZh": "价值观",
+      "meaningEn": "Values, sense of values.",
+      "level": "n3",
+      "exampleSentence": "人それぞれ価値観は違うので、無理に合わせる必要はない。",
+      "id": "1022c870-9cce-47bf-a550-df9e7c9efc3f"
+    },
+    {
+      "word": "創作料理",
+      "reading": "そうさくりょうり",
+      "meaningZh": "创意料理",
+      "meaningEn": "Creative cuisine, original dishes.",
+      "level": "n3",
+      "exampleSentence": "このレストランは独創的な創作料理が人気だ。",
+      "id": "4a90bb29-1394-4007-83b9-6cf1ad69b8c2"
+    },
+    {
+      "word": "居心地が良い",
+      "reading": "いごこちがよい",
+      "meaningZh": "舒适，舒服（指环境）",
+      "meaningEn": "Comfortable (referring to an atmosphere or place).",
+      "level": "n3",
+      "exampleSentence": "このカフェは静かで居心地が良い。",
+      "id": "11f7e063-abe3-4247-9481-977c8ee26067"
+    },
+    {
+      "word": "ライフスタイル",
+      "reading": "らいふすたいる",
+      "meaningZh": "生活方式",
+      "meaningEn": "Lifestyle.",
+      "level": "n3",
+      "exampleSentence": "最近、健康的なライフスタイルを送る人が増えている。",
+      "id": "d2fc05d7-4b91-4ff3-8f03-acdc0b6231f7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜営業の定食屋に集まる若者は、どのような目的で利用していると考えられますか？",
+      "options": [
+        "単に安く食事をするため",
+        "家が遠いため、一時的に休む場所として",
+        "一日の疲れを癒したり、仲間と交流したりするため",
+        "静かに勉強や作業をするため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「温かい食事をとりながら、一日の疲れを癒したり、仲間と語り合ったりしています。」とあり、若者の主な利用目的が示されています。",
+      "id": "46ce8437-951c-41e6-848f-b516f10c7502"
+    },
+    {
+      "question": "現代の若者にとって、深夜の定食屋はどのような場所になっていると筆者は述べていますか？",
+      "options": [
+        "最新のトレンドが集まる情報交換の場",
+        "昔ながらの懐かしい思い出に浸れる場所",
+        "日々の喧騒から離れて、自分らしくいられる大切な場所",
+        "一人で静かに過ごすための隠れ家"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に、「彼らにとって、ここは日々の喧騒から離れて、自分らしくいられる大切な場所なのです。」と書かれています。",
+      "id": "5292cfd8-a626-4cb6-ac69-dbcc21f15fd9"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-04-29937ecdc3",
+  "publishedAt": "2026-08-04T06:00:00+09:00"
+}

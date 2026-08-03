@@ -1,0 +1,114 @@
+{
+  "title": "アニメの世界が変わった！",
+  "summary": "最近、インターネットでアニメをたくさん見ることができます。たくさんの新しいアニメが作られています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、インターネットの会社がアニメをたくさん作っています。これらの会社は「配信プラットフォーム」と呼ばれます。有名な会社がたくさんあります。例えば、ネットフリックスやアマゾンプライム・ビデオです。これらの会社は、自分たちだけのアニメを作っています。これを「オリジナルアニメ」と言います。",
+      "translationZh": "最近，互联网公司制作了很多动画。这些公司被称为“配信平台”。有很多有名的公司。例如，Netflix 和 Amazon Prime Video。这些公司制作只属于他们自己的动画。这叫做“原创动画”。",
+      "translationEn": "Recently, internet companies are making many anime. These companies are called \"streaming platforms\". There are many famous companies. For example, Netflix and Amazon Prime Video. These companies make anime only for themselves. This is called \"original anime\".",
+      "id": "6a78b23d-afa3-48d3-a44f-a41bb8b097ad",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、テレビでアニメを見るのが普通でした。しかし、今はインターネットでいつでも見られます。配信プラットフォームは、世界中の人々にアニメを見てもらいたいと思っています。だから、色々な国でアニメを作っています。新しい技術も使って、もっと面白いアニメを作ろうとしています。",
+      "translationZh": "以前，在电视上看动画是很普遍的。但是，现在可以在互联网上随时观看了。配信平台希望世界各地的人们都能看到动画。所以，他们在不同的国家制作动画。他们也使用新技术，试图制作更有趣的动画。",
+      "translationEn": "In the past, watching anime on TV was common. But now, you can watch it anytime on the internet. Streaming platforms want people all over the world to watch anime. So, they are making anime in various countries. They are also using new technologies to try to make more interesting anime.",
+      "id": "78a82bdc-6ebc-4262-ac3a-0d3d231f5c74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "オリジナルアニメは、とても人気があります。たくさんの人が新しいアニメを楽しみにしています。配信プラットフォームは、これからも新しいアニメをたくさん作っていくでしょう。アニメの未来は、もっと面白くなるかもしれません。",
+      "translationZh": "原创动画非常受欢迎。很多人都在期待新的动画。配信平台今后也会制作很多新的动画。动画的未来可能会变得更加有趣。",
+      "translationEn": "Original anime is very popular. Many people are looking forward to new anime. Streaming platforms will likely continue to produce many new anime in the future. The future of anime might become more interesting.",
+      "id": "b9fa4755-4648-45bf-90cc-8cf3546a4a9b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信",
+      "reading": "はいしん",
+      "meaningZh": "发送，传播",
+      "meaningEn": "delivery, distribution",
+      "level": "n5n4",
+      "exampleSentence": "インターネットで番組を配信します。",
+      "id": "511750d2-bce9-4765-b634-a112b99a474a"
+    },
+    {
+      "word": "プラットフォーム",
+      "reading": "ぷらっとふぉーむ",
+      "meaningZh": "平台",
+      "meaningEn": "platform",
+      "level": "n5n4",
+      "exampleSentence": "このゲームは色々なプラットフォームで遊べます。",
+      "id": "8510329e-4a6b-4944-bebc-9565deed3d08"
+    },
+    {
+      "word": "オリジナル",
+      "reading": "おりじなる",
+      "meaningZh": "原创",
+      "meaningEn": "original",
+      "level": "n5n4",
+      "exampleSentence": "これは私だけのオリジナルデザインです。",
+      "id": "87ccc62d-8561-494f-ba04-28140ab68900"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，一般",
+      "meaningEn": "normal, ordinary",
+      "level": "n5n4",
+      "exampleSentence": "今日は普通の日です。",
+      "id": "3170697c-7d60-4d5d-af2c-c02c0a21669c"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を勉強しています。",
+      "id": "18f5aa6c-6324-4baa-9b82-28c8df3aa8f5"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "14ea2396-02fd-4c77-b951-8b9ca99bcead"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaningZh": "未来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "未来について考えています。",
+      "id": "20c5c8b4-929b-4f9d-bc5b-65740a3e8c00"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔、アニメはどこで見るのが普通でしたか。",
+      "options": [
+        "インターネット",
+        "配信プラットフォーム",
+        "テレビ",
+        "映画館"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔は、テレビでアニメを見るのが普通でした。",
+      "id": "cfd396bd-cd3c-4f0f-a482-2e87d6bdb9d8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-04-d3d7c33476",
+  "publishedAt": "2026-08-04T06:00:00+09:00"
+}

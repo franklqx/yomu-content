@@ -1,0 +1,117 @@
+{
+  "title": "山陰地方で古民家ステイが人気！新しい旅の形",
+  "summary": "近年、山陰地方で古い民家を改装した宿泊施設が注目されています。都市部とは違う、ゆったりとした時間を過ごせるのが魅力です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、鳥取県や島根県といった山陰地方で、昔ながらの古民家を改装した宿泊施設が人気を集めています。都会の喧騒を離れて、静かで落ち着いた環境で過ごしたいと考える人が増えているからです。古民家は、その歴史的な雰囲気と独特の建築様式が魅力で、多くの旅行者にとって非日常的な体験を提供します。",
+      "translationZh": "最近，在鸟取县和岛根县等山阴地区，改建自传统老房子的住宿设施越来越受欢迎。这是因为越来越多的人希望远离城市的喧嚣，在宁静放松的环境中度过时光。老房子以其历史氛围和独特的建筑风格吸引着许多旅行者，提供了一种非日常的体验。",
+      "translationEn": "Recently, renovated old houses as accommodations have become popular in the San'in region, including Tottori and Shimane prefectures. This is because more people want to escape the hustle and bustle of the city and spend time in a quiet and calm environment. Old houses, with their historical atmosphere and unique architectural style, are attractive and offer many travelers an extraordinary experience.",
+      "id": "771ebbb8-2d69-4927-8ce7-66d059a334f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家ステイでは、ただ泊まるだけでなく、その土地ならではの文化や暮らしに触れることができます。例えば、地元の食材を使った料理を楽しんだり、昔ながらの遊びを体験したりできるプランもあります。このように、滞在を通して地域とのつながりを感じられるのが、このスタイルの大きな特徴と言えるでしょう。",
+      "translationZh": "在古民家住宿，不仅仅是入住，还能接触到当地特有的文化和生活方式。例如，有些计划还提供品尝当地食材制作的料理、体验传统游戏的机会。像这样，通过住宿感受到与当地的联系，可以说是这种方式的一大特色。",
+      "translationEn": "With a stay in an old house, you can not only stay overnight but also experience the unique culture and lifestyle of the region. For example, there are plans where you can enjoy meals made with local ingredients or try traditional games. In this way, feeling a connection with the local community through your stay is a major characteristic of this style.",
+      "id": "4fbe6016-a732-42fb-8f12-ea455af587c3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家を改装する際には、元の建物の良さを生かしながら、現代の生活に必要な設備も整えられています。そのため、古い建物の趣を楽しみつつも、快適に過ごすことができるのです。週末や休暇を利用して、少し足を延ばし、山陰地方で心癒される時間を過ごしてみてはいかがでしょうか。",
+      "translationZh": "在改建老房子时，在保留了原有建筑优点的同时，也配备了现代生活所需的设施。因此，在享受老建筑韵味的同时，也能舒适地度过。为什么不利用周末或假期，稍微延伸一下行程，在山阴地区度过一段治愈心灵的时光呢？",
+      "translationEn": "When renovating old houses, modern amenities necessary for contemporary living are installed while preserving the original architectural charm. Therefore, you can enjoy the atmosphere of an old building while staying comfortably. Why not take advantage of weekends or holidays, travel a little further, and spend some soul-healing time in the San'in region?",
+      "id": "74fc790d-66c4-4d77-a75a-63cf90163c1d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧闹，喧嚣",
+      "meaningEn": "noise and bustle",
+      "level": "n3",
+      "exampleSentence": "都会の喧騒から離れたい。",
+      "id": "825a918a-f1ac-4488-95d3-d6e44b2a99af"
+    },
+    {
+      "word": "趣",
+      "reading": "おもむき",
+      "meaningZh": "韵味，情趣，意境",
+      "meaningEn": "charm, elegance, taste",
+      "level": "n3",
+      "exampleSentence": "古い庭園には独特の趣がある。",
+      "id": "a4f0bbb7-6e71-4fcf-8ab1-c8ad9580609e"
+    },
+    {
+      "word": "非日常",
+      "reading": "ひにちじょう",
+      "meaningZh": "非日常生活，不同寻常",
+      "meaningEn": "uncommon, extraordinary",
+      "level": "n3",
+      "exampleSentence": "旅行は非日常を味わう良い機会だ。",
+      "id": "e57aeacf-9e36-4b7d-a587-9bdcf48e0c9b"
+    },
+    {
+      "word": "滞在",
+      "reading": "たいざい",
+      "meaningZh": "逗留，停留",
+      "meaningEn": "stay",
+      "level": "n3",
+      "exampleSentence": "京都に３日間滞在する予定です。",
+      "id": "96e907c2-4f9e-4af1-8269-d0afe7571154"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaningZh": "设施，设备",
+      "meaningEn": "facility, equipment",
+      "level": "n3",
+      "exampleSentence": "ホテルにはレストランの設備がある。",
+      "id": "4d5c6e79-2c5c-43ce-bf75-c279a18aec55"
+    },
+    {
+      "word": "癒される",
+      "reading": "いやされる",
+      "meaningZh": "被治愈，得到慰藉",
+      "meaningEn": "to be healed, to be soothed",
+      "level": "n3",
+      "exampleSentence": "美しい景色を見て心が癒された。",
+      "id": "38d7305f-0f19-4e91-b31b-b8fc969bea96"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "古民家ステイが山陰地方で人気を集めている理由は何ですか？",
+      "options": [
+        "新しい建物がたくさん建てられたから",
+        "都市部とは違う静かで落ち着いた環境で過ごせるから",
+        "交通の便が非常に良くなったから",
+        "最新のエンターテイメント施設が充実しているから"
+      ],
+      "correctIndex": 1,
+      "explanation": "都会の喧騒を離れて、静かで落ち着いた環境で過ごしたいと考える人が増えているからです。",
+      "id": "0231e716-2f1e-4169-aa59-417ecfc0cb26"
+    },
+    {
+      "question": "古民家ステイの魅力として、本文で述べられていることは何ですか？",
+      "options": [
+        "最新のテクノロジーを体験できること",
+        "地元の文化や暮らしに触れ、地域とのつながりを感じられること",
+        "移動が非常に簡単で、どこへでもすぐに行けること",
+        "全てが新しく清潔な施設で快適に過ごせること"
+      ],
+      "correctIndex": 1,
+      "explanation": "滞在を通して地域とのつながりを感じられるのが、このスタイルの大きな特徴と言えるでしょう。",
+      "id": "1d1e6cb6-dce2-4505-87fa-3e4be83c0389"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-04-6847b7775f",
+  "publishedAt": "2026-08-04T06:00:00+09:00"
+}

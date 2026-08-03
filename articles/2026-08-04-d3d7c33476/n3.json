@@ -1,0 +1,126 @@
+{
+  "title": "配信サービスとオリジナルアニメの新しい関係",
+  "summary": "近年、配信プラットフォームがオリジナルアニメ制作に力を入れています。これにより、アニメの多様性が広がり、視聴者にも多くの選択肢が生まれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの配信プラットフォームがオリジナルアニメの制作に力を入れています。以前はテレビ放送が中心でしたが、今ではインターネットを通じて、いつでもどこでもアニメが見られるようになりました。プラットフォームは、自分たちでしか見られない作品を作ることで、多くの視聴者を引きつけようとしています。",
+      "translationZh": "最近，许多流媒体平台都在大力投入制作原创动画。过去，电视播放是主流，但现在，通过互联网，人们可以随时随地观看动画。平台希望通过制作只有他们自己才能看到的独家作品来吸引更多观众。",
+      "translationEn": "Recently, many streaming platforms have been focusing on producing original anime. In the past, TV broadcasting was the main way to watch, but now, through the internet, people can watch anime anytime and anywhere. Platforms are trying to attract many viewers by creating works that can only be seen on their services.",
+      "id": "59559e9e-f7c9-4d2f-9295-c53812e8f9d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "オリジナルアニメが増えることで、アニメのジャンルや表現の幅が広がっています。プラットフォームは、視聴者の好みを分析し、様々なニーズに応える作品を制作しています。そのため、ニッチなテーマのアニメや、新しいスタイルのアニメなども登場するようになり、アニメファンにとっては嬉しい状況と言えるでしょう。",
+      "translationZh": "随着原创动画的增多，动画的类型和表现形式不断扩展。平台会分析观众的喜好，制作出能满足各种需求的作品。因此，出现了许多主题小众或风格新颖的动画，这对动画迷来说无疑是个好消息。",
+      "translationEn": "As original anime increases, the range of anime genres and expressions is expanding. Platforms analyze viewer preferences and produce works that meet various needs. Consequently, anime with niche themes and new styles are appearing, which can be considered a happy situation for anime fans.",
+      "id": "4af4d825-1941-41b6-878e-b51710dd3e8f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、オリジナル作品が増えすぎると、どれを見たらいいか迷うこともあります。また、プラットフォームごとに独占配信されている作品もあるため、複数のサービスに加入する必要が出てくるかもしれません。それでも、多様なアニメが楽しめるようになることは、アニメ文化の発展にとって良いことだと考えられます。",
+      "translationZh": "然而，原创作品的增多有时也会让人难以选择。此外，由于有些作品是平台独家播出，观众可能需要订阅多个服务。尽管如此，能够欣赏到更多样化的动画，被认为是动画文化发展的好事。",
+      "translationEn": "However, with the proliferation of original works, it can become confusing to decide what to watch. Also, since some works are exclusively distributed by each platform, it might become necessary to subscribe to multiple services. Nevertheless, being able to enjoy a wider variety of anime is considered beneficial for the development of anime culture.",
+      "id": "3de3d46d-81e5-4a3e-b842-054a7243715e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信プラットフォーム",
+      "reading": "はいしんぷらっとふぉーむ",
+      "meaningZh": "流媒体平台，内容分发平台",
+      "meaningEn": "Streaming platform, content distribution platform",
+      "level": "n3",
+      "exampleSentence": "この新しい配信プラットフォームは、たくさんのアニメを扱っています。",
+      "id": "1883fbf7-223f-4fa3-9a93-ac5949269403"
+    },
+    {
+      "word": "オリジナルアニメ",
+      "reading": "おりじなるあにめ",
+      "meaningZh": "原创动画",
+      "meaningEn": "Original anime",
+      "level": "n3",
+      "exampleSentence": "このプラットフォームは、力を入れてオリジナルアニメを制作している。",
+      "id": "81c8df18-761c-4663-ba38-723a74a219fc"
+    },
+    {
+      "word": "引きつける",
+      "reading": "ひきつける",
+      "meaningZh": "吸引，引起",
+      "meaningEn": "To attract, to draw in",
+      "level": "n3",
+      "exampleSentence": "魅力的なストーリーで視聴者を引きつけました。",
+      "id": "33ac0564-0e1f-40e6-89c5-7ddf5db78397"
+    },
+    {
+      "word": "ジャンル",
+      "reading": "じゃんる",
+      "meaningZh": "种类，类型（特指文学、艺术、音乐等）",
+      "meaningEn": "Genre (especially in literature, art, music, etc.)",
+      "level": "n3",
+      "exampleSentence": "このアニメは、様々なジャンルが混ざり合っています。",
+      "id": "87553b0a-f6bc-47b1-a943-c569aea1bcf5"
+    },
+    {
+      "word": "ニッチ",
+      "reading": "にっち",
+      "meaningZh": "小众的，特定的（市场、需求等）",
+      "meaningEn": "Niche (market, demand, etc.)",
+      "level": "n3",
+      "exampleSentence": "ニッチな趣味を持つ人々のための情報サイトです。",
+      "id": "7032119e-4e2c-449b-b597-45cb0db4108f"
+    },
+    {
+      "word": "独占配信",
+      "reading": "どくせんはいしん",
+      "meaningZh": "独家播出，独家分发",
+      "meaningEn": "Exclusive distribution, exclusive streaming",
+      "level": "n3",
+      "exampleSentence": "このドラマは、Aプラットフォームでしか独占配信されていません。",
+      "id": "b8922487-daed-4a58-bb2a-8971cfc6c9f2"
+    },
+    {
+      "word": "加入",
+      "reading": "かにゅう",
+      "meaningZh": "加入，订阅",
+      "meaningEn": "To join, to subscribe",
+      "level": "n3",
+      "exampleSentence": "有料会員に加入しました。",
+      "id": "62af1b6c-66bf-41c1-be99-50f04987d5a5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "配信プラットフォームがオリジナルアニメを制作する主な理由は何ですか？",
+      "options": [
+        "昔のアニメを復刻するため",
+        "視聴者を引きつけるため",
+        "アニメーターの雇用を増やすため",
+        "海外のアニメファンを増やすため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「プラットフォームは、自分たちでしか見られない作品を作ることで、多くの視聴者を引きつけようとしています。」と書かれています。",
+      "id": "a3ec7cf5-5694-4bfc-b2b9-85f1c21ad267"
+    },
+    {
+      "question": "オリジナルアニメが増えることによる、視聴者にとってのデメリットは何ですか？",
+      "options": [
+        "アニメの質が全体的に低下すること",
+        "見たいアニメを選ぶのが難しくなること",
+        "アニメを見るための機器が高価になること",
+        "アニメの価格が全体的に高くなること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「しかし、オリジナル作品が増えすぎると、どれを見たらいいか迷うこともあります。」と書かれています。",
+      "id": "2196ea7c-cf6b-4698-b37b-e75f69893319"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-04-d3d7c33476",
+  "publishedAt": "2026-08-04T06:00:00+09:00"
+}

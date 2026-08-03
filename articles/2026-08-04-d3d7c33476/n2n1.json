@@ -1,0 +1,138 @@
+{
+  "title": "配信プラットフォーム発オリジナルアニメが席巻",
+  "summary": "近年、動画配信プラットフォームが製作するオリジナルアニメが目覚ましい勢いで増加しており、アニメ業界の様相を一変させているとのことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "かつてはテレビ放送がアニメ製作・流通の主流であったが、近年、NetflixやAmazon Prime Videoといった主要な動画配信プラットフォームが、自社製作のオリジナルアニメに巨額の投資を行う傾向が顕著となっている。これらのプラットフォームは、世界中の視聴者へ直接配信できるという利点を活かし、多様なジャンルや斬新な企画のアニメを次々と世に送り出している。その結果、従来のテレビ局主導のビジネスモデルでは生まれ得なかったような作品がヒットを記録し、アニメファンの間でも新たなスタンダードとなりつつあると見られる。",
+      "translationZh": "过去，电视播放是动画制作和发行的主流，但近年来，Netflix 和 Amazon Prime Video 等主要视频配信平台纷纷将巨额投资用于自主制作的原创动画，这种趋势尤为显著。这些平台利用了能够直接向全球观众配信的优势，不断推出各种类型和新颖企划的动画作品。其结果是，在传统电视台主导的商业模式下难以诞生的作品取得了成功，并逐渐成为动画粉丝们的新标准。",
+      "translationEn": "In the past, television broadcasting was the mainstream for anime production and distribution. However, in recent years, major video streaming platforms such as Netflix and Amazon Prime Video have shown a marked tendency to invest heavily in their own original anime productions. Leveraging the advantage of direct global distribution to viewers, these platforms are successively releasing anime works across diverse genres and with innovative concepts. Consequently, works that might not have emerged under the traditional TV station-led business model are achieving success and becoming a new standard among anime fans.",
+      "id": "3477aabb-6149-461c-8402-25cf48e9dd0b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうしたプラットフォーム主導の製作体制は、クリエイターにとっても新たな機会をもたらしている。従来の製作委員会方式では、権利関係の複雑さや意思決定の遅延が課題となることも少なくなかったが、プラットフォーム側が製作費の大部分を負担し、企画段階から深く関与することで、より迅速かつ柔軟な制作進行が可能になったとされる。また、グローバル市場を視野に入れた作品作りが進むことにより、日本国内だけでなく、海外の視聴者の嗜好を反映したコンテンツ開発も期待されている。",
+      "translationZh": "这种平台主导的制作体系也为创作者带来了新的机遇。在传统的联合出品制作委员会制度下，版权关系复杂和决策迟缓常常是难题。但据称，由于平台方承担了大部分制作费用，并从企划阶段就深入参与，使得制作过程更加迅速和灵活。此外，随着以全球市场为目标的作品创作推进，不仅在日本国内，人们也期待着能够反映海外观众喜好的内容开发。",
+      "translationEn": "This platform-led production system also brings new opportunities for creators. In the traditional consortium production committee system, complexities in rights and delays in decision-making were often problematic. However, it is said that by having the platform cover a significant portion of the production costs and engaging deeply from the planning stages, more rapid and flexible production progress has become possible. Furthermore, as production progresses with a view to the global market, there are expectations for content development that reflects the preferences of overseas viewers, not just those within Japan.",
+      "id": "4df35ee5-6d47-4e44-9d8b-2b281f75b467",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、オリジナルアニメの増加に伴い、市場全体の競争は激化する一方である。プラットフォーム間の視聴者獲得競争は熾烈を極め、質の高いコンテンツを安定的に供給し続けることが、各社の存続にとって不可欠となっている。今後は、プラットフォーム独自の強みを活かした差別化戦略や、新たな才能の発掘・育成が、アニメ業界全体の持続的な発展を左右する鍵となると見られる。",
+      "translationZh": "另一方面，随着原创动画的增加，整个市场的竞争也日益激烈。平台之间争夺观众的竞争十分激烈，持续稳定地提供高质量内容已成为各公司生存的必要条件。今后，利用平台自身优势的差异化战略，以及发掘和培养新人才，将成为左右整个动画行业可持续发展的关键。",
+      "translationEn": "On the other hand, with the increase in original anime, competition within the overall market is intensifying. The battle for viewers between platforms is fierce, making it essential for each company's survival to consistently supply high-quality content. Moving forward, differentiation strategies that leverage each platform's unique strengths, along with the discovery and nurturing of new talent, are expected to be key factors influencing the sustainable development of the entire anime industry.",
+      "id": "6f6fbc1d-2584-4341-90dc-97b266b35dc8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信プラットフォーム",
+      "reading": "はいしんぷらっとふぉーむ",
+      "meaningZh": "配信平台",
+      "meaningEn": "Distribution platform",
+      "level": "n2n1",
+      "exampleSentence": "多くの人気アニメがこの配信プラットフォームで視聴可能だ。",
+      "id": "00754f04-0c39-4064-9294-10e6136cbddd"
+    },
+    {
+      "word": "オリジナルアニメ",
+      "reading": "おりじなるあにめ",
+      "meaningZh": "原创动画",
+      "meaningEn": "Original anime",
+      "level": "n3",
+      "exampleSentence": "この作品は、原作なしのオリジナルアニメとして話題になった。",
+      "id": "bc3a1303-ba93-4d70-ba53-fe186c835817"
+    },
+    {
+      "word": "席巻",
+      "reading": "せっけん",
+      "meaningZh": "席卷，占领",
+      "meaningEn": "To sweep over, to dominate",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術が市場を席巻しつつある。",
+      "id": "683537ea-dadb-45fd-ba6a-50e7c0dcb197"
+    },
+    {
+      "word": "顕著",
+      "reading": "けんちょ",
+      "meaningZh": "显著，明显",
+      "meaningEn": "Conspicuous, remarkable",
+      "level": "n2n1",
+      "exampleSentence": "近年、環境問題への関心が顕著に高まっている。",
+      "id": "9af802e2-7bf3-4509-8a73-6aadffea0c0d"
+    },
+    {
+      "word": "製作委員会",
+      "reading": "せいさくいいんかい",
+      "meaningZh": "制作委员会（动画等项目的联合出资方组成的组织）",
+      "meaningEn": "Production committee (an organization formed by co-financiers of anime and other projects)",
+      "level": "n2n1",
+      "exampleSentence": "このアニメの製作委員会には複数の企業が参加している。",
+      "id": "b293409a-e981-4420-ab6b-8738bedee029"
+    },
+    {
+      "word": "嗜好",
+      "reading": "しこう",
+      "meaningZh": "喜好，偏好",
+      "meaningEn": "Taste, preference",
+      "level": "n2n1",
+      "exampleSentence": "個人の嗜好に合わせて商品を開発する。",
+      "id": "4a570e5a-00a2-4e8c-8609-bf5eedf18539"
+    },
+    {
+      "word": "熾烈",
+      "reading": "しれつ",
+      "meaningZh": "激烈，炽烈",
+      "meaningEn": "Fierce, intense",
+      "level": "n2n1",
+      "exampleSentence": "両チームの戦いは熾烈を極めた。",
+      "id": "14056086-554a-4ae5-861a-39c7899c4590"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "近年、動画配信プラットフォームがオリジナルアニメに投資を増やす主な理由は何ですか？",
+      "options": [
+        "テレビ局との競争に勝つため",
+        "世界中の視聴者に直接配信できる利点があるため",
+        "低予算でアニメを制作できるため",
+        "日本の伝統的なアニメ文化を守るため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「これらのプラットフォームは、世界中の視聴者へ直接配信できるという利点を活かし、多様なジャンルや斬新な企画のアニメを次々と世に送り出している」と述べられています。",
+      "id": "09cb7af9-9e2c-469e-aecb-b28e58bb67f4"
+    },
+    {
+      "question": "プラットフォーム主導の製作体制は、クリエイターにとってどのようなメリットをもたらすと述べられていますか？",
+      "options": [
+        "権利関係がより単純になり、意思決定が速くなった",
+        "制作費の大部分をクリエイター自身が負担できるようになった",
+        "海外市場への進出が保証されるようになった",
+        "従来のテレビ局との関係を維持できるようになった"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文中「従来の製作委員会方式では、権利関係の複雑さや意思決定の遅延が課題となることも少なくなかったが、プラットフォーム側が製作費の大部分を負担し、企画段階から深く関与することで、より迅速かつ柔軟な制作進行が可能になったとされる」とあります。",
+      "id": "3da732bb-3bae-44c0-bee0-9ff05c3fdfb4"
+    },
+    {
+      "question": "オリジナルアニメの増加に伴い、アニメ業界全体が直面している課題は何ですか？",
+      "options": [
+        "クリエイターの不足",
+        "制作費の高騰",
+        "市場全体の競争激化と質の高いコンテンツの安定供給の必要性",
+        "海外からの人気低下"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落で、「こうしたプラットフォーム主導の製作体制は、クリエイターにとっても新たな機会をもたらしている。従来の製作委員会方式では、権利関係の複雑さや意思決定の遅延が課題となることも少なくなかったが、プラットフォーム側が製作費の大部分を負担し、企画段階から深く関与することで、より迅速かつ柔軟な制作進行が可能になったとされる。」と述べられています。",
+      "id": "86917964-3a87-4dac-8226-65b12c5c802d"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-04-d3d7c33476",
+  "publishedAt": "2026-08-04T06:00:00+09:00"
+}
