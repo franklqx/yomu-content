@@ -1,0 +1,122 @@
+{
+  "title": "アニメカフェの新メニュー！",
+  "summary": "人気のアニメカフェで新しいメニューが出ました。予約が取りにくいので、早めにチェックしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "人気のアニメカフェで、新しいメニューが始まりました。このカフェはいつもたくさんの人でにぎわっています。新しいメニューは、アニメのキャラクターをイメージしたものです。見た目もとてもきれいです。",
+      "translationZh": "人气动漫咖啡厅推出了新菜单。这家咖啡厅总是人来人往，非常热闹。新菜单是以动漫角色为灵感设计的。外观也非常漂亮。",
+      "translationEn": "A popular anime cafe has started a new menu. This cafe is always crowded with many people. The new menu is inspired by anime characters. It looks very beautiful too.",
+      "id": "46b2cab0-ef0c-4c24-8e04-916554db30a6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に人気があるのは、キャラクターの顔をしたケーキです。味もおいしいと評判です。飲み物も、アニメの色を真似した特別なものがあります。友達と一緒に行ったら、きっと楽しいでしょう。",
+      "translationZh": "特别受欢迎的是像角色脸一样的蛋糕。味道也很好，口碑不错。饮料也有模仿动漫颜色特制的。如果和朋友一起去，一定会很开心。",
+      "translationEn": "Especially popular are the cakes shaped like character faces. They are also reputed to taste delicious. There are also special drinks that imitate the colors of the anime. It would surely be fun if you go with friends.",
+      "id": "cfaac59b-17fd-439d-95fb-0a2a22dd85fe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、このカフェは予約がとても取りにくいです。新しいメニューが出ると、もっと混雑します。行きたい人は、早めに予約の電話をしたほうがいいです。ウェブサイトで予約状況を確認することもできます。",
+      "translationZh": "但是，这家咖啡厅很难预约。新菜单推出后，会更加拥挤。想去的人最好早点打电话预约。也可以在网站上确认预约情况。",
+      "translationEn": "However, it is very difficult to make a reservation at this cafe. When a new menu comes out, it gets even more crowded. People who want to go should make a reservation call as soon as possible. You can also check the reservation status on the website.",
+      "id": "28135cbe-4f68-4e9e-92d6-b237c37e2eee",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "週末や祝日は、さらに予約が難しくなります。平日の昼間は、少し予約しやすいかもしれません。美味しいメニューを楽しみましょう。",
+      "translationZh": "周末和节假日，预约会变得更加困难。工作日的白天，预约可能稍微容易一些。让我们一起享用美味的菜单吧。",
+      "translationEn": "On weekends and holidays, reservations become even more difficult. On weekday afternoons, it might be a little easier to get a reservation. Let's enjoy the delicious menu.",
+      "id": "402001bf-9cf5-489f-97ae-fc57abc1e42f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメはとても人気があります。",
+      "id": "b58b7941-e9b1-481b-b028-5fe807e6b026"
+    },
+    {
+      "word": "メニュー",
+      "reading": "め֐ニュー",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "新しいメニューを見せてください。",
+      "id": "5b3b86d7-affe-452e-a73a-c51d4ab8b655"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "キャラクター",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このキャラクターはかわいいです。",
+      "id": "0ac65c40-6f82-43c0-bd9b-22a2072aee65"
+    },
+    {
+      "word": "ケーキ",
+      "reading": "ケーキ",
+      "meaningZh": "蛋糕",
+      "meaningEn": "cake",
+      "level": "n5n4",
+      "exampleSentence": "誕生日ケーキを食べました。",
+      "id": "530647ff-4a7b-4755-9565-a2fc53115e10"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "43a66bdc-a685-4a31-9de4-ddb6fe5e454b"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowding, congestion",
+      "level": "n5n4",
+      "exampleSentence": "電車が混雑しています。",
+      "id": "9a789465-9d77-4a25-9488-ecfb28f6163a"
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaningZh": "朋友",
+      "meaningEn": "friend",
+      "level": "n5n4",
+      "exampleSentence": "友達と映画を見に行きました。",
+      "id": "f2aa834e-05f1-4e63-9f8f-5ed2cd5f47ae"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このカフェの新しいメニューが出ると、どうなりますか？",
+      "options": [
+        "予約が簡単になります。",
+        "もっと混雑します。",
+        "メニューが少なくなります。",
+        "値段が安くなります。"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しいメニューが出ると、もっと混雑します。",
+      "id": "6a73ba6b-9c1a-413f-a1cf-118a8fbfb260"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-05-b819c209d6",
+  "publishedAt": "2026-08-05T06:00:00+09:00"
+}

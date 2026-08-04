@@ -1,0 +1,131 @@
+{
+  "title": "体育館、みんなの場所！",
+  "summary": "学校の体育館が地域の人に開放されました。いろいろな人が来て、活動をしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町では、学校の体育館を地域の人にも使ってもらう実験を始めました。土曜日と日曜日の午後、体育館は開いています。子供から大人まで、たくさんの人が来ます。",
+      "translationZh": "这个镇上，开始了一个让社区的人也能使用学校体育馆的实验。周六和周日的下午，体育馆是开放的。从孩子到大人，有很多人会来。",
+      "translationEn": "In this town, an experiment has started to let community people use the school gymnasium. On Saturday and Sunday afternoons, the gymnasium is open. Many people, from children to adults, come.",
+      "id": "1248ef6e-9b43-4aa4-941e-c448d78b18db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "体育館では、バスケットボールやバレーボールができます。また、ヨガやダンスをする人もいます。地域の人たちは、学校の施設を有効に使うことができます。",
+      "translationZh": "在体育馆里，可以打篮球和排球。此外，也有人会做瑜伽和跳舞。社区的人们可以有效地利用学校的设施。",
+      "translationEn": "In the gymnasium, you can play basketball and volleyball. Also, some people do yoga and dance. Community members can effectively use the school's facilities.",
+      "id": "b03eb348-e585-4e52-be0d-807605f46826",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学校の先生も、地域の人たちと交流する機会が増えました。子供たちが安全に運動できる場所があるのは、とても良いことだと思います。",
+      "translationZh": "学校的老师们，和社区的人们交流的机会也增加了。有孩子们可以安全运动的地方，我觉得非常好。",
+      "translationEn": "School teachers also have more opportunities to interact with community members. I think it is very good that there is a place where children can exercise safely.",
+      "id": "39ada92d-b2a8-4c5f-8d34-eaf9760c0086",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、まだ始まったばかりです。これからもっと多くの人が体育館を利用して、町がもっと元気になることを期待しています。",
+      "translationZh": "这个实验才刚刚开始。今后希望有更多的人利用体育馆，让城镇变得更加有活力。",
+      "translationEn": "This experiment has just begun. We hope that more people will use the gymnasium in the future and the town will become more vibrant.",
+      "id": "c08ddb19-3d0d-449a-b0b0-6e0bba2c1f40",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "体育館でスポーツをしました。",
+      "id": "bea73836-12cb-49c7-9eac-afbb3d003918"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "1eee9d70-45ab-4f74-b517-6ac875f6cb4e"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "open (to the public)",
+      "level": "n5n4",
+      "exampleSentence": "図書館は午前9時に開放されます。",
+      "id": "de84dad3-a03f-4eff-afed-85c16a72b4ed"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい方法を実験しています。",
+      "id": "436db9e4-1359-4ed0-a5b9-e15b5c6a87d7"
+    },
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaningZh": "有效",
+      "meaningEn": "effective, valid",
+      "level": "n3",
+      "exampleSentence": "この薬はとても有効です。",
+      "id": "70a74721-3bdf-4fe2-8b87-bc11640754b0"
+    },
+    {
+      "word": "施設",
+      "reading": "しせつ",
+      "meaningZh": "设施",
+      "meaningEn": "facility",
+      "level": "n3",
+      "exampleSentence": "新しい図書館の施設はきれいです。",
+      "id": "78b698f9-2785-4b16-9ab8-f885c6c52a1d"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "留学生との交流は楽しいです。",
+      "id": "814cf477-e16e-450e-bd42-04c7529855c7"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精神，活力",
+      "meaningEn": "energy, spirit, health",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも元気です。",
+      "id": "9beaaf3e-192f-47a8-8f5f-a8b8c98a19ae"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館は、いつ、誰のために開いていますか？",
+      "options": [
+        "平日の昼間、生徒のために開いています。",
+        "土日、地域の人々のために開いています。",
+        "毎晩、大人だけのために開いています。",
+        "夏休み、旅行者のために開いています。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「土曜日と日曜日の午後、体育館は開いています。子供から大人まで、たくさんの人が来ます。」と書いてあります。",
+      "id": "1fb8aefd-a43e-45de-9c3d-fc4fb25a8539"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-05-124842a915",
+  "publishedAt": "2026-08-05T06:00:00+09:00"
+}

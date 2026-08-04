@@ -1,0 +1,122 @@
+{
+  "title": "七夕の光、新しい名所",
+  "summary": "今年の七夕は、特別な場所で美しい光を見ることができます。新しい名所を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ七夕です。七夕は、夜空の星を見るお祭りです。日本では、短冊に願い事を書きます。そして、笹（ささ）に飾ります。",
+      "translationZh": "七夕节就快到了。七夕是观看夜空星星的节日。在日本，人们会在短册上写下愿望，然后挂在笹竹上装饰。",
+      "translationEn": "Tanabata is coming soon. Tanabata is a festival to see the stars in the night sky. In Japan, people write their wishes on strips of paper called 'tanzaku'. Then, they decorate bamboo branches with them.",
+      "id": "e65ac38d-6c3f-45b4-b61a-a22a94095cf9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、新しい七夕のライトアップがあります。東京の新しい公園で、きれいな光のイベントをします。たくさんの人が集まるでしょう。",
+      "translationZh": "今年，有新的七夕灯光秀。在东京的新公园，将举办美丽的灯光活动。想必会有很多人来。",
+      "translationEn": "This year, there is a new Tanabata illumination event. A beautiful light event will be held in a new park in Tokyo. Many people will probably gather.",
+      "id": "cc4627dc-f2e0-4c5d-bf7d-efcf562aae75",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園は夜、特別な色で照らされます。笹や短冊も光っています。まるで、星が地面に降りてきたようです。とてもロマンチックな場所です。",
+      "translationZh": "公园晚上会被特别的颜色照亮。笹竹和短册也在发光。仿佛星星降落到了地面上。这是一个非常浪漫的地方。",
+      "translationEn": "The park will be lit up with special colors at night. The bamboo branches and wishes will also be shining. It's as if the stars have descended to the ground. It is a very romantic place.",
+      "id": "bfa392ff-e93a-43ac-9ddb-367f12cfdc1b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "家族や友達と、この美しい光を見に行きませんか。きっと、忘れられない思い出になるでしょう。夏の夜の特別な体験です。",
+      "translationZh": "您不想和家人或朋友一起去看看这美丽的光景吗？这一定会成为难忘的回忆。这是夏夜特别的体验。",
+      "translationEn": "Why don't you go see these beautiful lights with your family or friends? It will surely become an unforgettable memory. It is a special experience on a summer night.",
+      "id": "45dcb92c-bac7-4be2-a54f-5da5dd2c83a3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "七夕",
+      "reading": "たなばた",
+      "meaningZh": "七夕节",
+      "meaningEn": "Tanabata festival",
+      "level": "n5n4",
+      "exampleSentence": "七夕には、星がきれいです。",
+      "id": "d3f57a38-b31a-4e17-847f-21f6b0fec831"
+    },
+    {
+      "word": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "meaningZh": "灯光秀，照明",
+      "meaningEn": "illumination, lighting up",
+      "level": "n5n4",
+      "exampleSentence": "公園のライトアップを見に行きました。",
+      "id": "e183b195-5333-4d90-9367-84999946b2c9"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaningZh": "名胜，景点",
+      "meaningEn": "famous place, spot",
+      "level": "n5n4",
+      "exampleSentence": "京都にはたくさんの名所があります。",
+      "id": "99347b71-5c27-417b-be1a-5c1514622ba8"
+    },
+    {
+      "word": "願い事",
+      "reading": "ねがいごと",
+      "meaningZh": "愿望",
+      "meaningEn": "wish",
+      "level": "n5n4",
+      "exampleSentence": "短冊に願い事を書きました。",
+      "id": "61fdb517-47d2-4719-a95b-4c63693f0d94"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人がイベントに集まりました。",
+      "id": "cc90d664-abf1-4d44-89f5-23b6a2ef15bc"
+    },
+    {
+      "word": "照らされる",
+      "reading": "てらされる",
+      "meaningZh": "被照耀",
+      "meaningEn": "to be illuminated",
+      "level": "n5n4",
+      "exampleSentence": "夜、建物が光で照らされました。",
+      "id": "c6458fa4-d87c-4e38-b1e9-473f63ee66d3"
+    },
+    {
+      "word": "ロマンチック",
+      "reading": "ろまんちっく",
+      "meaningZh": "浪漫的",
+      "meaningEn": "romantic",
+      "level": "n5n4",
+      "exampleSentence": "二人はロマンチックな場所で会いました。",
+      "id": "7ce60764-3673-4e2a-95ab-eb0288bf78e5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の七夕のライトアップは、どこで見られますか。",
+      "options": [
+        "東京の新しい公園",
+        "大阪の古いお寺",
+        "京都の有名な川",
+        "北海道の山の上"
+      ],
+      "correctIndex": 0,
+      "explanation": "「今年の七夕のライトアップは、東京の新しい公園で、きれいな光のイベントをします。」",
+      "id": "74168808-9697-45f1-8207-11aa84fa4d65"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-05-77598fd30c",
+  "publishedAt": "2026-08-05T06:00:00+09:00"
+}

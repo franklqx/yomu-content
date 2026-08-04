@@ -1,0 +1,147 @@
+{
+  "title": "学校体育館の地域開放、実験開始へ",
+  "summary": "地域住民のスポーツ振興と交流促進を目的として、一部の学校体育館が地域住民に開放される実験が開始されることになりました。これにより、多様な世代間の交流が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この度、地域社会における健康増進及び住民間の交流活性化を図るため、一部の公立学校体育館を地域住民に開放する実験事業が実施される運びとなりました。これまで、学校施設は主に教育活動に限定されてきましたが、今回の試みは、地域住民が気軽にスポーツを楽しめる場を提供し、世代を超えた交流を促進することを目的としています。開放される時間帯や利用可能な施設については、各自治体が定める基準に従うことになります。",
+      "translationZh": "此次，为了促进地区社会健康发展及居民间的交流活性化，一项将部分公立学校体育馆向地区居民开放的实验项目即将实施。过去，学校设施主要局限于教育活动，但此次尝试旨在提供一个让地区居民能够轻松享受体育运动的场所，并促进跨代际的交流。开放的时间段和可利用的设施将遵循各自治体制定的标准。",
+      "translationEn": "This time, an experimental project to open some public school gymnasiums to local residents will be launched with the aim of promoting health in the local community and vitalizing interaction among residents. Previously, school facilities were mainly limited to educational activities, but this initiative aims to provide a place where local residents can easily enjoy sports and promote intergenerational exchange. The operating hours and available facilities will be determined by standards set by each municipality.",
+      "id": "304938f7-6ed4-4ab2-9ecf-e78b4c031c2e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "本実験事業は、地域住民の健康維持・増進に貢献するとともに、学校施設を有効活用することにも繋がるものと見られています。特に、近年増加傾向にある運動不足の解消や、地域コミュニティの核としての学校の役割再認識が期待されるところです。参加を希望する住民は、事前に自治体の窓口または学校を通じて申し込み手続きを行う必要があります。安全管理体制の構築も、事業成功の鍵となるでしょう。",
+      "translationZh": "这项实验项目被认为不仅有助于地区居民维持和增进健康，还能有效利用学校设施。特别值得期待的是，它有助于解决近年来日益增长的运动不足问题，并重新认识学校作为地区社区核心的作用。希望参加的居民需要事先通过自治体窗口或学校办理申请手续。建立安全管理体制也将是该项目成功的关键。",
+      "translationEn": "This experimental project is expected to contribute to the health maintenance and improvement of local residents, as well as lead to the effective utilization of school facilities. In particular, it is expected to help resolve the increasing trend of lack of exercise in recent years and to re-recognize the role of schools as the core of the local community. Residents wishing to participate must complete an application procedure in advance through the municipal office or the school. Establishing a safety management system will also be key to the success of the project.",
+      "id": "7ab905cd-5a2b-4ab1-a979-be3550855b74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回の地域開放実験は、都市部だけでなく地方における過疎化や高齢化といった課題への対応策としても注目されています。学校体育館という身近な場所で多様な人々が集う機会が生まれることで、地域社会全体の活性化に繋がることが期待されます。今後、実験結果を詳細に分析し、本格的な導入に向けた課題や改善点が検討される予定です。",
+      "translationZh": "此次地区开放实验，不仅在城市地区，在应对地方人口稀少和老龄化等问题方面也备受瞩目。通过在学校体育馆这一近身场所创造不同人群聚集的机会，有望带动整个地区社会的活性化。今后，将对实验结果进行详细分析，并研究正式引进所面临的课题和改进点。",
+      "translationEn": "This regional opening experiment is drawing attention not only in urban areas but also as a measure to address issues such as depopulation and aging in rural areas. By creating opportunities for diverse people to gather in familiar places like school gymnasiums, it is expected to lead to the revitalization of the entire local community. In the future, the experimental results will be analyzed in detail, and challenges and improvements for full-scale implementation will be considered.",
+      "id": "b542d5dc-0d08-49db-8e2f-0ef2d72bf9b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "振興",
+      "reading": "しんこう",
+      "meaningZh": "振兴，促进",
+      "meaningEn": "promotion, development",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の振興策が発表された。",
+      "id": "80ca9570-e29e-42d6-94d8-9123c259ed3c"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流，交往",
+      "meaningEn": "exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "異文化交流は視野を広げる。",
+      "id": "5f68690c-90ea-48e5-9380-9a7478d03ecf"
+    },
+    {
+      "word": "運びとなりました",
+      "reading": "はこびとなりました",
+      "meaningZh": "（事情）进展到……（这一步），（事情）将要……",
+      "meaningEn": "it has come to the point where..., it is decided that...",
+      "level": "n2n1",
+      "exampleSentence": "協議の結果、来年度からの実施という運びとなりました。",
+      "id": "02722f72-384f-4fe7-b541-71945d204c37"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限制，限定",
+      "meaningEn": "limitation, restriction",
+      "level": "n3",
+      "exampleSentence": "この割引は会員限定です。",
+      "id": "d649c1a5-1306-4f0e-9895-8887b3577793"
+    },
+    {
+      "word": "図る",
+      "reading": "はかる",
+      "meaningZh": "图谋，策划；谋求，力求",
+      "meaningEn": "to plan, to attempt, to seek",
+      "level": "n2n1",
+      "exampleSentence": "事故防止を図るため、安全対策を強化した。",
+      "id": "12cc4ead-3dcf-43a4-8a73-3f8ae4d68228"
+    },
+    {
+      "word": "増進",
+      "reading": "ぞうしん",
+      "meaningZh": "增进，促进",
+      "meaningEn": "promotion, improvement",
+      "level": "n2n1",
+      "exampleSentence": "健康増進のため、毎日運動している。",
+      "id": "36239702-1c25-4c3e-8ba4-537a562faf6c"
+    },
+    {
+      "word": "有効活用",
+      "reading": "ゆうこうかつよう",
+      "meaningZh": "有效利用",
+      "meaningEn": "effective use, making good use of",
+      "level": "n2n1",
+      "exampleSentence": "遊休資産の有効活用が課題となっている。",
+      "id": "7a1cdac2-4645-4ec7-9ff5-5e0ad731b732"
+    },
+    {
+      "word": "見られる",
+      "reading": "みられる",
+      "meaningZh": "（被）认为，被看作",
+      "meaningEn": "to be seen as, to be regarded as",
+      "level": "n3",
+      "exampleSentence": "彼の発言は、本音ではないと見られている。",
+      "id": "ea0ea3e4-5635-4bd6-b9e8-df5bf87c68bc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校体育館の地域開放実験の主な目的は何ですか。",
+      "options": [
+        "学校の施設を商業利用すること",
+        "地域住民のスポーツ振興と交流促進",
+        "学校の教育活動を地域住民に公開すること",
+        "学校の維持費を削減すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "「地域社会における健康増進及び住民間の交流活性化を図るため、一部の公立学校体育館を地域住民に開放する実験事業が実施される運びとなりました。」とあります。",
+      "id": "fd8d9189-b62f-471a-b803-3c81843bb407"
+    },
+    {
+      "question": "地域住民が体育館を利用するために、どのような手続きが必要ですか。",
+      "options": [
+        "特に手続きは必要ない",
+        "事前に自治体の窓口または学校へ申し込む必要がある",
+        "利用当日に体育館で直接申し込む",
+        "地域住民であることを証明する書類を提出する必要がある"
+      ],
+      "correctIndex": 1,
+      "explanation": "「参加を希望する住民は、事前に自治体の窓口または学校を通じて申し込み手続きを行う必要があります。」とあります。",
+      "id": "a978e1da-634e-45f4-aa82-cfe4019a2813"
+    },
+    {
+      "question": "今回の地域開放実験が注目されている理由の一つとして、どのような点が挙げられますか。",
+      "options": [
+        "最新のスポーツ設備が導入されるため",
+        "学校の建物を地域活性化の核とするため",
+        "地方における過疎化や高齢化といった課題への対応策としても期待されているため",
+        "教育効果の向上が見込まれるため"
+      ],
+      "correctIndex": 2,
+      "explanation": "「今回の地域開放実験は、都市部だけでなく地方における過疎化や高齢化といった課題への対応策としても注目されています。」とあります。",
+      "id": "a1280961-8365-41b8-a0c5-ff894c9cdeeb"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-05-124842a915",
+  "publishedAt": "2026-08-05T06:00:00+09:00"
+}

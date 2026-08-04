@@ -1,0 +1,126 @@
+{
+  "title": "学校体育館、地域に開放！新しい試み始まる",
+  "summary": "地域住民の交流と健康増進のため、学校の体育館を地域に開放する実験が始まりました。この取り組みについて詳しく見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、いくつかの地域で学校の体育館を、放課後や休日に地域住民にも開放する実験的な取り組みが始まっています。これまで学校の施設は主に生徒のために使われてきましたが、これを地域のために活用しようというわけです。住民同士の交流を深めたり、運動不足の解消につながったりすることが期待されています。",
+      "translationZh": "最近，一些地区开始了实验性措施，在放学后或节假日将学校的体育馆也向社区居民开放。过去，学校的设施主要供学生使用，但现在打算将其用于社区。人们期待此举能加深居民之间的交流，并有助于解决运动不足的问题。",
+      "translationEn": "Recently, an experimental initiative has begun in several areas to open school gymnasiums to community residents after school hours or on holidays. Previously, school facilities were mainly used by students, but this initiative aims to utilize them for the community. It is expected to deepen interaction among residents and help alleviate a lack of physical activity.",
+      "id": "befff7b4-7e66-419b-baac-8d498a8d553d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験に参加する学校では、体育館の利用ルールを定めて、安全に利用できる体制を整えています。例えば、利用する時間帯や、どのような活動が許可されるかなどが決められています。住民からは、「近くで気軽に運動できる場所ができて嬉しい」といった声が聞かれます。子供からお年寄りまで、幅広い年代の人が利用できるのが魅力です。",
+      "translationZh": "参与此实验的学校制定了体育馆的使用规则，并建立了能够安全使用的体制。例如，规定了利用的时间段以及允许进行的活动类型。居民们表示：“很高兴能在附近有一个可以轻松运动的地方。” 它的魅力在于，从儿童到老年人，各个年龄段的人都可以使用。",
+      "translationEn": "Schools participating in this experiment have established rules for gymnasium use and have set up a system for safe utilization. For example, the hours of use and the types of activities permitted are decided. Residents have expressed positive feedback, such as, \"I'm happy to have a place nearby where I can easily exercise.\" The appeal lies in its accessibility to a wide range of age groups, from children to the elderly.",
+      "id": "5d09eb27-bc14-4a22-a0a1-98145a0973f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、地域開放を進める上で、いくつかの課題も指摘されています。例えば、施設の維持管理費をどうするか、また、学校の授業や活動との両立をどう図るかなどです。これらの課題をクリアしながら、地域と学校がより良い関係を築いていくことが大切になります。この実験が成功すれば、他の地域にも広がる可能性があります。",
+      "translationZh": "然而，在推进区域开放的过程中，也指出了几个课题。例如，如何处理设施的维护管理费用，以及如何与学校的课程和活动相协调等。在解决这些课题的同时，建立起社区和学校之间更好的关系变得很重要。如果这次实验成功，它有可能推广到其他地区。",
+      "translationEn": "However, several challenges have also been pointed out in promoting community openness. For instance, how to cover the maintenance costs of the facilities, and how to ensure compatibility with school classes and activities. It is important to build better relationships between the community and the school while overcoming these challenges. If this experiment is successful, it could potentially spread to other regions.",
+      "id": "41654cf0-c240-416e-976a-5a5d8e846ae2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "ec941cba-3d9e-43e6-9e52-e4d84543b9ab"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, open",
+      "level": "n3",
+      "exampleSentence": "図書館は午前9時に開放されます。",
+      "id": "21a47fcc-debe-404f-b28d-8e9f3ce94396"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい方法を実験しています。",
+      "id": "1eab933e-be17-4c18-a60e-aca87e288e9f"
+    },
+    {
+      "word": "住民",
+      "reading": "じゅうみん",
+      "meaningZh": "居民",
+      "meaningEn": "resident, inhabitant",
+      "level": "n3",
+      "exampleSentence": "地域の住民がイベントに参加しました。",
+      "id": "d3e79b07-f2ab-4975-a3b2-5f8c235bcf36"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "文化交流は大切です。",
+      "id": "635deb3a-1fd8-4972-9b6b-d6612b30b52d"
+    },
+    {
+      "word": "運動不足",
+      "reading": "うんどうぶそく",
+      "meaningZh": "运动不足",
+      "meaningEn": "lack of exercise",
+      "level": "n3",
+      "exampleSentence": "運動不足にならないように、毎日散歩しています。",
+      "id": "1aae06ae-3823-43c9-b468-140d6f688efa"
+    },
+    {
+      "word": "維持管理",
+      "reading": "いじかんり",
+      "meaningZh": "维持管理",
+      "meaningEn": "maintenance, upkeep",
+      "level": "n2n1",
+      "exampleSentence": "建物の維持管理にはお金がかかります。",
+      "id": "5be2789d-ea6b-4fab-afc2-e54d3cf9fbf3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館が地域に開放される目的は何ですか？",
+      "options": [
+        "学校の授業料を増やすため",
+        "地域住民の交流と健康増進のため",
+        "新しいスポーツを教えるため",
+        "学校の建物を新しくするため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「住民同士の交流を深めたり、運動不足の解消につながったりすることが期待されています。」とあります。",
+      "id": "7825f34b-8573-41da-8a58-4174086ada09"
+    },
+    {
+      "question": "学校の体育館を地域に開放する上で、課題として挙げられていることは何ですか？",
+      "options": [
+        "住民が学校に興味を持たないこと",
+        "体育館が古すぎること",
+        "維持管理費や学校活動との両立",
+        "地域住民がスポーツをしないこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「例えば、施設の維持管理費をどうするか、また、学校の授業や活動との両立をどう図るかなどです。」とあります。",
+      "id": "bdaab95c-7c50-4fe6-9a1b-f2bdc248f22f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-05-124842a915",
+  "publishedAt": "2026-08-05T06:00:00+09:00"
+}
