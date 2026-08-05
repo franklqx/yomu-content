@@ -1,0 +1,134 @@
+{
+  "title": "スマートシティ実験区の成果、未来の暮らしはどう変わる？",
+  "summary": "スマートシティ実証区での実験が成功裏に終わり、私たちの生活をより便利で快適にする技術の導入が進んでいます。今回の実験成果から、未来の暮らしの可能性が見えてきました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある街でスマートシティの実証実験が行われました。この実験では、AIを活用した交通システムや、エネルギーを効率的に使うための新しい技術が試されました。実験に参加した住民からは、「信号がスムーズに変わるおかげで、待ち時間が減った」といった声が聞かれました。",
+      "translationZh": "最近，在一个城市里进行了智能城市（Smart City）的实证实验。这次实验尝试了利用AI的交通系统以及用于高效利用能源的新技术。参加实验的居民表示：“因为信号灯变化很顺畅，等待时间减少了。”",
+      "translationEn": "Recently, a demonstration experiment for a smart city was conducted in a certain town. In this experiment, AI-powered traffic systems and new technologies for efficient energy use were tested. Residents who participated in the experiment commented, \"Thanks to the smooth traffic light changes, waiting times have been reduced.\"",
+      "id": "91a78646-290e-4673-8844-dc95a8121426",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目されたのは、地域全体でエネルギーを管理するシステムです。家庭やビルで使われなかった電力を、必要としている場所に自動で送ることができるようになりました。これにより、無駄なエネルギー消費が大幅に減り、環境にも優しい街づくりが期待されています。",
+      "translationZh": "特别引人注目的是一个管理整个地区能源的系统。现在可以将家庭和建筑物中未使用的电力自动输送到需要的地方。这大大减少了能源的浪费，并有望建设对环境友好的城市。",
+      "translationEn": "Particularly noteworthy was the system for managing energy across the entire region. It has become possible to automatically send unused electricity from homes and buildings to places where it is needed. This significantly reduces wasted energy consumption and is expected to contribute to environmentally friendly urban development.",
+      "id": "1f9fd67d-78c6-44a1-b1fd-788ca27fa741",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、高齢者や体の不自由な方々の生活をサポートする技術も試されました。例えば、スマートスピーカーを通じて、緊急時にすぐに助けを呼べたり、健康状態をチェックしてもらえたりします。このような技術が進めば、誰もが安心して暮らせる社会が実現するでしょう。",
+      "translationZh": "此外，还尝试了支持老年人和残疾人生活的技术。例如，通过智能音箱，可以在紧急情况下立即呼叫帮助，或者进行健康状况检查。如果这些技术得以发展，就能实现一个任何人都能安心生活的社会。",
+      "translationEn": "Furthermore, technologies to support the lives of the elderly and people with disabilities were also tested. For example, through smart speakers, one can immediately call for help in emergencies or have their health status checked. If such technologies advance, a society where everyone can live with peace of mind will be realized.",
+      "id": "c9a6167f-0eec-4c1b-8e25-85d1764b4eed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの実験はまだ始まったばかりですが、スマートシティが私たちの未来の生活をより豊かに、そして便利にしてくれる可能性を示しています。今後、こうした技術がどのように発展していくのか、目が離せません。",
+      "translationZh": "这些实验才刚刚开始，但它们展示了智能城市将我们的未来生活变得更丰富、更便利的可能性。今后，这些技术将如何发展，值得我们密切关注。",
+      "translationEn": "Although these experiments have just begun, they show the potential of smart cities to enrich and convenience our future lives. We cannot take our eyes off how these technologies will develop in the future.",
+      "id": "244bcb7e-7554-4628-b2a2-1fa6bd091f15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "实证实验，验证性实验",
+      "meaningEn": "demonstration experiment, pilot test",
+      "level": "n3",
+      "exampleSentence": "新しいシステムの効果を実証実験で確認しました。",
+      "id": "6d351615-9403-42b9-ac73-22fa4c27c41d"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "活用，利用",
+      "meaningEn": "utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "AIを教育に活用する方法を研究しています。",
+      "id": "71732a0a-6c29-4d0e-913c-d7b2f73b8871"
+    },
+    {
+      "word": "交通システム",
+      "reading": "こうつうシステム",
+      "meaningZh": "交通系统",
+      "meaningEn": "traffic system",
+      "level": "n3",
+      "exampleSentence": "スマートシティでは、交通システムが自動化される予定です。",
+      "id": "eae99e66-2211-4f07-9751-71940e171fcc"
+    },
+    {
+      "word": "効率的",
+      "reading": "こうりつてき",
+      "meaningZh": "效率高的",
+      "meaningEn": "efficient",
+      "level": "n3",
+      "exampleSentence": "資源を効率的に使うことが大切です。",
+      "id": "f5efbbc0-8329-4407-a7b0-411097edee84"
+    },
+    {
+      "word": "無駄",
+      "reading": "むだ",
+      "meaningZh": "浪费",
+      "meaningEn": "waste",
+      "level": "n3",
+      "exampleSentence": "電気の無駄遣いをしないようにしましょう。",
+      "id": "9a5807d1-56d8-4b9b-9e2c-ceb1e00e88b2"
+    },
+    {
+      "word": "スマートスピーカー",
+      "reading": "スマートスピーカー",
+      "meaningZh": "智能音箱",
+      "meaningEn": "smart speaker",
+      "level": "n3",
+      "exampleSentence": "スマートスピーカーに音楽をかけてもらいました。",
+      "id": "2cf8fca3-691a-4a73-b5d7-f771ce74806e"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaningZh": "实现",
+      "meaningEn": "realization, achievement",
+      "level": "n3",
+      "exampleSentence": "長年の夢が実現しました。",
+      "id": "0c3081cf-0296-435c-8664-4f328f9e201d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実証実験で、住民からどのような声が聞かれましたか？",
+      "options": [
+        "交通渋滞がひどくなったという声",
+        "信号がスムーズに変わり、待ち時間が減ったという声",
+        "エネルギーの無駄が増えたという声",
+        "スマートスピーカーがうまく使えなかったという声"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「実験に参加した住民からは、「信号がスムーズに変わるおかげで、待ち時間が減った」といった声が聞かれました。」と述べられています。",
+      "id": "e9f4e1d7-0462-491e-8c03-22cd825b161b"
+    },
+    {
+      "question": "地域全体でエネルギーを管理するシステムは、どのような目的で行われていますか？",
+      "options": [
+        "エネルギーの価格を上げるため",
+        "家庭での電力使用量を増やすため",
+        "エネルギーの無駄を減らし、環境に優しい街づくりをするため",
+        "新しい発電所を建設するため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「これにより、無駄なエネルギー消費が大幅に減り、環境にも優しい街づくりが期待されています。」と、エネルギー管理システムの目的について説明されています。",
+      "id": "8daee0db-e5cc-41b8-967e-a196e34eeb8d"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-06-1ed3373102",
+  "publishedAt": "2026-08-06T06:00:00+09:00"
+}

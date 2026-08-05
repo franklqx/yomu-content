@@ -1,0 +1,131 @@
+{
+  "title": "スマートシティ実験、成功！",
+  "summary": "新しい街の実験が終わりました。とても良い結果が出ました。人々はもっと便利になりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この前、ある街で新しい実験がありました。この街は「スマートシティ」という名前です。これは、新しい技術を使った街のことです。実験は街をもっと便利にするためのものです。多くの人が実験に参加しました。",
+      "translationZh": "前几天，一个城市进行了一项新实验。这个城市叫做“智能城市”。这是指使用新技术建造的城市。实验是为了让城市更加便利。很多人参加了实验。",
+      "translationEn": "Recently, a new experiment was held in a city. This city is named 'Smart City'. This means a city that uses new technology. The experiment was to make the city more convenient. Many people participated in the experiment.",
+      "id": "2b3d3e75-91d3-4c78-aa0e-9f019b03991e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験では、自動運転の車が走りました。信号機も賢くなりました。家でも、電気や水の使いすぎを防ぐことができました。地域の人々の生活が、もっと安全で、もっと楽になりました。",
+      "translationZh": "在实验中，自动驾驶汽车在行驶。交通信号灯也变得更智能了。在家也能防止过度使用电力和水。当地人们的生活变得更安全、更轻松了。",
+      "translationEn": "In the experiment, self-driving cars ran. Traffic lights also became smarter. At home, it was possible to prevent overuse of electricity and water. The lives of local people became safer and easier.",
+      "id": "7262d336-2d02-405b-93af-b035bf054659",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験の結果はとても良かったです。街の人が「便利になった」と言いました。また、「安心できるようになった」という声もありました。この技術は、他の街でも使えるかもしれません。",
+      "translationZh": "实验结果非常好。城市居民说“变得方便了”。还有人说“可以安心了”。这些技术也许可以在其他城市使用。",
+      "translationEn": "The results of the experiment were very good. City residents said, 'It has become convenient.' There were also comments like, 'I can feel more at ease.' These technologies might be usable in other cities too.",
+      "id": "0375ff7e-4c89-4368-8666-2a6647fce919",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スマートシティの実験は、私たちの未来の生活を良くします。これからも、新しい技術が街で使われるでしょう。みんなで協力して、もっと良い街を作りましょう。",
+      "translationZh": "智能城市的实验将改善我们未来的生活。今后，新技术也会在城市中使用。让我们一起合作，创造更好的城市吧。",
+      "translationEn": "The smart city experiment will improve our future lives. In the future, new technologies will likely be used in cities. Let's cooperate to build a better city.",
+      "id": "84c43272-631f-4e2c-a387-cf2e41db1c52",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "0ecf2d95-144b-4284-bb42-88444e0a330a"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この技術はとても進んでいます。",
+      "id": "e394459a-c475-4ca3-b07d-6c2d15d3ca1e"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この道具はとても便利です。",
+      "id": "c51429c3-9272-43a9-aec6-910b4eb72d68"
+    },
+    {
+      "word": "自動運転",
+      "reading": "じどううんてん",
+      "meaningZh": "自动驾驶",
+      "meaningEn": "self-driving",
+      "level": "n3",
+      "exampleSentence": "自動運転の車が開発されています。",
+      "id": "649e3213-117a-41bc-acf5-c46d93c53db9"
+    },
+    {
+      "word": "信号機",
+      "reading": "しんごうき",
+      "meaningZh": "信号灯",
+      "meaningEn": "traffic light",
+      "level": "n5n4",
+      "exampleSentence": "信号機が青になりました。",
+      "id": "32a8aa25-a678-4f62-afa6-aa4bcef7306f"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaningZh": "生活",
+      "meaningEn": "life, living",
+      "level": "n5n4",
+      "exampleSentence": "私の生活は忙しいです。",
+      "id": "60eea137-4dae-4fa7-ae74-4532b85a373a"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safe",
+      "level": "n5n4",
+      "exampleSentence": "この道は安全です。",
+      "id": "6a0c3a89-a0fc-49ea-bf7c-56a85e35d86a"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaningZh": "未来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "未来のことが知りたいです。",
+      "id": "fc02d634-3ee1-4320-be23-11cdc018a6ff"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実験で、何が良くなりましたか？",
+      "options": [
+        "街の人がたくさん増えた",
+        "街がもっと便利で安全になった",
+        "新しい建物がたくさんできた",
+        "実験は失敗した"
+      ],
+      "correctIndex": 1,
+      "explanation": "実験の結果、街の人は「便利になった」や「安心できるようになった」と言いました。",
+      "id": "812bdc8a-cef8-4105-b86e-0d16199542fb"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-06-1ed3373102",
+  "publishedAt": "2026-08-06T06:00:00+09:00"
+}

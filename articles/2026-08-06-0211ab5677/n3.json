@@ -1,0 +1,135 @@
+{
+  "title": "ヴィーガン和食、広がる選択肢！",
+  "summary": "最近、日本でもヴィーガン向けの和食メニューが増えています。植物性食材だけで作られた新しい和食の魅力について見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、健康志向や環境問題への関心が高まる中で、ヴィーガンという食生活を選ぶ人が増えています。ヴィーガンとは、肉や魚だけでなく、卵や乳製品、はちみつなども一切口にしない食生活のことです。そんな中、日本の伝統的な和食にもヴィーガン向けのメニューが登場し、注目を集めています。昔ながらの豆腐や野菜を使った料理はもちろん、工夫次第で様々な和食がヴィーガン仕様に生まれ変わっています。",
+      "translationZh": "近年来，随着对健康生活方式和环境问题的关注度不断提高，选择维根（Vegan）饮食生活的人越来越多。维根指的是，不仅不吃肉和鱼，连鸡蛋、乳制品、蜂蜜等也一概不摄取的饮食生活。在这种背景下，日本传统和食中也出现了面向维根的菜单，并引起了关注。除了传统的豆腐和蔬菜料理之外，通过巧妙的工夫，各种和食也焕然一新，变成了维根规格。",
+      "translationEn": "In recent years, as interest in health consciousness and environmental issues grows, more people are choosing a vegan diet. Veganism is a dietary lifestyle that excludes not only meat and fish, but also eggs, dairy products, and honey. Amidst this trend, vegan-friendly options are appearing in traditional Japanese cuisine, attracting attention. Besides classic dishes using tofu and vegetables, various Japanese foods are being transformed into vegan versions with creative effort.",
+      "id": "fb847f47-4e46-42fe-b76f-1e5d46e21912",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司の世界では、魚の代わりにアボカドや野菜を使った「ヴィーガン寿司」が人気です。また、出汁（だし）を取るときに昆布や干し椎茸を使うことで、魚介類を使わなくても美味しいスープを作ることができます。このように、ヴィーガン向け和食は、素材の味を活かしながら、従来の和食の良さを損なわないように工夫されているのが特徴です。多くのレストランが、ヴィーガンのお客さんでも安心して楽しめるメニューを提供し始めています。",
+      "translationZh": "例如，在寿司界，使用牛油果或蔬菜代替鱼肉制作的“维根寿司”很受欢迎。另外，在制作高汤（Dashi）时，使用昆布和干香菇，即使不使用鱼介类，也能做出美味的汤。像这样，维根和食的特点是，在发挥食材本身的味道的同时，又不损害传统和食的优点。许多餐厅开始提供即使是维根顾客也能安心享用的菜单。",
+      "translationEn": "For instance, in the world of sushi, 'vegan sushi' using avocado or vegetables instead of fish is gaining popularity. Furthermore, by using kombu and dried shiitake mushrooms when making dashi (broth), delicious soups can be created without using seafood. Thus, vegan Japanese cuisine is characterized by its ingenuity in preserving the goodness of traditional Japanese food while highlighting the natural flavors of the ingredients. Many restaurants are beginning to offer menus that vegan customers can enjoy with peace of mind.",
+      "id": "49034145-8819-498b-bf4d-cf3bfba36aa2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン和食の広がりは、日本食の多様性を豊かにするだけでなく、これまで和食に馴染みがなかった人たちにも新しい発見をもたらしています。植物性食材だけでも、こんなに美味しくて満足感のある食事ができることを知ると、食の選択肢が大きく広がると言えるでしょう。今後も、ヴィーガン和食の新しいメニューやお店がさらに増えていくことが期待されます。",
+      "translationZh": "维根和食的普及，不仅丰富了日本食的多样性，也为那些过去对日本食不太熟悉的人们带来了新的发现。了解到即使只用植物性食材也能做出如此美味且令人满足的餐点，可以说饮食的选择范围得到了极大的扩展。今后，人们也期待维根和食的新菜单和新店铺能够进一步增加。",
+      "translationEn": "The spread of vegan Japanese cuisine not only enriches the diversity of Japanese food but also brings new discoveries to people who were not previously familiar with it. Knowing that such delicious and satisfying meals can be made solely with plant-based ingredients significantly broadens one's culinary options. It is expected that new vegan Japanese menus and restaurants will continue to increase in the future.",
+      "id": "92e8421b-1503-4f8a-9794-5b3dda0fd911",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ヴィーガン",
+      "reading": "ゔぃーがん",
+      "meaningZh": "素食者（不吃任何动物制品）",
+      "meaningEn": "vegan (person who does not eat any animal products)",
+      "level": "n3",
+      "exampleSentence": "彼女は健康のためにヴィーガンになった。",
+      "id": "a6420611-01af-4f68-bb01-781b89bf4b4e"
+    },
+    {
+      "word": "乳製品",
+      "reading": "にゅうせいひん",
+      "meaningZh": "奶制品",
+      "meaningEn": "dairy products",
+      "level": "n3",
+      "exampleSentence": "牛乳やチーズは乳製品です。",
+      "id": "f29c01b9-6dd1-4331-bdbc-cb4fa8fbee6d"
+    },
+    {
+      "word": "はちみつ",
+      "reading": "はちみつ",
+      "meaningZh": "蜂蜜",
+      "meaningEn": "honey",
+      "level": "n3",
+      "exampleSentence": "紅茶にはちみつを入れるのが好きです。",
+      "id": "d84f945d-4188-4360-8cfb-e01e7ac057df"
+    },
+    {
+      "word": "仕様",
+      "reading": "しよう",
+      "meaningZh": "规格，样式",
+      "meaningEn": "specification, spec",
+      "level": "n3",
+      "exampleSentence": "この製品は最新の仕様になっています。",
+      "id": "8a766c09-aa4b-4438-851f-129e2850721f"
+    },
+    {
+      "word": "出汁",
+      "reading": "だし",
+      "meaningZh": "（日式）高汤",
+      "meaningEn": "dashi (Japanese soup stock)",
+      "level": "n3",
+      "exampleSentence": "味噌汁を作るために、まず出汁をとります。",
+      "id": "3d45a4ed-ea3b-4a5e-8a54-984c732bfb4e"
+    },
+    {
+      "word": "昆布",
+      "reading": "こんぶ",
+      "meaningZh": "海带",
+      "meaningEn": "kombu (kelp)",
+      "level": "n3",
+      "exampleSentence": "出汁を取るのに昆布は欠かせません。",
+      "id": "3187436a-f19f-4e02-beda-d8c438783dc5"
+    },
+    {
+      "word": "干し椎茸",
+      "reading": "ほししいたけ",
+      "meaningZh": "干香菇",
+      "meaningEn": "dried shiitake mushroom",
+      "level": "n3",
+      "exampleSentence": "煮物には干し椎茸を入れると風味が良くなります。",
+      "id": "31d45fa7-bb17-4372-b7da-d42391b731a4"
+    },
+    {
+      "word": "馴染み",
+      "reading": "なじみ",
+      "meaningZh": "熟悉，亲近",
+      "meaningEn": "familiarity, acquaintance",
+      "level": "n3",
+      "exampleSentence": "新しい環境に早く馴染みたいです。",
+      "id": "41a7d827-1397-4554-a534-57620770b487"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガンはどのような食生活を送る人たちのことですか？",
+      "options": [
+        "肉や魚だけを食べない人",
+        "卵や乳製品も食べない人",
+        "野菜しか食べない人",
+        "はちみつだけは食べる人"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最初の段落に「ヴィーガンとは、肉や魚だけでなく、卵や乳製品、はちみつなども一切口にしない食生活のことです。」とあります。",
+      "id": "0ee8ea42-65ea-49a0-999e-6185b1518913"
+    },
+    {
+      "question": "ヴィーガン向けの和食を作る工夫として、本文で紹介されていることは何ですか？",
+      "options": [
+        "味付けを濃くすること",
+        "出汁に魚介類を多く使うこと",
+        "アボカドや野菜で寿司を作ること",
+        "大量のバターを使うこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の2番目の段落に「例えば、お寿司の世界では、魚の代わりにアボカドや野菜を使った「ヴィーガン寿司」が人気です。」とあります。",
+      "id": "6d7ce4f2-c932-4da1-99c8-99ac1eb17cfd"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-06-0211ab5677",
+  "publishedAt": "2026-08-06T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "瀬戸内海の新しい旅",
+  "summary": "瀬戸内海で新しいクルーズ旅行を楽しみましょう。美しい島々を巡る旅は、とても素晴らしいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海は日本の美しい海です。たくさんの島があります。その島々を船で回るのがクルーズです。最近、新しいクルーズの楽しみ方が増えました。",
+      "translationZh": "濑户内海是日本美丽的大海。有很多岛屿。乘船游览这些岛屿就是巡游。最近，增加了新的游览乐趣。",
+      "translationEn": "The Seto Inland Sea is a beautiful sea in Japan. There are many islands. Cruising means going around those islands by ship. Recently, new ways to enjoy cruises have increased.",
+      "id": "fcb10625-32f1-4d14-b724-d5663d6df6b8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、島に泊まることができます。夜は静かで、星がとてもきれいです。昼間は島でサイクリングをしました。景色が最高でした。",
+      "translationZh": "例如，可以在岛上住宿。夜晚很安静，星星非常美丽。白天我在岛上骑了自行车。景色绝佳。",
+      "translationEn": "For example, you can stay on an island. The night is quiet, and the stars are very beautiful. During the day, I cycled on the island. The scenery was the best.",
+      "id": "a94d58b0-bae7-422f-9cfa-a0c19f145862",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、船の上で美味しいものを食べることもできます。地元の魚や果物を使った料理は、とてもおいしかったです。特別な時間になりました。",
+      "translationZh": "另外，也可以在船上吃美味的东西。使用当地鱼和水果做的料理，非常好吃。度过了特别的时光。",
+      "translationEn": "Also, you can eat delicious food on the ship. The dishes made with local fish and fruits were very tasty. It became a special time.",
+      "id": "4c22ff19-4ff9-43ec-a80a-9b5b09edceab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "次は何をしようかと考えています。まだ行っていない島がたくさんあります。またすぐに瀬戸内海に行きたいです。",
+      "translationZh": "我正在想下次要做什么。还有很多没去过的岛。我很快就想再去濑户内海。",
+      "translationEn": "I am thinking about what to do next. There are many islands I haven't visited yet. I want to go to the Seto Inland Sea again soon.",
+      "id": "834d546f-f3ce-4026-ac2e-f80c89c5312f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": "瀬戸内海はきれいです。",
+      "id": "2ab0fbba-14b5-4a85-b423-1655dd0451b4"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "きれいな島に行きたいです。",
+      "id": "99c33d6e-38b5-4181-a159-491459373d99"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "ship, boat",
+      "level": "n5n4",
+      "exampleSentence": "船に乗りました。",
+      "id": "7375f657-d72c-4cc2-9aac-ead6806b2767"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "旅行は楽しいです。",
+      "id": "7cd9405b-fa13-4fb4-87d9-3f1f30e4a1b2"
+    },
+    {
+      "word": "泊まる",
+      "reading": "とまる",
+      "meaningZh": "住宿",
+      "meaningEn": "to stay (at a hotel, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "ホテルに泊まりました。",
+      "id": "89d18d2f-06fd-4dac-be79-77e19a81fa8e"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "景色が美しいです。",
+      "id": "b174a552-74a9-4b08-9ddb-b1c1fa3f1427"
+    },
+    {
+      "word": "美味しい",
+      "reading": "おいしい",
+      "meaningZh": "好吃的",
+      "meaningEn": "delicious, tasty",
+      "level": "n5n4",
+      "exampleSentence": "このケーキは美味しいです。",
+      "id": "5f0f1fa8-7968-4684-8500-fcafa9759334"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "船の上で何ができますか。",
+      "options": [
+        "島に泊まること",
+        "美味しいものを食べること",
+        "星を見ること",
+        "サイクリングをすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「また、船の上で美味しいものを食べることもできます。」と書いてあります。",
+      "id": "f809a9dd-d593-4ac5-85b0-12c2d4eb560a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-06-16e5f7aacc",
+  "publishedAt": "2026-08-06T06:00:00+09:00"
+}

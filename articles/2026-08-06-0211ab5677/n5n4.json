@@ -1,0 +1,114 @@
+{
+  "title": "ベジタリアン和食楽しもう！",
+  "summary": "最近、ベジタリアンやヴィーガンのための和食が増えています。新しい和食の形を楽しんでみませんか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でベジタリアンやヴィーガンの人が増えています。このため、レストランやお店で、肉や魚を使わない料理が増えました。特に和食は、野菜やお米をたくさん使います。だから、ベジタリアン向けの和食を作りやすいです。",
+      "translationZh": "最近，日本吃素（不吃肉、鱼、蛋奶等）的人增加了。因此，餐馆和商店里不使用肉或鱼的菜肴也变多了。尤其是和食，会使用很多蔬菜和大米。所以，做适合素食者的和食比较容易。",
+      "translationEn": "Recently, the number of vegetarians and vegans has been increasing in Japan. Because of this, there are more dishes that do not use meat or fish in restaurants and shops. Especially Japanese food uses a lot of vegetables and rice. Therefore, it is easy to make Japanese food for vegetarians.",
+      "id": "3f82d44e-4ed3-4232-83ed-eff66460390a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司でも、魚の代わりに野菜や豆腐を使ったものがあります。天ぷらも、野菜だけにしたものがあります。お味噌汁も、だしを昆布や野菜からとって作ることができます。このように、いろいろな工夫で、美味しい和食が食べられます。",
+      "translationZh": "比如，寿司也有用蔬菜或豆腐代替鱼做的。天妇罗也有只用蔬菜做的。味噌汤也可以用昆布或蔬菜来制作高汤。像这样，通过各种创意，就可以吃到美味的和食。",
+      "translationEn": "For example, even with sushi, there are types made with vegetables or tofu instead of fish. Tempura also has versions made only with vegetables. Miso soup can also be made using dashi from konbu or vegetables. In this way, delicious Japanese food can be eaten with various ideas.",
+      "id": "7fce59fa-555c-4338-9606-0eae348ee627",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ベジタリアンやヴィーガンの和食は、まだ少ないかもしれません。でも、これからもっと増えるでしょう。新しい和食のメニューを試してみるのはどうですか。きっと新しい発見がありますよ。",
+      "translationZh": "适合素食者的和食可能还不多。但是，今后会增加得更多吧。要不要试试新的和食菜单呢？一定会有新的发现哦。",
+      "translationEn": "Vegan-friendly Japanese food might still be limited. However, it will likely increase more from now on. How about trying new Japanese food menus? You will surely make new discoveries.",
+      "id": "e4065cc1-e368-4c2a-b162-fa22f78dd440",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近，近来",
+      "meaningEn": "recently, lately",
+      "level": "n5n4",
+      "exampleSentence": "最近、元気ですか。",
+      "id": "278835ef-3ac5-4095-8c7f-03cb323a7786"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase, to multiply",
+      "level": "n5n4",
+      "exampleSentence": "学生がまた増えました。",
+      "id": "d7963a1b-7162-4556-8e3f-ac5ea271788c"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "料理，烹饪",
+      "meaningEn": "cooking, cuisine",
+      "level": "n5n4",
+      "exampleSentence": "この料理はとても美味しいです。",
+      "id": "467602e9-368b-4cc1-830f-c8d978a467f3"
+    },
+    {
+      "word": "野菜",
+      "reading": "やさい",
+      "meaningZh": "蔬菜",
+      "meaningEn": "vegetable",
+      "level": "n5n4",
+      "exampleSentence": "毎日、野菜を食べます。",
+      "id": "95e4c2df-7408-4e4b-ac1f-0276667a69a9"
+    },
+    {
+      "word": "豆腐",
+      "reading": "とうふ",
+      "meaningZh": "豆腐",
+      "meaningEn": "tofu",
+      "level": "n5n4",
+      "exampleSentence": "豆腐はヘルシーです。",
+      "id": "01d95bcb-8832-4ef0-acd3-5ce4597043b1"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "创造，设法，想办法",
+      "meaningEn": "device, scheme, ingenuity",
+      "level": "n3",
+      "exampleSentence": "いろいろな工夫をして、問題を解決しました。",
+      "id": "0e957cd9-9224-435e-8b59-7b504b0f10bd"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しい星を発見しました。",
+      "id": "05174bf5-466c-4135-a567-a26aa1b9999c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ、ベジタリアン向けの和食が増えていますか。",
+      "options": [
+        "魚がたくさん取れるからです。",
+        "ベジタリアンやヴィーガンの人が増えたからです。",
+        "和食は作るのが簡単だからです。",
+        "野菜が高くなったからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最近、日本でベジタリアンやヴィーガンの人が増えています。このため、レストランやお店で、肉や魚を使わない料理が増えました。」と書いてあります。",
+      "id": "784caa05-cc04-4cc9-a5ac-77927d4a60f1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-06-0211ab5677",
+  "publishedAt": "2026-08-06T06:00:00+09:00"
+}
