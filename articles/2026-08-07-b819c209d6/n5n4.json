@@ -1,0 +1,122 @@
+{
+  "title": "カフェ新メニュー！予約は？",
+  "summary": "人気のアニメカフェに新しいメニューが出ました。予約が取りにくいかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "新しいアニメのコラボカフェが始まりました。キャラクターの限定メニューがあります。とても人気があります。",
+      "translationZh": "新的动画合作咖啡馆开始了。有角色的限定菜单。非常受欢迎。",
+      "translationEn": "A new anime collaboration cafe has started. There are limited menus with characters. It is very popular.",
+      "id": "5c844725-3820-4564-96f3-8283e0e52ac3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特別な飲み物や食べ物があります。見た目もきれいです。ファンは写真をたくさん撮りました。",
+      "translationZh": "有特别的饮料和食物。看起来也很漂亮。粉丝们拍了很多照片。",
+      "translationEn": "There are special drinks and food. They look beautiful too. Fans took many photos.",
+      "id": "370bb753-562b-4b0d-9000-b5534bc1d224",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "カフェはいつも混んでいます。予約が必要です。でも、予約もすぐにいっぱいになります。",
+      "translationZh": "咖啡馆总是很拥挤。需要预约。但是，预约也很快就满了。",
+      "translationEn": "The cafe is always crowded. Reservations are necessary. However, reservations also fill up quickly.",
+      "id": "b3943fa4-9c29-449a-844d-e86da5eeafb7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "行きたい人は、早く予約したほうがいいです。ウェブサイトをチェックしてください。",
+      "translationZh": "想去的人，最好早点预约。请检查网站。",
+      "translationEn": "People who want to go should make a reservation early. Please check the website.",
+      "id": "331f9ed9-6d22-4f69-84ca-de439937b53b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメは人気があります。",
+      "id": "8f946064-fba3-414a-a79a-c892c4bea278"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "これは限定のグッズです。",
+      "id": "db40f5db-0d7a-48d0-8e12-d839b77d22e4"
+    },
+    {
+      "word": "メニュー",
+      "reading": "め-",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "メニューを見せてください。",
+      "id": "06f699c8-76f5-4415-8031-138ff1b01fff"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "特別な日です。",
+      "id": "0a56d726-4a0c-462b-881a-6bc6f6fd3016"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤",
+      "meaningEn": "to be crowded",
+      "level": "n5n4",
+      "exampleSentence": "電車が混んでいます。",
+      "id": "965a6ccc-7f06-44ec-9aa4-17d2a0110615"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "9b206908-06c4-430c-a8f4-907784a68498"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaningZh": "必要",
+      "meaningEn": "necessary",
+      "level": "n5n4",
+      "exampleSentence": "予約が必要です。",
+      "id": "43213268-6bab-430e-8b71-588d19113ec8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "カフェに行くためには、何が必要ですか。",
+      "options": [
+        "お金",
+        "時間",
+        "予約",
+        "友達"
+      ],
+      "correctIndex": 2,
+      "explanation": "「予約が必要です。」と書いてあります。",
+      "id": "0b472037-d1c6-46b1-a4b3-bda250215168"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-07-b819c209d6",
+  "publishedAt": "2026-08-07T06:00:00+09:00"
+}

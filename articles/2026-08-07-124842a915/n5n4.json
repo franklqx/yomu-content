@@ -1,0 +1,131 @@
+{
+  "title": "体育館、みんなの場所！",
+  "summary": "学校の体育館が地域の人にも開かれました。これは新しい実験です。たくさんの人が喜んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町で、学校の体育館を地域の人に開放する実験が始まりました。週末や放課後、大人も子供も体育館で運動ができます。これはとても良い考えだと思います。",
+      "translationZh": "在这个小镇上，一项将学校体育馆向社区居民开放的实验开始了。周末和放学后，大人和孩子们都可以在体育馆里运动。我认为这是个非常好的主意。",
+      "translationEn": "In this town, an experiment to open school gymnasiums to community residents has begun. On weekends and after school, adults and children can exercise in the gymnasium. I think this is a very good idea.",
+      "id": "44bf4bf1-5ec7-49a6-afc5-d9cbac20dbe9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今まで、体育館は主に生徒たちのためにありました。でも、これからは地域の人たちも気軽に利用できるようになります。バドミントンをしたり、バスケットボールをしたりする人が増えるでしょう。",
+      "translationZh": "以前，体育馆主要供学生使用。但是，从现在开始，社区居民也可以轻松地利用它。打羽毛球、打篮球的人可能会增加。",
+      "translationEn": "Until now, the gymnasium was mainly for students. But from now on, community residents can also easily use it. People playing badminton and basketball will likely increase.",
+      "id": "00bca630-4137-482e-8cd3-897adb69f760",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、地域の人々の健康を増進することを目指しています。また、学校と地域とのつながりを強くすることも目的の一つです。みんなで体育館を使うことで、新しい友達ができるかもしれません。",
+      "translationZh": "这项实验旨在促进社区居民的健康。同时，也以加强学校与社区的联系为目的之一。通过大家一起使用体育馆，也许能交到新朋友。",
+      "translationEn": "This experiment aims to promote the health of community residents. Another purpose is to strengthen the connection between the school and the community. By using the gymnasium together, new friendships may be formed.",
+      "id": "1fa1b7ce-9865-4dd9-9f68-1170fb7195a3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "たくさんの人がこの新しい取り組みを応援しています。実験が成功して、もっと多くの学校で同じようなことができたら嬉しいです。みんなが笑顔で運動できる場所が増えることは素晴らしいことです。",
+      "translationZh": "许多人都支持这项新的举措。如果实验成功，并且能在更多的学校开展类似活动，那就太好了。能有更多大家开心地运动的场所，真是件美好的事。",
+      "translationEn": "Many people support this new initiative. If the experiment is successful and similar activities can be carried out in more schools, it would be great. It is wonderful that there are more places where everyone can exercise happily.",
+      "id": "bed72158-7e30-4f67-b031-ee43fb89021e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "体育館でバスケットボールをしました。",
+      "id": "5880b161-a917-4dd9-b2fe-842339cfb633"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "7c1b95e5-c18b-4fc5-94aa-bc223b2a34bc"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "open (to the public)",
+      "level": "n3",
+      "exampleSentence": "公園が午前９時に開放されます。",
+      "id": "311fbad6-90d1-449f-ad17-d2a32648f7d7"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい薬の実験をしています。",
+      "id": "d219c8b7-3753-4b27-8a0f-e4ae301b155a"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaningZh": "运动",
+      "meaningEn": "exercise, sports",
+      "level": "n5n4",
+      "exampleSentence": "毎日、運動をすることが大切です。",
+      "id": "e1ea2811-7246-42ec-a8d0-fd542555f72b"
+    },
+    {
+      "word": "増進",
+      "reading": "ぞうしん",
+      "meaningZh": "促进，增进",
+      "meaningEn": "promotion, improvement",
+      "level": "n3",
+      "exampleSentence": "健康の増進のために、毎日歩いています。",
+      "id": "d6053dfc-ee3f-49de-9191-af3dc3f93e80"
+    },
+    {
+      "word": "つながり",
+      "reading": "つながり",
+      "meaningZh": "联系，关联",
+      "meaningEn": "connection, link",
+      "level": "n3",
+      "exampleSentence": "家族とのつながりを大切にしています。",
+      "id": "b2585a02-a0d0-45b9-9668-9057d36c5363"
+    },
+    {
+      "word": "取り組み",
+      "reading": "とりくみ",
+      "meaningZh": "举措，措施",
+      "meaningEn": "initiative, approach",
+      "level": "n3",
+      "exampleSentence": "新しいプロジェクトへの取り組みが始まりました。",
+      "id": "07921bce-131a-4361-bfec-4e0d70b2f02e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館は、誰が利用できるようになりますか？",
+      "options": [
+        "生徒だけ",
+        "地域の人々",
+        "先生だけ",
+        "選手だけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "今まで、体育館は主に生徒たちのためにありました。でも、これからは地域の人たちも気軽に利用できるようになります。",
+      "id": "e1d1195a-fd4f-42f6-8b4e-bbe2c5fa4d0a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-07-124842a915",
+  "publishedAt": "2026-08-07T06:00:00+09:00"
+}
