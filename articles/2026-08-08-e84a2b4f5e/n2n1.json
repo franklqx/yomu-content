@@ -1,0 +1,138 @@
+{
+  "title": "回転寿司、値上げの波　客足に変化の兆し",
+  "summary": "近年、回転寿司チェーン各社が相次いで価格改定を実施しています。食材費や人件費の高騰が背景にあると見られますが、これにより一部の顧客層からは戸惑いの声も聞かれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、多くの回転寿司チェーン店において、商品の価格が引き上げられる傾向が見られます。これは、魚介類をはじめとする原材料費の高騰や、物流コストの増加、さらには人件費の上昇などが複合的に影響しているとのことです。以前は手軽な外食として多くの人に親しまれてきた回転寿司ですが、今回の値上げにより、一部の消費者からは「以前ほど気軽に行けなくなった」といった声も上がっています。",
+      "translationZh": "近年来，许多回转寿司连锁店出现了商品价格上涨的趋势。据称，这是由于包括海鲜在内的原材料成本飙升、物流成本增加以及人工成本上升等多种因素共同作用的结果。回转寿司曾一度作为一种便捷的餐饮选择深受大众喜爱，但此次涨价也引发了一部分消费者表示“不像以前那样能轻易去吃了”。",
+      "translationEn": "In recent years, a trend of price increases for products has been observed at many conveyor belt sushi chain stores. This is reportedly due to a combination of factors, including rising costs of raw materials such as seafood, increased logistics costs, and higher labor expenses. Conveyor belt sushi, once a popular and accessible dining option for many, is now eliciting comments from some consumers such as 'it's no longer as easy to go as it used to be' following the price hike.",
+      "id": "2c2bf447-e149-4a05-baba-d433bd28d3c5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした状況に伴い、各チェーン店では顧客の離反を防ぐための施策も講じられています。例えば、一部店舗では、より安価なネタや期間限定のキャンペーン商品を充実させることで、価格帯の幅を広げ、多様なニーズに対応しようとしています。また、アプリ会員限定の割引クーポン配布や、ポイントプログラムの導入なども進められており、顧客の囲い込みに注力する動きが見られます。",
+      "translationZh": "伴随这种状况，各连锁店也正在采取措施以防止顾客流失。例如，部分店铺通过丰富更便宜的食材和限时促销商品，试图拓宽价格区间以满足多样化的需求。此外，发放仅限App会员的优惠券、引入积分项目等也在推进中，展现出集中精力挽留顾客的动向。",
+      "translationEn": "In response to this situation, various chain stores are implementing measures to prevent customer attrition. For example, some stores are attempting to cater to diverse needs by expanding their price range, offering more affordable toppings and promoting limited-time campaign products. Furthermore, initiatives such as distributing discount coupons exclusively for app members and introducing point programs are being pursued, indicating a focus on customer retention.",
+      "id": "cb29213d-89ba-40ec-8bbb-c300f5c05108",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、値上げ後も変わらず人気を保っている店舗も存在します。その要因としては、ネタの新鮮さや質の高さ、職人の技術、店舗の雰囲気などが挙げられます。長年培ってきたブランド力や、品質への信頼が、価格以上の価値を提供していると見られるため、顧客は多少の価格上昇にも納得して足を運んでいるようです。今後の回転寿司業界は、価格設定と品質維持のバランスをどのように取っていくかが、持続的な成長のための鍵となるでしょう。",
+      "translationZh": "另一方面，也有一些店铺在涨价后依然保持着不变的人气。其原因包括食材的新鲜度和高品质、师傅的手艺以及店铺的氛围等。由于多年来积累的品牌影响力和对品质的信赖，提供了超越价格的价值，顾客似乎能够接受一定程度的价格上涨并继续光顾。今后，回转寿司行业如何平衡价格设定与品质维持，将成为其持续发展的关键。",
+      "translationEn": "On the other hand, some stores have maintained their popularity unchanged even after the price increases. Factors contributing to this include the freshness and high quality of the ingredients, the skill of the chefs, and the restaurant's ambiance. It is believed that their long-cultivated brand power and trust in quality provide value beyond the price, leading customers to continue visiting despite slight price hikes. The key to sustainable growth for the conveyor belt sushi industry going forward will likely be how it balances pricing with quality maintenance.",
+      "id": "1d1ca7ab-d88f-4d8a-95f8-7e762ba61f7d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "相次ぐ",
+      "reading": "あいつぐ",
+      "meaningZh": "接连发生，接二连三",
+      "meaningEn": "to follow one after another, to occur successively",
+      "level": "n2n1",
+      "exampleSentence": "値上げが相次ぎ、家計を圧迫している。",
+      "id": "bea91900-7076-47ff-82d3-e4892e4b268e"
+    },
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "（价格等）猛涨，飞涨",
+      "meaningEn": "soaring, sharp rise (in prices, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "原油価格の高騰が経済に影響を与えている。",
+      "id": "fc636232-c8d1-4836-ae37-b7a26a7499b5"
+    },
+    {
+      "word": "複合的",
+      "reading": "ふくごうてき",
+      "meaningZh": "复合的，综合的",
+      "meaningEn": "complex, composite",
+      "level": "n2n1",
+      "exampleSentence": "問題は複合的な要因によって引き起こされている。",
+      "id": "99c9a940-a078-4e87-8863-d521bf700e5a"
+    },
+    {
+      "word": "離反",
+      "reading": "りはん",
+      "meaningZh": "离去，背离（顾客、支持者等）",
+      "meaningEn": "defection, falling away (of customers, supporters, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "サービス低下により、多くの顧客が離反した。",
+      "id": "362320f6-d18c-40cc-ad7d-e557896ae8d4"
+    },
+    {
+      "word": "施策",
+      "reading": "しさく",
+      "meaningZh": "措施，政策",
+      "meaningEn": "measure, policy",
+      "level": "n2n1",
+      "exampleSentence": "政府は経済活性化のための新たな施策を発表した。",
+      "id": "a9211cc8-8973-4637-97b7-4fedd18d78da"
+    },
+    {
+      "word": "囲い込み",
+      "reading": "かこいこみ",
+      "meaningZh": "（客户、人才等的）争取，圈定",
+      "meaningEn": "enclosing, securing (customers, talent, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "企業は優秀な人材の囲い込みに力を入れている。",
+      "id": "9f6befd9-e5dc-4bf1-97f9-126631ee5262"
+    },
+    {
+      "word": "培う",
+      "reading": "つちかう",
+      "meaningZh": "培养，培育",
+      "meaningEn": "to cultivate, to foster, to nurture",
+      "level": "n3",
+      "exampleSentence": "経験を通じて多くのスキルを培ってきた。",
+      "id": "53a6edbb-06a6-4fa9-b085-cbd75f8ab0af"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司チェーンの値上げの主な原因として、本文では何が挙げられていますか？",
+      "options": [
+        "競合店の増加による価格競争",
+        "顧客の嗜好の変化",
+        "原材料費や人件費の高騰",
+        "政府による外食産業への規制強化"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中には「魚介類をはじめとする原材料費の高騰や、物流コストの増加、さらには人件費の上昇などが複合的に影響しているとのことです。」と記載されています。",
+      "id": "71d3fcea-681d-4d54-bb9b-1f56d3e2e888"
+    },
+    {
+      "question": "値上げに伴い、各チェーン店が顧客の離反を防ぐために講じている対策として、本文に記述されているものはどれですか？",
+      "options": [
+        "全商品の価格を均一にする",
+        "高級ネタのみを提供する",
+        "アプリ会員限定の割引やポイントプログラムの導入",
+        "店舗の改装を行い、高級感を出す"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「アプリ会員限定の割引クーポン配布や、ポイントプログラムの導入なども進められており、顧客の囲い込みに注力する動きが見られます。」とあります。",
+      "id": "24ad39f6-5a60-43d8-afe7-bc21a1c0822f"
+    },
+    {
+      "question": "値上げ後も人気を保っている店舗に共通する要因は何だと本文では述べられていますか？",
+      "options": [
+        "立地条件の良さ",
+        "SNSでの積極的な広告活動",
+        "ネタの新鮮さや質の高さ、職人の技術など",
+        "低価格帯の商品ラインナップの充実"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「その要因としては、ネタの新鮮さや質の高さ、職人の技術、店舗の雰囲気などが挙げられます。」と説明されています。",
+      "id": "eb90baf2-94a6-4368-8d8b-3aed29985ed8"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-08-e84a2b4f5e",
+  "publishedAt": "2026-08-08T06:00:00+09:00"
+}

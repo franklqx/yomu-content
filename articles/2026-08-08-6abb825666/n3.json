@@ -1,0 +1,135 @@
+{
+  "title": "新学期！文房具トレンドで気分転換しよう",
+  "summary": "新しい学期が始まりますね。文房具も新しくして、気持ちをリフレッシュしませんか？今年のトレンドを紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "４月になり、多くの学校で新学期がスタートします。新しいクラス、新しい先生、そして新しい友達。そんな期待とともに、文房具を新調する人も多いのではないでしょうか。最近の文房具はデザインが豊富で、機能性も優れているものがたくさんあります。お気に入りのペンやノートがあれば、勉強のモチベーションもきっと上がりますよね。",
+      "translationZh": "四月来临，很多学校将迎来新学期。新班级、新老师，还有新朋友。伴随着这样的期待，大概也有很多人会更新文具吧。最近的文具设计种类繁多，而且有很多功能性也很优秀。如果有了喜欢的笔或笔记本，学习的动力一定会提升吧。",
+      "translationEn": "April has arrived, and many schools are starting their new term. New classes, new teachers, and new friends. Along with such expectations, many people might be getting new stationery, aren't they? Recent stationery items have a wide variety of designs and many with excellent functionality. If you have a favorite pen or notebook, your motivation to study will surely increase.",
+      "id": "ed0861ac-93db-435b-b022-80760c5e538c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年のトレンドとして注目されているのは、環境に配慮したエコな文房具です。例えば、再生紙を使ったノートや、プラスチック使用量を減らしたペンなどが人気を集めています。また、多様なニーズに応えるため、カスタマイズできる文房具も増えています。自分の好きな色や形を選んで、オリジナルのアイテムを作るのは楽しいものです。これらは、長く使えるという点でも魅力的です。",
+      "translationZh": "今年备受关注的趋势是注重环保的生态文具。例如，使用再生纸的笔记本和减少了塑料使用量的笔等正在受到欢迎。此外，为了满足多样化的需求，可定制的文具也越来越多。选择自己喜欢的颜色和形状，制作独一无二的物品是很有趣的。这些文具在可以长久使用的这一点上也非常有吸引力。",
+      "translationEn": "What's drawing attention as this year's trend is eco-friendly stationery that considers the environment. For example, notebooks made from recycled paper and pens with reduced plastic usage are gaining popularity. Also, to meet diverse needs, customizable stationery items are increasing. It's fun to choose your favorite colors and shapes to create original items. These are also attractive because they can be used for a long time.",
+      "id": "0d88998c-1c76-4c0c-a949-1349bc7f2662",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、デジタル機器との連携を考えた文房具も登場しています。スマートノートは、書いた内容を簡単にデータ化でき、共有もしやすいのが特徴です。ただし、昔ながらのシンプルなノートや鉛筆にも根強い人気があります。手書きの温かみや、インクの匂いが好きな人もいるからです。結局のところ、一番大切なのは、自分が気に入って、勉強や作業に集中できる道具を選ぶことなのでしょう。",
+      "translationZh": "此外，还出现了考虑与数字设备联动性的文具。智能笔记本的特点是，可以轻松地将书写内容数据化，并且易于共享。然而，传统的朴素笔记本和铅笔也拥有根深蒂固的人气。因为也有人喜欢手写的温暖感和墨水的味道。归根结底，最重要的是选择自己喜欢、能让自己集中精力学习或工作的工具吧。",
+      "translationEn": "Furthermore, stationery that considers integration with digital devices is also appearing. Smart notebooks are characterized by their ability to easily digitize written content, making it easy to share. However, traditional simple notebooks and pencils also have enduring popularity. This is because some people like the warmth of handwriting and the smell of ink. In the end, the most important thing is probably to choose tools that you like and that allow you to concentrate on your studies or work.",
+      "id": "cdd925c8-9dd9-480f-97d7-650193fde555",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新学期",
+      "reading": "しんがっき",
+      "meaningZh": "新学期",
+      "meaningEn": "new school term",
+      "level": "n5n4",
+      "exampleSentence": "新学期が始まったので、新しい教科書を買いました。",
+      "id": "ed4b986a-2174-46f8-9316-7c096a1db057"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "誕生日プレゼントに文房具をもらいました。",
+      "id": "7c0d4151-aeb3-412e-8599-c601b46f6fa5"
+    },
+    {
+      "word": "新調する",
+      "reading": "しんちょうする",
+      "meaningZh": "新购置，更新",
+      "meaningEn": "to buy new (something that was previously owned and used)",
+      "level": "n3",
+      "exampleSentence": "新しいスーツを新調しました。",
+      "id": "5487eb37-f0e4-4314-a540-567c381d3500"
+    },
+    {
+      "word": "モチベーション",
+      "reading": "モチベーション",
+      "meaningZh": "动力，积极性",
+      "meaningEn": "motivation",
+      "level": "n3",
+      "exampleSentence": "目標があると、モチベーションが上がります。",
+      "id": "4a24a1f9-3ffa-49c2-bd78-b1fc2f6d41dd"
+    },
+    {
+      "word": "配慮する",
+      "reading": "はいりょする",
+      "meaningZh": "关怀，关照；体谅；考虑",
+      "meaningEn": "to consider, to care for, to be mindful of",
+      "level": "n3",
+      "exampleSentence": "相手の気持ちに配慮した発言をしましょう。",
+      "id": "395d821b-6bba-4eef-a357-00735afe8e91"
+    },
+    {
+      "word": "再生紙",
+      "reading": "さいせいし",
+      "meaningZh": "再生纸",
+      "meaningEn": "recycled paper",
+      "level": "n3",
+      "exampleSentence": "このノートは再生紙で作られています。",
+      "id": "8e50dca8-197e-4b5d-a240-4d628e66b406"
+    },
+    {
+      "word": "カスタマイズ",
+      "reading": "カスタマイズ",
+      "meaningZh": "定制，客制化",
+      "meaningEn": "to customize",
+      "level": "n3",
+      "exampleSentence": "自分の好みに合わせてスマホケースをカスタマイズした。",
+      "id": "c978bef7-c259-4e1b-94e8-14ee43c65e7d"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "协作，合作；联动",
+      "meaningEn": "cooperation, collaboration, coordination",
+      "level": "n2n1",
+      "exampleSentence": "部署間の連携を強化する必要がある。",
+      "id": "a97107d2-b137-4404-97e4-210aa0679a2b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の文房具トレンドで注目されていることは何ですか？",
+      "options": [
+        "高機能なデジタル文房具",
+        "環境に配慮したエコな文房具",
+        "キャラクターもののデザイン",
+        "海外製の高級文房具"
+      ],
+      "correctIndex": 1,
+      "explanation": "今年のトレンドとして注目されているのは、環境に配慮したエコな文房具です。例えば、再生紙を使ったノートや、プラスチック使用量を減らしたペンなどが人気を集めています。",
+      "id": "54a3e8e3-b806-41a9-bf45-91916309ee06"
+    },
+    {
+      "question": "昔ながらのシンプルな文房具が人気な理由は何ですか？",
+      "options": [
+        "価格が安いから",
+        "最新技術が使われているから",
+        "手書きの温かみやインクの匂いが好きだから",
+        "学校で指定されているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "ただし、昔ながらのシンプルなノートや鉛筆にも根強い人気があります。手書きの温かみや、インクの匂いが好きな人もいるからです。",
+      "id": "f94989d8-d986-4cd0-b0e3-a906b6391ae5"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-08-6abb825666",
+  "publishedAt": "2026-08-08T06:00:00+09:00"
+}

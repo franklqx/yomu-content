@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町が元気に！",
+  "summary": "アニメの場所を訪ねる人が増えています。これは、町を元気にしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、アニメの「聖地」を訪ねる人がたくさんいます。聖地とは、アニメに出てくる場所のことです。ファンはアニメと同じ景色を見て、写真を撮ります。",
+      "translationZh": "最近，有很多粉丝去参观动画里的“圣地”。圣地是指动画中出现的地点。粉丝们会看和动画里一样的景色，并拍照留念。",
+      "translationEn": "Recently, many people are visiting anime \"sacred sites.\" Sacred sites are places that appear in anime. Fans see the same scenery as in the anime and take pictures.",
+      "id": "54d9d688-475b-4be8-ba55-ac81b2cbbeac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このような「聖地巡礼」は、小さな町に新しい活気をもたらしました。観光客が増え、お店も忙しくなりました。おみやげ物屋やレストランは、アニメのグッズを売ることもあります。",
+      "translationZh": "这种“圣地巡礼”给小镇带来了新的活力。游客增加了，商店也变得忙碌起来。礼品店和餐馆有时也会卖动画相关的周边商品。",
+      "translationEn": "This kind of \"pilgrimage to sacred sites\" has brought new vitality to small towns. Tourists have increased, and shops have become busy. Souvenir shops and restaurants sometimes sell anime merchandise.",
+      "id": "783523e9-a44b-438c-a6da-d0147d089faa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人々も、アニメのファンを温かく迎えます。町がきれいになったり、新しいイベントが作られたりすることもあります。アニメのおかげで、町がもっと好きになる人が増えています。",
+      "translationZh": "镇上的人们也热情地欢迎动画粉丝。有时，小镇会变得更漂亮，或者会举办新的活动。因为动画的缘故，越来越多人喜欢上这个小镇。",
+      "translationEn": "People in the town also warmly welcome anime fans. Sometimes, the town becomes cleaner, or new events are created. Thanks to anime, more people are growing to like the town.",
+      "id": "54144e17-1699-4e7e-bd4f-bb9e4e2eeca8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの力は大きいです。世界中の人々がアニメの聖地を訪ね、その町の文化や自然を知ります。これは、日本にとって良いことだと思います。",
+      "translationZh": "动画的力量是很大的。来自世界各地的人们会拜访动画的圣地，了解那个小镇的文化和自然。我认为这对日本来说是一件好事。",
+      "translationEn": "The power of anime is great. People from all over the world visit anime sacred sites and learn about the town's culture and nature. I think this is a good thing for Japan.",
+      "id": "3fb48886-667a-46ae-9016-12a1d4c56988",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地",
+      "reading": "せいち",
+      "meaningZh": "圣地（动画/动漫中出现的地点）",
+      "meaningEn": "Sacred site (location appearing in anime/manga)",
+      "level": "n5n4",
+      "exampleSentence": "この町は、人気アニメの聖地です。",
+      "id": "7ffebc3d-8342-4bc5-b0f0-18bb361f9b15"
+    },
+    {
+      "word": "巡礼",
+      "reading": "じゅんれい",
+      "meaningZh": "巡礼（为了某个目的去某个地方）",
+      "meaningEn": "Pilgrimage (visiting a place for a specific purpose)",
+      "level": "n5n4",
+      "exampleSentence": "アニメのファンが聖地巡礼をしています。",
+      "id": "3ea9ff64-385d-4da7-88b3-29a4a05b2925"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "Fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はこのアニメの熱心なファンです。",
+      "id": "b3e783e0-1c5d-4a55-b6fd-a2b1e2051a50"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "Place, location",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "18edb092-54c0-4287-8713-e3f1fd3c2679"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "Vitality, energy",
+      "level": "n5n4",
+      "exampleSentence": "町に新しい活気が戻ってきました。",
+      "id": "adb601ed-dcb7-45e6-a1be-de4bc1b051aa"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "观光客，游客",
+      "meaningEn": "Tourist",
+      "level": "n5n4",
+      "exampleSentence": "週末は観光客でいっぱいです。",
+      "id": "439c8752-7700-4d2c-b277-1d5f5aea2550"
+    },
+    {
+      "word": "店",
+      "reading": "みせ",
+      "meaningZh": "商店，店铺",
+      "meaningEn": "Shop, store",
+      "level": "n5n4",
+      "exampleSentence": "駅の近くに新しい店ができました。",
+      "id": "fa65ff4b-87d9-454d-9d8c-0bc133f29d9b"
+    },
+    {
+      "word": "温かく",
+      "reading": "あたたかく",
+      "meaningZh": "温暖地，热情地",
+      "meaningEn": "Warmly, cordially",
+      "level": "n5n4",
+      "exampleSentence": "町の人々は私たちを温かく迎えました。",
+      "id": "08974da4-bad4-42d7-9ee9-255d4944241a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの「聖地」を訪ねることは、町にどのような影響を与えましたか？",
+      "options": [
+        "町が静かになりました。",
+        "町に新しい活気をもたらしました。",
+        "お店が全部閉まりました。",
+        "町の人々が旅行に行きました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「このような『聖地巡礼』は、小さな町に新しい活気をもたらしました。」",
+      "id": "7c981ab4-8ee8-4a18-8df6-1b556ed1e6e0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-08-220265558d",
+  "publishedAt": "2026-08-08T06:00:00+09:00"
+}

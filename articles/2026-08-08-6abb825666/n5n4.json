@@ -1,0 +1,122 @@
+{
+  "title": "新学期！文房具のトレンド",
+  "summary": "新しい学期が始まりますね。どんな文房具が人気か見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ新しい学期が始まります。学校で使う文房具を新しくするのは楽しいです。どんな文房具が今年人気なのでしょうか。",
+      "translationZh": "很快就要开学了。为学校添置新文具是件开心的事。今年，什么样的文具比较受欢迎呢？",
+      "translationEn": "The new school term is starting soon. It's fun to get new stationery for school. What kind of stationery is popular this year?",
+      "id": "80f5a50c-6ff5-4434-ad9b-c1f9f0dfbac8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、かわいい動物の絵がついたノートやペンが人気です。特に、猫や犬のキャラクターがよく売れています。色も明るい色が多くて、見ているだけで元気になります。",
+      "translationZh": "今年，带有可爱动物图案的笔记本和笔很受欢迎。特别是猫和狗的卡通形象卖得很好。颜色也多是明亮的颜色，光是看着就让人觉得有活力。",
+      "translationEn": "This year, notebooks and pens with cute animal pictures are popular. Especially, cat and dog characters are selling well. There are also many bright colors, which make you feel energetic just by looking at them.",
+      "id": "551b3d6b-e6c5-4c70-9241-005f2218e1d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、機能的な文房具も注目されています。例えば、消しゴムで消せるボールペンです。間違えてもすぐに直せるので便利です。勉強に集中したい学生に人気があります。",
+      "translationZh": "此外，功能性强的文具也备受关注。例如，可以被橡皮擦擦掉的圆珠笔。即使写错了也能立刻修改，非常方便。这种笔在想要集中学习的学生中很受欢迎。",
+      "translationEn": "Also, functional stationery is attracting attention. For example, ballpoint pens that can be erased with an eraser. They are convenient because you can correct mistakes immediately. They are popular among students who want to concentrate on their studies.",
+      "id": "9d8f3cf0-30a3-44ea-b895-0a21b5e50370",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい文房具で、新しい学期を気持ちよくスタートしましょう。お気に入りの文房具を見つけてくださいね。",
+      "translationZh": "用新文具，愉快地开启新学期吧。请找到你喜欢的文具哦。",
+      "translationEn": "Let's start the new school term with a good feeling with new stationery. Please find your favorite stationery.",
+      "id": "a0af76bb-6f4a-4b29-891a-4ecf28554c6f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaningZh": "学期",
+      "meaningEn": "school term",
+      "level": "n5n4",
+      "exampleSentence": "新しい学期が始まります。",
+      "id": "e3418ddb-0cb9-4d22-b4ac-cf0760c7b36e"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼ Yukarı",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "かわいい文房具がたくさんあります。",
+      "id": "bd3300c5-ee24-43de-9407-80f2efb24257"
+    },
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "趋势，潮流",
+      "meaningEn": "trend",
+      "level": "n5n4",
+      "exampleSentence": "今年のファッションのトレンドは何ですか。",
+      "id": "172b7590-f7ca-421b-9bea-9e8ceda33d05"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店はいつも人気があります。",
+      "id": "ba6a3436-26cd-4dd8-a223-b40d80081360"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaningZh": "动物",
+      "meaningEn": "animal",
+      "level": "n5n4",
+      "exampleSentence": "動物園でたくさんの動物を見ました。",
+      "id": "f540bf74-419b-4e8c-9dd2-f0b902cbf8ab"
+    },
+    {
+      "word": "機能的",
+      "reading": "きのうてき",
+      "meaningZh": "功能性的",
+      "meaningEn": "functional",
+      "level": "n3",
+      "exampleSentence": "これはとても機能的なカバンです。",
+      "id": "82cb705d-c587-46f3-93da-aede411a00f2"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "5ec596fb-75ab-4474-b375-fbe54f7e44d8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年、どのような動物のキャラクターの文房具が人気ですか？",
+      "options": [
+        "ライオンと象",
+        "猫と犬",
+        "鳥と魚",
+        "馬と牛"
+      ],
+      "correctIndex": 1,
+      "explanation": "今年は、かわいい動物の絵がついたノートやペンが人気です。特に、猫や犬のキャラクターがよく売れています。",
+      "id": "655fc631-3482-4d86-bab6-ac03e4336a81"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-08-6abb825666",
+  "publishedAt": "2026-08-08T06:00:00+09:00"
+}

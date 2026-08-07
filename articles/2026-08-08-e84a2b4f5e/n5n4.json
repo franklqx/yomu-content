@@ -1,0 +1,122 @@
+{
+  "title": "お寿司の値上げ、どう思う？",
+  "summary": "最近、回転寿司の値段が上がりました。お客さんはどう感じているでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気のある回転寿司チェーンで、お寿司の値段が上がりました。毎日食べるのは少し高いかもしれません。それでも、美味しいお寿司は食べたくなりますね。",
+      "translationZh": "最近，人气的旋转寿司连锁店，寿司的价格涨了。每天吃的话可能有点贵。尽管如此，还是会想吃美味的寿司呢。",
+      "translationEn": "Recently, the price of sushi has increased at popular conveyor belt sushi chains. Eating it every day might be a little expensive. Still, people want to eat delicious sushi.",
+      "id": "1a47fbf9-3568-4562-b5e7-51732b167310",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったので、前より来るお客さんが少し減ったという話もあります。前はお店がいっぱいでしたが、今はそうでもないかもしれません。でも、週末はやはり混んでいます。",
+      "translationZh": "因为价格上涨了，所以有说法是来的客人比以前少了一些。以前店里总是人满为患，但现在可能不是这样了。不过，周末果然还是很拥挤。",
+      "translationEn": "Because the prices went up, there's talk that fewer customers are coming than before. The shops used to be full, but maybe that's not the case now. However, it's still crowded on weekends.",
+      "id": "2393652f-9651-4097-a8c8-098613f2f7b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「前はもっと安かったのに」と思う人もいます。それでも、お寿司は特別な食べ物なので、また行きたいという人も多いです。お店も工夫しています。",
+      "translationZh": "也有人会想“以前明明更便宜啊”。即便如此，寿司是一种特别的食物，所以想再去的人也很多。店家也在努力想办法。",
+      "translationEn": "Some people think, 'It used to be cheaper.' Even so, sushi is a special food, so many people want to go again. The shops are also making efforts.",
+      "id": "f8a85dbe-bc07-4543-9013-8f56e8cac9ae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、新しいメニューを出したり、サービスを良くしたりしています。お客さんがまた来たくなるように、色々なことを考えているのですね。",
+      "translationZh": "比如，推出新菜单，或者改善服务。店家在想各种办法，让顾客们还想再来。",
+      "translationEn": "For example, they are introducing new menus and improving services. They are thinking of various things to make customers want to come back.",
+      "id": "7dfeacec-69e4-4a14-a261-52f19c547e64",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "回転寿司は楽しいです。",
+      "id": "52f9916d-fda4-4186-a9a1-65f9fafe4cd0"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "4f417699-ccf4-4394-bc30-d73134627c4a"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "8e0d90e1-eea2-482a-b52a-9ad1b4042d76"
+    },
+    {
+      "word": "チェーン",
+      "reading": "ちぇーん",
+      "meaningZh": "连锁店",
+      "meaningEn": "chain (store)",
+      "level": "n5n4",
+      "exampleSentence": "このコーヒーは有名なチェーン店です。",
+      "id": "9e3cd6e0-95e3-4c5b-b61a-5f3de0ca3ec0"
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "meaningZh": "减少",
+      "meaningEn": "to decrease, to reduce",
+      "level": "n5n4",
+      "exampleSentence": "生徒が少し減りました。",
+      "id": "184455e1-c11d-4e34-a6ae-c5e804dca178"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤，繁忙",
+      "meaningEn": "to be crowded, to be busy",
+      "level": "n5n4",
+      "exampleSentence": "電車が朝はとても混みます。",
+      "id": "5ca6a66c-527a-4768-8c6a-4300f955ee8a"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "device, idea, measure, trick",
+      "level": "n3",
+      "exampleSentence": "この問題のために、色々な工夫をしました。",
+      "id": "ecea9840-bbcf-4086-909c-9a10d231244e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司の値上げについて、この文章は何を言っていますか？",
+      "options": [
+        "値段が上がって、お客さんが減ったが、店は工夫している。",
+        "値段が上がって、誰も行かなくなった。",
+        "値段が上がったが、お客さんは気にしない。",
+        "値上げしたのは、店が潰れたからだ。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「値段が上がったので、前より来るお客さんが少し減ったという話もあります。」「お客さんがまた来たくなるように、色々なことを考えているのですね。」",
+      "id": "cc6d1447-bc07-4761-accd-7aa86431c555"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-08-e84a2b4f5e",
+  "publishedAt": "2026-08-08T06:00:00+09:00"
+}
