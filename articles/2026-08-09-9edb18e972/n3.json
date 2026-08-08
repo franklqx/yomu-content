@@ -1,0 +1,135 @@
+{
+  "title": "高齢者向け宅配サービス、ますます便利に",
+  "summary": "高齢者が自宅で安心して生活できるよう、食事や買い物の宅配サービスが広がっています。このサービスは、高齢者の生活を支える大切な役割を担っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、高齢者のみで生活する世帯が増加しており、日常生活での困りごとを抱える人が多くなっています。特に、食事の準備や買い物が負担になっているという声が多く聞かれます。このような状況を受けて、高齢者向けの宅配サービスが各地で拡大しています。",
+      "translationZh": "近年来，独自生活的家庭中老年人增多，许多人在日常生活中面临困难。特别是关于准备餐食和购物成为负担的声音很多。在这种情况下，面向老年人的宅配服务正在各地扩展。",
+      "translationEn": "In recent years, the number of households where elderly people live alone has been increasing, and many face difficulties in their daily lives. In particular, there are many voices saying that preparing meals and shopping have become a burden. In response to this situation, delivery services for the elderly are expanding across the country.",
+      "id": "66d62cc9-19d8-4d47-80f9-222d59ba765f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "宅配サービスには、温かい食事が届けられるものや、日用品を代わりに購入してくれるものなど、様々な種類があります。これにより、高齢者は自宅にいながら必要なものを手に入れることができるようになり、外出が困難な場合でも安心です。また、配達員とのちょっとした会話が、地域での孤立を防ぐきっかけになることもあります。",
+      "translationZh": "宅配服务有多种类型，例如提供热餐的，以及可以代为购买日用品的。这使得老年人即使不出门也能获得所需物品，即使外出困难也能安心。此外，与配送员的简短交流有时也能成为防止地区孤立的契机。",
+      "translationEn": "There are various types of delivery services, such as those that deliver hot meals and those that purchase daily necessities on behalf of customers. This allows the elderly to obtain what they need while staying at home, providing peace of mind even when going out is difficult. Furthermore, brief conversations with delivery staff can sometimes help prevent social isolation in the community.",
+      "id": "3b9b4c92-423d-4f35-808c-51cf44cb30ce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスが普及することで、高齢者はより快適で自立した生活を送れるようになると期待されています。家族や地域社会も、高齢者の見守りについて安心感を得られるでしょう。今後も、高齢者のニーズに応じたサービスの開発が進むことが望まれます。",
+      "translationZh": "随着这项服务的普及，人们期待老年人能够过上更舒适、更独立的生活。家人和社区也能在看护老年人方面获得安心感。今后，也期望能开发出满足老年人需求的服务。",
+      "translationEn": "As these services spread, it is expected that the elderly will be able to lead more comfortable and independent lives. Family members and the community will also gain a sense of security regarding the well-being of the elderly. It is hoped that services tailored to the needs of the elderly will continue to be developed in the future.",
+      "id": "5372aeff-9134-4690-b94a-82efe8379211",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaningZh": "增加",
+      "meaningEn": "increase",
+      "level": "n3",
+      "exampleSentence": "都市部への人口増加が続いています。",
+      "id": "66458129-2859-4ad8-87c0-ff72a206e80f"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担，负荷",
+      "meaningEn": "burden, load",
+      "level": "n3",
+      "exampleSentence": "一人で全てを抱え込むのは負担が大きい。",
+      "id": "e0237160-2305-4424-8905-68ea00809e8c"
+    },
+    {
+      "word": "困りごと",
+      "reading": "こまりごと",
+      "meaningZh": "麻烦事，难题",
+      "meaningEn": "trouble, problem",
+      "level": "n3",
+      "exampleSentence": "何か困りごとがあれば、いつでも相談してください。",
+      "id": "93116696-b399-4a10-8945-a0a2c47f2d3e"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "宅配服务，送货上门服务",
+      "meaningEn": "delivery service",
+      "level": "n3",
+      "exampleSentence": "最近、食料品の宅配サービスをよく利用する。",
+      "id": "2ea600c8-8e37-4f35-af4a-2051585c27e4"
+    },
+    {
+      "word": "日用品",
+      "reading": "にちようひん",
+      "meaningZh": "日用品",
+      "meaningEn": "daily necessities",
+      "level": "n3",
+      "exampleSentence": "トイレットペーパーや洗剤は日用品なので、すぐに必要です。",
+      "id": "11a9c1ce-7757-4c64-99c6-5e3997564087"
+    },
+    {
+      "word": "孤立",
+      "reading": "こりつ",
+      "meaningZh": "孤立，与世隔绝",
+      "meaningEn": "isolation",
+      "level": "n3",
+      "exampleSentence": "地域社会とのつながりがなく、孤立を感じている人がいる。",
+      "id": "9fc84231-a324-4d72-b350-0dca79b9b781"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, dissemination",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及は私たちの生活を大きく変えた。",
+      "id": "6a6cc337-376e-45bd-81e8-edd2ec809dbc"
+    },
+    {
+      "word": "自立",
+      "reading": "じりつ",
+      "meaningZh": "自立",
+      "meaningEn": "independence",
+      "level": "n3",
+      "exampleSentence": "子供が成長して自立していくのは嬉しいことだ。",
+      "id": "27c77fdc-8a9c-48e3-b0ac-24301a7b8d56"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高齢者向け宅配サービスが拡大している主な理由は何ですか？",
+      "options": [
+        "新しいビジネスチャンスが増えたから",
+        "高齢者が自宅で生活する上で必要な支援が増えているから",
+        "配達員が不足しているから",
+        "サービスの利用料金が安くなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第一段落に「高齢者のみで生活する世帯が増加しており、日常生活での困りごとを抱える人が多くなっています。特に、食事の準備や買い物が負担になっているという声が多く聞かれます。このような状況を受けて、高齢者向けの宅配サービスが各地で拡大しています。」とあります。",
+      "id": "586a6058-a80f-4a5c-b8cd-8cff3e246ade"
+    },
+    {
+      "question": "宅配サービスが、高齢者の生活にとってどのような良い影響を与える可能性がありますか？",
+      "options": [
+        "外出する機会が増え、運動不足が解消される",
+        "配達員との交流を通じて、新しい友人を見つけることができる",
+        "自宅で必要なものを得やすくなり、社会とのつながりを保つ一助となる",
+        "家族が直接世話をする必要がなくなる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第二段落に「これにより、高齢者は自宅にいながら必要なものを手に入れることができるようになり、外出が困難な場合でも安心です。また、配達員とのちょっとした会話が、地域での孤立を防ぐきっかけになることもあります。」とあります。",
+      "id": "a4a8e30e-3a8d-4b57-83cb-50db0f43ba76"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-09-9edb18e972",
+  "publishedAt": "2026-08-09T06:00:00+09:00"
+}

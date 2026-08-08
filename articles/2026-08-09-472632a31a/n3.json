@@ -1,0 +1,143 @@
+{
+  "title": "プロ野球新シーズン！注目の若手選手たち",
+  "summary": "新しいプロ野球シーズンが開幕します。今年は特に、期待の若手選手に注目が集まっています。彼らの活躍から目が離せません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新シーズンが始まり、ファンの期待も高まっています。今年の注目ポイントの一つは、若手選手の台頭です。経験豊富なベテラン選手たちも素晴らしいですが、新しいスターの誕生にワクワクしている人も多いのではないでしょうか。",
+      "translationZh": "职业棒球新赛季开始了，球迷们的期待也随之高涨。今年的一个看点是年轻选手的崛起。虽然经验丰富的老将们也很出色，但我想很多人也会对新星的诞生感到兴奋吧。",
+      "translationEn": "The new professional baseball season has begun, and fans' expectations are high. One of the highlights this year is the emergence of young players. While the experienced veteran players are also wonderful, many people are probably excited about the birth of new stars.",
+      "id": "9c39d6cc-fda9-4290-85ab-d3cc9e59801f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、昨シーズンから頭角を現し始めた選手たちが、今シーズンはさらに飛躍することが期待されています。彼らは、鋭い打球や正確なピッチングで、チームに勝利をもたらす力を持っています。練習で培った技術を発揮できるかどうか、注目したいです。",
+      "translationZh": "特别是，从上个赛季开始崭露头角的选手们，在本赛季被期待能有更大的飞跃。他们拥有通过有力的击球和精准的投球为队伍带来胜利的能力。很想关注他们能否在比赛中发挥出通过训练培养出的技术。",
+      "translationEn": "In particular, players who began to show their talent from last season are expected to make even greater strides this season. They have the ability to bring victories to their team with sharp hits and accurate pitching. We want to pay attention to whether they can demonstrate the skills they have cultivated through practice.",
+      "id": "38401019-c812-4245-abbb-b646cd8dc9b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、若手選手だけでなく、ベテラン選手の経験に裏打ちされたプレーも健在です。ベテランと若手が互いに刺激し合いながら、より一層レベルの高い試合が繰り広げられることでしょう。ファンとしては、各チームの戦略や選手起用にも注目すると、もっと楽しめるはずです。",
+      "translationZh": "当然，不仅是年轻选手，老将选手们经验丰富的打法也依然健在。老将和新秀们相互激励，应该会上演更高水平的比赛。作为粉丝，如果也关注各队的战略和选手运用，应该会看得更开心。",
+      "translationEn": "Of course, it's not just the young players; the play of veteran players, backed by their experience, is still strong. With veterans and young players stimulating each other, even higher-level games are likely to unfold. As fans, paying attention to each team's strategies and player selections should make it even more enjoyable.",
+      "id": "20e92711-7f7e-495d-a60a-e485af724381",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいシーズンは、どんなドラマが待っているのか、予想もつきません。怪我なく、選手たちが全力を出し切れることを願っています。彼らの情熱あふれるプレーを見て、私たちも元気をもらいたいものです。",
+      "translationZh": "新赛季会带来怎样的故事，真是难以预测。希望选手们都能不受伤，全力以赴。看着他们充满激情的比赛，我们也希望能从中获得力量。",
+      "translationEn": "We can't predict what kind of drama awaits us in the new season. We hope that all the players can give their best without injuries. By watching their passionate play, we too want to be energized.",
+      "id": "8a534948-d3e1-4b92-ae69-c329b4d27be4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいシーズンが始まる。",
+      "id": "39f426f0-f7ae-468f-86cb-88604745a8e7"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，注视",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "この試合は多くの人が注目している。",
+      "id": "b57113d9-aa62-4ade-8556-70fc4bddf01b"
+    },
+    {
+      "word": "若手",
+      "reading": "わかて",
+      "meaningZh": "年轻一辈，新人",
+      "meaningEn": "young people, juniors",
+      "level": "n3",
+      "exampleSentence": "若手の選手が活躍している。",
+      "id": "a651b053-f2ef-41cf-b4e4-357244206e23"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "抬头，崛起",
+      "meaningEn": "rise, emergence",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術が台頭してきた。",
+      "id": "20ef64d2-d265-4588-82b4-736fc838dd33"
+    },
+    {
+      "word": "頭角を現す",
+      "reading": "とうかくをあらわす",
+      "meaningZh": "崭露头角",
+      "meaningEn": "to show one's talent, to distinguish oneself",
+      "level": "n2n1",
+      "exampleSentence": "彼は若い頃から頭角を現した。",
+      "id": "a305e18b-28b5-4094-8aa8-e6088fc489da"
+    },
+    {
+      "word": "飛躍",
+      "reading": "ひやく",
+      "meaningZh": "飞跃，跳跃",
+      "meaningEn": "leap, jump",
+      "level": "n3",
+      "exampleSentence": "技術の飛躍的な進歩が見られた。",
+      "id": "c7a5ca5f-0a98-498e-b186-fc962c56ca4d"
+    },
+    {
+      "word": "培う",
+      "reading": "つちかう",
+      "meaningZh": "培养，锻炼",
+      "meaningEn": "to cultivate, to foster",
+      "level": "n2n1",
+      "exampleSentence": "努力を培うことが大切だ。",
+      "id": "7c2e5825-57ed-459b-bae3-791dd7796a34"
+    },
+    {
+      "word": "裏打ち",
+      "reading": "うらうち",
+      "meaningZh": "衬托，支持，印证",
+      "meaningEn": "backing, support, corroboration",
+      "level": "n2n1",
+      "exampleSentence": "彼の言葉は証拠によって裏打ちされている。",
+      "id": "59661b6e-83ae-4f0b-830b-c6151af1df1b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事によると、今年のプロ野球で特に注目されているのは誰ですか？",
+      "options": [
+        "経験豊富なベテラン選手",
+        "新しいスター選手",
+        "若手選手",
+        "各チームの監督"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「今年の注目ポイントの一つは、若手選手の台頭です。」とあります。",
+      "id": "1d6a28df-b193-4cc4-9f0f-3ff181407493"
+    },
+    {
+      "question": "若手選手に期待されていることは何ですか？",
+      "options": [
+        "ベテラン選手から学ぶこと",
+        "チームに勝利をもたらす力を見せること",
+        "怪我をしないこと",
+        "ファンを楽しませること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「彼らは、鋭い打球や正確なピッチングで、チームに勝利をもたらす力を持っています。」とあります。",
+      "id": "72bae876-c950-47ed-b332-9c31a2699229"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-09-472632a31a",
+  "publishedAt": "2026-08-09T06:00:00+09:00"
+}

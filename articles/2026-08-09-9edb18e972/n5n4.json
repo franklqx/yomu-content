@@ -1,0 +1,114 @@
+{
+  "title": "お弁当が届く！便利です",
+  "summary": "高齢者（こうれいしゃ）の生活（せいかつ）を助（たす）けるサービスがあります。それは、お弁当（べんとう）を家（いえ）まで届（とど）けるサービスです。このサービスは今（いま）、広（ひろ）がっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今（いま）、たくさんの高齢者（こうれいしゃ）が一人暮（ひとりぐ）らしをしています。食事（しょくじ）の準備（じゅんび）が難（むずか）しい人もいます。だから、家（いえ）まで食事（しょくじ）を届（とど）けるサービスが始（はじ）まりました。",
+      "translationZh": "现在，有很多老年人独自生活。有些人准备食物很困难。因此，送餐到家的服务开始了。",
+      "translationEn": "Now, many elderly people live alone. Some people find it difficult to prepare meals. Therefore, a service that delivers meals to their homes has started.",
+      "id": "8be630d9-6485-4cc4-8929-0632deb2eef8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスは、お弁当（べんとう）を毎日（まいにち）届（とど）けます。栄養（えいよう）のバランスも考（かんが）えられています。高齢者（こうれいしゃ）は、おいしくて健康（けんこう）な食事（しょくじ）を楽（たの）しめます。また、配達員（はいたついん）が元気（げんき）かどうかも確認（かくにん）します。",
+      "translationZh": "这项服务每天都会送餐。营养均衡也得到了考虑。老年人可以享用美味又健康的食物。此外，还会确认送餐员是否安好。",
+      "translationEn": "This service delivers meals every day. Nutritional balance is also considered. Elderly people can enjoy delicious and healthy food. Also, the delivery person checks if they are doing well.",
+      "id": "461daa64-ea11-43db-9f79-ce0d8c517bdf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスのおかげで、高齢者（こうれいしゃ）は安心（あんしん）して暮（く）らせます。家族（かぞく）も安心（あんしん）できます。地域（ちいき）のつながりも強（つよ）くなるでしょう。",
+      "translationZh": "多亏了这项服务，老年人可以安心生活。家人也能安心。社区联系也会因此变得更紧密。",
+      "translationEn": "Thanks to this service, elderly people can live with peace of mind. Their families can also feel relieved. Community connections will also become stronger.",
+      "id": "a421cbc4-6961-4465-abe2-e2d0c250e7f7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高齢者",
+      "reading": "こうれいしゃ",
+      "meaningZh": "老年人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "高齢者（こうれいしゃ）の生活（せいかつ）は大切（たいせつ）です。",
+      "id": "cb9faf09-2240-4b67-a302-a340ab259ef7"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "宅配服务",
+      "meaningEn": "delivery service",
+      "level": "n5n4",
+      "exampleSentence": "食料品（しょくりょうひん）の宅配サービス（たくはいサービス）を使（つか）います。",
+      "id": "cb8d5cd1-d406-4ed0-a786-31b2355f37a6"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行（りょこう）の準備（じゅんび）をしました。",
+      "id": "ad451d60-7214-441b-a05b-3b704c5a26c8"
+    },
+    {
+      "word": "栄養",
+      "reading": "えいよう",
+      "meaningZh": "营养",
+      "meaningEn": "nutrition",
+      "level": "n5n4",
+      "exampleSentence": "体（からだ）にいい栄養（えいよう）を摂（と）りましょう。",
+      "id": "4edd8600-5036-4a2c-a0ce-14e26bc51d49"
+    },
+    {
+      "word": "配達員",
+      "reading": "はいたついん",
+      "meaningZh": "送货员",
+      "meaningEn": "delivery person",
+      "level": "n5n4",
+      "exampleSentence": "配達員（はいたついん）が来（き）ました。",
+      "id": "083518a3-cf75-4a01-99b5-d9f90197d27b"
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "meaningZh": "确认",
+      "meaningEn": "confirmation",
+      "level": "n5n4",
+      "exampleSentence": "予約（よやく）を確認（かくにん）してください。",
+      "id": "ed026f4b-2338-4c5f-904c-ebc6c114e8c1"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "peace of mind, relief",
+      "level": "n5n4",
+      "exampleSentence": "心配（しんぱい）しないで、安心（あんしん）してください。",
+      "id": "7bcaf0a1-316a-4e39-8a74-989dd773f6d2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章（ぶんしょう）によると、宅配サービス（たくはいサービス）は誰（だれ）のためにありますか。",
+      "options": [
+        "子供（こども）",
+        "高齢者（こうれいしゃ）",
+        "学生（がくせい）",
+        "会社員（かいしゃいん）"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章（ぶんしょう）には「高齢者（こうれいしゃ）の生活（せいかつ）を助（たす）けるサービスがあります」と書（か）いてあります。",
+      "id": "4a86abb7-3933-4d65-8952-c699e4c48bf8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-09-9edb18e972",
+  "publishedAt": "2026-08-09T06:00:00+09:00"
+}

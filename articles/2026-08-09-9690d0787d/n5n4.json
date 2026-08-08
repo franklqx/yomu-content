@@ -1,0 +1,122 @@
+{
+  "title": "新しいアートと伝統の出会い",
+  "summary": "現代アートと伝統工芸が一緒に展示されています。新しい発見がたくさんあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今、美術館で面白い展示があります。それは、現代アートと日本の伝統工芸のコラボ展です。古い技術と新しいアイデアが合わさっています。",
+      "translationZh": "现在，美术馆里有一个有趣的展览。那就是现代艺术和日本传统工艺的合作展。古老的技术和新的想法结合在一起。",
+      "translationEn": "Now, there is an interesting exhibition at the museum. It is a collaboration exhibition of modern art and Japanese traditional crafts. Old techniques and new ideas are combined.",
+      "id": "27c11109-6dbf-4d6c-98f7-3f4f56f828ae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、古い陶器の技術を使って、面白い形の新しい器が作られました。また、昔の絵の技法で、現代的な風景を描いた絵もありました。",
+      "translationZh": "例如，使用了古老的陶器技术，制作了形状有趣的现代器皿。另外，还有用过去的绘画技法描绘现代风景的画。",
+      "translationEn": "For example, using old pottery techniques, new vessels with interesting shapes were made. Also, there were paintings depicting modern landscapes using old painting methods.",
+      "id": "1bc26d83-fbba-409d-bfc9-b2d5aff16748",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展示は、日本の文化のすばらしさを新しく見せてくれます。若い人にも伝統の良さが伝わるでしょう。とても感動しました。",
+      "translationZh": "这个展览以新的方式展示了日本文化的精彩。我想传统的美好也会传达给年轻人。我非常感动。",
+      "translationEn": "This exhibition shows the brilliance of Japanese culture in a new way. The goodness of tradition will surely be conveyed to young people. I was very impressed.",
+      "id": "3618261e-8049-430e-9432-c4aa709340c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんもぜひ、この特別な展示を見てください。きっと新しい発見があると思います。来週の日曜日までです。",
+      "translationZh": "大家也请务必来看一看这个特别的展览。我想一定会发现新东西。展览到下周日为止。",
+      "translationEn": "Everyone, please be sure to see this special exhibition. I believe you will surely make new discoveries. It is until next Sunday.",
+      "id": "8bda87e2-d1b0-4573-9781-ff2c2037b145",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meaningZh": "美术馆",
+      "meaningEn": "art museum",
+      "level": "n5n4",
+      "exampleSentence": "友達と美術館に行きました。",
+      "id": "6e3d696b-2be3-4493-852d-08fa22f3b7e7"
+    },
+    {
+      "word": "展示",
+      "reading": "てんじ",
+      "meaningZh": "展览",
+      "meaningEn": "exhibition",
+      "level": "n5n4",
+      "exampleSentence": "この展示はとても人気があります。",
+      "id": "13c788eb-5910-4e1d-955c-2c8a257b5fa8"
+    },
+    {
+      "word": "現代アート",
+      "reading": "げんだいあーと",
+      "meaningZh": "现代艺术",
+      "meaningEn": "modern art",
+      "level": "n5n4",
+      "exampleSentence": "現代アートは面白いです。",
+      "id": "aa9feb63-0b7f-4fc5-b16a-1a2aa2b48858"
+    },
+    {
+      "word": "伝統工芸",
+      "reading": "でんとうこうげい",
+      "meaningZh": "传统工艺",
+      "meaningEn": "traditional crafts",
+      "level": "n5n4",
+      "exampleSentence": "日本の伝統工芸は素晴らしいです。",
+      "id": "2f2522f4-3635-4754-b8b4-6c9c08b7b527"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technique, skill",
+      "level": "n3",
+      "exampleSentence": "この技術は学ぶのが難しいです。",
+      "id": "caae830b-0b18-43ba-9684-584e24502d07"
+    },
+    {
+      "word": "器",
+      "reading": "うつわ",
+      "meaningZh": "器皿",
+      "meaningEn": "vessel, container",
+      "level": "n5n4",
+      "exampleSentence": "きれいな器にお花を入れました。",
+      "id": "955fdb0f-3222-4b74-9ade-126110817b4d"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しい発見があって嬉しいです。",
+      "id": "ee0379ee-408a-47b0-9e5a-6996edb8e3ca"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この展示は何と何が合わさっていますか。",
+      "options": [
+        "現代アートと伝統工芸",
+        "古い絵と新しい音楽",
+        "陶器と絵",
+        "風景と音楽"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「現代アートと日本の伝統工芸のコラボ展です。」と書いてあります。",
+      "id": "0ece563f-9df9-4fd8-8f4e-638ea556db85"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-09-9690d0787d",
+  "publishedAt": "2026-08-09T06:00:00+09:00"
+}

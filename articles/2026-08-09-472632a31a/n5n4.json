@@ -1,0 +1,131 @@
+{
+  "title": "新シーズン 注目の選手",
+  "summary": "プロ野球の新シーズンが始まります。今年はどんな選手が活躍するでしょうか。注目の選手をいくつか紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新シーズンがもうすぐ始まります。新しい選手や、去年から活躍している選手がいます。ファンはみんな、今年の試合を楽しみにしています。どこのチームが勝つか、とても気になりますね。",
+      "translationZh": "职业棒球新赛季即将开始。有新选手，也有从去年就开始活跃的选手。球迷们都非常期待今年的比赛。哪个队伍会赢，大家都很在意呢。",
+      "translationEn": "The new professional baseball season is about to begin. There are new players and players who have been active since last year. All the fans are looking forward to this year's games. Everyone is very curious about which team will win.",
+      "id": "5cd237a7-357b-4a61-91e1-583650cd3e7e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目したい選手がいます。若い選手ですが、去年の試合でホームランをたくさん打ちました。今年はもっとすごい記録を作るかもしれません。彼のバッティングはとてもパワフルです。",
+      "translationZh": "有特别值得关注的选手。他是年轻的选手，但去年比赛中打了很多本垒打。今年或许会创造更惊人的记录。他的击球非常有力量。",
+      "translationEn": "There is a player we want to pay special attention to. He is a young player, but he hit many home runs in last year's games. He might set even more amazing records this year. His batting is very powerful.",
+      "id": "55d4cdb5-6b90-495a-8762-0ee439db89d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ベテランのピッチャーもいます。彼は経験がたくさんあります。去年のシーズンでも、チームの勝利に大きく貢献しました。今年も彼の投げ方をしっかり見たいです。彼のコントロールは素晴らしいです。",
+      "translationZh": "也有经验丰富的老将投手。他有很多经验。去年的赛季里，他也为队伍的胜利做出了巨大贡献。今年也想好好看看他的投球。他的控球很出色。",
+      "translationEn": "There is also a veteran pitcher. He has a lot of experience. Last season, he greatly contributed to the team's victories. We want to watch his pitching carefully again this year. His control is wonderful.",
+      "id": "25561f88-5f21-400b-b17b-5db2af72843f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい外国人選手も来ました。彼らはどんなプレーを見せてくれるでしょう。チームの雰囲気が変わるかもしれません。開幕戦がとても楽しみです。みんなで応援しましょう。",
+      "translationZh": "也来了新的外国选手。他们会展现出怎样的表现呢。队伍的气氛可能会因此改变。非常期待开幕战。大家一起加油吧。",
+      "translationEn": "New foreign players have also arrived. What kind of plays will they show us? The team's atmosphere might change. We are very much looking forward to the opening game. Let's all cheer for them.",
+      "id": "3977f252-fa9d-494f-a045-ed72e2ee2123",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な野球選手です。",
+      "id": "c1392aab-a682-424a-a313-40871424e43d"
+    },
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいシーズンが始まります。",
+      "id": "afcaefe4-5a5a-4d22-a9ff-741a31c55d19"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，瞩目",
+      "meaningEn": "attention, notice",
+      "level": "n5n4",
+      "exampleSentence": "その選手に注目してください。",
+      "id": "811ff98e-bb4b-4f6f-98cc-d49920987003"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "彼は試合で活躍しました。",
+      "id": "c7e6ad2a-78ea-4af9-a023-e8a20c16b4dd"
+    },
+    {
+      "word": "記録",
+      "reading": "きろく",
+      "meaningZh": "记录",
+      "meaningEn": "record",
+      "level": "n5n4",
+      "exampleSentence": "新しい記録を作りました。",
+      "id": "cda3c7a6-3a2a-4a26-a442-701a743a5d29"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "彼は経験が豊富です。",
+      "id": "55460c1f-1fd0-4b6b-ad63-5e0ab3c6f254"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "チームのために貢献しました。",
+      "id": "3218957f-ff47-4492-a0e5-f67411ceaa83"
+    },
+    {
+      "word": "開幕戦",
+      "reading": "かいまくせん",
+      "meaningZh": "开幕战",
+      "meaningEn": "opening game",
+      "level": "n3",
+      "exampleSentence": "開幕戦はとても盛り上がりました。",
+      "id": "d77140ac-fc5f-4699-b040-d04ca52654bd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "去年、若い選手がたくさん打ったものは何ですか。",
+      "options": [
+        "ホームラン",
+        "ヒット",
+        "三振",
+        "エラー"
+      ],
+      "correctIndex": 0,
+      "explanation": "「若い選手ですが、去年の試合でホームランをたくさん打ちました。」",
+      "id": "99efdc65-2c2e-4b5e-91ab-af4327658305"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-09-472632a31a",
+  "publishedAt": "2026-08-09T06:00:00+09:00"
+}
