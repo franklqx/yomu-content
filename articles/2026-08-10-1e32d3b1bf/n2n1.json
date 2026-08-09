@@ -1,0 +1,147 @@
+{
+  "title": "副業解禁が働き方をどう変えるか",
+  "summary": "近年、多くの企業で副業が解禁され、個人のキャリア形成や多様な働き方への期待が高まっています。この変化は、単に収入源を増やすだけでなく、個人のスキルアップや企業文化にも影響を与えると見られています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、日本の企業において副業を解禁する動きが広がりを見せている。これまで「本業一本」を是とする企業文化が根強かったが、働き方改革の流れや個人のキャリア自律への意識の高まりに伴い、その姿勢は変化しつつある。これにより、従業員は自身のスキルや興味を活かせる新たな挑戦の機会を得られるようになり、結果として自己成長を促進するだけでなく、本業へのモチベーション向上にも繋がる可能性が指摘されている。",
+      "translationZh": "近年来，日本企业允许副业的趋势日益显现。尽管“只做一份工作”的企业文化曾根深蒂固，但随着工作方式改革的推进和个人职业自主意识的提高，这种态度正在发生变化。这使得员工有机会利用自己的技能和兴趣进行新的挑战，不仅能促进自我成长，还有可能提高对本职工作的积极性。",
+      "translationEn": "In recent years, a trend of allowing side businesses has become widespread among Japanese companies. While the corporate culture of 'one main job only' was once deeply rooted, this stance is changing with the flow of work style reforms and the growing awareness of individual career autonomy. This allows employees to gain opportunities for new challenges that utilize their skills and interests, potentially not only promoting self-growth but also increasing motivation for their main job.",
+      "id": "54dbdf18-dcfb-4f80-8b5d-8886aa0070ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業解禁は、企業側にもメリットをもたらすと期待されている。例えば、従業員が外部での経験を通じて新たな知識やスキルを獲得し、それを本業に還元することで、組織全体のイノベーションを促進する契機となり得る。また、多様な働き方を許容する企業としてのイメージ向上は、優秀な人材の確保や定着に繋がる可能性も秘めている。しかしながら、本業への支障や情報漏洩のリスク管理、従業員の過重労働防止策など、企業側が講じるべき施策も少なくないとのことである。",
+      "translationZh": "副业解禁也被期待能为企业带来好处。例如，员工通过外部经验获得新知识和技能，并将其回馈给本职工作，从而有可能成为促进整个组织创新的契机。此外，作为一个允许多样化工作方式的企业，其形象的提升也蕴藏着吸引和留住优秀人才的可能性。然而，也有不少企业表示，需要采取措施来应对副业对本职工作的影响、信息泄露的风险管理以及防止员工过度劳累等问题。",
+      "translationEn": "The lifting of restrictions on side businesses is also expected to bring benefits to companies. For instance, employees acquiring new knowledge and skills through external experiences and bringing them back to their main jobs could serve as a catalyst for promoting innovation within the entire organization. Furthermore, improving the image of the company as one that allows diverse working styles holds the potential to attract and retain talented personnel. However, it is also reported that companies need to implement measures to manage risks such as interference with the main job, information leaks, and prevent employee overwork.",
+      "id": "b62c4061-ddd1-4a49-b4ac-c13569a9a131",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、副業の普及は、個人のライフプランの多様化を後押しする側面も持つ。経済的な安定だけでなく、自己実現や社会貢献といった、より広範な欲求を満たす手段として副業が捉えられるようになっている。これにより、人生におけるキャリアの選択肢が増え、より柔軟で充実した生き方が可能になると見られる。ただし、副業に注力しすぎるあまり、本業がおろそかになったり、心身の健康を損なったりするケースも想定されるため、自己管理能力がより一層求められる時代になったと言えるだろう。",
+      "translationZh": "此外，副业的普及还具有推动个人生活规划多样化的方面。副业不仅被视为经济稳定的手段，也被看作是满足自我实现和社会贡献等更广泛需求的途径。这增加了人生中的职业选择，并有望实现更灵活、更充实的生活。然而，由于可能过度投入副业而忽视本职工作，或损害身心健康的情况也并非没有，因此可以说，这是一个更加需要自我管理能力的时代。",
+      "translationEn": "Furthermore, the spread of side businesses also has the aspect of supporting the diversification of individual life plans. Side businesses are increasingly being viewed not just as a means of financial stability, but also as a way to fulfill broader desires such as self-realization and social contribution. This is expected to increase career options in life, enabling a more flexible and fulfilling existence. However, as cases where excessive focus on side businesses leads to neglecting the main job or harming physical and mental health are also conceivable, it can be said that we have entered an era that demands even greater self-management skills.",
+      "id": "7304a6b8-ab26-4db0-942a-b10a720aa411",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业，兼职",
+      "meaningEn": "side business, second job",
+      "level": "n2n1",
+      "exampleSentence": "彼は本業の傍ら、趣味を活かした副業を始めた。",
+      "id": "000d2ce3-25c1-4834-aa77-529da7f4a9ca"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解除禁令，解禁",
+      "meaningEn": "lifting of a ban, allowing",
+      "level": "n2n1",
+      "exampleSentence": "長年禁止されていた海外旅行が解禁された。",
+      "id": "a9444033-1aad-4727-a01d-138caddf33d0"
+    },
+    {
+      "word": "働き方改革",
+      "reading": "はたらきかたかいかく",
+      "meaningZh": "工作方式改革",
+      "meaningEn": "work style reform",
+      "level": "n2n1",
+      "exampleSentence": "政府は働き方改革を推進している。",
+      "id": "f1020306-9e80-4ddf-837e-fc4b13be628d"
+    },
+    {
+      "word": "キャリア自律",
+      "reading": "きゃりあじりつ",
+      "meaningZh": "职业自主",
+      "meaningEn": "career autonomy",
+      "level": "n2n1",
+      "exampleSentence": "キャリア自律を促す研修が企業で実施されている。",
+      "id": "7b0ddbff-3485-408d-8127-907cead47cae"
+    },
+    {
+      "word": "促進",
+      "reading": "そくしん",
+      "meaningZh": "促进，推动",
+      "meaningEn": "promotion, encouragement",
+      "level": "n3",
+      "exampleSentence": "新しい技術の開発を促進する。",
+      "id": "9bd16ffc-3602-4b74-b142-e1d2d913929b"
+    },
+    {
+      "word": "イノベーション",
+      "reading": "いのべーしょん",
+      "meaningZh": "革新，创新",
+      "meaningEn": "innovation",
+      "level": "n2n1",
+      "exampleSentence": "イノベーションは企業の成長に不可欠だ。",
+      "id": "47a438cb-15fa-424a-922e-a01d166b63c7"
+    },
+    {
+      "word": "人材",
+      "reading": "じんざい",
+      "meaningZh": "人才",
+      "meaningEn": "talent, human resources",
+      "level": "n3",
+      "exampleSentence": "優秀な人材を確保することは会社の課題だ。",
+      "id": "b72cdf68-ec86-4680-99da-41c35e0a61d9"
+    },
+    {
+      "word": "過重労働",
+      "reading": "かじゅうろうどう",
+      "meaningZh": "过劳，过度劳动",
+      "meaningEn": "overwork",
+      "level": "n2n1",
+      "exampleSentence": "過重労働による健康被害が問題視されている。",
+      "id": "9750cea2-60e4-448e-95fb-b801579b0d5f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "副業解禁が従業員にもたらす可能性のあるメリットとして、本文で述べられていないものはどれか。",
+      "options": [
+        "自己成長の促進",
+        "本業へのモチベーション向上",
+        "経済的な不安定さの解消",
+        "新たな挑戦の機会獲得"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「経済的な安定だけでなく、自己実現や社会貢献といった、より広範な欲求を満たす手段として副業が捉えられるようになっている」と述べられており、副業が経済的な不安定さを解消するとは直接的に言及されていません。",
+      "id": "87edc60a-5c5d-43f0-b57a-16ce65eb0c1a"
+    },
+    {
+      "question": "企業側が副業解禁にあたり、考慮すべき課題として挙げられているものはどれか。",
+      "options": [
+        "従業員の副業への興味の低下",
+        "本業への支障や情報漏洩のリスク管理",
+        "副業禁止の法的問題",
+        "従業員の副業に対する反対運動"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「本業への支障や情報漏洩のリスク管理、従業員の過重労働防止策など、企業側が講じるべき施策も少なくないとのことである」と述べられています。",
+      "id": "8ba1ebb8-7cb2-4245-8b0c-f980ff791fbb"
+    },
+    {
+      "question": "副業の普及は、個人のどのような側面を後押しすると本文では述べられているか。",
+      "options": [
+        "本業への専念",
+        "リスク回避",
+        "ライフプランの多様化",
+        "画一的なキャリア形成"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「副業の普及は、個人のライフプランの多様化を後押しする側面も持つ」と述べられています。",
+      "id": "4f4a19e0-ae93-48b4-978e-0d32128dc1a9"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-10-1e32d3b1bf",
+  "publishedAt": "2026-08-10T06:00:00+09:00"
+}

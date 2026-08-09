@@ -1,0 +1,135 @@
+{
+  "title": "古書店街で文学の香りを満喫！イベント情報",
+  "summary": "古い本の魅力あふれる街で、特別な文学イベントが開催されます。本好きにはたまらない、心温まる一日を過ごしませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋も深まり、読書にぴったりの季節がやってきました。そんな中、古くから「古書店街」として知られるエリアで、年に一度の文学イベントが開催されることになりました。このイベントは、古い本を愛する人々が集まるだけでなく、作家や編集者も参加し、本にまつわる様々な催しが行われます。",
+      "translationZh": "秋意渐浓，正是适合阅读的季节。此时，在素有“古书店街”之称的区域，一年一度的文学活动即将举行。这场活动不仅吸引了热爱旧书的人们，作家和编辑也将参加，并举办各种与书籍相关的活动。",
+      "translationEn": "As autumn deepens, the season perfect for reading has arrived. Amidst this, an annual literary event will be held in the area long known as \"Old Bookstore Street.\" This event not only gathers people who love old books but also includes writers and editors, featuring various book-related activities.",
+      "id": "f77e64cb-aa1b-4199-bc0d-5acf60eaf36b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベント会場では、珍しい古書の展示即売会が開かれるほか、著名な作家によるトークショーや朗読会も予定されています。参加者は、作家の創作秘話を聞いたり、お気に入りの作品を声で楽しんだりすることができます。また、地元のカフェと協力して、文学をテーマにした特別メニューも提供されるので、休憩がてら味わってみるのも良いでしょう。",
+      "translationZh": "活动现场不仅将举办珍贵古书的展销会，还将举行著名作家带来的讲座和朗读会。参加者可以听到作家创作背后的故事，或者用声音欣赏喜欢的作品。此外，与当地咖啡馆合作，还将提供以文学为主题的特别菜单，休息时品尝一下也是不错的选择。",
+      "translationEn": "At the event venue, an exhibition and sale of rare old books will be held, along with talks and readings by famous authors. Participants can hear authors' creative secrets or enjoy their favorite works through voice. Moreover, in cooperation with local cafes, special literary-themed menus will be offered, making it a good idea to try them during a break.",
+      "id": "08940e66-68e3-44c9-987a-bf14c4536672",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、子供向けのワークショップも用意されています。絵本作家と一緒に物語を作ったり、オリジナルのしおりを作ったりする体験は、子供たちの創造力を育む良い機会となるでしょう。家族連れで訪れても、大人も子供も楽しめる内容となっているのが嬉しいポイントです。この機会に、古書店の持つ独特の雰囲気を味わいながら、文学の世界に深く浸ってみてはいかがでしょうか。",
+      "translationZh": "此外，还为孩子们准备了工作坊。与绘本作家一起创作故事，或者制作原创书签的体验，将是培养孩子们创造力的绝佳机会。即使是全家出游，也能让大人和孩子都乐在其中，这一点非常令人欣喜。借此机会，在品味古书店特有的氛围的同时，不妨深入沉浸在文学的世界里吧？",
+      "translationEn": "Furthermore, workshops for children are also prepared. Experiences like creating stories with a picture book author or making original bookmarks will be a great opportunity to foster children's creativity. It's delightful that both adults and children can enjoy the event, even when visiting as a family. Why not take this chance to deeply immerse yourself in the world of literature while savoring the unique atmosphere of old bookstores?",
+      "id": "a65be9de-a012-4806-9176-8fdb9461e60f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "深まる",
+      "reading": "ふかまる",
+      "meaningZh": "（程度、関係などが）深くなる",
+      "meaningEn": "to deepen (degree, relationship, etc.)",
+      "level": "n3",
+      "exampleSentence": "秋の気配が深まってきた。",
+      "id": "0a59d035-2431-4de8-baf7-8062ae92e8c5"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "人の心をひきつける力",
+      "meaningEn": "charm, fascination",
+      "level": "n3",
+      "exampleSentence": "この街の魅力は、古い建物と新しい文化が融合しているところだ。",
+      "id": "41272de1-da00-494d-8071-a9a47631f565"
+    },
+    {
+      "word": "催し",
+      "reading": "もよおし",
+      "meaningZh": "イベント、行事",
+      "meaningEn": "event, function",
+      "level": "n3",
+      "exampleSentence": "週末には、公園で様々な催し物が開かれる予定だ。",
+      "id": "aa8f6699-cb43-402c-8518-504d15d67015"
+    },
+    {
+      "word": "即売会",
+      "reading": "そくばいかい",
+      "meaningZh": "その場で売ること、またはそのための会",
+      "meaningEn": "on-the-spot sale, sales event",
+      "level": "n3",
+      "exampleSentence": "コミックマーケットは、同人誌の即売会として有名だ。",
+      "id": "6c45a69f-e276-4b26-a690-c28c05d635be"
+    },
+    {
+      "word": "創作",
+      "reading": "そうさく",
+      "meaningZh": "新しく作り出すこと、特に文学や芸術作品",
+      "meaningEn": "creation, creative work (especially literature, art)",
+      "level": "n3",
+      "exampleSentence": "彼は小説の創作のために、世界中を旅した。",
+      "id": "1bed11a5-73e2-412f-a100-10cadeab6b8e"
+    },
+    {
+      "word": "秘話",
+      "reading": "ひわ",
+      "meaningZh": "隠された話、あまり知られていない話",
+      "meaningEn": "hidden story, untold story",
+      "level": "n3",
+      "exampleSentence": "あの有名な映画の撮影秘話が明かされた。",
+      "id": "2dac4323-eb36-4af3-81de-9e305ff349ae"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "力を合わせて行うこと",
+      "meaningEn": "cooperation, collaboration",
+      "level": "n3",
+      "exampleSentence": "地域住民の協力によって、祭りは成功した。",
+      "id": "2463bb90-4d15-46ae-a256-8161fcbe7956"
+    },
+    {
+      "word": "創造力",
+      "reading": "そうぞうりょく",
+      "meaningZh": "新しいものを考え出す力",
+      "meaningEn": "creativity, imagination",
+      "level": "n3",
+      "exampleSentence": "子供の創造力を伸ばす教育が大切だ。",
+      "id": "cad2a89d-3829-4707-8fb9-7d892d6bafbf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文学イベントで、作家はどのような話をする予定ですか？",
+      "options": [
+        "新しい本の宣伝",
+        "創作の裏話",
+        "読者からの質問に答える",
+        "次の作品の構想"
+      ],
+      "correctIndex": 1,
+      "explanation": "「著名な作家によるトークショーや朗読会も予定されています。参加者は、作家の創作秘話を聞いたり、お気に入りの作品を声で楽しんだりすることができます。」という部分から、作家の創作秘話を聞くことができるとわかります。",
+      "id": "c44f78d1-549a-49ae-94e4-36b586f408d2"
+    },
+    {
+      "question": "子供向けのワークショップでは、どのような活動ができますか？",
+      "options": [
+        "絵本の読み聞かせ",
+        "古典文学の朗読",
+        "物語作りやしおり作り",
+        "作家のサイン会"
+      ],
+      "correctIndex": 2,
+      "explanation": "「子供向けのワークショップも用意されています。絵本作家と一緒に物語を作ったり、オリジナルのしおりを作ったりする体験は、子供たちの創造力を育む良い機会となるでしょう。」と書かれているため、物語作りやしおり作りができるとわかります。",
+      "id": "f1ce638c-fd84-4b81-bfbc-b39b1939a769"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-10-3d992dffa8",
+  "publishedAt": "2026-08-10T06:00:00+09:00"
+}

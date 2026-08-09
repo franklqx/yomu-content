@@ -1,0 +1,131 @@
+{
+  "title": "副業で新しい挑戦！",
+  "summary": "最近、多くの会社で副業が許されるようになりました。これは働き方を変える大きなチャンスです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、会社員は一つの会社で働くのが普通でした。しかし、今は違います。たくさんの会社が「副業ＯＫ」と言っています。これは、働く人にとって新しいチャンスです。自分の好きなことや、興味のあることに挑戦できます。",
+      "translationZh": "过去，上班族在一家公司工作是很普遍的。但是，现在不同了。很多公司说“副业OK”。这对工作的人来说是新的机会。可以挑战自己喜欢的事情或感兴趣的事情。",
+      "translationEn": "In the past, it was common for office workers to work at one company. However, it is different now. Many companies are saying \"side jobs OK\". This is a new opportunity for working people. You can challenge yourself with things you like or are interested in.",
+      "id": "55636cd4-078f-43f6-a7a5-106c77f11f69",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業をすることで、収入が増えるかもしれません。また、新しいスキルを学ぶこともできます。例えば、デザインの勉強をしながら、小さな仕事を受けることができます。そうすると、仕事の経験が増えます。",
+      "translationZh": "通过副业，收入可能会增加。另外，也可以学到新的技能。例如，在学习设计的同时，可以接一些小的工作。这样，工作经验就会增加。",
+      "translationEn": "By doing side jobs, your income may increase. Also, you can learn new skills. For example, while studying design, you can take on small jobs. This will increase your work experience.",
+      "id": "8446a2a0-5757-430f-b842-6f18069a2726",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、副業をするときは注意も必要です。会社のルールを確認しましょう。そして、本業に支障が出ないように、時間管理をしっかりすることが大切です。無理をしないことが一番です。",
+      "translationZh": "当然，做副业时也需要注意。请确认公司的规定。然后，为了不影响本职工作，好好管理时间很重要。不勉强自己是最重要的。",
+      "translationEn": "Of course, caution is also necessary when doing side jobs. Please check the company's rules. And, it is important to manage your time well so as not to interfere with your main job. Not overdoing it is the most important thing.",
+      "id": "f9a02761-8e29-4259-a461-37f5ae5477f2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業解禁は、これからの働き方を変えるでしょう。自分の可能性を広げる良い機会だと考えられます。新しい働き方を、楽しんでみませんか？",
+      "translationZh": "副业解禁将改变今后的工作方式。可以认为是拓宽自己可能性的好机会。为什么不尝试享受新的工作方式呢？",
+      "translationEn": "Lifting the ban on side jobs will likely change the way we work in the future. It can be considered a good opportunity to broaden your possibilities. Why not try enjoying a new way of working?",
+      "id": "fd47373e-a169-42da-8ffc-ce20941c8f3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业",
+      "meaningEn": "side job",
+      "level": "n5n4",
+      "exampleSentence": "彼は週末に副業をしています。",
+      "id": "a16b9ff0-c7dc-44a2-9f63-1ef2398f7f50"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解除禁令，允许",
+      "meaningEn": "lifting a ban, allowing",
+      "level": "n3",
+      "exampleSentence": "多くの会社で副業が解禁されました。",
+      "id": "cb7dc38b-6148-48b1-815a-45ed2f016b3d"
+    },
+    {
+      "word": "働き方",
+      "reading": "はたらきかた",
+      "meaningZh": "工作方式",
+      "meaningEn": "way of working",
+      "level": "n5n4",
+      "exampleSentence": "新しい働き方を考えましょう。",
+      "id": "d53a8b27-2756-4e1b-9bba-b4ab37381850"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n3",
+      "exampleSentence": "新しい仕事に挑戦します。",
+      "id": "5a6bbe49-0af7-4cda-8e11-f6aa6c846452"
+    },
+    {
+      "word": "収入",
+      "reading": "しゅうにゅう",
+      "meaningZh": "收入",
+      "meaningEn": "income",
+      "level": "n3",
+      "exampleSentence": "副業で収入を増やしたいです。",
+      "id": "76f8ddb8-ff40-4f3a-b9bd-514571913320"
+    },
+    {
+      "word": "スキル",
+      "reading": "すきる",
+      "meaningZh": "技能",
+      "meaningEn": "skill",
+      "level": "n5n4",
+      "exampleSentence": "新しいスキルを身につけたいです。",
+      "id": "5968a4a2-d3b1-4472-9934-244af98d95f4"
+    },
+    {
+      "word": "支障",
+      "reading": "ししょう",
+      "meaningZh": "障碍，妨碍",
+      "meaningEn": "obstacle, hindrance",
+      "level": "n3",
+      "exampleSentence": "本業に支障がないようにします。",
+      "id": "b0065708-87dd-4dab-8917-b5af99574e0f"
+    },
+    {
+      "word": "時間管理",
+      "reading": "じかんかんり",
+      "meaningZh": "时间管理",
+      "meaningEn": "time management",
+      "level": "n3",
+      "exampleSentence": "時間管理は大切です。",
+      "id": "8b2ad7d9-ca7f-40df-97c5-af8b25721893"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "副業をすることで、どのような良いことがありますか？",
+      "options": [
+        "収入が増えるかもしれない。",
+        "新しいスキルが学べるかもしれない。",
+        "自分の好きなことに挑戦できる。",
+        "全部。"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文には「収入が増えるかもしれません」「新しいスキルを学ぶこともできます」「自分の好きなことや、興味のあることに挑戦できます」と書かれています。",
+      "id": "479aa021-1b49-4fda-a2ce-d770cc8c4953"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-10-1e32d3b1bf",
+  "publishedAt": "2026-08-10T06:00:00+09:00"
+}

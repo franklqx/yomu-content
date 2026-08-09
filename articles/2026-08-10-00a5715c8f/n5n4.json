@@ -1,0 +1,122 @@
+{
+  "title": "新星力士人気上昇中！",
+  "summary": "若手力士が番付を上がっています。彼らはファンにとても人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、新しい若い力士がたくさん活躍しています。彼らは一生懸命練習して、番付を上がっています。ファンは彼らのことを「新星力士」と呼んでいます。",
+      "translationZh": "最近，有很多年轻的新力士活跃着。他们努力练习，并且在力士等级榜（番付）上不断上升。粉丝们称呼他们为“新星力士”。",
+      "translationEn": "Recently, many new young sumo wrestlers are active. They practice hard and are rising in the ranking (banzuke). Fans call them 'rising stars'.",
+      "id": "a774fb17-03a6-4817-b22f-728b6e4c435f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "番付が上がると、力士はもっと有名になります。テレビに出たり、雑誌に載ったりします。若い力士は、力だけではなく、立ち居振る舞いもかっこいいので、人気が出ます。",
+      "translationZh": "当等级上升时，力士会变得更加有名。他们会出现在电视上，或者登上杂志。年轻力士不仅是因为力量，还因为他们帅气的言行举止而受到欢迎。",
+      "translationEn": "When their rank goes up, sumo wrestlers become more famous. They appear on TV or are featured in magazines. Young wrestlers become popular not only for their strength but also for their cool manners and behavior.",
+      "id": "3f4a2a60-6cab-41fe-acec-56c5ac5e9f3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、ある若い力士は、少ない試合で大きな成績を収めました。彼はすぐに番付の上のほうに上がりました。彼の相撲は力強く、そして速いです。多くの人が彼の次の試合を楽しみにしています。",
+      "translationZh": "特别是，有一位年轻力士在很少的比赛中取得了优异的成绩。他很快就升到了番付的较高位置。他的相扑风格强劲而迅速。很多人都在期待他的下一场比赛。",
+      "translationEn": "In particular, one young wrestler achieved great results in few matches. He quickly rose to a higher position in the ranking. His sumo style is powerful and fast. Many people are looking forward to his next match.",
+      "id": "8d8416a7-c09e-4c30-ad7e-3d4adf5ab3a2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、多くの新星力士が誕生するでしょう。彼らの活躍は、相撲界をさらに面白くします。ファンは、新しい力士たちの成長を応援しています。",
+      "translationZh": "今后，也会诞生许多新星力士。他们的活跃将使相扑界更加有趣。粉丝们支持着新力士们的成长。",
+      "translationEn": "From now on, many new rising sumo wrestlers will likely emerge. Their activities will make the sumo world even more exciting. Fans support the growth of these new wrestlers.",
+      "id": "79450a9f-1ebd-4c4e-a4cb-78c59d9d931e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "相扑选手",
+      "meaningEn": "sumo wrestler",
+      "level": "n5n4",
+      "exampleSentence": "新しい力士が活躍しています。",
+      "id": "d138df2b-5b27-41e8-8ba0-b34ecbc17f93"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "力士等级排名",
+      "meaningEn": "ranking of sumo wrestlers",
+      "level": "n3",
+      "exampleSentence": "彼は番付を上がりました。",
+      "id": "dfe94605-5d1c-40c1-87e6-84df461e7f9f"
+    },
+    {
+      "word": "若手",
+      "reading": "わかて",
+      "meaningZh": "年轻人，新秀",
+      "meaningEn": "young people, newcomer",
+      "level": "n5n4",
+      "exampleSentence": "若手の力士が人気です。",
+      "id": "99bbfa94-dbe8-4c9a-be39-1e142843939a"
+    },
+    {
+      "word": "新星",
+      "reading": "しんせい",
+      "meaningZh": "新星（喻指新出现的杰出人物）",
+      "meaningEn": "new star (metaphor for a newly emerged outstanding person)",
+      "level": "n3",
+      "exampleSentence": "彼は相撲界の新星です。",
+      "id": "fffc1a4d-96ce-4ff2-bd70-566f7606e5f2"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有作为",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "若い選手が活躍しています。",
+      "id": "2b840b5f-80c7-416c-8849-87bd85207bfb"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaningZh": "成绩，成果",
+      "meaningEn": "results, achievement",
+      "level": "n5n4",
+      "exampleSentence": "彼の成績は素晴らしいです。",
+      "id": "8d209631-d28d-4d39-b6b7-aba5298566cd"
+    },
+    {
+      "word": "立ち居振る舞い",
+      "reading": "たちいふるまい",
+      "meaningZh": "举止，风度",
+      "meaningEn": "behavior, manners",
+      "level": "n2n1",
+      "exampleSentence": "彼の立ち居振る舞いはかっこいいです。",
+      "id": "476af28b-b234-49fe-b193-5385158d548a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若い力士は人気がありますか。",
+      "options": [
+        "彼らは強いからです。",
+        "彼らの立ち居振る舞いもかっこいいからです。",
+        "彼らはテレビによく出るからです。",
+        "彼らは試合にたくさん勝つからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "若い力士は、力だけではなく、立ち居振る舞いもかっこいいので、人気が出ます。",
+      "id": "c238b2a7-3c91-48a9-92a3-f3ab032b517e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-10-00a5715c8f",
+  "publishedAt": "2026-08-10T06:00:00+09:00"
+}

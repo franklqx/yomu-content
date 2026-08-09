@@ -1,0 +1,143 @@
+{
+  "title": "若手力士の台頭、番付昇進と人気の秘密",
+  "summary": "最近、新しい力士たちが番付を駆け上がり、多くのファンを魅了しています。彼らの活躍の背景には何があるのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大相撲の世界では、新しい若手力士が次々と番付を上げており、注目を集めています。彼らは力強い相撲だけでなく、明るい性格や真摯な取り組みで、ベテラン力士とはまた違った魅力を持っています。そのため、新しいファン層を獲得しつつあるのです。",
+      "translationZh": "在大相扑界，新涌现的年轻力士们正接连攀升排名，吸引着人们的目光。他们不仅以强劲的相扑风格，还以开朗的性格和认真的态度，展现出与资深力士截然不同的魅力。因此，他们正在争取到新的粉丝群体。",
+      "translationEn": "In the world of Sumo wrestling, new young wrestlers are successively climbing the rankings, attracting attention. They possess a different kind of charm compared to veteran wrestlers, not only through their powerful sumo but also their bright personalities and earnest efforts. Because of this, they are gaining new fan bases.",
+      "id": "c8af21eb-f2af-46b4-9d8f-d1de5ce303c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "番付が上がると、メディアの露出も増え、人気に火がつくことが多いです。特に、地方巡業などでファンとの距離が近いと、応援したくなる気持ちが強まるでしょう。力士自身も、ファンの声援を力に変えて、さらに稽古に励むことができます。",
+      "translationZh": "随着排名的上升，媒体的曝光度也会增加，人气往往随之高涨。尤其是在地方巡回比赛等场合，与粉丝的距离拉近时，人们的支持意愿会更加强烈。力士本人也能将粉丝的声援转化为力量，更加努力地进行训练。",
+      "translationEn": "As their rankings rise, media exposure increases, often igniting their popularity. Especially during regional tours where they are close to fans, the desire to support them intensifies. The wrestlers themselves can turn the cheers of their fans into strength, motivating them to train even harder.",
+      "id": "48d9d331-40ab-475e-989d-9d53207eb971",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、番付を維持し、さらに上を目指すことは容易ではありません。稽古で怪我をしてしまうこともあれば、相手力士の研究に手間取ることもあります。それでも、若手力士たちは日々の努力を怠らず、一つ一つの取組に全力を尽くしています。そのひたむきな姿が、多くの人々の心を打つのです。",
+      "translationZh": "然而，维持排名并追求更高的位置并非易事。有时会因训练受伤，有时也会在研究对手力士上花费过多精力。尽管如此，年轻力士们仍不懈怠于日常的努力，并将全力投入到每一次比赛中。他们那种专注投入的身姿，打动了许多人。",
+      "translationEn": "However, maintaining one's rank and aiming higher is not easy. Sometimes they get injured during training, and other times they may struggle with studying their opponents. Nevertheless, these young wrestlers do not neglect their daily efforts and give their all in every bout. Their dedicated spirit touches many people's hearts.",
+      "id": "7164aafd-7c03-4a5a-b189-a53b0d3126d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後も、彼らがどのように成長し、番付を上げていくのか、目が離せません。新しいスターの誕生は、相撲界をさらに盛り上げるに違いありません。ファンとしては、彼らの活躍を応援し続けたいと思います。",
+      "translationZh": "今后，他们将如何成长，如何提升排名，都令人拭目以待。新星的诞生必将进一步活跃相扑界。作为粉丝，我们希望能继续支持他们的活跃表现。",
+      "translationEn": "We cannot take our eyes off how they will grow and climb the rankings in the future. The emergence of new stars will undoubtedly further invigorate the world of Sumo. As fans, we want to continue supporting their success.",
+      "id": "af30b6c8-05e3-4dd2-9951-1267455dcefd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "摔跤手（特指相扑选手）",
+      "meaningEn": "Sumo wrestler",
+      "level": "n3",
+      "exampleSentence": "新しい力士が続々と登場しています。",
+      "id": "6d34b9b1-84e8-48e5-84f8-82528324ef16"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）等级名册，排名",
+      "meaningEn": "Ranking list (in Sumo); rank",
+      "level": "n3",
+      "exampleSentence": "彼は番付を大きく上げた。",
+      "id": "659a4ba7-fdbb-47ef-8292-bd4c565eead4"
+    },
+    {
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaningZh": "晋升，升级",
+      "meaningEn": "Promotion",
+      "level": "n3",
+      "exampleSentence": "若手力士の昇進が期待されています。",
+      "id": "be1453af-0e27-4945-ac93-108e36678942"
+    },
+    {
+      "word": "魅了",
+      "reading": "みりょう",
+      "meaningZh": "魅力，吸引",
+      "meaningEn": "Charm; fascination",
+      "level": "n3",
+      "exampleSentence": "彼のパフォーマンスは観客を魅了した。",
+      "id": "90fd77ce-251b-4309-aeaf-92bfe497b83b"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "崭露头角，兴起",
+      "meaningEn": "Rise; emergence",
+      "level": "n3",
+      "exampleSentence": "新しい世代の台頭が見られる。",
+      "id": "96b14d77-28b8-4fad-9628-2445d09acf13"
+    },
+    {
+      "word": "露出",
+      "reading": "ろしゅつ",
+      "meaningZh": "暴露，（媒体）曝光",
+      "meaningEn": "Exposure (media)",
+      "level": "n3",
+      "exampleSentence": "メディアへの露出が増えた。",
+      "id": "8ad355e2-4a92-4399-a7a3-e276dd12333e"
+    },
+    {
+      "word": "巡業",
+      "reading": "じゅんぎょう",
+      "meaningZh": "（相扑）巡回比赛",
+      "meaningEn": "Regional tour (of Sumo wrestlers)",
+      "level": "n3",
+      "exampleSentence": "巡業で地方を回る。",
+      "id": "99078816-f571-4744-8db0-6587023dcf45"
+    },
+    {
+      "word": "稽古",
+      "reading": "けいこ",
+      "meaningZh": "练习，训练",
+      "meaningEn": "Practice; training",
+      "level": "n3",
+      "exampleSentence": "毎日欠かさず稽古をしている。",
+      "id": "658ac504-5973-48c1-bf5f-6d81cfbffead"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若手力士が人気を集めている理由として、本文ではどのような点が挙げられていますか？",
+      "options": [
+        "ベテラン力士にはない新しい魅力があるから",
+        "メディアへの露出が多いから",
+        "地方巡業でファンと交流する機会が多いから",
+        "給料が高いから"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文では「彼らは力強い相撲だけでなく、明るい性格や真摯な取り組みで、ベテラン力士とはまた違った魅力を持っています。」と述べられています。",
+      "id": "9a2c11d7-a55a-4ce3-93c8-fb516d9d18f4"
+    },
+    {
+      "question": "番付を上げるために、力士たちはどのような努力をしていますか？",
+      "options": [
+        "メディア対応を頑張っている",
+        "ファンの応援を力に変えている",
+        "日々の稽古を怠らず、取組に全力を尽くしている",
+        "怪我をしないように練習量を減らしている"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「若手力士たちは日々の努力を怠らず、一つ一つの取組に全力を尽くしています。」と書かれています。",
+      "id": "9b48133f-0f5f-4b41-a2e4-2c5709f0237f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-10-00a5715c8f",
+  "publishedAt": "2026-08-10T06:00:00+09:00"
+}

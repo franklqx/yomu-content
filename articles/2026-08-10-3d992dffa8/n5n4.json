@@ -1,0 +1,122 @@
+{
+  "title": "古本市で文学まつり",
+  "summary": "古い本がたくさんあります。文学イベントが開催されました。楽しい一日でした。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町には古い本屋がたくさんあります。その町で、文学イベントがありました。たくさんの人が集まりました。",
+      "translationZh": "这个城镇有很多旧书店。在那里，举办了文学活动。很多人聚集在一起。",
+      "translationEn": "This town has many old bookstores. In that town, there was a literary event. Many people gathered.",
+      "id": "601186df-3ff5-4546-84a7-31bb11000024",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントでは、有名な作家さんの話を聞くことができました。本について、いろいろなことを話しました。とても面白かったです。",
+      "translationZh": "在活动中，我们听了著名作家先生的演讲。谈论了很多关于书的事情。非常有趣。",
+      "translationEn": "At the event, we were able to listen to a famous author. They talked about many things concerning books. It was very interesting.",
+      "id": "4a73b4cf-483d-48b9-a262-14515c9cd5c3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古い本を探すのも楽しかったです。珍しい本を見つけました。友達と本について話しました。いい思い出になりました。",
+      "translationZh": "寻找旧书也很有趣。找到了稀有的书。和朋友们谈论了书。成为了美好的回忆。",
+      "translationEn": "Looking for old books was also fun. I found a rare book. I talked about books with my friends. It became a good memory.",
+      "id": "b4627c47-62a7-4c66-b74b-3e14f6303496",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また来年も、このイベントがあると思います。皆さんもぜひ来てください。きっと楽しいと思います。",
+      "translationZh": "我想明年也会有这个活动。大家也请一定要来。一定觉得会很有趣。",
+      "translationEn": "I think this event will be held again next year. Everyone, please come. I'm sure you'll have fun.",
+      "id": "e72b1579-d838-43c5-8145-235c7255b8cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古い",
+      "reading": "ふるい",
+      "meaningZh": "旧的，古老的",
+      "meaningEn": "old, ancient",
+      "level": "n5n4",
+      "exampleSentence": "これは古い写真です。",
+      "id": "93e7f4f8-2cbe-4a01-bfb3-9f2d30dd48f6"
+    },
+    {
+      "word": "本屋",
+      "reading": "ほんや",
+      "meaningZh": "书店",
+      "meaningEn": "bookstore",
+      "level": "n5n4",
+      "exampleSentence": "駅の近くに新しい本屋ができました。",
+      "id": "607cb5bd-dfde-4cbd-9c7e-94181278b9e5"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaningZh": "文学",
+      "meaningEn": "literature",
+      "level": "n3",
+      "exampleSentence": "文学は面白いです。",
+      "id": "95d52b54-c3ce-406b-aae3-4a13eed1a924"
+    },
+    {
+      "word": "イベント",
+      "reading": "イベント",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "週末に大きなイベントがあります。",
+      "id": "b80564c5-44e7-4634-91ba-0797b4798fd7"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaningZh": "作家",
+      "meaningEn": "writer, author",
+      "level": "n3",
+      "exampleSentence": "この作家の本が好きです。",
+      "id": "d581ef0f-e42c-48d4-9fa5-9e65e5c70dcd"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "会議に多くの人が集まりました。",
+      "id": "ef460a9d-69ad-45b1-a646-4242f86d5357"
+    },
+    {
+      "word": "珍しい",
+      "reading": "めずらしい",
+      "meaningZh": "稀有的，罕见的",
+      "meaningEn": "rare, unusual",
+      "level": "n5n4",
+      "exampleSentence": "これはとても珍しい切手です。",
+      "id": "3ae89d5a-b6bb-41fc-bacd-2390bc487d1b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "イベントでは、誰の話を聞くことができましたか。",
+      "options": [
+        "有名な学生の話",
+        "有名な作家の話",
+        "有名な先生の話",
+        "有名な旅行者の話"
+      ],
+      "correctIndex": 1,
+      "explanation": "イベントでは、有名な作家さんの話を聞くことができました。",
+      "id": "cca0aecc-2705-48bf-87fd-9d3ca7631eff"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-10-3d992dffa8",
+  "publishedAt": "2026-08-10T06:00:00+09:00"
+}
