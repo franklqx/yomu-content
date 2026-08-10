@@ -1,0 +1,131 @@
+{
+  "title": "民芸品、また人気",
+  "summary": "昔からある民芸品が、また若い人たちの間で人気になっています。新しいコレクターも増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、日本にはたくさんの民芸品がありました。それは、特別な職人さんたちが作った、美しくて使いやすい物です。例えば、お皿やコップ、かごなどです。しかし、時代が変わって、あまり見なくなりました。",
+      "translationZh": "过去，日本有很多民艺品。那是特别的工匠制作的，又美观又实用的物品。例如，盘子、杯子、篮子等。但是，随着时代变迁，它们变得不那么常见了。",
+      "translationEn": "Long ago, Japan had many folk crafts. These were beautiful and useful items made by special artisans. For example, plates, cups, and baskets. However, as times changed, they became less common.",
+      "id": "96bc8c7b-90b9-4a8a-994a-2ca99ef16a68",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、民芸品の良さが見直されています。特に若い世代の人たちが、そのデザインや温かさにひかれています。古い民芸品店を訪ねたり、インターネットで探したりしています。",
+      "translationZh": "最近，民艺品的优点再次被认识。特别是年轻一代被其设计和温暖感所吸引。他们会去访问旧的民艺品店，或者在网上寻找。",
+      "translationEn": "Recently, the value of folk crafts is being re-evaluated. Especially younger generations are attracted to their design and warmth. They visit old folk craft shops or search online.",
+      "id": "d8c520a6-e96a-4d62-9d0b-8c26fd249483",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいコレクターも増えています。彼らは、昔の職人さんの技術や、その物に込められた物語を大切にしています。そして、自分の部屋に飾ったり、毎日使ったりして楽しんでいます。",
+      "translationZh": "新的收藏家也在增加。他们珍惜以前工匠的技术以及物品中蕴含的故事。然后，他们享受着装饰自己的房间或每天使用它们。",
+      "translationEn": "New collectors are also increasing. They cherish the skills of old artisans and the stories embedded in the objects. Then, they enjoy decorating their rooms or using them every day.",
+      "id": "2e22a3ed-2756-4f61-a123-06d58cdcb91c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "民芸運動は、日本文化の大切な一部です。これからも、新しい人たちに愛されていくでしょう。古い物が新しい形で、私たちの生活に戻ってきています。",
+      "translationZh": "民艺运动是日本文化的重要组成部分。今后，它们也会被新一代人们所喜爱。旧物品以新的形式回到了我们的生活中。",
+      "translationEn": "The folk craft movement is an important part of Japanese culture. It will likely continue to be loved by new people. Old things are returning to our lives in new forms.",
+      "id": "f9509bf1-0da5-4cc0-a6ca-1aee9d052c0c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "民芸品",
+      "reading": "みんげいひん",
+      "meaningZh": "民艺品",
+      "meaningEn": "folk craft",
+      "level": "n5n4",
+      "exampleSentence": "このお皿は民芸品です。",
+      "id": "eb7077b0-b6cb-4fd2-92f5-adddf9d8b230"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠",
+      "meaningEn": "artisan, craftsman",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な職人です。",
+      "id": "348f04b3-5c42-4af8-92c2-31d78eba61e3"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaningZh": "时代",
+      "meaningEn": "era, period",
+      "level": "n5n4",
+      "exampleSentence": "古い時代には、車がありませんでした。",
+      "id": "3bbad180-8b72-4d44-981b-bcf6a6c58c20"
+    },
+    {
+      "word": "見直す",
+      "reading": "みなおす",
+      "meaningZh": "重新审视，再次认识",
+      "meaningEn": "reconsider, re-evaluate",
+      "level": "n3",
+      "exampleSentence": "その映画をもう一度見直しました。",
+      "id": "3c13ae13-5a24-40ea-8809-a89072f3291b"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "代，世代",
+      "meaningEn": "generation",
+      "level": "n3",
+      "exampleSentence": "若い世代は新しい技術を使います。",
+      "id": "7ff1aa84-45a0-4726-8fd3-dc41efb0d70a"
+    },
+    {
+      "word": "ひかれる",
+      "reading": "ひかれる",
+      "meaningZh": "被吸引",
+      "meaningEn": "to be attracted",
+      "level": "n5n4",
+      "exampleSentence": "その景色にひかれました。",
+      "id": "1d212e8c-6bd5-4713-b2c8-0dc46054b61b"
+    },
+    {
+      "word": "コレクター",
+      "reading": "コレクター",
+      "meaningZh": "收藏家",
+      "meaningEn": "collector",
+      "level": "n5n4",
+      "exampleSentence": "彼は切手のコレクターです。",
+      "id": "71fa6eb9-23da-48fc-85c5-f4aaf69f3ac4"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要，珍惜",
+      "meaningEn": "important, precious",
+      "level": "n5n4",
+      "exampleSentence": "家族は私にとって大切です。",
+      "id": "d7d6f092-2548-42e8-9f78-c4ad86c8c9c9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、若い人たちの間で何が人気になっていますか。",
+      "options": [
+        "新しい車",
+        "高い建物",
+        "昔の民芸品",
+        "ゲーム機"
+      ],
+      "correctIndex": 2,
+      "explanation": "最近、民芸品（みんげいひん）の良さが見直されています。特に若い世代（せだい）の人たちが、そのデザインや温かさにひかれています。",
+      "id": "5232c7ad-5470-4727-ac61-8e86b4662799"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-11-e8b1c0ac34",
+  "publishedAt": "2026-08-11T06:00:00+09:00"
+}

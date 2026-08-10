@@ -1,0 +1,122 @@
+{
+  "title": "新しい工場、動きました！",
+  "summary": "日本の会社が新しい工場を建てました。この工場は半導体を作ります。もうすぐ、もっとたくさんの半導体が作られます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の会社が新しい工場を建てました。この工場はとても大きいです。ここで、半導体という小さな部品を作ります。半導体は、スマホや車に必要です。",
+      "translationZh": "一家日本公司建造了新工厂。这座工厂非常大。在这里，他们制造一种叫做半导体的微小零件。半导体是智能手机和汽车必需的。",
+      "translationEn": "A Japanese company built a new factory. This factory is very big. Here, they make small parts called semiconductors. Semiconductors are necessary for smartphones and cars.",
+      "id": "3fc6233e-1fdb-4be9-80ae-a7627e2ebd0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい工場は、もうすぐ動きます。工場が動くと、たくさんの半導体が作れます。日本の会社は、もっと良い半導体を作りたいです。",
+      "translationZh": "这座新工厂很快就会开始运转。工厂运转起来后，就能生产很多半导体。这家日本公司想要制造更好的半导体。",
+      "translationEn": "This new factory will start operating soon. When the factory operates, it can produce many semiconductors. The Japanese company wants to make better semiconductors.",
+      "id": "695f2025-b5e6-4cb8-ba7a-a34879af8dd3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい工場で働く人もたくさん必要です。会社は新しい人を募集しています。この工場で、日本の技術がもっと進むかもしれません。",
+      "translationZh": "新工厂也需要很多人工作。公司正在招聘新人。有了这个工厂，日本的技术也许会进一步发展。",
+      "translationEn": "The new factory also needs many people to work. The company is recruiting new people. With this factory, Japan's technology might advance further.",
+      "id": "5d2ff1a1-1e03-4684-85d4-4785e7b6a206",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、この会社が作る半導体が、世界中で使われるようになるでしょう。新しい技術の始まりです。みんなが楽しみにしています。",
+      "translationZh": "今后，这家公司生产的半导体可能会在世界各地使用。这是新技术的一个开端。大家都很期待。",
+      "translationEn": "From now on, the semiconductors made by this company will likely be used all over the world. This is the beginning of new technology. Everyone is looking forward to it.",
+      "id": "685a36ad-a69b-4e56-9b5a-770a1b536a2c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaningZh": "工厂",
+      "meaningEn": "factory",
+      "level": "n5n4",
+      "exampleSentence": "新しい工場ができました。",
+      "id": "4b3d34f7-b11f-488c-9599-918f57185adb"
+    },
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "半導体は小さいですが、大切です。",
+      "id": "99a1445d-7f78-446c-8ef6-df8151eab214"
+    },
+    {
+      "word": "動きます",
+      "reading": "うごきます",
+      "meaningZh": "运转，开始工作",
+      "meaningEn": "to move, to start operating",
+      "level": "n5n4",
+      "exampleSentence": "機械がゆっくり動きました。",
+      "id": "a7957a44-bd97-4493-b542-8cb4d9e591af"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaningZh": "必要",
+      "meaningEn": "necessary",
+      "level": "n5n4",
+      "exampleSentence": "水は生きていくのに必要です。",
+      "id": "649d3a16-9fda-4205-b0f3-a55dae7c27c4"
+    },
+    {
+      "word": "募集",
+      "reading": "ぼしゅう",
+      "meaningZh": "招募",
+      "meaningEn": "recruitment",
+      "level": "n3",
+      "exampleSentence": "会社は新しい人を募集しています。",
+      "id": "59fa3e82-fd37-4b04-946b-6d951a6960ee"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "日本の技術はすごいです。",
+      "id": "e2a31953-268b-4e39-8810-e254c68abf9a"
+    },
+    {
+      "word": "世界中",
+      "reading": "せかいじゅう",
+      "meaningZh": "全世界",
+      "meaningEn": "all over the world",
+      "level": "n5n4",
+      "exampleSentence": "世界中の人がこのニュースを見ました。",
+      "id": "3cb00431-0621-471f-b796-fa532e7e17df"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい工場では、何を作りますか。",
+      "options": [
+        "車",
+        "スマホ",
+        "半導体",
+        "機械"
+      ],
+      "correctIndex": 2,
+      "explanation": "この新しい工場は、半導体という小さな部品を作ります。",
+      "id": "4d50971a-b850-44c9-b13d-5a55f31d8319"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-11-c52965aeb4",
+  "publishedAt": "2026-08-11T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "地域通貨で商店街を元気に！",
+  "summary": "町のお店で使える特別な「お金」があります。これは地域通貨です。地域通貨は、商店街を元気にするための新しい方法です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "町には、たくさんの小さなお店があります。このお店が元気だと、町も元気になります。しかし、最近、小さなお店は少し元気がないです。そこで、新しいアイデアがありました。それは「地域通貨」を使うことです。",
+      "translationZh": "城镇里有很多小商店。这些商店有活力，城镇也会有活力。但是，最近，小商店有些没有活力。因此，出现了一个新想法。那就是使用“地域货币”。",
+      "translationEn": "There are many small shops in town. If these shops are lively, the town will also be lively. However, recently, small shops are a little less lively. Therefore, a new idea has emerged. That is to use \"local currency.\"",
+      "id": "4d88be0f-ec34-4b0d-80b6-b702a1952bcf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨は、その町だけで使える特別な紙やカードのお金です。例えば、1000円で地域通貨を買うと、1100円分のお買い物ができます。この「プラス100円」がお客さんには嬉しいです。そして、地域通貨はお店でしか使えないので、町のお金が外に出ません。町の中だけで使われるのです。",
+      "translationZh": "地域货币是一种只能在该城镇使用的特殊纸币或卡片式货币。例如，用1000日元购买地域货币，可以购买价值1100日元的东西。这“多出的100日元”让顾客很高兴。而且，由于地域货币只能在商店使用，所以城镇的钱不会流出。它只在城镇内部使用。",
+      "translationEn": "Local currency is special paper money or card money that can only be used in that town. For example, if you buy local currency for 1000 yen, you can shop for 1100 yen worth of goods. This \"extra 100 yen\" makes customers happy. Also, since local currency can only be used in shops, the town's money does not go outside. It is used only within the town.",
+      "id": "aabe6318-62c2-45a7-9de7-0cf6b6f83db2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨を使うと、町のお店はもっと人が来てくれるようになります。お客さんもお得なので、喜んで使います。町のお金が町の中に残ることは、町全体にとって良いことです。この仕組みは、多くの商店街で試されています。",
+      "translationZh": "使用地域货币，城镇的商店会吸引更多顾客。顾客也觉得划算，乐意使用。城镇的钱留在城镇内部，对整个城镇都是好事。这种机制正在许多商店街被尝试。",
+      "translationEn": "By using local currency, shops in town will attract more customers. Customers also find it a good deal and are happy to use it. Money staying within the town is good for the town as a whole. This system is being tried in many shopping streets.",
+      "id": "1b7eb1bf-65f3-4407-954d-70713e0b2432",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨は、ただのお金ではありません。それは、町の人々の気持ちをつなぐものです。お店の人と町の人、そして町と町の人々が、もっと仲良くなるための良い方法だと考えられています。",
+      "translationZh": "地域货币不仅仅是钱。它连接着城镇居民的心。人们认为这是让店主、城镇居民以及城镇之间变得更加亲近的好方法。",
+      "translationEn": "Local currency is not just money. It connects the feelings of the townspeople. It is thought to be a good way for shop owners, townspeople, and towns to become closer.",
+      "id": "097fdaa4-6d7c-43f5-9aba-c442d4dea00d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつも賑やかです。",
+      "id": "5006dabc-060e-411a-91c9-ac0f9a583bbd"
+    },
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "地域货币",
+      "meaningEn": "local currency",
+      "level": "n5n4",
+      "exampleSentence": "地域通貨でお買い物をしました。",
+      "id": "971edb9a-8f5a-4019-a1ac-c6f05e898839"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "活用",
+      "meaningEn": "utilization",
+      "level": "n3",
+      "exampleSentence": "この技術を新しい商品に活用します。",
+      "id": "e2742e98-ef22-4e4d-96ff-0f9f1f28d3ec"
+    },
+    {
+      "word": "元気になる",
+      "reading": "げんきになる",
+      "meaningZh": "变得有活力，恢复健康",
+      "meaningEn": "to become lively, to get well",
+      "level": "n5n4",
+      "exampleSentence": "病気だった猫が元気に走り回っています。",
+      "id": "2ef54a1d-19ea-4a5b-97e1-f068786bdc7f"
+    },
+    {
+      "word": "仕組み",
+      "reading": "しくみ",
+      "meaningZh": "机制，系统",
+      "meaningEn": "mechanism, system",
+      "level": "n3",
+      "exampleSentence": "この機械の仕組みが分かりません。",
+      "id": "bc9d5456-6001-4389-b3d5-ff7bcd755d32"
+    },
+    {
+      "word": "お得",
+      "reading": "おとく",
+      "meaningZh": "划算，合算",
+      "meaningEn": "profitable, advantageous",
+      "level": "n5n4",
+      "exampleSentence": "セールで安く買えて、とてもお得でした。",
+      "id": "64f8fa6a-5db2-4ef9-83b5-ca628c314c9f"
+    },
+    {
+      "word": "仲良くなる",
+      "reading": "なかよくなる",
+      "meaningZh": "变得亲近，和睦",
+      "meaningEn": "to become good friends",
+      "level": "n5n4",
+      "exampleSentence": "新しいクラスで、早く友達と仲良くなりたいです。",
+      "id": "1f43f84e-8001-45ed-880b-5ae82842ca2b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨を使うと、なぜ町のお店は元気になるのですか？",
+      "options": [
+        "地域通貨はとてもデザインが良いからです。",
+        "地域通貨はお客さんにとってお得だからです。",
+        "地域通貨は世界中で使われるからです。",
+        "地域通貨は国の法律で決められているからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "地域通貨はお客さんにとってもお得なので、喜んで使います。それによってお店にもっと人が来てくれるようになります。",
+      "id": "a7cfaa9b-ad2f-4e91-a428-408cb89febe6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-11-b6105dfb66",
+  "publishedAt": "2026-08-11T06:00:00+09:00"
+}
