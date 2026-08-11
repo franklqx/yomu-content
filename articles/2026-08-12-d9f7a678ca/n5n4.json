@@ -1,0 +1,131 @@
+{
+  "title": "敬老の日の手作りギフト",
+  "summary": "敬老の日が近いです。おじいさんやおばあさんのために、手作りのプレゼントはどうですか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ敬老の日です。家族の元気なお年寄りに感謝する日です。プレゼントをあげる人が多いでしょう。",
+      "translationZh": "敬老节马上就到了。这是感谢家中健康长辈的日子。很多人会送礼物。",
+      "translationEn": "Respect for the Aged Day is coming soon. It is a day to thank the healthy elderly people in our families. Many people will give presents.",
+      "id": "123a579d-8ac0-4ecc-a6dc-ba3bd93eebe4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、手作りのプレゼントを贈りませんか。手作りのプレゼントは気持ちがこもっています。心を込めて作ると、もっと喜ばれます。",
+      "translationZh": "今年，要不要送一份亲手制作的礼物呢？手工制作的礼物饱含心意。用心制作的话，会更令人高兴。",
+      "translationEn": "This year, why not give a handmade present? Handmade presents are filled with feelings. If you make it with your heart, they will be happier.",
+      "id": "b8e6f183-1f92-4077-99b0-02be510aab83",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、写真立てはどうですか。家族の写真を入れて、きれいに飾りましょう。絵を描いてメッセージを書いてもいいです。",
+      "translationZh": "比如，相框怎么样？放上家人的照片，好好装饰一下吧。也可以画画写上寄语。",
+      "translationEn": "For example, how about a photo frame? Put in a family photo and decorate it nicely. You can also draw pictures and write messages.",
+      "id": "e462c22b-6cc9-40cf-816f-2b46c49e74f5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "手編みのマフラーや手編みのかごも人気があります。温かい気持ちが伝わります。ぜひ、作ってみてください。",
+      "translationZh": "手工编织的围巾或篮子也很受欢迎。温暖的心情会传达过去。请一定要试着做做看。",
+      "translationEn": "Hand-knitted scarves and hand-knitted baskets are also popular. Warm feelings will be conveyed. Please try making one.",
+      "id": "2a76162d-f701-4bba-afef-692c92d27e61",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "敬老の日",
+      "reading": "けいろうのひ",
+      "meaningZh": "敬老节",
+      "meaningEn": "Respect for the Aged Day",
+      "level": "n5n4",
+      "exampleSentence": "敬老の日にプレゼントをあげます。",
+      "id": "fba0a4be-ea61-477d-8989-840c3cde15e5"
+    },
+    {
+      "word": "近いです",
+      "reading": "ちかいです",
+      "meaningZh": "近",
+      "meaningEn": "near",
+      "level": "n5n4",
+      "exampleSentence": "誕生日はもう近いです。",
+      "id": "56df2ea1-69dc-4bf2-9795-4c6f8134b885"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaningZh": "感谢",
+      "meaningEn": "gratitude, thanks",
+      "level": "n5n4",
+      "exampleSentence": "いつも感謝しています。",
+      "id": "cde4285b-fb54-46cd-a10c-94e8163f1c61"
+    },
+    {
+      "word": "手作り",
+      "reading": "てづくり",
+      "meaningZh": "手工制作",
+      "meaningEn": "handmade",
+      "level": "n5n4",
+      "exampleSentence": "これは母が手作りしたケーキです。",
+      "id": "8caa62fe-52f1-4b36-9ecd-9edb3161b0d6"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaningZh": "心情；心意",
+      "meaningEn": "feeling; sentiment",
+      "level": "n5n4",
+      "exampleSentence": "プレゼントに気持ちを込めます。",
+      "id": "5927a0ac-c458-4a31-a9cd-b0ff312d5e2a"
+    },
+    {
+      "word": "喜ばれます",
+      "reading": "よろこばれます",
+      "meaningZh": "被高兴；被喜欢",
+      "meaningEn": "to be pleased; to be delighted",
+      "level": "n5n4",
+      "exampleSentence": "先生は生徒の絵を喜んでくれました。",
+      "id": "57f73cb7-fdea-458e-9885-51b6a9b6815e"
+    },
+    {
+      "word": "写真立て",
+      "reading": "しゃしんたて",
+      "meaningZh": "相框",
+      "meaningEn": "photo frame",
+      "level": "n5n4",
+      "exampleSentence": "素敵な写真立てを買いました。",
+      "id": "4723f8c0-eef0-4ba9-afe8-96c86c61f0e6"
+    },
+    {
+      "word": "編みます",
+      "reading": "あみます",
+      "meaningZh": "编织",
+      "meaningEn": "to knit; to weave",
+      "level": "n5n4",
+      "exampleSentence": "マフラーを編んでいます。",
+      "id": "3f2c18e8-7a5b-446d-ab39-f46c3b66b0e1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "敬老の日に、どんなプレゼントがおすすめですか？",
+      "options": [
+        "高いプレゼント",
+        "手作りのプレゼント",
+        "買ったプレゼント",
+        "食べ物だけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「今年は、手作りのプレゼントを贈りませんか。手作りのプレゼントは気持ちがこもっています。」と書いてあります。",
+      "id": "69e2b981-8c88-4842-831f-51c31cac4528"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-12-d9f7a678ca",
+  "publishedAt": "2026-08-12T06:00:00+09:00"
+}

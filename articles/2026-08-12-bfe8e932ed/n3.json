@@ -1,0 +1,143 @@
+{
+  "title": "週休3日制、試験導入企業のホンネ",
+  "summary": "最近、週休3日制を試験的に導入する企業が増えています。実際に試してみた企業の声を聞いてみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、働き方改革が進む中で、週休3日制を試験的に導入する企業が注目されています。この制度は、従業員のワークライフバランスを改善し、仕事へのモチベーションを高めることが期待されています。しかし、実際に導入するとなると、様々な課題も出てくるようです。",
+      "translationZh": "近年来，随着工作方式改革的推进，试验性引入周休三日制的企业备受瞩目。这项制度被期待能够改善员工的工作生活平衡，并提高工作积极性。然而，实际引入时似乎也出现了各种各样的问题。",
+      "translationEn": "In recent years, as work style reforms progress, companies that experimentally introduce a three-day weekend system are attracting attention. This system is expected to improve employees' work-life balance and increase their motivation for work. However, various challenges seem to arise when actually implementing it.",
+      "id": "18640f52-2623-44fd-a1e2-e8acc4e86748",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "あるIT企業の担当者は、「試験導入の結果、社員の満足度は予想以上に高かったです。ただし、業務の効率化がうまくいかないと、限られた時間で成果を出すのが難しくなるため、会議の回数を減らすなどの工夫をしました。」と話しています。つまり、単に休みを増やすだけでなく、生産性を維持・向上させるための工夫が不可欠なのです。",
+      "translationZh": "某IT公司的负责人表示：“试验引进的结果是，员工的满意度比预想的还要高。但是，如果业务效率化不成功，要在有限的时间内取得成果就会变得困难，因此我们减少了会议次数等进行了改进。”也就是说，不仅仅是简单地增加休息日，为了维持和提高生产力所做的努力是不可或缺的。",
+      "translationEn": "A representative from an IT company said, \"As a result of the trial introduction, employee satisfaction was higher than expected. However, if work efficiency is not improved, it becomes difficult to achieve results in a limited time, so we made efforts such as reducing the number of meetings.\" In other words, it is essential to make efforts to maintain and improve productivity, not just simply increase days off.",
+      "id": "d7bf1cfd-f321-4b42-a91d-ced3fe42be7c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、別の製造業の会社では、「週休3日制にすると、どうしても生産量が減ってしまう懸念がありました。そこで、技術開発を進めたり、シフト制を導入したりして、この問題をクリアしようとしています。ただし、全ての部署で同じように対応できるわけではないので、部署ごとに話し合いを重ねています。」とのことです。このように、業種や職種によって、導入の難しさや効果は異なってくるようです。",
+      "translationZh": "此外，另一家制造公司的负责人表示：“引入周休三日制，总会有担心产量会减少。因此，我们正在通过推进技术开发和引入轮班制来努力解决这个问题。但是，并非所有部门都能以相同的方式应对，所以我们正在各个部门之间反复讨论。”像这样，根据行业和职业的不同，引入的难度和效果似乎也各不相同。",
+      "translationEn": "Furthermore, a representative from another manufacturing company stated, \"We were concerned that production volume would inevitably decrease with a three-day weekend system. Therefore, we are trying to overcome this problem by advancing technological development and introducing shift systems. However, since not all departments can respond in the same way, we are holding repeated discussions within each department.\" Thus, it seems that the difficulty and effectiveness of introduction vary depending on the industry and job type.",
+      "id": "3a5f68f8-9d8a-4547-81ac-7ef2b8ea8735",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "週休3日制は、理想的な働き方の一つかもしれませんが、それを成功させるためには、企業側の周到な準備と、従業員一人ひとりの意識改革が求められます。今後、さらに多くの企業がこの制度を試す中で、どのような新しい働き方が生まれてくるのか、注目していきたいです。",
+      "translationZh": "周休三日制可能是理想的工作方式之一，但要成功实行，则需要企业方面的周全准备以及每位员工的意识改革。今后，随着越来越多的企业尝试这一制度，我们希望关注会诞生出怎样新的工作方式。",
+      "translationEn": "While a three-day weekend system might be an ideal way of working, making it successful requires thorough preparation from the company and a change in awareness for each employee. As more companies experiment with this system in the future, we want to pay attention to what new ways of working will emerge.",
+      "id": "73266fbd-3650-4825-a168-81b146ad1efa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ワークライフバランス",
+      "reading": "わーくらいふばらんす",
+      "meaningZh": "工作与生活的平衡",
+      "meaningEn": "Work-life balance",
+      "level": "n3",
+      "exampleSentence": "ワークライフバランスを重視する人が増えています。",
+      "id": "f9eaad5c-5ae8-45c5-9d2a-72503d3226d5"
+    },
+    {
+      "word": "モチベーション",
+      "reading": "もちべーしょん",
+      "meaningZh": "积极性，动力",
+      "meaningEn": "Motivation",
+      "level": "n3",
+      "exampleSentence": "高いモチベーションを保つことが大切です。",
+      "id": "8ab8ee9c-ebeb-4087-bd63-079a4fca7643"
+    },
+    {
+      "word": "効率化",
+      "reading": "こうりつか",
+      "meaningZh": "效率化",
+      "meaningEn": "Improving efficiency",
+      "level": "n3",
+      "exampleSentence": "業務の効率化を図る必要があります。",
+      "id": "82cd0f2b-01f6-4687-bb21-9e1791c203c2"
+    },
+    {
+      "word": "生産性",
+      "reading": "せいさんせい",
+      "meaningZh": "生产率，生产力",
+      "meaningEn": "Productivity",
+      "level": "n3",
+      "exampleSentence": "生産性を高めるための新しい技術が導入されました。",
+      "id": "5f46a78e-f246-4aab-a754-3e29cbb71175"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，巧妙的设计",
+      "meaningEn": "Ingenuity, device, effort",
+      "level": "n3",
+      "exampleSentence": "問題を解決するために、色々な工夫をしました。",
+      "id": "79cf361a-4a18-417b-a054-e04bf2132e35"
+    },
+    {
+      "word": "懸念",
+      "reading": "けねん",
+      "meaningZh": "担心，担忧",
+      "meaningEn": "Concern, worry",
+      "level": "n3",
+      "exampleSentence": "将来に対する懸念があります。",
+      "id": "8c20899e-fad9-4956-bb6a-f0ee590d27e4"
+    },
+    {
+      "word": "シフト制",
+      "reading": "しふとせい",
+      "meaningZh": "轮班制",
+      "meaningEn": "Shift system",
+      "level": "n3",
+      "exampleSentence": "この工場ではシフト制で働いています。",
+      "id": "6292030b-4fb9-49a9-bc3e-e442c166437f"
+    },
+    {
+      "word": "周到",
+      "reading": "しゅうとう",
+      "meaningZh": "周到，周密",
+      "meaningEn": "Careful, thorough",
+      "level": "n2n1",
+      "exampleSentence": "周到な準備のおかげで、計画は成功しました。",
+      "id": "028e4237-681c-418e-9306-e8bd29c40aae"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "IT企業では、週休3日制の導入にあたり、どのような工夫をしましたか？",
+      "options": [
+        "会議の回数を増やした",
+        "業務の効率化を図り、会議の回数を減らした",
+        "従業員の残業時間を増やした",
+        "特に何も工夫しなかった"
+      ],
+      "correctIndex": 1,
+      "explanation": "「業務の効率化がうまくいかないと、限られた時間で成果を出すのが難しくなるため、会議の回数を減らすなどの工夫をしました。」とあります。",
+      "id": "443b0e6b-9c5c-4551-95b9-4e292e6c98c0"
+    },
+    {
+      "question": "週休3日制を成功させるために、企業に求められていることは何ですか？",
+      "options": [
+        "従業員の給料を下げること",
+        "特別な準備は必要ないこと",
+        "従業員がただ休むことを増やすこと",
+        "企業側の周到な準備と従業員一人ひとりの意識改革"
+      ],
+      "correctIndex": 3,
+      "explanation": "「それを成功させるためには、企業側の周到な準備と、従業員一人ひとりの意識改革が求められます。」とあります。",
+      "id": "7aea0ac2-a3d6-4cae-b25c-d8e781196533"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-12-bfe8e932ed",
+  "publishedAt": "2026-08-12T06:00:00+09:00"
+}

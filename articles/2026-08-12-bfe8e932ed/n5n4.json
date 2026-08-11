@@ -1,0 +1,131 @@
+{
+  "title": "週休3日制、どう？",
+  "summary": "最近、週に3日休む会社が増えています。働く人や会社はどう思っているのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、週に3日休む会社が増えています。これは「週休3日制」といいます。まだ少ないですが、会社は「試験」としてこの制度を始めています。",
+      "translationZh": "最近，每周休息三天（休假四天）的公司正在增加。这叫做“周休三日制”。虽然还不普遍，但一些公司正在以“试验”的形式开始这项制度。",
+      "translationEn": "Recently, more companies are allowing employees to rest three days a week. This is called the 'three-day weekend system'. Although it's still uncommon, companies are starting this system as a 'test'.",
+      "id": "3682e9eb-36d1-4044-ac42-1bd9bc17fc0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ある会社では、この制度を試しました。社員は「時間ができてよかった」と言いました。家族と過ごす時間や、自分の趣味の時間が増えたそうです。",
+      "translationZh": "有一家公司尝试了这项制度。员工们说：“时间多了，太好了。”据说他们与家人共度的时间以及进行个人爱好的时间都增加了。",
+      "translationEn": "One company tried this system. Employees said, 'It's good to have more free time.' They apparently have more time to spend with their families and on their hobbies.",
+      "id": "5ed22c1f-2889-46d3-9683-d59f49d4c1db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "会社側も「社員のやる気が上がった」と感じています。仕事の効率が上がったり、会社を辞める人が減ったりする効果もあったようです。",
+      "translationZh": "公司方面也感觉“员工的积极性提高了”。工作效率似乎有所提高，而且离职的人也减少了。",
+      "translationEn": "The company side also feels that 'employee motivation has increased.' It seems to have had the effect of improving work efficiency and reducing the number of people who quit.",
+      "id": "350b17e9-e02f-4714-a5ea-ddbe46beef62",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、まだ問題がないわけではありません。仕事が減らないのに休みが増えるので、大変なこともあります。でも、これからもこの制度を考える会社は増えるかもしれません。",
+      "translationZh": "当然，并非还没有问题。因为在工作量不变的情况下休息时间增加了，所以也有困难的时候。但是，今后考虑这种制度的公司可能会继续增加。",
+      "translationEn": "Of course, there are still some challenges. Since rest days increase without a reduction in workload, there are difficult aspects. However, the number of companies considering this system may continue to grow in the future.",
+      "id": "5814e860-933a-4efc-9d70-f1b446f18363",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "週休",
+      "reading": "しゅうきゅう",
+      "meaningZh": "每周休息日",
+      "meaningEn": "weekly holidays",
+      "level": "n5n4",
+      "exampleSentence": "週休2日は普通です。",
+      "id": "002f5014-2797-4bbc-83fc-17150af952f5"
+    },
+    {
+      "word": "試験",
+      "reading": "しけん",
+      "meaningZh": "试验，考试",
+      "meaningEn": "test, trial",
+      "level": "n5n4",
+      "exampleSentence": "新しいやり方を試験しています。",
+      "id": "dc294fcd-a97d-4b2d-8b17-d03438697661"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "导入，引入",
+      "meaningEn": "introduction",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入しました。",
+      "id": "833f4cf7-6863-4dc3-98ac-bf622121275c"
+    },
+    {
+      "word": "社員",
+      "reading": "しゃいん",
+      "meaningZh": "公司职员",
+      "meaningEn": "company employee",
+      "level": "n5n4",
+      "exampleSentence": "社員はみんな親切です。",
+      "id": "2f66ad00-b5c9-4e19-9a26-88eafdc30ad7"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n3",
+      "exampleSentence": "この制度は便利です。",
+      "id": "3b6c05cd-82ea-4f5a-b7ab-6417cf9fe86c"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaningZh": "时间",
+      "meaningEn": "time",
+      "level": "n5n4",
+      "exampleSentence": "忙しいですが、時間を作ります。",
+      "id": "b2330a39-89d8-4086-be07-ba5a7de5502b"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaningZh": "兴趣，爱好",
+      "meaningEn": "hobby",
+      "level": "n5n4",
+      "exampleSentence": "私の趣味は読書です。",
+      "id": "49e72b30-0f54-4a08-bc45-66563cfabdde"
+    },
+    {
+      "word": "効率",
+      "reading": "こうりつ",
+      "meaningZh": "效率",
+      "meaningEn": "efficiency",
+      "level": "n3",
+      "exampleSentence": "もっと効率よく働きたいです。",
+      "id": "dd068d19-3f42-4b20-9cc3-1f7ea5c495cf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "週休3日制を試験している会社について、文章で何がわかりましたか？",
+      "options": [
+        "社員はもっと忙しくなった。",
+        "会社は社員のためにお金をたくさん使った。",
+        "社員は時間の使い方が変わった。",
+        "この制度はまだどこでも行われている。"
+      ],
+      "correctIndex": 2,
+      "explanation": "社員は「時間ができてよかった」と言いました。家族と過ごす時間や、自分の趣味の時間が増えたそうです。",
+      "id": "2a07e108-90dd-4958-9c32-8e8f69478649"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-12-bfe8e932ed",
+  "publishedAt": "2026-08-12T06:00:00+09:00"
+}

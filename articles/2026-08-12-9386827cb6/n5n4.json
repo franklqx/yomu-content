@@ -1,0 +1,122 @@
+{
+  "title": "公園で広がるスケボー文化",
+  "summary": "最近、都市の公園でスケートボードをする人が増えています。若い人を中心に、新しい文化が生まれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市の公園でスケートボードをする人が増えています。特に週末は、多くの若者が集まって練習しています。公園の広場が、彼らの活動場所になっています。",
+      "translationZh": "最近，在城市公园玩滑板的人越来越多了。尤其是在周末，很多年轻人聚集在一起练习。公园的广场成了他们的活动场所。",
+      "translationEn": "Recently, more and more people are skateboarding in city parks. Especially on weekends, many young people gather to practice. The park's open spaces have become their activity areas.",
+      "id": "63d14a49-1729-4b7a-ab8d-39b8308981d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スケートボードは、ただのスポーツではありません。音楽を聴きながら、友達と技術を教え合ったり、新しい技を考えたりします。これは、彼らにとって大切なコミュニケーションです。",
+      "translationZh": "滑板不仅仅是一项运动。他们一边听着音乐，一边和朋友们互相传授技巧，或者构思新的动作。这对他们来说是重要的交流方式。",
+      "translationEn": "Skateboarding is not just a sport. They listen to music, teach each other skills with friends, and think of new tricks. This is important communication for them.",
+      "id": "847374a9-7161-49fa-b955-7aca0004752b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園の管理者は、スケートボードをする人たちのために、少し場所を広げたり、安全に注意するように呼びかけたりしています。地域の人々も、この新しい文化を温かく見守っています。",
+      "translationZh": "公园管理者为了玩滑板的人们，稍微扩大了一些区域，并呼吁大家注意安全。当地居民也都在温暖地关注着这种新文化。",
+      "translationEn": "Park administrators are expanding some areas slightly for skateboarders and calling for attention to safety. Local residents are also warmly watching over this new culture.",
+      "id": "4ed4b6bf-1b5f-42a6-a626-5289ffb9dce6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、公園でスケートボードの文化がもっと広がるでしょう。子供から大人まで、多くの人がこの活動を楽しんでいます。新しい友達もできるかもしれません。",
+      "translationZh": "今后，滑板文化在公园里还会进一步扩展。从孩子到大人，许多人都在享受这项活动。也许还能交到新朋友。",
+      "translationEn": "In the future, skateboarding culture will likely spread further in the parks. Many people, from children to adults, are enjoying this activity. Perhaps they will make new friends.",
+      "id": "962bd5a6-dcea-4b8c-a153-fb2b6217652c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園で遊びましょう。",
+      "id": "7da60888-d07a-4b96-afdf-771dcb3c3698"
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "扩展，传播",
+      "meaningEn": "to spread, to expand",
+      "level": "n5n4",
+      "exampleSentence": "このニュースはすぐに広がりました。",
+      "id": "abbd67bc-d5cb-44b1-815f-3bd97d0a7f8d"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "31184ec6-33c4-4c22-84b6-52b842c58d02"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "友達と図書館に集まります。",
+      "id": "c795327e-b23e-49b1-a30a-17d8f5becdc7"
+    },
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaningZh": "练习",
+      "meaningEn": "practice",
+      "level": "n5n4",
+      "exampleSentence": "毎日、日本語の練習をします。",
+      "id": "baa4099d-7449-4fa5-8dfe-f1df61f11641"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术，技巧",
+      "meaningEn": "skill, technique",
+      "level": "n3",
+      "exampleSentence": "彼はスケートボードの技術が高いです。",
+      "id": "315d18ae-7dca-4928-a7f9-16304151e6e7"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety, security",
+      "level": "n5n4",
+      "exampleSentence": "安全に注意してください。",
+      "id": "0a5ea8bf-4975-4d5a-85b0-4a404963abd0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公園でスケートボードをする人は、どんな時に多いですか？",
+      "options": [
+        "平日の朝",
+        "週末",
+        "雨の日",
+        "夜中"
+      ],
+      "correctIndex": 1,
+      "explanation": "特に週末は、多くの若者が集まって練習しています。",
+      "id": "a0bbfdda-9450-4e49-ac4d-6ae59a2b15cf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-12-9386827cb6",
+  "publishedAt": "2026-08-12T06:00:00+09:00"
+}

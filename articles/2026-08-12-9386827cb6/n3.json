@@ -1,0 +1,135 @@
+{
+  "title": "公園で広がるスケボー文化！新しい遊び場が生まれる",
+  "summary": "最近、都市公園でスケートボードを楽しむ人が増えています。これは、単なるスポーツではなく、新しいコミュニティや文化を生み出しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの都市公園で、以前よりもスケートボードで遊んでいる若者や大人をよく見かけるようになりました。かつては「危ない」「うるさい」というイメージもありましたが、今では公園が新しい文化の生まれる場所として注目されています。公園の広場や、整備された専用スペースで、彼らは楽しそうに技を練習したり、友達と交流したりしています。",
+      "translationZh": "最近，在许多城市公园里，能看到比以前更多的年轻人和成年人在玩滑板。过去，滑板曾被认为“危险”或“吵闹”，但现在公园正成为孕育新文化的地方而受到关注。在公园的广场或经过整备的专用场地，他们愉快地练习技巧，或与朋友交流。",
+      "translationEn": "Recently, in many urban parks, we are seeing more young people and adults playing skateboarding than before. While it once had a reputation for being 'dangerous' or 'noisy,' parks are now gaining attention as places where new culture is born. In park plazas or specially prepared spaces, they are seen practicing tricks and interacting with friends with enjoyment.",
+      "id": "b5a749d7-eb94-48d6-bb5d-5910697152dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園がスケートボードの拠点となることで、地域社会にも良い影響が出始めています。スケートボードを楽しむ人たちが集まることで、自然とコミュニティが形成され、互いに技術を教え合ったり、マナーを守るように意識したりするようになります。また、公園の利用者同士の交流が生まれることで、地域全体の活性化にもつながる可能性があります。",
+      "translationZh": "随着公园成为滑板的据点，社区也开始出现积极影响。因喜爱滑板的人们聚集在一起，自然而然地形成了社群，大家互相传授技术，并有意识地遵守礼仪。此外，通过公园使用者之间的交流，也有可能带动整个地区的活力。",
+      "translationEn": "As parks become hubs for skateboarding, positive effects are beginning to emerge in the local community. As people who enjoy skateboarding gather, communities naturally form, and they begin to teach each other techniques and become conscious of following rules. Furthermore, by fostering interaction among park users, there is potential for revitalizing the community as a whole.",
+      "id": "c8b3ff8d-50a8-4d4e-9321-04a72db32af8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、安全に楽しむためには、ルールやマナーを守ることが大切です。公園の管理者や利用者との協力も必要となります。しかし、公園でスケートボードが広がることは、都市に新しい活気と多様なライフスタイルをもたらす素晴らしい機会だと考えられます。これからも、公園とスケートボード文化が共存し、発展していく様子に注目したいです。",
+      "translationZh": "当然，为了安全地享受乐趣，遵守规则和礼仪非常重要。与公园管理者和使用者之间的合作也必不可少。然而，滑板在公园的普及被认为是为城市带来新活力和多样生活方式的绝佳机会。今后，也希望继续关注公园与滑板文化共存并不断发展的景象。",
+      "translationEn": "Of course, to enjoy safely, it is important to observe rules and manners. Cooperation with park administrators and other users is also necessary. However, the spread of skateboarding in parks can be considered a wonderful opportunity to bring new vitality and diverse lifestyles to the city. We hope to continue to pay attention to how parks and skateboarding culture coexist and develop from now on.",
+      "id": "57f63805-0232-4b88-a935-aaf9c9771293",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スケートボード",
+      "reading": "すけーとぼーど",
+      "meaningZh": "滑板",
+      "meaningEn": "Skateboard",
+      "level": "n3",
+      "exampleSentence": "公園でスケートボードをする人が増えています。",
+      "id": "175102ef-2a59-4159-a8c6-a8d048b21ee9"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "Culture",
+      "level": "n3",
+      "exampleSentence": "これは新しい文化の生まれる場所です。",
+      "id": "9cdd80f3-6100-4d0a-81d6-610816125a53"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注；引人注意",
+      "meaningEn": "Attention; notice",
+      "level": "n3",
+      "exampleSentence": "公園が新しい文化の生まれる場所として注目されています。",
+      "id": "15985c6d-2e9f-421a-917f-79c413b187fe"
+    },
+    {
+      "word": "拠点",
+      "reading": "きょてん",
+      "meaningZh": "据点；基地",
+      "meaningEn": "Base; stronghold",
+      "level": "n2n1",
+      "exampleSentence": "公園がスケートボードの拠点となっています。",
+      "id": "7de0f252-df45-4f10-af0a-675f3d2d0995"
+    },
+    {
+      "word": "コミュニティ",
+      "reading": "こみゅにてぃ",
+      "meaningZh": "社区；社群",
+      "meaningEn": "Community",
+      "level": "n3",
+      "exampleSentence": "スケートボーダーのコミュニティが形成されています。",
+      "id": "96711b3b-337f-4ed1-9225-345ec77f55a1"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化；活跃",
+      "meaningEn": "Activation; revitalization",
+      "level": "n2n1",
+      "exampleSentence": "地域全体の活性化につながる可能性があります。",
+      "id": "4aae95e1-5173-4207-b060-4cc5c0fcd3f3"
+    },
+    {
+      "word": "マナー",
+      "reading": "まなー",
+      "meaningZh": "礼仪；行为规范",
+      "meaningEn": "Manners; etiquette",
+      "level": "n3",
+      "exampleSentence": "スケートボードをする時はマナーを守りましょう。",
+      "id": "c8e21941-cd25-404d-bc6f-aac465989c3f"
+    },
+    {
+      "word": "共存",
+      "reading": "きょうそん",
+      "meaningZh": "共存",
+      "meaningEn": "Coexistence",
+      "level": "n2n1",
+      "exampleSentence": "公園とスケートボード文化が共存できるといいですね。",
+      "id": "0929e58c-ff06-4d5b-b197-626cae2eeea2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公園でスケートボードが広がることで、どのような良い影響があると考えられていますか？",
+      "options": [
+        "スケートボードの大会が増える",
+        "地域社会の活性化やコミュニティ形成につながる",
+        "公園の利用者が減る",
+        "騒音問題が深刻化する"
+      ],
+      "correctIndex": 1,
+      "explanation": "「公園がスケートボードの拠点となることで、地域社会にも良い影響が出始めています。スケートボードを楽しむ人たちが集まることで、自然とコミュニティが形成され、地域全体の活性化にもつながる可能性があります。」",
+      "id": "466ac94a-c800-4795-8b62-43ff1bfdd014"
+    },
+    {
+      "question": "公園でスケートボードを安全に楽しむために、最も大切なことは何ですか？",
+      "options": [
+        "一番上手な人がリードする",
+        "目立たないように静かに滑る",
+        "ルールやマナーを守り、利用者や管理者と協力すること",
+        "公園の隅で一人で練習すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「もちろん、安全に楽しむためには、ルールやマナーを守ることが大切です。公園の管理者や利用者との協力も必要となります。」",
+      "id": "ccb8dd61-df44-401d-a07a-15c9dd9041b8"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-12-9386827cb6",
+  "publishedAt": "2026-08-12T06:00:00+09:00"
+}
