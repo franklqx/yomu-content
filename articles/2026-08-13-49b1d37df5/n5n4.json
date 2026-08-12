@@ -1,0 +1,122 @@
+{
+  "title": "街角の新しい味",
+  "summary": "最近、街でフードトラックがたくさん見られます。新しい食べ物やお店のアイデアが、人々の生活を楽しくしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市でフードトラックが人気です。色々な食べ物があります。例えば、おいしいコーヒーや、熱いラーメンです。人々は街を歩きながら、これらの食べ物を楽しんでいます。",
+      "translationZh": "最近，城市里的餐车很受欢迎。有各种各样的食物。例如，好喝的咖啡和热腾腾的拉面。人们一边在街上走，一边享受着这些食物。",
+      "translationEn": "Recently, food trucks are popular in cities. There are various kinds of food. For example, delicious coffee and hot ramen. People enjoy these foods while walking around the city.",
+      "id": "1c84ce19-91d8-45a5-b076-facccd271c6c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、新しいお店のスタートに良い場所です。大きな店を持つ必要がありません。だから、若い人が挑戦しやすいです。新しいアイデアの食べ物がたくさん出てきました。",
+      "translationZh": "餐车是开始新店铺的好地方。不需要有很大的店面。所以，年轻人更容易尝试。很多新创意的食物都出现了。",
+      "translationEn": "Food trucks are a good place to start a new shop. You don't need to have a big store. Therefore, it is easy for young people to challenge. Many new food ideas have emerged.",
+      "id": "d9813ad2-ea62-4bac-9c93-078f20481f7a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市の再開発でも、フードトラックが役立っています。新しい公園や広場に、トラックが来ることがあります。人々はそこで休憩したり、食事をしたりできます。街がもっと便利で楽しい場所になります。",
+      "translationZh": "在城市再开发中，餐车也很有用。餐车有时会来新的公园和广场。人们可以在那里休息或用餐。城市变得更加方便和有趣。",
+      "translationEn": "Food trucks are also useful in urban redevelopment. Trucks sometimes come to new parks and plazas. People can rest or eat there. The city becomes a more convenient and enjoyable place.",
+      "id": "d9125e76-607e-49d6-b23c-a1f9388b7e99",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、もっと多くのフードトラックが街に現れるでしょう。新しい味と、新しい文化が生まれます。街歩きが、もっと楽しくなりそうです。",
+      "translationZh": "今后，可能会有更多的餐车出现在街上。新的口味和新的文化将会诞生。街头散步似乎会变得更加有趣。",
+      "translationEn": "In the future, more food trucks will likely appear in the city. New tastes and new cultures will be born. Walking around the city seems to become more enjoyable.",
+      "id": "cbe5bd7d-8e78-4409-a333-9e03234058ab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "街に新しいフードトラックが来ました。",
+      "id": "5960c38c-9dd8-4a41-93a4-460916fd5d59"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このラーメン屋さんは人気があります。",
+      "id": "cf0b9161-7bc3-409b-bc01-43880f7162ec"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n5n4",
+      "exampleSentence": "新しい仕事に挑戦します。",
+      "id": "80063dc2-833f-4fc4-8130-3d4f82885a94"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发",
+      "meaningEn": "redevelopment",
+      "level": "n3",
+      "exampleSentence": "この地域は再開発が進んでいます。",
+      "id": "02342c32-0ea6-4747-878c-34b18260d520"
+    },
+    {
+      "word": "役立つ",
+      "reading": "やくだつ",
+      "meaningZh": "有用，有帮助",
+      "meaningEn": "to be useful",
+      "level": "n5n4",
+      "exampleSentence": "この辞書は勉強に役立ちます。",
+      "id": "52a8436d-2487-4b27-a168-07a10f251edc"
+    },
+    {
+      "word": "休憩",
+      "reading": "きゅうけい",
+      "meaningZh": "休息",
+      "meaningEn": "rest, break",
+      "level": "n5n4",
+      "exampleSentence": "昼に少し休憩しました。",
+      "id": "354d8f90-3ea9-4a60-9929-96fa2409c116"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この駅はとても便利です。",
+      "id": "9ddc574c-b7cb-40ec-b318-3c0c925b2811"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックは、どんな場所で人気がありますか？",
+      "options": [
+        "公園",
+        "学校",
+        "都市",
+        "山"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「最近、都市でフードトラックが人気です。」と書かれています。",
+      "id": "37cf0789-a46e-4256-9f91-0f2d7f7a4389"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-13-49b1d37df5",
+  "publishedAt": "2026-08-13T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "二次元アイドルの進化",
+  "summary": "二次元アイドルのライブは昔よりずっと面白くなりました。技術が進み、もっと楽しくなっています。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルのライブは、画面で見ることが中心でした。歌やダンスは楽しかったですが、少しシンプルでした。ファンは応援するのが楽しかったです。",
+      "translationZh": "以前，二次元偶像的演唱会主要是通过屏幕观看。歌曲和舞蹈很有趣，但有些简单。粉丝们很享受为偶像加油。",
+      "translationEn": "In the past, live performances of 2D idols were mainly watched on screens. The songs and dances were fun, but a little simple. Fans enjoyed cheering for them.",
+      "id": "19cf79be-86aa-47e7-86af-622f793e33ac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近のライブは違います。新しい技術がたくさん使われています。例えば、ホログラム技術です。アイドルがステージに現れるように見えます。",
+      "translationZh": "但是，最近的演唱会不一样了。使用了许多新技术。例如，全息投影技术。偶像仿佛出现在舞台上一样。",
+      "translationEn": "However, recent live shows are different. Many new technologies are being used. For example, hologram technology. The idols appear as if they are on stage.",
+      "id": "362aa508-3ae4-4442-ba8a-8aeced9ff2f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "照明や映像もすごい進化をしました。キラキラした光がたくさんあり、背景の映像もきれいです。観客はまるで本物のライブに来たような気持ちになります。",
+      "translationZh": "灯光和影像也取得了巨大的进步。有许多闪闪发光的光线，背景的影像也很漂亮。观众感觉就像来到了真正的演唱会现场一样。",
+      "translationEn": "Lighting and visuals have also evolved significantly. There are many sparkling lights, and the background visuals are beautiful. The audience feels as if they have come to a real live concert.",
+      "id": "a1889f1a-1a95-47b0-9b89-bacfea470ac7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも二次元アイドルのライブはもっと進化するでしょう。新しい技術で、もっと感動的で楽しい体験ができるようになるはずです。",
+      "translationZh": "今后，二次元偶像的演唱会还会继续进化。通过新技术，应该能实现更感人、更有趣的体验。",
+      "translationEn": "In the future, 2D idol live shows will likely evolve further. With new technologies, more moving and enjoyable experiences should become possible.",
+      "id": "8a6fe7cf-3191-40d8-a676-19a6cb1b14cb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "过去，以前",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町はとても静かでした。",
+      "id": "1d756e14-b8b4-4eb7-b202-d18f1ea3ab59"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を勉強します。",
+      "id": "b923cc6b-6263-42bd-a712-8a52ba53d249"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化，发展",
+      "meaningEn": "evolution, development",
+      "level": "n3",
+      "exampleSentence": "このアプリはどんどん進化しています。",
+      "id": "898727bc-46b8-47f6-bd71-dbcd26a7fd22"
+    },
+    {
+      "word": "画面",
+      "reading": "がめん",
+      "meaningZh": "画面，屏幕",
+      "meaningEn": "screen, picture",
+      "level": "n5n4",
+      "exampleSentence": "テレビの画面が大きいです。",
+      "id": "a979f9a2-6ef0-45be-b472-57dddedf2195"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を勉強します。",
+      "id": "bee4c161-a017-4ed0-a3ed-c3626bf3fb8c"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaningZh": "照明",
+      "meaningEn": "lighting",
+      "level": "n3",
+      "exampleSentence": "ステージの照明が明るいです。",
+      "id": "8b859494-07d8-4e0f-8d47-43d778352e9d"
+    },
+    {
+      "word": "映像",
+      "reading": "えいぞう",
+      "meaningZh": "影像",
+      "meaningEn": "image, video",
+      "level": "n3",
+      "exampleSentence": "この映画の映像はきれいです。",
+      "id": "217bebf6-8002-4bee-b758-1262a56edde3"
+    },
+    {
+      "word": "感動的",
+      "reading": "かんどうてき",
+      "meaningZh": "感动的",
+      "meaningEn": "touching, moving",
+      "level": "n3",
+      "exampleSentence": "感動的な話を聞きました。",
+      "id": "a60c3a0b-4d2f-4044-a507-a02380d71b76"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の二次元アイドルのライブで、どんな新しい技術が使われていますか。",
+      "options": [
+        "昔の技術",
+        "ホログラム技術",
+        "古い照明",
+        "シンプルな映像"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「新しい技術がたくさん使われています。例えば、ホログラム技術です。」と書いてあります。",
+      "id": "324342c9-b808-47cc-a467-df859cfa4bd3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-13-cde4d29411",
+  "publishedAt": "2026-08-13T06:00:00+09:00"
+}

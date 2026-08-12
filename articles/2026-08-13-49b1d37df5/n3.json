@@ -1,0 +1,126 @@
+{
+  "title": "話題のフードトラック、街を彩る新しい風",
+  "summary": "最近、街のあちこちでカラフルなフードトラックを見かけるようになりました。これは単なる食事の提供だけでなく、都市の風景を変える新しい動きでもあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市部でフードトラックが人気を集めています。おしゃれなデザインの車から、おいしい料理が提供される光景は、街に活気をもたらしています。特に、イベント会場や公園など、人が集まる場所での出店が多く見られます。これらのフードトラックは、手軽に多様な食体験ができることから、多くの人々を惹きつけているのです。",
+      "translationZh": "最近，在城市地区，餐车越来越受欢迎。从设计时尚的车里提供美味料理的景象，为城市带来了活力。特别是在活动会场或公园等人们聚集的地方，有很多餐车出店。因为这些餐车可以轻松地获得多样的饮食体验，所以吸引了许多人。",
+      "translationEn": "Recently, food trucks have been gaining popularity in urban areas. The sight of delicious food being served from stylishly designed vehicles brings vitality to the city. In particular, many food trucks can be seen at event venues and parks, where people gather. These food trucks attract many people because they offer diverse dining experiences easily.",
+      "id": "8a68dad7-cae9-4b04-8645-1f57713acd65",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックの増加は、都市の再開発とも関係があると言われています。空き地や一時的に利用されていないスペースを活用して出店することで、地域に新たな賑わいを生み出しています。開発が進む前の一時的な活用として、あるいは新しい商業エリアの魅力を高める要素として、その役割は大きいのです。このように、フードトラックは単に食事を提供するだけでなく、都市の景観やコミュニティに新しい風を吹き込んでいると言えるでしょう。",
+      "translationZh": "据说餐车的增加也与城市再开发有关。通过利用空地或暂时未使用的空间进行出店，为地区带来了新的热闹。作为开发开始前的一次性利用，或者作为提升新商业区魅力的要素，它们的作用很大。这样看来，餐车不仅提供食物，还为城市景观和社区注入了新风。",
+      "translationEn": "The increase in food trucks is said to be related to urban redevelopment. By operating in vacant lots or temporarily unused spaces, they create new vibrancy in the area. Their role is significant, both as a temporary use before development begins and as an element that enhances the attractiveness of new commercial districts. In this way, food trucks not only provide food but also bring a fresh perspective to the urban landscape and community.",
+      "id": "36c34110-6879-4150-93ff-b089567c1a33",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、フードトラックの出店場所や営業時間については、まだルールが整備されていない部分もあります。そのため、地域住民や周辺の店舗との間でトラブルが起こることも。これからの課題は、どのようにすればフードトラックが地域に溶け込み、共存していけるか、そのためのルール作りを進めることでしょう。新しい文化として根付かせるためには、関係者全員の協力が不可欠です。",
+      "translationZh": "但是，关于餐车的出店地点和营业时间，还有一些规则尚未完善。因此，有时会与当地居民或周边店铺发生纠纷。今后的课题是如何让餐车融入当地并与其共存，并在此基础上推进规则的制定。要使其作为一种新文化扎根，所有相关人员的合作是不可或缺的。",
+      "translationEn": "However, there are still areas where rules regarding food truck locations and operating hours are not yet established. This can sometimes lead to conflicts with local residents and surrounding businesses. The challenge moving forward will be to create rules that allow food trucks to integrate and coexist within the community. Cooperation from all stakeholders is essential for them to take root as a new cultural element.",
+      "id": "4921b13a-0432-4fd3-8d0e-3ffcfb089ce0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车，食品卡车",
+      "meaningEn": "food truck",
+      "level": "n3",
+      "exampleSentence": "話題のフードトラックが駅前に出店した。",
+      "id": "2dd488be-2daa-4a87-a39a-78fb2ee3f68b"
+    },
+    {
+      "word": "彩る",
+      "reading": "いろどる",
+      "meaningZh": "增添色彩，使...变得丰富多彩",
+      "meaningEn": "to color, to decorate, to brighten",
+      "level": "n3",
+      "exampleSentence": "新しい店が街並みを彩っている。",
+      "id": "792bd4ee-9821-4488-90c8-5d007421cbd2"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发",
+      "meaningEn": "redevelopment",
+      "level": "n3",
+      "exampleSentence": "この地域では大規模な再開発が進められている。",
+      "id": "89be628a-6ce2-432f-b74f-c9f960887c5e"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "vitality, energy, animation",
+      "level": "n3",
+      "exampleSentence": "祭りの会場は多くの人で活気に満ちていた。",
+      "id": "ea6110f8-3e10-4317-9419-e4d1c8a8754e"
+    },
+    {
+      "word": "賑わい",
+      "reading": "にぎわい",
+      "meaningZh": "热闹，繁荣",
+      "meaningEn": "bustle, excitement, thriving atmosphere",
+      "level": "n3",
+      "exampleSentence": "新しい商業施設のおかげで、この辺りは賑わいを見せている。",
+      "id": "05cdcfed-0634-4291-97ed-bb9b2200ea28"
+    },
+    {
+      "word": "景観",
+      "reading": "けいかん",
+      "meaningZh": "景观，景象",
+      "meaningEn": "scenery, landscape, view",
+      "level": "n2n1",
+      "exampleSentence": "都市の景観を損なわないように配慮が必要だ。",
+      "id": "26b78aae-beda-4eb4-b1df-27c414fd5ccc"
+    },
+    {
+      "word": "共存",
+      "reading": "きょうぞん",
+      "meaningZh": "共存",
+      "meaningEn": "coexistence",
+      "level": "n2n1",
+      "exampleSentence": "異なる文化を持つ人々が共存する社会を目指している。",
+      "id": "1964c2bb-b79b-4b8b-8c2c-d4f5fd1646ef"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックが都市にもたらす良い影響は何ですか？",
+      "options": [
+        "地域経済の活性化",
+        "交通渋滞の緩和",
+        "騒音問題の解決",
+        "文化財の保護"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「これらのフードトラックは、手軽に多様な食体験ができることから、多くの人々を惹きつけているのです。」や「地域に新たな賑わいを生み出しています。」とあり、地域に活気や賑わいをもたらすことが示唆されています。",
+      "id": "d336f236-a1d1-44fd-a5eb-18510b8aa3ea"
+    },
+    {
+      "question": "フードトラックの今後の課題として、本文で述べられていることは何ですか？",
+      "options": [
+        "提供する料理の質の向上",
+        "運転手の労働環境の改善",
+        "地域との共存のためのルール作り",
+        "新しい出店場所の開拓"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に、「これからの課題は、どのようにすればフードトラックが地域に溶け込み、共存していけるか、そのためのルール作りを進めることでしょう。」と明記されています。",
+      "id": "00a7557b-29e5-4b8b-aa78-f851c4515471"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-13-49b1d37df5",
+  "publishedAt": "2026-08-13T06:00:00+09:00"
+}

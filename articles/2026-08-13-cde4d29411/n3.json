@@ -1,0 +1,135 @@
+{
+  "title": "二次元アイドルのライブ演出、どう進化してる？",
+  "summary": "最近の二次元アイドルは、技術の進歩によって、よりリアルで感動的なライブ体験を提供できるようになっています。その進化のポイントを見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、二次元アイドルのライブといえば、画面越しにキャラクターを見るのが中心でした。しかし、最近ではプロジェクションマッピングやホログラム技術が進化し、まるで本物のステージにアイドルがいるかのような、臨場感あふれる演出が可能になっています。これは、ファンがより深くライブの世界に没入できるようになったことを意味します。",
+      "translationZh": "过去，说到二次元偶像的演唱会，主要是隔着屏幕看角色。但是，最近投影映射和全息投影技术不断进步，已经能够实现如同偶像真实出现在舞台上一样，充满临场感的演出。这意味着粉丝们能够更深入地沉浸在演唱会的世界里。",
+      "translationEn": "In the past, live performances by 2D idols mainly involved watching characters on a screen. However, recently, projection mapping and hologram technologies have advanced, making immersive performances possible, as if the idols were actually on a real stage. This means fans can become more deeply immersed in the concert world.",
+      "id": "225f762a-cf7f-4098-9388-9538fa7e6a1a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、観客の反応に合わせて映像や照明が変化するインタラクティブな演出は注目されています。例えば、ファンが特定の応援グッズを振ると、それに応じてステージ上の映像が変わる、といった仕掛けです。このように、観客とアイドルが一体となってライブを作り上げる感覚は、ファンにとって大きな魅力となっています。",
+      "translationZh": "特别是，能够根据观众的反应来改变影像和灯光的互动式演出备受瞩目。例如，当粉丝挥动特定的应援物品时，舞台上的影像也会随之改变。像这样，观众和偶像融为一体共同创造演唱会的感觉，对粉丝来说是巨大的魅力。",
+      "translationEn": "In particular, interactive performances where visuals and lighting change according to audience reactions are gaining attention. For example, when fans wave specific cheering goods, the visuals on stage change accordingly. This sense of audience and idols creating the live show together is a great appeal for fans.",
+      "id": "e136d692-95a7-447a-ab48-bdf2d7671757",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、最新のモーションキャプチャー技術を使えば、声優さんの動きをリアルタイムでキャラクターに反映させることができます。これにより、キャラクターの表情や仕草がより豊かになり、感情のこもったパフォーマンスを見せることが可能になりました。技術が進歩すればするほど、二次元アイドルは私たちの想像以上に、生き生きとした存在になっていくでしょう。",
+      "translationZh": "此外，利用最新的动作捕捉技术，可以将声优的动作实时反映到角色上。这使得角色的表情和姿态更加丰富，能够展现充满感情的表演。技术越是进步，二次元偶像就会变得比我们想象的更加生动。",
+      "translationEn": "Furthermore, with the latest motion capture technology, voice actors' movements can be realistically reflected onto the characters in real-time. This enriches the characters' expressions and gestures, enabling them to deliver performances full of emotion. The more technology advances, the more vibrant 2D idols will become, exceeding our imagination.",
+      "id": "9d20e92d-7a29-4f1b-a8c9-b34a1ce8fc7f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "臨場感",
+      "reading": "りんじょうかん",
+      "meaningZh": "临场感，现场感",
+      "meaningEn": "sense of presence, realism",
+      "level": "n3",
+      "exampleSentence": "このVRゲームは臨場感がすごい。",
+      "id": "f53b67d7-64b6-436d-bdec-7369f702438d"
+    },
+    {
+      "word": "没入",
+      "reading": "ぼつにゅう",
+      "meaningZh": "沉浸，投入",
+      "meaningEn": "immersion, absorption",
+      "level": "n3",
+      "exampleSentence": "物語の世界に没入する。",
+      "id": "fabbd9d1-cd52-42c3-9a77-3a3643b1c204"
+    },
+    {
+      "word": "インタラクティブ",
+      "reading": "インタラクティブ",
+      "meaningZh": "互动的",
+      "meaningEn": "interactive",
+      "level": "n3",
+      "exampleSentence": "インタラクティブな展示が人気だ。",
+      "id": "6ab07a75-c674-4fd2-be3b-12a915fe5c88"
+    },
+    {
+      "word": "仕掛け",
+      "reading": "しかけ",
+      "meaningZh": "机关，装置，花招",
+      "meaningEn": "mechanism, device, trick",
+      "level": "n3",
+      "exampleSentence": "このおもちゃには面白い仕掛けがある。",
+      "id": "0fad2ea4-e31f-4c2f-a39b-0ca193c32f39"
+    },
+    {
+      "word": "一体",
+      "reading": "いったい",
+      "meaningZh": "一体，一个整体",
+      "meaningEn": "one body, unity, integration",
+      "level": "n5n4",
+      "exampleSentence": "チームが一丸となって勝利を目指す。",
+      "id": "df045c51-0d57-4593-bf14-64365b4301b8"
+    },
+    {
+      "word": "モーションキャプチャー",
+      "reading": "モーションキャプチャー",
+      "meaningZh": "动作捕捉",
+      "meaningEn": "motion capture",
+      "level": "n3",
+      "exampleSentence": "映画でモーションキャプチャー技術が使われている。",
+      "id": "e4f33ed8-83a6-48a0-bd92-2234c583dc2f"
+    },
+    {
+      "word": "反映",
+      "reading": "はんえい",
+      "meaningZh": "反映，折射",
+      "meaningEn": "reflection, feedback",
+      "level": "n3",
+      "exampleSentence": "意見が企画に反映された。",
+      "id": "3cd4e9c0-5760-40c6-a6a4-5528ea6f433c"
+    },
+    {
+      "word": "仕草",
+      "reading": "しぐさ",
+      "meaningZh": "姿势，动作，姿态",
+      "meaningEn": "gesture, behavior, mannerism",
+      "level": "n3",
+      "exampleSentence": "彼女の仕草はとても上品だ。",
+      "id": "d4bf32bb-b8c0-4c6d-b307-30601ec56a89"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔の二次元アイドルのライブと比べて、最近のライブで特に変わった点は何ですか？",
+      "options": [
+        "キャラクターのデザインがもっとリアルになったこと",
+        "ホログラム技術などにより、より臨場感のある演出が可能になったこと",
+        "ファンが直接ステージに上がれるようになったこと",
+        "ライブの時間が短くなったこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「最近ではプロジェクションマッピングやホログラム技術が進化し、まるで本物のステージにアイドルがいるかのような、臨場感あふれる演出が可能になっています。」とあります。",
+      "id": "1fa03f97-97f9-4ce0-9a10-cb12f37c3643"
+    },
+    {
+      "question": "インタラクティブな演出の例として、どのようなものが挙げられていますか？",
+      "options": [
+        "声優が観客に直接話しかけること",
+        "観客の応援に合わせてステージの映像が変わること",
+        "ライブ会場の温度が自動で調整されること",
+        "キャラクターが観客の質問に答えること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「例えば、ファンが特定の応援グッズを振ると、それに応じてステージ上の映像が変わる、といった仕掛けです。」と説明されています。",
+      "id": "00785350-66ae-49bc-8293-cda7a57dadb6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-13-cde4d29411",
+  "publishedAt": "2026-08-13T06:00:00+09:00"
+}

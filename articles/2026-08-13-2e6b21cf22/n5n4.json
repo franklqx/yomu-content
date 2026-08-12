@@ -1,0 +1,123 @@
+{
+  "title": "お正月の新しい買い方",
+  "summary": "お正月の準備は大切です。最近、新しい買い方が人気になっています。それは、オンラインで買うことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐお正月です。日本人はお正月のために色々な準備をします。例えば、特別な食べ物を買ったり、家をきれいにしたりします。これらの準備は、新しい年を気持ちよく迎えるために大切です。",
+      "translationZh": "新年快到了。日本人为了新年会做各种准备。例如，购买特别的食物，打扫房子。这些准备是为了愉快地迎接新的一年而重要的。",
+      "translationEn": "New Year is coming soon. Japanese people prepare many things for New Year. For example, they buy special food and clean their houses. These preparations are important to welcome the new year comfortably.",
+      "id": "162ba000-9cd3-42b5-8e52-b8716772bdf6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、お正月の準備の仕方が少し変わってきました。昔は、お店に行って直接品物を見ることが多かったです。しかし、今はインターネットで買う人が増えています。家でゆっくり品物を選べるので、とても便利です。",
+      "translationZh": "最近，准备新年方式有些改变。以前，人们多是去商店直接看商品。但是，现在在网上购物的人增加了。因为可以在家悠闲地挑选商品，所以非常方便。",
+      "translationEn": "Recently, the way of preparing for New Year has changed a little. In the past, people often went to stores to see items directly. However, now more people are buying online. They can choose items slowly at home, so it is very convenient.",
+      "id": "2f425a2f-c0b5-4ba9-abc5-544cdd00fc8a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、おせち料理や新しい飾りなどをオンラインで買う人が多いです。有名なお店のおせちも、家から簡単に注文できます。また、配達もしてくれるので、忙しい人にはぴったりです。この新しいトレンドは、これからも続くでしょう。",
+      "translationZh": "特别是，很多人在网上购买御节料理和新的装饰品。即使是名店的御节，也可以从家里轻松订购。而且，还提供配送服务，非常适合忙碌的人。这种新的潮流，今后也会继续下去吧。",
+      "translationEn": "Especially, many people buy Osechi dishes and new decorations online. They can easily order Osechi from famous restaurants from home. Also, delivery is available, so it is perfect for busy people. This new trend will likely continue in the future.",
+      "id": "ba98822d-6416-4bd3-923d-f110a3346a12",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お正月",
+      "reading": "おしょうがつ",
+      "meaningZh": "新年",
+      "meaningEn": "New Year",
+      "level": "n5n4",
+      "exampleSentence": "お正月に家族と会います。",
+      "id": "a5dea696-6bd8-445d-9c25-f05009861dd5"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしています。",
+      "id": "ff6b2e02-29fb-4788-8211-3bc423c3f9d3"
+    },
+    {
+      "word": "消費",
+      "reading": "しょうひ",
+      "meaningZh": "消费",
+      "meaningEn": "consumption",
+      "level": "n3",
+      "exampleSentence": "食べ物の消費が多いです。",
+      "id": "954c2dbd-e467-4700-aef7-9b53d2c23de6"
+    },
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "潮流，趋势",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "新しいファッショントレンドです。",
+      "id": "bd514383-00c1-4d9f-aeca-091acd3d89c0"
+    },
+    {
+      "word": "オンライン",
+      "reading": "おんらいん",
+      "meaningZh": "在线",
+      "meaningEn": "online",
+      "level": "n5n4",
+      "exampleSentence": "オンラインで買い物をします。",
+      "id": "31ff3985-3c7a-432f-9b04-251eba650591"
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaningZh": "直接",
+      "meaningEn": "directly",
+      "level": "n3",
+      "exampleSentence": "店に直接行きます。",
+      "id": "ad240c64-b7dc-4c20-b743-54924cc3e994"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "01a4529a-26f0-4d17-a70b-c8a1892e2d26"
+    },
+    {
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n3",
+      "exampleSentence": "荷物の配達を待ちます。",
+      "id": "83e313c1-8d84-4c48-9ecb-ab634d7c7995"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、お正月の準備で人気があるのは何ですか？",
+      "options": [
+        "お店で直接買うこと",
+        "インターネットで買うこと",
+        "手紙を書くこと",
+        "旅行に行くこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「今はインターネットで買う人が増えています」と書いてあります。",
+      "id": "a6e63b3d-35e5-423c-a75c-484c823d1913"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-13-2e6b21cf22",
+  "publishedAt": "2026-08-13T06:00:00+09:00"
+}
