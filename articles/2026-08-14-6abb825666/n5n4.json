@@ -1,0 +1,122 @@
+{
+  "title": "新学期、新しい文房具！",
+  "summary": "もうすぐ新学期が始まりますね。新しい文房具で、気分を新たにしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ4月です。学生さんは新しい学校生活が始まります。新しいクラス、新しい友達、そして新しい文房具は、わくわくしますね。",
+      "translationZh": "很快就到4月了。学生们新的学校生活即将开始。新的班级、新的朋友，还有新的文具，让人很期待呢。",
+      "translationEn": "It's almost April. Students will start their new school life. A new class, new friends, and new stationery make us excited.",
+      "id": "f3931726-294a-41ac-91a5-0772905ea63a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、人気の文房具があります。例えば、色が変わるペンや、キャラクターのノートです。特に、かわいいデザインのものが人気です。",
+      "translationZh": "最近，有一些受欢迎的文具。比如，会变色的笔，还有有卡通人物的笔记本。特别是可爱的设计很受欢迎。",
+      "translationEn": "Recently, there are popular stationery items. For example, pens that change color and notebooks with characters. Especially cute designs are popular.",
+      "id": "97fcd1c0-3485-46c8-9aa3-97acf1928565",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいノートや鉛筆を買うと、勉強が楽しくなります。先生の話をよく聞いたり、宿題をしっかりやったりできます。文房具は勉強の友達です。",
+      "translationZh": "买了新的笔记本或铅笔，学习会变得更有趣。可以认真听老师讲课，认真完成作业。文具是学习的好伙伴。",
+      "translationEn": "When you buy new notebooks or pencils, studying becomes more enjoyable. You can listen carefully to the teacher's lessons and do your homework diligently. Stationery is a study friend.",
+      "id": "cb318a49-c0c6-46e5-b5ee-68c082147aa2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店にはたくさんの種類の文房具があります。ぜひ、お店に行って、お気に入りの文房具を見つけてください。新しい文房具で、素敵な新学期を迎えましょう。",
+      "translationZh": "店里有各种各样的文具。请一定要去店里，找到你喜欢的文具。用新的文具，迎接一个美好的新学期吧。",
+      "translationEn": "There are many types of stationery in the stores. Please go to the store and find your favorite stationery. Let's welcome a wonderful new semester with new stationery.",
+      "id": "88f1df4e-2312-41c3-903a-3aff56d5202e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新学期",
+      "reading": "しんがっき",
+      "meaningZh": "新学期",
+      "meaningEn": "new school term",
+      "level": "n5n4",
+      "exampleSentence": "新学期が始まります。",
+      "id": "3ab53ea9-4295-4b0d-9784-53955674cacf"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼـうぐ",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いました。",
+      "id": "b0092f0a-4e73-47d7-8b57-22ce8773015c"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このペンは人気があります。",
+      "id": "40429dff-6060-4016-83c8-14ac7b5dc84e"
+    },
+    {
+      "word": "例えば",
+      "reading": "たとえば",
+      "meaningZh": "例如",
+      "meaningEn": "for example",
+      "level": "n5n4",
+      "exampleSentence": "例えば、色が変わるペンです。",
+      "id": "d7aafff7-94ed-417c-bc6c-8817b2562439"
+    },
+    {
+      "word": "ノート",
+      "reading": "ノート",
+      "meaningZh": "笔记本",
+      "meaningEn": "notebook",
+      "level": "n5n4",
+      "exampleSentence": "キャラクターのノートはかわいいです。",
+      "id": "46fd2720-a841-4e66-8bd3-eb88ae7fabe3"
+    },
+    {
+      "word": "勉強",
+      "reading": "べんきょう",
+      "meaningZh": "学习",
+      "meaningEn": "study",
+      "level": "n5n4",
+      "exampleSentence": "勉強が楽しくなります。",
+      "id": "7575f0ff-c9e3-458a-b3b5-d8f8caa67792"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaningZh": "老师",
+      "meaningEn": "teacher",
+      "level": "n5n4",
+      "exampleSentence": "先生の話をよく聞きます。",
+      "id": "1d0e6e0f-2acd-4f57-a44c-6ee7998d9a27"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "どのような文房具が人気ですか。",
+      "options": [
+        "高いペン",
+        "キャラクターのノート",
+        "古い鉛筆",
+        "大きい消しゴム"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近、人気の文房具があります。例えば、色が変わるペンや、キャラクターのノートです。」",
+      "id": "52c9ee67-90a9-430b-bf77-355ea29650c2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-14-6abb825666",
+  "publishedAt": "2026-08-14T06:00:00+09:00"
+}

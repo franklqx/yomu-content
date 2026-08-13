@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町が変わる！",
+  "summary": "アニメの舞台を訪れる「聖地巡礼」が人気です。たくさんの人が来て、町が元気になっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、アニメの「聖地巡礼」がとても人気です。聖地巡礼は、アニメに出てくる場所を実際に訪れることです。たくさんのファンが、好きなアニメの景色を見に、遠い町へ行きます。",
+      "translationZh": "最近，“动漫圣地巡礼”非常受欢迎。圣地巡礼就是去亲身体验动画中出现的场景。许多粉丝会去遥远的城镇，看看他们喜欢的动画里的风景。",
+      "translationEn": "Recently, anime 'sacred site pilgrimages' are very popular. Sacred site pilgrimage means actually visiting places that appear in anime. Many fans go to distant towns to see the scenery from their favorite anime.",
+      "id": "0c266bef-4948-47a1-aa04-02d507c7f54c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "聖地巡礼のおかげで、小さな町が元気になりました。観光客が増えて、お店も忙しくなりました。おみやげ屋さんや、カフェもたくさんできました。町の人たちは、アニメのファンが来るのを喜んでいます。",
+      "translationZh": "因为圣地巡礼，一些小城镇变得充满活力。游客增加了，商店也变得很忙。也开了许多纪念品商店和咖啡馆。镇上的人们很高兴动画粉丝的到来。",
+      "translationEn": "Thanks to sacred site pilgrimages, small towns have become lively. Tourists have increased, and shops have become busy. Many souvenir shops and cafes have also opened. Townspeople are happy that anime fans are coming.",
+      "id": "d49c2911-6284-43bd-b876-51075b054344",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある田舎町では、アニメのキャラクターのパネルが置かれました。それを見て、ファンは写真を撮ります。町は、アニメの地図を作って、ファンを案内することもあります。これが、町を助ける新しい方法です。",
+      "translationZh": "例如，在一个乡村小镇，摆放了动漫角色的立牌。看到这些，粉丝们会拍照留念。小镇有时还会制作动漫地图来引导粉丝。这是帮助小镇的一种新方式。",
+      "translationEn": "For example, in a certain rural town, panels of anime characters were placed. Seeing these, fans take pictures. The town sometimes creates anime maps to guide fans. This is a new way to help the town.",
+      "id": "651f81c0-14f8-479f-b9af-7e801b21715f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、聖地巡礼には問題もあります。たくさんの人が来ると、道が混んだり、静かな町がうるさくなったりします。町とファンが、もっと良い関係を作るために、話し合うことが大切です。",
+      "translationZh": "但是，圣地巡礼也有问题。当很多人来的时候，道路会拥挤，安静的城镇也会变得吵闹。为了让小镇和粉丝建立更好的关系，沟通很重要。",
+      "translationEn": "However, sacred site pilgrimages also have problems. When many people come, roads can get crowded, and quiet towns can become noisy. It is important for the town and fans to communicate to build a better relationship.",
+      "id": "8fce1afc-152d-499a-a303-46f2c436c44e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "巡礼",
+      "reading": "じゅんれい",
+      "meaningZh": "巡礼",
+      "meaningEn": "pilgrimage",
+      "level": "n3",
+      "exampleSentence": "このお寺は有名な巡礼の場所です。",
+      "id": "3eabc74a-d267-4d98-a058-656c39c49008"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台；（故事的）背景、地点",
+      "meaningEn": "stage; setting (of a story)",
+      "level": "n5n4",
+      "exampleSentence": "この映画の舞台は、美しい海辺の町です。",
+      "id": "8a69ea75-e56a-4270-9868-23b76103dfa5"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访；访问",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "来週、京都を訪れる予定です。",
+      "id": "2775cd81-29b4-4366-aa59-330ab6055e97"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "山の上の景色はとてもきれいでした。",
+      "id": "7e2b24eb-62b2-4f80-adb8-ee34cfecd055"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "游客",
+      "meaningEn": "tourist",
+      "level": "n5n4",
+      "exampleSentence": "この町にはたくさんの観光客が来ます。",
+      "id": "95878045-c04f-46a2-8d0e-4ec5c01cf64e"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精神；活力",
+      "meaningEn": "energy; spirit; health",
+      "level": "n5n4",
+      "exampleSentence": "風邪をひきましたが、もう元気になりました。",
+      "id": "aa431b89-1887-4973-b3d8-5a3c06dfa069"
+    },
+    {
+      "word": "おみやげ",
+      "reading": "おみやげ",
+      "meaningZh": "纪念品；土特产",
+      "meaningEn": "souvenir",
+      "level": "n5n4",
+      "exampleSentence": "旅行のおみやげを買いました。",
+      "id": "08fb7c04-dc6e-4fde-8c5e-87c729ec5065"
+    },
+    {
+      "word": "パネル",
+      "reading": "ぱねる",
+      "meaningZh": "面板；展板；（人物）立牌",
+      "meaningEn": "panel; board; standee (character cutout)",
+      "level": "n5n4",
+      "exampleSentence": "駅にアニメのキャラクターのパネルがありました。",
+      "id": "ba92fdcd-0a34-4def-81a1-409061079831"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの「聖地巡礼」で、町はどうなりましたか。",
+      "options": [
+        "町は静かになりました。",
+        "町は元気になりました。",
+        "町は人がいなくなりました。",
+        "町はお金がなくなりました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「聖地巡礼のおかげで、小さな町が元気になりました。」",
+      "id": "767a4670-936b-45e2-9c7a-c1033f145126"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-14-220265558d",
+  "publishedAt": "2026-08-14T06:00:00+09:00"
+}

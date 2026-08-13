@@ -1,0 +1,114 @@
+{
+  "title": "お寿司がお高い？",
+  "summary": "最近、回転寿司の値段が上がりました。お客さんが少し減ったようです。でも、お寿司はやっぱり美味しいですね。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気のある回転寿司チェーンで値段が上がりました。今までより、お皿の色と値段が高くなったお店が多いです。これは、材料費や人件費が上がったためです。",
+      "translationZh": "最近，很受欢迎的回转寿司连锁店提高了价格。比以前，盘子的颜色和价格都变高的店很多。这是因为材料费和人工费上涨了。",
+      "translationEn": "Recently, popular conveyor belt sushi chains have raised their prices. Many shops now have higher priced plates than before. This is because material costs and labor costs have increased.",
+      "id": "3c6e36fe-9768-46c2-b420-221196b38afb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったので、お客さんの数が少し減ったという話も聞きます。前はもっとたくさんのお客さんがいましたが、今は少し静かになったかもしれません。それでも、美味しいお寿司を食べたい人はまだたくさんいます。",
+      "translationZh": "听说因为价格上涨，顾客数量有所减少。以前人很多，但现在可能有点安静了。即便如此，想吃美味寿司的人还是很多。",
+      "translationEn": "Because the prices have gone up, we hear that the number of customers has decreased a little. There used to be many more customers, but perhaps it's a bit quieter now. Still, many people want to eat delicious sushi.",
+      "id": "3b65f0ce-5f0d-498e-97d2-f0b6c70d18cc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "回転寿司は、安くて美味しいのが良いところでした。しかし、これからは少し値段が高くなるかもしれません。それでも、色々な種類のお寿司を少しずつ食べられるのは楽しいです。これからも回転寿司は人気があると思います。",
+      "translationZh": "回转寿司以前的优点是便宜又好吃。但是，今后价格可能会稍微变高。即便如此，能一点一点品尝到各种寿司还是很有趣的。我认为回转寿司今后也会很受欢迎。",
+      "translationEn": "The good thing about conveyor belt sushi was that it was cheap and delicious. However, prices might become a little higher from now on. Still, it's fun to be able to eat various kinds of sushi little by little. I think conveyor belt sushi will remain popular.",
+      "id": "434f1f39-89df-4e05-8044-5f74223f08cc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "週末は回転寿司に行きました。",
+      "id": "3303c9de-fd5b-4c01-a132-a2b5b9c44b9c"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "3fa3e90b-00ea-414a-9a33-34695f54944f"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "77a0ad1b-0a45-4193-a6f3-13d46c95d792"
+    },
+    {
+      "word": "材料費",
+      "reading": "ざいりょうひ",
+      "meaningZh": "材料费",
+      "meaningEn": "material costs",
+      "level": "n3",
+      "exampleSentence": "材料費が上がったので、商品の値段も上げました。",
+      "id": "614d0a04-823c-45eb-bb9a-dbd30932a0f1"
+    },
+    {
+      "word": "人件費",
+      "reading": "じんけんひ",
+      "meaningZh": "人工费",
+      "meaningEn": "labor costs",
+      "level": "n3",
+      "exampleSentence": "人件費を抑えるために、新しい人を雇いませんでした。",
+      "id": "3f61fd2b-a506-4dea-94ac-64576cff5213"
+    },
+    {
+      "word": "客",
+      "reading": "きゃく",
+      "meaningZh": "客人，顾客",
+      "meaningEn": "customer, guest",
+      "level": "n5n4",
+      "exampleSentence": "お店にお客さんがたくさん来ました。",
+      "id": "6ae8240b-4502-47be-b976-57141010f2ba"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, type, sort",
+      "level": "n5n4",
+      "exampleSentence": "この店には色々な種類のパンがあります。",
+      "id": "86407b08-68dd-4a9f-ad08-cd82a4880b03"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司の値段が上がったのはなぜですか。",
+      "options": [
+        "お客さんが減ったから",
+        "材料費や人件費が上がったから",
+        "お寿司が美味しくなくなったから",
+        "お店が古くなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「これは、材料費や人件費が上がったためです。」と書いてあります。",
+      "id": "af50b1df-ec07-431f-8a19-ecda1410e2b9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-14-e84a2b4f5e",
+  "publishedAt": "2026-08-14T06:00:00+09:00"
+}

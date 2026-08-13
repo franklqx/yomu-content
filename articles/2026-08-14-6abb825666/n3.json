@@ -1,0 +1,135 @@
+{
+  "title": "新学期！最新文房具トレンドをチェックしよう！",
+  "summary": "新しい学年が始まる前に、最新の文房具トレンドをチェックしませんか？機能的でおしゃれな文房具は、勉強のモチベーションを上げてくれます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春は新しい生活が始まる季節ですが、同時に新しい学期が始まる時期でもあります。学期が始まるということは、新しい教科書やノート、そして新しい文房具が必要になるということです。最近の文房具店には、機能性はもちろん、デザイン性にも優れた商品がたくさん並んでいます。",
+      "translationZh": "春天是开始新生活的季节，同时也是新学期开始的时候。学期开始意味着需要新的教科书、笔记本，以及新的文具。最近的文具店里，不仅功能性，就连设计性出色的商品也摆放了很多。",
+      "translationEn": "Spring is a season for new beginnings, and at the same time, it's when the new school term starts. The start of a term means new textbooks, notebooks, and new stationery are needed. Recently, stationery stores are filled with many products that excel not only in functionality but also in design.",
+      "id": "932c1fed-61ce-46a9-afe8-d6200ffdc2d6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目されているのは、環境に配慮した素材で作られた文房具です。例えば、再生紙を使ったノートや、プラスチックの使用を減らしたペンなどが人気を集めています。これらの商品は、持続可能な社会を目指すという意識の高まりとともに、多くの学生や保護者から支持されています。",
+      "translationZh": "尤其受到关注的是用环保材料制作的文具。例如，使用再生纸的笔记本，以及减少塑料使用的笔等正在受到欢迎。这些商品，随着对可持续发展社会意识的提高，得到了许多学生和家长的支持。",
+      "translationEn": "Particularly noteworthy are stationery items made from environmentally friendly materials. For instance, notebooks made from recycled paper and pens that reduce plastic usage are gaining popularity. These products are supported by many students and parents, along with the growing awareness for a sustainable society.",
+      "id": "cfd71506-6890-48b8-a3de-f70bbf8dce2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、多機能なペンや、細かい文字も書きやすいシャープペンシルなども依然として人気があります。色鉛筆やマーカーも、鮮やかな色合いのものや、特殊なインクを使ったものが登場しており、ノートをきれいにまとめたり、イラストを描いたりするのに役立ちます。勉強が楽しくなるような、お気に入りの一品を見つけてみてください。",
+      "translationZh": "此外，多功能笔和写细字也很容易的铅笔等依然很受欢迎。彩色铅笔和记号笔也出现了色彩鲜艳的，以及使用特殊墨水的，它们有助于把笔记整理得漂亮，或者画插图。请试着找到一件能让学习变得快乐的、你最喜欢的文具。",
+      "translationEn": "Furthermore, multi-functional pens and mechanical pencils that easily write fine lines remain popular. Colored pencils and markers also come in vibrant colors or with special inks, which help in organizing notes neatly or drawing illustrations. Try to find your favorite item that will make studying more enjoyable.",
+      "id": "069a113c-be20-419c-b3e9-179416e9a50f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文房具",
+      "reading": "ぶんぼVideoぐ",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい学校で使う文房具を買いに行きました。",
+      "id": "8357251a-8c8c-43d5-8e38-971a4bfc28a7"
+    },
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "趋势，潮流",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "今年のファッションのトレンドは何ですか？",
+      "id": "3780bd35-4be9-41cd-acf1-16188781b2f3"
+    },
+    {
+      "word": "機能性",
+      "reading": "きのうせい",
+      "meaningZh": "功能性",
+      "meaningEn": "functionality",
+      "level": "n3",
+      "exampleSentence": "このスマートフォンの機能性が高いです。",
+      "id": "6fbec920-4bfa-462a-b982-801922cfaf57"
+    },
+    {
+      "word": "デザイン性",
+      "reading": "デザインせい",
+      "meaningZh": "设计性",
+      "meaningEn": "design quality",
+      "level": "n3",
+      "exampleSentence": "このカバンはデザイン性が優れています。",
+      "id": "313873e7-be82-474a-9516-148354b89875"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "关怀，考虑",
+      "meaningEn": "consideration",
+      "level": "n3",
+      "exampleSentence": "環境に配慮した製品を選ぶようにしています。",
+      "id": "7c22126b-0916-4bcb-be30-8a0824b1b763"
+    },
+    {
+      "word": "再生紙",
+      "reading": "さいせいし",
+      "meaningZh": "再生纸",
+      "meaningEn": "recycled paper",
+      "level": "n3",
+      "exampleSentence": "再生紙のノートは環境に優しいです。",
+      "id": "878eae7f-08fd-4b5e-9814-0cbc3725767d"
+    },
+    {
+      "word": "持続可能",
+      "reading": "じぞくかのう",
+      "meaningZh": "可持续",
+      "meaningEn": "sustainable",
+      "level": "n2n1",
+      "exampleSentence": "持続可能な社会の実現が目標です。",
+      "id": "39cc4456-03f7-4b1c-a73a-08bdc797b1d3"
+    },
+    {
+      "word": "多機能",
+      "reading": "たきのう",
+      "meaningZh": "多功能",
+      "meaningEn": "multi-functional",
+      "level": "n3",
+      "exampleSentence": "この時計は多機能で便利です。",
+      "id": "9224fe36-b17e-4e62-901c-23738aa992cc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の文房具店で人気があるものは何ですか？",
+      "options": [
+        "機能性だけが高いもの",
+        "環境に配慮した素材で作られたもの",
+        "昔ながらのシンプルなデザインのもの",
+        "価格が安いものだけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「特に注目されているのは、環境に配慮した素材で作られた文房具です。」と書かれています。",
+      "id": "c6cb6eb8-a0f6-4d24-b5bc-51f134e29fa4"
+    },
+    {
+      "question": "文房具が勉強のモチベーションを上げるのに役立つ理由は何ですか？",
+      "options": [
+        "高価だから",
+        "機能的でおしゃれだから",
+        "友達が持っているから",
+        "学校で必ず使うから"
+      ],
+      "correctIndex": 1,
+      "explanation": "要約部分には「機能的でおしゃれな文房具は、勉強のモチベーションを上げてくれます。」と書かれています。",
+      "id": "df2fcb96-09cf-45c3-b54b-212f7df44a41"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-14-6abb825666",
+  "publishedAt": "2026-08-14T06:00:00+09:00"
+}
