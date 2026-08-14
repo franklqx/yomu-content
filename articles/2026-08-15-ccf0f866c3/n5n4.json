@@ -1,0 +1,122 @@
+{
+  "title": "夏の夜空を彩る花火！",
+  "summary": "今年も夏祭りの季節がやってきました。各地で花火大会が開催されます。夏の思い出を作りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏になると、日本各地で花火大会があります。夜空に大きな花火が上がります。とてもきれいです。多くの人が花火を見に行きます。",
+      "translationZh": "夏天的时候，日本各地都会有烟花大会。巨大的烟花在夜空中绽放。非常美丽。很多人都会去看烟花。",
+      "translationEn": "In summer, there are fireworks festivals all over Japan. Big fireworks go up in the night sky. They are very beautiful. Many people go to see the fireworks.",
+      "id": "8bcbd0e9-4259-4317-aaff-1263c8a4be2f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は、お祭りの一部です。屋台もたくさん出ます。たこ焼きやりんごあめなど、おいしいものがたくさんあります。浴衣を着る人も多いです。",
+      "translationZh": "烟花大会是祭典的一部分。也会有很多小吃摊。有章鱼烧、糖苹果等很多好吃的食物。穿浴衣的人也很多。",
+      "translationEn": "Fireworks festivals are part of the festival. Many food stalls also appear. There are many delicious things like takoyaki and candy apples. Many people wear yukata.",
+      "id": "5142e6ba-5355-4ad6-b586-4d10a100f3b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の夏も、いくつかの大きな花火大会が予定されています。例えば、隅田川花火大会や、淀川花火大会などです。早めに場所を確保することが大切です。",
+      "translationZh": "今年的夏天也预定举办几个大型烟花大会。例如，隅田川烟花大会和淀川烟花大会等。提前占好位置很重要。",
+      "translationEn": "This summer, several large fireworks festivals are also planned. For example, the Sumida River Fireworks Festival and the Yodogawa Fireworks Festival. It is important to secure a good spot early.",
+      "id": "27e3f832-b36e-43f1-9715-2dc1970e2cd0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は夏の良い思い出になります。家族や友達と一緒に行くのがおすすめです。ぜひ、夏の夜空を楽しんでください。",
+      "translationZh": "烟花大会会成为夏天美好的回忆。推荐和家人或朋友一起去。请一定要享受夏天的夜空。",
+      "translationEn": "Fireworks festivals become good summer memories. It is recommended to go with family or friends. Please enjoy the summer night sky.",
+      "id": "1e967cf7-6e39-4986-945c-02e87e8fc383",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "花火大会",
+      "reading": "はなびたいかい",
+      "meaningZh": "烟花大会",
+      "meaningEn": "Fireworks festival",
+      "level": "n5n4",
+      "exampleSentence": "来週、花火大会があります。",
+      "id": "3c40d140-00bb-478c-a3a5-1e4f6a0525b6"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaningZh": "夜空",
+      "meaningEn": "Night sky",
+      "level": "n5n4",
+      "exampleSentence": "夜空に星がたくさん見えます。",
+      "id": "4cf2ef29-553a-426c-b9e6-f070b5d3ac00"
+    },
+    {
+      "word": "彩る",
+      "reading": "いろどる",
+      "meaningZh": "装饰，点缀",
+      "meaningEn": "To color, to decorate",
+      "level": "n3",
+      "exampleSentence": "花火が夜空を彩ります。",
+      "id": "bbeb5247-a40e-493b-b604-d4a90630918e"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "小吃摊，排挡",
+      "meaningEn": "Food stall, stand",
+      "level": "n5n4",
+      "exampleSentence": "お祭りで屋台がたくさん出ていました。",
+      "id": "c66dfea0-3511-4ff1-a38a-1c7cb684019d"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "Yukata (summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏は浴衣を着て出かけます。",
+      "id": "458b380b-6acf-41a0-968a-b81eec581a7c"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaningZh": "计划，预定",
+      "meaningEn": "Plan, schedule",
+      "level": "n5n4",
+      "exampleSentence": "明日の予定は何ですか。",
+      "id": "12abe35c-5add-4bea-909c-7a94fffa5551"
+    },
+    {
+      "word": "確保",
+      "reading": "かくほ",
+      "meaningZh": "确保",
+      "meaningEn": "To secure, to ensure",
+      "level": "n3",
+      "exampleSentence": "良い席を確保しました。",
+      "id": "c22f05ad-dc31-4761-9396-13f91f257cd4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会の日は、何が楽しみですか。",
+      "options": [
+        "きれいな花火、おいしい食べ物、浴衣を着ること",
+        "大きな音楽とダンス",
+        "涼しい部屋で休むこと",
+        "静かに本を読むこと"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「花火大会は、お祭りの一部です。屋台もたくさん出ます。たこ焼きやりんごあめなど、おいしいものがたくさんあります。浴衣を着る人も多いです。」と書いてあります。",
+      "id": "c97e10ac-7f2c-4383-a3a2-655490f81962"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-15-ccf0f866c3",
+  "publishedAt": "2026-08-15T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "コミケの最新トレンド",
+  "summary": "コミケでは、新しいサークルがたくさんありました。どんな傾向があったか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コミックマーケットは、たくさんの人が集まるイベントです。たくさんのサークルが参加しました。今期のコミケでは、新しいアイデアのサークルが目立ちました。昔からあるジャンルも人気でしたが、新しいジャンルも増えました。",
+      "translationZh": "Comic Market 是一个聚集了很多人气的活动。有很多社团参加了。在本季的 Comic Market 上，有很多有新想法的社团引人注目。虽然一直以来存在的类型也很受欢迎，但新的类型也增加了。",
+      "translationEn": "Comic Market is an event where many people gather. Many circles participated. In this season's Comic Market, circles with new ideas stood out. Genres that have existed for a long time were also popular, but new genres also increased.",
+      "id": "0190e0d2-6413-4471-b696-80b6b0975fc3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、ゲームやアニメの二次創作が多かったです。有名な作品のキャラクターを使った同人誌がたくさんありました。また、オリジナルの物語を作るサークルも人気でした。個性的なキャラクターや世界観が注目されました。",
+      "translationZh": "特别是，游戏和动画的二次创作很多。有很多使用著名作品角色的同人志。另外，创作原创故事的社团也很受欢迎。独特的角色和世界观受到了关注。",
+      "translationEn": "In particular, there were many fan-made works based on games and anime. There were many doujinshi using characters from famous works. Also, circles that created original stories were popular. Unique characters and worldviews attracted attention.",
+      "id": "4d5eb1c7-e4f3-4ea8-ace8-bbd3b52c299c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "デザイン性の高いグッズも人気でした。キャラクターのイラストを使ったTシャツやバッグなどがありました。手作りのアクセサリーや雑貨を売るサークルも多かったです。これも、オリジナリティが大切でした。",
+      "translationZh": "设计感强的周边商品也很受欢迎。有使用角色插画的T恤和包包等。售卖手工制作的饰品和杂货的社团也很多。这些也强调了独创性。",
+      "translationEn": "Well-designed merchandise was also popular. There were T-shirts and bags using character illustrations. Many circles also sold handmade accessories and miscellaneous goods. Originality was also important here.",
+      "id": "eac67e9d-1386-4ba2-89e2-40ffd0e31995",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "来年のコミケも楽しみです。どんな新しいサークルやアイデアが出てくるか、注目したいと思います。",
+      "translationZh": "我很期待明年的 Comic Market。我想关注会有哪些新的社团和想法出现。",
+      "translationEn": "I am looking forward to next year's Comic Market as well. I want to pay attention to what new circles and ideas will appear.",
+      "id": "72e3c2dc-bdbe-4617-93ea-80050043abd7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "人がたくさん集まりました。",
+      "id": "58b0fff5-3d1a-4e67-ad51-fd3a54243f53"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "イベントに参加しました。",
+      "id": "d74115ef-f84e-4c3d-aefa-86cb0de87b2e"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "倾向，趋势",
+      "meaningEn": "tendency, trend",
+      "level": "n3",
+      "exampleSentence": "最近の流行の傾向を知りたいです。",
+      "id": "2ec5ebd2-3c8b-451c-a415-5ff680dbfe40"
+    },
+    {
+      "word": "二次創作",
+      "reading": "にじそうさく",
+      "meaningZh": "二次创作（指基于现有作品再创作）",
+      "meaningEn": "secondary creation (fan fiction, fan art, etc.)",
+      "level": "n3",
+      "exampleSentence": "この小説は二次創作です。",
+      "id": "3b88914d-4d06-42e3-acb9-a295ae8c0fe3"
+    },
+    {
+      "word": "同人誌",
+      "reading": "どうじんし",
+      "meaningZh": "同人志（粉丝自己制作的书籍）",
+      "meaningEn": "doujinshi (self-published fan magazine/book)",
+      "level": "n3",
+      "exampleSentence": "コミケで同人誌を買いました。",
+      "id": "32d9c76d-d001-40ce-a8f3-3ddb50c632be"
+    },
+    {
+      "word": "オリジナル",
+      "reading": "おりじなる",
+      "meaningZh": "原创",
+      "meaningEn": "original",
+      "level": "n5n4",
+      "exampleSentence": "これはオリジナルのキャラクターです。",
+      "id": "d99ca715-2151-409b-8f87-29286fb79e5c"
+    },
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "goods (merchandise)",
+      "level": "n5n4",
+      "exampleSentence": "好きなアニメのグッズを買いました。",
+      "id": "56181340-5a88-4244-af45-2c9758a9260b"
+    },
+    {
+      "word": "デザイン性",
+      "reading": "でざいんせい",
+      "meaningZh": "设计感",
+      "meaningEn": "design quality",
+      "level": "n3",
+      "exampleSentence": "この服はデザイン性が高いです。",
+      "id": "eaec2e27-4917-4855-9ee3-6e2417142d6b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今期のコミケで目立ったのは、どのようなサークルですか？",
+      "options": [
+        "昔からあるジャンルだけのサークル",
+        "新しいアイデアのサークル",
+        "ゲームやアニメの二次創作ではないサークル",
+        "デザイン性のないグッズを売るサークル"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「今期のコミケでは、新しいアイデアのサークルが目立ちました。」と書かれています。",
+      "id": "45a2b2fc-b147-47ec-9cab-5f474770e38a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-15-ec987604cd",
+  "publishedAt": "2026-08-15T06:00:00+09:00"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "夏の夜空を彩る！花火大会開催情報",
+  "summary": "今年の夏は、各地で花火大会が開催されます。夜空に咲く大輪の花火で、特別な夏の思い出を作りませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏といえば、やはり花火大会ですね。今年も各地で、趣向を凝らした花火大会が開催される予定です。コロナ禍で中止が続いていた地域も、今年は開催されるところが多く、多くの人が待ち望んでいたのではないでしょうか。",
+      "translationZh": "说到夏天，果然还是花火大会呢。今年各地也预定会举办精心策划的花火大会。虽然因为疫情而中止了一段时间的地区，今年也有很多会举办，我想很多人都在期待着吧。",
+      "translationEn": "Speaking of summer, fireworks festivals are indispensable. This year, various regions are planning to hold elaborate fireworks festivals. Many places that had been canceled due to the pandemic are scheduled to be held this year, and I believe many people have been looking forward to it.",
+      "id": "99ebd968-e9a3-4144-93cc-ac30c64b0d1d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は、単に花火が打ち上がるだけでなく、その地域の文化や歴史に触れられる良い機会でもあります。屋台で地元のグルメを楽しんだり、浴衣を着て出かけたりすれば、より一層、夏の雰囲気を満喫できるでしょう。暑いので、水分補給を忘れず、熱中症には十分注意しましょう。",
+      "translationZh": "花火大会不仅仅是单纯地燃放烟花，也是一个能接触到当地文化和历史的好机会。在小摊上品尝当地的美食，或者穿着浴衣出门，都能更加尽情地享受夏日氛围。因为天气炎热，请不要忘记补充水分，并充分注意中暑。",
+      "translationEn": "Fireworks festivals are not just about launching fireworks; they are also a good opportunity to experience the local culture and history. Enjoying local gourmet food from food stalls or dressing up in yukata will allow you to fully savor the summer atmosphere. Since it will be hot, remember to stay hydrated and take plenty of precautions against heatstroke.",
+      "id": "3923a482-5e90-4752-a683-dc591ea3a997",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "開催日や場所、打ち上げ数などは、各自治体のウェブサイトや観光協会の情報などで確認できます。人気のある大会は、会場周辺の道路が大変混雑するので、公共交通機関を利用するのがおすすめです。事前に情報をしっかり調べて、万全の準備をして、夏の夜空を彩る美しい花火を堪能してください。",
+      "translationZh": "举办日期、地点、烟花数量等信息，可以在各自治体的网站或旅游协会的信息中确认。人气较旺的烟花大会，会场周边的道路会非常拥堵，因此推荐利用公共交通工具。请提前仔细查阅信息，做好万全的准备，尽情欣赏点缀夏夜夜空的绚丽烟花。",
+      "translationEn": "The dates, locations, and number of fireworks can be confirmed on the websites of each municipality or through information from tourism associations. Popular festivals tend to cause heavy traffic congestion on roads around the venue, so using public transportation is recommended. Please research the information thoroughly in advance, prepare well, and enjoy the beautiful fireworks that decorate the summer night sky.",
+      "id": "5db93bd6-f69f-41a6-9953-a9c6b8f0a011",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "趣向を凝らす",
+      "reading": "しゅこうをこらす",
+      "meaningZh": "精心策划，绞尽脑汁",
+      "meaningEn": "to plan meticulously, to devise ingenious ideas",
+      "level": "n3",
+      "exampleSentence": "このイベントは、参加者を楽しませるために趣向を凝らした企画が多いです。",
+      "id": "3d357b62-e49b-40e3-8e20-a55cac361684"
+    },
+    {
+      "word": "コロナ禍",
+      "reading": "コロナか",
+      "meaningZh": "新冠疫情期间",
+      "meaningEn": "during the COVID-19 pandemic",
+      "level": "n3",
+      "exampleSentence": "コロナ禍で多くのイベントが中止になりました。",
+      "id": "40a2dc9a-8218-4c49-9e68-64debf2bcd1e"
+    },
+    {
+      "word": "待ち望む",
+      "reading": "まちのぞむ",
+      "meaningZh": "热切盼望",
+      "meaningEn": "to look forward to eagerly, to await",
+      "level": "n3",
+      "exampleSentence": "子供たちは夏休みが来るのを待ち望んでいます。",
+      "id": "3ef4e3b8-c065-4ab6-866e-eefb4e8e3e75"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "（节日等的）露天摊位，小吃摊",
+      "meaningEn": "stall, stand, booth (especially at festivals)",
+      "level": "n3",
+      "exampleSentence": "お祭りの屋台では、たこ焼きや焼きそばが人気です。",
+      "id": "a8780f70-889d-4f74-93d4-096a70395ec0"
+    },
+    {
+      "word": "グルメ",
+      "reading": "グルメ",
+      "meaningZh": "美食家，美食",
+      "meaningEn": "gourmet, fine food",
+      "level": "n3",
+      "exampleSentence": "この街には美味しいグルメがたくさんあります。",
+      "id": "c307cb50-17a4-432c-b971-932acc31d2cc"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (a casual summer kimono)",
+      "level": "n3",
+      "exampleSentence": "夏祭りに浴衣を着ていくのは楽しいです。",
+      "id": "84839cc8-4729-46b4-9222-358b88ad386f"
+    },
+    {
+      "word": "水分補給",
+      "reading": "すいぶんほきゅう",
+      "meaningZh": "补充水分",
+      "meaningEn": "hydration, replenishing fluids",
+      "level": "n3",
+      "exampleSentence": "夏はこまめな水分補給が大切です。",
+      "id": "376022b7-f4bd-4fd2-a115-61d7b3c5675c"
+    },
+    {
+      "word": "熱中症",
+      "reading": "ねっちゅうしょう",
+      "meaningZh": "中暑",
+      "meaningEn": "heatstroke",
+      "level": "n3",
+      "exampleSentence": "暑い日は熱中症にならないように注意しましょう。",
+      "id": "8dbff361-13b0-4a58-a6b5-ac47be173519"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会は、どのような機会になり得ますか？",
+      "options": [
+        "単に花火を見るだけの機会",
+        "地域の文化や歴史に触れる機会",
+        "新しい屋台の食べ物を試す機会",
+        "浴衣の最新ファッションショーを見る機会"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「花火大会は、単に花火が打ち上がるだけでなく、その地域の文化や歴史に触れられる良い機会でもあります。」と書かれています。",
+      "id": "953d5841-9478-4996-b67d-b5514bbfcd5d"
+    },
+    {
+      "question": "花火大会に行く際の注意点として、本文で述べられていることは何ですか？",
+      "options": [
+        "必ず浴衣を着ていくこと",
+        "早朝から会場で場所を取ること",
+        "公共交通機関を利用すること",
+        "水分補給を忘れず、熱中症に注意すること"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文には「暑いので、水分補給を忘れず、熱中症には十分注意しましょう。」と書かれています。また、「人気のある大会は、会場周辺の道路が大変混雑するので、公共交通機関を利用するのがおすすめです。」とも書かれていますが、直接的な注意点としては水分補給と熱中症が挙げられています。",
+      "id": "38eee918-0fcf-4ad1-b86c-0b36a3992198"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-15-ccf0f866c3",
+  "publishedAt": "2026-08-15T06:00:00+09:00"
+}

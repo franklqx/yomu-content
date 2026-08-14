@@ -1,0 +1,131 @@
+{
+  "title": "Bリーグの新しいスター選手",
+  "summary": "Bリーグに新しいスター選手が現れました。彼はとても上手で、多くのファンがいます。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "日本のプロバスケットボールリーグ「Bリーグ」に、新しいスター選手がいます。彼の名前は〇〇（仮名）です。彼はとても若いです。しかし、プレーはとても上手です。",
+      "translationZh": "在日本的职业篮球联赛“B联赛”中，有一位新星球员。他的名字是〇〇（假名）。他非常年轻。但是，他的球技非常出色。",
+      "translationEn": "In Japan's professional basketball league, 'B.League', there is a new star player. His name is XX (placeholder). He is very young. However, his playing is very skillful.",
+      "id": "f2cd8c19-8e31-4682-a491-f9caace2b667",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "〇〇選手は、速いスピードと正確なシュートが魅力です。彼は試合でたくさんの点を取ります。チームの勝利に大きく貢献しています。",
+      "translationZh": "〇〇选手的魅力在于他飞快的速度和精准的投篮。他在比赛中能得到很多分数。他对队伍的胜利做出了巨大贡献。",
+      "translationEn": "Player XX's charm lies in his fast speed and accurate shooting. He scores many points in games. He greatly contributes to the team's victory.",
+      "id": "5db98711-4ee9-4549-9501-bdc8ab71e3bd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近の試合でも、彼は活躍しました。最後の数分で、逆転のシュートを決めました。会場はとても盛り上がりました。",
+      "translationZh": "在最近的比赛中，他也表现活跃。在最后的几分钟里，他投进了反败为胜的制胜一球。会场气氛非常热烈。",
+      "translationEn": "In a recent game, he also played actively. In the last few minutes, he made the winning shot to turn the game around. The venue became very exciting.",
+      "id": "3960befc-f8b6-4973-84e3-20e7773a5794",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "多くのファンが〇〇選手を応援しています。彼のプレーを見て、バスケットボールが好きになる人が増えています。これからも彼の活躍が楽しみです。",
+      "translationZh": "很多粉丝都在为〇〇选手加油。看到他的比赛，喜欢上篮球的人也增加了。今后也期待他的精彩表现。",
+      "translationEn": "Many fans are cheering for player XX. Seeing his play, more and more people are starting to like basketball. We look forward to his continued success.",
+      "id": "759db090-8b83-4d29-961a-64dfeac97af8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手，运动员",
+      "meaningEn": "player, athlete",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なサッカー選手です。",
+      "id": "db389f6e-0daa-4747-a313-8626009f52f6"
+    },
+    {
+      "word": "リーグ",
+      "reading": "りーぐ",
+      "meaningZh": "联赛",
+      "meaningEn": "league",
+      "level": "n5n4",
+      "exampleSentence": "このリーグはとても強いです。",
+      "id": "2545d15c-5fc9-4f56-8f8c-0a0dcb9cba5b"
+    },
+    {
+      "word": "スター",
+      "reading": "すたー",
+      "meaningZh": "明星（尤指体育或演艺界）",
+      "meaningEn": "star (especially in sports or entertainment)",
+      "level": "n5n4",
+      "exampleSentence": "彼はチームのスターです。",
+      "id": "5974a582-3828-4e0f-8f58-c89a693d312b"
+    },
+    {
+      "word": "プレー",
+      "reading": "ぷれー",
+      "meaningZh": "比赛，表现（运动方面）",
+      "meaningEn": "play, performance (in sports)",
+      "level": "n5n4",
+      "exampleSentence": "彼のプレーは素晴らしいです。",
+      "id": "adcddc12-9e16-4972-9c3d-5808356cc55b"
+    },
+    {
+      "word": "スピード",
+      "reading": "すぴーど",
+      "meaningZh": "速度",
+      "meaningEn": "speed",
+      "level": "n5n4",
+      "exampleSentence": "車のスピードが速いです。",
+      "id": "bd96989d-a283-4328-9967-1e15a58fb9d6"
+    },
+    {
+      "word": "シュート",
+      "reading": "しゅーと",
+      "meaningZh": "投篮，射门",
+      "meaningEn": "shoot, shot",
+      "level": "n5n4",
+      "exampleSentence": "バスケットボールでシュートをしました。",
+      "id": "4994b8ff-9cab-46ff-b6ff-f8efee0cfc5c"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "彼は地域に貢献しました。",
+      "id": "016016fe-cc1c-4cd1-9262-7884f2188ccc"
+    },
+    {
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaningZh": "会场，场地",
+      "meaningEn": "venue, site",
+      "level": "n5n4",
+      "exampleSentence": "試合の会場は大きいです。",
+      "id": "52f2ac09-12da-41b4-86f5-f660f7a1a1a6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "〇〇選手は、Bリーグのどんな選手として紹介されていますか？",
+      "options": [
+        "ベテランの選手",
+        "新しいスター選手",
+        "怪我をしている選手",
+        "あまり人気のない選手"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事では「Bリーグに、新しいスター選手がいます。」と書かれています。",
+      "id": "8e363ec6-c702-4931-9e1d-6e5ca9afc949"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-15-b",
+  "publishedAt": "2026-08-15T06:00:00+09:00"
+}
