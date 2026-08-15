@@ -1,0 +1,122 @@
+{
+  "title": "発酵食品って何？",
+  "summary": "最近、発酵食品が人気です。発酵食品は体にいいと言われています。みそやヨーグルトについて話しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、健康（けんこう）のために食（た）べるものに気（き）をつける人（ひと）が増（ふ）えています。特（とく）に、発酵食品（はっこうしょくひん）が注目（ちゅうもく）されています。発酵食品は、体（からだ）に良（よ）い菌（きん）を使って作（つく）られた食品（しょくひん）のことです。",
+      "translationZh": "最近，为了健康而注意饮食的人增加了。特别是，发酵食品备受关注。发酵食品是指使用对身体有益的菌制造出来的食品。",
+      "translationEn": "Recently, more people are paying attention to what they eat for their health. In particular, fermented foods are gaining attention. Fermented foods are foods made using beneficial bacteria for the body.",
+      "id": "b6fb4268-4b9e-457b-92d4-b3bef31af841",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "日本（にほん）には、古（ふる）くからいろいろな発酵食品があります。たとえば、みそ、しょうゆ、納豆（なっとう）です。ヨーグルトやチーズも発酵食品です。これらは、おいしいだけでなく、お腹（なか）の調子（ちょうし）を整（ととの）える助（たす）けをします。",
+      "translationZh": "在日本，自古以来就有各种各样的发酵食品。例如，味噌、酱油、纳豆。酸奶和奶酪也是发酵食品。它们不仅美味，还能帮助调理肠胃。",
+      "translationEn": "Japan has had various fermented foods since ancient times. For example, miso, soy sauce, and natto. Yogurt and cheese are also fermented foods. They are not only delicious but also help regulate digestion.",
+      "id": "9379575e-d9ee-4e80-a7fe-7179ffa7a36b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品を毎日（まいにち）少（すこ）しずつ食（た）べるのがおすすめです。朝（あさ）ごはんにおみそ汁（しる）を飲（の）んだり、ヨーグルトを食（た）べたりします。そうすることで、体の中から健康（けんこう）になることができます。",
+      "translationZh": "建议每天一点点地吃发酵食品。早上喝味噌汤，或者吃酸奶。通过这样做，可以从身体内部变得健康。",
+      "translationEn": "It is recommended to eat fermented foods little by little every day. You can drink miso soup for breakfast or eat yogurt. By doing so, you can become healthy from the inside out.",
+      "id": "57bf2b92-e5a1-4d22-961c-1edd8c639be2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "健康（けんこう）への意識（いしき）が高（たか）まるにつれて、発酵食品の良（よ）さがもっと知（し）られるようになるでしょう。皆（みな）さんも、ぜひ発酵食品を食生活（しょくせいかつ）取（と）り入（い）れてみませんか。",
+      "translationZh": "随着健康意识的提高，发酵食品的优点也会被更多人所了解。你们也来尝试将发酵食品纳入饮食生活吧。",
+      "translationEn": "As awareness of health increases, the benefits of fermented foods will likely become more widely known. Why don't you all try incorporating fermented foods into your diet?",
+      "id": "f895d0ac-9656-4242-9a94-fc71b45e8320",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n5n4",
+      "exampleSentence": "みそは日本（にほん）の代表的（だいひょうてき）な発酵食品（はっこうしょくひん）です。",
+      "id": "88ab1bfd-bf46-4dc3-9126-86104e710099"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康（けんこう）のために、毎日（まいにち）運動（うんどう）します。",
+      "id": "e60b9df8-ade2-445f-8231-5d25e85e2c74"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，瞩目",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "この新（あたら）しいレストランは注目（ちゅうもく）されています。",
+      "id": "e890c714-eeb9-4bfc-a3dc-e5c6b9859ac4"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状况，情况",
+      "meaningEn": "condition, state",
+      "level": "n5n4",
+      "exampleSentence": "お腹（なか）の調子（ちょうし）が悪（わる）いです。",
+      "id": "7ee7af37-4489-4292-9760-a246627c04f1"
+    },
+    {
+      "word": "整える",
+      "reading": "ととのえる",
+      "meaningZh": "调节，整理",
+      "meaningEn": "to regulate, to adjust",
+      "level": "n3",
+      "exampleSentence": "生活（せいかつ）のリズムを整（ととの）えましょう。",
+      "id": "2a3f0508-0702-4d14-94c9-02e26fe59c36"
+    },
+    {
+      "word": "食生活",
+      "reading": "しょくせいかつ",
+      "meaningZh": "饮食生活",
+      "meaningEn": "dietary life, eating habits",
+      "level": "n3",
+      "exampleSentence": "食生活（しょくせいかつ）を改善（かいぜん）しました。",
+      "id": "d739b9f4-b54c-4cb6-947e-6b9128a14306"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaningZh": "采纳，引入",
+      "meaningEn": "to incorporate, to adopt",
+      "level": "n3",
+      "exampleSentence": "新（あたら）しい習慣（しゅうかん）を取り入（い）れました。",
+      "id": "1a436bc5-9438-4b1e-9a23-a8b6d0b92e15"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品は体に良いと言われています。それはなぜですか。",
+      "options": [
+        "おいしいからです。",
+        "体に良い菌を使っているからです。",
+        "日本で古くからあるからです。",
+        "毎朝食べるからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文（ほんぶん）には「発酵食品は、体に良い菌を使って作られた食品のことです。」と書（か）いてあります。",
+      "id": "789dd6fa-6a10-4c28-986b-be71d25f45a9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-16-95fc09b2b4",
+  "publishedAt": "2026-08-16T06:00:00+09:00"
+}

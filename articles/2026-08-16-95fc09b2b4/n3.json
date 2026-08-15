@@ -1,0 +1,134 @@
+{
+  "title": "発酵食品ブーム！健康な毎日を送る秘訣",
+  "summary": "最近、健康のために発酵食品を食べる人が増えています。発酵食品の魅力と、それを生活に取り入れる方法を見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、健康志向の高まりとともに、発酵食品が注目されています。味噌や納豆、ヨーグルトなどは、昔から私たちの食卓にありましたが、最近では、その健康効果が科学的にも証明されつつあるのです。これらの食品は、微生物の働きによって作られるため、栄養価が高く、消化も良くなるという特徴があります。",
+      "translationZh": "近年来，随着健康意识的提高，发酵食品备受关注。味噌、纳豆、酸奶等自古以来就在我们的餐桌上，最近，它们的健康效果也正逐步得到科学的证明。这些食品是由微生物的作用产生的，因此具有营养价值高、易于消化的特点。",
+      "translationEn": "In recent years, fermented foods have been attracting attention along with the rising health consciousness. Foods like miso, natto, and yogurt have long been on our tables, and recently, their health benefits are being scientifically proven. These foods are produced by the action of microorganisms, which makes them highly nutritious and easier to digest.",
+      "id": "cb7a2789-cf47-4133-b77d-a66d4f40aa08",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、腸内環境を整える善玉菌が多く含まれています。腸内環境が良くなると、免疫力がアップしたり、便秘が解消されたりするなど、体にとって良いことがたくさんあります。また、発酵の過程でビタミンなどの栄養素が生成されることもあるので、積極的に摂りたい食品と言えるでしょう。",
+      "translationZh": "发酵食品含有大量有助于调节肠道环境的益生菌。当肠道环境改善时，可以提高免疫力、缓解便秘等，对身体有很多好处。此外，在发酵过程中也会产生维生素等营养素，因此可以说是我们应该积极摄取的食品。",
+      "translationEn": "Fermented foods contain many beneficial bacteria that regulate the gut environment. When the gut environment improves, it leads to many benefits for the body, such as boosting immunity and relieving constipation. Furthermore, nutrients like vitamins can be produced during the fermentation process, so they can be considered foods we should actively consume.",
+      "id": "2002c524-0c7d-48d2-b1dc-564a432edb50",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品を日常の食生活に取り入れるのは、それほど難しくありません。朝食にヨーグルトを加えたり、味噌汁を毎日のように飲んだりするだけでも効果があります。また、最近では、キムチやザワークラウトといった、日本以外の発酵食品も人気が出てきているので、色々な味を試してみるのも楽しいでしょう。",
+      "translationZh": "将发酵食品纳入日常饮食并不难。即使只是在早餐中加入酸奶，或者每天喝味噌汤，也会有效果。而且，最近泡菜、德国酸菜等日本以外的发酵食品也越来越受欢迎，尝试各种不同的口味也会很有趣。",
+      "translationEn": "Incorporating fermented foods into your daily diet is not that difficult. Simply adding yogurt to your breakfast or drinking miso soup almost every day can be effective. Also, fermented foods from other countries, such as kimchi and sauerkraut, are becoming popular, so trying various flavors can be enjoyable.",
+      "id": "5b474360-dbe2-467e-b9cd-fecebfa342e9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "健康意識が高まっている今、発酵食品を上手に活用して、より健やかな毎日を目指しませんか。無理なく続けられる方法を見つけることが、健康維持の鍵となるはずです。色々な種類の発酵食品を試しながら、自分に合ったものを見つけてみてください。",
+      "translationZh": "在健康意识日益增强的今天，为什么不善加利用发酵食品，以实现更健康的生活呢？找到一种可以轻松持续的方法，应该是维持健康的关键。在尝试各种发酵食品的同时，请找到最适合您的那一种。",
+      "translationEn": "With rising health consciousness, why not make good use of fermented foods to aim for a healthier daily life? Finding a sustainable way to continue is key to maintaining health. Please try various types of fermented foods and find what suits you best.",
+      "id": "0e0488da-0546-4b73-a746-a252b9956de4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "このヨーグルトは発酵食品の代表例です。",
+      "id": "979d0920-b661-4a2b-94c1-20ddcb2a7374"
+    },
+    {
+      "word": "健康志向",
+      "reading": "けんこうしこう",
+      "meaningZh": "健康意识；注重健康",
+      "meaningEn": "health consciousness; health-oriented",
+      "level": "n3",
+      "exampleSentence": "健康志向の人は、食事に気を使います。",
+      "id": "e20c13e7-8715-459e-a9f0-998613487604"
+    },
+    {
+      "word": "腸内環境",
+      "reading": "ちょうないかんきょう",
+      "meaningZh": "肠道环境",
+      "meaningEn": "gut environment",
+      "level": "n3",
+      "exampleSentence": "腸内環境を整えるために、食物繊維を摂っています。",
+      "id": "8cba6923-68da-49f3-a0bd-6f39bb340687"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaningZh": "免疫力",
+      "meaningEn": "immunity",
+      "level": "n3",
+      "exampleSentence": "十分な睡眠は免疫力を高めます。",
+      "id": "9539e428-0359-4491-8877-7f6685df6548"
+    },
+    {
+      "word": "便秘",
+      "reading": "べんぴ",
+      "meaningZh": "便秘",
+      "meaningEn": "constipation",
+      "level": "n3",
+      "exampleSentence": "野菜をたくさん食べて便秘を解消しましょう。",
+      "id": "ff679faa-8f6d-44c0-b4dd-b7a50daec159"
+    },
+    {
+      "word": "栄養素",
+      "reading": "えいようそ",
+      "meaningZh": "营养素",
+      "meaningEn": "nutrient",
+      "level": "n3",
+      "exampleSentence": "バランスの取れた食事には、様々な栄養素が必要です。",
+      "id": "e6efb21f-9201-4797-9571-b4bb4bdacc9d"
+    },
+    {
+      "word": "食生活",
+      "reading": "しょくせいかつ",
+      "meaningZh": "饮食生活",
+      "meaningEn": "dietary life; eating habits",
+      "level": "n3",
+      "exampleSentence": "食生活を見直すことは、健康への第一歩です。",
+      "id": "833ab962-ccc3-4618-b236-3eedae348659"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品が注目されている理由は何ですか？",
+      "options": [
+        "昔から食べられていたから",
+        "見た目が良いから",
+        "健康効果が期待できるから",
+        "値段が安いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「健康志向の高まりとともに、発酵食品が注目されています。」とあり、また「その健康効果が科学的にも証明されつつあるのです。」と述べられています。",
+      "id": "c371e38c-b831-404c-b405-3bd33d4c7cc8"
+    },
+    {
+      "question": "発酵食品を摂ることのメリットとして、本文で述べられていないものはどれですか？",
+      "options": [
+        "腸内環境が整う",
+        "風邪をひきにくくなる",
+        "便秘が解消される",
+        "消化が良くなる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、腸内環境が整うこと、免疫力がアップすること（風邪をひきにくくなることにつながる可能性はありますが、直接的な記述ではありません）、便秘が解消されること、消化が良くなることがメリットとして挙げられています。免疫力アップは述べられていますが、「風邪をひきにくくなる」という直接的な表現はありません。",
+      "id": "3ac6462c-dfd9-4a6a-82e0-4820e08413cb"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-16-95fc09b2b4",
+  "publishedAt": "2026-08-16T06:00:00+09:00"
+}

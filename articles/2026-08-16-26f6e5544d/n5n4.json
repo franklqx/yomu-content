@@ -1,0 +1,122 @@
+{
+  "title": "秋の味覚、限定商品！",
+  "summary": "秋になりました。美味しいものがたくさんあります。お店には特別な商品が出ました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋は美味しい季節です。たくさんの食べ物がおいしくなります。特に、栗（くり）やさつまいもを使ったお菓子は人気があります。",
+      "translationZh": "秋天是美味的季节。很多食物都变得美味了。特别是用栗子和红薯做的点心很受欢迎。",
+      "translationEn": "Autumn is a delicious season. Many foods become tasty. Especially, sweets made with chestnuts and sweet potatoes are popular.",
+      "id": "bc905967-53b5-486e-8111-8a48956c21ad",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この季節だけ、特別な商品がたくさん出ます。例えば、カフェでは「モンブラン」というケーキがあります。これは栗で作った甘いケーキです。",
+      "translationZh": "只有这个季节，会推出很多特别的商品。例如，咖啡店里有叫做“蒙布朗”的蛋糕。这是用栗子做的甜蛋糕。",
+      "translationEn": "Only in this season, many special products are released. For example, cafes have a cake called 'Mont Blanc'. This is a sweet cake made from chestnuts.",
+      "id": "75bfd481-b46a-4536-96ca-c40769778ded",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニでも、秋限定の飲み物やパンがあります。かぼちゃのラテや、りんごのデニッシュなど、いろいろな味を楽しめます。",
+      "translationZh": "便利店里也有秋季限定的饮料和面包。南瓜拿铁、苹果丹麦酥等，可以享受各种口味。",
+      "translationEn": "Convenience stores also have autumn-limited drinks and breads. You can enjoy various flavors like pumpkin lattes and apple Danish pastries.",
+      "id": "6512bba7-995d-46ab-a39b-5bf36ea4a2d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの限定商品は、すぐに売り切れることがあります。見つけたら、ぜひ試してみてください。秋の味覚を楽しみましょう。",
+      "translationZh": "这些限定商品有时会很快卖完。如果看到了，请一定要尝尝。一起享受秋天的美味吧。",
+      "translationEn": "These limited products sometimes sell out quickly. If you find them, please try them. Let's enjoy the taste of autumn.",
+      "id": "fd6c7c92-5d33-40bd-b8d9-934ea281dbd8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は涼しい季節です。",
+      "id": "19ac098b-caa6-44ec-bf8e-1a5c433fd075"
+    },
+    {
+      "word": "栗",
+      "reading": "くり",
+      "meaningZh": "栗子",
+      "meaningEn": "chestnut",
+      "level": "n5n4",
+      "exampleSentence": "栗はおいしいです。",
+      "id": "952f755c-1f69-4cab-a641-8451687b375f"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaningZh": "点心，糖果",
+      "meaningEn": "sweets, snacks",
+      "level": "n5n4",
+      "exampleSentence": "子供はお菓子が好きです。",
+      "id": "e8db16b7-d956-4a17-988e-d1f88ab8420c"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "e1eb28f0-5f3f-4c63-a95e-4ee7af2092e9"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "この本は限定です。",
+      "id": "736cc681-d4f9-4de1-9b01-2c679916e69f"
+    },
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaningZh": "味道",
+      "meaningEn": "taste",
+      "level": "n5n4",
+      "exampleSentence": "この料理はいい味です。",
+      "id": "ce99a2d6-0acd-48f7-ac49-6112cf017027"
+    },
+    {
+      "word": "試す",
+      "reading": "ためす",
+      "meaningZh": "尝试",
+      "meaningEn": "to try",
+      "level": "n5n4",
+      "exampleSentence": "新しいレストランを試します。",
+      "id": "1ab088af-3e46-4fa8-938b-ec3750928110"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "秋の限定商品で、栗を使ったものは何ですか？",
+      "options": [
+        "かぼちゃのラテ",
+        "りんごのデニッシュ",
+        "モンブラン",
+        "さつまいものパン"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「栗で作った甘いケーキがあります。」と書いてあります。",
+      "id": "175936c3-e76a-494b-95ea-b7011cb9ea0c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-16-26f6e5544d",
+  "publishedAt": "2026-08-16T06:00:00+09:00"
+}

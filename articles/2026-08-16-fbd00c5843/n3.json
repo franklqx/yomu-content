@@ -1,0 +1,126 @@
+{
+  "title": "アニメ聖地巡礼で商店街が元気に！",
+  "summary": "アニメの舞台となった商店街が、ファンの「聖地巡礼」で活気を取り戻しています。地域活性化の成功例として注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くのアニメ作品で、実在する商店街が舞台になるケースが増えています。作品の人気が高まるにつれて、その場所を訪れる「聖地巡礼」をするファンも世界中から集まるようになりました。これにより、これまで静かだった商店街に多くの人が訪れ、活気が生まれています。",
+      "translationZh": "最近，越来越多的动画作品将实际存在的商店街作为故事背景。随着作品人气的提高，来自世界各地的粉丝前来“圣地巡礼”，探访故事发生地。因此，原本宁静的商店街迎来了大量游客，重现了活力。",
+      "translationEn": "Recently, there has been an increasing number of anime works set in real shopping streets. As the popularity of these works grows, fans come from all over the world for 'sacred site pilgrimages' to visit these locations. This has brought many people to previously quiet shopping streets, revitalizing them.",
+      "id": "230b5776-f8f7-4a0e-9b50-9701e12d8c3e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある商店街では、アニメに登場するお店のメニューを再現した商品を販売し始めました。すると、ファンがそれを目当てに訪れるようになり、お店だけではなく、周りの店も賑わうようになりました。地元の人々も、アニメを通じて自分たちの街に愛着を持つようになり、商店街を盛り上げようと協力しています。",
+      "translationZh": "例如，在某个商店街，开始销售再现了动画中登场店铺的菜单的商品。于是，粉丝们慕名而来，不仅是那家店，连周边的店铺也变得热闹起来。当地居民也通过动画对自己的街道产生了喜爱之情，并开始合作推动商店街的发展。",
+      "translationEn": "For example, in one shopping street, they started selling products that recreate menu items featured in an anime. Consequently, fans began visiting specifically for these items, bringing liveliness not only to that shop but also to surrounding businesses. Local residents have also developed a fondness for their town through anime and are collaborating to boost the shopping street's energy.",
+      "id": "91b9e7f0-a2ea-477b-b573-e7541bb215c6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、アニメをきっかけに地域が活性化される例は、全国各地で見られます。商店街側も、ファンが快適に過ごせるように、地図やガイドブックを作成したり、イベントを開催したりするなど、様々な工夫を凝らしています。これからも、アニメと地域が協力し合い、新しい魅力を生み出していくことが期待されます。",
+      "translationZh": "像这样，以动画为契机带动地区活化的例子，在全国各地都能看到。商店街方面也绞尽脑汁，例如制作地图和导览手册，或者举办活动，以便让粉丝们能舒适地游玩。今后，人们也期待动画和地区能够持续合作，共同创造新的魅力。",
+      "translationEn": "Examples like this, where communities are revitalized thanks to anime, can be seen across the country. Shopping streets are also making various efforts, such as creating maps and guidebooks or holding events, to ensure fans have a comfortable experience. It is expected that anime and local communities will continue to cooperate and create new attractions.",
+      "id": "b54ed2e4-0b21-4bec-89e0-65cc88204642",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "动漫、电影等的取景地，粉丝前往参观朝圣。",
+      "meaningEn": "Pilgrimage to a sacred site (locations featured in anime, movies, etc., that fans visit).",
+      "level": "n3",
+      "exampleSentence": "多くのファンがアニメの聖地巡礼に訪れています。",
+      "id": "726ba336-3fa7-4778-b1ce-aaf961725ebb"
+    },
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店聚集的街道。",
+      "meaningEn": "Shopping street; a street lined with shops.",
+      "level": "n5n4",
+      "exampleSentence": "この商店街は昔から有名です。",
+      "id": "42f98876-59c6-40e2-bc9a-d02352b41c5c"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "生气，活力。",
+      "meaningEn": "Vitality; liveliness; animation.",
+      "level": "n3",
+      "exampleSentence": "祭りの日、商店街は活気に満ちていた。",
+      "id": "e38f9b6b-fc21-44cb-ba5f-e48bbd367fa5"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "（故事的）背景，发生地。",
+      "meaningEn": "Setting (of a story); stage.",
+      "level": "n3",
+      "exampleSentence": "この小説の舞台は海辺の町です。",
+      "id": "e708875c-0b08-4100-8a5d-72df2dc5762f"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造性努力。",
+      "meaningEn": "Device; scheme; idea; effort.",
+      "level": "n3",
+      "exampleSentence": "どうすればもっと売れるか、工夫を凝らしましょう。",
+      "id": "cdf5668d-ee00-4461-b95a-4ebd66a280ff"
+    },
+    {
+      "word": "愛着",
+      "reading": "あいちゃく",
+      "meaningZh": "喜爱，依恋。",
+      "meaningEn": "Attachment; fondness; affection.",
+      "level": "n3",
+      "exampleSentence": "長年住んでいるこの家には愛着がある。",
+      "id": "ee805b5d-78f1-4389-9ce8-ef17a40950b9"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，兴旺。",
+      "meaningEn": "To be bustling with activity; to be crowded; to flourish.",
+      "level": "n3",
+      "exampleSentence": "週末は市場が大変賑わいます。",
+      "id": "6f40bf67-7f58-4123-8f6f-a4e6aecac88d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの聖地巡礼によって、商店街はどうなりましたか？",
+      "options": [
+        "ファンしか来なくなり、地元客が減った。",
+        "静かになった。",
+        "多くの人が訪れるようになり、活気が生まれた。",
+        "アニメグッズの店しかなくなった。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「作品の人気が高まるにつれて、その場所を訪れる「聖地巡礼」をするファンも世界中から集まるようになりました。これにより、これまで静かだった商店街に多くの人が訪れ、活気が生まれています。」",
+      "id": "44eacd7f-0eb3-486f-ad03-5d6d546bacb3"
+    },
+    {
+      "question": "商店街側は、ファンが快適に過ごせるように、どのようなことをしていますか？",
+      "options": [
+        "アニメの放送を中止させた。",
+        "地図やガイドブックの作成、イベントの開催など。",
+        "ファン以外の立ち入りを禁止した。",
+        "アニメの舞台になった場所をすべて取り壊した。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「商店街側も、ファンが快適に過ごせるように、地図やガイドブックを作成したり、イベントを開催したりするなど、様々な工夫を凝らしています。」",
+      "id": "3e2a6a7a-3ce9-49e3-a393-cb8b43526240"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-16-fbd00c5843",
+  "publishedAt": "2026-08-16T06:00:00+09:00"
+}

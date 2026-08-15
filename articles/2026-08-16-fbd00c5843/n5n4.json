@@ -1,0 +1,123 @@
+{
+  "title": "アニメの力で商店街が元気に！",
+  "summary": "ある商店街がアニメの舞台になりました。その結果、商店街はとても元気がでました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、この商店街はあまり人がいませんでした。お店も少なくなっていました。しかし、あるアニメがこの町を舞台にしました。それから、たくさんの人が町にきました。",
+      "translationZh": "以前，这条商店街人很少。店铺也渐渐变少。但是，有一部动画将这座小镇作为了故事的舞台。从那时起，很多人来到了这个小镇。",
+      "translationEn": "In the past, this shopping street didn't have many people. Shops were also decreasing. However, an anime set its story in this town. Since then, many people have come to the town.",
+      "id": "fba6601b-4860-478b-9428-88fc92d3e973",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメのファンが町を訪れました。彼らはアニメに出てきた場所を見たいと思いました。商店街はアニメの地図を作りました。地図を見て、ファンは喜んで町を歩きました。",
+      "translationZh": "动画的粉丝们来拜访了这个小镇。他们想看看动画中出现过的地方。商店街制作了动画地图。粉丝们看着地图，高兴地在小镇上散步。",
+      "translationEn": "Anime fans visited the town. They wanted to see the places that appeared in the anime. The shopping street made an anime map. Looking at the map, the fans happily walked around the town.",
+      "id": "c56b6e4a-f12c-4113-a4bf-0ba27127dce2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町はとてもにぎやかになりました。新しいお店もできました。商店街の人たちは、アニメのおかげでとても嬉しいです。これからも町をきれいにしたいと思っています。",
+      "translationZh": "小镇变得非常热闹。新的店铺也开业了。商店街的人们因为动画而感到非常高兴。他们今后也想把小镇打理得更好。",
+      "translationEn": "The town became very lively. New shops also opened. The people of the shopping street are very happy thanks to the anime. They want to keep the town beautiful in the future.",
+      "id": "2c613b69-009a-4ecf-a021-caa610f42301",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はきれいです。",
+      "id": "c4b41d2f-0553-4f86-a99b-3e6cb2ac2e24"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台；地点",
+      "meaningEn": "stage; setting",
+      "level": "n5n4",
+      "exampleSentence": "この町がアニメの舞台になりました。",
+      "id": "68d34772-9132-45d3-80cb-5d52cd3b2a5f"
+    },
+    {
+      "word": "元気に",
+      "reading": "げんきに",
+      "meaningZh": "充满活力地；健康地",
+      "meaningEn": "energetically; healthily",
+      "level": "n5n4",
+      "exampleSentence": "商店街が元気にになりました。",
+      "id": "18ef1a97-2fe3-4916-8d1b-99c2885c7fac"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前；过去",
+      "meaningEn": "in the past; old times",
+      "level": "n5n4",
+      "exampleSentence": "昔は人が少なかったです。",
+      "id": "8a1484cf-6348-40ed-93be-d45546509954"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "アニメのファンがたくさん来ました。",
+      "id": "d0f5c309-a273-4c7b-abf0-921999f33760"
+    },
+    {
+      "word": "地図",
+      "reading": "ちず",
+      "meaningZh": "地图",
+      "meaningEn": "map",
+      "level": "n5n4",
+      "exampleSentence": "アニメの地図を作りました。",
+      "id": "3ae1f2ee-6057-47d2-b57f-be8534415d11"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访；访问",
+      "meaningEn": "to visit",
+      "level": "n3",
+      "exampleSentence": "町を訪れました。",
+      "id": "d509c760-12cb-48ae-bc03-9b212ffe43fa"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹的",
+      "meaningEn": "lively; bustling",
+      "level": "n5n4",
+      "exampleSentence": "町はとてもにぎやかです。",
+      "id": "a08a6664-901c-45be-91d7-dcfa651768fa"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの舞台になった後、商店街はどうなりましたか？",
+      "options": [
+        "もっと人がいなくなりました。",
+        "新しいアニメが作られました。",
+        "町はとてもにぎやかになりました。",
+        "地図がなくなりました。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「アニメの力で商店街が元気に！」「町はとてもにぎやかになりました。」",
+      "id": "c2266adf-9096-4693-92d4-742bf7fe7e68"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-16-fbd00c5843",
+  "publishedAt": "2026-08-16T06:00:00+09:00"
+}
