@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町おこしに人気",
+  "summary": "アニメの舞台になった場所を訪れる「聖地巡礼」が人気です。この巡礼は、田舎の町を元気にしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、アニメの「聖地巡礼」がとても人気があります。聖地巡礼とは、アニメの物語の舞台になった場所をファンが訪れることです。日本のたくさんの町や村がアニメの舞台になっています。",
+      "translationZh": "最近，“圣地巡礼”非常受欢迎。圣地巡礼是指粉丝们拜访动画故事发生地的行为。日本的许多城镇和乡村都成为了动画的舞台。",
+      "translationEn": "Recently, anime 'seichi junrei' (pilgrimage to sacred sites) has become very popular. Seichi junrei means fans visit places that became settings for anime stories. Many towns and villages in Japan are settings for anime.",
+      "id": "2acfed30-fea0-4624-8826-7e0b70c9695d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメのファンは、その場所に行って、アニメと同じ景色を見たいと思っています。写真を撮ったり、お土産を買ったりします。この巡礼のおかげで、たくさんの人がその町を訪れるようになりました。",
+      "translationZh": "动画粉丝们希望去那个地方，看到和动画里一样的风景。他们拍照，买纪念品。多亏了这次巡礼，很多人开始访问那个城镇。",
+      "translationEn": "Anime fans want to go to those places and see the same scenery as in the anime. They take pictures and buy souvenirs. Thanks to this pilgrimage, many people have started visiting those towns.",
+      "id": "feea414b-4057-447a-a226-cb85e76d6914",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人々も、聖地巡礼を歓迎しています。お店やホテルがにぎやかになり、経済が良くなりました。アニメの力で、昔は静かだった町が元気になったのです。",
+      "translationZh": "镇上的人们也很欢迎圣地巡礼。商店和酒店变得热闹起来，经济也变好了。借助动画的力量，曾经安静的城镇变得充满活力。",
+      "translationEn": "People in the towns also welcome seichi junrei. Shops and hotels became lively, and the economy improved. With the power of anime, towns that were once quiet became energetic.",
+      "id": "4c941402-09c4-4488-8fe3-9e18ee25f91c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、もっと多くの町がアニメの舞台になり、元気になっていくでしょう。聖地巡礼は、アニメファンだけでなく、町にとっても良いことだと思います。",
+      "translationZh": "今后，应该会有更多的城镇成为动画的舞台，并因此变得充满活力。我认为圣地巡礼不仅对动画粉丝，对城镇来说也是件好事。",
+      "translationEn": "Going forward, more towns will likely become anime settings and become vibrant. I think seichi junrei is good not only for anime fans but also for the towns.",
+      "id": "372c55e4-153c-4cc6-b02e-d329827b362b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "圣地巡礼（动漫取景地拜访）",
+      "meaningEn": "pilgrimage to sacred sites (visiting anime filming locations)",
+      "level": "n5n4",
+      "exampleSentence": "アニメの聖地巡礼は楽しいです。",
+      "id": "3746c501-f55b-4858-9c8b-e36f67b6bca8"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，场所",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "この町はアニメの舞台になりました。",
+      "id": "7b2b65d2-eb5d-4f1f-8515-d390673a53c2"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访，访问",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "多くのファンがその場所を訪れます。",
+      "id": "f0d551b8-a1ea-4504-a84e-35988ac30ac1"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "きれいな景色を見ました。",
+      "id": "18f82512-69fd-4bc5-8087-d5e9f71c48b0"
+    },
+    {
+      "word": "お土産",
+      "reading": "おみやげ",
+      "meaningZh": "纪念品，土特产",
+      "meaningEn": "souvenir",
+      "level": "n5n4",
+      "exampleSentence": "友達にお土産を買いました。",
+      "id": "d819911f-8c39-4fb1-87e8-b14c242124d1"
+    },
+    {
+      "word": "経済",
+      "reading": "けいざい",
+      "meaningZh": "经济",
+      "meaningEn": "economy",
+      "level": "n3",
+      "exampleSentence": "この巡礼は地域の経済を助けます。",
+      "id": "67af3bee-e3e5-452f-9e63-6750632d44af"
+    },
+    {
+      "word": "歓迎する",
+      "reading": "かんげいする",
+      "meaningZh": "欢迎",
+      "meaningEn": "to welcome",
+      "level": "n3",
+      "exampleSentence": "町の人たちはファンを歓迎しています。",
+      "id": "29e52dca-072a-481f-99c1-cb2a37dd7df2"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "活力，精神",
+      "meaningEn": "energy, vitality",
+      "level": "n5n4",
+      "exampleSentence": "町が元気になりました。",
+      "id": "eab4d467-b60d-484a-bc44-0eb72375761a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの「聖地巡礼」とは、どのようなことですか？",
+      "options": [
+        "アニメの新しい場所を探すこと",
+        "アニメの舞台になった場所をファンが訪れること",
+        "アニメのキャラクターに会うこと",
+        "アニメの地図を作ること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「聖地巡礼とは、アニメの物語の舞台になった場所をファンが訪れることです。」と書かれています。",
+      "id": "e9eeff56-db99-4ecf-98ab-740b56e395d5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-17-220265558d",
+  "publishedAt": "2026-08-17T06:00:00+09:00"
+}

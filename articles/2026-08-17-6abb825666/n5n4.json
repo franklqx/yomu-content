@@ -1,0 +1,122 @@
+{
+  "title": "新しい文房具！",
+  "summary": "新しい学期が始まります。新しい文房具を準備しましょう。どんな文房具が人気ですか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ春です。学校は新しい学期が始まります。子供たちは新しい学校生活を楽しみにしています。だから、新しい文房具を買う人も多いです。",
+      "translationZh": "春天快到了。学校将迎来新学期。孩子们对新的学校生活充满期待。因此，很多人会购买新的文具。",
+      "translationEn": "Spring is coming soon. A new school term will begin. Children are looking forward to their new school life. So, many people buy new stationery.",
+      "id": "e26c80cb-2d39-40f6-bf4b-7525a3a93585",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の文房具は、かわいいキャラクターがたくさんあります。動物やアニメのキャラクターが人気です。色も明るくて、見ているだけで楽しくなります。",
+      "translationZh": "今年的文具有很多可爱的卡通形象。动物和动画角色很受欢迎。颜色也很鲜艳，光是看着就让人感到开心。",
+      "translationEn": "This year's stationery features many cute characters. Animals and anime characters are popular. The colors are also bright, making you happy just by looking at them.",
+      "id": "a911abff-3d0e-4bef-872f-23e9353af034",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、使いやすい工夫がされた文房具も人気です。例えば、鉛筆は持ちやすい形になっています。消しゴムもきれいに消せます。勉強がもっと好きになるでしょう。",
+      "translationZh": "此外，设计方便使用的文具也很受欢迎。例如，铅笔的形状更容易握持。橡皮擦也能擦得很干净。学习可能会变得更受欢迎。",
+      "translationEn": "Also, stationery designed for ease of use is popular. For example, pencils have a shape that is easy to hold. Erasers can also erase cleanly. Studying will probably become more enjoyable.",
+      "id": "632407f8-d8ac-4b1e-b7e7-8e261d027e6b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい文房具は、勉強のやる気をあげてくれます。お気に入りの文房具を見つけて、新しい学期を楽しく始めましょう。",
+      "translationZh": "新的文具能提高学习的积极性。找到你喜欢的文具，愉快地开始新学期吧。",
+      "translationEn": "New stationery can boost your motivation for studying. Find your favorite stationery and start the new school term happily.",
+      "id": "2563ba7c-53d6-444e-9c1c-f9c987566ff7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaningZh": "学期",
+      "meaningEn": "school term",
+      "level": "n5n4",
+      "exampleSentence": "二学期が始まります。",
+      "id": "b04cf29a-341e-4595-88c3-d576adc72dac"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いに行きました。",
+      "id": "7f980d64-3b9e-4c0b-b338-1aa5913aac9e"
+    },
+    {
+      "word": "鉛筆",
+      "reading": "えんぴつ",
+      "meaningZh": "铅笔",
+      "meaningEn": "pencil",
+      "level": "n5n4",
+      "exampleSentence": "鉛筆でノートに書きました。",
+      "id": "88c9c5c9-8b67-409e-9291-0168e2f00740"
+    },
+    {
+      "word": "消しゴム",
+      "reading": "けしゴム",
+      "meaningZh": "橡皮擦",
+      "meaningEn": "eraser",
+      "level": "n5n4",
+      "exampleSentence": "間違えたので消しゴムで消しました。",
+      "id": "606b2910-bcf4-4e87-b09a-55c296275b07"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "きゃらくたー",
+      "meaningZh": "角色（卡通人物等）",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このキャラクターが好きです。",
+      "id": "5e3cd0d8-b7b6-4fac-a31f-5b043ab026ee"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法；办法；改进",
+      "meaningEn": "idea; device; effort",
+      "level": "n3",
+      "exampleSentence": "使いやすいように工夫しました。",
+      "id": "a9e9ba2a-9b75-4f15-961c-7ea6185b2008"
+    },
+    {
+      "word": "やる気",
+      "reading": "やるき",
+      "meaningZh": "干劲；积极性",
+      "meaningEn": "motivation",
+      "level": "n3",
+      "exampleSentence": "やる気が出ない時があります。",
+      "id": "adac88bf-aae9-4874-8b70-40db44915d41"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の人気な文房具はどんなものですか？",
+      "options": [
+        "高いもの",
+        "大人っぽいデザイン",
+        "かわいいキャラクター",
+        "古いデザイン"
+      ],
+      "correctIndex": 2,
+      "explanation": "今年の文房具は、かわいいキャラクターがたくさんあります。",
+      "id": "89e3dab5-0b7f-40e0-837c-2863070de710"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-17-6abb825666",
+  "publishedAt": "2026-08-17T06:00:00+09:00"
+}

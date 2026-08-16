@@ -1,0 +1,144 @@
+{
+  "title": "回転寿司の値上げ、客はどう変わった？",
+  "summary": "最近、多くの回転寿司チェーンで価格が上がっています。この値上げは、私たちのお寿司の楽しみ方にどんな影響を与えているのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、皆さんがよく行く回転寿司チェーンで、お皿の値段が上がったと感じることはありませんか。材料費の高騰などの影響で、多くの店が価格の改定を行っているようです。以前は100円（税抜）で食べられたお皿も、今では120円や150円になっていることが珍しくありません。",
+      "translationZh": "最近，大家常去的旋转寿司连锁店，是不是觉得盘子价格上涨了？受原材料成本上涨等影响，许多店家似乎都进行了价格调整。以前100日元（不含税）就能吃到的盘子，现在变成120日元或150日元已不奇怪。",
+      "translationEn": "Recently, have you felt that the prices of plates have gone up at the conveyor belt sushi chains you often visit? Due to factors like rising material costs, many shops seem to have revised their prices. Plates that used to cost 100 yen (before tax) are now often priced at 120 or 150 yen.",
+      "id": "2aad4529-30be-4f36-8db1-9bd324673c4e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "価格が上がったことで、これまでのように気軽に、たくさんの種類のお寿司を注文するのをためらう人もいるかもしれません。例えば、以前なら「とりあえず何皿か頼んでみよう」と考えていた人も、今は「本当に食べたいものだけを選んで頼もう」と考えるようになったのではないでしょうか。その結果、お店の客足にも変化が見られることがあります。",
+      "translationZh": "价格上涨后，可能有些人会犹豫是否像以前那样随意地点很多种类的寿司。例如，以前可能想着“先随便点几盘看看”的人，现在是不是会考虑“还是只点真正想吃的东西吧”。结果，店里的客流量也可能出现变化。",
+      "translationEn": "With the price increase, some people might hesitate to casually order many types of sushi as they used to. For instance, people who previously thought, 'Let's just order a few plates to start,' might now be thinking, 'I should only order what I really want to eat.' As a result, changes in customer traffic can sometimes be observed.",
+      "id": "bc71171a-1657-43db-805a-0fd9c7a218cb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、回転寿司チェーンは、味やネタの種類の豊富さ、そして手軽さという魅力を持っているため、値上げ後も多くの人が訪れています。特に、家族連れや若い世代にとっては、依然として外食の選択肢として人気が高いです。店側も、ただ値上げするだけでなく、新しいメニューを開発したり、サービスの質を向上させたりすることで、お客さんの満足度を維持しようと努力しています。",
+      "translationZh": "另一方面，旋转寿司连锁店因其美味、丰富的食材种类和便捷性而具有吸引力，因此即使在涨价后仍有许多人光顾。特别是对于家庭顾客和年轻一代来说，它仍然是外出就餐的热门选择。店家也并非只是涨价，而是通过开发新菜单、提高服务质量等方式，努力维持顾客的满意度。",
+      "EnTranslation": "On the other hand, conveyor belt sushi chains retain their appeal of good taste, a wide variety of toppings, and convenience, attracting many customers even after price increases. They remain a popular dining-out option, especially for families and younger generations. The businesses are also striving to maintain customer satisfaction not just by raising prices, but by developing new menu items and improving service quality.",
+      "id": "9537d207-19ae-4601-99c7-24bd98c2b0a7",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    },
+    {
+      "text": "このように、回転寿司の値上げは、私たちのお財布事情やお店選びの基準に影響を与えているかもしれませんが、その魅力が失われたわけではありません。今後、お店がどのように工夫を凝らし、私たちがどのように回転寿司を楽しむかが、さらに注目されるでしょう。",
+      "translationZh": "像这样，旋转寿司的价格上涨，或许影响了我们的钱包和选店标准，但其魅力并未消失。今后，店家将如何绞尽脑汁，以及我们将如何享受旋转寿司，将更加受到关注。",
+      "translationEn": "In this way, the price increases at conveyor belt sushi restaurants may be affecting our budgets and criteria for choosing where to eat, but their appeal has not disappeared. How restaurants will innovate and how we will enjoy conveyor belt sushi in the future will likely be further observed.",
+      "id": "761f2f0c-00bb-4bf1-b8e4-217c50a4c556",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n3",
+      "exampleSentence": "商品の値上げは避けられない状況です。",
+      "id": "234a1b20-79a5-443a-8e14-c7886ca94f55"
+    },
+    {
+      "word": "客足",
+      "reading": "きゃくあし",
+      "meaningZh": "顾客流量，客流量",
+      "meaningEn": "customer traffic, flow of customers",
+      "level": "n3",
+      "exampleSentence": "イベントの日は、駅前の客足がとても多くなります。",
+      "id": "2c2e3f29-c92b-4de5-847d-61129bc12197"
+    },
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "（价格）飞涨，猛涨",
+      "meaningEn": "soaring (prices), sharp rise",
+      "level": "n2n1",
+      "exampleSentence": "最近、小麦粉の価格が高騰しています。",
+      "id": "179a64d3-5702-4d6b-9e18-4efaef6d348f"
+    },
+    {
+      "word": "改定",
+      "reading": "かいてい",
+      "meaningZh": "修订，修改（价格、规定等）",
+      "meaningEn": "revision, amendment (of prices, regulations, etc.)",
+      "level": "n3",
+      "exampleSentence": "来月から、運賃が改定されます。",
+      "id": "10e74699-c44a-49aa-b0dd-1d93018479da"
+    },
+    {
+      "word": "ためらう",
+      "reading": "ためらう",
+      "meaningZh": "犹豫，踌躇",
+      "meaningEn": "to hesitate",
+      "level": "n3",
+      "exampleSentence": "返事をすぐにするのをためらってしまった。",
+      "id": "076bc5f1-8927-4960-964c-016bda1fa0ab"
+    },
+    {
+      "word": "ネタ",
+      "reading": "ネタ",
+      "meaningZh": "（寿司的）配料，食材",
+      "meaningEn": "topping, ingredient (for sushi)",
+      "level": "n3",
+      "exampleSentence": "この寿司屋はネタが新鮮で美味しい。",
+      "id": "f96504fe-4c41-45ba-add7-95c7ed0aca58"
+    },
+    {
+      "word": "手軽さ",
+      "reading": "てがるさ",
+      "meaningZh": "方便，轻易，简单",
+      "meaningEn": "ease, simplicity, convenience",
+      "level": "n3",
+      "exampleSentence": "この調理器具は手軽さで人気がある。",
+      "id": "45205efe-dc91-411a-9087-94af3d005d37"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "创造，设法，巧妙办法",
+      "meaningEn": "ingenuity, device, effort, measure",
+      "level": "n3",
+      "exampleSentence": "問題解決のために、いろいろな工夫をしました。",
+      "id": "519be9bd-8a0d-4dc8-a9cd-8042782885be"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司チェーンの値上げの主な理由は何ですか？",
+      "options": [
+        "新しい店舗を増やすため",
+        "材料費の高騰などの影響",
+        "新しいメニューを開発するため",
+        "従業員の給料を上げるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「材料費の高騰などの影響で、多くの店が価格の改定を行っているようです。」と述べられています。",
+      "id": "6cc59685-fd8f-4fd3-a696-5c00f92d2c0a"
+    },
+    {
+      "question": "値上げ後、お客さんの回転寿司に対する考え方にどのような変化が見られることがありますか？",
+      "options": [
+        "もっとたくさんの種類を注文するようになった",
+        "以前のように何も考えずに注文するようになった",
+        "本当に食べたいものだけを選ぶようになった",
+        "回転寿司に行かなくなった"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「『とりあえず何皿か頼んでみよう』と考えていた人も、今は『本当に食べたいものだけを選んで頼もう』と考えるようになったのではないでしょうか。」と書かれています。",
+      "id": "629cb5c6-bd4d-4e8c-8f30-aeb0b81eef09"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-17-e84a2b4f5e",
+  "publishedAt": "2026-08-17T06:00:00+09:00"
+}

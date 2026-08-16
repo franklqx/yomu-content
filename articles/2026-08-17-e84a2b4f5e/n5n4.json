@@ -1,0 +1,122 @@
+{
+  "title": "お寿司の値上げ、どう思う？",
+  "summary": "最近、回転寿司（かいてんずし）の値段が上がりました。お客さんはどう感じているのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気（にんき）の回転寿司（かいてんずし）チェーンで、お寿司の値段が上がりました。たくさんの人がお寿司が好きですから、これはちょっと残念（ざんねん）です。前より少し高くなりました。",
+      "translationZh": "最近，受欢迎的回转寿司连锁店，寿司的价格上涨了。因为很多人喜欢吃寿司，这有点令人遗憾。比以前稍微变贵了。",
+      "translationEn": "Recently, popular conveyor belt sushi chains have raised their prices. Since many people like sushi, this is a bit disappointing. It has become a little more expensive than before.",
+      "id": "3c11c7ed-d27b-45b0-8168-a444061a059f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がると、お客さんの数（かず）も変わるかもしれません。前は毎日（まいにち）たくさんの人が来ていましたが、これからは少し減る（へる）かもしれませんね。でも、お寿司はおいしいので、また来てくれる人もいるでしょう。",
+      "translationZh": "价格上涨的话，顾客的数量也可能会改变。以前每天都有很多人来，但今后可能会减少一些吧。不过，因为寿司很好吃，应该还是会有人再来的。",
+      "translationEn": "When prices go up, the number of customers might change. Before, many people came every day, but now, it might decrease a little. However, since sushi is delicious, some people will probably come again.",
+      "id": "1f9134a3-d746-45a0-b923-2eb39327bb19",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店の人（ひと）も、工夫（くふう）をしています。新しいメニューを出したり、特別な（とくべつな）キャンペーンをしたりしています。お客さんにもっと楽しんでもらうために、がんばっています。",
+      "translationZh": "店里的人也在想办法。他们推出了新菜单，或者举办特别的活动。他们努力让顾客更加开心。",
+      "translationEn": "The people at the restaurant are also making efforts. They are introducing new menus and holding special campaigns. They are working hard to make customers enjoy themselves more.",
+      "id": "2f4355b7-0b7e-4a1f-9a54-14eb9b844ee3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、お寿司はみんなに愛される（あいされる）食べ物（たべもの）だと思います。値段は変わっても、おいしいお寿司が食べられるといいですね。",
+      "translationZh": "我认为，今后寿司也会是大家喜爱的食物。即使价格变了，能吃到美味的寿司就好了。",
+      "translationEn": "I think sushi will continue to be a beloved food for everyone. Even if the prices change, it would be good to be able to eat delicious sushi.",
+      "id": "7d27afe1-c0cd-4248-b39a-55c81477dc46",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "週末は回転寿司に行きました。",
+      "id": "95c0f0de-bacd-408e-a27c-eea6e05e9ea5"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "78d2e9cf-94ea-4008-a74f-c1828bee9ed9"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾，可惜",
+      "meaningEn": "disappointment, regret",
+      "level": "n5n4",
+      "exampleSentence": "試験に合格できなくて残念です。",
+      "id": "e46598c1-b030-41ad-9f67-65c0855930c3"
+    },
+    {
+      "word": "数",
+      "reading": "かず",
+      "meaningZh": "数量",
+      "meaningEn": "number, count",
+      "level": "n5n4",
+      "exampleSentence": "このクラスの学生の数は多いです。",
+      "id": "d73d551a-55b4-425d-a0db-8661e7a8bbed"
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "meaningZh": "减少",
+      "meaningEn": "to decrease, to reduce",
+      "level": "n5n4",
+      "exampleSentence": "貯金（ちょきん）が減ってしまいました。",
+      "id": "1f57f2db-109f-4a0c-90b1-f827979911cc"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，技巧",
+      "meaningEn": "device, scheme, invention, ingenuity",
+      "level": "n3",
+      "exampleSentence": "この問題を解決するために、色々な工夫をしました。",
+      "id": "e7ecd36b-8d54-4e96-baad-674977261112"
+    },
+    {
+      "word": "愛される",
+      "reading": "あいされる",
+      "meaningZh": "被喜爱",
+      "meaningEn": "to be loved, to be popular",
+      "level": "n5n4",
+      "exampleSentence": "子供（こども）はみんなに愛されるべきです。",
+      "id": "a11ea427-3870-44fd-b860-273fc9f407d5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "お寿司の値段が上がって、お客さんの数はどうなるかもしれませんか？",
+      "options": [
+        "増えるかもしれません。",
+        "減るかもしれません。",
+        "全く変わらないでしょう。",
+        "もっと安くなるでしょう。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「値段が上がると、お客さんの数（かず）も変わるかもしれません。前は毎日（まいにち）たくさんの人が来ていましたが、これからは少し減る（へる）かもしれませんね。」",
+      "id": "6a5f929d-346a-4ee1-831e-e5bdab664d6b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-17-e84a2b4f5e",
+  "publishedAt": "2026-08-17T06:00:00+09:00"
+}
