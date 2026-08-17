@@ -1,0 +1,122 @@
+{
+  "title": "お寿司の値上げ、どう思う？",
+  "summary": "最近、回転寿司の値段が上がりました。お客さんはどう感じているでしょうか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、回転寿司の値段が上がりました。前は一皿100円で食べられました。でも、今は120円や150円になりました。おいしいお寿司は人気がありますが、値段が上がると少し残念ですね。",
+      "translationZh": "最近，回转寿司的价格上涨了。以前一盘100日元就能吃到。但是，现在变成了120日元或150日元。美味的寿司很受欢迎，但是价格上涨的话会有点遗憾呢。",
+      "translationEn": "Recently, the prices at conveyor belt sushi restaurants have gone up. Before, you could eat for 100 yen per plate. But now, it has become 120 or 150 yen. Delicious sushi is popular, but it's a bit disappointing when the prices increase.",
+      "id": "9cc1bf3d-f86a-4667-9fe9-337ce9d288a4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったので、お店に来る人が少し減ったかもしれません。前はいつも混んでいましたが、今は少し空いている時もあります。それでも、お寿司が好きな人はまだたくさんいます。家族や友達と、おいしいお寿司を食べるのは楽しい時間です。",
+      "translationZh": "因为价格上涨了，来店里的人可能减少了一些。以前总是很拥挤，但是现在也有一些时候会有点空。尽管如此，喜欢寿司的人还是很多。和家人、朋友一起吃美味的寿司是快乐的时光。",
+      "translationEn": "Because the prices have gone up, the number of people coming to the restaurants might have decreased a little. It used to be always crowded, but now there are times when it's a bit empty. Still, there are many people who love sushi. Eating delicious sushi with family and friends is a happy time.",
+      "id": "f1387eb6-0fb1-4919-9a71-7d71ee86a5ee",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店の人は「材料費が上がったので、値段を上げました」と言っていました。魚や野菜など、色々なものの値段が上がっています。これからも、おいしいお寿司をみんなに食べてもらうために、努力を続けるそうです。",
+      "translationZh": "店里的人说“因为材料费上涨了，所以提高了价格”。鱼、蔬菜等各种东西的价格都在上涨。据说今后也会继续努力，让大家都能吃到美味的寿司。",
+      "translationEn": "The restaurant staff said, 'We raised prices because material costs have gone up.' The prices of fish, vegetables, and many other things are increasing. They say they will continue to work hard so that everyone can eat delicious sushi in the future.",
+      "id": "75902537-f923-414a-ab1f-8aaf0a2a8c10",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段は上がりましたが、お寿司はやっぱりおいしいです。これからも、お寿司を楽しみたいですね。皆さんは、お寿司の値上げについてどう思いますか？",
+      "translationZh": "虽然价格上涨了，但寿司果然还是很好吃。今后也想继续享受寿司。大家对寿司涨价有什么看法呢？",
+      "translationEn": "Although the prices have risen, sushi is still delicious. I want to continue enjoying sushi from now on. What do you all think about the price increase for sushi?",
+      "id": "e10cbde9-7906-47da-b816-48c42af366d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "週末は回転寿司に行きました。",
+      "id": "dc9556f9-0f66-44f6-9d16-6605bcef41dd"
+    },
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n5n4",
+      "exampleSentence": "コーヒーの値上げは困ります。",
+      "id": "00a74d48-b7b2-4ad0-be7b-52cff780ad4a"
+    },
+    {
+      "word": "客足",
+      "reading": "きゃくあし",
+      "meaningZh": "客流量，顾客的到来",
+      "meaningEn": "customer traffic",
+      "level": "n3",
+      "exampleSentence": "雨のせいで客足が減った。",
+      "id": "6b790a9e-952a-47e1-ba8e-67f4fe400ebe"
+    },
+    {
+      "word": "材料費",
+      "reading": "ざいりょうひ",
+      "meaningZh": "材料费",
+      "meaningEn": "material costs",
+      "level": "n3",
+      "exampleSentence": "材料費が高くなりました。",
+      "id": "e6874a95-6559-4588-b219-1aa21576cd95"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾，可惜",
+      "meaningEn": "regrettable, disappointing",
+      "level": "n5n4",
+      "exampleSentence": "試合に負けて残念でした。",
+      "id": "07ebb8a3-ac50-4837-b633-b1056bbc1b8c"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤，繁忙",
+      "meaningEn": "to be crowded, to be busy",
+      "level": "n5n4",
+      "exampleSentence": "お祭りの日は道が混みます。",
+      "id": "9bb6e035-3fb3-4718-a4f5-689c19d3d8df"
+    },
+    {
+      "word": "努力",
+      "reading": "どりょく",
+      "meaningZh": "努力",
+      "meaningEn": "effort, exertion",
+      "level": "n3",
+      "exampleSentence": "合格するために努力します。",
+      "id": "02d787d2-373d-4fdb-861f-dd5fe478c24a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司の値段が上がった主な理由は何ですか？",
+      "options": [
+        "お客さんが減ったから",
+        "新しいネタが増えたから",
+        "材料費が上がったから",
+        "お店が新しくなったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「材料費が上がったので、値段を上げました」と書いてあります。",
+      "id": "8772ae37-422e-449c-b3b0-4a2853fd8b05"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-18-e84a2b4f5e",
+  "publishedAt": "2026-08-18T06:00:00+09:00"
+}

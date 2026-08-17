@@ -1,0 +1,138 @@
+{
+  "title": "回転寿司、値上げの波　客足への影響は",
+  "summary": "近年、人件費や原材料費の高騰を受け、回転寿司チェーン各社が相次いで価格改定を行っています。この値上げが、利用者の消費行動や回転寿司業界全体にどのような影響を与えるのか、注目が集まっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、国内外の経済状況の変動に伴い、多くの外食産業が価格戦略の見直しを迫られております。特に、回転寿司業界においては、新鮮なネタの仕入れコストや、調理・接客に関わる人件費の上昇が顕著であり、一部の主要チェーン店では、過去数年で複数回の価格改定が実施されているとのことです。これにより、従来「安価で手軽に楽しめる」というイメージが強かった回転寿司の価格帯にも変化が見られ、利用者からは戸惑いの声も聞かれます。",
+      "translationZh": "近年来，随着国内外经济形势的波动，许多餐饮业被迫重新审视其价格策略。特别是在回转寿司行业，新鲜食材的采购成本以及烹饪和服务的相关人力成本上涨明显，据报道，一些主要连锁店在过去几年中已进行过多次价格调整。这导致了曾经被认为是“便宜且易于享受”的回转寿司价格区间也发生了变化，一些顾客也表达了困惑的声音。",
+      "translationEn": "In recent years, many businesses in the food service industry have been forced to reconsider their pricing strategies due to fluctuations in the domestic and international economic climate. In particular, the revolving sushi industry has seen a marked increase in the cost of procuring fresh ingredients and labor costs related to preparation and service. It is reported that some major chain stores have implemented multiple price revisions in recent years. This has led to changes in the price range of revolving sushi, which was traditionally perceived as 'inexpensive and easily enjoyable,' and some customers have expressed bewilderment.",
+      "id": "625ef7ef-9fcf-4e0d-8656-bfe075c463e7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした値上げの動きは、当然ながら客足にも影響を与えるものと見られます。これまで価格を重視して回転寿司店を選んでいた層にとっては、他の飲食店との比較検討がより重要になる可能性があります。一方で、品質やブランドイメージを重視する顧客層は、多少の価格上昇であれば引き続き利用を続けると予想されます。各社は、価格帯の異なるメニューを導入したり、アプリ会員限定の割引サービスを拡充したりするなど、多様化する顧客ニーズに対応するための施策を講じ始めています。",
+      "translationZh": "这种涨价趋势预计将对客流量产生影响。对于那些过去主要根据价格选择回转寿司店的顾客来说，与其他餐饮店进行比较研究可能会变得更加重要。另一方面，那些重视品质和品牌形象的顾客群体，即使价格略有上涨，预计也会继续光顾。各公司已开始采取措施以应对日益多样化的顾客需求，例如推出不同价格区间的菜单，以及扩大针对应用程序会员的折扣服务。",
+      "translationEn": "These price increases are naturally expected to affect customer traffic. For customers who previously chose revolving sushi restaurants based primarily on price, comparative consideration with other dining establishments may become more important. On the other hand, customer segments that prioritize quality and brand image are expected to continue patronizing these establishments, even with a slight increase in prices. Companies have begun to implement measures to cater to diversifying customer needs, such as introducing menu items with different price points and expanding discount services exclusive to app members.",
+      "id": "95d26e57-776f-4ad0-b9fb-24769066e683",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "回転寿司業界全体としては、今回の価格改定を機に、単なる安価な外食という枠を超え、より付加価値の高い食体験を提供していくことが求められるでしょう。高級ネタの導入や、店舗の雰囲気づくり、さらにはテイクアウトやデリバリーサービスの強化など、様々な角度からのサービス向上が、今後の競争力を左右すると考えられます。消費者の賢い選択眼が、業界のさらなる発展を促す可能性も秘めています。",
+      "translationZh": "从整个回转寿司行业来看，借此次价格调整之机，行业将被要求超越仅仅是廉价外食的定位，提供更具附加值的餐饮体验。引入高档食材、营造店铺氛围，以及加强外卖和送货服务等，从各个角度提升服务水平，将决定未来的竞争力。消费者明智的消费选择，也蕴藏着促进该行业进一步发展的可能性。",
+      "translationEn": "For the revolving sushi industry as a whole, this price revision presents an opportunity to move beyond the simple perception of inexpensive dining out and to offer a more value-added culinary experience. Improvements in service from various perspectives, such as the introduction of premium ingredients, enhancing the restaurant atmosphere, and strengthening takeout and delivery services, are considered crucial for future competitiveness. Consumers' discerning choices also hold the potential to drive further development within the industry.",
+      "id": "bea775bb-e6d5-4acb-9b9a-ccaeb6321676",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "（价格、物价等）飞涨，猛涨",
+      "meaningEn": "soaring, sharp rise (prices, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "原材料費の高騰により、商品の値上げはやむを得ない状況だ。",
+      "id": "03765e7c-9bd6-42c0-8842-b5542557a775"
+    },
+    {
+      "word": "相次ぐ",
+      "reading": "あいかわらず",
+      "meaningZh": "接连，接二连三",
+      "meaningEn": "one after another, successively",
+      "level": "n3",
+      "exampleSentence": "近年、自然災害が相次いで発生している。",
+      "id": "90a2c845-435f-4e3d-a86c-1a47138ec1d0"
+    },
+    {
+      "word": "客足",
+      "reading": "あし",
+      "meaningZh": "顾客流量，顾客往来",
+      "meaningEn": "customer traffic, flow of customers",
+      "level": "n2n1",
+      "exampleSentence": "セール初日は多くの客足が見込まれた。",
+      "id": "f811113f-90d5-40ed-9b7b-acc5095f2020"
+    },
+    {
+      "word": "戸惑い",
+      "reading": "とまどい",
+      "meaningZh": "困惑，迷茫",
+      "meaningEn": "confusion, bewilderment",
+      "level": "n3",
+      "exampleSentence": "突然の発表に、社員たちは戸惑いを隠せなかった。",
+      "id": "74b21ce7-5dc2-4bee-ab22-46292c210ede"
+    },
+    {
+      "word": "顕著",
+      "reading": "けんちょ",
+      "meaningZh": "显著，明显",
+      "meaningEn": "remarkable, noticeable, prominent",
+      "level": "n2n1",
+      "exampleSentence": "経済成長の鈍化が顕著になってきた。",
+      "id": "202a8407-afa0-471d-9488-f26a5207e5a3"
+    },
+    {
+      "word": "講じる",
+      "reading": "こうじる",
+      "meaningZh": "采取（措施），制定（计划）",
+      "meaningEn": "to take (measures), to adopt (a plan)",
+      "level": "n2n1",
+      "exampleSentence": "問題解決のために、早急に対策を講じる必要がある。",
+      "id": "ad1346f9-de5f-4561-b99d-6eb63bba0dd6"
+    },
+    {
+      "word": "付加価値",
+      "reading": "ふかかち",
+      "meaningZh": "附加值",
+      "meaningEn": "added value",
+      "level": "n2n1",
+      "exampleSentence": "この新サービスは、顧客に高い付加価値を提供するだろう。",
+      "id": "ac655f44-a5a9-482f-9e66-c233958804d9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "近年、回転寿司業界で価格改定が相次いでいる主な理由は何ですか。",
+      "options": [
+        "消費者の嗜好の変化",
+        "競合他社の価格戦略",
+        "原材料費や人件費の高騰",
+        "政府による価格統制"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段には「新鮮なネタの仕入れコストや、調理・接客に関わる人件費の上昇が顕著であり、一部の主要チェーン店では、過去数年で複数回の価格改定が実施されているとのことです。」と記載されています。",
+      "id": "64f2f71d-7a9b-462f-90aa-965d262d26fb"
+    },
+    {
+      "question": "価格改定は、回転寿司店の客足にどのような影響を与えると見られていますか。",
+      "options": [
+        "客足はほとんど変わらないと予想される",
+        "価格重視の顧客層は他の飲食店と比較検討する可能性があり、影響が出る可能性がある",
+        "品質重視の顧客層は離れていく一方である",
+        "値上げにより、むしろ客足が増加すると考えられる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段には「こうした値上げの動きは、当然ながら客足にも影響を与えるものと見られます。これまで価格を重視して回転寿司店を選んでいた層にとっては、他の飲食店との比較検討がより重要になる可能性があります。」と述べられています。",
+      "id": "313b18b0-9cb3-4741-a2ea-a757172ba167"
+    },
+    {
+      "question": "回転寿司業界が今後、競争力を維持・向上させるために求められることは何ですか。",
+      "options": [
+        "ひたすら価格を下げる努力",
+        "メニューの数を減らすこと",
+        "単なる安価な外食という枠を超えた、付加価値の高い食体験の提供",
+        "海外からの観光客の誘致に特化すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「回転寿司業界全体としては、今回の価格改定を機に、単なる安価な外食という枠を超え、より付加価値の高い食体験を提供していくことが求められるでしょう。」とあります。",
+      "id": "4516fb3a-a2c0-4636-b8b9-0039a14da822"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-18-e84a2b4f5e",
+  "publishedAt": "2026-08-18T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町おこしに効果あり？",
+  "summary": "人気アニメの舞台になった町を訪れる「聖地巡礼」が、地方の経済を元気にする動きがあります。多くの人が町を訪れ、買い物をしたり、泊まったりしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、アニメの「聖地巡礼」が話題です。聖地巡礼とは、アニメの物語の舞台になった場所をファンが訪れることです。日本のいろいろな町が、アニメの聖地になっています。",
+      "translationZh": "最近，动画的“圣地巡礼”成为了热门话题。圣地巡礼是指，动画故事的舞台地点被粉丝们所拜访。日本的许多城镇都成为了动画的圣地。",
+      "translationEn": "Recently, anime 'sacred site pilgrimage' is a hot topic. Sacred site pilgrimage means fans visit the places that became the setting of anime stories. Various towns in Japan are becoming anime sacred sites.",
+      "id": "d818964b-83dc-4163-8ac5-8aadbbf13759",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "聖地巡礼は、その町にとって良い影響があります。たくさんの人が町に来ると、お店で買い物をしたり、レストランで食事をしたりします。また、ホテルや旅館に泊まる人も増えます。",
+      "translationZh": "圣地巡礼对那个城镇有好的影响。当很多人来到城镇时，他们会在商店购物，在餐馆吃饭。此外，住酒店或旅馆的人也会增加。",
+      "translationEn": "Sacred site pilgrimage has a good effect on the town. When many people come to town, they shop at stores and eat at restaurants. Also, more people stay at hotels and inns.",
+      "id": "acb7f2a1-f47c-492f-8d39-59aeab77052a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある小さな町では、アニメがきっかけで観光客がとても増えました。町のお土産屋さんは、アニメのキャラクターグッズを売るようになりました。その結果、町の経済が少しずつ元気になりました。",
+      "translationZh": "例如，在一个小城镇，因为动画的契机，游客大大增加了。镇上的纪念品商店开始销售动画角色周边商品。结果，城镇的经济一点一点地活跃起来了。",
+      "translationEn": "For example, in a certain small town, tourists increased a lot due to an anime. The town's souvenir shops started selling anime character goods. As a result, the town's economy gradually became more vibrant.",
+      "id": "73702157-1561-41c2-96a6-4f9525a23dd0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、聖地巡礼がすべて良いことばかりではありません。町がとても混雑したり、ゴミの問題が起きたりすることもあります。町の人々とファンが協力して、良い関係を作ることが大切です。",
+      "translationZh": "但是，圣地巡礼并非全是好事。城镇可能会变得非常拥挤，也可能发生垃圾问题。町上的人们和粉丝合作，建立良好的关系是很重要的。",
+      "translationEn": "However, sacred site pilgrimage is not always good. Towns can get very crowded, and garbage problems can occur. It is important for townspeople and fans to cooperate and build good relationships.",
+      "id": "28da2678-37dd-4a28-895e-744bdac57d79",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic of conversation",
+      "level": "n5n4",
+      "exampleSentence": "最近、この映画が話題です。",
+      "id": "ea93add5-ddaa-4c44-8833-eca074c9d129"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台；地点",
+      "meaningEn": "stage; setting",
+      "level": "n5n4",
+      "exampleSentence": "このアニメの舞台は京都です。",
+      "id": "ed525aa1-957b-4972-8921-a04a872086a4"
+    },
+    {
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaningZh": "影响",
+      "meaningEn": "influence, effect",
+      "level": "n3",
+      "exampleSentence": "この薬は体に良い影響があります。",
+      "id": "688172a6-92d4-42b2-8932-59d3f8162a9a"
+    },
+    {
+      "word": "経済",
+      "reading": "けいざい",
+      "meaningZh": "经济",
+      "meaningEn": "economy",
+      "level": "n3",
+      "exampleSentence": "町の経済をよくするために、新しい店ができました。",
+      "id": "69f70d92-66d1-4403-a126-dbed8c12a1ba"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "观光客",
+      "meaningEn": "tourist",
+      "level": "n5n4",
+      "exampleSentence": "夏休みは観光客がたくさん来ます。",
+      "id": "16e079f4-6300-41a2-8a41-e38cc0ee254a"
+    },
+    {
+      "word": "きっかけ",
+      "reading": "きっかけ",
+      "meaningZh": "契机，机会",
+      "meaningEn": "opportunity, trigger",
+      "level": "n5n4",
+      "exampleSentence": "友達の紹介がきっかけで、この会社に入りました。",
+      "id": "61d81c3c-4142-4ea7-918d-a68fc267b900"
+    },
+    {
+      "word": "結果",
+      "reading": "けっか",
+      "meaningZh": "结果",
+      "meaningEn": "result",
+      "level": "n5n4",
+      "exampleSentence": "一生懸命勉強した結果、試験に合格しました。",
+      "id": "5f057578-25de-4d06-a011-48992d9545c8"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "みんなで協力して、この仕事を終わらせましょう。",
+      "id": "c462a9bd-ca35-44fb-a486-107b8ee12a33"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの聖地巡礼は、町にどのような良い影響がありますか？",
+      "options": [
+        "町が静かになりすぎる",
+        "お店やホテルが忙しくなる",
+        "アニメのイベントが減る",
+        "町の人々が旅行に行く"
+      ],
+      "correctIndex": 1,
+      "explanation": "「たくさんの人が町に来ると、お店で買い物をしたり、レストランで食事をしたりします。また、ホテルや旅館に泊まる人も増えます。」と書いてあります。",
+      "id": "b95cedb0-7886-4210-ab18-c316dbe33885"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-18-220265558d",
+  "publishedAt": "2026-08-18T06:00:00+09:00"
+}

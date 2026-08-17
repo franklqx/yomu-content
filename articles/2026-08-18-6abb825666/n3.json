@@ -1,0 +1,135 @@
+{
+  "title": "新学期！文房具トレンドで気分転換しよう",
+  "summary": "新しい学期が始まる前に、最新の文房具トレンドをチェックしませんか？機能的でおしゃれなアイテムがたくさん登場しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "4月になり、新しい学校生活が始まる人も多いでしょう。そんな新学期に向けて、文房具の世界でも新しいトレンドが生まれています。特に人気なのは、環境に配慮した素材で作られた製品や、多機能で便利なアイテムです。例えば、再生紙を使ったノートや、複数の色を一本にまとめたボールペンなどが注目されています。",
+      "translationZh": "4月到了，很多人将开始新的学校生活。针对这样的新学期，文具界也涌现出了新的潮流。尤其受欢迎的是使用环保材料制成的产品，以及多功能又方便的物品。例如，用再生纸制作的笔记本，以及将多种颜色整合在一支笔里的圆珠笔等正受到关注。",
+      "translationEn": "April has arrived, and many people are starting a new school life. In preparation for this new semester, new trends are emerging in the world of stationery. Particularly popular are products made from environmentally friendly materials and multifunctional, convenient items. For example, notebooks made from recycled paper and ballpoint pens that combine multiple colors into one are gaining attention.",
+      "id": "349bf502-fe94-46dd-85ae-b55f3e332d41",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "デザイン面でも進化が見られます。以前はシンプルなものが多かったのですが、最近では、キャラクターものや、美しいイラストが描かれたものなど、個性を表現できるデザインが豊富です。また、手帳やノートに書き込みやすく、消しやすいインクを使ったペンも人気があります。勉強のモチベーションを上げるためにも、お気に入りの文房具を選ぶのは大切ですね。",
+      "translationZh": "在设计方面也看到了进步。以前多为简约风格，但最近，像卡通人物系列、或绘有精美插画等，能够展现个性的设计丰富多样。另外，使用易于书写又易于擦除的墨水的笔也很受欢迎。为了提高学习的积极性，选择喜欢的文具也很重要呢。",
+      "translationEn": "Improvements are also seen in design. While simple ones were common before, recently, designs that allow for self-expression, such as character-themed items and those with beautiful illustrations, are abundant. Furthermore, pens using ink that is easy to write with and easy to erase are also popular. Choosing your favorite stationery is important for boosting your motivation to study.",
+      "id": "a4c4756b-2164-4736-89c1-60b0b1eef30e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "文房具店に行くと、様々な新商品が並んでいて、見ているだけでも楽しいものです。新しい学年が始まるのを機に、普段使っているペンやノートを新調してみてはいかがでしょうか。きっと、勉強がもっと楽しくなるはずですよ。お気に入りの一品を見つけて、新しいスタートを切りましょう。",
+      "translationZh": "去文具店的话，会摆放着各种新商品，光是看看也很有趣。趁着新学年开始之际，何不更新一下平时使用的笔和笔记本呢？肯定会让学习变得更加有趣。找到心仪的宝贝，开启新的起点吧。",
+      "translationEn": "When you visit stationery stores, various new products are lined up, and it's enjoyable just to look at them. Why not refresh the pens and notebooks you usually use as a chance to start a new school year? It will surely make studying more enjoyable. Find your favorite item and make a fresh start.",
+      "id": "bb67c3f0-71a2-482c-af49-5dd2ab8616fd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文房具",
+      "reading": "ぶんぼoutput",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いに行きました。",
+      "id": "e6a35606-4726-4360-b93b-97862b450076"
+    },
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "潮流，趋势",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "ファッションのトレンドはすぐに変わります。",
+      "id": "f8f64141-4ddc-40df-8e27-6bce26d043a3"
+    },
+    {
+      "word": "機能的",
+      "reading": "きのうてき",
+      "meaningZh": "功能性的",
+      "meaningEn": "functional",
+      "level": "n3",
+      "exampleSentence": "このカバンはデザインも良くて、機能的です。",
+      "id": "e703aafb-d273-4bf5-8d7a-b913c2dcf926"
+    },
+    {
+      "word": "環境に配慮した",
+      "reading": "かんきょうにはいりょした",
+      "meaningZh": "顾及环境的，环保的",
+      "meaningEn": "environmentally conscious",
+      "level": "n3",
+      "exampleSentence": "環境に配慮した製品を選ぶようにしています。",
+      "id": "d05d5428-140d-499a-8584-310d6b73eede"
+    },
+    {
+      "word": "再生紙",
+      "reading": "さいせいし",
+      "meaningZh": "再生纸",
+      "meaningEn": "recycled paper",
+      "level": "n3",
+      "exampleSentence": "再生紙のノートは地球に優しいです。",
+      "id": "b5fb304d-5283-4ff8-a559-de86e1aea744"
+    },
+    {
+      "word": "多機能",
+      "reading": "たきのう",
+      "meaningZh": "多功能的",
+      "meaningEn": "multifunctional",
+      "level": "n3",
+      "exampleSentence": "多機能なスマートフォンは便利です。",
+      "id": "6417de99-363b-43a2-8d9d-f026c739ce28"
+    },
+    {
+      "word": "モチベーション",
+      "reading": "もちべーしょん",
+      "meaningZh": "动力，积极性",
+      "meaningEn": "motivation",
+      "level": "n3",
+      "exampleSentence": "目標があるとモチベーションが上がります。",
+      "id": "f013e452-4a7b-46df-99e3-63a66a32fc85"
+    },
+    {
+      "word": "新調する",
+      "reading": "しんちょうする",
+      "meaningZh": "新购，更新",
+      "meaningEn": "to buy new, to replace",
+      "level": "n3",
+      "exampleSentence": "新しいスーツを新調しました。",
+      "id": "b6cba09d-69ef-4ada-bf85-1217a4b8edaf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の文房具のトレンドとして、どのようなものが挙げられていますか？",
+      "options": [
+        "高価で装飾的なもの",
+        "環境に配慮した製品や多機能なアイテム",
+        "昔ながらのシンプルなデザインのもの",
+        "子供向けのキャラクターグッズのみ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「特に人気なのは、環境に配慮した素材で作られた製品や、多機能で便利なアイテムです。」と述べられています。",
+      "id": "7641890f-3e85-4ecd-9449-7ce7ca710e86"
+    },
+    {
+      "question": "新しい学期に向けて文房具を新調することのメリットは何だと書かれていますか？",
+      "options": [
+        "友達に自慢できるから",
+        "勉強のモチベーションが上がるから",
+        "親に褒められるから",
+        "学校の先生に頼まれたから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には、「勉強のモチベーションを上げるためにも、お気に入りの文房具を選ぶのは大切ですね。」や、「きっと、勉強がもっと楽しくなるはずですよ。」と書かれています。",
+      "id": "436bc86d-502c-4f8a-9f91-1a6c1042f9f6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-18-6abb825666",
+  "publishedAt": "2026-08-18T06:00:00+09:00"
+}
