@@ -1,0 +1,123 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガのクリエイターになりたいですか？新しい奨学金制度ができました。みんなの夢を応援します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガは、世界中で人気があります。たくさんの若者が、クリエイターになりたいと思っています。でも、学校に行くためのお金は、高いことが多いです。",
+      "translationZh": "动画和漫画在世界各地都很受欢迎。许多年轻人想成为创作者。但是，上学的费用往往很高。",
+      "translationEn": "Anime and manga are popular all over the world. Many young people want to become creators. However, the money to go to school is often expensive.",
+      "id": "2b45d00f-4c68-4afe-a224-7137e96f2877",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、新しい奨学金制度が始まりました。この制度は、アニメやマンガの勉強をしたい学生を助けます。お金の心配をしないで、勉強に集中できます。",
+      "translationZh": "因此，一个新的奖学金制度开始了。这个制度帮助想学习动画和漫画的学生。学生可以不用担心钱，专心学习。",
+      "translationEn": "So, a new scholarship system has started. This system helps students who want to study anime and manga. They can concentrate on their studies without worrying about money.",
+      "id": "72eb1fdd-cd69-4b26-b177-bc09f0f8161a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募（おうぼ）は簡単（かんたん）です。学校の先生に相談（そうだん）してください。あなたの夢を叶える（かなえる）チャンスです。未来のクリエイターを応援しましょう！",
+      "translationZh": "申请很简单。请和学校的老师商量一下。这是实现你梦想的机会。让我们来支持未来的创作者吧！",
+      "translationEn": "Applying is easy. Please talk to your school teacher. This is a chance to make your dream come true. Let's support future creators!",
+      "id": "bc544cd6-9b5d-4063-b0bc-223b5a8804cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって大学に行きました。",
+      "id": "a9be36cb-3baa-4d1d-89d6-f3f28f693586"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度ができました。",
+      "id": "14d305d8-1376-4d24-bb76-f89653046282"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は元気です。",
+      "id": "871a1100-53f3-458b-b7c1-ddde85dc9462"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメは人気があります。",
+      "id": "02c8bb16-6418-4e7e-a546-d7e36599f554"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaningZh": "集中",
+      "meaningEn": "concentration",
+      "level": "n5n4",
+      "exampleSentence": "勉強に集中します。",
+      "id": "2bbd5f0d-f81b-497e-afc7-f71765265984"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningZh": "申请，应征",
+      "meaningEn": "application",
+      "level": "n5n4",
+      "exampleSentence": "奨学金に応募しました。",
+      "id": "7fc1399b-1e95-4716-a697-b85da6f3606c"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaningZh": "商量，咨询",
+      "meaningEn": "consultation",
+      "level": "n5n4",
+      "exampleSentence": "先生に相談しました。",
+      "id": "91046052-4b37-4163-8e3a-65ad46d55459"
+    },
+    {
+      "word": "叶える",
+      "reading": "かなえる",
+      "meaningZh": "实现（愿望等）",
+      "meaningEn": "to fulfill (a dream, wish)",
+      "level": "n3",
+      "exampleSentence": "夢を叶えたいです。",
+      "id": "03070744-6572-466b-9cfc-b4d163fb1d5e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度は何のためにありますか？",
+      "options": [
+        "アニメの会社を作るため",
+        "アニメやマンガの勉強をする学生を助けるため",
+        "アニメの映画を作るため",
+        "マンガのイベントをするため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この制度は、アニメやマンガの勉強をしたい学生を助けます。」と書いてあります。",
+      "id": "d0691c1b-fffd-4e75-8c58-575297c48df2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-19-f82db1818e",
+  "publishedAt": "2026-08-19T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "東北に新しい道",
+  "summary": "東北地方で自転車の道がたくさん作られています。旅行がもっと楽しくなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東北地方は美しい場所がたくさんあります。自然もきれいです。最近、自転車で旅行する人が増えています。だから、自転車で走りやすい道を作る計画が進んでいます。",
+      "translationZh": "东北地方有许多美丽的地方。自然也很漂亮。最近，骑自行车旅行的人增加了。因此，正在推进建设方便骑自行车旅行道路的计划。",
+      "translationEn": "Tohoku region has many beautiful places. Nature is also beautiful. Recently, more people are enjoying traveling by bicycle. Therefore, plans to build roads that are easy to cycle on are progressing.",
+      "id": "ed7c65b1-6ec5-4706-b7d9-5ed0d29baeb2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しい道は、海が見える道や、山の中を通る道など、いろいろな場所につながります。自転車を借りる場所も増えるでしょう。観光客は、もっと東北の景色を楽しめるようになります。",
+      "translationZh": "这些新道路会连接到各种地方，比如能看到海的道路和穿过山中的道路。租借自行车的地方也会增加。游客将能更享受东北的风景。",
+      "translationEn": "These new roads will connect to various places, such as roads with ocean views and roads through the mountains. Places to rent bicycles will also increase. Tourists will be able to enjoy Tohoku's scenery more.",
+      "id": "9f25dffb-4eef-4189-bd0d-167eceb047c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この計画は、東北地方をもっと多くの人に知ってもらう良い機会です。自転車でゆっくり旅をすると、新しい発見があるかもしれません。安全な道が増えるので、安心してサイクリングができます。",
+      "translationZh": "这个计划是让更多人了解东北地方的好机会。慢慢地骑自行车旅行，也许会有新的发现。因为安全的道路增加了，所以可以安心地骑自行车。",
+      "translationEn": "This plan is a good opportunity for more people to get to know the Tohoku region. Traveling slowly by bicycle might lead to new discoveries. As safe roads increase, you can cycle with peace of mind.",
+      "id": "2368f56b-710a-49c6-8c6a-bb147914569e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし東北へ行く機会があれば、ぜひ自転車で走ってみてください。きっと素晴らしい体験ができます。新しいサイクリングロードは、これからもどんどん作られていく予定です。",
+      "translationZh": "如果有机会去东北，请一定要骑自行车去看看。一定能有很棒的体验。新的自行车道今后也会不断地被建设。",
+      "translationEn": "If you have a chance to go to Tohoku, please try cycling there. You will surely have a wonderful experience. New cycling roads are planned to be built more and more in the future.",
+      "id": "cb3583b0-5a42-4edf-9def-0769b4405059",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地方は食べ物が美味しいです。",
+      "id": "70383e1f-a58d-481d-bd61-06a37a0916a2"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，修建",
+      "meaningEn": "maintenance, development, establishment",
+      "level": "n3",
+      "exampleSentence": "新しい道路の整備が進んでいます。",
+      "id": "828b650a-2166-44aa-89b9-b81235fb2a62"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaningZh": "自行车",
+      "meaningEn": "bicycle",
+      "level": "n5n4",
+      "exampleSentence": "自転車で公園に行きました。",
+      "id": "b313ea35-02fd-49aa-91ae-44f69751e685"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "週末の旅行の計画を立てました。",
+      "id": "6b7e73ac-215c-466a-9db2-3f0e1f7562c1"
+    },
+    {
+      "word": "進む",
+      "reading": "すすむ",
+      "meaningZh": "前进，进展",
+      "meaningEn": "to advance, to progress",
+      "level": "n5n4",
+      "exampleSentence": "工事が順調に進んでいます。",
+      "id": "cd28db32-cd1e-41f8-9010-102bcc6e1970"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "游客",
+      "meaningEn": "tourist",
+      "level": "n3",
+      "exampleSentence": "この町にはたくさんの観光客が来ます。",
+      "id": "8bd19769-6c7e-4f34-ad4f-d3076b88c604"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity, chance",
+      "level": "n3",
+      "exampleSentence": "日本へ行く良い機会です。",
+      "id": "d5e9a214-32a3-4737-8a71-8c6736634d0d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方では、どんな新しい道が作られていますか？",
+      "options": [
+        "速く走るための道",
+        "自転車で走りやすい道",
+        "車がたくさん通る道",
+        "歩くための道"
+      ],
+      "correctIndex": 1,
+      "explanation": "「自転車で走りやすい道を作る計画が進んでいます。」",
+      "id": "f744c2bf-fe8d-4c6c-a2ce-1c19b5017eb1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-19-addfe14016",
+  "publishedAt": "2026-08-19T06:00:00+09:00"
+}

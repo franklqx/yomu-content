@@ -1,0 +1,134 @@
+{
+  "title": "夢を応援！クリエイター支援奨学金",
+  "summary": "アニメやマンガの世界で活躍したい若者のための新しい奨学金制度が始まりました。あなたの才能をここで開花させませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガは、世界中の人々を魅了する日本の代表的な文化です。しかし、そのクリエイターになるためには、専門的な知識や技術を学ぶための資金が必要となる場合があります。そんな若者たちの夢を応援するために、新しい奨学金制度が設立されました。",
+      "translationZh": "动画和漫画是吸引世界各地人们的日本代表性文化。但是，要成为其中的创作者，有时需要资金来学习专业的知识和技术。为了支持那些年轻人的梦想，一项新的奖学金制度被设立了。",
+      "translationEn": "Anime and manga are representative Japanese cultures that fascinate people worldwide. However, to become a creator in these fields, funding to learn specialized knowledge and skills may be necessary. A new scholarship program has been established to support the dreams of such young people.",
+      "id": "cd45a965-7dcb-4784-9439-58f268d9212c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、将来アニメーター、イラストレーター、漫画家など、クリエイティブな分野で活躍したいと考えている高校生や大学生を対象としています。応募資格や審査基準は、もちろんありますが、あなたの情熱やオリジナリティを重視するとのことです。",
+      "translationZh": "这项奖学金以希望将来在动画师、插画家、漫画家等创意领域有所作为的高中生和大学生为对象。虽然有申请资格和审查标准，但据说会重视你的热情和原创性。",
+      "translationEn": "This scholarship is aimed at high school and university students who aspire to work in creative fields such as animators, illustrators, and manga artists in the future. There are, of course, eligibility requirements and selection criteria, but they reportedly emphasize your passion and originality.",
+      "id": "3767aeb4-c333-4a91-8517-450b2330ad5a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "奨学金を受けることができれば、学費の負担が軽くなるだけでなく、専門学校に通ったり、制作に必要な機材を購入したりすることも可能になります。たとえ経済的な理由で諦めていたとしても、この制度を利用すれば、夢への一歩を踏み出せるかもしれません。",
+      "translationZh": "如果能获得奖学金，不仅学费负担会减轻，还能去读专业学校或购买制作所需的设备。即使因为经济原因而放弃了，但如果利用这项制度，或许就能迈出实现梦想的第一步。",
+      "translationEn": "If you can receive the scholarship, not only will the burden of tuition fees be reduced, but it will also become possible to attend vocational schools or purchase necessary equipment for production. Even if you had given up due to financial reasons, you might be able to take a step towards your dream by utilizing this program.",
+      "id": "c67c5ba5-0933-4788-b842-c5c753ecd5c5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度についてもっと詳しく知りたい場合は、ウェブサイトで詳細を確認するか、説明会に参加してみるのが良いでしょう。多くの才能ある若者たちが、この奨学金をきっかけに、世界を舞台に活躍するクリエイターになっていくことを期待しています。",
+      "translationZh": "如果想了解更多关于这项制度的详细信息，最好是去网站上确认详情，或者参加说明会。我们期待许多有才华的年轻人能以此奖学金为契机，成为在世界舞台上活跃的创作者。",
+      "translationEn": "If you want to know more details about this program, it would be best to check the details on the website or attend an information session. We hope that many talented young people will become creators active on the world stage, taking this scholarship as an opportunity.",
+      "id": "4c64c4de-2422-4677-b762-572cc727dce4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n3",
+      "exampleSentence": "彼は将来、素晴らしいクリエイターになりたいと思っています。",
+      "id": "eac51864-a093-4185-bafd-287eb95c2d2c"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n3",
+      "exampleSentence": "成績優秀な学生には奨学金が与えられます。",
+      "id": "c44d5bb4-5474-4122-af55-c296046b6b98"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system, institution",
+      "level": "n3",
+      "exampleSentence": "新しい制度が導入されました。",
+      "id": "0acd0d40-fd35-47be-96c4-af83df11a9e2"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaningZh": "对象，目标",
+      "meaningEn": "target, object",
+      "level": "n3",
+      "exampleSentence": "このキャンペーンは20歳以上が対象です。",
+      "id": "8d957a8a-3869-488b-ae23-2a9fea981d62"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担",
+      "meaningEn": "burden",
+      "level": "n3",
+      "exampleSentence": "学費の負担が大きいです。",
+      "id": "cb81112c-e837-4bb4-835a-5b781392b75c"
+    },
+    {
+      "word": "情熱",
+      "reading": "じょうねつ",
+      "meaningZh": "热情",
+      "meaningEn": "passion",
+      "level": "n3",
+      "exampleSentence": "彼は仕事に情熱を燃やしています。",
+      "id": "531bd495-70eb-40a9-a97d-92f3f3b2ab97"
+    },
+    {
+      "word": "オリジナリティ",
+      "reading": "おりじなりてぃ",
+      "meaningZh": "原创性",
+      "meaningEn": "originality",
+      "level": "n3",
+      "exampleSentence": "彼の作品には強いオリジナリティがある。",
+      "id": "0a9cebe2-55b1-4a7c-a7fd-969291578dc4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度は、どのような人を応援するためのものですか？",
+      "options": [
+        "アニメやマンガのファン",
+        "クリエイティブな分野で活躍したい若者",
+        "日本の文化を学びたい外国人",
+        "専門学校の先生"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「将来アニメーター、イラストレーター、漫画家など、クリエイティブな分野で活躍したいと考えている高校生や大学生を対象としています」と書かれています。",
+      "id": "237a156f-e40d-4b7d-b2c4-a6d06432c1d9"
+    },
+    {
+      "question": "奨学金を受けることで、どのようなメリットがありますか？",
+      "options": [
+        "海外旅行に行ける",
+        "学費の負担が軽くなり、制作に必要なものも買える",
+        "有名人と知り合える",
+        "将来、必ず成功できる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「学費の負担が軽くなるだけでなく、専門学校に通ったり、制作に必要な機材を購入したりすることも可能になります」とあります。",
+      "id": "3cfb4c42-3545-4683-9ba8-bf2b8700a4e0"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-19-f82db1818e",
+  "publishedAt": "2026-08-19T06:00:00+09:00"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "学生街に輝く「満腹保証」定食店",
+  "summary": "学生街で、ボリューム満点の定食が好評を博している一軒の定食店が話題となっている。手頃な価格と圧倒的な量で、多くの学生たちの胃袋を掴んでいるとのことだ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都内某所の学生街に、近年ひときわ賑わいを見せている定食店がある。その名は「満腹食堂」。店名が示す通り、ここではボリューム満点の定食が提供されており、連日多くの学生や若者たちで賑わっている。特に、唐揚げ定食や生姜焼き定食といった定番メニューは、その量の多さから「食べきれないほどの満足感」と評判を呼び、SNS上でも度々話題に上る。価格帯も学生の懐事情を考慮した手頃な設定となっており、コストパフォーマンスの高さが支持される要因の一つと見られる。",
+      "translationZh": "在东京某处的学生街，有一家近年来异常热闹的定食店，店名是“满腹食堂”。正如店名所示，这里提供份量十足的定食，每天都有许多学生和年轻人光顾。特别是炸鸡定食和姜汁烧肉定食等经典菜单，因其份量之多，被誉为“吃到撑的满足感”，在社交媒体上也时常成为话题。价格也考虑到学生的经济状况，设定得相当实惠，这也是其高性价比受到支持的原因之一。",
+      "translationEn": "In a certain student district in Tokyo, there's a popular eatery called \"Manpuku Shokudo\" that has been bustling in recent years. As the name suggests, this restaurant serves incredibly generous portions, attracting a crowd of students and young people daily. Their classic dishes, such as the fried chicken set meal and ginger pork stir-fry set meal, are particularly famous for their ample size, often praised as \"satisfaction beyond capacity\" and frequently discussed on social media. The pricing is also set at an affordable level, considering students' budgets, which is seen as one of the factors contributing to its popularity due to its high cost-performance ratio.",
+      "id": "e5b34a71-9341-453f-a214-514595a48054",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "店側は、「学生さんたちに、お腹いっぱい、心もいっぱいの満足を提供したい」という思いから、このボリュームを維持しているという。店主によれば、近年は食料品価格の高騰に伴い、多少の価格転嫁はやむを得ない状況であるものの、学割メニューの導入や、ご飯おかわり自由といったサービスを継続することで、学生の来店を後押ししているとのことだ。こうした企業努力が、学生たちの間で「コスパ最強」と評価される所以だろう。",
+      "translationZh": "店家表示，他们怀揣着“想为学生们提供吃得饱、心里也满足的服务”的想法，一直维持着如此大的份量。店主称，近年来随着食品价格上涨，虽然一定程度的价格调整在所难免，但通过引入学生折扣菜单以及持续提供米饭免费续加等服务，仍在鼓励学生来店消费。正是这些经营上的努力，才让这家店被学生们评价为“性价比之王”。",
+      "translationEn": "The restaurant owner states that their intention is to \"provide students with satisfaction that fills both their stomachs and their hearts.\" This commitment is why they maintain such generous portions. According to the owner, while price increases are somewhat unavoidable due to rising food costs in recent years, they are still encouraging student patronage by introducing discount menus for students and continuing services like free rice refills. This dedication to customer service is likely why students rate it as having the \"best cost-performance.\"",
+      "id": "ab3de601-69b6-4c22-90ca-ca2d8e52bb34",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「満腹食堂」の繁盛は、単に量が多いというだけでなく、味へのこだわりも忘れていない点にあると分析できる。手作りにこだわった調理法や、厳選された食材の使用など、味の面でも妥協を許さない姿勢が、多くのリピーターを生み出している。学生の卒業後も、その味を懐かしんで訪れる客がいるという話も聞かれるほどだ。この地域における食文化の一端を担う存在として、今後もその人気は衰えることのないものと見られる。",
+      "translationZh": "“满腹食堂”的兴旺，不仅在于份量大，还在于其对味道的执着。坚持手工制作的烹饪方法，以及使用精选食材等，在味道上毫不妥协的态度，吸引了众多回头客。甚至有人说，即使学生毕业后，也会怀念这里的味道而前来光顾。作为这个地区饮食文化的一部分，这家店的受欢迎程度预计将持续下去。",
+      "translationEn": "\"Manpuku Shokudo's\" success can be analyzed not only by its large portions but also by its unwavering commitment to taste. Its dedication to handmade cooking methods and the use of carefully selected ingredients, demonstrating a refusal to compromise on flavor, has cultivated a large base of repeat customers. It's even said that some patrons visit the restaurant after graduating, fondly reminiscing about its taste. It is expected that its popularity will continue, as it plays a role in the local food culture.",
+      "id": "bd3874a1-a64e-4a41-8ead-5c02f563426a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "賑わい",
+      "reading": "にぎわい",
+      "meaningZh": "热闹，繁盛",
+      "meaningEn": "bustle, liveliness",
+      "level": "n2n1",
+      "exampleSentence": "週末の商店街は多くの買い物客で賑わっていた。",
+      "id": "d647d9c6-f122-4e3b-854f-d951c41bc8fe"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "适中，便宜",
+      "meaningEn": "reasonable, affordable",
+      "level": "n3",
+      "exampleSentence": "この店の服はデザインも良く、値段も手頃だ。",
+      "id": "938e5b71-e203-45c6-aa67-9ded677f9340"
+    },
+    {
+      "word": "懐事情",
+      "reading": "かいじじょう",
+      "meaningZh": "经济状况，经济能力",
+      "meaningEn": "financial situation, financial circumstances",
+      "level": "n2n1",
+      "exampleSentence": "学生の懐事情を考慮して、学割制度が設けられている。",
+      "id": "8778e357-0704-4098-bc26-3dcc9b3d916c"
+    },
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "（价格）飞涨，急涨",
+      "meaningEn": "soaring, sharp rise (in price)",
+      "level": "n2n1",
+      "exampleSentence": "原油価格の高騰が、様々な産業に影響を与えている。",
+      "id": "eab34ffc-ee6c-4830-9cb1-66a58238fa3f"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "支持，促进",
+      "meaningEn": "support, backing, push",
+      "level": "n3",
+      "exampleSentence": "政府の支援策が、中小企業の経営を後押しした。",
+      "id": "f3bf1923-72ad-4d3e-b3e1-11e22d16a3f4"
+    },
+    {
+      "word": "妥協",
+      "reading": "だきょう",
+      "meaningZh": "妥协",
+      "meaningEn": "compromise",
+      "level": "n3",
+      "exampleSentence": "品質に関しては、一切の妥協を許さない。",
+      "id": "16cc5a67-1f3f-4f53-98c0-0f89dabf13eb"
+    },
+    {
+      "word": "リピーター",
+      "reading": "りぴーたー",
+      "meaningZh": "回头客",
+      "meaningEn": "repeat customer",
+      "level": "n3",
+      "exampleSentence": "このカフェは、美味しいコーヒーのおかげで多くのリピーターがいる。",
+      "id": "4bd3b8c5-c25e-4a06-987b-1d350e12febc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「満腹食堂」が学生に人気を集めている主な理由は何だと述べられていますか？",
+      "options": [
+        "豊富なメニューと清潔な店内",
+        "手頃な価格とボリューム満点の食事",
+        "駅からの近さと個室の有無",
+        "有名シェフが監修していること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中には「価格帯も学生の懐事情を考慮した手頃な設定となっており、コストパフォーマンスの高さが支持される要因の一つと見られる。」「ボリューム満点の定食が提供されており、連日多くの学生や若者たちで賑わっている。」と記述されており、手頃な価格とボリューム満点の食事が人気の理由であることが示唆されている。",
+      "id": "e1c940e0-17dd-4b5f-ab19-2f22e0120ae8"
+    },
+    {
+      "question": "近年、食料品価格の高騰がある中で、店側はどのように学生の来店を促していますか？",
+      "options": [
+        "メニューを大幅に値上げした",
+        "学割メニューの導入やご飯おかわり自由といったサービスを継続している",
+        "高級食材の使用を増やし、品質向上に努めている",
+        "営業時間を短縮して、人件費を削減した"
+      ],
+      "correctIndex": 1,
+      "explanation": "「近年は食料品価格の高騰に伴い、多少の価格転嫁はやむを得ない状況であるものの、学割メニューの導入や、ご飯おかわり自由といったサービスを継続することで、学生の来店を後押ししているとのことだ。」という記述から、学割やご飯おかわり自由といったサービスが継続されていることがわかる。",
+      "id": "55c8aa66-175f-485d-974a-ead8e26c16c1"
+    },
+    {
+      "question": "「満腹食堂」が多くのリピーターを生み出している要因として、量以外に挙げられているものは何ですか？",
+      "options": [
+        "店員の丁寧な接客",
+        "SNSでの積極的な宣伝活動",
+        "味へのこだわりと厳選された食材の使用",
+        "期間限定の特別なキャンペーン"
+      ],
+      "correctIndex": 2,
+      "explanation": "「単に量が多いというだけでなく、味へのこだわりも忘れていない点にあると分析できる。手作りにこだわった調理法や、厳選された食材の使用など、味の面でも妥協を許さない姿勢が、多くのリピーターを生み出している。」とあるように、味へのこだわりと食材への姿勢がリピーター獲得につながっている。",
+      "id": "3cff3bc8-0986-4ab0-bc61-99507f0a9fb2"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-19-08420fca06",
+  "publishedAt": "2026-08-19T06:00:00+09:00"
+}

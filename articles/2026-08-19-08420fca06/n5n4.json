@@ -1,0 +1,131 @@
+{
+  "title": "学生街の人気定食店",
+  "summary": "学生街に、安くておいしい大盛り定食のお店があります。いつも学生さんでいっぱいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町には、学生さんがたくさん住んでいます。そのため、学生さんのための店がたくさんあります。その中でも、特においしい定食屋さんが人気です。このお店は「ボリューム満点」で有名です。",
+      "translationZh": "这个城镇住着很多学生。因此，有很多为学生开的店。其中，特别好吃的定食店很受欢迎。这家店以“分量十足”而闻名。",
+      "translationEn": "Many students live in this town. Therefore, there are many shops for students. Among them, a particularly delicious set meal restaurant is popular. This restaurant is famous for being \"generous in portion size.\"",
+      "id": "7a520274-e163-4e4d-ba10-f46fa9948bed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食は、ごはん、みそ汁、そしてメインのおかずがセットになっています。ここにごはんのおかわりが自由です。学生さんは、たくさん食べたいですから、とても喜んでいます。味もおいしいので、リピーターが多いです。",
+      "translationZh": "定食套餐包括米饭、味噌汤和主菜。这里的米饭还可以免费续加。因为学生们想吃很多，所以他们非常高兴。味道也很美味，所以回头客很多。",
+      "translationEn": "A set meal includes rice, miso soup, and a main dish. You can also refill your rice for free here. Students want to eat a lot, so they are very happy. The taste is also delicious, so there are many repeat customers.",
+      "id": "b09a12b7-34d2-4b01-852e-68d53296fd03",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "人気メニューは、からあげ定食としょうが焼き定食です。どちらもボリュームがあって、お腹いっぱいになります。値段も手頃なので、おこづかいが少ない学生さんにも優しいです。昼も夜も、いつも賑わっています。",
+      "translationZh": "人气菜单是炸鸡定食和姜汁烧肉定食。两者分量都很足，能吃得饱饱的。价格也很实惠，对零花钱不多的学生也很友好。无论是白天还是晚上，店里总是很热闹。",
+      "translationEn": "The popular menus are the fried chicken set meal and the ginger-fried pork set meal. Both are generous in portion and fill you up. The prices are also reasonable, so they are kind to students with small allowances. The restaurant is always lively, both day and night.",
+      "id": "ea94256a-6e9a-4bb8-b869-1383bc7e09b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋さんは、おいしいだけでなく、量も多くて、値段も安いので、学生さんの味方です。この町に来たら、ぜひ一度行ってみてください。きっと満足すると思います。",
+      "translationZh": "这家定食店不仅好吃，而且分量足、价格便宜，是学生们的好帮手。来这个城镇的话，请一定要去一次。我想您一定会满意的。",
+      "translationEn": "This set meal restaurant is not only delicious but also large in portion and inexpensive, making it a friend to students. If you come to this town, please try visiting it once. I'm sure you will be satisfied.",
+      "id": "00f6fdf7-0e4f-421f-aea8-ddede5e640db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学生街",
+      "reading": "がくせいがい",
+      "meaningZh": "学生区",
+      "meaningEn": "student district",
+      "level": "n5n4",
+      "exampleSentence": "この辺りは学生街です。",
+      "id": "ce9f0044-66e2-4984-820b-7b209380f956"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このラーメン屋は人気があります。",
+      "id": "90f8c2b5-9241-451e-856b-39e88b47eeeb"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "定食（包含米饭、主菜、配菜的套餐）",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "今日の定食は何ですか。",
+      "id": "4bc0f7d4-8f2c-48f4-a877-e3f03ac4680d"
+    },
+    {
+      "word": "大盛り",
+      "reading": "おおもり",
+      "meaningZh": "大份",
+      "meaningEn": "large portion",
+      "level": "n5n4",
+      "exampleSentence": "ごはんを大盛りにしてください。",
+      "id": "4868f1e4-886d-4665-8d2b-2e94ebc1a399"
+    },
+    {
+      "word": "ボリューム満点",
+      "reading": "ぼりゅーむまんてん",
+      "meaningZh": "分量十足",
+      "meaningEn": "generous in portion size",
+      "level": "n5n4",
+      "exampleSentence": "ここの料理はボリューム満点です。",
+      "id": "3d0ef052-b245-4a8b-a01d-a7350ce56b1e"
+    },
+    {
+      "word": "おかわり",
+      "reading": "おかわり",
+      "meaningZh": "（饭、菜）再来一份",
+      "meaningEn": "refill (of rice, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "ごはんのおかわりはできますか。",
+      "id": "d1112c31-ec21-4852-a6ce-f46f396d37d3"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格适中，实惠",
+      "meaningEn": "reasonable price",
+      "level": "n5n4",
+      "exampleSentence": "手頃な値段で買いました。",
+      "id": "2dc889cd-c3dc-4b5d-9846-17256679b2b2"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹",
+      "meaningEn": "to be crowded, to be bustling",
+      "level": "n3",
+      "exampleSentence": "週末は市場が賑わっています。",
+      "id": "536e03c8-26bc-4b73-80c5-37b943ba68ae"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋さんが学生さんに人気がある理由は何ですか？",
+      "options": [
+        "おいしくて、量が多くて、値段が安いから",
+        "メニューがたくさんあるから",
+        "店員さんがとても親切だから",
+        "毎日新しいメニューが出るから"
+      ],
+      "correctIndex": 0,
+      "explanation": "「おいしいだけでなく、量も多くて、値段も安いので、学生さんの味方です。」ここに理由が書いてあります。",
+      "id": "82ca743b-340b-43e7-bbfe-04a2b76c36d0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-19-08420fca06",
+  "publishedAt": "2026-08-19T06:00:00+09:00"
+}

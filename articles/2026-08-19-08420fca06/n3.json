@@ -1,0 +1,134 @@
+{
+  "title": "学生街で大人気！ボリューム満点の定食店",
+  "summary": "学生さんが多く集まる街にある、ボリューム満点の定食店が話題です。安くて美味しいと評判のお店を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学の近くには、学生さんたちに人気の定食屋さんがたくさんありますね。その中でも、特に「ボリューム満点！」と評判のお店が、「満腹食堂」です。このお店は、値段が手頃な上に、どのメニューも量がすごいので、お腹いっぱい食べたい学生さんたちに支持されています。",
+      "translationZh": "大学附近有很多受学生欢迎的定食店。其中，特别以“分量十足！”而闻名的是“満腹食堂”。这家店价格实惠，而且所有菜单的份量都很多，因此受到了想吃饱饱的学生们的支持。",
+      "translationEn": "Near the university, there are many popular set meal restaurants for students. Among them, a restaurant especially famous for being \"full of volume!\" is \"Manpuku Shokudo\". This shop is reasonably priced, and the portion sizes of all its dishes are impressive, making it popular among students who want to eat their fill.",
+      "id": "952967e8-90fb-415e-8afa-78c035757ba4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ここの唐揚げ定食は、普通の定食屋さんの倍くらいの量の唐揚げが出てくるそうです。しかも、ご飯や味噌汁はおかわり自由なので、食べ盛りの学生さんにとってはまさに天国のような場所でしょう。私も先日行ってみましたが、確かにすごい量でした。全部食べるのは大変でしたが、とても美味しかったです。",
+      "translationZh": "例如，这里的炸鸡定食，炸鸡的份量大约是普通定食店的两倍。而且，米饭和味噌汤可以免费续加，对于食欲旺盛的学生来说，这里简直就是天堂。我前几天也去过一次，确实份量惊人。虽然全部吃完很辛苦，但是非常美味。",
+      "translationEn": "For example, the fried chicken set meal here reportedly comes with about twice the amount of fried chicken found in a regular set meal restaurant. Moreover, rice and miso soup can be refilled for free, making it a veritable paradise for hungry students. I visited the other day, and the portion was indeed huge. It was tough to finish everything, but it was very delicious.",
+      "id": "5cc53d44-6e2c-43b0-afca-0bbbd9dc2a11",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店が人気なのは、量が多いだけではありません。味も確かなので、満足度が非常に高いのです。店員さんも皆さん親切で、気持ちよく食事ができます。学生さんたちは、授業が終わった後や、サークル活動の前などに、よくこのお店を利用しているようです。賑やかな雰囲気も、学生街ならではですね。",
+      "translationZh": "这家店受欢迎的原因不仅仅是份量大。味道也很可靠，所以满意度非常高。店员们也都非常亲切，可以愉快地用餐。学生们经常在下课后或社团活动前光顾这家店。热闹的氛围也是学生街特有的。",
+      "translationEn": "The reason this restaurant is popular is not just its large portions. The taste is also reliable, leading to a very high level of customer satisfaction. The staff are all kind, making for a pleasant dining experience. Students often visit this place after classes or before club activities. The lively atmosphere is also characteristic of a college town.",
+      "id": "d8aa0362-22e3-46ad-979f-fed9df28ac31",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし皆さんも、お腹いっぱい食べたいなと思ったら、ぜひ「満腹食堂」に行ってみてください。きっと、大満足できるはずですよ。ただし、あまりに空腹でないと、全部食べきれないかもしれないので、その点は注意してくださいね。",
+      "translationZh": "如果大家也想吃得饱饱的，请一定要去“満腹食堂”试试。相信你一定会非常满意。不过，如果不太饿的话，可能吃不完，这一点还请注意。",
+      "translationEn": "If you ever feel like eating a hearty meal, be sure to try \"Manpuku Shokudo\". You are sure to be very satisfied. However, please be aware that if you're not very hungry, you might not be able to finish everything.",
+      "id": "1a99cebd-0ac3-46a8-8103-41e16eef409d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ボリューム満点",
+      "reading": "ぼりゅーむまんてん",
+      "meaningZh": "分量十足，份量很足",
+      "meaningEn": "Full of volume, very large portions",
+      "level": "n3",
+      "exampleSentence": "このレストランはボリューム満点の料理で有名です。",
+      "id": "c69c46ca-b74b-43a2-a256-36cc0475ca3a"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐，配有米饭、主菜、配菜等的固定套餐",
+      "meaningEn": "Set meal (a fixed meal with rice, main dish, side dishes, etc.)",
+      "level": "n3",
+      "exampleSentence": "今日のランチは定食にしました。",
+      "id": "92e6a822-92b0-4741-8509-03cd217f71fb"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格适中，便宜",
+      "meaningEn": "Reasonable price, affordable",
+      "level": "n3",
+      "exampleSentence": "このお店は手頃な値段で美味しいです。",
+      "id": "e8102d4e-a480-40e5-9a40-92bbe57e795f"
+    },
+    {
+      "word": "支持",
+      "reading": "しじ",
+      "meaningZh": "支持，拥护",
+      "meaningEn": "Support, backing",
+      "level": "n3",
+      "exampleSentence": "多くの学生に支持されているお店です。",
+      "id": "cca49456-3e96-40d6-92dd-da54fd3925e9"
+    },
+    {
+      "word": "食べ盛り",
+      "reading": "たべざかり",
+      "meaningZh": "食欲旺盛的年纪（尤指青少年）",
+      "meaningEn": "The age of big appetites (especially for teenagers/young adults)",
+      "level": "n3",
+      "exampleSentence": "食べ盛りの子供のために、いつもたくさん料理を作ります。",
+      "id": "71ee90fe-8132-4c50-98e2-f5fbe183a52d"
+    },
+    {
+      "word": "おかわり自由",
+      "reading": "おかわりじゆう",
+      "meaningZh": "续加免费",
+      "meaningEn": "Free refills",
+      "level": "n3",
+      "exampleSentence": "このお店ではご飯のおかわりが自由です。",
+      "id": "f8502c6d-838e-4583-ae2a-670a81092ae4"
+    },
+    {
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "Lively, bustling",
+      "level": "n3",
+      "exampleSentence": "駅前はいつも賑やかです。",
+      "id": "a64d7beb-55dd-48d5-86e5-741f5313cf64"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「満腹食堂」が学生さんに人気な一番の理由は何ですか？",
+      "options": [
+        "メニューが豊富だから",
+        "値段が安くて量が多いから",
+        "店員さんが有名人だから",
+        "静かで落ち着いた雰囲気だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「このお店は、値段が手頃な上に、どのメニューも量がすごいので、お腹いっぱい食べたい学生さんたちに支持されています。」と書かれています。",
+      "id": "b4c924c1-ce14-4fe1-940a-b81ae80d099a"
+    },
+    {
+      "question": "唐揚げ定食の唐揚げの量は、普通の定食屋さんと比べてどうですか？",
+      "options": [
+        "半分くらい",
+        "同じくらい",
+        "倍くらい",
+        "もっと少ない"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「例えば、ここの唐揚げ定食は、普通の定食屋さんの倍くらいの量の唐揚げが出てくるそうです。」と書かれています。",
+      "id": "7f139787-b01f-4eac-b7f5-fb7d0d28a512"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-19-08420fca06",
+  "publishedAt": "2026-08-19T06:00:00+09:00"
+}
