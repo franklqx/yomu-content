@@ -1,0 +1,134 @@
+{
+  "title": "EV急速充電網、もっと便利に！",
+  "summary": "電気自動車（EV）の普及には、どこでも充電できる環境が大切です。急速充電器の設置場所が増え、EVでの移動がさらに楽になるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、電気自動車（EV）の普及が急速に進んでいます。しかし、EVを安心して使うためには、充電できる場所が十分にあることが重要です。特に、長距離を移動する際には、短時間で充電できる急速充電器の数や設置場所が、利用者の不安を解消する鍵となります。",
+      "translationZh": "近年来，电动汽车（EV）的普及正在迅速进行。但是，要安心地使用电动汽车，必须有足够的充电场所。特别是在长途旅行时，能够短时间充电的快速充电器的数量和设置地点，是消除使用者不安的关键。",
+      "translationEn": "In recent years, the adoption of electric vehicles (EVs) has been progressing rapidly. However, to use EVs with peace of mind, it is important to have enough places to charge them. Especially when traveling long distances, the number and locations of quick chargers that can charge in a short time are key to alleviating user anxiety.",
+      "id": "43faf1a9-1d36-4b09-b8c7-eba0e87ab1ad",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "政府や企業は、この課題を解決するために、急速充電網の拡充に力を入れています。高速道路のサービスエリアや、ショッピングセンター、公共施設など、人が集まる場所に積極的に設置が進められています。これにより、EVユーザーは、外出先でも充電の心配をせずに済むようになります。",
+      "translationZh": "为了解决这一课题，政府和企业正致力于扩大快速充电网络。在高速公路的服务区、购物中心、公共设施等人聚集的地方，正在积极地进行设置。这样，电动汽车用户在外出时就不必担心充电问题了。",
+      "translationEn": "Governments and companies are focusing on expanding the quick charging network to solve this issue. They are actively installing chargers in places where people gather, such as highway service areas, shopping centers, and public facilities. This will allow EV users to travel without worrying about charging while out.",
+      "id": "3c72afa1-3233-4b18-853c-018e2bf2ccdc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網が整備されることで、EVの利便性は格段に向上します。ガソリンスタンドを探す感覚で、気軽に充電スポットを見つけられるようになるでしょう。また、充電時間を有効に使うためのカフェや休憩スペースが併設されるケースも増えており、移動のストレスが軽減されることが期待されています。",
+      "translationZh": "随着快速充电网络的完善，电动汽车的便利性将得到显著提高。人们将能够像寻找加油站一样，轻松找到充电点。此外，也出现了与咖啡馆或休息区相结合的充电设施，以有效利用充电时间，这有望减轻旅途的压力。",
+      "translationEn": "As the quick charging network is developed, the convenience of EVs will significantly improve. People will be able to easily find charging spots, much like finding a gas station. Also, cases where charging stations are accompanied by cafes or rest areas to make effective use of charging time are increasing, and this is expected to reduce travel stress.",
+      "id": "70af3406-50ab-48cf-a445-21748c3d2ac5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "EVの普及には、充電インフラの整備が不可欠です。急速充電網の拡充は、環境に優しい移動手段への移行を後押しするでしょう。今後も、より多くの人がEVを選べるような、快適で安心な充電環境が整っていくことが期待されます。",
+      "translationZh": "充电基础设施的建设对于电动汽车的普及是必不可少的。快速充电网络的扩大将推动向环保出行方式的转变。今后，人们也期待能够建立一个舒适、安心的充电环境，让更多人能够选择电动汽车。",
+      "translationEn": "The development of charging infrastructure is essential for the widespread adoption of EVs. The expansion of the quick charging network will promote the transition to environmentally friendly means of transportation. It is expected that a comfortable and secure charging environment will continue to be established in the future, allowing more people to choose EVs.",
+      "id": "95ad84a1-4408-43b4-92dd-ba6c9e3b5ea6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及；推广",
+      "meaningEn": "spread; proliferation; popularization",
+      "level": "n3",
+      "exampleSentence": "この技術は世界中に普及した。",
+      "id": "1bdd5a75-3bfe-4762-bd63-d7d8db9c3562"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "quick charger",
+      "level": "n3",
+      "exampleSentence": "ショッピングモールに急速充電器が設置された。",
+      "id": "c1ac44bf-6753-4b6f-8cff-3f4ad5531f6f"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充；扩大",
+      "meaningEn": "expansion; extension",
+      "level": "n3",
+      "exampleSentence": "サービスの拡充が求められている。",
+      "id": "3101a050-2f31-41ac-a7e5-5f9aaf4e6b0d"
+    },
+    {
+      "word": "設置",
+      "reading": "せっち",
+      "meaningZh": "设置；安装",
+      "meaningEn": "installation; establishment",
+      "level": "n3",
+      "exampleSentence": "新しい駅が設置されることになった。",
+      "id": "64c3c38d-ad8a-407c-b9ca-7dbc5fe09f46"
+    },
+    {
+      "word": "利便性",
+      "reading": "りべんせい",
+      "meaningZh": "便利性",
+      "meaningEn": "convenience",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及で利便性が増した。",
+      "id": "dd304327-1a58-46a1-8588-7e617805af56"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "infrastructure",
+      "level": "n3",
+      "exampleSentence": "交通インフラの整備は重要だ。",
+      "id": "a283ad06-9964-4300-9548-f4993e8487c1"
+    },
+    {
+      "word": "併設",
+      "reading": "へいせつ",
+      "meaningZh": "并设；附属",
+      "meaningEn": "combination; annex",
+      "level": "n3",
+      "exampleSentence": "図書館にカフェが併設されている。",
+      "id": "7a9edf67-405c-4d2d-962d-17b1a3d1867f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "EVの普及のために、特に重要だと述べられていることは何ですか？",
+      "options": [
+        "EVの価格を下げること",
+        "急速充電器の数や設置場所を増やすこと",
+        "EVの新しいデザインを開発すること",
+        "EVのメンテナンスサービスを充実させること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「EVを安心して使うためには、充電できる場所が十分にあることが重要です。特に、長距離を移動する際には、短時間で充電できる急速充電器の数や設置場所が、利用者の不安を解消する鍵となります。」と述べられています。",
+      "id": "c3760d43-35c5-484f-85e4-e318fbc614ec"
+    },
+    {
+      "question": "急速充電網が拡充されることによって、どのような効果が期待されていますか？",
+      "options": [
+        "EVの走行距離が短くなる",
+        "充電に時間がかかるようになる",
+        "EVの利便性が向上し、移動のストレスが軽減される",
+        "ガソリン車の利用者が増える"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「EVの利便性は格段に向上します。」「移動のストレスが軽減されることが期待されています。」と述べられています。",
+      "id": "154339bc-396d-4fb7-8e5f-40d01e467a0d"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-20-0fdb5d3d7d",
+  "publishedAt": "2026-08-20T06:00:00+09:00"
+}

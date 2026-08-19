@@ -1,0 +1,114 @@
+{
+  "title": "EV充電、もっと便利に！",
+  "summary": "電気自動車（EV）をもっと使いやすくするために、充電できる場所が増えています。遠くまで安心して出かけられます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）が人気です。でも、充電するところが少ないと心配な人もいます。そこで、充電できる場所をたくさん作っています。",
+      "translationZh": "最近，电动汽车（EV）很受欢迎。但是，有些人会担心充电的地方太少。因此，我们正在建设很多充电点。",
+      "translationEn": "Recently, electric cars (EVs) are popular. However, some people worry about not having enough charging places. Therefore, we are building many charging locations.",
+      "id": "d15d2c76-4aa0-4501-ac89-ea2655822ad9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、急速充電ができる場所を増やしています。これがあれば、短い時間でたくさん充電できます。旅行や遠い場所へ行くとき、とても便利になります。",
+      "translationZh": "特别是，我们正在增加可以快速充电的地方。有了这个，可以在短时间内充很多电。去旅行或去远方时，会变得非常方便。",
+      "translationEn": "In particular, we are increasing places where fast charging is possible. With this, you can charge a lot in a short time. It becomes very convenient when traveling or going to distant places.",
+      "id": "632093ef-cddf-4a7a-8b95-5f8d12be0c48",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店やサービスエリア、道の駅など、いろいろな場所に充電器が設置されています。これからももっと増える予定です。EVは環境にもやさしいので、これからも広がるでしょう。",
+      "translationZh": "充电器被安装在商店、服务区、路边休息站等各种地方。今后还会增加。EV对环境也很友好，所以以后也会普及。",
+      "translationEn": "Chargers are being installed in various places such as shops, service areas, and roadside stations. More are planned to be added in the future. EVs are also kind to the environment, so they will likely spread further.",
+      "id": "66c0a432-da46-406a-a72c-e18db75f84a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "Electric Vehicle (EV)",
+      "level": "n5n4",
+      "exampleSentence": "電気自動車はガソリン車より静かです。",
+      "id": "008d59a5-d334-49d6-82e3-fd7d5a0fe1f9"
+    },
+    {
+      "word": "急速充電",
+      "reading": "きゅうそくじゅうでん",
+      "meaningZh": "快速充电",
+      "meaningEn": "Fast charging",
+      "level": "n5n4",
+      "exampleSentence": "急速充電は時間がかかりません。",
+      "id": "bdc598fc-d1c7-4208-a468-400428118464"
+    },
+    {
+      "word": "充電器",
+      "reading": "じゅうでんき",
+      "meaningZh": "充电器",
+      "meaningEn": "Charger",
+      "level": "n5n4",
+      "exampleSentence": "スマホの充電器を忘れた。",
+      "id": "9fdaf3b8-a824-40dd-9036-c58a860929ff"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "Convenient",
+      "level": "n5n4",
+      "exampleSentence": "コンビニは夜も開いていて便利です。",
+      "id": "8a87225b-60a9-40e6-a1bf-a2a439425f67"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "Expansion, reinforcement",
+      "level": "n3",
+      "exampleSentence": "サービスの拡充が期待されています。",
+      "id": "1f861fe2-469d-4950-a494-f92ff1361332"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "Relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "試験が終わって安心しました。",
+      "id": "9124e395-9632-41e3-ace8-153adb1d93ce"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "Environment",
+      "level": "n5n4",
+      "exampleSentence": "環境を守るために、ゴミを減らしましょう。",
+      "id": "23394f1d-1ee6-452a-9ab1-df14748e4ae1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事によると、電気自動車（EV）をもっと使いやすくするために、何が増えていますか。",
+      "options": [
+        "ガソリンスタンド",
+        "充電できる場所",
+        "駐車場",
+        "高速道路"
+      ],
+      "correctIndex": 1,
+      "explanation": "特に、急速充電ができる場所を増やしています。",
+      "id": "2cba47c8-6aa9-4d20-8bdf-26fb68e8da6f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-20-0fdb5d3d7d",
+  "publishedAt": "2026-08-20T06:00:00+09:00"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "若者の間で夜行バス旅が人気上昇中！",
+  "summary": "近年、若年層を中心に夜行バスを利用した格安旅行が注目を集めています。時間と宿泊費を節約できる点が、人気の理由として挙げられています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、若年層の間で夜行バスを利用した旅行が静かなブームとなっている。スマートフォンやインターネットの普及に伴い、情報収集が容易になったこともあり、これまで以上に手軽に旅行計画を立てられるようになったことが背景にあると見られる。特に、週末などを利用して短期間で遠方へ移動したいと考える学生や社会人にとって、宿泊費を浮かせつつ移動時間を有効活用できる夜行バスは、魅力的な選択肢となっているようだ。",
+      "translationZh": "近年来，在年轻人当中，利用夜间巴士进行的旅行正掀起一股不为人知的热潮。随着智能手机和互联网的普及，信息收集变得更加容易，这也使得制定旅行计划比以往任何时候都更加便捷。对于希望利用周末等时间前往远方的学生和上班族来说，夜间巴士在节省住宿费的同时还能有效利用移动时间，似乎是一个极具吸引力的选择。",
+      "translationEn": "In recent years, travel using overnight buses has been quietly gaining popularity among young people. With the spread of smartphones and the internet, information gathering has become easier, which is seen as a background factor enabling them to plan trips more readily than ever before. For students and working adults who wish to travel to distant places during short periods like weekends, overnight buses appear to be an attractive option, allowing them to save on accommodation costs while effectively utilizing travel time.",
+      "id": "1b4d0645-d775-4584-8e5c-4705dc16dad1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスの利便性は、単に費用面だけに留まらない。多くの路線では、主要都市間を結んでおり、深夜に出発して早朝に到着するダイヤが組まれている。これにより、旅行当日の日中を現地で最大限に楽しむことが可能となる。また、近年では車両の快適性も向上しており、リクライニング機能の充実やWi-Fi設備の導入、プライベート空間を確保できるような座席配置などが進められている。こうしたサービス向上は、長時間の移動に対する懸念を軽減し、より多くの利用者を呼び込む一因となっていると考えられる。",
+      "translationZh": "夜间巴士的便利性并不仅限于费用方面。许多线路连接着主要城市，其班次安排是深夜出发，清晨抵达。这使得旅行当天能够最大限度地享受当地的白昼时光。此外，近年来车辆的舒适性也有所提高，如加强了倾斜功能、引进了Wi-Fi设备、以及采用了可以确保私人空间的座位布局等。这种服务上的提升被认为是减轻了长时间移动带来的顾虑，并吸引了更多用户。",
+      "translationEn": "The convenience of overnight buses is not limited solely to cost savings. Many routes connect major cities, with schedules designed for late-night departures and early-morning arrivals. This allows travelers to maximize their enjoyment of the destination during daylight hours on the day of arrival. Furthermore, the comfort of these buses has improved in recent years, with enhanced reclining functions, the introduction of Wi-Fi, and seating arrangements that ensure privacy. These service improvements are thought to mitigate concerns about long journeys and attract a wider range of users.",
+      "id": "d172b555-ded6-4e7b-83fa-b7a8e0701573",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、格安旅行には留意すべき点も存在する。長時間の乗車は、体調管理に注意が必要であり、特に高齢者や体調に不安のある方にとっては負担となり得る。また、予期せぬ遅延が発生する可能性も否定できないため、到着時刻に厳密な予定を組む際には、ある程度の余裕を持たせることが賢明であろう。これらの点を理解した上で、賢く夜行バスを活用することで、より豊かで経済的な旅行体験が実現できると期待されている。",
+      "translationZh": "然而，低成本旅行也存在需要注意的事项。长时间的乘车需要注意身体健康管理，这对于老年人或身体状况不佳的人来说可能是一种负担。另外，也不能排除发生意外延误的可能性，因此在制定严格的抵达时间计划时，留有一定余地是明智的。在理解这些要点的基础上，若能巧妙地利用夜间巴士，有望实现更丰富且经济的旅行体验。",
+      "translationEn": "However, there are also points to consider with budget travel. Long hours of riding require careful attention to physical condition management, and can be burdensome for the elderly or those with health concerns. Furthermore, the possibility of unexpected delays cannot be ruled out; therefore, when making strict arrival time plans, it would be wise to allow for some buffer. By understanding these points and utilizing overnight buses wisely, it is expected that a richer and more economical travel experience can be realized.",
+      "id": "c84183e5-af6d-426e-8718-88c87278a0de",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "格安",
+      "reading": "かくやす",
+      "meaningZh": "便宜，廉价",
+      "meaningEn": "cheap, inexpensive",
+      "level": "n3",
+      "exampleSentence": "格安航空券を探しています。",
+      "id": "9190041e-6959-4e65-b476-bfcda33bc39f"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻人，青年人群",
+      "meaningEn": "young people, youth",
+      "level": "n2n1",
+      "exampleSentence": "若年層の読書離れが問題視されている。",
+      "id": "33a3687d-3045-4885-bba7-6f8659b29379"
+    },
+    {
+      "word": "〜に伴い",
+      "reading": "〜にともない",
+      "meaningZh": "随着……，伴随着……",
+      "meaningEn": "along with, accompanying",
+      "level": "n2n1",
+      "exampleSentence": "技術の進歩に伴い、生活様式も変化した。",
+      "id": "2719077e-47d1-4e3a-8ab2-06326e5c3d22"
+    },
+    {
+      "word": "懸念",
+      "reading": "けねん",
+      "meaningZh": "担忧，担心",
+      "meaningEn": "concern, worry",
+      "level": "n2n1",
+      "exampleSentence": "将来に対する懸念が消えない。",
+      "id": "2a49d2e1-a9a9-43b1-badf-914ab0c2e6ea"
+    },
+    {
+      "word": "路線",
+      "reading": "ろせん",
+      "meaningZh": "线路，路线",
+      "meaningEn": "route, line",
+      "level": "n3",
+      "exampleSentence": "このバスは主要な駅を結ぶ路線です。",
+      "id": "733db84e-90aa-4aa9-ae9b-436deb82e0db"
+    },
+    {
+      "word": "〜と見られる",
+      "reading": "〜とみられる",
+      "meaningZh": "被认为，被看作",
+      "meaningEn": "is considered, is seen as",
+      "level": "n2n1",
+      "exampleSentence": "この現象は、社会の変化の表れと見られている。",
+      "id": "194f4b83-518c-44e7-81cb-a172c644a985"
+    },
+    {
+      "word": "賢く",
+      "reading": "かしこく",
+      "meaningZh": "聪明地，精明地",
+      "meaningEn": "wisely, smartly",
+      "level": "n3",
+      "exampleSentence": "限られた予算内で賢く買い物をする。",
+      "id": "309b5c53-2702-4784-9b42-1ce4bdccad56"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若者の間で夜行バス旅行が人気を集めている主な理由は何ですか？",
+      "options": [
+        "車両のデザインがおしゃれだから",
+        "宿泊費を節約しつつ移動時間を有効活用できるから",
+        "車内でのエンターテイメントが充実しているから",
+        "特別な割引キャンペーンが頻繁に実施されているから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「時間と宿泊費を節約できる点が、人気の理由として挙げられています。」および「宿泊費を浮かせつつ移動時間を有効活用できる夜行バスは、魅力的な選択肢となっているようだ。」と述べられています。",
+      "id": "6b703229-a463-4a16-b659-ae366186cf62"
+    },
+    {
+      "question": "近年、夜行バスの快適性が向上している具体例として、本文で挙げられているものはどれですか？",
+      "options": [
+        "Wi-Fi設備の導入、プライベート空間を確保できる座席配置",
+        "無料の軽食と飲み物の提供",
+        "乗務員による観光案内サービスの充実",
+        "全席個室のスイートルーム仕様"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文の第2段落に「近年では車両の快適性も向上しており、リクライニング機能の充実やWi-Fi設備の導入、プライベート空間を確保できるような座席配置などが進められている。」と記述されています。",
+      "id": "1ad1bd95-b73a-45e7-b792-932d6772ac06"
+    },
+    {
+      "question": "夜行バスを利用する際に、旅行者が注意すべき点として本文で言及されていないものはどれですか？",
+      "options": [
+        "長時間の乗車による体調管理",
+        "予期せぬ遅延の可能性",
+        "到着時刻に余裕を持たせることの重要性",
+        "目的地でのアクティビティの事前予約"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文では、体調管理、遅延の可能性、余裕を持たせることの重要性について触れられていますが、目的地でのアクティビティの事前予約については言及されていません。",
+      "id": "844a30bc-19e0-4e96-a1bb-08f73545ba78"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-20-e85002e2aa",
+  "publishedAt": "2026-08-20T06:00:00+09:00"
+}

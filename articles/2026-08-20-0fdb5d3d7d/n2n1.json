@@ -1,0 +1,138 @@
+{
+  "title": "EV急速充電網、全国で拡充へ",
+  "summary": "電気自動車（EV）の普及を後押しするため、全国的な急速充電網の整備が進められています。これにより、長距離移動の利便性が向上し、EVシフトが加速すると見られています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、地球温暖化対策や環境意識の高まりを受け、電気自動車（EV）への関心が急速に高まっています。しかし、EVの普及を阻む要因の一つとして、充電インフラ、特に急速充電器の設置場所の限定性が指摘されてきました。この課題を克服するため、政府および民間企業は連携し、全国各地に急速充電網を拡充する計画を加速させています。これにより、EVユーザーはより安心して長距離移動を楽しめるようになると期待されています。",
+      "translationZh": "近年来，随着应对全球变暖的措施和环保意识的提高，人们对电动汽车（EV）的兴趣迅速增长。然而，制约EV普及的一个因素被认为是充电基础设施，特别是快速充电器的设置地点有限。为了克服这一挑战，政府和私营企业正在合作，加速推进在全国各地扩充快速充电网络的计划。这有望使EV用户能够更安心地享受长途旅行。",
+      "translationEn": "In recent years, driven by efforts to combat global warming and rising environmental awareness, interest in electric vehicles (EVs) has surged. However, one of the factors hindering EV adoption has been the limited availability of charging infrastructure, particularly fast chargers. To overcome this challenge, the government and private companies are collaborating to accelerate plans to expand the fast-charging network nationwide. This is expected to enable EV users to enjoy long-distance travel with greater peace of mind.",
+      "id": "cd758d1d-b693-4dac-9f07-e1545319a7a0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい急速充電網の整備は、高速道路のサービスエリアやパーキングエリアに加え、都市部の商業施設、公共駐車場など、多様な場所を対象に進められています。これにより、ドライバーは目的地までの移動途中や、買い物の合間などに手軽に充電できるようになり、充電待ち時間のストレス軽減にも繋がると見られます。また、充電規格の統一や、決済システムの簡便化といった取り組みも並行して進められており、利便性の向上は今後さらに加速するでしょう。",
+      "translationZh": "新的快速充电网络的建设，除了高速公路的服务区和停车场外，还将城市地区的商业设施、公共停车场等多样化地点纳入其中。这使得驾驶员可以在前往目的地途中或购物间隙方便地充电，并有望减轻等待充电的压力。此外，充电标准的统一和支付系统的简化等措施也在同步进行，便利性的提升在未来将进一步加速。",
+      "translationEn": "The development of the new fast-charging network targets diverse locations, including service areas and parking areas on expressways, as well as commercial facilities and public parking lots in urban areas. This will allow drivers to easily charge their vehicles while traveling to their destinations or during shopping breaks, and is expected to reduce the stress associated with charging wait times. Furthermore, initiatives such as standardizing charging protocols and simplifying payment systems are progressing concurrently, which will further accelerate improvements in convenience.",
+      "id": "0de83309-35f1-4887-86a1-f7d33766558e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この急速充電網の拡充は、EVの航続距離に対する不安（レンジ・アングスト）を解消し、より多くの消費者にEVの購入を促す強力な後押しとなると考えられています。充電インフラの整備が進むにつれて、ガソリン車からの乗り換えを検討する層が拡大し、国内の自動車市場におけるEVのシェアは今後大きく変化していく可能性があります。各地域における充電スポットの地図情報なども整備され、EVライフのサステナビリティが一段と高まることが期待されています。",
+      "translationZh": "这种快速充电网络的扩充被认为将消除对EV续航里程的担忧（里程焦虑），并成为鼓励更多消费者购买EV的强大推动力。随着充电基础设施的完善，考虑从燃油车转向EV的群体将扩大，国内汽车市场的EV份额未来可能会发生巨大变化。预计各地充电点的地图信息也将得到完善，EV生活的可持续性将得到进一步提升。",
+      "translationEn": "This expansion of the fast-charging network is considered a powerful catalyst to alleviate range anxiety for EVs and encourage more consumers to purchase them. As charging infrastructure improves, the segment of the population considering switching from gasoline cars to EVs will grow, potentially leading to significant changes in the market share of EVs in the domestic automotive industry. It is anticipated that mapping information for charging spots in various regions will also be developed, further enhancing the sustainability of EV ownership.",
+      "id": "47d57ce6-dc43-434d-9984-3872a183e904",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "expansion, enlargement",
+      "level": "n2n1",
+      "exampleSentence": "都市部における住宅供給の拡充が求められている。",
+      "id": "396b5f25-707e-4715-a97c-ed334e89d425"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, dissemination, popularization",
+      "level": "n3",
+      "exampleSentence": "インターネットの普及により、情報収集が容易になった。",
+      "id": "dcd69fb3-6f46-4d0d-a567-cc116734087f"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "支持，推动",
+      "meaningEn": "support, push, boost",
+      "level": "n2n1",
+      "exampleSentence": "政府の政策が産業の発展を後押しした。",
+      "id": "9ff06ce1-9ae9-4d49-85f2-8ba92c7c115c"
+    },
+    {
+      "word": "阻む",
+      "reading": "はばむ",
+      "meaningZh": "阻碍，阻止",
+      "meaningEn": "to hinder, to obstruct, to block",
+      "level": "n2n1",
+      "exampleSentence": "経済成長を阻む要因を分析する必要がある。",
+      "id": "6a07a03b-ef49-4fb1-b1a8-9aca8e55f4f8"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "infrastructure",
+      "level": "n3",
+      "exampleSentence": "交通インフラの整備は経済発展に不可欠だ。",
+      "id": "d43100fe-ee9b-4a76-bf2d-6f5eb614fcef"
+    },
+    {
+      "word": "限定性",
+      "reading": "げんていせい",
+      "meaningZh": "限定性",
+      "meaningEn": "limitation, restriction",
+      "level": "n2n1",
+      "exampleSentence": "この技術の限定性を理解した上で活用すべきだ。",
+      "id": "0d7c13a3-17ac-4ce0-bf72-82e8c9f2c5cd"
+    },
+    {
+      "word": "航続距離",
+      "reading": "こうぞくきょり",
+      "meaningZh": "续航里程",
+      "meaningEn": "cruising range, travel distance",
+      "level": "n2n1",
+      "exampleSentence": "EVの航続距離は年々延びている。",
+      "id": "7d055777-b3fa-4d03-852c-13372d77c3cf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事によると、電気自動車（EV）の普及を阻む要因の一つは何だと指摘されていますか。",
+      "options": [
+        "充電料金の高さ",
+        "車種の選択肢の少なさ",
+        "急速充電器の設置場所の限定性",
+        "バッテリーの寿命の短さ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「しかし、EVの普及を阻む要因の一つとして、充電インフラ、特に急速充電器の設置場所の限定性が指摘されてきました。」と記載されています。",
+      "id": "43384537-1fa2-4287-b87d-58843b8252a4"
+    },
+    {
+      "question": "急速充電網の整備は、どのような場所を対象に進められていますか。",
+      "options": [
+        "主に地方のガソリンスタンド",
+        "高速道路、商業施設、公共駐車場など多様な場所",
+        "EVメーカーの直営店のみ",
+        "家庭用充電器の設置が可能な場所"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「新しい急速充電網の整備は、高速道路のサービスエリアやパーキングエリアに加え、都市部の商業施設、公共駐車場など、多様な場所を対象に進められています。」とあります。",
+      "id": "d1aec854-9a5d-4a93-9c28-f650ab9bebc6"
+    },
+    {
+      "question": "急速充電網の拡充によって、どのような効果が期待されていますか。",
+      "options": [
+        "EVの製造コスト削減",
+        "ガソリン価格の引き下げ",
+        "EVの航続距離に対する不安の解消とEV購入促進",
+        "充電時間のさらなる長期化"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「この急速充電網の拡充は、EVの航続距離に対する不安（レンジ・アングスト）を解消し、より多くの消費者にEVの購入を促す強力な後押しとなると考えられています。」と述べられています。",
+      "id": "dc6c07b6-5ec8-4bc6-b404-6fa22fc79b0c"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-20-0fdb5d3d7d",
+  "publishedAt": "2026-08-20T06:00:00+09:00"
+}
