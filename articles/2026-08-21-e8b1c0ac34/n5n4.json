@@ -1,0 +1,131 @@
+{
+  "title": "昔の道具が新しい！",
+  "summary": "昔の民芸品が今、若者に人気です。新しいコレクターが増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、日本には「民芸運動（みんげいうんどう）」がありました。これは、昔からある生活の道具を大切にする運動でした。丈夫で美しい道具がたくさん作られました。",
+      "translationZh": "以前，日本有一个叫做“民艺运动”的活动。这是一个珍惜自古以来生活用具的运动。许多结实又美丽的用具被制作出来。",
+      "translationEn": "Long ago, there was a \"Mingei Movement\" in Japan. This was a movement to cherish traditional everyday tools. Many sturdy and beautiful tools were made.",
+      "id": "1a57557d-8582-42fa-972b-e0671aca8559",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、この民芸運動の道具が、若い人たちの間で人気が出てきました。古いお店やインターネットで、これらの道具を探す人が増えています。若いコレクターが、少しずつ増えています。",
+      "translationZh": "最近，这些民艺运动的用具在年轻人之间开始流行起来。在老店和网络上，寻找这些用具的人增加了。年轻的收藏家正在一点点地增加。",
+      "translationEn": "Recently, these tools from the Mingei Movement have become popular among young people. More people are looking for these tools in old shops and online. Young collectors are gradually increasing.",
+      "id": "8cbd12cc-a235-46d6-804c-9da68698fcac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜ人気なのでしょうか？それは、昔の道具に「温かい心」を感じるからかもしれません。一つ一つ手で作られた道具には、人の心がこもっています。それは、今の時代にとても大切だと考えられています。",
+      "translationZh": "为什么会受欢迎呢？也许是因为我们能从旧的用具中感受到“温暖的心”。每一个手工制作的用具都饱含着人的心意。这在当今时代被认为是非常重要的。",
+      "translationEn": "Why are they popular? Perhaps it's because people feel a \"warm heart\" from the old tools. Tools made by hand one by one contain human feelings. This is considered very important in today's era.",
+      "id": "94922476-2c36-4c95-b0b8-7e0ee6a28ea0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい世代のコレクターは、SNSでもその魅力を伝えています。昔の道具が、新しい形でまた愛されています。",
+      "translationZh": "新一代的收藏家们也在社交媒体上分享它们的魅力。旧的用具，以新的方式再次受到喜爱。",
+      "translationEn": "New generation collectors are also sharing their charm on social media. Old tools are loved again in new ways.",
+      "id": "0f6e7c79-cb7e-4801-beaf-fa29691edf55",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaningZh": "工具，用具",
+      "meaningEn": "tool, implement, instrument",
+      "level": "n5n4",
+      "exampleSentence": "この道具はとても使いやすいです。",
+      "id": "6ab0a443-00dd-4bb6-a62e-e56e7b6618c2"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaningZh": "运动（活动）",
+      "meaningEn": "movement, exercise",
+      "level": "n5n4",
+      "exampleSentence": "新しい文化運動が始まりました。",
+      "id": "d03c716a-57fb-4f37-8abc-dc0d36418e51"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要，珍惜",
+      "meaningEn": "important, precious, valuable",
+      "level": "n5n4",
+      "exampleSentence": "家族を大切にしてください。",
+      "id": "3bb06dff-ae98-44ac-9398-bfe12800905e"
+    },
+    {
+      "word": "丈夫",
+      "reading": "じょうぶ",
+      "meaningZh": "结实，坚固",
+      "meaningEn": "strong, durable, sturdy",
+      "level": "n5n4",
+      "exampleSentence": "この椅子はとても丈夫です。",
+      "id": "50e18323-9afb-4c18-8da4-c70bb5529da7"
+    },
+    {
+      "word": "美しい",
+      "reading": "うつくしい",
+      "meaningZh": "美丽的",
+      "meaningEn": "beautiful",
+      "level": "n5n4",
+      "exampleSentence": "富士山は美しいです。",
+      "id": "ffc544b8-20d6-44cd-9150-7a9f8d2548fe"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "0129073e-5f4b-41be-9139-c396e4f4dce5"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n3",
+      "exampleSentence": "日本の伝統的な文化を学びました。",
+      "id": "8924d23f-1c73-4f82-9ec4-208302a45a9f"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "世代",
+      "meaningEn": "generation",
+      "level": "n3",
+      "exampleSentence": "新しい世代は古い世代と違います。",
+      "id": "e3641647-eafc-4964-999f-311c0296489e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ昔の道具が今、若い人に人気がありますか？",
+      "options": [
+        "安くて、たくさん買えるからです。",
+        "丈夫で、デザインがいいからです。",
+        "温かい心を感じるからかもしれません。",
+        "インターネットで簡単に見つかるからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "それは、昔の道具に「温かい心」を感じるからかもしれません。",
+      "id": "b7d4f1d3-476a-4020-9732-cbddbd765b95"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-21-e8b1c0ac34",
+  "publishedAt": "2026-08-21T06:00:00+09:00"
+}

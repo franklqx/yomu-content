@@ -1,0 +1,122 @@
+{
+  "title": "新しい工場ができました！",
+  "summary": "日本の会社が新しい工場を作りました。この工場は半導体を作ります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の会社が新しい工場を建てました。この工場はとても大きいです。そして、新しい機械がたくさんあります。",
+      "translationZh": "一家日本公司建造了一座新工厂。这座工厂非常大，里面有很多新机器。",
+      "translationEn": "A Japanese company built a new factory. This factory is very big. And there are many new machines inside.",
+      "id": "56d889ea-797d-4277-bb3f-4e83b62b7576",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この工場では半導体を作ります。半導体は、スマートフォンやコンピューターに使う大事なものです。新しい工場で、もっとたくさん作れるようになります。",
+      "translationZh": "这座工厂生产半导体。半导体是智能手机和电脑上使用的一件重要物品。有了新工厂，就能生产更多了。",
+      "translationEn": "This factory makes semiconductors. Semiconductors are important things used in smartphones and computers. With the new factory, it will be possible to make more.",
+      "id": "1dea7fd4-875b-45da-9ebf-bfc5f7cdcfc3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "工場はもうすぐ動きます。たくさんの人がここで働きます。会社は、日本でもっと半導体を作りたいと思っています。",
+      "translationZh": "工厂很快就要开始运转了。很多人将在这里工作。公司希望在日本生产更多的半导体。",
+      "translationEn": "The factory will start operating soon. Many people will work here. The company wants to make more semiconductors in Japan.",
+      "id": "62d7a77d-4580-4241-9d95-135c6f70c832",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい工場は、日本の経済にとって良いことです。これからも、この会社が作る半導体が使われるのが楽しみです。",
+      "translationZh": "新工厂对日本经济是件好事。今后，使用这家公司生产的半导体也令人期待。",
+      "translationEn": "The new factory is good for Japan's economy. We look forward to using the semiconductors this company will make in the future.",
+      "id": "358fc79c-0a30-4651-abee-c0c7ce22c3c5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaningZh": "工厂",
+      "meaningEn": "factory",
+      "level": "n5n4",
+      "exampleSentence": "新しい工場ができました。",
+      "id": "17d7a8bd-ef2f-471a-9306-6307490e7ab7"
+    },
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "半導体は小さいけれど、とても大事です。",
+      "id": "7ee641dc-0844-44d9-a6ee-ee0472d18bd0"
+    },
+    {
+      "word": "建てる",
+      "reading": "たてる",
+      "meaningZh": "建造，建立",
+      "meaningEn": "to build",
+      "level": "n5n4",
+      "exampleSentence": "新しい学校を建てました。",
+      "id": "067935ec-a38d-4dbf-8009-2ce8fb63a7fd"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaningZh": "机器",
+      "meaningEn": "machine",
+      "level": "n5n4",
+      "exampleSentence": "この機械は使いやすいです。",
+      "id": "cf8d3501-a534-47c2-b07d-712330d866fa"
+    },
+    {
+      "word": "スマートフォン",
+      "reading": "スマートフォン",
+      "meaningZh": "智能手机",
+      "meaningEn": "smartphone",
+      "level": "n5n4",
+      "exampleSentence": "新しいスマートフォンが欲しいです。",
+      "id": "c08b8b27-9924-4b10-9b60-fab465393b0b"
+    },
+    {
+      "word": "経済",
+      "reading": "けいざい",
+      "meaningZh": "经济",
+      "meaningEn": "economy",
+      "level": "n3",
+      "exampleSentence": "経済の勉強は難しいです。",
+      "id": "a62fd276-9523-4aed-977c-dbccdc34dbbe"
+    },
+    {
+      "word": "動く",
+      "reading": "うごく",
+      "meaningZh": "运转，开动",
+      "meaningEn": "to move, to operate",
+      "level": "n5n4",
+      "exampleSentence": "車が動きました。",
+      "id": "aa635f66-722d-4917-9aa3-499b97a3979e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい工場では、何を作りますか。",
+      "options": [
+        "車",
+        "スマートフォン",
+        "半導体",
+        "コンピューター"
+      ],
+      "correctIndex": 2,
+      "explanation": "この工場では半導体を作ります。半導体は、スマートフォンやコンピューターに使う大事なものです。",
+      "id": "01d80f68-cdcf-499a-ad4c-fd7a13f5bebc"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-21-c52965aeb4",
+  "publishedAt": "2026-08-21T06:00:00+09:00"
+}

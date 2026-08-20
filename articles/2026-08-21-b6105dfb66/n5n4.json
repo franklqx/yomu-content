@@ -1,0 +1,131 @@
+{
+  "title": "町を元気に！地域通貨",
+  "summary": "商店街で新しいお金が使われ始めました。このお金は、町を元気にするためのものです。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "昔、商店街はとてもにぎやかでした。でも、最近は人が少なくなりました。お店の人も困っています。そこで、町を元気にしようと考えました。",
+      "translationZh": "以前，商店街非常热闹。但是，最近人变少了。店主们也很困扰。于是，大家想出了让城镇变热闹的办法。",
+      "translationEn": "In the past, shopping streets were very lively. However, recently, fewer people have been coming. Shop owners are also in trouble. So, they thought of a way to make the town lively again.",
+      "id": "ffcf141c-1aea-4041-96f6-c60082912837",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "その考えは「地域通貨」を使うことです。地域通貨は、その町だけで使える特別な「お金」です。例えば、１００円で地域通貨１００「ポイント」を買えます。",
+      "translationZh": "那个办法是使用“地域货币”。地域货币是在那个城镇里才能使用的特别的“钱”。例如，用100日元可以买到100个地域货币“点数”。",
+      "translationEn": "That idea is to use \"local currency.\" Local currency is special \"money\" that can only be used in that town. For example, you can buy 100 \"points\" of local currency with 100 yen.",
+      "id": "228c77e9-930f-4730-b21b-16dbbcf377a0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この地域通貨で、町のお店で買い物ができます。例えば、パン屋さんや魚屋さんで使えます。お店は、この通貨でまた新しい商品を買ったり、お店をきれいにしたりします。",
+      "translationZh": "可以用这种地域货币在镇上的商店购物。例如，可以在面包店或鱼店使用。商店可以用这些货币购买新的商品，或者把店面打扫干净。",
+      "translationEn": "You can shop at local stores with this local currency. For example, you can use it at bakeries or fish shops. Stores use this currency to buy new products or clean up their shops.",
+      "id": "4dbacd88-13de-4d0e-8290-82d111772a78",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨を使うと、町のお金が町の外に出ません。町の中でお金が回るので、町がもっと元気になります。これからも、この取り組みが広がるのが楽しみです。",
+      "translationZh": "使用地域货币，镇上的钱就不会流出镇外。钱在镇上流通，城镇就会变得更加有活力。今后，也很期待这个措施能得到推广。",
+      "translationEn": "When local currency is used, the town's money doesn't flow out of the town. Because the money circulates within the town, the town becomes more lively. We look forward to this initiative spreading further.",
+      "id": "e4d6d504-a4b7-4523-8ef9-0c8253e25829",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街は昔から有名です。",
+      "id": "2ee53ed1-32c7-4205-b44c-5d57c4c2d626"
+    },
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "地域货币",
+      "meaningEn": "local currency",
+      "level": "n5n4",
+      "exampleSentence": "地域通貨で買い物をしました。",
+      "id": "06e34169-e320-4b9e-8597-0073f569b6c2"
+    },
+    {
+      "word": "元気に",
+      "reading": "げんきに",
+      "meaningZh": "有活力地，健康地",
+      "meaningEn": "energetically, healthily",
+      "level": "n5n4",
+      "exampleSentence": "町が元気になるように頑張ります。",
+      "id": "394836ff-ee6e-47a0-88ff-d7508ef1a7a0"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとてもにぎやかでした。",
+      "id": "f045a1f4-3006-4946-9e93-e46ecc368e75"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な機会です。",
+      "id": "e88c8e0a-0927-44a7-a270-e598997aea26"
+    },
+    {
+      "word": "パン屋",
+      "reading": "パンや",
+      "meaningZh": "面包店",
+      "meaningEn": "bakery",
+      "level": "n5n4",
+      "exampleSentence": "パン屋でパンを買いました。",
+      "id": "30c7d764-d6c0-49e5-b7c5-ce52ea589eab"
+    },
+    {
+      "word": "魚屋",
+      "reading": "さかなや",
+      "meaningZh": "鱼店",
+      "meaningEn": "fish shop",
+      "level": "n5n4",
+      "exampleSentence": "魚屋で新鮮な魚を買いました。",
+      "id": "8f9cd0d7-e563-4b64-993f-c9a0116b940b"
+    },
+    {
+      "word": "回る",
+      "reading": "まわる",
+      "meaningZh": "循环，转动",
+      "meaningEn": "to circulate, to go around",
+      "level": "n5n4",
+      "exampleSentence": "お金が町の中で回ります。",
+      "id": "8dbdec83-f9a6-4a81-a3a4-430416d6dc56"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域通貨は、どこで使うことができますか？",
+      "options": [
+        "町のお店のどこでも",
+        "町の中のお店だけ",
+        "日本中のどのお店でも",
+        "オンラインだけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "地域通貨は、その町だけで使える特別な「お金」です。例えば、１００円で地域通貨１００「ポイント」を買えます。この地域通貨で、町のお店で買い物ができます。",
+      "id": "1c9bde4d-aa54-40b2-b19b-035e0e6db682"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-21-b6105dfb66",
+  "publishedAt": "2026-08-21T06:00:00+09:00"
+}

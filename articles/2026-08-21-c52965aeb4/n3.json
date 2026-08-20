@@ -1,0 +1,135 @@
+{
+  "title": "国産半導体メーカー新工場稼働！未来への期待高まる",
+  "summary": "国内の半導体メーカーが新しい工場を稼働させました。これにより、技術力の向上と経済への貢献が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "国内の大手半導体メーカーである「テック・ソリューションズ」は、最新鋭の製造ラインを備えた新工場をこのほど稼働させました。この新工場は、これまで以上に高性能な半導体の生産を目指しており、国内外から大きな注目を集めています。建設には多くの時間と費用がかかりましたが、ついにその時が来たのです。",
+      "translationZh": "国内大型半导体制造商“Tech Solutions”近日稼动了配备了最先进生产线的工厂。这家新工厂以生产比以往更高性能的半导体为目标，正受到国内外的高度关注。建设耗费了大量时间和资金，但终于等来了这一天。",
+      "translationEn": "A major domestic semiconductor manufacturer, \"Tech Solutions,\" has recently started operations at its new factory equipped with cutting-edge production lines. This new factory aims to produce higher-performance semiconductors than ever before and is attracting significant attention both domestically and internationally. Its construction took a lot of time and money, but that moment has finally arrived.",
+      "id": "9dd6e9d0-3b6c-4237-90e6-f2bde411a216",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新工場の稼働は、単に生産能力が増えるということだけではありません。最新技術を導入したことで、これまで難しかった複雑な設計の半導体も作れるようになります。また、環境への配慮も進められており、省エネルギー型の設備が多数導入されている点も評価されています。これにより、持続可能な社会の実現にも貢献することが期待されています。",
+      "translationZh": "新工厂的稼动不仅仅意味着产能的增加。通过引入最新技术，以前难以制造的复杂设计的半导体也能够被生产出来。此外，工厂在环境保护方面也取得了进展，大量引进节能型设备这一点也备受好评。因此，人们期待它能为实现可持续社会做出贡献。",
+      "translationEn": "The operation of the new factory does not simply mean an increase in production capacity. By introducing the latest technology, it will become possible to manufacture semiconductors with complex designs that were previously difficult. Furthermore, environmental considerations have also been advanced, and the adoption of many energy-saving facilities is highly praised. Thus, it is expected to contribute to the realization of a sustainable society.",
+      "id": "f0c8d63e-5440-478a-88b3-a25c04ead680",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この工場では、約500人の新しい雇用も生まれる見込みです。地域経済の活性化はもちろんのこと、専門知識を持つ人材の育成にもつながるでしょう。国の経済成長を支える基幹産業として、半導体分野の発展は非常に重要であり、今回の新工場稼働はその象徴と言えるでしょう。これからも、さらなる技術革新が期待されます。",
+      "translationZh": "这家工厂预计将创造约500个新的就业岗位。这不仅将振兴当地经济，还将有助于培养拥有专业知识的人才。作为支撑国家经济增长的基干产业，半导体领域的发展至关重要，而此次新工厂的稼动可以说就是这一点的象征。今后，人们也期待着进一步的技术革新。",
+      "translationEn": "This factory is expected to create about 500 new jobs. Not only will it revitalize the local economy, but it will also contribute to the development of human resources with specialized knowledge. The development of the semiconductor sector is extremely important as a core industry supporting national economic growth, and the operation of this new factory can be seen as a symbol of this. Further technological innovation is expected from now on.",
+      "id": "cf1a4067-459e-4b6e-a661-71e59b74d4bc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "この新しいチップは半導体技術の進歩を示しています。",
+      "id": "4d55d161-f4db-422a-b8f9-b7456eb46cac"
+    },
+    {
+      "word": "メーカー",
+      "reading": "めーかー",
+      "meaningZh": "制造商",
+      "meaningEn": "manufacturer",
+      "level": "n5n4",
+      "exampleSentence": "この製品は有名なメーカーで作られています。",
+      "id": "229c4f9c-3f9f-4512-a7ce-45a88adb2527"
+    },
+    {
+      "word": "稼働",
+      "reading": "かどう",
+      "meaningZh": "稼动，运转",
+      "meaningEn": "operation, running",
+      "level": "n3",
+      "exampleSentence": "新しい機械が今日から稼働を開始します。",
+      "id": "422ab0f1-1511-48e1-b31f-b756690a1661"
+    },
+    {
+      "word": "最新鋭",
+      "reading": "さいしんえい",
+      "meaningZh": "最先进的",
+      "meaningEn": "state-of-the-art, newest",
+      "level": "n2n1",
+      "exampleSentence": "工場には最新鋭の設備が導入されました。",
+      "id": "1e7a015d-32de-4f69-bb23-26940ceb1c26"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaningZh": "生产",
+      "meaningEn": "production",
+      "level": "n3",
+      "exampleSentence": "この工場では部品の生産が行われています。",
+      "id": "bf98a2f2-2f56-4c9f-917a-ae0bc38ba4cf"
+    },
+    {
+      "word": "性能",
+      "reading": "せいのう",
+      "meaningZh": "性能",
+      "meaningEn": "performance",
+      "level": "n3",
+      "exampleSentence": "この車の性能は非常に高いです。",
+      "id": "1fc6cf09-d3de-4ee4-87dc-c6764f6767b2"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "关怀，考虑",
+      "meaningEn": "consideration, care",
+      "level": "n2n1",
+      "exampleSentence": "環境への配慮が求められています。",
+      "id": "5d2765dd-d92f-44fd-84a3-816276f3a852"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，活跃化",
+      "meaningEn": "activation, revitalization",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の活性化が課題です。",
+      "id": "5e1e9595-9f6f-4d30-81d9-ecc00875bc1c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい工場では、どのような点が進歩したと書かれていますか？",
+      "options": [
+        "生産能力が大幅に増えたことだけ",
+        "最新技術でより複雑な半導体も作れるようになったこと",
+        "従業員の給料が上がったこと",
+        "古い機械を修理して使い続けること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最新技術を導入したことで、これまで難しかった複雑な設計の半導体も作れるようになります。」と書かれています。",
+      "id": "03112d27-c806-41c8-85d2-0b58cf0f1521"
+    },
+    {
+      "question": "新工場の稼働によって、地域にどのような良い影響が期待されますか？",
+      "options": [
+        "交通渋滞が悪化すること",
+        "物価が急激に上がること",
+        "新しい雇用が生まれ、地域経済が活発になること",
+        "古い工場が閉鎖されること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「約500人の新しい雇用も生まれる見込みです。地域経済の活性化はもちろんのこと、専門知識を持つ人材の育成にもつながるでしょう。」と書かれています。",
+      "id": "740376d8-0146-4793-b6a3-393387cb52f6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-21-c52965aeb4",
+  "publishedAt": "2026-08-21T06:00:00+09:00"
+}
