@@ -1,0 +1,135 @@
+{
+  "title": "桜前線！地方都市のおすすめお花見スポット",
+  "summary": "春の訪れとともに、各地で桜の見頃が近づいています。今回は、桜が美しい地方都市とその見どころをご紹介します。ゆっくりとした時間を過ごしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "暖かい日が増え、いよいよ桜の季節がやってきました。特に地方都市では、都会の喧騒から離れて、ゆったりと桜を楽しむことができます。例えば、山あいにひっそりと佇む〇〇町では、川沿いに数キロメートルにわたって桜並木が続き、満開時には息をのむような美しさです。地元の人は、この時期になると、川辺でピクニックをしながらお花見をするのが恒例となっています。",
+      "translationZh": "温暖的日子渐多，樱花季终于来临了。尤其是在地方城市，您可以远离都市的喧嚣，悠闲地欣赏樱花。例如，在静静地坐落在山间的〇〇町，河岸边绵延数公里的樱花树盛开，满开时美得令人窒息。当地人到了这个时节，习惯于在河边野餐赏花。",
+      "translationEn": "As warmer days increase, the cherry blossom season has finally arrived. Especially in regional cities, you can enjoy cherry blossoms at a leisurely pace, away from the hustle and bustle of the city. For example, in the quiet town of XX, nestled in the mountains, cherry trees line the river for several kilometers, creating a breathtakingly beautiful scene when in full bloom. It's a tradition for locals to have picnics by the river and enjoy the blossoms during this time.",
+      "id": "6ced2651-039e-405c-8c42-d08de49fbf60",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、古くからの城下町である△△市も、桜の名所として知られています。城跡公園には、ソメイヨシノを中心に約1000本の桜が植えられており、満開の時期には、古城と桜のコントラストが非常に風情があります。夜になると、ぼんぼりに照らされた夜桜も楽しむことができ、昼間とは違った幻想的な雰囲気になります。地元の特産品を味わえる屋台も多く出店するので、食べ歩きもおすすめです。",
+      "translationZh": "此外，古老的城下町△△市也以其樱花胜景而闻名。在城迹公园里，主要种植着约1000株染井吉野樱，满开时，古城与樱花的对比别具风情。夜晚，还可以欣赏到被灯笼照亮的夜樱，与白天有着截然不同的梦幻氛围。还有许多售卖当地特产的小吃摊，边走边吃也是不错的选择。",
+      "translationEn": "Furthermore, the historic castle town of △△ City is also known as a famous spot for cherry blossoms. Approximately 1,000 cherry trees, mainly Somei Yoshino, are planted in the castle ruins park. During full bloom, the contrast between the ancient castle and the cherry blossoms is exceptionally picturesque. At night, you can also enjoy the illuminated cherry blossoms by lanterns, creating a magical atmosphere different from the daytime. Many food stalls selling local specialties also open, making it recommended to eat while walking.",
+      "id": "ac877722-c12a-465f-89ac-8f7ae855e873",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方都市へのお出かけは、公共交通機関が限られている場合も少なくありません。そのため、自家用車で行くか、事前にレンタカーの手配をしておくことをお勧めします。桜の見頃は短いため、訪れる前に現地の観光協会のウェブサイトなどで開花状況を確認しておくと、より計画的に旅を楽しむことができるでしょう。せっかくの桜、満喫してくださいね。",
+      "translationZh": "前往地方城市时，公共交通工具往往有限。因此，建议您自驾前往，或提前安排好租车事宜。由于樱花的花期很短，出行前最好在当地旅游协会的网站上确认开花情况，这样可以更有效地规划您的旅程。请务必充分享受这宝贵的樱花时光。",
+      "translationEn": "When traveling to regional cities, public transportation options are often limited. Therefore, it is recommended to drive your own car or arrange for a rental car in advance. Since the cherry blossom viewing season is short, it would be best to check the blooming status on the local tourism association's website before visiting to plan your trip more effectively. Please make sure to fully enjoy this precious cherry blossom season.",
+      "id": "fc425eca-f315-4199-b5dc-211d0c9a58ad",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧闹，喧嚣",
+      "meaningEn": "Noise and bustle; clamor",
+      "level": "n3",
+      "exampleSentence": "都会の喧騒を離れて、静かな場所でリラックスしたい。",
+      "id": "c1e233e0-a698-4bdf-bbd2-db0b3d3243a6"
+    },
+    {
+      "word": "佇む",
+      "reading": "たたずむ",
+      "meaningZh": "站立，伫立（多指静止不动）",
+      "meaningEn": "To stand; to be situated",
+      "level": "n3",
+      "exampleSentence": "古い建物が静かに佇んでいる。",
+      "id": "2505f669-6d9a-4040-adc2-3dbb1ddf8622"
+    },
+    {
+      "word": "息をのむ",
+      "reading": "いきをのむ",
+      "meaningZh": "屏息，惊叹",
+      "meaningEn": "To gasp; to be breathtaking",
+      "level": "n3",
+      "exampleSentence": "その景色は息をのむほど美しかった。",
+      "id": "b460fd7b-e93c-4bc8-9b1c-cf957584c054"
+    },
+    {
+      "word": "恒例",
+      "reading": "こうれい",
+      "meaningZh": "例行的，惯例",
+      "meaningEn": "Customary; traditional",
+      "level": "n3",
+      "exampleSentence": "このお祭りは毎年恒例で行われる。",
+      "id": "282d3cdd-9d39-42d0-b5d9-c501c655399d"
+    },
+    {
+      "word": "風情",
+      "reading": "ふぜい",
+      "meaningZh": "情调，韵味",
+      "meaningEn": "Charm; taste; elegance; atmosphere",
+      "level": "n3",
+      "exampleSentence": "古い街並みには独特の風情がある。",
+      "id": "73d0cd78-9f52-4aef-a2bd-29b81534be3c"
+    },
+    {
+      "word": "幻想的",
+      "reading": "げんそうてき",
+      "meaningZh": "梦幻般的，幻想的",
+      "meaningEn": "Fantastic; illusory; unreal",
+      "level": "n3",
+      "exampleSentence": "夜景が幻想的で感動した。",
+      "id": "b6e35342-ec5b-4ed7-9c3d-861ff735c7bf"
+    },
+    {
+      "word": "風情",
+      "reading": "ふぜい",
+      "meaningZh": "情调，韵味",
+      "meaningEn": "Charm; taste; elegance; atmosphere",
+      "level": "n3",
+      "exampleSentence": "古い街並みには独特の風情がある。",
+      "id": "1891b352-8f01-4689-9a83-cd031f72b077"
+    },
+    {
+      "word": "開花状況",
+      "reading": "かいかじょうきょう",
+      "meaningZh": "开花状况",
+      "meaningEn": "Blooming status",
+      "level": "n3",
+      "exampleSentence": "桜の開花状況を毎日チェックしています。",
+      "id": "c731cc6d-c6dc-4732-9990-323d81f84b19"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "〇〇町では、桜の時期にどのような過ごし方が紹介されていますか？",
+      "options": [
+        "川沿いの桜並木をサイクリングする",
+        "地元の温泉でリラックスする",
+        "川辺でピクニックをしながらお花見をする",
+        "桜の木の下で伝統的な踊りを踊る"
+      ],
+      "correctIndex": 2,
+      "explanation": "文中には「地元の人は、この時期になると、川辺でピクニックをしながらお花見をするのが恒例となっています。」とあります。",
+      "id": "fee99fa0-5342-426d-8d35-f670673d0f35"
+    },
+    {
+      "question": "△△市の城跡公園の桜について、本文で述べられていることは何ですか？",
+      "options": [
+        "夜桜はライトアップされていない",
+        "約1000本の桜があり、昼と夜で違った雰囲気を楽しめる",
+        "桜の数は少ないが、古城とのコントラストが美しい",
+        "桜の開花時期には特別な祭りがある"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「城跡公園には、ソメイヨシノを中心に約1000本の桜が植えられており、満開の時期には、古城と桜のコントラストが非常に風情があります。夜になると、ぼんぼりに照らされた夜桜も楽しむことができ、昼間とは違った幻想的な雰囲気になります。」とあります。",
+      "id": "9666c1f9-9f08-430d-a18f-ec162ec80b81"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-22-dc0e4d5466",
+  "publishedAt": "2026-08-22T06:00:00+09:00"
+}

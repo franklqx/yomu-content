@@ -1,0 +1,131 @@
+{
+  "title": "新しいアニメが始まる！",
+  "summary": "今年の秋、新しいアニメがたくさん始まります。どんなアニメが人気になるか、楽しみですね。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今年の秋は、新しいアニメがたくさん放送されます。アニメは、子供から大人まで、たくさんの人に楽しまれています。どんな新しいアニメが始まるか、期待しています。",
+      "translationZh": "今年秋天，将有许多新动画开始播出。动画深受从儿童到成人的许多人的喜爱。我们很期待将有哪些新动画开始播出。",
+      "translationEn": "This autumn, many new anime will be broadcast. Anime is enjoyed by many people, from children to adults. We are looking forward to seeing which new anime will start.",
+      "id": "0d2ca9bf-d3c4-4bb8-bdd4-9e5b65094b90",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの会社は、人気を出すために色々な工夫をしています。例えば、有名な声優さんを使ったり、きれいな絵を描いたりします。また、SNSで宣伝することも大切です。",
+      "translationZh": "动画公司为了获得人气，做了各种各样的努力。例如，他们会使用有名的配音演员，或是绘制精美的画面。此外，在社交媒体上进行宣传也很重要。",
+      "translationEn": "Anime companies make various efforts to gain popularity. For example, they use famous voice actors or draw beautiful pictures. Also, promoting on social media is important.",
+      "id": "5787b4f7-6006-4e33-835c-85c155256b00",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "初回放送は、とても重要です。ここで、アニメの面白さが伝わらないと、次の話を見てもらうのが難しくなります。だから、最初のうちに、視聴者を引きつける工夫をしています。",
+      "translationZh": "首次播出非常重要。如果在这里无法传达动画的趣味性，那么让观众观看后续故事就会变得困难。因此，在最初的阶段，会想办法吸引观众。",
+      "translationEn": "The first broadcast is very important. If the fun of the anime is not conveyed here, it will be difficult for viewers to watch the next episode. Therefore, efforts are made to attract viewers from the beginning.",
+      "id": "781d3627-187f-4b54-972d-15c88c5d407e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "面白いアニメがたくさん始まると嬉しいですね。皆さんも、好きなアニメを見つけて、楽しんでください。",
+      "translationZh": "开始有很多有趣的动画真是太好了。大家也请找到自己喜欢的动画，尽情享受吧。",
+      "translationEn": "It's great that many interesting anime are starting. Everyone, please find your favorite anime and enjoy it.",
+      "id": "d8870660-1565-49da-b8d9-c4217cc9811a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaningZh": "播出",
+      "meaningEn": "broadcast",
+      "level": "n5n4",
+      "exampleSentence": "テレビで新しいドラマが放送されます。",
+      "id": "6d70e6b7-0364-433c-b0bd-150b0ba7ac8b"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法；努力",
+      "meaningEn": "device, idea; effort",
+      "level": "n5n4",
+      "exampleSentence": "もっと分かりやすくする方法を工夫しました。",
+      "id": "7e52fea1-5dee-4ca7-a701-7d3a5908174d"
+    },
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "配音演员",
+      "meaningEn": "voice actor",
+      "level": "n5n4",
+      "exampleSentence": "あの声優さんの声が好きです。",
+      "id": "740281c9-c398-486e-ac32-25826027eb58"
+    },
+    {
+      "word": "綺麗",
+      "reading": "きれい",
+      "meaningZh": "漂亮，干净",
+      "meaningEn": "beautiful, clean",
+      "level": "n5n4",
+      "exampleSentence": "この花はとても綺麗です。",
+      "id": "56ab3be8-dd70-4a42-a23b-536fa5af1d41"
+    },
+    {
+      "word": "宣伝",
+      "reading": "せんでん",
+      "meaningZh": "宣传",
+      "meaningEn": "advertisement, publicity",
+      "level": "n5n4",
+      "exampleSentence": "新しいお店の宣伝をしています。",
+      "id": "4a5b2f84-a65d-4823-8a62-80d5bfaabf50"
+    },
+    {
+      "word": "初回",
+      "reading": "しょかい",
+      "meaningZh": "第一次，初回",
+      "meaningEn": "first time, the first (episode/instance)",
+      "level": "n5n4",
+      "exampleSentence": "この映画の初回限定版を買いました。",
+      "id": "c3ccf440-3918-44a6-9ae6-1c90b4ea8a5d"
+    },
+    {
+      "word": "視聴者",
+      "reading": "しちょうしゃ",
+      "meaningZh": "观众，听众",
+      "meaningEn": "viewer, audience",
+      "level": "n3",
+      "exampleSentence": "多くの視聴者がこの番組を見ています。",
+      "id": "e0adb798-6c62-4941-8f89-b5a55df43628"
+    },
+    {
+      "word": "引きつける",
+      "reading": "ひきつける",
+      "meaningZh": "吸引，引起（注意）",
+      "meaningEn": "attract, draw in",
+      "level": "n3",
+      "exampleSentence": "彼の話はみんなの注意を引きつけました。",
+      "id": "94173d07-28f7-4043-8d9d-5eafa679297e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの会社は、人気を出すためにどんなことをしますか。",
+      "options": [
+        "有名な声優を使うこと",
+        "きれいな絵を描くこと",
+        "SNSで宣伝すること",
+        "全部"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文には「例えば、有名な声優さんを使ったり、きれいな絵を描いたりします。また、SNSで宣伝することも大切です。」と書かれています。",
+      "id": "a60e1480-107a-4ce1-b172-f1ec9255998c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-22-2a3cb1d3fe",
+  "publishedAt": "2026-08-22T06:00:00+09:00"
+}

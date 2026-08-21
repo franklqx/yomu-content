@@ -1,0 +1,131 @@
+{
+  "title": "春が来た！桜の名所へ行こう",
+  "summary": "春になりました。桜がきれいです。きれいな桜を見に、いろいろな町へ行きませんか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春になりました。日本のたくさんの町で、桜がきれいに咲き始めました。桜は日本の春の象徴です。特に地方の町では、東京や大阪のような大きな町とは違う、静かで美しい桜を見ることができます。",
+      "translationZh": "春天来了。在日本的许多城镇，樱花开始美丽地绽放。樱花是日本春天的象征。特别是在地方城镇，可以看到与东京、大阪这样的大城市不同、宁静而美丽的樱花。",
+      "translationEn": "Spring has arrived. In many towns across Japan, cherry blossoms have begun to bloom beautifully. Cherry blossoms are a symbol of spring in Japan. Especially in regional towns, you can see quiet and beautiful cherry blossoms, different from big cities like Tokyo and Osaka.",
+      "id": "fa66fd44-2dd7-4f58-a893-25c5368bfa1e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、熊本県には「熊本城」があります。熊本城の周りの桜はとても有名です。お城と桜の組み合わせは、本当に素晴らしい景色です。今年は、熊本城の桜を見るために、たくさんの人が訪れるでしょう。",
+      "translationZh": "例如，熊本县有“熊本城”。熊本城周围的樱花非常有名。城与樱花的组合，真是绝妙的景色。今年，会有很多人为了看熊本城的樱花而到访。",
+      "translationEn": "For example, in Kumamoto Prefecture, there is 'Kumamoto Castle'. The cherry blossoms around Kumamoto Castle are very famous. The combination of the castle and the cherry blossoms is a truly wonderful sight. This year, many people will visit to see the cherry blossoms at Kumamoto Castle.",
+      "id": "c36bc56f-8d60-4614-934d-1e6b78166e32",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、京都府の「嵐山」もおすすめです。渡月橋の近くで、川沿いに桜が咲いています。古い町並みと桜が一緒に見られるのは、とても風情があります。春の京都をゆっくり散歩するのは、いい経験になるでしょう。",
+      "translationZh": "此外，京都府的“岚山”也推荐。在渡月桥附近，河边盛开着樱花。能同时看到古老的街景和樱花，非常有情调。在春天慢慢地散步游览京都，会是一次很好的体验。",
+      "translationEn": "Additionally, 'Arashiyama' in Kyoto Prefecture is also recommended. Near the Togetsukyo Bridge, cherry blossoms bloom along the river. Seeing the old townscape and cherry blossoms together is very atmospheric. A slow walk through Kyoto in spring will be a good experience.",
+      "id": "4534da2a-ad74-4c80-a270-7bcb45544ac7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "桜の見頃は短いですが、その時期に訪れると、特別な気持ちになります。次の週末は、近所の桜並木や、少し遠くの町へ出かけてみませんか。きっと、素敵な思い出が作れるはずです。",
+      "translationZh": "樱花的花期很短，但在那个时期去游览，会让人心情特别。下个周末，要不要去附近的樱花大道或者稍远一点的城镇转转呢？一定能创造美好的回忆。",
+      "translationEn": "The cherry blossom season is short, but visiting during that time makes one feel special. How about visiting a cherry blossom-lined street near your home or a town a little further away next weekend? You will surely be able to make wonderful memories.",
+      "id": "c7dd2ce7-9e41-44fb-8499-e6173526aaeb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "象徴",
+      "reading": "しょうちょう",
+      "meaningZh": "象征",
+      "meaningEn": "symbol",
+      "level": "n3",
+      "exampleSentence": "桜は春の象徴です。",
+      "id": "e574c3e8-f588-4b45-83db-28d2ece0daed"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "この町は古いお寺で有名です。",
+      "id": "bbea289b-4c85-4b07-b1fc-3021163471fb"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "山の景色はとてもきれいです。",
+      "id": "51627a8a-6317-476c-a81c-54af997df756"
+    },
+    {
+      "word": "組み合わせ",
+      "reading": "くみあわせ",
+      "meaningZh": "组合",
+      "meaningEn": "combination",
+      "level": "n3",
+      "exampleSentence": "この二つの色はいい組み合わせです。",
+      "id": "30547680-d081-4824-bfc7-054ceb91f530"
+    },
+    {
+      "word": "素晴らしい",
+      "reading": "すばらしい",
+      "meaningZh": "精彩的，绝妙的",
+      "meaningEn": "wonderful, splendid",
+      "level": "n5n4",
+      "exampleSentence": "素晴らしい天気になりました。",
+      "id": "d63387db-cb0f-4098-a9a1-d0333e6108a6"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "访问，拜访",
+      "meaningEn": "to visit",
+      "level": "n3",
+      "exampleSentence": "来週、友達の家を訪れます。",
+      "id": "fea93567-853e-4a2c-afc4-d5456aaf493b"
+    },
+    {
+      "word": "風情",
+      "reading": "ふぜい",
+      "meaningZh": "情调，韵味",
+      "meaningEn": "atmosphere, charm",
+      "level": "n3",
+      "exampleSentence": "古い町並みには独特の風情があります。",
+      "id": "9ddd5766-2d31-40f8-9d01-b9861b5875b8"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "この旅行はいい思い出になりました。",
+      "id": "2cb47844-b05d-4ddb-88ae-44170aef8ad8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "熊本城の桜の周りは、どんな景色が有名ですか。",
+      "options": [
+        "お城と桜の組み合わせ",
+        "川沿いの桜",
+        "町の中心の桜",
+        "山の上の桜"
+      ],
+      "correctIndex": 0,
+      "explanation": "「お城と桜の組み合わせは、本当に素晴らしい景色です。」と書いてあります。",
+      "id": "efa4c52d-73c4-4150-88fd-eea2c281c729"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-22-dc0e4d5466",
+  "publishedAt": "2026-08-22T06:00:00+09:00"
+}

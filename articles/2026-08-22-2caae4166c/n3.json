@@ -1,0 +1,143 @@
+{
+  "title": "コンビニ限定スイーツ新商品ラッシュ！あなたのおすすめは？",
+  "summary": "最近、コンビニでは限定スイーツの新商品が続々と登場しています。今回は、その中でも特に注目したい商品をいくつかご紹介します。どれも美味しそうで迷ってしまいますね！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、コンビニのスイーツコーナーはまるで宝箱のようです。各社から限定の新商品が毎日のように発売されていて、どれを買おうか迷ってしまうほどです。新しい味や季節限定の素材を使ったものが多く、ついつい足を運んでしまいますね。",
+      "translationZh": "最近，便利店的甜点区简直就像一个宝箱。各家公司几乎每天都在发售限定的新商品，多到让人不知道该选哪个。其中有很多是新口味或者使用了季节限定的食材，让人忍不住想去看看。",
+      "translationEn": "Recently, the dessert corner at convenience stores is like a treasure box. New limited-edition products are released almost daily from each company, making it hard to decide what to buy. Many of them are new flavors or use seasonal ingredients, which makes you want to visit frequently.",
+      "id": "7509b04a-4749-456d-8e37-985ef00ee7d7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目したいのは、有名パティスリーが監修したという本格的なケーキや、SNSで話題になっているフォトジェニックな見た目のスイーツです。これらは、専門店で買うと少し値段が高くなりますが、コンビニなら手軽に試せるのが嬉しいですね。友達とシェアするのも楽しいでしょう。",
+      "translationZh": "特别值得关注的是，那些由知名糕点店监制、如同专业店出品般的蛋糕，以及在社交媒体上引起话题、外观上非常适合拍照的甜点。这些商品在专卖店购买价格会稍高，但在便利店就能轻松尝试，这让人很高兴。和朋友一起分享也会很有趣。",
+      "translationEn": "What's particularly noteworthy are the authentic cakes supervised by famous patisseries and the photogenic sweets that are trending on social media. These would be a bit pricey if bought at specialty stores, but it's great that you can easily try them at convenience stores. Sharing them with friends would also be fun.",
+      "id": "8f96dc3c-dd42-48db-80ea-6e211df6c89d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、昔ながらの和菓子をアレンジした商品も人気があります。例えば、抹茶を使った大福や、きな粉をたっぷり使ったどら焼きなどです。これらは、お年寄りにも喜ばれる味でありながら、若い世代にも新鮮に感じられるように工夫されています。色々試してみると、意外な発見があるかもしれませんよ。",
+      "translationZh": "此外，对传统日式点心进行改良创新的商品也很受欢迎。例如，使用抹茶的大福，或者大量使用黄豆粉的铜锣烧等。这些点心在让长辈们感到怀念的同时，也经过精心设计，让年轻一代也能感到新意。尝试各种各样的话，也许会有意想不到的发现哦。",
+      "translationEn": "Additionally, products that are variations of traditional Japanese sweets are also popular. For example, there are daifuku (mochi stuffed with sweet filling) using matcha, and dorayaki (pancake sandwich with filling) generously coated with kinako (roasted soybean flour). These are designed to be enjoyed by older generations while also feeling fresh to younger people. You might make some surprising discoveries by trying various items.",
+      "id": "7696a2c7-0344-41fa-89e8-b8af1bab1a20",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニスイーツは、手軽に買えるだけでなく、味や見た目にもこだわったものが増えています。期間限定のものも多いので、気になる商品があったら、売り切れる前にぜひチェックしてみてください。あなたのお気に入りの一品が見つかるかもしれません。",
+      "translationZh": "便利店的甜点不仅容易购买，而且在口味和外观上都越来越讲究。很多商品都是限时供应的，所以如果看到感兴趣的商品，请务必在售罄前去确认一下。你可能会找到自己最喜欢的那一款。",
+      "translationEn": "Convenience store sweets are not only easy to buy but also increasingly focus on taste and appearance. Since many are limited-time offers, if you see something you're interested in, be sure to check it out before it sells out. You might find your new favorite.",
+      "id": "7f1bd125-b998-4dde-a82c-b3eda6f58b2f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "宝箱",
+      "reading": "たからばこ",
+      "meaningZh": "宝箱",
+      "meaningEn": "treasure chest",
+      "level": "n5n4",
+      "exampleSentence": "昔話に出てくる宝箱はワクワクする。",
+      "id": "4f11772f-29f2-4df3-a295-e467e04a6e18"
+    },
+    {
+      "word": "監修",
+      "reading": "かんしゅう",
+      "meaningZh": "监修（指导、监督）",
+      "meaningEn": "supervision, direction",
+      "level": "n3",
+      "exampleSentence": "有名なシェフがこのレシピを監修しました。",
+      "id": "a9e90bb7-448b-4f6d-97c5-37e14d638ccf"
+    },
+    {
+      "word": "本格的",
+      "reading": "ほんかくてき",
+      "meaningZh": "正宗的，地道的",
+      "meaningEn": "authentic, genuine",
+      "level": "n3",
+      "exampleSentence": "このラーメンは本格的な豚骨スープです。",
+      "id": "fd96688b-c069-4666-bbf8-92e571396604"
+    },
+    {
+      "word": "フォトジェニック",
+      "reading": "ふぉとじぇにっく",
+      "meaningZh": "适合拍照的，上镜的",
+      "meaningEn": "photogenic",
+      "level": "n3",
+      "exampleSentence": "このカフェは内装がフォトジェニックで人気だ。",
+      "id": "6ec42817-c730-4a13-9675-c45eff552095"
+    },
+    {
+      "word": "手軽",
+      "reading": "てがる",
+      "meaningZh": "方便，简单，容易",
+      "meaningEn": "easy, simple, convenient",
+      "level": "n3",
+      "exampleSentence": "手軽に美味しい食事ができるレストランが増えた。",
+      "id": "f613a241-8c58-4ab4-800b-c15e5a093dbe"
+    },
+    {
+      "word": "アレンジ",
+      "reading": "あれんじ",
+      "meaningZh": "改编，改良",
+      "meaningEn": "arrangement, adaptation",
+      "level": "n3",
+      "exampleSentence": "伝統的な曲を現代風にアレンジした。",
+      "id": "fe9379be-e441-4ab9-8ce5-33c28810060c"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，巧妙设计",
+      "meaningEn": "devise, idea, effort",
+      "level": "n3",
+      "exampleSentence": "この包装は、開けやすくするために工夫されている。",
+      "id": "22dd33d5-3cd3-40b8-bad3-6ada34e22f0c"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n3",
+      "exampleSentence": "限定品はすぐに売り切れてしまうことが多い。",
+      "id": "4247dcf0-7491-4c93-b6af-f73b3681f5c9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニの新商品スイーツが「宝箱のよう」だと表現されているのはなぜですか？",
+      "options": [
+        "値段が安いから",
+        "種類が多くて選ぶのが楽しいから",
+        "有名パティスリーが監修しているから",
+        "昔ながらの味だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「各社から限定の新商品が毎日のように発売されていて、どれを買おうか迷ってしまうほどです。」とあり、選択肢「種類が多くて選ぶのが楽しいから」がこの部分をよく表しています。",
+      "id": "0a7cc5b2-55dd-4bea-8a13-d8d74ec741c3"
+    },
+    {
+      "question": "昔ながらの和菓子をアレンジした商品が人気な理由は何ですか？",
+      "options": [
+        "値段がとても高いから",
+        "見た目が派手だから",
+        "お年寄りにも若者にも受け入れられるように工夫されているから",
+        "専門店でしか買えないから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「お年寄りにも喜ばれる味でありながら、若い世代にも新鮮に感じられるように工夫されています。」と書かれています。",
+      "id": "29b5b95f-d698-4c78-b1d6-4821ca4fb88f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-22-2caae4166c",
+  "publishedAt": "2026-08-22T06:00:00+09:00"
+}

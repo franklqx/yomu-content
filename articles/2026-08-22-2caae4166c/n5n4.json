@@ -1,0 +1,122 @@
+{
+  "title": "コンビニ新スイーツ！",
+  "summary": "コンビニで新しいお菓子がたくさん出ました。どんなお菓子か見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コンビニでは、新しいお菓子がよく出ます。特に夏は、冷たいお菓子が多いです。チョコレート、アイスクリーム、ケーキなど、いろいろな種類があります。",
+      "translationZh": "便利店里经常推出新点心。特别是夏天，有很多凉的甜点。有巧克力、冰淇淋、蛋糕等各种各样的种类。",
+      "translationEn": "Convenience stores often release new sweets. Especially in summer, there are many cold sweets. There are various kinds such as chocolate, ice cream, and cake.",
+      "id": "8a49b035-240f-4f4e-8176-bd13860916dd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この前、新しいチョコレートを買いました。パッケージがとてもきれいで、おいしそうでした。味は甘すぎなくて、ちょうどよかったです。友達にもすすめました。",
+      "translationZh": "前几天，我买了一个新的巧克力。包装非常漂亮，看起来很好吃。味道不至于太甜，刚刚好。我也推荐给了朋友。",
+      "translationEn": "The other day, I bought a new chocolate. The packaging was very beautiful and it looked delicious. The taste was not too sweet, just right. I recommended it to my friends too.",
+      "id": "c953bf26-aca2-4f1d-b49d-ffd45451a9cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アイスクリームも新しいのがありました。フルーツ味で、さっぱりしていました。暑い日に食べると、とても気持ちがいいです。みなさんも、ぜひ試してみてください。",
+      "translationZh": "冰淇淋也有新的。是水果味的，很清爽。在炎热的天气吃，感觉非常舒服。大家也请一定要试试看。",
+      "translationEn": "There was also a new ice cream. It was fruit-flavored and refreshing. Eating it on a hot day feels very good. Everyone, please try it too.",
+      "id": "dd4c98bc-794a-4e77-bcd6-d66595cc4643",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニのお菓子は、値段も手ごろです。手軽に買えるので、うれしいですね。新しい商品が出たら、また紹介します。",
+      "translationZh": "便利店里的点心价格也很实惠。因为可以轻松买到，所以很高兴。如果有新商品出来，我会再次介绍。",
+      "translationEn": "Convenience store sweets are also reasonably priced. It's nice that you can buy them easily. When new products come out, I will introduce them again.",
+      "id": "d6ec4271-aa80-445f-841b-725c03fbfc57",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コンビニ",
+      "reading": "こんびに",
+      "meaningZh": "便利店",
+      "meaningEn": "convenience store",
+      "level": "n5n4",
+      "exampleSentence": "コンビニで飲み物を買いました。",
+      "id": "b16241fa-49ca-47ee-b169-f6128bd3067f"
+    },
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい本です。",
+      "id": "f0b66c09-6696-4bc1-8ffa-db1dcba99fe8"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaningZh": "点心，零食",
+      "meaningEn": "sweets, snacks",
+      "level": "n5n4",
+      "exampleSentence": "子供がお菓子をたくさん食べました。",
+      "id": "a9c88f5c-279e-4462-8b33-0edd7c4886b0"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, sort, type",
+      "level": "n5n4",
+      "exampleSentence": "この店にはたくさんの種類のパンがあります。",
+      "id": "1593b312-332a-461d-9da8-f4ad94f6ecea"
+    },
+    {
+      "word": "パッケージ",
+      "reading": "ぱっけーじ",
+      "meaningZh": "包装",
+      "meaningEn": "package",
+      "level": "n5n4",
+      "exampleSentence": "このお菓子のパッケージはかわいいです。",
+      "id": "58c7bf84-4546-45e5-b5d8-89b5a004ed29"
+    },
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaningZh": "味道",
+      "meaningEn": "taste, flavor",
+      "level": "n5n4",
+      "exampleSentence": "この料理の味はどうですか。",
+      "id": "b0baec7b-0d34-4569-acf3-2ee90083466a"
+    },
+    {
+      "word": "手ごろ",
+      "reading": "てごろ",
+      "meaningZh": "价格适中，实惠",
+      "meaningEn": "reasonable (price)",
+      "level": "n5n4",
+      "exampleSentence": "この服は手ごろな値段でした。",
+      "id": "cde58a03-905f-4160-b080-1e6a22c94c0e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニで新しいお菓子がたくさん出ました。それはいつ多いですか。",
+      "options": [
+        "冬",
+        "夏",
+        "春",
+        "秋"
+      ],
+      "correctIndex": 1,
+      "explanation": "「特に夏は、冷たいお菓子が多いです。」と書いてあります。",
+      "id": "8c4284f1-3ff7-4859-8054-7af36ec6ca62"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-22-2caae4166c",
+  "publishedAt": "2026-08-22T06:00:00+09:00"
+}
