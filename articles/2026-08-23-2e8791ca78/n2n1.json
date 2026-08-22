@@ -1,0 +1,138 @@
+{
+  "title": "育休取得率、最新データ公表：男性の取得推進へ課題も",
+  "summary": "厚生労働省が発表した最新の育児休業取得率データによると、全体としては増加傾向にあるものの、男性の取得率の伸び悩みや企業間の格差などが課題として浮き彫りになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "厚生労働省は、令和4年度の雇用均等基本調査の結果を公表しました。これによると、育児休業を取得した人の割合は全体で85.1%となり、過去最高を更新しました。特に女性の取得率は90.0%に達し、依然として高い水準を維持しています。この背景には、育児休業制度の周知徹底や、職場における子育て支援への意識の高まりがあると考えられます。",
+      "translationZh": "厚生劳动省公布了2022年度雇用均等基本调查的结果。根据该调查，休育儿假的比例总体达到85.1%，创历史新高。特别是女性的休假比例达到了90.0%，依然维持在高水平。这被认为是由于育儿休假制度的广泛宣传以及职场对育儿支持意识的提高所致。",
+      "translationEn": "The Ministry of Health, Labour and Welfare announced the results of the 2022 Equal Employment Opportunity Basic Survey. According to the survey, the overall percentage of people who took childcare leave reached 85.1%, a record high. In particular, the female uptake rate reached 90.0%, remaining at a high level. This is thought to be due to thorough dissemination of the childcare leave system and increased awareness of childcare support in the workplace.",
+      "id": "5f72780f-6c1c-48f1-b730-db9454cc7d48",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方、男性の育児休業取得率は17.13%と、前年度から3.12ポイント上昇したものの、女性に比べて依然として低い水準にとどまっています。政府は男性の育児参加を促進するため、産後パパ育休（出生時育児休業）制度の創設など、様々な施策を講じていますが、取得率の伸びは緩やかなものにとどまっているのが現状です。企業規模や業種による取得率の格差も依然として大きく、中小企業での取得支援の強化が求められています。",
+      "translationZh": "另一方面，男性的育儿休假取得率为17.13%，虽然比前一年提高了3.12个百分点，但与女性相比仍处于较低水平。政府为促进男性育儿参与，虽然已采取了设立“产后爸爸育休”（出生时育儿休假）制度等各种措施，但目前取得率的增长仍然缓慢。企业规模和行业间的取得率差距也依然很大，因此要求加强对中小企业的休假支持。",
+      "translationEn": "On the other hand, the male childcare leave uptake rate was 17.13%, which, despite a 3.12 percentage point increase from the previous year, remains at a low level compared to women. The government has implemented various measures to promote male participation in childcare, such as the establishment of the Paternity Leave (Childcare Leave at Birth) system, but the uptake rate's growth remains gradual. The disparity in uptake rates between company sizes and industries is also still significant, necessitating enhanced support for leave-taking in small and medium-sized enterprises.",
+      "id": "314fcfae-9016-44de-be5f-34ec8e72e958",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした状況を受け、一部の企業では、男性社員が育児休業を取得しやすいよう、独自の支援制度を拡充する動きが見られます。例えば、育児休業中の所得保障を手厚くしたり、取得期間中の担当業務を一時的に代替するチームを編成したりする取り組みです。これらの企業努力は、長期的に見れば、多様な働き方を推進し、優秀な人材の定着に繋がるものと期待されています。しかし、社会全体の意識改革と、制度のさらなる改善が、男性の育休取得率向上には不可欠であると指摘されています。",
+      "translationZh": "面对这种情况，一些企业正采取行动，扩大其独特的支持制度，以便男性员工更容易休育儿假。例如，提供更优厚的育儿休假期间的收入保障，或组建一个团队临时接替休假期间的工作职责。这些企业努力被寄予厚望，从长远来看，有助于促进多元化的工作方式并留住优秀人才。然而，有人指出，整个社会的意识改革和制度的进一步完善对于提高男性育儿休假取得率至关重要。",
+      "translationEn": "In response to this situation, some companies are expanding their unique support systems to make it easier for male employees to take childcare leave. Examples include providing more generous income support during childcare leave and organizing teams to temporarily cover work responsibilities during the leave period. These corporate efforts are expected in the long run to promote diverse working styles and retain talented employees. However, it is pointed out that a societal shift in awareness and further improvements to the system are essential for increasing the male childcare leave uptake rate.",
+      "id": "37237162-55d2-4094-b782-89fa539d7e91",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公表",
+      "reading": "こうひょう",
+      "meaningZh": "公布，公开宣布",
+      "meaningEn": "public announcement; making public",
+      "level": "n2n1",
+      "exampleSentence": "調査結果が公表された。",
+      "id": "1d26026e-2869-4363-a0be-2e1f6c46934d"
+    },
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "获取率，获得率",
+      "meaningEn": "acquisition rate; uptake rate",
+      "level": "n2n1",
+      "exampleSentence": "この制度の利用者は年々増加しており、取得率も上昇傾向にある。",
+      "id": "ac57c3b6-c310-4991-80d9-67c7ab4c5195"
+    },
+    {
+      "word": "伸び悩み",
+      "reading": "のびなやみ",
+      "meaningZh": "增长缓慢，停滞不前",
+      "meaningEn": "stagnation; sluggish growth",
+      "level": "n2n1",
+      "exampleSentence": "景気低迷により、企業の業績は伸び悩んでいる。",
+      "id": "c740fe99-e9f7-42ee-b89b-5bc2b015bec3"
+    },
+    {
+      "word": "浮き彫りになる",
+      "reading": "うきぼりになる",
+      "meaningZh": "变得明显，显现出来",
+      "meaningEn": "to become clear; to stand out; to be highlighted",
+      "level": "n2n1",
+      "exampleSentence": "今回の事件で、組織の隠された問題が浮き彫りになった。",
+      "id": "16810de8-f728-4027-985d-9124e7348c07"
+    },
+    {
+      "word": "周知徹底",
+      "reading": "しゅうちてってい",
+      "meaningZh": "充分告知，周知",
+      "meaningEn": "making widely known; thorough dissemination of information",
+      "level": "n2n1",
+      "exampleSentence": "新しい規則については、従業員への周知徹底を図る必要がある。",
+      "id": "7ad7c4d1-37da-4980-85da-bf34a162f70b"
+    },
+    {
+      "word": "施策",
+      "reading": "しさく",
+      "meaningZh": "措施，政策",
+      "meaningEn": "measure; policy",
+      "level": "n2n1",
+      "exampleSentence": "政府は経済活性化のための新たな施策を発表した。",
+      "id": "430e4f97-33cb-42a7-9e99-7db8c28c0ddb"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "expansion; enlargement",
+      "level": "n2n1",
+      "exampleSentence": "サービスの質を拡充するため、人員を増強しました。",
+      "id": "a34a2d1d-7fe2-4170-9861-c44352b3eb48"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最新の調査で、育児休業を取得した人の割合は全体としてどうなっていますか。",
+      "options": [
+        "大幅に減少している",
+        "横ばいで推移している",
+        "過去最高を更新し、増加傾向にある",
+        "男性の取得率は高いが、女性は減少している"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「育児休業を取得した人の割合は全体で85.1%となり、過去最高を更新しました。」と記載されています。",
+      "id": "df408380-8d57-4e60-b3aa-c243da89a431"
+    },
+    {
+      "question": "男性の育児休業取得率の現状について、最も適切なものはどれですか。",
+      "options": [
+        "女性を上回っており、非常に高い水準である",
+        "女性と同程度の水準で、増加傾向にある",
+        "増加はしているものの、女性に比べて依然として低い水準である",
+        "制度創設後、取得率は低下している"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「男性の育児休業取得率は17.13%と、前年度から3.12ポイント上昇したものの、女性に比べて依然として低い水準にとどまっています。」とあります。",
+      "id": "0f901a67-5405-4f58-a6c7-bd64c498ae0f"
+    },
+    {
+      "question": "一部の企業が男性社員の育児休業取得を促進するために行っている取り組みとして、本文で述べられているものはどれですか。",
+      "options": [
+        "育児休業中の所得保障を減らし、復帰を促す",
+        "育児休業期間中の担当業務をAIに代替させる",
+        "育児休業取得者向けの研修プログラムを廃止する",
+        "育児休業中の所得保障を手厚くしたり、業務を代替するチームを編成したりする"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文第三段に「例えば、育児休業中の所得保障を手厚くしたり、取得期間中の担当業務を一時的に代替するチームを編成したりする取り組みです。」と具体例が挙げられています。",
+      "id": "9721b9ef-d15b-404a-88a2-f7c1d78e9444"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-23-2e8791ca78",
+  "publishedAt": "2026-08-23T06:00:00+09:00"
+}

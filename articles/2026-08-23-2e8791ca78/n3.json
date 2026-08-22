@@ -1,0 +1,135 @@
+{
+  "title": "育休取得率の最新データと企業の取り組み",
+  "summary": "男性の育児休業取得率が過去最高を更新しました。企業は従業員が取得しやすい環境づくりを進めています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、厚生労働省から発表されたデータによると、男性の育児休業取得率が過去最高の17.13%になりました。これは、以前のデータと比べるとかなり高い数字で、社会全体で子育てを支援しようという意識が高まっていることを示しています。しかし、目標としている水準にはまだ遠いため、さらに改善が必要です。",
+      "translationZh": "最近，根据厚生劳动省公布的数据，男性育儿休假（育休）的休假率达到了过去最高的17.13%。与之前的数据相比，这是一个相当高的数字，表明全社会支持育儿的意识正在提高。然而，距离目标水平仍有差距，因此需要进一步改进。",
+      "translationEn": "Recently, according to data released by the Ministry of Health, Labour and Welfare, the rate of men taking childcare leave has reached a record high of 17.13%. This is a considerably high figure compared to previous data, indicating a rising awareness throughout society to support childcare. However, it is still far from the targeted level, so further improvements are necessary.",
+      "id": "f04cf74c-a241-4e56-a576-e53aecfafc9d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "企業側も、従業員が育児休業を取得しやすいように、様々な取り組みを行っています。例えば、休暇を取りやすいように、仕事の引き継ぎをスムーズにするためのマニュアルを作成したり、短期間で働けるような制度を導入したりする企業が増えています。これにより、仕事と育児の両立がしやすくなることが期待されています。",
+      "translationZh": "企业方面也在采取各种措施，以便员工更容易休育儿假。例如，越来越多的企业正在制定工作交接手册，以确保工作的顺利过渡，或者引入可在短时间内工作的制度。人们期望这将使工作和育儿的平衡更加容易。",
+      "translationEn": "Companies are also implementing various initiatives to make it easier for employees to take childcare leave. For example, an increasing number of companies are creating manuals for smooth work handover to make taking leave easier, or introducing systems that allow for shorter working periods. This is expected to make it easier to balance work and childcare.",
+      "id": "9b4842ad-42e0-4dcf-a46b-26841b9c8dc4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "育児休業の取得率が上がることは、単に子育てを支援するだけでなく、従業員の満足度を高め、結果として企業の生産性向上にもつながる可能性があります。多様な働き方を認めることで、優秀な人材の確保や定着にも貢献すると考えられます。今後も、企業と社会全体で、より良い環境を作っていくことが重要です。",
+      "translationZh": "提高育儿休假休假率不仅能支持育儿，还能提高员工的满意度，并可能最终提高企业的生产力。通过承认多样化的工作方式，人们认为这也有助于吸引和留住优秀人才。今后，企业和社会整体共同创造更好的环境至关重要。",
+      "translationEn": "Increasing the rate of childcare leave acquisition not only supports childcare but can also enhance employee satisfaction, potentially leading to increased corporate productivity. By recognizing diverse work styles, it is believed to contribute to securing and retaining talented individuals. Moving forward, it is crucial for companies and society as a whole to create a better environment.",
+      "id": "b63499e3-0e4c-4c7b-aa51-fc8016a32f37",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "取得率",
+      "reading": "しゅとくりつ",
+      "meaningZh": "（某项权利、资格、休假等的）获得率，达成率",
+      "meaningEn": "acquisition rate; rate of obtaining",
+      "level": "n3",
+      "exampleSentence": "この制度の利用取得率を上げるために、説明会を開催しました。",
+      "id": "3258c250-33e9-45a7-84f1-be47a33f8cef"
+    },
+    {
+      "word": "厚生労働省",
+      "reading": "こうせいろうどうしょう",
+      "meaningZh": "日本的厚生劳动省（负责社会保障、公共卫生、劳务等事务的中央政府部门）",
+      "meaningEn": "Ministry of Health, Labour and Welfare",
+      "level": "n3",
+      "exampleSentence": "null",
+      "id": "7455597a-37db-4dd7-a81f-471db32ec689"
+    },
+    {
+      "word": "育児休業",
+      "reading": "いくじきゅうぎょう",
+      "meaningZh": "育儿休假",
+      "meaningEn": "childcare leave",
+      "level": "n3",
+      "exampleSentence": "男性も育児休業を取得できるようになりました。",
+      "id": "697c2233-0767-40a1-8ff5-f23cf67be406"
+    },
+    {
+      "word": "示しています",
+      "reading": "しめしています",
+      "meaningZh": "表明，显示",
+      "meaningEn": "indicates; shows",
+      "level": "n3",
+      "exampleSentence": "この結果は、私たちの予想をはるかに超えていることを示しています。",
+      "id": "7b8c3a54-9781-4875-b562-30e25dbdcb37"
+    },
+    {
+      "word": "取り組み",
+      "reading": "とりくみ",
+      "meaningZh": "措施，努力，对策",
+      "meaningEn": "initiative; effort; approach",
+      "level": "n3",
+      "exampleSentence": "会社は、環境問題への取り組みを強化しました。",
+      "id": "052f2f4c-d442-420a-87a3-bb4f7883d622"
+    },
+    {
+      "word": "引き継ぎ",
+      "reading": "ひきつぎ",
+      "meaningZh": "交接，交接工作",
+      "meaningEn": "handover; succession",
+      "level": "n3",
+      "exampleSentence": "休暇に入る前に、後任者への引き継ぎをしっかり行いました。",
+      "id": "aa509acf-a16c-41d0-b70f-021d6325c328"
+    },
+    {
+      "word": "両立",
+      "reading": "りょうりつ",
+      "meaningZh": "（事业与家庭等）兼顾，并存",
+      "meaningEn": "balancing; doing both",
+      "level": "n3",
+      "exampleSentence": "仕事と家庭の両立は、多くの女性にとって大きな課題です。",
+      "id": "f902cd39-81b9-436f-9888-c8975fb5f8c5"
+    },
+    {
+      "word": "生産性",
+      "reading": "せいさんせい",
+      "meaningZh": "生产力",
+      "meaningEn": "productivity",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術の導入により、生産性が向上しました。",
+      "id": "2611027c-e5f3-4fab-9c23-d41722655813"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "男性の育児休業取得率が過去最高になったとのことですが、その具体的な数字は何％でしたか？",
+      "options": [
+        "10.64%",
+        "17.13%",
+        "20.00%",
+        "15.50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "「男性の育児休業取得率が過去最高の17.13%になりました。」と書かれています。",
+      "id": "9704bba4-1cba-4622-9229-2827d606cc77"
+    },
+    {
+      "question": "企業は、従業員が育児休業を取得しやすくするために、どのような取り組みをしていますか？",
+      "options": [
+        "給料を大幅に上げる",
+        "育児休業中の研修を義務付ける",
+        "仕事の引き継ぎマニュアル作成や短時間勤務制度の導入",
+        "育児休業期間の延長を強制する"
+      ],
+      "correctIndex": 2,
+      "explanation": "「休暇を取りやすいように、仕事の引き継ぎをスムーズにするためのマニュアルを作成したり、短期間で働けるような制度を導入したりする企業が増えています。」と書かれています。",
+      "id": "9dd7f608-4b96-4e5f-9f6f-51039fc0178b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-23-2e8791ca78",
+  "publishedAt": "2026-08-23T06:00:00+09:00"
+}

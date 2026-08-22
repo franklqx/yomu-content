@@ -1,0 +1,122 @@
+{
+  "title": "Jリーグの町おこし",
+  "summary": "Jリーグの地方クラブは、町を元気にするために色々な工夫をしています。応援したいですね。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "Jリーグには、たくさんの町にチームがあります。これらのチームは、町の人々にとって大切な存在です。試合の日は、たくさんの人がスタジアムに集まります。町がお祭りのようににぎやかになります。",
+      "translationZh": "J联赛在许多城镇都有球队。这些球队对城镇居民来说非常重要。比赛日，许多人会聚集在体育场。城镇会像节日一样热闹。",
+      "translationEn": "J.League has teams in many towns. These teams are important existences for the townspeople. On match days, many people gather at the stadium. The town becomes lively like a festival.",
+      "id": "22a9de52-c706-4a29-bfdf-5b7b135051e5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方のクラブは、観客を増やすために工夫をしています。例えば、子供たちが楽しめるイベントを試合の日に行います。地元の食べ物や特産品を売ることもあります。これらは、試合を見に来ない人にもアピールします。",
+      "translationZh": "地方俱乐部在努力增加观众。例如，他们会在比赛日举办孩子们可以享受的活动。有时也会售卖当地的食物和特产。这些也会吸引不来看比赛的人。",
+      "translationEn": "Local clubs are making efforts to increase spectators. For example, they hold events that children can enjoy on match days. They also sometimes sell local foods and specialty products. These also appeal to people who don't come to watch the games.",
+      "id": "a2d4b8b8-3464-4c04-b8ba-d0eb56389b65",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、選手が町の人々と交流することも大切です。学校に行ったり、地域のイベントに参加したりします。そうすると、ファンは選手を身近に感じます。チームへの応援の気持ちが強くなります。",
+      "translationZh": "此外，球员与镇上的人们交流也很重要。他们会去学校，参加地区的活动。这样，球迷会感觉与球员很亲近。对球队的支持感会变强。",
+      "translationEn": "Also, it is important for players to interact with townspeople. They visit schools and participate in local events. This makes fans feel closer to the players. Their support for the team becomes stronger.",
+      "id": "f66d94f3-a44e-46b1-b42b-be5c29aedfb0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "Jリーグの地方クラブの活動は、町を元気にする力があります。これからも、チームと町が一緒に成長していくことを期待しています。",
+      "translationZh": "J联赛地方俱乐部（球队）的活动有使城镇充满活力的力量。今后也期待球队和城镇共同成长。",
+      "translationEn": "The activities of J.League local clubs have the power to energize towns. We hope that the teams and towns will continue to grow together in the future.",
+      "id": "3d86e841-28f7-4f77-8f13-88cfb940b78e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方；地区",
+      "meaningEn": "region; local",
+      "level": "n5n4",
+      "exampleSentence": "これは地方の小さな町です。",
+      "id": "f4ca063f-fbd1-4a54-87b7-a3bddd32bb86"
+    },
+    {
+      "word": "クラブ",
+      "reading": "クラブ",
+      "meaningZh": "俱乐部",
+      "meaningEn": "club",
+      "level": "n5n4",
+      "exampleSentence": "サッカーのクラブに入りました。",
+      "id": "a5ff5842-b894-43e6-a379-561872f8e3d2"
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaningZh": "观众；听众",
+      "meaningEn": "spectator; audience",
+      "level": "n5n4",
+      "exampleSentence": "スタジアムにはたくさんの観客がいました。",
+      "id": "cb09ca7a-c5f5-4ff8-a489-159ecc7f481f"
+    },
+    {
+      "word": "増やす",
+      "reading": "ふやす",
+      "meaningZh": "增加；增多",
+      "meaningEn": "to increase; to add",
+      "level": "n5n4",
+      "exampleSentence": "友達を増やしたいです。",
+      "id": "b373ebc9-9f5c-43fb-96e0-9219ed95bc73"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法；办法；创造",
+      "meaningEn": "device; invention; effort; exertion",
+      "level": "n5n4",
+      "exampleSentence": "新しい工夫で問題を解決しました。",
+      "id": "75ee8ef7-fbef-46ba-b0f3-db48e262d34a"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "exchange; interaction",
+      "level": "n5n4",
+      "exampleSentence": "留学生と交流しました。",
+      "id": "2578fea9-d29a-4106-ac24-45b407e9fe20"
+    },
+    {
+      "word": "身近",
+      "reading": "みぢか",
+      "meaningZh": "近旁；身边",
+      "meaningEn": "near; familiar",
+      "level": "n5n4",
+      "exampleSentence": "この鳥は私の家で身近に見られます。",
+      "id": "d284f1bb-dccf-4ff9-a6fe-e90c4599fe38"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方のクラブは、観客を増やすためにどんなことをしますか。",
+      "options": [
+        "選手をたくさん連れてくる",
+        "子供が楽しめるイベントをする",
+        "試合を無料にする",
+        "スタジアムを大きくする"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「子供たちが楽しめるイベントを試合の日に行います。」と書いてあります。",
+      "id": "5d98584d-210e-4f00-ba3b-c156286d8e34"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-23-j",
+  "publishedAt": "2026-08-23T06:00:00+09:00"
+}

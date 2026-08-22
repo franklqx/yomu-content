@@ -1,0 +1,131 @@
+{
+  "title": "冬のキラキラ！イルミネーション特集",
+  "summary": "冬はきれいです。たくさんの光がきらきらしています。イルミネーションを見に行きましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "こんにちは！もうすぐ冬ですね。冬は寒いですけど、とてもきれいなものがあります。それはイルミネーションです。街が光でいっぱいになります。",
+      "translationZh": "大家好！冬天快到了。冬天虽然冷，但也有非常美丽的东西。那就是灯饰。街道会被灯光填满。",
+      "translationEn": "Hello everyone! Winter is coming soon. Although winter is cold, there are very beautiful things. That is illuminations. The town becomes full of light.",
+      "id": "dabc35df-9713-486f-a678-9ca073d322d9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イルミネーションは、たくさんの小さな電球（でんきゅう）がきらきら光る飾り（かざり）です。木に飾ったり、建物（たてもの）に飾ったりします。色々な色があって、見ているだけで楽しいです。",
+      "translationZh": "灯饰是由许多小灯泡闪闪发光组成的装饰。装饰在树上，或者装饰在建筑物上。有各种各样的颜色，光是看着就觉得开心。",
+      "translationEn": "Illuminations are decorations made of many small light bulbs that sparkle. They are decorated on trees or buildings. There are various colors, and it's fun just looking at them.",
+      "id": "0be62b39-5e61-4f37-a852-2c9d8b4f1b0b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に人気があるのは、公園（こうえん）や駅（えき）の近くです。友達（ともだち）や家族（かぞく）と一緒（いっしょ）に見に行くと、もっと楽しいです。写真を撮るのもいいですね。",
+      "translationZh": "特别受欢迎的地方是在公园或车站附近。和朋友或家人一起去看，会更开心。拍照片也很好。",
+      "translationEn": "Especially popular places are near parks and stations. It's even more fun to go see them with friends or family. Taking pictures is also good.",
+      "id": "e83e1406-c0db-4647-a6be-1f6b905124f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の冬は、お気に入りのイルミネーションを見つけて、楽しんでくださいね。きっと素敵な思い出になりますよ。",
+      "translationZh": "今年的冬天，请找到你喜欢的灯饰，好好享受吧。一定会成为美好的回忆。",
+      "translationEn": "This winter, please find your favorite illuminations and enjoy them. It will surely become a wonderful memory.",
+      "id": "2cfc5886-6cb4-423b-a81b-a66bcef95def",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "131046c8-8a01-4672-be39-02d19fc43d2a"
+    },
+    {
+      "word": "イルミネーション",
+      "reading": "いるみねーしょん",
+      "meaningZh": "灯饰（装饰用的灯光）",
+      "meaningEn": "illumination",
+      "level": "n5n4",
+      "exampleSentence": "街にイルミネーションがありました。",
+      "id": "2b5aa3f7-7168-466d-9cc4-3236f2e8e3fa"
+    },
+    {
+      "word": "光",
+      "reading": "ひかり",
+      "meaningZh": "光",
+      "meaningEn": "light",
+      "level": "n5n4",
+      "exampleSentence": "電球の光がきれいです。",
+      "id": "fa3ca771-6f32-419d-b486-40c5644076b5"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "クリスマスツリーの飾りを見ました。",
+      "id": "616ded1d-1ae4-40e6-b812-683c74ea287b"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園で友達と遊びました。",
+      "id": "e67ccc0f-28a3-4cda-81df-c8924c30a884"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaningZh": "一起",
+      "meaningEn": "together",
+      "level": "n5n4",
+      "exampleSentence": "家族と一緒に出かけました。",
+      "id": "340b84fc-ca01-4b30-9d27-37543591b74e"
+    },
+    {
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaningZh": "照片",
+      "meaningEn": "photo",
+      "level": "n5n4",
+      "exampleSentence": "きれいな写真を撮りました。",
+      "id": "e160f9f3-5d68-41e5-80ae-0aa2176e4e24"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "楽しい思い出がたくさんあります。",
+      "id": "626b7c5f-6da6-46bb-b088-e9bee32acd84"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "イルミネーションはどんなものですか。",
+      "options": [
+        "寒い場所です。",
+        "たくさんの光の飾りです。",
+        "おいしい食べ物です。",
+        "雨がたくさん降ります。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「イルミネーションは、たくさんの小さな電球（でんきゅう）がきらきら光る飾り（かざり）です。」と書いてあります。",
+      "id": "32240954-d441-4f48-96f3-48a43a5f8bc2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-23-627c09335c",
+  "publishedAt": "2026-08-23T06:00:00+09:00"
+}
