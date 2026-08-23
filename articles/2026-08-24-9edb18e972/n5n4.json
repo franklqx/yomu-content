@@ -1,0 +1,131 @@
+{
+  "title": "お年寄りのための食事宅配",
+  "summary": "最近、元気なお年寄りのための食事宅配サービスが増えています。これは、一人暮らしのお年寄りにとって、とても便利です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、一人暮らしのお年寄りがたくさんいます。料理が難しくなった人もいます。そんな人たちのために、食事を家まで届けるサービスがあります。これは「宅配サービス」と呼ばれます。",
+      "translationZh": "日本有很多独自生活的老年人。有些人做饭变得困难了。为这样的人们，有把饭菜送到家里的服务。这被称为“宅配服务”。",
+      "translationEn": "In Japan, there are many elderly people who live alone. Some people find cooking difficult. For such people, there are services that deliver meals to their homes. This is called a 'delivery service'.",
+      "id": "107dc378-d9a9-4c82-b1a8-f83a33c845da",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、この宅配サービスがもっと広がっています。元気な、自分で歩けるお年寄りも、このサービスを使っています。毎日、温かい食事が届くのは、とても嬉しいことです。",
+      "translationZh": "最近，这个宅配服务正在进一步扩展。即使是健康、能自己行走的年长者，也开始使用这项服务。每天都能收到热腾腾的饭菜，是件非常开心的事。",
+      "translationEn": "Recently, this delivery service is expanding more. Elderly people who are healthy and can walk by themselves are also using this service. It is very happy to receive warm meals every day.",
+      "id": "440c6949-67d0-4e7e-8646-f96fda811dc0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスは、栄養バランスの良い食事を提供します。調理が苦手な人や、買い物に行くのが大変な人には、とても助かります。家族も安心して、お年寄りの食事の心配を減らすことができます。",
+      "translationZh": "这项服务提供营养均衡的餐点。对于不擅长烹饪的人，或者去购物很麻烦的人来说，非常有帮助。家人也能安心，减少对老年人饮食的担忧。",
+      "translationEn": "This service provides meals with good nutritional balance. It is very helpful for people who are not good at cooking or find it difficult to go shopping. Families can also be at ease and reduce worries about the elderly's meals.",
+      "id": "2e758f90-ac65-41d7-9d9a-5206adb0c65d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、もっと多くの人がこの便利なサービスを利用するでしょう。お年寄りが健康で、毎日を楽しく過ごせるように、地域全体で支えていくことが大切です。",
+      "translationZh": "今后，将有更多人利用这项便捷的服务。为了让老年人健康、快乐地度过每一天，依靠整个社区的支持非常重要。",
+      "translationEn": "From now on, more and more people will use this convenient service. It is important to support elderly people with the help of the whole community so that they can live healthily and happily every day.",
+      "id": "8740d818-441d-4325-bb5f-fb5e3002c4b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お年寄り",
+      "reading": "おとしより",
+      "meaningZh": "老年人",
+      "meaningEn": "elderly people",
+      "level": "n5n4",
+      "exampleSentence": "お年寄りはゆっくり歩きます。",
+      "id": "a50859c2-d8be-4901-95c3-a69a5b3b18dd"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいさーびす",
+      "meaningZh": "宅配服务",
+      "meaningEn": "delivery service",
+      "level": "n5n4",
+      "exampleSentence": "この会社は食事の宅配サービスをしています。",
+      "id": "1bdc0e96-cde6-4dcf-92a0-3fab798a0e5f"
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "扩展，普及",
+      "meaningEn": "to spread, to expand",
+      "level": "n5n4",
+      "exampleSentence": "このサービスは日本中に広がっています。",
+      "id": "55b52645-f188-41e0-8251-a003785a93ca"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "健康，有活力",
+      "meaningEn": "healthy, energetic",
+      "level": "n5n4",
+      "exampleSentence": "おばあさんはとても元気です。",
+      "id": "41c52d18-b136-4aae-9f74-454aa645d56c"
+    },
+    {
+      "word": "栄養バランス",
+      "reading": "えいようばらんす",
+      "meaningZh": "营养均衡",
+      "meaningEn": "nutritional balance",
+      "level": "n5n4",
+      "exampleSentence": "栄養バランスの良い食事は大切です。",
+      "id": "ac04430b-9fce-4844-9266-1ae280faf62c"
+    },
+    {
+      "word": "提供",
+      "reading": "ていきょう",
+      "meaningZh": "提供",
+      "meaningEn": "to provide, to offer",
+      "level": "n3",
+      "exampleSentence": "この店はおいしいパンを提供します。",
+      "id": "f9c17928-39a1-4731-921a-f0f18121fa19"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaningZh": "不擅长，不拿手",
+      "meaningEn": "not good at, weak at",
+      "level": "n5n4",
+      "exampleSentence": "私は料理が苦手です。",
+      "id": "736e0148-2410-4097-93dd-d2961cdbd647"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "子供が家に帰ってきて、安心しました。",
+      "id": "6794848b-4de2-4a6e-9aa1-d2949b530fa2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、元気なお年寄りも宅配サービスを使う理由は何ですか。",
+      "options": [
+        "料理がとても上手だからです。",
+        "買い物に行くのが好きだからです。",
+        "毎日温かい食事が届くからです。",
+        "一人暮らしではないからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「毎日、温かい食事が届くのは、とても嬉しいことです。」と書いてあります。",
+      "id": "ddb4ca57-9f6a-4851-935b-44d3fe90759e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-24-9edb18e972",
+  "publishedAt": "2026-08-24T06:00:00+09:00"
+}

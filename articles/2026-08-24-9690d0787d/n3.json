@@ -1,0 +1,126 @@
+{
+  "title": "新旧融合！現代アートと伝統工芸のコラボ展",
+  "summary": "現代アートと伝統工芸が予想外の出会いを果たした展示会について紹介します。新しい発見があるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある美術館で「現代アートと伝統工芸のコラボ展」が開催されました。これは、現代のアーティストたちが、昔から伝わる伝統的な技術や素材を使って新しい作品を作り出すという、とても興味深い試みです。会場には、色鮮やかな絵画や不思議な形の彫刻と並んで、繊細な陶芸品や美しい織物などが展示されていました。それぞれの分野の良さが引き出されていて、見ているだけで楽しかったです。",
+      "translationZh": "最近，某个美术馆举办了“现代艺术与传统工艺的合作展”。这是一个非常有趣的尝试，现代艺术家们利用自古流传下来的传统技术和素材创作出新的作品。会场里，色彩鲜艳的绘画和造型奇特的雕塑旁边，展示着精致的陶器和美丽的织物等。每个领域的优点都被激发出来，光是看着就觉得很有趣。",
+      "translationEn": "Recently, a \"Collaboration Exhibition of Contemporary Art and Traditional Crafts\" was held at a certain museum. This is a very interesting initiative where contemporary artists create new works using traditional techniques and materials passed down from ancient times. At the venue, delicate pottery and beautiful textiles were displayed alongside colorful paintings and sculptures with unique shapes. The merits of each field were highlighted, and it was enjoyable just to look at them.",
+      "id": "4fc09122-7d78-4a22-83d3-c8d376ca4d2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に印象的だったのは、ある現代画家が、日本の伝統的な染物技術を使って、巨大なキャンバスに抽象的な模様を描いた作品でした。染料の濃淡やにじみが、まるで自然の風景のようにも見え、見ているうちに心が落ち着きました。また、伝統工芸士が、現代アートのアイデアを取り入れて作った、今までにないデザインの家具も展示されていました。昔ながらの職人技が、新しい形になるのを見て、感動しました。",
+      "translationZh": "特别令人印象深刻的是，一位现代画家利用日本传统的染色技术，在巨大的画布上绘制了抽象的图案。染料的浓淡和晕染效果，看起来就像大自然的风景，看着看着心情就平静下来了。此外，还展出了传统工艺师结合现代艺术的创意，制作出的前所未有的设计的家具。看到古老的匠人技艺以新的形式呈现，我深受感动。",
+      "translationEn": "What was particularly impressive was a work by a contemporary painter who used traditional Japanese dyeing techniques to create abstract patterns on a huge canvas. The shades and bleeding of the dyes made it look like a natural landscape, and as I looked, my mind became calm. In addition, furniture with unprecedented designs, created by traditional craftsmen incorporating ideas from contemporary art, was also on display. I was moved to see ancient craftsmanship take on new forms.",
+      "id": "c1aa5c43-f467-4201-8cc5-cd90266c273e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展示会に来てよかったと思ったのは、現代アートと伝統工芸は、それぞれ独立しているのではなく、互いに影響し合い、新しい価値を生み出すことができると実感できたからです。伝統的な技術を守りながらも、時代に合わせて変化していくことの大切さが分かりました。このコラボレーションは、これからも様々な分野で広がっていくのではないでしょうか。",
+      "translationZh": "我很高兴来到这个展览，因为我切实地感受到，现代艺术和传统工艺并非彼此独立，而是可以相互影响，创造新的价值。我明白了在传承传统技术的同时，适应时代变化的重要性。我想，这种合作今后也将在各个领域不断扩展吧。",
+      "translationEn": "I was glad to have come to this exhibition because I truly realized that contemporary art and traditional crafts are not independent of each other, but can influence each other and create new value. I understood the importance of adapting to the times while preserving traditional techniques. I believe this collaboration will continue to expand in various fields from now on.",
+      "id": "8a001ac1-4cec-4cc8-a4d2-5ec67e45398b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "現代アート",
+      "reading": "げんだいあーと",
+      "meaningZh": "现代艺术",
+      "meaningEn": "contemporary art",
+      "level": "n3",
+      "exampleSentence": "この美術館では、現代アートの企画展もよく行われています。",
+      "id": "9cf18779-bd69-44e2-a563-5a2986797ac8"
+    },
+    {
+      "word": "伝統工芸",
+      "reading": "でんとうこうげい",
+      "meaningZh": "传统工艺",
+      "meaningEn": "traditional crafts",
+      "level": "n3",
+      "exampleSentence": "日本の伝統工芸品は海外でも人気があります。",
+      "id": "b424a81c-beee-40b7-81ec-16abd6b7f6e5"
+    },
+    {
+      "word": "コラボ",
+      "reading": "こらぼ",
+      "meaningZh": "合作",
+      "meaningEn": "collaboration",
+      "level": "n3",
+      "exampleSentence": "有名なブランドとデザイナーのコラボ商品が発売されました。",
+      "id": "08b1f74e-c68c-416a-a4d9-442ff3fbed85"
+    },
+    {
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meaningZh": "美术馆",
+      "meaningEn": "art museum",
+      "level": "n3",
+      "exampleSentence": "週末に友達と美術館に行く予定です。",
+      "id": "fb9156f2-8609-4d71-8e57-81819aeaa571"
+    },
+    {
+      "word": "染物",
+      "reading": "そめもの",
+      "meaningZh": "染色（品）",
+      "meaningEn": "dyeing (goods)",
+      "level": "n3",
+      "exampleSentence": "この着物は、伝統的な染物技術で作られています。",
+      "id": "eb63f97b-c07c-4d96-86aa-8ea5ed059edf"
+    },
+    {
+      "word": "職人技",
+      "reading": "しょくにんわざ",
+      "meaningZh": "匠人技艺，手艺",
+      "meaningEn": "craftsmanship, artisan skill",
+      "level": "n2n1",
+      "exampleSentence": "彼の作る料理には、長年の職人技が光っています。",
+      "id": "63ea90dd-680b-4203-8af2-1b460a153d8e"
+    },
+    {
+      "word": "影響し合う",
+      "reading": "えいきょうしあう",
+      "meaningZh": "相互影响",
+      "meaningEn": "to influence each other",
+      "level": "n3",
+      "exampleSentence": "文化は、他の文化と影響し合いながら発展してきました。",
+      "id": "34aa7d7a-fa4e-48cd-8cfb-acf278359bd1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "展示会では、どのようなものが一緒に展示されていましたか？",
+      "options": [
+        "現代アートと伝統工芸品",
+        "写真と彫刻",
+        "絵画と音楽",
+        "伝統的な家具と最新の家電"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には、「現代アートと伝統工芸が予想外の出会いを果たした展示会」とあり、「色鮮やかな絵画や不思議な形の彫刻と並んで、繊細な陶芸品や美しい織物などが展示されていました」と書かれています。",
+      "id": "dcc3ef33-beb7-4644-88f7-e2d6087be77f"
+    },
+    {
+      "question": "筆者がこの展示会に来てよかったと思った理由は何ですか？",
+      "options": [
+        "有名な現代アーティストに会えたから",
+        "伝統工芸品を安く買えたから",
+        "現代アートと伝統工芸が互いに影響し合い、新しい価値を生み出すことを実感できたから",
+        "昔の職人技について詳しく学べたから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に、「現代アートと伝統工芸は、それぞれ独立しているのではなく、互いに影響し合い、新しい価値を生み出すことができると実感できたからです」と書かれています。",
+      "id": "c4dd843a-cd33-42a2-85e9-cf485cd1a6cb"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-24-9690d0787d",
+  "publishedAt": "2026-08-24T06:00:00+09:00"
+}

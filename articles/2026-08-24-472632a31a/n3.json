@@ -1,0 +1,143 @@
+{
+  "title": "プロ野球新シーズン！注目の選手は誰だ？",
+  "summary": "新しいプロ野球シーズンが開幕しました。今年はどんな選手が活躍するのでしょうか。注目の選手をいくつか紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新シーズンが始まり、ファンは期待に胸を膨らませています。特に、若手選手の成長と、ベテラン選手のベテランらしいプレーに注目が集まっています。今年はどのチームが優勝するのか、予想するのも楽しいですね。",
+      "translationZh": "职业棒球新赛季已经开始，球迷们都充满期待。特别是，人们关注年轻球员的成长以及老将们老练的打法。今年哪支球队会夺冠，进行预测也很有趣。",
+      "translationEn": "The new professional baseball season has begun, and fans are filled with anticipation. In particular, attention is focused on the growth of young players and the seasoned play of veterans. It's also fun to predict which team will win this year.",
+      "id": "a1ce9b10-a054-4a57-8478-eafda8397649",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年のドラフトで入団したルーキーの中にも、将来のエース候補として期待されている選手がいます。彼らはまだ経験が浅いながらも、持ち前のパワーやスピードでファンを魅了し始めています。これから彼らがどのように成長していくのか、見守っていきたいです。",
+      "translationZh": "在今年的选秀中加入的几位新秀中，也有被寄予厚望、有望成为未来王牌的球员。虽然他们经验尚浅，但凭借着天生的力量和速度已经开始吸引球迷。我们想继续关注他们今后的成长。",
+      "translationEn": "Among the rookies who joined through this year's draft, there are players who are expected to become future ace candidates. Although they are still inexperienced, they are beginning to captivate fans with their inherent power and speed. We want to watch how they will grow from now on.",
+      "id": "b7ea4075-fb2c-4942-83d5-8e167c521a14",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、怪我から復帰したベテラン選手にも注目です。彼らは長年の経験で培われた技術と、勝利への強い執念を持っています。チームの精神的支柱として、若い選手たちを引っ張っていく存在になるでしょう。ベテランらしいプレーを見せてくれることを期待しています。",
+      "translationZh": "此外，从伤病中复出的老将也备受关注。他们拥有多年经验积累的技术，以及对胜利强烈的执着。作为球队的精神支柱，他们将带领年轻球员前进。我们期待他们能打出老将风采。",
+      "translationEn": "Also, attention is on veteran players returning from injury. They possess skills honed through years of experience and a strong determination to win. As the team's spiritual pillar, they will likely lead the younger players. We expect them to show their veteran-like performance.",
+      "id": "a4f29740-e2dc-4a21-9b5d-4f831a15ad74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "シーズンを通して、数多くのドラマが生まれることでしょう。応援しているチームはもちろん、気になる選手がいるチームの試合もチェックしてみてはいかがでしょうか。新たなスターの誕生を見守るのも、プロ野球の醍醐味の一つです。",
+      "translationZh": "整个赛季一定会诞生无数精彩故事。不妨关注你支持的球队，也看看有你感兴趣的球员所在的球队的比赛。见证新星的诞生也是职业棒球的一大乐趣。",
+      "translationEn": "Numerous dramatic stories will surely unfold throughout the season. Why not check not only the team you support but also the games of teams that have players you're interested in. Witnessing the birth of new stars is one of the great pleasures of professional baseball.",
+      "id": "c49e8539-ca0a-4946-98b7-c22997d3a21e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "プロ野球",
+      "reading": "ぷろやきゅう",
+      "meaningZh": "职业棒球",
+      "meaningEn": "professional baseball",
+      "level": "n5n4",
+      "exampleSentence": "プロ野球の試合を見に行きたいです。",
+      "id": "d574cef8-a661-45f6-b6d5-99929efcca8a"
+    },
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "サッカーのシーズンは秋に終わります。",
+      "id": "6e1d6f13-1547-4d1d-af03-a454911d73c6"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待，期望",
+      "meaningEn": "expectation, hope",
+      "level": "n3",
+      "exampleSentence": "彼の活躍を期待しています。",
+      "id": "67b4c1ca-8691-4efc-bff5-e6640806b014"
+    },
+    {
+      "word": "ルーキー",
+      "reading": "るーきー",
+      "meaningZh": "新秀",
+      "meaningEn": "rookie",
+      "level": "n3",
+      "exampleSentence": "今年のルーキーは将来有望だ。",
+      "id": "1ea9e2bd-f434-408b-bf3c-2964e487905d"
+    },
+    {
+      "word": "エース",
+      "reading": "えーす",
+      "meaningZh": "王牌（选手）",
+      "meaningEn": "ace (player)",
+      "level": "n3",
+      "exampleSentence": "彼はチームのエースピッチャーだ。",
+      "id": "089eba84-a3e0-43d3-b6b7-954b8071ecdd"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "若いけれど、経験豊富な選手です。",
+      "id": "fe426113-767d-4105-b66e-181eb5786ac4"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将，经验丰富的人",
+      "meaningEn": "veteran",
+      "level": "n3",
+      "exampleSentence": "ベテランの域に達した選手だ。",
+      "id": "66e90ec0-3505-4433-a84b-a6ec23c62cd6"
+    },
+    {
+      "word": "執念",
+      "reading": "しゅうねん",
+      "meaningZh": "执念，固执",
+      "meaningEn": "obsession, persistence",
+      "level": "n2n1",
+      "exampleSentence": "彼は諦めない執念でゴールを決めた。",
+      "id": "5285cfd9-3a99-4be0-ac60-b9c25336951c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事で、特に注目されているのはどのような選手ですか？",
+      "options": [
+        "怪我をしている選手",
+        "外国人選手",
+        "若手選手とベテラン選手",
+        "まだ一度も試合に出ていない選手"
+      ],
+      "correctIndex": 2,
+      "explanation": "「若手選手の成長と、ベテラン選手のベテランらしいプレーに注目が集まっています。」とあります。",
+      "id": "9e82cc5d-8ee1-40f2-b45a-022d95cb3615"
+    },
+    {
+      "question": "怪我から復帰したベテラン選手に期待されていることは何ですか？",
+      "options": [
+        "新しい記録を作ること",
+        "若い選手たちを指導し、チームを引っ張ること",
+        "個人的なタイトルを獲得すること",
+        "ファンサービスを充実させること"
+      ],
+      "correctIndex": 1,
+      "explanation": "「チームの精神的支柱として、若い選手たちを引っ張っていく存在になるでしょう。」とあります。",
+      "id": "aaf067c9-ff5d-4475-8ce5-78b9c39600ee"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-24-472632a31a",
+  "publishedAt": "2026-08-24T06:00:00+09:00"
+}

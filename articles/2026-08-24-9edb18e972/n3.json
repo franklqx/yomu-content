@@ -1,0 +1,126 @@
+{
+  "title": "広がる高齢者向け宅配サービス",
+  "summary": "高齢化が進む日本で、食事や買い物の宅配サービスが注目されています。このサービスは、一人暮らしの高齢者や外出が難しい方にとって、生活を支える大切な役割を果たしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本は急速な高齢化社会を迎えており、高齢者だけの世帯や、一人暮らしの高齢者も増えています。そのため、日々の食事の準備や買い物が困難な高齢者が少なくありません。こうした状況を受けて、高齢者向けに特化した食事の宅配サービスが、ますます拡大しています。このサービスは、栄養バランスの取れた食事を、自宅まで届けてくれるので、高齢者の健康維持に役立っています。",
+      "translationZh": "日本正迎来快速的老龄化社会，老年人独自生活的家庭以及独居老人也越来越多。因此，为日常准备餐食和购物感到困难的老年人不在少数。面对这样的状况，专门面向老年人的餐饮宅配服务正在日益扩大。这项服务能将营养均衡的餐食送到家中，对维持老年人的健康很有帮助。",
+      "translationEn": "Japan is facing a rapidly aging society, with an increasing number of households consisting only of elderly people and more elderly individuals living alone. Consequently, many elderly people find it difficult to prepare daily meals or go grocery shopping. In response to this situation, meal delivery services specifically for the elderly are expanding further. These services deliver nutritionally balanced meals to their homes, which helps maintain the health of the elderly.",
+      "id": "cb6eb4ed-beef-4800-9699-2db1958f4324",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "宅配サービスは、食事だけでなく、日用品や食料品の買い物代行も行っています。利用者は電話一本で注文でき、スタッフが自宅まで届けてくれます。これにより、外出が難しい高齢者でも、必要なものを自宅にいながら手に入れることができるようになりました。また、配達の際にスタッフが高齢者と会話をすることで、孤立感の軽減にもつながることが期待されています。",
+      "translationZh": "宅配服务不仅提供餐食，还代办日用品和食品的购物。使用者只需打个电话就能订购，工作人员会送到家中。这使得即使是外出困难的老年人，也能在家中获得所需物品。此外，通过工作人员在送货时与老年人交谈，人们也期待能缓解他们的孤立感。",
+      "translationEn": "Delivery services not only provide meals but also act as a proxy for shopping for daily necessities and groceries. Users can order with just a phone call, and staff will deliver the items to their homes. This enables even elderly individuals who find it difficult to go out to obtain necessary items while staying at home. Furthermore, it is expected that conversations between the staff and the elderly during delivery can help alleviate feelings of isolation.",
+      "id": "25ddb36a-b938-4812-9009-a801fd78f2f2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このようなサービスが広がる一方で、料金やサービスの質には、まだ課題も残っています。地域によって利用できるサービスが異なったり、料金が高すぎると感じたりする声もあります。今後、より多くの高齢者が安心して利用できるよう、サービスの充実や料金の見直しが進められることが望まれます。技術の進歩も活用しながら、高齢者がより豊かで快適な生活を送れるように支援していくことが大切です。",
+      "translationZh": "尽管这类服务正在普及，但在费用和服务质量方面仍存在一些课题。不同地区可用的服务不同，也有人觉得费用过高。今后，人们期望服务能得到完善，费用能得到调整，以便更多的老年人能安心使用。同时，利用技术进步，支持老年人过上更充实舒适的生活，这一点很重要。",
+      "translationEn": "While such services are spreading, challenges remain regarding fees and service quality. Services available vary by region, and some people feel the fees are too high. Moving forward, it is hoped that services will be enhanced and fees reviewed so that more elderly individuals can use them with peace of mind. It is important to support the elderly in living richer and more comfortable lives by utilizing technological advancements.",
+      "id": "2ffbda87-8a6d-4d4f-a026-c1b8f92ebc3d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高齢化",
+      "reading": "こうれいか",
+      "meaningZh": "老龄化",
+      "meaningEn": "aging population",
+      "level": "n3",
+      "exampleSentence": "日本は高齢化が急速に進んでいます。",
+      "id": "76c01ff3-e570-4cf1-b953-38ec8c37d03d"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "宅配服务",
+      "meaningEn": "delivery service",
+      "level": "n3",
+      "exampleSentence": "この地域では、食料品の宅配サービスが人気です。",
+      "id": "fdb62b80-bc5b-4259-b6e4-d37e00f050b8"
+    },
+    {
+      "word": "栄養バランス",
+      "reading": "えいようバランス",
+      "meaningZh": "营养均衡",
+      "meaningEn": "nutritional balance",
+      "level": "n3",
+      "exampleSentence": "健康のためには、栄養バランスの取れた食事が大切です。",
+      "id": "29d2a283-638e-4e88-95b8-6c9c9d57ceb0"
+    },
+    {
+      "word": "買い物代行",
+      "reading": "かいものだいこう",
+      "meaningZh": "购物代办",
+      "meaningEn": "shopping proxy service",
+      "level": "n3",
+      "exampleSentence": "忙しい人のために、買い物代行サービスがあります。",
+      "id": "bff7822a-b41e-4874-b3c6-655481e3b980"
+    },
+    {
+      "word": "孤立感",
+      "reading": "こりつかん",
+      "meaningZh": "孤立感",
+      "meaningEn": "feeling of isolation",
+      "level": "n3",
+      "exampleSentence": "一人暮らしの高齢者は、孤立感を感じやすいと言われています。",
+      "id": "233a1c16-ee74-47fb-b70f-0f1cd1e79ad3"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "issue, challenge",
+      "level": "n3",
+      "exampleSentence": "この問題には、まだ多くの課題があります。",
+      "id": "5466bcad-371a-46c4-b117-1f4b6f5bac1a"
+    },
+    {
+      "word": "充実",
+      "reading": "じゅうじつ",
+      "meaningZh": "充实，完善",
+      "meaningEn": "enrichment, enhancement",
+      "level": "n3",
+      "exampleSentence": "サービスの充実が求められています。",
+      "id": "2fc5c8e9-71b4-4cdb-913d-0ae4f05d19e8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高齢者向け宅配サービスが拡大している主な理由は何ですか？",
+      "options": [
+        "サービスの料金が安いから",
+        "高齢化が進み、食事や買い物が困難な人が増えているから",
+        "新しい技術が開発されたから",
+        "配達員が不足しているから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第一段落に「日本は急速な高齢化社会を迎えており、高齢者だけの世帯や、一人暮らしの高齢者も増えています。そのため、日々の食事の準備や買い物が困難な高齢者が少なくありません。こうした状況を受けて、高齢者向けに特化した食事の宅配サービスが、ますます拡大しています。」とあります。",
+      "id": "c0cccd8e-f087-46c9-9ecd-1caecee2d7b9"
+    },
+    {
+      "question": "宅配サービスは、高齢者のどのような点に役立っていますか？",
+      "options": [
+        "運動不足を解消するのに役立つ",
+        "新しい友人を作る機会を提供する",
+        "健康維持や、外出困難な場合の生活支援に役立つ",
+        "最新のニュースを届ける"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第一段落と第二段落に「高齢者の健康維持に役立っています。」や「必要なものを自宅にいながら手に入れることができるようになりました。」とあり、これらのサービスが高齢者の生活を支えていることがわかります。",
+      "id": "8ac61f77-5b17-4683-94c6-818984e62ecf"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-24-9edb18e972",
+  "publishedAt": "2026-08-24T06:00:00+09:00"
+}

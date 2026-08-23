@@ -1,0 +1,131 @@
+{
+  "title": "新しいアートと伝統の出会い",
+  "summary": "最近、現代アートと伝統工芸が一緒になった展覧会がありました。とても面白かったです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この間、面白い展覧会に行きました。それは、現代アートと日本の伝統工芸がコラボした展示でした。新しいものと古いものが合わさって、不思議な感じがしました。",
+      "translationZh": "前段时间，我去了一个有趣的展览。那是一个现代艺术和日本传统工艺合作的展示。新事物和旧事物结合在一起，感觉很奇妙。",
+      "translationEn": "Recently, I went to an interesting exhibition. It was a display where modern art and Japanese traditional crafts collaborated. New things and old things combined, and it felt strange.",
+      "id": "af0ddabd-6648-46e3-a76e-6717a881aef5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、有名な陶芸家が作った茶碗がありました。その茶碗は、とてもきれいな色をしていました。そして、その横には、若いデザイナーが作った絵がありました。絵は、茶碗の色と似ていました。",
+      "translationZh": "例如，有一个有名的陶艺家做的茶碗。那个茶碗颜色非常漂亮。然后在它旁边，有一幅年轻设计师画的画。画的颜色和茶碗的颜色很像。",
+      "translationEn": "For example, there was a tea bowl made by a famous potter. The tea bowl had a very beautiful color. And next to it, there was a painting made by a young designer. The painting's color resembled the tea bowl's color.",
+      "id": "5a99baef-ab2f-4d70-abb4-79c683658b0c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、伝統的な着物を使ったアクセサリーもありました。着物の柄はとても美しかったです。それを現代風にアレンジしたネックレスやイヤリングは、とてもおしゃれでした。多くの人がそれを見て、写真を撮っていました。",
+      "translationZh": "还有，用传统和服做的饰品也有。和服的花纹非常美。用现代风格改编的项链和耳环，非常时尚。很多人看了它们，并拍照留念。",
+      "translationEn": "Also, there were accessories made using traditional kimonos. The kimono patterns were very beautiful. Necklaces and earrings arranged in a modern style were very fashionable. Many people looked at them and took pictures.",
+      "id": "7aef22df-fd93-45ed-8e28-cedcd4276124",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展覧会は、日本の文化の新しい魅力を発見できる良い機会でした。伝統工芸が現代アートと一緒になると、もっと多くの人に興味を持ってもらえると思います。",
+      "translationZh": "这个展览是发现日本文化新魅力的好机会。我认为，当传统工艺与现代艺术结合时，会引起更多人的兴趣。",
+      "translationEn": "This exhibition was a good opportunity to discover the new charm of Japanese culture. I think when traditional crafts combine with modern art, more people will become interested.",
+      "id": "f610e99f-3e4f-4798-8f07-dd1b704469ba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "展覧会",
+      "reading": "てんらんかい",
+      "meaningZh": "展览会",
+      "meaningEn": "exhibition",
+      "level": "n5n4",
+      "exampleSentence": "美術館で大きな展覧会がありました。",
+      "id": "0c932dd7-3db8-4ed6-bafb-1a83f202235e"
+    },
+    {
+      "word": "現代アート",
+      "reading": "げんだいアート",
+      "meaningZh": "现代艺术",
+      "meaningEn": "modern art",
+      "level": "n5n4",
+      "exampleSentence": "現代アートは面白いです。",
+      "id": "5f5631ed-f44b-44b1-9996-fe3e43faaf9b"
+    },
+    {
+      "word": "伝統工芸",
+      "reading": "でんとうこうげい",
+      "meaningZh": "传统工艺",
+      "meaningEn": "traditional craft",
+      "level": "n5n4",
+      "exampleSentence": "日本の伝統工芸は世界で有名です。",
+      "id": "a644e011-a07c-4103-9621-4e2c3ea508db"
+    },
+    {
+      "word": "コラボ",
+      "reading": "コラボ",
+      "meaningZh": "合作",
+      "meaningEn": "collaboration",
+      "level": "n5n4",
+      "exampleSentence": "二人の歌手がコラボしました。",
+      "id": "054499bd-f6a0-47c1-9e9b-0df462a91e58"
+    },
+    {
+      "word": "陶芸家",
+      "reading": "とうげいか",
+      "meaningZh": "陶艺家",
+      "meaningEn": "potter, ceramic artist",
+      "level": "n3",
+      "exampleSentence": "有名な陶芸家が作った花瓶はとても高いです。",
+      "id": "c42dd287-20c0-4dab-8f72-fa8430b59458"
+    },
+    {
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "meaningZh": "茶碗",
+      "meaningEn": "tea bowl",
+      "level": "n5n4",
+      "exampleSentence": "この茶碗はとてもきれいです。",
+      "id": "022a72dd-351d-41ec-8e96-3c61c94ef73b"
+    },
+    {
+      "word": "デザイナー",
+      "reading": "デザイナー",
+      "meaningZh": "设计师",
+      "meaningEn": "designer",
+      "level": "n5n4",
+      "exampleSentence": "彼は服のデザイナーです。",
+      "id": "9106e3cf-035c-4149-8e5a-b1157f626713"
+    },
+    {
+      "word": "着物",
+      "reading": "きもの",
+      "meaningZh": "和服",
+      "meaningEn": "kimono",
+      "level": "n5n4",
+      "exampleSentence": "お祭りで着物を着ました。",
+      "id": "7e01dbca-a9aa-4ba1-b1c2-8aa001fd05f4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この展覧会では、何と何が一緒になりましたか？",
+      "options": [
+        "現代アートと伝統工芸",
+        "伝統工芸とアニメ",
+        "現代アートと音楽",
+        "アニメと音楽"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「現代アートと日本の伝統工芸がコラボした展示でした。」と書いてあります。",
+      "id": "91001f3e-2c97-46bd-87e5-dff78fd3831e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-24-9690d0787d",
+  "publishedAt": "2026-08-24T06:00:00+09:00"
+}

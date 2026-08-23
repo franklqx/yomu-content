@@ -1,0 +1,122 @@
+{
+  "title": "注目のプロ野球選手！",
+  "summary": "新しいプロ野球シーズンが始まります。今年はどんな選手が活躍するでしょうか。注目の選手を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンがもうすぐ始まります。たくさんのファンが楽しみにしています。今年は新しいスター選手が生まれるかもしれません。どのチームも優勝を目指して頑張ります。",
+      "translationZh": "职业棒球新赛季即将开始。许多球迷都在期待。今年可能会出现新的明星选手。每个队伍都将努力争夺冠军。",
+      "translationEn": "The new professional baseball season will start soon. Many fans are looking forward to it. New star players might emerge this year. Every team will try hard to win the championship.",
+      "id": "5185c005-937a-4afb-bbbb-d4a0735f181e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目の選手がいます。若い選手ですが、去年の試合でとても良いプレーを見せました。彼のバッティングは力があります。守備も上手です。多くの人が彼の活躍を期待しています。",
+      "translationZh": "有一位特别受关注的选手。他是一位年轻的选手，但在去年的比赛中展现了非常好的表现。他的击球很有力量。防守也很出色。很多人都期待他的活跃表现。",
+      "translationEn": "There is one player who is particularly noteworthy. He is a young player, but he showed very good play in last year's games. His batting is powerful. His defense is also skillful. Many people expect him to perform well.",
+      "id": "0711e522-ebb9-4f17-b496-bceef9d2c081",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この選手は、チームの勝利のために一生懸命練習しています。監督も彼を高く評価しています。彼のファンクラブも大きくなっています。今年のシーズンがとても楽しみです。",
+      "translationZh": "这位选手为了队伍的胜利而努力练习。教练也非常器重他。他的粉丝俱乐部也越来越壮大了。我很期待今年的赛季。",
+      "translationEn": "This player practices very hard for his team's victory. The manager also thinks highly of him. His fan club is also growing. I am very much looking forward to this season.",
+      "id": "8ff2a645-61e7-4576-9896-b775f8ef4b0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "他にも、ベテランの選手や、外国から来た選手もいます。彼らもチームの力になるでしょう。今年のプロ野球は、とても面白くなりそうです。皆さんもぜひ応援してください。",
+      "translationZh": "此外，还有经验丰富的老将和来自外国的选手。他们也会成为队伍的力量。今年的职业棒球似乎会非常有趣。请大家一定要为他们加油。",
+      "translationEn": "In addition, there are veteran players and players from foreign countries. They will also be a strength for the team. This year's professional baseball looks like it will be very exciting. Please cheer for them too.",
+      "id": "644865cc-18f5-46de-bebd-34e96502edf3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な野球選手です。",
+      "id": "91bae4fc-4b44-4c92-b520-c50b22903016"
+    },
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいサッカーのシーズンが始まります。",
+      "id": "bb7a3699-9b20-40f8-b5d6-b733ed840d16"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention",
+      "level": "n5n4",
+      "exampleSentence": "新しい映画に注目が集まっています。",
+      "id": "44003839-d049-4fd9-b0c4-74c1a6b847ac"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "彼女は会議で活躍しました。",
+      "id": "b331f32f-ac62-40c9-adbb-e95539b2999f"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": "チームは優勝を目指しています。",
+      "id": "33a57967-0b97-43ee-838a-20781f55bb00"
+    },
+    {
+      "word": "評価",
+      "reading": "ひょうか",
+      "meaningZh": "评价",
+      "meaningEn": "evaluation, assessment",
+      "level": "n3",
+      "exampleSentence": "彼の仕事ぶりは高く評価されました。",
+      "id": "4c51db56-0ba1-43ee-891b-a3537ee88a16"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将，经验丰富的人",
+      "meaningEn": "veteran",
+      "level": "n5n4",
+      "exampleSentence": "彼はこの道でベテランです。",
+      "id": "5d64fe3c-80c5-4a08-96fe-80448a988192"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "注目されている若い選手は、どんなプレーを見せましたか。",
+      "options": [
+        "力強いバッティングと上手な守備",
+        "速い足と正確なパス",
+        "遠くまで飛ぶサーブ",
+        "美しい歌声"
+      ],
+      "correctIndex": 0,
+      "explanation": "「彼のバッティングは力があります。守備も上手です。」と書いてあります。",
+      "id": "ff951278-0b88-4b3d-8f48-6be94557e960"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-24-472632a31a",
+  "publishedAt": "2026-08-24T06:00:00+09:00"
+}
