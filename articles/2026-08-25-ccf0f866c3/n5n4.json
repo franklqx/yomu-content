@@ -1,0 +1,122 @@
+{
+  "title": "夏の夜空を彩る花火！",
+  "summary": "今年の夏も、各地で花火大会が開催されます。楽しい夏の思い出を作りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏になると、いろいろな祭りが開かれます。中でも花火大会は、夏の風物詩です。夜空に咲く大きな花火は、とてもきれいです。",
+      "translationZh": "到了夏天，会举办各种各样的祭典。其中，花火大会是夏天的代表性活动。夜空中绽放的巨大烟花非常美丽。",
+      "translationEn": "When summer comes, various festivals are held. Among them, fireworks festivals are a symbol of summer. The large fireworks blooming in the night sky are very beautiful.",
+      "id": "b4e07d1a-9dfa-4135-8bbe-7d0b7fe77b3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、多くの場所で花火大会が予定されています。例えば、東京や大阪など、大きな都市でも開催されます。友だちや家族と一緒に行くと、もっと楽しいでしょう。",
+      "translationZh": "今年，许多地方都预定要举办花火大会。例如，在东京和大阪等大城市也会举办。和朋友或家人一起去的话，会更加快乐。",
+      "translationEn": "This year, fireworks festivals are planned in many places. For example, they will be held in big cities like Tokyo and Osaka. It will be more fun if you go with friends or family.",
+      "id": "1f3d09af-b55e-4c6b-8db2-ed2b970d8303",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会では、花火だけではなく、屋台も楽しめます。たこ焼きやりんご飴など、おいしいものがたくさんあります。浴衣を着て出かける人も多いです。",
+      "translationZh": "在花火大会上，不仅可以看烟花，还可以享受路边摊。有章鱼烧、苹果糖等很多好吃的食物。穿浴衣出门的人也很多。",
+      "translationEn": "At fireworks festivals, you can enjoy not only fireworks but also food stalls. There are many delicious things like takoyaki and candy apples. Many people also wear yukata when they go out.",
+      "id": "c15e6ed8-6192-410e-934e-3d72aca1e1f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会の情報は、インターネットで調べることができます。場所や時間をよく確認して、夏の夜空を楽しみましょう。",
+      "translationZh": "可以通过互联网查询花火大会的信息。请仔细确认地点和时间，一起享受夏夜的星空吧。",
+      "translationEn": "You can check information about fireworks festivals on the internet. Please check the location and time carefully and enjoy the summer night sky.",
+      "id": "69127b27-c004-4236-8d9a-312d98bedf85",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "祭り",
+      "reading": "まつり",
+      "meaningZh": "祭典，节日",
+      "meaningEn": "festival",
+      "level": "n5n4",
+      "exampleSentence": "夏には大きなお祭りがあります。",
+      "id": "337a50d0-e2a0-4bdb-8298-0bfde709d501"
+    },
+    {
+      "word": "花火大会",
+      "reading": "はなびたいかい",
+      "meaningZh": "花火大会",
+      "meaningEn": "fireworks festival",
+      "level": "n5n4",
+      "exampleSentence": "花火大会は夜に始まります。",
+      "id": "04ec0953-15fe-4b95-8dd7-f324ded62a0e"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaningZh": "夜空",
+      "meaningEn": "night sky",
+      "level": "n5n4",
+      "exampleSentence": "夜空に星がきれいです。",
+      "id": "91b7ae08-467a-47fd-88e2-8d63d689cee3"
+    },
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（具有季节特色的）景物，风物诗",
+      "meaningEn": "seasonal tradition/sight",
+      "level": "n3",
+      "exampleSentence": "桜は春の風物詩です。",
+      "id": "78f11fb7-0556-4a0f-813e-5b4e972368d4"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaningZh": "预定，计划",
+      "meaningEn": "plan, schedule",
+      "level": "n5n4",
+      "exampleSentence": "明日は友達と会う予定です。",
+      "id": "e3e790a1-fed8-48ab-812b-b5f435b12b53"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "（街头）小吃摊，排挡",
+      "meaningEn": "food stall, stand",
+      "level": "n5n4",
+      "exampleSentence": "お祭りの屋台は楽しいです。",
+      "id": "30747c4a-ad2f-4ee0-a104-287220c9411c"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏は浴衣を着ることが多いです。",
+      "id": "676b831c-32a1-4795-8d79-e47f91c11065"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会で楽しむことができるのは、花火以外に何ですか？",
+      "options": [
+        "本",
+        "屋台",
+        "映画",
+        "音楽"
+      ],
+      "correctIndex": 1,
+      "explanation": "花火大会では、花火だけではなく、屋台も楽しめます。",
+      "id": "ef6cd222-6494-4c5b-8f6c-42ac3d96fa73"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-25-ccf0f866c3",
+  "publishedAt": "2026-08-25T06:00:00+09:00"
+}

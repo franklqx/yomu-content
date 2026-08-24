@@ -1,0 +1,143 @@
+{
+  "title": "夏の夜空を彩る！花火大会開催情報",
+  "summary": "夏の風物詩である花火大会が各地で開催されます。今年の夏は、美しい花火を楽しみませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏になると、夜空をきれいに彩る花火大会が各地で開かれますね。今年も各地で様々な花火大会が予定されています。夏の暑さを忘れさせてくれるような、大迫力の花火は、見ているだけでワクワクします。",
+      "translationZh": "一到夏天，各地就会举办点缀夜空的绚丽烟花大会。今年各地也预定举办各种各样的烟花大会。那令人忘记夏日炎热、魄力十足的烟花，光是看着就让人心潮澎湃。",
+      "translationEn": "When summer arrives, fireworks festivals that beautifully adorn the night sky are held in various locations. Various fireworks festivals are planned again this year across the country. The powerful fireworks, which make you forget the summer heat, are exciting just to watch.",
+      "id": "29ad81f8-7046-4dca-9f6b-4a07f3e7d94e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会には、たくさんの人が集まるので、事前に情報を調べておくことが大切です。開催日時や場所はもちろん、アクセス方法や、当日の混雑状況なども確認しておくと安心です。特に人気の大会では、早めに場所取りをする必要があるかもしれません。",
+      "translationZh": "因为烟花大会会聚集很多人，所以提前了解信息很重要。除了举办日期和地点，确认交通方式和当天的拥挤状况也会让人安心。特别是热门的烟花大会，可能需要提早去占位。",
+      "translationEn": "Since many people gather for fireworks festivals, it's important to check the information in advance. It's reassuring to confirm not only the date and time and location, but also how to get there and the crowd status on the day. Especially for popular festivals, you might need to secure a spot early.",
+      "id": "b33503b6-55a5-4f30-a381-f6e528188883",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、最近では、有料席が設けられている花火大会も増えています。快適な場所からゆっくり花火を楽しみたい場合は、有料席のチケットを検討してみるのも良いでしょう。ただし、チケットはすぐに売り切れてしまうこともありますから、早めの予約がおすすめです。",
+      "translationZh": "此外，最近设置了付费席位的烟花大会也越来越多。如果想在舒适的位置悠闲地欣赏烟花，考虑购买付费席位的票也是不错的选择。不过，由于门票有时会很快售罄，建议提早预订。",
+      "translationEn": "Also, recently, there are more and more fireworks festivals that offer reserved seating. If you want to enjoy the fireworks leisurely from a comfortable spot, considering purchasing a ticket for reserved seating might be a good idea. However, since tickets can sell out quickly, early booking is recommended.",
+      "id": "7238e22a-e75e-4984-b1a0-62efd62be582",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の夏は、友人や家族と一緒に、思い出に残る花火大会を楽しんでみてはいかがでしょうか。日本の夏の夜空を彩る美しい光景は、きっと忘れられない体験になるはずです。",
+      "translationZh": "今年的夏天，不妨和朋友或家人一起，去享受一场令人难忘的烟花大会吧。点缀日本夏日夜空的这番美景，一定会成为一段难忘的体验。",
+      "translationEn": "This summer, why not enjoy a memorable fireworks festival with friends and family? The beautiful scenery that colors Japan's summer night sky is sure to become an unforgettable experience.",
+      "id": "bcd9edf2-bf68-4a88-a0b9-1651994bf96b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（季节的）象征，代表",
+      "meaningEn": "a seasonal indicator; something that evokes a particular season",
+      "level": "n3",
+      "exampleSentence": "桜は春の風物詩です。",
+      "id": "531ade80-f903-4fda-b325-6bd129fbdbbf"
+    },
+    {
+      "word": "彩る",
+      "reading": "いろどる",
+      "meaningZh": "染色，着色；（比喻）增添色彩，使丰富多彩",
+      "meaningEn": "to color; to paint; to decorate",
+      "level": "n3",
+      "exampleSentence": "花火が夜空を美しく彩りました。",
+      "id": "a5e9eeaf-8711-4a82-ac38-89bcfdd5a1fe"
+    },
+    {
+      "word": "迫力",
+      "reading": "はくりょく",
+      "meaningZh": "魄力，气势",
+      "meaningEn": "power; force; impact",
+      "level": "n3",
+      "exampleSentence": "その映画は迫力があって面白かった。",
+      "id": "a48f9528-46cb-4dd7-b93d-b2d7721b5280"
+    },
+    {
+      "word": "ワクワクする",
+      "reading": "わくわくする",
+      "meaningZh": "（心情）激动，兴奋",
+      "meaningEn": "to be thrilled; to be excited",
+      "level": "n5n4",
+      "exampleSentence": "旅行に行くので、とてもワクワクしています。",
+      "id": "52cd970c-b7c8-4409-8ace-432d97d9f5ec"
+    },
+    {
+      "word": "アクセス",
+      "reading": "あくせす",
+      "meaningZh": "（交通）连接，到达；（信息）访问",
+      "meaningEn": "access; approach",
+      "level": "n3",
+      "exampleSentence": "この場所へのアクセスは少し不便です。",
+      "id": "a212fca6-a391-4eae-bb03-9dde7a16f8f3"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowding; congestion",
+      "level": "n3",
+      "exampleSentence": "年末は駅が大変混雑します。",
+      "id": "25e8619a-3165-4c77-8d90-b1ee948e42f6"
+    },
+    {
+      "word": "有料席",
+      "reading": "ゆうりょうせき",
+      "meaningZh": "付费座位，收费席位",
+      "meaningEn": "paid seating; reserved seat (requiring payment)",
+      "level": "n3",
+      "exampleSentence": "コンサートの有料席は人気があります。",
+      "id": "53ecda8f-7e46-41cf-a17e-4bde205803a6"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完，售罄",
+      "meaningEn": "to sell out",
+      "level": "n3",
+      "exampleSentence": "チケットはすぐに売り切れてしまいました。",
+      "id": "432f94f3-c831-47a0-a5c3-d002bdb7c2f0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会に行く前に、どのような情報を調べておくことが大切ですか？",
+      "options": [
+        "花火の歴史",
+        "出演者の名前",
+        "開催日時、場所、アクセス方法",
+        "過去の雨天中止の記録"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「花火大会には、たくさんの人が集まるので、事前に情報を調べておくことが大切です。開催日時や場所はもちろん、アクセス方法や、当日の混雑状況なども確認しておくと安心です。」とあります。",
+      "id": "43de8bab-d974-4d39-9abb-7ac5479d907c"
+    },
+    {
+      "question": "快適に花火を楽しみたい場合、どのような選択肢がありますか？",
+      "options": [
+        "会場から一番近い場所を探す",
+        "早朝から並んで場所を確保する",
+        "有料席のチケットを予約する",
+        "屋台で食べ物を買う"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「快適な場所からゆっくり花火を楽しみたい場合は、有料席のチケットを検討してみるのも良いでしょう。」とあります。",
+      "id": "daed7796-e040-43b4-bb95-6ebcfdc8ba25"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-25-ccf0f866c3",
+  "publishedAt": "2026-08-25T06:00:00+09:00"
+}

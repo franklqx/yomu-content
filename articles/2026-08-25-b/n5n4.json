@@ -1,0 +1,122 @@
+{
+  "title": "Bリーグの新しいスター選手",
+  "summary": "Bリーグに新しいスター選手が現れました。彼はとても人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本のプロバスケットボールリーグ、Bリーグに新しいスター選手がいます。彼の名前は〇〇です。彼はまだ若いです。しかし、もうチームのリーダーです。",
+      "translationZh": "在日本的职业篮球联赛B联赛，有一位新的明星选手。他的名字是〇〇。他还很年轻。但是，他已经是球队的领袖了。",
+      "translationEn": "In Japan's professional basketball league, B.League, there is a new star player. His name is XX. He is still young. However, he is already a team leader.",
+      "id": "0adadd5a-aea2-464f-b247-c2f817aa0f5b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "〇〇選手はとても速いです。ドリブルが上手です。そして、シュートもよく入ります。彼のプレーを見ていると、とても楽しいです。",
+      "translationZh": "〇〇选手速度很快。他的运球很熟练。而且，他的投篮也很准。看他的比赛，非常有趣。",
+      "translationEn": "Player XX is very fast. His dribbling is skillful. Also, his shots often go in. Watching his game is very enjoyable.",
+      "id": "c0a04139-f75f-4ea5-9c68-18739a116a5c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "試合（しあい）では、いつも一生懸命（いっしょうけんめい）プレーします。彼の情熱（じょうねつ）はファンを感動させます。だから、多くの人が彼のファンになりました。",
+      "translationZh": "在比赛中，他总是拼命地打球。他的热情感动了粉丝。因此，很多人成为了他的粉丝。",
+      "translationEn": "In games, he always plays with all his might. His passion moves the fans. Therefore, many people have become his fans.",
+      "id": "bd8e5d41-f241-4c0b-85fc-9ab507966482",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、〇〇選手はもっと活躍（かつやく）するでしょう。Bリーグをさらに面白くしてくれると思います。皆さんも、ぜひ応援（おうえん）してください。",
+      "translationZh": "今后，〇〇选手会更加活跃。我认为他会让B联赛变得更加有趣。大家也请一定支持他。",
+      "translationEn": "From now on, player XX will likely be even more active. I think he will make the B.League even more interesting. Everyone, please cheer for him too.",
+      "id": "22ac3fa4-139d-4809-8bcf-4daa2585fe8b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "あの選手はとても速いです。",
+      "id": "e9fc9c37-1c73-4ae2-b1b6-e2b750312470"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手は人気があります。",
+      "id": "56bca672-12fd-4a9c-8b82-fd7ff04a28e9"
+    },
+    {
+      "word": "速い",
+      "reading": "はやい",
+      "meaningZh": "快的",
+      "meaningEn": "fast",
+      "level": "n5n4",
+      "exampleSentence": "電車は速いです。",
+      "id": "768d7a1f-9462-412e-8bc1-a4ec7a5bb7bb"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "熟练的，擅长的",
+      "meaningEn": "skillful, good at",
+      "level": "n5n4",
+      "exampleSentence": "彼は日本語が上手です。",
+      "id": "e59358f2-134a-43e2-96bf-e631b7a1a7cf"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaningZh": "比赛",
+      "meaningEn": "game, match",
+      "level": "n5n4",
+      "exampleSentence": "今日の試合は面白かったです。",
+      "id": "85f858ba-a385-4088-848c-6f696178902d"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "支持，应援",
+      "meaningEn": "support, cheer for",
+      "level": "n5n4",
+      "exampleSentence": "チームを応援します。",
+      "id": "eef8e8d6-5711-4e29-8677-f98d436f5343"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "彼は会社で活躍しています。",
+      "id": "0aecacf5-9966-466d-909a-34e7385d2689"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "〇〇選手は、試合でどのようにプレーしますか。",
+      "options": [
+        "ゆっくりプレーします。",
+        "一生懸命プレーします。",
+        "あまりシュートしません。",
+        "いつも負けます。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「試合では、いつも一生懸命（いっしょうけんめい）プレーします。」と書いてあります。",
+      "id": "906813d6-3243-4a57-b5c7-7bfdb872a765"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-25-b",
+  "publishedAt": "2026-08-25T06:00:00+09:00"
+}

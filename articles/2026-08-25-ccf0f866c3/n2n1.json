@@ -1,0 +1,138 @@
+{
+  "title": "夏の夜空彩る花火大会、各地で盛況のうちに開催",
+  "summary": "各地で夏の風物詩である花火大会が開催され、多くの人々が夜空を彩る光の芸術を楽しんでいます。感染症の影響も落ち着きを見せ、例年以上の賑わいとなりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "全国各地で、夏の風物詩として親しまれる花火大会が、各地で盛況のうちに開催されている。一時期は感染症拡大防止のため中止や規模縮小を余儀なくされたイベントも多かったが、本年は多くの場所で例年通りの開催、あるいは規模を拡大して実施されるところが多く、人々の間に活気が戻ってきた様子が見受けられる。特に週末には、主要な花火大会会場周辺において、大変な混雑が予想されるため、公共交通機関の利用を促すなどの対策が取られている。",
+      "translationZh": "在日本全国各地，作为夏日风物诗深受喜爱的烟花大会正在各地热闹地举行。虽然一度因防止疫情蔓延而被迫中止或缩小规模的活动很多，但今年在许多地方都恢复了往年规模的举办，或是扩大了规模，人们的活力似乎正在回归。特别是在周末，由于主要烟花大会会场周边预计会非常拥挤，因此正在采取鼓励利用公共交通工具等措施。",
+      "translationEn": "Fireworks festivals, cherished as a summer tradition across Japan, are being held with great success in various locations. While many events were forced to be canceled or scaled down for a time due to the prevention of infectious disease spread, this year sees many places returning to their usual scale or even expanding their events, indicating a resurgence of vitality among people. Especially on weekends, significant congestion is expected around major fireworks festival venues, leading to measures such as encouraging the use of public transportation.",
+      "id": "1815e97d-ec0f-410c-872a-b8ca0e0a03a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "本年の花火大会では、伝統的な打ち上げ花火に加え、最新技術を駆使したレーザーやプロジェクションマッピングとの複合演出を取り入れる会場も増えている。これにより、単に上空で開花する花火の美しさを堪能するだけでなく、音楽や光のショーと一体となった、より没入感のあるエンターテイメント体験が提供されているとのことだ。観客からは、その斬新な演出に対する驚きと感動の声が多数寄せられている。",
+      "translationZh": "今年的烟花大会中，除了传统的发射烟花外，还增加了采用最新技术的光束灯和投影映射相结合的复合表演场地。据称，这不仅能让人欣赏到在空中绽放的烟花的璀璨之美，还提供了一种与音乐和灯光秀融为一体的、更具沉浸感的娱乐体验。观众们纷纷对这种新颖的表演表达了惊讶和感动。",
+      "translationEn": "This year's fireworks festivals are seeing an increase in venues incorporating advanced technologies such as laser shows and projection mapping in combination with traditional fireworks. It is reported that this offers a more immersive entertainment experience, integrating fireworks blooming in the sky with music and light shows. Many spectators have expressed their surprise and admiration for these innovative productions.",
+      "id": "15e28f2a-a798-418d-b231-64358a0e7808",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、花火大会の開催に伴い、会場周辺の交通渋滞やゴミ問題などが懸念される声も上がっている。主催者側は、これらの課題に対し、警備員の増員や清掃活動の強化、環境に配慮した運営などを進めることで、持続可能なイベント開催を目指している。地域経済への波及効果も期待される中、今後も安全かつ快適に楽しめるイベント運営が求められるだろう。",
+      "translationZh": "另一方面，也有声音担忧烟花大会的举办会引发会场周边的交通拥堵和垃圾问题。主办方正致力于通过增加安保人员、加强清扫活动以及推行环保运营等方式来应对这些挑战，并以实现可持续的活动举办为目标。在对地区经济产生积极影响的期待中，未来也将需要更加安全舒适的活动运营。",
+      "translationEn": "On the other hand, concerns have also been raised regarding traffic congestion and waste management around the venues accompanying the holding of fireworks festivals. Organizers are aiming for sustainable event management by increasing security personnel, strengthening cleaning activities, and promoting environmentally conscious operations to address these issues. With the expectation of positive ripple effects on the local economy, safe and enjoyable event operations will be required going forward.",
+      "id": "f6c040f0-ca84-4cc9-b26e-3e1f23b5b169",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（有季节特色的）景物，风俗",
+      "meaningEn": "seasonal feature; seasonal event; something that evokes a particular season",
+      "level": "n2n1",
+      "exampleSentence": "桜は春の風物詩として親しまれている。",
+      "id": "21c9ca91-0231-4676-98eb-bc8f9038f17b"
+    },
+    {
+      "word": "盛況",
+      "reading": "せい きょう",
+      "meaningZh": "盛况，热闹",
+      "meaningEn": "great success; flourishing; bustling",
+      "level": "n2n1",
+      "exampleSentence": "入場者は予想を上回り、会場は盛況のうちに幕を閉じた。",
+      "id": "a0c3652d-c72e-466f-b9e9-d23aac6a019b"
+    },
+    {
+      "word": "余儀なくされる",
+      "reading": "よぎなくされる",
+      "meaningZh": "被迫，不得已",
+      "meaningEn": "to be forced to; to have no choice but to",
+      "level": "n2n1",
+      "exampleSentence": "悪天候のため、屋外イベントは中止を余儀なくされた。",
+      "id": "1a06d36d-1ba6-4f55-b33f-616cb563a108"
+    },
+    {
+      "word": "複合",
+      "reading": "ふくごう",
+      "meaningZh": "复合，结合",
+      "meaningEn": "combination; composite",
+      "level": "n2n1",
+      "exampleSentence": "最新技術と伝統工芸の複合作品が注目を集めている。",
+      "id": "681e4948-3dc3-496b-9d8b-84de104cd475"
+    },
+    {
+      "word": "没入感",
+      "reading": "ぼつにゅうかん",
+      "meaningZh": "沉浸感",
+      "meaningEn": "sense of immersion; immersion",
+      "level": "n2n1",
+      "exampleSentence": "VR技術により、高い没入感を得ることができる。",
+      "id": "ca1fcf16-9264-4a74-b8d0-572d71aa9dc9"
+    },
+    {
+      "word": "斬新",
+      "reading": "ざんしん",
+      "meaningZh": "新颖，新奇",
+      "meaningEn": "novel; new and original; innovative",
+      "level": "n2n1",
+      "exampleSentence": "彼の斬新なアイデアは、会議で高く評価された。",
+      "id": "ad46e261-8714-4a61-a982-14d4290c7e84"
+    },
+    {
+      "word": "波及効果",
+      "reading": "はきゅうこうか",
+      "meaningZh": "（经济等）波及效应，连锁反应",
+      "meaningEn": "ripple effect; spillover effect",
+      "level": "n2n1",
+      "exampleSentence": "大型プロジェクトの成功は、地域経済に大きな波及効果をもたらすだろう。",
+      "id": "34a1a7d2-3260-4825-ba2f-c41bf58286a5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の夏祭り、花火大会の開催状況について、本文ではどのように述べられていますか？",
+      "options": [
+        "感染症の影響で、多くの大会が中止された。",
+        "規模が縮小された大会が多かったが、例年通り開催された場所も多い。",
+        "例年以上の賑わいを見せ、多くの場所で通常通り、あるいは規模を拡大して開催された。",
+        "海外からの観光客が激減したため、全体的に閑散としていた。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段には「本年は多くの場所で例年通りの開催、あるいは規模を拡大して実施されるところが多く、人々の間に活気が戻ってきた様子が見受けられる。」と記載されています。",
+      "id": "8de39ccc-6774-4b47-9baf-af7b4a660854"
+    },
+    {
+      "question": "花火大会で、近年増えている新しい演出とはどのようなものですか？",
+      "options": [
+        "昔ながらの線香花火のみを使用する。",
+        "伝統的な打ち上げ花火と、最新技術を駆使したレーザーやプロジェクションマッピングを組み合わせる。",
+        "観客が直接花火を打ち上げられるようにする。",
+        "打ち上げ時間を極端に短くする。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「最新技術を駆使したレーザーやプロジェクションマッピングとの複合演出を取り入れる会場も増えている。」とあります。",
+      "id": "c790693b-b60f-4661-8c3a-26e249b155c4"
+    },
+    {
+      "question": "花火大会の開催に伴う懸念事項として、本文で挙げられているものは何ですか？",
+      "options": [
+        "参加者の高齢化と若者の関心の低下。",
+        "会場周辺の交通渋滞やゴミ問題。",
+        "花火の音による動物への影響。",
+        "花火の材料費の高騰によるチケット価格の上昇。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第三段には、「花火大会の開催に伴い、会場周辺の交通渋滞やゴミ問題などが懸念される声も上がっている。」と記されています。",
+      "id": "c59ceec0-714e-43e4-b771-1cba37584f97"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-25-ccf0f866c3",
+  "publishedAt": "2026-08-25T06:00:00+09:00"
+}

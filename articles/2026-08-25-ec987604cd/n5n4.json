@@ -1,0 +1,122 @@
+{
+  "title": "コミケの最新トレンド",
+  "summary": "コミケは毎回新しいトレンドがあります。今年の傾向を見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コミケは大きなイベントです。たくさんの人が集まります。今回は、新しいアニメのサークルが多かったです。人気のアニメの絵やグッズが売られていました。",
+      "translationZh": "Comiket 是一个大型活动。很多人聚集在一起。这次，有很多新动画的社团。受欢迎的动画的绘画和周边商品在售卖。",
+      "translationEn": "Comiket is a big event. Many people gather. This time, there were many circles for new anime. Pictures and goods of popular anime were being sold.",
+      "id": "b7ff3fef-a67c-4391-9a81-294122b11aa8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔からあるアニメのサークルも、まだ人気がありました。特に有名な作品は、新しいファンもたくさんいました。昔のファンも喜んでいました。",
+      "translationZh": "老牌动画的社团依然很受欢迎。特别是著名的作品，有很多新粉丝。老粉丝也很高兴。",
+      "translationEn": "Circles of long-standing anime were still popular. Especially famous works had many new fans. Old fans were also happy.",
+      "id": "fe9a5a16-b1f6-4cd5-aecd-df4e62378434",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ゲームのサークルも目立ちました。新しいゲームのキャラクターや、昔のゲームのキャラクターもいました。ファンは熱心に買っていました。",
+      "translationZh": "游戏社团也很显眼。有新游戏的角色，也有老游戏的角色。粉丝们热情地购买。",
+      "translationEn": "Game circles also stood out. There were characters from new games and characters from old games. Fans were buying enthusiastically.",
+      "id": "122bfdbd-c63f-46c9-9646-272ea115afea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "色々なジャンルのサークルがありました。音楽や、小説のサークルもありました。来年も、どんなトレンドがあるか楽しみです。",
+      "translationZh": "各种类型的社团都有。还有音乐和小说类的社团。我很期待明年又会有什么样的趋势。",
+      "translationEn": "There were circles of various genres. There were also music and novel circles. I am looking forward to seeing what trends there will be next year.",
+      "id": "28ba1ba2-639c-4350-b11e-33773ae00007",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "趋势，潮流",
+      "meaningEn": "trend",
+      "level": "n5n4",
+      "exampleSentence": "今年のファッションのトレンドは何ですか。",
+      "id": "088cae5c-198d-47b8-bc51-fd2d0f094c40"
+    },
+    {
+      "word": "イベント",
+      "reading": "いべんと",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "大きなイベントが来週あります。",
+      "id": "fa269c44-f4c3-4289-b4de-f77015c2bb6a"
+    },
+    {
+      "word": "サークル",
+      "reading": "さーくる",
+      "meaningZh": "社团（常指同人志即卖会上的摊位或组织）",
+      "meaningEn": "circle (group, often referring to a booth or organization at a doujinshi event)",
+      "level": "n5n4",
+      "exampleSentence": "このサークルは人気があります。",
+      "id": "afc885ab-3131-465a-874a-2cf6e0eca6dc"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaningZh": "倾向，趋势",
+      "meaningEn": "tendency, trend",
+      "level": "n3",
+      "exampleSentence": "最近の若者の傾向が知りたいです。",
+      "id": "f54bf3c1-6f8f-45b5-9653-4db4fe49303c"
+    },
+    {
+      "word": "集まります",
+      "reading": "あつまります",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人が公園に集まります。",
+      "id": "46a22170-cb37-4458-b883-2c5a60272e2e"
+    },
+    {
+      "word": "目立ちます",
+      "reading": "めだちます",
+      "meaningZh": "显眼，引人注目",
+      "meaningEn": "to be conspicuous, to stand out",
+      "level": "n3",
+      "exampleSentence": "彼の服はとても目立ちました。",
+      "id": "9d7029b0-d26b-4811-8caf-51fb9de9155d"
+    },
+    {
+      "word": "ジャンル",
+      "reading": "じゃんる",
+      "meaningZh": "种类，类别",
+      "meaningEn": "genre",
+      "level": "n5n4",
+      "exampleSentence": "好きなジャンルの本は何ですか。",
+      "id": "1e1adc8c-a265-4f53-87ca-5a3dd0f6ce6e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回のコミケで、どんなサークルが多かったですか？",
+      "options": [
+        "昔のアニメのサークル",
+        "ゲームのサークル",
+        "新しいアニメのサークル",
+        "小説のサークル"
+      ],
+      "correctIndex": 2,
+      "explanation": "「今回は、新しいアニメのサークルが多かったです。」",
+      "id": "6b3be980-679c-42d2-87d3-01ed15b8d3d8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-25-ec987604cd",
+  "publishedAt": "2026-08-25T06:00:00+09:00"
+}
