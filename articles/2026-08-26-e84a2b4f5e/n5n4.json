@@ -1,0 +1,131 @@
+{
+  "title": "お寿司の値上げ、どうする？",
+  "summary": "最近、回転寿司の値段が上がりました。お客さんの数も少し変わりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、回転寿司の値段が少し上がりました。人気のあるお寿司のチェーン店でも、新しい値段になりました。これは、色々なものが高くなったからです。",
+      "translationZh": "最近，回转寿司的价格稍微上涨了。就连人气的寿司连锁店也采用了新的价格。这是因为很多东西都变贵了。",
+      "translationEn": "Recently, the price of conveyor belt sushi has risen a little. Even popular sushi chain stores have new prices. This is because many things have become more expensive.",
+      "id": "79c26971-d778-4888-b395-78542f23c067",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、魚や、お寿司を作るのに必要なものが高くなりました。だから、お店は値段を上げなければなりませんでした。多くの人が「ちょっと高いな」と思いました。",
+      "translationZh": "例如，鱼和制作寿司所需的物品都变贵了。所以，店不得不提高价格。很多人觉得“有点贵啊”。",
+      "translationEn": "For example, fish and things needed to make sushi have become more expensive. Therefore, the stores had to raise prices. Many people thought, 'It's a bit expensive.'",
+      "id": "bd670a6f-7a4e-445e-84d6-ad25d8a71b67",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がってから、お店に来るお客さんの数が少し減ったようです。前はもっとたくさんの人が来ていました。でも、おいしいお寿司が食べたい人は、今も来ています。",
+      "translationZh": "涨价后，来店里的顾客数量似乎减少了一些。以前有更多的人来。但是，想吃美味寿司的人，现在也还是会来。",
+      "translationEn": "After the price increase, the number of customers visiting the stores seems to have decreased slightly. More people used to come before. However, people who want to eat delicious sushi still come now.",
+      "id": "c29828f4-c6d0-48af-939e-73a24a7698a8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店の人は、これからもおいしいお寿司を、もっとたくさんの人に食べてもらいたいと思っています。値段は変わるかもしれませんが、努力を続けています。",
+      "translationZh": "店里的人希望今后也能让更多人吃到美味的寿司。虽然价格可能会变，但他们一直在努力。",
+      "translationEn": "The store staff hope that more people will be able to eat delicious sushi in the future. Prices may change, but they continue to make efforts.",
+      "id": "e0eeebbb-c005-447b-a5e0-4446a6d7dcaa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "週末は回転寿司に行きました。",
+      "id": "9fdded5f-c792-496a-bc02-df2b82cca1d9"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "1a22872d-7bd5-440c-abc2-676c4241eb8a"
+    },
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n3",
+      "exampleSentence": "電気代の値上げは困ります。",
+      "id": "0738bb0e-6648-4d10-b355-5ce1670770be"
+    },
+    {
+      "word": "チェーン店",
+      "reading": "ちぇーんてん",
+      "meaningZh": "连锁店",
+      "meaningEn": "chain store",
+      "level": "n3",
+      "exampleSentence": "有名なチェーン店のカフェが好きです。",
+      "id": "2acedd13-052d-4bc2-a5f2-ee17b36bd62c"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaningZh": "必要，必需",
+      "meaningEn": "necessary, need",
+      "level": "n5n4",
+      "exampleSentence": "この仕事には特別な技術が必要です。",
+      "id": "9cba8a78-ecfb-42c3-b44c-d52a6b3c4c7d"
+    },
+    {
+      "word": "客",
+      "reading": "きゃく",
+      "meaningZh": "客人，顾客",
+      "meaningEn": "customer, guest",
+      "level": "n5n4",
+      "exampleSentence": "お店にお客さんがたくさん来ました。",
+      "id": "b4013f89-fdbf-4f1d-8dd8-47dda86b3643"
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "meaningZh": "减少",
+      "meaningEn": "to decrease, to reduce",
+      "level": "n3",
+      "exampleSentence": "人口が減っています。",
+      "id": "81ced6af-70e0-4f5c-aa7e-af64a4a81855"
+    },
+    {
+      "word": "努力",
+      "reading": "どりょく",
+      "meaningZh": "努力",
+      "meaningEn": "effort, endeavor",
+      "level": "n3",
+      "exampleSentence": "合格のために努力します。",
+      "id": "d0c52f3a-750e-4660-988d-f47a6a57f905"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司の値段が上がったのはなぜですか？",
+      "options": [
+        "もっとおいしくなったからです。",
+        "魚や必要なものが高くなったからです。",
+        "お店がもっと儲けたいからです。",
+        "お客さんがたくさん来たからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「例えば、魚や、お寿司を作るのに必要なものが高くなりました。だから、お店は値段を上げなければなりませんでした。」と書いてあります。",
+      "id": "81cd0a78-ca7c-4095-bf83-0b40dbed0b25"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-26-e84a2b4f5e",
+  "publishedAt": "2026-08-26T06:00:00+09:00"
+}

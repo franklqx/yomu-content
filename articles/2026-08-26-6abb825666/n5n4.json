@@ -1,0 +1,122 @@
+{
+  "title": "新しい文房具で気分転換！",
+  "summary": "新しい学期が始まりますね。文房具を新しくすると、勉強のやる気が出ます。人気の文房具を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ新しい学期が始まります。春は新しいことが始まる季節です。学校で使う文房具も、新しくしたい人が多いでしょう。文房具は、勉強や学校生活を楽しくする大切なものです。",
+      "translationZh": "很快新学期就要开始了。春天是万物开始新生的季节。很多人想把学校用的文具也换成新的吧。文具是让学习和学校生活变得快乐的重要物品。",
+      "translationEn": "A new school term will begin soon. Spring is a season for new beginnings. Many people probably want to get new stationery for school. Stationery is important for making studying and school life enjoyable.",
+      "id": "a1bb542a-ae71-4746-a075-1ec64d7eed2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、人気の文房具は色々な種類があります。例えば、書きやすいペンや、かわいいデザインのノートです。特に、好きな色やキャラクターの文房具は、使うたびに嬉しい気持ちになります。",
+      "translationZh": "最近，受欢迎的文具种类很多。例如，容易书写的笔和设计可爱的笔记本。特别是喜欢的颜色或角色的文具，每次使用都会让人心情愉悦。",
+      "translationEn": "Recently, there are many kinds of popular stationery. For example, pens that are easy to write with and notebooks with cute designs. Especially, stationery in your favorite color or with your favorite character makes you happy every time you use it.",
+      "id": "0a7c705f-a28f-4ec9-aa25-a867de664846",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、勉強に役立つ機能がある文房具も人気です。例えば、消せるボールペンや、タイマー付きのノートなどがあります。これらの文房具は、勉強を効率的に進めるのに役立ちます。",
+      "translationZh": "此外，还有对学习有帮助的文具也很受欢迎。例如，可擦写的圆珠笔和带计时器的笔记本等。这些文具有助于高效地推进学习。",
+      "translationEn": "Also, stationery with useful functions for studying is popular. For example, erasable ballpoint pens and notebooks with timers. These stationery items help to proceed with studies efficiently.",
+      "id": "970eb179-32ea-43c7-9fc2-75a2edb16b69",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい文房具を揃えて、新しい学期を楽しく始めましょう。お気に入りの文房具は、きっとあなたの勉強の味方になりますよ。",
+      "translationZh": "让我们备齐新文具，愉快地开始新学期吧。你喜欢的文具一定会成为你学习上的好帮手。",
+      "translationEn": "Let's get new stationery and start the new school term happily. Your favorite stationery will surely be your ally in your studies.",
+      "id": "e859c32d-adaf-4bd0-9afa-ee0bca043820",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いました。",
+      "id": "7a16483d-6dd1-424f-b92a-582e85576127"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaningZh": "学期",
+      "meaningEn": "school term",
+      "level": "n5n4",
+      "exampleSentence": "来週から新しい学期が始まります。",
+      "id": "bd617ec8-5c9f-4033-aa8e-b9ab7fb84891"
+    },
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "春は好きな季節です。",
+      "id": "d0ea92f9-86f6-47cc-916b-cbe8def994ef"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "f5e5cf85-c47e-4b66-8002-9fa7f439062b"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, type",
+      "level": "n5n4",
+      "exampleSentence": "色々な種類の果物があります。",
+      "id": "2cf1495d-91ff-45b6-a86c-f6372b69ab98"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaningZh": "功能",
+      "meaningEn": "function",
+      "level": "n3",
+      "exampleSentence": "この時計は色々な機能があります。",
+      "id": "b7ce5318-0aef-4544-98db-8c5278aebad9"
+    },
+    {
+      "word": "効率的",
+      "reading": "こうりつてき",
+      "meaningZh": "有效率地",
+      "meaningEn": "efficiently",
+      "level": "n3",
+      "exampleSentence": "効率的に勉強する方法を教えてください。",
+      "id": "b90cc7a4-d7d3-4805-9b30-e4dbee37b0c1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい学期のために、どんな文房具が人気ですか？",
+      "options": [
+        "書きやすいペンやかわいいノート",
+        "消せるボールペンとタイマー",
+        "好きな色やキャラクターの文房具",
+        "昔からあるシンプルなペン"
+      ],
+      "correctIndex": 2,
+      "explanation": "「例えば、好きな色やキャラクターの文房具は、使うたびに嬉しい気持ちになります。」",
+      "id": "19aaeed9-b859-468f-bdb0-0cc9f6c48a0f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-26-6abb825666",
+  "publishedAt": "2026-08-26T06:00:00+09:00"
+}

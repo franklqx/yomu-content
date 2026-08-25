@@ -1,0 +1,122 @@
+{
+  "title": "アニメ聖地巡礼、町おこしの力",
+  "summary": "アニメの舞台になった場所を訪れる「聖地巡礼」が人気です。この人気は、地方の町を元気にしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、「聖地巡礼（せいちじゅんれい）」という言葉をよく聞きます。これは、アニメの物語の舞台になった場所をファンが訪れることです。有名なアニメの場所は、世界中からファンが集まることがあります。",
+      "translationZh": "最近，经常听到“圣地巡礼”这个词。这是指动画迷们会去参观动画故事发生的地点。有名的动画取景地，有时会有世界各地的粉丝聚集而来。",
+      "translationEn": "Recently, you often hear the word 'seichi junrei'. This means that fans visit places that became the setting for anime stories. Fans from all over the world sometimes gather at famous anime locations.",
+      "id": "b7b29136-c011-44cd-bae2-78b6bcb60b28",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "聖地巡礼は、その場所の町に良い影響を与えます。たくさんの人が訪れると、おみやげ屋さんやレストランがにぎやかになります。町の人々も、アニメのファンを温かく迎えます。",
+      "translationZh": "圣地巡礼给当地的城镇带来了好的影响。当很多人来访时，纪念品商店和餐馆会变得热闹起来。镇上的人们也会热情地欢迎动画粉丝。",
+      "translationEn": "Seichi junrei has a positive impact on the towns where it takes place. When many people visit, souvenir shops and restaurants become lively. The townspeople also warmly welcome anime fans.",
+      "id": "d741274a-6761-4843-8e70-265ff6a0a4ee",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方の町は、アニメのおかげで有名になることがあります。新しい人が来ることで、町に活気が出ます。これは、町を元気にする良い方法の一つです。",
+      "translationZh": "地方城镇有时会因为动画而变得有名。随着新人的到来，城镇充满了活力。这是让城镇变得有活力的好方法之一。",
+      "translationEn": "Local towns can become famous thanks to anime. The arrival of new people brings vitality to the town. This is one good way to energize a town.",
+      "id": "9456c922-1512-43ae-bbce-ab11a73c33d0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、多くのアニメが新しい「聖地」を生み出すでしょう。そして、たくさんのファンが、その場所を訪れて、町を応援するでしょう。",
+      "translationZh": "今后，许多动画作品也会诞生新的“圣地”。然后，许多粉丝会去那里，支持那个城镇。",
+      "translationEn": "In the future, many anime will likely create new 'sacred sites'. And many fans will visit those places and support the towns.",
+      "id": "00508db5-1d82-4360-bc60-e7193428dc54",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "圣地巡礼",
+      "meaningEn": "Pilgrimage to sacred sites (anime locations)",
+      "level": "n5n4",
+      "exampleSentence": "アニメの聖地巡礼が人気です。",
+      "id": "2b948e2b-6abc-462e-8e95-9a57a9545631"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，场所",
+      "meaningEn": "Stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "この町はアニメの舞台になりました。",
+      "id": "4731d389-f9dc-4159-9045-b39752903d8b"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "Fan",
+      "level": "n5n4",
+      "exampleSentence": "アニメのファンがたくさん来ました。",
+      "id": "01155656-e84d-4b1f-b21f-6941cd383ad1"
+    },
+    {
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaningZh": "影响",
+      "meaningEn": "Influence, effect",
+      "level": "n5n4",
+      "exampleSentence": "聖地巡礼は町に良い影響を与えます。",
+      "id": "b6b1c3b7-2ea1-4827-9991-cc633e2adbf4"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "Region, rural area",
+      "level": "n5n4",
+      "exampleSentence": "地方の町が元気になっています。",
+      "id": "6070c494-af8e-45d6-a9e8-f56e850df01a"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "Lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとてもにぎやかでした。",
+      "id": "d21cc2ba-1533-4a50-875d-7d92384eb081"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "Vitality, vigor",
+      "level": "n3",
+      "exampleSentence": "町に新しい活気が出ました。",
+      "id": "e2d31894-efd1-46d9-a7cb-279c78fec0b6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "聖地巡礼は、町にどのような影響を与えますか？",
+      "options": [
+        "町を静かにします。",
+        "おみやげ屋さんやレストランがにぎやかになります。",
+        "ファンは来なくなります。",
+        "町は元気がなくなります。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「たくさんの人が訪れると、おみやげ屋さんやレストランがにぎやかになります。」",
+      "id": "fe8968fa-e63d-4ef9-b022-8d4bbb0de582"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-26-220265558d",
+  "publishedAt": "2026-08-26T06:00:00+09:00"
+}

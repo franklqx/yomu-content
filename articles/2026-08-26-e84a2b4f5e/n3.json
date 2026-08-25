@@ -1,0 +1,143 @@
+{
+  "title": "回転寿司の値上げ、お客さんはどうしてる？",
+  "summary": "最近、多くの回転寿司チェーンで価格が上がっています。この記事では、その理由と、お客さんの反応について見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "皆さんは回転寿司が好きですか？私もよく行きますが、最近、多くの回転寿司チェーンで値上げのニュースを聞きます。今まで手軽に楽しめたお寿司だったのに、少し残念に感じますよね。",
+      "translationZh": "大家喜欢回转寿司吗？我也经常去，但是最近听到了很多回转寿司店涨价的消息。明明以前是可以轻松享受的寿司，让人觉得有点可惜呢。",
+      "translationEn": "Do you like conveyor belt sushi? I also go often, but recently I've heard news of price increases at many conveyor belt sushi chains. It's a bit disappointing because it used to be sushi that could be enjoyed easily.",
+      "id": "139f37d4-9a2a-436f-9f33-04f207b3c5d1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜ値上げが続いているのでしょうか。主な理由として、魚の仕入れ価格の上昇や、人件費、光熱費などが上がっていることが挙げられます。特に、世界的な漁獲量の減少や、円安の影響は大きいようです。このような状況では、お店側も利益を出すために、価格を上げざるを得ないのでしょう。",
+      "translationZh": "为什么涨价还在继续呢？主要原因包括鱼类进货价格上涨、人工费、水电费等费用的增加。特别是，全球渔获量的减少和日元贬值的影响似乎很大。在这样的情况下，店家为了盈利，不得不提高价格吧。",
+      "translationEn": "Why are price increases continuing? The main reasons include rising fish procurement costs, labor costs, and utility costs. In particular, global decreases in catch volumes and the impact of the weak yen seem significant. In such circumstances, businesses probably have no choice but to raise prices to make a profit.",
+      "id": "343f7fc1-4d54-45ab-accf-6d0af698c106",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値上げによって、お客さんの利用頻度にも変化が見られます。以前は週に一度は行っていたという人も、月に一度になったり、あるいは行かなくなったりしています。それでも、他の外食に比べればまだ安いと感じる人もいるため、完全に客足が途絶えるわけではないようです。家族連れなどは、予算を考えて注文する皿数を調整するなどの工夫をしているようです。",
+      "translationZh": "随着涨价，顾客的利用频率也发生了变化。以前每周去一次的人，现在变成了一个月一次，或者干脆不去了。即便如此，也有人觉得和其它外食相比还是比较便宜，所以顾客似乎不会完全消失。像家庭顾客等，似乎会考虑预算来调整点的盘数，做出相应的调整。",
+      "translationEn": "Due to the price increases, changes are also seen in customer visit frequency. Some people who used to go once a week now go once a month, or have stopped going altogether. Nevertheless, some people still feel it's cheaper compared to other dining out options, so it seems customers are not disappearing entirely. Families, for example, seem to be making adjustments like controlling the number of plates ordered while considering their budget.",
+      "id": "2c225f1d-894e-4c09-9d8f-f082716f5a71",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後も回転寿司チェーンの価格は変動するかもしれません。しかし、お店側は企業努力を続け、私たちはお得な情報を探しながら、上手に回転寿司を楽しんでいきたいものですね。",
+      "translationZh": "今后回转寿司店的价格可能还会变动。但是，店家会继续努力，我们也要一边寻找优惠信息，一边巧妙地享受回转寿司的乐趣。",
+      "translationEn": "Conveyor belt sushi chain prices may continue to fluctuate in the future. However, businesses will continue their efforts, and we should aim to enjoy conveyor belt sushi smartly while looking for good deals.",
+      "id": "79acf9da-4b3e-4e50-8f42-82e0bb007f75",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "手軽",
+      "reading": "てがる",
+      "meaningZh": "方便，轻易",
+      "meaningEn": "easy, simple, casual",
+      "level": "n3",
+      "exampleSentence": "この料理は手軽に作れるのがいいですね。",
+      "id": "0ea80177-55bb-4865-8c06-d3fadec3b37c"
+    },
+    {
+      "word": "仕入れ価格",
+      "reading": "しいれかかく",
+      "meaningZh": "进货价格",
+      "meaningEn": "procurement cost, wholesale price",
+      "level": "n3",
+      "exampleSentence": "仕入れ価格が上がったため、商品の値段を上げました。",
+      "id": "2238c61f-af07-4718-b8d3-28c417f5880c"
+    },
+    {
+      "word": "人件費",
+      "reading": "じんけんひ",
+      "meaningZh": "人工成本",
+      "meaningEn": "personnel expenses, labor costs",
+      "level": "n3",
+      "exampleSentence": "人件費を抑えるために、新しいスタッフの採用を減らしました。",
+      "id": "8da29314-d721-440a-829b-7f1cf45baae7"
+    },
+    {
+      "word": "光熱費",
+      "reading": "こうねつひ",
+      "meaningZh": "水电煤气费",
+      "meaningEn": "utility costs (electricity, gas, water)",
+      "level": "n3",
+      "exampleSentence": "夏になり、エアコンの使用が増えて光熱費が高くなりました。",
+      "id": "4c3f542d-d5a5-41b2-a884-c0cb5e6f41aa"
+    },
+    {
+      "word": "漁獲量",
+      "reading": "ぎょかくりょう",
+      "meaningZh": "渔获量",
+      "meaningEn": "catch volume, fish catch",
+      "level": "n2n1",
+      "exampleSentence": "今年の漁獲量は去年に比べて少なかったです。",
+      "id": "fe6407e6-b72c-471d-982c-bfc16be5ac7f"
+    },
+    {
+      "word": "円安",
+      "reading": "えんやす",
+      "meaningZh": "日元贬值",
+      "meaningEn": "weak yen, depreciation of the yen",
+      "level": "n3",
+      "exampleSentence": "円安の影響で、輸入品の価格が上がっています。",
+      "id": "0c3275e9-b481-46cf-aeba-7dbf0707a5b7"
+    },
+    {
+      "word": "客足",
+      "reading": "きゃくあし",
+      "meaningZh": "客流量，顾客往来",
+      "meaningEn": "customer traffic, flow of customers",
+      "level": "n3",
+      "exampleSentence": "セールが始まったので、お店の客足が増えました。",
+      "id": "e85b1d42-d1f1-4152-85ed-cb1823730927"
+    },
+    {
+      "word": "企業努力",
+      "reading": "きぎょうどりょく",
+      "meaningZh": "企业努力",
+      "meaningEn": "corporate efforts, business efforts",
+      "level": "n2n1",
+      "exampleSentence": "価格を維持するために、企業努力を続けています。",
+      "id": "98dae3c0-ee94-42d4-911a-7964d84df421"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司チェーンで値上げが続いている主な理由は何ですか？",
+      "options": [
+        "お客さんが減ったから",
+        "魚の仕入れ価格や人件費などが上がったから",
+        "新しいメニューが多くなったから",
+        "お店の場所が悪くなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「主な理由として、魚の仕入れ価格の上昇や、人件費、光熱費などが上がっていることが挙げられます。」と説明されています。",
+      "id": "38149203-49f6-4fc1-bd16-1b3be2518de3"
+    },
+    {
+      "question": "値上げによって、お客さんの利用頻度はどのように変化しましたか？",
+      "options": [
+        "以前より頻繁に行くようになった",
+        "ほとんど変わっていない",
+        "利用頻度が減ったり、行かなくなったりする人がいる",
+        "毎日行くようになった"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「以前は週に一度は行っていたという人も、月に一度になったり、あるいは行かなくなったりしています。」と書かれています。",
+      "id": "c89bca62-977c-4cb8-94a8-134b32f348a6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-26-e84a2b4f5e",
+  "publishedAt": "2026-08-26T06:00:00+09:00"
+}
