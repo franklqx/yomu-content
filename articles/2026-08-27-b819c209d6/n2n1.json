@@ -1,0 +1,147 @@
+{
+  "title": "人気アニメ、コラボカフェ新メニューで予約殺到",
+  "summary": "人気アニメ「〇〇（架空のアニメ名）」とのコラボカフェが、新メニューの提供開始に伴い、予約が取れないほどの混雑となっているとのことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都内某所にて期間限定でオープンしている人気アニメ「〇〇（架空のアニメ名）」のコラボレーションカフェにて、先日より提供が開始された新メニューが大きな話題を呼んでおります。特に、作品の世界観を忠実に再現したというドリンクやフードは、ファンのみならずとも注目を集めており、SNS上では「見た目も味も最高！」「感動しました」といった声が多数投稿されています。この新メニューを求めて、カフェへの来店者数は急増している模様です。",
+      "translationZh": "在都内某地限时开放的人气动漫《〇〇（虚构动漫名）》合作咖啡厅，自前些日子开始提供的所有新菜单引起了巨大的反响。特别是，据说忠实再现了作品世界观的饮品和餐点，不仅吸引了粉丝，也引起了广泛关注，社交媒体上充斥着“外观和味道都绝佳！”、“非常感动”等评价。为了品尝这些新菜单，光顾咖啡厅的顾客数量似乎急剧增加。",
+      "translationEn": "At the collaboration cafe for the popular anime \"〇〇 (Fictional Anime Name)\", which is open for a limited time in a certain location in the capital, the new menu items released recently have become a major topic of conversation. In particular, the drinks and food, which are said to faithfully reproduce the world of the anime, are attracting attention not only from fans but also from the general public, with many comments such as \"The appearance and taste are superb!\" and \"I was moved\" being posted on social media. It appears that the number of visitors to the cafe has surged in pursuit of these new menu items.",
+      "id": "2060c260-aad5-4c19-b850-30896a06f848",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかしながら、この人気に伴い、カフェの予約状況は極めて厳しいものとなっております。特に週末や祝日においては、数週間先まで予約が埋まっている状態が続いており、予約サイトにはアクセスが集中し、繋がりにくい状況が発生することも少なくありません。カフェ側も、混雑緩和のため入場制限を設けるなどの対応を取っておりますが、それでもなお、多くのファンが来店を断念せざるを得ない状況が見受けられます。",
+      "translationZh": "然而，伴随着这份人气，咖啡厅的预约状况变得极为严峻。尤其是在周末和节假日，预订已排至数周之后，预约网站的访问量剧增，时常出现难以连接的情况。咖啡厅方面也采取了设置入场限制等措施以缓解拥挤，但即便如此，仍有许多粉丝不得不放弃前来光顾。",
+      "translationEn": "However, along with this popularity, the reservation situation at the cafe has become extremely difficult. Especially on weekends and holidays, reservations have been fully booked for several weeks in advance, and it is not uncommon for access to the reservation site to be concentrated, making it difficult to connect. The cafe is also implementing measures such as setting entry restrictions to ease congestion, but even so, many fans are still unable to visit.",
+      "id": "be8015d4-ad62-497f-a2cb-44f3ed2c4371",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした状況を受け、一部のファンからは「もっと席数を増やしてほしい」「予約システムを改善してほしい」といった要望も寄せられております。カフェ側は、現在、状況を鑑み、追加席の設置や予約システムの改修について検討を進めているとのことです。人気作品のコラボカフェならではの熱気を肌で感じられる一方で、その人気ゆえの予約困難という課題も浮き彫りになっています。",
+      "translationZh": "对此情况，部分粉丝也提出了“希望增加座位数量”、“希望改善预约系统”等要求。据称，咖啡厅方面目前正在根据实际情况，研究增设席位和改进预约系统。一方面，人们能亲身感受到人气作品的联名咖啡厅特有的热烈气氛，另一方面，也凸显了因高人气而导致的预约困难这一课题。",
+      "translationEn": "In response to this situation, some fans have requested \"We want more seats\" and \"We want the reservation system to be improved.\" The cafe is reportedly considering the installation of additional seats and the improvement of the reservation system in light of the current situation. While one can feel the enthusiasm unique to collaboration cafes of popular works, the challenge of difficulty in making reservations due to their popularity is also being highlighted.",
+      "id": "5ceec027-472b-4518-84b0-1c026b4f7708",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コラボレーション",
+      "reading": "こらぼれーしょん",
+      "meaningZh": "合作",
+      "meaningEn": "collaboration",
+      "level": "n2n1",
+      "exampleSentence": "人気ゲームとのコラボレーション商品が発売された。",
+      "id": "d61d502b-a8c9-4fa5-ad32-ae99799d084f"
+    },
+    {
+      "word": "提供",
+      "reading": "ていきょう",
+      "meaningZh": "提供",
+      "meaningEn": "provision, offering",
+      "level": "n3",
+      "exampleSentence": "新メニューの提供は来週から開始されます。",
+      "id": "7273639c-814e-4df7-8bee-a975d8bf4aea"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic, talk of the town",
+      "level": "n3",
+      "exampleSentence": "その映画は大きな話題となった。",
+      "id": "bbf458b4-ca29-4c3a-a713-a60e833ad7f6"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "新しい技術に世界中から注目が集まっている。",
+      "id": "255cd302-90a7-48bb-9046-4c75b2a367b3"
+    },
+    {
+      "word": "投稿",
+      "reading": "とうこう",
+      "meaningZh": "投稿",
+      "meaningEn": "posting, submission",
+      "level": "n3",
+      "exampleSentence": "SNSに写真が多数投稿された。",
+      "id": "4cf3006d-c3fd-421a-b560-2b3aa24bdab5"
+    },
+    {
+      "word": "極めて",
+      "reading": "きわめて",
+      "meaningZh": "极其，非常",
+      "meaningEn": "extremely, exceedingly",
+      "level": "n2n1",
+      "exampleSentence": "この問題は極めて重要である。",
+      "id": "3c6c69e8-f462-4b29-afac-8907668a7516"
+    },
+    {
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaningZh": "缓和，缓解",
+      "meaningEn": "relaxation, easing",
+      "level": "n2n1",
+      "exampleSentence": "政府は経済の緩和策を発表した。",
+      "id": "cdf689e5-8c41-49f3-b0cb-d1511319eb40"
+    },
+    {
+      "word": "鑑み",
+      "reading": "かんがみ",
+      "meaningZh": "考虑到，鉴于",
+      "meaningEn": "considering, in view of",
+      "level": "n2n1",
+      "exampleSentence": "現状を鑑み、計画を変更する必要がある。",
+      "id": "e2433936-2bff-4f29-b295-08c23b84a1ce"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コラボカフェの新メニューが話題になっている主な理由は何ですか？",
+      "options": [
+        "予約が取りやすくなったから",
+        "価格が安くなったから",
+        "作品の世界観を再現したメニューだから",
+        "店員が有名人だったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「作品の世界観を忠実に再現したというドリンクやフードは、ファンのみならずとも注目を集めており」と書かれているため。",
+      "id": "be78ce43-cac4-40f0-90d0-3c18e2dac33a"
+    },
+    {
+      "question": "新メニュー提供開始に伴い、カフェの予約状況はどうなっていますか？",
+      "options": [
+        "予約なしでも気軽に入れるようになった",
+        "予約なしでは入れないほど混雑している",
+        "予約なしでも入れるが、待つことが多い",
+        "予約システムが一時停止している"
+      ],
+      "correctIndex": 1,
+      "explanation": "「予約状況は極めて厳しいものとなっており、数週間先まで予約が埋まっている状態が続いており」と記載されているため。",
+      "id": "67841705-2a67-4363-9011-14ff28a45066"
+    },
+    {
+      "question": "カフェ側は、予約困難な状況に対してどのような対応を取っていますか？",
+      "options": [
+        "新メニューの提供を一時停止している",
+        "予約システムを全面的に刷新した",
+        "入場制限を設けるなどの対応を取っている",
+        "追加席の設置と予約システムの改修を完了した"
+      ],
+      "correctIndex": 2,
+      "explanation": "「カフェ側も、混雑緩和のため入場制限を設けるなどの対応を取っておりますが」と書かれている。追加席や予約システムの改修は「検討を進めている」段階である。",
+      "id": "7af27ed0-195e-4408-b534-9ecc0c866a53"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-27-b819c209d6",
+  "publishedAt": "2026-08-27T06:00:00+09:00"
+}

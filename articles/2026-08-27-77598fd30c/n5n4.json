@@ -1,0 +1,122 @@
+{
+  "title": "七夕の光、新しい名所",
+  "summary": "今年の夏、新しい七夕のライトアップが始まりました。とてもきれいなので、ぜひ見に行ってください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ七夕です。毎年、七夕にはきれいな飾りをつけます。今年の夏は、新しい場所で七夕のライトアップがあります。この場所は「星空公園」といいます。",
+      "translationZh": "七夕节马上就要到了。每年，到了七夕大家都会挂上漂亮的装饰。今年夏天，一个新的七夕灯光秀地点开放了。这个地方叫做“星空公园”。",
+      "translationEn": "Tanabata is coming soon. Every year, we put up beautiful decorations for Tanabata. This summer, there is a Tanabata light-up in a new place. This place is called 'Starry Sky Park'.",
+      "id": "50772f48-8c82-4c03-88e5-d7258cddaa69",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "星空公園は、街のはずれにあります。静かで、空がとてもよく見えます。七夕の飾りと光が合わさって、夢のような景色を作り出します。たくさんの人がこの光景を見に来るでしょう。",
+      "translationZh": "星空公园位于市郊。这里很安静，能清楚地看到天空。七夕的装饰和灯光结合在一起，创造出如梦似幻的景象。想必会有很多人来看这个景象。",
+      "translationEn": "Starry Sky Park is located on the outskirts of the city. It is quiet, and you can see the sky very well. The Tanabata decorations and lights combine to create a dreamlike scene. Many people will probably come to see this sight.",
+      "id": "d4d481be-08b4-44ed-9672-df0cdce7c4f7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ライトアップは、夕方6時から夜9時までです。8月7日までやっています。週末は特に人が多いかもしれません。家族や友達と一緒に行くと、もっと楽しいでしょう。",
+      "translationZh": "灯光秀是从傍晚6点到晚上9点。活动会持续到8月7日。周末人可能会特别多。如果和家人或朋友一起去，应该会更开心。",
+      "translationEn": "The light-up is from 6 PM to 9 PM. It will be held until August 7th. It might be especially crowded on weekends. It will probably be more fun if you go with family or friends.",
+      "id": "0eb478b8-2a38-4c72-8265-9c0e052b3d9f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい名所は、きっと人気が出ます。夏の思い出に、ぜひ星空公園を訪れてみてください。",
+      "translationZh": "这个新的景点一定会很受欢迎。为了留下夏日回忆，请一定来星空公园参观。",
+      "translationEn": "This new famous spot will surely become popular. Please visit Starry Sky Park to make summer memories.",
+      "id": "39a0c535-b1fe-4cf1-a93f-9e6f011dc3b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "七夕",
+      "reading": "たなばた",
+      "meaningZh": "七夕节",
+      "meaningEn": "Tanabata (Star Festival)",
+      "level": "n5n4",
+      "exampleSentence": "七夕には、笹に願い事を書いた短冊を飾ります。",
+      "id": "e91f48aa-1f2a-4016-9cff-7e81630805a4"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "部屋をクリスマスの飾りでいっぱいにしました。",
+      "id": "813b790b-3566-4793-8343-96e9507b64c4"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "この場所は静かでいいですね。",
+      "id": "ab53e84c-7d70-469d-8f19-bd3f24d83b1b"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園で子供たちが遊んでいます。",
+      "id": "fcf67393-a86b-4f0b-9784-d68e2b8951ef"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "富士山の景色はとても美しいです。",
+      "id": "7839bc78-0fa4-4889-a844-af37990a8e57"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "新しいレストランはとても人気があります。",
+      "id": "22604d34-4aa9-4784-afc7-9bce32230fb7"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaningZh": "名胜，景点",
+      "meaningEn": "famous place, sight",
+      "level": "n3",
+      "exampleSentence": "京都には古い名所がたくさんあります。",
+      "id": "83333785-36b0-45fe-a29d-dbc4fdf08620"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の七夕のライトアップは、どこで見られますか？",
+      "options": [
+        "街の中心",
+        "星空公園",
+        "駅の前",
+        "海辺"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「今年の夏は、新しい場所で七夕のライトアップがあります。この場所は「星空公園」といいます。」と書いてあります。",
+      "id": "b1e407f3-caa5-4933-a910-fb13101dbcc6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-27-77598fd30c",
+  "publishedAt": "2026-08-27T06:00:00+09:00"
+}

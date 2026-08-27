@@ -1,0 +1,138 @@
+{
+  "title": "学校体育館の地域開放、実験的導入へ",
+  "summary": "地域住民のスポーツ振興と学校施設の有効活用を図るため、一部の学校体育館が地域住民に開放される実験が実施されることになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、少子化に伴う児童生徒数の減少により、学校施設の有効活用が全国的な課題となっている。こうした状況を受け、文部科学省は、地域住民の健康増進やコミュニティ醸成に資するため、学校体育館の地域住民への開放を推進する方針を打ち出した。この度、その一環として、一部の公立学校を対象とした「学校体育館地域開放実験」が開始されることになったとのことである。",
+      "translationZh": "近年来，随着少子化导致学童人数减少，学校设施的有效利用成为全国性的课题。在此背景下，文部科学省提出了推广向社区居民开放学校体育馆的方针，以促进社区居民的健康发展和社区形成。据了解，作为其中的一环，“学校体育馆社区开放实验”将开始实施，部分公立学校将被纳入实验对象。",
+      "translationEn": "In recent years, with the decrease in the number of students due to declining birthrates, the effective utilization of school facilities has become a nationwide issue. In response to this situation, the Ministry of Education, Culture, Sports, Science and Technology has announced a policy to promote the opening of school gymnasiums to community residents, aiming to contribute to the health promotion and community building of local residents. As part of this initiative, an \"Experimental Opening of School Gymnasiums to the Community\" will be launched, targeting a select number of public schools.",
+      "id": "75899d02-e310-415e-9f5b-9e6a2c87d395",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "本実験では、平日の放課後や週末を中心に、地域住民がバドミントンやバスケットボールなどのスポーツ活動に体育館を利用できるようになる。利用にあたっては、安全管理や施設維持のため、地域住民で構成される運営委員会が中心となり、学校側と連携して管理体制を構築することが求められる。また、利用料の設定や時間帯については、各自治体の実情に応じて柔軟に決定される見込みである。",
+      "translationZh": "在此次实验中，社区居民可以在平日放学后及周末利用体育馆进行羽毛球、篮球等体育活动。在使用方面，为了确保安全管理和设施维护，要求由社区居民组成的运营委员会牵头，与学校方面合作构建管理体制。此外，使用费的设定和时间段预计将根据各地区的实际情况灵活决定。",
+      "translationEn": "In this experiment, community residents will be able to use the gymnasium for sports activities such as badminton and basketball, primarily after school on weekdays and on weekends. For utilization, an operating committee composed of community residents will be required to take the lead in cooperation with the school to establish a management system for safety and facility maintenance. Furthermore, usage fees and time slots are expected to be determined flexibly according to the circumstances of each municipality.",
+      "id": "ecae2195-d830-49c0-8efb-7acf573ad612",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学校体育館の地域開放は、住民の健康増進だけでなく、地域コミュニティの活性化や、学校と地域との連携強化にも繋がることが期待されている。一方で、施設の老朽化対策や、児童生徒の安全確保との両立、近隣住民への配慮など、クリアすべき課題も少なくない。今回の実験結果を詳細に分析し、今後の本格導入に向けた課題の洗い出しと解決策の検討が進められることになろう。",
+      "translationZh": "学校体育馆向社区开放，不仅有望促进居民健康，还能带动社区的活跃，加强学校与社区的联系。然而，也存在不少需要解决的课题，例如设施老化的对策、与保障学童安全并行、以及对周边居民的关照等。此次实验结果将被详细分析，以期在为今后正式引入而梳理课题并探讨解决方案。",
+      "translationEn": "The opening of school gymnasiums to the community is expected not only to promote residents' health but also to revitalize local communities and strengthen cooperation between schools and their surroundings. On the other hand, there are also numerous challenges to overcome, such as measures against facility aging, ensuring the safety of students while accommodating community use, and considering the needs of neighboring residents. The results of this experiment will be analyzed in detail to identify issues and consider solutions for future full-scale implementation.",
+      "id": "518d68b2-5268-49fc-a8d1-8087e1eb90a4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "有効活用",
+      "reading": "ゆうこうかつよう",
+      "meaningZh": "有效利用",
+      "meaningEn": "effective utilization",
+      "level": "n2n1",
+      "exampleSentence": "限られた資源を有効活用することが重要だ。",
+      "id": "c8fc08bc-0b57-47a5-9f82-864f56da2030"
+    },
+    {
+      "word": "資する",
+      "reading": "しする",
+      "meaningZh": "有助于，有益于",
+      "meaningEn": "to contribute to, to be beneficial for",
+      "level": "n2n1",
+      "exampleSentence": "この研究は科学の発展に資すると考えられる。",
+      "id": "c304bc73-7a8a-4990-84c4-2ae6363dc113"
+    },
+    {
+      "word": "コミュニティ醸成",
+      "reading": "こみゅにてぃじょうせい",
+      "meaningZh": "社区营造，社区形成",
+      "meaningEn": "community building",
+      "level": "n2n1",
+      "exampleSentence": "地域住民の交流を促進し、コミュニティ醸成に努める。",
+      "id": "ef22e745-6c30-4d86-b3df-ef7f6457ab7f"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation, collaboration",
+      "level": "n3",
+      "exampleSentence": "部署間の連携を強化して、業務効率を向上させる。",
+      "id": "930b923f-4a23-447f-93f3-6cb2072cb4fc"
+    },
+    {
+      "word": "老朽化",
+      "reading": "ろうきゅうか",
+      "meaningZh": "老化，陈旧",
+      "meaningEn": "aging, deterioration",
+      "level": "n3",
+      "exampleSentence": "建物の老朽化が進み、修繕が必要となった。",
+      "id": "1d9af247-1cd5-4d04-a48a-f7ff1f04377f"
+    },
+    {
+      "word": "両立",
+      "reading": "りょうりつ",
+      "meaningZh": "兼顾，并存",
+      "meaningEn": "compatibility, coordination",
+      "level": "n3",
+      "exampleSentence": "仕事と家庭生活の両立は容易ではない。",
+      "id": "ee231684-2566-46c5-9f64-2977c14ca104"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "关照，关怀，体谅",
+      "meaningEn": "consideration, care",
+      "level": "n3",
+      "exampleSentence": "相手の気持ちに配慮した言動を心がける。",
+      "id": "d3bf8685-26ce-483b-82a7-29dff3f8e538"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校体育館の地域開放実験が行われる主な理由は何ですか？",
+      "options": [
+        "学校施設の老朽化対策のため",
+        "地域住民のスポーツ振興と学校施設の有効活用のため",
+        "児童生徒の放課後活動の場を増やすため",
+        "学校と地域住民との交流イベントを増やすため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段には「地域住民の健康増進やコミュニティ醸成に資するため、学校体育館の地域住民への開放を推進する方針を打ち出した。この度、その一環として、一部の公立学校を対象とした「学校体育館地域開放実験」が開始されることになったとのことである。」とあり、地域住民のスポーツ振興と学校施設の有効活用が目的であることが示唆されている。",
+      "id": "affc6ed0-e9bd-4f1d-9edf-59958b3569e6"
+    },
+    {
+      "question": "地域住民が体育館を利用するにあたり、どのような体制が求められますか？",
+      "options": [
+        "学校が単独で管理体制を構築すること",
+        "地域住民が主体となり、学校と連携して管理体制を構築すること",
+        "自治体が全ての管理業務を請け負うこと",
+        "利用者は自己責任で安全管理を行うこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段には「利用にあたっては、安全管理や施設維持のため、地域住民で構成される運営委員会が中心となり、学校側と連携して管理体制を構築することが求められる。」と記述されている。",
+      "id": "13cf9309-69c6-406b-9493-982b73df6845"
+    },
+    {
+      "question": "学校体育館の地域開放によって期待される効果として、本文で述べられていないものはどれですか？",
+      "options": [
+        "住民の健康増進",
+        "地域コミュニティの活性化",
+        "学校と地域との連携強化",
+        "学校施設の建設費削減"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文第三段では、住民の健康増進、地域コミュニティの活性化、学校と地域との連携強化が期待される効果として挙げられているが、学校施設の建設費削減については触れられていない。",
+      "id": "4647d70e-4116-455b-82da-1021be6de33f"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-27-124842a915",
+  "publishedAt": "2026-08-27T06:00:00+09:00"
+}

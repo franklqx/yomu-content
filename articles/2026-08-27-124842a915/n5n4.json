@@ -1,0 +1,114 @@
+{
+  "title": "体育館、みんなの場所！",
+  "summary": "学校の体育館が地域の人にも開放されました。これは新しい実験です。どんなことが行われているか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある学校で新しい実験が始まりました。それは、学校の体育館を地域の人たちにも開放することです。今まで、体育館は主に生徒たちのために使われていました。でも、これからは、もっと多くの人が使えるようになります。",
+      "translationZh": "最近，一所学校开始了一项新实验。那就是将学校的体育馆也向社区居民开放。以前，体育馆主要供学生使用。但是，从今以后，将有更多的人可以使用它。",
+      "translationEn": "Recently, a new experiment started at a certain school. It is opening the school gymnasium to local residents as well. Until now, the gymnasium was mainly used for students. But from now on, more people will be able to use it.",
+      "id": "462fc79c-6f08-439b-ae98-ba73c360ad0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、地域の人々が運動する場所を増やすために行われています。例えば、夕方や週末に、地域の人たちは体育館でバスケットボールをしたり、バレーボールをしたりできます。子供たちも大人たちも、一緒に汗を流すことができます。",
+      "translationZh": "这项实验是为了增加社区居民运动的场所而进行的。例如，在傍晚或周末，社区居民可以在体育馆打篮球或打排球。孩子们和成年人都可以一起挥洒汗水。",
+      "translationEn": "This experiment is being conducted to increase places for local people to exercise. For example, in the evening or on weekends, residents can play basketball or volleyball in the gymnasium. Both children and adults can sweat together.",
+      "id": "2f7de14a-810c-4c24-99a3-46b325345ffc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学校にとっても、地域にとっても、良いことだと思います。地域の人たちが学校に来ることで、学校はもっと地域に開かれた場所になります。また、人々が健康になる良い機会にもなります。この実験がうまくいくといいですね。",
+      "translationZh": "我认为这对学校和社区来说都是好事。通过让社区居民来到学校，学校会成为一个更加开放的地方。同时，这也将是人们保持健康的好机会。希望这项实验能顺利进行。",
+      "translationEn": "I think it is a good thing for both the school and the community. By having local people come to the school, the school becomes a more open place to the community. Also, it becomes a good opportunity for people to become healthy. I hope this experiment goes well.",
+      "id": "47af53bb-2704-420c-a437-e4e70990a504",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "体育館でスポーツをしました。",
+      "id": "c7c7b9ef-f35e-4f12-a81e-0d84b8b20d34"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，社区",
+      "meaningEn": "area, region, community",
+      "level": "n5n4",
+      "exampleSentence": "地域の人たちが集まりました。",
+      "id": "e18dd2e2-8e0e-42c0-916a-2373feca2cc6"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, open",
+      "level": "n3",
+      "exampleSentence": "公園が夜に開放されました。",
+      "id": "0ac5348d-dca7-4743-b27d-a84f155b0fdc"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい方法の実験をしました。",
+      "id": "1186e358-16ca-411d-9805-26f180f5aace"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaningZh": "学生",
+      "meaningEn": "student",
+      "level": "n5n4",
+      "exampleSentence": "生徒がたくさんいます。",
+      "id": "28d6f15b-fbf8-4803-ad90-7e98a9d75d7d"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaningZh": "运动",
+      "meaningEn": "exercise, sports",
+      "level": "n5n4",
+      "exampleSentence": "毎日運動をします。",
+      "id": "7a2058fd-b1f6-4450-8fb2-649874e0b03c"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity, chance",
+      "level": "n3",
+      "exampleSentence": "良い機会を逃しました。",
+      "id": "70f46781-0c91-4160-b5d1-68b5145a6814"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館は、誰のために使われるようになりますか？",
+      "options": [
+        "主に先生のため",
+        "地域の人たちのため",
+        "実験のためだけ",
+        "生徒と地域の人々の両方のため"
+      ],
+      "correctIndex": 3,
+      "explanation": "「学校の体育館を地域の人たちにも開放することです。今まで、体育館は主に生徒たちのために使われていました。でも、これからは、もっと多くの人が使えるようになります。」",
+      "id": "6655dfc1-5981-41d5-9840-57feb480b213"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-27-124842a915",
+  "publishedAt": "2026-08-27T06:00:00+09:00"
+}

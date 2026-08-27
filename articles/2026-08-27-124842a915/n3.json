@@ -1,0 +1,126 @@
+{
+  "title": "学校体育館、地域に開放！新しい試み始まる",
+  "summary": "地域の皆が学校の体育館を使えるよう、実験的な取り組みが始まりました。これにより、地域住民の健康増進や交流の活性化が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの学校で体育館を地域住民に開放する実験が始まっています。これは、学校の施設を有効活用し、地域社会とのつながりを深めるための新しい試みです。平日の放課後や週末など、学校が使っていない時間に、地域の皆さんがスポーツを楽しめるようになります。例えば、バドミントンやバスケットボール、卓球などが人気を集めています。",
+      "translationZh": "最近，许多学校开始进行将体育馆向社区居民开放的实验。这是为了有效利用学校设施、加深与社区联系而进行的尝试。在平日放学后或周末等学校不使用的时间里，社区居民可以来享受体育运动。例如，羽毛球、篮球、乒乓球等运动很受欢迎。",
+      "translationEn": "Recently, an experimental initiative has begun in many schools to open their gymnasiums to local residents. This is a new attempt to effectively utilize school facilities and deepen connections with the local community. People in the community can enjoy sports during times when the school is not in use, such as after school on weekdays or on weekends. For instance, badminton, basketball, and table tennis are gaining popularity.",
+      "id": "0c9ccb25-8e18-4c54-ac15-fa645ce79cbb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この取り組みが成功すれば、地域住民は健康維持のための運動場所を確保しやすくなります。また、学校側にとっても、地域との良好な関係を築く良い機会となるでしょう。子供たちが安全に遊べる場所が増えることで、地域全体の活性化にもつながる可能性があります。ただし、安全管理や利用ルールの整備は、今後さらに重要になってきます。",
+      "translationZh": "如果这项措施成功，社区居民将更容易获得维持健康的运动场所。同时，对于学校来说，这也是建立良好社区关系的好机会。增加孩子们可以安全玩耍的地方，也有可能带动整个地区的活力。但是，安全管理和使用规则的完善，在今后将变得更加重要。",
+      "translationEn": "If this initiative is successful, it will become easier for local residents to secure places for exercise to maintain their health. For the schools, it will also be a good opportunity to build good relationships with the community. By increasing places where children can play safely, it may also lead to the revitalization of the entire community. However, safety management and the establishment of usage rules will become even more important in the future.",
+      "id": "d8049441-7aff-4783-a901-0a91d32e7392",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域住民からは、「自分の子供が通う学校で、気軽に運動できるのは嬉しい」といった声が聞かれます。一方で、「利用時間をもっと長くしてほしい」や「もっと多様なスポーツが楽しめるようにしてほしい」という意見もあります。学校側は、これらの意見を聞きながら、より良い運営方法を模索していくことでしょう。この実験が、全国の学校で広がるかもしれません。",
+      "translationZh": "社区居民中有人表示：“能在自己孩子上学的学校里轻松运动，真是太高兴了。”另一方面，也有意见认为：“希望延长使用时间”或“希望能够享受更多样化的体育项目”。学校方面在听取这些意见的同时，也でしょう。这项实验可能会在日本全国的学校推广开来。",
+      "translationEn": "From local residents, comments like 'I'm happy to be able to exercise easily at the school my child attends' can be heard. On the other hand, there are also opinions such as 'We want longer usage hours' and 'We want to be able to enjoy a wider variety of sports.' Schools will likely explore better operational methods while listening to these opinions. This experiment may spread to schools across the country.",
+      "id": "ff072043-c79a-4547-bb82-0b2cf34f5b2f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "放課後、体育館で友達とバスケットボールをした。",
+      "id": "725a9dea-598c-4e58-8a46-3f3522f77c57"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, open to the public",
+      "level": "n3",
+      "exampleSentence": "図書館は毎日午前９時から午後５時まで開放されています。",
+      "id": "d06c6430-28fe-4d8e-b09b-379e89d4fe25"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい授業方法の効果を実験で確かめた。",
+      "id": "62c1ccb3-ad25-4719-b27f-3ce7a62565e2"
+    },
+    {
+      "word": "有効活用",
+      "reading": "ゆうこうかつよう",
+      "meaningZh": "有效利用",
+      "meaningEn": "effective utilization",
+      "level": "n3",
+      "exampleSentence": "空き家を有効活用する方法を考えている。",
+      "id": "3280c7b5-6933-4bdf-a8cf-3f774cbb83ab"
+    },
+    {
+      "word": "地域社会",
+      "reading": "ちいきしゃかい",
+      "meaningZh": "社区社会",
+      "meaningEn": "local community",
+      "level": "n3",
+      "exampleSentence": "地域社会の発展のためにボランティア活動に参加した。",
+      "id": "d6a9f184-c2fb-4b8f-8677-403602ae4e11"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化",
+      "meaningEn": "invigoration, activation",
+      "level": "n2n1",
+      "exampleSentence": "商店街の活性化のために、新しいイベントを企画している。",
+      "id": "76e851a5-cece-436f-a4e1-b3532bc43248"
+    },
+    {
+      "word": "安全管理",
+      "reading": "あんぜんかんり",
+      "meaningZh": "安全管理",
+      "meaningEn": "safety management",
+      "level": "n3",
+      "exampleSentence": "イベント会場では、十分な安全管理が行われていた。",
+      "id": "cd521fd0-4473-4c42-8bc0-6e84e3e1713e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館を地域に開放する実験の目的は何ですか？",
+      "options": [
+        "学校の施設を有効活用し、地域社会とのつながりを深めるため",
+        "子供たちのためだけに、新しい遊び場を提供するため",
+        "地域住民から利用料を徴収するため",
+        "学校の先生たちの運動不足を解消するため"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「学校の施設を有効活用し、地域社会とのつながりを深めるための新しい試みです」と書かれています。",
+      "id": "7d1db059-5cbd-4899-b79d-3f79ed048eb1"
+    },
+    {
+      "question": "地域住民から、この取り組みについてどのような意見が出ていますか？",
+      "options": [
+        "利用時間をもっと長くしてほしいという意見",
+        "もっと多様なスポーツが楽しめるようにしてほしいという意見",
+        "安全管理をもっと徹底してほしいという意見",
+        "上記すべて"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文の最後の段落に、「利用時間をもっと長くしてほしい」や「もっと多様なスポーツが楽しめるようにしてほしい」という意見、そして「安全管理や利用ルールの整備は、今後さらに重要になってきます」という学校側の認識が書かれています。したがって、これらすべてが住民からの意見や懸念として関連しています。",
+      "id": "b745f166-b31f-4e12-9d94-eb2d747e4711"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-27-124842a915",
+  "publishedAt": "2026-08-27T06:00:00+09:00"
+}

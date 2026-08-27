@@ -1,0 +1,131 @@
+{
+  "title": "コラボカフェの新メニュー！",
+  "summary": "人気のキャラクターとのコラボカフェが新しいメニューを出しました。予約はとても混んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "新しいアニメのキャラクターと、カフェがコラボしました。このカフェはとても人気があります。新しいメニューが出ました。おいしそうな食べ物と飲み物があります。",
+      "translationZh": "一家咖啡馆与新动画的角色进行了合作。这家咖啡馆非常受欢迎。推出了新菜单。有看起来很好吃的食物和饮料。",
+      "translationEn": "A cafe has collaborated with characters from a new anime. This cafe is very popular. New menu items have been released. There are delicious-looking food and drinks.",
+      "id": "ea00d739-6deb-42fb-b1a7-cc7577bd493c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューには、キャラクターをイメージしたケーキがあります。そして、特別なドリンクもあります。見た目もとてもきれいです。写真を取りたい人がたくさんいるでしょう。",
+      "translationZh": "菜单上有以角色为灵感的蛋糕。还有特别的饮料。外观也非常漂亮。肯定有很多人想拍照。",
+      "translationEn": "On the menu, there are cakes inspired by the characters. There are also special drinks. They look very beautiful. Many people will probably want to take pictures.",
+      "id": "c0710853-08eb-4eda-bd30-8e25f4bcba53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このカフェはいつも混んでいます。新しいメニューが出たので、もっと人が来ると予想されます。予約をするのは難しいかもしれません。インターネットで予約をチェックしましょう。",
+      "translationZh": "这家咖啡馆总是很拥挤。因为推出了新菜单，预计会有更多人前来。可能很难预约。请在网上查看预约情况。",
+      "translationEn": "This cafe is always crowded. Since new menu items have been released, more people are expected. It might be difficult to make a reservation. Let's check the reservation availability online.",
+      "id": "6a6f389a-705c-4ae7-b595-23e9510b6697",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "カフェのホームページで、予約の空き状況を確認できます。早めに予約するのがおすすめです。新しいメニューを早く食べたいですね。",
+      "translationZh": "您可以在咖啡馆的主页上查看预约的空余情况。建议尽早预约。真想快点吃到新菜单啊。",
+      "translationEn": "You can check the reservation availability on the cafe's website. It's recommended to book early. I want to eat the new menu soon.",
+      "id": "ce0d5216-76ee-4d7a-b04c-ba850dc2554d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コラボ",
+      "reading": "こらぼ",
+      "meaningZh": "合作",
+      "meaningEn": "collaboration",
+      "level": "n5n4",
+      "exampleSentence": "人気アニメとカフェがコラボしました。",
+      "id": "d17cf656-57f7-4f37-bdfe-319a74715fae"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "新しいメニューはどんなものですか。",
+      "id": "9fb3dd7b-e9ae-4899-af12-0ba389584233"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "5d3a8110-455c-4ca9-bd25-a8b1f6fae4e9"
+    },
+    {
+      "word": "イメージ",
+      "reading": "いめーじ",
+      "meaningZh": "形象，印象",
+      "meaningEn": "image",
+      "level": "n5n4",
+      "exampleSentence": "キャラクターのイメージに合わせたケーキです。",
+      "id": "06397337-f92e-4d4a-810e-92768c4c85a3"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別なドリンクです。",
+      "id": "1d2dba08-31c4-4f90-a1ab-00eb004b5318"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤",
+      "meaningEn": "to be crowded",
+      "level": "n5n4",
+      "exampleSentence": "週末はレストランが混みます。",
+      "id": "f91cb40d-7b80-4e24-b60f-7e05e545d5ec"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "28f5405c-3ffc-40b8-832d-11c5e1ade813"
+    },
+    {
+      "word": "空き状況",
+      "reading": "あきじょうきょう",
+      "meaningZh": "空余情况",
+      "meaningEn": "availability",
+      "level": "n3",
+      "exampleSentence": "ホテルの部屋の空き状況を教えてください。",
+      "id": "8131af52-7277-4e4d-8691-571a2a5f0b0b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このカフェの新しいメニューについて、どうですか。",
+      "options": [
+        "まだ出ていません。",
+        "あまり人気がありません。",
+        "とても人気で、予約が難しいです。",
+        "予約は必要ありません。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「このカフェはいつも混んでいます。新しいメニューが出たので、もっと人が来ると予想されます。予約をするのは難しいかもしれません。」",
+      "id": "e3165da9-5ae7-420d-b26b-ce9ab584e1ee"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-27-b819c209d6",
+  "publishedAt": "2026-08-27T06:00:00+09:00"
+}
