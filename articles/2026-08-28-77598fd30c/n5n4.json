@@ -1,0 +1,131 @@
+{
+  "title": "七夕の光、新しい名所",
+  "summary": "今年の七夕は、特別な場所へ行きませんか。美しい光のイベントを紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ七夕です。七夕はお星さまに願いごとをする日です。日本では、七夕にきれいな飾りをつけます。そして、夜にはたくさんの光のイベントがあります。",
+      "translationZh": "七夕马上就要到了。七夕是可以向星星许愿的日子。在日本，人们会在七夕挂上漂亮的装饰。然后，晚上会有很多灯光活动。",
+      "translationEn": "Tanabata is coming soon. Tanabata is a day to make wishes to the stars. In Japan, people hang beautiful decorations for Tanabata. And at night, there are many light events.",
+      "id": "2c90b3df-e006-4922-bdb0-f7074b522599",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、新しい場所で七夕のライトアップが始まります。それは、古いお寺の近くの公園です。たくさんの色とりどりの光がお寺を照らします。とてもきれいです。",
+      "translationZh": "今年，一个新的地方将开始七夕灯光秀。那是在一座古老寺庙附近的公园。五颜六色的灯光照亮了寺庙。非常漂亮。",
+      "translationEn": "This year, a Tanabata light-up will start in a new place. It is a park near an old temple. Many colorful lights illuminate the temple. It is very beautiful.",
+      "id": "140a975e-7f9e-4b5f-b90b-24613aecf7e1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園には、大きな木もたくさんあります。その木に、願いごとを書いた短冊（たんざく）をかけます。光と短冊が一緒に見えます。ロマンチックな雰囲気です。",
+      "translationZh": "公园里也有很多大树。人们会将写有愿望的短册挂在大树上。灯光和短册会一起出现。气氛很浪漫。",
+      "translationEn": "There are also many big trees in the park. People hang tanzaku, strips of paper with wishes written on them, on those trees. The lights and tanzaku can be seen together. The atmosphere is romantic.",
+      "id": "2586b8d7-6d6d-4699-bd6d-0a1b82cad6d9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイベントは、7月7日までです。週末は特に人が多いでしょう。家族や友達と、または一人でも、ぜひ行ってみてください。",
+      "translationZh": "这个活动会持续到7月7日。周末人会特别多。请务必和家人、朋友一起，或者独自一人前去看看。",
+      "translationEn": "This event lasts until July 7th. It will be especially crowded on weekends. Please be sure to go with family and friends, or even alone.",
+      "id": "a41e1d14-ca90-4e94-8233-ccfbf91c1b17",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "七夕",
+      "reading": "たなばた",
+      "meaningZh": "七夕节",
+      "meaningEn": "Tanabata festival",
+      "level": "n5n4",
+      "exampleSentence": "七夕に願い事をしました。",
+      "id": "c135664a-7ee7-40ec-954b-fe01aae1ccf0"
+    },
+    {
+      "word": "願いごと",
+      "reading": "ねがいごと",
+      "meaningZh": "愿望",
+      "meaningEn": "wish",
+      "level": "n5n4",
+      "exampleSentence": "私の願いごとは、世界が平和になることです。",
+      "id": "f4551eb7-40a6-4156-a0f6-2a3476a32893"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "部屋にきれいな飾りをつけました。",
+      "id": "9c895183-6b4a-47e4-989e-b7796cbb6a6d"
+    },
+    {
+      "word": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "meaningZh": "灯光照明（尤指夜间建筑物或景点的灯光秀）",
+      "meaningEn": "light-up",
+      "level": "n5n4",
+      "exampleSentence": "お寺のライトアップはとてもきれいでした。",
+      "id": "9c3f1767-78c5-4d4d-a424-3f92545d0e62"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園で散歩しました。",
+      "id": "02823eb5-84d6-4fed-a79e-e37bf8ebf6b9"
+    },
+    {
+      "word": "色とりどり",
+      "reading": "いろとりどり",
+      "meaningZh": "五颜六色",
+      "meaningEn": "colorful",
+      "level": "n5n4",
+      "exampleSentence": "色とりどりの花がきれいです。",
+      "id": "39c3afbd-8d8a-4cbd-be2f-2559da879062"
+    },
+    {
+      "word": "短冊",
+      "reading": "たんざく",
+      "meaningZh": "短册（写有愿望的细长纸条）",
+      "meaningEn": "tanzaku (strip of paper for writing wishes)",
+      "level": "n5n4",
+      "exampleSentence": "短冊に願い事を書きました。",
+      "id": "d0260c75-bad6-4181-8c6b-850c0dcf8ebc"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "静かな雰囲気のカフェが好きです。",
+      "id": "93358392-3ece-4884-9723-bc4905c86874"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい七夕のライトアップは、どこで見られますか。",
+      "options": [
+        "駅の前",
+        "古いお寺の近くの公園",
+        "ショッピングモール",
+        "川沿い"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「それは、古いお寺の近くの公園です。」と書いてあります。",
+      "id": "37c7d15e-6fc0-468a-bdf2-39cf177f16a2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-28-77598fd30c",
+  "publishedAt": "2026-08-28T06:00:00+09:00"
+}

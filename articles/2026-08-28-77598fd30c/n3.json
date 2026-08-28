@@ -1,0 +1,134 @@
+{
+  "title": "七夕ライトアップ新名所！幻想的な夜を楽しもう",
+  "summary": "今年の七夕は、新たなライトアップスポットで特別な夜を過ごしませんか？幻想的な光の世界があなたを待っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "毎年7月7日に行われる七夕は、短冊に願い事を書いて笹に飾る、日本の夏の伝統行事です。最近では、この七夕をテーマにしたライトアップイベントが各地で行われており、特に注目されているのが、今年新しく登場した〇〇公園のライトアップです。",
+      "translationZh": "每年7月7日举行的七夕，是将写有愿望的短册挂在竹枝上的日本夏季传统活动。最近，各地都在举办以七夕为主题的灯光秀活动，其中尤其引人注目的是今年新开放的XX公园的灯光秀。",
+      "translationEn": "Tanabata, held every year on July 7th, is a traditional Japanese summer event where people write wishes on strips of paper and hang them on bamboo branches. Recently, light-up events themed around Tanabata are being held in various places, and a new attraction drawing particular attention is the light-up at XX Park, which opened this year.",
+      "id": "8210eec6-e672-4396-b994-aa5ce1d62261",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この公園では、約3000本の笹に、LEDライトやプロジェクションマッピングが施され、まるで星空が地上に降りてきたかのような幻想的な空間が創り出されています。願い事を書いた短冊が風に揺れるたびに、優しい光がキラキラと輝き、訪れる人々を魅了します。友人や家族と一緒に訪れて、思い出に残る写真を撮るのも良いでしょう。",
+      "translationZh": "在这个公园里，大约3000根竹枝上装饰着LED灯和投影映射，创造出如同星空降临地面的梦幻空间。每当写有愿望的短册随风摇曳时，柔和的光芒便会闪闪发光，吸引着到访的游客。与朋友或家人一起来，拍下令人难忘的照片也是不错的选择。",
+      "translationEn": "At this park, approximately 3,000 bamboo branches are adorned with LED lights and projection mapping, creating a fantastical space as if the starry sky has descended to earth. Every time the wish-filled strips of paper sway in the wind, soft lights sparkle and enchant visitors. It would also be a good idea to visit with friends or family and take memorable photos.",
+      "id": "f6f9cdc6-c99e-4c6b-81a9-ab5edb9d1473",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ライトアップは夜8時まで行われており、仕事帰りにも立ち寄りやすいのが嬉しいポイントです。しかし、人気のため、週末は大変混雑することが予想されます。もし可能であれば、平日に訪れることをお勧めします。また、公園内には七夕にちなんだ屋台も出ているので、食べ歩きも楽しめますよ。",
+      "translationZh": "灯光秀会持续到晚上8点，下班后也能方便地前来参观，这一点非常令人高兴。但是，由于受欢迎，预计周末会非常拥挤。如果可能的话，建议在工作日来访。此外，公园内还有与七夕相关的餐车，所以也可以享受边走边吃的乐趣。",
+      "translationEn": "The light-up event runs until 8 PM, and it's a great point that it's easily accessible even after work. However, due to its popularity, it is expected to be very crowded on weekends. If possible, we recommend visiting on a weekday. Also, there are food stalls related to Tanabata within the park, so you can enjoy eating while walking.",
+      "id": "eddb76e5-2495-4fb6-89bc-d7110f78212f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の七夕は、この新しいスポットで、ロマンチックな夜を過ごしてみてはいかがでしょうか。きっと、忘れられない夏の思い出になるはずです。",
+      "translationZh": "今年的七夕，不妨来这个新景点度过一个浪漫的夜晚吧。相信一定会成为一段难忘的夏日回忆。",
+      "translationEn": "Why not spend a romantic night at this new spot for this year's Tanabata? It is sure to become an unforgettable summer memory.",
+      "id": "503a95e6-45a1-45eb-a738-2022686c4cfa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "meaningZh": "照明，亮灯（尤指夜间装饰性照明）",
+      "meaningEn": "light-up; illumination (especially decorative at night)",
+      "level": "n3",
+      "exampleSentence": "公園の木々が美しくライトアップされていた。",
+      "id": "5498380d-b976-4ef3-8227-0170260cf069"
+    },
+    {
+      "word": "幻想的",
+      "reading": "げんそうてき",
+      "meaningZh": "梦幻般的，幻想的",
+      "meaningEn": "fantastical; illusory; unreal",
+      "level": "n3",
+      "exampleSentence": "夜景が幻想的で、感動しました。",
+      "id": "66dd0ade-5781-4906-abc2-91b0e6109db4"
+    },
+    {
+      "word": "笹",
+      "reading": "ささ",
+      "meaningZh": "竹子（尤指细小的竹子）",
+      "meaningEn": "bamboo grass",
+      "level": "n5n4",
+      "exampleSentence": "七夕には笹に短冊を飾ります。",
+      "id": "27fcc73f-11a2-412f-bfcd-0ac3f703153c"
+    },
+    {
+      "word": "プロジェクションマッピング",
+      "reading": "ぷろじぇくしょんまっぴんぐ",
+      "meaningZh": "投影映射（一种将影像投射到物体表面并与其融合的视觉特效技术）",
+      "meaningEn": "projection mapping",
+      "level": "n3",
+      "exampleSentence": "建物の壁にプロジェクションマッピングが映し出された。",
+      "id": "fb29bca4-bf37-45e3-81a9-fe3497bcbf43"
+    },
+    {
+      "word": "魅了する",
+      "reading": "みりょうする",
+      "meaningZh": "吸引，迷住",
+      "meaningEn": "to charm; to fascinate; to captivate",
+      "level": "n3",
+      "exampleSentence": "その美しい景色に魅了された。",
+      "id": "af43b7b9-4793-4528-b074-541a0efdf084"
+    },
+    {
+      "word": "立ち寄る",
+      "reading": "たちよる",
+      "meaningZh": "顺便拜访，顺道去",
+      "meaningEn": "to stop by; to drop in",
+      "level": "n3",
+      "exampleSentence": "帰り道に友達の家へ立ち寄った。",
+      "id": "e743e3c1-c9b7-4115-8854-5c96fda4362b"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "（路边）摊位，排挡",
+      "meaningEn": "stall; stand; booth",
+      "level": "n3",
+      "exampleSentence": "お祭りの屋台でたこ焼きを買った。",
+      "id": "829c7609-2452-4db7-93b6-f065d1a7e138"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の七夕ライトアップで新しく登場したのはどこですか？",
+      "options": [
+        "〇〇公園",
+        "△△駅前",
+        "□□ショッピングモール",
+        "☆☆海岸"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「今年新しく登場している〇〇公園のライトアップです」と書かれています。",
+      "id": "08143477-8a9a-4d70-ad42-aae34de5590d"
+    },
+    {
+      "question": "週末にこの公園を訪れる際の注意点は何ですか？",
+      "options": [
+        "開場時間が早い",
+        "入場料が高い",
+        "混雑が予想される",
+        "雨天中止になる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「人気のため、週末は大変混雑することが予想されます」と書かれています。",
+      "id": "64ef9862-18b8-40a1-a14a-f18a49dc9463"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-28-77598fd30c",
+  "publishedAt": "2026-08-28T06:00:00+09:00"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "学校体育館、地域住民に開放へ 実験導入の背景と期待",
+  "summary": "少子化による学校施設の有効活用が課題となる中、一部自治体で学校体育館の地域開放実験が開始された。住民の健康増進や地域交流の活性化が期待されている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、全国的に少子化が進行し、多くの学校で児童生徒数の減少に伴う施設余剰が問題視されている。こうした状況を受け、一部の地方自治体では、これまで主に学校活動に限定されてきた体育館などの施設を、放課後や休日などに地域住民へ開放する実証実験に乗り出しているとのことだ。この取り組みは、学校施設の有効活用を図るとともに、地域住民の健康増進や生涯学習の機会提供、さらには地域コミュニティの活性化に繋がることが期待されている。",
+      "translationZh": "近年来，随着少子化在日本全国范围内发展，许多学校因学生人数减少而面临设施闲置的问题。在此背景下，一些地方政府已开始进行一项试点实验，将以往主要限于学校活动的体育馆等设施，在放学后或节假日向社区居民开放。此举旨在有效利用学校设施，同时期待能促进居民的健康，提供终身学习机会，并进一步激活社区活力。",
+      "translationEn": "In recent years, with the progress of declining birthrates nationwide, the issue of surplus school facilities due to decreasing student numbers is being highlighted in many schools. In response to this situation, some local governments have embarked on pilot experiments to open facilities such as gymnasiums, which were previously limited to school activities, to local residents during after-school hours and on holidays. This initiative is expected to not only promote the effective utilization of school facilities but also to contribute to the health promotion of local residents, provide opportunities for lifelong learning, and revitalize the community.",
+      "id": "db15177d-dc29-40ba-9cf0-354ba5aba834",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域開放の実験は、自治体ごとに様々な形態で実施されている。例えば、特定の曜日や時間帯に絞り、スポーツ教室や趣味のサークル活動などに利用を許可するケースや、登録制を導入し、利用者の安全管理を徹底した上で、より広範な利用を認めるケースなどが挙げられる。実験導入に伴い、施設の安全点検や、学校側と地域住民との間の利用ルールの策定、さらには事故発生時の責任問題など、クリアすべき課題も少なくない。しかし、住民からは「近場で気軽に運動できる場が増えるのは嬉しい」「高齢者の孤立防止にも役立ちそうだ」といった声が聞かれ、期待の高さがうかがえる。",
+      "translationZh": "社区开放的实验以各种形式在不同自治体实施。例如，有些地方限定在特定星期或时段，允许用于体育课程或兴趣小组活动；另一些地方则引入注册制，在彻底做好使用者安全管理的前提下，允许更广泛的使用。随着实验的引入，也存在不少需要克服的课题，如设施的安全检查、制定学校与居民之间的使用规则，以及事故发生时的责任问题等。然而，居民们纷纷表示“能在附近方便地运动的场所增加了，真开心”、“似乎对防止老年人孤立也有帮助”，显示出居民们的高度期待。",
+      "translationEn": "The experiments for community opening are being implemented in various forms depending on the municipality. For example, some cases restrict usage to specific days or times for sports classes or hobby club activities, while others introduce a registration system and allow broader use after thoroughly ensuring the safety management of users. Along with the introduction of the experiment, there are also several challenges to overcome, such as safety inspections of facilities, the establishment of usage rules between schools and local residents, and issues of responsibility in case of accidents. However, voices from residents like, \"It's great that there are more places to exercise easily nearby\" and \"It seems like it would be useful for preventing elderly isolation,\" indicate a high level of expectation.",
+      "id": "117c3c8e-b301-495b-a47e-d2818719fe2e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後、これらの実験結果が注視されることになるだろう。住民のニーズに応えつつ、学校教育への支障を最小限に抑え、安全かつ円滑な運営を実現するための方策が、一層検討されると見られる。地域住民と学校が互いに協力し、開かれた学校づくりが進むことで、地域全体の活性化に繋がる好循環が生まれることが期待されている。",
+      "translationZh": "今后，这些实验结果将受到密切关注。预计将进一步研究如何在满足居民需求的同时，最大限度地减少对学校教育的影响，并实现安全顺畅的运营。通过居民和学校的相互合作，推进开放的学校建设，有望产生促进整个地区活化的良性循环。",
+      "translationEn": "In the future, the results of these experiments will likely be closely watched. It is anticipated that measures to respond to resident needs while minimizing disruption to school education and ensuring safe and smooth operation will be further examined. Through mutual cooperation between local residents and schools, and by promoting the creation of open schools, it is expected that a virtuous cycle will emerge, leading to the revitalization of the entire community.",
+      "id": "28a8eee8-8edf-49aa-9f57-097e28843aa1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "少子化",
+      "reading": "しょうしか",
+      "meaningZh": "少子化",
+      "meaningEn": "declining birthrate",
+      "level": "n2n1",
+      "exampleSentence": "少子化が進み、将来の労働力不足が懸念されている。",
+      "id": "4ba7d1e2-d046-4351-aec0-0a3accc25161"
+    },
+    {
+      "word": "有効活用",
+      "reading": "ゆうこうかつよう",
+      "meaningZh": "有效利用",
+      "meaningEn": "effective utilization",
+      "level": "n3",
+      "exampleSentence": "遊休資産の有効活用が求められている。",
+      "id": "e235dba0-25a5-4155-8d6b-f18975aac506"
+    },
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "实证实验，试点实验",
+      "meaningEn": "pilot experiment, demonstration experiment",
+      "level": "n2n1",
+      "exampleSentence": "新しいシステムの有効性を実証実験で確認した。",
+      "id": "da97a4d1-0416-4ff2-bc3b-dacd121996fb"
+    },
+    {
+      "word": "生涯学習",
+      "reading": "しょうがいろがくしゅう",
+      "meaningZh": "终身学习",
+      "meaningEn": "lifelong learning",
+      "level": "n3",
+      "exampleSentence": "生涯学習の機会を増やすことが重要だ。",
+      "id": "9e4509f8-64df-4139-861a-e1c09d76b82d"
+    },
+    {
+      "word": "コミュニティ",
+      "reading": "コミュニティ",
+      "meaningZh": "社区",
+      "meaningEn": "community",
+      "level": "n3",
+      "exampleSentence": "地域コミュニティの活性化を目指している。",
+      "id": "92e227d0-bab6-4478-809e-94eff1f5c2a6"
+    },
+    {
+      "word": "孤立防止",
+      "reading": "こりつぼうし",
+      "meaningZh": "防止孤立",
+      "meaningEn": "prevention of isolation",
+      "level": "n2n1",
+      "exampleSentence": "高齢者の孤立防止策が急務となっている。",
+      "id": "faafb99c-5187-46a7-97dd-da86e5111188"
+    },
+    {
+      "word": "支障",
+      "reading": "ししょう",
+      "meaningZh": "障碍，妨碍",
+      "meaningEn": "hindrance, obstacle",
+      "level": "n2n1",
+      "exampleSentence": "工事のため、交通に支障が出ると予想される。",
+      "id": "e72c4fca-b13e-4bdc-8e3a-a21ff629ab96"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校体育館の地域開放実験の目的として、本文で挙げられていないものはどれか。",
+      "options": [
+        "学校施設の有効活用",
+        "地域住民の健康増進",
+        "学校の授業料収入増加",
+        "地域コミュニティの活性化"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、学校施設の有効活用、地域住民の健康増進、地域コミュニティの活性化が目的として挙げられているが、授業料収入増加については言及されていない。",
+      "id": "ccb53d10-60c7-4762-bb7f-3a15ae47f917"
+    },
+    {
+      "question": "地域開放の実験について、本文で述べられている懸念事項はどれか。",
+      "options": [
+        "住民の利用料金が高すぎること",
+        "学校側と住民との間の情報共有不足",
+        "施設の安全管理や利用ルールの策定、事故時の責任問題",
+        "地域住民のスポーツへの関心が低いこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「クリアすべき課題も少なくない」として、施設の安全点検、利用ルールの策定、事故発生時の責任問題などが挙げられている。",
+      "id": "0d07ba10-24a3-431e-8da5-744b8018bc9e"
+    },
+    {
+      "question": "この学校体育館の地域開放実験が成功した場合、どのような効果が期待されているか。",
+      "options": [
+        "学校の統廃合が加速される",
+        "地域住民と学校が協力し、地域全体の活性化につながる",
+        "体育館の利用料が大幅に値上げされる",
+        "放課後児童クラブの運営が縮小される"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後の段落に「地域住民と学校が互いに協力し、開かれた学校づくりが進むことで、地域全体の活性化に繋がる好循環が生まれることが期待されている」と記載されている。",
+      "id": "0f11b7f3-e407-406e-9164-1b9e9c3eae23"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-08-28-124842a915",
+  "publishedAt": "2026-08-28T06:00:00+09:00"
+}

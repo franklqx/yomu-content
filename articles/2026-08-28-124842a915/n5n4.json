@@ -1,0 +1,123 @@
+{
+  "title": "体育館、みんなのもの！",
+  "summary": "学校の体育館が、地域の人にも開放される実験が始まりました。いろいろな人が体育館を使えるようになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、学校の体育館が地域の人にも開放される実験が始まりました。これは、学校が終わった後や休日に、地域のみんなが体育館を使えるようにする取り組みです。例えば、バドミントンをしたり、バスケットボールをしたりできます。",
+      "translationZh": "最近，学校的体育馆开始进行对社区居民开放的实验。这是一项措施，让社区里的大家在放学后或周末可以使用体育馆。例如，可以打羽毛球，或者打篮球。",
+      "translationEn": "Recently, an experiment has started where school gymnasiums are opened to the local community. This is an initiative to allow everyone in the community to use the gymnasium after school or on holidays. For example, people can play badminton or basketball.",
+      "id": "563e81c2-22fb-47dd-a3d3-f1ad0b2c3bb0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、地域の人々がもっと運動できる機会を増やすことを目的にしています。また、学校と地域とのつながりを強くすることも目的の一つです。子供たちだけでなく、大人や高齢者も一緒に体を動かすことができます。",
+      "translationZh": "这项实验旨在增加社区居民能够运动的机会。同时，其目的之一是加强学校与社区的联系。不仅是孩子们，大人和老人也可以一起活动身体。",
+      "translationEn": "This experiment aims to increase opportunities for local people to exercise. Another goal is to strengthen the connection between the school and the community. Not only children, but also adults and the elderly can exercise together.",
+      "id": "2a7cbf8b-868b-4812-b524-49720f9bf0a6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "体育館を開放することで、地域の人々は健康を保つことができます。また、新しい友達ができるかもしれません。学校にとっても、地域の人々との交流は良い経験になります。この実験がうまくいくと、他の学校でも始まるかもしれません。",
+      "translationZh": "通过开放体育馆，社区居民可以保持健康。此外，他们也许能交到新朋友。对学校来说，与社区居民交流也是一种好的体验。如果这项实验成功，它也许会在其他学校也开始推行。",
+      "translationEn": "By opening the gymnasium, local residents can stay healthy. Also, they might make new friends. For the school, interacting with community members is also a good experience. If this experiment goes well, it might start in other schools too.",
+      "id": "b900c379-1ea2-42df-9450-0c9f878593b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "体育館でスポーツをしました。",
+      "id": "a15c07a3-80ac-4d50-9954-97bd547564b3"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "f6daab6b-a54f-44dd-ac6e-3f9cca13b1f2"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, making accessible",
+      "level": "n3",
+      "exampleSentence": "図書館が午後9時まで開放されます。",
+      "id": "395490ac-9559-4af2-b80e-281822ce74f9"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい方法を実験しています。",
+      "id": "b96a3b13-02ee-45c1-8d41-ce2e6baa70bd"
+    },
+    {
+      "word": "取り組み",
+      "reading": "とりくみ",
+      "meaningZh": "措施，活动",
+      "meaningEn": "initiative, effort",
+      "level": "n3",
+      "exampleSentence": "地域をきれいに保つ取り組みです。",
+      "id": "303674cf-436c-4819-965e-0a6bb2822fc1"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningZh": "目的",
+      "meaningEn": "purpose, objective",
+      "level": "n5n4",
+      "exampleSentence": "私の目的は日本語を学ぶことです。",
+      "id": "37690899-47f8-4c7f-8809-3471d7613e99"
+    },
+    {
+      "word": "つながり",
+      "reading": "つながり",
+      "meaningZh": "联系，纽带",
+      "meaningEn": "connection, tie",
+      "level": "n3",
+      "exampleSentence": "家族とのつながりを大切にします。",
+      "id": "cdfa17f5-afed-409e-a22f-a49c96dc3224"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "国の人々と交流しました。",
+      "id": "618b50bb-7c71-474b-90a3-da20eae5556c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館は、誰が使えるようになりますか？",
+      "options": [
+        "学校の生徒だけ",
+        "先生だけ",
+        "地域の人々も",
+        "誰も使えません"
+      ],
+      "correctIndex": 2,
+      "explanation": "「学校の体育館が地域の人にも開放される実験が始まりました。」とあります。",
+      "id": "6c5dd4b0-6328-4d8a-a5d5-1d52fa46b91a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-28-124842a915",
+  "publishedAt": "2026-08-28T06:00:00+09:00"
+}

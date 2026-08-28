@@ -1,0 +1,122 @@
+{
+  "title": "カフェに新しいメニュー！",
+  "summary": "人気のアニメのカフェが新しいメニューを出しました。予約がいっぱいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "このカフェは人気のアニメとコラボしています。新しいメニューが出ました。とてもおいしそうです。",
+      "translationZh": "这家咖啡馆和一部人气动画进行了联动。推出了新菜单。看起来非常美味。",
+      "translationEn": "This cafe is collaborating with a popular anime. New menu items have been released. They look very delicious.",
+      "id": "6f0c5d44-34dd-4b30-8e19-298706eece37",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "キャラクターをイメージした飲み物や食べ物があります。例えば、ピンク色のケーキと青い飲み物です。",
+      "translationZh": "有以角色为灵感的饮料和食物。例如，粉红色的蛋糕和蓝色的饮料。",
+      "translationEn": "There are drinks and food inspired by characters. For example, a pink cake and a blue drink.",
+      "id": "c468ef65-6fe9-47ca-a639-7c2e2b95b45b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "カフェはとても人気があります。予約はもういっぱいです。週末の予約は難しいです。",
+      "translationZh": "这家咖啡馆非常受欢迎。预约已经满了。周末的预约很难。",
+      "translationEn": "The cafe is very popular. Reservations are already full. Weekend reservations are difficult.",
+      "id": "6b52aa50-0ebf-4bbc-a829-c612709ff1ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、平日はまだ予約ができるかもしれません。行きたい人は、早くチェックしてくださいね。",
+      "translationZh": "但是，工作日可能还有预约。想去的人，请快点确认哦。",
+      "translationEn": "However, you might still be able to make a reservation on weekdays. People who want to go, please check soon.",
+      "id": "4c7969f8-b160-4cb0-873b-90fa6019c466",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメはとても人気があります。",
+      "id": "25747c27-4341-4d43-9806-6b13ac86bb2b"
+    },
+    {
+      "word": "コラボ",
+      "reading": "こらぼ",
+      "meaningZh": "联动，合作",
+      "meaningEn": "collaboration",
+      "level": "n5n4",
+      "exampleSentence": "人気カフェとアニメがコラボしました。",
+      "id": "c96301a2-5b43-4418-9cdf-675a4d774e35"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "新しいメニューは何ですか。",
+      "id": "1e666b99-13cb-4b67-a00c-fa26795f075d"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "週末の予約は取れましたか。",
+      "id": "18a580d1-e93d-4dc5-b848-22a3ef93ae18"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowdedness",
+      "level": "n3",
+      "exampleSentence": "カフェはいつも混雑しています。",
+      "id": "cf6e9ba8-de45-4212-be1b-bfee7db2040e"
+    },
+    {
+      "word": "イメージ",
+      "reading": "いめーじ",
+      "meaningZh": "形象，印象",
+      "meaningEn": "image",
+      "level": "n5n4",
+      "exampleSentence": "キャラクターのイメージの飲み物です。",
+      "id": "64672ed2-8c71-4ce1-93d2-31207c566ea9"
+    },
+    {
+      "word": "平日",
+      "reading": "へいじつ",
+      "meaningZh": "平日，工作日",
+      "meaningEn": "weekday",
+      "level": "n5n4",
+      "exampleSentence": "平日は人が少ないです。",
+      "id": "e0221c7a-96e9-4efc-abf2-6659022c0fb6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このカフェの予約はどうですか。",
+      "options": [
+        "予約は簡単です。",
+        "予約はもういっぱいです。",
+        "予約は必要ありません。",
+        "平日の予約だけです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「予約はもういっぱいです。週末の予約は難しいです。」と書いてあります。",
+      "id": "c45a6eee-5bdf-4704-9e4c-256d23a56d84"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-28-b819c209d6",
+  "publishedAt": "2026-08-28T06:00:00+09:00"
+}
