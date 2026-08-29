@@ -1,0 +1,122 @@
+{
+  "title": "東北を自転車で旅しよう！",
+  "summary": "東北地方で自転車を楽しむための道が作られています。多くの人が自転車で旅行できるようになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東北地方は、きれいな景色がたくさんあります。山や海がきれいです。最近、自転車で旅行する人が増えています。そのため、自転車の道（サイクリングロード）を新しく作る計画が進んでいます。",
+      "translationZh": "东北地方有很多美丽的景色。山和海都很美。最近，骑自行车旅行的人正在增加。因此，建设新的自行车道（自行车公路）的计划正在进行中。",
+      "translationEn": "Tohoku region has many beautiful sceneries. Mountains and sea are beautiful. Recently, the number of people enjoying bicycle travel is increasing. Therefore, plans to build new bicycle roads (cycling roads) are progressing.",
+      "id": "1440cd6d-b9dc-4fed-8e2b-bbd7c4a885d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい道ができると、もっと多くの人が東北を訪れるでしょう。自転車でゆっくり景色を見ながら走ることができます。地元の人々も、自転車で町を回るのが楽しくなります。",
+      "translationZh": "这条新路建成后，将有更多人访问东北。人们可以一边骑自行车一边悠闲地欣赏风景。当地居民骑自行车逛街也会变得很有趣。",
+      "translationEn": "With these new roads, more people will visit Tohoku. People can ride bicycles slowly while enjoying the scenery. Local people will also find it enjoyable to go around town by bicycle.",
+      "id": "fd60e897-8d3e-494a-aa52-196af1f4dc32",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、海岸沿いに長い道を作る計画があります。そこは、海を見ながら走れて、とても気持ちがいいです。また、山の中にも道が作られます。自然の中でリラックスして走ることができます。",
+      "translationZh": "例如，计划在海岸线上建造一条长长的道路。在那里，你可以一边看海一边骑行，感觉非常好。此外，山中也会修建道路。你可以在大自然中放松地骑行。",
+      "translationEn": "For example, there is a plan to build a long road along the coast. There, you can ride while looking at the sea, which feels very good. Also, roads will be built in the mountains. You can ride relaxingly in nature.",
+      "id": "23c68419-15f0-4720-bd54-9e6cf17c927f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのサイクリングロードは、2020年までに完成する予定のものもありました。これからも、もっと便利で楽しい道が増えるでしょう。東北への旅行が、もっと楽しくなりますね。",
+      "translationZh": "其中一些自行车道计划在2020年之前完工。今后，会增加更多方便又有趣的道路。去东北旅行会变得更加愉快。",
+      "translationEn": "Some of these cycling roads were planned to be completed by 2020. In the future, more convenient and enjoyable roads will likely be added. Traveling to Tohoku will become more fun.",
+      "id": "0ed4436c-0623-434c-bd7c-a1844bd60ab5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地方は食べ物がおいしいです。",
+      "id": "f067d028-a925-4574-8f28-84a88a37c18e"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "富士山の景色はすばらしいです。",
+      "id": "8419ec0e-6c0e-40df-9015-4e1cae9f3203"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "maintenance, development, arrangement",
+      "level": "n3",
+      "exampleSentence": "道路の整備が進んでいます。",
+      "id": "0d4a176e-cc6a-4259-aefc-79252e7a8aa7"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "新しいビルを建てる計画があります。",
+      "id": "8dad96bd-2ef4-4399-827a-5ef6b96db2e4"
+    },
+    {
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaningZh": "海岸",
+      "meaningEn": "coast, coast line",
+      "level": "n3",
+      "exampleSentence": "海岸を散歩しました。",
+      "id": "2ffe0c07-0cec-47e2-8dab-d6aed1f983d5"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然の中でリラックスしたいです。",
+      "id": "fc653639-17b5-4794-b519-77879a4dcaa3"
+    },
+    {
+      "word": "完成",
+      "reading": "かんせい",
+      "meaningZh": "完成",
+      "meaningEn": "completion",
+      "level": "n5n4",
+      "exampleSentence": "プロジェクトが完成しました。",
+      "id": "b330e453-a013-4b7a-94f9-8e55995beb15"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方で新しく作られているものは何ですか？",
+      "options": [
+        "新しいホテル",
+        "新しい空港",
+        "サイクリングロード",
+        "新しい学校"
+      ],
+      "correctIndex": 2,
+      "explanation": "「東北地方で自転車を楽しむための道が作られています。」",
+      "id": "8d4f50a3-b790-4c66-bd7f-55b3ad5ee9ba"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-29-addfe14016",
+  "publishedAt": "2026-08-29T06:00:00+09:00"
+}

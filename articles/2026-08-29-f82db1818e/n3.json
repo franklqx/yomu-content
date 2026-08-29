@@ -1,0 +1,143 @@
+{
+  "title": "夢を追いかける若者へ：クリエイター奨学金情報",
+  "summary": "アニメやマンガなどのクリエイターを目指す若い人たちのために、新しい奨学金制度が始まりました。この制度は、才能ある学生が夢を実現するのを応援します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガの世界で活躍したいと思っている皆さん、朗報です！この度、未来のクリエイターを応援するための新しい奨学金制度が設立されました。この奨学金は、特に経済的な理由で学びを諦めかけている才能ある若者たちを支援することを目的としています。将来、素晴らしい作品を生み出すであろう皆さんの夢を、この制度が後押ししてくれるでしょう。",
+      "translationZh": "想在动画和漫画领域大展身手的各位，有个好消息！这次，设立了旨在支持未来创作者的新奖学金制度。该奖学金特别以支持那些因经济原因而几乎放弃学习的有才能的年轻人为目标。这个制度将会助推你们这些将来可能创作出优秀作品的各位的梦想。",
+      "translationEn": "To everyone who wants to be active in the world of anime and manga, good news! A new scholarship system to support future creators has been established. This scholarship aims to support talented young people who are on the verge of giving up their studies due to financial reasons. This system will likely boost the dreams of all of you who will create wonderful works in the future.",
+      "id": "73e00b95-421f-4e54-8af6-33c1bf042797",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募資格は、国内外の大学や専門学校でアニメーション、マンガ、イラストレーションなどを専攻している学生です。ただし、成績が優秀であること、そして将来クリエイターとして明確な目標を持っていることが求められます。書類審査を通過すると、面接が行われます。面接では、あなたの情熱や、どのような作品を作りたいのかを具体的に伝えることが大切になります。",
+      "translationZh": "申请资格是正在国内外大学或专门学校学习动画、漫画、插画等专业的学生。但是，要求成绩优秀，并且将来作为创作者有明确的目标。通过材料审查后，将进行面试。在面试中，能够具体传达你的热情以及想创作什么样的作品非常重要。",
+      "translationEn": "The eligibility criteria are for students majoring in animation, manga, illustration, etc., at universities or vocational schools both domestically and internationally. However, you are required to have excellent grades and a clear goal as a creator in the future. After passing the document screening, an interview will be conducted. In the interview, it is important to convey your passion and what kind of works you want to create specifically.",
+      "id": "d6797e61-d70e-4a77-9223-b2aabf92461a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金を受けることができれば、学費の負担が軽くなるだけでなく、制作活動に必要な機材の購入や、専門学校でのさらなるスキルアップのための費用にも充てることができます。夢を叶えるために、経済的な心配なく学業に専念できる環境は、何物にも代えがたい貴重な機会となるはずです。",
+      "translationZh": "如果能获得这项奖学金，不仅学费负担会减轻，还可以用于购买制作活动所需的设备，以及用于在专门学校进一步提升技能的费用。为了实现梦想，能在没有经济担忧的情况下专心学业的环境，应该是无可替代的宝贵机会。",
+      "translationEn": "If you can receive this scholarship, not only will the burden of tuition fees be lightened, but it can also be used to purchase equipment necessary for production activities and for further skill improvement at vocational schools. The environment where you can concentrate on your studies without financial worries in order to fulfill your dreams should be an invaluable and irreplaceable opportunity.",
+      "id": "7c6405f5-3730-4b42-951b-e35135666a2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募期間や詳細については、奨学金財団のウェブサイトで確認してください。多くの才能ある若者がこの制度を利用して、クリエイターとしての第一歩を踏み出すことを願っています。あなたの情熱と創造性が、この世界をさらに豊かにしてくれることを期待しています。",
+      "translationZh": "关于申请期限和详细信息，请在奖学金财团的网站上确认。希望许多有才能的年轻人能够利用这个制度，迈出作为创作者的第一步。我们期待你们的热情和创造力能让这个世界更加丰富多彩。",
+      "translationEn": "Please check the scholarship foundation's website for application periods and details. We hope that many talented young people will use this system to take their first step as creators. We expect your passion and creativity to further enrich this world.",
+      "id": "3e3fe8d8-b527-4625-a3d7-33eab721dfe7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者（尤指从事艺术、文化、娱乐等创作领域的人）",
+      "meaningEn": "creator (especially one who creates art, culture, entertainment, etc.)",
+      "level": "n3",
+      "exampleSentence": "彼は将来、有名なクリエイターになりたいと言っていた。",
+      "id": "df5e76ec-ad2d-42af-893b-df1581d667dc"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n3",
+      "exampleSentence": "奨学金のおかげで、大学に通うことができました。",
+      "id": "463a4d7e-61bb-467c-a668-05687a7350d1"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体系",
+      "meaningEn": "system, institution",
+      "level": "n3",
+      "exampleSentence": "新しい制度が導入され、仕事の効率が上がった。",
+      "id": "724c4dac-03b9-4447-af0a-a5ed6b62a135"
+    },
+    {
+      "word": "専攻",
+      "reading": "せんこう",
+      "meaningZh": "（大学等的）专业",
+      "meaningEn": "major (in university, etc.)",
+      "level": "n3",
+      "exampleSentence": "大学で経済学を専攻しました。",
+      "id": "6b242808-814b-4e86-9383-c4ce02b7734e"
+    },
+    {
+      "word": "応募資格",
+      "reading": "おうぼしかく",
+      "meaningZh": "申请资格",
+      "meaningEn": "eligibility for application",
+      "level": "n3",
+      "exampleSentence": "この求人には、特別な応募資格は必要ありません。",
+      "id": "a3a387dc-770f-451e-948c-9942b6f72768"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaningZh": "通过，及格",
+      "meaningEn": "passing, getting through",
+      "level": "n3",
+      "exampleSentence": "書類審査を通過し、面接に進むことになった。",
+      "id": "db4a3c5f-a817-4e67-853a-33040def5b15"
+    },
+    {
+      "word": "充てる",
+      "reading": "あてる",
+      "meaningZh": "拨出（款项），用于",
+      "meaningEn": "to allocate, to set aside for",
+      "level": "n3",
+      "exampleSentence": "貯金を、旅行の資金に充てることにした。",
+      "id": "182c7afd-4099-4148-b281-eace6f590501"
+    },
+    {
+      "word": "専念",
+      "reading": "せんねん",
+      "meaningZh": "专心，致力于",
+      "meaningEn": "devotion, concentration",
+      "level": "n3",
+      "exampleSentence": "彼は研究に専念するために、大学を休学した。",
+      "id": "493264f1-33be-43a0-bf89-93ab172e842d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度の主な目的は何ですか？",
+      "options": [
+        "才能ある学生の学費を全額負担すること",
+        "経済的に困難な才能ある若者のクリエイター活動を支援すること",
+        "国内外の大学の設立を支援すること",
+        "クリエイター向けの新しいアニメを制作すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「特に経済的な理由で学びを諦めかけている才能ある若者たちを支援することを目的としています」と書かれています。",
+      "id": "224b4d6d-893a-432e-8f88-a8e753ee46a7"
+    },
+    {
+      "question": "奨学金に応募するために、面接で特に大切になることは何ですか？",
+      "options": [
+        "過去の作品の数を多く見せること",
+        "将来の夢や目標を具体的に伝えること",
+        "学校の成績が一番良いことをアピールすること",
+        "奨学金がどれだけ必要かを強く訴えること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「面接では、あなたの情熱や、どのような作品を作りたいのかを具体的に伝えることが大切になります」と書かれています。",
+      "id": "72ce4a37-b77d-46c8-bc9d-e1cb8711ec90"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-29-f82db1818e",
+  "publishedAt": "2026-08-29T06:00:00+09:00"
+}

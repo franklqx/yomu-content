@@ -1,0 +1,131 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガのクリエイターになりたいですか？若者の夢を助ける新しい奨学金があります。ぜひ見てください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガは、世界中で人気があります。たくさんの人が、自分もクリエイターになりたいと思っています。しかし、勉強するためにはお金が必要です。",
+      "translationZh": "动漫和漫画在世界范围内都很受欢迎。很多人都想成为创作者。但是，学习需要钱。",
+      "translationEn": "Anime and manga are popular all over the world. Many people want to become creators themselves. However, studying requires money.",
+      "id": "405cec74-5ea9-4dd9-bf34-24aa3abbb113",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この度、新しい奨学金制度ができました。これは、アニメやマンガの分野で活躍したい若い人を応援するものです。夢を追いかける学生を助けるのが目的です。",
+      "translationZh": "这次，一个新的奖学金制度诞生了。这是为了支持希望在动漫和漫画领域大展宏图的年轻人。目的是帮助追逐梦想的学生。",
+      "translationEn": "A new scholarship system has been established this time. This is to support young people who want to be active in the fields of anime and manga. The goal is to help students who pursue their dreams.",
+      "id": "750f30ca-437c-46e1-88de-ae7baa0d638f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金を受けると、学費の心配が少なくなります。そのおかげで、もっと勉強に集中できます。そして、すばらしい作品を作れるようになるでしょう。",
+      "translationZh": "获得这个奖学金后，学费的担忧会减少。多亏了它，你可以更专注于学习。然后，你就能创作出优秀的作品了。",
+      "translationEn": "With this scholarship, concerns about tuition fees will decrease. Thanks to that, you can concentrate more on your studies. And you will be able to create wonderful works.",
+      "id": "81bd058a-6f09-4434-b42f-29cc5e0a8372",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "興味がある人は、学校の先生やインターネットで詳しく調べてみてください。あなたの夢を叶えるチャンスかもしれません。",
+      "translationZh": "有兴趣的人，请通过学校老师或互联网详细了解一下。这可能是实现你梦想的机会。",
+      "translationEn": "If you are interested, please check the details with your school teacher or on the internet. This might be a chance to fulfill your dream.",
+      "id": "4a177b7a-58fb-4616-b52b-6c88d38518db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なマンガのクリエイターです。",
+      "id": "b9089dd5-4505-4541-80f7-fb7ce321ebc7"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "この制度は若者を応援します。",
+      "id": "77b03ba9-435a-4d6a-ad96-7b05de110008"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって大学に通っています。",
+      "id": "f24eb7dc-f276-4c41-86e2-c5393c771ece"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体系",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度が始まりました。",
+      "id": "76ab03f7-96af-4dd9-97c2-abcc590c553d"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaningZh": "领域，方面",
+      "meaningEn": "field, area",
+      "level": "n3",
+      "exampleSentence": "彼は科学の分野で有名です。",
+      "id": "ce557e9e-c401-4fc9-9186-d26294769f92"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有作为",
+      "meaningEn": "activity, playing an active part",
+      "level": "n3",
+      "exampleSentence": "彼女は会社で活躍しています。",
+      "id": "49024cbc-72f0-43b0-81ff-701fb7a748de"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningZh": "目的，目标",
+      "meaningEn": "purpose, objective",
+      "level": "n5n4",
+      "exampleSentence": "私の目的は日本語を勉強することです。",
+      "id": "f8285c2a-b303-4c99-b66c-2f207860e456"
+    },
+    {
+      "word": "叶う",
+      "reading": "かなう",
+      "meaningZh": "实现，达成",
+      "meaningEn": "to come true, to be realized",
+      "level": "n3",
+      "exampleSentence": "夢が叶いました。",
+      "id": "7ba049b6-a8d0-48c5-bf5f-4d38877c28d6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どんな人を応援するためのものですか？",
+      "options": [
+        "アニメやマンガの先生",
+        "アニメやマンガのクリエイターになりたい若者",
+        "アニメやマンガの会社で働く人",
+        "アニメやマンガのファン"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「アニメやマンガの分野で活躍したい若い人を応援するもの」と書かれています。",
+      "id": "4d53eafb-d90d-4dc8-b8db-24fbf8fdc2e2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-29-f82db1818e",
+  "publishedAt": "2026-08-29T06:00:00+09:00"
+}

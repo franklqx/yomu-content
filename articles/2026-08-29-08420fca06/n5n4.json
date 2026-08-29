@@ -1,0 +1,131 @@
+{
+  "title": "学生街の人気定食店",
+  "summary": "学生街に、安くておいしい大盛り定食のお店があります。いつも学生でいっぱいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町には、学生がたくさん住んでいます。だから、学生に人気のあるお店がたくさんあります。その中でも、特においしい定食屋さんが有名です。このお店は、いつもお客さんでいっぱいです。",
+      "translationZh": "这个镇上住着很多学生。所以，有很多受学生欢迎的店。其中，有一家特别好吃的定食店很有名。这家店总是挤满了客人。",
+      "translationEn": "Many students live in this town. Therefore, there are many popular restaurants for students. Among them, a particularly delicious teishoku restaurant is famous. This restaurant is always full of customers.",
+      "id": "d6c2e3c9-3d64-4851-be02-5d407f501bcb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋さんのメニューは、とても豊富です。焼き魚、唐揚げ、生姜焼きなど、いろいろな種類があります。そして、どの定食もとても量が多いです。ご飯とおかずがたっぷりあります。",
+      "translationZh": "这家定食店的菜单非常丰富。有烤鱼、炸鸡、姜汁炒肉等各种各样的种类。而且，每份定食的份量都非常大。米饭和配菜都很足。",
+      "translationEn": "The menu at this teishoku restaurant is very extensive. There are various types such as grilled fish, fried chicken, and ginger pork stir-fry. And, all the set meals are very large in portion. There is plenty of rice and side dishes.",
+      "id": "e189c982-6c64-48e8-8ea6-0dbd96757b1b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段も安いですから、学生のお財布に優しいです。たとえば、唐揚げ定食は800円です。これだけ量があれば、お腹いっぱいになります。おいしいし、安いし、量も多いので、みんなが満足しています。",
+      "translationZh": "价格也很便宜，对学生的钱包很友好。例如，炸鸡定食是800日元。份量这么大，肚子就饱了。好吃、便宜、份量又足，所以大家都非常满意。",
+      "translationEn": "The prices are also cheap, so it is kind to students' wallets. For example, the fried chicken set meal costs 800 yen. With this much quantity, you will be full. It's delicious, cheap, and the portions are large, so everyone is satisfied.",
+      "id": "e0de5b9e-1c10-46ef-b0f7-99c94838add9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店は、昼も夜も開いています。昼休みや放課後に、友達とよく行きます。温かい食事をたくさん食べると、元気が出ます。皆さんも、この町に来たら、ぜひ行ってみてください。",
+      "translationZh": "这家店白天和晚上都营业。午休或放学后，我经常和朋友一起去。吃很多热腾腾的饭菜，就会让人充满活力。大家来这个镇上时，也请一定要去试试。",
+      "translationEn": "This restaurant is open during both day and night. I often go with friends during lunch break or after school. Eating plenty of warm food gives you energy. If you come to this town, please try visiting it.",
+      "id": "ae8c237d-f444-4adb-aacb-4b68baf4e2c0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学生街",
+      "reading": "がくせいがい",
+      "meaningZh": "学生区",
+      "meaningEn": "student town/area",
+      "level": "n5n4",
+      "exampleSentence": "この辺りは学生街なので、安いお店が多いです。",
+      "id": "01754b67-5abb-44ba-935f-96dfd7d3a1a7"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "88f7aac7-b77f-4364-bc96-2f16f579207f"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐，定食（米饭、主菜、配菜等）",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "今日の定食は何ですか？",
+      "id": "d810c61a-0eed-40e3-a848-41e79998dcd4"
+    },
+    {
+      "word": "大盛り",
+      "reading": "おおもり",
+      "meaningZh": "大份，份量大",
+      "meaningEn": "large portion",
+      "level": "n5n4",
+      "exampleSentence": "ラーメンを大盛りにしてください。",
+      "id": "f236ddf5-04dd-46af-826d-fa01cda8d039"
+    },
+    {
+      "word": "豊富",
+      "reading": "ほうふ",
+      "meaningZh": "丰富，充裕",
+      "meaningEn": "abundant, rich",
+      "level": "n3",
+      "exampleSentence": "この店はメニューが豊富です。",
+      "id": "cb1f622a-335e-41e3-8f52-fd9bcbd6bf49"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "炸鸡块",
+      "meaningEn": "karaage (Japanese fried chicken)",
+      "level": "n5n4",
+      "exampleSentence": "唐揚げは子供に人気があります。",
+      "id": "2952f22a-8f06-4604-991f-f99d896515dc"
+    },
+    {
+      "word": "生姜焼き",
+      "reading": "しょうがやき",
+      "meaningZh": "姜汁炒肉",
+      "meaningEn": "ginger pork stir-fry",
+      "level": "n5n4",
+      "exampleSentence": "豚肉の生姜焼きは、ご飯が進みます。",
+      "id": "d6856df1-bfde-4388-9f8e-ea2037273735"
+    },
+    {
+      "word": "お財布",
+      "reading": "おさいふ",
+      "meaningZh": "钱包",
+      "meaningEn": "wallet",
+      "level": "n5n4",
+      "exampleSentence": "お財布にお金があまりありません。",
+      "id": "0d8f14c9-7936-428e-923c-f7851099a618"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋さんの定食は、どんなところが人気ですか？",
+      "options": [
+        "値段が高いところ",
+        "量が少ないところ",
+        "味が普通なところ",
+        "値段が安くて量が多いところ"
+      ],
+      "correctIndex": 3,
+      "explanation": "値段も安いですから、学生のお財布に優しいです。たとえば、唐揚げ定食は800円です。これだけ量があれば、お腹いっぱいになります。",
+      "id": "4b3fff8b-c145-4977-b1e3-ce318a7def24"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-29-08420fca06",
+  "publishedAt": "2026-08-29T06:00:00+09:00"
+}
