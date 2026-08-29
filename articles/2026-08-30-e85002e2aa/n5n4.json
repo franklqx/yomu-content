@@ -1,0 +1,122 @@
+{
+  "title": "夜行バスで旅！",
+  "summary": "夜行バスは安くて便利です。若者はよく使います。週末に旅行に行きましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、夜行バスを使った旅行が若者の間で人気です。夜行バスは、夜にバスに乗って、朝に目的地に着く旅行方法です。寝ている間に移動できるので、時間を有効に使えます。",
+      "translationZh": "最近，使用夜间巴士的旅行在年轻人中很受欢迎。夜间巴士是一种晚上乘坐巴士，早上到达目的地的旅行方式。因为可以在睡觉时移动，所以可以有效利用时间。",
+      "translationEn": "Recently, travel using night buses has become popular among young people. A night bus is a way of traveling where you get on a bus at night and arrive at your destination in the morning. You can use your time effectively because you can travel while sleeping.",
+      "id": "659fe6be-925d-4d04-89f5-80032705d908",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスの最大のメリットは、料金が安いことです。飛行機や新幹線と比べると、ずっと安いです。だから、お金をあまり持っていない学生さんにも人気があります。週末に友達と遠くの街へ行くことができます。",
+      "translationZh": "夜间巴士最大的优点是价格便宜。与飞机或新干线相比，便宜很多。所以，没有太多钱的学生也很喜欢。周末可以和朋友去很远的城市。",
+      "translationEn": "The biggest advantage of night buses is that the price is cheap. Compared to airplanes or bullet trains, it is much cheaper. Therefore, it is also popular with students who do not have much money. You can go to a distant city with friends on the weekend.",
+      "id": "39d7aed2-f743-46f3-bcd0-8feec006ce4c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "バスの中では、リクライニングシートでゆっくり休むことができます。最近のバスは、コンセントやWi-Fiがある場所もあります。快適に過ごせるので、長時間の移動も苦になりません。朝早く起きれば、すぐに観光を始めることができます。",
+      "translationZh": "在巴士里，可以在可倾斜的座位上好好休息。最近的巴士有些地方还配备了电源插座和Wi-Fi。因为可以舒适地度过，所以长时间的移动也不会觉得辛苦。如果早上早起，就可以马上开始观光了。",
+      "translationEn": "On the bus, you can rest comfortably in a reclining seat. Some recent buses also have outlets and Wi-Fi. Since you can spend your time comfortably, long journeys are not a problem. If you wake up early in the morning, you can start sightseeing immediately.",
+      "id": "e35cd7ac-8679-4103-a8bd-debe1e8f29d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バス旅行は、安く、楽しく、時間を節約できる素晴らしい方法です。次の休みには、ぜひ夜行バスでどこかへ行ってみませんか。",
+      "translationZh": "夜间巴士旅行是一种便宜、有趣、节省时间的好方法。下次休息时，一定要试试乘坐夜间巴士去某个地方旅行。",
+      "translationEn": "Night bus travel is a great way to travel cheaply, have fun, and save time. Why not try going somewhere by night bus on your next holiday?",
+      "id": "76fc4330-ef39-4b30-98d0-b8ab1000b26f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夜行バス",
+      "reading": "やこうバス",
+      "meaningZh": "夜间巴士",
+      "meaningEn": "night bus",
+      "level": "n5n4",
+      "exampleSentence": "夜行バスで東京へ行きます。",
+      "id": "faae1d1a-9da2-4116-a343-27306e93f8cf"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は旅行が好きです。",
+      "id": "38b7ad1a-928f-41a5-99ed-b4f642420e0b"
+    },
+    {
+      "word": "格安",
+      "reading": "かくやす",
+      "meaningZh": "便宜，廉价",
+      "meaningEn": "cheap, inexpensive",
+      "level": "n3",
+      "exampleSentence": "格安のホテルを探しました。",
+      "id": "db79a517-5db7-4bb6-b9ce-3b087caa2345"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaningZh": "费用，价格",
+      "meaningEn": "fee, charge, fare",
+      "level": "n5n4",
+      "exampleSentence": "バスの料金はいくらですか。",
+      "id": "2cdb036f-1e06-4fac-95b9-0affafa28628"
+    },
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaningZh": "有效",
+      "meaningEn": "valid, effective",
+      "level": "n3",
+      "exampleSentence": "時間を有効に使いたいです。",
+      "id": "1ac11ab0-4a17-46a7-bb0c-2dd52288d7db"
+    },
+    {
+      "word": "メリット",
+      "reading": "めりっと",
+      "meaningZh": "优点",
+      "meaningEn": "merit, advantage",
+      "level": "n3",
+      "exampleSentence": "この方法のメリットは何ですか。",
+      "id": "21e660f9-7078-4a7d-b1a9-ede0eaaf3d5d"
+    },
+    {
+      "word": "快適",
+      "reading": "かいてき",
+      "meaningZh": "舒适",
+      "meaningEn": "comfortable",
+      "level": "n3",
+      "exampleSentence": "快適な部屋でよかったです。",
+      "id": "69045274-b4a8-4a97-8a87-d1de0345280b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若者が夜行バス旅行を好む一番の理由は何ですか。",
+      "options": [
+        "景色がきれいだから",
+        "時間がたくさんあるから",
+        "料金が安いから",
+        "友達がたくさん乗っているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「夜行バスの最大のメリットは、料金が安いことです。」と書いてあります。",
+      "id": "7c42ecc2-6751-4449-ae32-0f790534cf36"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-30-e85002e2aa",
+  "publishedAt": "2026-08-30T06:00:00+09:00"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "EV急速充電網、ますます便利に！",
+  "summary": "電気自動車（EV）の普及とともに、急速充電網の拡充が進んでいます。これにより、EVでの移動がさらに快適になることが期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）を見かける機会が増えましたね。EVの普及を後押しするために、街中や高速道路のサービスエリアなどで、急速充電器の設置がどんどん進んでいます。これにより、長距離の移動でも充電の心配が少なくなり、EVユーザーにとって大きなメリットとなっています。",
+      "translationZh": "最近，看到电动汽车（EV）的机会变多了呢。为了推动EV的普及，在街上和高速公路的服务区等地，快速充电器的设置正在不断推进。这使得长途移动也不用太担心充电问题，对EV用户来说是一个巨大的好处。",
+      "translationEn": "Recently, we've been seeing more electric vehicles (EVs). To promote the spread of EVs, the installation of rapid chargers is rapidly progressing in towns and at highway service areas. This significantly reduces worries about charging during long-distance travel, which is a great benefit for EV users.",
+      "id": "7f8057e1-3c2c-46aa-b1d2-7604e32313a3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "以前は、EVで遠出するには充電スポットを探すのが大変でしたが、急速充電網が拡充されたおかげで、その状況は大きく変わりました。充電時間が短いのも、急速充電の魅力の一つです。例えば、30分ほどの休憩中に、次の目的地まで十分な充電ができるようになっています。これなら、ガソリン車と変わらずにドライブを楽しめますね。",
+      "translationZh": "以前，开EV去远方需要费力寻找充电点，但多亏了快速充电网的扩充，情况已经大为改变。充电时间短也是快速充电的魅力之一。例如，在大概30分钟的休息时间里，就能充 enough 电行驶到下一个目的地。这样一来，就能像开燃油车一样享受驾驶的乐趣了呢。",
+      "translationEn": "Previously, finding charging spots was difficult for long trips with an EV, but thanks to the expansion of the rapid charging network, this situation has changed greatly. Short charging times are also one of the attractions of rapid charging. For example, during a break of about 30 minutes, you can charge enough to reach your next destination. This allows you to enjoy driving just like with a gasoline car.",
+      "id": "abd39d75-4bb1-4dae-84e1-2f0d7f1bde26",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、急速充電器の数が増えても、混雑する時間帯や場所もあります。しかし、多くの充電事業者が連携し、情報を共有することで、よりスムーズに充電できるようになってきています。今後も技術開発が進み、充電インフラがさらに充実すれば、EVはもっと身近な存在になるでしょう。",
+      "translationZh": "当然，即使快速充电器的数量增加了，在拥挤的时间段或地点还是会遇到排队。但是，通过许多充电运营商的合作和信息共享，充电变得越来越顺畅。今后随着技术发展和充电基础设施的进一步完善，EV将会成为更加普遍的存在。",
+      "translationEn": "Of course, even with an increasing number of rapid chargers, there are still times and places where they can be crowded. However, by many charging companies collaborating and sharing information, charging is becoming smoother. As technological development progresses and charging infrastructure further improves, EVs will become an even more familiar presence.",
+      "id": "dcb928d7-b255-4f81-a480-29cbfbd7f01b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "Electric Vehicle (EV)",
+      "level": "n3",
+      "exampleSentence": "最近、電気自動車の販売台数が増えています。",
+      "id": "fc76aac9-6dfe-42fe-9a7f-284ad5ca8c03"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "Spread, dissemination, popularization",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及は目覚ましいです。",
+      "id": "4fb251d7-941b-4e3f-8238-fd7d9eff61f9"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "Rapid charger",
+      "level": "n3",
+      "exampleSentence": "サービスエリアに急速充電器が設置されました。",
+      "id": "d8ae36fd-e39a-4fd4-824c-5b5de74e8c87"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "Expansion, enlargement",
+      "level": "n3",
+      "exampleSentence": "サービスの拡充が求められています。",
+      "id": "5de4aa85-8459-4412-8c09-41ab567bad86"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "推动，支持",
+      "meaningEn": "Push, support, boost",
+      "level": "n3",
+      "exampleSentence": "政府の政策が産業の発展を後押ししています。",
+      "id": "e24b187c-5aad-45f3-8428-47dda14223ff"
+    },
+    {
+      "word": "メリット",
+      "reading": "めりっと",
+      "meaningZh": "优点，好处",
+      "meaningEn": "Merit, advantage",
+      "level": "n3",
+      "exampleSentence": "この計画の最大のメリットは、コスト削減です。",
+      "id": "b1a5cc17-7723-41fb-a4b5-83a3bd0f90e3"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "合作，协作",
+      "meaningEn": "Cooperation, collaboration, linkage",
+      "level": "n3",
+      "exampleSentence": "企業間の連携が重要になってきています。",
+      "id": "69dc842a-5628-4ba2-9a77-51b594693739"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "急速充電網の拡充によって、EVユーザーにとってどのようなメリットが期待されていますか？",
+      "options": [
+        "充電スポットを探す手間が省けること",
+        "車両価格が安くなること",
+        "充電時間が長くなること",
+        "ガソリンスタンドの数が減ること"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文では、「以前は、EVで遠出するには充電スポットを探すのが大変でしたが、急速充電網が拡充されたおかげで、その状況は大きく変わりました。」と述べられています。",
+      "id": "0772c344-22bd-4849-ab5c-aafcd979c5a0"
+    },
+    {
+      "question": "EVの普及を後押しするために、どのような取り組みが進められていますか？",
+      "options": [
+        "ガソリン車の開発",
+        "急速充電器の設置",
+        "公共交通機関の縮小",
+        "充電時間の延長"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の冒頭に、「EVの普及を後押しするために、街中や高速道路のサービスエリアなどで、急速充電器の設置がどんどん進んでいます。」と書かれています。",
+      "id": "82888d4b-5861-4c5d-94d6-58a8e0765cd0"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-30-0fdb5d3d7d",
+  "publishedAt": "2026-08-30T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "電気自動車をもっと便利に",
+  "summary": "電気自動車（EV）が増えています。充電をもっと早く、もっと簡単にできる場所が増える予定です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）をよく見かけます。EVは環境に良い車です。ガソリンを使わないので、空気をきれいにします。しかし、充電に時間がかかることがあります。これがEVの少し不便な点でした。",
+      "translationZh": "最近，我们经常能看到电动汽车（EV）。EV对环境有益。因为它不使用汽油，所以能净化空气。但是，充电有时需要花费很多时间。这就是EV过去稍显不便的地方。",
+      "translationEn": "Recently, we often see electric vehicles (EVs). EVs are good for the environment. They do not use gasoline, so they clean the air. However, charging can sometimes take time. This was a slight inconvenience of EVs.",
+      "id": "b9b53cf9-8235-4bdd-a89c-d6e7e1834d76",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この問題を解決するために、新しい充電設備がたくさん作られています。特に、「急速充電器」が増えています。急速充電器を使うと、短い時間で車のバッテリーを充電できます。これは、旅行や長距離の運転にとても役立ちます。",
+      "translationZh": "为了解决这个问题，正在建设许多新的充电设施。特别是，“快速充电器”正在增加。使用快速充电器，可以在短时间内为汽车电池充电。这对旅行和长途驾驶非常有帮助。",
+      "translationEn": "To solve this problem, many new charging facilities are being built. In particular, \"quick chargers\" are increasing. Using a quick charger, you can charge the car's battery in a short time. This is very helpful for trips and long-distance driving.",
+      "id": "cea4f6b5-bb97-4e00-b05b-31f19ce1fe45",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "国や会社は、もっと多くの場所に急速充電器を置こうとしています。駅やスーパー、高速道路のサービスエリアなどです。これにより、EVの利用者はどこでも充電しやすくなります。EVがもっと身近な存在になるでしょう。",
+      "translationZh": "国家和公司正努力在更多地方设置快速充电器。例如在车站、超市、高速公路服务区等地。这样一来，EV用户在哪里都能方便地充电。EV将变得更加普及。",
+      "translationEn": "The government and companies are trying to place quick chargers in more locations. Such as at stations, supermarkets, and highway service areas. This will make it easier for EV users to charge anywhere. EVs will become more familiar.",
+      "id": "f4f9cf2a-a793-45a8-b2d9-2d25529deeac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網が広がれば、EVの選択肢はもっと増えるでしょう。ガソリン車からEVに乗り換える人が、さらに多くなるかもしれません。未来の交通が、もっとクリーンで便利になることが期待されます。",
+      "translationZh": "随着快速充电网络的扩展，EV的选择将进一步增加。从燃油车换成EV的人可能会更多。未来交通变得更清洁、更便利，值得期待。",
+      "translationEn": "As the quick charging network expands, the options for EVs will increase further. People switching from gasoline cars to EVs may become even more numerous. Future transportation is expected to become cleaner and more convenient.",
+      "id": "c13bf917-ff3e-4571-9b00-b672f062ada9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "electric vehicle",
+      "level": "n5n4",
+      "exampleSentence": "電気自動車は静かでいいですね。",
+      "id": "f09907e5-083a-49b7-8371-249e94fcddc9"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n5n4",
+      "exampleSentence": "環境を守ることは大切です。",
+      "id": "c40fcc4a-0604-4b56-b1ae-5fc415d2d89c"
+    },
+    {
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaningZh": "充电",
+      "meaningEn": "charge",
+      "level": "n5n4",
+      "exampleSentence": "スマホを充電しました。",
+      "id": "e391b4d8-2ab1-45c0-af69-90dc6dd50254"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "quick charger",
+      "level": "n5n4",
+      "exampleSentence": "急速充電器は駅にありました。",
+      "id": "0bc99239-42e2-42b1-98fb-5644e4408901"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaningZh": "设备",
+      "meaningEn": "facility, equipment",
+      "level": "n5n4",
+      "exampleSentence": "新しい設備がきました。",
+      "id": "9ceca181-421a-486d-932f-eec43155b9e2"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "0bf9f0d5-8886-4d74-881d-bdbbc0bf44a2"
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "扩展，普及",
+      "meaningEn": "to spread, to expand",
+      "level": "n5n4",
+      "exampleSentence": "お店が街に広がっています。",
+      "id": "3fba01bd-4d6f-40e9-995f-86d61433c6ec"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "急速充電器が増えると、電気自動車の利用者はどうなりますか？",
+      "options": [
+        "充電に時間がかかるようになります。",
+        "どこでも充電しやすくなります。",
+        "電気自動車が売れなくなります。",
+        "ガソリン車がもっと必要になります。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「これにより、EVの利用者はどこでも充電しやすくなります。」",
+      "id": "1b5a566a-0dff-4600-90e2-b257928bec42"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-30-0fdb5d3d7d",
+  "publishedAt": "2026-08-30T06:00:00+09:00"
+}

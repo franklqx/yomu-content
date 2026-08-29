@@ -1,0 +1,131 @@
+{
+  "title": "ご当地ラーメン、東京へ！",
+  "summary": "日本各地のおいしいラーメンが東京に集まっています。色々な味を楽しんでください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本にはたくさんの有名なラーメンがあります。例えば、北海道の味噌ラーメンや、九州の豚骨ラーメンです。これらは、それぞれの地域でとても人気があります。",
+      "translationZh": "日本有很多有名的拉面。例如，北海道的味噌拉面，和九州的豚骨拉面。这些在各自的地区都非常受欢迎。",
+      "translationEn": "Japan has many famous ramen styles. For example, Hokkaido's miso ramen and Kyushu's tonkotsu ramen. These are very popular in their respective regions.",
+      "id": "af9f1a4a-5b18-4d5e-8227-1544804bac11",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、たくさんのご当地ラーメンが東京に来ています。東京で、北海道や九州のラーメンを食べることができます。これは、旅行に行かなくても、色々な味を楽しめるということです。",
+      "translationZh": "最近，很多地方特色拉面来到东京。在东京，你可以吃到北海道和九州的拉面。这意味着，即使不去旅行，也能享受各种口味。",
+      "translationEn": "Recently, many regional ramen styles have come to Tokyo. You can eat Hokkaido and Kyushu ramen in Tokyo. This means you can enjoy various flavors without traveling.",
+      "id": "9d80cea9-314f-4311-919f-04c29dfa48dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京には、新しいラーメン屋さんがたくさんできました。新しいお店ができると、私たちは色々なラーメンを試すことができます。そして、新しいお気に入りのラーメンを見つけるかもしれません。",
+      "translationZh": "东京新开了许多拉面店。新店开业后，我们可以尝试各种拉面。然后，也许能找到新的最喜欢的拉面。",
+      "translationEn": "Many new ramen shops have opened in Tokyo. When new shops open, we can try different kinds of ramen. And, we might find a new favorite ramen.",
+      "id": "c2f109e3-6190-431e-af08-8c3ce8c5b060",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし東京に住んでいるなら、ぜひ色々なご当地ラーメンを食べてみてください。きっと、あなたの好きな味が見つかるはずです。",
+      "translationZh": "如果你住在东京，请一定要尝尝各种地方特色拉面。一定能找到你喜欢的口味。",
+      "translationEn": "If you live in Tokyo, please try various regional ramen. You are sure to find a flavor you like.",
+      "id": "5cca8a39-a825-479f-ba59-550c74070e3a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ご当地",
+      "reading": "ごとうち",
+      "meaningZh": "本地的，地方的",
+      "meaningEn": "local, regional",
+      "level": "n5n4",
+      "exampleSentence": "これはご当地のお土産です。",
+      "id": "cc2f4db3-1fdf-4587-9e62-061d21779af1"
+    },
+    {
+      "word": "ラーメン",
+      "reading": "らーめん",
+      "meaningZh": "拉面",
+      "meaningEn": "ramen",
+      "level": "n5n4",
+      "exampleSentence": "ラーメンが好きです。",
+      "id": "cd378ce5-fac3-4295-a8e8-a157490f86ec"
+    },
+    {
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaningZh": "进入，扩张（市场）",
+      "meaningEn": "advance, enter (market)",
+      "level": "n3",
+      "exampleSentence": "新しい市場に進出します。",
+      "id": "6f157eb9-5fd6-48da-8b90-5c63e421ae57"
+    },
+    {
+      "word": "味噌",
+      "reading": "みそ",
+      "meaningZh": "味噌",
+      "meaningEn": "miso",
+      "level": "n5n4",
+      "exampleSentence": "味噌汁はおいしいです。",
+      "id": "f1fe7607-5aa6-4cf5-9d4f-1ce2d920b44b"
+    },
+    {
+      "word": "豚骨",
+      "reading": "とんこつ",
+      "meaningZh": "猪骨（汤底）",
+      "meaningEn": "pork bone (broth)",
+      "level": "n3",
+      "exampleSentence": "豚骨ラーメンは人気があります。",
+      "id": "5d6fb648-ef04-4177-b9e3-be4104b6e609"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとてもきれいです。",
+      "id": "192ee98e-3e0a-43d3-9704-34480d4bdcb6"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "夏に旅行に行きます。",
+      "id": "ea4326b1-e78f-40c3-9bd5-6c3c2ea3999e"
+    },
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "meaningZh": "找到，发现",
+      "meaningEn": "find",
+      "level": "n5n4",
+      "exampleSentence": "鍵を見つけました。",
+      "id": "48966532-e3c1-48ac-b112-ca8c025bfbb0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東京で、色々な日本のラーメンを食べられますか？",
+      "options": [
+        "はい、食べられます。",
+        "いいえ、食べられません。",
+        "北海道のラーメンだけです。",
+        "九州のラーメンだけです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「最近、たくさんのご当地ラーメンが東京に来ています。東京で、北海道や九州のラーメンを食べることができます。」",
+      "id": "643508d4-9ac7-49e1-a9a3-2d5766b47dd6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-30-39bdaec71b",
+  "publishedAt": "2026-08-30T06:00:00+09:00"
+}
