@@ -1,0 +1,122 @@
+{
+  "title": "純喫茶が若者に人気",
+  "summary": "最近、若い人たちの間で「純喫茶」が人気です。昔ながらの喫茶店に新しい魅力があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で「純喫茶」という言葉がよく聞かれます。純喫茶は、昔からある喫茶店のことです。コーヒーや紅茶、そして美味しいデザートが楽しめます。",
+      "translationZh": "最近，在年轻人们之间，“纯喫茶”这个词经常被听到。纯喫茶是指历史悠久的咖啡店。可以在那里享用咖啡、红茶以及美味的甜点。",
+      "translationEn": "Recently, the word \"jun-kissa\" (traditional coffee shop) is often heard among young people. Jun-kissa are old-fashioned coffee shops. You can enjoy coffee, tea, and delicious desserts there.",
+      "id": "0fe0b557-60b8-4c18-b83b-8d4caa29db9d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶の雰囲気は、とても落ち着いています。レトロなインテリアや、ゆったりとした音楽が流れています。友達と話したり、一人で本を読んだりするのに良い場所です。",
+      "translationZh": "纯喫茶的氛围非常平静。有复古的室内装饰，并且播放着舒缓的音乐。是和朋友聊天、或者一个人读书的好地方。",
+      "translationEn": "The atmosphere of a jun-kissa is very calm. There is retro interior decoration, and relaxing music is playing. It's a good place to talk with friends or read a book alone.",
+      "id": "6b1c8676-3e78-4bc2-9a47-887493c31c11",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューも人気の一つです。クリームソーダやプリンアラモードのような、昔懐かしいデザートがあります。見た目も可愛くて、写真に撮りたくなります。",
+      "translationZh": "菜单也是受欢迎的原因之一。有像奶油苏打、布丁芭菲这样让人怀念的旧式甜点。外观也很可爱，让人想拍照。",
+      "translationEn": "The menu is also one of the popular points. There are nostalgic desserts like cream soda and purin à la mode. They look cute and make you want to take pictures.",
+      "id": "c119ae69-f279-457b-b694-090be409b396",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都会だけではなく、色々な町に純喫茶があります。昔の良さを大切にしながら、新しいお客さんも迎えています。ぜひ一度、行ってみてください。",
+      "translationZh": "不仅在大城市，在各种各样的城镇里都有纯喫茶。在珍惜过去的美好的同时，也迎接着新顾客。请务必去一次看看。",
+      "translationEn": "Jun-kissa can be found not only in big cities but also in various towns. While cherishing the good old days, they also welcome new customers. Please try visiting one sometime.",
+      "id": "f8cd2610-e35f-4038-9344-047c52c04a7c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "この店は若者に人気があります。",
+      "id": "c86ecaf3-7e63-44e8-a007-4898346d3d1c"
+    },
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "纯喫茶（有年代感的咖啡店）",
+      "meaningEn": "traditional coffee shop",
+      "level": "n5n4",
+      "exampleSentence": "純喫茶でゆっくりしました。",
+      "id": "2595692f-8f1c-4b13-bf81-c1aaea73d9b0"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "このカフェの雰囲気はいいですね。",
+      "id": "72f30092-89e0-4241-a8ae-9f61333c6917"
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningZh": "怀旧的",
+      "meaningEn": "nostalgic",
+      "level": "n5n4",
+      "exampleSentence": "子供の頃を懐かしく思います。",
+      "id": "33a3ada9-2382-4588-94bd-ff2695b00e03"
+    },
+    {
+      "word": "デザート",
+      "reading": "でざーと",
+      "meaningZh": "甜点",
+      "meaningEn": "dessert",
+      "level": "n5n4",
+      "exampleSentence": "食後にデザートを食べました。",
+      "id": "b55ca4ad-6619-4798-8380-15324110880d"
+    },
+    {
+      "word": "インテリア",
+      "reading": "いんてりあ",
+      "meaningZh": "室内装饰",
+      "meaningEn": "interior decoration",
+      "level": "n3",
+      "exampleSentence": "部屋のインテリアを変えました。",
+      "id": "d8ce5921-86fe-41e1-95c1-475ae6e53f48"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "メニューを見せてください。",
+      "id": "e40b0547-da43-40d9-8fbe-5feb539cf2ce"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若者に人気の純喫茶では、どんなものが楽しめますか？",
+      "options": [
+        "最新のゲーム",
+        "昔懐かしいデザート",
+        "ビジネスの会議",
+        "静かな勉強部屋"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「純喫茶のメニューも人気の一つです。クリームソーダやプリンアラモードのような、昔懐かしいデザートがあります。」と書かれています。",
+      "id": "01a85203-e8ae-4cb2-a27a-dd622f4626e7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-31-1156824b80",
+  "publishedAt": "2026-08-31T06:00:00+09:00"
+}

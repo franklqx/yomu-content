@@ -1,0 +1,131 @@
+{
+  "title": "街にロボットが増えています",
+  "summary": "最近、街でロボットの案内員を見かけることが多くなりました。彼らはとても親切です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の大きな街では、ロボットの案内員が増えています。駅やデパートで、困っている人に話しかけています。彼らは、道を聞かれたり、お店を教えたりします。",
+      "translationZh": "最近，在日本的大城市里，机器人向导越来越多。在车站或百货公司里，它们会主动和遇到困难的人搭话。它们会被问路，也会介绍商店。",
+      "translationEn": "Recently, the number of robot guides is increasing in big cities in Japan. At stations and department stores, they approach people who seem to be in trouble. They are asked for directions and told about shops.",
+      "id": "d3c6f3c3-5b46-4684-a1aa-004bd53b6449",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボットの案内員は、とても上手（じょうず）に話します。日本語だけでなく、英語や中国語も話せるロボットがいます。だから、外国から来た人も安心（あんしん）して話しかけることができます。",
+      "translationZh": "机器人向导说话非常流利。不仅会说日语，还有能说英语和中文的机器人。所以，从国外来的人也能安心地和它们搭话。",
+      "translationEn": "Robot guides speak very well. There are robots that can speak not only Japanese but also English and Chinese. Therefore, people from foreign countries can also talk to them with peace of mind.",
+      "id": "e70c0742-5e48-4268-abc3-f9e72d0278b8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "あるデパートでは、ロボットがお客様を席（せき）まで案内しました。そのロボットは、とても静かに動きました。お客様は「便利（べんり）で、面白かった」と言っていました。",
+      "translationZh": "在一家百货公司里，机器人引导顾客到了座位。那个机器人动得很安静。顾客说：“很方便，也很有趣。”",
+      "translationEn": "In one department store, a robot guided customers to their seats. The robot moved very quietly. The customers said, 'It was convenient and interesting.'",
+      "id": "d5adc0ab-462c-4e88-ac12-8bda90e4e201",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、街でロボットに会う機会（きかい）が増えるでしょう。ロボットは、私たちの生活を助けてくれる、大切なパートナーになるかもしれません。",
+      "translationZh": "今后，在街上遇到机器人的机会也会增加。机器人可能会成为帮助我们生活的重要伙伴。",
+      "translationEn": "In the future, the opportunities to meet robots in the city will likely increase. Robots may become important partners that help our lives.",
+      "id": "4b61c5ad-b705-4306-a9e8-28f1cd32ad27",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "向导；服务员",
+      "meaningEn": "guide; attendant",
+      "level": "n5n4",
+      "exampleSentence": "駅員さんが案内員をしていました。",
+      "id": "a31dde0b-975d-4db6-8c45-1aada8dffb56"
+    },
+    {
+      "word": "困る",
+      "reading": "こまる",
+      "meaningZh": "为难；困扰",
+      "meaningEn": "to be troubled; to be in a difficult situation",
+      "level": "n5n4",
+      "exampleSentence": "道が分からなくて困っています。",
+      "id": "50580868-95ce-4cfe-ad50-a11ce93b50c6"
+    },
+    {
+      "word": "話しかける",
+      "reading": "はなしかける",
+      "meaningZh": "搭话；攀谈",
+      "meaningEn": "to speak to; to address",
+      "level": "n5n4",
+      "exampleSentence": "知らない人に話しかけないでください。",
+      "id": "4eba0744-e019-45ef-b735-5ccf2afbfa0b"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "熟练；拿手",
+      "meaningEn": "skillful; good at",
+      "level": "n5n4",
+      "exampleSentence": "彼女は日本語が上手です。",
+      "id": "fb2cfed6-0a3b-49fe-a012-b751d83a916c"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心；放心",
+      "meaningEn": "relief; peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "お母さんは子供が無事だと聞いて安心しました。",
+      "id": "79cecf31-95ab-4c34-927c-e391a372e092"
+    },
+    {
+      "word": "席",
+      "reading": "せき",
+      "meaningZh": "座位",
+      "meaningEn": "seat",
+      "level": "n5n4",
+      "exampleSentence": "この席は空いていますか。",
+      "id": "d016f398-a5d8-4d4d-9bfe-f7caa62376db"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "5e16037c-c574-4582-9789-7a5ee6bac3de"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "chance; opportunity",
+      "level": "n3",
+      "exampleSentence": "留学する機会がありました。",
+      "id": "6776d0b2-f1d5-41b6-8297-c73dc64234a6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボットの案内員は、どのようなことができますか。",
+      "options": [
+        "日本語しか話せません。",
+        "困っている人に話しかけることができます。",
+        "いつも静かに動きます。",
+        "外国語を話せません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「ロボットの案内員は、とても上手（じょうず）に話します。日本語だけでなく、英語や中国語も話せるロボットがいます。だから、外国から来た人も安心（あんしん）して話しかけることができます。」",
+      "id": "53813eec-6eba-4012-bd39-9967d8ec3e25"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-08-31-b3f2035f3f",
+  "publishedAt": "2026-08-31T06:00:00+09:00"
+}

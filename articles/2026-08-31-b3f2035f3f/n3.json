@@ -1,0 +1,135 @@
+{
+  "title": "街でよく見かける？ロボット案内員が増えている理由",
+  "summary": "最近、駅や商業施設でロボットが案内をする姿をよく見かけるようになりました。なぜロボット案内員が増えているのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市部ではロボットが案内をする場所が増えています。例えば、大きな駅やショッピングモールに行くと、困っている人に話しかけて目的地まで案内してくれるロボットがいます。これらのロボットは、多言語に対応できるものもあり、外国人観光客にとっても非常に便利です。",
+      "translationZh": "最近，在城市地区，机器人提供向导服务的场所越来越多。例如，去大型车站或购物中心，可以看到会主动搭讪有困难的人并将其引导至目的地的机器人。这些机器人还能支持多国语言，对外国游客来说也非常方便。",
+      "translationEn": "Recently, places where robots provide guidance are increasing in urban areas. For example, when you go to a large station or shopping mall, you can find robots that approach people who seem lost and guide them to their destination. These robots can also support multiple languages, making them very convenient for foreign tourists.",
+      "id": "1a34b8fc-be22-48a7-bdce-9328063e5e4b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員が増えている理由の一つは、人手不足です。特に観光地やイベント会場では、多くの案内係が必要ですが、十分な人材を確保するのが難しい場合があります。そこで、ロボットがその役割を一部担うことで、人間のスタッフの負担を減らすことができるのです。",
+      "translationZh": "机器人案内员增加的原因之一是人手不足。特别是在旅游景点或活动会场，需要很多向导人员，但有时很难确保充足的人力。因此，让机器人承担一部分角色，可以减轻人类工作人员的负担。",
+      "translationEn": "One reason for the increase in robot guides is labor shortage. Especially in tourist spots and event venues, many guides are needed, but it can be difficult to secure enough personnel. Therefore, by having robots take on part of the role, the burden on human staff can be reduced.",
+      "id": "2aa712ce-6c5b-4d25-a0d6-bdbd8205ea00",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、ロボットは疲れを知らず、24時間いつでも働くことができます。さらに、正確な情報を提供できるという利点もあります。人間のように感情で対応が変わることもないので、誰に対しても一貫したサービスを提供できるのは大きな強みだと言えるでしょう。これからも、ロボット案内員は私たちの生活でますます身近な存在になっていくと考えられます。",
+      "translationZh": "而且，机器人不会感到疲倦，可以24小时随时工作。此外，它们还能提供准确信息的优点。不像人类那样会因为情绪而改变应对方式，无论对谁都能提供一致的服务，这可以说是其巨大的优势。今后，机器人案内员在我们生活中会成为越来越熟悉的存在。",
+      "translationEn": "Furthermore, robots do not get tired and can work 24 hours a day. Additionally, they have the advantage of being able to provide accurate information. Unlike humans, their responses do not change based on emotions, so being able to provide consistent service to everyone is a significant strength. It is thought that robot guides will become even more familiar presences in our lives from now on.",
+      "id": "d171f851-bb3a-4e44-afb4-5a8bda3eaaf6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都市部",
+      "reading": "と_とし_ぶ",
+      "meaningZh": "都市地区，市区",
+      "meaningEn": "urban area",
+      "level": "n3",
+      "exampleSentence": "都市部では、新しいビルがたくさん建てられています。",
+      "id": "73b240e3-4c87-4d9c-994c-83b2ccfc6afe"
+    },
+    {
+      "word": "案内員",
+      "reading": "あん_ない_いん",
+      "meaningZh": "向导，接待员",
+      "meaningEn": "guide, attendant",
+      "level": "n3",
+      "exampleSentence": "駅員さんが親切に案内してくれた。",
+      "id": "0aa6eaed-e189-4127-be4d-0a707090e386"
+    },
+    {
+      "word": "商業施設",
+      "reading": "しょう_ぎょう_し_せつ",
+      "meaningZh": "商业设施",
+      "meaningEn": "commercial facility",
+      "level": "n3",
+      "exampleSentence": "この商業施設には、様々なお店が入っています。",
+      "id": "a023d03d-51de-4b7a-bc56-e927e876c7c1"
+    },
+    {
+      "word": "多言語",
+      "reading": "た_げん_ご",
+      "meaningZh": "多国语言",
+      "meaningEn": "multilingual",
+      "level": "n3",
+      "exampleSentence": "観光地では、多言語対応が重要です。",
+      "id": "cebf3a9d-0ea2-4f6e-8ee0-85b537eb8cc0"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひと_で_ぶ_そく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "最近、多くの業界で人手不足が問題になっています。",
+      "id": "18aaf9af-2353-49c7-a3de-eb8265e34a1e"
+    },
+    {
+      "word": "人材",
+      "reading": "じん_ざい",
+      "meaningZh": "人才",
+      "meaningEn": "human resources, talent",
+      "level": "n3",
+      "exampleSentence": "優秀な人材を採用するのは難しいです。",
+      "id": "8617c800-538f-4ef7-8c69-ed8c9fdea99d"
+    },
+    {
+      "word": "負担",
+      "reading": "ふ_たん",
+      "meaningZh": "负担",
+      "meaningEn": "burden",
+      "level": "n3",
+      "exampleSentence": "一人で抱え込まず、皆で負担を分け合いましょう。",
+      "id": "107a407f-9377-4306-b986-86ae3a450d56"
+    },
+    {
+      "word": "一貫した",
+      "reading": "いっ_かん_し_た",
+      "meaningZh": "一贯的，始终如一的",
+      "meaningEn": "consistent",
+      "level": "n2n1",
+      "exampleSentence": "彼はいつも一貫した態度で人に接する。",
+      "id": "9db795f7-b681-4787-9ec2-380f0d9fa6b9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が増えている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "ロボットの方が人間より速く歩けるから",
+        "人手不足を補い、一貫したサービスを提供できるから",
+        "ロボットの方が人間より料金が安いから",
+        "ロボットは感情がないので、誰にでも同じように話せるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には、「人手不足です」「一貫したサービスを提供できる」と書かれています。",
+      "id": "e1984b80-2433-4032-8a65-a6443395b023"
+    },
+    {
+      "question": "ロボット案内員の利点として、本文で触れられていないものはどれですか？",
+      "options": [
+        "多言語に対応できる",
+        "疲れずに24時間働ける",
+        "人間よりも情報が正確である",
+        "人間のように感情豊かに対応できる"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文では、「人間のように感情で対応が変わることもないので」とあり、感情豊かに対応できることは利点ではないと説明されています。",
+      "id": "ad602218-e0c5-4b5c-916a-2607a4777eb2"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-08-31-b3f2035f3f",
+  "publishedAt": "2026-08-31T06:00:00+09:00"
+}
