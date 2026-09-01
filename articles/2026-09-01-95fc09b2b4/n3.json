@@ -1,0 +1,126 @@
+{
+  "title": "発酵食品ブーム！健康的な食生活を始めよう",
+  "summary": "最近、発酵食品が人気を集めています。健康のために、毎日の食生活に発酵食品を取り入れてみませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、健康志向の高まりとともに、発酵食品が注目されています。ヨーグルトや納豆、味噌などの発酵食品は、私たちの体にとって良い働きをすると言われています。そのため、毎日の食卓に積極的に取り入れる人が増えているのです。",
+      "translationZh": "最近，随着健康意识的提高，发酵食品受到了关注。酸奶、纳豆、味噌等发酵食品据说对我们的身体有益。因此，越来越多的人开始积极地将它们纳入日常餐桌。",
+      "translationEn": "Recently, with the rise in health consciousness, fermented foods have been gaining attention. Fermented foods like yogurt, natto, and miso are said to have beneficial effects on our bodies. Consequently, more and more people are actively incorporating them into their daily meals.",
+      "id": "b73de3c8-4bd8-4750-b1f7-9acabf3cfecb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、腸内環境を整える善玉菌が多く含まれています。腸内環境が整うと、消化吸収が良くなるだけでなく、免疫力もアップすると考えられています。風邪を引きにくくなったり、肌の調子が良くなったりする効果も期待できるでしょう。健康維持のためには、こうした食品は欠かせません。",
+      "translationZh": "发酵食品富含能调节肠道环境的益生菌。一旦肠道环境得到改善，不仅消化吸收会变好，免疫力也会提高。据说还能期待不易感冒、皮肤状态变好的效果。为了维持健康，这类食品是必不可少的。",
+      "translationEn": "Fermented foods contain many beneficial bacteria that regulate the gut environment. When the gut environment is balanced, not only digestion and absorption improve, but immunity is also thought to be enhanced. Effects such as becoming less susceptible to colds and improving skin condition can also be expected. These foods are essential for maintaining good health.",
+      "id": "d786bd9f-f426-46f3-9317-0ef92ea94d60",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品ブームは、単に流行っているというだけでなく、人々の健康への関心の高さを反映しています。特別なことではなく、いつもの食事に味噌汁やヨーグルト、漬物などをプラスするだけで、手軽に健康効果を得られるのが魅力です。この機会に、あなたも発酵食品を取り入れた食生活を始めてみてはいかがでしょうか。",
+      "translationZh": "发酵食品的流行不仅仅是因为它很受欢迎，更是反映了人们对健康日益增长的关注。这并非什么特别的事情，只需在日常饮食中加入味噌汤、酸奶、腌菜等，就能轻松获得健康益处，这正是其魅力所在。借此机会，您不妨也开始尝试加入发酵食品的饮食生活吧。",
+      "translationEn": "The fermented food boom is not just a trend; it reflects people's high interest in health. It's not about doing something special; the appeal lies in easily gaining health benefits by simply adding miso soup, yogurt, or pickles to your usual meals. Why not take this opportunity to start a diet incorporating fermented foods?",
+      "id": "52dcefad-0701-445a-b577-2e1ae2816382",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "味噌や醤油は代表的な発酵食品です。",
+      "id": "d72e4c4b-2026-441a-8759-b08c099ba3f7"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，瞩目",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "彼の新しい映画が注目を集めている。",
+      "id": "a2554d40-3d56-4638-89ca-f72b3345869b"
+    },
+    {
+      "word": "腸内環境",
+      "reading": "ちょうないかんきょう",
+      "meaningZh": "肠道环境",
+      "meaningEn": "gut environment, intestinal flora",
+      "level": "n3",
+      "exampleSentence": "腸内環境を整えることが健康に大切だ。",
+      "id": "bee320f5-2488-48fb-926f-40b5c3b21f0e"
+    },
+    {
+      "word": "善玉菌",
+      "reading": "ぜんだまきん",
+      "meaningZh": "益生菌（肠道内的有益细菌）",
+      "meaningEn": "beneficial bacteria (good bacteria in the gut)",
+      "level": "n3",
+      "exampleSentence": "ヨーグルトには善玉菌がたくさん入っている。",
+      "id": "187b18bd-2083-4241-94eb-f66b072f285f"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaningZh": "免疫力",
+      "meaningEn": "immunity",
+      "level": "n3",
+      "exampleSentence": "バランスの取れた食事は免疫力を高める。",
+      "id": "b572fed2-1a27-4647-9754-607229acd3bd"
+    },
+    {
+      "word": "消化吸収",
+      "reading": "しょうかきゅうしゅう",
+      "meaningZh": "消化吸收",
+      "meaningEn": "digestion and absorption",
+      "level": "n3",
+      "exampleSentence": "この薬は消化吸収を助ける効果がある。",
+      "id": "6e82e0b2-cd05-4cd0-b64f-e339636a669f"
+    },
+    {
+      "word": "反映",
+      "reading": "はんえい",
+      "meaningZh": "反映，映照",
+      "meaningEn": "reflection",
+      "level": "n3",
+      "exampleSentence": "この結果は現状をよく反映している。",
+      "id": "d3074a70-6844-4512-9783-40d055fe7ddc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品が注目されている理由は何ですか？",
+      "options": [
+        "値段が安いから",
+        "特別な調理法が必要だから",
+        "健康への関心が高まっているから",
+        "味があまり良くないから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「健康志向の高まりとともに、発酵食品が注目されています。」と書かれています。",
+      "id": "83d9cb8f-b909-4f0d-b9df-491f66444c4c"
+    },
+    {
+      "question": "発酵食品を食べることによって期待できる効果は、本文によると何ですか？",
+      "options": [
+        "体重が減る",
+        "風邪を引きにくくなる、肌の調子が良くなる",
+        "記憶力が向上する",
+        "筋肉がつきやすくなる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「風邪を引きにくくなったり、肌の調子が良くなったりする効果も期待できるでしょう。」と書かれています。",
+      "id": "41933a46-5cbf-4fcd-b9a0-58ff220d26a5"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-01-95fc09b2b4",
+  "publishedAt": "2026-09-01T06:00:00+09:00"
+}

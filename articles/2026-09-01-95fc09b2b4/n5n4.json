@@ -1,0 +1,114 @@
+{
+  "title": "発酵食品って人気！",
+  "summary": "最近、発酵食品がとても人気です。健康のために食べる人が増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、発酵食品が人気です。例えば、ヨーグルトや味噌、納豆です。これらは日本で昔から食べられています。",
+      "translationZh": "最近，发酵食品很受欢迎。例如，酸奶、味噌和纳豆。这些在日本自古以来就被食用。",
+      "translationEn": "Recently, fermented foods are popular. For example, yogurt, miso, and natto. These have been eaten in Japan for a long time.",
+      "id": "6079ec3a-fbec-4d1a-a430-c4ce278cfbb8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品は体に良いと言われています。お腹の調子を良くしてくれます。だから、健康に気をつける人が多くなりました。",
+      "translationZh": "发酵食品被认为对身体有益。它们能改善肠胃功能。因此，注意健康的人变多了。",
+      "translationEn": "Fermented foods are said to be good for the body. They improve your stomach condition. Because of this, more people are paying attention to their health.",
+      "id": "08d3be52-9404-4005-b209-f52986273a60",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スーパーでも色々な発酵食品を見かけます。新しい商品もたくさん出てきました。これからも発酵食品は人気がありそうです。",
+      "translationZh": "在超市里也能看到各种发酵食品。新产品也大量上市了。今后发酵食品似乎会继续受欢迎。",
+      "translationEn": "We can see various fermented foods in supermarkets too. Many new products have also appeared. Fermented foods seem likely to remain popular in the future.",
+      "id": "a5095fff-b1aa-4f5a-88c9-aa2dc75e6ab9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n5n4",
+      "exampleSentence": "キムチも発酵食品の一つです。",
+      "id": "3d72334e-7f3a-4c5e-9655-429349b33d40"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎，人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "6d5a47af-a342-4234-a7d6-6f86d91a08da"
+    },
+    {
+      "word": "例えば",
+      "reading": "たとえば",
+      "meaningZh": "例如，比如",
+      "meaningEn": "for example",
+      "level": "n5n4",
+      "exampleSentence": "果物には、例えばりんごやバナナがあります。",
+      "id": "2a3f005a-6aff-4ddc-999e-31bc43cfcb84"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，古代",
+      "meaningEn": "old times, past",
+      "level": "n5n4",
+      "exampleSentence": "昔はテレビがありませんでした。",
+      "id": "4f92486b-5871-461b-b109-b568d88d086f"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状况，状态",
+      "meaningEn": "condition, state",
+      "level": "n5n4",
+      "exampleSentence": "風邪をひいて、体の調子が悪いです。",
+      "id": "86277255-ea6e-40ca-85a3-8797d8a6a1be"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日運動します。",
+      "id": "bbea7f8d-c421-46c1-83fd-5478db36925e"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningZh": "商品，产品",
+      "meaningEn": "product, merchandise",
+      "level": "n5n4",
+      "exampleSentence": "新しいデザインの商品が人気です。",
+      "id": "0fd87331-defd-4c28-bd09-554107dbffe6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ発酵食品が人気ですか？",
+      "options": [
+        "おいしいからです",
+        "体に良いからです",
+        "安いからです",
+        "昔からあったからです"
+      ],
+      "correctIndex": 1,
+      "explanation": "発酵食品は体に良いと言われています。お腹の調子を良くしてくれます。だから、健康に気をつける人が多くなりました。",
+      "id": "845fea25-cb6b-448a-bb31-031a12977c25"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-01-95fc09b2b4",
+  "publishedAt": "2026-09-01T06:00:00+09:00"
+}

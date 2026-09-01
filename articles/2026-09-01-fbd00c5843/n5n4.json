@@ -1,0 +1,131 @@
+{
+  "title": "アニメの力で町おこし",
+  "summary": "ある商店街がアニメの聖地になりました。町の人々はアニメのために、いろいろなことをしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、ある町に小さな商店街がありました。でも、お客さんが少なくなって、元気がない町でした。ある日、この町がアニメの舞台になりました。アニメが人気になると、たくさんの人が町にやってきました。",
+      "translationZh": "以前，在一个小镇上有一条小商店街。但是，客人变少，镇子变得没有活力。有一天，这个小镇成为了动画的舞台。动画变得受欢迎后，很多人来到了这个小镇。",
+      "translationEn": "In the past, there was a small shopping street in a town. However, the number of customers decreased, and the town lost its vitality. One day, this town became the setting for an anime. As the anime became popular, many people came to the town.",
+      "id": "45306c4a-7617-42b1-aa82-ea9811964874",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人々は、アニメのファンが来るのを見て、うれしくなりました。商店街は、アニメのキャラクターのポスターを貼りました。お店でも、アニメのキャラクターのお菓子を売るようになりました。町はとてもにぎやかになりました。",
+      "translationZh": "镇上的人们看到动画粉丝的到来，感到很高兴。商店街贴上了动画角色的海报。店里也开始卖动画角色的点心。小镇变得非常热闹。",
+      "translationEn": "The townspeople were happy to see anime fans visiting. The shopping street put up posters of anime characters. Shops also started selling sweets featuring anime characters. The town became very lively.",
+      "id": "c546556a-aa94-41f7-8db7-366257438d91",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町おこしのイベントも開かれました。アニメの声優さんが来たり、ファンが集まるイベントがありました。町の人とファンが話しをしました。町は、アニメのおかげで、新しい命が吹き込まれたようでした。",
+      "translationZh": "还举办了振兴小镇的活动。动画的声优来了，还有粉丝聚集的活动。镇上的人和粉丝进行了交流。小镇仿佛因为动画而获得了新生。",
+      "translationEn": "Events to revitalize the town were also held. Anime voice actors came, and there were events where fans gathered. Townspeople and fans talked with each other. The town seemed to have been breathed new life thanks to the anime.",
+      "id": "6968c332-a6f1-4c76-b836-9c58e1663ba1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの聖地になったことは、町にとって大きなチャンスです。町の人々は、これからもアニメを大切にしたいと思っています。町は、アニメと一緒に、もっともっと元気になっていくでしょう。",
+      "translationZh": "成为动画圣地，对小镇来说是一个巨大的机会。镇上的人们希望今后也珍惜这部动画。小镇将与动画一起，变得越来越有活力。",
+      "translationEn": "Becoming an anime 'sacred place' is a great opportunity for the town. The townspeople want to cherish the anime in the future as well. The town will likely become more and more vibrant along with the anime.",
+      "id": "83b7a868-d395-45a0-aefe-83bd24d8cce8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつも人が多いです。",
+      "id": "70948e7c-6668-4fa8-bdc9-a077d6cbf62e"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有精神；活力",
+      "meaningEn": "energy; spirit; vitality",
+      "level": "n5n4",
+      "exampleSentence": "元気な子供たちが走っています。",
+      "id": "0851bead-03ed-4635-9f8d-338d841b2808"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台；背景",
+      "meaningEn": "stage; setting",
+      "level": "n5n4",
+      "exampleSentence": "この町は有名な映画の舞台になりました。",
+      "id": "00b01235-e6bd-4dfd-8315-60192d67ca31"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎；人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌はとても人気があります。",
+      "id": "34e4e31b-e973-4cb7-b81e-2fd7def04066"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はその歌手のファンです。",
+      "id": "0a2d3c01-e805-48f6-b01a-0339e6108239"
+    },
+    {
+      "word": "ポスター",
+      "reading": "ぽすたー",
+      "meaningZh": "海报",
+      "meaningEn": "poster",
+      "level": "n5n4",
+      "exampleSentence": "部屋に好きなアイドルのポスターを貼りました。",
+      "id": "3a885a53-cbc1-4a3e-99c7-755640a04a7b"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaningZh": "点心；零食",
+      "meaningEn": "sweets; snacks",
+      "level": "n5n4",
+      "exampleSentence": "子供たちはお菓子が大好きです。",
+      "id": "87206df7-e759-47e9-ac74-5c575729d2da"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively; bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとてもにぎやかでした。",
+      "id": "929980e8-8941-46ef-aacc-c2d1d25e48ce"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの聖地になった町は、前はどうでしたか？",
+      "options": [
+        "とても元気でした",
+        "お客さんが多かったです",
+        "元気がない町でした",
+        "町は大きかったです"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔、ある町に小さな商店街がありました。でも、お客さんが少なくなって、元気がない町でした。",
+      "id": "e7c9cf20-6bbb-4704-8e20-db987b17cd53"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-01-fbd00c5843",
+  "publishedAt": "2026-09-01T06:00:00+09:00"
+}

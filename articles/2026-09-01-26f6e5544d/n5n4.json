@@ -1,0 +1,122 @@
+{
+  "title": "秋の味覚！限定スイーツ",
+  "summary": "秋は美味しいものがたくさんあります。お店には新しい限定商品が出ました。ぜひ見てみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋になりました。空が青くて、空気がきれいです。この季節は美味しいものがたくさんあります。特に、栗（くり）やさつまいもを使ったお菓子は人気です。",
+      "translationZh": "秋天到了。天空是蓝色的，空气很清新。这个季节有很多美味的食物。特别是用栗子和红薯做的点心很受欢迎。",
+      "translationEn": "Autumn has arrived. The sky is blue and the air is clear. There are many delicious foods in this season. Especially, sweets made with chestnuts and sweet potatoes are popular.",
+      "id": "be94e6e4-374b-4eaf-8778-12ad96c1c17c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、デパートやコンビニに新しい限定商品がたくさん出ました。例えば、栗のモンブランや、さつまいものケーキです。見た目もきれいで、味もとてもおいしいです。",
+      "translationZh": "最近，百货公司和便利店推出了很多新的限定商品。例如，栗子蒙布朗蛋糕和红薯蛋糕。它们看起来很漂亮，味道也非常好吃。",
+      "translationEn": "Recently, department stores and convenience stores have released many new limited products. For example, chestnut Mont Blanc and sweet potato cakes. They look beautiful and taste very delicious.",
+      "id": "be102964-9667-4963-b27f-ff9956ec4179",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの限定商品は、期間限定（きかんげんてい）です。すぐになくなってしまうかもしれません。秋の味覚を楽しむために、早くお店に行きましょう。",
+      "translationZh": "这些限定商品是限时供应的。可能很快就会售罄。为了享受秋天的美味，我们快点去商店吧。",
+      "translationEn": "These limited products are available for a limited time. They might sell out soon. Let's go to the store quickly to enjoy the taste of autumn.",
+      "id": "f69c2b39-29d7-4c6f-8e72-8a8d91340445",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お友達や家族と一緒に、新しいお菓子を試すのも楽しいです。皆で「おいしいね」と言いながら食べるのは、もっと楽しい時間になります。",
+      "translationZh": "和朋友或家人一起尝试新点心也很有趣。大家一边说“真好吃啊”，一边吃，会是更开心的时光。",
+      "translationEn": "It is also fun to try new sweets with friends or family. Eating together while saying 'This is delicious!' makes the time even more enjoyable.",
+      "id": "f56f52c2-0712-40ae-bd56-4f8a4294c198",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "栗",
+      "reading": "くり",
+      "meaningZh": "栗子",
+      "meaningEn": "chestnut",
+      "level": "n5n4",
+      "exampleSentence": "栗ごはんはおいしいです。",
+      "id": "dffb112a-e917-4c0d-aeda-a623124c8d0c"
+    },
+    {
+      "word": "さつまいも",
+      "reading": "さつまいも",
+      "meaningZh": "红薯",
+      "meaningEn": "sweet potato",
+      "level": "n5n4",
+      "exampleSentence": "さつまいもは甘いです。",
+      "id": "609c8018-d62a-4f16-90db-6579a63b291e"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaningZh": "点心，零食",
+      "meaningEn": "sweets, snacks",
+      "level": "n5n4",
+      "exampleSentence": "私は甘いお菓子が好きです。",
+      "id": "656790bd-73d4-4fdd-889f-3be995155bb6"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "これは限定のバッグです。",
+      "id": "90427a12-86f8-48d6-bbfd-7467bfb11a51"
+    },
+    {
+      "word": "期間限定",
+      "reading": "きかんげんてい",
+      "meaningZh": "限时",
+      "meaningEn": "limited time",
+      "level": "n5n4",
+      "exampleSentence": "このセールは期間限定です。",
+      "id": "3354536e-fe29-4dab-94ca-19af359bb268"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味觉，味道",
+      "meaningEn": "taste",
+      "level": "n5n4",
+      "exampleSentence": "秋は味覚の秋です。",
+      "id": "63807d31-078a-4e54-b35b-50cc594eed00"
+    },
+    {
+      "word": "デパート",
+      "reading": "でぱーと",
+      "meaningZh": "百货公司",
+      "meaningEn": "department store",
+      "level": "n5n4",
+      "exampleSentence": "新しい服をデパートで買いました。",
+      "id": "ce2f909e-8d5c-437f-880c-2c92b9b4c8df"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "秋の限定商品で人気があるものは何ですか。",
+      "options": [
+        "栗やさつまいもを使ったお菓子",
+        "チョコレート",
+        "アイスクリーム",
+        "パン"
+      ],
+      "correctIndex": 0,
+      "explanation": "例えば、栗のモンブランや、さつまいも のケーキです。見た目もきれいで、味もとてもおいしいです。",
+      "id": "2542b3ae-a929-4b38-85dc-22263309bbc1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-01-26f6e5544d",
+  "publishedAt": "2026-09-01T06:00:00+09:00"
+}
