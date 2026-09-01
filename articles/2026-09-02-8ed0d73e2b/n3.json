@@ -1,0 +1,126 @@
+{
+  "title": "若者が支える、日本の伝統的な祭り",
+  "summary": "近年、日本各地の伝統的な祭りで、若い世代が継承者として重要な役割を果たす動きが見られます。これは、祭りの文化を守り、未来へ繋ぐための大切な試みです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、地域ごとに特色ある様々なお祭りが存在しますが、少子高齢化の影響でお祭りの担い手不足が課題となっています。しかし、最近では、若い世代が積極的に祭りに参加し、伝統を守りながら新しいアイデアを取り入れる動きも広がっています。例えば、SNSを活用してお祭りの魅力を発信したり、現代風の衣装を取り入れたりする試みも見られます。",
+      "translationZh": "日本各地存在着各具特色的祭典，但少子化和老龄化导致祭典传承人不足已成为一个问题。然而，近来，年轻一代积极参与祭典，在传承传统的同时融入新想法的趋势也在扩大。例如，可以看到利用社交媒体宣传祭典魅力，或引入现代风格服装的尝试。",
+      "translationEn": "Japan has various festivals with unique characteristics in each region, but the shortage of festival participants is a challenge due to the declining birthrate and aging population. However, recently, there is a growing movement where younger generations actively participate in festivals, preserving traditions while incorporating new ideas. For instance, efforts are being made to promote the appeal of festivals using social media and to introduce modern-style costumes.",
+      "id": "f0018283-a439-4d09-9d76-76548aa21019",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "伝統的な祭りを継承していくためには、地域住民の協力が不可欠です。若い世代がお祭りの歴史や意義を学ぶ機会を増やすことで、自然と祭りを自分たちのものとして捉えられるようになります。また、祭りの準備や運営に若者が主体的に関わることで、責任感も育まれ、次世代への継承がスムーズに進むでしょう。",
+      "translationZh": "要传承传统的祭典，地区居民的合作是必不可少的。通过增加年轻人学习祭典历史和意义的机会，他们就能自然而然地将祭典视为自己的事。此外，让年轻人主动参与祭典的准备和运营，也能培养他们的责任感，促进向下一代的顺利传承。",
+      "translationEn": "To pass on traditional festivals, the cooperation of local residents is essential. By increasing opportunities for younger generations to learn about the history and significance of festivals, they will naturally come to see the festivals as their own. Furthermore, having young people take the initiative in preparing and operating festivals will foster a sense of responsibility and facilitate a smooth succession to the next generation.",
+      "id": "f31b6e07-bbd0-4111-a561-3e5795cc9ba2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "祭りは、単なるイベントではなく、地域の人々を結びつけ、共同体意識を育む大切な文化です。若年層が祭りの担い手となることで、その文化はより活性化し、地域社会全体に活気をもたらすことが期待されます。これからも、各地のお祭りが、世代を超えて愛され続けることを願っています。",
+      "translationZh": "祭典不仅仅是一个活动，更是连接地区人民、培养共同体意识的重要文化。随着年轻一代成为祭典的传承者，这种文化将更加活跃，并有望为整个地区社会带来活力。我们希望今后各地的祭典能够跨越世代，持续受到人们的喜爱。",
+      "translationEn": "Festivals are not just events, but important cultures that connect local people and foster a sense of community. As the younger generation becomes the torchbearers of festivals, these traditions are expected to become more vibrant and bring vitality to the entire local community. We hope that festivals across the country will continue to be loved by people of all generations.",
+      "id": "3a829e00-8eb0-4efd-8e67-181b44442be4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "担い手",
+      "reading": "にないて",
+      "meaningZh": "承担者，负责人",
+      "meaningEn": "person in charge, supporter, bearer",
+      "level": "n3",
+      "exampleSentence": "この祭りの新しい担い手は若者たちだ。",
+      "id": "eea2cba1-2947-4123-af18-d04c81206f16"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "task, challenge, issue",
+      "level": "n3",
+      "exampleSentence": "人口減少は多くの地域にとって大きな課題です。",
+      "id": "8ee03be2-cc2a-4d3d-bf20-5e21c74d079a"
+    },
+    {
+      "word": "視野",
+      "reading": "しや",
+      "meaningZh": "视野，眼界",
+      "meaningEn": "view, field of vision, perspective",
+      "level": "n3",
+      "exampleSentence": "若い世代が新しい視点をもたらしてくれる。",
+      "id": "f241ace4-1b1b-4609-a214-9b840ef6b64c"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "vigor, animation, spirit",
+      "level": "n3",
+      "exampleSentence": "祭りは町に活気をもたらした。",
+      "id": "b774eaec-885b-433e-a854-0e94ca649ab4"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n3",
+      "exampleSentence": "この祭りは長い伝統を持っています。",
+      "id": "c5227d4a-44da-4bbc-8d9e-e29026a85fbd"
+    },
+    {
+      "word": "継承",
+      "reading": "けいしょう",
+      "meaningZh": "继承，传承",
+      "meaningEn": "succession, inheritance",
+      "level": "n3",
+      "exampleSentence": "古い技術を若い世代に継承することが大切だ。",
+      "id": "9d3d1008-8fd4-42e1-affb-1598a1e78261"
+    },
+    {
+      "word": "主体的に",
+      "reading": "しゅたいてきに",
+      "meaningZh": "主动地",
+      "meaningEn": "actively, on one's own initiative",
+      "level": "n3",
+      "exampleSentence": "彼は会議に主体的に参加した。",
+      "id": "75d4f556-2d04-4759-8264-820f3412f0b8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "近年、日本の祭りで見られるようになった動きは何ですか？",
+      "options": [
+        "祭りの規模が縮小している",
+        "若い世代が祭りの継承に積極的に関わっている",
+        "祭りの参加者が高齢者ばかりになっている",
+        "祭りの内容がすべて新しくなっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「最近では、若い世代が積極的に祭りに参加し、伝統を守りながら新しいアイデアを取り入れる動きも広がっています。」と述べられています。",
+      "id": "a0453291-0162-4e0a-89c7-35a1c8b8ab03"
+    },
+    {
+      "question": "伝統的な祭りを次世代へ継承するために、どのようなことが重要だと述べられていますか？",
+      "options": [
+        "祭りの参加費を高くすること",
+        "若い世代が祭りの歴史や意義を学ぶ機会を増やすこと",
+        "祭りの運営をすべて専門家に任せること",
+        "祭りの日程を平日のみにすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「若い世代がお祭りの歴史や意義を学ぶ機会を増やすことで、自然と祭りを自分たちのものとして捉えられるようになります。」と書かれています。",
+      "id": "114e0415-26cb-449f-9b85-a9bf9f79cc38"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-02-8ed0d73e2b",
+  "publishedAt": "2026-09-02T06:00:00+09:00"
+}

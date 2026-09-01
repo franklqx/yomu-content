@@ -1,0 +1,122 @@
+{
+  "title": "新しいクラウドサービス！",
+  "summary": "個人開発者向けに新しいクラウドサービスが出ました。とても便利です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、個人開発者にとって便利な新しいクラウドサービスが発表されました。このサービスは、プログラムを作るのを助けてくれます。たくさんの機能が最初から用意されています。",
+      "translationZh": "最近，一个对个人开发者来说很方便的新云服务发布了。这个服务可以帮助制作程序。很多功能一开始就准备好了。",
+      "translationEn": "Recently, a new cloud service convenient for individual developers was announced. This service helps create programs. Many functions are prepared from the beginning.",
+      "id": "e5a06084-eb26-4cc3-b11b-888c68a5acb9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスを使うと、開発者はもっと早くアプリを作れます。例えば、データを入れる場所や、プログラムを動かす場所などが簡単に使えます。だから、色々なアイデアを試す時間がもっとできます。",
+      "translationZh": "使用这个服务，开发者可以更快地制作应用程序。例如，存放数据的地点、运行程序的地点等都可以简单使用。所以，可以有更多时间尝试各种想法。",
+      "translationEn": "By using this service, developers can create apps faster. For example, places to store data and places to run programs can be easily used. Therefore, there is more time to try various ideas.",
+      "id": "302b1b0a-243d-47c1-8a47-daa0e41a9721",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今までのサービスは、少し難しかったです。でも、この新しいサービスは使いやすいように作られています。初心者でもすぐに使い始めることができます。値段も手頃なので、多くの人が利用しやすいでしょう。",
+      "translationZh": "以前的服务有点难。但是，这个新服务是为易于使用而设计的。即使是初学者也可以马上开始使用。价格也很实惠，所以很多人应该都能容易地使用。",
+      "translationEn": "Previous services were a bit difficult. However, this new service is designed to be easy to use. Even beginners can start using it right away. The price is also reasonable, so many people will likely find it easy to use.",
+      "id": "115cd9eb-1520-4709-ae28-787ff09a4782",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "個人開発者にとって、この新しいクラウドサービスはとても良い機会です。新しいものを作りたい人や、自分のアイデアを形にしたい人は、ぜひ試してみてください。",
+      "translationZh": "对于个人开发者来说，这个新的云服务是一个非常好的机会。想制作新东西的人、想将自己的想法变成现实的人，请一定要试试看。",
+      "translationEn": "For individual developers, this new cloud service is a very good opportunity. People who want to create new things or want to give shape to their ideas should definitely try it.",
+      "id": "8b26ae29-014d-4077-9245-deb61192e415",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "開発者",
+      "reading": "かいはつしゃ",
+      "meaningZh": "开发者",
+      "meaningEn": "developer",
+      "level": "n5n4",
+      "exampleSentence": "彼は優秀な開発者です。",
+      "id": "9ab7203d-a17d-4697-aa48-369cfa17cfc2"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "f2b46cd3-e509-44bf-8ea7-a512805491a0"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaningZh": "发布；发表",
+      "meaningEn": "announcement; presentation",
+      "level": "n5n4",
+      "exampleSentence": "新しい製品が発表されました。",
+      "id": "1fafc18e-8f34-4668-9abf-f25c4679b8a9"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaningZh": "功能",
+      "meaningEn": "function; feature",
+      "level": "n5n4",
+      "exampleSentence": "このカメラには多くの機能があります。",
+      "id": "4d1b779d-5cb1-4192-a375-5769a521d8ea"
+    },
+    {
+      "word": "用意",
+      "reading": "ようい",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "パーティーの準備ができました。",
+      "id": "0a57f8e9-8a01-4de4-8101-1aa11dc8bf9f"
+    },
+    {
+      "word": "試す",
+      "reading": "ためす",
+      "meaningZh": "尝试",
+      "meaningEn": "to try",
+      "level": "n5n4",
+      "exampleSentence": "新しい味を試しました。",
+      "id": "c58232c8-9542-48e5-9787-8b76afb782e2"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "f14b6486-90da-4e0d-bad0-1a02a5d83b87"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この新しいクラウドサービスは、誰にとって便利ですか。",
+      "options": [
+        "全ての会社",
+        "個人開発者",
+        "学生",
+        "先生"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事には「個人開発者にとって便利な新しいクラウドサービス」と書かれています。",
+      "id": "dffbfb0d-044a-4e98-9ab5-8ef5e2f86cd5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-02-d45eea2235",
+  "publishedAt": "2026-09-02T06:00:00+09:00"
+}

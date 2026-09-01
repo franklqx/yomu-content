@@ -1,0 +1,122 @@
+{
+  "title": "お祭りの未来、若者が守る",
+  "summary": "日本の各地でお祭りが開かれます。最近、若い人たちがお祭りを引き継いでいます。それはとても良いことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、たくさんの大切なお祭りがあります。夏には花火大会、秋には紅葉祭りなど、季節ごとに違ったお祭りがあります。これらの祭りは、昔から地域の人々が集まる大切な行事です。",
+      "translationZh": "日本有很多重要的祭典。夏天有烟火大会，秋天有红叶祭等，每个季节都有不同的祭典。这些祭典自古以来就是当地人们聚集的重要活动。",
+      "translationEn": "Japan has many important festivals. There are festivals for each season, like fireworks festivals in summer and autumn leaf festivals in fall. These festivals have long been important events where local people gather.",
+      "id": "f92ed3c5-3b47-41cf-be9e-865b231f06ed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近、お祭りを続けるのが難しくなってきました。若い人が減ったり、忙しくなったりして、祭りの準備や手伝いをする人が少なくなっています。",
+      "translationZh": "但是，最近，继续举办祭典变得有些困难。年轻人减少了，或者变得很忙，所以准备和帮忙祭典的人变少了。",
+      "translationEn": "However, recently, it has become difficult to continue the festivals. The number of young people has decreased, or they have become busy, so fewer people are preparing for and helping with the festivals.",
+      "id": "52f7882c-8114-470a-bfc0-1ebc2f2f731e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、安心してください。全国各地で、若い人たちが祭りを引き継ごうと頑張っています。彼らは新しいアイデアを出したり、SNSで祭りの情報を広めたりしています。",
+      "translationZh": "但是，请安心。在全国各地，年轻人们正努力接过祭典的传承。他们提出了新点子，并且通过SNS传播祭典的信息。",
+      "translationEn": "But please be relieved. Young people across the country are working hard to take over the festivals. They are coming up with new ideas and spreading festival information on social media.",
+      "id": "f7dbef4e-ff3c-492f-af36-8ad86541f34c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "若い人たちの力で、お祭りはこれからも続いていくでしょう。昔からの文化が、新しい形で受け継がれていくのは、とても素晴らしいことです。",
+      "translationZh": "凭借年轻人的力量，祭典将会继续下去。将自古以来的文化以新的形式传承下去，这是一件非常美好的事情。",
+      "translationEn": "With the power of young people, the festivals will continue in the future. It is a wonderful thing that traditional culture is being passed down in a new form.",
+      "id": "4401c24a-945b-46e6-91cc-c11bcf08c3ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "祭り",
+      "reading": "まつり",
+      "meaningZh": "祭典，节日",
+      "meaningEn": "festival",
+      "level": "n5n4",
+      "exampleSentence": "夏に大きな祭りがあります。",
+      "id": "2f03e007-7555-419c-922a-bfb99f3c5274"
+    },
+    {
+      "word": "各地",
+      "reading": "かくち",
+      "meaningZh": "各地，各处",
+      "meaningEn": "various places",
+      "level": "n5n4",
+      "exampleSentence": "各地から観光客が来ます。",
+      "id": "1cbc6928-88ec-4063-aa11-8160b25f03e8"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningEn": "young people",
+      "meaningZh": "年轻人",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "9fb1c7df-318f-4a74-9494-2c36445e28c4"
+    },
+    {
+      "word": "継承",
+      "reading": "けいしょう",
+      "meaningZh": "继承，传承",
+      "meaningEn": "inheritance, succession",
+      "level": "n3",
+      "exampleSentence": "伝統技術の継承が課題です。",
+      "id": "7bfb4ab4-cf12-4f7f-9273-7af5a1d95cc5"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要，珍贵",
+      "meaningEn": "important, precious",
+      "level": "n5n4",
+      "exampleSentence": "家族との時間は大切です。",
+      "id": "23bdd2be-8d7e-44ea-b5b9-947c30ad381b"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n3",
+      "exampleSentence": "これは私たちの国の伝統です。",
+      "id": "fdf53ed2-ec8d-4f9c-bfaf-22472f39a1cc"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化を学びたいです。",
+      "id": "9c20b6fe-ef80-4168-81db-a53297184429"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ、お祭りを続けるのが難しくなってきましたか？",
+      "options": [
+        "若い人が祭りに興味がないから",
+        "祭りの準備をする人が少なくなったから",
+        "お祭りがつまらなくなったから",
+        "お金がなくなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「若い人が減ったり、忙しくなったりして、祭りの準備や手伝いをする人が少なくなっています。」",
+      "id": "949f2d9a-97dc-47f7-9ad9-1818e3a5b559"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-02-8ed0d73e2b",
+  "publishedAt": "2026-09-02T06:00:00+09:00"
+}

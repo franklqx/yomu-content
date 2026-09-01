@@ -1,0 +1,122 @@
+{
+  "title": "若い人の田舎暮らし",
+  "summary": "若い人が田舎（いなか）に住むのを応援する制度（せいど）が変わります。もっと多くの人が田舎で暮らせるようになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人が田舎（いなか）に住むのを助ける制度（せいど）が見直（みなお）されています。これは、都市部（としぶ）から地方（ちほう）へ移り住む人への支援（しえん）をより良くするためです。",
+      "translationZh": "最近，帮助年轻人移居农村的制度正在被重新审视。这是为了更好地支持从城市地区迁往地方的人们。",
+      "translationEn": "Recently, the system to help young people move to the countryside is being reviewed. This is to better support people moving from urban areas to rural areas.",
+      "id": "efcd92ca-d81c-4582-98b8-9e5dae1f778b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度は、仕事（しごと）がない、または少ない地域（ちいき）で、新しい仕事を見つけたり、起業（きぎょう）したりする若者（わかもの）を応援します。引っ越し（ひっこし）の費用（ひよう）を助けたり、住む場所（ばしょ）を見つけるのを手伝ったりします。",
+      "translationZh": "这项制度支持在工作机会少或没有工作的地区，寻找新工作或创业的年轻人。它会帮助支付搬家费用，并协助寻找住所。",
+      "translationEn": "This system supports young people who find new jobs or start businesses in areas with few or no job opportunities. It helps with moving expenses and finding a place to live.",
+      "id": "8d2f4ccd-185a-4bdd-835f-6a12d4f39886",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "制度が変わることで、もっと多くの若い人が地方での新しい生活（せいかつ）を始（はじ）められるようになることが期待（きたい）されています。これにより、地方の活性化（かっせいか）につながるかもしれません。",
+      "translationZh": "随着制度的改变，人们期待会有更多的年轻人能够开始在地方的新生活。这或许能促进地方的振兴。",
+      "translationEn": "With the changes to the system, it is expected that more young people will be able to start new lives in rural areas. This may lead to the revitalization of local regions.",
+      "id": "45c25270-1623-4d94-9c5c-d5395fae064f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方には、自然（しぜん）がたくさんあり、静（しず）かで住みやすい場所も多いです。この制度が、若い人たちが地方で活躍（かつやく）するきっかけになれば良いですね。",
+      "translationZh": "地方有许多大自然，也有很多安静宜居的地方。如果这项制度能成为年轻人积极投身地方活动的契机就太好了。",
+      "translationEn": "Rural areas have abundant nature and many quiet, livable places. It would be good if this system could be a catalyst for young people to thrive in local areas.",
+      "id": "e0f2e500-e2ef-4649-b57e-043cb1f81ebc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体制",
+      "meaningEn": "system, institution",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度が始まりました。",
+      "id": "639e4dda-957e-462c-a0cb-ac836a604efb"
+    },
+    {
+      "word": "見直す",
+      "reading": "みなおす",
+      "meaningZh": "重新审视，修正",
+      "meaningEn": "to review, to revise",
+      "level": "n5n4",
+      "exampleSentence": "計画を見直す必要があります。",
+      "id": "54606830-624d-43b0-a8ba-b93f60297468"
+    },
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "市区，都市地区",
+      "meaningEn": "urban area",
+      "level": "n5n4",
+      "exampleSentence": "都市部には人が多いです。",
+      "id": "a113cd2e-7450-4f83-bfd0-a3ecd05a7edf"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "rural area, region",
+      "level": "n5n4",
+      "exampleSentence": "地方は静かです。",
+      "id": "34f11cc9-e608-4e77-80df-9b87d249cce2"
+    },
+    {
+      "word": "支援",
+      "reading": "しえん",
+      "meaningZh": "支援，援助",
+      "meaningEn": "support, assistance",
+      "level": "n5n4",
+      "exampleSentence": "政府は中小企業を支援します。",
+      "id": "8723dcba-8b8a-4129-8700-83e2737cb66b"
+    },
+    {
+      "word": "起業",
+      "reading": "きぎょう",
+      "meaningZh": "创业",
+      "meaningEn": "starting a business, entrepreneurship",
+      "level": "n3",
+      "exampleSentence": "彼は新しい会社を起業しました。",
+      "id": "2ac77b3b-cbd6-43c7-bd14-e818f5cfb8ed"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，振兴",
+      "meaningEn": "revitalization, activation",
+      "level": "n3",
+      "exampleSentence": "地域経済の活性化が大切です。",
+      "id": "20bed492-e2ad-4f66-a61a-65655831e2a7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、若い人の地方移住（いちゅう）を助ける制度（せいど）は何のために見直（みなお）されていますか？",
+      "options": [
+        "もっと多くの若者が田舎（いなか）に住みやすくするため。",
+        "都市部（としぶ）に住む人を増やすため。",
+        "新しい仕事（しごと）をなくすため。",
+        "引っ越し（ひっこし）の費用（ひよう）を全部（ぜんぶ）なくすため。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「これは、都市部（としぶ）から地方（ちほう）へ移り住む人への支援（しえん）をより良くするためです。」とあります。",
+      "id": "ae980b6b-2747-4acd-a366-45c50e8715b0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-02-064b73f043",
+  "publishedAt": "2026-09-02T06:00:00+09:00"
+}
