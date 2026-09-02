@@ -1,0 +1,138 @@
+{
+  "title": "増加するロボット案内員、都市の風景を変える",
+  "summary": "都市部を中心に、ロボットによる案内サービスの導入が急速に進んでいます。これは、人手不足の解消やサービス向上への期待から、多くの施設で検討・実施されているためです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、駅や商業施設、観光地など、都市部の様々な場所でロボットが案内業務を担う姿が見られるようになってきた。これらは、多言語対応や24時間稼働が可能であることから、増加する外国人観光客への対応や、慢性的な人手不足に悩む業界にとって、有効な解決策として期待されている。特に、最新のAI技術を搭載したロボットは、利用者の質問に対して、より自然で的確な情報提供ができるようになってきており、その実用性は高まっていると言えるだろう。",
+      "translationZh": "近年来，在车站、商业设施、观光地等城市各处，可以看到机器人承担案内工作的身影。由于它们能够进行多语言対応和24小时运转，被寄予厚望，认为这是应对日益增多的外国游客和解决长期人手不足的有效方案。特别是搭载了最新AI技术的机器人，能够对利用者的提问提供更自然、更准确的信息，其实用性可以说正在不断提高。",
+      "translationEn": "In recent years, robots have increasingly been seen performing guidance duties in various urban locations such as stations, commercial facilities, and tourist spots. Due to their ability to handle multiple languages and operate 24 hours a day, they are expected to be an effective solution for dealing with the growing number of foreign tourists and for industries suffering from chronic labor shortages. In particular, robots equipped with the latest AI technology are becoming capable of providing more natural and accurate information in response to user inquiries, indicating that their practicality is on the rise.",
+      "id": "a8026452-d9b2-43ef-90b4-963e8c32b570",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員の導入は、単に人件費の削減に留まらず、顧客体験の向上にも寄与すると見られている。例えば、混雑時でも待たされることなく、即座に情報が得られる点は、利用者にとって大きなメリットである。また、感情を持たないロボットだからこそ、常に一定の丁寧な対応を保つことができ、サービス品質の均一化にも繋がるという側面もある。これにより、施設側は、より専門的な業務に人的リソースを集中させることが可能になるだろう。",
+      "translationZh": "机器人案内员的引入，不仅限于削减人工成本，也被认为有助于提升顾客体验。例如，即使在高峰时段，利用者也无需等待即可立即获得信息，这对利用者来说是一大优势。此外，正因为机器人没有感情，所以能够始终保持一定的丁寧对应，这也有助于服务质量的均一化。通过这种方式，设施方可以将更多的人力资源集中于更专业的业务上。",
+      "translationEn": "The introduction of robot guides is seen as contributing not only to labor cost reduction but also to the enhancement of customer experience. For instance, the ability to obtain information instantly without waiting, even during busy periods, is a significant advantage for users. Furthermore, precisely because robots lack emotions, they can consistently maintain a polite demeanor, which also leads to the standardization of service quality. This allows facilities to concentrate human resources on more specialized tasks.",
+      "id": "ad993257-da87-493a-8c75-24780791e6ea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、ロボット案内員の普及に伴い、新たな課題も浮上している。例えば、高齢者やテクノロジーに不慣れな人々への配慮、予期せぬトラブル発生時の対応、そして、ロボットの導入によって失われる人間的な温かみやコミュニケーションといった側面への懸念などが挙げられる。これらの課題に対し、人間によるサポート体制との連携や、より直感的で分かりやすいインターフェースの開発など、多角的なアプローチによる解決策が求められている。",
+      "translationZh": "另一方面，随着机器人案内员的普及，新的课题也浮出水面。例如，对老年人或不熟悉技术的人的关怀，发生意外故障时的应对，以及对因机器人引入而失去的人情味和交流等方面的担忧。针对这些课题，需要通过与人工支持系统的协作、开发更直观易懂的界面等多种途径来寻求解决方案。",
+      "translationEn": "On the other hand, with the spread of robot guides, new challenges are emerging. These include considerations for the elderly and those unfamiliar with technology, responses in case of unexpected malfunctions, and concerns about the loss of human warmth and communication that might result from robot adoption. To address these issues, multifaceted approaches are required, such as collaboration with human support systems and the development of more intuitive and user-friendly interfaces.",
+      "id": "13895561-1a66-4256-bb81-91bd0d9198a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "导游，引导员",
+      "meaningEn": "guide, attendant",
+      "level": "n3",
+      "exampleSentence": "観光地では、多くの案内員が観光客の質問に答えていた。",
+      "id": "6b55ff36-4bb5-40cc-a879-2fc9b5bce75e"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "引入，采纳",
+      "meaningEn": "introduction, adoption",
+      "level": "n2n1",
+      "exampleSentence": "新しいシステムが会社に導入されることになった。",
+      "id": "9f95fe20-e061-4fef-8fde-3ea455ad1ece"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n2n1",
+      "exampleSentence": "この地域では、飲食業界を中心に深刻な人手不足が続いている。",
+      "id": "f8a479b1-5988-4c1b-820b-14c078301dea"
+    },
+    {
+      "word": "多言語対応",
+      "reading": "たげんごたいおう",
+      "meaningZh": "多语言支持",
+      "meaningEn": "multilingual support",
+      "level": "n2n1",
+      "exampleSentence": "ホテルのウェブサイトは、多言語対応がされており、外国人観光客にも便利だ。",
+      "id": "e4d6abc2-f527-485e-91c0-7c36328ff375"
+    },
+    {
+      "word": "顧客体験",
+      "reading": "こきゃくたいけん",
+      "meaningZh": "顾客体验",
+      "meaningEn": "customer experience",
+      "level": "n2n1",
+      "exampleSentence": "サービス向上の一環として、顧客体験の改善に力を入れている。",
+      "id": "3cc40972-b93a-4280-a800-f13e68835b0c"
+    },
+    {
+      "word": "懸念",
+      "reading": "けねん",
+      "meaningZh": "担忧，担心",
+      "meaningEn": "concern, worry",
+      "level": "n2n1",
+      "exampleSentence": "将来に対する懸念から、貯蓄を増やすことにした。",
+      "id": "2340ea60-d94e-4a33-94f2-1c0445c02ee4"
+    },
+    {
+      "word": "浮上",
+      "reading": "ふじょう",
+      "meaningZh": "出现，显现",
+      "meaningEn": "emerge, come to the surface",
+      "level": "n2n1",
+      "exampleSentence": "会議で、いくつかの新しい問題点が浮上した。",
+      "id": "4cc44e6e-3ee8-49dd-aadf-f2134be75428"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が都市部で増えている主な理由は何ですか？",
+      "options": [
+        "人件費を大幅に削減できるから",
+        "人手不足の解消とサービス向上が期待できるから",
+        "AI技術の発展により、人間よりも優れた案内ができるから",
+        "利用者がロボットとの会話を好む傾向にあるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「人手不足の解消やサービス向上への期待から、多くの施設で検討・実施されているためです。」と記載されている。",
+      "id": "f7d95781-969b-4987-9ab9-5e2f28118d7e"
+    },
+    {
+      "question": "ロボット案内員の導入によるメリットとして、本文で述べられていないものはどれですか？",
+      "options": [
+        "常に一定の丁寧な対応が可能になる",
+        "混雑時でも待たずに情報が得られる",
+        "感情を持たないため、利用者の不満を気にしない",
+        "専門的な業務に人的リソースを集中できる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段には、ロボットが感情を持たないため、常に一定の丁寧な対応を保つことができると述べられているが、利用者の不満を気にしないという直接的な記述はない。むしろ、人間的な温かみやコミュニケーションの側面への懸念が第三段で触れられている。",
+      "id": "068b48d3-0a2e-4f7d-8a5a-ccfa1ee09388"
+    },
+    {
+      "question": "ロボット案内員の普及に伴う課題として、本文で挙げられているのはどれですか？",
+      "options": [
+        "ロボットの製造コストが高すぎること",
+        "人間によるサポート体制が不要になること",
+        "テクノロジーに不慣れな人々への配慮や人間的な温かみの喪失",
+        "案内できる情報が限定的であること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「高齢者やテクノロジーに不慣れな人々への配慮、そして、ロボットの導入によって失われる人間的な温かみやコミュニケーションといった側面への懸念などが挙げられる。」と記載されている。",
+      "id": "0f52039c-e914-449a-be16-01cdb2f9794d"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-03-b3f2035f3f",
+  "publishedAt": "2026-09-03T06:00:00+09:00"
+}

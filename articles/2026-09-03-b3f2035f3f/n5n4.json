@@ -1,0 +1,123 @@
+{
+  "title": "街にロボットが増えています",
+  "summary": "最近、街でロボットを見ることが多くなりました。特に、案内をするロボットが人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の都市部でロボットを見かけることが増えました。駅やデパートなどで、人々を案内するロボットが活躍しています。これらのロボットは、日本語や英語など、いくつかの言語で話すことができます。",
+      "translationZh": "最近，在日本的城市地区看到机器人的机会变多了。在车站或百货公司等地，为人们提供向导服务的机器人正在发挥作用。这些机器人可以用日语、英语等几种语言交谈。",
+      "translationEn": "Recently, we have seen more robots in urban areas of Japan. Robots that guide people are active in places like stations and department stores. These robots can speak several languages, such as Japanese and English.",
+      "id": "f55cfe0c-e525-4254-99d2-c27dd72b88de",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員は、道を聞かれたり、お店の場所を教えたりします。困っている人に優しく話しかけ、必要な情報を提供します。最新の技術を使っているので、とても賢いです。だから、多くの人がロボットを頼りにしています。",
+      "translationZh": "机器人向导会回答问路，或者告诉客人商店的位置。它们会亲切地与有困难的人交谈，并提供必要的信息。因为使用了最新的技术，所以它们非常聪明。因此，很多人都依赖机器人。",
+      "translationEn": "Robot guides are asked for directions or told the location of shops. They kindly talk to people who are in trouble and provide necessary information. They are very smart because they use the latest technology. Therefore, many people rely on robots.",
+      "id": "be74f8dd-c506-4e9b-ae7a-5123a2b80631",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、ロボットはまだ人間ではありません。感情がないので、冷たく感じる人もいます。これから、ロボットと人間が一緒に働く場面が増えるでしょう。お互いを理解し合うことが大切になってきます。",
+      "translationZh": "但是，机器人毕竟不是人类。因为没有感情，所以有些人会觉得它们很冷淡。今后，机器人和人类一起工作的场面会增加。互相理解变得很重要。",
+      "translationEn": "However, robots are not yet human. Since they have no emotions, some people feel they are cold. From now on, the scenes where robots and humans work together will increase. Mutual understanding will become important.",
+      "id": "eb499185-e1a7-428e-affe-16631845e3b5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市地区，市区",
+      "meaningEn": "urban area, city center",
+      "level": "n5n4",
+      "exampleSentence": "都市部には高いビルがたくさんあります。",
+      "id": "89733909-f104-4020-bb11-bdef838e74cd"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaningZh": "引导，向导",
+      "meaningEn": "guidance, information",
+      "level": "n5n4",
+      "exampleSentence": "駅員さんが切符の買い方を案内してくれました。",
+      "id": "47b8d7c6-206f-4baa-a882-afbe37860b78"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，活跃表现",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "新しい選手が試合で活躍しています。",
+      "id": "e3d2b99f-9c5a-4c74-8c1e-9dd29fcf2cf4"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "この新しい技術は素晴らしいです。",
+      "id": "59dc71dc-5690-4f57-b63f-df1e196c1a34"
+    },
+    {
+      "word": "賢い",
+      "reading": "かしこい",
+      "meaningZh": "聪明的，机灵的",
+      "meaningEn": "clever, intelligent",
+      "level": "n5n4",
+      "exampleSentence": "彼はとても賢い学生です。",
+      "id": "e345a161-eed0-4af7-87fe-d2e18521e083"
+    },
+    {
+      "word": "頼る",
+      "reading": "たよる",
+      "meaningZh": "依靠，依赖",
+      "meaningEn": "to rely on, to depend on",
+      "level": "n3",
+      "exampleSentence": "私はいつも父に頼っています。",
+      "id": "f42923fb-77d2-4b2e-b500-159dda38ac35"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaningZh": "感情",
+      "meaningEn": "emotion, feeling",
+      "level": "n3",
+      "exampleSentence": "彼は自分の感情をうまく表現できません。",
+      "id": "237c121c-1204-407e-a9b0-fb3132f7fc32"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaningZh": "理解",
+      "meaningEn": "understanding, comprehension",
+      "level": "n3",
+      "exampleSentence": "彼の話の意味を理解するのが難しいです。",
+      "id": "52b7f7d4-ef57-4ef7-9ea5-38c08efea306"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員は、どんなことができますか？",
+      "options": [
+        "人々の感情を理解する",
+        "道やお店の場所を教える",
+        "人間のように話す",
+        "疲れた人を休ませる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ロボット案内員は、道を聞かれたり、お店の場所を教えたりします。」と書かれています。",
+      "id": "03e5fc1f-e17b-4af6-959f-1c4148c3a5a8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-03-b3f2035f3f",
+  "publishedAt": "2026-09-03T06:00:00+09:00"
+}

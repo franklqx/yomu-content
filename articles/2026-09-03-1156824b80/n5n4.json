@@ -1,0 +1,122 @@
+{
+  "title": "若者に純喫茶が人気",
+  "summary": "最近、若い人たちの間で「純喫茶」が人気です。昔ながらの喫茶店に新しい魅力があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で「純喫茶」という言葉がよく聞かれます。純喫茶は、昔からある喫茶店のことです。コーヒーや紅茶、そして昔ながらのお菓子などを提供します。",
+      "translationZh": "最近，在年轻人中，“纯喫茶”这个词经常被听到。纯喫茶是指历史悠久的咖啡店。提供咖啡、红茶以及怀旧的点心等。",
+      "translationEn": "Recently, the word 'jun-kissa' (old-fashioned coffee shop) is often heard among young people. Jun-kissa are coffee shops that have been around for a long time. They serve coffee, tea, and traditional sweets.",
+      "id": "f4f32de8-6120-4e0a-859c-40b9a33e61b8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶の雰囲気は、とても落ち着いています。レトロなインテリアや、ゆったりとした音楽が流れています。静かな空間で、ゆっくりとした時間を過ごしたい人々に人気です。",
+      "translationZh": "纯喫茶的氛围非常宁静。有复古的内饰，播放着舒缓的音乐。在安静的空间里，它受到想度过悠闲时光的人们的欢迎。",
+      "translationEn": "The atmosphere of a jun-kissa is very calm. There is retro interior decoration, and relaxing music plays. It is popular with people who want to spend a slow time in a quiet space.",
+      "id": "609210d5-3103-4df8-b487-6b783e0fd7f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューも魅力的です。クリームソーダやプリンアラモードのような、懐かしい飲み物やデザートがあります。見た目も可愛らしく、写真映えすることも、若い人に人気な理由の一つです。",
+      "translationZh": "菜单也很有魅力。有鲜奶油苏打、布丁圣代等怀旧的饮品和甜点。外观也很可爱，上镜也是年轻人喜欢它的原因之一。",
+      "translationEn": "The menu is also attractive. There are nostalgic drinks and desserts like cream soda and purin a la mode. Their cute appearance and photogenic quality are also reasons why young people like them.",
+      "id": "763cdae9-c0b6-46ba-b66a-18be7d232bc2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "SNSで純喫茶の写真がたくさん見られます。新しいカフェとは違う、独特の魅力が純喫茶にはあります。これからも、純喫茶の人気は続くでしょう。",
+      "translationZh": "在社交媒体上可以看到很多纯喫茶的照片。纯喫茶有着与新式咖啡店不同的独特魅力。今后，纯喫茶的人气也将继续下去。",
+      "translationEn": "Many photos of jun-kissa can be seen on social media. Jun-kissa have a unique charm that is different from new cafes. The popularity of jun-kissa will likely continue in the future.",
+      "id": "214130a2-6d3d-4305-a358-758a7ac602b1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "その店は若者に人気です。",
+      "id": "53e3df9c-ffb8-48b9-a4ec-3425b40348b2"
+    },
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "纯喫茶（指怀旧风格的咖啡店）",
+      "meaningEn": "old-fashioned coffee shop",
+      "level": "n5n4",
+      "exampleSentence": "純喫茶でコーヒーを飲みました。",
+      "id": "1cf4e438-41b0-4baf-b289-5645889b1f0b"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "この部屋の雰囲気はいいですね。",
+      "id": "4785924d-b05a-43ca-8aa0-d5127ade63ac"
+    },
+    {
+      "word": "落ち着く",
+      "reading": "おちつく",
+      "meaningZh": "平静下来，安定",
+      "meaningEn": "to calm down, to feel at ease",
+      "level": "n3",
+      "exampleSentence": "静かな場所で落ち着きます。",
+      "id": "ab014f09-f757-4709-98b5-8e8dbd1241ae"
+    },
+    {
+      "word": "提供",
+      "reading": "ていきょう",
+      "meaningZh": "提供",
+      "meaningEn": "to offer, to provide",
+      "level": "n3",
+      "exampleSentence": "このレストランは美味しい料理を提供します。",
+      "id": "a668361b-12bd-436b-b904-a5fbbf14884d"
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningZh": "怀旧的，令人怀念的",
+      "meaningEn": "nostalgic",
+      "level": "n5n4",
+      "exampleSentence": "この歌を聞くと、子供の時を思い出して懐かしいです。",
+      "id": "7b2e4a00-c501-471f-9bcc-695f4e9cbe67"
+    },
+    {
+      "word": "魅力的",
+      "reading": "みりょくてき",
+      "meaningZh": "有魅力的",
+      "meaningEn": "attractive, charming",
+      "level": "n3",
+      "exampleSentence": "この街はとても魅力的です。",
+      "id": "d00cfa25-4cbd-4abe-b3c3-cd558df22c48"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ純喫茶が若者に人気がありますか。",
+      "options": [
+        "新しいメニューが多いからです。",
+        "静かで落ち着ける雰囲気と、懐かしいメニューがあるからです。",
+        "店員がとても若いからです。",
+        "音楽がとても速いからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「純喫茶の雰囲気は、とても落ち着いています。」「メニューも魅力的です。クリームソーダやプリンアラモードのような、懐かしい飲み物やデザートがあります。」と書かれています。",
+      "id": "5f382ff9-88af-45d1-ba64-22dd25db142d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-03-1156824b80",
+  "publishedAt": "2026-09-03T06:00:00+09:00"
+}

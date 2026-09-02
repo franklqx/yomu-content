@@ -1,0 +1,131 @@
+{
+  "title": "ローカル線で一日旅",
+  "summary": "ローカル線一日乗り放題切符は、安くて楽しい旅行にぴったりです。この切符を使って、日本の美しい景色を楽しみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本の電車はとても便利です。特にローカル線は、景色がきれいな場所を通ることが多いです。そんなローカル線を一日中楽しめる切符があります。それは「ローカル線一日乗り放題切符」です。",
+      "translationZh": "日本有很多方便的电车。特别是地方铁路，经常会经过风景优美的地方。有一种车票可以让你一整天都享受这种地方铁路的乐趣。那就是“地方铁路一日不限次乘车券”。",
+      "translationEn": "Trains in Japan are very convenient. Local lines, in particular, often pass through beautiful scenery. There is a ticket that allows you to enjoy such local lines all day long. It is the \"Local Line One-Day Unlimited Ride Ticket.\"",
+      "id": "aba5d287-37c5-4137-bc21-a1eda74dc489",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符は、一日いくらでもローカル線に乗ることができます。値段も安いですから、初めての旅行にもおすすめです。地図を見て、行きたい場所を選びましょう。小さな町や海辺を訪れるのに良い方法です。",
+      "translationZh": "有了这张车票，一天内可以无限次乘坐地方铁路。价格也很便宜，所以推荐给第一次旅行的人。可以看看地图，选择想去的地方。这是拜访小镇或海边的好方法。",
+      "translationEn": "With this ticket, you can ride local lines as many times as you want in one day. The price is also cheap, so it is recommended for first-time travelers. Look at the map and choose a place you want to visit. It's a good way to visit small towns or the seaside.",
+      "id": "6d1c9ef7-0070-44e4-83e3-3ae44b540c82",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、友達と一緒に行くのも楽しいです。電車の中で話したり、景色を見たりして、リラックスした時間を過ごせます。車内でお弁当を食べるのも、旅の思い出になりますね。",
+      "translationZh": "例如，和朋友一起去也很开心。可以在电车里聊天，看风景，度过放松的时光。在车里吃便当，也会成为旅途的回忆。",
+      "translationEn": "For example, it's also fun to go with friends. You can talk on the train, look at the scenery, and spend relaxing time. Eating a bento box on the train will also become a travel memory.",
+      "id": "eb6901f7-d72d-4687-ace4-1fda00d7e7cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符を使って、普段行かないような場所へ行ってみませんか。きっと新しい発見があるはずです。次の週末にでも、計画を立ててみてください。",
+      "translationZh": "为什么不试试用这张车票去一些平时不去的地方呢？肯定会有新的发现。下个周末就来计划一下吧。",
+      "translationEn": "Why not try using this ticket to go to places you don't usually visit? You will surely make new discoveries. Try making a plan for next weekend.",
+      "id": "87c72af2-14c9-413d-9e72-8fbf0d170d11",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ローカル線",
+      "reading": "ろーかるせん",
+      "meaningZh": "地方铁路，非主要线路的火车",
+      "meaningEn": "local line (train)",
+      "level": "n5n4",
+      "exampleSentence": "このローカル線は景色がきれいだ。",
+      "id": "9ddc3520-538f-4df4-a28a-7ae19aa5f80c"
+    },
+    {
+      "word": "一日乗り放題切符",
+      "reading": "いちにちのりほうだい きっぷ",
+      "meaningZh": "一日不限次乘车券",
+      "meaningEn": "one-day unlimited ride ticket",
+      "level": "n5n4",
+      "exampleSentence": "ローカル線一日乗り放題切符を買いました。",
+      "id": "0ec23265-dd65-4cb1-94ac-f3df54fcf30e"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "窓から見える景色が素晴らしい。",
+      "id": "f4074aa6-5dd8-4ebe-ae9b-89fbdd1c234c"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この商品の値段はいくらですか。",
+      "id": "e9ef7d0b-8ba9-491f-8214-70cdefc11fbc"
+    },
+    {
+      "word": "おすすめ",
+      "reading": "おすすめ",
+      "meaningZh": "推荐",
+      "meaningEn": "recommendation",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは本当におすすめです。",
+      "id": "341d3124-9df9-4b1f-bdb1-1e0da1c5c5a7"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访，访问",
+      "meaningEn": "to visit",
+      "level": "n3",
+      "exampleSentence": "新しい町を訪れるのは楽しい。",
+      "id": "500f19be-dd70-4377-b477-2baa3ba76e69"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "旅行は良い思い出になった。",
+      "id": "4e506e79-3e40-44eb-a872-4668ec7d9f10"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しい趣味を見つけるのは素晴らしい発見だ。",
+      "id": "0bf903e5-73c5-4c02-83a0-d962533da46b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「ローカル線一日乗り放題切符」のいいところは、どんなところですか。",
+      "options": [
+        "値段が高いところ",
+        "遠い場所に行けるところ",
+        "安くて、一日中ローカル線に乗れるところ",
+        "友達と話せないところ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「この切符は、一日いくらでもローカル線に乗ることができます。値段も安いですから、初めての旅行にもおすすめです。」と書いてあります。",
+      "id": "e28a673d-512c-438c-ae23-891bdef190c5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-03-473f71c275",
+  "publishedAt": "2026-09-03T06:00:00+09:00"
+}

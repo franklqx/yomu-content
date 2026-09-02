@@ -1,0 +1,134 @@
+{
+  "title": "街でよく見かける？ロボット案内員が増えている理由",
+  "summary": "最近、都市部でロボット案内員を見かける機会が増えています。その背景には、人手不足やサービス向上の期待があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、デパートや駅、観光地などで、ロボットが案内をする姿をよく見かけませんか？これらのロボット案内員は、多言語対応ができたり、質問に答えたりする機能を持っています。都市部では、訪れる人が多いため、ロボットの活躍が期待されているのです。",
+      "translationZh": "最近，在百货商店、车站、旅游景点等地方，您是不是经常看到机器人提供向导服务？这些机器人案内员具备多语言対応能力，还能回答问题。在都市地区，因为来访者众多，所以人们对机器人的活跃寄予厚望。",
+      "translationEn": "Recently, haven't you often seen robots acting as guides in department stores, stations, and tourist spots? These robot guides have functions like multilingual support and answering questions. In urban areas, with a large number of visitors, the activity of robots is expected.",
+      "id": "258d0896-dceb-4407-bbf7-b74e9b8a7f03",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員が増えている理由の一つに、人手不足があります。特に観光業やサービス業では、常に人が足りていない状況が続いています。そこで、ロボットが代わりに接客をすることで、従業員の負担を減らし、サービスの質を保つことができると考えられています。",
+      "translationZh": "机器人案内员增加的一个原因是人手不足。特别是观光业和服务业，一直持续着人手不足的状况。因此，人们认为通过机器人代替接待顾客，可以减轻员工的负担，并保持服务质量。",
+      "translationEn": "One reason for the increase in robot guides is the labor shortage. Especially in the tourism and service industries, a situation of constant staff shortage continues. Therefore, it is thought that by having robots handle customer service instead, the burden on employees can be reduced, and the quality of service can be maintained.",
+      "id": "78de404a-ad88-4c3b-bcdf-a170c49fb9ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、ロボットは疲れを知らないという利点もあります。24時間いつでも同じように対応できるため、お客様を待たせる時間を減らすことができます。さらに、最新の情報を提供したり、道案内を正確に行ったりすることも得意です。このように、ロボット案内員は、私たちの生活をより便利にしてくれる可能性を秘めているのです。",
+      "translationZh": "此外，机器人还有一个优点是它们不知疲倦。因为可以随时随地以相同的方式提供服务，所以可以减少顾客等待的时间。此外，它们还擅长提供最新信息和精确地指路。像这样，机器人案内员蕴藏着让我们的生活更加便利的可能性。",
+      "translationEn": "Furthermore, robots have the advantage of not getting tired. Since they can respond consistently 24 hours a day, the time customers have to wait can be reduced. Additionally, they are good at providing the latest information and giving accurate directions. In this way, robot guides hold the potential to make our lives more convenient.",
+      "id": "b9d6a279-4a87-4137-a078-3901e1ee0a5a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、ロボットが人間の温かい対応を完全に置き換えることは難しいでしょう。しかし、人手不足を補い、より質の高いサービスを提供するために、ロボット案内員は今後も都市部で増えていくと考えられます。私たちは、ロボットと人間が協力して、より良い社会を作っていく未来を見ていくことになるでしょう。",
+      "translationZh": "当然，机器人要完全取代人类温暖的接待可能还很难。但是，为了弥补人手不足并提供更高质量的服务，机器人案内员预计将来在都市地区会持续增加。我们将会看到一个机器人与人类合作，共同创造更美好社会（的未来）。",
+      "translationEn": "Of course, it will likely be difficult for robots to completely replace the warm human touch. However, to compensate for labor shortages and provide higher quality services, robot guides are expected to continue increasing in urban areas. We will likely see a future where robots and humans cooperate to create a better society.",
+      "id": "ffa37071-d622-4bee-b311-abb6f67b38ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "向导，接待员",
+      "meaningEn": "guide, receptionist",
+      "level": "n3",
+      "exampleSentence": "駅の案内員に切符の場所を聞きました。",
+      "id": "308553bf-f249-4d4f-af2d-e2e215c61c8c"
+    },
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市地区，市区",
+      "meaningEn": "urban area, city center",
+      "level": "n3",
+      "exampleSentence": "都市部では車の渋滞がひどいです。",
+      "id": "6d54171f-7eb2-4972-bd9b-e4a7f12bfb18"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage, shortage of workers",
+      "level": "n3",
+      "exampleSentence": "この店は人手不足で困っています。",
+      "id": "a9f7301d-8180-4beb-ae69-159645a2cadf"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担",
+      "meaningEn": "burden, load",
+      "level": "n3",
+      "exampleSentence": "一人で全部やるのは大きな負担です。",
+      "id": "7a5586ee-7781-4b21-987f-29236a752c4e"
+    },
+    {
+      "word": "利点",
+      "reading": "りてん",
+      "meaningZh": "优点，好处",
+      "meaningEn": "advantage, merit",
+      "level": "n3",
+      "exampleSentence": "この新しいシステムには多くの利点があります。",
+      "id": "3ab87e14-49a4-4d05-a9a5-a21f08dad94e"
+    },
+    {
+      "word": "〜を知らない",
+      "reading": "〜を しらない",
+      "meaningZh": "不知道（某事/某物）",
+      "meaningEn": "not know (something)",
+      "level": "n5n4",
+      "exampleSentence": "彼は疲れを知らないで、いつも元気に働いています。",
+      "id": "c1efe202-033a-4124-9073-157cdf9cc333"
+    },
+    {
+      "word": "置き換える",
+      "reading": "おきかえる",
+      "meaningZh": "替换，代替",
+      "meaningEn": "to replace, to substitute",
+      "level": "n3",
+      "exampleSentence": "古い機械を新しいものに置き換えました。",
+      "id": "a2df77ea-9e89-482b-ad53-cb6cea2cca8c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が増えている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "ロボットの価格が安くなったから",
+        "人手不足を補うため",
+        "人間よりもロボットの方が親切だから",
+        "最新技術をアピールしたいから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ロボット案内員が増えている理由の一つに、人手不足があります。」と書かれています。",
+      "id": "064565fb-a9d0-464e-83ab-26c48bb783e5"
+    },
+    {
+      "question": "ロボット案内員には、どのような利点があると本文では説明されていますか？",
+      "options": [
+        "感情豊かに対応できること",
+        "いつでも同じように対応でき、疲れないこと",
+        "人間ができない特別なサービスを提供できること",
+        "最新のファッション情報を提供できること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ロボットは疲れを知らないという利点もあります。24時間いつでも同じように対応できるため、お客様を待たせる時間を減らすことができます。」と書かれています。",
+      "id": "48840a62-60b0-42fc-8c76-94ccaece8f97"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-03-b3f2035f3f",
+  "publishedAt": "2026-09-03T06:00:00+09:00"
+}
