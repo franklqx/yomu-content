@@ -1,0 +1,131 @@
+{
+  "title": "新しい働き方！副業OK！",
+  "summary": "最近、多くの会社で副業が許可されました。これは働き方を変えるかもしれません。新しい働き方について見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、会社員は一つの会社で働くのが普通でした。しかし、最近、状況が変わってきました。たくさんの会社が「副業をしてもいいですよ」と言い始めました。これは、働く人にとって大きな変化です。",
+      "translationZh": "以前，上班族在一家公司工作是很普遍的。但是，最近情况发生了变化。许多公司开始说“副业是可以的”。这对工作的人来说是一个很大的变化。",
+      "translationEn": "In the past, it was common for company employees to work for one company. However, the situation has recently changed. Many companies have started saying, 'You can do side jobs.' This is a big change for working people.",
+      "id": "e2be2e96-ddaa-4f4c-964c-95157701139c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業ができるようになると、人々は自分の時間でお金を稼ぐことができます。例えば、趣味を活かして何かを作って売ることもできます。また、新しいスキルを学ぶ機会にもなります。それは、自分の人生をより豊かにするでしょう。",
+      "translationZh": "副业变得可行后，人们可以在自己的业余时间赚钱。例如，他们也可以利用自己的爱好制作东西出售。此外，这也是学习新技能的机会。这将使他们的生活更加丰富。",
+      "translationEn": "When side jobs become possible, people can earn money in their own time. For example, they can also use their hobbies to make and sell things. Furthermore, it becomes an opportunity to learn new skills. This will enrich their lives.",
+      "id": "8ad37b31-9097-47a8-9603-c45ca0e2802d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "会社にとっても、副業は良い点があります。従業員が新しい経験をすると、会社にも新しいアイデアを持ってくるかもしれません。また、従業員の満足度も上がるでしょう。もちろん、仕事のやりすぎには注意が必要です。",
+      "translationZh": "对公司来说，副业也有好处。如果员工获得新经验，他们可能会为公司带来新想法。此外，员工的满意度也会提高。当然，需要注意不要过度工作。",
+      "translationEn": "For companies, side jobs also have good points. If employees gain new experiences, they may bring new ideas to the company. Also, employee satisfaction will likely increase. Of course, care must be taken not to overwork.",
+      "id": "b8b599fe-4283-45eb-a3aa-e0237abd3b51",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業が広がることで、働き方の選択肢が増えます。自分の好きなことや得意なことを仕事にできるかもしれません。これは、これからの社会にとって、とてもワクワクする変化だと思います。",
+      "translationZh": "随着副业的普及，工作方式的选择增加了。人们可能可以将自己喜欢或擅长的事情变成工作。我认为这对未来的社会来说是一个非常令人兴奋的变化。",
+      "translationEn": "As side jobs spread, the options for how to work increase. People may be able to turn what they like or are good at into work. I think this is a very exciting change for society in the future.",
+      "id": "3df87ea9-1c19-4502-a1fa-9bff449b9853",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业，兼职",
+      "meaningEn": "side job, second job",
+      "level": "n5n4",
+      "exampleSentence": "彼は週末に副業をしています。",
+      "id": "3d61cc47-151e-4069-9ae4-04c18212b024"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解除禁令",
+      "meaningEn": "lifting of a ban, legalization",
+      "level": "n3",
+      "exampleSentence": "この地域で釣りが解禁されました。",
+      "id": "cb1294ec-a7f6-4587-9ea6-0053067dda7b"
+    },
+    {
+      "word": "働き方",
+      "reading": "はたらきかた",
+      "meaningZh": "工作方式",
+      "meaningEn": "way of working",
+      "level": "n5n4",
+      "exampleSentence": "新しい働き方に慣れてきました。",
+      "id": "3b9a42f6-efc5-4def-b607-0d8c32752f51"
+    },
+    {
+      "word": "会社員",
+      "reading": "かいしゃいん",
+      "meaningZh": "公司职员",
+      "meaningEn": "company employee",
+      "level": "n5n4",
+      "exampleSentence": "彼女は有名な会社員です。",
+      "id": "56844f6b-573f-49a0-8819-dd762658f263"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，一般",
+      "meaningEn": "usual, ordinary, normal",
+      "level": "n5n4",
+      "exampleSentence": "今日は普通の日です。",
+      "id": "4b13627e-72be-4c04-8798-4c947cbdc563"
+    },
+    {
+      "word": "状況",
+      "reading": "じょうきょう",
+      "meaningZh": "情况，状况",
+      "meaningEn": "situation, condition",
+      "level": "n3",
+      "exampleSentence": "今の状況は難しいです。",
+      "id": "c3b21cc4-a422-424a-8cab-2a15e15ed3f2"
+    },
+    {
+      "word": "許可",
+      "reading": "きょか",
+      "meaningZh": "许可，允许",
+      "meaningEn": "permission, approval",
+      "level": "n3",
+      "exampleSentence": "学校は外出を許可しました。",
+      "id": "5acfadfa-cfe5-417a-ba72-5134fe6717b9"
+    },
+    {
+      "word": "選択肢",
+      "reading": "せんたくし",
+      "meaningZh": "选择（项）",
+      "meaningEn": "option, choice",
+      "level": "n3",
+      "exampleSentence": "たくさんの選択肢があります。",
+      "id": "ceaa1219-6e02-4a9c-a4cd-efdd9001547a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔と今の働き方で、一番大きな違いは何ですか？",
+      "options": [
+        "会社員が減ったこと",
+        "副業が許可されたこと",
+        "残業が増えたこと",
+        "給料が下がったこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔は、会社員は一つの会社で働くのが普通でした。しかし、最近、たくさんの会社が「副業をしてもいいですよ」と言い始めました。",
+      "id": "4447a8f0-59ea-491f-9de0-eb03bb1b1f62"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-04-1e32d3b1bf",
+  "publishedAt": "2026-09-04T06:00:00+09:00"
+}

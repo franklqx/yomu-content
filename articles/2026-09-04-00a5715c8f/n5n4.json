@@ -1,0 +1,105 @@
+{
+  "title": "新星力士の人気",
+  "summary": "若手力士が番付を上がると、人気が出ることがあります。最近、若い力士の活躍が話題です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "相撲（すもう）の世界では、力士（りきし）が戦（たたか）います。番付（ばんづけ）は、力士の強さの順位（じゅんい）です。若手（わかて）の力士が番付を上がると、たくさんの人（ひと）が応援（おうえん）します。",
+      "translationZh": "在相扑的世界里，力士们会进行比赛。番付是力士强弱的排名。当年轻的力士在番付上晋升时，会有很多人为他们加油。",
+      "translationEn": "In the world of sumo, rikishi (wrestlers) compete. The banzuke is a ranking of rikishi's strength. When young rikishi climb the banzuke, many people cheer for them.",
+      "id": "b0ee4c3b-1226-4459-bd48-74cb8bc82058",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、ある若手力士が、とても強くなりました。彼は、番付をどんどん上がりました。そして、たくさんのファンができました。テレビでも、よく見（み）かけます。",
+      "translationZh": "最近，有一位年轻力士变得非常强壮。他，番付快速上升。然后，他有了很多粉丝。在电视上，也经常能看到他。",
+      "translationEn": "Recently, a certain young rikishi became very strong. He climbed the banzuke rapidly. And he gained many fans. He is often seen on TV.",
+      "id": "057aca1a-ec65-4fb8-a037-5dc9025b65aa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "その力士は、強くて、かっこいいです。だから、子供（こども）たちにも人気があります。彼（かれ）の試合（しあい）は、いつも楽（たの）しみです。これからも、もっと活躍（かつやく）するでしょう。",
+      "translationZh": "那位力士，又强壮又帅气。所以，孩子们也很喜欢他。他的比赛，总是令人期待。今后，他也会更加活跃的吧。",
+      "translationEn": "That rikishi is strong and cool. Therefore, he is popular with children too. His matches are always something to look forward to. He will probably be more active in the future.",
+      "id": "39129501-b2c9-4359-865d-8906fc5c2ee8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "相扑选手",
+      "meaningEn": "Sumo wrestler",
+      "level": "n5n4",
+      "exampleSentence": "若い力士が頑張っています。",
+      "id": "6e937866-b457-491d-92d2-fd7eccd08c61"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）选手的等级排名",
+      "meaningEn": "Ranking of sumo wrestlers",
+      "level": "n5n4",
+      "exampleSentence": "番付が上がって嬉しいです。",
+      "id": "4cb2bc22-29c3-411c-b297-7ecc0f25a127"
+    },
+    {
+      "word": "若手",
+      "reading": "わかて",
+      "meaningZh": "年轻人，新秀",
+      "meaningEn": "Young person, newcomer",
+      "level": "n5n4",
+      "exampleSentence": "若手の俳優（はいゆう）が人気です。",
+      "id": "bde8b533-989b-46d0-b780-ad47805d77ec"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "Popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌（うた）はとても人気があります。",
+      "id": "c59305e1-552d-46d2-afed-39b2bab89ed3"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "声援，支持",
+      "meaningEn": "Cheering, support",
+      "level": "n5n4",
+      "exampleSentence": "チームを応援しましょう。",
+      "id": "454cc859-54a0-426c-a777-c326fdba62a2"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有作为",
+      "meaningEn": "Activity, success",
+      "level": "n3",
+      "exampleSentence": "彼は会社で活躍しています。",
+      "id": "786af0db-caa4-476f-9c57-0c68bc88b7b0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若手力士が番付を上がると、どうなりますか。",
+      "options": [
+        "人気がなくなります。",
+        "あまり強くなりません。",
+        "たくさんの人（ひと）が応援（おうえん）します。",
+        "テレビにあまり出ません。"
+      ],
+      "correctIndex": 2,
+      "explanation": "若手の力士が番付を上がると、たくさんの人が応援します。",
+      "id": "c8b08d43-0086-4ee7-bfe0-a2519c1d1590"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-04-00a5715c8f",
+  "publishedAt": "2026-09-04T06:00:00+09:00"
+}

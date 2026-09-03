@@ -1,0 +1,114 @@
+{
+  "title": "神保町で本と出会う",
+  "summary": "神保町で文学イベントが開かれます。古い本がたくさんあります。本が好きな人はぜひ来てください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東京には神保町という有名な場所があります。そこは古本屋さんがたくさん並んでいます。たくさんの人が本を探しに来ます。特に、古い本や珍しい本が見つかります。",
+      "translationZh": "东京有一个叫做神保町的著名地方。那里排列着许多旧书店。很多人来这里找书。特别是，可以找到旧书和稀有的书。",
+      "translationEn": "Tokyo has a famous place called Jimbocho. Many used bookstores are lined up there. Many people come to look for books. Especially, old and rare books can be found.",
+      "id": "4eedd2ff-607d-48c4-91e9-bacd4aa407a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今度、神保町で文学イベントがあります。このイベントでは、作家さんの話を聞くことができます。また、本に関するワークショップも開かれます。本が好きな人には、とても楽しい時間になるでしょう。",
+      "translationZh": "不久，神保町将举办文学活动。在这个活动中，你可以听到作家先生的演讲。此外，还将举办与书本相关的研讨会。对于喜欢书的人来说，这将是一段非常愉快的时光。",
+      "translationEn": "Soon, a literary event will be held in Jimbocho. At this event, you can listen to writers speak. Also, workshops related to books will be held. For people who like books, it will be a very enjoyable time.",
+      "id": "6e206bfa-0d22-47e5-958e-b0582fe088e3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントは来週の土曜日からです。午前10時に始まります。神保町駅の近くで開催されます。雨でも大丈夫です。たくさんの本と出会えるチャンスです。ぜひ、参加してください。",
+      "translationZh": "活动从下周六开始。上午10点开始。在神保町站附近举行。下雨也没关系。这是与许多书相遇的机会。请务必参加。",
+      "translationEn": "The event starts next Saturday. It begins at 10 AM. It will be held near Jimbocho Station. It's okay even if it rains. It's a chance to encounter many books. Please participate.",
+      "id": "f35a5e60-58d7-49ab-a2de-73c8fbb3b394",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "009a1ede-cb3d-4243-a0c0-f7c0d087a066"
+    },
+    {
+      "word": "古本屋",
+      "reading": "ふるほんや",
+      "meaningZh": "旧书店",
+      "meaningEn": "used bookstore",
+      "level": "n5n4",
+      "exampleSentence": "神保町には古本屋がたくさんあります。",
+      "id": "829180af-ca85-4d39-add6-4794261ab82f"
+    },
+    {
+      "word": "珍しい",
+      "reading": "めずらしい",
+      "meaningZh": "稀有的",
+      "meaningEn": "rare",
+      "level": "n5n4",
+      "exampleSentence": "これはとても珍しい本です。",
+      "id": "deab2cc5-5a26-4fec-99fe-1619b35cdddb"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaningZh": "文学",
+      "meaningEn": "literature",
+      "level": "n3",
+      "exampleSentence": "私は文学が好きです。",
+      "id": "75503b0a-eeaf-4cbd-81de-9ad0e0f9bebc"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaningZh": "作家",
+      "meaningEn": "writer",
+      "level": "n3",
+      "exampleSentence": "有名な作家の話を聞きました。",
+      "id": "6175737f-ebfc-49da-8795-3d146f8f3d7b"
+    },
+    {
+      "word": "ワークショップ",
+      "reading": "わーくしょっぷ",
+      "meaningZh": "研讨会",
+      "meaningEn": "workshop",
+      "level": "n3",
+      "exampleSentence": "子供向けのワークショップが開かれます。",
+      "id": "2551bb48-24ba-42cb-bbfd-203bfefb6154"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "イベントに参加したいです。",
+      "id": "c1157660-ab9a-4898-8822-226e02fcd19d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "神保町には何がたくさんありますか。",
+      "options": [
+        "新しい本屋",
+        "レストラン",
+        "古本屋",
+        "デパート"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「そこは古本屋がたくさん並んでいます。」と書いてあります。",
+      "id": "c815479e-213c-4140-8af5-134abddb4960"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-04-3d992dffa8",
+  "publishedAt": "2026-09-04T06:00:00+09:00"
+}

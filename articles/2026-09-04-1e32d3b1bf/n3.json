@@ -1,0 +1,126 @@
+{
+  "title": "副業解禁で働き方はどう変わる？",
+  "summary": "最近、多くの会社で副業が解禁され始めています。これにより、私たちの働き方や人生設計にどのような変化が起こるのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、日本でも副業を解禁する企業が増えてきました。以前は「副業禁止」が当たり前でしたが、働き方改革が進む中で、多様な働き方が認められるようになってきたのです。これにより、会社員でも自分のスキルを活かして収入を増やしたり、新しい分野に挑戦したりする機会が生まれています。",
+      "translationZh": "近年来，日本允许副业的企业也增加了。以前“禁止副业”是常态，但在工作方式改革的推进下，人们开始认可了更多样化的工作方式。这使得即使是公司职员，也有了发挥自己技能增加收入、挑战新领域的机会。",
+      "translationEn": "In recent years, the number of companies in Japan that allow side jobs has been increasing. Previously, 'no side jobs' was the norm, but with the progress of work style reforms, more diverse ways of working have come to be recognized. This creates opportunities for company employees to increase their income by utilizing their skills or to challenge new fields.",
+      "id": "d0da0324-79e7-4e3e-9fb9-5b6b5cd8595c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業を始めることのメリットは、経済的な安定だけではありません。自分の興味のある分野を深めたり、新しい人間関係を築いたりすることもできます。例えば、本業では経験できないような仕事に挑戦しながら、自分の可能性を広げることができるでしょう。ただし、本業に支障が出ないように、時間管理をしっかり行うことが大切です。",
+      "translationZh": "开始副业的优点不仅仅是经济上的稳定。你还可以深化自己感兴趣的领域，建立新的人际关系。例如，通过挑战本职工作中无法获得的经验，你可以拓宽自己的可能性。但是，为了不影响本职工作，认真管理时间非常重要。",
+      "translationEn": "The benefits of starting a side job are not limited to financial stability. You can also deepen your interest in a particular field and build new relationships. For example, by taking on jobs that you cannot experience in your main profession, you can expand your potential. However, it is important to manage your time well so as not to interfere with your main job.",
+      "id": "f29f5c41-d276-4555-b1fb-cd208a32d2f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、副業解禁には課題もあります。従業員が本業に集中できなくなったり、情報漏洩のリスクが高まったりする可能性も考えられます。そのため、企業側は副業に関するルールを明確にし、従業員が安心して働けるような環境を整備することが求められています。双方が協力しながら、新しい働き方を模索していくことが重要です。",
+      "translationZh": "另一方面，副业解禁也存在一些课题。员工可能无法专注于本职工作，信息泄露的风险也可能随之增加。因此，企业方面需要明确副业相关的规定，并营造一个让员工能够安心工作的环境。双方合作，探索新的工作方式非常重要。",
+      "translationEn": "On the other hand, there are also challenges to allowing side jobs. There is a possibility that employees may not be able to concentrate on their main jobs, or the risk of information leakage may increase. Therefore, companies are required to clarify their rules regarding side jobs and create an environment where employees can work with peace of mind. It is important for both parties to cooperate and explore new ways of working.",
+      "id": "7804d9c9-f059-4bb2-80ed-cf4507903f69",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业，兼职",
+      "meaningEn": "side job, second job",
+      "level": "n3",
+      "exampleSentence": "彼は本業の他に、週末に副業をしています。",
+      "id": "487260bc-7caa-4deb-ba74-558a5d6004a6"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解除禁令，允许",
+      "meaningEn": "lifting of a ban, permission",
+      "level": "n3",
+      "exampleSentence": "最近、多くの企業で副業が解禁されました。",
+      "id": "76089041-82f2-46e2-98c3-9c2ba530c1ce"
+    },
+    {
+      "word": "働き方改革",
+      "reading": "はたらきかたかいかく",
+      "meaningZh": "工作方式改革",
+      "meaningEn": "work style reform",
+      "level": "n3",
+      "exampleSentence": "働き方改革のおかげで、残業が減りました。",
+      "id": "cddea664-0eb1-4d01-8373-c6be94a86d1f"
+    },
+    {
+      "word": "多様",
+      "reading": "たよう",
+      "meaningZh": "多样，形形色色",
+      "meaningEn": "diverse, varied",
+      "level": "n3",
+      "exampleSentence": "多様な働き方が認められるようになりました。",
+      "id": "aaca843e-9dac-4834-a3fa-835363873540"
+    },
+    {
+      "word": "支障",
+      "reading": "ししょう",
+      "meaningZh": "妨碍，障碍",
+      "meaningEn": "hindrance, obstacle",
+      "level": "n3",
+      "exampleSentence": "本業に支障がないように注意しています。",
+      "id": "3babe12b-0192-45db-9d62-6739ee521588"
+    },
+    {
+      "word": "情報漏洩",
+      "reading": "じょうほうろうえい",
+      "meaningZh": "信息泄露",
+      "meaningEn": "information leakage",
+      "level": "n3",
+      "exampleSentence": "情報漏洩は会社の信頼に関わる問題です。",
+      "id": "b1c44953-0eeb-4d8a-aa34-b64cea3f42db"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "maintenance, establishment",
+      "level": "n3",
+      "exampleSentence": "会社は従業員のために新しい制度を整備しました。",
+      "id": "308140e6-7c52-4216-a6cf-966dd1e8c231"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "副業が解禁されたことで、会社員にどのような機会が生まれると書かれていますか？",
+      "options": [
+        "収入を減らす機会",
+        "新しい分野に挑戦する機会",
+        "本業を辞める機会",
+        "趣味の時間を増やす機会"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「自分のスキルを活かして収入を増やしたり、新しい分野に挑戦したりする機会が生まれています」と書かれています。",
+      "id": "adab9bc2-7275-48a4-a8aa-370dcfc9a6b5"
+    },
+    {
+      "question": "副業を始めるにあたって、どのような点に注意が必要だと述べられていますか？",
+      "options": [
+        "副業で稼いだお金をすべて貯金すること",
+        "本業に支障が出ないように時間管理をしっかり行うこと",
+        "会社に副業のことを一切伝えないこと",
+        "本業より副業に力を入れること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ただし、本業に支障が出ないように、時間管理をしっかり行うことが大切です」と書かれています。",
+      "id": "b37f77bf-009f-4107-8d6b-248af536a4cc"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-04-1e32d3b1bf",
+  "publishedAt": "2026-09-04T06:00:00+09:00"
+}
