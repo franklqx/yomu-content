@@ -1,0 +1,131 @@
+{
+  "title": "注目のプロ野球選手",
+  "summary": "新しいプロ野球シーズンが始まります。今年はどんな選手が活躍するでしょうか。注目の選手を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンがもうすぐ始まります。たくさんのチームがあります。そして、たくさんの選手がいます。今年は、特に注目したい選手が何人かいます。",
+      "translationZh": "职业棒球新赛季即将开始。有很多球队，也有很多选手。今年，有几位特别值得关注的选手。",
+      "translationEn": "The new professional baseball season will start soon. There are many teams. And there are many players. This year, there are a few players that I especially want to pay attention to.",
+      "id": "0a878678-e404-45b5-97d3-24ba30f7b09d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "まず、若手の選手です。この選手は去年、とても良い成績でした。今年はもっと活躍するでしょう。彼のバッティングはとても強いです。ファンは彼のヒットを期待しています。",
+      "translationZh": "首先，是一位年轻选手。这位选手去年成绩非常好。今年他会更加活跃。他的击球非常有力。球迷们期待他的安打。",
+      "translationEn": "First, there is a young player. This player had very good results last year. He will be more active this year. His batting is very strong. Fans are looking forward to his hits.",
+      "id": "5e24bb87-591d-4813-9d90-9a293e6eb0a0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "次に、ベテランの選手です。この選手は長年チームを支えています。経験がたくさんあります。今年は、チームのリーダーとして、若い選手を教えるでしょう。彼のピッチングは安定しています。",
+      "translationZh": "其次，是一位老将。这位选手多年来一直支持着球队。他经验丰富。今年，他将作为球队的领袖，教导年轻选手。他的投球很稳定。",
+      "translationEn": "Next, there is a veteran player. This player has supported the team for many years. He has a lot of experience. This year, as a team leader, he will teach the young players. His pitching is stable.",
+      "id": "74841322-832a-4bdc-a7ca-024b89e0637f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この二人の選手以外にも、注目の選手がたくさんいます。新しいシーズンはとても楽しみです。皆さんも、好きな選手を見つけて応援しましょう。",
+      "translationZh": "除了这两位选手之外，还有很多值得关注的选手。新赛季非常令人期待。大家也请找到自己喜欢的选手，为他加油吧。",
+      "translationEn": "Besides these two players, there are many other players to watch. The new season is very exciting. Everyone, please find your favorite player and cheer for him.",
+      "id": "5679c59f-d3ec-4ac7-b8a7-12dfd74d9345",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な野球選手です。",
+      "id": "a27a651d-ddb9-4e7c-80d2-36602b7ec171"
+    },
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいサッカーのシーズンが始まります。",
+      "id": "d0efd1c2-5056-45aa-89f4-8a8679541f19"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "activity, success",
+      "level": "n5n4",
+      "exampleSentence": "彼は会社でよく活躍しています。",
+      "id": "096eceef-0dd3-451b-a100-b2abe887a2ee"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaningZh": "成绩",
+      "meaningEn": "results, performance",
+      "level": "n5n4",
+      "exampleSentence": "去年の成績はよかったです。",
+      "id": "3114986a-86c1-4044-b1b8-39c54a163ba3"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待，期望",
+      "meaningEn": "expectation",
+      "level": "n5n4",
+      "exampleSentence": "合格を期待しています。",
+      "id": "94f781cc-cde8-4729-837a-596cbe6265df"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将，老手",
+      "meaningEn": "veteran",
+      "level": "n5n4",
+      "exampleSentence": "彼はこの道でベテランです。",
+      "id": "37bf70c7-33ce-461e-bf31-11d02b9f052d"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの経験があります。",
+      "id": "941917fb-5e9a-42c0-a8c4-8ba748935fb7"
+    },
+    {
+      "word": "リーダー",
+      "reading": "りーだー",
+      "meaningZh": "领导者",
+      "meaningEn": "leader",
+      "level": "n5n4",
+      "exampleSentence": "彼はチームのリーダーです。",
+      "id": "dac5bac8-5759-4761-ab9a-df6d3659b559"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事では、特にどのような選手に注目していますか？",
+      "options": [
+        "若手の選手とベテランの選手",
+        "ヒットが多い選手",
+        "ホームランが多い選手",
+        "ピッチングが速い選手"
+      ],
+      "correctIndex": 0,
+      "explanation": "記事では「まず、若手の選手です。次に、ベテランの選手です。」と書いてあります。",
+      "id": "3d0c91d5-556f-4b24-a0be-3f37aea131f3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-05-472632a31a",
+  "publishedAt": "2026-09-05T06:00:00+09:00"
+}

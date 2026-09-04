@@ -1,0 +1,123 @@
+{
+  "title": "お年寄りのための宅配サービス",
+  "summary": "最近、お年寄りのための宅配サービスが広まっています。これは、元気がないお年寄りの生活を助けます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本で元気がないお年寄りが増えています。そのため、生活がむずかしくなる人もいます。例えば、買い物に行ったり、料理をすることが大変な人もいます。",
+      "translationZh": "最近，日本老年人越来越多。因此，一些人的生活变得困难。例如，有些人觉得去购物或做饭很困难。",
+      "translationEn": "Recently, there are more and more elderly people who are not energetic in Japan. Therefore, some people find it difficult to live. For example, some people find it hard to go shopping or cook.",
+      "id": "c8411ccc-025a-432a-a24d-0ef351469e51",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、お年寄りのための宅配サービスが大切になっています。このサービスは、家まで食べ物や日用品を届けます。これで、お年寄りは家から出なくても、必要なものが手に入ります。",
+      "translationZh": "因此，为老年人提供的送货上门服务变得很重要。这项服务将食物和日用品送到家。这样，老年人即使不出门也能得到他们需要的东西。",
+      "translationEn": "Therefore, delivery services for the elderly are becoming important. This service delivers food and daily necessities to their homes. This way, the elderly can get what they need without leaving their homes.",
+      "id": "f62ae5a8-8b4e-41c9-9a13-a67e068e1d9a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスは、お年寄りが一人で暮らすのを助けます。そして、家族も安心できます。これからも、このサービスがもっと広がるでしょう。",
+      "translationZh": "这项服务帮助老年人独立生活。同时，也让家人感到安心。今后，这项服务可能会进一步普及。",
+      "translationEn": "This service helps the elderly live independently. Also, it allows families to feel at ease. In the future, this service will likely spread further.",
+      "id": "d2d95719-9da7-40ed-9337-252c34937c39",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お年寄り",
+      "reading": "おとしより",
+      "meaningZh": "老人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "お年寄りはゆっくり歩きます。",
+      "id": "66e9fbc3-884d-46de-8781-fb77a416d09c"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "送货上门服务",
+      "meaningEn": "delivery service",
+      "level": "n5n4",
+      "exampleSentence": "この会社は食べ物の宅配サービスをしています。",
+      "id": "4d7677cf-a192-4ee9-adbd-11b8e74aeed0"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精力，健康",
+      "meaningEn": "energetic, healthy",
+      "level": "n5n4",
+      "exampleSentence": "おばあさんは元気です。",
+      "id": "3e21e080-7481-4178-af9c-027c16ec893b"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaningZh": "生活",
+      "meaningEn": "life, living",
+      "level": "n5n4",
+      "exampleSentence": "私の生活はとても忙しいです。",
+      "id": "52007c19-8326-4e15-875e-3dd438fb83de"
+    },
+    {
+      "word": "むずかしい",
+      "reading": "むずかしい",
+      "meaningZh": "困难的",
+      "meaningEn": "difficult",
+      "level": "n5n4",
+      "exampleSentence": "この問題はむずかしいです。",
+      "id": "27c6d481-a9c5-4cf5-9c7d-5dab93b49d54"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaningZh": "购物",
+      "meaningEn": "shopping",
+      "level": "n5n4",
+      "exampleSentence": "週末に友達と買い物に行きます。",
+      "id": "6f6d3268-d7b0-4048-95f1-bec8600f0f62"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "烹饪，菜肴",
+      "meaningEn": "cooking, dish",
+      "level": "n5n4",
+      "exampleSentence": "新しい料理を作りました。",
+      "id": "49310a73-b95f-4200-b812-91922c7a2694"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaningZh": "必要的",
+      "meaningEn": "necessary",
+      "level": "n5n4",
+      "exampleSentence": "水は人間にとって必要です。",
+      "id": "5983b119-d377-40d9-9b84-1320b78784b9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "宅配サービスは、誰のためにありますか？",
+      "options": [
+        "元気な人",
+        "子供",
+        "お年寄り",
+        "学生"
+      ],
+      "correctIndex": 2,
+      "explanation": "「お年寄りのための宅配サービスが大切になっています。」と書いてあります。",
+      "id": "b6b9d767-f260-4bdf-91e5-fcd1671aa3e8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-05-9edb18e972",
+  "publishedAt": "2026-09-05T06:00:00+09:00"
+}

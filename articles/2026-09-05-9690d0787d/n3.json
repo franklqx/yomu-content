@@ -1,0 +1,126 @@
+{
+  "title": "現代アートと伝統工芸の意外な出会い展",
+  "summary": "新しい時代のアートと昔ながらの工芸品が、予想外の形で融合する展示会が開催されています。その魅力についてご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある美術館で「現代アートと伝統工芸のコラボ展」が開催されています。この展示会では、世界的に有名な現代アーティストの作品と、日本の各地で作られてきた伝統的な工芸品が一緒に展示されています。普段は別々に見ることの多いこれらの作品が、隣り合わせに並んでいるのを見ると、とても新鮮な気持ちになります。",
+      "translationZh": "最近，某美术馆正在举办“现代艺术与传统工艺的跨界合作展”。在这个展览中，世界著名的现代艺术家的作品和日本各地制作的传统工艺品被一同展出。平时分开观看的这些作品，并列在一起时，会让人感觉耳目一新。",
+      "translationEn": "Recently, a \"Collaboration Exhibition of Contemporary Art and Traditional Crafts\" has been held at an art museum. In this exhibition, works by world-renowned contemporary artists are displayed alongside traditional crafts made in various regions of Japan. Seeing these works, which are usually viewed separately, placed next to each other, gives a very fresh feeling.",
+      "id": "fee6320b-80c7-42d9-bf00-e2d16b289b1d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある現代アーティストは、古い陶器の技術を使いながらも、全く新しい形のオブジェを作り出しています。また、伝統的な織物で作られた着物が、最新のデジタル技術でデザインされた空間に飾られていることもありました。このように、新しいアイデアと古い技術が組み合わさることで、どちらの良さも引き出されているように感じます。",
+      "translationZh": "例如，某位现代艺术家在使用古老的陶瓷技术的同时，创作出了全新形态的艺术品。此外，用传统织物制成的和服，也被装饰在用最新数字技术设计的空间里。像这样，新想法和旧技术结合，似乎能更好地发挥各自的优点。",
+      "translationEn": "For example, a contemporary artist uses old pottery techniques to create objects of a completely new form. Also, kimonos made from traditional textiles were sometimes displayed in spaces designed with the latest digital technology. In this way, it feels like the combination of new ideas and old techniques brings out the best of both.",
+      "id": "7c32196c-6d9f-43a9-8985-e7075047d3b9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展示会を見ると、伝統工芸が単に昔の技術を守るだけでなく、現代の感覚と結びつくことで、新しい命を吹き込まれることがわかります。そして、現代アートも、歴史に裏打ちされた技術と触れ合うことで、より深みのある表現ができるのかもしれません。文化は、変化し続けるものだということを改めて感じさせてくれます。",
+      "translationZh": "通过观看这个展览，我们可以了解到，传统工艺不仅仅是守护过去的技艺，而是与现代感觉结合，被赋予了新的生命。同时，现代艺术通过接触有历史积淀的技术，或许也能产生更深邃的表现。这让我们再次感受到，文化是不断变化的。",
+      "translationEn": "Looking at this exhibition, one realizes that traditional crafts are not just about preserving old techniques, but are given new life by connecting with contemporary sensibilities. Furthermore, contemporary art may also achieve deeper expression by encountering techniques backed by history. It makes us feel anew that culture is something that continuously changes.",
+      "id": "15c29823-bc4e-46aa-87e4-b8b574e85288",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "融合",
+      "reading": "ゆうごう",
+      "meaningZh": "融合，结合",
+      "meaningEn": "fusion, integration",
+      "level": "n3",
+      "exampleSentence": "二つの文化が融合して新しいスタイルが生まれた。",
+      "id": "f36ccfc4-d6b1-4878-9a4b-ce4d276cd7d5"
+    },
+    {
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meaningZh": "美术馆",
+      "meaningEn": "art museum",
+      "level": "n3",
+      "exampleSentence": "週末に友達と美術館へ行った。",
+      "id": "7ec28d38-57d1-410c-bd55-0ab873b552b3"
+    },
+    {
+      "word": "工芸品",
+      "reading": "こうげいひん",
+      "meaningZh": "工艺品",
+      "meaningEn": "handicraft, art object",
+      "level": "n3",
+      "exampleSentence": "この地域には古い工芸品がたくさん残っている。",
+      "id": "8e06c56d-2012-4831-868a-71ab4b72cf6b"
+    },
+    {
+      "word": "新鮮",
+      "reading": "しんせん",
+      "meaningZh": "新鲜，新颖",
+      "meaningEn": "fresh, new",
+      "level": "n3",
+      "exampleSentence": "新しいアイデアはいつも新鮮だ。",
+      "id": "ea0be8c5-744b-4820-8cf0-fb45e80fac37"
+    },
+    {
+      "word": "オブジェ",
+      "reading": "オブジェ",
+      "meaningZh": "艺术陈设品，雕塑",
+      "meaningEn": "objet d'art, art installation",
+      "level": "n3",
+      "exampleSentence": "部屋の真ん中に大きなオブジェが置かれていた。",
+      "id": "41fb8262-d5a0-4da9-b68e-652f9a46bf5b"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n3",
+      "exampleSentence": "この祭りには伝統的な衣装が使われる。",
+      "id": "979852cf-ad2b-472e-9e9e-515cfee7ec82"
+    },
+    {
+      "word": "裏打ち",
+      "reading": "うらうち",
+      "meaningZh": "支持，衬托",
+      "meaningEn": "backing, support",
+      "level": "n2n1",
+      "exampleSentence": "彼の理論は多くの実験データに裏打ちされている。",
+      "id": "bb9bc1cb-5e91-435e-9b4a-2396e8d47d4e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この展示会で、現代アートと伝統工芸はどのように紹介されていますか？",
+      "options": [
+        "それぞれ別々の部屋で紹介されている。",
+        "古い技術を新しい方法で使う例が紹介されている。",
+        "二つが一緒に展示され、新しい魅力を引き出している。",
+        "伝統工芸が現代アートに取って代わられている。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「普段は別々に見ることの多いこれらの作品が、隣り合わせに並んでいるのを見ると、とても新鮮な気持ちになります。」「このように、新しいアイデアと古い技術が組み合わさることで、どちらの良さも引き出されているように感じます。」",
+      "id": "093d21d8-b184-4907-935b-cb5161586e3a"
+    },
+    {
+      "question": "筆者は、現代アートと伝統工芸のコラボレーションから、どのようなことを感じていますか？",
+      "options": [
+        "伝統工芸はもう時代遅れだと感じている。",
+        "現代アートは伝統技術を学ぶべきだと考えている。",
+        "文化は固定されたものではなく、変化し続けるものだと感じている。",
+        "新しい技術が伝統技術を破壊していると感じている。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「文化は、変化し続けるものだということを改めて感じさせてくれます。」",
+      "id": "454bef78-8bca-46f2-a45d-3f4ed5b80924"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-05-9690d0787d",
+  "publishedAt": "2026-09-05T06:00:00+09:00"
+}

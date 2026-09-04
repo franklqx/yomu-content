@@ -1,0 +1,122 @@
+{
+  "title": "新しいアートと昔の工芸",
+  "summary": "現代アートと伝統工芸が一緒になりました。新しい展示会はとても面白いです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今、面白い展示会があります。これは現代アートと伝統工芸のコラボ展です。昔からの工芸品と新しいアートが合わさっています。",
+      "translationZh": "现在，有一个有趣的展览。这是现代艺术和传统工艺的合作展。自古以来的工艺品和新的艺术结合在了一起。",
+      "translationEn": "There is an interesting exhibition now. This is a collaboration exhibition of modern art and traditional crafts. Traditional crafts from the past are combined with new art.",
+      "id": "1d8dea15-daff-4b2b-b431-1a7a04dfa4e8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "伝統工芸は、長い時間で作られました。例えば、陶器や染物などです。これらの工芸品はとてもきれいです。新しいアートは、自由な考えで作られています。",
+      "translationZh": "传统工艺是花费很长时间制作的。例如，有陶器和染色品等。这些工艺品非常漂亮。新的艺术是用自由的想法创作的。",
+      "translationEn": "Traditional crafts are made over a long time. For example, pottery and dyed goods. These crafts are very beautiful. New art is created with free ideas.",
+      "id": "adba331b-916d-4ba2-ac3a-b06b945aeb13",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展示会では、二つの色が合わさって、新しいものが生まれています。古い技術と新しいアイデアが一緒になって、びっくりするような作品があります。",
+      "translationZh": "在这个展览中，两种色彩结合在一起，诞生了新的事物。古老的技术和新的想法结合在一起，有令人惊讶的作品。",
+      "translationEn": "In this exhibition, two colors are combined, and new things are born. Old techniques and new ideas come together, creating surprising works.",
+      "id": "716de8be-000d-4585-abad-34bcb679edd4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展示会は、新しい発見がたくさんあります。アートが好きな人、工芸が好きな人、両方の人におすすめです。ぜひ見に行ってみてください。",
+      "translationZh": "这个展览有很多新的发现。推荐给喜欢艺术的人、喜欢工艺的人，以及两者都喜欢的人。请一定要去看看。",
+      "translationEn": "This exhibition has many new discoveries. It is recommended for people who like art, people who like crafts, and both. Please go and see it.",
+      "id": "e0062649-5f2d-4be5-9856-b0e3b77a053c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "展示会",
+      "reading": "てんじかい",
+      "meaningZh": "展览会",
+      "meaningEn": "exhibition",
+      "level": "n5n4",
+      "exampleSentence": "博物館で新しい展示会がありました。",
+      "id": "097271ec-20d5-4903-824f-73c33fe4c1dd"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaningZh": "现代",
+      "meaningEn": "modern times",
+      "level": "n5n4",
+      "exampleSentence": "これは現代の建物です。",
+      "id": "10062c67-bc75-438b-94ae-1f676496d9ff"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n5n4",
+      "exampleSentence": "この町には伝統的な祭りがあります。",
+      "id": "441d7212-f5d1-4717-9908-951c6a5aec5f"
+    },
+    {
+      "word": "工芸",
+      "reading": "こうげい",
+      "meaningZh": "工艺",
+      "meaningEn": "craft, handicraft",
+      "level": "n5n4",
+      "exampleSentence": "日本の伝統工芸は世界で有名です。",
+      "id": "638464f7-3db8-4300-8ec7-b72f62b031b5"
+    },
+    {
+      "word": "コラボ",
+      "reading": "こらぼ",
+      "meaningZh": "合作（来自 collaboration）",
+      "meaningEn": "collaboration",
+      "level": "n5n4",
+      "exampleSentence": "二人の作家がコラボして絵を描きました。",
+      "id": "a1132a51-5c96-4e5c-8c58-2a4507684bbc"
+    },
+    {
+      "word": "陶器",
+      "reading": "とうき",
+      "meaningZh": "陶器",
+      "meaningEn": "pottery, ceramics",
+      "level": "n5n4",
+      "exampleSentence": "この茶碗は古い陶器です。",
+      "id": "4b2f3754-1c69-4b07-b639-2c27469114bf"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technique, skill",
+      "level": "n3",
+      "exampleSentence": "この技術はとても難しいです。",
+      "id": "1f4d766e-2a47-4800-be42-eb59804eed7c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この展示会では、何と何が一緒になっていますか。",
+      "options": [
+        "現代アートと伝統工芸",
+        "昔の絵と新しい音楽",
+        "陶器と染物",
+        "古い技術と新しい技術"
+      ],
+      "correctIndex": 0,
+      "explanation": "この展示会は現代アートと伝統工芸のコラボ展です。",
+      "id": "2b3fbc14-5d15-49ea-9144-1b8abc8e44a7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-05-9690d0787d",
+  "publishedAt": "2026-09-05T06:00:00+09:00"
+}

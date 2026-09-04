@@ -1,0 +1,143 @@
+{
+  "title": "プロ野球新シーズン！注目の選手たちを紹介",
+  "summary": "新しいプロ野球シーズンが始まります。今回は、特に注目したい選手を何人か紹介します。彼らの活躍から目が離せません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新シーズンが始まり、ファンの期待も高まっています。特に今年は、若手選手の台頭とベテラン選手の復活に注目が集まっています。新しいスター選手が生まれるかもしれません。彼らのプレーを見るのはとても楽しみですね。",
+      "translationZh": "职业棒球新赛季已经开始，球迷们的期待也越来越高。今年尤其引人注目的是年轻选手的崛起和老将选手的复苏。可能会诞生新的明星选手。观看他们的比赛非常令人期待。",
+      "translationEn": "The new professional baseball season has begun, and fans' expectations are high. This year, in particular, attention is focused on the rise of young players and the comeback of veteran players. New star players may emerge. It will be very exciting to watch their games.",
+      "id": "e42c64a5-f1a8-4163-9d5c-a9ba8a61626a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、昨シーズン新人ながら打率3割を記録した山田選手は、今シーズンもチームの中心として活躍することが期待されています。彼は才能があるだけでなく、努力家でもあるので、さらなる成長が見られるでしょう。怪我さえなければ、打撃タイトルを狙えるはずです。",
+      "translationZh": "例如，去年作为新人就打出过3成打击率的山田选手，本赛季也被期待作为球队的核心活跃。他不仅有才能，而且非常努力，所以可以看到他进一步成长。只要不受伤，他应该能够争夺打击王。",
+      "translationEn": "For example, player Yamada, who recorded a batting average of .300 as a rookie last season, is expected to be active as the team's core again this season. He is not only talented but also a hard worker, so further growth is expected. As long as he avoids injuries, he should be able to aim for a batting title.",
+      "id": "19302e64-fe17-42fb-bde1-5d00f7145408",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、長年チームを支えてきたベテランの田中選手にも注目です。彼は怪我で昨シーズンを棒に振りましたが、リハビリを経て今シーズン復活しました。経験豊富な彼のプレーは、若い選手たちにとっても良い刺激になるでしょう。ベテランの意地を見せてほしいですね。",
+      "translationZh": "此外，支持球队多年的老将田中选手的表现也值得关注。他去年因伤错过了整个赛季，但经过康复训练，本赛季复出。他经验丰富的比赛风格，也会给年轻选手们带来好的激励。希望能看到老将的斗志。",
+      "translationEn": "Also, veteran player Tanaka, who has supported the team for many years, is noteworthy. He missed last season due to injury, but has made a comeback this season after rehabilitation. His experienced play will also be a good inspiration for the younger players. We hope to see the veteran's pride.",
+      "id": "94f5ce2b-ddd5-4a62-af41-a4cfb43b0d79",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、新シーズンは新しい顔ぶれとベテランの活躍が入り混じり、非常に面白くなることが予想されます。各チームの戦略や選手のコンディションにも注目しながら、シーズンを通して野球を楽しみたいと思います。",
+      "translationZh": "像这样，新赛季新面孔和老将的活跃交织在一起，预计会非常精彩。一边关注各队的战略和选手的状态，一边希望能够享受整个赛季的棒球。",
+      "translationEn": "Thus, the new season is expected to be very exciting with a mix of new faces and the performance of veterans. While paying attention to each team's strategies and players' conditions, I hope to enjoy baseball throughout the season.",
+      "id": "5df9f4a3-06a5-46d7-afc5-87c7fb07035b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，涌现",
+      "meaningEn": "rise, emergence",
+      "level": "n3",
+      "exampleSentence": "若手選手の台頭が目覚ましい。",
+      "id": "036a1e21-28ba-4c36-8218-aaeccbc6af8f"
+    },
+    {
+      "word": "打率",
+      "reading": "だりつ",
+      "meaningZh": "打击率",
+      "meaningEn": "batting average",
+      "level": "n3",
+      "exampleSentence": "彼の打率はチームで一番だ。",
+      "id": "2a19e1a9-0971-410c-9800-145485c90e30"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaningZh": "中心，核心",
+      "meaningEn": "center, core",
+      "level": "n5n4",
+      "exampleSentence": "彼はチームの中心選手だ。",
+      "id": "0819e3e8-8670-4ffc-b34b-d3f7e4b6f57c"
+    },
+    {
+      "word": "努力家",
+      "reading": "どりょくか",
+      "meaningZh": "努力的人",
+      "meaningEn": "hard worker",
+      "level": "n3",
+      "exampleSentence": "彼女はとても努力家で、いつも一生懸命だ。",
+      "id": "1fc0a2a2-8f6a-40d0-8a16-077e2279c156"
+    },
+    {
+      "word": "怪我",
+      "reading": "けが",
+      "meaningZh": "伤，受伤",
+      "meaningEn": "injury",
+      "level": "n5n4",
+      "exampleSentence": "怪我をしないように注意してください。",
+      "id": "e5030e2c-83e7-4cc5-b110-e694f33211d6"
+    },
+    {
+      "word": "棒に振る",
+      "reading": "ぼうにふる",
+      "meaningZh": "（努力、时间等）白费，付诸东流",
+      "meaningEn": "to waste, to be in vain",
+      "level": "n3",
+      "exampleSentence": "努力が棒に振ってしまった。",
+      "id": "cbef0225-d207-4254-8dd0-cd51002391fd"
+    },
+    {
+      "word": "リハビリ",
+      "reading": "りはびり",
+      "meaningZh": "康复训练",
+      "meaningEn": "rehabilitation",
+      "level": "n3",
+      "exampleSentence": "怪我の後のリハビリは大切だ。",
+      "id": "e5c5f775-d370-4a2a-810f-8f363f0c1cf1"
+    },
+    {
+      "word": "刺激",
+      "reading": "しげき",
+      "meaningZh": "刺激",
+      "meaningEn": "stimulation, stimulus",
+      "level": "n3",
+      "exampleSentence": "新しい環境は良い刺激になる。",
+      "id": "59496d71-0e5e-436b-8586-ec241dd10ca1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "山田選手は今シーズン、どのような活躍が期待されていますか？",
+      "options": [
+        "新人王を獲得すること",
+        "チームの中心として活躍すること",
+        "怪我をしないことだけ",
+        "打撃タイトルを狙うことだけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "「彼は才能があるだけでなく、努力家でもあるので、さらなる成長が見られるでしょう。怪我さえなければ、打撃タイトルを狙えるはずです。」とあり、チームの中心としての活躍が期待されています。",
+      "id": "52d4a3c8-4884-46a8-9b42-b0732cbcd6d4"
+    },
+    {
+      "question": "ベテランの田中選手について、記事ではどのように述べられていますか？",
+      "options": [
+        "今シーズンも活躍できないだろうと予想されている。",
+        "怪我のため、今シーズンもプレーできない。",
+        "リハビリを経て復活し、若い選手への刺激になると期待されている。",
+        "長年チームを支えてきたが、もう引退するだろうと言われている。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「彼は怪我で昨シーズンを棒に振りましたが、リハビリを経て今シーズン復活しました。経験豊富な彼のプレーは、若い選手たちにとっても良い刺激になるでしょう。」と書かれています。",
+      "id": "3dee2ec8-3d2d-4f27-bfd8-9a951c5dfed8"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-05-472632a31a",
+  "publishedAt": "2026-09-05T06:00:00+09:00"
+}

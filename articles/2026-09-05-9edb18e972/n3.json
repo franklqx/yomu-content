@@ -1,0 +1,135 @@
+{
+  "title": "高齢者向け宅配サービス、ますます便利に",
+  "summary": "高齢者が自宅で安心して暮らせるよう、食事や買い物の宅配サービスが拡大しています。これにより、地域社会での孤立防止にもつながると期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、高齢化が進む中で、自宅で生活を続ける高齢者を支援するサービスが注目されています。特に、食事や日用品を自宅まで届けてくれる宅配サービスは、利用者が増えているようです。このサービスは、買い物に行くのが難しい高齢者にとって、大変ありがたい存在となっています。",
+      "translationZh": "近年来，随着老龄化加剧，支持老年人在家生活的服务备受关注。特别是送餐和日用品到家的宅配服务，使用者似乎在不断增加。这项服务对于出行不便的老年人来说，是非常宝贵的。",
+      "translationEn": "In recent years, with the aging population, services supporting elderly people living at home are gaining attention. In particular, delivery services that bring meals and daily necessities to their homes seem to be increasingly used. This service has become a great help for the elderly who find it difficult to go shopping.",
+      "id": "a4056c8d-1fef-42f6-b2bf-0d0f46cd9d5b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "宅配サービスが拡大したことで、高齢者は外出することなく、必要なものを手に入れることができるようになりました。そのため、体力的な負担が減るだけでなく、万が一の時にもすぐに助けを求めやすくなっています。また、配達員とのちょっとした会話が、地域社会とのつながりを感じさせることもあり、孤立防止にも役立っていると言えるでしょう。",
+      "translationZh": "随着宅配服务的扩大，老年人无需外出即可获得所需物品。因此，不仅体力负担减轻了，万一发生情况时也更容易立即寻求帮助。此外，与送货员的短暂交流能让他们感受到与社区的联系，可以说也有助于防止社会孤立。",
+      "translationEn": "With the expansion of delivery services, the elderly can obtain what they need without going out. Therefore, not only is the physical burden reduced, but it also becomes easier to seek help immediately in case of an emergency. Furthermore, brief conversations with delivery staff can make them feel connected to the community, which can be said to help prevent social isolation.",
+      "id": "198f4fd6-06e3-446d-be26-f78734d15985",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、サービスを利用するには費用がかかりますが、多くの自治体では高齢者向けの割引制度や補助金を用意しています。これらの制度を活用すれば、経済的な負担を軽減しながら、安心してサービスを受けることが可能です。今後も、より多くの高齢者が快適に暮らせるように、こうしたサービスの充実に期待したいです。",
+      "translationZh": "当然，使用服务需要费用，但许多地方政府为老年人提供了折扣制度或补贴。如果能利用这些制度，就能在减轻经济负担的同时，安心地享受服务。今后，我们也希望能进一步完善这类服务，让更多的老年人能够舒适地生活。",
+      "translationEn": "Of course, using the service incurs costs, but many local governments offer discount programs and subsidies for the elderly. By utilizing these systems, it is possible to receive services with peace of mind while reducing the financial burden. We hope for further improvements in such services to enable more elderly people to live comfortably in the future.",
+      "id": "917fc7e5-71bb-4200-9325-315a80d384cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高齢化",
+      "reading": "こうれいか",
+      "meaningZh": "老龄化",
+      "meaningEn": "aging population",
+      "level": "n3",
+      "exampleSentence": "日本は急速な高齢化が進んでいる。",
+      "id": "db407868-6ae0-4039-9bc7-bcc73d5d65b1"
+    },
+    {
+      "word": "宅配サービス",
+      "reading": "たくはいサービス",
+      "meaningZh": "送货上门服务，宅配服务",
+      "meaningEn": "delivery service",
+      "level": "n3",
+      "exampleSentence": "最近、食料品の宅配サービスを利用する人が増えている。",
+      "id": "95d418aa-35a0-4551-9146-bdde4f84713c"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，注意",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "新しい技術に世界中から注目が集まっている。",
+      "id": "ef1f0a3c-3b51-41b9-88aa-7d42928344e5"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担，负荷",
+      "meaningEn": "burden, load",
+      "level": "n3",
+      "exampleSentence": "一人暮らしの高齢者にとって、買い物は大きな負担になることがある。",
+      "id": "f2b291fd-2434-413f-8b18-824b146df62f"
+    },
+    {
+      "word": "万が一",
+      "reading": "まんがいち",
+      "meaningZh": "万一，一旦",
+      "meaningEn": "in case of emergency, if by chance",
+      "level": "n3",
+      "exampleSentence": "万が一の事故に備えて、保険に入っておくべきだ。",
+      "id": "44ca58bd-0fd1-4d3d-821e-d4761fab1b30"
+    },
+    {
+      "word": "孤立防止",
+      "reading": "こりつぼうし",
+      "meaningZh": "防止孤立",
+      "meaningEn": "prevention of isolation",
+      "level": "n3",
+      "exampleSentence": "地域活動への参加は、高齢者の孤立防止に効果的だ。",
+      "id": "cb2cd3f6-1a65-49e0-a68b-ec86f3f02b90"
+    },
+    {
+      "word": "自治体",
+      "reading": "じちたい",
+      "meaningZh": "地方政府，自治体",
+      "meaningEn": "local government",
+      "level": "n3",
+      "exampleSentence": "この制度は、多くの自治体で導入されている。",
+      "id": "55f30d60-a445-44e6-8280-0cae4242e8f7"
+    },
+    {
+      "word": "補助金",
+      "reading": "ほじょきん",
+      "meaningZh": "补助金，补贴",
+      "meaningEn": "subsidy, grant",
+      "level": "n3",
+      "exampleSentence": "新しい事業を始めるために、政府から補助金が出た。",
+      "id": "f31dea08-6b94-459e-9189-93d851d84ff4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "宅配サービスが拡大することで、高齢者はどのようなメリットを得られますか。",
+      "options": [
+        "外出の機会が増え、運動不足が解消される。",
+        "体力的な負担が減り、緊急時に助けを求めやすくなる。",
+        "家族との交流が増え、孤独を感じることがなくなる。",
+        "新しい趣味を見つける時間が増え、生活が豊かになる。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「体力的な負担が減るだけでなく、万が一の時にもすぐに助けを求めやすくなっています。」と書かれています。",
+      "id": "667239f0-cf31-495d-b03f-00727a414b77"
+    },
+    {
+      "question": "高齢者向け宅配サービスを利用する際の経済的な負担を軽減するために、どのような制度がありますか。",
+      "options": [
+        "配達員との会話が割引になる制度。",
+        "サービス利用料が無料になる緊急支援制度。",
+        "自治体による割引制度や補助金。",
+        "宅配サービス会社が独自に行うポイントプログラム。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「多くの自治体では高齢者向けの割引制度や補助金を用意しています。」と書かれています。",
+      "id": "04b1b193-a4f3-49bc-a3f3-217b5773178d"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-05-9edb18e972",
+  "publishedAt": "2026-09-05T06:00:00+09:00"
+}
