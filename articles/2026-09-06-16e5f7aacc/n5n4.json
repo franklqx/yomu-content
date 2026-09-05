@@ -1,0 +1,131 @@
+{
+  "title": "瀬戸内海の新しい旅",
+  "summary": "瀬戸内海で新しいクルーズ旅行を楽しみませんか。色々な島へ行けますよ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海はとてもきれいです。たくさんの島があります。船に乗って、島を回る旅行が人気です。これをクルーズ旅行といいます。",
+      "translationZh": "濑户内海非常美丽。那里有很多岛屿。乘坐船只游览岛屿的旅行很受欢迎。这叫做邮轮旅行。",
+      "translationEn": "The Seto Inland Sea is very beautiful. There are many islands. Traveling around the islands by boat is popular. This is called a cruise trip.",
+      "id": "1597981c-de75-4d5a-9554-724ffa9ac216",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、新しい楽しみ方が増えました。ただ景色を見るだけでなく、島で特別な体験ができます。",
+      "translationZh": "最近，增加了新的享受方式。不仅仅是看风景，还可以在岛上体验特别的事情。",
+      "translationEn": "Recently, new ways to enjoy it have increased. You can have special experiences on the islands, not just see the scenery.",
+      "id": "70ef7e06-c1a0-48db-8a64-9474e9a73d4a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある島では、地元の人が作った工芸品を体験できます。自分で作るのは楽しいです。",
+      "translationZh": "例如，在一个岛上，您可以体验当地人制作的手工艺品。自己动手做很有趣。",
+      "translationEn": "For example, on one island, you can experience crafts made by local people. Making them yourself is fun.",
+      "id": "9f34a7f4-9332-4c91-a09e-76442dabd63f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、おいしい海の幸も食べられます。新鮮な魚はとてもおいしいです。ぜひ、瀬戸内海へ行ってみてください。",
+      "translationZh": "此外，您还可以品尝到美味的海鲜。新鲜的鱼非常美味。请一定要去濑户内海试试。",
+      "translationEn": "Also, you can eat delicious seafood. Fresh fish is very tasty. Please try going to the Seto Inland Sea.",
+      "id": "a9c03c68-f5d8-484b-8b61-4bdadb70dc13",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": "瀬戸内海は大きいです。",
+      "id": "c9852b2c-3c96-4ba0-9da4-f9b63806291d"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "この島は小さいです。",
+      "id": "fadcfc35-07d4-41ab-9daf-84a64d39b3bf"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "boat, ship",
+      "level": "n5n4",
+      "exampleSentence": "船に乗ります。",
+      "id": "63f792e9-db11-4755-8522-72d78c747ee4"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "旅行は楽しいです。",
+      "id": "f5acbeff-3e2b-4e63-839d-5ceb9b0e913d"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "05e0835a-5d61-401d-b2d7-6c8ea202555c"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "文化を体験します。",
+      "id": "9637b052-8084-417a-a5c4-dd843998bd51"
+    },
+    {
+      "word": "工芸品",
+      "reading": "こうげいひん",
+      "meaningZh": "手工艺品",
+      "meaningEn": "handicraft",
+      "level": "n3",
+      "exampleSentence": "きれいな工芸品です。",
+      "id": "83132222-95e5-4e00-8988-30000b2ee146"
+    },
+    {
+      "word": "海の幸",
+      "reading": "うみのさち",
+      "meaningZh": "海鲜",
+      "meaningEn": "seafood",
+      "level": "n3",
+      "exampleSentence": "海の幸を食べます。",
+      "id": "3f3a799e-8fe3-468a-a042-c50eba56c5be"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "クルーズ旅行でどんなことができますか。",
+      "options": [
+        "島で特別な体験ができる",
+        "きれいな景色だけ見られる",
+        "大きな船に乗るだけだ",
+        "昔の歌を歌う"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「島で特別な体験ができます。」と書いてあります。",
+      "id": "7df5c681-8054-4111-8f41-514b59b5ea33"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-06-16e5f7aacc",
+  "publishedAt": "2026-09-06T06:00:00+09:00"
+}

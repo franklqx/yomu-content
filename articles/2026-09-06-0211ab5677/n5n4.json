@@ -1,0 +1,122 @@
+{
+  "title": "ヴィーガン和食が増えています",
+  "summary": "最近、日本でもヴィーガン向けの和食が増えています。たくさんの人が楽しんでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本で「ヴィーガン」の人が増えています。ヴィーガンは、肉や魚、卵や乳製品などを食べない人のことです。そのため、ヴィーガン向けの食べ物がもっと必要になっています。",
+      "translationZh": "最近，日本的“纯素食者”在增加。纯素食者是指不吃肉、鱼、蛋和奶制品的人。因此，对纯素食者的食物需求越来越大。",
+      "translationEn": "Recently, the number of 'vegans' in Japan is increasing. Vegans are people who do not eat meat, fish, eggs, or dairy products. Because of this, there is a growing need for vegan-friendly foods.",
+      "id": "7d276fdb-af71-4584-b94e-12854b9cf4b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔からある和食の中にも、ヴィーガンが食べられるものがたくさんあります。例えば、野菜たっぷりの「けんちん汁」や、豆腐を使った料理です。これらは、もともと肉や魚を使わないことが多いです。",
+      "translationZh": "在日本传统的和食中，也有很多是纯素食者可以吃的。例如，蔬菜很多的“けんちん汁”（蔬菜汤）和用豆腐做的料理。这些菜肴通常本来就不使用肉或鱼。",
+      "translationEn": "Among traditional Japanese dishes, there are many that vegans can eat. For example, 'kenchinjiru' (a vegetable soup) full of vegetables, and dishes using tofu. These often do not use meat or fish originally.",
+      "id": "dc76c49e-cb69-4a5a-8769-f1b4ad05fc4b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近は、レストランでもヴィーガン向けの和食メニューを出すお店が増えました。お寿司や天ぷらでも、工夫をしてヴィーガン対応のメニューを作っています。色々な人が和食を楽しめるようになりました。",
+      "translationZh": "最近，提供纯素食者菜单的和食的餐厅也增加了。即使是寿司和天妇罗，也通过创新制作了适合纯素食者的菜单。现在，各种各样的人都能享受和食了。",
+      "translationEn": "Recently, more restaurants are offering Japanese menus for vegans. Even for sushi and tempura, they are creating vegan-friendly options with innovation. Now, a wide variety of people can enjoy Japanese cuisine.",
+      "id": "a8d2eec1-55a9-4dbf-8016-99b23a35d805",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン向けの和食は、ヘルシーで美味しいので人気です。これからも、もっと色々なヴィーガン和食が出てくるでしょう。楽しみですね。",
+      "translationZh": "纯素食者向けの和食因其健康美味而受欢迎。今后，应该还会出现更多各种各样的纯素食和食。我很期待。",
+      "translationEn": "Japanese food for vegans is popular because it is healthy and delicious. In the future, more and more varieties of vegan Japanese dishes will likely appear. I'm looking forward to it.",
+      "id": "e781d1e6-db35-480d-9311-248c0931a304",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "増えています",
+      "reading": "ふえています",
+      "meaningZh": "在增加",
+      "meaningEn": "is increasing",
+      "level": "n5n4",
+      "exampleSentence": "ヴィーガンの人が増えています。",
+      "id": "afb1ac0d-6843-410d-a642-8118df3a7f6e"
+    },
+    {
+      "word": "乳製品",
+      "reading": "にゅうせいひん",
+      "meaningZh": "奶制品",
+      "meaningEn": "dairy products",
+      "level": "n5n4",
+      "exampleSentence": "牛乳やチーズは乳製品です。",
+      "id": "1ea649b3-65f8-4e2b-ad28-bce54ef773cb"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaningZh": "需要",
+      "meaningEn": "need, necessary",
+      "level": "n5n4",
+      "exampleSentence": "水が必要です。",
+      "id": "751e9368-2251-4e51-ac72-6ff652d5667b"
+    },
+    {
+      "word": "例えば",
+      "reading": "たとえば",
+      "meaningZh": "例如",
+      "meaningEn": "for example",
+      "level": "n5n4",
+      "exampleSentence": "果物は何が好きですか。例えば、りんごが好きです。",
+      "id": "41e60cf1-920b-4e0d-a1f8-047224799244"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "ingenuity, device, good idea",
+      "level": "n5n4",
+      "exampleSentence": "新しい工夫で、もっと美味しくなりました。",
+      "id": "c0eb4e23-87ec-440a-b234-7755902f30d2"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaningZh": "对应，对应措施",
+      "meaningEn": "dealing with, support, response",
+      "level": "n3",
+      "exampleSentence": "お客様の要望に対応します。",
+      "id": "c08663f5-6549-4b2c-80a1-2d8739bd205f"
+    },
+    {
+      "word": "ヘルシー",
+      "reading": "ヘルシー",
+      "meaningZh": "健康的",
+      "meaningEn": "healthy",
+      "level": "n5n4",
+      "exampleSentence": "野菜はヘルシーな食べ物です。",
+      "id": "58e4ab93-f7a2-4a07-bc85-8e276f6aa5fd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガンは、どんなものを食べない人のことですか。",
+      "options": [
+        "肉や魚だけ",
+        "肉、魚、卵、乳製品など",
+        "野菜や果物だけ",
+        "すべての食べ物"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ヴィーガンは、肉や魚、卵や乳製品などを食べない人のことです。」と書いてあります。",
+      "id": "5d536d8a-c6af-4609-962b-c3198be9ad48"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-06-0211ab5677",
+  "publishedAt": "2026-09-06T06:00:00+09:00"
+}

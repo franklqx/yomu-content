@@ -1,0 +1,115 @@
+{
+  "title": "スマートシティ、実験成功！",
+  "summary": "新しい街の実験が終わりました。たくさんの良い結果がありました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "これは新しい街の実験の話です。この街は「スマートシティ」と呼ばれます。たくさんの技術を使います。例えば、便利な交通や、安全な生活です。この実験は３年間行われました。",
+      "translationZh": "这是关于一座新城市的实验的故事。这座城市叫做“智慧城市”。它使用了许多技术。例如，便捷的交通和安全的生活。这次实验进行了三年。",
+      "translationEn": "This is a story about an experiment in a new city. This city is called a \"smart city.\" It uses a lot of technology. For example, convenient transportation and safe living. This experiment was conducted for three years.",
+      "id": "2a9a0a5c-60f8-4d29-af0e-86185294d6b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験では、車が自動で走るテストをしました。人も車も安全でした。また、ゴミ箱が自動で知らせるシステムも作りました。ゴミがいっぱいになったら、すぐ分かります。",
+      "translationZh": "在实验中，我们测试了汽车自动驾驶。人和车辆都很安全。另外，我们还开发了一个垃圾箱自动通知的系统。垃圾满了之后，我们马上就知道。",
+      "explanation": "実験では、車が自動で走るテストをしました。人も車も安全でした。また、ゴミ箱が自動で知らせるシステムも作りました。ゴミがいっぱいになったら、すぐ分かります。",
+      "id": "3d136dac-bb91-4b5c-8aba-4ee19f2928fc",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    },
+    {
+      "text": "この実験で、街はもっと便利になりました。人々はもっと安心して生活できました。技術は私たちの生活を良くします。このスマートシティの技術は、他の街でも使われるかもしれません。",
+      "translationZh": "通过这次实验，城市变得更加便利了。人们也能更安心地生活。技术能够改善我们的生活。这个智慧城市的技术，也许会在其他城市也被使用。",
+      "translationEn": "Through this experiment, the city became more convenient. People could live with more peace of mind. Technology improves our lives. The technology of this smart city may be used in other cities as well.",
+      "id": "35069984-1f2e-481a-bbed-07c371238792",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スマートシティ",
+      "reading": "すまーとしティ",
+      "meaningZh": "智慧城市",
+      "meaningEn": "smart city",
+      "level": "n5n4",
+      "exampleSentence": "スマートシティは便利です。",
+      "id": "f493ee62-ea33-46dc-a8d9-862104d35429"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術の実験をしました。",
+      "id": "014745d5-1793-4885-8469-796ee6d1a4af"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この技術は素晴らしいです。",
+      "id": "c9bebd0b-bcd9-4298-90be-7bcf8e431a18"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaningZh": "交通",
+      "meaningEn": "transportation",
+      "level": "n5n4",
+      "exampleSentence": "交通はとても便利です。",
+      "id": "67ae5fd7-53da-4fc4-ab2f-7db4e0940de4"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaningZh": "自动",
+      "meaningEn": "automatic",
+      "level": "n5n4",
+      "exampleSentence": "車が自動で走ります。",
+      "id": "0d405331-3348-4e14-8fc1-ff6c272912fe"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety",
+      "level": "n5n4",
+      "exampleSentence": "ここは安全な場所です。",
+      "id": "a34f5b43-4c1e-4c20-a751-56d55b22ffa8"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリは便利です。",
+      "id": "fa584907-742c-43b4-96b0-fe0533248a2a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この街の実験は何年間行われましたか。",
+      "options": [
+        "１年間",
+        "２年間",
+        "３年間",
+        "４年間"
+      ],
+      "correctIndex": 2,
+      "explanation": "この実験は３年間行われました。",
+      "id": "50b34e6f-e9c0-4181-ad37-f27163274682"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-06-1ed3373102",
+  "publishedAt": "2026-09-06T06:00:00+09:00"
+}
