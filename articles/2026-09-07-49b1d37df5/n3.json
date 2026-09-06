@@ -1,0 +1,135 @@
+{
+  "title": "話題のフードトラックと街の新しい顔",
+  "summary": "最近、街のあちこちでカラフルなフードトラックを見かけるようになりました。これらは単に食事を提供するだけでなく、都市の再開発にも影響を与えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市部でフードトラックの活躍が目覚ましいですね。おしゃれなデザインの車から、おいしい料理が次々と提供されています。週末には公園や広場に多くの人が集まり、賑わいを見せています。これは、新しい食の楽しみ方として、多くの人に受け入れられている証拠でしょう。",
+      "translationZh": "最近，在市中心，餐车的身影非常活跃。从设计时髦的车辆里，美味的料理源源不断地供应出来。周末，公园和广场聚集了许多人，一片热闹景象。这可以说是新的饮食方式被许多人接受的证明吧。",
+      "translationEn": "Recently, food trucks have become remarkably active in urban areas. Delicious food is served one after another from stylishly designed vehicles. On weekends, many people gather in parks and plazas, creating a lively atmosphere. This is likely proof that a new way of enjoying food is being accepted by many.",
+      "id": "71f7cc99-75f6-457b-b20e-76a2bc343589",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのフードトラックは、都市の再開発とも深く関係があります。特に、まだ開発が進んでいないエリアや、新しい施設ができるまでの仮のスペースで、フードトラックが集まるイベントが企画されることがあります。そうすることで、地域に活気をもたらし、人々が集まるきっかけを作ることができるのです。",
+      "translationZh": "这些餐车与都市的再开发也有着紧密的联系。特别是在尚未充分开发或即将建设新设施前的临时空间里，有时会企划聚集餐车的活动。通过这样做，可以为地区带来活力，并创造人们聚集的契机。",
+      "translationEn": "These food trucks are also deeply related to urban redevelopment. Especially in areas that have not yet been fully developed, or in temporary spaces before new facilities are built, events gathering food trucks are sometimes organized. By doing so, they can bring vitality to the region and create opportunities for people to gather.",
+      "id": "e1e89544-8d1f-4742-9637-442ddd3a55e1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックの登場は、空き地や古い建物を活用する新しい都市開発の形とも言えます。地域住民だけでなく、観光客にとっても魅力的なスポットが生まれることで、街全体が活性化されることが期待されています。今後も、このような新しい取り組みが都市の魅力を高めていくことでしょう。",
+      "translationZh": "餐车的出现，可以说是活用空地和旧建筑的新型城市开发方式。随着不仅为当地居民，也为游客创造了有魅力的据点，城市整体有望得到活性化。今后，这样的新举措想必也会不断提升城市的魅力。",
+      "translationEn": "The appearance of food trucks can be said to be a new form of urban development that utilizes vacant lots and old buildings. By creating attractive spots not only for local residents but also for tourists, the entire city is expected to be revitalized. Going forward, such new initiatives will likely continue to enhance the appeal of the city.",
+      "id": "d5c957a1-d879-46aa-a0b3-a14cc5f2e48f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车，食品车",
+      "meaningEn": "food truck",
+      "level": "n3",
+      "exampleSentence": "週末、公園にたくさんのフードトラックが集まった。",
+      "id": "d0dc382f-3777-4507-b5c2-35d6e7a3f6fe"
+    },
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "惊人的，显著的",
+      "meaningEn": "remarkable, striking",
+      "level": "n3",
+      "exampleSentence": "彼の日本語は目覚ましい速さで上達した。",
+      "id": "a13693ef-856f-4d1f-b6ac-f3e5096efee1"
+    },
+    {
+      "word": "賑わい",
+      "reading": "にぎわい",
+      "meaningZh": "热闹，繁荣",
+      "meaningEn": "bustle, liveliness",
+      "level": "n3",
+      "exampleSentence": "祭りの会場は多くの人で賑わっていた。",
+      "id": "414ee5fb-4088-4a0d-aa7e-98b1a3956726"
+    },
+    {
+      "word": "受け入れられる",
+      "reading": "うけいれられる",
+      "meaningZh": "被接受，被接纳",
+      "meaningEn": "to be accepted, to be welcomed",
+      "level": "n3",
+      "exampleSentence": "新しいアイデアはすぐに受け入れられた。",
+      "id": "e5793696-47b6-403a-ab92-743d385b1695"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发",
+      "meaningEn": "redevelopment",
+      "level": "n3",
+      "exampleSentence": "この地域は大規模な再開発が進められている。",
+      "id": "7eaf5d2a-64b1-4c40-b552-1ff05931949f"
+    },
+    {
+      "word": "仮の",
+      "reading": "かりの",
+      "meaningZh": "临时的，暂时的",
+      "meaningEn": "temporary",
+      "level": "n3",
+      "exampleSentence": "これは仮の住所です。",
+      "id": "599be838-b672-43f7-b78d-54dcc82d7672"
+    },
+    {
+      "word": "きっかけ",
+      "reading": "きっかけ",
+      "meaningZh": "契机，机会，开头",
+      "meaningEn": "chance, start, cue",
+      "level": "n3",
+      "exampleSentence": "友達との会話が、彼らの交際のきっかけとなった。",
+      "id": "c7c11a01-2955-45c0-9724-f2572265f877"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，活跃化",
+      "meaningEn": "activation, revitalization",
+      "level": "n3",
+      "exampleSentence": "商店街の活性化のために、新しいイベントが企画された。",
+      "id": "0b25eace-4e7e-4ef8-aaa1-ef6098659117"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックのイベントは、どのような場所でも企画されることがありますか？",
+      "options": [
+        "はい、どこでも自由にできます。",
+        "いいえ、特に開発が進んでいないエリアや仮のスペースで企画されることが多いです。",
+        "いいえ、必ず古い建物の前で行われます。",
+        "はい、公園や広場があればどこでも可能です。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文によると、「特に、まだ開発が進んでいないエリアや、新しい施設ができるまでの仮のスペースで、フードトラックが集まるイベントが企画されることがあります。」とあります。",
+      "id": "63efe86e-844c-4c01-908a-196bee51accf"
+    },
+    {
+      "question": "フードトラックの登場は、都市にとってどのような良い影響が期待されていますか？",
+      "options": [
+        "交通渋滞を引き起こす。",
+        "古い建物がさらに古くなる。",
+        "地域に活気をもたらし、街全体を活性化させる。",
+        "開発が進んでいないエリアがそのままになる。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「地域に活気をもたらし、人々が集まるきっかけを作ることができるのです。」や「街全体が活性化されることが期待されています。」と述べられています。",
+      "id": "25ec3d59-49e3-4eac-bcdf-9a2ad94d9492"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-07-49b1d37df5",
+  "publishedAt": "2026-09-07T06:00:00+09:00"
+}

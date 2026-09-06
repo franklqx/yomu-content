@@ -1,0 +1,131 @@
+{
+  "title": "新しいお正月の買い方",
+  "summary": "日本では、お正月が近づいています。最近、買い物の仕方が変わってきました。便利な方法が増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐお正月です。日本では、お正月は家族で集まる大切な日です。そのため、いろいろな準備をします。例えば、食べ物や飾りを買います。",
+      "translationZh": "新年快到了。在日本，新年是和家人团聚的重要日子。因此，会做各种准备。例如，购买食物和装饰品。",
+      "translationEn": "New Year is coming soon. In Japan, New Year is an important day to gather with family. Therefore, various preparations are made. For example, food and decorations are bought.",
+      "id": "6cb860e8-d491-455c-9455-d206647685c5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、お店に行って直接買いました。でも、今はインターネットで買う人が増えています。家でゆっくり商品を選べます。とても便利です。",
+      "translationZh": "以前，人们会直接去商店购买。但是，现在通过互联网购物的人增加了。可以在家悠闲地选择商品。非常方便。",
+      "translationEn": "In the past, people bought things by going directly to stores. However, now more people are buying online. You can choose products slowly at home. It is very convenient.",
+      "id": "0c13516e-b21d-44bf-989d-176027826661",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、限定の商品も人気です。例えば、有名なお店のおせち料理です。予約をしておくと、お正月に届けてくれます。忙しい人には助かります。",
+      "translationZh": "此外，限定商品也很受欢迎。例如，有名店制作的年菜。如果提前预约，新年时会送到家。这对忙碌的人来说很有帮助。",
+      "translationEn": "Also, limited edition products are popular. For example, osechi-ryori (New Year's food) from famous restaurants. If you make a reservation, it will be delivered on New Year's Day. This is helpful for busy people.",
+      "id": "66a3eb97-acc0-429a-ac55-0451c949452e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい買い物の仕方は、もっと簡単で楽しいです。皆さんも、試してみてはどうですか。",
+      "translationZh": "这种新的购物方式更加简单有趣。大家不妨也试试看？",
+      "translationEn": "This new way of shopping is easier and more fun. Why don't you try it too?",
+      "id": "6dadf284-e324-47f5-8fde-eb9f6f81d5ac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お正月",
+      "reading": "おしょうがつ",
+      "meaningZh": "新年",
+      "meaningEn": "New Year",
+      "level": "n5n4",
+      "exampleSentence": "お正月は家族と過ごします。",
+      "id": "ea914e1e-a7f4-4067-8340-20a0faca62c9"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしました。",
+      "id": "85d061f4-9865-4d1c-b14a-d9b30f6f17de"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰品",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "部屋にきれいな飾りをつけました。",
+      "id": "9ac802f3-b796-4ade-b030-243f6a6eae19"
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaningZh": "直接",
+      "meaningEn": "directly",
+      "level": "n5n4",
+      "exampleSentence": "店に直接行きました。",
+      "id": "d8989cdb-29af-482f-8aed-709296341542"
+    },
+    {
+      "word": "インターネット",
+      "reading": "インターネット",
+      "meaningZh": "互联网",
+      "meaningEn": "internet",
+      "level": "n5n4",
+      "exampleSentence": "インターネットで調べました。",
+      "id": "6fbb46c3-c21b-4e24-85db-b9e2ccd88405"
+    },
+    {
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "meaningZh": "选择",
+      "meaningEn": "to choose",
+      "level": "n5n4",
+      "exampleSentence": "色を選びます。",
+      "id": "c287e2c2-a8ff-4a5c-b718-b4bbb59475b1"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n3",
+      "exampleSentence": "これは限定の品物です。",
+      "id": "8319a7ae-b221-43ff-875f-463c92b6e674"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "b2ead4bb-c34b-4ecd-988d-1baae5457452"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、お正月の準備で、インターネットで買う人はどうして増えていますか。",
+      "options": [
+        "お店が遠いから",
+        "家でゆっくり選べるから",
+        "商品が安いから",
+        "友達が勧めたから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「今はインターネットで買う人が増えています。家でゆっくり商品を選べます。とても便利です。」とあります。",
+      "id": "95c019e7-d4fa-4303-8e0e-517b5a77927a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-07-2e6b21cf22",
+  "publishedAt": "2026-09-07T06:00:00+09:00"
+}

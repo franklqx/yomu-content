@@ -1,0 +1,113 @@
+{
+  "title": "移動する人気店！フードトラック",
+  "summary": "最近、街でよく見かけるフードトラック。おいしい食べ物がたくさんあります。街も少しずつ変わっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街で「フードトラック」という車をよく見ます。これは、おいしい食べ物を作って売る移動するお店です。色々な種類の食べ物があります。例えば、ホットドッグ、タコス、アイスクリームなどです。人気のお店は、いつも人が並んでいます。",
+      "translationZh": "最近，在街上经常能看到一种叫做“餐车”的车。这是一种制作和贩卖美味食物的移动店铺。有各种各样的食物。比如，热狗、墨西哥卷饼、冰淇淋等。受欢迎的店总是排着队。",
+      "translationEn": "Recently, we often see cars called 'food trucks' in town. These are mobile shops that make and sell delicious food. There are various kinds of food. For example, hot dogs, tacos, and ice cream. Popular shops always have people lining up.",
+      "id": "21e9abf8-1c7d-4614-8757-ed6189d35ba9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、色々な場所に移動します。公園の前や、駅の近く、イベントの時などです。だから、色々な人が、色々な場所で楽しむことができます。新しい場所でお店を見つけるのは、楽しい経験です。",
+      "translationZh": "餐车会移动到各种地方。比如公园前、车站附近、或者活动的时候。因此，各种各样的人可以在不同的地方享受美食。在新的地方发现店铺，是一次愉快的体验。",
+      "translationEn": "Food trucks move to various places. For example, in front of parks, near stations, or during events. So, many different people can enjoy them in different locations. Finding a shop in a new place is a fun experience.",
+      "id": "dc7a901c-c1f8-43b6-9d9f-94bfd9bdc2a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "街の様子も、フードトラックのおかげで少しずつ変わっています。新しいお店ができると、街がもっと元気になることがあります。人々が集まる場所が増えるのは、とても良いことだと思います。",
+      "translationZh": "在餐车的带动下，街道的景象也在一点点改变。新的店铺出现，可以让街道变得更加有活力。我认为增加人们聚集的地方是一件非常好的事情。",
+      "translationEn": "The appearance of the town is also changing little by little thanks to food trucks. When new shops open, the town can become more lively. I think it's a very good thing to have more places where people gather.",
+      "id": "8194a2b8-cd28-421d-9d08-2f46f223f53a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし街でフードトラックを見かけたら、ぜひ立ち寄ってみてください。おいしい発見があるかもしれません。新しい街の楽しみ方の一つです。",
+      "translationZh": "如果在街上看到餐车，请一定要去看看。也许会有美味的发现。这是享受新城市的一种方式。",
+      "translationEn": "If you see a food truck in town, please stop by. You might make a delicious discovery. It's one way to enjoy a new city.",
+      "id": "13edb3b7-5ce3-4d97-9780-ee2ba400a402",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "街で新しいフードトラックを見つけました。",
+      "id": "29d1f52e-2841-4268-aea9-790428bf341b"
+    },
+    {
+      "word": "移動する",
+      "reading": "いどうする",
+      "meaningZh": "移动，迁移",
+      "meaningEn": "to move, to transfer",
+      "level": "n5n4",
+      "exampleSentence": "このお店は場所を移動します。",
+      "id": "ac7d4b4b-9c00-43c0-8d20-2e8ac1db03a3"
+    },
+    {
+      "word": "様々",
+      "reading": "さまざま",
+      "meaningZh": "各种各样",
+      "meaningEn": "various, diverse",
+      "level": "n5n4",
+      "exampleSentence": "様々なお客さんが来ました。",
+      "id": "0761a3e5-f6a4-4628-b7f1-5e1a8622f6db"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "活力，精神",
+      "meaningEn": "energy, spirit, liveliness",
+      "level": "n5n4",
+      "exampleSentence": "街が元気になりました。",
+      "id": "c0730a73-6733-4d40-a921-3453ff1a3986"
+    },
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaningZh": "开发",
+      "meaningEn": "development",
+      "level": "n3",
+      "exampleSentence": "この地域は新しく開発されています。",
+      "id": "cfecce05-6d3b-48f1-9fb2-2a68d02b688c"
+    },
+    {
+      "word": "立ち寄る",
+      "reading": "たちよる",
+      "meaningZh": "顺便访问，顺路去",
+      "meaningEn": "to drop in, to stop by",
+      "level": "n3",
+      "exampleSentence": "駅に立ち寄りました。",
+      "id": "1927ba3c-2688-4eb3-93e2-44697e76676b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックは、どんなお店ですか？",
+      "options": [
+        "いつも同じ場所にいるお店",
+        "移動するお店",
+        "大きい建物のお店",
+        "特別なイベントだけ開くお店"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「これは、おいしい食べ物を作って売る移動するお店です。」とあります。",
+      "id": "05ced983-128b-41c2-aaa0-377f5fd15d49"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-07-49b1d37df5",
+  "publishedAt": "2026-09-07T06:00:00+09:00"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "新しい年、新しい買い方：お正月準備のトレンド",
+  "summary": "昔ながらのお正月準備も変化しています。最近は、オンラインでの注文や、簡略化された準備方法が人気を集めています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、新しい年を迎えるために、お正月準備が大切にされてきました。しかし、最近では、この準備の仕方に少しずつ変化が見られます。例えば、昔はお店に行って品物を選んでいましたが、今はインターネットで注文する人が増えています。これは、忙しい現代人にとって、時間を節約できる便利な方法だからです。",
+      "translationZh": "在日本，为了迎接新的一年，新年准备被认为是重要的。然而，最近这种准备方式也逐渐发生着变化。例如，以前人们会去商店挑选商品，但现在越来越多的人选择在网上订购。这是因为对于忙碌的现代人来说，这是一种可以节省时间的便捷方式。",
+      "translationEn": "In Japan, New Year preparations have been cherished to welcome the new year. However, recently, there have been gradual changes in how these preparations are made. For instance, people used to go to stores to select items, but now more and more people are ordering online. This is because, for busy modern people, it's a convenient method that saves time.",
+      "id": "0f77b655-4c54-48b4-bc51-380a82d4c9c1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、おせち料理の準備も、昔ながらの全てを手作りするというスタイルから、一部を市販品で済ませたり、個別に好きなものだけを選ぶといった簡略化された方法が選ばれるようになっています。これは、手間を省きたい、あるいはアレルギーなどの理由で全ての食材を食べられない、といった事情があるためです。このように、ライフスタイルに合わせて、お正月準備も多様化しているのです。",
+      "translationZh": "此外，在准备御节料理时，也出现了从传统的全部手工制作的风格，转变为部分使用市售品，或者只选择自己喜欢的单品来简化准备方式的趋势。这是因为人们希望节省工夫，或者由于过敏等原因无法食用所有食材。就这样，新年准备也根据生活方式的多样化而变得更加多样。",
+      "translationEn": "Furthermore, in preparing Osechi Ryori (New Year's traditional dishes), there's a shift from the traditional style of making everything by hand to simplified methods, such as using some store-bought items or choosing only individual dishes one likes. This is due to reasons like wanting to save effort or not being able to eat all ingredients due to allergies. In this way, New Year preparations are also diversifying to match lifestyles.",
+      "id": "6e296eef-8e8b-4c06-bf29-5e4f76801896",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、お正月飾りのトレンドも変わってきています。伝統的なしめ飾りやお正月飾りも人気がありますが、最近では、もっとコンパクトで、モダンなデザインのものが注目されています。マンションなど、スペースが限られている住まいでも飾りやすいものが好まれる傾向があります。おしゃれで、かつ場所を取らない飾り方が、新しい消費者のニーズに応えていると言えるでしょう。",
+      "translationZh": "此外，新年装饰品的趋势也在变化。虽然传统的注连饰和新年装饰品也很受欢迎，但最近更小巧、设计现代的装饰品正受到关注。倾向于选择即使在公寓等空间有限的住所也能轻松摆放的装饰品。可以说，时尚且不占地方的装饰方式，正在满足新消费者的需求。",
+      "translationEn": "Furthermore, the trend in New Year decorations is also changing. While traditional Shimekazari and New Year ornaments remain popular, recently, more compact and modern designs are gaining attention. There's a tendency to prefer decorations that are easy to display even in homes with limited space, such as apartments. It can be said that stylish and space-saving decoration methods are meeting the needs of new consumers.",
+      "id": "ba8d11ad-2c76-4e41-9f4c-17efdaccfab1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "迎える",
+      "reading": "むかえる",
+      "meaningZh": "迎接",
+      "meaningEn": "to welcome",
+      "level": "n5n4",
+      "exampleSentence": "新しい年を温かく迎える準備をしましょう。",
+      "id": "34b1b07c-1ab0-420f-b0ee-e950afffa7f9"
+    },
+    {
+      "word": "変化",
+      "reading": "へんか",
+      "meaningZh": "变化",
+      "meaningEn": "change",
+      "level": "n5n4",
+      "exampleSentence": "技術の進歩は社会に大きな変化をもたらしました。",
+      "id": "e4c82956-96f0-4508-81f5-9505ddba7ed4"
+    },
+    {
+      "word": "インターネット",
+      "reading": "インターネット",
+      "meaningZh": "互联网",
+      "meaningEn": "internet",
+      "level": "n5n4",
+      "exampleSentence": "インターネットで情報を集めるのは簡単です。",
+      "id": "ba0e143e-b8ae-42ab-b6fb-fb8276829e56"
+    },
+    {
+      "word": "節約",
+      "reading": "せつやく",
+      "meaningZh": "节约",
+      "meaningEn": "saving",
+      "level": "n3",
+      "exampleSentence": "光熱費の節約のために、こまめに電気を消すようにしています。",
+      "id": "158542ad-dac3-4d33-b55e-6b3221d25b5b"
+    },
+    {
+      "word": "おせち料理",
+      "reading": "おせちりょうり",
+      "meaningZh": "御节料理（新年传统料理）",
+      "meaningEn": "Osechi Ryori (traditional Japanese New Year dishes)",
+      "level": "n3",
+      "exampleSentence": "おせち料理は、家族の健康と幸せを願って作られます。",
+      "id": "81846655-9739-4fad-b7d7-730beee7ee6e"
+    },
+    {
+      "word": "市販品",
+      "reading": "しはんひん",
+      "meaningZh": "市售品",
+      "meaningEn": "commercially available product",
+      "level": "n3",
+      "exampleSentence": "時間がないので、一部の料理は市販品を利用しました。",
+      "id": "8eb91893-ef44-4db3-9a51-3819363f84ac"
+    },
+    {
+      "word": "簡略化",
+      "reading": "かんりゃくか",
+      "meaningZh": "简化",
+      "meaningEn": "simplification",
+      "level": "n3",
+      "exampleSentence": "会議のプロセスを簡略化することで、効率が上がりました。",
+      "id": "99d03f91-f194-44ce-9771-04fa13464dbf"
+    },
+    {
+      "word": "モダン",
+      "reading": "モダン",
+      "meaningZh": "现代的",
+      "meaningEn": "modern",
+      "level": "n3",
+      "exampleSentence": "この家具はデザインがモダンで、部屋によく合います。",
+      "id": "1834f56b-b5e2-4025-bc0b-40ca4b825884"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近のお正月準備で、インターネットを使う人が増えている理由は何ですか？",
+      "options": [
+        "値段が安いから",
+        "お店が近くにないから",
+        "時間を節約できるから",
+        "伝統的な方法だから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「忙しい現代人にとって、時間を節約できる便利な方法だからです」と説明されています。",
+      "id": "d808303a-a71e-46a2-8e41-861e5e1611e2"
+    },
+    {
+      "question": "おせち料理の準備において、どのような変化が見られますか？",
+      "options": [
+        "全て手作りする人が増えている",
+        "市販品を利用したり、簡略化する方法が選ばれている",
+        "高級食材を使うのが一般的になっている",
+        "家族全員で作るのが当たり前になっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章によると、「昔ながらの全てを手作りするというスタイルから、一部を市販品で済ませたり、個別に好きなものだけを選ぶといった簡略化された方法が選ばれるようになっています」とあります。",
+      "id": "e2dfe1e2-4ded-4262-b203-b561a7495141"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-07-2e6b21cf22",
+  "publishedAt": "2026-09-07T06:00:00+09:00"
+}

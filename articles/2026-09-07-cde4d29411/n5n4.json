@@ -1,0 +1,122 @@
+{
+  "title": "二次元アイドルの進化",
+  "summary": "二次元アイドルのライブは昔と今で大きく変わりました。技術が進んで、もっと楽しくなりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルのライブは絵と音楽だけでした。ファンは画面を見て、歌を聞いていました。とてもシンプルでした。でも、楽しかったです。",
+      "translationZh": "以前，二次元偶像的演唱会只有画面和音乐。粉丝看着屏幕，听着歌曲。非常简单。但是，也很开心。",
+      "translationEn": "In the past, 2D idol live shows were just pictures and music. Fans watched the screen and listened to the songs. It was very simple. But it was also fun.",
+      "id": "0b6cc132-c03b-44d8-a4ae-e5e8d3e28b90",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、技術が進んで、ライブはもっとすごくなりました。３Dやホログラムを使います。アイドルはステージにいるみたいに見えます。光や映像もきれいです。",
+      "translationZh": "最近，技术进步了，演唱会变得更厉害了。使用了3D和全息投影。偶像看起来就像真的在舞台上一样。灯光和影像也很漂亮。",
+      "translationEn": "Recently, technology has advanced, and live shows have become more amazing. They use 3D and holograms. The idols look like they are really on stage. The lights and visuals are also beautiful.",
+      "id": "9db1981b-2be9-4a50-9d26-ab824a632dea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "観客も楽しむことができます。特別なメガネをかけたり、スマホを使ったりします。アイドルと一緒に歌ったり、踊ったりする気分になります。これは新しい体験です。",
+      "translationZh": "观众也可以享受其中。戴上特殊的眼镜，或者使用手机。感觉就像和偶像一起唱歌跳舞一样。这是一种新的体验。",
+      "translationEn": "The audience can also enjoy themselves. They wear special glasses or use their smartphones. It feels like singing and dancing with the idols. This is a new experience.",
+      "id": "41935e8d-f10f-4359-b7b0-01c8378a9623",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも二次元アイドルのライブはもっと進化するでしょう。新しい技術で、もっと感動的なステージが見られるかもしれません。とても楽しみです。",
+      "translationZh": "今后，二次元偶像的演唱会还会继续进步。用新技术，也许能看到更感动的舞台。我非常期待。",
+      "translationEn": "In the future, 2D idol live shows will likely evolve further. With new technologies, we might be able to see more moving performances. I am very much looking forward to it.",
+      "id": "d72cd2d4-720a-4b55-bf10-9f6b98d78278",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化，发展",
+      "meaningEn": "evolution, development",
+      "level": "n5n4",
+      "exampleSentence": "技術が進化しました。",
+      "id": "06eb77ef-4bb4-42d4-86dc-1cb700318718"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術を使います。",
+      "id": "ad5ec80e-e006-407f-ae3c-60ad393d50b1"
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaningZh": "观众",
+      "meaningEn": "audience, spectator",
+      "level": "n5n4",
+      "exampleSentence": "観客はとても喜んでいます。",
+      "id": "e0d6fd60-b584-4073-a305-66747b15d1d8"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい体験です。",
+      "id": "237a28e2-ea82-4fb0-b41a-5b630ed7145b"
+    },
+    {
+      "word": "感動的",
+      "reading": "かんどうてき",
+      "meaningZh": "感人的，动人的",
+      "meaningEn": "moving, touching",
+      "level": "n3",
+      "exampleSentence": "感動的な話を聞きました。",
+      "id": "6a0294bc-2e85-464a-98a1-801e7991b6dc"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "813f5d91-c0ef-4a3b-97d5-dff6484e5960"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaningZh": "心情，感觉",
+      "meaningEn": "feeling, mood",
+      "level": "n5n4",
+      "exampleSentence": "楽しい気分です。",
+      "id": "3dcd2872-0b8f-4388-92f5-44f8bbbb92ad"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の二次元アイドルのライブで、どんな技術が使われていますか。",
+      "options": [
+        "昔の絵と音楽だけ",
+        "３Dやホログラム、光や映像",
+        "特別なメガネだけ",
+        "スマホだけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近、技術が進んで、ライブはもっとすごくなりました。３Dやホログラムを使います。光や映像もきれいです。」",
+      "id": "c8c45275-2580-49af-a2cf-e453b6db7253"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-07-cde4d29411",
+  "publishedAt": "2026-09-07T06:00:00+09:00"
+}

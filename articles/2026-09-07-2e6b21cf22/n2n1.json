@@ -1,0 +1,138 @@
+{
+  "title": "新時代のお正月準備：オンライン化と体験重視の消費トレンド",
+  "summary": "年末年始の準備において、オンラインショッピングの浸透と、家族や友人との体験を重視する新たな消費傾向が見られる。これは、伝統的な準備のあり方に変化をもたらしている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "年の瀬が迫る中、お正月準備を取り巻く消費トレンドに変化が見られる。近年、インターネットを通じた買い物が普及したことにより、おせち料理や贈答品などをオンラインで購入する人が増加傾向にあるとのことだ。これにより、店舗に足を運ぶ時間がない、あるいは多様な選択肢の中から比較検討したいと考える消費者にとって、利便性が向上していると見られる。",
+      "translationZh": "随着年末临近，与新年准备相关的消费趋势正发生变化。据了解，近年来，随着互联网购物的普及，通过线上购买年菜、礼品等的人数呈增长趋势。这被认为提高了便利性，对那些没有时间去实体店，或者希望在多样化的选择中进行比较的消费者来说是如此。",
+      "translationEn": "As the year-end approaches, consumption trends surrounding New Year preparations are changing. It is reported that in recent years, with the widespread adoption of online shopping, there has been an increasing trend of people purchasing Osechi (New Year's dishes) and gifts online. This is seen as improving convenience for consumers who lack the time to visit physical stores or wish to compare options from a wide selection.",
+      "id": "fb90096d-c42f-438d-b835-155e0d00eff6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、単に物を購入するだけでなく、家族や友人との「体験」を共有することに価値を見出す消費行動も注目されている。例えば、伝統的なおせち料理を自宅で作るためのキットや、一緒に料理を楽しむためのオンラインレッスンなどが人気を集めているという。これは、物質的な豊かさだけでなく、心の繋がりや思い出作りを重視する現代的な価値観の表れと言えよう。",
+      "translationZh": "另一方面，不仅是单纯的购物，将价值置于与家人朋友共享“体验”的消费行为也备受关注。例如，在家制作传统年菜的料理包，以及共同享受烹饪乐趣的线上课程等正受到欢迎。这可以看作是现代价值观的体现，即不仅重视物质上的富裕，也重视心灵的联系和创造回忆。",
+      "translationEn": "On the other hand, consumer behavior that finds value not just in purchasing goods but in sharing 'experiences' with family and friends is also gaining attention. For instance, kits for making traditional Osechi dishes at home and online lessons for enjoying cooking together are reportedly becoming popular. This can be said to represent a modern value system that emphasizes not only material affluence but also emotional connection and memory creation.",
+      "id": "1bfdc15d-2d50-42ad-a493-bb8bcc7f4cf9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しい消費トレンドは、伝統的なお正月文化を継承しつつも、現代のライフスタイルや価値観に合わせて変化していく様子を示唆している。企業側も、これらのニーズに応えるべく、オンライン販売チャネルの強化や、体験型商品の開発に力を入れていると報じられている。今後も、テクノロジーの進化とお正月の伝統が融合した、多様な消費形態が現れることが予想される。",
+      "translationZh": "这些新的消费趋势表明，在传承传统新年文化的同时，也在根据现代生活方式和价值观进行变化。据报道，企业方面也正致力于加强在线销售渠道和开发体验型产品，以满足这些需求。预计未来，融合了技术进步和新年传统的多样化消费形态将不断涌现。",
+      "translationEn": "These new consumption trends suggest that while traditional New Year culture is being inherited, it is also adapting to modern lifestyles and values. It is reported that companies are also focusing on strengthening their online sales channels and developing experiential products to meet these needs. It is anticipated that diverse forms of consumption, blending technological advancements with New Year traditions, will continue to emerge in the future.",
+      "id": "47c287ab-8349-47a4-82e4-e6f2983ddeea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "年末年始",
+      "reading": "ねんまつねんし",
+      "meaningZh": "年底和年初，年末年初",
+      "meaningEn": "Year-end and New Year period",
+      "level": "n3",
+      "exampleSentence": "年末年始は家族で集まるのが恒例です。",
+      "id": "6074ce46-f0d2-4bbc-aca0-f3958304dc3f"
+    },
+    {
+      "word": "浸透",
+      "reading": "しんとう",
+      "meaningZh": "渗透，深入人心",
+      "meaningEn": "Penetration, permeation",
+      "level": "n2n1",
+      "exampleSentence": "インターネットが社会に浸透した影響は大きい。",
+      "id": "48b3faa6-6052-44bf-a670-6873ca6bddac"
+    },
+    {
+      "word": "消費トレンド",
+      "reading": "しょうひトレンド",
+      "meaningZh": "消费趋势",
+      "meaningEn": "Consumption trend",
+      "level": "n2n1",
+      "exampleSentence": "新しい消費トレンドを分析することは重要だ。",
+      "id": "a7136ca6-d70f-4bf0-b7f7-a5e55ccc2bb2"
+    },
+    {
+      "word": "利便性",
+      "reading": "りべんせい",
+      "meaningZh": "便利性",
+      "meaningEn": "Convenience",
+      "level": "n2n1",
+      "exampleSentence": "オンラインサービスは利便性を高める。",
+      "id": "fe0fe7e9-7aab-48f6-93a5-10f3296088cb"
+    },
+    {
+      "word": "価値観",
+      "reading": "かちかん",
+      "meaningZh": "价值观",
+      "meaningEn": "Values, sense of value",
+      "level": "n2n1",
+      "exampleSentence": "時代とともに人々の価値観は変化する。",
+      "id": "b5b0ef13-2989-478a-bf0c-900bb47311c4"
+    },
+    {
+      "word": "継承",
+      "reading": "けいしょう",
+      "meaningZh": "继承，传授",
+      "meaningEn": "Inheritance, succession",
+      "level": "n2n1",
+      "exampleSentence": "伝統文化を次世代に継承していく必要がある。",
+      "id": "d5588a7f-ca2d-4413-815d-1e9e5043dda9"
+    },
+    {
+      "word": "ライフスタイル",
+      "reading": "ライフスタイル",
+      "meaningZh": "生活方式",
+      "meaningEn": "Lifestyle",
+      "level": "n3",
+      "exampleSentence": "多様なライフスタイルが認められる社会になってきた。",
+      "id": "3ade9f69-679f-4d4c-ba3d-53585110b33a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "お正月準備において、オンラインショッピングの普及はどのような変化をもたらしているか？",
+      "options": [
+        "店舗への来店客が激減した",
+        "消費者の利便性が向上した",
+        "伝統的なおせちの需要がなくなった",
+        "価格競争が激化した"
+      ],
+      "correctIndex": 1,
+      "explanation": "「インターネットを通じた買い物が普及したことにより、おせち料理や贈答品などをオンラインで購入する人が増加傾向にあるとのことだ。これにより、店舗に足を運ぶ時間がない、あるいは多様な選択肢の中から比較検討したいと考える消費者にとって、利便性が向上していると見られる。」",
+      "id": "7a74eca6-9e90-492d-ad44-924952724182"
+    },
+    {
+      "question": "単に物を購入するだけでなく、「体験」を重視する消費行動は、何を反映していると考えられるか？",
+      "options": [
+        "物質主義への反発",
+        "伝統文化への回帰",
+        "効率性を最優先する考え方",
+        "心の繋がりや思い出作りを重視する現代的な価値観"
+      ],
+      "correctIndex": 3,
+      "explanation": "「これは、物質的な豊かさだけでなく、心の繋がりや思い出作りを重視する現代的な価値観の表れと言えよう。」",
+      "id": "b143f859-944d-4fda-86c9-7266b91d6184"
+    },
+    {
+      "question": "新しい消費トレンドに対し、企業はどのように対応していると記事は述べているか？",
+      "options": [
+        "伝統的な販売方法に固執している",
+        "オンライン販売チャネルの強化や体験型商品の開発に力を入れている",
+        "価格を大幅に引き下げている",
+        "海外市場への展開を急いでいる"
+      ],
+      "correctIndex": 1,
+      "explanation": "「企業側も、これらのニーズに応えるべく、オンライン販売チャネルの強化や、体験型商品の開発に力を入れていると報じられている。」",
+      "id": "bf7de439-67cd-489c-96ed-d3bcb9e80292"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-07-2e6b21cf22",
+  "publishedAt": "2026-09-07T06:00:00+09:00"
+}
