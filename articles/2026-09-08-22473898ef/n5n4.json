@@ -1,0 +1,122 @@
+{
+  "title": "高校生ハッカソン開催",
+  "summary": "高校生プログラマーが集まって、新しいアイデアを形にするイベントがありました。みんなで協力して、楽しいプログラムを作りました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この週末、高校生のためのハッカソンがありました。プログラミングが好きな学生たちが集まりました。彼らはチームを作って、アイデアを出し合いました。",
+      "translationZh": "这个周末，举办了一个面向高中生的黑客松。喜欢编程的学生们聚集在一起。他们组成了团队，互相交流想法。",
+      "translationEn": "This weekend, there was a hackathon for high school students. Students who like programming gathered. They formed teams and exchanged ideas.",
+      "id": "f95f49f4-0e60-4767-a44c-61be8904e3ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、短い時間でプログラムを作ります。学生たちは、スマートフォンのアプリやゲームなど、色々なものを作っていました。先生たちも手伝ってくれました。",
+      "translationZh": "在黑客松中，大家在很短的时间内制作程序。学生们制作了各种东西，比如智能手机应用和游戏。老师们也给予了帮助。",
+      "translationEn": "In the hackathon, programs are made in a short time. The students were making various things, such as smartphone apps and games. Teachers also helped them.",
+      "id": "475bedcb-c44d-43a5-ada7-861ef1f04c2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "みんな一生懸命にプログラミングをしました。時には難しいこともありましたが、友達と相談して解決しました。最後に、作ったプログラムを発表しました。",
+      "translationZh": "大家都很努力地编程。虽然有时会遇到困难，但他们和朋友商量后解决了。最后，他们展示了制作的程序。",
+      "translationEn": "Everyone worked hard programming. Sometimes it was difficult, but they solved problems by consulting with friends. Finally, they presented the programs they made.",
+      "id": "f692cf96-7a72-48b2-8e19-2be92576c816",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このイベントはとても楽しかったです。新しい友達もできました。これからもプログラミングを続けて、もっとすごいものを作りたいです。",
+      "translationZh": "这次活动非常有趣。我也交到了新朋友。今后会继续编程，想制作更厉害的东西。",
+      "translationEn": "This event was very fun. I also made new friends. I want to continue programming and create even more amazing things in the future.",
+      "id": "b52caf52-023e-43c8-9698-4fd31b56c30d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生は元気です。",
+      "id": "16253e08-0470-43f4-80c6-7a50f5120010"
+    },
+    {
+      "word": "プログラマー",
+      "reading": "ぷろぐらまー",
+      "meaningZh": "程序员",
+      "meaningEn": "programmer",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なプログラマーです。",
+      "id": "667598e0-90df-420c-a020-91a84834f5aa"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集；集合",
+      "meaningEn": "to gather; to get together",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの人が広場に集まりました。",
+      "id": "21c9f0a8-586b-4879-98ac-b0af46bd89f7"
+    },
+    {
+      "word": "チーム",
+      "reading": "ちーむ",
+      "meaningZh": "队伍；小组",
+      "meaningEn": "team",
+      "level": "n5n4",
+      "exampleSentence": "私たちは新しいチームを作りました。",
+      "id": "14170673-219b-4f15-b883-f6a6b433e9d5"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法；主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "いいアイデアを思いつきました。",
+      "id": "6e9591be-f2e1-47bf-b1c1-12ce87df59f5"
+    },
+    {
+      "word": "開発する",
+      "reading": "かいはつする",
+      "meaningZh": "开发",
+      "meaningEn": "to develop",
+      "level": "n3",
+      "exampleSentence": "新しいアプリを開発しています。",
+      "id": "90cdea62-250c-46b5-9a24-bfb75b58294b"
+    },
+    {
+      "word": "発表する",
+      "reading": "はっぴょうする",
+      "meaningZh": "发表；发布",
+      "meaningEn": "to announce; to present",
+      "level": "n5n4",
+      "exampleSentence": "会議で結果を発表しました。",
+      "id": "8889e58d-82ca-4d78-abd2-af3bb29d06ee"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンで学生たちは何を作りましたか。",
+      "options": [
+        "新しいゲーム",
+        "スマートフォンのアプリやゲームなど",
+        "学校の宿題",
+        "絵や音楽"
+      ],
+      "correctIndex": 1,
+      "explanation": "ハッカソンでは、スマートフォンのアプリやゲームなど、色々なものを作っていました。",
+      "id": "a09d6c08-6577-4b10-b1d8-c248f3ebe529"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-08-22473898ef",
+  "publishedAt": "2026-09-08T06:00:00+09:00"
+}

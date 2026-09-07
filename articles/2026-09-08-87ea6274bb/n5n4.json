@@ -1,0 +1,123 @@
+{
+  "title": "新しい和菓子、若い人に人気",
+  "summary": "昔からの和菓子が新しくなりました。若い人にも人気が出てきました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔からある和菓子は、日本のおいしいお菓子です。でも、最近は若い人にはあまり人気がありませんでした。そこで、和菓子職人（しょくにん）が考えました。",
+      "translationZh": "自古以来流传的和菓子是日本美味的点心。但是，最近在年轻人中不太受欢迎。于是，和菓子师傅们开始思考。",
+      "translationEn": "Wagashi, which have existed for a long time, are delicious Japanese sweets. However, they haven't been very popular with young people recently. So, wagashi artisans thought about it.",
+      "id": "55b6a8bd-5c17-4a5d-8591-f94ef150815a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "職人たちは、和菓子の形や味をもっと新しくしました。デザインをかわいくしたり、小さいサイズにしたりしました。そして、名前も覚えやすいものにしました。だから、若い人たちが「おいしそう」「かわいい」と思うようになりました。",
+      "translationZh": "师傅们让和菓子的形状和味道变得更加新颖。他们让设计变得可爱，或者做成小尺寸。并且，名字也变得容易记住。因此，年轻人开始觉得“看起来很好吃”、“很可爱”。",
+      "translationEn": "The artisans made the shape and taste of wagashi more new. They made the designs cute or made them smaller. Also, they made the names easy to remember. Because of this, young people started to think, 'It looks delicious' and 'It's cute.'",
+      "id": "14b0266c-d255-41ed-afd4-7e6d9c23f09c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい和菓子は、SNSでもたくさん紹介（しょうかい）されています。写真がきれいですから、たくさんの人が見ます。そして、お店に来る人も増えました。昔の味と新しいアイデアが合わさって、和菓子はもっと面白くなりました。",
+      "translationZh": "新的和菓子在社交媒体上也被大量介绍。因为照片很漂亮，所以很多人都会看。然后，来店铺的人也增加了。旧的味道和新的想法结合在一起，和菓子变得更加有趣了。",
+      "translationEn": "New wagashi are also introduced a lot on social media. The photos are beautiful, so many people see them. And, the number of people visiting the shops has also increased. By combining old tastes with new ideas, wagashi have become more interesting.",
+      "id": "a708a8df-b298-47f8-b02a-896224353d5d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese sweets",
+      "level": "n5n4",
+      "exampleSentence": "この和菓子はとてもきれいです。",
+      "id": "42c41a45-3de8-4cb5-938b-46d2756beba7"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，技师",
+      "meaningEn": "artisan, craftsman",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な職人です。",
+      "id": "0aa9b552-cf43-4579-9b99-545f884fcea7"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "d091558a-2b8d-4167-92df-28fe81a11556"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎，人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌は人気があります。",
+      "id": "c4ec22e1-54d8-449d-b2c3-195dbee9db94"
+    },
+    {
+      "word": "デザイン",
+      "reading": "でざいん",
+      "meaningZh": "设计",
+      "meaningEn": "design",
+      "level": "n5n4",
+      "exampleSentence": "この服のデザインはいいね。",
+      "id": "2c11bfe9-e853-47bd-a1eb-8966619f4666"
+    },
+    {
+      "word": "覚える",
+      "reading": "おぼえる",
+      "meaningZh": "记住",
+      "meaningEn": "to remember",
+      "level": "n5n4",
+      "exampleSentence": "名前を覚えましたか。",
+      "id": "ef3f7a64-ebaa-4915-98ef-93326ae53093"
+    },
+    {
+      "word": "紹介",
+      "reading": "しょうかい",
+      "meaningZh": "介绍",
+      "meaningEn": "introduction",
+      "level": "n5n4",
+      "exampleSentence": "友達を紹介します。",
+      "id": "27e53f43-c809-43e8-95f0-86e017250681"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "お客さんが増えました。",
+      "id": "0b9b8f12-cd9a-4f39-b066-b74a0468b261"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ和菓子職人は和菓子を新しくしましたか？",
+      "options": [
+        "もっとおいしくするため",
+        "若い人にもっと人気を出すため",
+        "もっと安くするため",
+        "もっと大きくするため"
+      ],
+      "correctIndex": 1,
+      "explanation": "職人たちは、和菓子の形や味をもっと新しくしました。デザインをかわいくしたり、小さいサイズにしたりしました。そして、名前も覚えやすいものにしました。だから、若い人たちが「おいしそう」「かわいい」と思うようになりました。",
+      "id": "bc5ca92a-88f6-4a67-8b09-1ac0f2c76ac1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-08-87ea6274bb",
+  "publishedAt": "2026-09-08T06:00:00+09:00"
+}

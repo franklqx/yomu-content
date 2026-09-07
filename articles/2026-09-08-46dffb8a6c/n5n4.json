@@ -1,0 +1,122 @@
+{
+  "title": "沖縄の島々へ行こう！",
+  "summary": "沖縄にはたくさんのきれいな島があります。島めぐりはとても楽しいです。ぜひ行ってみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には、とてもきれいな海がたくさんあります。そして、たくさんの島があります。これらの島を「離島（りとう）」と言います。離島ツアーは、これらの島をめぐる旅行です。",
+      "translationZh": "冲绳有很多非常美丽的大海。而且，有很多岛屿。这些岛屿叫做“离岛”。离岛游就是游览这些岛屿的旅行。",
+      "translationEn": "Okinawa has many very beautiful seas. And there are many islands. These islands are called 'remote islands'. Island hopping tours are trips that visit these islands.",
+      "id": "f640590c-2bad-4df2-ba69-bdc63b8d6a9b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "人気の離島ツアーでは、いくつかの島を訪れます。例えば、石垣島（いしがきじま）や宮古島（みやこじま）などが有名です。それぞれの島に、ちがう魅力があります。",
+      "translationZh": "在受欢迎的离岛游中，会访问几个岛屿。例如，石垣岛和宫古岛等很有名。每个岛屿都有不同的魅力。",
+      "translationEn": "In popular remote island tours, you visit several islands. For example, Ishigaki Island and Miyako Island are famous. Each island has a different charm.",
+      "id": "e3c23e81-0da2-4f1e-86ba-82a002c7202f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島では、きれいなビーチでリラックスできます。シュノーケリングをして、カラフルな魚を見るのも楽しいです。おいしい海の幸も食べられます。",
+      "translationZh": "在离岛，可以在美丽的海滩放松。进行浮潜，看五颜六色的鱼也很有趣。还可以吃到美味的海鲜。",
+      "translationEn": "On the remote islands, you can relax on beautiful beaches. It's also fun to go snorkeling and see colorful fish. You can also eat delicious seafood.",
+      "id": "036c5ca0-b338-4744-88b0-82b8754bb89f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一度、沖縄の離島に行ってみませんか。きっと、すてきな思い出ができると思います。旅行の準備をしましょう。",
+      "translationZh": "您不想去一次冲绳的离岛吗？我一定能留下美好的回忆。让我们为旅行做准备吧。",
+      "translationEn": "Why don't you try visiting Okinawa's remote islands once? I'm sure you'll make wonderful memories. Let's prepare for the trip.",
+      "id": "6b5f672e-792a-45db-8c14-6b5c40d574da",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "沖縄には、たくさんの離島があります。",
+      "id": "04de8331-9ac7-4d79-8e9c-a7325beebd76"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "旅行は楽しいです。",
+      "id": "9c772bcc-46c6-4ec6-93f3-30edb65f2474"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n5n4",
+      "exampleSentence": "この町の魅力は何ですか。",
+      "id": "c04841b3-c791-4459-a559-049106d205c1"
+    },
+    {
+      "word": "訪れます",
+      "reading": "おとずれます",
+      "meaningZh": "访问，拜访",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "友達の家を訪れます。",
+      "id": "be9116d9-4531-40d0-84ac-cfdaf1f0293e"
+    },
+    {
+      "word": "ビーチ",
+      "reading": "びーち",
+      "meaningZh": "海滩",
+      "meaningEn": "beach",
+      "level": "n5n4",
+      "exampleSentence": "きれいなビーチで泳ぎました。",
+      "id": "76b02a54-96bc-4236-890a-c7797decc969"
+    },
+    {
+      "word": "シュノーケリング",
+      "reading": "しゅのーけりんぐ",
+      "meaningZh": "浮潜",
+      "meaningEn": "snorkeling",
+      "level": "n5n4",
+      "exampleSentence": "シュノーケリングをして魚を見ました。",
+      "id": "bff79de2-4a97-4af4-9c0e-96e932d16991"
+    },
+    {
+      "word": "海の幸",
+      "reading": "うみのさち",
+      "meaningZh": "海鲜，海产",
+      "meaningEn": "seafood, marine products",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは海の幸が有名です。",
+      "id": "4d2502c3-d4b7-4bb3-8a8a-3a4535e43d5a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "沖縄の島々を何と言いますか？",
+      "options": [
+        "本島",
+        "離島",
+        "南島",
+        "北島"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「これらの島を『離島（りとう）』と言います。」と説明されています。",
+      "id": "efcd7ee1-ad0f-4774-8633-513d180cfcf4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-08-46dffb8a6c",
+  "publishedAt": "2026-09-08T06:00:00+09:00"
+}

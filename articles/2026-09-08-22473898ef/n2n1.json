@@ -1,0 +1,147 @@
+{
+  "title": "高校生プログラマー、熱意の結晶「ハッカソン」開催",
+  "summary": "近年、高校生の間でプログラミングへの関心が高まる中、若き才能が一堂に会するハッカソンが注目を集めている。創造性と技術力が試される場として、多くの参加者が意欲的に取り組んでいるとのことだ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、IT分野における人材育成の重要性が増す中で、特に将来を担う高校生を対象としたプログラミングイベント、通称「ハッカソン」が全国各地で開催されている。これは、短期間で集中的にアイデアを出し合い、実際にプログラムやアプリケーションを開発する競技会であり、参加者はチームを組んで課題解決に取り組む。参加者の年齢層が比較的若いことから、斬新な発想やユニークな視点からのアプローチが期待されており、教育関係者からもその意義が評価されているようだ。",
+      "translationZh": "近年来，随着 IT 领域人才培养重要性的日益增加，以未来栋梁高中生为对象的编程活动，即所谓的“黑客松”，正在全国各地举办。这是一种在短时间内集中构思创意、实际开发程序或应用程序的竞赛，参与者分组解决课题。由于参与者年龄层相对较低，人们期待能从中看到新颖的构思和独特的视角，教育界人士也对其意义表示肯定。",
+      "translationEn": "In recent years, as the importance of human resource development in the IT field has grown, programming events, commonly known as 'hackathons', targeting high school students who will lead the future, are being held across the country. These are competitions where participants intensively brainstorm ideas and develop actual programs or applications in a short period, working in teams to solve problems. Given the relatively young age of the participants, novel ideas and unique perspectives are expected, and educators also seem to appreciate its significance.",
+      "id": "ff7011df-1db1-4650-ac32-46a2b66796cc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、単に高度なプログラミングスキルを競うだけでなく、チーム内での協調性や、自らのアイデアを具体化するプレゼンテーション能力も重視される傾向にある。主催者側は、参加者が技術的な挑戦を通じて問題解決能力を養い、さらに多様なバックグラウンドを持つ仲間との交流を通じて、視野を広げる機会となることを目指している。こうした経験は、将来のキャリア形成においても、貴重な財産となると見られている。",
+      "translationZh": "在黑客松中，不仅比拼高超的编程技能，还倾向于重视团队协作以及将自身想法具体化的演示能力。主办方旨在让参与者通过技术挑战培养解决问题的能力，并通过与拥有不同背景的伙伴交流，拓宽视野。这些经验被认为将成为未来职业发展中宝贵的财富。",
+      "translationEn": "Hackathons tend to emphasize not only the competition of advanced programming skills but also teamwork and presentation abilities to materialize one's ideas. Organizers aim for participants to develop problem-solving skills through technical challenges and broaden their horizons through interaction with peers from diverse backgrounds. Such experiences are seen as becoming valuable assets in future career development.",
+      "id": "e08e1951-29d4-40f0-ae9a-0f0ccd2d39db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "近年、プログラミング教育の必修化に伴い、以前にも増して多くの高校生がコンピュータサイエンスに興味を示している。ハッカソンは、そうした学習意欲の高い生徒たちにとって、実践的なスキルを習得し、自身の可能性を試す絶好の機会となっている。成果発表会では、創造性に富んだアプリケーションや、社会課題の解決に繋がるようなユニークなアイデアが披露され、会場からは感嘆の声が漏れることも少なくないとのことである。",
+      "translationZh": "近年来，随着编程教育的普及化，越来越多的高中生对计算机科学表现出兴趣。黑客松为这些学习意愿高的学生提供了一个绝佳的机会，让他们能够掌握实践技能，并尝试自己的潜力。在成果发布会上，经常会展示出富有创造力的应用程序，以及有助于解决社会问题的独特想法，会场中不时传来赞叹声。",
+      "translationEn": "In recent years, with the compulsory introduction of programming education, more high school students than ever before are showing interest in computer science. Hackathons provide an excellent opportunity for such highly motivated students to acquire practical skills and test their potential. At the final presentations, creative applications and unique ideas that can lead to solutions for social issues are often showcased, and it is not uncommon for expressions of admiration to be heard from the audience.",
+      "id": "6a91a0b0-e948-4b99-a206-a4b9b57d1a99",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "通称",
+      "reading": "つうしょう",
+      "meaningZh": "俗称，人们通常称之为",
+      "meaningEn": "common name, alias",
+      "level": "n2n1",
+      "exampleSentence": "この地域では、その湖は「竜神の瞳」と通称されている。",
+      "id": "4ce11e74-b3af-4f31-af63-6a8fa249546a"
+    },
+    {
+      "word": "集中的に",
+      "reading": "しゅうちゅうてきに",
+      "meaningZh": "集中地，集中地",
+      "meaningEn": "concentratedly, intensively",
+      "level": "n3",
+      "exampleSentence": "試験前は、集中的に勉強する必要がある。",
+      "id": "612d0530-a0ab-47ea-b0fd-589320ba90fe"
+    },
+    {
+      "word": "競技会",
+      "reading": "きょうぎかい",
+      "meaningZh": "竞赛，比赛",
+      "meaningEn": "competition, contest",
+      "level": "n2n1",
+      "exampleSentence": "将棋の全国競技会が開催された。",
+      "id": "1116bc46-95a7-4ee0-baba-bda6ded3795f"
+    },
+    {
+      "word": "斬新",
+      "reading": "ざんしん",
+      "meaningZh": "新颖，革新",
+      "meaningEn": "novel, new and original",
+      "level": "n2n1",
+      "exampleSentence": "彼のデザインは斬新で、多くの人を魅了した。",
+      "id": "255a1e00-9045-424f-98e4-9314439061fe"
+    },
+    {
+      "word": "協調性",
+      "reading": "きょうちょうせい",
+      "meaningZh": "协作性，协调性",
+      "meaningEn": "cooperativeness, coordination",
+      "level": "n2n1",
+      "exampleSentence": "チームで仕事をする上で、協調性は不可欠である。",
+      "id": "a5b30c10-24e0-4412-a573-758a31035249"
+    },
+    {
+      "word": "具体化",
+      "reading": "ぐたいか",
+      "meaningZh": "具体化",
+      "meaningEn": "materialization, concretization",
+      "level": "n2n1",
+      "exampleSentence": "抽象的なアイデアを具体化することが求められている。",
+      "id": "2c8f881a-07c5-4897-ac19-f61267a23a86"
+    },
+    {
+      "word": "視野を広げる",
+      "reading": "しやをひろげる",
+      "meaningZh": "拓宽视野",
+      "meaningEn": "broaden one's horizons",
+      "level": "n3",
+      "exampleSentence": "海外旅行は視野を広げる良い機会になる。",
+      "id": "18dede14-82f3-4ca0-9aba-47479d8b0fae"
+    },
+    {
+      "word": "必修化",
+      "reading": "ひっしゅうか",
+      "meaningZh": "列为必修",
+      "meaningEn": "making compulsory",
+      "level": "n2n1",
+      "exampleSentence": "プログラミング教育の必修化により、多くの学校で新たなカリキュラムが導入された。",
+      "id": "4b96018b-56bf-4b89-a2a2-a83c0593ac0c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンが高校生の間で注目されている理由として、本文で挙げられているのはどのような点ですか？",
+      "options": [
+        "高度なプログラミングスキルを習得できるから",
+        "社会課題を解決するビジネスアイデアを創出できるから",
+        "斬新な発想やユニークな視点からのアプローチが期待されるから",
+        "海外の有名プログラマーと交流できるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中「参加者の年齢層が比較的若いことから、斬新な発想やユニークな視点からのアプローチが期待されており、教育関係者からもその意義が評価されているようだ。」と述べられています。",
+      "id": "375441ca-618f-49dd-82b8-7d7bd2bb6820"
+    },
+    {
+      "question": "ハッカソンにおいて、プログラミングスキル以外に重視される傾向にあるものは何ですか？",
+      "options": [
+        "個人の忍耐力と集中力",
+        "チーム内での協調性とプレゼンテーション能力",
+        "過去の受賞歴や実績",
+        "経済的な成功の見込み"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「単に高度なプログラミングスキルを競うだけでなく、チーム内での協調性や、自らのアイデアを具体化するプレゼンテーション能力も重視される傾向にある。」と記載されています。",
+      "id": "3090958b-d165-44f7-88b5-992de424199e"
+    },
+    {
+      "question": "プログラミング教育の必修化は、高校生のハッカソンへの参加にどのような影響を与えたと述べられていますか？",
+      "options": [
+        "参加者が減少し、イベントの規模が縮小した",
+        "より実践的なスキルを習得する機会となった",
+        "参加者の間で過度な競争意識が生まれた",
+        "企業からのスポンサーが減少した"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「プログラミング教育の必修化に伴い、以前にも増して多くの高校生がコンピュータサイエンスに興味を示している。ハッカソンは、そうした学習意欲の高い生徒たちにとって、実践的なスキルを習得し、自身の可能性を試す絶好の機会となっている。」と説明されています。",
+      "id": "1f2c49b3-0342-473d-a62f-53657a9dbf2f"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-08-22473898ef",
+  "publishedAt": "2026-09-08T06:00:00+09:00"
+}

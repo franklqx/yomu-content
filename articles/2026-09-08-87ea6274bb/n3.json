@@ -1,0 +1,135 @@
+{
+  "title": "和菓子の新しい顔：若者も夢中になる工夫",
+  "summary": "昔ながらの和菓子が、若い世代にも愛されるように変わってきています。その背景には、職人たちの新しい挑戦があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街を歩いていると、伝統的な和菓子屋さんが新しいデザインの商品を出しているのを目にすることが増えました。昔は、お年寄りが中心だった和菓子の客層ですが、最近は若い人たちも楽しむようになっているそうです。これは、和菓子職人たちが、若い世代に興味を持ってもらえるように、様々な工夫を凝らしているからなのです。",
+      "translationZh": "最近，走在街上，会发现越来越多的传统日式点心店推出了新设计的商品。过去，日式点心的顾客群体主要是老年人，但最近年轻人也开始享受其中了。这是因为日式点心师傅们正在绞尽脑汁，想出各种方法来吸引年轻一代的兴趣。",
+      "translationEn": "Recently, when walking through the city, I've noticed more and more traditional Japanese confectionery shops releasing products with new designs. In the past, the main customer base for wagashi was older people, but lately, young people have also started to enjoy them. This is because the wagashi artisans are making various efforts to capture the interest of the younger generation.",
+      "id": "421c72b2-055e-4b31-b732-19f9dc1d8304",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、見た目の美しさはもちろん、味のバリエーションも豊富になっています。抹茶味だけでなく、チョコレートやフルーツを使った新しい味の和菓子が登場し、SNS映えすることもあって、若い人たちの間で話題になっています。また、一つからでも気軽に買えるように、個包装にしたり、小さいサイズにしたりする工夫も見られます。",
+      "translationZh": "例如，不仅是外观的美观，口味的种类也变得丰富了。除了抹茶味，还出现了使用巧克力和水果的新口味日式点心，因为它们很适合在社交媒体上分享，所以在年轻人中引起了话题。此外，为了方便顾客即使只购买一个也能轻松入手，它们还采用了独立包装或小尺寸的设计。",
+      "translationEn": "For example, not only the visual beauty but also the variety of flavors has become abundant. New wagashi flavors using chocolate and fruits, in addition to matcha, have appeared, and they have become a hot topic among young people because they are SNS-worthy. Also, efforts are being made to make them easily purchasable even as single items, such as individual packaging or smaller sizes.",
+      "id": "b8020280-e4b5-4483-a67e-7605c07ae233",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした変化は、和菓子文化を未来につなげていくために、職人たちが情熱を注いでいる証拠と言えるでしょう。伝統を守りながらも、新しい時代に合わせて進化しようとする姿勢は、多くの人に感動を与えています。これからも、どんな新しい和菓子が登場するのか、楽しみですね。",
+      "translationZh": "可以说，这些变化证明了工匠们正倾注热情，以将日式点心文化传承给未来。在守护传统的同时，又试图适应新时代并不断进化的姿态，让许多人感动。今后，又会有怎样的新式日式点心登场呢？真是令人期待。",
+      "translationEn": "These changes can be said to be proof that artisans are pouring their passion into connecting wagashi culture to the future. Their attitude of evolving to fit the new era while preserving tradition moves many people. We look forward to seeing what new wagashi will appear from now on.",
+      "id": "125d3e0c-104c-47f3-81c7-62ee01370cf1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese confectionery",
+      "level": "n5n4",
+      "exampleSentence": "この和菓子はとてもきれいです。",
+      "id": "ab3fa77e-b41a-4842-b8cd-29e4d0136eae"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，技师",
+      "meaningEn": "artisan, craftsman",
+      "level": "n3",
+      "exampleSentence": "彼は優秀な職人です。",
+      "id": "d248f790-57d8-4f68-8711-52b7ceb4d7c6"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻一代，青年群体",
+      "meaningEn": "young generation, youth",
+      "level": "n3",
+      "exampleSentence": "若年層向けの新しいサービスが始まりました。",
+      "id": "d3ceb12d-d88a-49f1-8b1b-6825da235d82"
+    },
+    {
+      "word": "リブランド",
+      "reading": "りぶらんど",
+      "meaningZh": "品牌重塑，再营销",
+      "meaningEn": "rebranding",
+      "level": "n3",
+      "exampleSentence": "古いブランドをリブランドして、若い人にアピールします。",
+      "id": "dce06960-a107-4160-b3b3-566ef267f031"
+    },
+    {
+      "word": "客層",
+      "reading": "きゃくそう",
+      "meaningZh": "顾客群体，客户群",
+      "meaningEn": "customer base, clientele",
+      "level": "n3",
+      "exampleSentence": "このお店は客層が広いです。",
+      "id": "7e6cb16e-200b-4e00-8bbb-514cc84dddcb"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "窍门，想法，创造性的点子",
+      "meaningEn": "device, idea, invention, effort",
+      "level": "n3",
+      "exampleSentence": "問題を解決するために、いろいろな工夫をしました。",
+      "id": "eadc7771-0bb4-48e6-9f2d-7dee4e90dfc3"
+    },
+    {
+      "word": "SNS映え",
+      "reading": "エスエヌエスばえ",
+      "meaningZh": "适合在社交媒体上发布（看起来漂亮或有趣）",
+      "meaningEn": "SNS-worthy, photogenic for social media",
+      "level": "n3",
+      "exampleSentence": "このケーキはSNS映えしますね。",
+      "id": "bb5eb58d-8544-4b04-805a-df1d78137791"
+    },
+    {
+      "word": "個包装",
+      "reading": "こほうそう",
+      "meaningZh": "独立包装",
+      "meaningEn": "individual packaging",
+      "level": "n3",
+      "exampleSentence": "お土産は個包装になっていると便利です。",
+      "id": "08994e0d-5c98-4323-9c10-cbe2f81e9fd8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の和菓子屋さんは、どんな工夫をしていますか？",
+      "options": [
+        "昔ながらの味だけを大切にしている",
+        "若い世代に人気が出るような新しい工夫をしている",
+        "値段を高くして、高級感を出すようにしている",
+        "お年寄りしか買わないような商品だけを置いている"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「これは、和菓子職人たちが、若い世代に興味を持ってもらえるように、様々な工夫を凝らしているからなのです。」とあります。",
+      "id": "2262a1b7-3717-499d-84d3-9b4daf29e66d"
+    },
+    {
+      "question": "若い人たちの間で、新しい味の和菓子が話題になっている理由は何ですか？",
+      "options": [
+        "味がとても甘くなったから",
+        "値段が安くなったから",
+        "SNSで人気が出やすいから",
+        "伝統的な製法で作られているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「SNS映えすることもあって、若い人たちの間で話題になっています。」とあります。",
+      "id": "361e240a-d9e2-4937-9b74-26a9c3ea3c60"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-08-87ea6274bb",
+  "publishedAt": "2026-09-08T06:00:00+09:00"
+}

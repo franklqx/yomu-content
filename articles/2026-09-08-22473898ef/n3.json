@@ -1,0 +1,135 @@
+{
+  "title": "高校生プログラマー集まれ！ハッカソンでアイデアを形にしよう",
+  "summary": "高校生プログラマーを対象としたハッカソンが開催されます。このイベントは、若い才能が集まり、創造的なアイデアを競い合い、それを実際に形にする絶好の機会です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、高校生向けのプログラミングイベント、特にハッカソンが注目されています。ハッカソンとは、短期間で集中的にプログラミングを行い、新しいアイデアやサービスなどを開発するイベントのことです。このイベントに参加することで、学校の授業では学べない実践的なスキルを身につけることができます。",
+      "translationZh": "最近，面向高中生的编程活动，特别是黑客马拉松，正受到关注。黑客马拉松是指在短时间内集中进行编程，开发新想法或服务等的活动。通过参加这个活动，可以掌握在学校课程中无法学到的实践技能。",
+      "translationEn": "Recently, programming events for high school students, especially hackathons, have been gaining attention. A hackathon is an event where participants intensively program in a short period to develop new ideas or services. By participating in such an event, students can acquire practical skills that are not taught in school classes.",
+      "id": "33d2fe3b-7472-467f-b8a3-8dc9f0e661db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンには、様々な学校から集まった高校生プログラマーたちがチームを組み、与えられたテーマや課題に対して、アイデアを出し合い、プログラムを開発します。チームのメンバーと協力しながら、限られた時間の中で成果を出すために、みんな一生懸命に作業を進めます。この過程で、プログラミングスキルだけでなく、コミュニケーション能力や問題解決能力も向上するでしょう。",
+      "translationZh": "在黑客马拉松中，来自不同学校的高中生程序员会组成团队，针对给定的主题或课题，提出想法并开发程序。在与团队成员合作的同时，为了在有限的时间内取得成果，大家都会努力地推进工作。在这个过程中，不仅编程技能，沟通能力和解决问题的能力也会得到提高。",
+      "translationEn": "In a hackathon, high school programmers gathered from various schools form teams and brainstorm ideas while developing programs for a given theme or challenge. While collaborating with team members, everyone works hard to produce results within a limited time. Through this process, not only programming skills but also communication and problem-solving abilities are likely to improve.",
+      "id": "a4faddc0-840c-4b0f-837d-3980431fd0a9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、ハッカソンは、将来プログラマーやエンジニアを目指す高校生にとって、業界のプロフェッショナルと交流できる貴重な機会でもあります。メンターとして参加する経験豊富なエンジニアからアドバイスをもらったり、他の参加者と刺激し合ったりすることで、自分の可能性を広げることができます。イベントの最後には、開発した成果を発表するプレゼンテーションも行われ、達成感を味わうことができます。",
+      "translationZh": "此外，黑客马拉松对于以将来成为程序员或工程师为目标的 H.S. 学生来说，也是一个可以与业界专业人士交流的宝贵机会。通过获得作为导师参与的经验丰富的工程师的建议，或者与其他参与者相互启发，可以拓宽自己的可能性。活动最后还会进行开发成果的展示发布会，可以体验到成就感。",
+      "translationEn": "Furthermore, hackathons are valuable opportunities for high school students aspiring to become programmers or engineers in the future to interact with industry professionals. By receiving advice from experienced engineers participating as mentors and inspiring each other with other participants, they can broaden their potential. At the end of the event, there is also a presentation session to showcase the developed results, allowing participants to feel a sense of accomplishment.",
+      "id": "edd3cf26-3f19-4195-88a3-ceaa48091cca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ハッカソン",
+      "reading": "はっかそん",
+      "meaningZh": "黑客马拉松 (指一种编程竞赛活动)",
+      "meaningEn": "Hackathon (a programming contest event)",
+      "level": "n3",
+      "exampleSentence": "このハッカソンは、新しいアプリ開発を目指しています。",
+      "id": "ae7b47cc-9c11-4a05-bcac-bf07b0443c55"
+    },
+    {
+      "word": "集中的に",
+      "reading": "しゅうちゅうてきに",
+      "meaningZh": "集中地，集中地",
+      "meaningEn": "Intensively, concentratedly",
+      "level": "n3",
+      "exampleSentence": "試験のために、週末は集中的に勉強しました。",
+      "id": "565f3476-9417-4843-aee3-47f74baa68b7"
+    },
+    {
+      "word": "実践的",
+      "reading": "じっせんてき",
+      "meaningZh": "实践的，实用的",
+      "meaningEn": "Practical, hands-on",
+      "level": "n3",
+      "exampleSentence": "この授業は実践的なスキルを学ぶのに役立ちます。",
+      "id": "d038793c-257f-454f-a5b7-7804d8126c8d"
+    },
+    {
+      "word": "テーマ",
+      "reading": "てーま",
+      "meaningZh": "主题",
+      "meaningEn": "Theme",
+      "level": "n5n4",
+      "exampleSentence": "今日の会議のテーマは何ですか？",
+      "id": "c7d4692b-e6ec-4f6a-bf04-bf05082fe251"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作，协作",
+      "meaningEn": "Cooperation, collaboration",
+      "level": "n3",
+      "exampleSentence": "チームで協力して、このプロジェクトを成功させましょう。",
+      "id": "8babb061-f5dd-4c21-be83-34a0e91e86e5"
+    },
+    {
+      "word": "向上",
+      "reading": "こうじょう",
+      "meaningZh": "提高，提升",
+      "meaningEn": "Improvement, enhancement",
+      "level": "n3",
+      "exampleSentence": "多くの経験を積むことで、スキルが向上します。",
+      "id": "c30c3903-61d9-4189-848d-0878f633cded"
+    },
+    {
+      "word": "目指す",
+      "reading": "めざす",
+      "meaningZh": "以...为目标，瞄准",
+      "meaningEn": "To aim for, to target",
+      "level": "n3",
+      "exampleSentence": "彼は医者になることを目指しています。",
+      "id": "38222ac5-2da5-48d1-8425-7c72ad29d7c2"
+    },
+    {
+      "word": "刺激",
+      "reading": "しげき",
+      "meaningZh": "刺激，激励",
+      "meaningEn": "Stimulation, inspiration",
+      "level": "n3",
+      "exampleSentence": "新しい環境は、創造性を刺激するのに役立つことがあります。",
+      "id": "d50a4938-1ba0-40b3-b871-ea3a71665ab1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンに参加する高校生は、どのようなスキルを向上させることができますか？",
+      "options": [
+        "プログラミングスキルとコミュニケーション能力",
+        "歴史の知識と語学力",
+        "芸術的な表現力と音楽の才能",
+        "スポーツの技術とリーダーシップ"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文によると、「プログラミングスキルだけでなく、コミュニケーション能力や問題解決能力も向上するでしょう。」とあります。",
+      "id": "f514504a-31c2-4cc3-8ae4-0d4fe57ef838"
+    },
+    {
+      "question": "ハッカソンは、将来プログラマーを目指す高校生にとって、どのような機会を提供しますか？",
+      "options": [
+        "趣味のプログラミングを楽しむ機会",
+        "最新のゲームをプレイする機会",
+        "業界のプロフェッショナルと交流する機会",
+        "学校の友達と旅行する機会"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「業界のプロフェッショナルと交流できる貴重な機会でもあります。」と書かれています。",
+      "id": "b84b0f05-919d-4e19-afe7-d89f377f2798"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-08-22473898ef",
+  "publishedAt": "2026-09-08T06:00:00+09:00"
+}
