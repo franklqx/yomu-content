@@ -1,0 +1,143 @@
+{
+  "title": "回転寿司の値上げ、お客さんの足は止まった？",
+  "summary": "最近、回転寿司チェーンで値上げが相次いでいます。それでもお客さんは変わらず来ているのでしょうか？値段と人気について考えます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの回転寿司チェーン店で、お皿一枚あたりの値段が少し上がったというニュースをよく聞きますね。原材料費の高騰などが理由だそうですが、それでも多くの人が「やっぱりお寿司は美味しいから行こう！」と思っているのでしょうか。",
+      "translationZh": "最近，经常听到很多回转寿司连锁店涨价的消息，每盘的价格都稍微提高了一些。据说原因是原材料成本的上涨等，但是大家是不是还是觉得“果然寿司很好吃，还是去吧！”呢？",
+      "translationEn": "Recently, we often hear news that many conveyor belt sushi chain stores have raised their prices slightly per plate. The reason is said to be rising raw material costs, but are people still thinking, 'Sushi is delicious, so let's go anyway!'?",
+      "id": "3864d402-1d6c-438b-b9d5-30b4373cac15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、昔より少し値段が高くなったと感じる人もいるでしょう。それでも、他の外食に比べればまだ手頃な値段だという声もあります。特に家族連れにとっては、みんなで好きなものを少しずつ食べられる回転寿司は、とても便利で人気があります。",
+      "translationZh": "当然，也有人会觉得比以前贵了一点。尽管如此，也有声音说与其他外出就餐相比，它仍然价格实惠。特别是对于有小孩的家庭来说，回转寿司因为可以大家一起吃点自己喜欢的，所以非常方便也很受欢迎。",
+      "translationEn": "Of course, some people probably feel that the prices have gone up a bit compared to before. Nevertheless, there are also voices saying that it is still affordable compared to other dining out options. Especially for families, conveyor belt sushi is very convenient and popular because everyone can eat a little of what they like.",
+      "id": "3eb43322-b105-481e-b08f-80376454454b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、値上げの影響で、今までのように気軽に行けなくなったという人もいるはずです。例えば、以前は週に一度行っていたけれど、これからは月に一度くらいにしよう、というように、行く回数を減らす人もいるかもしれません。また、少し高くても美味しいお寿司を食べたいという人は、高級なお店を選ぶようになるかもしれませんね。",
+      "translationZh": "然而，肯定也有人因为涨价的影响，变得不能像以前那样随意地去了。比如，以前每周去一次的人，今后可能会改成一个月去一次，减少光顾的次数。另外，即使贵一点也想吃美味寿司的人，可能会选择更高级的店吧。",
+      "translationEn": "However, due to the price increase, there must be some people who can no longer go as casually as before. For example, people who used to go once a week might now decide to go only about once a month, reducing the frequency of their visits. Also, people who want to eat delicious sushi even if it's a bit more expensive might start choosing higher-end restaurants.",
+      "id": "94149ce9-c009-4a06-b3e4-8ac695f5fef0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "回転寿司チェーンが値上げをしても、すぐに客足が大きく減るわけではないでしょう。しかし、長い目で見ると、今回の値上げがお客さんの利用頻度やお店選びにどう影響していくのか、注意深く見ていく必要がありそうです。",
+      "translationZh": "即使回转寿司连锁店涨价了，客流量也不会立刻大幅减少。但是，从长远来看，似乎有必要仔细观察这次涨价将如何影响顾客的来店频率和店铺选择。",
+      "translationEn": "Even if conveyor belt sushi chains raise their prices, customer traffic probably won't decrease significantly right away. However, in the long run, it seems necessary to carefully observe how this price increase will affect customer visit frequency and store choices.",
+      "id": "129b2e88-2988-4551-bc23-6ed16df32f82",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n3",
+      "exampleSentence": "週末は家族で回転寿司に行きました。",
+      "id": "5e5ff2a4-eeca-47ab-94e1-616a99472d5b"
+    },
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n3",
+      "exampleSentence": "円安の影響で、輸入品の値上げが続いています。",
+      "id": "f76e6c6c-84c6-4a26-8553-c7ca00333c35"
+    },
+    {
+      "word": "相次ぐ",
+      "reading": "あいつぐ",
+      "meaningZh": "接连发生，接二连三",
+      "meaningEn": "to occur one after another",
+      "level": "n3",
+      "exampleSentence": "今年は自然災害が相次いで発生しました。",
+      "id": "7f67c081-b96f-48dd-880e-2b4c0e8490fd"
+    },
+    {
+      "word": "原材料費",
+      "reading": "げんざいりょうひ",
+      "meaningZh": "原材料费",
+      "meaningEn": "raw material cost",
+      "level": "n3",
+      "exampleSentence": "原材料費の高騰により、商品の価格が上がりました。",
+      "id": "c5044aa2-14d3-4925-bcec-98f8f1d6ab47"
+    },
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "（价格等）飞涨，猛涨",
+      "meaningEn": "soaring (prices, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "不動産価格の高騰が問題になっています。",
+      "id": "594d5250-b90e-4cb8-81bb-b687172da800"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格适中，实惠",
+      "meaningEn": "affordable",
+      "level": "n3",
+      "exampleSentence": "このお店は手頃な値段で美味しい料理が食べられます。",
+      "id": "352c909c-ead3-49e1-bba9-ebc4e9cc1ae3"
+    },
+    {
+      "word": "家族連れ",
+      "reading": "かぞぞれ",
+      "meaningZh": "携家带口，全家出动",
+      "meaningEn": "accompanied by family",
+      "level": "n3",
+      "exampleSentence": "週末の公園は家族連れで賑わっていました。",
+      "id": "7784aa91-22a7-4a66-aee0-29886212de7b"
+    },
+    {
+      "word": "客足",
+      "reading": "きゃくあし",
+      "meaningZh": "顾客流量，客流",
+      "meaningEn": "customer traffic",
+      "level": "n3",
+      "exampleSentence": "セールが始まったので、お店の客足が増えました。",
+      "id": "1e5190bf-874d-4867-9eda-509604e86273"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司チェーンの値上げの理由として、本文で挙げられているのは何ですか？",
+      "options": [
+        "新しいメニューを開発するため",
+        "お店の改装費用をまかなうため",
+        "原材料費の高騰",
+        "人件費を抑えるため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「原材料費の高騰などが理由だそうですが」と述べられています。",
+      "id": "062f6205-ff53-4c26-9830-e4d084111612"
+    },
+    {
+      "question": "値上げによって、お客さんの行動にどのような変化が考えられますか？",
+      "options": [
+        "全員が値上げに賛成している",
+        "行く回数を減らす人がいるかもしれない",
+        "高級店にしか行かなくなる",
+        "全く影響はない"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「行く回数を減らす人もいるかもしれません」という記述があります。",
+      "id": "4fbde249-0a1e-42b8-9ca1-6fc6eb5309ee"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-09-e84a2b4f5e",
+  "publishedAt": "2026-09-09T06:00:00+09:00"
+}

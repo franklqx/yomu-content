@@ -1,0 +1,122 @@
+{
+  "title": "お寿司の値上げ、どう変わった？",
+  "summary": "人気のお寿司屋さんの値段が上がりました。お客さんはどう思っているでしょうか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、回転寿司チェーンで値段が上がりました。前より少し高くなりました。たくさんの人がお寿司を食べに行きますが、値段が変わると、お客さんの気持ちも変わるかもしれません。",
+      "translationZh": "最近，回转寿司连锁店涨价了。比以前贵了一点。虽然很多人去吃寿司，但是价格变了，客人的心情也可能会改变。",
+      "translationEn": "Recently, prices have gone up at conveyor belt sushi chains. They are a little more expensive than before. Many people go to eat sushi, but if the price changes, customers' feelings might also change.",
+      "id": "58e03aa5-1b4f-49a1-8dca-1e7c3a23aa61",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "前は１００円で美味しいお寿司が食べられました。でも、今は１１０円や１２０円になりました。お皿の色で値段が違います。それでも、まだ安いと感じるお客さんもいます。",
+      "translationZh": "以前100日元就能吃到美味的寿司。但是，现在变成了110日元或120日元。价格根据盘子的颜色而不同。即便如此，还有客人觉得还是便宜。",
+      "translationEn": "Before, you could eat delicious sushi for 100 yen. But now, it has become 110 yen or 120 yen. The price differs depending on the color of the plate. Even so, some customers still feel it is cheap.",
+      "id": "22a0040b-01ef-4913-9762-1d5dcd825234",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がって、行く回数が減った人もいます。でも、お寿司が大好きなので、これからも行くと言っています。お店も、もっと美味しいお寿司を作るために頑張っています。",
+      "translationZh": "因为涨价，有些人减少了去店里的次数。但是，也有人说因为非常喜欢寿司，所以今后还会去。店里也在努力制作更美味的寿司。",
+      "translationEn": "Because of the price increase, some people have reduced the number of times they visit. However, some say they will continue to go because they love sushi. The restaurants are also working hard to make more delicious sushi.",
+      "id": "c5d9ba3b-323f-424f-bd45-51a460ad4248",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "回転寿司は、手軽に色々な種類のお寿司を食べられるのが良いところです。値段は少し上がりましたが、これからも人気があるでしょう。味をもっと良くすることが大切です。",
+      "translationZh": "回转寿司的优点是可以方便地吃到各种各样的寿司。虽然价格稍微涨了，但今后应该也会很受欢迎。提高味道更重要。",
+      "translationEn": "The good thing about conveyor belt sushi is that you can easily eat various kinds of sushi. Although the price has increased a little, it will likely remain popular in the future. Making the taste even better is important.",
+      "id": "2d895b75-5e03-4559-acfa-571de5e8b869",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "Conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "回転寿司は楽しいです。",
+      "id": "4f95c856-1aff-4de6-8fa8-15620ae51825"
+    },
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "Price increase",
+      "level": "n5n4",
+      "exampleSentence": "コーヒーの値上げは困ります。",
+      "id": "883597d6-f7e0-4c97-a548-d777086441a9"
+    },
+    {
+      "word": "客足",
+      "reading": "きゃくあし",
+      "meaningZh": "客流量，客流",
+      "meaningEn": "Customer traffic, customer flow",
+      "level": "n3",
+      "exampleSentence": "新しい店は客足が多いです。",
+      "id": "3a892385-41d7-4a66-aeef-d20dfded81ff"
+    },
+    {
+      "word": "チェーン",
+      "reading": "ちぇーん",
+      "meaningZh": "连锁店",
+      "meaningEn": "Chain (store)",
+      "level": "n5n4",
+      "exampleSentence": "このパン屋さんはチェーンです。",
+      "id": "38d5c067-0534-4829-9652-658ee6d9cf12"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaningZh": "心情，感觉",
+      "meaningEn": "Feeling, mood",
+      "level": "n5n4",
+      "exampleSentence": "嬉しい気持ちになります。",
+      "id": "4208303f-bba0-4664-a8e6-a761316544f5"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaningZh": "次数",
+      "meaningEn": "Number of times",
+      "level": "n5n4",
+      "exampleSentence": "行く回数を減らします。",
+      "id": "0cb8faf9-b662-4db3-b605-f5fa1e627d0d"
+    },
+    {
+      "word": "手軽",
+      "reading": "てがる",
+      "meaningZh": "方便，简单",
+      "meaningEn": "Easy, simple, convenient",
+      "level": "n3",
+      "exampleSentence": "手軽に料理ができます。",
+      "id": "6e0b83d1-ecfa-455f-988f-ad00c5864573"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "値段が上がって、行く回数が減った人はいますか？",
+      "options": [
+        "はい、減った人がいます。",
+        "いいえ、減った人はいません。",
+        "みんな、もっと行くようになりました。",
+        "関係ありません。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「値段が上がって、行く回数が減った人もいます。」と書いてあります。",
+      "id": "49e61a68-c116-4c77-87b3-1bdb1c0eff46"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-09-e84a2b4f5e",
+  "publishedAt": "2026-09-09T06:00:00+09:00"
+}

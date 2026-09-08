@@ -1,0 +1,122 @@
+{
+  "title": "新しい文房具で新学期！",
+  "summary": "もうすぐ新しい学年が始まりますね。新しい学期には、新しい文房具で気分も新しくしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春は新しいことが始まる季節です。学校でも新しい学年が始まります。新しいクラス、新しい友達、そして新しい文房具で、わくわくしますね。",
+      "translationZh": "春天是万物开始的季节。学校里新的一年也要开始了。有新的班级、新的朋友，还有新的文具，真是令人兴奋。",
+      "translationEn": "Spring is a season of new beginnings. A new school year is about to start. New classes, new friends, and new stationery make us excited.",
+      "id": "d3313235-4708-4331-85ce-31f569f68931",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、文房具のトレンドがあります。例えば、かわいいキャラクターのペンや、特別な機能があるノートです。色もたくさんあって、選ぶのが楽しいです。",
+      "translationZh": "最近，文具有新的流行趋势。比如，可爱的卡通角色的笔，或者有特殊功能的笔记本。颜色也很丰富，选择起来很有趣。",
+      "translationEn": "Recently, there are stationery trends. For example, pens with cute characters or notebooks with special functions. There are many colors, and it's fun to choose.",
+      "id": "88b977a7-1be3-4ad8-a50b-e6cc046dcbcf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に人気なのは、書きやすいペンや、消しやすい消しゴムです。勉強がもっと楽しくなるような文房具がたくさんあります。お気に入りの文房具を見つけてください。",
+      "translationZh": "特别受欢迎的是容易书写的笔和容易擦掉的橡皮。有很多能让学习变得更开心的文具。请找到你最喜欢的文具吧。",
+      "translationEn": "Especially popular are pens that are easy to write with and erasers that are easy to erase. There are many stationery items that can make studying more enjoyable. Please find your favorite stationery.",
+      "id": "a20c5231-fb28-42f3-9b23-f900e1555c93",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい文房具は、学校生活をより豊かにしてくれます。新しい学期が始まる前に、文房具店に行ってみましょう。きっと素敵なものが見つかりますよ。",
+      "translationZh": "新的文具能让学校生活更加丰富。在新学期开始前，去文具店看看吧。一定会找到喜欢的东西。",
+      "translationEn": "New stationery can enrich your school life. Let's go to a stationery store before the new school year begins. You will surely find something wonderful.",
+      "id": "2a63b129-5abe-4f05-8c60-9ef0de707f98",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文房具",
+      "reading": "ぶんぼ Aşağı",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いました。",
+      "id": "2bfca396-b9ef-48f6-956c-0b20d26ecb62"
+    },
+    {
+      "word": "新学期",
+      "reading": "しんがっき",
+      "meaningZh": "新学期",
+      "meaningEn": "new school term",
+      "level": "n5n4",
+      "exampleSentence": "新学期が始まります。",
+      "id": "813db516-fec2-410b-b37a-98db5c1048dd"
+    },
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "春はいい季節です。",
+      "id": "510a34aa-106f-4187-b6f4-25b1d6e1efa6"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "きゃらくたー",
+      "meaningZh": "角色；卡通人物",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このキャラクターが好きです。",
+      "id": "1c0faa1a-fd78-4a74-befa-8d1648734e60"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaningZh": "功能",
+      "meaningEn": "function",
+      "level": "n5n4",
+      "exampleSentence": "このペンは特別な機能があります。",
+      "id": "85651a67-0e7e-4ddc-82db-9c1367bd9227"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別なペンです。",
+      "id": "311e6406-d86f-40fd-aeaf-8e58623005a6"
+    },
+    {
+      "word": "豊か",
+      "reading": "ゆたか",
+      "meaningZh": "丰富；充裕",
+      "meaningEn": "rich; abundant",
+      "level": "n3",
+      "exampleSentence": "生活が豊かになりました。",
+      "id": "2b7c97cb-8ec7-44b9-a659-58568f85324c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい文房具で、どのようなことが楽しくなりますか？",
+      "options": [
+        "勉強",
+        "を選ぶこと",
+        "遊ぶこと",
+        "寝ること"
+      ],
+      "correctIndex": 1,
+      "explanation": "「色もたくさんあって、選ぶのが楽しいです。」と書いてあります。",
+      "id": "b64a58a5-9195-4271-a445-b53262751dec"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-09-6abb825666",
+  "publishedAt": "2026-09-09T06:00:00+09:00"
+}

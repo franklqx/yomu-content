@@ -1,0 +1,114 @@
+{
+  "title": "アニメ聖地巡礼、町が元気！",
+  "summary": "アニメの場所を訪れる人が増えています。それは、町を元気にする良いことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、アニメの「聖地巡礼（せいちじゅんれい）」が人気です。聖地巡礼は、アニメに出てきた場所を実際に訪れることです。たくさんの人が、好きなアニメの景色を見に行きます。",
+      "translationZh": "最近，“动画圣地巡礼”很受欢迎。圣地巡礼就是实际去参观动画中出现的地点。很多人会去看看自己喜欢的动画中的景色。",
+      "translationEn": "Recently, 'anime pilgrimage' is popular. Pilgrimage means actually visiting places that appeared in anime. Many people go to see the scenery from their favorite anime.",
+      "id": "e99bbe4d-a2fa-402d-a0a3-fbb8e270a8ec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメのファンは、その場所で写真を撮ったり、お土産を買ったりします。それで、その町の小さなお店も助かります。例えば、田舎の町が有名になったこともあります。",
+      "translationZh": "动画粉丝会在那里拍照，也会买纪念品。这样，那个小镇上的小商店也会得到帮助。例如，有些乡村小镇因此变得有名了。",
+      "translationEn": "Anime fans take pictures there and buy souvenirs. This helps the small shops in the town. For example, some rural towns have become famous because of this.",
+      "id": "883c0265-2990-4f6e-ba96-3ca709765faf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "聖地巡礼は、町の人々にとっても嬉しいことです。新しい人が来て、町がにぎやかになります。町はアニメのファンを歓迎しています。だから、これからも聖地巡礼は続くでしょう。",
+      "translationZh": "圣地巡礼对于小镇的人们来说也是一件开心的事。新的人们来了，小镇变得热闹起来。小镇欢迎动画粉丝。所以，今后圣地巡礼应该也会继续下去。",
+      "translationEn": "Pilgrimage is also a happy thing for the townspeople. New people come, and the town becomes lively. The town welcomes anime fans. Therefore, pilgrimage will likely continue in the future.",
+      "id": "608b8d45-55ed-4ac7-9718-254015105a70",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "圣地巡礼",
+      "meaningEn": "Anime pilgrimage",
+      "level": "n5n4",
+      "exampleSentence": "アニメの聖地巡礼は楽しいです。",
+      "id": "5b2fa25e-1978-40d5-88a1-2640e9124508"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "Popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "93c6add7-bdd2-4087-a833-dbaa148d89b7"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访，访问",
+      "meaningEn": "To visit",
+      "level": "n5n4",
+      "exampleSentence": "明日、友達の家を訪ねます。",
+      "id": "f8dee9cc-6649-40fe-9632-ba3c87d45705"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "Scenery",
+      "level": "n5n4",
+      "exampleSentence": "山の景色がきれいです。",
+      "id": "4ae51a4f-30c9-4710-9353-cb8e12c93196"
+    },
+    {
+      "word": "助かる",
+      "reading": "たすかる",
+      "meaningZh": "得救，得到帮助",
+      "meaningEn": "To be saved, to be helped",
+      "level": "n5n4",
+      "exampleSentence": "手伝ってくれて、助かりました。",
+      "id": "7a3817f4-b66c-415f-91fc-e7fb4c8acc03"
+    },
+    {
+      "word": "田舎",
+      "reading": "いなか",
+      "meaningZh": "乡下，乡村",
+      "meaningEn": "Countryside",
+      "level": "n5n4",
+      "exampleSentence": "私は田舎で育ちました。",
+      "id": "639716e2-3a73-4d21-b4d8-520236fb41ce"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "Lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "駅前はいつもにぎやかです。",
+      "id": "1cf918c3-561c-4563-8b74-99d384944893"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの「聖地巡礼」とは、どのようなことですか？",
+      "options": [
+        "アニメのイベントに行くこと",
+        "アニメの場所を実際に訪れること",
+        "アニメのキャラクターに会うこと",
+        "アニメのマンガを読むこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「聖地巡礼（せいちじゅんれい）」は、アニメに出てきた場所を実際に訪れることです。",
+      "id": "7645e2e4-3752-4f33-aafa-09731d553375"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-09-220265558d",
+  "publishedAt": "2026-09-09T06:00:00+09:00"
+}
