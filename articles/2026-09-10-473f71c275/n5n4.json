@@ -1,0 +1,131 @@
+{
+  "title": "ローカル線で一日旅！",
+  "summary": "ローカル線一日乗り放題切符は、安くて楽しい旅行ができます。この切符の使い方を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この切符は、一日中、ローカル線が何回でも乗れる便利な切符です。値段も安いですから、気軽に使えます。週末や休日に、友達と一緒に行くのもいいですね。",
+      "translationZh": "这种票是一张方便的票，可以在一天内无限次乘坐当地火车。价格也很便宜，所以可以轻松使用。周末或节假日和朋友一起去也不错。",
+      "translationEn": "This ticket is a convenient ticket that allows you to ride local trains as many times as you want all day. The price is also cheap, so you can use it casually. It's also nice to go with friends on weekends or holidays.",
+      "id": "d2c79403-b649-464c-b62e-8a52537f0294",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "使い方は簡単です。まず、駅で切符を買います。そして、乗りたいローカル線に乗ります。降りるときは、普通の切符と同じように駅員さんに見せます。",
+      "translationZh": "使用方法很简单。首先，在车站购买车票。然后，乘坐您想乘坐的当地火车。下车时，像普通车票一样出示给站务员看。",
+      "translationEn": "It's easy to use. First, buy a ticket at the station. Then, get on the local train you want to ride. When you get off, show it to the station attendant like a regular ticket.",
+      "id": "15a26893-f3e5-46f1-96f2-daeb098de6ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符を使うと、色々な町を訪れることができます。途中で降りて、町を散歩するのも楽しいです。おいしいものを食べたり、きれいな景色を見たりしましょう。",
+      "translationZh": "使用这张票，您可以游览各种城镇。中途下车，在镇上散步也很有趣。让我们吃点好吃的东西，看看美丽的风景吧。",
+      "translationEn": "With this ticket, you can visit various towns. It's also fun to get off midway and take a walk around town. Let's eat something delicious and see beautiful scenery.",
+      "id": "6a943be6-48a4-434c-b25c-3547879ea5f5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "安い値段で、一日中旅行を楽しめるのは素晴らしいことです。皆さんも、この切符で特別な一日を過ごしてみませんか。",
+      "translationZh": "能以便宜的价格享受一整天的旅行真是太棒了。大家也想用这张票度过特别的一天吗？",
+      "translationEn": "It's wonderful to enjoy a whole day of travel at a low price. Wouldn't you all like to spend a special day with this ticket?",
+      "id": "e6ff88e6-6bac-4155-9ab1-5117267d482e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ローカル線",
+      "reading": "ろーかるせん",
+      "meaningZh": "当地火车线路，地方线",
+      "meaningEn": "local train line",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "c57d947f-19a4-4764-bbd5-2186d2064057"
+    },
+    {
+      "word": "一日乗り放題切符",
+      "reading": "いちにちのりほうだい切符",
+      "meaningZh": "一日不限次数乘坐票",
+      "meaningEn": "one-day unlimited ride ticket",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "96eb262b-6934-4b9e-b09d-c3d788d9bb41"
+    },
+    {
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaningZh": "票，车票",
+      "meaningEn": "ticket",
+      "level": "n5n4",
+      "exampleSentence": "切符を買います。",
+      "id": "c0e70bf0-2dc0-439a-8b3c-7c856de95f90"
+    },
+    {
+      "word": "駅",
+      "reading": "えき",
+      "meaningZh": "车站",
+      "meaningEn": "station",
+      "level": "n5n4",
+      "exampleSentence": "駅で友達を待ちました。",
+      "id": "567deada-0deb-401a-bde1-400538eed98a"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaningZh": "简单",
+      "meaningEn": "easy, simple",
+      "level": "n5n4",
+      "exampleSentence": "この料理は簡単です。",
+      "id": "4bf8a137-c5ec-4d5d-8fbf-cfcebf392e5a"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "访问，拜访",
+      "meaningEn": "to visit",
+      "level": "n3",
+      "exampleSentence": "新しい町を訪れました。",
+      "id": "416d600c-629f-490f-8c8e-e8dd7a8837a1"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaningZh": "散步",
+      "meaningEn": "walk, stroll",
+      "level": "n5n4",
+      "exampleSentence": "公園を散歩します。",
+      "id": "6ddd0832-fc8f-4117-9e46-f5447a63467f"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色，风景",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "きれいな景色を見ました。",
+      "id": "d14805d3-3d37-408d-bc80-148d9537f330"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この切符で、ローカル線に何回乗ることができますか？",
+      "options": [
+        "1回だけ",
+        "2回まで",
+        "何回でも",
+        "一日3回まで"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「一日中、ローカル線が何回でも乗れる便利な切符です」と書いてあります。",
+      "id": "8af688e2-99f2-4b40-beb3-524fb305a284"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-10-473f71c275",
+  "publishedAt": "2026-09-10T06:00:00+09:00"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "街でよく見かける？ロボット案内員が増えている理由",
+  "summary": "最近、都市部でロボット案内員を見かける機会が増えました。これは、人手不足の解消や、より良いサービス提供のためです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、駅や商業施設などで、ロボットが案内をしてくれる場面が増えてきました。これらのロボット案内員は、道案内だけでなく、周辺のおすすめ情報を提供してくれることもあります。多言語対応ができるロボットも多く、外国人観光客にとっても心強い存在となっています。",
+      "translationZh": "最近，在车站或商业设施等地，能看到机器人提供向导服务的场景越来越多了。这些机器人案内员不仅能指路，有时还能提供周边推荐信息。很多机器人还能对应多种语言，对外来游客来说也是一个令人安心的存在。",
+      "translationEn": "Recently, there are more and more situations where robots provide guidance in places like stations and commercial facilities. These robot guides not only show directions but also offer recommendations for surrounding areas. Many robots can handle multiple languages, making them a reassuring presence for foreign tourists.",
+      "id": "163985c8-094c-4f81-bd07-64d24e43de3c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市部では、高齢化や少子化の影響で、案内係などの人手不足が深刻な問題となっています。そこで、ロボット案内員がその役割を担うことで、人手不足を解消し、サービスを維持しようという動きがあります。また、ロボットは疲れを知らないので、24時間対応が可能な場合もあり、サービスの質を向上させることも期待されています。",
+      "translationZh": "在都市地区，由于老龄化和少子化的影响，案内员等人手不足已成为一个严重问题。因此，通过让机器人案内员承担其角色，旨在解决人手不足并维持服务。而且，机器人不会感到疲倦，有时可以实现24小时服务，人们也期待它们能提高服务质量。",
+      "translationEn": "In urban areas, labor shortages for roles like guides are a serious problem due to the effects of aging and declining birthrates. Therefore, there's a movement to have robot guides take on these roles to alleviate the labor shortage and maintain services. Furthermore, since robots don't get tired, they can sometimes provide 24-hour service, and are expected to improve service quality.",
+      "id": "3ffd754c-1eff-439c-8208-61167e2a4f88",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、ロボット案内員がすべての人にとって便利とは限りません。例えば、高齢者の中には、操作に慣れていない人もいます。また、ロボットが対応できない複雑な質問や、感情的なサポートが必要な場面では、やはり人間の係員が必要とされるでしょう。だから、ロボットと人間が協力して、より良い案内サービスを目指していくことが大切だと考えられます。",
+      "translationZh": "然而，机器人案内员并非对所有人都方便。例如，有些老年人不太习惯操作。此外，在机器人无法应对的复杂问题或需要情感支持的场合，还是需要人类服务员。因此，我认为机器人与人类合作，以提供更好的案内服务是重要的。",
+      "translationEn": "However, robot guides are not necessarily convenient for everyone. For instance, some elderly people are not used to operating them. Also, in situations with complex questions that robots cannot handle, or when emotional support is needed, human staff will still be required. Therefore, it is considered important for robots and humans to cooperate to aim for better guidance services.",
+      "id": "661a91b2-70fd-45c8-a84f-6bbc3d9650c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "案内员，导游",
+      "meaningEn": "guide, attendant",
+      "level": "n3",
+      "exampleSentence": "駅には親切な案内員がいました。",
+      "id": "a20fde86-a532-48f2-9d24-f8a1a43395ed"
+    },
+    {
+      "word": "商業施設",
+      "reading": "しょうぎょうしせつ",
+      "meaningZh": "商业设施",
+      "meaningEn": "commercial facility, shopping center",
+      "level": "n3",
+      "exampleSentence": "新しい商業施設がオープンしました。",
+      "id": "328c3319-243d-474e-b485-c574afce5610"
+    },
+    {
+      "word": "多言語",
+      "reading": "たげんご",
+      "meaningZh": "多语言",
+      "meaningEn": "multilingual",
+      "level": "n3",
+      "exampleSentence": "このホテルは多言語対応が可能です。",
+      "id": "77806d31-62f1-4755-846c-6aadd1d0b74b"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "最近、多くの店で人手不足が問題になっています。",
+      "id": "86bbabf6-b72e-4ef8-a752-51f3b82a15c2"
+    },
+    {
+      "word": "高齢化",
+      "reading": "こうれいか",
+      "meaningZh": "老龄化",
+      "meaningEn": "aging population",
+      "level": "n3",
+      "exampleSentence": "日本は高齢化が進んでいます。",
+      "id": "4699b7de-350a-4ff0-91d4-d21e119f4e76"
+    },
+    {
+      "word": "少子化",
+      "reading": "しょうしか",
+      "meaningZh": "少子化",
+      "meaningEn": "declining birthrate",
+      "level": "n3",
+      "exampleSentence": "少子化対策が急務です。",
+      "id": "0d68335f-278d-48dd-b9b1-841c872422f1"
+    },
+    {
+      "word": "質",
+      "reading": "しつ",
+      "meaningZh": "质，质量",
+      "meaningEn": "quality",
+      "level": "n5n4",
+      "exampleSentence": "サービスの質を上げることが大切だ。",
+      "id": "b2d12493-2322-4f7b-99f5-5108642ad25f"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation, collaboration",
+      "level": "n3",
+      "exampleSentence": "チームで協力して仕事を進めました。",
+      "id": "8b8efd60-f3da-4e8b-837d-2a9aeccacaf5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が増えている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "ロボットが人間より速く案内できるから",
+        "人手不足の解消やサービス向上のため",
+        "ロボットのほうが人間より安いから",
+        "すべての人がロボット案内を望んでいるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「都市部では、高齢化や少子化の影響で、案内係などの人手不足が深刻な問題となっています。そこで、ロボット案内員がその役割を担うことで、人手不足を解消し、サービスを維持しようという動きがあります。」とあります。",
+      "id": "c7fc4c90-d26c-4d96-a3d2-2c4e6605683f"
+    },
+    {
+      "question": "ロボット案内員がすべての人にとって便利とは限らない、というのはなぜですか？",
+      "options": [
+        "ロボットの料金が高いから",
+        "ロボットの案内が遅いから",
+        "操作に慣れていない高齢者がいることや、複雑な質問・感情的なサポートには人間が必要だから",
+        "ロボットがまだ発明されたばかりだから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「例えば、高齢者の中には、操作に慣れていない人もいます。また、ロボットが対応できない複雑な質問や、感情的なサポートが必要な場面では、やはり人間の係員が必要とされるでしょう。」とあります。",
+      "id": "50e75f50-b85b-4c6f-b040-e189554fee1d"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-10-b3f2035f3f",
+  "publishedAt": "2026-09-10T06:00:00+09:00"
+}

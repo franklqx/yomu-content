@@ -1,0 +1,138 @@
+{
+  "title": "増加するロボット案内員、都市の風景が変わる",
+  "summary": "都市部を中心に、ロボットによる案内サービスの導入が進んでいます。これは、人手不足の解消やサービス品質の向上を目指す動きと見られています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、大都市圏の駅や商業施設、観光地などにおいて、ロボットが案内員として活躍する場面が増加している。これらのロボットは、多言語対応や24時間稼働が可能であり、訪日外国人観光客の増加や、国内における労働力不足といった社会的な背景が、その普及を後押ししていると見られる。従来の人間による案内サービスでは対応しきれないニーズに応えるべく、最先端技術が活用されたロボットの導入が進められているのだ。",
+      "translationZh": "近年来，在大都市圈的车站、商业设施、旅游景点等地，机器人作为向导活跃的场景日益增多。这些机器人能够支持多国语言并实现24小时运作，其普及被认为受到了访日外国游客增加及国内劳动力短缺等社会背景的推动。为了满足传统人工导览服务难以应对的需求，结合了尖端技术的机器人的引进正在稳步推进。",
+      "translationEn": "In recent years, there has been an increasing number of instances in major urban areas, such as stations, commercial facilities, and tourist spots, where robots are actively serving as guides. These robots are capable of multilingual support and 24-hour operation, and their widespread adoption is seen as being boosted by social factors like the rise in inbound foreign tourists and domestic labor shortages. To meet the needs that traditional human guidance services struggle to address, the introduction of robots utilizing cutting-edge technology is being pursued.",
+      "id": "a4b4975e-7e22-4dd2-ae7b-da45aaa37533",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員には、操作の簡便さや情報提供の正確性といった利点があるとされる一方、人間らしい温かみのある対応や、予期せぬ事態への柔軟な対応といった点においては、まだ課題も残されている。しかし、AI技術の進歩に伴い、より自然な対話能力や、利用者の感情を読み取る機能などが搭載されつつあり、将来的には人間とロボットが協調してサービスを提供する形態も期待される。これにより、案内サービスの質がさらに向上することが見込まれている。",
+      "translationZh": "尽管机器人向导被认为具有操作简便、信息提供准确等优点，但在类似人类的温暖互动和对突发情况的灵活应对方面，仍存在一些课题。然而，随着AI技术的进步，具备更自然对话能力和读取使用者情绪等功能正逐渐搭载，未来有望实现人类与机器人协同提供服务的形态。这预计将进一步提升导览服务的质量。",
+      "translationEn": "While robot guides are said to have advantages such as ease of operation and accuracy of information provision, challenges remain concerning human-like warmth in interaction and flexible responses to unforeseen situations. However, with advancements in AI technology, capabilities like more natural conversational skills and functions to understand user emotions are being incorporated, and in the future, forms of service where humans and robots collaborate are anticipated. This is expected to further enhance the quality of guidance services.",
+      "id": "6d9a31de-8863-48b1-846f-675e1c070b48",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうしたロボット案内員の導入は、単なる人手不足の解消策に留まらず、都市のイメージアップや新たな観光資源としての活用も視野に入れた戦略であると言えるだろう。子供から高齢者まで、幅広い層にとって親しみやすい存在となることが期待されており、今後の技術開発と社会受容の進展が注目されるところである。",
+      "translationZh": "这类机器人向导的引入，不仅仅是解决人手短缺的对策，也可以说是着眼于提升城市形象和作为新的旅游资源加以利用的战略。人们期待它们能成为从儿童到老年人等广泛人群都容易亲近的存在，今后的技术开发和社会接纳的进展备受关注。",
+      "translationEn": "The introduction of such robot guides can be considered a strategy that goes beyond merely addressing labor shortages, also aiming to enhance the city's image and utilize them as new tourist resources. They are expected to become approachable entities for a wide range of people, from children to the elderly, and future technological development and societal acceptance are being closely watched.",
+      "id": "225c26c0-19ec-4613-bb0e-3f52ed6fd5fa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread; popularization; diffusion",
+      "level": "n2n1",
+      "exampleSentence": "スマートフォンが世界中に普及した。",
+      "id": "4d5930ea-3713-4eb4-b4a3-997291380041"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "推动，支持",
+      "meaningEn": "push; support; backing",
+      "level": "n2n1",
+      "exampleSentence": "政府の支援が新しい産業の発展を後押しした。",
+      "id": "b7101dde-48f8-4358-be4f-a8bc19b540a3"
+    },
+    {
+      "word": "〜と見られる",
+      "reading": "〜とみられる",
+      "meaningZh": "被认为，被看作是",
+      "meaningEn": "is considered; is seen as; is regarded as",
+      "level": "n2n1",
+      "exampleSentence": "この現象は、社会構造の変化によるものと見られている。",
+      "id": "db617b4b-66fb-4e22-8610-9e301b7019fb"
+    },
+    {
+      "word": "〜に伴い",
+      "reading": "〜にともない",
+      "meaningZh": "随着…而，伴随着…",
+      "meaningEn": "along with; accompanying; following",
+      "level": "n2n1",
+      "exampleSentence": "技術の進歩に伴い、生活様式が大きく変わった。",
+      "id": "260e7e1a-36b8-4139-8948-d8d5374b9bc0"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaningZh": "协作，协调",
+      "meaningEn": "cooperation; coordination; harmony",
+      "level": "n2n1",
+      "exampleSentence": "チームメンバーとの協調が成功の鍵となる。",
+      "id": "e2f6cba5-7459-44af-9ee3-a554dc40ac59"
+    },
+    {
+      "word": "視野に入れる",
+      "reading": "しやにいれる",
+      "meaningZh": "纳入视野，考虑在内",
+      "meaningEn": "to take into consideration; to keep in view",
+      "level": "n2n1",
+      "exampleSentence": "将来の計画を立てる上で、様々な選択肢を視野に入れる必要がある。",
+      "id": "72615740-4a78-4bc6-8a11-b707978b9a83"
+    },
+    {
+      "word": "受容",
+      "reading": "じゅよう",
+      "meaningZh": "接受，接纳",
+      "meaningEn": "acceptance; reception",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術に対する社会の受容度を高めることが重要だ。",
+      "id": "042a1a82-7027-43ae-ab7e-6e3e1178613f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が増加している背景として、記事ではどのようなことが述べられていますか。",
+      "options": [
+        "ロボットの価格が安くなったため",
+        "訪日外国人観光客の増加と国内の労働力不足",
+        "SNSでの人気が高まったため",
+        "人間よりもロボットの方が感情豊かになったため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「訪日外国人観光客の増加や、国内における労働力不足といった社会的な背景が、その普及を後押ししていると見られる」と記載されています。",
+      "id": "4bae2a99-5153-4310-8721-067dc6e41fbc"
+    },
+    {
+      "question": "ロボット案内員が人間による案内サービスと比べて、まだ課題があるとされる点は何ですか。",
+      "options": [
+        "情報提供の正確性",
+        "多言語対応の不足",
+        "人間らしい温かみのある対応や柔軟な対応",
+        "24時間稼働ができないこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「人間らしい温かみのある対応や、予期せぬ事態への柔軟な対応といった点においては、まだ課題も残されている」と述べられています。",
+      "id": "6d3cdbfd-00c0-457c-ba6d-842200fb7a5b"
+    },
+    {
+      "question": "ロボット案内員の導入は、どのような戦略とも言える、と記事は結論づけていますか。",
+      "options": [
+        "単なるコスト削減策",
+        "人手不足解消と都市のイメージアップ、新たな観光資源活用",
+        "最新技術の実験場としての活用",
+        "高齢者の雇用創出"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第三段に「単なる人手不足の解消策に留まらず、都市のイメージアップや新たな観光資源としての活用も視野に入れた戦略であると言えるだろう」とあります。",
+      "id": "69d6876c-dd12-4610-a24e-11ba09a70f2b"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-10-b3f2035f3f",
+  "publishedAt": "2026-09-10T06:00:00+09:00"
+}

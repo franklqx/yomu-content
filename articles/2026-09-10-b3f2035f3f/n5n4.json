@@ -1,0 +1,114 @@
+{
+  "title": "街にロボットが増えた",
+  "summary": "最近、街でロボットを見る機会が増えました。特に、案内をするロボットが人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の大きな街でロボットが増えています。駅やデパートで、人々を案内するロボットを見かけます。このロボットは、場所を教えたり、道案内をしたりします。",
+      "translationZh": "最近，在日本的大城市里机器人增加了。在车站或百货公司，能看到为人们引导的机器人。这种机器人会告诉人们地点，或指引道路。",
+      "translationEn": "Recently, robots are increasing in big cities in Japan. You can see robots guiding people at stations and department stores. These robots teach locations and guide directions.",
+      "id": "ffe1203e-86ac-4953-9f29-5bda9746a354",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員は、とても親切です。日本語だけでなく、英語や中国語など、いろいろな言葉で話すことができます。だから、外国から来た人も安心です。困ったとき、ロボットはすぐに助けてくれます。",
+      "translationZh": "机器人向导非常亲切。它们不仅会说日语，还会说英语、中文等多种语言。所以，来自外国的人也很安心。遇到困难时，机器人会立刻提供帮助。",
+      "translationEn": "Robot guides are very kind. They can speak not only Japanese but also various languages like English and Chinese. Therefore, people from foreign countries also feel at ease. When in trouble, robots help immediately.",
+      "id": "38106b94-6db7-458f-9410-77a65b3ca089",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このロボットは、AIという技術を使っています。AIは、ロボットが自分で考えて、行動できるようにします。そのため、ロボットはいつも新しいことを学んでいます。これからも、もっと便利なロボットが出てくるでしょう。",
+      "translationZh": "这种机器人使用了叫做AI的技术。AI让机器人能够自己思考并行动。因此，机器人总是在学习新事物。今后，应该会出现更方便的机器人。",
+      "translationEn": "These robots use a technology called AI. AI enables robots to think and act on their own. Therefore, robots are always learning new things. More convenient robots will likely appear in the future.",
+      "id": "3590bffc-b8a4-49d5-b70c-4934ba9417b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "街",
+      "reading": "まち",
+      "meaningZh": "街道，街区，城市",
+      "meaningEn": "town, street, city",
+      "level": "n5n4",
+      "exampleSentence": "この街はきれいです。",
+      "id": "478ef2b2-cd28-46ec-be58-0fd8ea6003fe"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaningZh": "引导，指路，介绍",
+      "meaningEn": "guidance, information, escort",
+      "level": "n5n4",
+      "exampleSentence": "駅の案内所で地図をもらいました。",
+      "id": "3406ada5-f1cb-4e1e-ae81-c7569de2d0b3"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity, chance",
+      "level": "n5n4",
+      "exampleSentence": "日本語を話す機会がほしいです。",
+      "id": "1aacdbac-82df-4afc-8839-96be9adc61c6"
+    },
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaningZh": "亲切，关怀",
+      "meaningEn": "kindness, consideration",
+      "level": "n5n4",
+      "exampleSentence": "店員さんが親切でした。",
+      "id": "9494396e-0e7d-426e-ba85-8a53b237b30e"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "無事に家に着いて安心しました。",
+      "id": "fe7c3939-1696-4657-ae01-ee6993ffcf6e"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術について勉強しています。",
+      "id": "e2ae1787-59f3-489b-9753-506cd8de0ae5"
+    },
+    {
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaningZh": "学习",
+      "meaningEn": "learning, study",
+      "level": "n5n4",
+      "exampleSentence": "毎日日本語を学習します。",
+      "id": "4f56a492-b9e2-4627-919f-c9d48223747e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員は、どのようなことができますか。",
+      "options": [
+        "新しい技術を開発すること",
+        "人々を案内すること",
+        "車を運転すること",
+        "料理を作ること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「人々を案内するロボットを見かけます」と書いてあります。",
+      "id": "60e180f6-f48e-4ef1-b0b0-a28e927dbcf0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-10-b3f2035f3f",
+  "publishedAt": "2026-09-10T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "若者の純喫茶ブーム",
+  "summary": "最近、若い人たちの間で昔ながらの純喫茶が人気です。レトロな雰囲気が魅力です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で「純喫茶（じゅんきっさ）」が人気を集めています。純喫茶は、昔からある喫茶店のことです。コーヒーや紅茶、簡単な食べ物があります。",
+      "translationZh": "最近，在年轻人之间，“纯喫茶”（老式咖啡馆）正受到欢迎。纯喫茶是指从前就有的咖啡店。有咖啡、红茶和简单的食物。",
+      "translationEn": "Recently, 'jun-kissa' (old-fashioned coffee shops) are becoming popular among young people. Jun-kissa are coffee shops that have been around for a long time. They serve coffee, tea, and simple food.",
+      "id": "2aff55c4-d0e1-4c10-add1-2102eedcb5c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶の魅力は、レトロな雰囲気です。おしゃれな内装や、昔ながらのメニューが若い人たちに新鮮に感じられます。写真映えするものが多く、SNSでも話題になっています。",
+      "translationZh": "纯喫茶的魅力在于其复古的氛围。时髦的内部装潢和老式的菜单让年轻人感到新奇。很多东西都很适合拍照，在社交媒体上也很受欢迎。",
+      "translationEn": "The charm of jun-kissa is their retro atmosphere. The stylish interiors and old-fashioned menus feel new to young people. Many things are photogenic and become topics on social media.",
+      "id": "4a7516ef-0b0f-463b-bd68-189497503195",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔の喫茶店では、マスターが丁寧にコーヒーを淹れてくれました。今もそのスタイルを守っているお店が多いです。静かな空間でゆっくり過ごすのが、現代の忙しい生活の中で特別な時間になっています。",
+      "translationZh": "以前的咖啡店里，店主会仔细地冲泡咖啡。现在也有很多店仍然保持着那种风格。在安静的空间里悠闲度过，成为了现代忙碌生活中特别的时光。",
+      "translationEn": "In old coffee shops, the master would carefully brew the coffee. Many shops still maintain that style today. Spending time relaxedly in a quiet space has become a special moment in modern busy lives.",
+      "id": "8f467f69-f23e-40e8-a13b-1e9bbac3c49b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶は、ただ飲み物を飲む場所ではありません。昔の日本の文化を感じられる場所でもあります。これからも、多くの人に愛されていくでしょう。",
+      "translationZh": "纯喫茶不仅仅是喝东西的地方。它也是一个可以感受日本过去文化的地方。我想今后也会被许多人喜爱。",
+      "translationEn": "Jun-kissa are not just places to drink beverages. They are also places where you can feel Japan's past culture. I believe they will continue to be loved by many people.",
+      "id": "bbb6d792-c12c-49d0-b65b-36b9b5317652",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "老式咖啡馆",
+      "meaningEn": "old-fashioned coffee shop",
+      "level": "n5n4",
+      "exampleSentence": "この純喫茶は雰囲気がいいです。",
+      "id": "a31e80e0-31a7-43e2-8eb4-60141a24c3b1"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者が集まる場所です。",
+      "id": "9ebd85ec-a352-4cd9-8a75-4318b252dde2"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この本は人気があります。",
+      "id": "58a56948-3850-42ba-ac4d-d5de923a63a7"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "氛围",
+      "meaningEn": "atmosphere",
+      "level": "n5n4",
+      "exampleSentence": "お店の雰囲気がとてもいいです。",
+      "id": "3de5ad48-5c7c-41a3-b9c4-2028b4fb4fdf"
+    },
+    {
+      "word": "レトロ",
+      "reading": "れとろ",
+      "meaningZh": "复古的",
+      "meaningEn": "retro",
+      "level": "n5n4",
+      "exampleSentence": "レトロなデザインが好きです。",
+      "id": "d5d27a46-2838-4bfc-bbbc-5d7909c1870a"
+    },
+    {
+      "word": "内装",
+      "reading": "ないそう",
+      "meaningZh": "内部装潢",
+      "meaningEn": "interior decoration",
+      "level": "n3",
+      "exampleSentence": "ホテルの内装が豪華でした。",
+      "id": "8c4d3ab7-e993-4938-b496-b7cbb8466bda"
+    },
+    {
+      "word": "丁寧",
+      "reading": "ていねい",
+      "meaningZh": "仔细，丁寧",
+      "meaningEn": "polite, careful",
+      "level": "n5n4",
+      "exampleSentence": "先生は学生に丁寧に教えました。",
+      "id": "f4c10c2f-b9ab-40df-8d1d-9edc803d97e3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若い人たちの間で純喫茶が人気ですか？",
+      "options": [
+        "おいしいコーヒーがあるから",
+        "レトロな雰囲気が新鮮だから",
+        "店員が親切だから",
+        "安いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「純喫茶の魅力は、レトロな雰囲気です。おしゃれな内装や、昔ながらのメニューが若い人たちに新鮮に感じられます。」と書かれています。",
+      "id": "0c7bd1c2-9eb3-41d7-8f6d-3c5eb20598c3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-10-1156824b80",
+  "publishedAt": "2026-09-10T06:00:00+09:00"
+}
