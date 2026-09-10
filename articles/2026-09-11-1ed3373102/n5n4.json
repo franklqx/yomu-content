@@ -1,0 +1,114 @@
+{
+  "title": "スマートシティ実験、上手くいきました",
+  "summary": "新しい街の実験が終わりました。たくさんの人が協力しました。良い結果が出ました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町で新しい実験がありました。この町は「スマートシティ」と呼ばれています。たくさんの人が、この町をもっと便利にするために、いろいろな実験をしました。例えば、新しい車が自動で走る実験です。",
+      "translationZh": "这个城镇进行了一项新实验。这个城镇被称为“智能城市”。很多人进行了各种实验，目的是让这个城镇变得更方便。例如，自动驾驶汽车的实验。",
+      "translationEn": "A new experiment was conducted in this town. This town is called a \"Smart City\". Many people conducted various experiments to make the town more convenient. For example, an experiment with new cars that drive automatically.",
+      "id": "07140da8-158e-4eac-8be1-1579e9fc293f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験は成功しました。自動で走る車は、安全に目的地まで行くことができました。また、町の人々が使う新しいアプリも、とても使いやすいことが分かりました。このアプリで、バスの時間を調べたり、電気を使ったりできます。",
+      "translationZh": "实验成功了。自动驾驶的汽车能够安全地到达目的地。另外，我们发现城镇居民使用的新应用程序也非常易于使用。通过这个应用程序，可以查询公交车时间、使用电力等。",
+      "translationEn": "The experiment was successful. The self-driving cars were able to reach their destinations safely. Also, a new app used by townspeople was found to be very user-friendly. With this app, you can check bus times and use electricity.",
+      "id": "03978190-b01e-43c0-874e-a738086b2a8e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験のために、たくさんの人が協力してくれました。町の人々、会社の人、そして町長も、みんなで力を合わせました。これからも、この町がもっと住みやすくなるように、新しい技術を使っていきたいです。",
+      "translationZh": "为了这次实验，很多人都给予了合作。镇上的人们、公司的人，以及镇长，大家齐心协力。今后，我们也希望利用新技术，让这个城镇变得更加宜居。",
+      "translationEn": "Many people cooperated for this experiment. Townspeople, company employees, and the mayor all worked together. From now on, we want to use new technologies to make this town even more livable.",
+      "id": "93fb2030-44f9-4b09-9585-c01a9ba472d1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "06a075f9-900f-49cd-bd2e-8d72d4a47ddd"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この駅はとても便利です。",
+      "id": "dc3e6d7c-3bb1-4d9f-be22-f53da2bc86ac"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaningZh": "自动",
+      "meaningEn": "automatic",
+      "level": "n5n4",
+      "exampleSentence": "このドアは自動で開きます。",
+      "id": "2c736a25-ed0b-4dbd-ad6e-3146c2bd6972"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safe",
+      "level": "n5n4",
+      "exampleSentence": "安全に気をつけましょう。",
+      "id": "ed384483-eee0-429a-89a6-4de6231df6e5"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n5n4",
+      "exampleSentence": "みんなで協力して、この仕事を終えました。",
+      "id": "f04f7e6e-063d-47b1-9c05-17f0baee36b4"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "新しい技術は早く進歩します。",
+      "id": "5f802a03-56e3-4e2c-96fa-5cffd5d981b9"
+    },
+    {
+      "word": "住みやすい",
+      "reading": "すみやすい",
+      "meaningZh": "容易居住的",
+      "meaningEn": "easy to live in",
+      "level": "n5n4",
+      "exampleSentence": "この町はとても住みやすいです。",
+      "id": "53aa12f7-2d6f-4aab-bedb-b83c9eb857e0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実験で、上手くいったことは何ですか？",
+      "options": [
+        "新しい店ができたこと",
+        "自動で走る車が安全だったこと",
+        "町長がたくさん来たこと",
+        "みんながゲームをしたこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「自動で走る車は、安全に目的地まで行くことができました。」と書いてあります。",
+      "id": "a0369634-0067-45eb-a2d9-fa414bbd0e25"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-11-1ed3373102",
+  "publishedAt": "2026-09-11T06:00:00+09:00"
+}

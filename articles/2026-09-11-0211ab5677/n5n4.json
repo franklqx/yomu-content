@@ -1,0 +1,131 @@
+{
+  "title": "ヴィーガン和食が増えています",
+  "summary": "最近、日本でもヴィーガン向けの和食が増えています。たくさんの人が楽しんでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でヴィーガンという食事が人気です。ヴィーガンは、肉や魚、卵、乳製品などを食べない人のことです。日本には、おいしい和食がたくさんあります。",
+      "translationZh": "最近，在日本，叫做“素食主义”的饮食方式很受欢迎。素食主义者是不吃肉、鱼、蛋、奶制品等食物的人。日本有很多美味的日式食物。",
+      "translationEn": "Recently, a diet called veganism has become popular in Japan. Vegans are people who do not eat meat, fish, eggs, dairy products, etc. Japan has many delicious Japanese dishes.",
+      "id": "78d73c11-7107-4b95-a83a-cb0c6d3b3409",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、ヴィーガンでも食べられる和食は少ないと考える人もいました。そこで、ヴィーガン向けの和食メニューを作るレストランが増えています。例えば、豆腐を使った料理や、野菜だけの天ぷらなどがあります。",
+      "translationZh": "但是，也有人认为适合素食主义者的日式食物很少。因此，制作适合素食主义者的日式菜单的餐厅正在增加。例如，有使用豆腐制作的料理，还有只用蔬菜制作的天妇罗等。",
+      "translationEn": "However, some people thought there were few Japanese dishes that vegans could eat. Therefore, restaurants that create vegan-friendly Japanese menus are increasing. For example, there are dishes made with tofu, and tempura made only with vegetables.",
+      "id": "314b1644-b700-4ba0-b334-6884eabb68cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの新しいメニューは、ヴィーガンではない人にも人気があります。味がおいしいからです。動物を大切にしたい人や、健康のために野菜をたくさん食べたい人も、ヴィーガン和食を選んでいます。",
+      "translationZh": "这些新菜单也受非素食主义者的欢迎。因为味道很好。想要爱护动物的人，以及为了健康想多吃蔬菜的人，也选择素食日式料理。",
+      "translationEn": "These new menus are also popular with non-vegans. Because the taste is delicious. People who want to cherish animals, and those who want to eat a lot of vegetables for their health, also choose vegan Japanese food.",
+      "id": "bc0258b2-f2a7-47c1-9fb9-513da6fe9854",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、もっと多くのレストランがヴィーガン向けの和食を始めるでしょう。色々な人が日本の味を楽しめるようになるのは、とても良いことですね。",
+      "translationZh": "今后，将有更多的餐厅开始提供适合素食主义者的日式料理。让各种各样的人都能享受日本的味道，这是一件非常好的事情。",
+      "translationEn": "In the future, more restaurants will likely start offering vegan-friendly Japanese cuisine. It is a very good thing that various people will be able to enjoy Japanese flavors.",
+      "id": "28f2efc1-1294-468a-8cac-43df05c7d12c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ヴィーガン",
+      "reading": "ヴィーがん",
+      "meaningZh": "素食主义者",
+      "meaningEn": "vegan",
+      "level": "n5n4",
+      "exampleSentence": "彼はヴィーガンなので、肉は食べません。",
+      "id": "0e58610b-caea-46f5-9d76-4e064f62da0d"
+    },
+    {
+      "word": "和食",
+      "reading": "わしょく",
+      "meaningZh": "日式料理",
+      "meaningEn": "Japanese cuisine",
+      "level": "n5n4",
+      "exampleSentence": "寿司は人気の和食です。",
+      "id": "896d0840-8604-4796-8667-013eeb33f39b"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popular",
+      "level": "n5n4",
+      "exampleSentence": "このお店はいつも人気があります。",
+      "id": "ca4cc8d9-dae5-4010-a08a-6a923f93084c"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "店員さんが増えました。",
+      "id": "4640a5d4-0d84-4841-a31d-102685f4e103"
+    },
+    {
+      "word": "卵",
+      "reading": "たまご",
+      "meaningZh": "鸡蛋",
+      "meaningEn": "egg",
+      "level": "n5n4",
+      "exampleSentence": "朝ごはんには卵を食べます。",
+      "id": "3f28c535-31f3-46b8-a2cb-3c1495517492"
+    },
+    {
+      "word": "乳製品",
+      "reading": "にゅうせいひん",
+      "meaningZh": "奶制品",
+      "meaningEn": "dairy products",
+      "level": "n3",
+      "exampleSentence": "牛乳やヨーグルトは乳製品です。",
+      "id": "d3184cd2-4045-46d8-aaf9-4a1e4e8d99e1"
+    },
+    {
+      "word": "豆腐",
+      "reading": "とうふ",
+      "meaningZh": "豆腐",
+      "meaningEn": "tofu",
+      "level": "n5n4",
+      "exampleSentence": "冷奴は夏によく食べます。",
+      "id": "c47c6040-ea84-4a99-b630-4c26a13821d1"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日運動します。",
+      "id": "a9ff2b6f-5429-4c98-83b5-9fcc3a5c9d8f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガン向けの和食メニューが増えている理由は何ですか？",
+      "options": [
+        "ヴィーガンだけの特別な味だからです。",
+        "ヴィーガンではない人もおいしいと感じるからです。",
+        "すべての和食がヴィーガンになったからです。",
+        "レストランが少なくなったからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「これらの新しいメニューは、ヴィーガンではない人にも人気があります。味がおいしいからです。」",
+      "id": "c2505e67-f472-4e64-8168-52993121923d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-11-0211ab5677",
+  "publishedAt": "2026-09-11T06:00:00+09:00"
+}

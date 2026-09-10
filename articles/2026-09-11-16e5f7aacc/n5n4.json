@@ -1,0 +1,122 @@
+{
+  "title": "瀬戸内海の新しい旅",
+  "summary": "瀬戸内海で新しいクルーズ旅行を楽しみましょう。美しい島々を巡る旅は、きっと素晴らしい思い出になります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海は、たくさんの島がある美しい海です。この海を船で旅するのは、とても楽しいです。最近、新しいクルーズの楽しみ方が増えました。",
+      "translationZh": "濑户内海是有许多岛屿的美丽的海。乘船在这片海域旅行非常愉快。最近，新的邮轮旅行的乐趣增加了。",
+      "translationEn": "The Seto Inland Sea is a beautiful sea with many islands. Traveling on a ship in this sea is very enjoyable. Recently, new ways to enjoy cruises have increased.",
+      "id": "28137549-e0e8-491e-9151-de2a20f2d870",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、小さな島に立ち寄るクルーズがあります。島では、おいしいものを食べたり、きれいな景色を見たりできます。自転車で島を回るのも人気です。",
+      "translationZh": "例如，有可以停靠在小岛上的邮轮旅行。在岛上，可以吃美味的东西，看美丽的风景。骑自行车环岛游也很受欢迎。",
+      "translationEn": "For example, there are cruises that stop at small islands. On the islands, you can eat delicious food and see beautiful scenery. Cycling around the island is also popular.",
+      "id": "3b555791-ddc4-46f9-8d1f-177c2035aff2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜のクルーズもおすすめです。海の上から見る夜景は、とてもきれいです。特別な時間を過ごすことができます。",
+      "translationZh": "也推荐夜间邮轮旅行。在海面上看到的夜景非常漂亮。您可以度过一段特别的时光。",
+      "translationEn": "Night cruises are also recommended. The night view seen from the sea is very beautiful. You can spend a special time.",
+      "id": "8ffb347b-e8d1-4508-a59d-557d1cb411b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい楽しみ方で、瀬戸内海の旅をもっと満喫しませんか。きっと、忘れられない体験になるでしょう。",
+      "translationZh": "您不想用新的方式，更充分地享受濑户内海的旅程吗？这一定将是一次难忘的体验。",
+      "translationEn": "Why not enjoy your trip to the Seto Inland Sea even more with new ways to have fun? It will surely be an unforgettable experience.",
+      "id": "3452d542-9b02-4ba1-8ee3-006712ce14c1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": "瀬戸内海は美しいです。",
+      "id": "30c24171-11f8-4838-ba1d-1d7ae682c504"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "この島は小さいです。",
+      "id": "03ced1d3-7d0c-4ab4-96bc-88a10696a653"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "ship, boat",
+      "level": "n5n4",
+      "exampleSentence": "船に乗りました。",
+      "id": "a90930d7-4810-4f36-9766-d3eac818a771"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "友達と旅行しました。",
+      "id": "38aa41b8-cdce-456d-8e52-4781d18fed9f"
+    },
+    {
+      "word": "楽しみ方",
+      "reading": "たのしみかた",
+      "meaningZh": "享受方式，乐趣",
+      "meaningEn": "way to enjoy",
+      "level": "n5n4",
+      "exampleSentence": "新しい楽しみ方を見つけました。",
+      "id": "f3620ec8-aedc-4d46-8157-9710f4858dec"
+    },
+    {
+      "word": "立ち寄る",
+      "reading": "たちよる",
+      "meaningZh": "顺便访问，停留",
+      "meaningEn": "to stop by",
+      "level": "n3",
+      "exampleSentence": "駅に立ち寄りました。",
+      "id": "cb6ed13e-1c34-41cd-8ca7-64ea4f867d98"
+    },
+    {
+      "word": "夜景",
+      "reading": "やけい",
+      "meaningZh": "夜景",
+      "meaningEn": "night view",
+      "level": "n3",
+      "exampleSentence": "夜景がきれいでした。",
+      "id": "e702d9a0-7b99-49ca-90ff-7768e23293ff"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "島でできることは何ですか？",
+      "options": [
+        "おいしいものを食べること",
+        "船を運転すること",
+        "橋を渡ること",
+        "魚を釣ること"
+      ],
+      "correctIndex": 0,
+      "explanation": "「島では、おいしいものを食べたり、きれいな景色を見たりできます。」",
+      "id": "49e72a82-10b2-4f5e-8a5c-9f565401898b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-11-16e5f7aacc",
+  "publishedAt": "2026-09-11T06:00:00+09:00"
+}
