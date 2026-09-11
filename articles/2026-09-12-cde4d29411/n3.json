@@ -1,0 +1,134 @@
+{
+  "title": "二次元アイドルのライブ演出技術の進化！",
+  "summary": "近年、二次元アイドルのライブ演出が驚くほど進化しています。昔と比べて、どのような技術が使われているのか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルのライブといえば、映像を流したり、声優さんが歌ったりするのが中心でした。しかし、最近では、プロジェクションマッピングやホログラム技術が使われるようになり、まるで本物のアイドルがそこにいるかのような、臨場感あふれるステージが実現されています。",
+      "translationZh": "过去，二次元偶像的演唱会主要以播放影像或声优演唱为主。然而，最近，随着投影映射和全息投影技术的应用，实现了如同真实现场偶像般的、充满临场感的舞台。",
+      "translationEn": "In the past, live performances of 2D idols mainly consisted of playing videos or voice actors singing. However, recently, projection mapping and hologram technology have come to be used, realizing immersive stages that make it feel as if real idols are present.",
+      "id": "3cffd746-9d04-4a48-9989-d2aeb97a49ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目すべきは、観客参加型の演出です。ライトを振ったり、コールをしたりするだけでなく、スマートフォンアプリと連動して、会場全体の色が変わったり、キャラクターにエフェクトをかけたりすることができます。これにより、観客もライブの一部として一体感を感じられるようになりました。",
+      "translationZh": "特别值得关注的是观众参与型演出。不仅能挥舞荧光棒、喊口号，还能通过智能手机应用联动，让整个会场的颜色变化，或者给角色添加特效。这使得观众也能感受到作为演唱会一部分的融合感。",
+      "translationEn": "Particularly noteworthy is the audience participation type of performance. Not only can the audience wave lights and call out, but by linking with smartphone apps, the color of the entire venue can change, or effects can be added to characters. This allows the audience to feel a sense of unity as part of the live performance.",
+      "id": "56bd06ef-46cf-4d6b-8f7d-86c5cb78f509",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、モーションキャプチャー技術の進化も目覚ましいものがあります。これにより、キャラクターの動きがより滑らかで自然になり、感情表現も豊かになりました。声優さんの演技と連動して、キャラクターが生き生きと動く様子は、観客を魅了してやみません。",
+      "translationZh": "此外，动作捕捉技术的进步也十分显著。这使得角色的动作更加流畅自然，情感表达也更加丰富。角色与声优的表演联动，生动地活动的样子，令观众着迷不已。",
+      "translationEn": "Furthermore, the evolution of motion capture technology is also remarkable. This has made the characters' movements smoother and more natural, and their emotional expressions richer. The way characters move vividly in sync with the voice actors' performances never fails to captivate the audience.",
+      "id": "97d34aca-0c71-4634-ab80-d2c99882cc05",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、二次元アイドルのライブ演出は、最新技術を取り入れることで、これからも進化し続けるでしょう。観客は、これからも驚きと感動に満ちた体験を期待できるはずです。",
+      "translationZh": "像这样，二次元偶像的演唱会演出通过融入最新技术，今后也将继续进化。观众应该能够持续期待充满惊喜和感动的体验。",
+      "translationEn": "In this way, the live performances of 2D idols will continue to evolve by incorporating the latest technologies. Audiences should be able to continue expecting experiences filled with surprise and emotion.",
+      "id": "3228ccfc-5d38-46c0-ad19-178e70db9e8a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "臨場感",
+      "reading": "りんじょうかん",
+      "meaningZh": "现场感，身临其境的感觉",
+      "meaningEn": "sense of presence, feeling of being there",
+      "level": "n3",
+      "exampleSentence": "このVRゲームは臨場感がすごい。",
+      "id": "83a0a942-f637-43de-8687-91eb2539e28e"
+    },
+    {
+      "word": "プロジェクションマッピング",
+      "reading": "ぷろじぇくしょんまっぴんぐ",
+      "meaningZh": "投影映射（一种将影像投射到不规则物体表面的技术）",
+      "meaningEn": "projection mapping",
+      "level": "n3",
+      "exampleSentence": "建物の壁にプロジェクションマッピングで映像を映していた。",
+      "id": "cb6819ac-2fa3-4188-9e83-a9462b068d98"
+    },
+    {
+      "word": "ホログラム",
+      "reading": "ほろぐらむ",
+      "meaningZh": "全息图，立体影像",
+      "meaningEn": "hologram",
+      "level": "n3",
+      "exampleSentence": "ライブでホログラムのアイドルが登場した。",
+      "id": "721e0c7c-62ba-49a6-b942-3c34d9512814"
+    },
+    {
+      "word": "連動",
+      "reading": "れんどう",
+      "meaningZh": "联动，关联",
+      "meaningEn": "linkage, coordination",
+      "level": "n3",
+      "exampleSentence": "アプリと会場のライトが連動する仕組みだ。",
+      "id": "98bab813-4c21-41ee-bb7c-388371e601fd"
+    },
+    {
+      "word": "一体感",
+      "reading": "いったいかん",
+      "meaningZh": "一体感，融为一体的感觉",
+      "meaningEn": "sense of unity",
+      "level": "n3",
+      "exampleSentence": "応援することで、観客に一体感が生まれる。",
+      "id": "cb8f3942-7bbe-4a5e-9a31-f2bfb7c2dd01"
+    },
+    {
+      "word": "モーションキャプチャー",
+      "reading": "もーしょんきゃぷちゃー",
+      "meaningZh": "动作捕捉（记录人体或物体运动的技术）",
+      "meaningEn": "motion capture",
+      "level": "n3",
+      "exampleSentence": "映画でキャラクターの動きにモーションキャプチャーを使っている。",
+      "id": "3cc3cdcc-604c-4c00-b413-5298b37d80a4"
+    },
+    {
+      "word": "魅了",
+      "reading": "みりょう",
+      "meaningZh": "魅力，吸引",
+      "meaningEn": "charm, fascinate",
+      "level": "n3",
+      "exampleSentence": "彼のパフォーマンスは観客を魅了した。",
+      "id": "ee19b34a-389b-4de7-abee-e60a4661e6cb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔の二次元アイドルのライブと比べて、最近のライブで特に変わった点は何ですか？",
+      "options": [
+        "観客が歌うことが中心になった。",
+        "プロジェクションマッピングやホログラム技術が使われるようになった。",
+        "声優さんの出演がなくなった。",
+        "会場がすべて屋外になった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「最近では、プロジェクションマッピングやホログラム技術が使われるようになり、まるで本物のアイドルがそこにいるかのような、臨場感あふれるステージが実現されています。」とあります。",
+      "id": "a0f505ca-ede4-4fe7-9af9-2eb2693a56a5"
+    },
+    {
+      "question": "観客参加型の演出で、どのようなことが可能になりましたか？",
+      "options": [
+        "会場の照明がすべて観客の気分で決まるようになった。",
+        "キャラクターの衣装を観客がデザインできるようになった。",
+        "スマートフォンアプリと連動して、会場演出に参加できるようになった。",
+        "ライブの音楽を観客が自由に選べるようになった。"
+      ],
+      "correctIndex": 2,
+      "explanation": "第二段に「スマートフォンアプリと連動して、会場全体の色が変わったり、キャラクターにエフェクトをかけたりすることができます。これにより、観客もライブの一部として一体感を感じられるようになりました。」とあります。",
+      "id": "1fa65c8e-5d24-4909-8a98-91a47e99febe"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-12-cde4d29411",
+  "publishedAt": "2026-09-12T06:00:00+09:00"
+}

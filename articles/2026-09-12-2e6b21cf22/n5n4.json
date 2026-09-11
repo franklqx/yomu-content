@@ -1,0 +1,122 @@
+{
+  "title": "新しいお正月の買い物",
+  "summary": "お正月の準備に新しいトレンドがあります。昔と違う買い物をします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐお正月です。人々はお正月の準備を始めます。昔は、家族みんなで買い物に行きました。デパートでおせち料理や飾りを買いました。",
+      "translationZh": "新年快到了。大家开始为新年做准备。过去，全家人会一起去购物。在百货公司购买年菜和装饰品。",
+      "translationEn": "New Year is coming soon. People start preparing for New Year. In the past, the whole family went shopping together. They bought Osechi Ryori and decorations at department stores.",
+      "id": "f6cbe239-b164-4492-8691-db3102fd29eb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近は買い方が変わりました。若い人はオンラインで買い物をすることが多いです。家でゆっくり選ぶことができます。便利なので人気です。",
+      "translationZh": "但是，最近购买方式改变了。年轻人经常在网上购物。可以在家悠闲地挑选。因为方便，所以很受欢迎。",
+      "translationEn": "However, the way of shopping has changed recently. Young people often shop online. They can choose items slowly at home. It is popular because it is convenient.",
+      "id": "5fc766a7-1ed8-481f-aa93-c53ad18b8a0d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、おせち料理も変わっています。伝統的なものだけではありません。一人用の小さなおせちや、子供が好きなメニューもあります。色々な種類のおせちが売られています。",
+      "translationZh": "而且，年菜（Osechi Ryori）也在变化。不只是传统料理。有适合一个人吃的小份年菜，也有孩子喜欢的菜肴。销售着各种各样的年菜。",
+      "translationEn": "Also, Osechi Ryori is changing. It's not just traditional ones. There are small Osechi for one person and menus that children like. Various kinds of Osechi are sold.",
+      "id": "a3ad2ede-2b84-4eb8-bc05-45b43e04f708",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お正月は家族や友人と過ごす大切な時間です。新しい買い物の仕方も、楽しいお正月を迎えるための一つです。",
+      "translationZh": "新年是与家人和朋友共度的宝贵时光。新的购物方式也是迎接愉快新年的方式之一。",
+      "translationEn": "New Year is precious time to spend with family and friends. New ways of shopping are also one way to welcome a happy New Year.",
+      "id": "8ef76e05-efbb-461a-a0dc-3bfc67857dba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お正月",
+      "reading": "おしょうがつ",
+      "meaningZh": "新年，正月",
+      "meaningEn": "New Year",
+      "level": "n5n4",
+      "exampleSentence": "お正月は家族と過ごします。",
+      "id": "bb41777d-4223-4f1b-b385-db6d225629d1"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をします。",
+      "id": "bc4590d4-705a-411a-8f55-ef14683d1d7e"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n3",
+      "exampleSentence": "これは伝統的な建物です。",
+      "id": "bbce9f5c-f919-4b52-9dd2-b4ffff0667d2"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、忙しいです。",
+      "id": "b8b713c9-9494-4ece-b0c8-7c171b59dba6"
+    },
+    {
+      "word": "オンライン",
+      "reading": "おんらいん",
+      "meaningZh": "在线",
+      "meaningEn": "online",
+      "level": "n5n4",
+      "exampleSentence": "オンラインで買い物をしました。",
+      "id": "63f921d0-dd18-4f1f-b93b-9535b2f38165"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この駅は便利です。",
+      "id": "4eaa60a1-e6f2-4f98-a260-ba79c9bffc14"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, sort, type",
+      "level": "n5n4",
+      "exampleSentence": "色々な種類の花があります。",
+      "id": "4d180e3d-8f89-4042-a557-413b4e9d841e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、若い人はどのように買い物をすることが多いですか。",
+      "options": [
+        "デパートで家族と買う",
+        "オンラインで一人で買う",
+        "家でゆっくりオンラインで買う",
+        "友達と市場で買う"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「最近は買い方が変わりました。若い人はオンラインで買い物をすることが多いです。家でゆっくり選ぶことができます。」と書いてあります。",
+      "id": "fc76672d-c4cd-4a84-8c15-c09a1ca8e3fa"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-12-2e6b21cf22",
+  "publishedAt": "2026-09-12T06:00:00+09:00"
+}

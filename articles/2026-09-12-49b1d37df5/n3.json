@@ -1,0 +1,134 @@
+{
+  "title": "話題のフードトラックと街の変化",
+  "summary": "最近、街のあちこちで美味しい料理を提供するフードトラックが増えています。これらは都市の再開発とも関係があるようです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市部でカラフルなフードトラックがたくさん見られるようになりました。そこでは、手軽に本格的な料理が楽しめるとあって、多くの人が集まっています。特に、新しいビルが建つような再開発エリアでは、おしゃれなフードトラックが出店していることが多いです。これは、街に活気をもたらす新しい動きと言えるでしょう。",
+      "translationZh": "最近，在城市地区可以看到许多色彩鲜艳的餐车。在那里，人们可以方便地品尝到正宗的料理，因此吸引了很多人。特别是在像新建大楼那样的再开发区域，经常会有时尚的餐车设摊。这可以称得上是给城市带来活力的一个新动向。",
+      "translationEn": "Recently, many colorful food trucks have become visible in urban areas. People gather there because they can easily enjoy authentic cuisine. Especially in redeveloped areas where new buildings are being constructed, trendy food trucks often set up shop. This can be called a new movement that brings vitality to the city.",
+      "id": "42d3b005-fe65-49ce-b006-d7e7d3375880",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックが都市の再開発に関係しているというのは、興味深い点です。再開発によってできる新しい広場や公園は、イベントやマルシェが開かれるのにぴったりな場所です。そういった場所でフードトラックは活躍し、訪れる人々に食事だけでなく、楽しい体験を提供します。その結果、街全体の魅力が増すことも期待できます。",
+      "translationZh": "说餐车与城市再开发有关，这一点很有趣。再开发形成的新的广场或公园，是举办活动和市集的绝佳场所。在这样的地方，餐车大显身手，为来访者提供的不只是食物，还有愉快的体验。结果，人们也期待整个城市的魅力因此增加。",
+      "translationEn": "The connection between food trucks and urban redevelopment is an interesting point. New plazas and parks created through redevelopment are perfect venues for events and markets. Food trucks are active in such places, offering visitors not just food but also enjoyable experiences. As a result, it can be expected that the overall attractiveness of the city will increase.",
+      "id": "0842518e-f58f-4c65-bbf4-38b2dad0c04d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、フードトラックが増えることで、地域のお店との間で競争が生まれるという見方もあります。しかし、新しいお店やイベントが共存しながら、街がより魅力的になっていくことも考えられます。地域住民だけでなく、観光客にとっても、訪れるたびに新しい発見があるような街づくりが進んでいるのかもしれません。",
+      "translationZh": "当然，也有人认为，餐车的增加会与当地店铺产生竞争。但是，也有可能新店铺和活动共存，使城市变得更有魅力。这或许正在推进一种城市建设，使得不仅是当地居民，就连游客每次来访都能有新的发现。",
+      "translationEn": "Of course, some also view the increase in food trucks as creating competition with local businesses. However, it is also conceivable that the city will become more attractive as new shops and events coexist. Perhaps a type of urban development is progressing, where not only local residents but also tourists can make new discoveries each time they visit.",
+      "id": "e6a7c7de-f549-4c21-8097-dae579822a87",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後、フードトラックがどのように街と関わっていくのか、注目していくことは面白いでしょう。新しい食のスタイルが、都市の風景や人々の暮らしを、さらに豊かにしてくれる可能性を秘めているからです。",
+      "translationZh": "今后，餐车将如何与城市互动，值得我们关注。因为新的餐饮方式蕴藏着让城市景观和人们的生活更加丰富的可能性。",
+      "translationEn": "It will be interesting to keep an eye on how food trucks will interact with the city in the future. This is because new food styles hold the potential to further enrich the urban landscape and people's lives.",
+      "id": "caad8784-4e5e-4f1c-b327-708f2273e083",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车",
+      "meaningEn": "food truck",
+      "level": "n3",
+      "exampleSentence": "話題のフードトラックが駅前に並んでいた。",
+      "id": "ecd80e92-8f9c-4880-92f4-a417df4fc9c5"
+    },
+    {
+      "word": "都市再開発",
+      "reading": "とさいかいはつ",
+      "meaningZh": "都市再开发",
+      "meaningEn": "urban redevelopment",
+      "level": "n3",
+      "exampleSentence": "この地域では大規模な都市再開発が進められている。",
+      "id": "4cfbe71d-83cf-43fc-9022-1ae52331204c"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "vitality, animation",
+      "level": "n3",
+      "exampleSentence": "祭りの会場は多くの人で活気に満ちていた。",
+      "id": "2f21fc44-7297-4323-9297-d78044663398"
+    },
+    {
+      "word": "広場",
+      "reading": "ひろば",
+      "meaningZh": "广场",
+      "meaningEn": "plaza, square",
+      "level": "n3",
+      "exampleSentence": "公園の真ん中に大きな広場がある。",
+      "id": "cb372040-5267-451e-9bb8-9e993962888e"
+    },
+    {
+      "word": "マルシェ",
+      "reading": "まるしぇ",
+      "meaningZh": "市集（法国舶来语）",
+      "meaningEn": "market (borrowed from French)",
+      "level": "n3",
+      "exampleSentence": "週末には、新鮮な野菜を売るマルシェが開かれる。",
+      "id": "4afe751b-0f7c-4b68-9ba5-1f26359e5a80"
+    },
+    {
+      "word": "共存",
+      "reading": "きょうそん",
+      "meaningZh": "共存",
+      "meaningEn": "coexistence",
+      "level": "n3",
+      "exampleSentence": "新しい文化と古い文化が共存する街。",
+      "id": "c8abea0b-a578-4684-9cda-49b52141e65a"
+    },
+    {
+      "word": "風景",
+      "reading": "ふうけい",
+      "meaningZh": "风景",
+      "meaningEn": "scenery, landscape",
+      "level": "n3",
+      "exampleSentence": "窓から見える海の風景が美しい。",
+      "id": "87ae3009-5f87-4804-b6ea-48dae896af65"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックは、どのような場所でよく見かけられますか？",
+      "options": [
+        "古い商店街",
+        "都市の再開発エリア",
+        "静かな住宅地",
+        "交通量の少ない山道"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第一段落に「特に、新しいビルが建つような再開発エリアでは、おしゃれなフードトラックが出店していることが多いです。」とあります。",
+      "id": "09956e64-ac7f-4824-b3e6-0cc8566412e4"
+    },
+    {
+      "question": "フードトラックが都市の再開発と関係があると考えられている理由は何ですか？",
+      "options": [
+        "家賃が安いから",
+        "街の景観を悪くするから",
+        "新しい広場などでイベントに活用されるから",
+        "住民の反対が少ないから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第二段落に「再開発によってできる新しい広場や公園は、イベントやマルシェが開かれるのにぴったりな場所です。そういった場所でフードトラックは活躍し、訪れる人々に食事だけでなく、楽しい体験を提供します。」とあります。",
+      "id": "fca994df-f5ed-4bc3-877d-efaa2172b5f6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-12-49b1d37df5",
+  "publishedAt": "2026-09-12T06:00:00+09:00"
+}

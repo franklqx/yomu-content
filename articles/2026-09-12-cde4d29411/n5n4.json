@@ -1,0 +1,131 @@
+{
+  "title": "二次元アイドルの進化",
+  "summary": "最近、二次元アイドルのライブがとても進化しています。昔と比べて、もっと楽しくなりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルのライブは、アニメやゲームの映像が中心でした。キャラクターが画面に出て、歌を歌いました。ファンはそれを見て、応援しました。",
+      "translationZh": "以前，二次元偶像的演唱会以动画和游戏影像为中心。角色出现在屏幕上唱歌，粉丝们观看并为他们加油。",
+      "translationEn": "In the past, 2D idol live shows mainly featured anime and game footage. Characters appeared on screen and sang songs. Fans watched and cheered for them.",
+      "id": "516507aa-675e-43f6-b2a1-eb68f0a1b884",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近は違います。技術が進んで、キャラクターがステージに現れるようになりました。まるで本当のアイドルがそこにいるようです。光や音楽もとてもきれいです。",
+      "translationZh": "但是，最近不一样了。技术进步了，角色开始出现在舞台上。就像真正的偶像就在那里一样。灯光和音乐也非常漂亮。",
+      "translationEn": "However, it's different recently. Technology has advanced, and characters now appear on stage. It's as if real idols are there. The lights and music are also very beautiful.",
+      "id": "2850c5e1-7f93-40f7-b94c-fe535c6b5993",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ホログラム技術やプロジェクションマッピングを使います。これにより、キャラクターが動き回ったり、観客とコミュニケーションをとったりします。ファンはもっと感動します。",
+      "translationZh": "使用了全息投影技术和投影映射技术。这使得角色可以四处走动，并与观众互动。粉丝们更加感动。",
+      "translationEn": "Hologram technology and projection mapping are used. This allows characters to move around and interact with the audience. Fans are more impressed.",
+      "id": "e69c6a67-951c-435d-8fa1-3928c341f279",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、二次元アイドルのライブはもっと面白くなるでしょう。新しい技術がどんどん出てきます。ファンは新しい体験を楽しみにしています。",
+      "translationZh": "今后，二次元偶像的演唱会还会变得更加有趣。新技术将不断涌现。粉丝们期待着新的体验。",
+      "translationEn": "In the future, 2D idol live shows will become even more interesting. New technologies will keep coming out. Fans are looking forward to new experiences.",
+      "id": "5581c907-7bce-477b-8489-67661d190eaf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強を頑張っています。",
+      "id": "cd817d49-7c3f-4db1-8f3b-37c9a3e2c6b8"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化，进步",
+      "meaningEn": "evolution, progress",
+      "level": "n3",
+      "exampleSentence": "技術は日々進化しています。",
+      "id": "2e81f9f4-875f-409d-9d2c-8fe20dc6bc87"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "新しい技術を学びたいです。",
+      "id": "3bc1cf35-75c4-44ed-a0bf-6e91aca7e254"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaningZh": "中心",
+      "meaningEn": "center",
+      "level": "n5n4",
+      "exampleSentence": "この町の中心には大きな公園があります。",
+      "id": "67767428-8102-47ee-b8c4-2fce3c9b802d"
+    },
+    {
+      "word": "画面",
+      "reading": "がめん",
+      "meaningZh": "画面",
+      "meaningEn": "screen",
+      "level": "n5n4",
+      "exampleSentence": "テレビの画面が大きいです。",
+      "id": "a7331313-b232-4a1b-b0d7-7476e3afad35"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "支持，加油",
+      "meaningEn": "support, cheer",
+      "level": "n5n4",
+      "exampleSentence": "友達の試合を応援に行きました。",
+      "id": "a1d32a2f-f976-4e25-893b-8e7823037a78"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaningZh": "真实，真的",
+      "meaningEn": "true, real",
+      "level": "n5n4",
+      "exampleSentence": "これは本当の話ですか。",
+      "id": "1deb504b-b4e0-4183-93c3-781ff47f5de2"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "日本では色々な文化を体験しました。",
+      "id": "05e97e94-0d7b-4676-a21e-19274fcea49a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔の二次元アイドルのライブは何が中心でしたか？",
+      "options": [
+        "キャラクターの動き",
+        "観客とのコミュニケーション",
+        "アニメやゲームの映像",
+        "ホログラム技術"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔、二次元アイドルのライブは、アニメやゲームの映像が中心でした。",
+      "id": "77f000b7-f623-467b-8410-70144317b1b0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-12-cde4d29411",
+  "publishedAt": "2026-09-12T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "街角の新しい味",
+  "summary": "最近、街にフードトラックがたくさん来ました。新しいお店の食べ物はとてもおいしいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街に新しいフードトラックがたくさん来ています。色々な国の食べ物が売っています。おいしそうな匂いがします。",
+      "translationZh": "最近，街上来了很多新的餐车。卖着各种各样的国家的食物。闻起来很香。",
+      "translationEn": "Recently, many new food trucks have come to the city. They sell food from various countries. It smells delicious.",
+      "id": "a19f750a-4ac7-4ae3-9dfe-5407fe19b2d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このフードトラックは、特別なハンバーガーを売っています。パンも肉も手作りです。とても人気があります。いつも人が並んでいます。",
+      "translationZh": "这家餐车卖着特别的汉堡包。面包和肉都是手工做的。非常受欢迎。总是排着队。",
+      "translationEn": "This food truck sells special hamburgers. Both the buns and the meat are handmade. It is very popular. There are always people lining up.",
+      "id": "53dc9a3d-2681-489b-a9d0-d30d8e8ec88c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市は変わっています。古い建物がなくなって、新しい建物が建っています。フードトラックは、街の新しい楽しみの一つです。",
+      "translationZh": "城市正在变化。旧的建筑消失了，新的建筑正在建造。餐车是城市新的乐趣之一。",
+      "translationEn": "The city is changing. Old buildings are disappearing, and new buildings are being built. Food trucks are one of the new joys of the city.",
+      "id": "0072edc6-c75a-4e41-a01e-126043899ff3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、街のフードトラックで美味しいものを食べてみませんか？新しい発見があるかもしれませんよ。",
+      "translationZh": "大家也来街上的餐车尝尝美味的食物怎么样？也许会有新的发现哦。",
+      "translationEn": "Why don't you also try delicious food at the city's food trucks? You might make new discoveries.",
+      "id": "5365950c-e5cb-4496-9639-df9fed84bd53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车，食物卡车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "街に新しいフードトラックがたくさんあります。",
+      "id": "fadaf203-3105-4aed-b446-09fb2303dd80"
+    },
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaningZh": "城市",
+      "meaningEn": "city",
+      "level": "n5n4",
+      "exampleSentence": "この都市はとても大きいです。",
+      "id": "d338d4f3-33e8-4f1b-93b8-4be67b159d8b"
+    },
+    {
+      "word": "建物",
+      "reading": "たてもの",
+      "meaningZh": "建筑物",
+      "meaningEn": "building",
+      "level": "n5n4",
+      "exampleSentence": "新しい建物が建っています。",
+      "id": "5eae738a-238a-473f-b616-b7683600af2b"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "88cdfa8a-7d03-4944-8805-d00ef25b4e3f"
+    },
+    {
+      "word": "手作り",
+      "reading": "てづくり",
+      "meaningZh": "手工制作的",
+      "meaningEn": "handmade",
+      "level": "n5n4",
+      "exampleSentence": "このケーキは手作りです。",
+      "id": "ca34fd6e-29b9-4145-a452-51536acda394"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "3a673f40-1155-43e9-9bf6-a2b1e5d21d08"
+    },
+    {
+      "word": "楽しみ",
+      "reading": "たのしみ",
+      "meaningZh": "乐趣，期待",
+      "meaningEn": "enjoyment, pleasure, fun",
+      "level": "n5n4",
+      "exampleSentence": "旅行が楽しみです。",
+      "id": "e1f5aa69-93b6-418c-9613-ed8c70495ff0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックで売っているハンバーガーはどんなハンバーガーですか。",
+      "options": [
+        "みんなが作ったハンバーガー",
+        "手作りの特別なハンバーガー",
+        "冷凍のハンバーガー",
+        "古いレシピのハンバーガー"
+      ],
+      "correctIndex": 1,
+      "explanation": "「このフードトラックは、特別なハンバーガーを売っています。パンも肉も手作りです。」と書いてあります。",
+      "id": "cd426dc6-3680-40a5-ad8d-92c4d87f6fe3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-12-49b1d37df5",
+  "publishedAt": "2026-09-12T06:00:00+09:00"
+}
