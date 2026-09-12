@@ -1,0 +1,122 @@
+{
+  "title": "若い人の田舎暮らしを応援",
+  "summary": "国は若い人が田舎で暮らすのを助ける制度を見直しました。新しいやり方で、もっと多くの人を応援したいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人が東京や大阪のような大きな町から、田舎に住むことを応援する制度があります。この制度は、田舎で新しい仕事を始めたい人や、静かな場所で暮らしたい人を助けます。",
+      "translationZh": "最近，有一个帮助年轻人从东京、大阪等大城市搬到乡村居住的制度。这个制度帮助那些想在乡村开始新工作或想在安静地方生活的人。",
+      "translationEn": "Recently, there is a system to support young people moving from big cities like Tokyo and Osaka to the countryside. This system helps people who want to start a new job in the countryside or want to live in a quiet place.",
+      "id": "accb7996-bf9a-494e-9747-94973ecf78ab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、この制度は少し古いやり方でした。そのため、国はこの制度を新しくすることにしました。新しい制度では、もっと多くの若い人が田舎で暮らしやすくなるように、工夫がされています。",
+      "translationZh": "但是，这个制度的旧方法有点过时。因此，国家决定更新这个制度。在新制度中，我们做了改进，让更多的年轻人更容易在乡村生活。",
+      "translationEn": "However, the old way of this system was a bit outdated. Therefore, the country decided to renew this system. In the new system, improvements have been made to make it easier for more young people to live in the countryside.",
+      "id": "0481232a-8399-4b92-8ec9-11dae12d60a2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、引っ越しのお金や、新しい家を見つけるのを助けることがもっとできるようになります。また、田舎で仕事を見つけるための情報も、もっとたくさん提供されます。",
+      "translationZh": "例如，搬家费用和寻找新房子的帮助会更多。此外，还会提供更多关于在乡村找工作的信息。",
+      "translationEn": "For example, more help will be provided for moving expenses and finding a new house. Also, more information will be provided to find jobs in the countryside.",
+      "id": "629e22b4-6736-4872-b0bc-865e76c9eb52",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "国は、この新しい制度によって、たくさんの若い人が田舎で幸せに暮らすことを期待しています。田舎の町がもっと元気になり、日本全体が豊かになることを目指しています。",
+      "translationZh": "国家希望通过这个新制度，让很多年轻人幸福地生活在乡村。目标是让乡村小镇更有活力，让整个日本变得更富裕。",
+      "translationEn": "The country hopes that through this new system, many young people will live happily in the countryside. The aim is to make rural towns more vibrant and make Japan as a whole richer.",
+      "id": "3067cda7-f31c-4c9e-85a0-68d4031b63c6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者が田舎に住むことを応援します。",
+      "id": "e6b855b3-d2ae-4777-9b5d-cb62374f1fa4"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，乡村",
+      "meaningEn": "region, countryside",
+      "level": "n5n4",
+      "exampleSentence": "地方の生活は静かです。",
+      "id": "8d54dc2c-c8f2-4a23-8205-43e2a78b406d"
+    },
+    {
+      "word": "移住",
+      "reading": "いじゅう",
+      "meaningZh": "移居",
+      "meaningEn": "migration, move to another place",
+      "level": "n3",
+      "exampleSentence": "彼は新しい町に**移住**しました。",
+      "id": "6c30461e-ce5b-4001-902e-db88ccce65cb"
+    },
+    {
+      "word": "支援",
+      "reading": "しえん",
+      "meaningZh": "支援，支持",
+      "meaningEn": "support",
+      "level": "n3",
+      "exampleSentence": "国が新しい制度で**支援**します。",
+      "id": "56763d59-feba-4dd2-a500-7869f6368192"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "この**制度**は新しいです。",
+      "id": "f4b7945a-6775-4d93-8728-6936b34f675d"
+    },
+    {
+      "word": "見直し",
+      "reading": "みなおし",
+      "meaningZh": "重新审视，修改",
+      "meaningEn": "review, revision",
+      "level": "n3",
+      "exampleSentence": "制度の**見直し**が行われました。",
+      "id": "c190663c-a716-4bad-bbe5-a6802fcd340b"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，改进",
+      "meaningEn": "device, idea, effort",
+      "level": "n3",
+      "exampleSentence": "新しいやり方を**工夫**しました。",
+      "id": "57a265d7-2fe6-4f77-8add-2d1b80d48552"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい制度は、どんな人を助けるためのものですか？",
+      "options": [
+        "東京で働きたい人",
+        "若い人が田舎で暮らすこと",
+        "大きな町で家を買いたい人",
+        "外国から来た人"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しい制度では、もっと多くの若い人が田舎で暮らしやすくなるように、工夫がされています。",
+      "id": "6f1fdad9-6ce1-428e-be2c-cb586c927527"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-13-064b73f043",
+  "publishedAt": "2026-09-13T06:00:00+09:00"
+}

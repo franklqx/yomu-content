@@ -1,0 +1,126 @@
+{
+  "title": "個人開発者向け新クラウドサービス登場！",
+  "summary": "個人開発者にとって、開発環境の構築や管理は大きな負担になりがちです。そんな悩みを解決する新しいクラウドサービスが登場しました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、個人でアプリやサービスを開発している人たちの間で、新しいクラウドサービスが話題になっています。このサービスは、複雑なサーバー設定やインフラ管理を自動で行ってくれるため、開発者は本来のコーディング作業に集中できるようになります。今まで、個人開発だと、サーバーの準備やセキュリティ対策などで多くの時間と手間がかかっていました。",
+      "translationZh": "最近，对于个人开发应用程序或服务的人们来说，一项新的云服务引起了热议。这项服务能够自动完成复杂的服务器设置和基础设施管理，使开发者能够专注于原本的编码工作。过去，个人开发者在准备服务器和安全措施等方面花费了大量时间和精力。",
+      "translationEn": "Recently, a new cloud service has become a hot topic among people who develop apps and services individually. This service automatically handles complex server settings and infrastructure management, allowing developers to focus on their core coding tasks. In the past, individual developers often spent a lot of time and effort on server preparation and security measures.",
+      "id": "ee4c62f7-3b53-43af-901f-673d82b2b4e0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しいサービスを使えば、専門知識がなくても、すぐに開発を始められます。例えば、データベースの構築や、コードのデプロイ（公開）まで、数クリックで完了してしまうのです。しかも、使った分だけ料金を支払う従量課金制なので、コストを抑えたい個人開発者にとって非常に魅力的です。以前のように、高額なサーバー費用を心配する必要がなくなります。",
+      "translationZh": "使用这项新服务，即使没有专业知识，也能立即开始开发。例如，数据库的构建以及代码的部署（发布）都可以在几次点击中完成。而且，它采用按使用量付费的计费方式，对于想控制成本的个人开发者来说非常有吸引力。不像以前，不必担心高额的服务器费用。",
+      "translationEn": "With this new service, you can start developing immediately even without specialized knowledge. For example, building a database and deploying code can be completed with just a few clicks. Moreover, it uses a pay-as-you-go system, which is very attractive for individual developers looking to control costs. You no longer need to worry about expensive server fees like before.",
+      "id": "5f32a107-a88c-48ce-83cc-fd405f1e9a77",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "個人開発者の中には、「このサービスのおかげで、アイデアを形にするスピードが格段に上がった」という声も聞かれます。これまで技術的なハードルが高くて諦めていたようなプロジェクトも、このサービスを利用すれば実現可能になるかもしれません。今後、このサービスがどのように進化していくのか、注目が集まっています。",
+      "translationZh": "一些个人开发者表示，“多亏了这项服务，将想法变为现实的速度有了显著提高”。过去因为技术门槛高而放弃的项目，或许利用这项服务就能实现。大家都在关注这项服务今后将如何发展。",
+      "translationEn": "Some individual developers say, \"Thanks to this service, the speed at which I can bring my ideas to fruition has dramatically increased.\" Projects that were previously abandoned due to high technical hurdles might become achievable by using this service. Attention is now focused on how this service will evolve in the future.",
+      "id": "bb0190c3-3fd5-4da1-91fb-00947a2115b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "開発者",
+      "reading": "かいはつしゃ",
+      "meaningZh": "开发者",
+      "meaningEn": "developer",
+      "level": "n3",
+      "exampleSentence": "彼は優秀なウェブ開発者です。",
+      "id": "45bffa9b-aade-4e84-8490-99298252f8b8"
+    },
+    {
+      "word": "クラウドサービス",
+      "reading": "くらウドさーびす",
+      "meaningZh": "云服务",
+      "meaningEn": "cloud service",
+      "level": "n3",
+      "exampleSentence": "多くの企業がクラウドサービスを利用しています。",
+      "id": "9ef1143a-e229-4bbb-8179-35d69b58b342"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施（这里指IT基础设施）",
+      "meaningEn": "infrastructure (IT infrastructure in this context)",
+      "level": "n3",
+      "exampleSentence": "新しいシステムのためにインフラを整備しました。",
+      "id": "2ed7d200-6665-4533-a4bf-2fb0f0db4c62"
+    },
+    {
+      "word": "コーディング",
+      "reading": "こーでぃんぐ",
+      "meaningZh": "编码，写代码",
+      "meaningEn": "coding",
+      "level": "n3",
+      "exampleSentence": "コーディング作業に集中する。",
+      "id": "2fd9791b-b277-4576-8a27-e35d30bf46ed"
+    },
+    {
+      "word": "デプロイ",
+      "reading": "で ぷ ろ い",
+      "meaningZh": "部署，发布（软件等）",
+      "meaningEn": "deploy",
+      "level": "n3",
+      "exampleSentence": "新しいアプリをサーバーにデプロイしました。",
+      "id": "4327c42f-7e18-454d-a8ff-4dd50c9aa1b0"
+    },
+    {
+      "word": "従量課金制",
+      "reading": "じゅうりょうかきんせい",
+      "meaningZh": "按使用量收费制",
+      "meaningEn": "pay-as-you-go system",
+      "level": "n3",
+      "exampleSentence": "このサービスは従量課金制なので安心です。",
+      "id": "6fdd3938-408f-4d2b-b673-455b7f44970a"
+    },
+    {
+      "word": "ハードル",
+      "reading": "はーどる",
+      "meaningZh": "障碍，门槛",
+      "meaningEn": "hurdle, barrier",
+      "level": "n3",
+      "exampleSentence": "語学学習の最初のハードルは単語を覚えることです。",
+      "id": "4e2974bd-2c76-408b-9281-9e57838fd690"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この新しいクラウドサービスは、個人開発者にとってどのようなメリットがありますか？",
+      "options": [
+        "サーバー設定やインフラ管理を自動化し、開発者はコーディングに集中できる。",
+        "専門知識がなくても、誰でも簡単にアプリが作れるようになる。",
+        "料金が無料なので、コストを全く心配する必要がない。",
+        "最新のプログラミング言語をすぐに使えるようになる。"
+      ],
+      "correctIndex": 0,
+      "explanation": "文章中には「複雑なサーバー設定やインフラ管理を自動で行ってくれるため、開発者は本来のコーディング作業に集中できるようになります。」と書かれています。",
+      "id": "836fea17-8a0e-465e-aafc-f19edf747392"
+    },
+    {
+      "question": "このサービスが個人開発者に「魅力的」だとされている理由は何ですか？",
+      "options": [
+        "最新の技術がすべて無料で使えるから。",
+        "使った分だけ支払う料金体系で、コストを抑えられるから。",
+        "世界中の開発者と交流できるコミュニティがあるから。",
+        "高度なセキュリティ機能が標準で備わっているから。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「使った分だけ料金を支払う従量課金制なので、コストを抑えたい個人開発者にとって非常に魅力的です。」という記述から、按使用量付费且能控制成本是其魅力所在であることがわかります。",
+      "id": "2ce99278-aef6-44e8-9232-19905158d8e2"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-13-d45eea2235",
+  "publishedAt": "2026-09-13T06:00:00+09:00"
+}

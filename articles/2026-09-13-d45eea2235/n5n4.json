@@ -1,0 +1,122 @@
+{
+  "title": "新しいクラウドサービス",
+  "summary": "個人開発者向けの新しいクラウドサービスが出ました。とても便利です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、個人開発者にとって便利な新しいクラウドサービスが出ました。このサービスは、プログラムを作りたい人を助けます。たくさんの機能がありますから、開発がもっと楽になります。",
+      "translationZh": "最近，出现了一个对个人开发者来说很方便的新的云服务。这项服务帮助想要制作程序的人。因为它有很多功能，开发会变得更轻松。",
+      "translationEn": "Recently, a new cloud service convenient for individual developers has appeared. This service helps people who want to create programs. Because it has many functions, development will become easier.",
+      "id": "ea44e5d5-dced-409d-8362-a2e05ef168a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスを使うと、自分でサーバーを準備する必要がありません。サービスが自動で色々なことをしてくれます。例えば、プログラムのテストや、たくさんの人にプログラムを使ってもらう準備です。",
+      "translationZh": "使用这项服务，就无需自己准备服务器。服务会自动做各种事情。例如，程序的测试，以及让很多人使用程序的准备。",
+      "translationEn": "Using this service, you do not need to prepare a server yourself. The service automatically does various things. For example, testing programs, and preparing programs for many people to use.",
+      "id": "d47ec674-7012-4619-b4cf-2e0368d20c25",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "料金も安いです。個人開発者は、あまりお金を使えません。だから、このサービスは、始めたばかりの人にも使いやすいです。自分のアイデアを早く形にできます。",
+      "translationZh": "价格也很便宜。个人开发者不能花很多钱。所以，这项服务对刚开始的人来说也很容易使用。可以快点把自己的想法变成现实。",
+      "translationEn": "The price is also cheap. Individual developers cannot spend much money. Therefore, this service is easy to use even for people who are just starting. You can quickly turn your ideas into reality.",
+      "id": "5ba12f30-7b61-47d1-a757-7b18ac006723",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しいクラウドサービスは、個人開発者の可能性を広げます。もっと多くの人が、自分の作りたいものを作れるようになります。とても良いニュースだと思います。",
+      "translationZh": "这个新的云服务扩展了个人开发者的可能性。将有更多人能够做出他们想做的东西。我认为这是个非常好的消息。",
+      "translationEn": "This new cloud service expands the possibilities for individual developers. More people will be able to create what they want to create. I think this is very good news.",
+      "id": "deb0cc48-f85c-4028-9711-9163a6d3cab8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "開発者",
+      "reading": "かいはつしゃ",
+      "meaningZh": "开发者",
+      "meaningEn": "developer",
+      "level": "n5n4",
+      "exampleSentence": "彼は新しいアプリの開発者です。",
+      "id": "6db535a8-65d6-43a6-ab84-f626aea8a6ce"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この駅はとても便利です。",
+      "id": "d8a88c7e-81b1-4684-9955-f08af3065c43"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaningZh": "功能",
+      "meaningEn": "function",
+      "level": "n5n4",
+      "exampleSentence": "この携帯電話はたくさんの機能があります。",
+      "id": "d3a2320f-17db-4230-9e57-6bbc8c48ca61"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしました。",
+      "id": "e39d3d56-6a81-4793-84b8-c6413e9df013"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaningZh": "自动",
+      "meaningEn": "automatic",
+      "level": "n5n4",
+      "exampleSentence": "このドアは自動で開きます。",
+      "id": "1f226d65-14d2-48d2-855d-fc9568edde22"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaningZh": "费用，价格",
+      "meaningEn": "fee, price",
+      "level": "n5n4",
+      "exampleSentence": "このサービスの料金はいくらですか。",
+      "id": "ad682722-ac5e-43b1-98b7-dd23be741aaf"
+    },
+    {
+      "word": "可能性",
+      "reading": "かのうせい",
+      "meaningZh": "可能性",
+      "meaningEn": "possibility",
+      "level": "n3",
+      "exampleSentence": "彼の成功の可能性は高いです。",
+      "id": "af418888-c97b-45c1-bf94-596dba35c08e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この新しいクラウドサービスは、個人開発者にとってなぜ良いですか？",
+      "options": [
+        "値段が高いからです。",
+        "サーバーを自分で準備しなければならないからです。",
+        "開発が楽になり、アイデアを早く形にできるからです。",
+        "機能が少ないからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「このサービスは、開発がもっと楽になります。」や「自分のアイデアを早く形にできます。」と書いてあります。",
+      "id": "9707047a-8ac4-44fb-b963-3b58e7870ab8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-13-d45eea2235",
+  "publishedAt": "2026-09-13T06:00:00+09:00"
+}
