@@ -1,0 +1,131 @@
+{
+  "title": "山の温泉でのんびり",
+  "summary": "山にある温泉地は、昔ながらの湯治文化が残っています。静かな自然の中で、心と体を休めることができます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "山の中にある温泉地は、とても静かです。空気もきれいで、鳥の声が聞こえます。周りの景色は緑がいっぱいです。温泉に入る前に、ゆっくり散歩するのもいいですね。",
+      "translationZh": "山中的温泉地非常宁静。空气也很清新，能听到鸟儿的叫声。周围的景色绿意盎然。泡温泉之前，悠闲地散步一下也不错。",
+      "translationEn": "The hot spring town in the mountains is very quiet. The air is clean, and you can hear birds singing. The surrounding scenery is full of greenery. It's nice to take a walk before entering the hot spring.",
+      "id": "31de0a35-ed5c-447c-8f33-09751636a5d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この温泉地には、昔から「湯治（とうじ）」という習慣があります。湯治とは、温泉に長く泊まって、病気や体の疲れを治すことです。今でも、その湯治ができる宿がたくさんあります。",
+      "translationZh": "这个温泉地自古以来就有“汤治”（泡温泉疗养）的习惯。汤治就是长期住在温泉旅馆，治疗疾病或身体疲劳。至今仍有许多可以进行汤治的旅馆。",
+      "translationEn": "This hot spring town has had the custom of \"Toji\" (hot spring bathing for healing) since ancient times. Toji means staying at a hot spring for a long time to cure illnesses or physical fatigue. Even now, there are many inns where you can experience Toji.",
+      "id": "adf2acf1-09ca-4f47-8a56-081529a0a85c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "湯治では、温泉のお湯だけでなく、食事も大切にされます。地元の野菜や魚を使った、体によい食事が用意されます。ゆっくりと時間をかけて、体を内側からきれいにします。",
+      "translationZh": "在汤治期间，不仅温泉水很重要，饮食也受到重视。旅馆会准备使用当地蔬菜和鱼制作的、对身体有益的餐食。通过慢慢花费时间，从内部清洁身体。",
+      "translationEn": "During Toji, not only the hot spring water but also the meals are important. Healthy meals using local vegetables and fish are prepared. You slowly take your time to cleanse your body from the inside.",
+      "id": "e74a04c6-4182-4ad4-a8d2-912e21422346",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "温泉地でゆっくり過ごす時間は、とてもリラックスできます。忙しい毎日を忘れて、自然の中でリフレッシュしたい人におすすめです。また来たくなるような、素敵な場所ですよ。",
+      "translationZh": "在温泉地悠闲度过的时光，能让人非常放松。推荐给想忘记忙碌的日常生活，在大自然中恢复活力的人。这是一个让人想再次到访的美丽地方。",
+      "translationEn": "The time spent relaxing at the hot spring resort is very calming. It is recommended for people who want to forget their busy daily lives and refresh themselves in nature. It's a wonderful place that will make you want to visit again.",
+      "id": "1f3da423-91d7-494e-adc8-817220a0b732",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "温泉地",
+      "reading": "おんせんち",
+      "meaningZh": "温泉疗养地",
+      "meaningEn": "hot spring resort",
+      "level": "n5n4",
+      "exampleSentence": "この温泉地は有名です。",
+      "id": "91282307-7ca7-4083-83a2-8e8f614ad852"
+    },
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "（用温泉）疗养",
+      "meaningEn": "hot spring bathing for healing",
+      "level": "n5n4",
+      "exampleSentence": "祖母は湯治に行きました。",
+      "id": "390cd2b7-c16d-4033-8f80-c366a9472143"
+    },
+    {
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaningZh": "习惯",
+      "meaningEn": "custom, habit",
+      "level": "n3",
+      "exampleSentence": "朝早く起きるのが私の習慣です。",
+      "id": "4591ffda-629c-4b80-8bf4-bf2e1a79947a"
+    },
+    {
+      "word": "泊まる",
+      "reading": "とまる",
+      "meaningZh": "住宿",
+      "meaningEn": "to stay (at a hotel, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "ホテルに一泊しました。",
+      "id": "c57d14eb-a477-447b-a8be-357e93cd2376"
+    },
+    {
+      "word": "治す",
+      "reading": "なおす",
+      "meaningZh": "治愈，治好",
+      "meaningEn": "to cure, to heal",
+      "level": "n5n4",
+      "exampleSentence": "風邪を治しました。",
+      "id": "1326f160-5188-4a90-b2f4-f5d657ca3fe0"
+    },
+    {
+      "word": "食事",
+      "reading": "しょくじ",
+      "meaningZh": "用餐，饭",
+      "meaningEn": "meal",
+      "level": "n5n4",
+      "exampleSentence": "美味しい食事でした。",
+      "id": "b3640fd3-da63-4459-945c-3f5d75d0cb31"
+    },
+    {
+      "word": "地元",
+      "reading": "じもと",
+      "meaningZh": "当地",
+      "meaningEn": "local",
+      "level": "n5n4",
+      "exampleSentence": "地元の野菜を買いました。",
+      "id": "32dc2bf1-7d84-4bee-89ce-6c56eb730cf6"
+    },
+    {
+      "word": "リラックス",
+      "reading": "りらっくす",
+      "meaningZh": "放松",
+      "meaningEn": "relax",
+      "level": "n5n4",
+      "exampleSentence": "温泉でリラックスしました。",
+      "id": "bee7c3f7-9a38-4cbd-8db9-817873dff5da"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この温泉地で昔から行われていることは何ですか？",
+      "options": [
+        "たくさん働くこと",
+        "湯治をすること",
+        "毎日散歩すること",
+        "新しい宿を建てること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「この温泉地には、昔から「湯治（とうじ）」という習慣があります。」とあります。",
+      "id": "bb59276a-5d90-42a0-82a9-6446866fe36d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-14-ab6c02c1a0",
+  "publishedAt": "2026-09-14T06:00:00+09:00"
+}

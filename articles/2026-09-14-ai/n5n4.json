@@ -1,0 +1,123 @@
+{
+  "title": "AI研究を応援！学生向け助成金",
+  "summary": "AIの研究をしたい学生のために、新しい助成金プログラムができました。このプログラムは、学生のアイデアを応援します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "AI（エーアイ）は、とても面白い技術です。たくさんの会社がAIを研究しています。そのため、学生がAIを勉強する機会も増えています。",
+      "translationZh": "AI（人工智能）是一项非常有趣的技术。很多公司都在研究AI。因此，学生学习AI的机会也增加了。",
+      "translationEn": "AI (Artificial Intelligence) is a very interesting technology. Many companies are researching AI. Therefore, opportunities for students to study AI are also increasing.",
+      "id": "7b517443-d3ed-40e6-a86b-bec34cc8c083",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この度、学生向けのAI研究助成金プログラムが始まりました。このプログラムは、AIの分野で新しいアイデアを持つ学生をサポートします。研究のためのお金や、専門家のアドバイスがもらえます。",
+      "translationZh": "最近，一项面向学生的AI研究助成金计划启动了。该计划支持在AI领域拥有新想法的学生。学生可以获得研究经费和专家建议。",
+      "translationEn": "Recently, an AI research grant program for students has started. This program supports students with new ideas in the field of AI. They can receive money for research and advice from experts.",
+      "id": "ba9b3254-5b93-42de-8e15-c7eebedf1a33",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この助成金は、将来AIで活躍したい学生にとって、とても良いチャンスです。もしAIに興味があれば、ぜひこのプログラムを調べてみてください。新しい発見があるかもしれません。",
+      "translationZh": "这项资助对于希望未来在AI领域有所作为的学生来说，是一个非常好的机会。如果你对AI感兴趣，请一定要了解一下这个计划。可能会有新的发现。",
+      "translationEn": "This grant is a very good opportunity for students who want to be active in AI in the future. If you are interested in AI, please be sure to look into this program. There might be new discoveries.",
+      "id": "b4b27d23-1849-4873-bad8-c124481cc69a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術は、私たちの生活を変えます。",
+      "id": "b1c0c5cc-0628-4cb8-9f2c-e5d4372e31d7"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaningZh": "公司",
+      "meaningEn": "company",
+      "level": "n5n4",
+      "exampleSentence": "彼は大きな会社で働いています。",
+      "id": "077bed5f-4c64-427a-bd9e-d16e18c0de54"
+    },
+    {
+      "word": "勉強",
+      "reading": "べんきょう",
+      "meaningZh": "学习",
+      "meaningEn": "study",
+      "level": "n5n4",
+      "exampleSentence": "毎日、日本語を勉強します。",
+      "id": "4600bc50-c773-4f0a-b144-aca16fd066f2"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n5n4",
+      "exampleSentence": "この仕事は、私にとって良い機会です。",
+      "id": "151b5846-0d0f-4560-a79a-431278d12753"
+    },
+    {
+      "word": "助成金",
+      "reading": "じょせいきん",
+      "meaningZh": "助成金",
+      "meaningEn": "grant, subsidy",
+      "level": "n3",
+      "exampleSentence": "大学は学生に助成金を出すことがあります。",
+      "id": "24a5a04b-e751-4661-8d4a-e55a8b11d568"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaningZh": "领域，方面",
+      "meaningEn": "field, area",
+      "level": "n3",
+      "exampleSentence": "彼は科学の分野で有名です。",
+      "id": "3ed01b06-fad8-41be-a2b9-306cc9441a75"
+    },
+    {
+      "word": "アイデア",
+      "reading": "アイデア",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアを思いつきました。",
+      "id": "d4faaedf-28d9-4f0f-a14f-05ea093f8f70"
+    },
+    {
+      "word": "専門家",
+      "reading": "せんもんか",
+      "meaningZh": "专家",
+      "meaningEn": "expert",
+      "level": "n3",
+      "exampleSentence": "その問題については、専門家に聞きましょう。",
+      "id": "ba50286b-ed1f-4cf3-82e7-138ccc899deb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この助成金プログラムは、誰をサポートしますか。",
+      "options": [
+        "AIを研究している会社",
+        "AIの専門家",
+        "AIの分野で新しいアイデアを持つ学生",
+        "AIを勉強したい子供"
+      ],
+      "correctIndex": 2,
+      "explanation": "「このプログラムは、AIの分野で新しいアイデアを持つ学生をサポートします。」",
+      "id": "0803043d-7626-40b8-a27e-df10e987eb31"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-14-ai",
+  "publishedAt": "2026-09-14T06:00:00+09:00"
+}

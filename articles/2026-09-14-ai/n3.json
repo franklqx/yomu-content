@@ -1,0 +1,134 @@
+{
+  "title": "AI研究の夢を応援！学生向け助成金プログラム",
+  "summary": "AI分野での研究を目指す学生にとって、大きなチャンスとなる助成金プログラムが始まります。このプログラムは、若い才能の発掘と育成を目的としています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、人工知能（AI）の技術は目覚ましい進歩を遂げており、私たちの生活や社会に大きな影響を与えています。このような状況の中、将来AI分野の研究者や開発者を目指す学生たちを支援するための新しい助成金プログラムが発表されました。このプログラムは、学生が自由に研究を進められるように、経済的なサポートを提供することを目的としています。",
+      "translationZh": "近年来，人工智能（AI）技术取得了显著的进步，对我们的生活和社会产生了巨大影响。在这种背景下，一项旨在支持那些以成为AI领域研究员或开发者为目标的学生的新的资助项目已经发布。该项目旨在通过提供经济支持，让学生能够自由地推进研究。",
+      "translationEn": "In recent years, artificial intelligence (AI) technology has made remarkable progress, significantly impacting our lives and society. Amidst this situation, a new grant program has been announced to support students aspiring to become researchers or developers in the AI field. This program aims to provide financial support, enabling students to freely pursue their research.",
+      "id": "2c245ca5-da6c-496e-bbb5-bc7442bf454f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この助成金プログラムに参加するには、いくつかの条件があります。まず、大学や大学院に在籍していることが必要です。次に、AIに関する具体的な研究計画を持っていることが求められます。応募者は、自身の研究内容、期待される成果、そしてなぜこの助成金が必要なのかを詳しく説明する書類を提出しなければなりません。書類選考を通過した候補者は、面接に進むことになります。",
+      "translationZh": "要参加这个资助项目，有一些条件。首先，必须在大学或研究生院就读。其次，要求拥有与AI相关的具体研究计划。申请者必须提交详细说明其研究内容、预期成果以及为何需要此资助的申请材料。通过材料审查的候选人将进入面试环节。",
+      "translationEn": "To participate in this grant program, there are several requirements. First, applicants must be enrolled in a university or graduate school. Second, they are required to have a concrete research plan related to AI. Applicants must submit documents detailing their research content, expected outcomes, and the reasons why this grant is necessary. Candidates who pass the document screening will proceed to an interview.",
+      "id": "a3bb89da-54ae-496e-88b9-fe323a5dcc36",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "AI研究は、専門知識だけでなく、多額の研究費が必要となる場合も少なくありません。そのため、学生が経済的な心配をせずに研究に没頭できる環境を作ることが、このプログラムの大きな意義と言えるでしょう。優秀な学生が、資金不足のために研究を断念してしまうのは非常にもったいないことです。この助成金が、そんな才能ある学生たちの夢を後押しすることを期待しています。",
+      "translationZh": "AI研究不仅需要专业知识，很多时候还需要大量的研究经费。因此，为学生创造一个可以专心研究而无需担心经济问题的环境，可以说是这个项目的重大意义。有才华的学生因为资金不足而放弃研究是非常可惜的。我们希望这项资助能够支持那些有才华的学生实现他们的梦想。",
+      "translationEn": "AI research often requires not only specialized knowledge but also substantial research funds. Therefore, creating an environment where students can immerse themselves in research without financial worries can be considered the significant value of this program. It is a great pity when talented students have to abandon their research due to lack of funding. We hope this grant will support the dreams of such talented students.",
+      "id": "d0758bb3-e87b-41f6-9b0b-50a1c111c45d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "AI技術の発展は、社会全体の進歩に繋がります。若い世代がこの分野で活躍することは、未来の社会にとって非常に重要です。この助成金プログラムを通じて、多くの学生がAI研究に挑戦し、新たな発見やイノベーションを生み出してくれることを、関係者は心から願っています。興味のある学生は、ぜひ募集要項を確認してみてください。",
+      "translationZh": "AI技术的发展将につながる社会整体的进步。年轻一代在这个领域活跃，对未来的社会非常重要。项目相关人员衷心希望，通过这项资助项目，能够有更多的学生挑战AI研究，并产生新的发现和创新。有兴趣的学生请务必确认招募详情。",
+      "translationEn": "The development of AI technology leads to the progress of society as a whole. It is crucial for the future of society that the younger generation actively participates in this field. The program organizers sincerely hope that through this grant program, many students will take on AI research and generate new discoveries and innovations. Interested students should definitely check the application guidelines.",
+      "id": "ccd0c6ed-b3fe-47f4-aa72-160bbe52be39",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人工知能",
+      "reading": "じんこうちのう",
+      "meaningZh": "人工智能",
+      "meaningEn": "Artificial Intelligence (AI)",
+      "level": "n3",
+      "exampleSentence": "人工知能は私たちの生活を便利にしています。",
+      "id": "48834dbb-9f8b-4cf6-9356-009c8fd7c006"
+    },
+    {
+      "word": "助成金",
+      "reading": "じょせいきん",
+      "meaningZh": "补助金，资助金",
+      "meaningEn": "Grant, subsidy",
+      "level": "n3",
+      "exampleSentence": "研究のために助成金を申請しました。",
+      "id": "2b9f3e88-22c6-487d-8fb1-103fa2c36a0d"
+    },
+    {
+      "word": "目覚ましい",
+      "reading": "めざましい",
+      "meaningZh": "显著的，惊人的",
+      "meaningEn": "Remarkable, striking",
+      "level": "n3",
+      "exampleSentence": "彼の進歩は目覚ましいものがあります。",
+      "id": "dce324ad-b621-46c6-b5ea-028eb29f70bd"
+    },
+    {
+      "word": "没頭する",
+      "reading": "ぼっとうする",
+      "meaningZh": "沉浸，专心致志",
+      "meaningEn": "To be absorbed in, to be engrossed in",
+      "level": "n3",
+      "exampleSentence": "彼は仕事に没頭しています。",
+      "id": "922d0798-a624-431d-95a4-78e03182d50b"
+    },
+    {
+      "word": "資金不足",
+      "reading": "しきんぶそく",
+      "meaningZh": "资金不足",
+      "meaningEn": "Lack of funds, financial shortage",
+      "level": "n3",
+      "exampleSentence": "プロジェクトは資金不足で中止になりました。",
+      "id": "8d2e29fb-4349-4401-8d7b-c4ab39a899d5"
+    },
+    {
+      "word": "断念する",
+      "reading": "だんねんする",
+      "meaningZh": "放弃，死心",
+      "meaningEn": "To give up, to abandon",
+      "level": "n3",
+      "exampleSentence": "目標を断念しないでください。",
+      "id": "bb0c45d9-8088-4a75-8c36-42fec62a29c3"
+    },
+    {
+      "word": "イノベーション",
+      "reading": "いのべーしょん",
+      "meaningZh": "创新",
+      "meaningEn": "Innovation",
+      "level": "n3",
+      "exampleSentence": "新しいイノベーションが生まれました。",
+      "id": "c6b86bf5-7c19-4e3f-a119-8e3bfd9d85ce"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この助成金プログラムの主な目的は何ですか？",
+      "options": [
+        "AI技術の商業利用を促進すること",
+        "AI分野の研究者や開発者を目指す学生を経済的に支援すること",
+        "大学のAI研究室の設備を充実させること",
+        "AIに関する国際会議を開催すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章には「将来AI分野の研究者や開発者を目指す学生たちを支援するための新しい助成金プログラムが発表されました。」と書かれています。",
+      "id": "695c813e-c4d6-41fc-b108-1c8ddb7528df"
+    },
+    {
+      "question": "助成金プログラムに参加するために、学生に求められることは何ですか？",
+      "options": [
+        "AI関連の企業でインターンシップを経験していること",
+        "AIに関する論文をすでに発表していること",
+        "大学・大学院に在籍し、具体的なAI研究計画を持っていること",
+        "AI分野での受賞歴があること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「大学や大学院に在籍していることが必要です。次に、AIに関する具体的な研究計画を持っていることが求められます。」と説明されています。",
+      "id": "0e4ebc8f-6d0b-451f-9550-e6c83c4af09b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-14-ai",
+  "publishedAt": "2026-09-14T06:00:00+09:00"
+}

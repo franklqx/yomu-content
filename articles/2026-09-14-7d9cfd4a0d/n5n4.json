@@ -1,0 +1,114 @@
+{
+  "title": "盆踊りの新しい音楽",
+  "summary": "最近、盆踊りの音楽が変わってきました。昔の音楽だけではなく、新しい音楽も使われています。これはとても面白いです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "盆踊りは日本の夏のお祭りです。昔から、地域の人々が集まって踊っていました。踊りの音楽は、昔ながらの歌が多かったです。みんなで同じ歌を歌って、同じように踊りました。",
+      "translationZh": "盂兰盆舞是日本夏天的节日。自古以来，邻里乡亲们会聚集在一起跳舞。舞蹈的音乐多是传统的歌曲。大家一起唱同样的歌，以同样的方式跳舞。",
+      "translationEn": "Bon dance is a summer festival in Japan. For a long time, people from the community gathered and danced. The dance music was often traditional songs. Everyone sang the same songs and danced in the same way.",
+      "id": "1ef82996-2ff2-44db-92ad-fe648e4e16a6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近は新しい音楽も使われています。例えば、アニメの歌や、ポップスの歌です。子供たちにも人気のある歌で踊るのは、とても楽しいです。新しい音楽で、もっと多くの人が盆踊りに参加するようになりました。",
+      "translationZh": "但是，最近也开始使用新的音乐。例如，动画歌曲或流行歌曲。用孩子们喜欢的歌曲跳舞，非常有趣。随着新音乐的加入，越来越多的人开始参加盂兰盆舞。",
+      "translationEn": "However, recently new music is also being used. For example, anime songs and pop songs. Dancing to popular songs among children is very enjoyable. With new music, more people have come to participate in Bon dance.",
+      "id": "bdbb91af-4960-4085-8217-e7df426a131f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい音楽のおかげで、盆踊りはもっと多様になりました。若い人たちも、昔からの人も、みんなで楽しむことができます。これからも、盆踊りがどのように変わっていくか、楽しみです。",
+      "translationZh": "因为有了新的音乐，盂兰盆舞变得更加多样化。年轻人和老一辈人都可以一起享受。今后，盂兰盆舞将如何变化，令人期待。",
+      "translationEn": "Thanks to the new music, Bon dance has become more diverse. Young people and older people can all enjoy it together. We look forward to seeing how Bon dance will change in the future.",
+      "id": "04ad5d17-f8b3-4f59-8ce2-7801a85d6aa5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "盆踊り",
+      "reading": "ぼんおどり",
+      "meaningZh": "盂兰盆舞",
+      "meaningEn": "Bon dance (a traditional Japanese folk dance)",
+      "level": "n5n4",
+      "exampleSentence": "夏に友達と盆踊りに行きました。",
+      "id": "64a10a83-5eae-4307-9381-ed4494a3bf22"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "fc73730d-7423-4bdd-ab4a-0af6bed61df0"
+    },
+    {
+      "word": "昔ながら",
+      "reading": "むかしながら",
+      "meaningZh": "传统地，古老地",
+      "meaningEn": "traditional, old-fashioned",
+      "level": "n5n4",
+      "exampleSentence": "これは昔ながらのやり方です。",
+      "id": "21735d2a-fc86-4a3b-be4d-d61b917ec1bd"
+    },
+    {
+      "word": "多様",
+      "reading": "たよう",
+      "meaningZh": "多样",
+      "meaningEn": "diverse",
+      "level": "n3",
+      "exampleSentence": "この店には多様な商品があります。",
+      "id": "1e9ede47-60c3-44ce-aa27-c7fba0f336f0"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "イベントに参加しました。",
+      "id": "2d4460af-c814-4c62-9295-abf71af328a4"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaningZh": "音乐",
+      "meaningEn": "music",
+      "level": "n5n4",
+      "exampleSentence": "音楽を聴くのが好きです。",
+      "id": "4bd49604-65fe-4a5c-8b7f-35ad363da2e5"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaningZh": "孩子",
+      "meaningEn": "child",
+      "level": "n5n4",
+      "exampleSentence": "子供が公園で遊んでいます。",
+      "id": "6195650d-52e4-4f42-8d64-79cd4a986c58"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の盆踊りで、どんな音楽が使われていますか？",
+      "options": [
+        "昔の音楽だけ",
+        "アニメの歌やポップスの歌",
+        "地域の人々が作った歌",
+        "静かな音楽だけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しい音楽のおかげで、盆踊りはもっと多様になりました。例えば、アニメの歌や、ポップスの歌です。",
+      "id": "53f51106-3cae-4772-baa3-0cfe069a98f3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-14-7d9cfd4a0d",
+  "publishedAt": "2026-09-14T06:00:00+09:00"
+}

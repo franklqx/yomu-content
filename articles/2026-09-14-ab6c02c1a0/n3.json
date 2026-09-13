@@ -1,0 +1,134 @@
+{
+  "title": "山間の温泉地で湯治文化を体験しよう",
+  "summary": "昔ながらの湯治文化が残る山間の温泉地へ。心と体を癒やす旅に出かけませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、昔から続く「湯治（とうじ）」という文化が残る温泉地がたくさんあります。山奥にある静かな温泉地は、都会の喧騒から離れて、ゆっくりと過ごすのにぴったりです。温泉に浸かりながら、自然の音に耳を澄ませると、日頃の疲れが癒えていくのを感じるでしょう。",
+      "translationZh": "日本有很多保留着自古以来“汤治”（泡温泉疗养）文化的温泉地。位于深山中的宁静温泉地，非常适合远离都市的喧嚣，悠闲地度过时光。一边泡温泉，一边倾听大自然的声音，你会感觉到日常的疲惫正在得到治愈。",
+      "translationEn": "Japan has many hot spring resorts that preserve the ancient culture of 'Toji' (hot spring therapy). Quiet hot spring towns nestled deep in the mountains are perfect for escaping the hustle and bustle of the city and spending time at a leisurely pace. As you soak in the hot springs and listen to the sounds of nature, you'll feel your daily fatigue melting away.",
+      "id": "5ef97719-2437-4c88-939f-e4c3dfe9b722",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "湯治では、ただ温泉に入るだけでなく、その土地の食事を味わったり、周辺を散策したりすることも楽しみの一つです。地元の食材を使った素朴な料理は、体にも優しく、温泉の効果を高めてくれると言われています。温泉宿では、長期滞在する人も多いため、家庭的な温かいもてなしを受けることができます。",
+      "translationZh": "在汤治期间，除了泡温泉，品尝当地的食物和在周边散步也是乐趣之一。使用当地食材制作的朴素料理，对身体温和，据说还能增强温泉的效果。在温泉旅馆，因为有很多长期住宿的人，所以可以感受到家庭般的温暖款待。",
+      "translationEn": "During Toji, enjoying not just the hot springs but also the local cuisine and exploring the surroundings is part of the experience. Simple dishes made with local ingredients are gentle on the body and are said to enhance the effects of the hot springs. At ryokans, many people stay for extended periods, allowing you to experience warm, home-like hospitality.",
+      "id": "13092ef7-d656-4370-9664-27c36c4d704a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近では、昔ながらの湯治場に加えて、モダンな設備を持つ新しい温泉施設も増えています。しかし、昔ながらの湯治場を訪ねると、そこに流れるゆったりとした時間や、人々の温かさに触れることができます。温泉の効能について詳しく教えてくれる人もいるので、色々と質問してみるのも良いでしょう。",
+      "translationZh": "最近，除了传统的汤治场，拥有现代化设施的新温泉设施也越来越多。但是，探访古老的汤治场，你可以接触到那里悠闲流淌的时间和人们的温情。也有人会详细告诉你温泉的功效，所以不妨多问问。",
+      "translationEn": "Recently, in addition to traditional toji inns, there are more and more new hot spring facilities with modern amenities. However, visiting old-fashioned toji inns allows you to experience the leisurely flow of time and the warmth of the people. Some people will kindly explain the benefits of the hot springs, so it's a good idea to ask them various questions.",
+      "id": "e0ddee88-5b69-4827-afce-41d89205198b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "自然に囲まれた静かな温泉地で、心と体をリフレッシュしてみませんか。湯治文化を体験することは、日本の伝統に触れる良い機会にもなります。温泉の泉質や効能を調べてから行くと、さらに楽しめるはずですよ。",
+      "translationZh": "何不趁此机会，在被大自然环绕的宁静温泉地，让身心焕然一新呢？体验汤治文化也是接触日本传统的好机会。如果事先调查好温泉的泉质和功效再去，一定会玩得更开心。",
+      "translationEn": "Why not refresh your mind and body in a quiet hot spring resort surrounded by nature? Experiencing Toji culture is also a great opportunity to connect with Japanese traditions. It will be even more enjoyable if you research the quality and benefits of the hot springs before you go.",
+      "id": "d7513112-49a8-44ee-8277-cc1df455b8fc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "指为了治疗疾病或恢复健康而长期居住在温泉旅馆进行疗养。",
+      "meaningEn": "Hot spring therapy; staying at a hot spring inn for therapeutic purposes.",
+      "level": "n3",
+      "exampleSentence": "故郷の温泉で湯治をすることにした。",
+      "id": "5169cab0-56cc-49f1-97f6-f044a1535eb2"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "吵闹、喧闹。",
+      "meaningEn": "Noise and bustle; clamor.",
+      "level": "n3",
+      "exampleSentence": "都会の喧騒を離れて静かな場所で暮らしたい。",
+      "id": "9d545e62-a6b5-46a3-90b3-d07d16e79ae9"
+    },
+    {
+      "word": "澄ませる",
+      "reading": "すませる",
+      "meaningZh": "使（声音、表情等）变得清晰、沉静。",
+      "meaningEn": "To clear (one's voice, expression, etc.); to compose oneself.",
+      "level": "n3",
+      "exampleSentence": "雨の音に耳を澄ませていた。",
+      "id": "a8835718-d738-4fad-ba1e-c4f64b035efc"
+    },
+    {
+      "word": "散策",
+      "reading": "さんさく",
+      "meaningZh": "漫步，闲逛。",
+      "meaningEn": "Stroll; walk.",
+      "level": "n3",
+      "exampleSentence": "朝、公園を散策するのが日課です。",
+      "id": "2e529377-7140-4aca-ae00-cb7df4deee92"
+    },
+    {
+      "word": "素朴",
+      "reading": "そぼく",
+      "meaningZh": "朴素，淳朴，简单。",
+      "meaningEn": "Simple; plain; unsophisticated.",
+      "level": "n3",
+      "exampleSentence": "素朴な味わいのパンが好きだ。",
+      "id": "52cf8346-c7d5-412a-8e70-d06010b0f8e5"
+    },
+    {
+      "word": "もてなし",
+      "reading": "もてなし",
+      "meaningZh": "款待，招待；接待。",
+      "meaningEn": "Hospitality; entertainment.",
+      "level": "n3",
+      "exampleSentence": "心温まるもてなしに感謝します。",
+      "id": "09336b38-10c0-4585-bf13-593934d64481"
+    },
+    {
+      "word": "効能",
+      "reading": "こうのう",
+      "meaningZh": "功效，效力。",
+      "meaningEn": "Effect; efficacy; virtue.",
+      "level": "n3",
+      "exampleSentence": "この薬は頭痛に効能がある。",
+      "id": "8f300b44-9e0a-4724-9f92-3ceaa2ac18af"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "湯治場に長期滞在する人が多いのはなぜですか？",
+      "options": [
+        "新しい温泉施設が増えているからです。",
+        "家庭的な温かいもてなしを受けられるからです。",
+        "都会の喧騒から離れられるからです。",
+        "温泉の効能について詳しく教えてくれる人がいるからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「温泉宿では、長期滞在する人も多いため、家庭的な温かいもてなしを受けることができます。」",
+      "id": "b8aded48-f200-4786-9951-2ecb1e1a6f51"
+    },
+    {
+      "question": "筆者は、昔ながらの湯治場を訪れることについて、どのように述べていますか？",
+      "options": [
+        "モダンな設備が充実していて便利だと述べている。",
+        "自然の音が聞こえにくいので、あまりおすすめしないと述べている。",
+        "ゆったりとした時間や人々の温かさに触れることができると述べている。",
+        "温泉の効能について学ぶことは、あまり意味がないと述べている。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「しかし、昔ながらの湯治場を訪ねると、そこに流れるゆったりとした時間や、人々の温かさに触れることができます。」",
+      "id": "319a00a4-7391-4d8d-8b1e-97df61f11cd5"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-14-ab6c02c1a0",
+  "publishedAt": "2026-09-14T06:00:00+09:00"
+}

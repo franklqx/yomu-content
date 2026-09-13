@@ -1,0 +1,130 @@
+{
+  "title": "山間の秘湯に息づく湯治文化の魅力",
+  "summary": "古くから伝わる湯治文化が色濃く残る山間の温泉地では、現代においてもその独特の雰囲気が多くの人々を惹きつけています。本稿では、そうした温泉地の魅力を探ります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本各地に点在する温泉地の中でも、特に山間部に位置する温泉郷には、古来より伝わる「湯治（とうじ）」の文化が今なお色濃く残されています。湯治とは、単に温泉に浸かるだけでなく、長期滞在を通じて心身の回復を図ることを目的としたもので、その土地ならではの食文化や生活様式に触れることができるのが大きな魅力とされています。近代的なリゾートとは一線を画し、素朴ながらも心温まるおもてなしが、訪れる人々に安らぎを与えているのです。",
+      "translationZh": "在日本各地散落的温泉地中，尤其是在山区，自古流传下来的“汤治”（泡温泉治病疗养）文化至今仍保留着浓厚的色彩。汤治的目的不仅是简单地泡温泉，更在于通过长期滞留来促进身心恢复，而能够接触到当地特有的饮食文化和生活方式是其巨大的魅力所在。与现代化的度假胜地不同，朴实却温暖的款待，给予了到访者宁静。",
+      "translationEn": "Among the hot springs scattered throughout Japan, those located in mountainous areas still retain a strong tradition of 'Tōji' (hot spring cure) culture, passed down from ancient times. Tōji is not merely about soaking in hot springs but aims to achieve physical and mental recovery through extended stays. A significant appeal is the opportunity to experience the unique food culture and lifestyle of the region. Differentiating itself from modern resorts, the simple yet heartwarming hospitality provides solace to visitors.",
+      "id": "05abb5ec-60ee-46c3-81e1-66d5eba8c670",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした湯治宿では、宿泊客は一般的に数日から数週間、あるいはそれ以上の期間滞在することが一般的であり、共同の炊事場や食堂を利用することも少なくありません。これは、旅人同士の交流を深め、地域住民との繋がりを育む機会ともなっています。また、温泉地の周辺には、その土地の自然を満喫できるハイキングコースや、伝統工芸を体験できる工房などが整備されている場合も多く、滞在中の楽しみをさらに広げてくれる要素となっています。",
+      "translationZh": "在这样的汤治旅馆，住宿客人通常会停留数日至数周，甚至更长时间，并且经常会利用公共的炊事间或食堂。这同时也成为加深旅人之间交流、培养与当地居民联系的机会。此外，温泉地周边也常常设有可以尽情享受当地自然风光的徒步路线，以及可以体验传统工艺的工作坊等，这些都成为进一步丰富逗留期间乐趣的要素。",
+      "EnTranslation": "At such Tōji inns, guests typically stay for periods ranging from several days to weeks or even longer, often utilizing communal kitchens and dining areas. This also serves as an opportunity to deepen interactions among travelers and foster connections with local residents. Furthermore, many of these hot spring areas are equipped with hiking trails to enjoy the local nature and workshops for experiencing traditional crafts, adding to the enjoyment during one's stay.",
+      "id": "e80ed274-be11-4a9d-a43f-6c7c3b997b6c",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    },
+    {
+      "text": "近年、健康志向の高まりとともに、温泉療法への関心も再燃しており、湯治文化の持つ価値が見直されつつあるとのことです。都会の喧騒から離れ、自然の中で静かに過ごす時間は、現代人にとって貴重なリフレッシュの機会となるでしょう。今後も、こうした秘境の温泉地が、その伝統を守りながら、新たな魅力を発信し続けることが期待されます。",
+      "translationZh": "近年来，随着健康意识的提高，对温泉疗法的关注也重新燃起，汤治文化所蕴含的价值正逐渐被重新审视。远离都市的喧嚣，在自然中静静度过的时光，对于现代人来说将是宝贵的恢复精力之机。今后，人们期待这些秘境温泉地能在守护传统的同时，持续散发出新的魅力。",
+      "translationEn": "In recent years, with the growing health consciousness, interest in hot spring therapy has been reignited, and the value of Tōji culture is reportedly being re-evaluated. Time spent quietly in nature, away from the hustle and bustle of the city, will be a precious opportunity for modern people to refresh themselves. It is expected that these secluded hot spring resorts will continue to convey new charms while preserving their traditions in the future.",
+      "id": "c184355c-cd6f-4083-8220-7d23a4023a02",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "温泉疗养，泡温泉治病",
+      "meaningEn": "Hot spring cure; staying at a hot spring resort for medicinal purposes",
+      "level": "n2n1",
+      "exampleSentence": "長患いの母のために、温泉地へ湯治に行くことを決めた。",
+      "id": "2f5c5305-64a0-4576-b4b7-e3ef0ce5a765"
+    },
+    {
+      "word": "点在する",
+      "reading": "てんざいする",
+      "meaningZh": "散布，星罗棋布",
+      "meaningEn": "To be scattered; to be dotted around",
+      "level": "n2n1",
+      "exampleSentence": "この地域には、古民家が点在しており、風情がある。",
+      "id": "8948f5c2-d683-4c32-9410-3598ec94cdf3"
+    },
+    {
+      "word": "一線を画す",
+      "reading": "いっせんをかくす",
+      "meaningZh": "划清界线；截然不同；独树一帜",
+      "meaningEn": "To draw a line; to be distinct from; to be unique",
+      "level": "n2n1",
+      "exampleSentence": "彼の作品は、既存の常識を一線を画す斬新なアイデアに満ちている。",
+      "id": "d8c2220c-7b36-4f93-91ae-32bea55c18d8"
+    },
+    {
+      "word": "炊事場",
+      "reading": "すいじば",
+      "meaningZh": "炊事间，厨房",
+      "meaningEn": "Kitchen; place for cooking",
+      "level": "n3",
+      "exampleSentence": "キャンプ場には、共同の炊事場が設けられている。",
+      "id": "4407328e-511f-4904-8cd4-28749bd1ecae"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧嚣，喧闹",
+      "meaningEn": "Noise and bustle; clamor",
+      "level": "n2n1",
+      "exampleSentence": "都会の喧騒を離れ、静かな田舎で暮らしたい。",
+      "id": "bd231241-a17c-4025-aea9-fb379e9fba4b"
+    },
+    {
+      "word": "再燃する",
+      "reading": "さいねんする",
+      "meaningZh": "重新燃起，复燃",
+      "meaningEn": "To flare up again; to be rekindled",
+      "level": "n2n1",
+      "exampleSentence": "長年眠っていた才能が、このプロジェクトで再び燃え上がった。",
+      "id": "a349c454-5098-4613-ad24-8fe750c4f976"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "本文によると、山間の温泉地の「湯治文化」の魅力とは何ですか？",
+      "options": [
+        "最新の医療設備が整っていること",
+        "豪華なリゾートホテルで快適に過ごせること",
+        "長期滞在を通じて心身を回復させ、その土地の文化に触れられること",
+        "都会から近く、アクセスが非常に便利であること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「湯治とは、単に温泉に浸かるだけでなく、長期滞在を通じて心身の回復を図ることを目的としたもので、その土地ならではの食文化や生活様式に触れることができるのが大きな魅力とされています。」",
+      "id": "d92659a2-6e6f-4c5c-af96-a2af37169b8e"
+    },
+    {
+      "question": "湯治宿では、どのような生活様式が見られることがありますか？",
+      "options": [
+        "個室のみが提供され、プライバシーが完全に守られる",
+        "最新のエンターテイメント施設が充実している",
+        "共同の炊事場や食堂を利用し、他の宿泊客や地域住民との交流が生まれる",
+        "食事はすべてルームサービスで提供される"
+      ],
+      "correctIndex": 2,
+      "explanation": "「宿泊客は一般的に数日から数週間、あるいはそれ以上の期間滞在することが一般的であり、共同の炊事場や食堂を利用することも少なくありません。これは、旅人同士の交流を深め、地域住民との繋がりを育む機会ともなっています。」",
+      "id": "173078ae-0c9e-49bd-8eba-0fc5f1971c36"
+    },
+    {
+      "question": "近年、湯治文化への関心が高まっている理由として、本文では何が挙げられていますか？",
+      "options": [
+        "温泉地の温泉成分が科学的に証明され、万能薬として注目されているから",
+        "健康志向の高まりとともに、温泉療法への関心が再燃しているから",
+        "湯治宿の宿泊費が大幅に安くなったから",
+        "SNSでの情報発信が活発になり、若者の間でブームになっているから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「近年、健康志向の高まりとともに、温泉療法への関心も再燃しており、湯治文化の持つ価値が見直されつつあるとのことです。」",
+      "id": "9ed2083a-153d-48fd-9c2d-c94ff9acd098"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-14-ab6c02c1a0",
+  "publishedAt": "2026-09-14T06:00:00+09:00"
+}
