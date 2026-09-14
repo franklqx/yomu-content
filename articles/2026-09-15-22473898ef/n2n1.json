@@ -1,0 +1,138 @@
+{
+  "title": "高校生プログラマーの祭典、ハッカソン開催へ",
+  "summary": "若手プログラマー育成を目指し、高校生を対象としたハッカソンが開催される運びとなりました。革新的なアイデアの創出が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、IT分野における人材育成の重要性が増す中、次世代を担う高校生プログラマーの育成を目的としたハッカソンが開催されることになった。このイベントは、参加者がチームを組み、短期間で革新的なアプリケーションやサービスを開発するもので、創造性や協調性を養う絶好の機会となると見られている。過去の同様のイベントでは、学生ならではの自由な発想から生まれた画期的なアイデアが数多く発表されており、今回もどのような成果が生まれるのか注目が集まっている。",
+      "translationZh": "近年来，随着 IT 领域人才培养的重要性日益增加，旨在培养下一代编程人才的高中生黑客马拉松即将举办。本次活动允许参赛者分组，在短时间内开发创新型应用程序或服务，被认为是培养创造力和协作能力的绝佳机会。过往类似活动中，涌现出许多源于学生独特自由发想的突破性创意，此次活动亦备受瞩目，人们期待其能产出何种成果。",
+      "translationEn": "In recent years, as the importance of human resource development in the IT field has grown, a hackathon aimed at fostering high school programmers, who will lead the next generation, is set to be held. This event involves participants forming teams to develop innovative applications and services in a short period, and it is seen as an excellent opportunity to cultivate creativity and teamwork. Similar past events have seen the announcement of numerous groundbreaking ideas born from the uninhibited thinking characteristic of students, and attention is now focused on what kind of outcomes will emerge this time.",
+      "id": "2bd9bcee-6416-4aec-a5df-ec65063def95",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "本ハッカソンでは、特に社会課題の解決に繋がるようなアイデアが奨励される方針だ。例えば、地域活性化、環境問題への対応、教育格差の是正といったテーマが提示され、参加者はこれらの課題に対し、プログラミングスキルを駆使して具体的なソリューションを提案することが求められる。審査員には、IT業界の第一線で活躍するエンジニアや起業家が招聘されており、参加者にとっては自身のアイデアを専門家から直接評価してもらえる貴重な機会となるだろう。",
+      "translationZh": "本次黑客马拉松将特别鼓励与解决社会问题相关的创意。例如，将提出诸如地区振兴、应对环境问题、纠正教育差距等主题，并要求参赛者运用编程技能，针对这些问题提出具体的解决方案。评审委员将邀请 IT 行业一线活跃的工程师和企业家担任，对于参赛者而言，这将是获得专家直接评价其创意宝贵机会。",
+      "translationEn": "This hackathon plans to specifically encourage ideas that lead to the resolution of social issues. For instance, themes such as regional revitalization, addressing environmental problems, and rectifying educational disparities will be presented, and participants will be required to propose concrete solutions using their programming skills to tackle these challenges. Judges will include engineers and entrepreneurs actively working at the forefront of the IT industry, making this a valuable opportunity for participants to have their ideas directly evaluated by experts.",
+      "id": "c452a635-f19d-4d20-bdcb-23804a5a6b50",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "参加者募集は全国の高等学校を通じて行われ、プログラミング経験の有無を問わず、意欲のある生徒であれば誰でも応募可能となっている。イベントの運営事務局によりますと、すでに多数の応募が寄せられており、予想を上回る関心の高さがうかがえるとのことだ。この取り組みが、将来のIT産業を支える優秀な人材の輩出に繋がることが期待されている。",
+      "translationZh": "参与者招募将通过全国各地的高中进行，无论是否有编程经验，只要是有热情的学生都可以申请。据活动运营事务局透露，目前已收到大量申请，显示出远超预期的关注度。期望此举能为培养支撑未来 IT 产业的优秀人才做出贡献。",
+      "translationEn": "Participant recruitment will be conducted through high schools nationwide, and anyone with motivation, regardless of prior programming experience, is eligible to apply. According to the event's organizing secretariat, a large number of applications have already been received, indicating a higher level of interest than anticipated. This initiative is expected to lead to the nurturing of talented individuals who will support the future IT industry.",
+      "id": "0f07624c-3a69-4564-b318-3d874993dcc3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "担う",
+      "reading": "になう",
+      "meaningZh": "承担，担负",
+      "meaningEn": "to bear (responsibility, burden), to carry",
+      "level": "n2n1",
+      "exampleSentence": "次世代を担う若者の育成が急務である。",
+      "id": "d4a467bb-d5fb-4514-bf92-fefd821703bc"
+    },
+    {
+      "word": "養う",
+      "reading": "やしなう",
+      "meaningZh": "培养，养育",
+      "meaningEn": "to cultivate, to foster, to raise",
+      "level": "n3",
+      "exampleSentence": "この経験を通して、問題解決能力を養うことができる。",
+      "id": "d3bc1eca-89be-477a-98da-dacf7355669b"
+    },
+    {
+      "word": "画期的",
+      "reading": "かっきてき",
+      "meaningZh": "划时代的，开创性的",
+      "meaningEn": "groundbreaking, epoch-making",
+      "level": "n2n1",
+      "exampleSentence": "その発明は、医学界に画期的な進歩をもたらした。",
+      "id": "00076a30-8a88-4d95-94a0-749ca8e47072"
+    },
+    {
+      "word": "奨励",
+      "reading": "しょうれい",
+      "meaningZh": "奖励，鼓励",
+      "meaningEn": "encouragement, promotion",
+      "level": "n2n1",
+      "exampleSentence": "創造的な活動は積極的に奨励されるべきだ。",
+      "id": "b7f09c10-67e2-4e7f-a4b4-7b5fa8ab4ff4"
+    },
+    {
+      "word": "駆使",
+      "reading": "くし",
+      "meaningZh": "灵活运用，充分利用",
+      "meaningEn": "to make full use of, to wield skillfully",
+      "level": "n2n1",
+      "exampleSentence": "彼は語学力を駆使して、交渉を有利に進めた。",
+      "id": "f1b101e1-21df-4ea0-849c-a1c12d07e1b1"
+    },
+    {
+      "word": "招聘",
+      "reading": "しょうへい",
+      "meaningZh": "招聘，聘请",
+      "meaningEn": "to invite, to employ, to recruit",
+      "level": "n2n1",
+      "exampleSentence": "大学は著名な教授を招聘した。",
+      "id": "272960a1-a53b-4e8b-8e88-3c9367d44949"
+    },
+    {
+      "word": "輩出",
+      "reading": "はいしゅつ",
+      "meaningZh": "（优秀人才）辈出，涌现",
+      "meaningEn": "to produce (talented people), to turn out",
+      "level": "n2n1",
+      "exampleSentence": "この学校からは毎年多くの優秀な人材が輩出されている。",
+      "id": "d8baed07-77b4-44f6-8f78-2bb8ce2dc2a4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このハッカソンが開催される主な目的は何ですか？",
+      "options": [
+        "プログラミングスキルコンテストで一位を獲得すること",
+        "高校生プログラマーの育成と革新的なアイデア創出",
+        "IT企業のエンジニアを直接企業に紹介すること",
+        "参加者全員にプログラミングの基礎を教えること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文冒頭に「次世代を担う高校生プログラマーの育成を目的としたハッカソンが開催されることになった。」と記載されている。",
+      "id": "19a1fce3-6d2e-41ab-84f4-4f8fd81d2fb9"
+    },
+    {
+      "question": "今回のハッカソンで特に奨励されるアイデアの方向性は何ですか？",
+      "options": [
+        "ゲーム開発に関するもの",
+        "エンターテイメント性の高いもの",
+        "最新のAI技術を活用したもの",
+        "社会課題の解決に繋がるもの"
+      ],
+      "correctIndex": 3,
+      "explanation": "「本ハッカソンでは、特に社会課題の解決に繋がるようなアイデアが奨励される方針だ。」という記述がある。",
+      "id": "3f657ba7-e2f4-470f-a969-8f4c7aac1fb7"
+    },
+    {
+      "question": "イベント運営事務局によると、参加者募集の状況はどうですか？",
+      "options": [
+        "応募者はまだ少ない",
+        "予想を上回る関心の高さを示している",
+        "プログラミング経験者からの応募に偏っている",
+        "現時点ではまだ応募が始まっていない"
+      ],
+      "correctIndex": 1,
+      "explanation": "「すでに多数の応募が寄せられており、予想を上回る関心の高さがうかがえるとのことだ。」と述べられている。",
+      "id": "8223460a-e291-4cb1-a549-47f2d3222a03"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-15-22473898ef",
+  "publishedAt": "2026-09-15T06:00:00+09:00"
+}

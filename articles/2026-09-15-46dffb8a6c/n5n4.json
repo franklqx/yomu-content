@@ -1,0 +1,131 @@
+{
+  "title": "沖縄の離島で楽しい旅行",
+  "summary": "沖縄にはきれいな島がたくさんあります。離島ホップで色々な島を巡りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄にはたくさんの美しい島があります。これらの島を「離島」と呼びます。離島ホップは、一つの島から次の島へ移動しながら旅行する方法です。とても人気があります。",
+      "translationZh": "冲绳有很多美丽的岛屿。这些岛屿被称为“离岛”。跳岛游是一种从一个岛屿移动到另一个岛屿的旅行方式。它非常受欢迎。",
+      "translationEn": "Okinawa has many beautiful islands. These islands are called 'remote islands'. Island hopping is a way to travel by moving from one island to the next. It is very popular.",
+      "id": "8608857f-62f3-45a9-a58c-896206f361c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、那覇から飛行機や船で石垣島に行けます。石垣島はとてもきれいな海があります。そこからさらに小さな島へ行くこともできます。例えば、竹富島や小浜島です。",
+      "translationZh": "例如，您可以从那霸乘坐飞机或船前往石垣岛。石垣岛有非常美丽的大海。您还可以从那里去更小的岛屿。例如，竹富岛或小滨岛。",
+      "translationEn": "For example, you can go to Ishigaki Island from Naha by plane or boat. Ishigaki Island has very beautiful seas. You can also go to smaller islands from there. For example, Taketomi Island or Kohama Island.",
+      "id": "bc22ec5e-cabc-4c88-a991-c5ea150402ba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップの旅では、色々な体験ができます。きれいなビーチでのんびりしたり、シュノーケリングをしたりして、海の生き物を見ることができます。地元の食べ物も美味しいです。",
+      "translationZh": "在跳岛游的旅程中，您可以体验各种事情。您可以在美丽的海滩上放松，或者浮潜，观看海洋生物。当地的食物也很美味。",
+      "translationEn": "During an island hopping trip, you can have various experiences. You can relax on beautiful beaches or go snorkeling and see marine life. The local food is also delicious.",
+      "id": "69d23084-05fe-4cc2-b527-5be7312cb0ad",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "沖縄の離島へ行くのは、日常を忘れてリラックスできる良い方法です。次の休暇に、ぜひ離島ホップを計画してみてください。",
+      "translationZh": "去冲绳的离岛是忘记日常生活、放松身心的好方法。在下一个假期，请务必计划一次跳岛游。",
+      "translationEn": "Going to Okinawa's remote islands is a good way to forget about daily life and relax. Please try planning an island hopping trip for your next vacation.",
+      "id": "a89a91ff-7b49-4a2b-9180-6ab7e9c6f321",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "沖縄には多くの離島があります。",
+      "id": "b41811d9-ec79-4372-bb52-06410ac1ac40"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このツアーはとても人気があります。",
+      "id": "3bb0978d-627d-4463-8a48-12c65b8f2a21"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaningZh": "移动",
+      "meaningEn": "move, movement",
+      "level": "n5n4",
+      "exampleSentence": "島から島へ移動します。",
+      "id": "ce2a8f50-3444-4bdb-82c2-ee979cbe213b"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaningZh": "飞机",
+      "meaningEn": "airplane",
+      "level": "n5n4",
+      "exampleSentence": "飛行機で旅行しました。",
+      "id": "d81ca65f-a06f-4829-bdbc-bb08c158806e"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "boat, ship",
+      "level": "n5n4",
+      "exampleSentence": "船に乗って島へ行きました。",
+      "id": "3a72f907-aa2b-4e06-8019-d18445101eac"
+    },
+    {
+      "word": "海",
+      "reading": "うみ",
+      "meaningZh": "海",
+      "meaningEn": "sea, ocean",
+      "level": "n5n4",
+      "exampleSentence": "きれいな海を見ました。",
+      "id": "44c3c62f-bcdc-4232-a2df-031f6525afdc"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "色々な体験ができます。",
+      "id": "a8b58fa4-f5fd-433e-874e-d90c2ed2cb23"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n3",
+      "exampleSentence": "旅行の計画を立てました。",
+      "id": "b1b89699-6364-4701-98fd-0e7347e77ef9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "離島ホップとは、どのような旅行の方法ですか。",
+      "options": [
+        "一つの島でずっと過ごす旅行",
+        "色々な島を移動しながら旅行する方法",
+        "沖縄本島だけを旅行する方法",
+        "船に乗らない旅行"
+      ],
+      "correctIndex": 1,
+      "explanation": "「離島ホップは、一つの島から次の島へ移動しながら旅行する方法です。」",
+      "id": "cbac8a46-1e75-4965-b03b-f0b20dd03be3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-15-46dffb8a6c",
+  "publishedAt": "2026-09-15T06:00:00+09:00"
+}

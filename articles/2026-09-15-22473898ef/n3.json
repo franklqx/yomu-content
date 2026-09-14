@@ -1,0 +1,126 @@
+{
+  "title": "高校生プログラマー集まれ！ハッカソンでアイデアを形にしよう",
+  "summary": "高校生プログラマーを対象としたハッカソンが開催されます。このイベントでは、参加者がチームを組んで、限られた時間内に新しいアイデアを形にします。プログラミングスキルを活かして、未来を創造するチャンスです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、高校生を対象としたプログラミングコンテスト、通称「ハッカソン」が注目を集めています。ハッカソンとは、開発者（プログラマー）が集まって、短期間で集中的にアイデアを出し合い、実際にプログラムやサービスを作り上げるイベントのことです。高校生向けのハッカソンでは、初心者でも参加しやすいように、テーマが工夫されていたり、経験豊富なエンジニアがサポートについたりすることもあります。そのため、プログラミングに興味がある高校生にとっては、自分のスキルを試したり、新しい仲間と出会ったりする絶好の機会と言えるでしょう。",
+      "translationZh": "最近，面向高中生的编程竞赛，俗称“黑客松”（Hackathon），正受到关注。黑客松是指，开发者（程序员）们聚集在一起，在短时间内集中构思想法，并实际开发出程序或服务的活动。针对高中生的黑客松，为了让初学者也能轻松参加，通常会精心设计主题，或者有经验丰富的工程师提供支持。因此，对于对编程感兴趣的高中生来说，这是一个检验自己技能、结识新朋友的绝佳机会。",
+      "translationEn": "Recently, programming contests targeting high school students, commonly known as 'hackathons,' have been gaining attention. A hackathon is an event where developers (programmers) gather to intensively brainstorm ideas in a short period and actually create programs or services. Hackathons for high school students often feature well-thought-out themes and support from experienced engineers to make them accessible even for beginners. Therefore, for high school students interested in programming, it's an excellent opportunity to test their skills and meet new friends.",
+      "id": "ea434b0f-9915-4a31-945f-f43f81d743c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンに参加するメリットは、単にプログラミングスキルが向上するだけではありません。チームで協力しながら一つの目標に向かうことで、コミュニケーション能力や問題解決能力も養われます。また、実際に動くものを作る過程で、これまで学んできた知識がどのように応用できるのかを実感できるでしょう。さらに、イベントによっては、企業がスポンサーとなっており、優秀な成績を収めたチームには賞金やインターンシップの機会が与えられることもあります。このような経験は、将来の進路を考える上で、貴重な財産になるはずです。",
+      "translationZh": "参加黑客松的优点不仅仅是提高编程技能。通过团队合作朝着一个目标努力，也能培养沟通能力和解决问题的能力。而且，在制作实际可运行的产品的过程中，你就能体会到迄今所学知识如何被应用。此外，根据活动的类型，有时会有企业作为赞助商，成绩优异的团队会获得奖金或实习机会。这样的经验，对于考虑未来发展道路来说，应该是一笔宝贵的财富。",
+      "translationEn": "The benefits of participating in a hackathon are not limited to just improving programming skills. By working together in teams towards a common goal, communication skills and problem-solving abilities are also cultivated. Furthermore, in the process of creating something that actually works, you'll realize how the knowledge you've learned can be applied. Additionally, depending on the event, companies may be sponsors, and outstanding teams might receive prize money or internship opportunities. Such experiences should become valuable assets when considering future career paths.",
+      "id": "ff710744-b48b-46b0-bd79-cdd4e3db62ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンは、新しい技術に触れたり、自分のアイデアを試したりする場ですが、必ずしも完璧なものを作る必要はありません。大切なのは、チームメンバーと協力し、限られた時間の中で最大限の努力をすることです。もしプログラミング経験が浅くても、デザインや企画など、他の分野で貢献できることもたくさんあります。まずは、興味のあるハッカソンを見つけて、気軽に挑戦してみてはいかがでしょうか。きっと、素晴らしい経験になるはずです。",
+      "translationZh": "黑客松是接触新技术、尝试自己想法的场所，但不一定非要做出完美的作品。重要的是与团队成员合作，在有限的时间内尽最大努力。即使编程经验不足，在设计、企划等其他领域也有很多可以贡献的地方。首先，找到感兴趣的黑客松，何不轻松地尝试一下呢？相信这一定会是一次宝贵的经历。",
+      "translationEn": "A hackathon is a place to encounter new technologies and test your ideas, but it's not necessary to create something perfect. What's important is to cooperate with team members and make the utmost effort within the limited time. Even if your programming experience is limited, there are many ways to contribute in other areas such as design or planning. Why not start by finding a hackathon that interests you and giving it a try without hesitation? It will surely be a wonderful experience.",
+      "id": "7c1ab242-65cf-4941-8491-dd2cb022799f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ハッカソン",
+      "reading": "はっかそん",
+      "meaningZh": "黑客松，指程序员等聚集在一起，在短时间内共同开发项目或产品的活动。",
+      "meaningEn": "Hackathon: An event where programmers and others gather to collaboratively develop projects or products in a short period.",
+      "level": "n3",
+      "exampleSentence": "来週、高校生向けのハッカソンに参加する予定です。",
+      "id": "d085f721-42be-4baa-915c-8dee90e48f40"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "受到的重视，引起注意。",
+      "meaningEn": "Attention; being noticed.",
+      "level": "n3",
+      "exampleSentence": "この新しいアプリは、多くの人々の注目を集めている。",
+      "id": "32ad1ce3-c1c5-4f7e-9ee9-91bc9302e5f0"
+    },
+    {
+      "word": "通称",
+      "reading": "つうしょう",
+      "meaningZh": "通常所说的，别名。",
+      "meaningEn": "Common name; alias.",
+      "level": "n3",
+      "exampleSentence": "この山は、通称「富士山」と呼ばれている。",
+      "id": "52a20c2a-6c88-4762-8876-f2f0af3d0291"
+    },
+    {
+      "word": "集中的に",
+      "reading": "しゅうちゅうてきに",
+      "meaningZh": "集中地，集约地。",
+      "meaningEn": "Intensively; concentratedly.",
+      "level": "n3",
+      "exampleSentence": "限られた時間で、集中的に勉強した。",
+      "id": "43f3ab03-1d55-41a2-9035-a18b88e202e8"
+    },
+    {
+      "word": "養われる",
+      "reading": "やしなわれる",
+      "meaningZh": "（能力、感覚等）得到培养、锻炼。",
+      "meaningEn": "To be cultivated; to be nurtured; to be trained (for abilities, senses, etc.).",
+      "level": "n3",
+      "exampleSentence": "チームで協力することで、協調性が養われる。",
+      "id": "ab1aa367-3683-4bf7-ac35-9cf9908ba959"
+    },
+    {
+      "word": "財産",
+      "reading": "ざいさん",
+      "meaningZh": "财产，财富；（比喻）宝贵的经验或知识。",
+      "meaningEn": "Property; fortune; assets; (fig.) valuable experience or knowledge.",
+      "level": "n3",
+      "exampleSentence": "若い頃の経験は、将来の大きな財産になるだろう。",
+      "id": "d88b1bcc-f4de-492c-9e20-2a7c45611db0"
+    },
+    {
+      "word": "スポンサー",
+      "reading": "すぽんさー",
+      "meaningZh": "赞助商。",
+      "meaningEn": "Sponsor.",
+      "level": "n3",
+      "exampleSentence": "そのイベントは、いくつかの大企業がスポンサーになっている。",
+      "id": "0429d0f8-748a-44a0-bc3a-f8a1828e4750"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンに参加する高校生にとって、どのようなメリットがありますか？",
+      "options": [
+        "プログラミングスキルだけでなく、コミュニケーション能力や問題解決能力も向上すること。",
+        "一人で黙々と作業に集中できること。",
+        "新しいプログラミング言語を学ぶ機会しかないこと。",
+        "完璧なプログラムを完成させることだけが目的であること。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「チームで協力しながら一つの目標に向かうことで、コミュニケーション能力や問題解決能力も養われます。」と書かれています。",
+      "id": "542fff55-b58c-4112-ab83-b017548ff0f2"
+    },
+    {
+      "question": "本文によると、プログラミング経験が浅い高校生はハッカソンでどのように貢献できますか？",
+      "options": [
+        "貢献できることは何もない。",
+        "デザインや企画など、プログラミング以外の分野で貢献できる。",
+        "経験者だけが参加できるので、参加すべきではない。",
+        "ひたすらコードを書くことだけが求められる。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「もしプログラミング経験が浅くても、デザインや企画など、他の分野で貢献できることもたくさんあります。」と書かれています。",
+      "id": "96894983-33a7-40a6-a803-bcff2a4b48da"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-15-22473898ef",
+  "publishedAt": "2026-09-15T06:00:00+09:00"
+}

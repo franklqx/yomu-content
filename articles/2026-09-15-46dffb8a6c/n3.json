@@ -1,0 +1,126 @@
+{
+  "title": "沖縄離島ツアー：離島ホップで新しい旅の形！",
+  "summary": "最近、沖縄の離島を巡る「離島ホップ」ツアーが人気を集めています。短い時間で複数の島を訪れることができる、新しい旅行のスタイルです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には美しい離島がたくさんありますが、一つの島だけでは物足りないと感じる人もいるかもしれません。そこで注目されているのが、「離島ホップ」という新しい旅行スタイルです。これは、フェリーや飛行機を乗り継いで、数日間で複数の離島を巡るツアーのことです。短い時間でも、色々な島の魅力を体験できるのが魅力と言えるでしょう。",
+      "translationZh": "冲绳有很多美丽的离岛，但有些人可能会觉得只去一个岛意犹未尽。因此，一种名为“离岛跳跃”的新旅行方式受到了关注。这是一种通过换乘渡轮或飞机，在几天内游览多个离岛的旅行方式。其魅力在于，即使时间不长，也能体验到各个岛屿的魅力。",
+      "translationEn": "Okinawa has many beautiful remote islands, but some people might feel that visiting just one island is not enough. Therefore, a new travel style called 'remote island hopping' is gaining attention. This involves visiting multiple remote islands over a few days by transferring between ferries and airplanes. Its appeal lies in being able to experience the charm of various islands even in a short period.",
+      "id": "e4fe608c-f404-4601-9435-11b8c7b401a9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップツアーに参加すると、例えば午前中には石垣島で有名な市場を散策し、午後には竹富島で赤瓦の集落を訪れる、といったことが可能です。それぞれの島で全く違う景色や文化に触れられるので、旅に飽きることがありません。また、効率よく移動できる計画になっているため、限られた休暇でも多くの思い出を作ることができます。",
+      "translationZh": "参加离岛跳跃之旅，例如上午可以在石垣岛散步于有名的市场，下午则可以去竹富岛探访红瓦屋顶的村落。因为可以在每个岛上接触到完全不同的景色和文化，所以旅途不会感到厌倦。而且，由于行程规划得很有效率，即使假期有限也能留下许多美好的回忆。",
+      "translationEn": "By participating in a remote island hopping tour, it is possible to, for example, stroll through the famous market in Ishigaki Island in the morning and visit the red-tiled village in Taketomi Island in the afternoon. Since you can experience completely different scenery and cultures on each island, you won't get bored during your trip. Also, because the itinerary is planned efficiently, you can create many memories even with limited vacation time.",
+      "id": "e20e0d4d-a88c-4246-860d-e77ca91e3def",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ただし、離島ホップを楽しむためには、事前の計画が大切です。移動手段の予約や、各島での宿泊先をしっかり確認しておく必要があります。特に、台風シーズンなどは船の欠航もあり得るので、代替案も考えておくと安心です。こうした準備をしっかり行うことで、よりスムーズで充実した旅になるでしょう。",
+      "translationZh": "不过，要享受离岛跳跃，事先的计划很重要。需要仔细确认交通工具的预订以及各岛的住宿。特别是台风季节，船可能会停运，所以考虑好备选方案会让人安心。通过做好这些准备，旅途将会更加顺利充实。",
+      "translationEn": "However, to enjoy remote island hopping, advance planning is important. It is necessary to carefully confirm reservations for transportation and accommodation on each island. Especially during typhoon season, ferries may be canceled, so it is reassuring to consider alternative plans. By making such preparations, your trip will be smoother and more fulfilling.",
+      "id": "c8ba7ad5-3fbc-44b7-9fc0-8efccb0e9ff4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n3",
+      "exampleSentence": "沖縄には魅力的な離島がたくさんあります。",
+      "id": "8a1e80ea-c99c-444b-a554-83445b9a23ce"
+    },
+    {
+      "word": "巡る",
+      "reading": "めぐる",
+      "meaningZh": "巡游，游览",
+      "meaningEn": "to tour, to visit (multiple places)",
+      "level": "n3",
+      "exampleSentence": "各地のお祭りを巡る旅をしたいです。",
+      "id": "f4fd9e27-fe78-455b-b872-3e78f8115e22"
+    },
+    {
+      "word": "物足りない",
+      "reading": "ものたりない",
+      "meaningZh": "不够，不满足",
+      "meaningEn": "unsatisfactory, not enough",
+      "level": "n3",
+      "exampleSentence": "一人で食べるより、友達と食べると物足りなさを感じない。",
+      "id": "0872ee00-984e-42c6-a7ae-bf1b92e4733d"
+    },
+    {
+      "word": "乗り継ぐ",
+      "reading": "のりつぐ",
+      "meaningZh": "换乘",
+      "meaningEn": "to transfer (transportation)",
+      "level": "n3",
+      "exampleSentence": "電車を乗り継いで、目的地まで行きました。",
+      "id": "2dbf518b-2a5c-493f-8605-153e75ee462f"
+    },
+    {
+      "word": "集落",
+      "reading": "しゅうらく",
+      "meaningZh": "村落，聚落",
+      "meaningEn": "village, settlement",
+      "level": "n3",
+      "exampleSentence": "沖縄の古い集落は趣があります。",
+      "id": "1372ab59-5984-43ff-a942-c6c9072b5063"
+    },
+    {
+      "word": "飽きる",
+      "reading": "あきる",
+      "meaningZh": "厌倦，腻",
+      "meaningEn": "to get tired of, to be bored with",
+      "level": "n3",
+      "exampleSentence": "毎日同じものを食べていると飽きてしまう。",
+      "id": "e0705143-a348-4776-b2a9-74e40ecc37cc"
+    },
+    {
+      "word": "欠航",
+      "reading": "けっこう",
+      "meaningZh": "停航",
+      "meaningEn": "cancellation (of flights, ships, etc.)",
+      "level": "n3",
+      "exampleSentence": "悪天候のため、飛行機が欠航になりました。",
+      "id": "06dadd9e-4f5c-4adc-9953-85bce38ddd46"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」ツアーの魅力は何ですか？",
+      "options": [
+        "一つの島をじっくり観光できること",
+        "短期間で複数の島を訪れ、色々な体験ができること",
+        "移動手段の予約が不要で手軽に参加できること",
+        "天候が悪くても必ず予定通りに進むこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「短い時間でも、色々な島の魅力を体験できるのが魅力」「色々な島で全く違う景色や文化に触れられるので、旅に飽きることがありません」と書かれています。",
+      "id": "0c098573-084b-451d-b93d-de0e1f178d46"
+    },
+    {
+      "question": "離島ホップツアーをより楽しむために、特に注意すべきことは何ですか？",
+      "options": [
+        "現地の言葉をたくさん覚えること",
+        "ツアー会社に全て任せること",
+        "事前の計画と、移動手段や宿泊先の確認、代替案の検討",
+        "できるだけ多くの島を訪れる計画を立てること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「離島ホップを楽しむためには、事前の計画が大切です。移動手段の予約や、各島での宿泊先をしっかり確認しておく必要があります。特に、台風シーズンなどは船の欠航もあり得るので、代替案も考えておくと安心です。」と述べられています。",
+      "id": "7422f6bd-7e05-4f59-9ff2-3c38fc8af795"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-15-46dffb8a6c",
+  "publishedAt": "2026-09-15T06:00:00+09:00"
+}

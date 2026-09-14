@@ -1,0 +1,122 @@
+{
+  "title": "新しい和菓子、若い人に人気",
+  "summary": "和菓子職人が新しい和菓子を作りました。若い人にも人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔から、和菓子は日本のおいしいお菓子です。でも、最近、若い人たちの間で和菓子が人気です。これは、和菓子職人が新しい和菓子を作ったからです。",
+      "translationZh": "自古以来，和菓子就是日本的美味点心。但是，最近，和菓子在日本年轻人之间很受欢迎。这是因为和菓子师傅制作了新的和菓子。",
+      "translationEn": "For a long time, Wagashi has been a delicious Japanese sweet. However, recently, Wagashi has become popular among young people. This is because Wagashi artisans have created new Wagashi.",
+      "id": "a5607060-1ac3-4e16-9eb7-00f8d923b858",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい和菓子は、形や味が違います。色もきれいです。例えば、フルーツの味や、チョコレートの味の和菓子もあります。だから、若い人たちは「おいしそう」「かわいい」と言っています。",
+      "translationZh": "新的和菓子，形状和味道都不同。颜色也很漂亮。例如，也有水果味和巧克力味的和菓子。所以，年轻人们说：“看起来很好吃”，“很可爱”。",
+      "translationEn": "The new Wagashi have different shapes and tastes. The colors are also beautiful. For example, there are Wagashi with fruit flavors and chocolate flavors. Therefore, young people say, \"It looks delicious\" and \"It's cute.\"",
+      "id": "105bfe28-bbe8-4f43-acbd-0cd10b548c2e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "職人は、伝統的な和菓子の作り方を大切にしています。でも、新しいアイデアもたくさん取り入れました。だから、昔からの味と新しい味が合わさった、特別な和菓子ができたのです。",
+      "translationZh": "师傅非常重视传统的和菓子制作方法。但是，也融入了很多新的想法。所以，制作出了结合了传统味道和新味道的特别的和菓子。",
+      "translationEn": "The artisans cherish the traditional way of making Wagashi. However, they also incorporated many new ideas. As a result, special Wagashi were created, combining traditional and new flavors.",
+      "id": "88d82569-5a43-4cee-8112-6404d4c95644",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい和菓子は、SNSでも話題になりました。多くの人が写真を撮って、友達に教えました。これからも、もっと多くの人に和菓子を知ってほしいと思っています。",
+      "translationZh": "这种新的和菓子在社交媒体上也成为了热门话题。很多人拍照并告诉朋友。今后，我们也希望让更多人了解和菓子。",
+      "translationEn": "These new Wagashi also became a hot topic on social media. Many people took pictures and told their friends. We hope that more and more people will get to know Wagashi in the future.",
+      "id": "c85b3a1a-79e5-4cc2-9070-0074a16380c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese sweets",
+      "level": "n5n4",
+      "exampleSentence": "この和菓子はおいしいです。",
+      "id": "813acfee-7cae-4934-8b04-d17d779da2b0"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，师傅",
+      "meaningEn": "artisan, craftsman",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な職人です。",
+      "id": "023a57f3-bfd1-4486-b197-9b5cb0abed03"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "4e087eeb-c2dc-4fbe-879f-09b80c96072f"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この店は人気があります。",
+      "id": "1d9fa5d5-a911-4147-b5d3-84876a009940"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n3",
+      "exampleSentence": "これは伝統的な建物です。",
+      "id": "205ddd22-1367-4ea6-bfdf-163024ed220f"
+    },
+    {
+      "word": "アイデア",
+      "reading": "アイデア",
+      "meaningZh": "想法，点子",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "いいアイデアですね。",
+      "id": "a8871523-c492-4b09-873e-c5c7fc44a48c"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic of conversation",
+      "level": "n5n4",
+      "exampleSentence": "そのニュースは話題になりました。",
+      "id": "1f0c0286-c4c6-470a-b124-24f5ddd829f5"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ、最近若い人の間で和菓子が人気ですか？",
+      "options": [
+        "昔から人気があったから",
+        "職人が新しい和菓子を作ったから",
+        "SNSでたくさん広告が出たから",
+        "値段が安くなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しい和菓子は、形や味が違います。色もきれいです。だから、若い人たちは「おいしそう」「かわいい」と言っています。",
+      "id": "b643a034-f7c9-4ef6-9700-31c51effe0e2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-15-87ea6274bb",
+  "publishedAt": "2026-09-15T06:00:00+09:00"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "高校生プログラマー集まれ！",
+  "summary": "高校生向けのプログラミングコンテストが開催されました。多くの学生が参加しました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この前、高校生のためハッカソンがありました。ハッカソンは、プログラミングのコンテストです。たくさんの高校生が集まりました。",
+      "translationZh": "前不久，举办了面向高中生的黑客松。黑客松是编程比赛。很多高中生聚集在一起。",
+      "translationEn": "Recently, there was a hackathon for high school students. A hackathon is a programming contest. Many high school students gathered.",
+      "id": "8960afb1-034e-4ab1-a7fd-769ebe0a9f61",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "参加した学生は、チームを作ってプログラムを作りました。一日で、新しいアイデアを形にしました。みんな一生懸命でした。",
+      "translationZh": "参加的学生组成了团队，制作了程序。一天内，他们将新想法变成了现实。大家都很努力。",
+      "translationEn": "The participating students formed teams and created programs. In one day, they turned new ideas into reality. Everyone worked very hard.",
+      "id": "67ab78c7-6796-4f1d-ba9a-1ff2cd675f69",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "優秀なチームには、賞が与えられました。この経験は、学生にとって良い思い出になりました。これからも、プログラミングを勉強する人が増えるでしょう。",
+      "translationZh": "优秀的团队获得了奖项。这次经验对学生们来说成为了美好的回忆。今后，学习编程的人也会增加吧。",
+      "translationEn": "The outstanding teams received awards. This experience became a good memory for the students. In the future, more people will likely study programming.",
+      "id": "56e2ba22-82bc-443b-90f0-a25422016c27",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生がたくさん参加しました。",
+      "id": "4b4fb45d-f5d9-4994-9ac0-0240d0b947b9"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "多くの人がイベントに集まりました。",
+      "id": "b429abc8-1a07-4eb1-9630-835763bacc67"
+    },
+    {
+      "word": "チーム",
+      "reading": "ちーむ",
+      "meaningZh": "队伍，团队",
+      "meaningEn": "team",
+      "level": "n5n4",
+      "exampleSentence": "友達とチームを作りました。",
+      "id": "c707007c-4f4d-4c07-9b27-24685893f38b"
+    },
+    {
+      "word": "作る",
+      "reading": "つくる",
+      "meaningZh": "制作，创造",
+      "meaningEn": "to make, to create",
+      "level": "n5n4",
+      "exampleSentence": "新しいアプリを作りました。",
+      "id": "425506d9-d818-47ce-966d-5fc772798b48"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアを思いつきました。",
+      "id": "a5397cf5-8775-4f48-89cb-c9935c3a1256"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "非常努力地，拼命地",
+      "meaningEn": "with all one's might, very hard",
+      "level": "n3",
+      "exampleSentence": "彼は一生懸命勉強しました。",
+      "id": "b88ba769-0e5b-48df-8e6c-29b4476ff384"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "この経験は宝物です。",
+      "id": "268cead4-f447-425b-b48a-f4a9e0a7c4cd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このハッカソンは、誰のためのものでしたか？",
+      "options": [
+        "小学生",
+        "中学生",
+        "高校生",
+        "大学生"
+      ],
+      "correctIndex": 2,
+      "explanation": "「高校生のためハッカソンがありました。」と書いてあります。",
+      "id": "62d04cb6-e135-413b-81a6-fbcb8a005df5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-15-22473898ef",
+  "publishedAt": "2026-09-15T06:00:00+09:00"
+}
