@@ -1,0 +1,126 @@
+{
+  "title": "発酵食品ブーム！健康的な食生活への道",
+  "summary": "最近、発酵食品が注目されています。手軽に摂れて健康にも良い発酵食品について、その魅力と取り入れ方を見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、健康志向の高まりとともに、発酵食品が人気を集めています。ヨーグルトや納豆といったおなじみのものから、キムチや味噌、甘酒など、様々な発酵食品がスーパーの棚に並び、食卓に登場する機会が増えました。これは、発酵食品に含まれる「善玉菌」が腸内環境を整えるのに役立つと考えられているからです。",
+      "translationZh": "最近，随着健康意识的提高，发酵食品越来越受欢迎。从酸奶、纳豆等我们熟悉的食物，到泡菜、味噌、甜酒酿等各种发酵食品，都在超市的货架上琳琅满目，出现在餐桌上的机会也越来越多。这是因为发酵食品中含有的“益生菌”被认为有助于调节肠道环境。",
+      "translationEn": "Recently, with the rise in health consciousness, fermented foods have become popular. From familiar items like yogurt and natto to various fermented foods such as kimchi, miso, and amazake, they are increasingly appearing on supermarket shelves and dinner tables. This is because the 'good bacteria' contained in fermented foods are thought to help regulate the gut environment.",
+      "id": "eb9e8537-dd28-4b08-ba36-52250728a740",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品を日常的に食べることで、免疫力の向上や美肌効果も期待できると言われています。例えば、味噌汁を毎日のように飲んでいる人は、風邪をひきにくいという話も耳にします。また、発酵の過程で栄養素が分解され、体に吸収されやすい形に変わるというメリットもあります。だから、積極的に取り入れたいですね。",
+      "translationZh": "据说，日常食用发酵食品还能期待提高免疫力和改善皮肤的效果。例如，我们也会听到一些说法，比如经常喝味噌汤的人不容易感冒。此外，发酵过程还会分解营养素，使其变成更容易被人体吸收的形态。因此，我们应该积极地将其纳入饮食中。",
+      "translationEn": "It is said that by eating fermented foods daily, one can expect improved immunity and skin benefits. For example, we often hear that people who drink miso soup almost every day are less likely to catch colds. Furthermore, during the fermentation process, nutrients are broken down and transformed into a form that is more easily absorbed by the body. Therefore, it's something we should actively incorporate into our diet.",
+      "id": "bf671524-5c58-4b2f-aa03-6d08f7a3f6e2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品のブームは、単に新しい食べ物が流行っているというだけでなく、人々が自分の体や健康についてより深く考えるようになった証拠とも言えます。忙しい毎日の中でも、少し意識を変えるだけで、健康的な食生活を送ることができるのです。まずは、お気に入りの発酵食品を見つけて、毎日の食事に少しずつ加えてみましょう。",
+      "translationZh": "发酵食品的流行不仅仅是新食物的流行，也可以说是人们开始更深入地思考自身健康状况的证明。即使在忙碌的日常生活中，只要稍微改变一下意识，就能过上健康的生活。首先，找到你喜欢的发酵食品，然后一点一点地加入到日常饮食中吧。",
+      "translationEn": "The boom in fermented foods is not just a trend of new foods; it can also be seen as evidence that people are thinking more deeply about their bodies and health. Even in our busy daily lives, we can lead a healthier diet by making small changes in our mindset. First, find your favorite fermented food and gradually add it to your daily meals.",
+      "id": "f37c284f-d8b4-4b3f-bfa9-bf841aa6b11e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "キムチは代表的な発酵食品の一つです。",
+      "id": "4f1fc553-e509-46e5-891b-c04aa8490f44"
+    },
+    {
+      "word": "健康志向",
+      "reading": "けんこうしこう",
+      "meaningZh": "健康意识，注重健康",
+      "meaningEn": "health consciousness",
+      "level": "n3",
+      "exampleSentence": "最近、健康志向の人が増えている。",
+      "id": "0650cc14-fd27-4b14-943f-8cfd8bd845b3"
+    },
+    {
+      "word": "善玉菌",
+      "reading": "ぜんだまきん",
+      "meaningZh": "益生菌",
+      "meaningEn": "beneficial bacteria (good bacteria)",
+      "level": "n3",
+      "exampleSentence": "善玉菌を増やすために、ヨーグルトを食べる。",
+      "id": "1f5480b7-b990-4bd5-b4de-e8bcf6cd635b"
+    },
+    {
+      "word": "腸内環境",
+      "reading": "ちょうないかんきょう",
+      "meaningZh": "肠道环境",
+      "meaningEn": "gut environment",
+      "level": "n3",
+      "exampleSentence": "腸内環境を整えることが大切だ。",
+      "id": "3a7e8e46-6c9b-4aeb-8655-39d6f5f9d8d8"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaningZh": "免疫力",
+      "meaningEn": "immunity",
+      "level": "n3",
+      "exampleSentence": "免疫力を高めるために、バランスの取れた食事を心がける。",
+      "id": "8bdb83d8-980e-4489-ad37-b88055d8eb05"
+    },
+    {
+      "word": "美肌効果",
+      "reading": "びはだこうか",
+      "meaningZh": "美容养颜效果",
+      "meaningEn": "beauty effect (for skin)",
+      "level": "n3",
+      "exampleSentence": "この化粧品は美肌効果があるらしい。",
+      "id": "fe916fc8-b6e3-4a9e-b3dc-68abce4746de"
+    },
+    {
+      "word": "吸収されやすい",
+      "reading": "きゅうしゅうされやすい",
+      "meaningZh": "容易被吸收",
+      "meaningEn": "easily absorbed",
+      "level": "n3",
+      "exampleSentence": "この栄養ドリンクは吸収されやすい成分でできている。",
+      "id": "f534f901-6f75-4e2e-8bc4-4057b3230be9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品が注目されている主な理由は何ですか？",
+      "options": [
+        "味が美味しいから",
+        "値段が安いから",
+        "善玉菌が腸内環境を整えるから",
+        "調理が簡単だから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「発酵食品に含まれる「善玉菌」が腸内環境を整えるのに役立つと考えられているからです。」と書かれています。",
+      "id": "6b52fc03-63a1-4290-b378-af44b2ad718d"
+    },
+    {
+      "question": "発酵食品を食べることで期待できる効果として、本文で述べられていないものはどれですか？",
+      "options": [
+        "免疫力の向上",
+        "美肌効果",
+        "消化不良の改善",
+        "栄養素の吸収促進"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では免疫力向上、美肌効果、栄養素の吸収促進について触れていますが、消化不良の改善については直接言及されていません。",
+      "id": "43afe369-5528-4b0f-b2c9-661575dceb3d"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-16-95fc09b2b4",
+  "publishedAt": "2026-09-16T06:00:00+09:00"
+}

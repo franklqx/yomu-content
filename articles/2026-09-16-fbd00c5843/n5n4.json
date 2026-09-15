@@ -1,0 +1,131 @@
+{
+  "title": "アニメの町、商店街",
+  "summary": "ある商店街がアニメの舞台になりました。町の人々は、アニメのおかげで元気がでました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、ある町に古い商店街がありました。でも、お客さんが少なくなって、静かになりました。町の人々は、どうしたらいいか悩んでいました。",
+      "translationZh": "很久以前，在一个小镇上有一条旧的商店街。但是，顾客越来越少，变得很安静。镇上的人们都在烦恼该怎么办。",
+      "translationEn": "A long time ago, there was an old shopping street in a town. However, the number of customers decreased, and it became quiet. The townspeople were worried about what to do.",
+      "id": "bf757b3c-14a3-4071-b3c0-a8d69e7b3dd9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そんな時、人気のアニメがこの商店街を舞台にしました。アニメが始まると、たくさんのファンが町にやってきました。みんな、アニメに出てくる場所を見に来ました。",
+      "translationZh": "就在那时，一部受欢迎的动画以这条商店街为舞台。动画开始后，许多粉丝来到了小镇。大家都是来看动画中出现的场景的。",
+      "translationEn": "At that time, a popular anime set this shopping street as its location. When the anime started, many fans came to the town. Everyone came to see the places that appeared in the anime.",
+      "id": "84203a73-4e08-4434-a739-e979db9ff4c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "商店街の人々も、アニメのファンをもてなし始めました。アニメのキャラクターのグッズを売ったり、特別のイベントをしたりしました。商店街は、前よりずっと賑やかになりました。",
+      "translationZh": "商店街的人们也开始招待动画粉丝。他们卖了动画角色的周边商品，还举办了特别的活动。商店街变得比以前热闹多了。",
+      "translationEn": "The people in the shopping street also started to welcome anime fans. They sold goods of anime characters and held special events. The shopping street became much more lively than before.",
+      "id": "9a2352c3-1126-44ec-adeb-dd861718de08",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメのおかげで、町は元気がでました。古い商店街が、新しい場所になりました。町の人々は、アニメの力に感謝しています。",
+      "translationZh": "托动画的福，小镇恢复了活力。旧的商店街变成了一个新的地方。镇上的人们感谢动画的力量。",
+      "translationEn": "Thanks to the anime, the town regained its energy. The old shopping street became a new place. The townspeople are grateful for the power of anime.",
+      "id": "698e9b90-2010-4c23-838a-3eeda9c107d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はきれいです。",
+      "id": "1ea96f99-dcf9-49ce-8e5c-6717ffc99525"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，以…为背景",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "この映画は海が舞台です。",
+      "id": "0afe6796-0421-4ae4-9fbf-c61def79f6e7"
+    },
+    {
+      "word": "舞台にする",
+      "reading": "ぶたいにする",
+      "meaningZh": "以…为舞台",
+      "meaningEn": "to set as a stage/location",
+      "level": "n5n4",
+      "exampleSentence": "この小説は古い町を舞台にしています。",
+      "id": "9f615086-b146-446e-91d7-375237cba0b1"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静的",
+      "meaningEn": "quiet",
+      "level": "n5n4",
+      "exampleSentence": "図書館は静かです。",
+      "id": "41163a9e-d3be-4a50-9c4b-33e55282ed43"
+    },
+    {
+      "word": "悩む",
+      "reading": "なやむ",
+      "meaningZh": "烦恼，担心",
+      "meaningEn": "to worry, to be troubled",
+      "level": "n5n4",
+      "exampleSentence": "将来について悩んでいます。",
+      "id": "e6dae99e-af20-4c8b-8725-a17f86e1b2d5"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手は人気があります。",
+      "id": "a8d1eef5-715f-4fb6-8e69-b058db3d18ae"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はアニメのファンです。",
+      "id": "760fbbdd-9e97-4689-a5ca-0a3533a989dd"
+    },
+    {
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹的",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "祭りの日は賑やかでした。",
+      "id": "79ab6289-5572-480f-b016-40a3d368e1fa"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの舞台になった後、商店街はどうなりましたか。",
+      "options": [
+        "もっと静かになった。",
+        "お客さんがたくさん来るようになった。",
+        "店を全部閉めた。",
+        "町の人々が町を出ていった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「アニメが始まると、たくさんのファンが町にやってきました。」「商店街は、前よりずっと賑やかになりました。」",
+      "id": "7084ceb0-1ace-4cc9-ac4e-af000c401d3a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-16-fbd00c5843",
+  "publishedAt": "2026-09-16T06:00:00+09:00"
+}

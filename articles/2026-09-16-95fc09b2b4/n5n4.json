@@ -1,0 +1,122 @@
+{
+  "title": "発酵食品は人気！",
+  "summary": "最近、発酵食品がとても人気です。人々は健康のために発酵食品をたくさん食べています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本で発酵食品がとても人気があります。納豆（なっとう）や味噌（みそ）、ヨーグルトなどがそうです。多くの人が「体（からだ）にいい」と思っています。",
+      "translationZh": "最近，发酵食品在日本非常受欢迎。比如纳豆、味噌和酸奶。很多人认为它们“对身体好”。",
+      "translationEn": "Recently, fermented foods are very popular in Japan. For example, natto, miso, and yogurt. Many people think they are \"good for the body.\"",
+      "id": "9eac0cd2-496f-4716-94bb-2e7fd8167b9d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、体（からだ）の調子（ちょうし）を整える良い菌（きん）がたくさん入っています。だから、お腹（おなか）の調子を良くしたり、免疫力（めんえきりょく）を高めたりする効果（こうか）があると言われています。",
+      "translationZh": "发酵食品中含有许多能调理身体状况的益生菌。因此，据说它们有改善肠道健康和提高免疫力的效果。",
+      "translationEn": "Fermented foods contain many good bacteria that improve the body's condition. Therefore, they are said to have the effect of improving digestion and boosting immunity.",
+      "id": "c28af4d2-1dac-44ae-bd02-c21716c035dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "健康（けんこう）への意識（いしき）が高まっていることも、発酵食品が人気になった理由（りゆう）の一つです。人々は、病気（びょうき）になりにくい体を作りたいと思っています。そのため、毎日の食事（しょくじ）に発酵食品を取り入れるようになりました。",
+      "translationZh": "健康意识的提高也是发酵食品受欢迎的原因之一。人们希望拥有不易生病的体质。因此，他们开始在日常饮食中加入发酵食品。",
+      "translationEn": "Increased health consciousness is also one of the reasons why fermented foods have become popular. People want to build bodies that are less prone to illness. Therefore, they have started incorporating fermented foods into their daily meals.",
+      "id": "26432ec6-b76e-4c2f-b613-c523720edaeb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スーパーやお店でも、たくさんの種類の（しゅるいの）発酵食品を見かけます。新しい商品（しょうひん）もどんどん出てきています。これからも、発酵食品のブームは続くでしょう。",
+      "translationZh": "在超市和商店里，我们也能看到很多种类的发酵食品。新产品也在不断涌现。今后，发酵食品的热潮可能会继续下去。",
+      "translationEn": "We see many kinds of fermented foods in supermarkets and stores. New products are also emerging one after another. The boom in fermented foods will likely continue in the future.",
+      "id": "1246c36c-bac0-4da2-9cc4-ff64140080d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "納豆（なっとう）は代表的（だいひょうてき）な発酵食品です。",
+      "id": "83a2f5c8-ec17-4719-889d-1a398760c453"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このラーメン屋さんはとても人気があります。",
+      "id": "f89d4790-97f6-4c18-b27e-c39e09f3dbc9"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日（まいにち）運動（うんどう）しています。",
+      "id": "e33d970e-5e65-4b4b-91ca-a2adce65c1d1"
+    },
+    {
+      "word": "意識",
+      "reading": "いしき",
+      "meaningZh": "意识",
+      "meaningEn": "consciousness",
+      "level": "n3",
+      "exampleSentence": "環境問題（かんきょうもんだい）への意識が高まっています。",
+      "id": "24b33291-82be-453b-86b4-81c865b0db43"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状况，状态",
+      "meaningEn": "condition",
+      "level": "n5n4",
+      "exampleSentence": "今日（きょう）は体（からだ）の調子がいいです。",
+      "id": "a4cc0a8d-f0e6-45ff-afde-4367ddf1838e"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaningZh": "理由",
+      "meaningEn": "reason",
+      "level": "n5n4",
+      "exampleSentence": "遅刻（ちこく）した理由を説明（せつめい）しました。",
+      "id": "f71a8473-b2f5-4f7f-917f-401d79e4ada8"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaningZh": "免疫力",
+      "meaningEn": "immunity",
+      "level": "n3",
+      "exampleSentence": "免疫力を高めるために、バランスの取れた食事（しょくじ）を心がけています。",
+      "id": "c804eb0b-c0df-4d93-a21f-d4c03abd61c9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ発酵食品が人気になりましたか？",
+      "options": [
+        "安（やす）いから",
+        "おいしいから",
+        "健康（けんこう）にいいと思（おも）われているから",
+        "店（みせ）がたくさんあるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文（ほんぶん）には「人々は健康のために発酵食品をたくさん食べています。」と書（か）いてあります。また、「健康への意識が高まっていることも、発酵食品が人気になった理由の一つです。」とも書かれています。",
+      "id": "7e8716cc-db68-4aa4-b1b2-3c12c096dda4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-16-95fc09b2b4",
+  "publishedAt": "2026-09-16T06:00:00+09:00"
+}

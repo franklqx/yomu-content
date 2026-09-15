@@ -1,0 +1,122 @@
+{
+  "title": "秋の味覚！限定スイーツ",
+  "summary": "秋になりました。おいしい食べ物がいっぱいです。特に、限定のスイーツは人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋になりました。空は青くて、風は涼しいです。この季節は、おいしい食べ物がたくさんあります。果物やりょうり、そして甘いものも、秋ならではの味があります。",
+      "translationZh": "秋天来了。天空是蓝色的，风是凉爽的。这个季节有很多美味的食物。水果、料理，还有甜点，都有秋季特有的味道。",
+      "translationEn": "Autumn has arrived. The sky is blue, and the wind is cool. This season has many delicious foods. Fruits, meals, and sweets also have tastes unique to autumn.",
+      "id": "6267cc97-10c5-4aba-9493-a43018d7ff5e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この秋、たくさんの店で限定の商品が出ました。例えば、栗（くり）を使ったケーキや、さつまいものプリンなどがあります。これらの商品は、秋の味をしっかり楽しめます。",
+      "translationZh": "今年秋天，很多商店推出了限定商品。例如，有使用栗子做的蛋糕，还有红薯布丁等。这些商品能让人充分品尝到秋天的味道。",
+      "translationEn": "This autumn, many shops released limited products. For example, there are cakes made with chestnuts and sweet potato puddings. These products allow you to fully enjoy the taste of autumn.",
+      "id": "6dd99d7d-9945-42ce-9d65-403f1a31c033",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "限定商品は、いつもと違う味や見た目が楽しいです。お店によっては、特別な包装（ほうそう）をしているところもあります。友達や家族へのおみやげにもいいですね。",
+      "translationZh": "限定商品有着和平时不同的味道和有趣的造型。有些商店还有特别的包装。作为送给朋友或家人的礼物也很好。",
+      "translationEn": "Limited products are fun because they have different tastes and appearances from usual. Some shops even have special packaging. They are also good as souvenirs for friends and family.",
+      "id": "22a1313f-a52f-4335-b360-88d0203cc829",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "秋の味覚シーズンは、あっという間に終わります。おいしい限定商品を見つけたら、ぜひ試してみてください。きっと、素敵な秋の思い出になりますよ。",
+      "translationZh": "秋季美食季很快就会结束。如果发现美味的限定商品，请一定要试试。一定会成为你美好的秋日回忆。",
+      "translationEn": "The autumn food season ends in the blink of an eye. If you find delicious limited products, please try them. They will surely become wonderful autumn memories.",
+      "id": "f947620a-5412-45a9-93d2-2699e04e44ea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "秋",
+      "reading": "あき",
+      "meaningZh": "秋天",
+      "meaningEn": "autumn",
+      "level": "n5n4",
+      "exampleSentence": "秋は涼しいです。",
+      "id": "8f27d9e1-d081-4f1b-a800-042c99f540e1"
+    },
+    {
+      "word": "食欲",
+      "reading": "しょくよく",
+      "meaningZh": "食欲",
+      "meaningEn": "appetite",
+      "level": "n5n4",
+      "exampleSentence": "秋は食欲の秋です。",
+      "id": "25313f78-c741-438c-9063-9f42bff2c191"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "これは限定の味です。",
+      "id": "fcbd6f57-d1f2-4ef6-972b-588ea76a7a35"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningZh": "商品",
+      "meaningEn": "product",
+      "level": "n5n4",
+      "exampleSentence": "新しい商品が出ました。",
+      "id": "82a19546-199f-4c1c-ae3e-fcfaf144c03c"
+    },
+    {
+      "word": "栗",
+      "reading": "くり",
+      "meaningZh": "栗子",
+      "meaningEn": "chestnut",
+      "level": "n5n4",
+      "exampleSentence": "栗がおいしい季節です。",
+      "id": "8043ce74-8a45-45d2-99a7-686609270f23"
+    },
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaningZh": "包装",
+      "meaningEn": "packaging",
+      "level": "n5n4",
+      "exampleSentence": "きれいな包装でした。",
+      "id": "75e68b01-d360-4658-a732-be343ffb190b"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味觉",
+      "meaningEn": "sense of taste, flavor",
+      "level": "n5n4",
+      "exampleSentence": "秋の味覚を楽しんでいます。",
+      "id": "aa10a8cc-3b5b-4612-9a34-10f23c423714"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "限定商品は、いつ楽しむことができますか。",
+      "options": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ],
+      "correctIndex": 2,
+      "explanation": "「この秋、たくさんの店で限定の商品が出ました。」",
+      "id": "2ec709d8-36ec-412b-9f23-c78e6fe60056"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-16-26f6e5544d",
+  "publishedAt": "2026-09-16T06:00:00+09:00"
+}
