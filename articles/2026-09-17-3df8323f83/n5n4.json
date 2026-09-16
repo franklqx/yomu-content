@@ -1,0 +1,131 @@
+{
+  "title": "空き家が新しい場所になる",
+  "summary": "日本では、使われていない家が増えています。そこで、古い家を新しい目的で使うプロジェクトが始まっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、最近、空き家が増えています。空き家とは、誰も住んでいない家や建物（たてもの）のことです。都市部でも、古い空き家をよく見かけます。",
+      "translationZh": "在日本，最近空置房屋（空き家）正在增加。空置房屋是指没有人居住的房屋或建筑物。在都市地区，也经常能看到老旧的空置房屋。",
+      "translationEn": "In Japan, vacant houses are increasing recently. A vacant house is a house or building where nobody lives. Even in urban areas, we often see old vacant houses.",
+      "id": "a1a3a9e0-d786-4d43-a14d-d987fd16fd65",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、この空き家をもう一度使うためのプロジェクトがあります。例えば、古い家をカフェ（喫茶店）やお店に変えることがあります。また、若者（わかもの）が住むためのアパートにする場合もあります。",
+      "translationZh": "因此，有一些项目旨在重新利用这些空置房屋。例如，有时会将旧房子改建成咖啡馆或商店。此外，有时也会将其改建成供年轻人居住的公寓。",
+      "translationEn": "Therefore, there are projects to use these vacant houses again. For example, old houses are sometimes changed into cafes or shops. Also, sometimes they are made into apartments for young people to live in.",
+      "id": "b4a9b719-43c3-46c2-88d4-058ed8c9b9fd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのプロジェクトは、町を元気（げんき）にすると考えられています。古いものが新しく生まれ変わ（か）わると、地域（ちいき）の人々がもっと集まるようになります。そして、新しい文化（ぶんか）も生まれるかもしれません。",
+      "translationZh": "人们认为，这些项目能让城镇变得更有活力。当旧事物焕然一新时，社区的人们会更加聚集。并且，新的文化也可能由此诞生。",
+      "translationEn": "These projects are thought to make towns energetic. When old things are reborn as new, people in the community will gather more. And new culture may also be born.",
+      "id": "66d36ee1-1e9a-4e31-bce6-317260af048c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "空き家を大切に使い、町を良くしていくことは、とても良いことだと思います。これからも、色々な空き家活用プロジェクトが広がっていくでしょう。",
+      "translationZh": "我认为，珍惜地利用空置房屋，让城镇变得更好，是一件非常好的事情。今后，各种各样的空置房屋再利用项目也会不断推广开来。",
+      "translationEn": "I think it is a very good thing to use vacant houses carefully and make towns better. From now on, various vacant house utilization projects will likely spread.",
+      "id": "3940a134-7df5-4886-b186-38cb38888a50",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "空き家",
+      "reading": "あきや",
+      "meaningZh": "空置房屋",
+      "meaningEn": "vacant house",
+      "level": "n5n4",
+      "exampleSentence": "この町には空き家が多いです。",
+      "id": "918e927b-1bf9-4bcb-a493-c055fc0ed010"
+    },
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市地区",
+      "meaningEn": "urban area",
+      "level": "n5n4",
+      "exampleSentence": "都市部では、たくさんの人が働いています。",
+      "id": "409c9e35-9842-47c0-a859-8bcbc23cc16a"
+    },
+    {
+      "word": "建物",
+      "reading": "たてもの",
+      "meaningZh": "建筑物",
+      "meaningEn": "building",
+      "level": "n5n4",
+      "exampleSentence": "あの建物はとても大きいです。",
+      "id": "f3d686d6-caca-466a-a0bb-d0586a078d35"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningZh": "目的",
+      "meaningEn": "purpose, objective",
+      "level": "n5n4",
+      "exampleSentence": "旅行の目的は何ですか。",
+      "id": "cfab2930-bd4e-4cad-91c8-6eebd33b42a1"
+    },
+    {
+      "word": "カフェ",
+      "reading": "かふぇ",
+      "meaningZh": "咖啡馆",
+      "meaningEn": "cafe",
+      "level": "n5n4",
+      "exampleSentence": "友達とカフェで話しました。",
+      "id": "dda2f370-dabe-4ee5-b0aa-d8ebcc772cb5"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "896bc191-d25c-4252-8528-9a85b9cb75c7"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energetic, healthy",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも元気です。",
+      "id": "2390fedf-bba7-4683-b7b6-5dbbe695ca99"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "この地域は静かです。",
+      "id": "9127944e-22f3-4b6e-9b42-1180141a45eb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "空き家プロジェクトは、町をどうすると考えられていますか。",
+      "options": [
+        "町を静かにする",
+        "町を元気にする",
+        "町を小さくする",
+        "町を古くする"
+      ],
+      "correctIndex": 1,
+      "explanation": "これらのプロジェクトは、町を元気（げんき）にすると考えられています。",
+      "id": "108ea455-c11e-4d6c-9317-00617e7c2158"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-17-3df8323f83",
+  "publishedAt": "2026-09-17T06:00:00+09:00"
+}

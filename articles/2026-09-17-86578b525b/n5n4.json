@@ -1,0 +1,131 @@
+{
+  "title": "夏休みの人気プログラム",
+  "summary": "夏休みには、子供たちが楽しく学べるプログラムがたくさんあります。最近、新しいプログラムが人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏休みが近づいています。子供たちは学校が休みになります。多くの保護者は、子供たちが夏休みに何をすればいいか考えます。そのため、学童プログラムが人気です。",
+      "translationZh": "暑假快到了。孩子们学校放假了。很多家长在想暑假孩子们该做什么。因此，课后托管项目很受欢迎。",
+      "translationEn": "Summer vacation is approaching. Children's school will be closed. Many parents think about what their children should do during summer vacation. Therefore, after-school programs are popular.",
+      "id": "a3e47e9a-5a5e-4bf6-bb4b-bb60e0b5cf7a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、新しいタイプの学童プログラムが人気を集めています。例えば、プログラミングを学ぶプログラムや、科学実験をするプログラムです。子供たちはこれらのプログラムで、新しいことを学びます。",
+      "translationZh": "最近，新型的课后托管项目受到了欢迎。例如，学习编程的项目和进行科学实验的项目。孩子们在这些项目中学习新事物。",
+      "translationEn": "Recently, new types of after-school programs have been gaining popularity. For example, programs to learn programming and programs to conduct science experiments. Children learn new things in these programs.",
+      "id": "4136d8e4-e3a3-4ad7-b00d-aef4a9b6fc62",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのプログラムは、子供たちの興味を引くように工夫されています。ただ勉強するだけでなく、遊びながら学べるのが良い点です。子供たちは友達と協力して、課題を解決することもあります。",
+      "translationZh": "这些项目的设计旨在吸引孩子们的兴趣。优点是孩子们可以在玩乐中学习，而不仅仅是学习。孩子们有时也会与朋友合作解决问题。",
+      "translationEn": "These programs are designed to attract children's interest. The good point is that children can learn while playing, not just studying. Children sometimes cooperate with friends to solve problems.",
+      "id": "07ec46d1-ec91-4f0e-a955-fb905e230d21",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夏休みの学童プログラムは、子供たちの成長にとって良い機会です。新しいスキルを身につけたり、新しい友達を作ったりできます。保護者にとっても、安心して子供を預けられる場所です。",
+      "translationZh": "暑假的课后托管项目是孩子们成长的良好机会。他们可以获得新技能，交新朋友。对家长来说，这也是一个可以安心托付孩子的地方。",
+      "translationEn": "Summer vacation after-school programs are a good opportunity for children's growth. They can acquire new skills and make new friends. For parents, it is also a place where they can entrust their children with peace of mind.",
+      "id": "0a5ca9a7-d560-47ff-9337-62b5e962c944",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaningZh": "暑假",
+      "meaningEn": "summer vacation",
+      "level": "n5n4",
+      "exampleSentence": "夏休みはどこかへ行きたいです。",
+      "id": "9cdb7ed2-292a-4ffb-9379-35463fb726a1"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaningZh": "孩子",
+      "meaningEn": "child",
+      "level": "n5n4",
+      "exampleSentence": "子供は公園で遊んでいます。",
+      "id": "817ef5d4-b93e-4a87-b901-3c0ba417d3ce"
+    },
+    {
+      "word": "保護者",
+      "reading": "ほごしゃ",
+      "meaningZh": "监护人，家长",
+      "meaningEn": "guardian, parent",
+      "level": "n3",
+      "exampleSentence": "保護者は学校からの連絡を待っています。",
+      "id": "d44a14c2-15ae-41cf-acc1-d93408adf97e"
+    },
+    {
+      "word": "学童プログラム",
+      "reading": "がくどうプログラム",
+      "meaningZh": "课后托管项目（主要指小学生放学后至家长下班前的看护和活动）",
+      "meaningEn": "after-school program (for children)",
+      "level": "n5n4",
+      "exampleSentence": "夏休みの学童プログラムを探しています。",
+      "id": "78d84005-cfb2-4b8d-b399-a2f1829db268"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランはいつも人気があります。",
+      "id": "807f2cd7-0045-4483-bd30-1d060b4f8be1"
+    },
+    {
+      "word": "プログラミング",
+      "reading": "プログラミング",
+      "meaningZh": "编程",
+      "meaningEn": "programming",
+      "level": "n3",
+      "exampleSentence": "子供がプログラミングに興味を持っています。",
+      "id": "6520cd77-30dd-40f3-a1f0-92f52b703118"
+    },
+    {
+      "word": "科学実験",
+      "reading": "かがくじっけん",
+      "meaningZh": "科学实验",
+      "meaningEn": "science experiment",
+      "level": "n5n4",
+      "exampleSentence": "科学実験は面白いです。",
+      "id": "ee1b4e40-c5bb-4836-8873-793fe60c0d64"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "チームで協力して頑張りました。",
+      "id": "edcf7bc5-8587-40a7-838f-4ab8a5ca4b41"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、どのような学童プログラムが人気ですか？",
+      "options": [
+        "スポーツをするプログラム",
+        "プログラミングや科学実験のプログラム",
+        "音楽を学ぶプログラム",
+        "外国語を学ぶプログラム"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近、新しいタイプの学童プログラムが人気を集めています。例えば、プログラミングを学ぶプログラムや、科学実験をするプログラムです。」",
+      "id": "d690fb32-c186-48e7-80b2-19ce74e6cbc6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-17-86578b525b",
+  "publishedAt": "2026-09-17T06:00:00+09:00"
+}

@@ -1,0 +1,134 @@
+{
+  "title": "夏休みの学童プログラム、進化中！",
+  "summary": "今年の夏休み、学童プログラムは新しいトレンドを迎えています。単なる預かりから、子供たちの成長を促す体験型へと変化しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏休みに入り、多くの保護者が頭を悩ませるのが、子供たちの預け先です。近年、学童プログラムは単に放課後や休みの日に子供を安全に預かる場所というだけでなく、多様な体験を通して子供たちの成長を促す場へと変化しています。特に、プログラミングやアート、スポーツなど、特色あるプログラムを提供する学童が増えているのが最近の傾向です。",
+      "translationZh": "随着暑假开始，许多家长都在为孩子的托管地点而烦恼。近年来，课后托管项目（学童项目）不再仅仅是放学后或假期里安全地照顾孩子的地方，而是通过各种体验来促进孩子成长的场所。特别是提供编程、艺术、体育等特色项目的课后托管机构正在增加，这是近期的趋势。",
+      "translationEn": "As the summer vacation begins, many parents are troubled about where to leave their children. In recent years, after-school programs (gakudō programs) have evolved from simply places to safely care for children after school or on holidays to spaces that promote children's growth through diverse experiences. In particular, a recent trend is the increase in after-school programs offering distinctive activities such as programming, art, and sports.",
+      "id": "431fc92c-27dd-4785-9c4a-f71c99598573",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした変化の背景には、子供たちの学習機会の多様化や、共働き世帯の増加が挙げられます。親としては、子供たちが有意義な時間を過ごせるよう、単に遊ぶだけでなく、新しいスキルを学んだり、興味関心を深めたりできるプログラムを選びたいと考えています。そのため、教育的な要素を取り入れた学童プログラムが注目を集めているのです。",
+      "translationZh": "这种变化背后的原因包括儿童学习机会的多样化以及双职工家庭的增加。作为父母，我们希望选择能够让孩子度过有意义时光的项目，不仅是玩耍，还能学习新技能、加深兴趣。因此，融入教育元素的课后托管项目备受关注。",
+      "translationEn": "The background of these changes includes the diversification of learning opportunities for children and the increase in dual-income households. As parents, we want to choose programs where children can spend their time meaningfully, not just playing, but also learning new skills and deepening their interests. Therefore, after-school programs that incorporate educational elements are attracting attention.",
+      "id": "1ef9c76d-2973-4c52-95a9-014a47a584f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、近年では「STEAM教育」を取り入れたプログラムも人気です。STEAMとは、科学（Science）、技術（Technology）、工学（Engineering）、芸術（Arts）、数学（Mathematics）の頭文字を取ったもので、これらの分野を統合的に学ぶことで、子供たちの創造性や問題解決能力を育むことを目指します。プログラミング教室と連携したり、実験や工作を取り入れたりする学童が増えているのは、この教育トレンドを反映していると言えるでしょう。",
+      "translationZh": "此外，近年来，融入“STEAM教育”的项目也很受欢迎。STEAM是科学（Science）、技术（Technology）、工程（Engineering）、艺术（Arts）、数学（Mathematics）的首字母缩写，旨在通过综合学习这些领域来培养孩子的创造力和解决问题的能力。与编程教室合作或融入实验和手工制作的课后托管机构的增加，可以说反映了这一教育趋势。",
+      "translationEn": "Furthermore, programs incorporating 'STEAM education' have become popular in recent years. STEAM is an acronym for Science, Technology, Engineering, Arts, and Mathematics, and it aims to foster children's creativity and problem-solving skills by learning these fields in an integrated manner. The increase in after-school programs that collaborate with programming classes or incorporate experiments and crafts can be said to reflect this educational trend.",
+      "id": "2310186f-0a28-4327-a3d8-f187c286daec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学童プログラムの選択肢が増えることは、保護者にとって嬉しいことです。しかし、プログラムの内容をしっかり確認し、お子さんの興味や性格に合っているかを見極めることが大切です。子供たちが夏休みを有意義に過ごせるよう、最新のトレンドを参考に、最適なプログラムを見つけてみてはいかがでしょうか。",
+      "translationZh": "课后托管项目选择的增加对家长来说是件好事。但是，仔细确认项目内容，并判断是否符合孩子的兴趣和性格非常重要。为了让孩子们能度过有意义的暑假，为什么不参考最新趋势，找到最适合的项目呢？",
+      "translationEn": "The increase in options for after-school programs is good news for parents. However, it is important to carefully check the program content and determine if it suits your child's interests and personality. To ensure children have a meaningful summer vacation, why not take inspiration from the latest trends and find the optimal program?",
+      "id": "4ab96f0e-ca54-4329-a92e-742e1bb9bc58",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "保護者",
+      "reading": "ほごしゃ",
+      "meaningZh": "监护人；家长",
+      "meaningEn": "guardian; parent",
+      "level": "n3",
+      "exampleSentence": "保護者は子供の安全に常に気を配る必要があります。",
+      "id": "59598d9d-285d-4d54-aaa1-cfca7ccebb45"
+    },
+    {
+      "word": "多様な",
+      "reading": "たような",
+      "meaningZh": "多样的；形形色色的",
+      "meaningEn": "diverse; various",
+      "level": "n3",
+      "exampleSentence": "この地域には多様な文化を持つ人々が住んでいます。",
+      "id": "cc71678c-a33f-49fd-bb9f-6ae6850679bb"
+    },
+    {
+      "word": "預かる",
+      "reading": "あずかる",
+      "meaningZh": "托管；照顾",
+      "meaningEn": "to take care of; to look after",
+      "level": "n3",
+      "exampleSentence": "子供を一時的に預かるサービスがあります。",
+      "id": "8d71dd2a-5544-49a9-880d-7bee549c64b7"
+    },
+    {
+      "word": "近年の",
+      "reading": "きんねんの",
+      "meaningZh": "近年的",
+      "meaningEn": "recent (years)",
+      "level": "n3",
+      "exampleSentence": "近年の技術進歩は目覚ましいものがあります。",
+      "id": "6ccc07b7-c756-495e-843c-13a4471df270"
+    },
+    {
+      "word": "毛頭ない",
+      "reading": "もうとうない",
+      "meaningZh": "丝毫没有；一点也没有（用于否定）",
+      "meaningEn": "not at all; not in the least",
+      "level": "n2n1",
+      "exampleSentence": "彼は失敗を恐れる毛頭ない様子で挑戦を続けた。",
+      "id": "ebbd95c8-7c70-4d9c-9702-c21f8b5881a8"
+    },
+    {
+      "word": "統合的",
+      "reading": "とうごうてき",
+      "meaningZh": "综合性的；一体化的",
+      "meaningEn": "integrated; systematic",
+      "level": "n2n1",
+      "exampleSentence": "このコースは、理論と実践を統合的に学びます。",
+      "id": "beed33ef-c91a-4833-8950-7f262ec5aab3"
+    },
+    {
+      "word": "見極める",
+      "reading": "みきわめる",
+      "meaningZh": "看清；辨别；判断",
+      "meaningEn": "to see clearly; to discern; to judge",
+      "level": "n3",
+      "exampleSentence": "状況をよく見極めてから行動を起こすべきだ。",
+      "id": "92510625-ae05-4f7d-8989-a5be1386b0b2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "近年の学童プログラムは、どのような変化を遂げていますか？",
+      "options": [
+        "単に子供を預かるだけでなく、多様な体験を通して成長を促す場へと変化している。",
+        "プログラミング教育だけを取り入れるようになっている。",
+        "専ら室内での遊び中心のプログラムになっている。",
+        "保護者の負担を増やすような内容が増えている。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文第一段に「近年、学童プログラムは単に放課後や休みの日に子供を安全に預かる場所というだけでなく、多様な体験を通して子供たちの成長を促す場へと変化しています」とあります。",
+      "id": "66a4f855-4507-4e08-8e8e-5140cfa2778f"
+    },
+    {
+      "question": "STEAM教育が目指すものは何ですか？",
+      "options": [
+        "子供たちが遊ぶ時間を最大限に増やすこと。",
+        "科学技術分野に特化した知識を深めること。",
+        "創造性や問題解決能力を育むこと。",
+        "芸術分野の才能を伸ばすことに重点を置くこと。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「これらの分野を統合的に学ぶことで、子供たちの創造性や問題解決能力を育むことを目指します」とあります。",
+      "id": "645b2d70-65bc-4f10-a4cc-d0fad8a0f05f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-17-86578b525b",
+  "publishedAt": "2026-09-17T06:00:00+09:00"
+}
