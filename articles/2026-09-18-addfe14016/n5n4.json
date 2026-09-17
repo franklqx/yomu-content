@@ -1,0 +1,122 @@
+{
+  "title": "東北の道、自転車で楽々",
+  "summary": "東北地方で自転車道が整備されています。旅行がもっと楽しくなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東北地方は美しい景色がたくさんあります。山や海がきれいです。最近、自転車で旅行する人が増えています。そこで、自転車の道を新しく作っています。",
+      "translationZh": "东北地方有很多美丽的景色。山和海都很漂亮。最近，骑自行车旅行的人增加了。因此，正在修建新的自行车道。",
+      "translationEn": "The Tohoku region has many beautiful sights. The mountains and the sea are beautiful. Recently, more and more people are traveling by bicycle. Therefore, new bicycle paths are being built.",
+      "id": "948c0608-8ece-4a77-9725-3f7877826457",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい道は、安全に自転車に乗れるように作られています。車が少なく、景色が良い場所を選んでいます。だから、ゆっくり景色を見ながら走ることができます。",
+      "translationZh": "这条新路是为了能安全地骑自行车而修建的。我们选择了车辆少、风景好的地方。所以，可以一边慢慢地看风景一边骑行。",
+      "translationEn": "These new paths are built to allow people to ride bicycles safely. They choose places with few cars and good scenery. Therefore, you can ride while slowly enjoying the view.",
+      "id": "1b85cb21-310b-44a6-b597-4c4b7d3b2ec1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "自転車道ができると、東北旅行がもっと楽しくなります。色々な町や村を訪ねることができます。きれいな自然を楽しみながら、健康にも良いです。",
+      "translationZh": "有了自行车道，东北旅行会变得更加有趣。可以访问各种城镇和村庄。在享受美丽自然的同时，对健康也很好。",
+      "translationEn": "With the bicycle paths, traveling in Tohoku will become more enjoyable. You can visit various towns and villages. While enjoying the beautiful nature, it is also good for your health.",
+      "id": "25c74849-7548-4a52-aacd-4cf9ced0ff6b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、もっと多くの人が自転車で東北を旅するでしょう。新しい道は、もっと多くの人を東北に呼ぶと思います。ぜひ、自転車で東北を旅してみてください。",
+      "translationZh": "今后，会有更多的人骑自行车去东北旅行。我认为新的道路会吸引更多人来到东北。请一定要尝试骑自行车去东北旅行。",
+      "translationEn": "From now on, more people will probably travel to Tohoku by bicycle. I think the new roads will attract more people to Tohoku. Please try traveling to Tohoku by bicycle.",
+      "id": "1dfa1f40-951c-45b0-9883-82b25f2804d9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "ここの景色はとてもきれいです。",
+      "id": "a1806a02-ca48-4298-8e2e-4ee8edc4137f"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "maintenance,整備",
+      "level": "n3",
+      "exampleSentence": "道路の整備が進んでいます。",
+      "id": "8abe582a-03e0-42d8-9247-e0ccc178ad60"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaningZh": "自行车",
+      "meaningEn": "bicycle",
+      "level": "n5n4",
+      "exampleSentence": "自転車で学校に行きます。",
+      "id": "565162fc-2ba1-4609-9f6c-44de5d863ed1"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel",
+      "level": "n5n4",
+      "exampleSentence": "夏休みに旅行をします。",
+      "id": "5e3a4f89-b91f-4f1e-879a-6ebfa50b3695"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "生徒が少し増えました。",
+      "id": "b5045582-fe64-4e51-b3fe-ce011d49e7a6"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety",
+      "level": "n5n4",
+      "exampleSentence": "安全に気をつけましょう。",
+      "id": "e6294958-9461-47ee-b263-c6cc1a2fb114"
+    },
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaningZh": "城镇，街道",
+      "meaningEn": "town, street",
+      "level": "n5n4",
+      "exampleSentence": "この町は静かです。",
+      "id": "ae62b386-66ff-49cf-ac1a-f14bd7e4ca97"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方で新しく作っているものは何ですか？",
+      "options": [
+        "新しいホテル",
+        "新しい空港",
+        "自転車の道",
+        "新しい駅"
+      ],
+      "correctIndex": 2,
+      "explanation": "「そこで、自転車の道を新しく作っています。」",
+      "id": "b1b83d4b-4b4b-4ec4-b14e-325318e5a4dc"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-18-addfe14016",
+  "publishedAt": "2026-09-18T06:00:00+09:00"
+}

@@ -1,0 +1,134 @@
+{
+  "title": "学生街で大人気！ボリューム満点の定食屋さん",
+  "summary": "学生が多く住む街で、学生さんたちに大人気の定食屋さんがあります。ここでは、安くてボリューム満点のご飯が食べられます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学の近くには、学生さんがよく利用するお店がたくさんあります。その中でも、特に人気なのが「ボリューム満点定食」という名前のお店です。このお店は、名前の通り、たくさんの量のご飯が食べられることで有名なんですよ。",
+      "translationZh": "大学附近有很多学生常去光顾的店。其中，尤其受欢迎的是一家叫做“分量十足定食”的店。这家店正如其名，以能吃到量大管饱的饭菜而闻名。",
+      "translationEn": "Near the university, there are many shops that students frequently use. Among them, a particularly popular one is called 'Voluminous Set Meal'. As the name suggests, this shop is famous for serving large portions of food.",
+      "id": "9dc52b22-3060-4c50-a1ad-380a2c0db4e9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋さんの魅力は、なんといってもその値段と量でしょう。お腹いっぱい食べたい学生さんたちにとって、一食にかけるお金は限られています。ですから、このお店では、リーズナブルな価格で、お腹いっぱいになれる定食を提供しているのです。",
+      "translationZh": "这家定食店最大的魅力，无论怎么说都是它的价格和分量。对于想吃饱的学生们来说，一餐的开销是有限的。因此，这家店以合理的价格提供能让人吃饱的定食。",
+      "translationEn": "The charm of this eatery, above all, must be its price and quantity. For students who want to eat until they are full, the money they can spend on one meal is limited. Therefore, this shop offers set meals at reasonable prices that allow customers to eat their fill.",
+      "id": "4d32ff9f-7634-4557-b57a-068ce8d57d0c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、唐揚げ定食を頼むと、ご飯は大盛り、唐揚げも山のように出てきます。これだけ食べても、値段は驚くほど安いんです。そのため、いつも多くのお客さんで賑わっています。私も、このお店でご飯を食べると、午後の授業も頑張ろうという気持ちになれます。",
+      "translationZh": "例如，点一份炸鸡块定食，米饭是大份的，炸鸡块也堆得像小山一样。即使吃这么多，价格也令人惊讶地便宜。因此，店里总是顾客盈门，热闹非凡。我每次在这家店吃完饭，都觉得下午的课程也能充满干劲地去上。",
+      "translationEn": "For example, if you order the fried chicken set meal, you get a large portion of rice and a mountain of fried chicken. Even with this much food, the price is surprisingly cheap. As a result, it is always bustling with many customers. Every time I eat here, I feel motivated to tackle my afternoon classes.",
+      "id": "553378c3-311c-449d-a33b-f0c21140224d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "人気店なので、お昼時には行列ができることもありますが、待つ価値は十分にあります。学生さんだけでなく、近くで働く人たちにも愛されているこのお店は、この街の元気の源と言えるでしょう。",
+      "translationZh": "因为是人气店，午餐时间有时会排队，但绝对值得等待。这家店不仅深受学生喜爱，也受到附近上班族们的喜爱，可以说是这个城市的活力之源。",
+      "translationEn": "Since it's a popular restaurant, there can be lines during lunchtime, but it's well worth the wait. Loved not only by students but also by people working nearby, this eatery can be called the source of vitality in this town.",
+      "id": "d56e60b6-f9d1-4c37-9258-166fac24bb83",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ボリューム満点",
+      "reading": "ぼりゅーむまんてん",
+      "meaningZh": "分量十足，分量很足",
+      "meaningEn": "large portion, filling",
+      "level": "n3",
+      "exampleSentence": "このレストランはボリューム満点の料理で有名です。",
+      "id": "5d59a005-8188-42de-839a-c663c5a2e3be"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐，固定套餐（通常包含主菜、米饭、汤、小菜等）",
+      "meaningEn": "set meal, fixed meal",
+      "level": "n3",
+      "exampleSentence": "今日のランチは焼き魚の定食にしました。",
+      "id": "a20202f1-847e-4442-94c6-180a3f18621d"
+    },
+    {
+      "word": "利用する",
+      "reading": "りようする",
+      "meaningZh": "利用，使用",
+      "meaningEn": "to use, to utilize",
+      "level": "n3",
+      "exampleSentence": "バスを利用して学校に行きます。",
+      "id": "44e6bc25-a69e-4df5-a8fa-63f5f8295013"
+    },
+    {
+      "word": "リーズナブル",
+      "reading": "りーずなぶる",
+      "meaningZh": "合理的，价钱公道的",
+      "meaningEn": "reasonable",
+      "level": "n3",
+      "exampleSentence": "この値段でこの品質はリーズナブルだと思います。",
+      "id": "cbf59503-5f9c-4809-84ea-fd9356b181aa"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "炸鸡块",
+      "meaningEn": "karaage (Japanese fried chicken)",
+      "level": "n3",
+      "exampleSentence": "夕食に唐揚げを作りました。",
+      "id": "e8fad4b4-64e4-4261-a47c-8c5a159dd452"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，熙熙攘攘",
+      "meaningEn": "to be crowded, to be bustling with activity",
+      "level": "n3",
+      "exampleSentence": "週末の商店街はいつも賑わっています。",
+      "id": "924c378d-4734-44e4-b4d1-557d7181328b"
+    },
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaningZh": "排队，行列",
+      "meaningEn": "a line (of people), a queue",
+      "level": "n3",
+      "exampleSentence": "人気のお店なので、いつも行列ができています。",
+      "id": "fff6a46c-9486-47a4-a923-1af8bb78f47c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋さんが学生さんに人気な一番の理由は何ですか？",
+      "options": [
+        "美味しいデザートがあるから",
+        "値段が安くて量が多いから",
+        "店員さんがとても親切だから",
+        "駅に近いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「この定食屋さんの魅力は、なんといってもその値段と量でしょう。」と書かれています。",
+      "id": "d15267cb-2215-4e57-9cac-841ef817ab5d"
+    },
+    {
+      "question": "「ボリューム満点定食」というお店の名前から、どのようなことが想像できますか？",
+      "options": [
+        "料理の見た目がとてもきれいなこと",
+        "一皿の量が多くて満足できること",
+        "珍しい食材を使っていること",
+        "値段がとても高いこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最初の段落に「このお店は、名前の通り、たくさんの量のご飯が食べられることで有名なんですよ。」とあります。",
+      "id": "19d4839e-50b5-449c-9e78-812e18419d12"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-18-08420fca06",
+  "publishedAt": "2026-09-18T06:00:00+09:00"
+}

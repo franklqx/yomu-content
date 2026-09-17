@@ -1,0 +1,122 @@
+{
+  "title": "学生街の人気定食屋",
+  "summary": "学生街には、安くておいしい大盛り定食屋があります。お腹いっぱい食べられます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学の近くに、たくさんの学生がいる人気のお店があります。このお店は定食（ていしょく）が有名です。定食は、ごはん、みそ汁、おかずがセットになっています。",
+      "translationZh": "大学附近有一家受很多学生欢迎的人气店。这家店以定食（套餐）闻名。定食是米饭、味噌汤和配菜的组合。",
+      "translationEn": "Near the university, there is a popular restaurant with many students. This restaurant is famous for its teishoku (set meals). A teishoku is a set of rice, miso soup, and side dishes.",
+      "id": "9a667da3-0ca6-493d-ba33-ff0c1a1e1f57",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ここの定食は、量がとても多いです。だから「大盛り（おおもり）」と言います。男の学生だけでなく、女の学生にも人気です。値段も安いですから、毎日のように来る学生もいます。",
+      "translationZh": "这里的定食份量非常多。所以叫做“大份”。不仅男学生，女学生也很喜欢。价格也很便宜，所以也有每天都来的学生。",
+      "translationEn": "The portions of the set meals here are very large. That's why they are called 'oomori' (large portions). They are popular not only with male students but also with female students. The prices are also cheap, so some students come almost every day.",
+      "id": "8d3c2435-59f1-4f40-bfc9-b16af7f33f2e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一番人気は「カツ丼」です。大きなとんかつが２つものっています。みそ汁もついています。学生たちは「おいしい！」と言って、いつも満足（まんぞく）して帰ります。私も一度食べましたが、本当にお腹がいっぱいになりました。",
+      "translationZh": "最受欢迎的是“猪排饭”。上面放着两个大猪排。还配有味噌汤。学生们都说“好吃！”，每次都满意地离开。我也吃过一次，真的吃得非常饱。",
+      "translationEn": "The most popular dish is 'Katsudon' (pork cutlet bowl). It comes with two large pork cutlets. It also includes miso soup. The students always say, 'It's delicious!' and leave satisfied. I tried it once too, and I was truly full.",
+      "id": "96c96f6d-8fe6-4202-9e4a-63cf7e39d6f2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店は、昼（ひる）も夜（よる）もたくさんの人が来ます。特に昼ごはんは、学生でいっぱいです。おいしい定食を安く食べたいなら、このお店はおすすめです。",
+      "translationZh": "这家店白天和晚上都有很多人来。特别是午饭时间，挤满了学生。如果想便宜又好吃地吃定食，这家店很推荐。",
+      "translationEn": "Many people come to this restaurant for lunch and dinner. Lunchtime, in particular, is packed with students. If you want to eat delicious set meals cheaply, this is a recommended restaurant.",
+      "id": "d5ecbe8c-7e40-470e-9d78-cd9228db2dac",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "今日の定食は魚でした。",
+      "id": "f39f07f4-31ad-469b-949e-d98f76110a2a"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "このパン屋はとても有名です。",
+      "id": "f395f831-e947-413b-a6e1-a82082e98a42"
+    },
+    {
+      "word": "大盛り",
+      "reading": "おおもり",
+      "meaningZh": "大份",
+      "meaningEn": "large portion",
+      "level": "n5n4",
+      "exampleSentence": "お腹が空いていたので、大盛りにしました。",
+      "id": "31ccffb7-fd4b-4d54-bef8-65b4461865bc"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "このカバンの値段はいくらですか。",
+      "id": "f9fb70c8-210a-4455-91d3-9495f8ff8dbc"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popular",
+      "level": "n5n4",
+      "exampleSentence": "あの歌手は学生に人気があります。",
+      "id": "9211ac7e-67d6-4aeb-9cc3-a4262821eb80"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaningZh": "满足",
+      "meaningEn": "satisfied",
+      "level": "n5n4",
+      "exampleSentence": "おいしい料理に満足しました。",
+      "id": "077defc2-feca-4ec6-a4b6-1a7c0c88eb53"
+    },
+    {
+      "word": "カツ丼",
+      "reading": "かつどん",
+      "meaningZh": "猪排饭",
+      "meaningEn": "pork cutlet bowl",
+      "level": "n5n4",
+      "exampleSentence": "カツ丼はボリュームがあって美味しいです。",
+      "id": "c42a9baa-56f6-4456-8213-67cee9016a2e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋で一番人気があるメニューは何ですか。",
+      "options": [
+        "みそ汁",
+        "カツ丼",
+        "ごはん",
+        "普通の定食"
+      ],
+      "correctIndex": 1,
+      "explanation": "一番人気は「カツ丼」です。",
+      "id": "2dcf6d16-aade-400f-8d49-430a0ed0d5ca"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-18-08420fca06",
+  "publishedAt": "2026-09-18T06:00:00+09:00"
+}

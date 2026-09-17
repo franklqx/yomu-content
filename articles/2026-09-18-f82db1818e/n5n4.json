@@ -1,0 +1,122 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガが好きな人へ。夢を叶えるため、新しい奨学金ができました。ぜひ知ってください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガを作る仕事は、とても人気があります。でも、勉強するためにはお金がかかります。そこで、クリエイターになりたい若い人たちのために、新しい奨学金制度ができました。この制度は、夢を持つ学生を応援します。",
+      "translationZh": "制作动画和漫画的工作非常受欢迎。但是，学习需要花费金钱。因此，为了想成为创作者的年轻人，新的奖学金制度被设立了。这个制度支持拥有梦想的学生。",
+      "translationEn": "The job of making anime and manga is very popular. However, studying requires money. So, a new scholarship system has been established for young people who want to become creators. This system supports students with dreams.",
+      "id": "1d872f89-4edf-45fb-b0a0-95e614c82f74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、特にアニメやマンガの分野で頑張りたい学生を対象にしています。学校の先生や、すでにプロとして活躍している人たちが、あなたの夢を審査します。合格すると、学費の全部または一部をサポートしてもらえます。",
+      "translationZh": "这个奖学金特别以希望在动画和漫画领域努力的学生为对象。学校的老师和已经是专业人士的人会审查你的梦想。合格后，你可以获得学费全部或一部分的资助。",
+      "translationEn": "This scholarship is especially aimed at students who want to work hard in the fields of anime and manga. School teachers and people already active as professionals will review your dreams. If you pass, you can receive support for all or part of your tuition fees.",
+      "id": "e57fb69a-7ed0-4797-b4af-86f12638ccd1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募するには、いくつか条件があります。例えば、高校を卒業したばかりの人や、専門学校で勉強している人です。また、あなたの描いた絵や、作った作品を見せる必要もあります。詳しいことは、ウェブサイトで確認してください。",
+      "translationZh": "要申请，有一些条件。例如，刚从高中毕业的人，或在专科学校学习的人。此外，还需要展示你画的画或制作的作品。详细情况请在网站上确认。",
+      "translationEn": "To apply, there are some conditions. For example, people who have just graduated from high school or people studying at vocational schools. You also need to show the pictures you drew or the works you created. For details, please check the website.",
+      "id": "39ceefe3-2668-4c2a-bbaf-c54f537d7681",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、あなたの夢を現実にするための大きなチャンスです。将来、素晴らしいアニメやマンガを世界に届けるクリエイターになりましょう。たくさんの応募を待っています。",
+      "translationZh": "这个奖学金是将你的梦想变为现实的绝佳机会。将来，成为将出色的动画和漫画传达给世界的创作者吧。我们期待你们的踊跃申请。",
+      "translationEn": "This scholarship is a great chance to make your dreams come true. In the future, let's become creators who deliver wonderful anime and manga to the world. We look forward to many applications.",
+      "id": "39f4901e-1789-493c-a6b6-15352102c600",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって学校に行きます。",
+      "id": "260bfc50-a3b1-4b25-812b-81d87db6dff2"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度が始まります。",
+      "id": "0b2519e5-8be6-43db-beb1-e2b50d83e2ab"
+    },
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なクリエイターです。",
+      "id": "e4a1cb74-1678-4b66-adbd-8117c40203b8"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaningZh": "领域",
+      "meaningEn": "field, area",
+      "level": "n3",
+      "exampleSentence": "アニメの分野で働きたいです。",
+      "id": "f27bc289-aa6e-4d06-b1af-77c7eb522a22"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaningZh": "对象",
+      "meaningEn": "target, object",
+      "level": "n3",
+      "exampleSentence": "このキャンペーンは学生が対象です。",
+      "id": "47f8c52a-3c8a-4c5a-b0bc-f2507146c605"
+    },
+    {
+      "word": "サポート",
+      "reading": "さぽーと",
+      "meaningZh": "支持，资助",
+      "meaningEn": "support",
+      "level": "n5n4",
+      "exampleSentence": "先生が私をサポートしてくれました。",
+      "id": "06c6893f-c827-47d6-a30b-4812977102e0"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningZh": "申请",
+      "meaningEn": "application",
+      "level": "n3",
+      "exampleSentence": "奨学金の応募は来週までです。",
+      "id": "fa644098-e41e-4c02-8c0d-65e5da0d892b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どんな人を応援しますか？",
+      "options": [
+        "アニメやマンガのクリエイターになりたい人",
+        "学校の先生になりたい人",
+        "プロの漫画家",
+        "アニメの会社で働く人"
+      ],
+      "correctIndex": 0,
+      "explanation": "「クリエイターになりたい若い人たちのために、新しい奨学金制度ができました。」と書いてあります。",
+      "id": "223d951d-6721-45e6-8bad-7871cad09497"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-18-f82db1818e",
+  "publishedAt": "2026-09-18T06:00:00+09:00"
+}
