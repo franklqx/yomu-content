@@ -1,0 +1,131 @@
+{
+  "title": "AI研究を応援！",
+  "summary": "学生のAI研究を助ける新しいプログラムが始まりました。このプログラムは、若い研究者たちをサポートします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "新しいAI研究助成金プログラムが発表されました。これは、学生がAIについてもっと勉強したり、研究したりするのを助けるためのものです。AIは、私たちの生活を便利にします。",
+      "translationZh": "新的AI研究助学金项目已经公布。这是为了帮助学生更多地学习和研究AI。AI会让我们的生活更便利。",
+      "translationEn": "A new AI research grant program has been announced. This is to help students study and research AI more. AI makes our lives convenient.",
+      "id": "bd0dd7e1-3058-45f7-a442-7308ede8acbf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このプログラムは、特に若い学生を対象としています。AIのアイデアがある学生は、この助成金を使うことができます。例えば、新しいアプリを作ったり、ロボットを動かしたりする研究です。",
+      "translationZh": "这个项目特别面向年轻学生。有AI想法的学生可以使用这个助学金。例如，研究开发新应用程序或驱动机器人。",
+      "translationEn": "This program specifically targets young students. Students with AI ideas can use this grant. For example, research to create new apps or move robots.",
+      "id": "0d50b2b7-a487-468a-b68f-736a39f60639",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "大学の先生や専門家が、応募した学生の研究を評価します。そして、選ばれた学生には、研究のためのお金が渡されます。これで、学生はもっと集中して研究を進めることができます。",
+      "translationZh": "大学的老师和专家会评估申请研究的学生。然后，被选中的学生会得到用于研究的资金。这样，学生就能更集中地推进研究了。",
+      "translationEn": "University professors and experts will evaluate the research of the students who applied. Then, the selected students will receive money for their research. This allows students to focus more on advancing their research.",
+      "id": "ed0a751e-cbc1-4d32-87bb-3c4f1b4b56f4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このプログラムは、AI分野の未来を担う若い才能を育てるために作られました。将来、素晴らしいAI技術がたくさん生まれることが期待されます。",
+      "translationZh": "这个项目是为了培养承担AI领域未来责任的年轻人才而设立的。人们期待将来能诞生许多出色的AI技术。",
+      "translationEn": "This program was created to nurture young talent who will lead the future of the AI field. It is expected that many excellent AI technologies will be born in the future.",
+      "id": "c66edcaf-1b2b-4a49-855d-02bd2fa6e561",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaningZh": "学生",
+      "meaningEn": "student",
+      "level": "n5n4",
+      "exampleSentence": "私は大学生です。",
+      "id": "5d395aa6-1990-4cff-977b-82217b2f8205"
+    },
+    {
+      "word": "研究",
+      "reading": "けんきゅう",
+      "meaningZh": "研究",
+      "meaningEn": "research",
+      "level": "n5n4",
+      "exampleSentence": "彼は新しい薬を研究しています。",
+      "id": "486e8259-ba1e-4f70-af76-e8646a1377ee"
+    },
+    {
+      "word": "助成金",
+      "reading": "じょせいきん",
+      "meaningZh": "助学金，补助金",
+      "meaningEn": "grant, subsidy",
+      "level": "n3",
+      "exampleSentence": "研究のために助成金をもらいました。",
+      "id": "4d2063e4-ae15-4086-b252-29d2f1fbc56c"
+    },
+    {
+      "word": "プログラム",
+      "reading": "ぷろぐらむ",
+      "meaningZh": "项目，计划",
+      "meaningEn": "program, plan",
+      "level": "n5n4",
+      "exampleSentence": "新しい教育プログラムが始まります。",
+      "id": "93039ccb-0448-421f-b4a6-f6761185d6fb"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaningZh": "对象",
+      "meaningEn": "target, object",
+      "level": "n3",
+      "exampleSentence": "このキャンペーンは若者を対象にしています。",
+      "id": "4035acb6-72ed-49e5-969e-fd93588cd7c1"
+    },
+    {
+      "word": "専門家",
+      "reading": "せんもんか",
+      "meaningZh": "专家",
+      "meaningEn": "expert, specialist",
+      "level": "n3",
+      "exampleSentence": "彼はこの分野の専門家です。",
+      "id": "0cc91c9a-34c3-4c1b-9477-7cab7afee244"
+    },
+    {
+      "word": "評価",
+      "reading": "ひょうか",
+      "meaningZh": "评价",
+      "meaningEn": "evaluation, assessment",
+      "level": "n3",
+      "exampleSentence": "先生が私のレポートを評価しました。",
+      "id": "490b6ec3-bf85-4e64-886a-359a8a5a2089"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaningZh": "领域，部门",
+      "meaningEn": "field, area, sector",
+      "level": "n3",
+      "exampleSentence": "AIはとても人気のある分野です。",
+      "id": "fcc80530-11a0-48f2-8235-90301ea65013"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このプログラムは、だれを助けるためのものですか？",
+      "options": [
+        "会社員",
+        "子供",
+        "学生",
+        "先生"
+      ],
+      "correctIndex": 2,
+      "explanation": "このプログラムは、学生がAIについてもっと勉強したり、研究したりするのを助けるためのものです。",
+      "id": "abd226d7-6de2-4774-a6fa-acf90882e89b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-19-ai",
+  "publishedAt": "2026-09-19T06:00:00+09:00"
+}

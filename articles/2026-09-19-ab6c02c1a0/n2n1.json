@@ -1,0 +1,138 @@
+{
+  "title": "山間の秘湯に息づく「湯治文化」の魅力",
+  "summary": "古くから伝わる湯治文化が今も色濃く残る山間の温泉地。その奥深い魅力を再発見する旅へ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都心から離れた山間部に位置するいくつかの温泉地では、現代においても古来より伝わる「湯治」の文化が根強く息づいている。湯治とは、単に温泉に浸かるだけでなく、長期滞在を通じて療養や保養を目的とする滞在様式のことである。泉質の特性を活かし、心身の健康回復を目指す人々が、今もなおこの地に足を運んでいるとのことだ。",
+      "translationZh": "在远离市中心的山区，一些温泉地至今仍保留着自古流传下来的“汤治”（温泉疗养）文化。汤治不仅仅是泡温泉，更是一种以长期逗留为目的，旨在疗养和休养的生活方式。据说，为了利用泉质的特性恢复身心健康的人们，至今仍络绎绎绎地来到这里。",
+      "translationEn": "In some mountainous hot spring areas located away from the city center, the ancient culture of 'Toji' (hot spring cure) continues to thrive. Toji is not merely about bathing in hot springs but a style of stay aimed at recovery and recuperation through extended periods. It is reported that people seeking to restore their physical and mental health by utilizing the properties of the spring waters continue to visit these places.",
+      "id": "e32228a2-165a-457d-bdfc-322fc7a2d810",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの湯治場に共通するのは、派手な観光施設ではなく、静かで落ち着いた環境が重視されている点である。素朴な宿が多く、共同の炊事場や広間が設けられている場合もある。このような空間は、湯治客同士が自然と交流を深め、情報交換をする場ともなっており、地域社会との繋がりを育む一助とも見られている。",
+      "translationZh": "这些汤治场的共同点在于，它们不追求华丽的观光设施，而是重视宁静、安逸的环境。这里多为朴素的旅馆，有时还设有公共厨房和休息室。这样的空间也成为了汤治客们自然而然地加深交流、交换信息的地方，并被视为有助于培养与当地社区联系的桥梁。",
+      "translationEn": "What these Toji resorts have in common is an emphasis on a quiet and calm environment rather than flashy tourist facilities. Many are simple inns, and some may have communal kitchens and lounges. Such spaces also serve as places where Toji guests naturally deepen their interactions and exchange information, and are seen as aiding in fostering connections with the local community.",
+      "id": "d03b23f0-3317-4efb-a4ae-c1f1aa66c8ee",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "近年、健康志向の高まりや、スローライフへの関心の増加に伴い、かつては高齢者を中心に利用されていた湯治場が、若い世代からも注目を集め始めている。都会の喧騒から離れ、自然の中で心身をリセットしたいというニーズは、時代を超えて湯治文化が持つ普遍的な魅力を証明していると言えよう。",
+      "translationZh": "近年来，随着健康意识的提高和对慢生活兴趣的增加，曾经主要由老年人使用的汤治场，也开始受到年轻一代的关注。远离都市的喧嚣，在自然中重置身心的需求，可以说是证明了汤治文化所具有的跨越时代的普遍魅力。",
+      "translationEn": "In recent years, with the growing health consciousness and increased interest in slow living, hot spring resorts that were once primarily used by the elderly are beginning to attract attention from younger generations as well. The need to escape the hustle and bustle of the city and reset mind and body in nature serves to prove the timeless and universal appeal of Toji culture.",
+      "id": "810a8d8c-d00f-4b59-a6cc-d6ec2784fb3c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "温泉疗养",
+      "meaningEn": "hot spring cure; staying at a hot spring for therapeutic purposes",
+      "level": "n2n1",
+      "exampleSentence": "彼は健康のために、定期的に湯治に出かけている。",
+      "id": "8f317c8c-3c59-4a68-91e8-1e78292c0a7d"
+    },
+    {
+      "word": "息づく",
+      "reading": "いきづく",
+      "meaningZh": "呼吸；（思想、文化等）流传，存在",
+      "meaningEn": "to breathe; to be alive; to exist (for culture, ideas, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "この古い町には、昔ながらの職人気質が息づいている。",
+      "id": "82df6e27-ae91-4b7a-97d1-e65522b1af57"
+    },
+    {
+      "word": "療養",
+      "reading": "りょうよう",
+      "meaningZh": "疗养",
+      "meaningEn": "medical treatment; recuperation",
+      "level": "n2n1",
+      "exampleSentence": "病気の回復のため、静かな環境で療養する必要がある。",
+      "id": "962b7d3e-edf2-48a0-a3dc-556927d1be0c"
+    },
+    {
+      "word": "保養",
+      "reading": "ほよう",
+      "meaningZh": "休养，保养",
+      "meaningEn": "recreation; recuperation; health resort",
+      "level": "n2n1",
+      "exampleSentence": "温泉地での保養は、心身のリフレッシュに繋がる。",
+      "id": "9c93e239-04f3-41ef-a9f3-e072458848c1"
+    },
+    {
+      "word": "〜とのこと",
+      "reading": "〜とのこと",
+      "meaningZh": "据说，听说是",
+      "meaningEn": "it is said that; I heard that",
+      "level": "n3",
+      "exampleSentence": "明日は雨が降るとのことです。",
+      "id": "4285f01f-6745-4e37-a346-06e310da8787"
+    },
+    {
+      "word": "〜と見られる",
+      "reading": "〜とみられる",
+      "meaningZh": "被认为，被看作",
+      "meaningEn": "it is considered that; it is regarded as",
+      "level": "n2n1",
+      "exampleSentence": "この現象は、地球温暖化の影響と見られている。",
+      "id": "169c88ff-5aed-457d-91e8-eb0ba60f5cc2"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧嚣，热闹",
+      "meaningEn": "noise and bustle; clamor",
+      "level": "n2n1",
+      "exampleSentence": "都会の喧騒から離れて、静かな生活を送りたい。",
+      "id": "d40ab00b-c9d6-4178-b979-0022deef6063"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「湯治」とは、どのような滞在様式を指すか。",
+      "options": [
+        "温泉地での観光を楽しむための滞在",
+        "温泉に浸かりながら療養や保養を目的とする長期滞在",
+        "日帰りで温泉の泉質を試すための滞在",
+        "温泉宿の食事やサービスを堪能するための滞在"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「湯治とは、単に温泉に浸かるだけでなく、長期滞在を通じて療養や保養を目的とする滞在様式のことである。」と説明されている。",
+      "id": "1813b1a1-7ccd-4d7f-9745-5368a608b7c7"
+    },
+    {
+      "question": "湯治場に共通する環境の特徴は何か。",
+      "options": [
+        "最新のエンターテイメント施設が充実している",
+        "温泉以外のレジャー施設が豊富にある",
+        "派手さよりも、静かで落ち着いた環境が重視されている",
+        "都会的なデザインの宿が多い"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中「これらの湯治場に共通するのは、派手な観光施設ではなく、静かで落ち着いた環境が重視されている点である。」と述べられている。",
+      "id": "6a1a9f23-1ab7-479a-bf63-87d5a77ad99c"
+    },
+    {
+      "question": "近年、湯治場が若い世代からも注目されている理由として、本文で述べられていることはどれか。",
+      "options": [
+        "SNS映えする写真が撮れるから",
+        "温泉宿でのエンターテイメントが充実したから",
+        "健康志向の高まりや、スローライフへの関心の増加により、心身をリセットしたいというニーズがあるから",
+        "交通の便が格段に良くなったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中「近年、健康志向の高まりや、スローライフへの関心の増加に伴い、かつては高齢者を中心に利用されていた湯治場が、若い世代からも注目を集め始めている。都会の喧騒から離れ、自然の中で心身をリセットしたいというニーズは、時代を超えて湯治文化が持つ普遍的な魅力を証明していると言えよう。」と記述されている。",
+      "id": "9a1fe48d-1215-4307-bd25-f3731969e908"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-19-ab6c02c1a0",
+  "publishedAt": "2026-09-19T06:00:00+09:00"
+}

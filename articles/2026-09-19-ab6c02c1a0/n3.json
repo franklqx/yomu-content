@@ -1,0 +1,126 @@
+{
+  "title": "山間の温泉地で湯治文化を体験しよう",
+  "summary": "昔ながらの湯治文化が残る山間の温泉地へ。心と体を癒す旅に出かけませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、昔から「湯治（とうじ）」という習慣が残る温泉地がたくさんあります。湯治とは、温泉に長期滞在して、その効能で病気や怪我を治したり、健康を維持したりすることです。特に山間部には、自然に囲まれた静かな温泉地が多く、都会の喧騒を離れてリラックスするのに最適です。",
+      "translationZh": "在日本，至今仍保留着自古以来“汤治”习惯的温泉地有很多。汤治是指长期滞在温泉，通过其功效治疗疾病或外伤，或是维持健康。特别是在山区，有很多被大自然环绕的宁静温泉地，是远离城市喧嚣、放松身心的最佳选择。",
+      "translationEn": "In Japan, there are many hot spring resorts that still retain the ancient custom of 'Toji'. Toji refers to staying in a hot spring for a long period to treat illnesses or injuries with its therapeutic effects, or to maintain health. Especially in mountainous areas, there are many quiet hot spring resorts surrounded by nature, which are ideal for escaping the hustle and bustle of the city and relaxing.",
+      "id": "f999d11d-95b9-47de-a6f3-1a3780e869b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "山間の温泉地では、昔ながらの湯治場らしい雰囲気を味わうことができます。大きなホテルではなく、こぢんまりとした旅館が多いのが特徴です。ここでは、源泉かけ流しの温泉にゆっくり浸かりながら、地元の食材を使った素朴な料理を楽しむことができます。また、温泉の効能を最大限に引き出すために、食事や生活リズムにも気を配ることが大切だとされています。",
+      "translationZh": "在山间的温泉地，您可以体验到保留着昔日风貌的汤治场氛围。其特点是，与大型酒店相比，小巧精致的旅馆居多。在这里，您可以一边悠闲地浸泡在自源头涌出的温泉中，一边品尝使用当地食材制作的朴实料理。此外，为了最大限度地发挥温泉的功效，注意饮食和生活节奏也被认为是重要的。",
+      "translationEn": "In the mountain hot spring resorts, you can experience an atmosphere reminiscent of old toji inns. They are characterized by many cozy, small inns rather than large hotels. Here, you can slowly soak in hot springs with natural flow from the source while enjoying simple meals made with local ingredients. Furthermore, it is considered important to pay attention to diet and daily rhythms to maximize the therapeutic effects of the hot springs.",
+      "id": "75e8a6b3-da60-41f4-813f-6d4bbc53225d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近では、健康志向の高まりから、若い世代の間でも湯治に注目が集まっています。しかし、伝統的な湯治のスタイルを守っている場所もあれば、現代的な快適さを取り入れた新しいスタイルの温泉施設も登場しています。どちらのスタイルを選ぶにしても、日頃の疲れを癒し、心身をリフレッシュするには、山間の温泉地での滞在は素晴らしい経験になるでしょう。",
+      "translationZh": "最近，随着健康意识的提高，汤治也开始受到年轻一代的关注。但是，有些地方保留着传统的汤治风格，而也出现了一些融入现代舒适性、新式风格的温泉设施。无论选择哪种风格，在山间的温泉地度过一段时光，都将是治愈日常疲惫、焕发身心活力的绝佳体验。",
+      "translationEn": "Recently, with the rise in health consciousness, toji is also gaining attention among the younger generation. However, while some places maintain the traditional toji style, new types of hot spring facilities incorporating modern comforts have also emerged. Whichever style you choose, staying in a mountain hot spring resort will be a wonderful experience to heal your daily fatigue and refresh your mind and body.",
+      "id": "5910fd75-337b-4075-8588-2f58fb610e7e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "疗养（指长期滞留温泉，以治病或养生）",
+      "meaningEn": "hot spring cure; staying at a hot spring resort for therapeutic purposes",
+      "level": "n3",
+      "exampleSentence": "彼は健康のために、毎月温泉地で湯治をしている。",
+      "id": "adecd686-8401-48c2-93c0-54e81e0de8d1"
+    },
+    {
+      "word": "山間",
+      "reading": "さんかん",
+      "meaningZh": "山间；山区",
+      "meaningEn": "mountains; mountainous region",
+      "level": "n3",
+      "exampleSentence": "この辺りは山間が多く、空気がおいしい。",
+      "id": "8c54f19c-202d-47ee-afa9-6cd9f69f3d98"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧嚣；嘈杂",
+      "meaningEn": "noise; clamor; din",
+      "level": "n3",
+      "exampleSentence": "都会の喧騒から離れて、静かな場所で暮らしたい。",
+      "id": "a3822d02-1004-4075-bd99-cd6eee52e998"
+    },
+    {
+      "word": "こぢんまり",
+      "reading": "こぢんまり",
+      "meaningZh": "（地方）小巧而舒适",
+      "meaningEn": "cozy; snug; compact",
+      "level": "n3",
+      "exampleSentence": "部屋は小さいけれど、こぢんまりとしていて落ち着く。",
+      "id": "e93ad0bb-2f24-42de-b568-f315ab23e164"
+    },
+    {
+      "word": "源泉かけ流し",
+      "reading": "げんせんかけながし",
+      "meaningZh": "（温泉）自然涌出，不经过循环利用",
+      "meaningEn": "natural hot spring flow (water is not recirculated or treated)",
+      "level": "n3",
+      "exampleSentence": "この旅館は源泉かけ流しの温泉で有名だ。",
+      "id": "7e8cb63b-4d9e-4eae-89bf-f8a0e5d5e271"
+    },
+    {
+      "word": "効能",
+      "reading": "こうのう",
+      "meaningZh": "功效；效能",
+      "meaningEn": "effect; efficacy; virtue",
+      "level": "n3",
+      "exampleSentence": "この薬には、炎症を抑える効能がある。",
+      "id": "422c4da7-1ee9-40fb-951c-3bdfbb0ae1b1"
+    },
+    {
+      "word": "健康志向",
+      "reading": "けんこうしこう",
+      "meaningZh": "注重健康；健康导向",
+      "meaningEn": "health-conscious",
+      "level": "n3",
+      "exampleSentence": "最近は健康志向の人が増えて、ヨガやフィットネスが人気だ。",
+      "id": "2e8d2dbe-3550-4aec-befe-a382390ea87f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「湯治」とは、どのような目的で行われるものですか？",
+      "options": [
+        "温泉地で美味しいものを食べること",
+        "温泉に長期滞在して、健康の回復や維持をすること",
+        "温泉地の自然を写真に撮ること",
+        "都会の喧騒を忘れて、ただリラックスすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「湯治とは、温泉に長期滞在して、その効能で病気や怪我を治したり、健康を維持したりすることです。」と書かれています。",
+      "id": "75d8c840-e72d-4fa5-93ce-245bb47fe88c"
+    },
+    {
+      "question": "山間の温泉地の旅館の特徴として、本文では何が挙げられていますか？",
+      "options": [
+        "最新の設備が整っていること",
+        "源泉かけ流しの温泉がないこと",
+        "こぢんまりとした旅館が多いこと",
+        "食事は軽食のみであること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「大きなホテルではなく、こぢんまりとした旅館が多いのが特徴です。」と書かれています。",
+      "id": "ddad662a-c2eb-477e-8d48-51f319347504"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-19-ab6c02c1a0",
+  "publishedAt": "2026-09-19T06:00:00+09:00"
+}

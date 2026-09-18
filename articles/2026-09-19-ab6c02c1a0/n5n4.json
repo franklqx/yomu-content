@@ -1,0 +1,123 @@
+{
+  "title": "山の温泉で湯治体験",
+  "summary": "山にある温泉地は、昔から「湯治」で有名です。ここでは、ゆっくり休んで元気になれます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "山の中には、静かな温泉地がたくさんあります。これらの温泉地は「湯治（とうじ）」で知られています。湯治とは、温泉に長く入って、病気や体の疲れを治すことです。",
+      "translationZh": "山区里有很多宁静的温泉乡。这些温泉乡以“汤治”而闻名。汤治是指，长期泡温泉，治疗疾病或身体疲劳。",
+      "translationEn": "There are many quiet hot spring towns in the mountains. These hot spring towns are known for \"Toji\". Toji means to soak in hot springs for a long time to cure illnesses or physical fatigue.",
+      "id": "8bece5b8-2bd1-4853-b5c9-72cf60f4dbef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔から、たくさんの人が湯治のために温泉地を訪れました。特に、体の具合が悪い人や、病気から回復したい人が来ました。数週間、温泉に浸かって、体を休めました。",
+      "translationZh": "自古以来，有很多人为了汤治而访问温泉乡。特别是身体不适的人，以及希望从疾病中康复的人会来。他们泡温泉几周，让身体得到休息。",
+      "translationEn": "For a long time, many people visited hot spring towns for Toji. Especially, people who were not feeling well or wanted to recover from illness came. They soaked in the hot springs for several weeks to rest their bodies.",
+      "id": "c0a44599-4f3c-40b9-bb80-a261be6c5e72",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今でも、昔ながらの湯治ができる温泉地があります。田舎の風景を見ながら、おいしい食事を楽しみます。温泉に入って、心と体をリラックスさせます。とてもいい経験になりますよ。",
+      "translationZh": "至今，仍有一些温泉乡可以体验传统的汤治。一边欣赏乡村风景，一边享用美味的餐食。泡温泉，让身心得到放松。这将是一次非常好的体验。",
+      "translationEn": "Even now, there are hot spring towns where you can experience traditional Toji. You can enjoy delicious meals while looking at the countryside scenery. You soak in the hot springs and relax your mind and body. It will be a very good experience.",
+      "id": "340a8fd7-a622-49b5-8d94-bc344c059b5d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "温泉地",
+      "reading": "おんせんち",
+      "meaningZh": "温泉乡，温泉疗养地",
+      "meaningEn": "Hot spring resort area",
+      "level": "n5n4",
+      "exampleSentence": "この温泉地は有名です。",
+      "id": "f7e1c29e-8402-4018-bd1d-a83068592569"
+    },
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "（用温泉）疗养",
+      "meaningEn": "Hot spring cure, bathing in hot springs for therapeutic purposes",
+      "level": "n5n4",
+      "exampleSentence": "温泉で湯治をしました。",
+      "id": "6cec9fb2-2a3b-4781-a364-fdbae7946aae"
+    },
+    {
+      "word": "昔から",
+      "reading": "むかしから",
+      "meaningZh": "自古以来",
+      "meaningEn": "Since ancient times",
+      "level": "n5n4",
+      "exampleSentence": "この町は昔からあります。",
+      "id": "6bbac6d8-f1ba-42d5-ae67-00f75e8787de"
+    },
+    {
+      "word": "具合",
+      "reading": "ぐあい",
+      "meaningZh": "情况，健康状况",
+      "meaningEn": "Condition, state of health",
+      "level": "n5n4",
+      "exampleSentence": "体の具合が悪いです。",
+      "id": "35e8329b-764c-4c18-9026-78be8ac66648"
+    },
+    {
+      "word": "回復",
+      "reading": "かいふく",
+      "meaningZh": "恢复",
+      "meaningEn": "Recovery",
+      "level": "n5n4",
+      "exampleSentence": "病気から回復しました。",
+      "id": "1ccdcc9c-9232-4fff-9229-17a07e228980"
+    },
+    {
+      "word": "浸かる",
+      "reading": "つかる",
+      "meaningZh": "浸，泡",
+      "meaningEn": "To soak",
+      "level": "n5n4",
+      "exampleSentence": "お風呂にゆっくり浸かりました。",
+      "id": "361583f6-9c00-48fd-b64b-c31b405ca73a"
+    },
+    {
+      "word": "田舎",
+      "reading": "いなか",
+      "meaningZh": "乡村",
+      "meaningEn": "Countryside",
+      "level": "n5n4",
+      "exampleSentence": "田舎で育ちました。",
+      "id": "6d5be1ea-f8cb-4927-8ce8-6af5782eb1a5"
+    },
+    {
+      "word": "リラックス",
+      "reading": "りらっくす",
+      "meaningZh": "放松",
+      "meaningEn": "Relax",
+      "level": "n5n4",
+      "exampleSentence": "温泉でリラックスしました。",
+      "id": "926072c3-9ad1-4536-8b6a-44cbe30b7e62"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「湯治」とは、どのようなことを意味しますか？",
+      "options": [
+        "温泉地で美味しいものを食べること",
+        "温泉に長く入って体を治すこと",
+        "温泉地で友達と遊ぶこと",
+        "温泉地で景色を見ること"
+      ],
+      "correctIndex": 1,
+      "explanation": "「湯治とは、温泉に長く入って、病気や体の疲れを治すことです。」",
+      "id": "1efde70d-d9c0-4f72-924b-840160f4c4a6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-19-ab6c02c1a0",
+  "publishedAt": "2026-09-19T06:00:00+09:00"
+}

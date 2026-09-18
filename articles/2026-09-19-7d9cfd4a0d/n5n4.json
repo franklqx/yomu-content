@@ -1,0 +1,131 @@
+{
+  "title": "盆踊りの新しい音楽",
+  "summary": "今年の盆踊りは、新しい音楽でとても楽しいです。昔ながらの音楽もいいですが、新しい音楽も人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏になると、日本で盆踊りがあります。盆踊りは、亡くなった人の魂をまつるお祭りです。みんなで輪になって踊ります。",
+      "translationZh": "一到夏天，日本就有盂兰盆舞。盂兰盆舞是祭奠亡灵的节日。大家会围成圈跳舞。",
+      "translationEn": "When summer comes, there are Bon Odori festivals in Japan. Bon Odori is a festival to honor the souls of the departed. Everyone dances in a circle.",
+      "id": "a4b02c9b-ef47-4f97-aef1-cb6316b969f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、伝統的な音楽で盆踊りをすることが多かったです。太鼓や笛の音が聞こえました。その音楽は、とても静かで、心が落ち着きました。",
+      "translationZh": "以前，经常用传统的音乐跳盂兰盆舞。能听到太鼓和笛子的声音。那种音乐很安静，能让人心情平静。",
+      "translationEn": "In the past, Bon Odori was often performed with traditional music. The sounds of drums and flutes could be heard. That music was very quiet and calming.",
+      "id": "c997aea5-d7c0-4b25-9ae8-e1cb9871a973",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近の盆踊りは、新しい音楽も使います。アニメの歌や、ポップスの歌も人気です。若い人たちも、もっと楽しく参加できます。",
+      "translationZh": "但是，最近的盂兰盆舞也使用新的音乐。动画歌曲和流行歌曲也很受欢迎。年轻人也能更开心地参加。",
+      "translationEn": "However, recent Bon Odori also use new music. Anime songs and pop songs are also popular. Young people can also participate more enjoyably.",
+      "id": "2d4dd07c-c321-4745-bf82-aac2ff349a1a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい音楽と、昔ながらの踊りが一緒になると、面白いです。子供から大人まで、みんなが笑顔で踊っていました。",
+      "translationZh": "当新音乐和传统舞蹈结合在一起时，很有趣。从小孩到大人，所有人都笑着跳舞。",
+      "translationEn": "It's interesting when new music and traditional dances are combined. Everyone, from children to adults, was dancing with smiles.",
+      "id": "3821df98-3a92-43bf-b510-aafbd27584bd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夏",
+      "reading": "なつ",
+      "meaningZh": "夏天",
+      "meaningEn": "summer",
+      "level": "n5n4",
+      "exampleSentence": "夏は暑いです。",
+      "id": "6c5ba469-fc0d-4e4b-b01b-19383053b6ba"
+    },
+    {
+      "word": "盆踊り",
+      "reading": "ぼんおどり",
+      "meaningZh": "盂兰盆舞",
+      "meaningEn": "Bon Odori festival dance",
+      "level": "n5n4",
+      "exampleSentence": "盆踊りは楽しいです。",
+      "id": "b8913929-c0d6-4291-bd40-34808234b701"
+    },
+    {
+      "word": "魂",
+      "reading": "たましい",
+      "meaningZh": "灵魂",
+      "meaningEn": "soul, spirit",
+      "level": "n3",
+      "exampleSentence": "亡くなった人の魂をまつります。",
+      "id": "58689a4e-e41b-4bb0-96c6-53a80dd45941"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n3",
+      "exampleSentence": "これは伝統的な服です。",
+      "id": "6a105580-9045-4429-ba83-7b61345e7de3"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaningZh": "音乐",
+      "meaningEn": "music",
+      "level": "n5n4",
+      "exampleSentence": "音楽を聞くのが好きです。",
+      "id": "ba7911ba-0e87-4256-a002-93a4b00fe208"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静的",
+      "meaningEn": "quiet, calm",
+      "level": "n5n4",
+      "exampleSentence": "図書館は静かです。",
+      "id": "762e38d3-d007-453b-b902-2093ba8e33e4"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌は人気があります。",
+      "id": "a58219a1-c781-45d6-a6ab-6c145403a62a"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "イベントに参加しました。",
+      "id": "507f67d0-8d51-4296-91ef-73266ab23671"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の盆踊りで人気があるのはどれですか？",
+      "options": [
+        "伝統的な音楽だけ",
+        "アニメの歌やポップスの歌",
+        "太鼓と笛の音だけ",
+        "静かな音楽"
+      ],
+      "correctIndex": 1,
+      "explanation": "最近の盆踊りは、新しい音楽も使います。アニメの歌や、ポップスの歌も人気です。",
+      "id": "7dd68def-56ed-489b-a63a-5a46f1711da8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-19-7d9cfd4a0d",
+  "publishedAt": "2026-09-19T06:00:00+09:00"
+}

@@ -1,0 +1,134 @@
+{
+  "title": "未来を担う学生へ！AI研究助成金プログラム登場",
+  "summary": "AI分野で活躍したい学生を応援する新しい助成金プログラムが始まりました。あなたのアイデアを実現するチャンスです！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、AI（人工知能）の技術は急速に進歩しており、私たちの生活や社会に大きな変化をもたらしています。そのため、将来AI分野で活躍したいと考える学生にとって、今が絶好の機会と言えるでしょう。そんな学生たちを支援するために、この度、新しいAI研究助成金プログラムが設立されました。",
+      "translationZh": "近年来，AI（人工智能）技术正在飞速发展，为我们的生活和社会带来了巨大变革。因此，对于希望未来在AI领域有所作为的学生来说，现在正是绝佳的机会。为了支持这样的学生，本次设立了一个新的AI研究资助项目。",
+      "translationEn": "In recent years, AI (Artificial Intelligence) technology has been advancing rapidly, bringing significant changes to our lives and society. Therefore, for students who wish to be active in the AI field in the future, this is an excellent opportunity. To support such students, a new AI research grant program has been established.",
+      "id": "c8d0bda2-100b-4e8c-832f-08611d6b57b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このプログラムは、特に学生の斬新なアイデアや、社会課題の解決に繋がるようなAI研究を奨励することを目的としています。研究テーマは自由ですが、倫理的な配慮や、実社会への応用可能性が重視されます。応募資格は、大学や大学院に在籍している学生で、個人またはグループでの応募が可能です。助成金は、研究に必要な機材の購入や、学会での発表費用などに充てることができます。",
+      "translationZh": "该项目尤其旨在鼓励学生的创新想法以及那些能够解决社会问题的AI研究。研究主题是自由的，但会重视伦理考量以及在实际社会中的应用可能性。申请资格是在大学或研究生院就读的学生，可以以个人或团队的形式申请。资助金可用于购买研究所需的设备或支付在学术会议上发表的费用等。",
+      "translationEn": "This program particularly aims to encourage students' innovative ideas and AI research that can lead to the resolution of social issues. Research themes are open, but ethical considerations and the potential for application in the real world are emphasized. Eligibility is for students enrolled in universities or graduate schools, and applications can be made individually or in groups. The grant can be used for purchasing necessary equipment for research and for presentation costs at academic conferences.",
+      "id": "c02a615f-bd2d-4384-a012-64b390c1e482",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募するためには、まず研究計画書を作成し、プログラムのウェブサイトから提出する必要があります。計画書には、研究の目的、方法、期待される成果、そして予算計画などを具体的に記述しなければなりません。審査は、AI分野の専門家チームが行い、独創性や実現可能性、社会への貢献度などを総合的に評価します。選考を通過すれば、研究活動を本格的に開始することができます。",
+      "translationZh": "要申请，首先需要创建一个研究计划书，并通过项目网站提交。计划书必须具体描述研究目的、方法、预期成果以及预算计划等。评审将由AI领域的专家团队进行，综合评估其独创性、可行性以及对社会的贡献度等。一旦通过选拔，就可以正式开始研究活动。",
+      "translationEn": "To apply, you must first create a research proposal and submit it through the program's website. The proposal must specifically describe the research objectives, methods, expected outcomes, and budget plan. The selection will be conducted by a team of experts in the AI field, comprehensively evaluating originality, feasibility, and contribution to society. If selected, you can then begin your research activities in earnest.",
+      "id": "53e957bf-bc18-4d4d-8525-f736250a54d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この助成金プログラムは、若い才能がAI分野で大きく成長するための貴重な一歩となるでしょう。もしあなたがAIに情熱を持ち、何か新しいことを成し遂げたいと考えているなら、ぜひこの機会を活かしてください。未来のAIを担うのは、まさにあなたたち学生なのです。",
+      "translationZh": "这项资助项目将成为有才华的年轻人AI领域大发展的宝贵一步。如果你对AI充满热情，并希望成就一些新的事物，请一定抓住这个机会。担负未来AI重任的，正是你们这些学生。",
+      "translationEn": "This grant program will be a valuable step for young talents to grow significantly in the AI field. If you have a passion for AI and want to achieve something new, please take advantage of this opportunity. It is you students who will carry the future of AI.",
+      "id": "63035bf6-fd3b-4977-9adf-258094d46b63",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "助成金",
+      "reading": "じょせいきん",
+      "meaningZh": "资助金，补助金",
+      "meaningEn": "grant, subsidy",
+      "level": "n3",
+      "exampleSentence": "この研究には国から助成金が出ている。",
+      "id": "229ff2b0-2041-4634-94bd-53ab32e4b3f2"
+    },
+    {
+      "word": "斬新",
+      "reading": "ざんしん",
+      "meaningZh": "新颖，新奇",
+      "meaningEn": "novel, original",
+      "level": "n3",
+      "exampleSentence": "斬新なアイデアを出すために、色々な人と話した。",
+      "id": "927f61c4-2fab-4d5b-bf3e-12e428d5ddbb"
+    },
+    {
+      "word": "奨励",
+      "reading": "しょうれい",
+      "meaningZh": "鼓励，奖励",
+      "meaningEn": "encouragement, promotion",
+      "level": "n3",
+      "exampleSentence": "先生は学生たちの自主性を奨励した。",
+      "id": "3146954f-56ba-475c-9acd-95bbcc92c376"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "考虑，关怀",
+      "meaningEn": "consideration, concern",
+      "level": "n3",
+      "exampleSentence": "相手の気持ちに配慮した発言が大切だ。",
+      "id": "6656b9d6-1e55-44da-8dad-ac2ae4095c61"
+    },
+    {
+      "word": "在籍",
+      "reading": "ざいせき",
+      "meaningZh": "在校，在籍",
+      "meaningEn": "enrollment, be registered",
+      "level": "n3",
+      "exampleSentence": "彼は現在、大学に在籍しています。",
+      "id": "74f41e48-dee3-44df-b32c-8cdedcc16a58"
+    },
+    {
+      "word": "充てる",
+      "reading": "あてる",
+      "meaningZh": "拨付，用于",
+      "meaningEn": "allocate, assign",
+      "level": "n3",
+      "exampleSentence": "予算の中から研究費を充てる。",
+      "id": "727b09df-0fac-4d30-a219-0d4cc005ae91"
+    },
+    {
+      "word": "独創性",
+      "reading": "どくそうせい",
+      "meaningZh": "独创性",
+      "meaningEn": "originality",
+      "level": "n3",
+      "exampleSentence": "彼の絵には強い独創性がある。",
+      "id": "091c66e7-0c5e-4385-b690-f8170556a2ac"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このAI研究助成金プログラムの主な目的は何ですか？",
+      "options": [
+        "AI技術の最新動向をまとめること",
+        "学生の斬新なAI研究アイデアを奨励し支援すること",
+        "AI分野の企業との連携を強化すること",
+        "AIに関する国際会議の開催費用を賄うこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "プログラムは、「特に学生の斬新なアイデアや、社会課題の解決に繋がるようなAI研究を奨励することを目的としています。」",
+      "id": "600728a9-5d06-4d8d-9384-3665b9f01b47"
+    },
+    {
+      "question": "プログラムに応募するために必要なものは何ですか？",
+      "options": [
+        "AI分野での受賞歴",
+        "指導教員からの推薦状",
+        "具体的な研究計画書",
+        "過去の研究成果を示す論文"
+      ],
+      "correctIndex": 2,
+      "explanation": "「応募するためには、まず研究計画書を作成し、プログラムのウェブサイトから提出する必要があります。」",
+      "id": "ae47c865-c532-411d-9271-2165016c32a4"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-19-ai",
+  "publishedAt": "2026-09-19T06:00:00+09:00"
+}
