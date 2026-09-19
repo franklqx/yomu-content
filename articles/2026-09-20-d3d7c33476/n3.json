@@ -1,0 +1,126 @@
+{
+  "title": "配信プラットフォームでオリジナルアニメが人気！",
+  "summary": "最近、動画配信サービスが独自のオリジナルアニメを次々と制作しています。これにより、アニメの視聴方法や制作のあり方が大きく変わってきています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの動画配信プラットフォームが、自分たちのサービスでしか見られない「オリジナルアニメ」を制作しています。これらのプラットフォームは、世界中の視聴者にアニメを届けることができるため、新しいヒット作が生まれるチャンスが増えているのです。昔はテレビ局が中心でしたが、今ではネット配信がアニメの主流になりつつあります。",
+      "translationZh": "最近，许多视频配信平台都在制作只能在自家服务上观看的“原创动画”。由于这些平台能够将动画传递给世界各地的观众，因此产生新热门作品的机会正在增加。过去动画制作以电视台为中心，但现在网络配信正逐渐成为动画的主流。",
+      "translationEn": "Recently, many video distribution platforms are producing \"original anime\" that can only be watched on their own services. Because these platforms can deliver anime to viewers worldwide, the chances of new hit works emerging are increasing. In the past, TV stations were central, but now online distribution is becoming the mainstream for anime.",
+      "id": "dc2ea5d7-e00c-49f6-b56f-07578f3cd90a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "オリジナルアニメが増えたことで、視聴者は自分の好きな時間に好きな作品を選んで見られるようになりました。また、プラットフォーム側は、視聴者のデータを分析しながら、どんなアニメが求められているかを把握し、より魅力的な作品を作ろうとしています。その結果、多様なジャンルのアニメが生まれて、アニメファンにとっては嬉しい状況と言えるでしょう。",
+      "translationZh": "随着原创动画的增加，观众可以根据自己的喜好在喜欢的时间观看想看的作品。此外，平台方通过分析观众数据，了解什么样的动画受欢迎，并努力制作更具吸引力的作品。其结果是，各种类型的动画应运而生，对于动画粉丝来说，这无疑是件好事。",
+      "translationEn": "With the increase in original anime, viewers can now choose and watch works they like at their preferred times. Furthermore, platform providers analyze viewer data to understand what kind of anime is in demand and strive to create more appealing works. As a result, diverse genres of anime are being created, which can be considered a happy situation for anime fans.",
+      "id": "d18b1655-1fcb-49c8-acf1-a7a594170a5c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、オリジナルアニメの制作には多額の費用がかかるため、プラットフォーム間の競争は激しくなっています。どのプラットフォームも、視聴者を惹きつけるために、有名声優を起用したり、話題の原作を使ったりと、様々な工夫を凝らしています。そのため、今後も新しい才能や斬新なアイデアを持ったアニメが次々と登場することが期待されています。",
+      "translationZh": "然而，原创动画的制作需要高昂的费用，因此平台之间的竞争变得异常激烈。为了吸引观众，每个平台都在绞尽脑汁，例如起用知名声优或使用热门原作。因此，人们期待着未来能不断涌现出拥有新才能和新颖想法的动画作品。",
+      "translationEn": "However, the production of original anime incurs significant costs, leading to intense competition among platforms. To attract viewers, each platform is making various efforts, such as casting famous voice actors or using popular source materials. Therefore, it is expected that anime with new talent and innovative ideas will continue to emerge in the future.",
+      "id": "74d3b9ec-0a72-41f2-aedd-ef0c75a9d2dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信プラットフォーム",
+      "reading": "はいしんぷらっとふぉーむ",
+      "meaningZh": "视频配信平台（如 Netflix、Amazon Prime Video 等）",
+      "meaningEn": "Distribution platform (e.g., Netflix, Amazon Prime Video)",
+      "level": "n3",
+      "exampleSentence": "このアニメは新しい配信プラットフォームで限定公開されました。",
+      "id": "de4f940b-ff7a-4ef9-8a4e-bac90db48217"
+    },
+    {
+      "word": "オリジナル",
+      "reading": "おりじなる",
+      "meaningZh": "原创的，独特的",
+      "meaningEn": "Original, unique",
+      "level": "n5n4",
+      "exampleSentence": "この曲は彼のオリジナルです。",
+      "id": "be19ffaa-ccc8-439a-bd6c-af916d8a146a"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，崛起",
+      "meaningEn": "Rise, emergence",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術の台頭により、産業構造が変わりました。",
+      "id": "c6cf8156-e010-4318-8c6b-59e219d04b45"
+    },
+    {
+      "word": "主流",
+      "reading": "しゅりゅう",
+      "meaningZh": "主流，主要倾向",
+      "meaningEn": "Mainstream, principal current",
+      "level": "n3",
+      "exampleSentence": "インターネットの普及で、情報収集の主流が変わりました。",
+      "id": "a570e6df-902b-47be-9b59-7b71f75042aa"
+    },
+    {
+      "word": "視聴者",
+      "reading": "しちょうしゃ",
+      "meaningZh": "观众，观看者",
+      "meaningEn": "Viewer, audience",
+      "level": "n3",
+      "exampleSentence": "多くの視聴者がこのドラマを楽しんでいます。",
+      "id": "9718c1f7-0b70-4146-a783-9a938ac1b47b"
+    },
+    {
+      "word": "データ分析",
+      "reading": "でーたぶんせき",
+      "meaningZh": "数据分析",
+      "meaningEn": "Data analysis",
+      "level": "n3",
+      "exampleSentence": "データ分析に基づいて、次の戦略を立てます。",
+      "id": "cfb02249-ebde-4d71-9924-285cb6ae7d27"
+    },
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaningZh": "精心策划，费心（于某事）",
+      "meaningEn": "To devise, to plan elaborately",
+      "level": "n2n1",
+      "exampleSentence": "デザインには細部にまで工夫が凝らされています。",
+      "id": "f55293bd-d52a-4abb-a3d6-36cb099dae67"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "オリジナルアニメが増えたことで、視聴者はどのようにアニメを楽しめるようになりましたか？",
+      "options": [
+        "テレビ局の放送時間を待たなければならない",
+        "自分の好きな時間に好きな作品を選んで見られる",
+        "アニメ制作の裏側を見ることができる",
+        "アニメのイベントに必ず参加しなければならない"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「オリジナルアニメが増えたことで、視聴者は自分の好きな時間に好きな作品を選んで見られるようになりました。」とあります。",
+      "id": "3f2474de-4930-4ab7-bdcf-d641f41bef3f"
+    },
+    {
+      "question": "プラットフォームは、オリジナルアニメを制作するためにどのような工夫をしていますか？",
+      "options": [
+        "アニメの放送時間を短くする",
+        "視聴者に広告を見せる回数を増やす",
+        "有名声優を起用したり、話題の原作を使ったりする",
+        "アニメの制作費用をできるだけ抑える"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「どのプラットフォームも、視聴者を惹きつけるために、有名声優を起用したり、話題の原作を使ったりと、様々な工夫を凝らしています。」とあります。",
+      "id": "b078fe3c-a020-4f9a-a08e-13d32d2a8f42"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-20-d3d7c33476",
+  "publishedAt": "2026-09-20T06:00:00+09:00"
+}

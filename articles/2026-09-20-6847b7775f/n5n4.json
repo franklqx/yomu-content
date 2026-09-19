@@ -1,0 +1,122 @@
+{
+  "title": "古民家ステイ、人気です！",
+  "summary": "最近、山陰地方で古い家（古民家）に泊まることが人気です。静かで、いい経験ができます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、山陰地方で「古民家ステイ」が人気になっています。古民家は古い日本の家です。昔の日本の生活を体験できます。",
+      "translationZh": "最近，在山阴地区，“古民家住宿”变得很受欢迎。古民家是日本的老房子。可以体验到以前的日本生活。",
+      "translationEn": "Recently, 'Kominka stay' has become popular in the San'in region. Kominka are old Japanese houses. You can experience life in old Japan.",
+      "id": "72f61f01-d0a4-4ac2-a139-471ba3e410f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家ステイでは、静かな時間を過ごせます。都会の生活とは違って、とてもリラックスできます。田舎の景色もきれいです。",
+      "translationZh": "在古民家住宿，可以度过一段安静的时光。与城市生活不同，可以非常放松。乡村的景色也很美。",
+      "translationEn": "At a Kominka stay, you can spend quiet time. Unlike city life, it is very relaxing. The rural scenery is also beautiful.",
+      "id": "bca866ca-27c8-4e39-b5e6-0986948cb1d0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "泊まるだけでなく、その地域の文化に触れることができます。地元の食べ物を食べたり、伝統的な工芸品を見たりすることもできます。",
+      "translationZh": "不仅是住宿，还可以接触到当地的文化。可以品尝当地的食物，也可以看看传统的手工艺品。",
+      "translationEn": "Not only staying, but you can also experience the local culture. You can eat local food and see traditional crafts.",
+      "id": "ec4021c2-c2cb-476d-9240-828332e11e0e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "多くの人が古民家ステイの魅力を感じています。自然が豊かで、心が落ち着く場所です。次の旅行にいかがですか？",
+      "translationZh": "很多人感受到了古民家住宿的魅力。那里自然丰富，是能让心灵平静的地方。下次旅行要不要试试呢？",
+      "translationEn": "Many people feel the charm of Kominka stays. It is a place rich in nature where the mind becomes calm. How about for your next trip?",
+      "id": "062d0be8-a832-4908-98a3-9c98f2f80eea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古民家",
+      "reading": "こみんか",
+      "meaningZh": "老房子，传统日式住宅",
+      "meaningEn": "old folk house, traditional Japanese house",
+      "level": "n5n4",
+      "exampleSentence": "この古民家はとてもきれいです。",
+      "id": "cb9a7000-c55f-436f-9964-50aa118a097f"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "山陰地方は海がきれいです。",
+      "id": "baafcfb0-b6d0-4084-9b05-897354721e67"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化を体験したいです。",
+      "id": "2b7347b2-7396-4e82-838c-988064dfb104"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静，寂静",
+      "meaningEn": "quiet, peaceful",
+      "level": "n5n4",
+      "exampleSentence": "図書館は静かです。",
+      "id": "e53888f7-9a36-493e-bce0-cb2a69a6f457"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaningZh": "都市，城市",
+      "meaningEn": "city, metropolis",
+      "level": "n5n4",
+      "exampleSentence": "都会は人が多いです。",
+      "id": "4527bea0-7438-415b-9964-8efc4303ce28"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "0eb4e539-82db-4d8b-acae-62ca48cdafb8"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n3",
+      "exampleSentence": "この町の魅力は自然です。",
+      "id": "f67bbf8a-a3c9-4d6e-b190-c3075e9594b2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "古民家ステイは、どんな場所で人気がありますか？",
+      "options": [
+        "都会",
+        "山陰地方",
+        "海",
+        "学校"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最近、山陰地方で「古民家ステイ」が人気になっています。」と書かれています。",
+      "id": "28045f08-ceed-4a2f-965d-61a9618936db"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-20-6847b7775f",
+  "publishedAt": "2026-09-20T06:00:00+09:00"
+}

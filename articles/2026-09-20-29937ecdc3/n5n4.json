@@ -1,0 +1,122 @@
+{
+  "title": "深夜の定食屋、若者の秘密基地",
+  "summary": "夜遅くまで開いている定食屋。そこは若者たちが集まる、特別な場所です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夜10時過ぎ、街は静かになります。でも、どこか一部の定食屋はまだ明るいです。これらの店は、深夜まで開いています。仕事が終わった人や、勉強が終わった人が来ます。",
+      "translationZh": "晚上10点过后，街道变得安静了。但是，一些定食屋仍然亮着灯。这些店营业到深夜。工作结束的人，学习结束的人会来。",
+      "translationEn": "After 10 PM, the streets become quiet. However, some family restaurants are still lit. These shops stay open until late at night. People who finished work or studying come here.",
+      "id": "e969955a-a250-45ce-aafa-5dd8effe5af5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に若い人たちが、この深夜の定食屋によく集まります。友達と話したり、一人でゆっくりご飯を食べたりします。温かいご飯と、おいしいおかずは、心を落ち着かせます。",
+      "translationZh": "特别是年轻人，经常聚集在这些深夜的定食屋。他们和朋友聊天，或者一个人慢慢吃饭。热腾腾的米饭和美味的配菜，能让心情平静下来。",
+      "translationEn": "Young people especially often gather at these late-night family restaurants. They talk with friends or eat a meal slowly by themselves. Warm rice and delicious side dishes calm the mind.",
+      "id": "e3dbd103-8c1f-40d2-8458-60e99ceb9c35",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食屋のメニューはシンプルですが、栄養があります。焼き魚定食、生姜焼き定食など、定番のメニューが多いです。値段も手頃で、学生さんにも人気があります。",
+      "translationZh": "定食屋的菜单虽然简单，但很有营养。烤鱼套餐、姜汁烧肉套餐等，都是经典的菜单。价格也很实惠，深受学生们的喜爱。",
+      "translationEn": "The menus at family restaurants are simple but nutritious. There are many standard dishes like grilled fish sets and ginger pork sets. The prices are also reasonable, making them popular among students.",
+      "id": "c424d6e0-a91e-44d5-a266-f6cc63094f99",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜の定食屋は、ただ食事をする場所ではありません。それは、一日の終わりにホッとできる、若者たちの「秘密基地」のような場所なのです。",
+      "translationZh": "深夜的定食屋，不仅仅是吃饭的地方。它更像是结束一天后，能让人安心的年轻人的“秘密基地”。",
+      "translationEn": "Late-night family restaurants are not just places to eat. They are like a 'secret base' for young people, a place where they can relax at the end of the day.",
+      "id": "7ab2153e-bf6b-404e-b81c-c7efb4ed45e4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaningZh": "深夜",
+      "meaningEn": "late at night",
+      "level": "n5n4",
+      "exampleSentence": "深夜に電話しないでください。",
+      "id": "0a974ee8-12bc-4267-a3c3-9f5dad47b4e8"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaningZh": "营业",
+      "meaningEn": "business, operating",
+      "level": "n5n4",
+      "exampleSentence": "この店は朝から晩まで営業しています。",
+      "id": "45f47a0a-01a4-4507-926e-e13da4bbe4e0"
+    },
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "定食屋（提供套餐的餐馆）",
+      "meaningEn": "set meal restaurant",
+      "level": "n5n4",
+      "exampleSentence": "私たちは近くの定食屋で夕食を食べました。",
+      "id": "93595a89-1904-4348-b26e-8a817e253177"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "公園にたくさんの人が集まっています。",
+      "id": "282d9f07-15b6-465e-b4d1-cefb65f2ef57"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものに興味があります。",
+      "id": "8b0d7bbb-80ce-45fd-b41d-1421b40c1e86"
+    },
+    {
+      "word": "基地",
+      "reading": "きち",
+      "meaningZh": "基地",
+      "meaningEn": "base, base camp",
+      "level": "n3",
+      "exampleSentence": "子供たちの秘密基地は森の中にありました。",
+      "id": "81ca179d-795d-4c0d-b66c-3417aaf0e21e"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "价格适中，实惠",
+      "meaningEn": "reasonable, affordable",
+      "level": "n3",
+      "exampleSentence": "この服はデザインも良くて、値段も手頃です。",
+      "id": "93b9f716-e88b-496a-b20d-0e67fa6f1a60"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜の定食屋は、どのような人々に人気がありますか？",
+      "options": [
+        "子供たち",
+        "お年寄り",
+        "若者たち",
+        "旅行者"
+      ],
+      "correctIndex": 2,
+      "explanation": "特に若い人たちが、この深夜の定食屋によく集まります。",
+      "id": "187472a0-fc3f-436c-9757-db59817af277"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-20-29937ecdc3",
+  "publishedAt": "2026-09-20T06:00:00+09:00"
+}

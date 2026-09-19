@@ -1,0 +1,143 @@
+{
+  "title": "深夜食堂：年轻人聚集的独特空间",
+  "summary": "在夜深人静时，一些定食屋（提供套餐的餐馆）依然灯火通明，吸引着许多年轻人前来。这些地方不仅是填饱肚子的场所，更是他们放松、交流、找到归属感的特殊空间。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、深夜まで開いている定食屋が若者の間で人気を集めています。仕事や勉強で遅くなった時、あるいは友達と遅くまで話したい時、こうした店は貴重な存在です。温かい定食を食べながら、一日の疲れを癒やすことができるからです。",
+      "translationZh": "最近，深夜まで開いている定食屋（提供套餐的餐馆）在年轻人中越来越受欢迎。无论是工作或学习到很晚的时候，还是想和朋友聊天到深夜，这样的店都是宝贵的存在。因为在这里，一边吃着热腾腾的定食，一边可以治愈一天的疲惫。",
+      "translationEn": "Recently, 'teishoku-ya' (restaurants serving set meals) that stay open late into the night are gaining popularity among young people. These establishments are invaluable when one finishes work or studies late, or when wanting to chat with friends until the late hours. This is because they can soothe the day's fatigue while enjoying a warm set meal.",
+      "id": "fd819e66-5af7-4d25-9f5d-1c08ed5c6c97",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの定食屋には、学生や若い社会人が多く訪れます。一人で静かに食事をする人もいれば、友人や同僚と賑やかに過ごすグループもいます。店によっては、カウンター席が中心で、店員さんとの会話も楽しめるため、孤独を感じにくい雰囲気があります。",
+      "translationZh": "这些定食屋吸引了许多学生和年轻的上班族。有的人独自安静地用餐，也有成群的朋友或同事热闹地聚会。有些店以吧台座位为主，因为可以享受与店员的交流，所以有一种不易感到孤独的氛围。",
+      "translationEn": "Many students and young office workers visit these 'teishoku-ya'. Some dine alone quietly, while others are groups of friends or colleagues spending lively time together. Depending on the establishment, they often have counter seats, and because one can enjoy conversations with the staff, there's an atmosphere that makes it hard to feel lonely.",
+      "id": "a4ece87e-49f7-4aeb-ac62-951a54b95949",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜に温かい料理を食べることは、単にお腹を満たすだけでなく、精神的な安らぎにもつながります。特に、忙しい日々を送っている若者にとって、こうした店はホッと一息つける「サードプレイス」のような役割を果たしていると言えるでしょう。だからこそ、多くの人が深夜でもこれらの店に足を運ぶのです。",
+      "translationZh": "深夜吃上一顿热腾腾的饭菜，不仅能填饱肚子，还能带来精神上的慰藉。特别是对于过着忙碌生活的年轻人来说，这样的店可以说是扮演着让他们得以放松的“第三空间”的角色。正因为如此，许多人即使在深夜也会光顾这些店。",
+      "translationEn": "Eating a warm meal late at night not only fills the stomach but also leads to mental comfort. Especially for young people leading busy lives, these places can be said to play a role like a 'third place' where they can take a breather. This is precisely why many people visit these establishments even late at night.",
+      "id": "d1a1c52d-d558-4234-baa3-2c95fdc9f397",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食屋のメニューは、ご飯、味噌汁、主菜、副菜といった定番の組み合わせが多く、家庭的な温かさを感じさせます。こうした料理は、夜遅くに食べるには重すぎず、かつ栄養バランスも取れているため、健康を気遣う若者にも選ばれています。また、リーズナブルな価格も、学生などにとって嬉しいポイントです。",
+      "translationZh": "定食屋的菜单多是米饭、味噌汤、主菜、副菜等经典组合，让人感受到家庭般的温暖。这类料理因为不会在深夜吃起来过于油腻，并且营养均衡，所以也受到注重健康的年轻人的青睐。此外，合理的价格也是学生等群体感到高兴的一点。",
+      "translationEn": "The menus at 'teishoku-ya' often feature classic combinations like rice, miso soup, a main dish, and side dishes, evoking a sense of homely warmth. These meals are not too heavy for late-night consumption and are nutritionally balanced, making them a choice for health-conscious young people. Furthermore, the reasonable prices are also a welcome aspect for students and others.",
+      "id": "545745ce-17c7-4526-8a65-c6f4acdb5442",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "深夜営業",
+      "reading": "しんやえいぎょう",
+      "meaningZh": "深夜营业",
+      "meaningEn": "late-night business operations",
+      "level": "n3",
+      "exampleSentence": "このラーメン屋は深夜営業しているらしい。",
+      "id": "74d4fd07-3d66-48f5-92a3-2140c003e867"
+    },
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供套餐的餐馆",
+      "meaningEn": "restaurant serving set meals",
+      "level": "n3",
+      "exampleSentence": "ランチタイムには定食屋が混む。",
+      "id": "455fc3dc-d059-41b8-b766-418ea6098165"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n3",
+      "exampleSentence": "あの歌手は若い世代に人気がある。",
+      "id": "c712ee42-f1d1-40f5-af79-6073ae1af37a"
+    },
+    {
+      "word": "貴重",
+      "reading": "きちょう",
+      "meaningZh": "宝贵的，珍贵的",
+      "meaningEn": "precious, valuable",
+      "level": "n3",
+      "exampleSentence": "貴重な意見をありがとう。",
+      "id": "a1ba6afc-0a89-4f3c-a560-25f27b15856a"
+    },
+    {
+      "word": "癒やす",
+      "reading": "いやす",
+      "meaningZh": "治愈，慰藉",
+      "meaningEn": "to heal, to soothe",
+      "level": "n3",
+      "exampleSentence": "温泉に入って疲れを癒やしたい。",
+      "id": "e279f4db-6d79-4f88-817c-71e2d7f12cd1"
+    },
+    {
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹的",
+      "meaningEn": "lively, bustling",
+      "level": "n3",
+      "exampleSentence": "祭りの会場はとても賑やかだった。",
+      "id": "da0af7b9-cbf1-4784-b8a7-8b2e1c91464a"
+    },
+    {
+      "word": "孤独",
+      "reading": "こどく",
+      "meaningZh": "孤独",
+      "meaningEn": "loneliness, solitude",
+      "level": "n3",
+      "exampleSentence": "都会では孤独を感じやすい人もいる。",
+      "id": "21219643-26a2-42e7-baec-0a9903d5ce97"
+    },
+    {
+      "word": "精神的",
+      "reading": "せいしんてき",
+      "meaningZh": "精神上的",
+      "meaningEn": "mental, spiritual",
+      "level": "n3",
+      "exampleSentence": "精神的なサポートも大切だ。",
+      "id": "77e1006c-4e6e-4c6a-b559-e0fdb76f359c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜営業の定食屋が若者に人気な理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "メニューが豊富で安いから",
+        "静かで勉強に集中できるから",
+        "遅くまで開いていて、疲れを癒やしたり、リラックスできる場所だから",
+        "店員との会話が苦手な人でも安心だから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「仕事や勉強で遅くなった時、あるいは友達と遅くまで話したい時、こうした店は貴重な存在です。温かい定食を食べながら、一日の疲れを癒やすことができるからです。」と述べられています。",
+      "id": "d08e6b50-5c7c-4c29-9c8e-8ba1d82bb484"
+    },
+    {
+      "question": "本文によると、深夜の定食屋は若者にとってどのような役割を果たしていると言えますか？",
+      "options": [
+        "主に食事だけをする場所",
+        "友達と出会うための社交場",
+        "ホッと一息つける「サードプレイス」",
+        "最新のトレンドをチェックする場所"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「こうした店はホッと一息つける「サードプレイス」のような役割を果たしていると言えるでしょう。」と説明されています。",
+      "id": "4bca0140-c677-4cc3-b93f-ae793933c353"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-20-29937ecdc3",
+  "publishedAt": "2026-09-20T06:00:00+09:00"
+}

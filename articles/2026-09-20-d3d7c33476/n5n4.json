@@ -1,0 +1,114 @@
+{
+  "title": "アニメ制作の変化",
+  "summary": "最近、インターネットでアニメをたくさん見ます。配信プラットフォームが新しいアニメを作っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、インターネットの配信プラットフォームでアニメを見ることが多くなりました。テレビだけではなく、スマホやパソコンでも見ることができます。これはとても便利です。",
+      "translationZh": "最近，我们经常在互联网的配信平台上看动画。不只是在电视上，手机和电脑上也能看。这非常方便。",
+      "translationEn": "Recently, we have been watching anime more often on internet streaming platforms. We can watch not only on TV, but also on smartphones and computers. This is very convenient.",
+      "id": "f2a4eee7-e5dd-4895-8e4c-96238eca334c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのプラットフォームは、自分でオリジナルアニメを作っています。有名な会社だけでなく、新しい会社もアニメを作って、世界中に送っています。だから、たくさんの新しいアニメが生まれています。",
+      "translationZh": "这些平台正在制作自己的原创动画。不仅是著名的公司，新的公司也在制作动画并将其发送到世界各地。因此，许多新的动画正在诞生。",
+      "translationEn": "These platforms are producing their own original anime. Not only famous companies, but also new companies are making anime and sending it worldwide. Therefore, many new anime are being born.",
+      "id": "5d093a22-1e4a-456d-90d5-a460261bc6cc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、アニメを作るのにたくさんのお金と時間が必要でした。でも、今は配信プラットフォームのおかげで、もっと簡単にアニメを作れるようになりました。だから、もっと面白いアニメが見られるようになるでしょう。",
+      "translationZh": "过去，制作动画需要很多的钱和时间。但是，现在因为有了配信平台，制作动画变得更加容易了。因此，我们应该能看到更多有趣的动画。",
+      "translationEn": "In the past, making anime required a lot of money and time. However, thanks to streaming platforms, it has become easier to produce anime. Therefore, we will likely be able to see more interesting anime.",
+      "id": "c402e340-27d0-45cb-a4a1-285748c4d2f1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信",
+      "reading": "はいしん",
+      "meaningZh": "发送，传播（节目等）",
+      "meaningEn": "distribution, delivery (of programs, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "インターネットで番組を配信します。",
+      "id": "8f568f47-3b62-4e83-be37-a5eca3d4ade4"
+    },
+    {
+      "word": "プラットフォーム",
+      "reading": "ぷらっとふぉーむ",
+      "meaningZh": "平台",
+      "meaningEn": "platform",
+      "level": "n5n4",
+      "exampleSentence": "このプラットフォームは使いやすいです。",
+      "id": "55bc3aed-9c7d-4ab4-abff-ce37d4092025"
+    },
+    {
+      "word": "オリジナル",
+      "reading": "おりじなる",
+      "meaningZh": "原创",
+      "meaningEn": "original",
+      "level": "n5n4",
+      "exampleSentence": "これはオリジナルの物語です。",
+      "id": "a5639606-f007-47ab-90f7-ab45ce5db9a6"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "抬头，兴起",
+      "meaningEn": "rise, emergence",
+      "level": "n3",
+      "exampleSentence": "新しい技術が台頭しています。",
+      "id": "aa2631e6-f654-4ba5-a2fa-4d2cdf4a9d6f"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaningZh": "制作",
+      "meaningEn": "production, creation",
+      "level": "n5n4",
+      "exampleSentence": "この映画は有名な会社が制作しました。",
+      "id": "e15898de-d44a-4a1c-844e-f3df57c17fb6"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "スマホはとても便利です。",
+      "id": "8f80c98d-3e3d-4e65-a2e2-26ad9cde2fd4"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "in the past, old days",
+      "level": "n5n4",
+      "exampleSentence": "昔はテレビが一つしかありませんでした。",
+      "id": "bc2bc6ed-123d-434c-bb87-eee376db2241"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "配信プラットフォームは、どのようなアニメをたくさん作っていますか。",
+      "options": [
+        "有名なアニメ",
+        "古いアニメ",
+        "オリジナルアニメ",
+        "子供向けのアニメ"
+      ],
+      "correctIndex": 2,
+      "explanation": "これらのプラットフォームは、自分でオリジナルアニメを作っています。",
+      "id": "a09c7aa2-961e-43d2-9bcc-783bccc31ae8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-20-d3d7c33476",
+  "publishedAt": "2026-09-20T06:00:00+09:00"
+}
