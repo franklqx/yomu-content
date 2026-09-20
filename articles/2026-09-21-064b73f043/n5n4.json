@@ -1,0 +1,131 @@
+{
+  "title": "若者の移住を応援！",
+  "summary": "若い人が地方へ移るのを助ける制度が変わります。もっと多くの人が住みやすくなるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人が都会から地方へ住むのを助ける制度が見直されています。この制度は、地方の町や村にお店や会社がない場所でも、若い人が安心して住めるように応援するものです。",
+      "translationZh": "最近，帮助年轻人从城市搬到地方居住的制度正在被重新审视。这项制度是为了支持年轻人即使在没有商店或公司的偏远地区也能安心居住。",
+      "translationEn": "Recently, the system to support young people moving from cities to rural areas is being reviewed. This system aims to support young people so they can live with peace of mind, even in places without shops or companies in rural towns and villages.",
+      "id": "4e39ecff-a376-46b3-9d4c-388d2586383a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "以前の制度は、お金を少しだけあげるだけでした。しかし、これからは、仕事を見つけるのを手伝ったり、住む場所を探すのを手伝ったりすることも増えるかもしれません。",
+      "translationZh": "以前的制度只是稍微给一些钱。但是，今后，可能会增加帮助他们找工作、帮助他们寻找住处的内容。",
+      "translationEn": "The previous system only gave a little money. However, from now on, it may increase support for finding jobs and finding places to live.",
+      "id": "0cb593b2-c93f-4a76-a4e6-0b48420dcc09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方には、自然がたくさんあって、空気もきれいです。そして、昔からの文化も残っています。若い人が地方で新しい生活を始めるのを、もっと応援していくことが大切です。",
+      "translationZh": "地方有很多大自然，空气也很清新。而且，也保留着自古以来的文化。今后，更加支持年轻人到地方开始新生活是很重要的。",
+      "translationEn": "In rural areas, there is a lot of nature and the air is clean. Also, traditional culture remains. It is important to further support young people starting new lives in rural areas.",
+      "id": "d31f700f-5b7d-4931-bc81-47edd4861326",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度の見直しで、もっと多くの若い人が地方に住んで、その町を元気にすることが期待されています。新しいアイデアや力で、地方の町がもっと発展するかもしれません。",
+      "translationZh": "随着这项制度的修改，人们期待有更多的年轻人搬到地方居住，为那个城镇注入活力。年轻人也许能用新的想法和力量，让地方城镇更加发展。",
+      "translationEn": "With the review of this system, it is expected that more young people will move to rural areas and revitalize those towns. With new ideas and energy, rural towns may develop further.",
+      "id": "6f25a27a-fedd-4f31-9f76-f2b76aacba06",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいことに挑戦します。",
+      "id": "01870b55-19b1-4f55-a6f4-de22a9ba4c56"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，郊区",
+      "meaningEn": "rural area, region",
+      "level": "n5n4",
+      "exampleSentence": "地方には静かな場所が多いです。",
+      "id": "8692ab6e-c59f-4a9f-b2d2-9c4162a5f43c"
+    },
+    {
+      "word": "移住",
+      "reading": "いじゅう",
+      "meaningZh": "移居",
+      "meaningEn": "migration, moving to another place",
+      "level": "n3",
+      "exampleSentence": "彼は新しい仕事のために東京へ移住しました。",
+      "id": "e09574d0-3379-4832-89f8-c9c7886d5d3b"
+    },
+    {
+      "word": "支援",
+      "reading": "しえん",
+      "meaningZh": "支援，援助",
+      "meaningEn": "support, backing",
+      "level": "n3",
+      "exampleSentence": "政府は中小企業を支援しています。",
+      "id": "a42cfee0-3854-4a6b-92db-4e86cea1f766"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system, institution",
+      "level": "n3",
+      "exampleSentence": "新しい法律の制度ができました。",
+      "id": "5bdaab0f-55f9-4f0f-968a-6ab42cb07bb8"
+    },
+    {
+      "word": "見直し",
+      "reading": "みなおし",
+      "meaningZh": "重新审视，检查",
+      "meaningEn": "review, revision",
+      "level": "n3",
+      "exampleSentence": "計画の見直しが必要です。",
+      "id": "2f325475-c69f-490d-9818-a8deb4049c6e"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "家族の健康を知って安心しました。",
+      "id": "6cf8acfc-88d8-4e6b-9df9-87f87284e38f"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待，期望",
+      "meaningEn": "expectation, hope",
+      "level": "n3",
+      "exampleSentence": "未来に大きな期待をしています。",
+      "id": "6ab5b7c1-ee55-450b-9ea4-f167a94ee240"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、若い人が地方へ移住するのを助ける制度は、どのように変わりますか？",
+      "options": [
+        "お金をあげるだけになる。",
+        "仕事や住む場所探しを手伝うことも増える。",
+        "地方の町に住むのをやめる人が増える。",
+        "制度はなくなる。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「これからは、仕事を見つけるのを手伝ったり、住む場所を探すのを手伝ったりすることも増えるかもしれません。」",
+      "id": "eb2b8494-e1ca-41ee-8652-260c9c608688"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-21-064b73f043",
+  "publishedAt": "2026-09-21T06:00:00+09:00"
+}

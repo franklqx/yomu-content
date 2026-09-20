@@ -1,0 +1,131 @@
+{
+  "title": "個人開発者向け新クラウド",
+  "summary": "個人開発者にとって、新しいクラウドサービスが出ました。このサービスはとても便利です。ぜひ使ってみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、個人開発者向けの新しいクラウドサービスが発表されました。このサービスは、アプリやウェブサイトを作るときに役立ちます。色々な機能が最初から用意されています。",
+      "translationZh": "最近，面向个人开发者的新云服务发布了。这项服务在制作应用程序和网站时很有帮助。各种功能一开始就准备好了。",
+      "translationEn": "Recently, a new cloud service for individual developers was announced. This service is helpful when making apps and websites. Various functions are prepared from the beginning.",
+      "id": "8270ebb7-8c02-4ab0-ad36-0bd15535c116",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しいサービスを使うと、開発の時間が短くなります。例えば、データベースの管理や、ユーザーの登録などが簡単にできます。自分で全部作る必要がなくなります。",
+      "translationZh": "使用这个新服务，开发时间会变短。例如，数据库管理和用户注册等都可以轻松完成。不需要自己全部制作了。",
+      "translationEn": "Using this new service shortens development time. For example, database management and user registration can be done easily. You don't need to make everything yourself.",
+      "id": "b80d4401-8b11-4af0-afab-45c9a691341a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、このサービスは料金も安いです。個人開発者にとって、コストは大切です。だから、この新しいサービスは人気が出そうです。",
+      "translationZh": "而且，这项服务的费用也很便宜。对个人开发者来说，成本很重要。所以，这项新服务看起来会很受欢迎。",
+      "translationEn": "Also, the price of this service is cheap. For individual developers, cost is important. Therefore, this new service looks like it will become popular.",
+      "id": "43ca67bb-bad8-4df3-af98-2712e7d181c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もしあなたがアプリやウェブサイトを作りたいなら、この新しいクラウドサービスを試してみてはいかがでしょうか。きっとあなたの開発がもっと楽しくなりますよ。",
+      "translationZh": "如果你想制作应用程序或网站，不妨试试这个新的云服务怎么样？一定会让你的开发变得更有趣。",
+      "translationEn": "If you want to make apps or websites, why not try this new cloud service? It will surely make your development more enjoyable.",
+      "id": "107206ef-28a6-44f2-8e22-7149a857172a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "個人開発者",
+      "reading": "こじんど */eveloper*",
+      "meaningZh": "个人开发者",
+      "meaningEn": "individual developer",
+      "level": "n5n4",
+      "exampleSentence": "彼は個人開発者としてゲームを作っています。",
+      "id": "6c668ee0-7fa7-49ef-ab31-09787509dd7a"
+    },
+    {
+      "word": "クラウドサービス",
+      "reading": "クラウドサービス",
+      "meaningZh": "云服务",
+      "meaningEn": "cloud service",
+      "level": "n5n4",
+      "exampleSentence": "この会社は新しいクラウドサービスを提供しています。",
+      "id": "ae1a0701-2bb8-4b02-a3c3-44cfa1fc53ef"
+    },
+    {
+      "word": "役立ちます",
+      "reading": "やく */ます*",
+      "meaningZh": "有帮助，有用",
+      "meaningEn": "to be useful, to help",
+      "level": "n5n4",
+      "exampleSentence": "この本は日本語の勉強に役立ちます。",
+      "id": "3a69d878-143f-4bac-b631-97f0495ce364"
+    },
+    {
+      "word": "開発",
+      "reading": "かい */ */",
+      "meaningZh": "开发",
+      "meaningEn": "development",
+      "level": "n5n4",
+      "exampleSentence": "新しいアプリの開発が始まりました。",
+      "id": "71d73849-2115-429d-bc3c-8ac1bff23098"
+    },
+    {
+      "word": "短くなります",
+      "reading": "みじか */ */",
+      "meaningZh": "变短",
+      "meaningEn": "to become short",
+      "level": "n5n4",
+      "exampleSentence": "会議の時間が短くなりました。",
+      "id": "91004e68-7202-46d5-87b7-dae780814ffd"
+    },
+    {
+      "word": "管理",
+      "reading": "かん */ */",
+      "meaningZh": "管理",
+      "meaningEn": "management",
+      "level": "n5n4",
+      "exampleSentence": "データの管理は大切です。",
+      "id": "ed64b9bd-fb03-4b8a-ad59-168f7bc1c169"
+    },
+    {
+      "word": "料金",
+      "reading": "りょう */ */",
+      "meaningZh": "费用，价格",
+      "meaningEn": "fee, charge",
+      "level": "n5n4",
+      "exampleSentence": "このサービスの料金はいくらですか。",
+      "id": "7d95ca65-7593-41d7-97ef-896288d2a8a7"
+    },
+    {
+      "word": "人気",
+      "reading": "にん */ */",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "新しい歌が人気です。",
+      "id": "aab1f8ef-0c8e-4bac-9f9d-d46316121e5b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいクラウドサービスは、誰にとって役立ちますか。",
+      "options": [
+        "会社員",
+        "学生",
+        "個人開発者",
+        "主婦"
+      ],
+      "correctIndex": 2,
+      "explanation": "この新しいサービスは、個人開発者向けの新しいクラウドサービスが発表されました。",
+      "id": "093253be-7f78-4e42-bcf2-9528053e89c4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-21-d45eea2235",
+  "publishedAt": "2026-09-21T06:00:00+09:00"
+}

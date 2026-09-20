@@ -1,0 +1,131 @@
+{
+  "title": "お祭りを支える若い力",
+  "summary": "日本の各地で、お祭りを若い世代が引き継いでいます。昔からの祭りがこれからも続きます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、たくさんの祭りが あります。夏は花火大会、秋は紅葉祭りなど、季節ごとに楽しい行事があります。しかし、祭りの準備や運営は、昔は年配の人々が中心でした。最近、若い人たちがお祭りを支えています。",
+      "translationZh": "日本有很多祭典。夏天有烟火大会，秋天有红叶祭，每个季节都有愉快的活动。但是，祭典的准备和运营，过去主要是老年人负责。最近，年轻人开始支持祭典。",
+      "translationEn": "Japan has many festivals. In summer there are fireworks festivals, in autumn there are autumn leaf festivals, and there are enjoyable events for each season. However, in the past, elderly people were mainly in charge of preparing and running festivals. Recently, young people are supporting the festivals.",
+      "id": "15790c73-1750-469b-9357-3bf3906d438e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある町の秋祭りでは、若い人たちが企画会議をしました。新しいアイデアを出して、SNSで祭りの情報を広めました。その結果、より多くの人が祭りに参加しました。若い力で、祭りはもっと元気になりました。",
+      "translationZh": "例如，在一个城镇的秋祭中，年轻人召开了企划会议。他们提出了新的想法，并通过社交媒体传播了祭典的信息。结果，更多的人参加了祭典。凭借年轻的力量，祭典变得更加有活力。",
+      "translationEn": "For example, at an autumn festival in a certain town, young people held planning meetings. They came up with new ideas and spread information about the festival on social media. As a result, more people participated in the festival. With the power of youth, the festival became more vibrant.",
+      "id": "54ed3384-a266-463a-a919-31b2036216da",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔から伝わる踊りや歌も、若い世代が学んでいます。子供たちがお祭りの伝統を大切にし、次の世代に伝えていくのは素晴らしいことです。祭りは、地域の人々をつなぐ大切な機会でもあります。",
+      "translationZh": "从古流传下来的舞蹈和歌谣，年轻一代也在学习。孩子们珍惜祭典的传统，并将其传给下一代，这是一件很棒的事。祭典也是连接地区人们的重要机会。",
+      "translationEn": "Younger generations are also learning the traditional dances and songs passed down from ancient times. It is wonderful that children cherish the traditions of festivals and pass them on to the next generation. Festivals are also an important opportunity to connect people in the community.",
+      "id": "241f95f2-06bc-4003-9722-740308fd4b17",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、日本の様々なお祭りが、若い人たちの手で守られ、発展していくでしょう。新しいアイデアと昔ながらの伝統が合わさって、祭りはさらに魅力的になります。",
+      "translationZh": "今后，日本的各种祭典也会在年轻人的手中得到守护和发展。新的想法与自古以来的传统相结合，祭典将变得更加有魅力。",
+      "translationEn": "From now on, various Japanese festivals will likely be protected and developed by young people. New ideas and traditional customs will combine, making festivals even more attractive.",
+      "id": "995150a4-0680-4c98-8ae5-ca2e03455651",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "祭り",
+      "reading": "まつり",
+      "meaningZh": "祭典，节日",
+      "meaningEn": "festival",
+      "level": "n5n4",
+      "exampleSentence": "夏に大きい祭りがあります。",
+      "id": "26f0a296-d42a-453a-aa38-e82c16cd5c17"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "世代",
+      "meaningEn": "generation",
+      "level": "n5n4",
+      "exampleSentence": "若い世代がお祭りを支えています。",
+      "id": "edd86336-dcc6-40c5-9aaa-a225912d2ddd"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "祭りの準備は大変です。",
+      "id": "70296b81-0cdd-4ac9-9f5a-866a2792ec34"
+    },
+    {
+      "word": "運営",
+      "reading": "うんえい",
+      "meaningZh": "运营，管理",
+      "meaningEn": "operation, management",
+      "level": "n3",
+      "exampleSentence": "祭りの運営は難しいです。",
+      "id": "44a227d7-c9e9-439d-bc50-5c2bdebc5eb9"
+    },
+    {
+      "word": "企画",
+      "reading": "きかく",
+      "meaningZh": "企划，计划",
+      "meaningEn": "plan, project",
+      "level": "n3",
+      "exampleSentence": "新しい企画を考えました。",
+      "id": "5769dd61-7511-4244-847e-92af0c8eaa65"
+    },
+    {
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaningZh": "信息",
+      "meaningEn": "information",
+      "level": "n5n4",
+      "exampleSentence": "祭りの情報をSNSで広めました。",
+      "id": "d0386228-6d7a-4f7c-b013-11d8ca0c537d"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n3",
+      "exampleSentence": "この踊りは昔からの伝統です。",
+      "id": "66aa6cf7-7079-4941-84bc-4b5148455f10"
+    },
+    {
+      "word": "魅力的",
+      "reading": "みりょくてき",
+      "meaningZh": "有魅力的",
+      "meaningEn": "attractive, charming",
+      "level": "n3",
+      "exampleSentence": "この祭りはとても魅力的です。",
+      "id": "6e582727-c38a-4b4e-a385-300559528fec"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔、お祭りの準備や運営は、主に誰がしていましたか。",
+      "options": [
+        "若い人たち",
+        "子供たち",
+        "年配の人々",
+        "地域の人々"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔は年配の人々が中心でした。",
+      "id": "06e9b703-e132-4d90-8d2d-5c372444dc03"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-21-8ed0d73e2b",
+  "publishedAt": "2026-09-21T06:00:00+09:00"
+}
