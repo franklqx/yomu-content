@@ -1,0 +1,127 @@
+{
+  "title": "秋の味覚！限定スイーツで食欲の秋を満喫",
+  "summary": "秋は美味しいものがたくさん！コンビニやカフェで期間限定のスイーツが登場しています。ぜひチェックして、秋の味覚を堪能しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋といえば、美味しい食べ物がたくさん思い浮かびますが、特にスイーツは魅力的ですよね。最近、コンビニやカフェでは、秋の味覚をテーマにした限定商品が続々と登場しています。栗やかぼちゃ、さつまいもなど、秋ならではの素材を使ったスイーツは、見るだけでも楽しくなります。",
+      "translationZh": "说到秋天，会想到很多美味的食物，尤其是甜点，非常有魅力。最近，便利店和咖啡店里，以秋季风味为主题的限定商品接连上市。使用栗子、南瓜、红薯等只有秋天才能尝到的食材制作的甜点，光是看着就让人心情愉悦。",
+      "translationEn": "When we talk about autumn, many delicious foods come to mind, especially sweets, which are very appealing. Recently, convenience stores and cafes have been releasing a series of limited-edition products themed around autumn flavors. Sweets made with ingredients unique to autumn, such as chestnuts, pumpkins, and sweet potatoes, are enjoyable just to look at.",
+      "id": "8fe6829c-573d-452b-bc38-42e190a83ed8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、あるコンビニでは、濃厚なモンブランケーキが販売されています。これは、栗のクリームがたっぷりで、中にはスポンジと生クリームが入っていて、とてもリッチな味わいです。また、別のカフェでは、かぼちゃのプリンが人気を集めています。優しい甘さとかぼちゃの風味が絶妙で、温かい飲み物と一緒にいただくと、ほっと一息つけます。",
+      "translationZh": "例如，某便利店正在销售浓郁的蒙布朗蛋糕。这款蛋糕使用了大量的栗子奶油，里面有海绵蛋糕和鲜奶油，味道非常浓郁。另外，在另一家咖啡店，南瓜布丁很受欢迎。它有着恰到好处的甜味和南瓜的香味，与热饮一起享用，能让人放松下来。",
+      "einTranslationEn": "For example, one convenience store is selling a rich Mont Blanc cake. It's generously filled with chestnut cream, with sponge cake and fresh cream inside, offering a very luxurious taste. Meanwhile, at another cafe, pumpkin pudding is gaining popularity. Its delicate sweetness and pumpkin flavor are exquisite, and enjoying it with a warm drink allows for a moment of relaxation.",
+      "id": "a3e5e0af-8e23-4252-a375-f2878552bced",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    },
+    {
+      "text": "これらの限定商品は、期間限定であることが多いので、見つけたらすぐに試してみるのがおすすめです。せっかくの秋の食欲シーズンですから、新しい味覚との出会いを楽しみながら、お気に入りの一品を見つけてみてはいかがでしょうか。SNSで「＃秋スイーツ」と検索してみるのも良いかもしれませんね。",
+      "translationZh": "这些限定商品很多都是限时供应的，所以建议一看到就赶紧尝试。既然是秋季的食欲之季，不妨在享受新口味的同时，找出自己喜欢的那一款。在社交媒体上搜索“#秋季甜点”也许也不错。",
+      "translationEn": "Since these limited-edition products are often available for a limited time, it's recommended to try them as soon as you find them. It's the autumn appetite season, after all. Why not enjoy discovering new flavors and find your favorite item? Searching for '#AutumnSweets' on social media might also be a good idea.",
+      "id": "76bce866-e4dd-426b-ad36-c59c19444c37",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "食欲",
+      "reading": "しょくよく",
+      "meaningZh": "食欲",
+      "meaningEn": "appetite",
+      "level": "n3",
+      "exampleSentence": "秋になると食欲が増す。",
+      "id": "88917016-f807-4b55-b84d-4ba19fe34d7d"
+    },
+    {
+      "word": "彩る",
+      "reading": "いろどる",
+      "meaningZh": "增添色彩，点缀",
+      "meaningEn": "to color, to decorate",
+      "level": "n3",
+      "exampleSentence": "美しい花々が庭を彩っている。",
+      "id": "067b986c-6df1-48a8-87a7-d19a3e09acab"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n3",
+      "exampleSentence": "この商品は期間限定です。",
+      "id": "8d26ec88-230a-4639-968e-36b59a717648"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味觉",
+      "meaningEn": "sense of taste",
+      "level": "n3",
+      "exampleSentence": "旬の食材は味覚が一番良い。",
+      "id": "2fbcc684-adbd-4e3f-aa92-d0cb09590f77"
+    },
+    {
+      "word": "モンブラン",
+      "reading": "もんぶらん",
+      "meaningZh": "蒙布朗（一种栗子奶油蛋糕）",
+      "meaningEn": "Mont Blanc (a type of chestnut cream cake)",
+      "level": "n3",
+      "exampleSentence": "秋になるとモンブランが食べたくなる。",
+      "id": "c1aeffcc-b408-4378-842a-c7886aa153f8"
+    },
+    {
+      "word": "濃厚",
+      "reading": "のうこう",
+      "meaningZh": "浓厚",
+      "meaningEn": "rich, thick",
+      "level": "n3",
+      "exampleSentence": "このチーズケーキは濃厚で美味しい。",
+      "id": "6c29390e-51d0-4189-9780-b33252a367c6"
+    },
+    {
+      "word": "絶妙",
+      "reading": "ぜつみょう",
+      "meaningZh": "绝妙，恰到好处",
+      "meaningEn": "exquisite, perfect",
+      "level": "n2n1",
+      "exampleSentence": "二人のバランスが絶妙だ。",
+      "id": "14df5559-957f-42f8-b6d8-c8432ce949be"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニやカフェで登場している限定商品は、どのようなテーマで作られていますか？",
+      "options": [
+        "夏のフルーツ",
+        "秋の味覚",
+        "冬の温かい飲み物",
+        "春の花"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「秋の味覚をテーマにした限定商品が続々と登場しています。」とあります。",
+      "id": "b1a75d99-c41e-423d-af21-c73def3a67a0"
+    },
+    {
+      "question": "本文によると、限定商品についてはどのようなことが述べられていますか？",
+      "options": [
+        "一年中いつでも買える",
+        "値段がとても安い",
+        "期間限定であることが多い",
+        "健康に良いものばかり"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「これらの限定商品は、期間限定であることが多いので、見つけたらすぐに試してみるのがおすすめです。」とあります。",
+      "id": "bee50251-0811-4ff6-9396-edd77972c56f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-22-26f6e5544d",
+  "publishedAt": "2026-09-22T06:00:00+09:00"
+}

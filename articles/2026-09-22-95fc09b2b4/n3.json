@@ -1,0 +1,126 @@
+{
+  "title": "発酵食品ブーム！健康的な食生活の秘訣",
+  "summary": "最近、健康志向の高まりとともに、発酵食品が注目されています。このブームの背景と、私たちの食生活への影響を見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "健康への関心が高まるにつれて、私たちの食生活にも変化が見られます。特に、ヨーグルトや味噌、納豆といった発酵食品が人気を集めているのです。これらの食品は、昔から日本の食卓に欠かせないものでしたが、近年、その健康効果が科学的に証明され、改めて見直されています。",
+      "translationZh": "随着对健康关注度的提高，我们的饮食生活也发生了变化。特别是酸奶、味噌、纳豆等发酵食品正受到欢迎。这些食品自古以来就是日本餐桌上不可或缺的一部分，但近年来，它们的健康效果得到了科学证明，被重新审视。",
+      "translationEn": "As interest in health rises, changes are also seen in our dietary habits. In particular, fermented foods such as yogurt, miso, and natto are gaining popularity. These foods have long been indispensable to the Japanese table, but in recent years, their health benefits have been scientifically proven, leading to a renewed appreciation.",
+      "id": "0a232462-2ea7-44ab-9053-9d42a3bce83b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品が注目される理由の一つは、腸内環境を整える効果があるからです。発酵の過程で生まれる乳酸菌などの善玉菌は、私たちの腸に住む細菌のバランスを良くすると言われています。腸内環境が整うと、消化吸収が促進されるだけでなく、免疫力の向上やアレルギーの抑制にもつながる可能性があるのです。",
+      "translationZh": "发酵食品受到关注的原因之一是它们能调节肠道环境。发酵过程中产生的乳酸菌等益生菌，据说能改善我们肠道内细菌的平衡。肠道环境的改善不仅能促进消化吸收，还有可能提高免疫力、抑制过敏。",
+      "translationEn": "One reason why fermented foods are attracting attention is their effect on improving the intestinal environment. Good bacteria like lactic acid bacteria, produced during fermentation, are said to improve the balance of bacteria living in our intestines. A well-balanced intestinal environment not only promotes digestion and absorption but also has the potential to boost immunity and suppress allergies.",
+      "id": "4adab649-0870-4380-a50f-3345a9c55159",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、発酵食品を食べるだけで健康になれるわけではありません。バランスの取れた食事を心がけながら、適量を取り入れることが大切です。例えば、朝食にヨーグルトを加えたり、味噌汁を毎日の食卓に並べたりするだけでも、日々の健康維持に役立つでしょう。無理なく続けられる方法で、発酵食品の恩恵を受けましょう。",
+      "translationZh": "但是，仅仅吃发酵食品并不能变得健康。在注重均衡饮食的同时，摄取适量很重要。例如，即使只是在早餐中加入酸奶，或是在日常餐桌上摆放味噌汤，也有助于维持日常健康。让我们用可持续的方式，享受发酵食品的益处。",
+      "translationEn": "However, simply eating fermented foods won't make you healthy. It's important to incorporate them in moderation while aiming for a balanced diet. For instance, adding yogurt to your breakfast or including miso soup in your daily meals can contribute to maintaining your health. Let's benefit from fermented foods in a way that is sustainable.",
+      "id": "aab1e3ea-e9d6-4935-841c-210ce4e71a37",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "納豆は代表的な日本の発酵食品です。",
+      "id": "b393bda7-4419-4e69-9b43-2ecc3b2884f8"
+    },
+    {
+      "word": "健康意識",
+      "reading": "けんこういしき",
+      "meaningZh": "健康意识",
+      "meaningEn": "health consciousness",
+      "level": "n3",
+      "exampleSentence": "最近、健康意識が高まっています。",
+      "id": "1fd4eafb-4b28-46db-9cde-9cbf075f7649"
+    },
+    {
+      "word": "高まる",
+      "reading": "たかまる",
+      "meaningZh": "（程度、数量等）提高，增强；加剧",
+      "meaningEn": "to rise, to increase, to heighten",
+      "level": "n3",
+      "exampleSentence": "期待が高まっています。",
+      "id": "60e35165-63da-484b-b2f0-4aeb598893fd"
+    },
+    {
+      "word": "腸内環境",
+      "reading": "ちょうないかんきょう",
+      "meaningZh": "肠道环境",
+      "meaningEn": "intestinal environment",
+      "level": "n3",
+      "exampleSentence": "腸内環境を整えることが大切です。",
+      "id": "5516accf-c23a-4c9f-85b8-59769d255012"
+    },
+    {
+      "word": "善玉菌",
+      "reading": "ぜんだまきん",
+      "meaningZh": "益生菌（指对人体有益的细菌）",
+      "meaningEn": "beneficial bacteria, good bacteria",
+      "level": "n3",
+      "exampleSentence": "善玉菌を増やすために、ヨーグルトをよく食べます。",
+      "id": "58a5c637-6d92-4d14-a677-3036bfdc7404"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaningZh": "免疫力",
+      "meaningEn": "immunity",
+      "level": "n3",
+      "exampleSentence": "免疫力を高めるには、十分な睡眠が必要です。",
+      "id": "3c4e4b0d-45a4-42a5-bb35-fc6bd51309cc"
+    },
+    {
+      "word": "抑制",
+      "reading": "よくせい",
+      "meaningZh": "抑制，压制",
+      "meaningEn": "inhibition, restraint",
+      "level": "n2n1",
+      "exampleSentence": "感情の抑制が難しい。",
+      "id": "6809f74b-5552-4855-b1c8-30814d5d32f8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品が注目されている主な理由は何ですか？",
+      "options": [
+        "昔から食べられてきたから",
+        "味が美味しいから",
+        "腸内環境を整える効果があるから",
+        "値段が安いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「発酵食品が注目される理由の一つは、腸内環境を整える効果があるからです。」と説明されています。",
+      "id": "a4d1f1f2-5f7f-4e3b-b7bd-c886258ef045"
+    },
+    {
+      "question": "発酵食品を食べる上で、本文ではどのようなことが大切だと述べられていますか？",
+      "options": [
+        "毎日たくさん食べること",
+        "他の食品を食べずに発酵食品だけを食べること",
+        "バランスの取れた食事を心がけながら、適量を取り入れること",
+        "高価な発酵食品を選ぶこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に、「バランスの取れた食事を心がけながら、適量を取り入れることが大切です。」と書かれています。",
+      "id": "940d5b08-1678-4a9b-97c9-cc8a88f9cd0f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-22-95fc09b2b4",
+  "publishedAt": "2026-09-22T06:00:00+09:00"
+}

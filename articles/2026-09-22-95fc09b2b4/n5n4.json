@@ -1,0 +1,122 @@
+{
+  "title": "発酵食品で元気になろう！",
+  "summary": "最近、発酵食品が人気です。体に良いので、みんな健康になりたいと思っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、発酵食品がとても人気があります。納豆、味噌、ヨーグルトなど、いろいろな発酵食品があります。これらの食品は、私たちの体に良いと知られています。",
+      "translationZh": "最近，发酵食品非常受欢迎。有纳豆、味噌、酸奶等各种各样的发酵食品。这些食品被认为对我们的身体有益。",
+      "translationEn": "Recently, fermented foods are very popular. There are various fermented foods such as natto, miso, and yogurt. These foods are known to be good for our bodies.",
+      "id": "61f12390-64bd-40ea-a21e-17aebc19862b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "健康（けんこう）を大切にする人が増えています。そのため、体に良い食べ物に興味を持つ人が多くなりました。発酵食品は、お腹の調子を良くする助けになります。",
+      "translationZh": "重视健康的人正在增加。因此，对有益于身体的食物感兴趣的人变多了。发酵食品有助于改善肠胃功能。",
+      "translationEn": "More and more people are valuing their health. Because of this, many people have become interested in foods that are good for the body. Fermented foods help to improve stomach conditions.",
+      "id": "645470d6-6cac-48c5-84cd-31af1919ab9e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔から、日本には発酵食品がたくさんありました。おばあちゃんやお母さんが作ってくれた、なつかしい味もありますね。発酵食品を食べることは、私たちの健康を守る良い方法です。",
+      "translationZh": "自古以来，日本就有许多发酵食品。也有我们奶奶或妈妈做的，令人怀念的味道。吃发酵食品是保护我们健康的好方法。",
+      "translationEn": "Since a long time ago, Japan has had many fermented foods. There are also nostalgic tastes that grandmothers or mothers used to make. Eating fermented foods is a good way to protect our health.",
+      "id": "e43766d3-c412-4330-b716-bf7aebcd9b97",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、毎日の食生活に発酵食品を加えてみませんか？きっと、体が元気になり、気分も良くなるでしょう。",
+      "translationZh": "大家也要不要在日常饮食中加入发酵食品呢？肯定会让身体变得健康，心情也会变好。",
+      "translationEn": "Why don't you all try adding fermented foods to your daily diet? It will surely make your body energetic and your mood better.",
+      "id": "7cefd463-55bc-499a-9041-87c9d8212b41",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n5n4",
+      "exampleSentence": "納豆は日本の代表的な発酵食品です。",
+      "id": "4459065b-29db-4d9a-9d89-003d03bfd88a"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日運動します。",
+      "id": "cf33b417-b66c-4cec-b960-edfc9fff0499"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎，人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この新しいケーキはとても人気があります。",
+      "id": "d3168ee9-d617-446f-a690-e663d3d1c1a9"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状况，状态",
+      "meaningEn": "condition",
+      "level": "n5n4",
+      "exampleSentence": "最近、体の調子がいいです。",
+      "id": "59ee26c8-ef9f-4013-84e3-2ef8ed29d479"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "家族を大切にしてください。",
+      "id": "bd7b46a1-8ea0-48ac-83ae-31404a223811"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町はとても静かでした。",
+      "id": "1815b84b-649e-4092-a4ae-9099fe500d24"
+    },
+    {
+      "word": "食生活",
+      "reading": "しょくせいかつ",
+      "meaningZh": "饮食生活",
+      "meaningEn": "dietary life",
+      "level": "n3",
+      "exampleSentence": "健康な食生活を心がけています。",
+      "id": "e81ac75b-7b20-4cc0-af30-f47c6e95fa9f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ最近、発酵食品が人気ですか？",
+      "options": [
+        "昔から食べられていたからです。",
+        "体に良いので、健康になりたい人が増えたからです。",
+        "たくさんの種類があるからです。",
+        "安く買えるからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "健康を大切にする人が増えているため、体に良い発酵食品に興味を持つ人が多くなりました。",
+      "id": "878ca440-5506-4351-a53f-ff41b1cbe7fd"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-22-95fc09b2b4",
+  "publishedAt": "2026-09-22T06:00:00+09:00"
+}

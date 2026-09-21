@@ -1,0 +1,131 @@
+{
+  "title": "秋の味覚！限定スイーツ登場",
+  "summary": "秋になりました。美味しいものがたくさんあります。お店に新しい限定商品が出ました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋は食べ物がおいしい季節です。果物や飲み物がおいしくなります。特に、秋限定のスイーツは人気があります。今年は、栗（くり）やさつまいものお菓子がたくさん出ました。",
+      "translationZh": "秋天是食物美味的季节。水果和饮料变得更美味了。特别是，秋季限定的甜点很受欢迎。今年，栗子和红薯的糕点有很多上市。",
+      "translationEn": "Autumn is a delicious season for food. Fruits and drinks become tastier. Especially, autumn-limited sweets are popular. This year, many sweets made with chestnuts and sweet potatoes have appeared.",
+      "id": "9e5722f7-f8ad-4349-b44d-d71c4a560694",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "あるカフェでは、栗のモンブランが新しく出ました。クリームはとても甘くて、栗の味がしっかりします。コーヒーと一緒に食べると、もっとおいしいです。これは人気なので、早く売り切れます。",
+      "translationZh": "在一家咖啡馆，新推出了栗子蒙布朗。奶油非常甜，栗子的味道很浓郁。和咖啡一起吃，会更美味。因为这个很受欢迎，所以很快就卖完了。",
+      "translationEn": "At a certain cafe, a new chestnut Mont Blanc has been released. The cream is very sweet, and the chestnut flavor is strong. It tastes even better when eaten with coffee. Because it's popular, it sells out quickly.",
+      "id": "7d78c2de-9bfb-4006-afbc-b8ac757b3f68",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニでも、さつまいものタルトが買えます。小さくて食べやすいです。甘さもちょうどいいです。仕事の休憩に食べると、元気が出ます。これも秋の間にしかありません。",
+      "translationZh": "在便利店也可以买到红薯挞。它很小，容易食用。甜度也刚刚好。工作休息时吃，会让人充满活力。这个也只有在秋天有。",
+      "translationEn": "You can also buy sweet potato tarts at convenience stores. They are small and easy to eat. The sweetness is just right. Eating one during a work break can boost your energy. These are also only available during autumn.",
+      "id": "d5fe6b6f-27c3-4901-aeb7-2732cc673b21",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "秋の限定商品は、季節を感じさせてくれます。おいしいものを探して、秋を楽しみましょう。お店に行ってみてください。",
+      "translationZh": "秋季的限定商品能让人感受到季节的变化。去寻找美味的食物，享受秋天吧。请去店里看看。",
+      "translationEn": "Autumn's limited products make us feel the changing seasons. Let's find delicious things and enjoy autumn. Please try visiting the stores.",
+      "id": "78725db8-9a9f-47da-9dab-e10f3726faf2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は涼しい季節です。",
+      "id": "fb1ae390-83c0-4ee3-b734-629ca9ce560a"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "これは限定の味です。",
+      "id": "b334601f-0288-4a8d-8a1e-66e8e31135f0"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningZh": "商品",
+      "meaningEn": "product",
+      "level": "n5n4",
+      "exampleSentence": "新しい商品がたくさん出ました。",
+      "id": "02977bab-1911-4a94-a000-5e51daacfea4"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味觉",
+      "meaningEn": "sense of taste",
+      "level": "n5n4",
+      "exampleSentence": "秋の味覚は最高です。",
+      "id": "9be2dd44-ea6d-4c34-bec0-e9bdf825781d"
+    },
+    {
+      "word": "栗",
+      "reading": "くり",
+      "meaningZh": "栗子",
+      "meaningEn": "chestnut",
+      "level": "n5n4",
+      "exampleSentence": "栗のお菓子が好きです。",
+      "id": "5b271c7c-e168-463c-b020-333570d56c9b"
+    },
+    {
+      "word": "さつまいも",
+      "reading": "さつまいも",
+      "meaningZh": "红薯",
+      "meaningEn": "sweet potato",
+      "level": "n5n4",
+      "exampleSentence": "さつまいもは甘いです。",
+      "id": "c9f3414b-97dd-4bb3-b436-1faff138d4f9"
+    },
+    {
+      "word": "カフェ",
+      "reading": "かふぇ",
+      "meaningZh": "咖啡馆",
+      "meaningEn": "cafe",
+      "level": "n5n4",
+      "exampleSentence": "友達とカフェに行きました。",
+      "id": "467c1b2b-26af-404f-a67f-fdadb19b1445"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n3",
+      "exampleSentence": "人気の商品なので、すぐ売り切れました。",
+      "id": "cdce0a67-9618-4813-9b52-4965ec84d60e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "カフェのモンブランは、どんな味がしますか。",
+      "options": [
+        "さつまいもの味",
+        "栗の味",
+        "チョコレートの味",
+        "抹茶の味"
+      ],
+      "correctIndex": 1,
+      "explanation": "「クリームはとても甘くて、栗の味がしっかりします。」",
+      "id": "89153bcd-b11e-4938-b444-0132a81894a9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-22-26f6e5544d",
+  "publishedAt": "2026-09-22T06:00:00+09:00"
+}

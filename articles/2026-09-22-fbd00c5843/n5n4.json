@@ -1,0 +1,131 @@
+{
+  "title": "アニメの力で町おこし",
+  "summary": "ある商店街がアニメの聖地になりました。町の人々が協力して、町を元気にしました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、ある町に古い商店街がありました。でも、あまり人が来なくなって、町は静かでした。店の人たちは、どうすれば町が元気になるか、話し合いました。",
+      "translationZh": "过去，有一个小镇有一条旧的商业街。但是，来的人很少，小镇很安静。店主们讨论着怎样才能让小镇重新焕发生机。",
+      "translationEn": "In the past, there was an old shopping street in a certain town. However, not many people visited, and the town became quiet. The shopkeepers discussed how to make the town lively again.",
+      "id": "926c9094-907d-4d4f-8ac1-1e502259e144",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "その時、人気のアニメがその町で放送されました。アニメの舞台が、この商店街とそっくりだったのです。すぐに、アニメのファンがたくさん町にやってきました。",
+      "translationZh": "这时，一部人气动画在这座小镇上播出了。动画的舞台，和这条商业街非常相似。很快，很多动画粉丝来到了小镇。",
+      "translationEn": "At that time, a popular anime was broadcast in that town. The setting of the anime was very similar to this shopping street. Soon, many anime fans came to the town.",
+      "id": "64892ad5-828a-4b62-8a9c-8ee2109b2bfa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人たちは、ファンをもてなすために、いろいろなことをしました。アニメのポスターを飾ったり、特別なグッズを作ったりしました。みんなで協力して、町はとても明るくなりました。",
+      "translationZh": "镇上的人们为了款待粉丝，做了各种各样的事情。他们装饰了动画海报，制作了特别的周边商品。大家齐心协力，小镇变得非常热闹。",
+      "translationEn": "The townspeople did various things to welcome the fans. They decorated anime posters and made special merchandise. Everyone cooperated, and the town became very lively.",
+      "id": "7d2c4d12-4fd9-4359-bb0f-13086367bf7e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今では、この商店街は「アニメの聖地」として有名です。町の人々は、アニメの力で町が元気になったことを、とても喜んでいます。これからも、この町を大切にしていきたいです。",
+      "translationZh": "如今，这条商业街作为“动画圣地”而闻名。镇上的人们非常高兴，因为小镇借由动画的力量而变得充满活力。今后，他们也希望继续珍惜这个小镇。",
+      "translationEn": "Now, this shopping street is famous as an \"anime sacred place.\" The townspeople are very happy that the town has become lively thanks to the power of anime. They want to continue cherishing this town in the future.",
+      "id": "af7f17f5-b129-41e7-931d-fc24279ee407",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商业街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつも賑やかです。",
+      "id": "3d3299ed-9850-4660-b27b-263528da26db"
+    },
+    {
+      "word": "聖地",
+      "reading": "せいち",
+      "meaningZh": "圣地 (常指因动漫等而闻名的地方)",
+      "meaningEn": "sacred place (often a place famous due to anime, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "この場所はアニメの聖地になりました。",
+      "id": "b2b2205a-a0cc-4396-8f34-f25f4d0dec28"
+    },
+    {
+      "word": "力",
+      "reading": "ちから",
+      "meaningZh": "力量，能力",
+      "meaningEn": "power, strength",
+      "level": "n5n4",
+      "exampleSentence": "彼は大きな力を持っています。",
+      "id": "62b4be8b-58e8-41de-9ee9-909aabf0b723"
+    },
+    {
+      "word": "町おこし",
+      "reading": "まちおこし",
+      "meaningZh": "振兴地方，发展地方经济",
+      "meaningEn": "town revitalization, regional development",
+      "level": "n3",
+      "exampleSentence": "町おこしのためのイベントが開かれました。",
+      "id": "741f6aa5-88fd-4cf6-8fea-ed3c1675fa40"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，背景",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "この物語の舞台は江戸時代です。",
+      "id": "a2918107-c528-4f3c-9aa6-9f662e16a962"
+    },
+    {
+      "word": "ファン",
+      "reading": "ファン",
+      "meaningZh": "粉丝，爱好者",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はその歌手の熱心なファンです。",
+      "id": "b9f8978b-f750-42a6-990a-509cad89f9c6"
+    },
+    {
+      "word": "もてなす",
+      "reading": "もてなす",
+      "meaningZh": "款待，招待",
+      "meaningEn": "to entertain, to treat",
+      "level": "n3",
+      "exampleSentence": "お客様を丁寧にもてなしました。",
+      "id": "829c1f1d-98a1-4424-ae2f-b0b2edafd77c"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation",
+      "level": "n5n4",
+      "exampleSentence": "みんなで協力して問題を解決しました。",
+      "id": "ef071694-cca1-4685-8f60-624024eb0964"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この商店街がアニメの聖地になったのはなぜですか。",
+      "options": [
+        "アニメのイベントがあったから",
+        "アニメの舞台がこの町と似ていたから",
+        "町の人々がアニメを作ったから",
+        "町がもともと有名だったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "アニメの舞台が、この商店街とそっくりだったのです。",
+      "id": "33b0acae-7ad8-4eb0-bf7f-9c1109faa55c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-22-fbd00c5843",
+  "publishedAt": "2026-09-22T06:00:00+09:00"
+}
