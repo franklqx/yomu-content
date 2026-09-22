@@ -1,0 +1,143 @@
+{
+  "title": "スマートシティ実証実験、成果続々！",
+  "summary": "最新のスマートシティ実証区で、新しい技術を使った実験が行われ、いくつかの有望な成果が出てきました。これらの実験は、私たちの未来の生活をより便利で持続可能なものにするための重要な一歩です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある都市でスマートシティの新しい実証区が作られ、様々な実験が行われました。ここでは、AIやIoTといった最新技術を活用し、交通やエネルギー、防災といった分野での課題解決を目指しています。例えば、信号機が交通量に合わせて自動で変わるシステムは、渋滞の緩和に成功しました。",
+      "translationZh": "最近，某城市建立了一个新的智慧城市示范区，并进行了各种实验。在这里，旨在利用人工智能（AI）和物联网（IoT）等最新技术，解决交通、能源和防灾等领域的问题。例如，一个可以根据交通流量自动改变的交通信号系统在缓解交通拥堵方面取得了成功。",
+      "translationEn": "Recently, a new demonstration area for a smart city was established in a certain city, and various experiments were conducted. Here, the goal is to solve problems in areas such as transportation, energy, and disaster prevention by utilizing the latest technologies like AI and IoT. For example, a system where traffic lights automatically change according to traffic volume succeeded in alleviating congestion.",
+      "id": "fffb9206-e207-41b6-a14b-af47ec055a7d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、エネルギー分野では、再生可能エネルギーを効率的に管理するシステムが導入されました。これにより、電力の無駄が減り、環境への負荷も軽くなることが期待されています。住民がエネルギーの使用状況をリアルタイムで確認できるため、省エネ意識の向上にもつながっています。",
+      "translationZh": "此外，在能源领域，引入了一个有效管理可再生能源的系统。这有望减少能源浪费，减轻对环境的负担。由于居民可以实时查看能源使用情况，这也提高了节能意识。",
+      "translationEn": "Furthermore, in the energy sector, a system for efficiently managing renewable energy has been introduced. This is expected to reduce energy waste and lessen the environmental burden. As residents can check their energy usage in real-time, it also leads to increased awareness of energy saving.",
+      "id": "ebac54dd-0858-430a-8d82-8314b0e35d8e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、防災の面では、センサーネットワークを活用した早期警報システムが試験されました。このシステムは、地震や豪雨などの災害発生時に、いち早く情報を収集し、住民に知らせることができます。これにより、被害を最小限に抑えることが可能になると考えられています。",
+      "translationZh": "此外，在防灾方面，测试了一个利用传感器网络的早期预警系统。该系统可以在地震或强降雨等灾害发生时，迅速收集信息并通知居民。这被认为有助于将损失降到最低。",
+      "translationEn": "In addition, for disaster prevention, an early warning system utilizing a sensor network was tested. This system can quickly gather information and notify residents when disasters such as earthquakes or heavy rains occur. It is thought that this will make it possible to minimize damage.",
+      "id": "045d0ad1-bc4c-4f3b-9806-67dc9ff4d79a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの実験はまだ始まったばかりですが、スマートシティが私たちの生活をより安全で快適、そして持続可能なものに変えていく可能性を示しています。今後、これらの技術がさらに発展し、広く普及していくことが期待されます。",
+      "translationZh": "尽管这些实验才刚刚开始，但它们展示了智慧城市将我们的生活变得更安全、更舒适、更可持续的潜力。预计这些技术未来将得到进一步发展并得到广泛普及。",
+      "translationEn": "Although these experiments have just begun, they show the potential of smart cities to transform our lives into something safer, more comfortable, and more sustainable. It is expected that these technologies will further develop and become widespread in the future.",
+      "id": "c53b6d0e-c0aa-4361-bdf5-86b35ccc7c32",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実証区",
+      "reading": "じっしょうく",
+      "meaningZh": "进行实证、验证的区域。",
+      "meaningEn": "Demonstration area; testing zone.",
+      "level": "n3",
+      "exampleSentence": "この地域はスマートシティの実証区に指定されている。",
+      "id": "b956bef3-d0d9-440a-b2c2-9da36018bd9c"
+    },
+    {
+      "word": "最新技術",
+      "reading": "さいしんぎじゅつ",
+      "meaningZh": "目前最先进的技术。",
+      "meaningEn": "Latest technology.",
+      "level": "n3",
+      "exampleSentence": "最新技術を駆使して、新しい製品を開発する。",
+      "id": "3e66ba53-5d3b-4d61-9dd5-526db5cfef6d"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "有效地利用、发挥作用。",
+      "meaningEn": "Utilization; making good use of.",
+      "level": "n3",
+      "exampleSentence": "この経験を今後の仕事に活用したい。",
+      "id": "1e9b775a-4feb-4cd3-b425-302c3d495361"
+    },
+    {
+      "word": "渋滞",
+      "reading": "じゅうたい",
+      "meaningZh": "（车辆等）堵塞，停滞不前。",
+      "meaningEn": "Traffic congestion; jam.",
+      "level": "n3",
+      "exampleSentence": "朝のラッシュアワーはひどい渋滞になる。",
+      "id": "69fdb9b4-fad8-4255-8d39-845217d622ef"
+    },
+    {
+      "word": "再生可能エネルギー",
+      "reading": "さいせいかのうエネルギー",
+      "meaningZh": "可再生能源，如太阳能、风能等。",
+      "meaningEn": "Renewable energy.",
+      "level": "n3",
+      "exampleSentence": "再生可能エネルギーへの転換が進んでいる。",
+      "id": "31b7ba76-f0ff-4752-abf0-93007f4553ab"
+    },
+    {
+      "word": "無駄",
+      "reading": "むだ",
+      "meaningZh": "浪费；徒劳。",
+      "meaningEn": "Waste; futility.",
+      "level": "n3",
+      "exampleSentence": "電気の無駄遣いをやめましょう。",
+      "id": "a53064d4-da5c-4ce8-989f-08d39512fca3"
+    },
+    {
+      "word": "センサーネットワーク",
+      "reading": "センサーネットワーク",
+      "meaningZh": "传感器网络，由多个传感器组成的通信网络。",
+      "meaningEn": "Sensor network.",
+      "level": "n3",
+      "exampleSentence": "スマートホームにはセンサーネットワークが不可欠だ。",
+      "id": "63def914-7b7f-46c6-bfba-586ae6f90c58"
+    },
+    {
+      "word": "最小限",
+      "reading": "さいしょうげん",
+      "meaningZh": "最小值；最低限度。",
+      "meaningEn": "Minimum.",
+      "level": "n3",
+      "exampleSentence": "被害を最小限に抑えることができた。",
+      "id": "694e5cc4-3801-4286-9f52-69b8997457ae"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実証区では、どのような分野の課題解決を目指していますか？",
+      "options": [
+        "観光と文化",
+        "交通、エネルギー、防災",
+        "教育と医療",
+        "農業と漁業"
+      ],
+      "correctIndex": 1,
+      "explanation": "第一段に「交通やエネルギー、防災といった分野での課題解決を目指しています。」とあります。",
+      "id": "aa725e3f-3920-4f28-9a15-a2282bad0ac1"
+    },
+    {
+      "question": "エネルギー分野のシステム導入によって、どのような効果が期待されていますか？",
+      "options": [
+        "化石燃料の使用量増加",
+        "電力料金の値上げ",
+        "電力の無駄削減と環境負荷軽減",
+        "エネルギー管理者の増加"
+      ],
+      "correctIndex": 2,
+      "explanation": "第二段に「電力の無駄が減り、環境への負荷も軽くなることが期待されています。」とあります。",
+      "id": "5a1daea0-8974-445e-9ddb-dd7bee3e5732"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-23-1ed3373102",
+  "publishedAt": "2026-09-23T06:00:00+09:00"
+}

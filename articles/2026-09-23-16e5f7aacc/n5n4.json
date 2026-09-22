@@ -1,0 +1,131 @@
+{
+  "title": "瀬戸内海クルーズ、新しい旅",
+  "summary": "瀬戸内海で新しいクルーズの旅が始まりました。美しい海と島々を楽しむことができます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海はとても美しい海です。たくさんの島があります。最近、新しいクルーズ船ができました。この船で、瀬戸内海の島々を回ることができます。",
+      "translationZh": "濑户内海是非常美丽的海。有很多岛屿。最近，新的游船造好了。乘坐这艘船，可以游览濑户内海的岛屿。",
+      "translationEn": "The Seto Inland Sea is a very beautiful sea. There are many islands. Recently, a new cruise ship was built. With this ship, you can visit the islands of the Seto Inland Sea.",
+      "id": "79703f8b-326f-40db-9493-fb3a9806ccb5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいクルーズの楽しみ方はたくさんあります。例えば、船の上で美味しい海の幸を食べられます。また、島でのんびり散歩することもできます。",
+      "translationZh": "新的游船旅行有很多乐趣。例如，可以在船上吃美味的海鲜。另外，也可以在岛上悠闲地散步。",
+      "translationEn": "There are many ways to enjoy the new cruise. For example, you can eat delicious seafood on the ship. Also, you can take a relaxing walk on the islands.",
+      "id": "57e34424-045e-4ad1-a5a4-dd1cc7b5cc17",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜には、海に沈む夕日を見ることができます。とてもロマンチックな時間です。家族や友達と一緒に、素晴らしい思い出を作ることができます。",
+      "translationZh": "晚上，可以看到沉入海中的夕阳。是非常浪漫的时光。可以和家人或朋友一起，创造美好的回忆。",
+      "translationEn": "At night, you can see the sunset sinking into the sea. It is a very romantic time. You can create wonderful memories with your family and friends.",
+      "id": "70e9bc9a-eb3c-45f4-a704-97f73aefa86b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このクルーズは、海が好きな人におすすめです。新しい発見がたくさんあるでしょう。ぜひ一度、体験してみてください。",
+      "translationZh": "这次游船旅行推荐给喜欢海的人。会有很多新的发现。请一定要体验一次。",
+      "translationEn": "This cruise is recommended for people who like the sea. There will be many new discoveries. Please try it at least once.",
+      "id": "abae4d4f-6e9d-431f-9dec-2f07ee5ea40b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": "瀬戸内海は穏やかな海です。",
+      "id": "a2f0f2da-58be-419f-a250-2306e2e2b544"
+    },
+    {
+      "word": "クルーズ",
+      "reading": "くるーず",
+      "meaningZh": "邮轮旅行",
+      "meaningEn": "cruise",
+      "level": "n5n4",
+      "exampleSentence": "船でクルーズをしました。",
+      "id": "a077336a-7ea9-4529-9b11-a1b38bfd3f02"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "きれいな島に行きたいです。",
+      "id": "69d85129-14a5-4fee-a16e-2d15793f30e0"
+    },
+    {
+      "word": "楽しみ方",
+      "reading": "たのしみかた",
+      "meaningZh": "享受方式，乐趣",
+      "meaningEn": "way to enjoy",
+      "level": "n5n4",
+      "exampleSentence": "このゲームの楽しみ方を教えてください。",
+      "id": "fcad189f-5a1f-422f-9231-0570d4af8695"
+    },
+    {
+      "word": "海の幸",
+      "reading": "うみのさち",
+      "meaningZh": "海产，海鲜",
+      "meaningEn": "seafood",
+      "level": "n5n4",
+      "exampleSentence": "海の幸はとてもおいしかったです。",
+      "id": "404cf9cf-e539-4921-89c3-a8901a01ea94"
+    },
+    {
+      "word": "のんびり",
+      "reading": "のんびり",
+      "meaningZh": "悠闲地，悠哉地",
+      "meaningEn": "leisurely",
+      "level": "n5n4",
+      "exampleSentence": "休みの日はのんびり過ごします。",
+      "id": "5f6fa34a-71ca-49cb-8c28-7490e84da422"
+    },
+    {
+      "word": "夕日",
+      "reading": "ゆうひ",
+      "meaningZh": "夕阳",
+      "meaningEn": "sunset",
+      "level": "n5n4",
+      "exampleSentence": "きれいな夕日を見ました。",
+      "id": "daae84fc-1fed-4ed0-a0d9-da9d466d11d3"
+    },
+    {
+      "word": "ロマンチック",
+      "reading": "ろまんちっく",
+      "meaningZh": "浪漫的",
+      "meaningEn": "romantic",
+      "level": "n5n4",
+      "exampleSentence": "二人はロマンチックな場所に行きました。",
+      "id": "41e1351d-1ca4-4e6b-8683-632291180f38"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいクルーズ船で何ができますか？",
+      "options": [
+        "島を回って、海の幸を食べること",
+        "都会で買い物すること",
+        "山に登ること",
+        "美術館に行くこと"
+      ],
+      "correctIndex": 0,
+      "explanation": "新しいクルーズの楽しみ方として、船の上で美味しい海の幸を食べたり、島でのんびり散歩したりすることが紹介されています。",
+      "id": "79730ad2-4265-4314-8b1c-46520413ce1a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-23-16e5f7aacc",
+  "publishedAt": "2026-09-23T06:00:00+09:00"
+}

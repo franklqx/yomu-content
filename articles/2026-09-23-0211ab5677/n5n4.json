@@ -1,0 +1,131 @@
+{
+  "title": "ヴィーガン和食が増えています",
+  "summary": "最近、日本でもヴィーガン向けの和食が増えています。これは、肉や魚を食べない人のための料理です。健康や環境のためにヴィーガンを選ぶ人が増えているからです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でヴィーガン向けの和食レストランが増えています。ヴィーガンは、肉、魚、卵、乳製品などを食べません。そのため、特別なメニューが必要です。",
+      "translationZh": "最近，日本面向素食者的日式餐厅越来越多。素食者不吃肉、鱼、蛋、奶制品等。因此，需要特别的菜单。",
+      "translationEn": "Recently, more and more Japanese restaurants catering to vegans are appearing in Japan. Vegans do not eat meat, fish, eggs, dairy products, etc. Therefore, special menus are needed.",
+      "id": "853d67e1-31bf-4ca3-a857-5dfa8ef28468",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔の和食は、野菜や豆腐をよく使いました。だから、ヴィーガンでも食べやすい料理がたくさんありました。例えば、野菜の煮物や豆腐の味噌汁です。",
+      "translationZh": "以前的和食经常使用蔬菜和豆腐。所以，有很多即使是素食者也容易吃的料理。例如，蔬菜炖煮和豆腐味噌汤。",
+      "translationEn": "Traditional Japanese food often used vegetables and tofu. Therefore, there were many dishes that were easy for vegans to eat. For example, simmered vegetables and tofu miso soup.",
+      "id": "951c7acb-d191-4359-ae18-f3ab2df4c64e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今のヴィーガン和食は、もっと工夫されています。新しい味や見た目も楽しい料理があります。多くの人がヴィーガン和食を楽しんでいます。",
+      "translationZh": "现在的素食日式料理更加用心。有新的味道和有趣的菜肴。很多人都在享受素食日式料理。",
+      "translationEn": "Current vegan Japanese cuisine is even more innovative. There are new flavors and visually appealing dishes. Many people are enjoying vegan Japanese food.",
+      "id": "501fad9e-3cce-4317-8a59-ca55c445518c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガンを選ぶ理由はいろいろです。健康のため、動物を大切にするため、環境のためなどです。ヴィーガン和食は、そんな人々の選択肢を広げてくれます。",
+      "translationZh": "选择素食的原因有很多。为了健康，为了爱护动物，为了环境等等。素食日式料理为这些人拓宽了选择。",
+      "translationEn": "There are various reasons for choosing veganism. For health, for animal welfare, for the environment, and so on. Vegan Japanese food broadens the options for such people.",
+      "id": "56078fb1-195d-479b-94b0-009a487dc9ba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "増えています",
+      "reading": "ふえています",
+      "meaningZh": "增加了",
+      "meaningEn": "are increasing",
+      "level": "n5n4",
+      "exampleSentence": "お店がまた増えています。",
+      "id": "fe246096-bdff-4483-b3c9-007a33f1209b"
+    },
+    {
+      "word": "レストラン",
+      "reading": "レストラン",
+      "meaningZh": "餐厅",
+      "meaningEn": "restaurant",
+      "level": "n5n4",
+      "exampleSentence": "新しいレストランに行きました。",
+      "id": "39cb639c-29fe-486b-b05c-0e6aba23f3a1"
+    },
+    {
+      "word": "卵",
+      "reading": "たまご",
+      "meaningZh": "蛋",
+      "meaningEn": "egg",
+      "level": "n5n4",
+      "exampleSentence": "卵は好きですか。",
+      "id": "cc62a251-e8ff-4746-83c3-9ca0b4f595c1"
+    },
+    {
+      "word": "乳製品",
+      "reading": "にゅうせいひん",
+      "meaningZh": "奶制品",
+      "meaningEn": "dairy products",
+      "level": "n3",
+      "exampleSentence": "乳製品はあまり食べません。",
+      "id": "2425375c-d134-416b-83e0-d840d021e0b7"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "从前，过去",
+      "meaningEn": "in the past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔はたくさんの木がありました。",
+      "id": "3b6de519-8c4f-4408-8bb5-a64776efc320"
+    },
+    {
+      "word": "豆腐",
+      "reading": "とうふ",
+      "meaningZh": "豆腐",
+      "meaningEn": "tofu",
+      "level": "n5n4",
+      "exampleSentence": "豆腐は体にいいです。",
+      "id": "bd576d75-8c22-40d0-8a32-be01fb70f4bd"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "ingenuity, device, idea",
+      "level": "n3",
+      "exampleSentence": "新しい工夫をしました。",
+      "id": "99a0478c-1f6b-4c6b-9347-20720efe804f"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n3",
+      "exampleSentence": "環境を守ることが大切です。",
+      "id": "be7d544b-b692-4119-b5b0-5eb46128b302"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガンは、どのようなものを食べませんか？",
+      "options": [
+        "野菜と豆腐",
+        "肉と魚",
+        "果物とお米",
+        "パンと牛乳"
+      ],
+      "correctIndex": 1,
+      "explanation": "ヴィーガンは、肉、魚、卵、乳製品などを食べません。",
+      "id": "78f52283-8d33-45e9-85a2-9abcbc1cbbd7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-23-0211ab5677",
+  "publishedAt": "2026-09-23T06:00:00+09:00"
+}

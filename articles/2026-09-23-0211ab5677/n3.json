@@ -1,0 +1,143 @@
+{
+  "title": "ヴィーガン和食、広がる選択肢に注目！",
+  "summary": "近年、健康志向や環境意識の高まりから、ヴィーガン（完全菜食主義）の人が増えています。それに伴い、日本の伝統的な和食でもヴィーガン向けのメニューが広がりを見せています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "和食といえば、魚や肉を使った料理が多いイメージがありますが、最近では、野菜や豆、海藻などを中心にした、ヴィーガン対応の和食レストランやカフェが増えています。お寿司や天ぷら、お味噌汁なども、工夫次第でヴィーガン仕様にすることができるのです。",
+      "translationZh": "说到和食，很多人会联想到使用鱼肉的料理。但最近，以蔬菜、豆类、海藻为中心的、适合维根的日式餐厅和咖啡馆越来越多。寿司、天妇罗、味噌汤等，只要巧妙运用食材，也能做成维根版本。",
+      "translationEn": "When people think of Japanese food, they often imagine dishes made with fish and meat. However, recently, more and more vegan-friendly Japanese restaurants and cafes are appearing, focusing on vegetables, beans, and seaweed. Sushi, tempura, and miso soup can also be made vegan with a little ingenuity.",
+      "id": "fcb5cca9-e030-4136-8589-092c3be50632",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司では、魚の代わりにアボカドや野菜を使った「野菜寿司」が人気です。また、天ぷらも、卵を使わない衣で揚げれば、ヴィーガンとして楽しめます。お出汁（だし）も、昆布や椎茸から取ることで、動物性食材を使わずに豊かな風味を出すことができます。",
+      "translationZh": "例如，在寿司方面，用牛油果和蔬菜代替鱼肉制作的“蔬菜寿司”很受欢迎。另外，天妇罗只要用不含鸡蛋的面糊来炸，也可以作为维根料理来享用。汤底（出汁）也可以用海带和香菇来熬制，这样就可以在不使用动物性食材的情况下，做出浓郁的风味。",
+      "translationEn": "For example, in sushi, 'vegetable sushi' using avocado and vegetables instead of fish is popular. Tempura can also be enjoyed as a vegan dish if fried with a batter that doesn't use eggs. Dashi (broth) can also be made with rich flavor by using kombu and shiitake mushrooms, without using any animal products.",
+      "id": "cdcd350e-f4a4-4bed-a0e1-563b118a9d1f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン向け和食が広がる背景には、健康への関心だけでなく、環境問題への意識も関係していると考えられます。食の選択肢が増えることは、私たちにとって嬉しいことですし、多様な食文化が育まれるきっかけにもなります。",
+      "translationZh": "维根和食得以普及的背景，不仅是因为对健康的关注，也与对环境问题的意识有关。饮食选择的增加对我们来说是件好事，也为培育多样的饮食文化提供了契机。",
+      "translationEn": "The spread of vegan Japanese food is thought to be related not only to health concerns but also to awareness of environmental issues. The increase in food choices is good news for us and also provides an opportunity for diverse food cultures to develop.",
+      "id": "4748e1ca-95e6-4323-b54c-568783b3d9cb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "まだヴィーガン対応の和食店は多くないかもしれませんが、これからますます増えていくことが期待されます。新しい味との出会いを求めて、ぜひ一度試してみてはいかがでしょうか。きっと新しい発見があるはずです。",
+      "translationZh": "虽然适合维根的和食店可能还不多，但预计今后会越来越多。为了寻找新的美味，为什么不尝试一下呢？肯定会有新的发现。",
+      "translationEn": "Although there may not be many vegan-friendly Japanese restaurants yet, they are expected to increase in the future. Why not give them a try in search of new flavors? You are sure to discover something new.",
+      "id": "cf1c07b6-106d-4c01-9d83-5af4faecc885",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ヴィーガン",
+      "reading": "ヴィーがん",
+      "meaningZh": "纯素食者；素食主义者",
+      "meaningEn": "Vegan (a person who does not eat or use any animal products)",
+      "level": "n3",
+      "exampleSentence": "彼女は健康のためにヴィーガンになった。",
+      "id": "6845e7fb-bbb8-4c26-8aef-9f7816bb8049"
+    },
+    {
+      "word": "和食",
+      "reading": "わしょく",
+      "meaningZh": "日本料理",
+      "meaningEn": "Japanese cuisine",
+      "level": "n3",
+      "exampleSentence": "日本の伝統的な和食は健康的だと言われている。",
+      "id": "16f00005-2886-4489-a6a0-bb63cb859c5b"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaningZh": "中心；主要",
+      "meaningEn": "center; core; main",
+      "level": "n3",
+      "exampleSentence": "この地域は商業の中心地です。",
+      "id": "c7aa4c1d-0622-43c3-b59b-1b20ff591797"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法；巧妙处理；创意",
+      "meaningEn": "devise; think up; ingenuity",
+      "level": "n3",
+      "exampleSentence": "限られた材料で料理を作る工夫をした。",
+      "id": "49650648-2c74-4419-835c-622672f3277a"
+    },
+    {
+      "word": "仕様",
+      "reading": "しよう",
+      "meaningZh": "规格；样式；（这里指）版本",
+      "meaningEn": "specification; style; version",
+      "level": "n3",
+      "exampleSentence": "この製品は最新の仕様になっている。",
+      "id": "cbea4e1b-ad49-4d33-8ece-2a135f25f973"
+    },
+    {
+      "word": "出汁",
+      "reading": "だし",
+      "meaningZh": "高汤；汤底（日式料理用）",
+      "meaningEn": "dashi (Japanese soup stock)",
+      "level": "n3",
+      "exampleSentence": "昆布とかつお節で美味しい出汁をとった。",
+      "id": "405e15b2-b014-46ff-8e1d-84e5717aa91c"
+    },
+    {
+      "word": "風味",
+      "reading": "ふうみ",
+      "meaningZh": "风味；味道",
+      "meaningEn": "flavor; taste",
+      "level": "n3",
+      "exampleSentence": "この料理はハーブの風味が豊かだ。",
+      "id": "02bb705a-69b8-4cd2-b013-e4847e22ff12"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaningZh": "背景",
+      "meaningEn": "background",
+      "level": "n3",
+      "exampleSentence": "この問題の背景を詳しく調べる必要がある。",
+      "id": "cd94f77f-cabb-4edc-83d0-84ac746ae779"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガン向けの和食メニューが広がる理由は何ですか？",
+      "options": [
+        "魚や肉が手に入りにくくなったから",
+        "健康志向と環境意識の高まり",
+        "外国人観光客が増えたから",
+        "和食の歴史が長くなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「健康志向や環境意識の高まりから、ヴィーガン（完全菜食主義）の人が増えています。それに伴い、日本の伝統的な和食でもヴィーガン向けのメニューが広がりを見せています。」とあります。",
+      "id": "6b57af62-8c2a-4d84-a70a-96ae0afeee2a"
+    },
+    {
+      "question": "本文によると、ヴィーガン対応の寿司はどのようなものですか？",
+      "options": [
+        "魚の代わりにアボカドや野菜を使っている寿司",
+        "卵を使った衣で揚げた寿司",
+        "昆布や椎茸で取った出汁で作った寿司",
+        "肉を一切使わない寿司"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「例えば、お寿司では、魚の代わりにアボカドや野菜を使った「野菜寿司」が人気です。」とあります。",
+      "id": "cce9a65a-5c52-4595-976d-5fbde6b7dfa5"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-23-0211ab5677",
+  "publishedAt": "2026-09-23T06:00:00+09:00"
+}

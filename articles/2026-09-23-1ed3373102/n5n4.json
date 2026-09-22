@@ -1,0 +1,122 @@
+{
+  "title": "スマートシティ実験、成果は？",
+  "summary": "新しい街の実験が終わりました。どんな結果が出たか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "新しい街で、いくつかの実験が行われました。この街は「スマートシティ」と呼ばれています。たくさんの新しい技術が使われました。",
+      "translationZh": "在新的城市里，进行了一些实验。这个城市被称为“智慧城市”。使用了许多新技术。",
+      "translationEn": "Several experiments were conducted in the new city. This city is called a 'smart city'. Many new technologies were used.",
+      "id": "dd040022-0e4a-4f74-8268-1be59e925df9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、車の自動運転の実験がありました。車は自分で動いて、安全に走ることができました。人も車も、もっと安全になることが期待されます。",
+      "translationZh": "例如，有自动驾驶汽车的实验。汽车能够自己行驶，安全地运行。人们和汽车都期望能变得更安全。",
+      "translationEn": "For example, there was an experiment with self-driving cars. The cars could move on their own and run safely. Both people and cars are expected to become safer.",
+      "id": "cf742faf-668a-479f-8dde-91abd22884b1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、ゴミの管理も新しい方法で行われました。ゴミ箱がいっぱいになると、自動で知らせてくれます。これで、街がきれいになり、便利になります。",
+      "translationZh": "另外，垃圾的管理也采用了新的方法。垃圾箱满了之后，会自动通知。这样，城市就会变干净，变得方便。",
+      "translationEn": "Also, waste management was done in a new way. When a trash can is full, it automatically notifies us. This will make the city cleaner and more convenient.",
+      "id": "13f2ea50-b621-4b0e-a4d5-a76bf473696d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験で、スマートシティの良さが分かりました。これからも、もっと便利な街になるように、技術が進むでしょう。",
+      "translationZh": "通过这次实验，我们了解了智慧城市的优点。今后，技术也会发展，以便成为更方便的城市。",
+      "translationEn": "Through this experiment, we understood the benefits of a smart city. In the future, technology will continue to advance to make cities more convenient.",
+      "id": "d83baf86-0172-4700-8aa6-2af0a39cad7b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "49e0a029-3664-464f-8618-4eab00f1e0b0"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n5n4",
+      "exampleSentence": "この技術はとても進んでいます。",
+      "id": "c5099a3a-baa6-4d38-94d9-ccfe8019bb58"
+    },
+    {
+      "word": "自動運転",
+      "reading": "じどううんてん",
+      "meaningZh": "自动驾驶",
+      "meaningEn": "automatic driving",
+      "level": "n5n4",
+      "exampleSentence": "自動運転の車が走っています。",
+      "id": "5b1069bd-c0c8-43d7-ac0d-8f34d7666923"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety",
+      "level": "n5n4",
+      "exampleSentence": "この道は安全です。",
+      "id": "b2ddbc28-28d5-4043-b85c-af9eabd0b87d"
+    },
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaningZh": "管理",
+      "meaningEn": "management",
+      "level": "n5n4",
+      "exampleSentence": "書類の管理をしてください。",
+      "id": "abff7418-6903-4208-a97c-89b196fddda7"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "069d6e21-cbba-495d-8092-421d2cca294c"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待",
+      "meaningEn": "expectation",
+      "level": "n5n4",
+      "exampleSentence": "未来に期待しています。",
+      "id": "5c46822f-f1ee-46ff-b874-9b02feff5c4e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実験で、何が安全になることが期待されていますか？",
+      "options": [
+        "ゴミの管理",
+        "街のきれいさ",
+        "人や車の安全",
+        "新しい建物"
+      ],
+      "correctIndex": 2,
+      "explanation": "「車は自分で動いて、安全に走ることができました。人も車も、もっと安全になることが期待されます。」",
+      "id": "6bd1b5a1-1274-44c4-bf7b-5c2e6b9ae3d1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-23-1ed3373102",
+  "publishedAt": "2026-09-23T06:00:00+09:00"
+}
