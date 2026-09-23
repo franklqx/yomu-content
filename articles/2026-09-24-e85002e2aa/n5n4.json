@@ -1,0 +1,122 @@
+{
+  "title": "夜行バスで旅をしよう！",
+  "summary": "夜行バスは安くて便利です。若者はよく夜行バスで旅行に行きます。あなたも試しませんか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で夜行バスを使った旅行が人気です。夜行バスは、夜にバスに乗って、朝に目的地に着くことができます。寝ている間に移動できるので、時間を有効に使えます。",
+      "translationZh": "最近，使用夜间巴士旅行在年轻人中很受欢迎。夜间巴士可以在晚上乘坐，早上到达目的地。因为可以在睡觉时移动，所以可以有效地利用时间。",
+      "translationEn": "Recently, traveling by overnight bus has become popular among young people. You can get on the bus at night and arrive at your destination in the morning. Since you can travel while sleeping, you can use your time effectively.",
+      "id": "370f6141-b6bf-467f-9add-18e827c1995d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスの大きなメリットは、値段が安いことです。飛行機や新幹線と比べて、ずっと安く旅行できます。そのため、お金をあまりかけずに遠くへ行きたい学生さんにぴったりです。",
+      "translationZh": "夜间巴士的一个大优点是价格便宜。与飞机或新干线相比，旅行费用要便宜得多。因此，它非常适合想要花少量钱去远方的学生。",
+      "translationEn": "A big advantage of overnight buses is that they are cheap. Compared to airplanes or bullet trains, you can travel much more affordably. Therefore, it is perfect for students who want to go far without spending a lot of money.",
+      "id": "1c31b621-2992-4c17-8240-e4591fd28c83",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "バスの中では、リクライニングシートでゆっくり休めます。隣の人を気にせず、自分の時間を楽しむこともできます。最近のバスは、Wi-Fiがあったり、コンセントがあったりして、とても快適です。",
+      "translationZh": "在巴士里，您可以在倾斜的座椅上好好休息。您可以享受自己的时间，而不必担心旁边的人。最近的巴士有Wi-Fi或电源插座，非常舒适。",
+      "translationEn": "On the bus, you can rest well in a reclining seat. You can enjoy your own time without worrying about the person next to you. Modern buses are very comfortable, with Wi-Fi and power outlets.",
+      "id": "71f44217-33ab-42d9-92ad-da8cf10b5da4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜行バスを使えば、ホテル代も節約できます。夜に移動して朝から観光すれば、一泊分のホテル代が浮きます。友達と一緒に行けば、さらに楽しく、安く旅行できますよ。",
+      "translationZh": "使用夜间巴士还可以节省酒店费用。如果晚上出发，早上开始观光，就可以省下一晚的酒店费。如果和朋友一起去，旅行会更开心、更便宜。",
+      "translationEn": "By using an overnight bus, you can also save on hotel costs. If you travel at night and start sightseeing in the morning, you save one night's hotel expense. If you go with friends, the trip will be even more fun and cheaper.",
+      "id": "f0acfcdf-4088-4d6a-9fb9-9ef1bd6f4d9e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夜行バス",
+      "reading": "やこうバス",
+      "meaningZh": "夜间巴士",
+      "meaningEn": "overnight bus",
+      "level": "n5n4",
+      "exampleSentence": "夜行バスで大阪に行きました。",
+      "id": "f733d30e-4108-4616-b02e-5f7c1d423376"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "e7f9b968-41e1-4861-afd4-286ada58976a"
+    },
+    {
+      "word": "格安",
+      "reading": "かくやす",
+      "meaningZh": "便宜，廉价",
+      "meaningEn": "cheap, inexpensive",
+      "level": "n5n4",
+      "exampleSentence": "格安旅行は人気があります。",
+      "id": "31f23fa0-ae8a-45a5-bbd0-7e624b5775de"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "夏に北海道へ旅行したいです。",
+      "id": "ce5be29e-b750-45f8-9420-7c4437f63dd0"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "f4599d5c-c243-4c09-8dfa-829e24473670"
+    },
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaningZh": "有效",
+      "meaningEn": "effective, valid",
+      "level": "n3",
+      "exampleSentence": "時間を有効に使いたいです。",
+      "id": "cb48200a-4d70-4359-b218-14883680e724"
+    },
+    {
+      "word": "節約",
+      "reading": "せつやく",
+      "meaningZh": "节约",
+      "meaningEn": "saving, economy",
+      "level": "n3",
+      "exampleSentence": "電気代を節約しましょう。",
+      "id": "03d4f11b-8a90-4f5a-ae5c-82d31cf6e5cb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "夜行バス旅行のいいところは、何ですか？",
+      "options": [
+        "とても速く着くこと",
+        "値段が安くて、時間を有効に使えること",
+        "窓からの景色がきれいなこと",
+        "特別なイベントがあること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「夜行バスの大きなメリットは、値段が安いことです。」と「寝ている間に移動できるので、時間を有効に使えます。」と書いてあります。",
+      "id": "4c710f11-3e40-480f-b7a4-784bbb0aa711"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-24-e85002e2aa",
+  "publishedAt": "2026-09-24T06:00:00+09:00"
+}

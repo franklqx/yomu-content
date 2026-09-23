@@ -1,0 +1,138 @@
+{
+  "title": "EV急速充電網、全国で拡充へ～利便性向上で普及加速か",
+  "summary": "電気自動車（EV）の普及を後押しするため、全国各地で急速充電インフラの整備が進められています。これにより、EVユーザーの利便性が大幅に向上し、さらなる普及が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、地球温暖化対策や環境負荷低減の観点から、電気自動車（EV）への関心が高まっています。しかし、EVの普及を阻む要因の一つとして、充電インフラ、特に急速充電設備の不足が挙げられてきました。この課題を解決すべく、国や民間企業は連携し、全国的な急速充電網の拡充に乗り出しています。高速道路のサービスエリアや公共施設、商業施設など、利用者のアクセスしやすい場所への設置が推進されており、計画では今後数年で設置台数が大幅に増加する見込みとのことです。",
+      "translationZh": "近年来，从应对全球变暖和减少环境负担的角度来看，人们对电动汽车（EV）的关注度不断提高。然而，阻碍EV普及的因素之一被认为是充电基础设施，特别是快速充电设备的不足。为了解决这一问题，政府和民间企业正携手合作，着手扩大全国范围内的快速充电网络。充电桩的建设正在高速公路服务区、公共设施和商业设施等方便用户访问的地点得到推进，据计划，未来几年安装数量预计将大幅增加。",
+      "translationEn": "In recent years, interest in electric vehicles (EVs) has been growing from the perspective of global warming countermeasures and reducing environmental impact. However, one of the factors hindering the spread of EVs has been the lack of charging infrastructure, particularly fast-charging facilities. To address this challenge, the government and private companies are collaborating to expand the fast-charging network nationwide. Installation is being promoted in easily accessible locations for users, such as highway service areas, public facilities, and commercial complexes, and according to plans, the number of installations is expected to significantly increase in the coming years.",
+      "id": "debbc264-f06f-416d-8307-76929aec589d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網の拡充は、EVユーザーの航続距離に対する不安（レンジ・アングスト）を軽減し、長距離移動をより容易にすることに繋がると見られています。これまで、長距離ドライブに出かける際には充電スポットの検索や待ち時間が懸念材料でしたが、充電ステーションの数が増え、充電時間も短縮されることで、ガソリン車と同等の利便性を確保できるようになることが期待されます。これは、EVの購入を検討している層にとって、大きな後押しとなるでしょう。",
+      "translationZh": "扩大快速充电网络被认为有助于减轻EV用户的续航里程焦虑（Range Anxiety），并使长途旅行更加便捷。尽管过去长途驾驶时搜索充电点和等待时间令人担忧，但随着充电站数量的增加和充电时间的缩短，有望实现与燃油车相当的便利性。这对正在考虑购买EV的群体来说，将是一个巨大的推动力。",
+      "translationEn": "The expansion of the fast-charging network is expected to alleviate range anxiety for EV users and make long-distance travel more convenient. While searching for charging spots and waiting times were previously concerns for long-distance drives, it is anticipated that with an increase in the number of charging stations and reduced charging times, convenience comparable to gasoline vehicles can be achieved. This will likely be a significant boost for those considering purchasing an EV.",
+      "id": "6b403395-bf9a-451f-956f-d46b3234c39a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、充電インフラの整備は、再生可能エネルギー由来の電力を用いた充電を促進することで、EVの環境性能を一層高める可能性も秘めています。各充電ステーションにおける電力供給源の多様化や、スマートグリッドとの連携なども今後の課題として挙げられており、持続可能な社会の実現に向けた動きが加速していくものと予想されます。これにより、EVは単なる移動手段に留まらず、エネルギーシステム全体の一部として機能することが期待されるのです。",
+      "translationZh": "此外，充电基础设施的建设还通过促进使用可再生能源发电进行充电，进一步提高了EV的环境性能。在各充电站的电力供应来源多样化以及与智能电网的联动等方面，也被视为未来的课题，预计将加速实现可持续社会的进程。由此，EV有望不仅作为一种交通工具，更能作为能源系统整体的一部分发挥作用。",
+      "translationEn": "Furthermore, the development of charging infrastructure holds the potential to further enhance the environmental performance of EVs by promoting charging using electricity derived from renewable energy sources. Diversifying power sources at each charging station and integrating with smart grids are also being considered as future challenges, and it is expected that the movement towards realizing a sustainable society will accelerate. Consequently, EVs are anticipated to function not merely as a means of transportation, but as an integral part of the overall energy system.",
+      "id": "92eb5d4e-8d1d-4411-af36-00cf54477812",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "expansion, enlargement",
+      "level": "n2n1",
+      "exampleSentence": "この地域では、図書館の蔵書を拡充する計画がある。",
+      "id": "2d28810f-ac9c-42a0-bcc6-56decb04c1a5"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, diffusion, popularization",
+      "level": "n3",
+      "exampleSentence": "スマートフォンの普及率は年々高まっている。",
+      "id": "9db89daf-284d-4a46-b211-b57dad93d600"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "infrastructure",
+      "level": "n2n1",
+      "exampleSentence": "社会基盤としてのインフラ整備は重要だ。",
+      "id": "3a152ef1-4a78-4f25-ae17-a673c2ad98c9"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "支持，推动",
+      "meaningEn": "support, push, boost",
+      "level": "n3",
+      "exampleSentence": "政府の政策が産業の発展を後押ししている。",
+      "id": "d25b04ad-30cd-48f5-b5c1-f5ba0e3fb826"
+    },
+    {
+      "word": "航続距離",
+      "reading": "こうぞくきょり",
+      "meaningZh": "续航里程",
+      "meaningEn": "cruising range, travel distance",
+      "level": "n2n1",
+      "exampleSentence": "EVの航続距離の短さが課題となっている。",
+      "id": "cb253f8b-9c5e-4a28-8361-edad144997d7"
+    },
+    {
+      "word": "懸念材料",
+      "reading": "けねんざいりょう",
+      "meaningZh": "令人担忧的因素",
+      "meaningEn": "cause for concern, factor of worry",
+      "level": "n2n1",
+      "exampleSentence": "プロジェクトの遅延は、顧客にとって大きな懸念材料だ。",
+      "id": "a95a876b-0613-45af-9d61-f996b482d0b1"
+    },
+    {
+      "word": "持続可能",
+      "reading": "じぞくかのう",
+      "meaningZh": "可持续的",
+      "meaningEn": "sustainable",
+      "level": "n2n1",
+      "exampleSentence": "持続可能な開発目標（SDGs）が世界的に注目されている。",
+      "id": "801f0532-aead-45d2-b600-5252d6d1a92a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "EVの普及を阻む要因として、記事で挙げられているのはどのようなことですか？",
+      "options": [
+        "充電料金の高さ",
+        "急速充電設備の不足",
+        "車種の選択肢の少なさ",
+        "バッテリーの寿命"
+      ],
+      "correctIndex": 1,
+      "explanation": "「しかし、EVの普及を阻む要因の一つとして、充電インフラ、特に急速充電設備の不足が挙げられてきました。」",
+      "id": "4d7bc76c-32b6-4f65-bd24-a320786e8dcd"
+    },
+    {
+      "question": "急速充電網の拡充によって、EVユーザーにとってどのような利便性が期待されますか？",
+      "options": [
+        "車両価格の低下",
+        "充電場所の増加と充電時間の短縮",
+        "メンテナンス費用の削減",
+        "運転免許の取得が容易になる"
+      ],
+      "correctIndex": 1,
+      "explanation": "「充電ステーションの数が増え、充電時間も短縮されることで、ガソリン車と同等の利便性を確保できるようになることが期待されます。」",
+      "id": "857499b3-76f7-4004-971a-da9c87f43c67"
+    },
+    {
+      "question": "急速充電網の整備は、EVのどのような側面をさらに高める可能性がありますか？",
+      "options": [
+        "デザインの多様性",
+        "走行性能の向上",
+        "環境性能",
+        "乗車定員"
+      ],
+      "correctIndex": 2,
+      "explanation": "「さらに、充電インフラの整備は、再生可能エネルギー由来の電力を用いた充電を促進することで、EVの環境性能を一層高める可能性も秘めています。」",
+      "id": "471c1b5e-53ed-4a6f-8721-2abfaa08eddb"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-24-0fdb5d3d7d",
+  "publishedAt": "2026-09-24T06:00:00+09:00"
+}

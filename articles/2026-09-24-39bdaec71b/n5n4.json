@@ -1,0 +1,122 @@
+{
+  "title": "ご当地ラーメンが東京に！",
+  "summary": "日本各地のおいしいラーメンが東京に集まってきました。色々な味を楽しめます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本にはたくさんの有名なラーメンがあります。例えば、北海道の味噌ラーメンや、福岡の豚骨ラーメンです。これらのラーメンは、その地域でとても人気があります。",
+      "translationZh": "日本有很多有名的拉面。例如，北海道的味噌拉面，和福冈的豚骨拉面。这些拉面在那边非常受欢迎。",
+      "translationEn": "There are many famous ramen in Japan. For example, Hokkaido's miso ramen and Fukuoka's tonkotsu ramen. These ramen are very popular in their regions.",
+      "id": "bce32e92-d4b6-4473-a004-02d83e59a778",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、東京で色々な地域のご当地ラーメンを食べられるようになりました。東京の人は、遠くまで行かなくても、おいしいラーメンを楽しめるようになりました。",
+      "translationZh": "最近，在东京可以吃到各种地方特色拉面了。东京的人们，不用去很远的地方，也能享受到美味的拉面了。",
+      "translationEn": "Recently, it has become possible to eat various regional ramen in Tokyo. People in Tokyo can now enjoy delicious ramen without traveling far.",
+      "id": "997f110d-df3a-4ca2-b4cc-c6ec6a553a91",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいラーメン屋さんがたくさんオープンしました。それぞれのラーメン屋さんは、その地域の味を大切にしています。だから、本場の味を楽しむことができます。",
+      "translationZh": "新开了很多拉面店。每家拉面店都珍惜当地的味道。所以，可以享受到正宗的味道。",
+      "translationEn": "Many new ramen shops have opened. Each ramen shop cherishes the taste of its region. Therefore, you can enjoy the authentic taste.",
+      "id": "ece2e5e2-e8a6-44af-a363-9a84ef723c5f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京で色々なご当地ラーメンを食べるのは、楽しい経験です。まだ食べたことがない人は、ぜひ試してみてください。",
+      "translationZh": "在东京吃各种地方特色拉面，是一次愉快的体验。还没吃过的人，请一定要试试看。",
+      "translationEn": "Eating various regional ramen in Tokyo is a fun experience. If you haven't tried it yet, please give it a try.",
+      "id": "69824e8c-97c3-45d9-b2d2-98411487b9e4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名的",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "このお寺は有名です。",
+      "id": "c4f5fbc5-c943-4cfa-9716-6906af8b7799"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "これは私の住んでいる地域です。",
+      "id": "410be4f0-1698-4188-a2a9-5a5a2960e670"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手は人気があります。",
+      "id": "2afbc991-ce36-4ad8-9105-008f65276612"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強をしています。",
+      "id": "8c28760b-95e7-4471-a6b4-6186255182f1"
+    },
+    {
+      "word": "遠く",
+      "reading": "とおく",
+      "meaningZh": "远方",
+      "meaningEn": "far away",
+      "level": "n5n4",
+      "exampleSentence": "遠くから来ました。",
+      "id": "f3355f2a-a02d-4747-ac71-22e0f0f8cc63"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "旅行はいい経験でした。",
+      "id": "6c9dc5aa-d344-497d-8c72-e0755b171a0d"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要的，珍贵的",
+      "meaningEn": "important, precious",
+      "level": "n5n4",
+      "exampleSentence": "家族は私にとって大切です。",
+      "id": "b198d9e4-fb2d-44d4-bc45-249d59c8c0b4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東京で色々な地域のご当地ラーメンが食べられるようになったのは、なぜですか。",
+      "options": [
+        "ラーメン屋さんが少なくなったからです。",
+        "東京の人がラーメンを好きになったからです。",
+        "色々な地域からラーメン屋さんが東京に来たからです。",
+        "ラーメンの値段が高くなったからです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "最近、東京で色々な地域のご当地ラーメンを食べられるようになりました。",
+      "id": "51e91673-442b-4fbd-8640-fd291e85c190"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-24-39bdaec71b",
+  "publishedAt": "2026-09-24T06:00:00+09:00"
+}

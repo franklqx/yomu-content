@@ -1,0 +1,117 @@
+{
+  "title": "EV充電網、もっと便利に！未来の移動が変わる",
+  "summary": "電気自動車（EV）の普及には、充電インフラの整備が不可欠です。急速充電網が拡充されることで、EVの利用がさらに身近になるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、環境問題への関心が高まり、電気自動車（EV）を選ぶ人が増えています。しかし、EVの普及には、充電できる場所がまだ十分でないという課題がありました。特に、長距離を移動する際には、充電に時間がかかることが心配でした。",
+      "translationZh": "近年来，随着对环境问题关注度的提高，选择电动汽车（EV）的人正在增加。但是，EV的普及面临着充电地点尚不充足的课题。特别是长途移动时，人们会担心充电耗时过长。",
+      "translationEn": "In recent years, as interest in environmental issues grows, more people are choosing electric vehicles (EVs). However, a challenge for the widespread adoption of EVs has been the insufficient availability of charging locations. Particularly for long-distance travel, the time it takes to charge has been a concern.",
+      "id": "53d6c771-9f73-4f2e-811e-3c0c020334e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした状況を受けて、政府や企業は急速充電網の拡充に力を入れています。高速道路のサービスエリアや商業施設などに、より多くの急速充電器を設置する計画が進んでいます。これにより、短時間で充電を終え、すぐに移動を再開できるようになります。",
+      "translationZh": "面对这种情况，政府和企业正着力于扩大快速充电网络。在高速公路服务区和商业设施等地，安装更多快速充电器的计划正在推进。这样一来，就可以在短时间内完成充电，并立即恢复行驶。",
+      "translationEn": "In response to this situation, governments and companies are focusing on expanding the rapid charging network. Plans are underway to install more rapid chargers at highway service areas, commercial facilities, and other locations. This will allow charging to be completed in a short time, enabling immediate resumption of travel.",
+      "id": "193b7142-5f04-471e-850b-2d4f7c616699",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網が拡充されれば、EVはガソリン車と同じように、気軽に長距離ドライブを楽しめるようになります。充電スポットを探す手間も減り、充電待ちのストレスも軽減されるでしょう。これからも、EVがより身近な存在になるよう、技術開発とインフラ整備が進むことが期待されます。",
+      "translationZh": "如果快速充电网络得到扩充，EV将能像燃油车一样，轻松享受长途驾驶的乐趣。寻找充电点位的麻烦也会减少，等待充电的压力也将得到缓解。今后，我们期待技术开发和基础设施建设能进一步推进，使EV变得更加触手可及。",
+      "translationEn": "If the rapid charging network is expanded, EVs will be able to enjoy long-distance drives just as casually as gasoline cars. The hassle of searching for charging spots will decrease, and the stress of waiting for charging will also be reduced. Moving forward, we expect technological development and infrastructure improvements to continue, making EVs an even more accessible option.",
+      "id": "2a58aaea-fbaa-4c17-8b59-3ef51b8138bb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "Electric Vehicle (EV)",
+      "level": "n3",
+      "exampleSentence": "最近、電気自動車の販売台数が増えている。",
+      "id": "79509674-7eb7-4fb5-b9dc-c87d65f71ee6"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, popularization",
+      "level": "n3",
+      "exampleSentence": "新しい技術の普及には時間がかかることがあります。",
+      "id": "a0eacbf3-2e18-4fd5-aeb8-1dd047dadf88"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "infrastructure",
+      "level": "n3",
+      "exampleSentence": "都市開発には、道路や交通網といったインフラ整備が重要だ。",
+      "id": "f8eb889d-9c9a-4e62-955f-62ab4bad5cd9"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "expansion, enhancement",
+      "level": "n3",
+      "exampleSentence": "サービスの拡充により、顧客満足度を高めることを目指しています。",
+      "id": "04866aa9-7e48-477a-8504-4db920530c8a"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "rapid charger",
+      "level": "n3",
+      "exampleSentence": "ショッピングモールに急速充電器が設置された。",
+      "id": "013dd9ed-0af0-4d8a-8758-38c0aed4b923"
+    },
+    {
+      "word": "身近",
+      "reading": "みぢか",
+      "meaningZh": "近身，熟悉，触手可及",
+      "meaningEn": "familiar, close at hand",
+      "level": "n3",
+      "exampleSentence": "最近、AI技術がどんどん身近になってきた。",
+      "id": "7f9bf871-3949-46a4-8bd5-eb66b10d8565"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "EVの普及における課題は何ですか？",
+      "options": [
+        "充電に時間がかかりすぎること",
+        "価格が高すぎること",
+        "デザインが良くないこと",
+        "部品が少ないこと"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文では、「しかし、EVの普及には、充電できる場所がまだ十分でないという課題がありました。特に、長距離を移動する際には、充電に時間がかかることが心配でした。」と述べられています。",
+      "id": "d2ecdc4b-4318-4c9a-a640-cd6ca5326581"
+    },
+    {
+      "question": "急速充電網の拡充によって、どのようなことが期待できますか？",
+      "options": [
+        "EVの価格が安くなる",
+        "充電スポットを探す手間が減る",
+        "EVの選択肢が増える",
+        "充電器の設置場所が減る"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後の段落に、「充電スポットを探す手間も減り、充電待ちのストレスも軽減されるでしょう。」と書かれています。",
+      "id": "d581afb7-b5b1-4190-a8f3-3a4f08b90183"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-24-0fdb5d3d7d",
+  "publishedAt": "2026-09-24T06:00:00+09:00"
+}

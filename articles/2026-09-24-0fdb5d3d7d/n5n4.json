@@ -1,0 +1,122 @@
+{
+  "title": "EV充電、もっと便利に",
+  "summary": "電気自動車をもっと使いやすくするために、急速充電器がたくさん作られています。これで、遠い所へ行くのも安心です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）が人気です。でも、充電に時間がかかるのが心配な人もいます。そこで、もっとたくさんの急速充電器が作られています。",
+      "translationZh": "最近，电动汽车（EV）很受欢迎。但是，也有人担心充电耗时。因此，正在建设更多的快速充电器。",
+      "translationEn": "Recently, electric cars (EVs) are popular. However, some people worry about the charging time. Therefore, more fast chargers are being built.",
+      "id": "090277f6-d5e2-4ed6-b84d-fc57d74090a8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電器があると、短い時間で充電できます。例えば、３０分ぐらいで８０％ぐらい充電できます。これなら、旅行や遠い所へ行く時も安心です。",
+      "translationZh": "有了快速充电器，可以在短时间内充电。例如，大约 30 分钟就能充电到 80% 左右。这样一来，旅行或去远方时也很安心。",
+      "translationEn": "With a fast charger, you can charge in a short time. For example, in about 30 minutes, you can charge to about 80%. This makes it safe even when traveling or going to a distant place.",
+      "id": "7d35b485-64c5-4818-816f-6d0f4c41460f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい急速充電器は、高速道路のサービスエリアや、大きなお店の駐車場などに作られています。これからも、もっと色々な場所で作られる予定です。",
+      "translationZh": "新的快速充电器正在高速公路的服务区、大型商店的停车场等地建设。今后，还计划在更多不同的地方建设。",
+      "translationEn": "New fast chargers are being built at highway service areas and parking lots of large stores. In the future, they are planned to be built in more various locations.",
+      "id": "7cf4132d-3092-4a3b-86a6-9ce2bfe91d11",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "電気自動車がもっと便利になれば、環境にも良いです。これからも、充電の心配が少なくなるでしょう。",
+      "translationZh": "如果电动汽车变得更方便，对环境也好。今后，充电的担忧也会减少吧。",
+      "translationEn": "If electric cars become more convenient, it will also be good for the environment. In the future, charging concerns will likely decrease.",
+      "id": "dbecf127-5895-4e62-8777-c6ed557e7ffd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "Electric Vehicle (EV)",
+      "level": "n5n4",
+      "exampleSentence": "電気自動車は静かです。",
+      "id": "b60302f6-5b18-401a-832d-92dd60bf6484"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "Fast charger",
+      "level": "n5n4",
+      "exampleSentence": "急速充電器は便利です。",
+      "id": "5a5e8cf1-31cc-41f2-98d9-ef1bfb4f1bc1"
+    },
+    {
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaningZh": "充电",
+      "meaningEn": "Charging",
+      "level": "n5n4",
+      "exampleSentence": "スマホを充電しました。",
+      "id": "aa118212-782e-4c9e-991a-74c789eddaa7"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaningZh": "时间",
+      "meaningEn": "Time",
+      "level": "n5n4",
+      "exampleSentence": "時間がかかります。",
+      "id": "8fcdae7c-36f1-4f69-a809-1e4ff639b3ce"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "Convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "6148c32f-286a-4b52-8c80-bbd85e5eef01"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "Place",
+      "level": "n5n4",
+      "exampleSentence": "この場所はきれいです。",
+      "id": "3bfc6f27-39bb-426a-9fb1-08f1a42b1450"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "Environment",
+      "level": "n3",
+      "exampleSentence": "環境を守りましょう。",
+      "id": "b9d2716b-0973-4023-84f6-0be7816ffc0e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "急速充電器があると、何が一番良いですか？",
+      "options": [
+        "もっと早く買える",
+        "短い時間で充電できる",
+        "車が速く走れる",
+        "電気代が安くなる"
+      ],
+      "correctIndex": 1,
+      "explanation": "急速充電器があると、短い時間で充電できます。",
+      "id": "7e174f98-f9f2-45cd-8f64-e60a282f1a83"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-24-0fdb5d3d7d",
+  "publishedAt": "2026-09-24T06:00:00+09:00"
+}
