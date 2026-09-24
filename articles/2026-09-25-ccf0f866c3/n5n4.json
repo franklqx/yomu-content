@@ -1,0 +1,122 @@
+{
+  "title": "夏祭りと花火大会！",
+  "summary": "夏の楽しみといえば、花火大会です。今年は各地で花火大会が開催されます。ぜひ見に行きましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏が来ました。暑いですが、楽しい季節です。夏といえば、お祭りと花火大会です。たくさんの人が集まります。",
+      "translationZh": "夏天来了。虽然很热，但是个开心的季节。说到夏天，就是祭典和花火大会了。很多人会聚集在一起。",
+      "translationEn": "Summer has come. It's hot, but it's a fun season. When you think of summer, you think of festivals and fireworks festivals. Many people gather.",
+      "id": "d1b7ea3e-8cb2-437c-8c43-0470a182bec6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の夏も、いくつかの花火大会が予定されています。場所や日程は、インターネットで調べることができます。例えば、有名な花火大会は、東京や大阪など、いろいろな都市で開催されます。",
+      "translationZh": "今年的夏天，也有几个花火大会预定举行。地点和日期可以在网上查到。例如，有名的花火大会在东京、大阪等许多城市举行。",
+      "translationEn": "This summer, several fireworks festivals are also scheduled. You can check the locations and dates on the internet. For example, famous fireworks festivals are held in various cities like Tokyo and Osaka.",
+      "id": "a25b9450-ccb7-40f6-a9a1-688f4e74974f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会では、きれいな花火がたくさん上がります。夜空がきれいに見えます。浴衣を着て、友達や家族と行くのも楽しいです。おいしい食べ物もたくさんあります。",
+      "translationZh": "在花火大会上，会有很多漂亮的花火升空。夜空看起来很美。穿着浴衣，和朋友或家人一起去也很开心。还有很多好吃的食物。",
+      "translationEn": "At the fireworks festival, many beautiful fireworks go up. The night sky looks beautiful. It's also fun to wear a yukata and go with friends or family. There is also a lot of delicious food.",
+      "id": "bc4fc073-07ac-41b5-9679-a58c5f619b4d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は、夏の良い思い出になります。雨が降らないように祈りましょう。近くの花火大会を探して、ぜひ出かけてみてください。",
+      "translationZh": "花火大会会成为夏天美好的回忆。我们祈祷不要下雨吧。请搜索附近的花火大会，一定要去看看。",
+      "translationEn": "Fireworks festivals become good memories of summer. Let's pray it doesn't rain. Please look for a fireworks festival near you and go see it.",
+      "id": "823d4a45-8c2e-4b1e-a1f2-80fed2986310",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "夏は楽しい季節です。",
+      "id": "853a2500-10e8-4221-9e12-56517151805e"
+    },
+    {
+      "word": "花火大会",
+      "reading": "はなびたいかい",
+      "meaningZh": "花火大会",
+      "meaningEn": "fireworks festival",
+      "level": "n5n4",
+      "exampleSentence": "今年の夏も花火大会があります。",
+      "id": "03f003c6-771f-4ab1-ac4f-4c992fa1c7c7"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaningZh": "举办，举行",
+      "meaningEn": "hold, be held",
+      "level": "n3",
+      "exampleSentence": "お祭りが開催されます。",
+      "id": "0f77f9d4-c735-4b23-bb5a-be874ac219a9"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaningZh": "预定",
+      "meaningEn": "schedule, plan",
+      "level": "n5n4",
+      "exampleSentence": "会議は午後に予定されています。",
+      "id": "7fef97fa-73ad-43ae-908f-0844dc85f122"
+    },
+    {
+      "word": "日程",
+      "reading": "にってい",
+      "meaningZh": "日程，日期",
+      "meaningEn": "date, schedule",
+      "level": "n3",
+      "exampleSentence": "旅行の日程を決めました。",
+      "id": "eeb41df3-d4aa-4226-97c3-59b6c2089d9e"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaningZh": "夜空",
+      "meaningEn": "night sky",
+      "level": "n5n4",
+      "exampleSentence": "夜空に星がきれいです。",
+      "id": "8531e2fb-aa7c-4d7e-ada5-177341b84549"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りで浴衣を着ました。",
+      "id": "246b4cad-73c8-4415-a4f6-1a364f8879ec"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会について、正しいものはどれですか。",
+      "options": [
+        "今年は花火大会がありません。",
+        "花火大会は一人で行くのが一番です。",
+        "花火大会ではきれいな花火が見られます。",
+        "花火大会の場所や日程は調べられません。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「花火大会では、きれいな花火がたくさん上がります。夜空がきれいに見えます。」という文から、花火大会できれいな花火が見られることがわかります。",
+      "id": "d848734c-c6c4-47f1-9386-3d1ad68a4b1a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-25-ccf0f866c3",
+  "publishedAt": "2026-09-25T06:00:00+09:00"
+}

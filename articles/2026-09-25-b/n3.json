@@ -1,0 +1,134 @@
+{
+  "title": "Bリーグの新星、観客を魅了する若き才能",
+  "summary": "プロバスケットボールBリーグで、驚くべき才能を持つ若手選手が登場し、多くのファンを魅了しています。彼の活躍はリーグに新たな風を吹き込んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、Bリーグで注目されている若手選手がいます。彼はまだ若いながらも、試合ではベテランのような落ち着きと、爆発的なプレーを見せています。彼の名前は、多くのバスケットボールファンの間で話題になっています。",
+      "translationZh": "最近，B联赛涌现出一位备受瞩目的年轻选手。他虽然年轻，但在比赛中却展现出老练的沉着和爆发性的表现。他的名字已经成为许多篮球迷热议的话题。",
+      "translationEn": "Recently, a young player has been gaining attention in the B.League. Despite his youth, he displays veteran-like composure and explosive plays during games. His name has become a hot topic among many basketball fans.",
+      "id": "b7585c80-24a1-46e6-9337-e38777758242",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "彼のプレースタイルは、スピードと正確なシュートが特徴です。相手チームは、彼を止めようと必死になりますが、彼は巧みなドリブルでかわし、得点を重ねます。見ているこちらも、思わず応援したくなるようなプレーばかりです。",
+      "translationZh": "他的比赛风格以速度和精准的投篮为特点。对手队伍拼命试图阻止他，但他却能凭借巧妙的运球摆脱，不断得分。他的表现总是让人忍不住想为他加油。",
+      "translationEn": "His playing style is characterized by speed and accurate shooting. Opposing teams desperately try to stop him, but he skillfully evades them with dribbling and racks up points. His plays always make spectators want to cheer for him.",
+      "id": "180321b9-9110-4913-a406-5e2d2596f220",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "チームメイトとの連携も素晴らしく、パスワークも光ります。彼は、チームが苦しい場面でも、決して諦めずにチームを引っ張っていきます。そのリーダーシップに、多くの人が期待を寄せています。",
+      "translationZh": "他和队友的配合也非常出色，传球技巧也十分亮眼。即使在球队陷入困境时，他也从不放弃，带领着队伍前进。许多人都对他寄予厚望，期待他的领导才能。",
+      "translationEn": "His coordination with teammates is also excellent, and his passing skills shine. Even when the team is in a difficult situation, he never gives up and leads the team forward. Many people place their hopes on his leadership.",
+      "id": "891c0b6e-53fb-4c2e-9f7c-4277d209a180",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この若きスターは、Bリーグの未来を明るく照らす存在です。彼の今後の成長と活躍から、目が離せません。これからも、たくさんの感動を与えてくれることでしょう。",
+      "translationZh": "这位年轻的明星选手，照亮了B联赛的未来。我们无法移开视线，关注着他今后的成长和活跃表现。相信他今后也会带给我们更多的感动。",
+      "translationEn": "This young star is a presence that brightly illuminates the future of the B.League. We cannot take our eyes off his future growth and performance. He will surely bring us much more excitement from now on.",
+      "id": "71c310a0-c78f-4067-bdd8-8006e326003c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新星",
+      "reading": "しんせい",
+      "meaningZh": "新近出现的、有前途的杰出人物",
+      "meaningEn": "rising star; new star",
+      "level": "n3",
+      "exampleSentence": "この若手俳優は、まさに映画界の新しい星だ。",
+      "id": "13996328-b94d-45f2-a9c5-b6d17204be9c"
+    },
+    {
+      "word": "魅了する",
+      "reading": "みりょうする",
+      "meaningZh": "深深吸引；使迷住",
+      "meaningEn": "to charm; to fascinate; to captivate",
+      "level": "n3",
+      "exampleSentence": "彼の歌声は多くの人々を魅了した。",
+      "id": "580245aa-c982-41e9-a3ad-34a0de501b35"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "ベテラン",
+      "meaningZh": "经验丰富的人；老手",
+      "meaningEn": "veteran",
+      "level": "n3",
+      "exampleSentence": "彼は長年の経験を持つベテランの職人です。",
+      "id": "0f6dd166-d56b-4ba2-895c-3b10b059410c"
+    },
+    {
+      "word": "爆発的",
+      "reading": "ばくはつてき",
+      "meaningZh": "爆发性的；爆炸性的",
+      "meaningEn": "explosive; explosive-like",
+      "level": "n3",
+      "exampleSentence": "その新製品は爆発的な人気を得た。",
+      "id": "a9711586-7cbf-41cc-8734-f2d7d0d68a89"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "协作；配合；联合",
+      "meaningEn": "cooperation; coordination; collaboration",
+      "level": "n3",
+      "exampleSentence": "チームとして連携を深めることが大切だ。",
+      "id": "63e0412c-0524-4d58-be11-99771dfff292"
+    },
+    {
+      "word": "パスワーク",
+      "reading": "パスワーク",
+      "meaningZh": "（体育运动中）传球配合",
+      "meaningEn": "passing game; pass work",
+      "level": "n3",
+      "exampleSentence": "サッカーにおいて、パスワークは非常に重要だ。",
+      "id": "ee2b07fa-e6f3-4e82-b35e-3af8df2953bc"
+    },
+    {
+      "word": "リーダーシップ",
+      "reading": "リーダーシップ",
+      "meaningZh": "领导才能；领导力",
+      "meaningEn": "leadership",
+      "level": "n3",
+      "exampleSentence": "彼女は優れたリーダーシップを発揮した。",
+      "id": "0a0b7138-02ef-4203-b8f5-c79b6ed387d6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この選手は、試合でどのようなプレーを見せていますか？",
+      "options": [
+        "ベテランのような落ち着きと爆発的なプレー",
+        "常に守備に徹するプレー",
+        "経験不足からくるミスが多いプレー",
+        "個人のプレーばかりでチームワークがないプレー"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「彼はまだ若いながらも、試合ではベテランのような落ち着きと、爆発的なプレーを見せています。」と書かれています。",
+      "id": "093d1c69-6f68-43ad-a462-47c0e33c25f1"
+    },
+    {
+      "question": "この選手は、チームにとってどのような存在だと書かれていますか？",
+      "options": [
+        "チームの足を引っ張る存在",
+        "Bリーグの未来を明るく照らす存在",
+        "経験不足でまだ成長が必要な存在",
+        "一時的に活躍するだけの存在"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後に「この若きスターは、Bリーグの未来を明るく照らす存在です。」と述べられています。",
+      "id": "164f49e8-e8e4-4ec6-81cb-ceb134529c34"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-25-b",
+  "publishedAt": "2026-09-25T06:00:00+09:00"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "夏の夜空を彩る！花火大会開催情報",
+  "summary": "夏といえば花火大会！今年の夏も各地で盛大に開催されます。最新の開催情報をチェックして、夏の思い出を作りましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夏の夜空に咲く大輪の花火は、日本の夏の風物詩です。今年も各地で花火大会が開催される予定なので、お近くの会場をチェックしてみてはいかがでしょうか。最近では、感染症の影響で中止や規模縮小が続いていましたが、今年は多くの場所で例年通りの開催が期待されています。",
+      "translationZh": "夏夜天空中绽放的大朵烟花，是日本夏天的代表性风景。今年各地也预定将举办烟花大会，你不妨关注一下家附近的会场怎么样？最近，受疫情影响，很多地方都中止或缩小了规模，但今年预计许多地方将恢复往年的举办规模。",
+      "translationEn": "The large fireworks blooming in the summer night sky are a symbol of Japanese summer. This year, fireworks festivals are scheduled to be held in various locations, so why not check out a venue near you? Recently, due to the pandemic, many events were canceled or scaled down, but this year, many places are expected to hold them as usual.",
+      "id": "d2af97d9-e027-4fca-b13f-dd22320a5f0a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会へ行く際は、事前の情報収集が大切です。開催日時や場所はもちろん、アクセス方法や当日の注意事項などを確認しておきましょう。また、浴衣を着て出かけると、さらに気分が高まるかもしれません。しかし、当日は大変混雑するので、時間に余裕を持って行動することが重要です。",
+      "translationZh": "去参加烟花大会时，事先收集信息很重要。除了举办日期、时间和地点，还要确认交通方式以及当天的注意事项。另外，如果穿上浴衣出门，心情可能会更加高涨。但是，当天会非常拥挤，所以留有充裕的时间行动很重要。",
+      "translationEn": "When going to a fireworks festival, it is important to gather information in advance. Be sure to check the date, time, location, access methods, and any important notes for the day. Also, wearing a yukata might enhance the festive mood. However, it gets very crowded on the day, so it's crucial to act with plenty of time to spare.",
+      "id": "91bd41b0-d36e-4213-97b4-b4a3cbe92657",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "花火大会は、地域の人々が集まり、夏の夜を楽しむための大切なイベントです。屋台で美味しいものを食べたり、友人や家族と会話をしながら花火を眺めたりする時間は、かけがえのない思い出になるでしょう。今年の夏も、美しい花火と共に、素敵な時間を過ごしてみてはいかがでしょうか。",
+      "translationZh": "烟花大会是让当地居民聚集在一起，享受夏夜的重要活动。在小摊上吃点美味的东西，或者和朋友家人边聊天边观赏烟花的时间，将会成为无比珍贵的回忆。今年夏天，你不妨也伴随着美丽的烟花，度过一段美好的时光呢？",
+      "translationEn": "Fireworks festivals are important events for local communities to gather and enjoy summer nights. The time spent eating delicious food from street stalls or watching fireworks while chatting with friends and family will surely become an irreplaceable memory. This summer, why not spend a wonderful time with beautiful fireworks?",
+      "id": "2c22728a-dfa1-424b-b268-6cf3adc34d91",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "風物詩",
+      "reading": "ふうぶつし",
+      "meaningZh": "（代表时令的）景物，风物",
+      "meaningEn": "seasonal feature; seasonal event",
+      "level": "n3",
+      "exampleSentence": "桜は春の風物詩だ。",
+      "id": "2d502771-6a27-442c-874e-29ec3c4afa63"
+    },
+    {
+      "word": "盛大に",
+      "reading": "せだいに",
+      "meaningZh": "盛大地，隆重地",
+      "meaningEn": "grandly; magnificently",
+      "level": "n3",
+      "exampleSentence": "結婚式は盛大に行われた。",
+      "id": "8f211d60-81da-474d-b9fb-45293848694d"
+    },
+    {
+      "word": "規模",
+      "reading": "きぼ",
+      "meaningZh": "规模",
+      "meaningEn": "scale; scope",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトは非常に大きな規模だ。",
+      "id": "65572677-6b11-4e8e-a12c-aecfae0a4d50"
+    },
+    {
+      "word": "収集",
+      "reading": "しゅうしゅう",
+      "meaningZh": "收集，搜集",
+      "meaningEn": "collection; gathering",
+      "level": "n3",
+      "exampleSentence": "情報収集は計画の第一歩だ。",
+      "id": "1bc368b5-d1e0-4e90-a549-fdb0b6bd7ded"
+    },
+    {
+      "word": "注意事項",
+      "reading": "ちゅういじこう",
+      "meaningZh": "注意事项",
+      "meaningEn": "precautions; points to note",
+      "level": "n3",
+      "exampleSentence": "この薬にはいくつか注意事項があります。",
+      "id": "69720fb5-eb90-404c-bdf0-741a6c9b9082"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaningZh": "浴衣（夏季和服）",
+      "meaningEn": "yukata (summer kimono)",
+      "level": "n5n4",
+      "exampleSentence": "夏祭りには浴衣を着ていくのが楽しみだ。",
+      "id": "44551912-c37a-46a3-a649-a41e9f4f9dcf"
+    },
+    {
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningZh": "拥挤，混乱",
+      "meaningEn": "crowding; congestion",
+      "level": "n3",
+      "exampleSentence": "休日は駅が大変混雑する。",
+      "id": "c000d4e9-2cf5-4633-a9bd-93ed3c395d79"
+    },
+    {
+      "word": "かけがえのない",
+      "reading": "かけがえのない",
+      "meaningZh": "无可替代的，宝贵的",
+      "meaningEn": "irreplaceable; precious",
+      "level": "n3",
+      "exampleSentence": "家族と過ごす時間はかけがえのないものです。",
+      "id": "601560df-12c2-4519-8031-7f1b771f6ec6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "花火大会へ行く前に、どのような準備が大切だと書かれていますか？",
+      "options": [
+        "浴衣を新しく買うこと",
+        "会場の近くにホテルを予約すること",
+        "開催日時やアクセス方法などの情報を集めること",
+        "最新の天気予報を調べること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「花火大会へ行く際は、事前の情報収集が大切です。開催日時や場所はもちろん、アクセス方法や当日の注意事項などを確認しておきましょう。」と書かれています。",
+      "id": "c784501f-ee62-48b6-9cab-0bdfbadda2a4"
+    },
+    {
+      "question": "今年の夏の花火大会について、筆者はどのように述べていますか？",
+      "options": [
+        "感染症の影響で、ほとんど中止になるだろう。",
+        "例年通り開催される場所が多く、期待されている。",
+        "規模が縮小される会場が多いだろう。",
+        "新しい形式の花火大会が始まるだろう。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「今年は多くの場所で例年通りの開催が期待されています。」と書かれています。",
+      "id": "25fc959f-2217-48aa-af21-1fdbdae21428"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-25-ccf0f866c3",
+  "publishedAt": "2026-09-25T06:00:00+09:00"
+}

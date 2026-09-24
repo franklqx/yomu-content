@@ -1,0 +1,131 @@
+{
+  "title": "Bリーグの新スター選手",
+  "summary": "プロバスケットボールBリーグに新しいスター選手が現れました。彼の活躍はとてもすごいです。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "Bリーグは日本のプロバスケットボールリーグです。たくさんのチームがあります。選手たちは一生懸命プレーしています。最近、新しいスター選手が注目されています。",
+      "translationZh": "B联赛是日本的职业篮球联赛。有很多支球队。选手们都在努力地打球。最近，一位新星选手受到了关注。",
+      "translationEn": "The B.League is Japan's professional basketball league. There are many teams. The players are playing very hard. Recently, a new star player has been attracting attention.",
+      "id": "4e9efe1c-ebed-4f81-861f-547631e4e274",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい選手はとても若いです。でも、プレーはとても上手です。シュートもドリブルも素晴らしいです。彼のスピードは速いです。相手チームの選手は止められません。",
+      "translationZh": "这位新选手非常年轻。但是，他的球技非常娴熟。投篮和运球都很出色。他的速度很快。对方球队的选手无法阻止他。",
+      "translationEn": "This new player is very young. But his playing is very skillful. His shooting and dribbling are both wonderful. His speed is fast. The opposing team's players cannot stop him.",
+      "id": "ae29c8a9-9f0f-4d12-8c04-0de7cf9efbdf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "彼のチームは、この新しい選手のおかげで、試合に勝つことが多くなりました。ファンは彼のプレーを見て、とても喜んでいます。スタジアムはいつもたくさんの人でにぎわっています。",
+      "translationZh": "因为这位新选手，他的球队赢得了很多比赛。球迷们看了他的比赛，都非常高兴。体育场总是挤满了很多人。",
+      "translationEn": "Thanks to this new player, his team has been winning many games. The fans are very happy watching his play. The stadium is always bustling with many people.",
+      "id": "469d7d17-5319-4fe2-a85d-a61f503cfeae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、このスター選手がもっと活躍することを期待しています。日本のバスケットボールがもっと面白くなるでしょう。",
+      "translationZh": "今后，我们期待这位明星选手能有更多活跃表现。日本的篮球会变得更加有趣。",
+      "translationEn": "From now on, we expect this star player to be even more active. Japanese basketball will become more interesting.",
+      "id": "e0039939-14bd-4151-a470-5776f8ecae22",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "リーグ",
+      "reading": "りーぐ",
+      "meaningZh": "联赛",
+      "meaningEn": "league",
+      "level": "n5n4",
+      "exampleSentence": "サッカーのリーグは人気があります。",
+      "id": "50bfc843-0335-464e-a1c8-36c3ec5b963b"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な野球選手です。",
+      "id": "3695be78-5580-4b72-ab1d-4d62209ad969"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注；注目",
+      "meaningEn": "attention; notice",
+      "level": "n3",
+      "exampleSentence": "新しい映画に注目が集まっています。",
+      "id": "73af8271-1cfe-47bc-9a8b-98320e26afba"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaningZh": "擅长；高明",
+      "meaningEn": "skillful; good at",
+      "level": "n5n4",
+      "exampleSentence": "彼女は料理が上手です。",
+      "id": "14d8b101-affb-4676-994f-1e33801870ad"
+    },
+    {
+      "word": "速い",
+      "reading": "はやい",
+      "meaningZh": "快的",
+      "meaningEn": "fast",
+      "level": "n5n4",
+      "exampleSentence": "この車はとても速いです。",
+      "id": "608a999f-adc0-4777-a2db-89328497156c"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaningZh": "对方",
+      "meaningEn": "opponent; partner",
+      "level": "n5n4",
+      "exampleSentence": "相手のチームが強かったです。",
+      "id": "8094bd85-d083-4f27-911d-e32850c6fe55"
+    },
+    {
+      "word": "おかげ",
+      "reading": "おかげ",
+      "meaningZh": "多亏；幸亏",
+      "meaningEn": "thanks to",
+      "level": "n5n4",
+      "exampleSentence": "先生のおかげで、日本語が上手になりました。",
+      "id": "ddcd8fe1-1af0-4028-bc94-40b710cc046d"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待；期望",
+      "meaningEn": "expectation; hope",
+      "level": "n3",
+      "exampleSentence": "彼の活躍に期待しています。",
+      "id": "b138c84b-518a-4ad5-bb58-6c4656ad5b72"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいスター選手はどんなプレーができますか。",
+      "options": [
+        "とても速いスピードで走ること",
+        "相手チームの選手を止めること",
+        "シュートとドリブルが素晴らしいこと",
+        "たくさんの試合に勝つこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「シュートもドリブルも素晴らしいです。」と書いてあります。",
+      "id": "380608a2-1622-441e-a809-7c0ab60903aa"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-25-b",
+  "publishedAt": "2026-09-25T06:00:00+09:00"
+}
