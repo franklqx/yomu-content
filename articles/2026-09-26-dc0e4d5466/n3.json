@@ -1,0 +1,134 @@
+{
+  "title": "桜前線！地方都市で一足早く春を感じよう",
+  "summary": "桜の見頃が近づいてきましたね。今回は、一足早く桜を楽しめる地方都市の見どころを紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "だんだんと暖かくなり、桜の開花が待ち遠しい季節になりました。今年の桜前線は例年より少し早い地域もあるようです。せっかくのお花見、定番の観光地も良いですが、今回は少し足を延ばして、地方都市ならではの魅力的な桜スポットをご紹介しましょう。",
+      "translationZh": "天气逐渐变暖，令人期待樱花盛开的季节。今年的樱花前线在某些地区似乎比往年要早一些。既然是赏花，虽然热门景点也不错，但这次我们不妨稍微延伸一下脚步，介绍几个只有地方都市才有的、富有魅力的赏樱地点吧。",
+      "translationEn": "The weather is gradually getting warmer, and it's the season when we eagerly await the cherry blossoms to bloom. This year, the cherry blossom front seems to be a little earlier in some regions than usual. Since it's for flower viewing, while popular tourist spots are good, this time let's extend our journey a bit and introduce some charming cherry blossom spots unique to regional cities.",
+      "id": "2f839355-0016-4c3f-ae67-1427ff0281df",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、山間部にある〇〇町では、川沿いに約500本のソメイヨシノが咲き誇ります。満開の時期になると、川面にも桜が映り込み、まるで絵画のような美しい景色が広がります。町全体がお祭りムードになり、地元の人々との交流も楽しめます。地元の特産品を味わいながら、ゆったりとした時間を過ごしてみてはいかがでしょうか。",
+      "translationZh": "例如，在位于山区的小镇〇〇町，河岸边盛开着约500株染井吉野樱。满开时节，樱花倒映在河面上，展开一幅如画般美丽的景色。整个小镇都充满了节日气氛，还能与当地人交流。一边品尝当地特产，一边悠闲地度过时光，您觉得怎么样？",
+      "translationEn": "For example, in the mountainous town of Marumaru, about 500 Someiyoshino cherry trees bloom along the river. When they are in full bloom, the cherry blossoms are reflected on the river's surface, creating a picturesque and beautiful scene. The entire town is filled with a festive mood, and you can also enjoy interacting with the locals. How about spending a relaxing time while savoring local specialties?",
+      "id": "34a76986-b39f-49e1-b05a-5fa135db3618",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、海に近い△△市もおすすめです。こちらの桜は、海を背景に咲いているのが特徴です。潮風を感じながら、青い海とピンク色の桜のコントラストを楽しむことができます。展望台からは、桜並木と海のパノラマビューが広がり、感動すること間違いなしです。夜にはライトアップされた桜も幻想的で、昼間とは違った雰囲気を味わえます。",
+      "translationZh": "另外，靠近海边的△△市也值得推荐。这里的樱花以在海的背景下绽放为特色。您可以在感受海风的同时，欣赏蓝色大海与粉色樱花形成的对比。从展望台望去，樱花大道和大海的全景尽收眼底，绝对会让人感动。夜晚，灯光照耀下的樱花也如梦似幻，可以品味到与白天不同的氛围。",
+      "translationEn": "Furthermore, △△ city, located near the sea, is also recommended. The cherry blossoms here are characterized by their bloom against the backdrop of the sea. You can enjoy the contrast between the blue sea and the pink cherry blossoms while feeling the sea breeze. From the observation deck, a panoramic view of the cherry blossom-lined street and the sea unfolds, undoubtedly leaving you moved. At night, the illuminated cherry blossoms are also fantastic, offering a different atmosphere from the daytime.",
+      "id": "456ab47d-6707-4cbd-8903-3c8184ca536d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方都市の桜は、人が少なく、ゆっくりと鑑賞できるのが魅力です。公共交通機関があまり発達していない場所もありますから、訪れる際は事前に交通手段を調べておくことが大切です。今年の春は、少し変わった場所で、心に残る桜との出会いを楽しんでみませんか。",
+      "translationZh": "地方都市的樱花之所以吸引人，是因为人少，可以悠闲地欣赏。有些地方的公共交通不太发达，所以访问时提前查询交通方式很重要。今年的春天，您不想去一个稍微特别的地方，享受一次令人难忘的与樱花的邂逅吗？",
+      "translationEn": "The charm of cherry blossoms in regional cities is that there are fewer people, allowing for leisurely appreciation. Since public transportation may not be well-developed in some places, it's important to research transportation methods in advance when visiting. This spring, why not try visiting a slightly different location and enjoy a memorable encounter with cherry blossoms?",
+      "id": "74bb4478-e42c-4681-ab21-bb3f4a9dace3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "桜前線",
+      "reading": "さくらぜんせん",
+      "meaningZh": "樱花前线；指樱花从南向北依次开放的日期线",
+      "meaningEn": "Sakura front; the line indicating the progression of cherry blossom blooming from south to north across Japan",
+      "level": "n3",
+      "exampleSentence": "今年の桜前線は記録的な早さです。",
+      "id": "346dec56-4029-4165-b31a-99a7614ee584"
+    },
+    {
+      "word": "待ち遠しい",
+      "reading": "まちどおしい",
+      "meaningZh": "盼望的，渴望的",
+      "meaningEn": "long-awaited, eager for",
+      "level": "n3",
+      "exampleSentence": "春休みが待ち遠しいです。",
+      "id": "4e10d350-9bcd-4841-bff8-a1d574840418"
+    },
+    {
+      "word": "足を延ばす",
+      "reading": "あしをのばす",
+      "meaningZh": "（绕道）去……；延伸（路程）",
+      "meaningEn": "to go out of one's way (to visit a place); to extend one's journey",
+      "level": "n3",
+      "exampleSentence": "休暇を利用して、友人の住む町に足を延ばしてみた。",
+      "id": "09abd90e-6de2-49f3-a906-74836db47ed6"
+    },
+    {
+      "word": "咲き誇る",
+      "reading": "さきほこる",
+      "meaningZh": "盛开，怒放",
+      "meaningEn": "to bloom proudly, to be in full bloom",
+      "level": "n3",
+      "exampleSentence": "庭園では、色とりどりの花が咲き誇っていた。",
+      "id": "363073d2-8428-40b5-b3e5-a176aeb0bf47"
+    },
+    {
+      "word": "特産品",
+      "reading": "とくさんひん",
+      "meaningZh": "特产",
+      "meaningEn": "specialty product, local product",
+      "level": "n3",
+      "exampleSentence": "この地域の名産品はお菓子です。",
+      "id": "79963e40-6698-4644-9bc4-7f33919afc1f"
+    },
+    {
+      "word": "潮風",
+      "reading": "しおかぜ",
+      "meaningZh": "海风，咸风",
+      "meaningEn": "sea breeze, salt-laden wind",
+      "level": "n3",
+      "exampleSentence": "海辺を散歩すると、心地よい潮風を感じる。",
+      "id": "0abc2761-405d-436a-84d7-51e157f825c4"
+    },
+    {
+      "word": "幻想的",
+      "reading": "げんそうてき",
+      "meaningZh": "梦幻般的，空幻的",
+      "meaningEn": "fantastic, illusory, dreamlike",
+      "level": "n3",
+      "exampleSentence": "雪景色のライトアップは幻想的だった。",
+      "id": "87ad0637-f1a8-44e1-b051-7917dd7dcb73"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方都市の桜見物の魅力として、本文で述べられていることは何ですか？",
+      "options": [
+        "有名なお祭りがたくさん開催されること",
+        "最新の桜の品種を見ることができること",
+        "人が少なく、ゆっくり鑑賞できること",
+        "有名な観光地よりもアクセスが良いこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落に「地方都市の桜は、人が少なく、ゆっくりと鑑賞できるのが魅力です。」と書かれています。",
+      "id": "1bedf681-1c01-4077-84b6-797b133c875c"
+    },
+    {
+      "question": "〇〇町と△△市の桜見どころについて、本文の内容と合っているものはどれですか？",
+      "options": [
+        "〇〇町は海沿いの桜が有名で、△△市は川沿いの桜が美しい。",
+        "〇〇町は町全体がお祭りムードで、△△市は海を背景に桜を楽しめる。",
+        "〇〇町では地元の人との交流は少なく、△△市は夜のライトアップが中心である。",
+        "〇〇町は桜の本数が少なく、△△市は展望台がない。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「〇〇町では、川沿いに約500本のソメイヨシノが咲き誇ります。町全体がお祭りムードになり、地元の人々との交流も楽しめます。」と「△△市は、海を背景に咲いているのが特徴です。」と書かれています。",
+      "id": "1bef0a2e-2ca5-413a-9a11-012171e57c78"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-26-dc0e4d5466",
+  "publishedAt": "2026-09-26T06:00:00+09:00"
+}

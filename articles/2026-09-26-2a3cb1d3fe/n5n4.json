@@ -1,0 +1,131 @@
+{
+  "title": "新しいアニメが始まった！",
+  "summary": "新しいアニメがテレビで始まりました。たくさんの人が楽しみにしています。アニメを作る人は、もっと見てもらうために色々な工夫をしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今週、新しいアニメがテレビで始まりました。このアニメは、とても人気があるマンガが元になっています。放送が始まる前から、SNSで話題になっていました。どんな物語か、楽しみにしていた人も多いでしょう。",
+      "translationZh": "本周，一部新动画片在电视上播出了。这部动画是根据一本非常受欢迎的漫画改编的。在播出开始之前，它已经在社交媒体上引起了话题。很多人都在期待它会是怎样的故事。",
+      "translationEn": "This week, a new anime started on TV. This anime is based on a very popular manga. Even before it started airing, it was a hot topic on social media. Many people were probably looking forward to seeing what kind of story it would be.",
+      "id": "db5e3b75-80cf-4e33-8f67-f05a8e350acf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメを面白くするために、色々な工夫がされています。例えば、キャラクターのデザインがとてもきれいです。声優さんの演技も上手で、キャラクターの気持ちがよく伝わってきます。音楽も素晴らしくて、アニメの世界に入り込めます。",
+      "translationZh": "为了让动画更有趣，他们做了各种各样的努力。例如，角色的设计非常漂亮。声优的演技也很棒，角色的感情传达得很清楚。音乐也很棒，可以让人沉浸在动画的世界里。",
+      "translationEn": "Various efforts have been made to make the anime interesting. For example, the character designs are very beautiful. The voice actors' performances are also skillful, and the characters' feelings are well conveyed. The music is also wonderful, allowing viewers to immerse themselves in the anime's world.",
+      "id": "3024253d-c12f-48d2-a71b-2a3907c93ee1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "初回放送では、物語の始まりが描かれました。主人公がどんな人物で、どんな目的を持っているのかが分かりました。これからどんな冒険が始まるのか、ワクワクしますね。来週の放送も、きっと多くの人が見るでしょう。",
+      "translationZh": "在首播中，描绘了故事的开端。我们知道了主人公是怎样一个人，以及他有什么样的目标。接下来会开始怎样的冒险，真是令人兴奋。下周的播出，也一定会有很多人收看。",
+      "translationEn": "In the first broadcast, the beginning of the story was depicted. We learned what kind of person the protagonist is and what his goals are. It's exciting to think about what kind of adventures will begin from now on. Many people will surely watch next week's broadcast as well.",
+      "id": "04d7a9ea-f8ad-4e21-b299-2e930944277b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "SNSでは、放送後に感想を言う人がたくさんいました。「感動した」「面白かった」という意見が多かったです。制作側は、これからも視聴者の反応を見ながら、もっと良いアニメを作っていくのでしょう。",
+      "translationZh": "在社交媒体上，有很多人在播出后发表感想。“很感动”、“很有趣”的意见很多。制作方大概会一边看观众的反应，一边继续制作更好的动画。",
+      "translationEn": "On social media, many people shared their impressions after the broadcast. There were many opinions like 'I was moved' and 'It was interesting.' The production team will likely continue to make even better anime while observing viewer reactions.",
+      "id": "3fb6a6c4-f974-4aac-94fe-4dae16532ae5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい本です。",
+      "id": "8366f22f-41e7-4bdc-acb3-bbebc3da2473"
+    },
+    {
+      "word": "アニメ",
+      "reading": "あにめ",
+      "meaningZh": "动画",
+      "meaningEn": "anime",
+      "level": "n5n4",
+      "exampleSentence": "私はアニメを見るのが好きです。",
+      "id": "b6a60915-a92a-4734-85c3-0e198e19b6c8"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaningZh": "播放，播出",
+      "meaningEn": "broadcast",
+      "level": "n5n4",
+      "exampleSentence": "テレビの放送を見ました。",
+      "id": "040071cb-24cf-48b5-8a47-f97f6f7e92d9"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic",
+      "level": "n5n4",
+      "exampleSentence": "みんなが話題にしています。",
+      "id": "e9ccba8a-35c4-4cfc-8e72-38c7f817f401"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "device, measure, idea",
+      "level": "n3",
+      "exampleSentence": "この問題のために、いい工夫をしました。",
+      "id": "e096f1ae-5b05-4e4d-92cb-d2d89c1cc9df"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "きゃらくたー",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このキャラクターが好きです。",
+      "id": "ceef5697-e03b-4e42-8ddd-f6f693ecaa2b"
+    },
+    {
+      "word": "演技",
+      "reading": "えんぎ",
+      "meaningZh": "演技",
+      "meaningEn": "acting",
+      "level": "n3",
+      "exampleSentence": "彼の演技はとても上手です。",
+      "id": "10c1526b-3e6e-4049-ae5e-01ef150ba606"
+    },
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "配音演员",
+      "meaningEn": "voice actor",
+      "level": "n3",
+      "exampleSentence": "あの声優さんが好きです。",
+      "id": "462136f9-4e7a-4920-8266-7df1fa8499f9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しいアニメは、何が元になっていますか。",
+      "options": [
+        "歌",
+        "ゲーム",
+        "マンガ",
+        "映画"
+      ],
+      "correctIndex": 2,
+      "explanation": "初回放送では、物語の始まりが描かれました。このアニメは、とても人気があるマンガが元になっています。",
+      "id": "f3a48964-dc0b-4dcf-b491-c46d52ff3721"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-26-2a3cb1d3fe",
+  "publishedAt": "2026-09-26T06:00:00+09:00"
+}

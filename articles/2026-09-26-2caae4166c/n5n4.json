@@ -1,0 +1,122 @@
+{
+  "title": "コンビニの新スイーツ！",
+  "summary": "コンビニで新しいお菓子がたくさん出ました。どんなお菓子があるか見てみましょう！",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "コンビニでは、新しいお菓子がよく出ます。特に夏は、冷たいデザートがたくさんあります。チョコレート、ケーキ、アイスクリームなど、いろいろな種類があります。",
+      "translationZh": "便利店里，新点心经常推出。特别是夏天，有很多冰凉的甜点。有巧克力、蛋糕、冰淇淋等等各种种类。",
+      "translationEn": "Convenience stores often release new sweets. Especially in summer, there are many cold desserts. There are various kinds such as chocolate, cake, and ice cream.",
+      "id": "7a41a86b-c044-41ec-9d6d-a41a667ca485",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この前、あるコンビニで新しいシュークリームを買いました。クリームがたくさん入っていて、とてもおいしかったです。値段も手頃で、うれしかったです。",
+      "translationZh": "前几天，我在一家便利店买了一个新的泡芙。里面有很多奶油，非常好吃。价格也很实惠，我很高兴。",
+      "translationEn": "The other day, I bought a new cream puff at a certain convenience store. It was filled with a lot of cream and was very delicious. The price was also reasonable, which made me happy.",
+      "id": "60754e48-43af-45cb-8410-5898fd9175b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニ限定の商品も多いです。これは、そのコンビニでしか買えません。だから、人気があります。限定の味は、見つけたらすぐ買いたくなりますね。",
+      "translationZh": "便利店限定的商品也很多。这种只能在那家便利店买到。所以很受欢迎。限定口味，一发现就想马上买呢。",
+      "translationEn": "There are also many convenience store-exclusive items. These can only be bought at that specific store. That's why they are popular. When you find a limited edition flavor, you want to buy it right away.",
+      "id": "de75133b-4883-4af6-8be1-1d5fa2b9aec4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、お近くのコンビニで新しいお菓子を探してみてはいかがですか。新しい発見があるかもしれませんよ。",
+      "translationZh": "大家也不妨去附近的便利店找找新点心怎么样？也许会有新的发现哦。",
+      "translationEn": "Why don't you all try looking for new sweets at a convenience store near you? You might make a new discovery.",
+      "id": "94395098-7359-430b-8ee5-0ebbb14e29c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コンビニ",
+      "reading": "こんびに",
+      "meaningZh": "便利店",
+      "meaningEn": "convenience store",
+      "level": "n5n4",
+      "exampleSentence": "駅の前に大きいコンビニがあります。",
+      "id": "a161472e-2313-42f8-8d6f-a51974087d5c"
+    },
+    {
+      "word": "新商品",
+      "reading": "しんしょうひん",
+      "meaningZh": "新商品",
+      "meaningEn": "new product",
+      "level": "n5n4",
+      "exampleSentence": "このお店は新商品が多いです。",
+      "id": "cb6505a1-9474-4416-a968-995a239ffd74"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaningZh": "点心，零食",
+      "meaningEn": "sweets, snacks",
+      "level": "n5n4",
+      "exampleSentence": "子供がお菓子をたくさん食べました。",
+      "id": "31e0f519-4ab0-4295-919d-d8532056a942"
+    },
+    {
+      "word": "デザート",
+      "reading": "でざーと",
+      "meaningZh": "甜点",
+      "meaningEn": "dessert",
+      "level": "n5n4",
+      "exampleSentence": "食後にデザートを食べたいです。",
+      "id": "c4e37734-1822-413a-a000-813113b93cb4"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n3",
+      "exampleSentence": "この味は今月限定です。",
+      "id": "d673ebe5-534c-4e5f-b5f7-c040bb1aa20a"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "实惠，适中（价格）",
+      "meaningEn": "reasonable, affordable",
+      "level": "n3",
+      "exampleSentence": "このレストランは値段が手頃です。",
+      "id": "8cb4f304-a966-4d0f-89d1-1a3eee586cca"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しい趣味を発見しました。",
+      "id": "b8c50b9a-1978-4afa-8eeb-65645811129e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニ限定の商品は、どこで買えますか。",
+      "options": [
+        "どのコンビニでも買えます。",
+        "そのコンビニでしか買えません。",
+        "インターネットで買えます。",
+        "デパートで買えます。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「コンビニ限定の商品も多いです。これは、そのコンビニでしか買えません。」と書いてあります。",
+      "id": "b4e9e14d-2726-4b11-b08f-5c48a88ac5ff"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-26-2caae4166c",
+  "publishedAt": "2026-09-26T06:00:00+09:00"
+}

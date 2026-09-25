@@ -1,0 +1,143 @@
+{
+  "title": "コンビニ限定スイーツ！新商品ラッシュにワクワク",
+  "summary": "最近、コンビニでは魅力的な限定スイーツがたくさん発売されています。新商品ラッシュは私たちをワクワクさせてくれますね。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、コンビニのスイーツコーナーがとても賑わっています。有名店とのコラボ商品や、季節限定のフレーバーなど、毎日新しい商品が登場しているかのようです。これは、コンビニスイーツの新商品ラッシュと言えるでしょう。",
+      "translationZh": "最近，便利店甜点区非常热闹。像是与知名店合作的商品，或是季节限定的口味等等，感觉上每天都有新商品登场。这可以说是便利店甜点的“新商品热潮”。",
+      "translationEn": "Recently, the sweets corner at convenience stores has been very lively. It seems like new products are appearing every day, such as collaborations with famous shops and seasonal flavors. This can be called a 'new product rush' for convenience store sweets.",
+      "id": "697eb843-6dec-40f9-bc27-5419ae6b9771",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニ各社は、味はもちろんのこと、見た目の可愛らしさにも力を入れています。SNS映えするようなカラフルなケーキや、季節感あふれる和菓子など、選ぶのに迷ってしまうほどです。新しいスイーツを試すたびに、そのクオリティの高さに驚かされます。",
+      "translationZh": "各便利店公司不仅注重味道，在外观的可爱度上也下了功夫。有像SNS上会火的那种色彩鲜艳的蛋糕，也有充满季节感的日式点心，多到让人选择困难。每次尝试新的甜点，都会对其高品质感到惊讶。",
+      "translationEn": "Each convenience store company is focusing not only on taste but also on the cuteness of their appearance. There are colorful cakes that look good on social media, and traditional Japanese sweets full of seasonal cảm giác, making it hard to choose. Every time I try a new sweet, I am surprised by its high quality.",
+      "id": "7bcf1de4-30ad-49db-8733-c7cad3a4c9ec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、コンビニスイーツが進化し続けているのは、消費者のニーズが多様化していることも理由の一つでしょう。手軽に買えるのに、本格的な味が楽しめることから、多くの人に支持されています。私も、仕事帰りについ立ち寄って、新しいスイーツを探してしまうことがあります。",
+      "translationZh": "像这样，便利店甜点不断进化的原因之一，或许是消费者的需求日益多样化。因为虽然能轻松购买，却能品尝到正宗的味道，所以得到了很多人的支持。我呢，下班回家的路上也常常会顺道去寻找新出的甜点。",
+      "translationEn": "The reason why convenience store sweets continue to evolve like this is likely due to the diversification of consumer needs. Because they can be easily purchased yet offer authentic flavors, they are supported by many people. I, too, often stop by on my way home from work to look for new sweets.",
+      "id": "7cd41bb6-8234-416b-86bf-772cfceb459b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "限定商品なので、いつまで販売されるかわからないという点も、私たちを惹きつける要因かもしれません。気になる商品があれば、売り切れる前に早めにゲットしたいものです。皆さんも、お気に入りのコンビニスイーツを見つけて、この新商品ラッシュを楽しんでみませんか？",
+      "translationZh": "因为是限定商品，所以不知道会销售到什么时候这一点，也可能是吸引我们的一个因素。如果有什么在意的商品，我希望能在卖完之前早点入手。大家也来找到自己喜欢的便利店甜点，一起享受这个新商品热潮怎么样？",
+      "translationEn": "Since they are limited items, the fact that we don't know how long they will be sold might also be a factor that attracts us. If there's a product I'm interested in, I want to get it quickly before it sells out. Why don't you all find your favorite convenience store sweets and enjoy this new product rush?",
+      "id": "d917c771-4390-4a3c-aa63-24f4543f0225",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "賑わっています",
+      "reading": "にぎわっています",
+      "meaningZh": "热闹，繁荣",
+      "meaningEn": "to be crowded, to be bustling",
+      "level": "n5n4",
+      "exampleSentence": "駅前はいつも賑わっています。",
+      "id": "235953f0-281a-4b62-8425-e4e4e06acc8a"
+    },
+    {
+      "word": "コラボ商品",
+      "reading": "コラボしょうひん",
+      "meaningZh": "合作商品",
+      "meaningEn": "collaboration product",
+      "level": "n3",
+      "exampleSentence": "人気アニメとのコラボ商品が発売された。",
+      "id": "2cd1bcd3-a361-494e-bff7-99c55f2abcb4"
+    },
+    {
+      "word": "フレーバー",
+      "reading": "フレーバー",
+      "meaningZh": "口味，风味",
+      "meaningEn": "flavor",
+      "level": "n3",
+      "exampleSentence": "期間限定のストロベリーフレーバーが好きです。",
+      "id": "601008e0-980e-4157-ab3b-8e372073d683"
+    },
+    {
+      "word": "SNS映え",
+      "reading": "エスエヌエスばえ",
+      "meaningZh": "在社交媒体上看起来很美/受欢迎",
+      "meaningEn": "to look good on social media",
+      "level": "n3",
+      "exampleSentence": "このカフェのケーキはSNS映えすると評判だ。",
+      "id": "8c905b9c-1cec-40e9-ad8b-304883300721"
+    },
+    {
+      "word": "本格的",
+      "reading": "ほんかくてき",
+      "meaningZh": "正宗的，地道的，本格的",
+      "meaningEn": "authentic, genuine",
+      "level": "n3",
+      "exampleSentence": "このラーメンは本格的な味がする。",
+      "id": "09242a3a-60f9-4633-bbe5-1f2a1c36cac7"
+    },
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "diversification",
+      "level": "n2n1",
+      "exampleSentence": "消費者のニーズが多様化している。",
+      "id": "d914c9e7-befa-4778-8b45-c43bf3ebd9ed"
+    },
+    {
+      "word": "支持",
+      "reading": "しじ",
+      "meaningZh": "支持，拥护",
+      "meaningEn": "support",
+      "level": "n3",
+      "exampleSentence": "多くのファンから支持されている歌手だ。",
+      "id": "e4289221-a0cc-4858-a2ad-dfdf1c6f4aa7"
+    },
+    {
+      "word": "惹きつける",
+      "reading": "ひきつける",
+      "meaningZh": "吸引，引起",
+      "meaningEn": "to attract, to fascinate",
+      "level": "n2n1",
+      "exampleSentence": "その美しい景色は人々の心を惹きつける。",
+      "id": "b598a734-ad51-405a-a253-2354ae89a4f1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニスイーツの新商品ラッシュの理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "有名店がコンビニに進出したから",
+        "消費者のニーズが多様化しているから",
+        "コンビニの広告費が増えたから",
+        "季節が夏になったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「消費者のニーズが多様化していることも理由の一つでしょう」と述べられています。",
+      "id": "6c1c3ecd-38bf-49f5-964f-b045bba4d792"
+    },
+    {
+      "question": "筆者は、コンビニスイーツのどのような点に魅力を感じていますか？",
+      "options": [
+        "値段が安いことと、味が普通なこと",
+        "見た目が地味で、昔ながらの味であること",
+        "手軽に買えるのに、本格的な味が楽しめること",
+        "限定商品ではないので、いつまでも買えること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「手軽に買えるのに、本格的な味が楽しめることから、多くの人に支持されています」と書かれています。",
+      "id": "94b56ffa-f9a7-46e9-85df-0ef31d174285"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-26-2caae4166c",
+  "publishedAt": "2026-09-26T06:00:00+09:00"
+}

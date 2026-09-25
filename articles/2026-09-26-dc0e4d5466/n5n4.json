@@ -1,0 +1,131 @@
+{
+  "title": "春が来た！桜の町へ",
+  "summary": "春になりました。桜がきれいな町へ行きませんか。きっと楽しい旅行になりますよ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ春です。日本の町は桜がきれいです。特に地方の町は、人が少なくてゆっくり桜を楽しめます。まだ見ていない人も、もうすぐ見頃になりますから、ぜひ行ってみてください。",
+      "translationZh": "春天快来了。日本的城镇里樱花很美。特别是地方城镇，人少，可以悠闲地欣赏樱花。还没来得及看的人，也很快就要到最佳观赏期了，请一定要去看看。",
+      "translationEn": "Spring is coming soon. Cherry blossoms are beautiful in Japanese towns. Especially in local towns, there are fewer people, so you can enjoy the cherry blossoms leisurely. For those who haven't seen them yet, the best viewing time is coming soon, so please go and see them.",
+      "id": "6ed57a01-1ad5-436f-b182-f767a6c26308",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、山あいの小さな町があります。そこには古いお寺と川があります。春になると、川沿いの桜が満開になります。ピンクの桜と古いお寺の景色は、とても美しいです。写真もたくさん撮れますね。",
+      "translationZh": "比如说，有一个山间的小镇。那里有古老的寺庙和一条河。到了春天，河边的樱花就会盛开。粉色的樱花和古老寺庙的景色非常美丽。还可以拍很多照片呢。",
+      "translationEn": "For example, there is a small town in the mountains. There is an old temple and a river there. In spring, the cherry blossoms along the river will be in full bloom. The scenery of pink cherry blossoms and the old temple is very beautiful. You can also take many photos.",
+      "id": "6b747eb2-b41a-49ba-8d65-ac73694ef456",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町を歩くと、おいしいものもたくさん見つけられます。地元の人が作るお菓子や、温かい飲み物はおすすめです。桜を見ながら食べると、もっとおいしく感じます。疲れたら、カフェで休むこともできます。",
+      "translationZh": "在镇上散步，也能找到很多美味的东西。当地人制作的和点心以及热饮是很推荐的。边赏樱边吃，会觉得更美味。累了的话，也可以在咖啡馆休息。",
+      "translationEn": "When you walk around the town, you can also find many delicious things. Local sweets and hot drinks are recommended. Eating them while admiring the cherry blossoms will make them taste even better. If you get tired, you can also rest at a cafe.",
+      "id": "4efb383b-84df-4d82-8534-eb55de7af52f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この町は、忙しい毎日を忘れてリラックスできる場所です。自然もきれいですし、食べ物もおいしいです。今年の春は、のんびり桜を見に、地方の町へ出かけてみませんか。",
+      "translationZh": "这个小镇是一个可以忘记忙碌的日常、放松身心的地方。自然很美，食物也很美味。今年春天，要不要悠闲地去地方城镇看看樱花呢？",
+      "translationEn": "This town is a place where you can forget your busy everyday life and relax. The nature is beautiful, and the food is delicious. This spring, why not go to a local town to see the cherry blossoms at a leisurely pace?",
+      "id": "f0fd7b2a-7593-40e6-834c-a921f4d45d13",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "桜",
+      "reading": "さくら",
+      "meaningZh": "樱花",
+      "meaningEn": "cherry blossom",
+      "level": "n5n4",
+      "exampleSentence": "公園にたくさんの桜があります。",
+      "id": "02e6f3e1-bf9b-4050-9a63-ac26a0cfc06f"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "これは地方の有名な食べ物です。",
+      "id": "acd334bb-fdf7-4e31-a660-5fcafcc1ceed"
+    },
+    {
+      "word": "見頃",
+      "reading": "みごろ",
+      "meaningZh": "（花、月など）最适观赏时期",
+      "meaningEn": "best time to see (flowers, moon, etc.)",
+      "level": "n5n4",
+      "exampleSentence": "桜の見頃はいつですか。",
+      "id": "0463f262-a882-4b28-8946-4001c30b3ddc"
+    },
+    {
+      "word": "山あい",
+      "reading": "やまあい",
+      "meaningZh": "山间",
+      "meaningEn": "mountain area, between mountains",
+      "level": "n5n4",
+      "exampleSentence": "山あいの静かな町でリラックスしました。",
+      "id": "6adb8570-7041-44be-8171-47dfea2a060f"
+    },
+    {
+      "word": "川沿い",
+      "reading": "かわぞい",
+      "meaningZh": "河边",
+      "meaningEn": "along the river",
+      "level": "n5n4",
+      "exampleSentence": "川沿いを散歩しました。",
+      "id": "b1d33add-09b7-4cc2-a540-ac14cdbf0564"
+    },
+    {
+      "word": "満開",
+      "reading": "まんかい",
+      "meaningZh": "（花）盛开",
+      "meaningEn": "full bloom",
+      "level": "n5n4",
+      "exampleSentence": "桜が満開です。",
+      "id": "280e799b-1e33-4199-907a-76ae0749fc34"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "ここの景色はとてもきれいです。",
+      "id": "f9244597-8d8a-41fb-9929-84fc70bc496d"
+    },
+    {
+      "word": "のんびり",
+      "reading": "のんびり",
+      "meaningZh": "悠闲地，从容地",
+      "meaningEn": "leisurely, relaxedly",
+      "level": "n5n4",
+      "exampleSentence": "休みの日はのんびり過ごします。",
+      "id": "d25340f5-6142-4f79-8f31-c996e03409a7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事によると、地方の町で桜を楽しむことのいい点は何ですか。",
+      "options": [
+        "人が多くて賑やかだから",
+        "桜が早く咲くから",
+        "人が少なくてゆっくり楽しめるから",
+        "町がお祭りをするから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「特に地方の町は、人が少なくてゆっくり桜を楽しめます。」と書いてあります。",
+      "id": "86bc499b-ef2a-4e7b-b7ef-25981ab26a2d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-26-dc0e4d5466",
+  "publishedAt": "2026-09-26T06:00:00+09:00"
+}
