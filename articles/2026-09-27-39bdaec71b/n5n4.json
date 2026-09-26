@@ -1,0 +1,122 @@
+{
+  "title": "ご当地ラーメンが東京に！",
+  "summary": "日本各地のおいしいラーメンが東京に集まっています。色々な味を楽しんでみましょう。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "日本にはたくさんの有名なラーメンがあります。例えば、札幌の味噌ラーメンや博多のとんこつラーメンです。これらのラーメンは、それぞれの地域でとても人気があります。",
+      "translationZh": "日本有很多有名的拉面。例如，札幌的味噌拉面和博多的豚骨拉面。这些拉面在各自的地区都非常受欢迎。",
+      "translationEn": "Japan has many famous ramen. For example, Sapporo's miso ramen and Hakata's tonkotsu ramen. These ramen are very popular in their respective regions.",
+      "id": "27c4c386-608f-434a-a6b5-66fb5a332b44",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、色々な地域のラーメン屋さんが東京にオープンしました。東京に住んでいる人も、遠いところに行かなくても、その土地の味を楽しむことができます。",
+      "translationZh": "最近，很多不同地区的拉面店在东京开业了。即使住在东京的人，也不需要去很远的地方，就可以品尝到当地的味道。",
+      "translationEn": "Recently, ramen shops from various regions have opened in Tokyo. People living in Tokyo can also enjoy the local flavors without going far away.",
+      "id": "ce0666b1-fc00-4fc0-80ef-399f8010287b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東京駅や新宿駅の近くにも、新しいラーメン屋さんがたくさんあります。週末に友達と行ってみるのはどうですか。新しいお気に入りのラーメンが見つかるかもしれません。",
+      "translationZh": "在东京站或新宿站附近也有很多新的拉面店。周末和朋友一起去怎么样？也许你会找到新的最喜欢的拉面。",
+      "translationEn": "There are also many new ramen shops near Tokyo Station and Shinjuku Station. How about going with friends on the weekend? You might find a new favorite ramen.",
+      "id": "e94af199-fab8-4037-91c5-1520ad1a3d9b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "色々な味のラーメンを食べるのは楽しいです。皆さんも、ぜひ東京でご当地ラーメンを試してみてください。",
+      "translationZh": "吃各种口味的拉面很有趣。大家也请一定在东京试试当地的拉面。",
+      "translationEn": "Eating various flavors of ramen is fun. Everyone, please try the local ramen in Tokyo.",
+      "id": "ccd16edd-8001-4a6e-a3be-c5b465bd3341",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "各地",
+      "reading": "そこかしこ",
+      "meaningZh": "各地，各处",
+      "meaningEn": "various places",
+      "level": "n5n4",
+      "exampleSentence": "各地から観光客が来ています。",
+      "id": "4e5cf8ab-dfd1-4a05-9e64-8ef20a3781ca"
+    },
+    {
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaningZh": "进入，拓展（市场等）",
+      "meaningEn": "advance, expansion",
+      "level": "n3",
+      "exampleSentence": "新しい会社が海外に進出しました。",
+      "id": "84e2b2a4-8a23-42d1-81dc-d1db426ead7f"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "5a090908-720d-4104-aeee-bda6b7797e03"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "その歌手はとても人気があります。",
+      "id": "7e71f997-02ea-439b-939b-243310d5a03c"
+    },
+    {
+      "word": "オープン",
+      "reading": "おーぷん",
+      "meaningZh": "开业，公开",
+      "meaningEn": "open",
+      "level": "n5n4",
+      "exampleSentence": "新しい店が来週オープンします。",
+      "id": "379cc272-e2af-40c6-a129-b8ef443be02c"
+    },
+    {
+      "word": "土地",
+      "reading": "とち",
+      "meaningZh": "土地，地方",
+      "meaningEn": "land, place",
+      "level": "n5n4",
+      "exampleSentence": "この土地の食べ物は美味しいです。",
+      "id": "a1dcb36d-a5cb-4de2-82d6-ff70355d3011"
+    },
+    {
+      "word": "見つかる",
+      "reading": "みつかる",
+      "meaningZh": "被找到，被发现",
+      "meaningEn": "to be found",
+      "level": "n5n4",
+      "exampleSentence": "なくした鍵が見つかりました。",
+      "id": "0a22ddc2-915a-430c-a2a4-8fec44fee950"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ東京でご当地ラーメンが人気ですか。",
+      "options": [
+        "東京にもおいしいラーメンがたくさんあるからです。",
+        "遠いところに行かなくても、色々な土地の味が楽しめるからです。",
+        "ラーメン屋さんの場所がとても便利だからです。",
+        "新しいラーメン屋さんがたくさんできたからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「東京に住んでいる人も、遠いところに行かなくても、その土地の味を楽しむことができます。」",
+      "id": "5e843533-0f85-4240-9acb-781467a47cc5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-27-39bdaec71b",
+  "publishedAt": "2026-09-27T06:00:00+09:00"
+}

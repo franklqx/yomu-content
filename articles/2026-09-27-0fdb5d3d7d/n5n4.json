@@ -1,0 +1,122 @@
+{
+  "title": "電気自動車をもっと便利に",
+  "summary": "電気自動車（EV）が増えています。充電する場所がもっと必要です。充電できる場所を増やしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）がたくさん走っています。ガソリンを使わないので、環境に良いです。でも、電気自動車を使うには充電が必要です。充電できる場所がもっと必要になっています。",
+      "translationZh": "最近，有很多电动汽车（EV）在行驶。因为不使用汽油，所以对环境有好处。但是，使用电动汽车需要充电。需要更多的充电地点。",
+      "translationEn": "Recently, many electric vehicles (EVs) are running. They are good for the environment because they don't use gasoline. However, using electric vehicles requires charging. More charging places are needed.",
+      "id": "8b7a5459-875b-4d7c-80ff-0378003d3a7e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、充電できる場所を増やしています。お店や道の駅に新しい充電器をつけます。これからは、もっと遠くまで充電を心配しないで走れます。充電の時間が短くなる機械もあります。",
+      "translationZh": "因此，我们正在增加充电地点。在商店和路边休息站安装新的充电器。今后，可以更放心地开到更远的地方，不用担心充电。还有可以缩短充电时间的机器。",
+      "translationEn": "Therefore, we are increasing charging locations. New chargers are being installed at shops and roadside stations. From now on, you can drive further without worrying about charging. There are also machines that shorten charging time.",
+      "id": "cff9230b-bc62-49bb-b043-c117fa02a3f8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "電気自動車がもっと便利になれば、使う人が増えるでしょう。充電の心配がなくなれば、もっと多くの人が電気自動車を選びます。国や会社も、充電の場所を増やすのを手伝っています。",
+      "translationZh": "如果电动汽车变得更加方便，使用的人也会增加。如果不用担心充电，就会有更多的人选择电动汽车。国家和公司也在帮助增加充电地点。",
+      "translationEn": "If electric vehicles become more convenient, more people will use them. If there is no worry about charging, more people will choose electric vehicles. The government and companies are also helping to increase charging locations.",
+      "id": "23c06ef7-c6c3-4ec5-8fc9-1b709d4898c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい充電の仕組みは、私たちの生活をより良くします。きれいな空気で、静かな町になるかもしれません。電気自動車の未来は明るいです。",
+      "translationZh": "这个新的充电系统将使我们的生活变得更好。可能会变成一个空气清新、街道安静的城镇。电动汽车的未来是光明的。",
+      "translationEn": "This new charging system will make our lives better. It might lead to towns with clean air and quiet streets. The future of electric vehicles is bright.",
+      "id": "b9827430-3f7c-43bc-8c2c-ef0bc82db05a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "meaningZh": "电动汽车",
+      "meaningEn": "electric vehicle",
+      "level": "n5n4",
+      "exampleSentence": "電気自動車は静かです。",
+      "id": "350e7693-5e9a-4192-a16d-d10de1f30c0c"
+    },
+    {
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaningZh": "充电",
+      "meaningEn": "charging",
+      "level": "n5n4",
+      "exampleSentence": "携帯電話を充電しました。",
+      "id": "b754fd2d-5c9d-4f66-b16f-9c3ea4c9b45d"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "ここに車を止めないでください。",
+      "id": "be6ec038-3348-4f79-890f-933b113b9925"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "2bf4b49f-6868-4081-b7fc-46cbc90cb9c2"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "人が増えました。",
+      "id": "56b889ee-97f8-4983-b2cb-e6e0a8e54edd"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n3",
+      "exampleSentence": "環境を守りましょう。",
+      "id": "6098bdbc-ccae-4c68-a603-7a7a36fa8746"
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaningZh": "担心，担忧",
+      "meaningEn": "worry",
+      "level": "n5n4",
+      "exampleSentence": "何も心配しないでください。",
+      "id": "74969e1f-381d-4a16-b516-ce8efc249990"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、電気自動車（EV）をもっと便利にするために、何を増やしていますか。",
+      "options": [
+        "ガソリンスタンド",
+        "充電できる場所",
+        "ガソリン車",
+        "静かな町"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事には「充電できる場所を増やしています」と書いてあります。",
+      "id": "552fd12e-f48e-4394-abc3-2b199dbb1502"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-27-0fdb5d3d7d",
+  "publishedAt": "2026-09-27T06:00:00+09:00"
+}

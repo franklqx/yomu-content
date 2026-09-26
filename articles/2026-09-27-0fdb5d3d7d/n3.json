@@ -1,0 +1,135 @@
+{
+  "title": "EV急速充電網、もっと便利に！",
+  "summary": "電気自動車(EV)の普及のために、急速充電ができる場所が増えています。これからももっと便利になるでしょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、電気自動車（EV）がだんだん増えてきましたね。でも、充電に時間がかかるんじゃないか、心配する人もいるかもしれません。そこで、EVを早く充電できる「急速充電器」をもっとたくさんの場所に設置しようという動きが広がっています。これからは、もっと気軽にEVを使えるようになるでしょう。",
+      "translationZh": "最近，电动汽车（EV）逐渐增多了呢。但是，也许有人会担心充电会不会很慢。正因为如此，在更多地方安装可以快速充电的“快速充电器”的动向正在扩大。今后，使用EV应该会更加方便随意了。",
+      "translationEn": "Recently, electric vehicles (EVs) have been gradually increasing, haven't they? However, some people might worry that charging takes too long. Therefore, efforts to install more 'quick chargers' that can charge EVs rapidly in more locations are spreading. From now on, using EVs will likely become more convenient and casual.",
+      "id": "80510afa-b76f-462f-aee1-f4454376e34c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網が拡充されると、遠くまで出かける時も安心です。ガソリンスタンドを探すように、充電スポットも気軽に見つけられるようになれば、EVの利用者はもっと増えるはずです。特に、長距離を運転する人にとっては、充電の心配が減るのは大きなメリットと言えます。これから、高速道路のサービスエリアや、ショッピングモールなど、様々な場所に設置が進むと予想されています。",
+      "translationZh": "随着快速充电网络的扩展，即使长途旅行也会感到安心。如果能像寻找加油站一样轻松找到充电点，EV用户应该会进一步增加。特别是对于长途驾驶的人来说，减少充电的顾虑可以说是巨大的优势。今后，预计将在高速公路的服务区、购物中心等各种地方进行安装。",
+      "translationEn": "With the expansion of the quick charging network, you can feel at ease even when traveling long distances. If charging spots can be found as easily as gas stations, the number of EV users should increase further. Especially for those who drive long distances, reducing charging concerns can be said to be a significant advantage. It is expected that installation will proceed in various places such as highway service areas and shopping malls in the future.",
+      "id": "b5a87026-330b-43e9-8937-a5f1a277899a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、急速充電器の設置にはまだ課題もあります。例えば、設置場所の確保や、電力の供給能力の強化などです。しかし、技術の進歩や、国や企業の協力によって、これらの課題も少しずつ解決されていくでしょう。急速充電網がさらに整備されれば、EVはもっと身近な存在になり、私たちの生活をより豊かにしてくれるはずです。",
+      "translationZh": "当然，快速充电器的安装仍存在一些课题。例如，确保安装地点和加强电力供应能力等。但是，随着技术的进步以及国家和企业的合作，这些课题也会一点一点地得到解决。如果快速充电网络得到进一步完善，EV将成为更亲近的存在，并应能使我们的生活更加丰富。",
+      "translationEn": "Of course, there are still challenges in installing quick chargers. For example, securing installation locations and strengthening power supply capacity. However, with technological advancements and cooperation from governments and companies, these issues will likely be resolved gradually. If the quick charging network is further developed, EVs will become a more familiar presence and should enrich our lives.",
+      "id": "b436c048-a311-4b01-9d10-81797c1fe2da",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及，推广",
+      "meaningEn": "spread, dissemination, popularization",
+      "level": "n3",
+      "exampleSentence": "電気自動車の普及は、環境問題の解決に役立つと考えられています。",
+      "id": "b7131b77-713b-4be1-880e-e411e800dfa6"
+    },
+    {
+      "word": "急速充電器",
+      "reading": "きゅうそくじゅうでんき",
+      "meaningZh": "快速充电器",
+      "meaningEn": "quick charger, fast charger",
+      "level": "n3",
+      "exampleSentence": "ショッピングモールの駐車場に新しい急速充電器が設置されました。",
+      "id": "50218d7c-701e-4c49-9ea6-38c28c2b2e40"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "expansion, enlargement",
+      "level": "n3",
+      "exampleSentence": "政府は、再生可能エネルギーの利用を拡充する方針です。",
+      "id": "a94d749d-a713-42dd-8900-a808546c5621"
+    },
+    {
+      "word": "気軽",
+      "reading": "きがる",
+      "meaningZh": "随意，轻松，无拘无束",
+      "meaningEn": "carefree, light, casual",
+      "level": "n3",
+      "exampleSentence": "もっと気軽な気持ちで、新しいことに挑戦してみましょう。",
+      "id": "b2a3ff6c-f9ee-4200-b11e-77cbf0301ed2"
+    },
+    {
+      "word": "長距離",
+      "reading": "ちょうきょり",
+      "meaningZh": "长距离",
+      "meaningEn": "long distance",
+      "level": "n5n4",
+      "exampleSentence": "長距離の移動には、新幹線が便利です。",
+      "id": "6623d53f-47ad-4247-9671-84e06e0f8516"
+    },
+    {
+      "word": "設置",
+      "reading": "せっち",
+      "meaningZh": "设置，安装",
+      "meaningEn": "installation, establishment",
+      "level": "n3",
+      "exampleSentence": "公園に新しい遊具が設置される予定です。",
+      "id": "684d782d-b172-456d-a9c2-398f2bdfc715"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "task, challenge, issue",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトを成功させるためには、多くの課題をクリアする必要があります。",
+      "id": "914c2383-e914-4bbd-ac23-fda51631e0cd"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "maintenance, upkeep, development",
+      "level": "n3",
+      "exampleSentence": "交通インフラの整備は、経済発展のために重要です。",
+      "id": "9e1993b2-f094-4c2d-bb7d-0c5ff48ce94b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "急速充電網が拡充されることによって、どのようなメリットが期待できますか？",
+      "options": [
+        "EVの価格が安くなる。",
+        "EVの充電時間が長くなる。",
+        "EVで遠くまで出かける時の充電の心配が減る。",
+        "ガソリンスタンドがなくなる。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「急速充電網が拡充されると、遠くまで出かける時も安心です。」と述べられています。これは、充電の心配が減るというメリットを示しています。",
+      "id": "63897b39-040e-48c5-8d40-7b9f85636bd5"
+    },
+    {
+      "question": "EVの急速充電網の整備について、本文ではどのような課題があると言及されていますか？",
+      "options": [
+        "急速充電器の値段が高いこと。",
+        "急速充電器の設置場所の確保や電力供給能力の強化。",
+        "急速充電器の使い方が難しいこと。",
+        "充電できるEVの種類が少ないこと。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第三段落に、「例えば、設置場所の確保や、電力の供給能力の強化などです。」とあり、これらが課題として挙げられています。",
+      "id": "a33108c7-f7b4-4a9c-bdcc-770a334f0e04"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-27-0fdb5d3d7d",
+  "publishedAt": "2026-09-27T06:00:00+09:00"
+}

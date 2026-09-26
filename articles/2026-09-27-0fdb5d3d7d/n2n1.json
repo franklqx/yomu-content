@@ -1,0 +1,147 @@
+{
+  "title": "EV急速充電網、全国で拡充へ ～移動の自由度向上に期待～",
+  "summary": "電気自動車（EV）の普及を後押しするため、公共の急速充電インフラの整備が全国的に進められています。これにより、EVユーザーの利便性向上と、より広範な地域でのEV利用促進が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、地球温暖化対策や環境意識の高まりを背景に、電気自動車（EV）への関心が世界的に高まっています。しかし、その普及を阻む要因の一つとして、充電インフラ、特に急速充電設備の不足が指摘されてきました。この課題を克服するため、国や民間企業は連携し、公共の急速充電網の拡充に注力する方針を打ち出しています。これにより、EVユーザーは長距離移動や外出先での充電に対する不安を軽減できると見られています。",
+      "translationZh": "近年来，在全球变暖对策和环保意识提高的背景下，电动汽车（EV）受到全球关注。然而，阻碍其普及的一个因素是充电基础设施，特别是快速充电设施的不足。为克服这一课题，政府和民间企业正携手合作，计划重点扩大公共快速充电网络。这有望减轻电动汽车用户对长途旅行或在外充电的担忧。",
+      "translationEn": "In recent years, against the backdrop of measures against global warming and rising environmental awareness, interest in electric vehicles (EVs) has been growing worldwide. However, one of the factors hindering their widespread adoption has been the lack of charging infrastructure, particularly rapid charging facilities. To overcome this challenge, the government and private companies are collaborating with a policy to focus on expanding the public rapid charging network. This is expected to alleviate concerns for EV users regarding long-distance travel and charging when away from home.",
+      "id": "d13c83b0-f541-4aa9-aed7-ab5c323a1245",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "具体的な拡充策としては、都市部のみならず、地方や高速道路のサービスエリア、道の駅など、多様な場所への設置が進められるとのことです。また、充電時間の短縮や、より多くの車種に対応できる規格の導入も検討されており、利便性は一層向上すると期待されています。これに伴い、充電インフラ整備への投資も活発化しており、関連産業の発展にも寄与するものと見込まれています。",
+      "translationZh": "具体的扩充措施包括，不仅在城市地区，还将在地方、高速公路服务区、休息站等各种地点进行设置。此外，还在探讨缩短充电时间以及引入能兼容更多车型标准的方案，预计便利性将得到进一步提升。伴随这些措施，对充电基础设施建设的投资也日趋活跃，预计将对相关产业的发展做出贡献。",
+      "translationEn": "Specific expansion measures include the installation of facilities not only in urban areas but also in diverse locations such as rural areas, highway service areas, and roadside stations. Furthermore, efforts are underway to reduce charging times and introduce standards compatible with a wider range of vehicle models, which is expected to further enhance convenience. In conjunction with these developments, investment in charging infrastructure development is also becoming active, and it is anticipated to contribute to the growth of related industries.",
+      "id": "c93a6ab0-7158-4460-9a55-c8504ef1d243",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "急速充電網の拡充は、単にEVユーザーの利便性を高めるだけでなく、ガソリン車からEVへの移行を加速させ、カーボンニュートラルの実現に向けた重要な一歩となるでしょう。移動手段の選択肢が広がることで、持続可能な社会の構築に貢献することが期待されています。",
+      "translationZh": "快速充电网络的扩充，不仅提高了电动汽车用户的便利性，还将加速从燃油车向电动汽车的转型，是实现碳中和目标的重要一步。通过拓宽出行方式的选择范围，有望为构建可持续社会做出贡献。",
+      "translationEn": "The expansion of the rapid charging network will not only enhance the convenience for EV users but also accelerate the transition from gasoline vehicles to EVs, marking a crucial step towards achieving carbon neutrality. By broadening the choices for transportation, it is expected to contribute to the building of a sustainable society.",
+      "id": "e62dcfef-6d0a-48f5-aa80-bc6ef6f4dec0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaningZh": "普及；推广",
+      "meaningEn": "spread; diffusion; popularization",
+      "level": "n3",
+      "exampleSentence": "インターネットの普及は、私たちの生活を大きく変えた。",
+      "id": "2fcf4b4c-d9a1-4077-b54e-a4b2319f1964"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "推动；支援",
+      "meaningEn": "push; support; boost",
+      "level": "n2n1",
+      "exampleSentence": "政府の政策が、再生可能エネルギーの普及を後押ししている。",
+      "id": "67ba5e74-1c2e-4c5b-b1a6-068848483886"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "infrastructure",
+      "level": "n2n1",
+      "exampleSentence": "通信インフラの整備は、経済発展に不可欠である。",
+      "id": "8c23c5cc-79ac-4926-b48f-e746430a5cc3"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充；扩大",
+      "meaningEn": "expansion; enlargement",
+      "level": "n2n1",
+      "exampleSentence": "サービスの拡充により、顧客満足度の向上が期待される。",
+      "id": "fcab7442-9757-4c23-a1a9-aeda75f8a97f"
+    },
+    {
+      "word": "指摘",
+      "reading": "してき",
+      "meaningZh": "指出；指摘",
+      "meaningEn": "pointing out; indication",
+      "level": "n3",
+      "exampleSentence": "専門家はその問題点を明確に指摘した。",
+      "id": "591ab703-a56d-42b2-80f8-231b256899a0"
+    },
+    {
+      "word": "克服",
+      "reading": "こくふく",
+      "meaningZh": "克服；战胜",
+      "meaningEn": "overcoming; conquest",
+      "level": "n2n1",
+      "exampleSentence": "困難を克服し、目標を達成した。",
+      "id": "fb404480-f67d-454a-91ff-38862cc6deaf"
+    },
+    {
+      "word": "打ち出す",
+      "reading": "うちだす",
+      "meaningZh": "提出；公布（计划、方针等）",
+      "meaningEn": "to put forward; to announce (plans, policies, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "新方針が会議で打ち出された。",
+      "id": "75d938fe-fc3b-4b56-a9f0-c5b3573116d2"
+    },
+    {
+      "word": "伴い",
+      "reading": "ともない",
+      "meaningZh": "伴随；随着",
+      "meaningEn": "accompanying; along with",
+      "level": "n2n1",
+      "exampleSentence": "技術の進歩に伴い、社会も変化していく。",
+      "id": "63f7ea4b-e4c3-49de-8547-5bb746be7a30"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この記事によると、電気自動車（EV）の普及を阻む要因の一つは何と指摘されていますか？",
+      "options": [
+        "車両価格の高さ",
+        "充電インフラ、特に急速充電設備の不足",
+        "航続距離の短さ",
+        "デザインの多様性のなさ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中、「しかし、その普及を阻む要因の一つとして、充電インフラ、特に急速充電設備の不足が指摘されてきました。」と述べられています。",
+      "id": "cb41432c-65a3-4285-91fe-8803fd8a491c"
+    },
+    {
+      "question": "急速充電網の拡充策として、どのような場所への設置が進められるとのことですか？",
+      "options": [
+        "主に都市部のみ",
+        "観光地やリゾート地",
+        "地方、高速道路のサービスエリア、道の駅など多様な場所",
+        "個人の住宅敷地内"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には、「具体的な拡充策としては、都市部のみならず、地方や高速道路のサービスエリア、道の駅など、多様な場所への設置が進められるとのことです。」と記載されています。",
+      "id": "1a8b66fd-2665-4763-ade0-07462a8b0e84"
+    },
+    {
+      "question": "急速充電網の拡充が、社会全体にどのような影響を与えると期待されていますか？",
+      "options": [
+        "ガソリンスタンドの廃業が増える",
+        "EVへの移行が加速し、カーボンニュートラルの実現に貢献する",
+        "自動車保険料が大幅に値上がりする",
+        "公共交通機関の利用者が減少する"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後の段落に、「急速充電網の拡充は、単にEVユーザーの利便性を高めるだけでなく、ガソリン車からEVへの移行を加速させ、カーボンニュートラルの実現に向けた重要な一歩となるでしょう。」とあります。",
+      "id": "a1b9dd5b-1f0c-424a-b86d-078ee55121c3"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-27-0fdb5d3d7d",
+  "publishedAt": "2026-09-27T06:00:00+09:00"
+}
