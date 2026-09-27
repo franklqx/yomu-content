@@ -1,0 +1,135 @@
+{
+  "title": "伝統和菓子、若者向けに大変身！",
+  "summary": "最近、若い世代にも和菓子を楽しんでもらおうと、伝統的な和菓子職人たちが新しい取り組みを始めています。見た目も味も現代風にアレンジされた和菓子が登場し、人気を集めているようです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街を歩いていると、伝統的な和菓子屋さんが新しいデザインのお菓子を販売しているのを見かけることがあります。これは、和菓子職人たちが、若い人たちにもっと和菓子に親しんでもらいたいと考えて、味や見た目を現代風にアレンジした「リブランド」を進めているからなんです。",
+      "translationZh": "最近，走在街上，有时会看到传统和菓子店在销售新设计的点心。这是因为，和菓子师傅们希望让更多的年轻人亲近和菓子，所以正在进行将味道和外观现代化改良的“品牌重塑”。",
+      "translationEn": "Recently, when walking around town, you might notice traditional Japanese confectionery shops selling sweets with new designs. This is because confectionery artisans are pursuing a 'rebrand' by modernizing the taste and appearance to encourage younger generations to become more familiar with wagashi.",
+      "id": "4e357b8a-2960-40ee-8d6b-4e517ae978ca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、昔ながらの羊羹（ようかん）が、フルーツの味を取り入れたり、カラフルなゼリーのような見た目になったりしています。また、SNS映えするような、可愛らしいデコレーションが施されたお菓子も増えています。このような工夫によって、これまで和菓子にあまり興味がなかった若い人たちからも、「おしゃれで美味しい」と好評を得ているのです。",
+      "translationZh": "例如，传统的羊羹（ようかん）融入了水果的味道，或者变成了像彩色果冻一样的外观。此外，施加了适合拍照发SNS的可爱装饰的点心也越来越多。通过这些努力，即使是之前对和菓子不太感兴趣的年轻人，也给予了“时尚又美味”的好评。",
+      "translationEn": "For instance, traditional yokan (red bean jelly) is incorporating fruit flavors or adopting a colorful, jelly-like appearance. Additionally, there are more sweets with cute decorations that are 'SNS-worthy.' Through such efforts, even young people who previously had little interest in wagashi are giving positive feedback, calling them 'stylish and delicious.'",
+      "id": "14f7c821-8045-4051-9320-d0388efc3a01",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、伝統的な製法や味を守りながらも、新しい層にアピールするための努力は、簡単ではありません。しかし、職人さんたちは、和菓子の魅力をより多くの人に伝えたいという情熱を持って、日々新しい挑戦を続けているのです。これからも、どんな新しい和菓子が登場するのか、楽しみですね。",
+      "translationZh": "当然，在坚守传统制作方法和味道的同时，为了吸引新顾客层而努力并不容易。但是，师傅们怀着将和菓子的魅力传达给更多人的热情，每天都在持续新的挑战。今后，会推出怎样的新和菓子，真是令人期待啊。",
+      "translationEn": "Of course, making efforts to appeal to a new demographic while preserving traditional methods and tastes is not easy. However, artisans continue to take on new challenges daily with a passion to convey the charm of wagashi to more people. It's exciting to think about what new wagashi will appear in the future.",
+      "id": "82745660-82aa-4519-9da2-6616c6cdb39f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心、和果子",
+      "meaningEn": "Japanese confectionery",
+      "level": "n5n4",
+      "exampleSentence": "このお店の和菓子は見た目もきれいです。",
+      "id": "c10f0b77-e673-470c-b7b7-716269ff1408"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，技师",
+      "meaningEn": "artisan, craftsman",
+      "level": "n3",
+      "exampleSentence": "彼は熟練した職人です。",
+      "id": "6459e65f-657f-4cfc-9adf-163bed8603d4"
+    },
+    {
+      "word": "若年層",
+      "reading": "じゃくねんそう",
+      "meaningZh": "年轻人，年轻一代",
+      "meaningEn": "younger generation",
+      "level": "n3",
+      "exampleSentence": "若年層向けの新しいサービスが開始されました。",
+      "id": "6390b4e7-8c34-44e2-8978-cd3ace30603f"
+    },
+    {
+      "word": "リブランド",
+      "reading": "りぶらんど",
+      "meaningZh": "品牌重塑",
+      "meaningEn": "rebrand",
+      "level": "n3",
+      "exampleSentence": "その会社はブランドイメージを刷新するため、リブランドを行った。",
+      "id": "06cf9e7e-2f1a-4536-8ed3-061f57cb818c"
+    },
+    {
+      "word": "アレンジ",
+      "reading": "あれんじ",
+      "meaningZh": "改编，改良，调整",
+      "meaningEn": "arrangement, adaptation",
+      "level": "n3",
+      "exampleSentence": "この料理は伝統的なレシピをアレンジしたものです。",
+      "id": "a9dff51a-9b20-4cab-9c2c-02f549983f62"
+    },
+    {
+      "word": "羊羹",
+      "reading": "ようかん",
+      "meaningZh": "羊羹（一种日式豆沙糕点）",
+      "meaningEn": "yokan (a type of Japanese sweet bean jelly)",
+      "level": "n3",
+      "exampleSentence": "抹茶味の羊羹が好きです。",
+      "id": "7a4843c9-645d-43f7-9952-2725ab45d521"
+    },
+    {
+      "word": "SNS映え",
+      "reading": "えすえぬえすばえ",
+      "meaningZh": "适合在社交媒体上发布（以获得点赞和关注）",
+      "meaningEn": "suitable for posting on social media (to get likes and attention)",
+      "level": "n3",
+      "exampleSentence": "このカフェのケーキはSNS映えすると評判です。",
+      "id": "a3b59b5e-0f15-4341-957d-d24edd3f27e2"
+    },
+    {
+      "word": "好評",
+      "reading": "こうひょう",
+      "meaningZh": "好评",
+      "meaningEn": "favorable reception, good reviews",
+      "level": "n3",
+      "exampleSentence": "新製品は市場で好評を得ています。",
+      "id": "71241b3d-928d-4d6d-a7d3-57c038be0a11"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "和菓子職人たちが若者向けに和菓子をリブランドしている理由は何ですか？",
+      "options": [
+        "もっと儲けたいから",
+        "伝統的な味を守りたいから",
+        "若い人にもっと和菓子に親しんでもらいたいから",
+        "海外に和菓子を広めたいから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「和菓子職人たちが、若い人たちにもっと和菓子に親しんでもらいたいと考えて、味や見た目を現代風にアレンジした「リブランド」を進めているからなんです。」と書かれています。",
+      "id": "03532b3c-8c87-4fb7-82a4-cf6bddaa97f8"
+    },
+    {
+      "question": "リブランドされた和菓子には、どのような特徴がありますか？",
+      "options": [
+        "昔ながらのシンプルな見た目",
+        "フルーツの味やカラフルな見た目、SNS映えするデコレーション",
+        "高級な材料しか使わないこと",
+        "苦くて大人向けの味"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「例えば、昔ながらの羊羹（ようかん）が、フルーツの味を取り入れたり、カラフルなゼリーのような見た目になったりしています。また、SNS映えするような、可愛らしいデコレーションが施されたお菓子も増えています。」と書かれています。",
+      "id": "f4585a10-2bce-44f6-be9a-be33a49c9c21"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-28-87ea6274bb",
+  "publishedAt": "2026-09-28T06:00:00+09:00"
+}

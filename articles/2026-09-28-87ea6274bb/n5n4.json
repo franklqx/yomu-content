@@ -1,0 +1,122 @@
+{
+  "title": "新しい和菓子、人気です！",
+  "summary": "若い人にも和菓子を知ってほしいです。新しいデザインの和菓子ができました。とても人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔から、日本にはきれいな和菓子があります。お茶と一緒に食べます。でも、最近、若い人に和菓子があまり人気がありませんでした。これは、和菓子職人さんたちの悩みでした。",
+      "translationZh": "自古以来，日本就有漂亮的日式点心。和点心一起喝茶。但是，最近，日式点心在年轻人中不太受欢迎。这是和菓子师傅们的烦恼。",
+      "translationEn": "Since ancient times, Japan has had beautiful Japanese sweets. People eat them with tea. However, recently, Japanese sweets have not been very popular among young people. This was a concern for the Japanese sweet artisans.",
+      "id": "010bc6f5-5432-4c14-a1d6-a9742c7562cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、職人さんたちは考えました。「もっと若い人が好きになる和菓子を作ろう」と。新しい味や、かわいい形にしました。色も明るい色を使いました。デザインも新しくしました。",
+      "translationZh": "因此，师傅们思考了。“要做让年轻人更喜欢的和菓子吧”。他们尝试了新的口味和可爱的形状。颜色也使用了明亮的颜色。设计也焕然一新。",
+      "translationEn": "So, the artisans thought, \"Let's make Japanese sweets that young people will like more.\" They created new flavors and cute shapes. They also used bright colors. The designs became new too.",
+      "id": "65af91df-a217-49cc-8154-2e2a15a98055",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい和菓子は、SNSでも話題になりました。写真がきれいですから、たくさんの人がSNSに写真をのせました。そして、お店にも若い人がたくさん来るようになりました。職人さんたちは、とても喜んでいます。",
+      "translationZh": "这种新和菓子在社交媒体上也成了热门话题。因为照片很漂亮，所以很多人把照片发到了社交媒体上。然后，店里也来了很多年轻人。和菓子师傅们非常高兴。",
+      "translationEn": "These new Japanese sweets became a hot topic on social media. Because the photos are beautiful, many people posted pictures on social media. Then, many young people started visiting the shops. The artisans are very happy.",
+      "id": "ce3c41e5-5b9c-4f42-bc7f-f0dcdcc68581",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、職人さんたちは、もっとたくさんの人に和菓子を楽しんでほしいと思っています。新しい挑戦は、これからも続きます。",
+      "translationZh": "今后，和菓子师傅们也希望更多人能享受和菓子。新的挑战将继续下去。",
+      "translationEn": "From now on, the artisans hope more people will enjoy Japanese sweets. New challenges will continue.",
+      "id": "6fe4fcab-b0b4-4077-bf9b-d408e58f73a4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese sweets",
+      "level": "n5n4",
+      "exampleSentence": "この和菓子はとてもきれいです。",
+      "id": "51d443a9-2358-4392-8532-7f0ba9ab9067"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，手艺人",
+      "meaningEn": "artisan, craftsman",
+      "level": "n5n4",
+      "exampleSentence": "彼はパンを作る職人です。",
+      "id": "34dfc347-67c4-4d91-bfe8-59e9bc33ef88"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者が集まるカフェです。",
+      "id": "cfbe4e05-9690-4a06-ba2e-2ff4e18bc1f1"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この本は人気があります。",
+      "id": "be78e53d-0ed7-4b4c-97dc-5c87e581a76b"
+    },
+    {
+      "word": "デザイン",
+      "reading": "でざいん",
+      "meaningZh": "设计",
+      "meaningEn": "design",
+      "level": "n5n4",
+      "exampleSentence": "新しいデザインの服を買いました。",
+      "id": "7a66870a-9e9e-4f2f-8996-f7acb6307bcf"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic of conversation",
+      "level": "n3",
+      "exampleSentence": "新しい映画が話題になっています。",
+      "id": "03527a62-0aeb-4939-968a-88f65f579b42"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n3",
+      "exampleSentence": "新しい仕事に挑戦します。",
+      "id": "b780bd3a-d014-4e95-bfc9-babde1d09f46"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ職人さんたちは新しい和菓子を作りましたか？",
+      "options": [
+        "もっとお金をかせぐため",
+        "若い人に和菓子をもっと好きになってほしいから",
+        "もっとたくさんのお茶を売るため",
+        "旅行者をもっと呼びたいから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「もっと若い人が好きになる和菓子を作ろう」と考えて、新しい和菓子を作りました。",
+      "id": "97a37b48-a5b0-40b2-a7cf-c617c362a4c1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-28-87ea6274bb",
+  "publishedAt": "2026-09-28T06:00:00+09:00"
+}

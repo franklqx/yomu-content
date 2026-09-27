@@ -1,0 +1,126 @@
+{
+  "title": "高校生プログラマー集まれ！ハッカソンでアイデアを形にしよう",
+  "summary": "高校生プログラマーにとって、ハッカソンは自分のアイデアを形にする絶好の機会です。このイベントで、技術力と創造性を競い合いましょう！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、高校生を対象にしたプログラミングコンテスト、通称「ハッカソン」が注目を集めています。ハッカソンとは、短期間で集中的にアイデアを出し合い、実際にプログラムやサービスを作り上げるイベントのことです。参加者はチームを組んで、与えられたテーマや、自分たちで考えたテーマに沿って開発を進めます。プログラミングが好きな高校生にとっては、自分のスキルを試したり、新しい友達を作ったりする素晴らしい機会となっています。",
+      "translationZh": "最近，面向高中生的编程比赛，俗称“黑客松”，正受到关注。黑客松是指在短时间内集中构思想法，并实际开发出程序或服务的活动。参加者组队，根据给定的主题或自己想出的主题进行开发。对于喜欢编程的高中生来说，这是尝试自己技能、结交新朋友的绝佳机会。",
+      "translationEn": "Recently, programming contests for high school students, commonly known as \"hackathons,\" have been gaining attention. A hackathon is an event where participants intensely brainstorm ideas in a short period and actually create programs or services. Participants form teams and proceed with development according to given themes or themes they devise themselves. For high school students who enjoy programming, it's a wonderful opportunity to test their skills and make new friends.",
+      "id": "38966cb0-6377-47bd-bf4b-552fb93741b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、単にコードを書くだけでなく、チームで協力することや、プレゼンテーション能力も重要になります。アイデアをどのように実現するか、そしてそのアイデアの魅力をどのように伝えるかが、評価のポイントになるからです。普段学校の授業だけでは学べない実践的なスキルが身につくので、将来プログラマーを目指している高校生はもちろん、IT分野に興味がある人にもおすすめです。多くのハッカソンでは、専門家からのアドバイスも受けられるので、学びが多いでしょう。",
+      "translationZh": "在黑客松中，不仅仅是编写代码，团队合作和演示能力也很重要。因为如何实现想法以及如何传达想法的吸引力是评估的关键点。因为可以学到在学校课堂上学不到的实践技能，所以不仅推荐给将来想成为程序员的高中生，也推荐给对IT领域感兴趣的人。许多黑客松还可以获得专业人士的建议，因此会有很多学习机会。",
+      "translationEn": "In a hackathon, not only writing code but also teamwork and presentation skills become important. This is because how to realize an idea and how to convey the appeal of that idea are key evaluation points. Since practical skills that cannot be learned solely through school classes can be acquired, it is recommended not only for high school students aiming to become programmers in the future but also for those interested in the IT field. Many hackathons also offer advice from experts, so there will be much to learn.",
+      "id": "bcb3325f-5c79-4832-902e-bdd2a954330c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "参加するにあたって、高度なプログラミングスキルが必須というわけではありません。大切なのは、新しいことに挑戦したいという意欲や、チームで協力して何かを作り上げたいという気持ちです。もしプログラミングに興味があるけれど、何から始めればいいか分からないという高校生がいたら、まずはハッカソンに参加してみるのが良いかもしれません。そこで得られる経験は、きっと将来の役に立つはずです。",
+      "translationZh": "参加并不一定需要高超的编程技能。重要的是想要挑战新事物的意愿，以及想要与团队合作创造出某事物的决心。如果高中生对编程感兴趣但不知道从何开始，也许首先参加黑客松会是个好主意。在那里获得的经验，肯定会对未来有所帮助。",
+      "translationEn": "To participate, advanced programming skills are not necessarily required. What's important is the motivation to try new things and the desire to create something collaboratively with a team. If there are high school students interested in programming but unsure where to start, perhaps participating in a hackathon first would be a good idea. The experience gained there will surely be useful in the future.",
+      "id": "ee3239f6-6eda-4846-8064-eda6a4ce7448",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ハッカソン",
+      "reading": "はっかそん",
+      "meaningZh": "黑客松（指在短时间内集中开发软件的活动）",
+      "meaningEn": "Hackathon (an event where people intensively develop software in a short period)",
+      "level": "n3",
+      "exampleSentence": "高校生向けのハッカソンが開催される予定です。",
+      "id": "8d42632a-a286-4807-a9fd-c3c46f378692"
+    },
+    {
+      "word": "集中的に",
+      "reading": "しゅうちゅうてきに",
+      "meaningZh": "集中地，集约地",
+      "meaningEn": "intensively, concentratedly",
+      "level": "n3",
+      "exampleSentence": "短期間に集中的に学習しました。",
+      "id": "cd7c3091-9db1-4cba-bfc5-cb9bd8eace23"
+    },
+    {
+      "word": "通称",
+      "reading": "つうしょう",
+      "meaningZh": "俗称，别名",
+      "meaningEn": "common name, alias",
+      "level": "n3",
+      "exampleSentence": "その歌手は「歌姫」という通称で知られています。",
+      "id": "45e6657e-206c-436c-bf20-c6db39856644"
+    },
+    {
+      "word": "テーマ",
+      "reading": "てーま",
+      "meaningZh": "主题",
+      "meaningEn": "theme, topic",
+      "level": "n5n4",
+      "exampleSentence": "今日の会議のテーマは何ですか？",
+      "id": "03bbff73-0312-4225-bedb-416eb7b04f1a"
+    },
+    {
+      "word": "実践的",
+      "reading": "じっせんてき",
+      "meaningZh": "实践的",
+      "meaningEn": "practical",
+      "level": "n3",
+      "exampleSentence": "実践的なスキルを身につけたいです。",
+      "id": "daac9797-e7d7-4b67-93ed-bfe9bd3ebd96"
+    },
+    {
+      "word": "プレゼンテーション",
+      "reading": "ぷれぜんてーしょん",
+      "meaningZh": "演示，发表",
+      "meaningEn": "presentation",
+      "level": "n3",
+      "exampleSentence": "彼は会議で新しい企画のプレゼンテーションを行った。",
+      "id": "02f4199b-bbc8-4214-8dff-1cdab8b2892b"
+    },
+    {
+      "word": "意欲",
+      "reading": "いよく",
+      "meaningZh": "意愿，干劲，欲望",
+      "meaningEn": "will, motive, ambition",
+      "level": "n3",
+      "exampleSentence": "新しいことに挑戦する意欲に満ちている。",
+      "id": "4d1aad94-d89e-44af-9553-4a19e32670cc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンとは、どのようなイベントですか？",
+      "options": [
+        "プログラミングの知識を競うテスト",
+        "短期間でアイデアを出し合い、プログラムなどを作り上げるイベント",
+        "プログラマーの交流会",
+        "最新の技術について学ぶセミナー"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「ハッカソンとは、短期間で集中的にアイデアを出し合い、実際にプログラムやサービスを作り上げるイベントのことです。」と説明されています。",
+      "id": "16dd03a0-7774-4d29-8ed6-917e788d27cc"
+    },
+    {
+      "question": "ハッカソンに参加する上で、最も大切なことは何ですか？",
+      "options": [
+        "高度なプログラミングスキル",
+        "チームで協力して何かを作り上げたいという気持ち",
+        "過去の受賞歴",
+        "多くの参加者を集めること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「大切なのは、新しいことに挑戦したいという意欲や、チームで協力して何かを作り上げたいという気持ちです。」と述べられています。",
+      "id": "362a154a-055a-4312-94b4-7c16cd252048"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-28-22473898ef",
+  "publishedAt": "2026-09-28T06:00:00+09:00"
+}

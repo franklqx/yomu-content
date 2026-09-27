@@ -1,0 +1,131 @@
+{
+  "title": "高校生ハッカソン！",
+  "summary": "高校生がプログラミングの技術を競うイベントがあります。新しいアイデアがたくさん生まれます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、高校生向けのハッカソンが人気です。ハッカソンは、プログラマーが集まって短い時間でプログラムを作るイベントです。高校生は、このイベントで新しい技術を学びます。",
+      "translationZh": "最近，面向高中生的黑客松很受欢迎。黑客松是程序员聚集在一起，在短时间内开发程序的活动。高中生们通过这个活动学习新技术。",
+      "translationEn": "Recently, hackathons for high school students are popular. A hackathon is an event where programmers gather and create programs in a short period. High school students learn new technologies at this event.",
+      "id": "a0770f1f-4919-40a8-aa5e-9c8346aefe7b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このハッカソンでは、チームで協力してプログラムを作ります。みんなでアイデアを出し合って、短い時間で動くものを作ることが目標です。初めて参加する高校生もたくさんいます。",
+      "translationZh": "在这次黑客松中，大家会组队合作开发程序。目标是大家互相交流想法，在短时间内做出能运行的东西。也有很多是第一次参加的高中生。",
+      "translationEn": "In this hackathon, participants work together in teams to create programs. The goal is to brainstorm ideas and build something functional in a limited time. Many high school students participate for the first time.",
+      "id": "ba735425-f03a-4ec0-a57c-5594d4b28fd0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントでは、経験のあるプログラマーがアドバイスをしてくれます。高校生は、自分の作ったプログラムを発表します。優秀なチームには、賞があります。とても良い経験になります。",
+      "translationZh": "活动中，有经验的程序员会提供建议。高中生会展示自己开发的程序。优秀的团队会获得奖项。这是一次非常好的经验。",
+      "translationEn": "During the event, experienced programmers offer advice. High school students present the programs they created. Excellent teams receive awards. It becomes a very good experience.",
+      "id": "46177f55-2683-415d-baa0-19686940b6c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンは、プログラミングの楽しさを知る良い機会です。友達と協力したり、新しいものを作ったりすることは、とても楽しいです。将来、プログラマーになりたい高校生におすすめです。",
+      "translationZh": "黑客松是了解编程乐趣的好机会。与朋友合作、创造新事物都非常有趣。推荐给未来想成为程序员的高中生。",
+      "translationEn": "Hackathons are a good opportunity to learn the fun of programming. Collaborating with friends and creating new things is very enjoyable. It is recommended for high school students who want to become programmers in the future.",
+      "id": "7595492d-0c5e-4c3b-b51a-898708691180",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生は学校で勉強します。",
+      "id": "0bcbbc4c-0089-4f93-93d3-c66f4bf2f329"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術を学びました。",
+      "id": "079733bf-24ef-4fd7-8791-dde175b761e3"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "人々が集まります。",
+      "id": "64f3b355-1606-4d73-9955-2c355d5a14a0"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation, collaboration",
+      "level": "n5n4",
+      "exampleSentence": "チームで協力しました。",
+      "id": "c77482ad-f206-4077-8d62-5fec25093149"
+    },
+    {
+      "word": "アイデア",
+      "reading": "アイデア",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアがありました。",
+      "id": "051ead60-9233-40a9-9baa-bab44d34405f"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaningZh": "发表，发布",
+      "meaningEn": "presentation, announcement",
+      "level": "n5n4",
+      "exampleSentence": "自分の考えを発表します。",
+      "id": "d84a8e16-f76f-4e84-bb9e-3f030aa4de22"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "良い経験になりました。",
+      "id": "10c76b1a-f225-4fc0-b594-c1ac34c50756"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n5n4",
+      "exampleSentence": "これは良い機会です。",
+      "id": "4b686321-d933-4186-a3a9-48fe4fb0558f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンは、どんな人が参加するイベントですか。",
+      "options": [
+        "専門の会社員",
+        "プロのゲーム開発者",
+        "プログラムを作るのが好きな高校生",
+        "有名な大学の先生"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「高校生向けのハッカソン」とあり、「高校生は、このイベントで新しい技術を学びます。」と書かれています。",
+      "id": "aae27960-dbc2-44c9-8851-e3e6e3637165"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-28-22473898ef",
+  "publishedAt": "2026-09-28T06:00:00+09:00"
+}

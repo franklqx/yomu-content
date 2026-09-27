@@ -1,0 +1,131 @@
+{
+  "title": "沖縄の島々へ行こう！",
+  "summary": "沖縄にはたくさんのきれいな島があります。島から島へ行く旅行はとても楽しいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄には、たくさんの美しい島があります。たとえば、石垣島（いしがきじま）、宮古島（みやこじま）などです。これらの島は「離島（りとう）」と呼ばれています。離島は、都会とは違う、静かで自然がいっぱいの場所です。",
+      "translationZh": "冲绳有很多美丽的岛屿。例如，有石垣岛、宫古岛等。这些岛屿被称为“离岛”。离岛是与大都市不同，宁静且充满大自然的场所。",
+      "translationEn": "Okinawa has many beautiful islands. For example, Ishigaki Island and Miyako Island. These islands are called \"remote islands\" (ritou). Remote islands are places different from cities, quiet and full of nature.",
+      "id": "5d297a00-a18d-4ba2-bc4c-6e6ff3be2a35",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、「離島ホップ」という旅行が人気です。これは、一つの島だけでなく、いくつかの島を訪れる旅行のことです。船（ふね）や飛行機（ひこうき）を使って、島から島へ移動します。色々な島の景色や文化を楽しむことができます。",
+      "translationZh": "最近，“跳岛游”（ritou hopp）这种旅行很受欢迎。这种旅行不是只去一个岛，而是访问几个岛。使用船或飞机，从一个岛移动到另一个岛。可以享受不同岛屿的风景和文化。",
+      "translationEn": "Recently, a type of travel called \"island hopping\" (ritou hopp) is popular. This means visiting several islands, not just one. You move from island to island using boats or airplanes. You can enjoy the scenery and culture of various islands.",
+      "id": "2b491b8a-7804-4176-99b2-3100eae36019",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップの魅力は、それぞれの島に個性があることです。ある島では、きれいな海でシュノーケリングができます。別の島では、おいしい地元の食べ物を食べることができます。夜は、満天（まんてん）の星空（ほしぞら）を見ることができる場所もあります。",
+      "translationZh": "跳岛游的魅力在于每个岛都有其个性。在某个岛上，可以在美丽的大海里浮潜。在另一个岛上，可以吃到美味的当地食物。晚上，也有可以观赏漫天星空的地方。",
+      "translationEn": "The charm of island hopping is that each island has its own personality. On one island, you can go snorkeling in the beautiful sea. On another island, you can eat delicious local food. At night, there are also places where you can see a sky full of stars.",
+      "id": "c03ee38b-2e1f-405f-89fb-5b4edda5316c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "沖縄の離島ツアーは、日常を忘れてリラックスするのに最適です。次の休みには、ぜひ離島ホップを体験（たいけん）してみてください。きっと素晴らしい思い出ができるでしょう。",
+      "translationZh": "冲绳的离岛旅行非常适合忘记日常，好好放松。下次休假时，请一定要尝试一下跳岛游。一定会留下美好的回忆。",
+      "translationEn": "Okinawa's remote island tours are perfect for forgetting everyday life and relaxing. On your next vacation, please try island hopping. You will surely make wonderful memories.",
+      "id": "36a1328b-12bb-4ca3-8340-c4e82d05b111",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "これは小さい島です。",
+      "id": "3ec422d5-b5f6-40ac-abbc-0f068f8255c6"
+    },
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "離島へ行くのが好きです。",
+      "id": "b9018d27-99fa-4263-8d76-308578b9b558"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "夏に旅行をしました。",
+      "id": "4bedfc07-5c69-4dc0-bb61-75870db84891"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このカフェは人気があります。",
+      "id": "5acec7a9-33e9-4603-9916-1a990ae64ef1"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "boat, ship",
+      "level": "n5n4",
+      "exampleSentence": "船で海を渡りました。",
+      "id": "87b17088-cfbc-4e94-82c2-568269e45f85"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaningZh": "飞机",
+      "meaningEn": "airplane",
+      "level": "n5n4",
+      "exampleSentence": "飛行機は速いです。",
+      "id": "9a69c510-ce18-4b93-b8f3-4a1bd36812d2"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "美しい景色を見ました。",
+      "id": "a3dac554-fdeb-4634-b0c7-a474aad4ae39"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "新しいことを体験したいです。",
+      "id": "85d97e33-6c18-4cf9-a0a5-68c42dd35c82"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」とは、どのような旅行ですか？",
+      "options": [
+        "一つの島だけをゆっくり旅行すること",
+        "たくさんの島を船で巡る旅行",
+        "都市で買い物をたくさんする旅行",
+        "美術館をたくさん見学する旅行"
+      ],
+      "correctIndex": 1,
+      "explanation": "「離島ホップ」とは、一つの島だけでなく、いくつかの島を訪れる旅行のことです。",
+      "id": "367bbd9b-61bc-4c35-acb5-feba834d5ef7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-28-46dffb8a6c",
+  "publishedAt": "2026-09-28T06:00:00+09:00"
+}

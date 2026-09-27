@@ -1,0 +1,138 @@
+{
+  "title": "高校生プログラマーの祭典、ハッカソン開催へ",
+  "summary": "若手プログラマー育成を目指し、高校生を対象としたハッカソンが各地で開催される予定です。創造性と技術力が試される場として注目されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、IT分野の急速な発展に伴い、若年層におけるプログラミング教育の重要性が増している。こうした背景を受け、全国各地で高校生を対象としたハッカソン（ハックとマラソンの造語）の開催が相次いでいる。これは、参加者が短期間で集中的にアイデアを形にし、プロトタイプを開発するイベントであり、次世代を担うエンジニア育成の場として期待が寄せられているとのことだ。",
+      "translationZh": "近年来，随着IT领域的飞速发展，青少年编程教育的重要性日益增加。在此背景下，面向高中生的黑客松（Hackathon，是Hack和Marathon的组合词）正在全国各地相继举办。据悉，这是一个让参与者在短时间内集中将想法付诸实践、开发原型产品的活动，并被寄予培养下一代工程师的期望。",
+      "translationEn": "In recent years, with the rapid development of the IT field, the importance of programming education for young people has been increasing. Against this backdrop, hackathons (a portmanteau of 'hack' and 'marathon') targeting high school students are being held one after another across the country. It is said that this is an event where participants intensively bring their ideas to life and develop prototypes in a short period, and it is expected to serve as a training ground for future engineers.",
+      "id": "2c461397-c02c-43d7-9e76-ba703919c56d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのハッカソンでは、特定のテーマが設定される場合もあれば、自由な発想でアプリケーションやサービスを開発することも可能とされている。参加者はチームを組み、限られた時間内で企画立案からコーディング、プレゼンテーションまでを一貫して行う。このプロセスを通じて、技術力だけでなく、チームワークや問題解決能力、さらには創造性といった多岐にわたるスキルが磨かれることが見込まれている。",
+      "translationZh": "在这些黑客松中，有时会设定特定的主题，有时也允许自由发挥创意来开发应用程序或服务。参与者组建团队，在有限的时间内完成从企划立案到编码、再到展示的整个过程。预计通过这个过程，不仅能提升技术能力，还能磨练团队合作、解决问题能力以及创造力等多种多样的技能。",
+      "translationEn": "In these hackathons, specific themes may be set, or participants may be allowed to freely develop applications and services based on their innovative ideas. Participants form teams and, within a limited time, engage in a continuous process from planning and proposal to coding and presentation. Through this process, it is expected that not only technical skills but also a wide range of abilities such as teamwork, problem-solving skills, and creativity will be honed.",
+      "id": "7d7a06e3-d3ac-4776-b9d1-f62c1629eb2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "大会によっては、著名なIT企業や大学との連携も図られており、優秀な成績を収めた参加者には、インターンシップの機会や奨学金が提供されるケースもあるという。これにより、高校生が将来のキャリアパスを具体的に描くきっかけとなり、さらなる学習意欲の向上に繋がることが期待されている。技術革新の担い手を早期に発掘・育成する試みとして、今後もその動向が注目されるところである。",
+      "translationZh": "部分大会还会与著名的IT企业或大学合作，据称成绩优异的参与者有时还能获得实习机会或奖学金。这有望成为高中生具体规划未来职业道路的契机，并促进学习意愿的进一步提高。作为早期发掘和培养技术创新人才的尝试，其动向今后也将备受关注。",
+      "translationEn": "Depending on the event, collaborations with renowned IT companies and universities are also being pursued, and it is reported that participants who achieve excellent results may be offered internship opportunities or scholarships. This is expected to serve as an opportunity for high school students to concretely envision their future career paths and lead to increased motivation for further learning. As an initiative to discover and nurture future innovators at an early stage, its trends will continue to be closely watched.",
+      "id": "1eb5cb28-c180-473a-97d0-5ce3876cc8e8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "伴い",
+      "reading": "ともない",
+      "meaningZh": "伴随，随着",
+      "meaningEn": "accompanying, along with",
+      "level": "n2n1",
+      "exampleSentence": "技術革新に伴い、働き方も変化してきた。",
+      "id": "9d18e2d0-9e3f-4e49-952f-359a35be9f3e"
+    },
+    {
+      "word": "相次いで",
+      "reading": "あい ついで",
+      "meaningZh": "接连，接二连三",
+      "meaningEn": "one after another, successively",
+      "level": "n2n1",
+      "exampleSentence": "不祥事が相次いで発覚し、会社の信用は失墜した。",
+      "id": "6edff47a-dd17-409a-b198-8e7c97da5cad"
+    },
+    {
+      "word": "期待が寄せられる",
+      "reading": "きたい が よせられる",
+      "meaningZh": "寄予厚望，备受期待",
+      "meaningEn": "to place high expectations on, to be highly anticipated",
+      "level": "n2n1",
+      "exampleSentence": "新製品の成功に、関係者から大きな期待が寄せられている。",
+      "id": "dc5f8316-d970-4a91-82b9-83923f88c993"
+    },
+    {
+      "word": "発想",
+      "reading": "はっそう",
+      "meaningZh": "想法，构思，创意",
+      "meaningEn": "idea, conception, thought",
+      "level": "n3",
+      "exampleSentence": "斬新な発想が、このプロジェクトの成功の鍵となった。",
+      "id": "79b04717-d4ca-482d-a78a-562b63841014"
+    },
+    {
+      "word": "一貫して",
+      "reading": "いっかんして",
+      "meaningZh": "一贯地，始终如一地",
+      "meaningEn": "consistently, throughout",
+      "level": "n2n1",
+      "exampleSentence": "彼は、自らの信念を一貫して貫いている。",
+      "id": "a4e51273-f751-4788-bd30-a255b0897e48"
+    },
+    {
+      "word": "磨かれる",
+      "reading": "みがかれる",
+      "meaningZh": "被磨练，被提升（指技能、能力等）",
+      "meaningEn": "to be polished, to be honed, to be refined",
+      "level": "n3",
+      "exampleSentence": "多くの経験を通じて、彼の交渉能力は磨かれていった。",
+      "id": "0f612c83-05c3-4d47-b92e-d4bfd9abb49d"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "协作，合作，联动",
+      "meaningEn": "cooperation, collaboration, coordination",
+      "level": "n2n1",
+      "exampleSentence": "産学連携により、新たな技術開発が進められている。",
+      "id": "cd903b55-1240-4e79-864a-067f4fe301e0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高校生向けハッカソンの開催が増加している主な理由は何ですか？",
+      "options": [
+        "プログラミングの国際大会が増えたため",
+        "IT分野での若手育成の重要性が高まっているため",
+        "高校生がゲーム開発に興味を持ち始めたため",
+        "大学入試でプログラミングが必須科目になったため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「近年、IT分野の急速な発展に伴い、若年層におけるプログラミング教育の重要性が増している。こうした背景を受け、全国各地で高校生を対象としたハッカソンの開催が相次いでいる。」と記載されている。",
+      "id": "27ea441c-07cb-43bd-9b0f-bd25143b46be"
+    },
+    {
+      "question": "ハッカソンに参加することで、高校生はどのようなスキルを磨くことが期待できますか？",
+      "options": [
+        "語学力とコミュニケーション能力",
+        "芸術的センスとデザイン能力",
+        "技術力、チームワーク、問題解決能力、創造性",
+        "リーダーシップと交渉術"
+      ],
+      "correctIndex": 2,
+      "explanation": "第二段に「このプロセスを通じて、技術力だけでなく、チームワークや問題解決能力、さらには創造性といった多岐にわたるスキルが磨かれることが見込まれている。」とある。",
+      "id": "da936981-ccde-498f-ae72-bf1e09c5a0d7"
+    },
+    {
+      "question": "一部のハッカソンで優秀な成績を収めた参加者に提供される可能性があるものは何ですか？",
+      "options": [
+        "海外留学の奨学金",
+        "プロのゲーム開発者としての就職",
+        "著名なIT企業でのインターンシップ機会",
+        "最新のプログラミング教材"
+      ],
+      "correctIndex": 2,
+      "explanation": "第三段に「大会によっては、著名なIT企業や大学との連携も図られており、優秀な成績を収めた参加者には、インターンシップの機会や奨学金が提供されるケースもあるという。」と記載されている。",
+      "id": "94bf7faf-77b9-4ad5-abeb-a30e714b3029"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-28-22473898ef",
+  "publishedAt": "2026-09-28T06:00:00+09:00"
+}
