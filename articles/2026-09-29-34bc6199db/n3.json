@@ -1,0 +1,135 @@
+{
+  "title": "夜も図書館へ！公立図書館の実験、どうなる？",
+  "summary": "最近、いくつかの公立図書館で夜間営業の実験が始まりました。仕事帰りの人や学生にとって、図書館がもっと利用しやすくなるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、いくつかの公立図書館で、利用者のニーズに応えるため、夜間営業の実験が行われています。これは、日中仕事や学校で忙しい人々が、仕事帰りに図書館に立ち寄れるようにするための試みです。以前は閉館時間が早いため、残念ながら図書館を利用できなかった人も多かったことでしょう。",
+      "translationZh": "最近，为了满足利用者的需求，一些公共图书馆正在进行夜间开放的实验。这是为了让白天忙于工作或学习的人们，在下班回家后也能顺便去图书馆。以前由于闭馆时间早，很多人可能遗憾地无法利用图书馆。",
+      "translationEn": "Recently, some public libraries have been experimenting with evening hours to meet user needs. This is an attempt to allow people who are busy with work or school during the day to visit the library on their way home. In the past, many people were likely unable to use the library because it closed early.",
+      "id": "0a0e7bef-9a2a-4ae1-91d6-51b194747f7d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験では、平日の夜遅くまで開館時間を延長したり、週末に特別な夜間開館日を設けたりしています。図書館側は、夜間営業によって、これまで図書館を利用してこなかった層にも本を手に取ってもらえる機会が増えると期待しています。もちろん、安全面への配慮や、職員の負担なども考慮しながら進められています。",
+      "translationZh": "在这次实验中，将平日的闭馆时间延长到深夜，或者在周末设立特别的夜间开放日。图书馆方面期待通过夜间营业，增加那些过去没有利用过图书馆的人们接触书籍的机会。当然，这一切都在考虑安全问题和员工负担的同时进行。",
+      "translationEn": "In this experiment, opening hours are extended late into the evening on weekdays, or special evening opening days are set up on weekends. The libraries expect that evening hours will increase opportunities for people who haven't used libraries before to pick up books. Of course, this is being carried out while considering safety measures and the burden on staff.",
+      "id": "277a6888-7382-4779-866e-078e5f0acffb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間営業が成功すれば、地域住民の読書習慣の向上や、学習機会の拡大につながる可能性があります。しかし、すべての図書館で実施するには、運営コストや人員配置などの課題も残っています。実験の結果次第では、今後、全国の図書館に広がる可能性もあるでしょう。",
+      "translationZh": "如果夜间营业成功，有可能有助于提高社区居民的阅读习惯和扩大学习机会。但是，要在所有图书馆实施，在运营成本和人员配置等方面仍存在课题。根据实验结果，未来也可能推广到全国的图书馆。",
+      "translationEn": "If evening hours are successful, it could lead to improved reading habits and expanded learning opportunities for local residents. However, implementing this in all libraries still presents challenges such as operating costs and staffing. Depending on the results of the experiment, it may spread to libraries nationwide in the future.",
+      "id": "2f14c818-a4f7-403a-baa5-d0ba6d494a0a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ニーズ",
+      "reading": "にーず",
+      "meaningZh": "需求",
+      "meaningEn": "needs",
+      "level": "n3",
+      "exampleSentence": "利用者のニーズに合わせてサービスを改善する。",
+      "id": "7aefce8f-e7da-424c-b81d-93a69d56b919"
+    },
+    {
+      "word": "試み",
+      "reading": "こころみ",
+      "meaningZh": "尝试，试验",
+      "meaningEn": "attempt, trial",
+      "level": "n3",
+      "exampleSentence": "新しい方法を試みる。",
+      "id": "786e6ca3-4c73-4333-9b06-db3e21a49384"
+    },
+    {
+      "word": "立ち寄る",
+      "reading": "たちよる",
+      "meaningZh": "顺便访问，路过",
+      "meaningEn": "to stop by",
+      "level": "n3",
+      "exampleSentence": "帰り道にコンビニに立ち寄る。",
+      "id": "a0485e40-56fb-4115-aec2-ab34a440ae2d"
+    },
+    {
+      "word": "残念ながら",
+      "reading": "ざんねんながら",
+      "meaningZh": "可惜，遗憾地",
+      "meaningEn": "unfortunately",
+      "level": "n3",
+      "exampleSentence": "残念ながら、約束の時間に間に合わなかった。",
+      "id": "0ec91ef0-450a-4674-8979-5c800af38028"
+    },
+    {
+      "word": "開館時間",
+      "reading": "かいかんじかん",
+      "meaningZh": "开放时间（指设施等）",
+      "meaningEn": "opening hours",
+      "level": "n3",
+      "exampleSentence": "美術館の開館時間を確認する。",
+      "id": "38da3110-d1c4-4b10-97e0-a345e3a47c22"
+    },
+    {
+      "word": "層",
+      "reading": "そう",
+      "meaningZh": "层，阶层",
+      "meaningEn": "stratum, layer, class",
+      "level": "n3",
+      "exampleSentence": "若い層に人気のファッションブランド。",
+      "id": "646702dd-4510-4721-ab16-cd8dadd4d9ff"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "关怀，体谅，考虑",
+      "meaningEn": "consideration, care",
+      "level": "n3",
+      "exampleSentence": "相手の気持ちに配慮した発言をする。",
+      "id": "737f5ae8-d24c-4301-ab43-c53f60eb4e05"
+    },
+    {
+      "word": "運営コスト",
+      "reading": "うんえいこすと",
+      "meaningZh": "运营成本",
+      "meaningEn": "operating cost",
+      "level": "n3",
+      "exampleSentence": "新しい事業の運営コストを計算する。",
+      "id": "1661e2a1-9392-4a92-9edd-f1b8ce1f07ee"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公立図書館が夜間営業の実験を行う主な理由は何ですか？",
+      "options": [
+        "図書館の利用者を増やすため",
+        "仕事帰りの人が利用しやすくするため",
+        "新しい本をたくさん置くため",
+        "図書館の建物を新しくするため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「これは、日中仕事や学校で忙しい人々が、仕事帰りに図書館に立ち寄れるようにするための試みです。」と書かれています。",
+      "id": "eb6d38b5-6a03-4f58-8611-cb5112df4dee"
+    },
+    {
+      "question": "夜間営業の実験について、本文で述べられている課題は何ですか？",
+      "options": [
+        "利用者が少なすぎること",
+        "本の種類が少ないこと",
+        "安全面や職員の負担、運営コストなど",
+        "図書館までの交通が不便なこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「安全面への配慮や、職員の負担なども考慮しながら進められています。」や「運営コストや人員配置などの課題も残っています。」と書かれています。",
+      "id": "fa76af38-89cb-44ec-96ff-fb95b39cda50"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-09-29-34bc6199db",
+  "publishedAt": "2026-09-29T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ドローンが荷物を運ぶ？",
+  "summary": "最近、ドローンで荷物を運ぶ実験が行われています。これは未来の便利な方法になるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でドローンを使った配送の実験が始まりました。ドローンは空を飛ぶ小さな機械です。この実験では、ドローンが山や田んぼの上を飛んで、荷物を運びました。",
+      "translationZh": "最近，日本开始了使用无人机配送的实验。无人机是一种在空中飞行的很小的机器。这次实验中，无人机飞越了山和稻田，运送了货物。",
+      "translationEn": "Recently, experiments for delivery using drones have started in Japan. Drones are small machines that fly in the sky. In this experiment, drones flew over mountains and rice fields to deliver packages.",
+      "id": "4bf74904-ef68-4a2e-aa79-0a0bdc00234e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この技術は、まだ新しいですが、とても便利になる可能性があります。例えば、遠い場所や、人が行くのが難しい場所へ、薬や食べ物を早く届けることができます。",
+      "translationZh": "这项技术虽然还很新，但有很大的便利潜力。例如，它可以快速地将药品或食物送到偏远地区或人们难以到达的地方。",
+      "translationEn": "This technology is still new, but it has the potential to be very convenient. For example, it can quickly deliver medicine or food to remote places or areas that are difficult for people to reach.",
+      "id": "d3497242-ce28-405c-905c-9e95dde08ce6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験は成功したようです。しかし、安全のためにもっとたくさん勉強が必要です。風が強い日や、雨の日でも安全に飛べるように、これからも研究が進められます。",
+      "translationZh": "实验似乎很成功。但是，为了安全，还需要更多的学习。为了能在刮大风或下雨的日子也能安全飞行，今后研究将继续进行。",
+      "translationEn": "The experiment seems to have been successful. However, more study is needed for safety. Research will continue so that drones can fly safely even on windy or rainy days.",
+      "id": "6df8b834-1cf6-48ae-a12f-cc791233c6ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "将来、ドローンが私たちの生活を助けてくれるかもしれません。新しい技術は、私たちの暮らしをより良く変える力を持っています。",
+      "translationZh": "将来，无人机或许能帮助我们的生活。新技术有能力让我们的生活变得更好。",
+      "translationEn": "In the future, drones may help our lives. New technology has the power to change our lives for the better.",
+      "id": "96813ce7-43d3-4cae-8ce9-7ef57d0a1684",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンが空を飛んでいます。",
+      "id": "31bdbc12-978c-41fd-908e-25d577870ae7"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n5n4",
+      "exampleSentence": "荷物の配送を待っています。",
+      "id": "8a444a5e-6263-47d0-8b11-9cff4f0f64de"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "ba9300bd-b868-4fcb-99b6-77ad53672c83"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaningZh": "机器",
+      "meaningEn": "machine",
+      "level": "n3",
+      "exampleSentence": "この機械はとても大きいです。",
+      "id": "b0b4e8ec-96b7-4cda-9cbd-45186dc8611e"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "04168ee5-275a-44a1-bac8-4ee5803553bf"
+    },
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "meaningZh": "可能",
+      "meaningEn": "possibility, potential",
+      "level": "n3",
+      "exampleSentence": "明日は晴れる可能性があります。",
+      "id": "b5062b05-b2f4-4eb4-a333-162a686fbaaa"
+    },
+    {
+      "word": "薬",
+      "reading": "くすり",
+      "meaningZh": "药",
+      "meaningEn": "medicine",
+      "level": "n5n4",
+      "exampleSentence": "風邪の薬を飲みました。",
+      "id": "34242ac9-c87e-4924-8e2d-03c6c00c8905"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety, safe",
+      "level": "n5n4",
+      "exampleSentence": "この道は安全です。",
+      "id": "54848736-96e5-44da-80a0-af434d86de71"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実験は何を運ぶために行われましたか？",
+      "options": [
+        "人",
+        "薬や食べ物",
+        "大きな家具",
+        "車"
+      ],
+      "correctIndex": 1,
+      "explanation": "この技術は、まだ新しいですが、とても便利になる可能性があります。例えば、遠い場所や、人が行くのが難しい場所へ、薬や食べ物を早く届けることができます。",
+      "id": "6a79d23e-4dd7-4a01-9cf0-cbe2f544c718"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-29-236f9e90bb",
+  "publishedAt": "2026-09-29T06:00:00+09:00"
+}

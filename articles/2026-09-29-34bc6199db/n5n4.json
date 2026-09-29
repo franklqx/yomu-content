@@ -1,0 +1,114 @@
+{
+  "title": "図書館の夜、開きます！",
+  "summary": "ある図書館で夜に開く実験が始まりました。たくさんの人が図書館に来ました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある町で新しい実験が始まりました。それは、公立図書館を夜に開くことです。普段、図書館は夕方には閉まります。でも、この実験では、夜の９時まで開いています。たくさんの人がこの新しい時間に図書館を利用しました。",
+      "translationZh": "最近，某个城镇开始了一个新的实验。那就是，在晚上开放公共图书馆。平时，图书馆傍晚就关门了。但是，在这个实验中，图书馆开到晚上9点。很多人利用了这个新的时间段来使用图书馆。",
+      "translationEn": "Recently, a new experiment started in a certain town. It is to open the public library at night. Usually, libraries close in the evening. But, in this experiment, the library is open until 9 PM. Many people used the library during this new time.",
+      "id": "5111a383-09aa-41c6-a49b-370f245cf0c3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜ夜に図書館を開くのでしょうか。それは、昼間は仕事や学校で忙しい人が多いからです。仕事が終わってから、図書館で本を読んだり、勉強したりしたい人もいます。この実験は、そんな人たちのために考えられました。",
+      "translationZh": "为什么要在晚上开放图书馆呢？那是因为白天很多人忙于工作或上学。有一些人希望在工作结束后，能在图书馆读书或学习。这个实验就是为这样的人们考虑的。",
+      "translationEn": "Why open the library at night? It's because many people are busy with work or school during the day. There are also people who want to read books or study at the library after work. This experiment was considered for such people.",
+      "id": "8dcd7b56-07c7-404c-864a-574f1f532899",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験初日、図書館はいつもより遅くまで開きました。多くの人が来て、本を選んだり、静かに勉強したりしました。図書館の職員は「夜も図書館が利用できて嬉しい」という声を聞いて、嬉しかったそうです。この実験が成功するといいですね。",
+      "translationZh": "实验第一天，图书馆比平时开得更晚。很多人来了，选书，或者安静地学习。图书馆职员听到了“晚上也能利用图书馆真开心”这样的声音，他们很高兴。希望这个实验能成功。",
+      "translationEn": "On the first day of the experiment, the library stayed open later than usual. Many people came, chose books, or studied quietly. The library staff were reportedly happy to hear voices saying, 'I'm glad I can use the library at night too.' It would be good if this experiment is successful.",
+      "id": "55f0d868-fbb5-4281-8bfe-0e969aecfca7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公立図書館",
+      "reading": "こうりつとしょかん",
+      "meaningZh": "公共图书馆",
+      "meaningEn": "public library",
+      "level": "n5n4",
+      "exampleSentence": "公立図書館は町の中心にあります。",
+      "id": "89d6bc46-8eca-43ea-9f83-f8274c60b462"
+    },
+    {
+      "word": "夜間営業",
+      "reading": "やかんえいぎょう",
+      "meaningZh": "夜间营业",
+      "meaningEn": "night opening, late-night business",
+      "level": "n5n4",
+      "exampleSentence": "この店は夜間営業をしています。",
+      "id": "c81a4c9e-5766-4196-9e0c-3331bf443631"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい方法の実験をしました。",
+      "id": "b5275d21-de9c-4e81-bdba-f3f88554b25a"
+    },
+    {
+      "word": "普段",
+      "reading": "ふだん",
+      "meaningZh": "平时，平常",
+      "meaningEn": "usually, ordinarily",
+      "level": "n5n4",
+      "exampleSentence": "普段は朝ごはんを食べません。",
+      "id": "f9f62f94-e9ec-4f0e-af07-8ef0cb444422"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用",
+      "meaningEn": "use, utilization",
+      "level": "n5n4",
+      "exampleSentence": "このカードはどこで利用できますか。",
+      "id": "6e7cf4ee-84ad-4874-a7b4-516c857f52e6"
+    },
+    {
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "meaningZh": "忙碌的",
+      "meaningEn": "busy",
+      "level": "n5n4",
+      "exampleSentence": "今日はとても忙しいです。",
+      "id": "3517935b-1125-4585-9263-46631510ad78"
+    },
+    {
+      "word": "成功",
+      "reading": "せいこう",
+      "meaningZh": "成功",
+      "meaningEn": "success",
+      "level": "n5n4",
+      "exampleSentence": "実験が成功しました。",
+      "id": "ecb18618-d309-465b-9831-f52e9f13be4f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この図書館の夜間営業実験は何時まで開いていますか。",
+      "options": [
+        "午後5時まで",
+        "午後7時まで",
+        "夜9時まで",
+        "夜10時まで"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「この実験では、夜の９時まで開いています。」と書いてあります。",
+      "id": "7993bc0b-e18f-497c-8f9e-a7863f42f7b6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-29-34bc6199db",
+  "publishedAt": "2026-09-29T06:00:00+09:00"
+}

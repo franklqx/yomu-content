@@ -1,0 +1,138 @@
+{
+  "title": "公立図書館、夜間開館実験に乗り出す",
+  "summary": "利用者の利便性向上を目指し、一部の公立図書館で夜間開館の実験が実施されることになった。これにより、図書館の新たな活用法が模索される。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、都市部を中心に図書館の利用方法が多様化しており、開館時間の延長を求める声が高まっています。こうした状況を受け、一部の公立図書館では、2024年度から夜間開館の実験的な取り組みを開始するとのことです。この実験は、仕事や学業で日中に図書館を利用できない層のニーズに応え、図書館の地域における役割を再定義することを目的としています。",
+      "translationZh": "近年来，以都市地区为中心，图书馆的使用方式日益多样化，要求延长开放时间的呼声也随之高涨。鉴于此种情况，部分公立图书馆将于2024年度起开始实验性地推行夜间开放。此次实验旨在满足白天无法利用图书馆的上班族和学生群体的需求，并重新定义图书馆在地区内的作用。",
+      "translationEn": "In recent years, the ways in which libraries are used have diversified, particularly in urban areas, leading to increased calls for extended opening hours. In response to this situation, some public libraries are set to commence an experimental initiative of evening opening hours starting from fiscal year 2024. This experiment aims to meet the needs of those who cannot visit the library during the day due to work or studies, and to redefine the role of libraries within the community.",
+      "id": "55ffb58c-c7e3-43ca-b2ea-7992ec5766ee",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験対象となる図書館では、週に数日、午後9時頃まで開館時間を延長する計画です。返却ポストの利用や、予約資料の受け取り・貸し出しなどが可能になると見られており、来館者の利便性向上に資すると期待されています。また、夜間開館に伴い、静かな環境での学習や読書を求める利用者層への新たなアプローチも可能になるでしょう。",
+      "translationZh": "作为实验对象的图书馆计划将每周延长开放时间至晚上9点左右。预计将可以利用还书箱，以及领取和借阅预约资料等，这被寄予厚望，认为将有助于提高访客的便利性。此外，随着夜间开放，也有可能为寻求在安静环境中学习和阅读的利用者群体开辟新的途径。",
+      "translationEn": "Libraries participating in the experiment plan to extend their opening hours to around 9 PM on several days a week. It is expected that services such as using the return drop box and picking up/borrowing reserved materials will be available, contributing to improved convenience for visitors. Furthermore, with the introduction of evening hours, new approaches may become possible for users seeking a quiet environment for study and reading.",
+      "id": "443a7fda-e3c1-4c07-bd52-7923d059aeda",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この夜間開館実験については、自治体や図書館関係者の間で、その効果測定や今後の継続・拡大の可能性について慎重な議論が進められています。利用者の反応や運営上の課題などを詳細に分析し、今後の図書館行政のあり方に反映させていく方針です。成功すれば、全国の図書館への波及も考えられます。",
+      "translationZh": "关于此次夜间开放实验，地方政府和图书馆相关人士正在就其效果评估以及未来是否能够持续和扩大进行谨慎的讨论。其方针是，通过详细分析利用者的反应和运营上的课题，并将其反映到今后的图书馆行政方针中。若实验成功，也有可能对全国的图书馆产生影响。",
+      "translationEn": "Discussions among local governments and library officials are cautiously proceeding regarding the effects of this evening opening experiment and the potential for its continuation and expansion. The plan is to thoroughly analyze user responses and operational challenges, and to reflect these findings in future library administration policies. If successful, this initiative could potentially spread to libraries nationwide.",
+      "id": "a8f81f9b-8d14-4b0d-aad2-81db17c3634e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "利便性",
+      "reading": "りべんせい",
+      "meaningZh": "便利性，方便程度",
+      "meaningEn": "convenience, usability",
+      "level": "n2n1",
+      "exampleSentence": "インターネットバンキングの普及により、顧客の利便性は格段に向上した。",
+      "id": "ceb0efdd-1af0-4015-b849-9b5cc4315f19"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい薬の効果を実験で確かめる。",
+      "id": "db84457f-15f9-41c3-8823-7d6f749ab10f"
+    },
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "diversification",
+      "level": "n2n1",
+      "exampleSentence": "消費者のニーズの多様化に対応するため、製品ラインナップを拡充した。",
+      "id": "ff6c9f11-59ad-4808-9346-86caa7ec4bcc"
+    },
+    {
+      "word": "高まる",
+      "reading": "たかまる",
+      "meaningZh": "（声音、程度、情绪等）高涨，增强",
+      "meaningEn": "to rise, to swell, to grow (e.g., voices, expectations)",
+      "level": "n3",
+      "exampleSentence": "国民の関心は、環境問題にますます高まっている。",
+      "id": "928c072d-b390-4609-8125-1a85053b5f92"
+    },
+    {
+      "word": "ニーズ",
+      "reading": "ニーズ",
+      "meaningZh": "需求",
+      "meaningEn": "needs",
+      "level": "n3",
+      "exampleSentence": "顧客のニーズを的確に把握することが、ビジネス成功の鍵となる。",
+      "id": "e7382732-a0a2-463b-aa5d-5aa81ecca197"
+    },
+    {
+      "word": "資する",
+      "reading": "しする",
+      "meaningZh": "有助于，促成",
+      "meaningEn": "to contribute to, to be conducive to",
+      "level": "n2n1",
+      "exampleSentence": "今回の改革は、組織全体の効率化に大いに資するものと期待される。",
+      "id": "16da1d69-fa5a-4597-9798-e83d91fc3930"
+    },
+    {
+      "word": "波及",
+      "reading": "はきゅう",
+      "meaningZh": "波及，扩散",
+      "meaningEn": "spread, repercussion, ripple effect",
+      "level": "n2n1",
+      "exampleSentence": "金融危機は、世界経済全体に深刻な波及をもたらした。",
+      "id": "8b66ec98-6813-4047-ae82-9ba2e77bf820"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回の公立図書館の夜間開館実験の主な目的は何ですか。",
+      "options": [
+        "図書館の建物を新しくするため",
+        "日中に利用できない層のニーズに応え、図書館の役割を再定義するため",
+        "図書館の司書を増員するため",
+        "地域住民の読書量を増やすため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「この実験は、仕事や学業で日中に図書館を利用できない層のニーズに応え、図書館の地域における役割を再定義することを目的としています。」と記載されている。",
+      "id": "aa787a7f-3493-416b-b17a-23c058524102"
+    },
+    {
+      "question": "夜間開館実験で、利用者ができるようになると予想されていることは何ですか。",
+      "options": [
+        "図書館の職員に直接相談すること",
+        "館内で食事をすること",
+        "予約資料の受け取りや貸し出し",
+        "最新の専門書を読むこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「返却ポストの利用や、予約資料の受け取り・貸し出しなどが可能になると見られており」とある。",
+      "id": "d58f414c-8631-4c52-a06e-1b117af007dc"
+    },
+    {
+      "question": "夜間開館実験の結果は、今後どのように活用される予定ですか。",
+      "options": [
+        "全国の図書館にすぐに導入される",
+        "実験対象の図書館のみで継続される",
+        "効果測定や課題分析を経て、今後の図書館行政に反映される",
+        "利用者の声は特に考慮されない"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「利用者の反応や運営上の課題などを詳細に分析し、今後の図書館行政のあり方に反映させていく方針です。」と記載されている。",
+      "id": "6eec28e8-a259-4fef-bf53-17578b5e778a"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-09-29-34bc6199db",
+  "publishedAt": "2026-09-29T06:00:00+09:00"
+}
