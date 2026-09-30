@@ -1,0 +1,122 @@
+{
+  "title": "学生街の人気定食店",
+  "summary": "学生街に、安くておいしい大盛り定食のお店があります。たくさんの学生が毎日来ています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ここは学生街にある定食屋さんです。名前は「満腹食堂」と言います。このお店は、安くておいしい料理で人気があります。特に、ボリュームがある定食が学生に大人気です。",
+      "translationZh": "这里是学生街上的一家定食店。名字叫“饱腹食堂”。这家店以便宜又美味的料理而受欢迎。特别是分量十足的定食，在学生中非常受欢迎。",
+      "translationEn": "This is a set meal restaurant in the student town. Its name is 'Manpuku Shokudo'. This restaurant is popular for its cheap and delicious food. In particular, the hearty set meals are very popular among students.",
+      "id": "0585f668-482e-4f66-b8b0-8518aebac047",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一番人気は「カツ丼」です。大きなとんかつが二つものっています。ご飯もとても多いです。これ一つでお腹がいっぱいになります。値段も500円と安いです。学生にとって、とてもありがたいお店です。",
+      "translationZh": "最受欢迎的是“炸猪排饭”。上面放着两块大大的炸猪排。米饭也非常多。吃一碗就饱了。价格也只要500日元，很便宜。对学生来说，这是家非常感激的店。",
+      "translationEn": "The most popular item is the 'Katsudon'. It comes with two large pork cutlets. The rice is also very plentiful. One bowl fills you up. The price is also cheap at 500 yen. It's a very appreciated restaurant for students.",
+      "id": "fc6a72c7-6191-4010-a003-8103f5b31cf9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "他にも、唐揚げ定食や生姜焼き定食もあります。どれもボリューム満点です。毎日、昼ごはんや夜ごはんの時間には、たくさんの学生で賑わっています。店員さんも親切で、気持ちよく食事ができます。",
+      "translationZh": "此外，还有炸鸡定食和姜汁烧肉定食。所有的菜品分量都很足。每天中午和晚上，店里都挤满了来来往往的学生。店员也很亲切，让人用餐愉快。",
+      "translationEn": "In addition, there are also fried chicken set meals and ginger pork set meals. All of them are very generous in portion size. Every day during lunch and dinner times, it is crowded with many students. The staff are also kind, making for a pleasant dining experience.",
+      "id": "bf867ce4-5d17-4559-98b3-b020ffb64650",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店は、味も値段も量も満足できます。学生の強い味方です。もし学生街に来たら、ぜひ寄ってみてください。きっとお腹いっぱいになれますよ。",
+      "translationZh": "这家店的口味、价格和分量都能让人满意。是学生们的好帮手。如果来学生街，一定要来尝尝。肯定能让你吃得饱饱的。",
+      "translationEn": "This restaurant satisfies with its taste, price, and portion size. It's a strong ally for students. If you come to the student town, please stop by. You'll surely leave with a full stomach.",
+      "id": "5c22a3ef-825b-4280-a720-831e5d8521d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "定食（套餐）",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "この定食は安いです。",
+      "id": "212ae6fe-eff2-4fb8-b534-9d355a215ab3"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この漫画は人気があります。",
+      "id": "de855af7-384f-4ae1-9940-cd0347189750"
+    },
+    {
+      "word": "ボリューム",
+      "reading": "ぼりゅーむ",
+      "meaningZh": "分量，量",
+      "meaningEn": "volume, quantity",
+      "level": "n5n4",
+      "exampleSentence": "ここの料理はボリュームがあります。",
+      "id": "5c512a23-b73a-417b-a0f4-6ff65e4f9093"
+    },
+    {
+      "word": "学生街",
+      "reading": "がくせいがい",
+      "meaningZh": "学生街",
+      "meaningEn": "student town",
+      "level": "n5n4",
+      "exampleSentence": "学生街はにぎやかです。",
+      "id": "f1b10f01-bc3a-4dfc-96a2-d855d4a453dd"
+    },
+    {
+      "word": "満腹",
+      "reading": "まんぷく",
+      "meaningZh": "吃饱，饱腹",
+      "meaningEn": "full (stomach)",
+      "level": "n5n4",
+      "exampleSentence": "たくさん食べて満腹になりました。",
+      "id": "1cb4eef1-7426-4c87-8383-554cfd0a2a9b"
+    },
+    {
+      "word": "賑わっています",
+      "reading": "にぎわっています",
+      "meaningZh": "热闹，熙熙攘攘",
+      "meaningEn": "is crowded, is bustling",
+      "level": "n5n4",
+      "exampleSentence": "駅前はいつも賑わっています。",
+      "id": "25286999-4700-4831-8308-e611cefaea68"
+    },
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaningZh": "亲切",
+      "meaningEn": "kind",
+      "level": "n5n4",
+      "exampleSentence": "店員さんが親切です。",
+      "id": "4cd0a5c8-e9ce-44db-9834-8036a0252599"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「満腹食堂」で一番人気があるメニューは何ですか？",
+      "options": [
+        "唐揚げ定食",
+        "カツ丼",
+        "生姜焼き定食",
+        "ご飯"
+      ],
+      "correctIndex": 1,
+      "explanation": "一番人気は「カツ丼」です。大きなとんかつが二つものっています。",
+      "id": "11d12f9c-0502-4578-b716-ec52a7aa34a9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-30-08420fca06",
+  "publishedAt": "2026-09-30T06:00:00+09:00"
+}

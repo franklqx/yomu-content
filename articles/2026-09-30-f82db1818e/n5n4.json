@@ -1,0 +1,131 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガのクリエイターになりたいですか？新しい奨学金制度ができました。あなたの夢を応援します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガは世界中で人気があります。たくさんの若者がクリエイターになりたいと思っています。でも、勉強するためにお金がかかります。そこで、新しい奨学金制度が始まりました。",
+      "translationZh": "动画和漫画在全世界都很受欢迎。许多年轻人想成为创作者。但是，学习需要花钱。因此，新的奖学金制度开始了。",
+      "translationEn": "Anime and manga are popular all over the world. Many young people want to become creators. However, studying costs money. Therefore, a new scholarship system has started.",
+      "id": "214f25fc-16f7-4bd8-a2a4-cbcb59211db2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、クリエイターを目指す若い人を助けるためのものです。特に、アニメやマンガの分野で活躍したい人にチャンスがあります。学校で勉強する費用や、画材を買うためのお金などをサポートします。",
+      "translationZh": "这个奖学金是为了帮助有志成为创作者的年轻人。特别是那些想在动画和漫画领域大展身手的人有机会。它支持学习费用和购买绘画材料的费用等。",
+      "translationEn": "This scholarship is to help young people aiming to be creators. There is a chance especially for those who want to be active in the fields of anime and manga. It supports school study expenses, money to buy art supplies, and so on.",
+      "id": "c6032a26-c2d4-4d45-8b7c-ac233f8a3f2f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募は簡単です。まず、インターネットで申し込みます。次に、自分の作品や、将来の夢について書いた書類を提出します。審査は、あなたの熱意と才能を見ます。",
+      "translationZh": "申请很简单。首先，在网上申请。然后，提交你的作品以及写有未来梦想的材料。评审将考察你的热情和才能。",
+      "translationEn": "Applying is easy. First, apply online. Next, submit your own work and documents describing your future dreams. The review will look at your passion and talent.",
+      "id": "4aa4df99-48ef-4214-af25-a9646525dc01",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度を使って、あなたの夢を叶えましょう。未来の有名なアニメーターやマンガ家になるために、今から準備を始めましょう。詳細はウェブサイトで確認してください。",
+      "translationZh": "利用这个制度，实现你的梦想吧。为了成为未来有名的动画师或漫画家，现在就开始准备吧。详情请在网站上确认。",
+      "translationEn": "Let's fulfill your dream using this system. Let's start preparing now to become a famous animator or manga artist in the future. Please check the website for details.",
+      "id": "61086e53-1984-4005-84c3-b9b5da4e93f8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって大学に通っています。",
+      "id": "54b73de7-114c-4979-a6e4-a389372cf3ac"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体制",
+      "meaningEn": "system, institution",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度ができました。",
+      "id": "d25b1b98-cfb1-4e89-b0b5-227e3ff5fe18"
+    },
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なクリエイターです。",
+      "id": "ecaf3f52-2dac-4b6c-86ce-068310621be9"
+    },
+    {
+      "word": "目指す",
+      "reading": "めざす",
+      "meaningZh": "以...为目标，瞄准",
+      "meaningEn": "to aim for, to target",
+      "level": "n5n4",
+      "exampleSentence": "パイロットを目指しています。",
+      "id": "0004f8f8-7373-49cb-82ca-48b6a9a21b0e"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaningZh": "分野，领域",
+      "meaningEn": "field, area",
+      "level": "n5n4",
+      "exampleSentence": "医学の分野で働いています。",
+      "id": "2e51ad10-1bb2-4e7e-bbae-3114ef5d85a1"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有作为",
+      "meaningEn": "active participation, success",
+      "level": "n3",
+      "exampleSentence": "世界で活躍する選手になりたいです。",
+      "id": "d3128de8-98df-48b8-930c-80a6eb26d2d5"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningZh": "申请，应征",
+      "meaningEn": "application, entry",
+      "level": "n5n4",
+      "exampleSentence": "この仕事に応募しました。",
+      "id": "023d8f26-d8a9-4cda-845c-5c29bcca084a"
+    },
+    {
+      "word": "熱意",
+      "reading": "ねつい",
+      "meaningZh": "热情，热心",
+      "meaningEn": "enthusiasm, passion",
+      "level": "n3",
+      "exampleSentence": "彼の熱意が伝わってきました。",
+      "id": "b1e83f03-9c99-44ea-9162-83ea990c03d7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どんな人のためにありますか？",
+      "options": [
+        "アニメやマンガのファン",
+        "クリエイターになりたい若い人",
+        "お金持ちの人",
+        "有名な人"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この奨学金は、クリエイターを目指す若い人を助けるためのものです。」",
+      "id": "cfefe2d5-5d54-40a7-b509-e09248d9d5a1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-30-f82db1818e",
+  "publishedAt": "2026-09-30T06:00:00+09:00"
+}

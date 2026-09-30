@@ -1,0 +1,122 @@
+{
+  "title": "東北に新しい道！",
+  "summary": "東北地方で自転車の道が作られています。旅行がもっと楽しくなります。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "東北地方はとてもきれいです。海も山もあります。最近、自転車で旅行する人が増えています。それで、自転車が通りやすい道を作る計画が進んでいます。",
+      "translationZh": "东北地方非常漂亮。有海也有山。最近，骑自行车旅行的人增加了。因此，修建方便自行车通行的道路的计划正在进行中。",
+      "translationEn": "The Tohoku region is very beautiful. It has both the sea and mountains. Recently, more and more people are traveling by bicycle. Therefore, a plan to build roads that are easy for bicycles to travel on is progressing.",
+      "id": "4ded85fb-c5a3-438d-a400-de0cfc721a6d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい道は、景色が良い場所を通ります。海を見ながら走ることができます。山の中のきれいな空気も楽しめます。自転車の旅は、もっと楽しくなるでしょう。",
+      "translationZh": "这条新路会经过风景优美的地方。你可以一边看海一边骑行。你也可以享受山中清新的空气。骑自行车的旅途会变得更加有趣。",
+      "translationEn": "These new roads will pass through places with good scenery. You can ride while looking at the sea. You can also enjoy the fresh air in the mountains. Bicycle trips will become more enjoyable.",
+      "id": "6a732235-6926-4eb6-9fa7-39f4cb198625",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "旅行者は、この道を使って、東北の町をたくさん訪れることができます。地元の食べ物を食べたり、温泉に入ったりすることもできます。これは、東北の観光にとって良いことです。",
+      "translationZh": "旅行者可以使用这条路，访问东北的许多城镇。他们还可以品尝当地的美食，泡温泉。这对东北的旅游业是件好事。",
+      "translationEn": "Tourists can use these roads to visit many towns in Tohoku. They can also eat local food and enjoy hot springs. This is good for tourism in Tohoku.",
+      "id": "00dc3b8a-44c4-4fc9-be23-adf55ffc6636",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "整備はまだ終わっていませんが、完成が楽しみです。自転車で東北を旅するのは、新しい発見がたくさんあるでしょう。",
+      "translationZh": "虽然建设还没有完成，但我们很期待它的完工。骑自行车游览东北，一定会带来许多新的发现。",
+      "translationEn": "The construction is not finished yet, but we are looking forward to its completion. Traveling around Tohoku by bicycle will surely bring many new discoveries.",
+      "id": "674730f2-9cf4-4b6d-8e10-8118a4d25ef7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地方は食べ物がおいしいです。",
+      "id": "dacf5cb4-419f-4dd8-83c9-ec8fecd92f3b"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整备，修建",
+      "meaningEn": "maintenance, development, construction",
+      "level": "n5n4",
+      "exampleSentence": "新しい道路の整備が進んでいます。",
+      "id": "82e8d7fb-5dc4-4123-9d12-55562b148fde"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaningZh": "自行车",
+      "meaningEn": "bicycle",
+      "level": "n5n4",
+      "exampleSentence": "私は毎日自転車で学校に行きます。",
+      "id": "bea07e59-ba69-4a0b-a5bd-d2257518065c"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "夏休みに北海道へ旅行しました。",
+      "id": "0b19c5b1-e757-4d90-b890-8b8ea15807e5"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "新しいプロジェクトの計画を立てました。",
+      "id": "618fac7c-30c9-448a-a513-31d8b0026f35"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "窓から見える景色がきれいです。",
+      "id": "786cd71f-c2a8-4786-8d17-a084f6b73fab"
+    },
+    {
+      "word": "観光",
+      "reading": "かんこう",
+      "meaningZh": "观光",
+      "meaningEn": "sightseeing, tourism",
+      "level": "n5n4",
+      "exampleSentence": "京都は観光客でいつもいっぱいです。",
+      "id": "8364d437-3a83-48bd-aee0-3d1198024f33"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方では、どんな道が作られていますか？",
+      "options": [
+        "車のための道",
+        "自転車のための道",
+        "歩くための道",
+        "電車のための道"
+      ],
+      "correctIndex": 1,
+      "explanation": "この新しい道は、自転車で旅行する人が増えているため、自転車が通りやすい道を作る計画が進んでいます。",
+      "id": "a96456e9-d591-43e8-ada2-bfce26fbab9a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-09-30-addfe14016",
+  "publishedAt": "2026-09-30T06:00:00+09:00"
+}
