@@ -1,0 +1,126 @@
+{
+  "title": "夜まで開館！公立図書館の新しい試み",
+  "summary": "最近、いくつかの公立図書館で夜間営業の実験が始まりました。これにより、仕事帰りの人や学生も利用しやすくなるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、いくつかの公立図書館で「夜間営業実験」が始まり、話題になっています。これまで図書館は夕方までというイメージが強かったのですが、この実験では、平日の夜遅くまで開館時間を延長するとのことです。この取り組みは、日中仕事や学校で図書館を利用できない人たちにとって、とてもありがたい試みと言えるでしょう。",
+      "translationZh": "最近，几家公共图书馆开始的“夜间营业实验”成为了热门话题。虽然过去图书馆的印象多是开放到傍晚，但这次实验将平日的闭馆时间延长到深夜。这项举措对于白天因工作或上学而无法使用图书馆的人们来说，无疑是一项非常贴心的尝试。",
+      "translationEn": "Recently, a 'night opening experiment' has started at several public libraries, becoming a hot topic. In the past, libraries were generally perceived as closing in the evening, but this experiment extends the opening hours until late on weekdays. This initiative is considered a very welcome attempt for people who cannot use libraries during the day due to work or school.",
+      "id": "31363514-65c4-410d-b15a-fd27d384b823",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間営業を行うことで、図書館はより多くの人々に利用される機会が増えると考えられています。例えば、仕事が終わってから図書館に立ち寄り、借りたい本を探したり、静かな空間で勉強したりすることが可能になります。また、学生にとっても、学校の授業が終わった後にゆっくりと学習できる貴重な時間になるでしょう。このように、図書館が地域住民の生活にさらに溶け込むことが期待されています。",
+      "translationZh": "通过夜间营业，图书馆被认为将有更多机会被更多人利用。例如，工作结束后可以顺道去图书馆，寻找想借的书，或者在安静的空间里学习。对于学生来说，放学后也能有宝贵的时间慢慢学习。这样一来，图书馆有望进一步融入当地居民的生活。",
+      "translationEn": "By operating at night, libraries are expected to have more opportunities to be used by a wider range of people. For example, people can stop by the library after work to find books they want to borrow or study in a quiet environment. It will also be a valuable time for students to study leisurely after school. In this way, libraries are expected to integrate further into the lives of local residents.",
+      "id": "dfb01263-93a0-488d-bd83-fcd7a5f5d4bc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、夜間営業の実施には、人員の確保や警備、電気代などのコスト増加といった課題もあります。図書館側は、これらの課題をクリアしながら、利用者のニーズに応えようと努力しています。実験の結果次第では、今後、全国の多くの図書館で同様の取り組みが広がる可能性も秘めています。図書館がより身近な存在になる未来が、すぐそこまで来ているのかもしれません。",
+      "translationZh": "然而，实施夜间营业也面临着人员配备、安保以及电费等成本增加的挑战。图书馆方面正努力克服这些困难，以满足用户的需求。根据实验结果，未来全国许多图书馆有可能推广类似的举措。图书馆变得更加触手可及的未来，或许就在眼前。",
+      "translationEn": "However, implementing night opening also presents challenges such as securing staff, security, and increased costs like electricity bills. The library is striving to meet user needs while overcoming these issues. Depending on the results of the experiment, there is potential for similar initiatives to spread to many libraries nationwide in the future. The future where libraries become more accessible may be just around the corner.",
+      "id": "9f26522b-78cd-4600-bcf9-3865a011c24d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公立図書館",
+      "reading": "こうりつとしょかん",
+      "meaningZh": "公共图书馆",
+      "meaningEn": "public library",
+      "level": "n3",
+      "exampleSentence": "この公立図書館は、夜遅くまで開いているので便利です。",
+      "id": "43d3c482-de89-4408-9b74-793493e3272d"
+    },
+    {
+      "word": "夜間営業",
+      "reading": "やかんえいぎょう",
+      "meaningZh": "夜间营业",
+      "meaningEn": "night opening hours",
+      "level": "n3",
+      "exampleSentence": "デパートの夜間営業は、多くの買い物客で賑わっていました。",
+      "id": "824bc18d-86fb-44af-a063-866bb5cbee50"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しいシステムの効果を実験で確かめました。",
+      "id": "cb7acb11-b58a-4a2e-a278-6a136fb8785a"
+    },
+    {
+      "word": "延長",
+      "reading": "えんちょう",
+      "meaningZh": "延长",
+      "meaningEn": "extension",
+      "level": "n3",
+      "exampleSentence": "会議の時間を30分延長することになりました。",
+      "id": "052ee6d4-2323-40bf-9d7d-ee2d90ab3dd6"
+    },
+    {
+      "word": "取り組み",
+      "reading": "とりくみ",
+      "meaningZh": "举措，努力",
+      "meaningEn": "initiative, effort",
+      "level": "n3",
+      "exampleSentence": "地域活性化のための新しい取り組みが始まります。",
+      "id": "416ca6eb-96d8-4b2a-af04-c184b3459345"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，挑战",
+      "meaningEn": "challenge, task",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには多くの課題がありますが、乗り越えたいです。",
+      "id": "d83bb837-8357-4097-9838-56e8b7d0c7a5"
+    },
+    {
+      "word": "ニーズ",
+      "reading": "ニーズ",
+      "meaningZh": "需求",
+      "meaningEn": "needs",
+      "level": "n3",
+      "exampleSentence": "お客様のニーズを理解することが大切です。",
+      "id": "ba4fbf44-5ee6-4bb2-9b4c-e16c02adeed7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この図書館の夜間営業実験の目的は何ですか？",
+      "options": [
+        "図書館の利用者を増やすため",
+        "図書館の運営コストを下げるため",
+        "図書館の職員を増やすため",
+        "図書館の設備を新しくするため"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「夜間営業を行うことで、図書館はより多くの人々に利用される機会が増えると考えられています。」と書かれています。",
+      "id": "0d9c7ec9-f0c1-4d4c-8869-e5704aa1fdfc"
+    },
+    {
+      "question": "夜間営業を実施する上で、図書館が直面している課題は何ですか？",
+      "options": [
+        "利用者のマナーの低下",
+        "本の貸し出し冊数の制限",
+        "人員確保やコスト増加",
+        "インターネット環境の不備"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「しかし、夜間営業の実施には、人員の確保や警備、電気代などのコスト増加といった課題もあります。」と書かれています。",
+      "id": "f5691ec2-0e05-4ab5-a7c7-1d8e85ac1186"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-01-34bc6199db",
+  "publishedAt": "2026-10-01T06:00:00+09:00"
+}

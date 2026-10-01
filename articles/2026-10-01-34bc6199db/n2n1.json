@@ -1,0 +1,138 @@
+{
+  "title": "図書館、夜も開く？異例の夜間営業実験始まる",
+  "summary": "一部の公立図書館で、利用者の利便性向上を目指した夜間営業の実験が開始された。これに伴い、従来の開館時間では利用が難しかった層からの期待が寄せられている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、都市部を中心に公立図書館の利用方法の多様化が求められる中、一部の自治体で斬新な試みとして夜間営業実験が実施されているとのことである。この実験は、仕事や学業で日中図書館を利用できない人々にも読書や学習の機会を提供することを目的としている。従来の開館時間ではアクセスが困難であった会社員や学生など、幅広い層からの利用が見込まれており、その反響が注目されている。",
+      "translationZh": "据悉，近年来，随着城市地区对公共图书馆利用方式多样化的需求日益增长，部分地方政府正在进行一项新颖的实验性举措——夜间开放。此举旨在为因工作或学业而无法在白天前往图书馆的人们提供阅读和学习的机会。预计将吸引包括工薪族和学生在内的广泛人群，他们以往由于传统的开放时间而难以利用图书馆，目前大家正密切关注其反响。",
+      "translationEn": "Amidst the growing demand for diversified public library usage, particularly in urban areas, some local governments are reportedly conducting an experimental initiative for night opening hours. This experiment aims to provide reading and study opportunities to individuals who cannot visit libraries during the day due to work or studies. It is anticipated to attract a wide range of users, including office workers and students, who have previously found it difficult to access libraries within traditional operating hours, and the response is drawing attention.",
+      "id": "a5d3d157-7538-40e8-974d-3e86784790b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間営業の導入にあたっては、治安維持や職員の負担増といった課題も指摘されている。そのため、実験段階では、防犯カメラの設置強化や、警備員の増員、さらには限定的なエリアのみを開放するなどの対策が講じられている場合が多いと見られる。これらの安全対策と、夜間利用者のニーズとのバランスをどのように取っていくかが、今後の課題となるだろう。",
+      "translationZh": "在引入夜间营业的同时，也指出了治安维持和增加员工负担等课题。因此，在实验阶段，许多情况下会采取加强防犯摄像头设置、增加安保人员，甚至只开放限定区域等对策。如何在这些安全对策与夜间利用者的需求之间取得平衡，将是今后的课题。",
+      "translationEn": "Concurrently with the introduction of night hours, challenges such as maintaining public safety and increasing staff workload have also been pointed out. Therefore, during the experimental phase, many cases involve measures like enhanced installation of security cameras, increased numbers of guards, and opening only limited areas. How to balance these safety measures with the needs of night-time users will be a future challenge.",
+      "id": "64ca3e89-6ea1-492e-8e8a-3679836414e0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回の夜間営業実験は、図書館が地域住民にとってより身近で利用しやすい存在となるための重要な一歩と捉えられている。実験の結果次第では、全国の公立図書館への波及も考えられるため、その成果と課題の検証が綿密に行われることが期待される。",
+      "translationZh": "此次夜间营业实验被视为图书馆成为社区居民更亲近、更易于利用的存在的重要一步。根据实验结果，也有可能推广到全国的公共图书馆，因此，人们期待对其成果和课题进行细致的验证。",
+      "translationEn": "This night opening experiment is viewed as a significant step towards making libraries a more accessible and convenient presence for local residents. Depending on the experiment's outcome, its adoption by public libraries nationwide is conceivable, thus detailed verification of its results and challenges is highly anticipated.",
+      "id": "e7f5d5a9-f23c-4e51-ac5f-409d62ea8bdc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "斬新",
+      "reading": "ざんしん",
+      "meaningZh": "新颖，新奇",
+      "meaningEn": "novel, original, new",
+      "level": "n2n1",
+      "exampleSentence": "斬新なデザインの製品が若者の間で人気を集めている。",
+      "id": "813cdc8a-a8a3-4789-91a0-4d817d112605"
+    },
+    {
+      "word": "試み",
+      "reading": "こころみ",
+      "meaningZh": "尝试，试验",
+      "meaningEn": "attempt, trial, experiment",
+      "level": "n3",
+      "exampleSentence": "新しい企画の試みは、成功するとは限らない。",
+      "id": "d1f3c9ba-e2a6-49af-b262-a6859b596f13"
+    },
+    {
+      "word": "利便性",
+      "reading": "べんりのせい",
+      "meaningZh": "便利性",
+      "meaningEn": "convenience",
+      "level": "n2n1",
+      "exampleSentence": "スマートフォンの普及により、生活の利便性が向上した。",
+      "id": "70c98e57-e894-4732-af1a-aa4d74e1782e"
+    },
+    {
+      "word": "見込まれる",
+      "reading": "みこまれる",
+      "meaningZh": "预期，预计",
+      "meaningEn": "be expected, be anticipated",
+      "level": "n2n1",
+      "exampleSentence": "来年の経済成長率は、数パーセント程度見込まれている。",
+      "id": "359f60e4-80f0-49c3-92c3-dadf15b3f5dc"
+    },
+    {
+      "word": "治安",
+      "reading": "ちあん",
+      "meaningZh": "治安",
+      "meaningEn": "public order, public safety",
+      "level": "n2n1",
+      "exampleSentence": "地域住民の協力により、治安は年々改善されている。",
+      "id": "603c0de1-f753-434f-9f05-0c1e2269f766"
+    },
+    {
+      "word": "講じられている",
+      "reading": "こうじられている",
+      "meaningZh": "采取（措施）",
+      "meaningEn": "to take (measures)",
+      "level": "n2n1",
+      "exampleSentence": "事故防止のために、様々な安全対策が講じられている。",
+      "id": "28d1cb1f-ef42-4df1-98be-6635ad5b4e2e"
+    },
+    {
+      "word": "波及",
+      "reading": "はきゅう",
+      "meaningZh": "波及，扩散",
+      "meaningEn": "spread, repercussion",
+      "level": "n2n1",
+      "exampleSentence": "そのニュースは、経済全体に大きな波及効果をもたらした。",
+      "id": "01243d93-f0e2-4a03-8125-c214adcf6d74"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この図書館の夜間営業実験の主な目的は何ですか？",
+      "options": [
+        "図書館の利用者を増やすこと",
+        "図書館の職員を増やすこと",
+        "夜間でも利用できる機会を提供すること",
+        "図書館の建物を新しくすること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「この実験は、仕事や学業で日中図書館を利用できない人々にも読書や学習の機会を提供することを目的としている。」と記載されています。",
+      "id": "aab997f1-dd8b-4eff-b532-5154c0afdf69"
+    },
+    {
+      "question": "夜間営業の導入に伴う懸念事項として、本文では何が挙げられていますか？",
+      "options": [
+        "利用者のマナー低下と職員の疲労",
+        "設備投資の増加と利用者の減少",
+        "治安維持と職員の負担増",
+        "周辺地域への騒音問題と交通渋滞"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「治安維持や職員の負担増といった課題も指摘されている。」と記載されています。",
+      "id": "804a6a68-f3c5-4d8f-bbe6-e57555ac52ef"
+    },
+    {
+      "question": "夜間営業実験の結果次第では、どのようなことが期待されていますか？",
+      "options": [
+        "全国の図書館で夜間営業が標準化されること",
+        "図書館の運営費が大幅に削減されること",
+        "地域住民の図書館利用率が二倍になること",
+        "図書館の蔵書が大幅に増加すること"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文第三段に「今回の夜間営業実験は、図書館が地域住民にとってより身近で利用しやすい存在となるための重要な一歩と捉えられている。実験の結果次第では、全国の公立図書館への波及も考えられるため」と記載されています。",
+      "id": "211d4bab-987c-484e-b1a9-5cf32507d5dd"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-01-34bc6199db",
+  "publishedAt": "2026-10-01T06:00:00+09:00"
+}

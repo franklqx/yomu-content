@@ -1,0 +1,114 @@
+{
+  "title": "図書館の夜、開いています！",
+  "summary": "ある図書館で夜も開けるように実験が始まりました。もっと多くの人が図書館を使えるようになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある公立図書館で面白い実験が始まりました。それは、夜にも図書館を開けるようにするという実験です。いつもは午後5時か6時に閉まる図書館ですが、この実験では夜遅くまで開いています。例えば、夜の8時まで開いている日もあります。",
+      "translationZh": "最近，一个公共图书馆开始了一项有趣的实验。那就是，在晚上也能开放图书馆的实验。平时下午5点或6点就关门的图书馆，这次实验会开到很晚。例如，有些日子会开到晚上8点。",
+      "translationEn": "Recently, an interesting experiment started at a public library. It is an experiment to open the library at night as well. The library usually closes at 5 or 6 PM, but it will be open late at night during this experiment. For example, some days it is open until 8 PM.",
+      "id": "579556c3-5e19-4df2-a2ab-28409e574acc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験の目的は、もっと多くの人に図書館を利用してもらうことです。仕事が終わってから図書館に来たい人や、学校が終わってから勉強したい学生もいます。夜遅くまで開いていると、そういう人たちも本を読んだり、勉強したりする時間ができます。",
+      "translationZh": "这项实验的目的是让更多人利用图书馆。有下班后想来图书馆的人，也有放学后想学习的学生。如果开到很晚，这些人也能有时间读书或学习。",
+      "translationEn": "The purpose of this experiment is to allow more people to use the library. There are people who want to come to the library after work, and students who want to study after school. If it is open late at night, these people will have time to read books or study.",
+      "id": "6ceb29a9-d135-487c-9ddf-7bf62954208f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験はまだ始まったばかりです。図書館の人は、みんながこの新しいサービスをどう思うか見ています。もし評判が良ければ、他の図書館でも夜間営業が広がるかもしれません。夜の図書館は、新しい発見があるかもしれませんね。",
+      "translationZh": "这项实验才刚刚开始。图书馆的人们正在观察大家对这项新服务的看法。如果评价好，其他图书馆也可能推广夜间营业。晚上的图书馆，也许会有新的发现呢。",
+      "translationEn": "This experiment has just begun. The library staff are observing how everyone feels about this new service. If the reviews are good, nighttime operations may spread to other libraries as well. A library at night might offer new discoveries.",
+      "id": "5375d0ea-c70d-4678-8a81-bb759927e9f6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "公立図書館",
+      "reading": "こうりつとしょかん",
+      "meaningZh": "公共图书馆",
+      "meaningEn": "public library",
+      "level": "n5n4",
+      "exampleSentence": "公立図書館で本を借りました。",
+      "id": "08484313-609f-41c8-8b04-0f0c1c59b025"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい方法の実験をしました。",
+      "id": "04bf0b7a-6e5f-4324-a982-b4aebf8e3005"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用，使用",
+      "meaningEn": "use, utilize",
+      "level": "n5n4",
+      "exampleSentence": "この部屋は会議に利用できます。",
+      "id": "0cf4989c-cb3e-4504-906e-63c41285d0ac"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningZh": "目的",
+      "meaningEn": "purpose, objective",
+      "level": "n5n4",
+      "exampleSentence": "この勉強の目的は何ですか。",
+      "id": "794cbd99-7604-4def-a49d-46835730c461"
+    },
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaningZh": "评价，名声",
+      "meaningEn": "reputation, review",
+      "level": "n3",
+      "exampleSentence": "新しいレストランの評判がいいです。",
+      "id": "cc4c2995-635c-41b5-8af9-f67dc1d08d7b"
+    },
+    {
+      "word": "遅くまで",
+      "reading": "おそくまで",
+      "meaningZh": "到很晚",
+      "meaningEn": "until late",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも遅くまで働いています。",
+      "id": "c13a6111-ae62-4a50-a4dc-ad856e9eb83b"
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "扩散，推广",
+      "meaningEn": "spread, expand",
+      "level": "n3",
+      "exampleSentence": "このニュースはすぐに広まりました。",
+      "id": "c3d233aa-1405-4772-b96e-e14c0ba5eaa2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この実験は何のために行われていますか。",
+      "options": [
+        "図書館を新しくするため",
+        "もっと多くの人に図書館を使ってもらうため",
+        "図書館員を増やすため",
+        "本を安く売るため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「この実験の目的は、もっと多くの人に図書館を利用してもらうことです。」と書いてあります。",
+      "id": "411e6ad4-8813-4145-bfd5-b6aa67f84aca"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-01-34bc6199db",
+  "publishedAt": "2026-10-01T06:00:00+09:00"
+}

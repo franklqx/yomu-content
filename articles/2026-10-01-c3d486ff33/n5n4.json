@@ -1,0 +1,122 @@
+{
+  "title": "北海道の冬！雪まつり！",
+  "summary": "冬の北海道はとてもきれいです。特に雪まつりの時期は、たくさんの人が北海道に来ます。ホテルがすぐいっぱいになります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬の北海道は、とてもきれいです。さっぽろ雪まつりは、有名なお祭りです。世界中からたくさんの人が見に来ます。この時期、北海道のホテルはとても人気があります。",
+      "translationZh": "冬天的北海道非常美丽。札幌雪祭是一个著名的节日。来自世界各地的人们都来观看。这段时间，北海道的酒店非常受欢迎。",
+      "translationEn": "Winter in Hokkaido is very beautiful. The Sapporo Snow Festival is a famous festival. Many people come from all over the world to see it. During this time, hotels in Hokkaido are very popular.",
+      "id": "221637ba-9c0d-4848-9890-ad52c01fbe0e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりの期間中は、ホテルを予約するのがむずかしいです。特に札幌の近くのホテルは、早くなくなります。旅行に行く前に、早めにホテルを予約することが大切です。",
+      "translationZh": "在雪祭期间，预订酒店很困难。特别是札幌附近的酒店，很快就会被订满。在去旅行之前，尽早预订酒店很重要。",
+      "translationEn": "During the Snow Festival period, it is difficult to book a hotel. Hotels near Sapporo, in particular, are booked up quickly. It is important to book your hotel early before you travel.",
+      "id": "d7fc94ab-0486-4685-b1f8-d5b4acb3a079",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もしホテルが取れなかったら、どうすればいいですか？近くの町や、新千歳空港の近くに泊まることもできます。電車やバスで札幌に行くことができます。",
+      "translationZh": "如果订不到酒店怎么办？也可以住在附近的城镇，或者新千岁机场附近。可以坐电车或巴士去札幌。",
+      "translationEn": "What if you cannot get a hotel? You can also stay in nearby towns, or near New Chitose Airport. You can go to Sapporo by train or bus.",
+      "id": "2f6312f4-6350-415a-a297-07d4459eadce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "北海道の冬は寒いです。でも、雪や氷の彫刻はとてもきれいです。雪まつりは、冬の北海道の大きなイベントです。たくさんの思い出が作れるでしょう。",
+      "translationZh": "北海道的冬天很冷。但是，雪雕和冰雕非常漂亮。雪祭是北海道冬天的大型活动。你们一定能创造很多美好的回忆。",
+      "translationEn": "Hokkaido's winter is cold. However, the snow and ice sculptures are very beautiful. The Snow Festival is a big winter event in Hokkaido. You will surely be able to make many memories.",
+      "id": "19ab75e6-e001-4e41-b90a-20b7b249df53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "305515c8-9089-47d6-b862-0fb9a718b4e7"
+    },
+    {
+      "word": "雪まつり",
+      "reading": "ゆきまつり",
+      "meaningZh": "雪祭",
+      "meaningEn": "snow festival",
+      "level": "n5n4",
+      "exampleSentence": "さっぽろ雪まつりに行きました。",
+      "id": "a79c84b0-3dc8-42ba-aff2-a332848b83e3"
+    },
+    {
+      "word": "期間中",
+      "reading": "きかんちゅう",
+      "meaningZh": "期间",
+      "meaningEn": "during the period",
+      "level": "n5n4",
+      "exampleSentence": "お祭りの期間中は人が多いです。",
+      "id": "d809d568-ae4f-4210-a7cd-f3b1379429c1"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "ホテルの予約をしました。",
+      "id": "6b601342-af6c-4116-8644-fe526cfc515c"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "44abf840-7416-4b8a-a7d6-4cadcb21ad5e"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "健康は大切です。",
+      "id": "b09764ab-c47e-4704-a64f-fb22c0883412"
+    },
+    {
+      "word": "彫刻",
+      "reading": "ちょうこく",
+      "meaningZh": "雕刻",
+      "meaningEn": "sculpture",
+      "level": "n3",
+      "exampleSentence": "雪の彫刻がきれいです。",
+      "id": "e0fd99d4-2cca-49af-b854-200c98b5ecc9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつりの期間中、ホテルを予約するのはなぜむずかしいですか？",
+      "options": [
+        "ホテルが少ないからです。",
+        "たくさんの人が北海道に来るからです。",
+        "ホテルが高いからです。",
+        "天気が悪いからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「世界中からたくさんの人が見に来ます。この時期、北海道のホテルはとても人気があります。」と書いてあります。",
+      "id": "b9cbd55b-8570-49ff-a1de-aea421fe9651"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-01-c3d486ff33",
+  "publishedAt": "2026-10-01T06:00:00+09:00"
+}

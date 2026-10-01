@@ -1,0 +1,114 @@
+{
+  "title": "ドローンが荷物を運ぶ！",
+  "summary": "最近、ドローンで荷物を運ぶ実験が始まりました。これはとても新しい技術です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "空を飛ぶ小さな機械があります。これはドローンです。最近、このドローンを使って、物を運ぶ実験をしています。例えば、山や島のような、車で行くのが難しい場所に物を届けます。",
+      "translationZh": "有一种在天上飞的小机器。这就是无人机。最近，我们正在用无人机进行运送物品的实验。例如，将物品运送到山区或岛屿等汽车难以到达的地方。",
+      "translationEn": "There is a small machine that flies in the sky. This is a drone. Recently, experiments have been conducted using these drones to deliver items. For example, items are delivered to places that are difficult to reach by car, such as mountains and islands.",
+      "id": "0603ba14-8bdc-41ba-91a6-9aa7ba7f41ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、まだ始まったばかりです。でも、将来、私たちの生活がもっと便利になるかもしれません。例えば、急いで薬が必要な時、ドローンがすぐに届けてくれるかもしれません。",
+      "translationZh": "这个实验才刚刚开始。但是，将来，我们的生活可能会变得更加便利。例如，当您急需药物时，无人机可能会很快送达。",
+      "translationEn": "This experiment has just begun. However, in the future, our lives may become more convenient. For example, when medicine is needed urgently, a drone might deliver it quickly.",
+      "id": "747223d1-b50c-495c-91ec-edbab007a5dc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローンで物を運ぶには、まだいろいろな問題があります。例えば、天気が悪い時や、遠くまで運ぶのは難しいです。でも、技術はどんどん進んでいます。これからも、ドローンが活躍する場面が増えるでしょう。",
+      "translationZh": "用无人机运送物品还有很多问题。例如，天气不好时或运送远距离的东西都很困难。但是，技术在不断进步。今后，无人机能够发挥作用的场合会越来越多。",
+      "translationEn": "There are still various challenges in delivering items by drone. For example, it is difficult to operate when the weather is bad or to deliver to distant locations. However, technology is advancing rapidly. The situations where drones are active will likely increase in the future.",
+      "id": "86b26c50-23f9-4dae-8a9c-7db1633194d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンが空を飛んでいます。",
+      "id": "a2017638-c8e1-43bd-917e-61b23eab3ae3"
+    },
+    {
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaningZh": "行李，货物",
+      "meaningEn": "luggage, baggage, cargo",
+      "level": "n5n4",
+      "exampleSentence": "大きな荷物を持っています。",
+      "id": "6a112584-13af-4ced-be41-77f0b5832065"
+    },
+    {
+      "word": "運ぶ",
+      "reading": "はこぶ",
+      "meaningZh": "搬运，运输",
+      "meaningEn": "to carry, to transport",
+      "level": "n5n4",
+      "exampleSentence": "この箱を部屋に運びましょう。",
+      "id": "79968a1e-2914-47c8-8bb0-6291d9bf26de"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "79004a9f-74be-4d69-9394-50d074f109f9"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, technique",
+      "level": "n3",
+      "exampleSentence": "この技術は素晴らしいです。",
+      "id": "3670862e-6766-49ae-bb6e-36d849327a46"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "076fc579-7f45-4f4f-a277-d2f002abef87"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaningZh": "需要，必要",
+      "meaningEn": "necessary, need",
+      "level": "n5n4",
+      "exampleSentence": "水が必要です。",
+      "id": "ae8eb18c-31b6-4e63-8657-056a255b72f9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実証実験は何のために行われていますか。",
+      "options": [
+        "新しいゲームを作るため",
+        "遠い場所や行きにくい場所に物を届けるため",
+        "空をきれいに掃除するため",
+        "ドローンを飛ばす練習のため"
+      ],
+      "correctIndex": 1,
+      "explanation": "例えば、山や島のような、車で行くのが難しい場所に物を届けます。",
+      "id": "a651e5a4-d71e-4e63-851f-c9c4089bbb94"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-01-236f9e90bb",
+  "publishedAt": "2026-10-01T06:00:00+09:00"
+}

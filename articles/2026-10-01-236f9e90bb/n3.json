@@ -1,0 +1,143 @@
+{
+  "title": "ドローン配送、未来の買い物体験を試す！",
+  "summary": "最近、ドローンを使った荷物配送の実証実験が行われました。これにより、私たちの買い物の仕方が変わるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、多くの場所でドローンを使った荷物配送の実験が行われています。この技術は、遠い地域や災害があった時でも、必要な物を早く届けることができると期待されています。例えば、山間部や離島など、交通が不便な地域では特に役立つでしょう。",
+      "translationZh": "最近，在许多地方都在进行使用无人机配送货物的实验。这项技术有望能够快速运送必需品，即使是在偏远地区或发生灾害时。例如，在山区或离岛等交通不便的地区，它可能会特别有用。",
+      "translationEn": "Recently, experiments using drones for package delivery have been conducted in many places. This technology is expected to be able to deliver necessary items quickly, even in remote areas or during disasters. For example, it would be particularly useful in areas where transportation is inconvenient, such as mountainous regions or remote islands.",
+      "id": "37eafbdb-75f4-4a35-862f-41beb5dae672",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験では、まず注文を受けた後、倉庫から商品をドローンに積み込みます。そして、GPSなどを使いながら、あらかじめ決められたルートを飛行して、指定された場所まで安全に荷物を届けます。空を飛ぶので、道路の渋滞などに影響されないという利点があります。",
+      "translationZh": "在实验中，首先在接到订单后，将商品从仓库装载到无人机上。然后，无人机会利用 GPS 等导航，沿着预先设定的路线飞行，将货物安全地运送到指定地点。由于它在空中飞行，因此不受道路拥堵等因素的影响。",
+      "translationEn": "In the experiment, after receiving an order, the product is loaded onto a drone from the warehouse. Then, using GPS and other navigation, the drone flies along a predetermined route to safely deliver the package to the designated location. Because it flies in the air, it has the advantage of not being affected by traffic congestion on roads.",
+      "id": "7e0e8a4d-626b-49da-9815-9892985566d6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、ドローン配送にはまだ課題もあります。例えば、天候が悪かったり、バッテリーの持ち時間、そして安全な着陸場所の確保などが挙げられます。また、プライバシーの問題や、騒音に対する懸念の声もありますので、これらも解決していく必要があります。",
+      "translationZh": "但是，无人机配送仍然存在一些挑战。例如，天气不好、电池续航时间以及确保安全的着陆点等问题。此外，还有关于隐私问题和噪音的担忧，这些也需要得到解决。",
+      "translationEn": "However, there are still challenges with drone delivery. For instance, bad weather, battery life, and securing safe landing spots are among them. Furthermore, there are concerns about privacy issues and noise, which also need to be addressed.",
+      "id": "c37ca9e6-9255-4e2d-ac4a-69bac00420cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "それでも、技術が進歩すれば、将来的には、インターネットで注文したものが数十分で届く、そんな便利な生活が実現するかもしれません。ドローン配送は、私たちの生活をより豊かにする可能性を秘めていると言えるでしょう。",
+      "translationZh": "尽管如此，随着技术的进步，将来我们可能会实现一种便利的生活，即网上订购的商品在几十分钟内就能送达。可以说，无人机配送蕴藏着使我们的生活更加丰富的可能性。",
+      "translationEn": "Nevertheless, as technology advances, in the future, we might realize a convenient lifestyle where items ordered online can be delivered within tens of minutes. It can be said that drone delivery holds the potential to enrich our lives.",
+      "id": "5567b4ac-73dc-43da-a3ce-57ce95577d10",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n3",
+      "exampleSentence": "最近、ドローンで荷物を運ぶ実験が盛んです。",
+      "id": "0b89bbc1-04ff-4040-9380-24a45da6f63b"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n3",
+      "exampleSentence": "この会社は迅速な配送で有名です。",
+      "id": "b1e515af-01bb-4fb7-8712-3aacf7b1c204"
+    },
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "验证实验，实证实验",
+      "meaningEn": "demonstration experiment, pilot project",
+      "level": "n3",
+      "exampleSentence": "新しいシステムの効果を実証実験で確認しました。",
+      "id": "ef2b669d-668d-4416-9673-6c7cab69f6f3"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待，期望",
+      "meaningEn": "expectation, hope",
+      "level": "n3",
+      "exampleSentence": "新しい技術の発展が期待されています。",
+      "id": "0b4b86e1-3dbe-45f0-8bf5-624ffe291684"
+    },
+    {
+      "word": "不便",
+      "reading": "ふべん",
+      "meaningZh": "不方便",
+      "meaningEn": "inconvenience",
+      "level": "n5n4",
+      "exampleSentence": "交通が不便な場所に行くのは大変です。",
+      "id": "b094abd8-7b8d-4af1-bfe3-832dac853584"
+    },
+    {
+      "word": "渋滞",
+      "reading": "じゅうたい",
+      "meaningZh": "拥堵，堵车",
+      "meaningEn": "traffic jam, congestion",
+      "level": "n3",
+      "exampleSentence": "朝のラッシュアワーは道路が渋滞します。",
+      "id": "1823efdd-5673-43f0-9e52-712b842ea60f"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "challenge, issue, problem",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには多くの課題があります。",
+      "id": "524a8a72-8302-4549-a478-49053ec30c46"
+    },
+    {
+      "word": "懸念",
+      "reading": "けねん",
+      "meaningZh": "担忧，担心",
+      "meaningEn": "concern, worry",
+      "level": "n3",
+      "exampleSentence": "安全に対する懸念の声が上がっています。",
+      "id": "6953a253-3eac-4369-9587-2809d3cc1786"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実証実験が行われている理由は何ですか？",
+      "options": [
+        "もっと多くの人にドローンを買ってもらうため",
+        "災害時や交通が不便な地域で、物を早く届けるため",
+        "ドローンレースを始めるため",
+        "新しいゲームを開発するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の「この技術は、遠い地域や災害があった時でも、必要な物を早く届けることができると期待されています。」という部分からわかります。",
+      "id": "b5c671a9-7c96-4587-8baa-16a73897b851"
+    },
+    {
+      "question": "ドローン配送の利点として、本文で述べられていることは何ですか？",
+      "options": [
+        "天候に左右されず、いつでも配送できること",
+        "バッテリーの持ち時間が非常に長いこと",
+        "道路の渋滞の影響を受けないこと",
+        "プライバシーが完全に保護されること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の「空を飛ぶので、道路の渋滞などに影響されないという利点があります。」という部分で説明されています。",
+      "id": "61558a45-8469-4779-8a8a-5ef4ac119617"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-01-236f9e90bb",
+  "publishedAt": "2026-10-01T06:00:00+09:00"
+}
