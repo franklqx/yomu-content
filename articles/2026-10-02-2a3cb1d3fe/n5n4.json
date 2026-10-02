@@ -1,0 +1,131 @@
+{
+  "title": "新しいアニメが始まりました！",
+  "summary": "新しいアニメの放送が始まりました。どんな工夫があったか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "今週、新しいアニメの第一話が放送されました。多くの人がこのアニメを楽しみにしていました。私も見ました。とても面白かったです。",
+      "translationZh": "本周，新的动画第一集播出了。很多人都在期待这部动画。我也看了。非常有趣。",
+      "translationEn": "This week, the first episode of a new anime was broadcast. Many people were looking forward to this anime. I watched it too. It was very interesting.",
+      "id": "eaeb82e4-2142-4bbf-92c8-a72e9bcaf85b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このアニメは、放送前からSNSで話題になっていました。特別なPVを公開したり、声優さんのインタビューを流したりしていました。だから、たくさんの人が放送日を知っていました。",
+      "translationZh": "这部动画在播出前就在社交媒体上引起了话题。他们公开了特别的PV，也播放了声优的采访。所以，很多人都知道播出日期。",
+      "translationEn": "This anime was already a topic of conversation on social media before its broadcast. They released special PVs and broadcast interviews with the voice actors. Because of this, many people knew the broadcast date.",
+      "id": "f0bb280d-6f04-415f-80e9-276151dd3ef9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "第一話は、キャラクターや物語の始まりがよく分かりました。絵もきれいで、音楽も良かったです。これからどうなるか、もっと知りたくなりました。",
+      "translationZh": "第一集清楚地介绍了角色和故事的开端。画面也很漂亮，音乐也很棒。我想知道接下来会发生什么，变得更加好奇了。",
+      "translationEn": "The first episode clearly explained the characters and the beginning of the story. The animation was beautiful, and the music was good too. I became more curious about what will happen next.",
+      "id": "c98d3a28-313b-4777-a3b7-e1f68bcc846c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、このアニメの新しい情報に注目したいと思います。友達にも「見た？」と聞いてみようと思います。",
+      "translationZh": "今后，我也想关注这部动画的新信息。我也会问朋友“看了吗？”。",
+      "translationEn": "From now on, I want to pay attention to new information about this anime. I will also ask my friends, 'Did you watch it?'",
+      "id": "6b82b2f6-1131-40a7-8a63-f640fa7911df",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "新しい本を読みました。",
+      "id": "4aeebe8c-0452-4ad7-8385-82279d3ef33c"
+    },
+    {
+      "word": "アニメ",
+      "reading": "アニメ",
+      "meaningZh": "动画",
+      "meaningEn": "anime",
+      "level": "n5n4",
+      "exampleSentence": "このアニメが好きです。",
+      "id": "89ff28f1-d386-4d06-a598-0ba6110ccef4"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaningZh": "播出",
+      "meaningEn": "broadcast",
+      "level": "n5n4",
+      "exampleSentence": "テレビで放送されました。",
+      "id": "fea85ab4-9bf4-4961-87b9-bd7e8a2511f4"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaningZh": "话题",
+      "meaningEn": "topic of conversation",
+      "level": "n5n4",
+      "exampleSentence": "みんなの話題になっています。",
+      "id": "f138abfc-0edc-4480-a411-0bc87303e4a7"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "改进；巧妙的办法",
+      "meaningEn": "device; ingenuity; effort",
+      "level": "n3",
+      "exampleSentence": "この料理は工夫されています。",
+      "id": "775379ee-cc32-4793-a552-ad0502ba9818"
+    },
+    {
+      "word": "公開",
+      "reading": "こうかい",
+      "meaningZh": "公开",
+      "meaningEn": "public release; open to the public",
+      "level": "n3",
+      "exampleSentence": "映画が公開されました。",
+      "id": "6c0716a4-d924-4106-ad2b-c6da09642feb"
+    },
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "配音演员",
+      "meaningEn": "voice actor/actress",
+      "level": "n3",
+      "exampleSentence": "あの声優が大好きです。",
+      "id": "90391afe-eb77-444a-b78c-3a68ea0e8242"
+    },
+    {
+      "word": "物語",
+      "reading": "ものがたり",
+      "meaningZh": "故事",
+      "meaningEn": "story; tale",
+      "level": "n5n4",
+      "exampleSentence": "面白い物語を読んだ。",
+      "id": "1fbe095e-7c49-4631-a25c-3bfcd3b7580b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このアニメは、放送前にどんなことをしていましたか？",
+      "options": [
+        "特別なPVを公開して、声優さんのインタビューを流していました。",
+        "ゲームを発売しました。",
+        "イベントを開きました。",
+        "漫画を完結させました。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文に「このアニメは、放送前からSNSで話題になっていました。特別なPVを公開したり、声優さんのインタビューを流したりしていました。」と書いてあります。",
+      "id": "3db067ca-528a-441f-a241-d2a8dcbd521d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-02-2a3cb1d3fe",
+  "publishedAt": "2026-10-02T06:00:00+09:00"
+}

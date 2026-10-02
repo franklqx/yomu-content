@@ -1,0 +1,131 @@
+{
+  "title": "コンビニの新しいお菓子！",
+  "summary": "コンビニに新しいお菓子がたくさん出ました。おいしいお菓子を試してみましょう！",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "コンビニには、新しいお菓子がたくさんあります。チョコレート、ケーキ、アイスクリームなど、いろいろな種類があります。どれもおいしそうです。",
+      "translationZh": "便利店里有很多新出的点心。有巧克力、蛋糕、冰淇淋等各种各样的种类。看起来都很好吃。",
+      "translationEn": "There are many new sweets at convenience stores. There are various kinds, such as chocolate, cake, and ice cream. They all look delicious.",
+      "id": "0d1cffe2-9116-4294-8a2c-3d16f3042c42",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この前、新しいチョコレートを買いました。パッケージがとてもきれいです。味も甘くて、おいしかったです。友達にもすすめました。",
+      "translationZh": "前几天，我买了一个新出的巧克力。包装很漂亮。味道也很甜，很好吃。我还推荐给了朋友。",
+      "translationEn": "The other day, I bought a new chocolate. The packaging is very beautiful. The taste was sweet and delicious. I recommended it to my friends too.",
+      "id": "719b1f3b-7a38-42e5-a7ca-577e8d7cf52f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "来週も新しいお菓子が出るそうです。今度はどんなお菓子か楽しみです。皆さんもコンビニに行ってみてください。",
+      "translationZh": "听说下周也会有新点心出来。我很期待这次会是什么点心。大家也请去便利店试试看。",
+      "translationEn": "I heard that new sweets will be released next week too. I am looking forward to what kind of sweets they will be this time. Everyone, please try going to the convenience store.",
+      "id": "2e1049e9-9a3f-41ed-a6ab-4bd1ceb8424f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "コンビニのお菓子は、手軽に買えるのがいいですね。仕事の後や、休みの日に、甘いものを食べると元気が出ます。",
+      "translationZh": "便利店的点心方便购买这一点很好。工作结束后或者休息日，吃点甜的东西会让人充满活力。",
+      "translationEn": "It's good that convenience store sweets are easy to buy. Eating something sweet after work or on a day off makes you feel energetic.",
+      "id": "6653796d-a099-453b-afd3-518f2c0b7fa5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "コンビニ",
+      "reading": "こんびに",
+      "meaningZh": "便利店",
+      "meaningEn": "convenience store",
+      "level": "n5n4",
+      "exampleSentence": "コンビニで水を買いました。",
+      "id": "e985638b-a469-4c33-a805-09aaab0c6fb1"
+    },
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaningZh": "新的",
+      "meaningEn": "new",
+      "level": "n5n4",
+      "exampleSentence": "これは新しい本です。",
+      "id": "c85b8382-79eb-4444-8dfa-effb7f074a14"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaningZh": "点心，零食",
+      "meaningEn": "sweets, snacks",
+      "level": "n5n4",
+      "exampleSentence": "子供がお菓子をたくさん食べました。",
+      "id": "ff897c10-0e9f-4cdd-b4f8-cb289c748c50"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, type",
+      "level": "n5n4",
+      "exampleSentence": "この店にはいろいろな種類のパンがあります。",
+      "id": "894a060b-f19d-4efa-85b4-508fbd15d880"
+    },
+    {
+      "word": "おいしい",
+      "reading": "おいしい",
+      "meaningZh": "好吃的",
+      "meaningEn": "delicious",
+      "level": "n5n4",
+      "exampleSentence": "このラーメンはおいしいです。",
+      "id": "f65af6bb-3fa3-4081-90be-222adcd3463b"
+    },
+    {
+      "word": "買いました",
+      "reading": "かいました",
+      "meaningZh": "买了 (买的过去式)",
+      "meaningEn": "bought (past tense of buy)",
+      "level": "n5n4",
+      "exampleSentence": "昨日、新しい靴を買いました。",
+      "id": "1de17032-6ac3-4439-9a29-d5ebe040ec24"
+    },
+    {
+      "word": "楽しみ",
+      "reading": "たのしみ",
+      "meaningZh": "期待，高兴",
+      "meaningEn": "looking forward to, enjoyment",
+      "level": "n5n4",
+      "exampleSentence": "旅行が楽しみです。",
+      "id": "0f3163d3-9240-4f16-8abe-5c75e2c3fc75"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精神，活力",
+      "meaningEn": "energy, spirit",
+      "level": "n5n4",
+      "exampleSentence": "病気でしたが、元気になりました。",
+      "id": "fb6ada71-ed66-4fad-915a-1847d7a53e30"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コンビニに新しいお菓子が少ないですか？",
+      "options": [
+        "はい、少ないです。",
+        "いいえ、たくさんあります。",
+        "いいえ、少しだけです。",
+        "わかりません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「コンビニには、新しいお菓子がたくさんあります。」と書いてあります。",
+      "id": "ad140dfc-61f3-488e-8ee1-92d62cb5e5a9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-02-2caae4166c",
+  "publishedAt": "2026-10-02T06:00:00+09:00"
+}

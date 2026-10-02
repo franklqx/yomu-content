@@ -1,0 +1,122 @@
+{
+  "title": "春が来た！桜の町へ",
+  "summary": "春は桜の季節です。桜がきれいに咲く町へ行きませんか？そこには、桜だけではない、たくさんの見どころがあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春になりました。たくさんの町で桜がきれいに咲き始めました。特に、小さな町は桜がとてもきれいです。静かで、ゆっくり桜を見ることができます。",
+      "translationZh": "春天来了。许多城镇的樱花开始美丽地绽放。特别是小城镇，樱花非常漂亮。那里很安静，可以悠闲地欣赏樱花。",
+      "translationEn": "Spring has come. Cherry blossoms have begun to bloom beautifully in many towns. Small towns, in particular, have very beautiful cherry blossoms. It is quiet, and you can slowly enjoy the cherry blossoms.",
+      "id": "20acb1f1-7a12-412f-859c-8ee74e05411a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ある町では、川沿いに桜がたくさん植えられています。春になると、川の両側がピンク色になります。歩いて散歩するのも、自転車に乗るのも気持ちがいいです。写真もたくさん撮れます。",
+      "translationZh": "在一个城镇里，河边种着许多樱花。到了春天，河的两岸都会变成粉红色。步行散步或骑自行车感觉都很棒。你还可以拍很多照片。",
+      "translationEn": "In one town, many cherry trees are planted along the river. In spring, both sides of the river turn pink. It feels good to walk or ride a bicycle. You can also take many photos.",
+      "id": "24e1dafa-c809-44df-8dbc-6bb12892ff8b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "桜の近くには、古いお寺や神社もあります。静かな場所で、日本の歴史を感じることができます。お寺の庭もきれいです。桜と一緒にお寺を見るのは、とてもいい経験です。",
+      "translationZh": "樱花附近还有古老寺庙和神社。在宁静的地方，你可以感受到日本的历史。寺庙的庭院也很漂亮。与樱花一起参观寺庙是一次非常好的体验。",
+      "translationEn": "Near the cherry blossoms, there are also old temples and shrines. In a quiet place, you can feel Japanese history. The temple gardens are also beautiful. Seeing the temple together with the cherry blossoms is a very good experience.",
+      "id": "0e2b0d75-260a-45c5-acae-3c7509304307",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人々はとても親切です。おいしい地元の食べ物もたくさんあります。春の旅行に、桜の町へぜひ来てください。きっと楽しい思い出ができますよ。",
+      "translationZh": "镇上的人们非常亲切。还有很多美味的当地食物。请一定要在春季旅行时，来樱花小镇看看。一定会留下美好的回忆。",
+      "translationEn": "The townspeople are very kind. There are also many delicious local foods. Please be sure to visit the cherry blossom town for your spring trip. You will surely make happy memories.",
+      "id": "a65332f0-cbf9-4da4-9a0a-b03aba5016e8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "春は桜の季節です。",
+      "id": "bf58c623-d6d6-42f4-b576-1dd1cd800c76"
+    },
+    {
+      "word": "見どころ",
+      "reading": "みどころ",
+      "meaningZh": "看点，值得看的地方",
+      "meaningEn": "point of interest, highlights",
+      "level": "n5n4",
+      "exampleSentence": "この町はたくさんの見どころがあります。",
+      "id": "d07f7d24-61ee-4db5-9e4d-44e5b7fde4fd"
+    },
+    {
+      "word": "川沿い",
+      "reading": "かわぞい",
+      "meaningZh": "河边",
+      "meaningEn": "along the river",
+      "level": "n5n4",
+      "exampleSentence": "川沿いを散歩しました。",
+      "id": "dfd1d239-a61d-46ab-8b26-472240f6af50"
+    },
+    {
+      "word": "植える",
+      "reading": "うえる",
+      "meaningZh": "种植",
+      "meaningEn": "to plant",
+      "level": "n5n4",
+      "exampleSentence": "木を植えました。",
+      "id": "d0846e04-39c0-4bbf-aa87-24f1b88a1e7c"
+    },
+    {
+      "word": "歴史",
+      "reading": "れきし",
+      "meaningZh": "历史",
+      "meaningEn": "history",
+      "level": "n5n4",
+      "exampleSentence": "日本の歴史が好きです。",
+      "id": "d3600cd2-2ae6-4814-a75f-ef5aaf05b941"
+    },
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaningZh": "亲切，好心",
+      "meaningEn": "kind, helpful",
+      "level": "n5n4",
+      "exampleSentence": "店員さんは親切でした。",
+      "id": "0b267c98-f875-42cf-871e-379597bca1d4"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆，纪念",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "いい思い出ができました。",
+      "id": "0529e3d4-f741-46ed-9f81-bbf154da34f3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "川沿いの桜はどんな色になりますか？",
+      "options": [
+        "白くなります",
+        "黄色くなります",
+        "ピンク色になります",
+        "赤くなります"
+      ],
+      "correctIndex": 2,
+      "explanation": "「春になると、川の両側がピンク色になります。」",
+      "id": "550e7229-50ae-4cdf-bcbb-e4a56de0fa93"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-02-dc0e4d5466",
+  "publishedAt": "2026-10-02T06:00:00+09:00"
+}

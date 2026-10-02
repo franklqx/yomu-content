@@ -1,0 +1,126 @@
+{
+  "title": "春爛漫！桜が満開の地方都市へお出かけしませんか？",
+  "summary": "桜の見頃が近づき、各地で美しい桜が咲き始めています。今回は、桜と合わせて楽しめる地方都市の見どころをご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "暖かい日が増え、いよいよ桜の季節がやってきました。今年の春は、都会の喧騒を離れて、のんびりとした地方都市で桜を楽しむのはいかがでしょうか。多くの地方都市では、地元の人が大切にしている桜の名所があり、その時期になると特別なイベントが開催されることもあります。だから、事前に情報を調べておくと、より一層楽しめるはずです。",
+      "translationZh": "温暖的日子渐渐增多，樱花季终于来了。今年春天，您不考虑远离城市的喧嚣，去悠闲的乡村城市享受樱花吗？许多地方城市都有当地人珍视的赏樱名所，到了那个时节有时还会举办特别的活动。所以，如果提前查好信息，应该能更加尽兴。",
+      "translationEn": "As the warm days increase, the cherry blossom season has finally arrived. This spring, why not escape the hustle and bustle of the city and enjoy the cherry blossoms in a leisurely local town? Many local towns have cherry blossom viewing spots cherished by the locals, and special events are sometimes held during that season. Therefore, if you research the information in advance, you will surely be able to enjoy it even more.",
+      "id": "6017e490-b927-41a2-8dab-05bce4a6d810",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、海沿いの小さな港町では、満開の桜並木の下を散歩しながら、新鮮な海の幸を味わうことができます。また、歴史的な街並みが残る場所では、古い建物と桜のコントラストが美しく、写真撮影にもぴったりです。桜を見ながら、その土地ならではの文化や食に触れるのは、旅の醍醐味と言えるでしょう。",
+      "translationZh": "例如，在海边的小港口城镇，您可以一边散步在盛开的樱花树下，一边品尝新鲜的海鲜。另外，在保留着历史街景的地方，古老建筑与樱花的对比非常美丽，也非常适合拍照。一边赏樱，一边接触当地特有的文化和美食，可以说是旅行的乐趣所在。",
+      "translationEn": "For example, in a small port town along the coast, you can enjoy fresh seafood while strolling under a row of cherry blossoms in full bloom. Also, in places where historical townscapes remain, the contrast between old buildings and cherry blossoms is beautiful, making it perfect for photography. Experiencing the unique culture and food of the region while admiring the cherry blossoms can be said to be the essence of travel.",
+      "id": "120c648e-3ceb-4809-920d-9ad4ce41f091",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "桜の開花時期は地域によって異なるため、旅行の計画を立てる際は、最新の開花情報を確認することが大切です。インターネットで「〇〇（地名） 桜 開花情報」と検索すれば、多くの情報が見つかるはずです。せっかくの桜の時期ですから、計画をしっかり立てて、素晴らしい春の思い出を作りましょう。",
+      "translationZh": "由于樱花的开花时期因地区而异，所以在计划旅行时，确认最新的开花信息非常重要。在网上搜索“〇〇（地名） 樱花 开花信息”，应该能找到很多信息。既然是难得的樱花季，就请好好计划，创造美好的春日回忆吧。",
+      "translationEn": "Since the blooming period of cherry blossoms varies by region, it is important to check the latest blooming information when planning your trip. If you search for \"XX (place name) cherry blossom blooming information\" on the internet, you should find a lot of information. Since it is the cherry blossom season, let's make a thorough plan and create wonderful spring memories.",
+      "id": "79592c0b-dedb-4fa3-a38f-4e2132cb5cdb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧闹，嘈杂",
+      "meaningEn": "clamor, bustle, noise",
+      "level": "n3",
+      "exampleSentence": "都会の喧騒から離れて静かに暮らしたい。",
+      "id": "604d42cf-875c-42f2-9b6e-b55650b71d6a"
+    },
+    {
+      "word": "のんびり",
+      "reading": "のんびり",
+      "meaningZh": "悠闲，从容，慢悠悠",
+      "meaningEn": "leisurely, relaxed, unhurried",
+      "level": "n3",
+      "exampleSentence": "休日はのんびり過ごすのが好きです。",
+      "id": "e2415399-04c7-47ad-ac67-c147589d1b26"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaningZh": "名胜，名地",
+      "meaningEn": "famous place, sight",
+      "level": "n3",
+      "exampleSentence": "京都には美しい名所がたくさんあります。",
+      "id": "c86182df-5aed-4f5e-8b80-863b3970bce6"
+    },
+    {
+      "word": "醍醐味",
+      "reading": "だいごみ",
+      "meaningZh": "真正乐趣，精华，绝妙之处",
+      "meaningEn": "the real pleasure, the essence, the best part",
+      "level": "n2n1",
+      "exampleSentence": "この料理の醍醐味は、新鮮な素材そのものの味です。",
+      "id": "7893f432-d8ee-43f2-80ef-e82ecdde6e4a"
+    },
+    {
+      "word": "コントラスト",
+      "reading": "コントラスト",
+      "meaningZh": "对比度，反差",
+      "meaningEn": "contrast",
+      "level": "n3",
+      "exampleSentence": "明るい色と暗い色のコントラストが美しい。",
+      "id": "71ae6141-5e2b-4571-a3f6-296ffb50db7d"
+    },
+    {
+      "word": "味わう",
+      "reading": "あじわう",
+      "meaningZh": "品尝，体会",
+      "meaningEn": "to taste, to savor, to appreciate",
+      "level": "n3",
+      "exampleSentence": "このワインの深い味わいをゆっくりと楽しんでください。",
+      "id": "756cd727-4e77-4419-9d90-09bfe05856da"
+    },
+    {
+      "word": "開花",
+      "reading": "かいか",
+      "meaningZh": "开花",
+      "meaningEn": "blooming, blossoming",
+      "level": "n3",
+      "exampleSentence": "今年の桜の開花は例年より早いようです。",
+      "id": "bb18df61-5438-4ad2-ab43-2fe90844f532"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方都市で桜を楽しむことの魅力は何ですか？",
+      "options": [
+        "都会の桜より本数が多いから",
+        "特別なイベントが開催されることがあるから",
+        "桜と合わせてその土地ならではの文化や食に触れられるから",
+        "新幹線で行きやすいから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「桜を見ながら、その土地ならではの文化や食に触れるのは、旅の醍醐味と言えるでしょう。」という記述から、桜と合わせてその土地ならではの文化や食に触れられることが魅力であることがわかります。",
+      "id": "567828d4-ec59-490b-b991-fb525b118a0b"
+    },
+    {
+      "question": "旅行の計画を立てる前に、何を調べるのが大切だと書かれていますか？",
+      "options": [
+        "現地の天気予報",
+        "桜の開花情報",
+        "交通手段",
+        "宿泊施設の空き状況"
+      ],
+      "correctIndex": 1,
+      "explanation": "「桜の開花時期は地域によって異なるため、旅行の計画を立てる際は、最新の開花情報を確認することが大切です。」という記述から、桜の開花情報が大切だとわかります。",
+      "id": "6b65977e-5383-40a9-9f6a-6ef64bdc630f"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-02-dc0e4d5466",
+  "publishedAt": "2026-10-02T06:00:00+09:00"
+}
