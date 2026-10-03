@@ -1,0 +1,131 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガのクリエイターになりたいですか？あなたの夢を応援する新しい奨学金ができました。ぜひ、調べてみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガが好きな学生は、たくさんいます。しかし、クリエイターになるための勉強は、お金がかかります。だから、大学や専門学校に行くのが難しい人もいます。",
+      "translationZh": "喜欢动画和漫画的学生有很多。但是，要成为创作者学习需要花钱。所以，有些人去大学或专门学校学习很困难。",
+      "translationEn": "There are many students who like anime and manga. However, studying to become a creator costs money. Therefore, it is difficult for some people to go to university or vocational school.",
+      "id": "26754e9e-af98-4b95-b5c7-b37816eadc86",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、新しい奨学金制度が始まりました。これは、クリエイターになりたい若い人を助けるための制度です。アニメ、マンガ、ゲームなどの分野で活躍したい学生が対象です。",
+      "translationZh": "因此，一项新的奖学金制度开始了。这是一个帮助想成为创作者的年轻人的制度。对象是想在动画、漫画、游戏等领域活跃的学生。",
+      "translationEn": "Therefore, a new scholarship system has started. This is a system to help young people who want to become creators. It is for students who want to be active in fields such as anime, manga, and games.",
+      "id": "e2bf0d1c-fb4b-416f-894f-1bc08650725b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金をもらうと、学費の心配が少なくなります。そして、もっと勉強に集中できるようになります。夢を叶えるための、大きなチャンスです。",
+      "translationZh": "获得这个奖学金，学费的担心就会减少。然后，可以更集中于学习。这是实现梦想的巨大机会。",
+      "translationEn": "With this scholarship, worries about tuition fees will decrease. And you will be able to concentrate more on your studies. It is a great chance to fulfill your dreams.",
+      "id": "0b107a4f-a792-4428-94b7-e6fed462a1c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募の方法や条件は、ウェブサイトで確認できます。興味がある人は、ぜひ一度見てみてください。あなたの夢が、この制度で応援されるかもしれません。",
+      "translationZh": "申请方法和条件可以在网站上确认。有兴趣的人，请务必看一次。你的梦想，或许会因为这个制度得到支持。",
+      "translationEn": "The application method and conditions can be checked on the website. If you are interested, please take a look. Your dream may be supported by this system.",
+      "id": "d4e1fd3c-ea0b-42a9-853a-a089ce7f2a02",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なマンガのクリエイターです。",
+      "id": "be71dd39-9c30-4b6d-b42d-35f19a7fd848"
+    },
+    {
+      "word": "奨学金制度",
+      "reading": "しょうがくきんせいど",
+      "meaningZh": "奖学金制度",
+      "meaningEn": "scholarship system",
+      "level": "n5n4",
+      "exampleSentence": "この奨学金制度は、成績の良い学生を応援します。",
+      "id": "59f35352-cf06-4ac6-af28-6d4b39c30985"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaningZh": "领域；范围",
+      "meaningEn": "field; area",
+      "level": "n5n4",
+      "exampleSentence": "彼は科学の分野で有名です。",
+      "id": "a98fccaa-ceed-42e8-9e69-22c1500c3b38"
+    },
+    {
+      "word": "学費",
+      "reading": "がくひ",
+      "meaningZh": "学费",
+      "meaningEn": "tuition fee",
+      "level": "n5n4",
+      "exampleSentence": "学費を払うために、アルバイトをしています。",
+      "id": "b6b60718-a14a-4e56-b309-07dc19434257"
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaningZh": "担心；担忧",
+      "meaningEn": "worry; concern",
+      "level": "n5n4",
+      "exampleSentence": "お金の心配があります。",
+      "id": "86f1eb87-22f6-4082-9bc0-1d6bc0b9d9b5"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaningZh": "集中",
+      "meaningEn": "concentration; focus",
+      "level": "n5n4",
+      "exampleSentence": "勉強に集中してください。",
+      "id": "307c7303-97b8-4f93-8276-f741989eebbd"
+    },
+    {
+      "word": "叶う",
+      "reading": "かなう",
+      "meaningZh": "实现；达成",
+      "meaningEn": "come true; be realized",
+      "level": "n5n4",
+      "exampleSentence": "私の夢が叶いました。",
+      "id": "377fde58-083d-4924-8307-ac3ed728a972"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningZh": "申请；应征",
+      "meaningEn": "application; apply",
+      "level": "n5n4",
+      "exampleSentence": "この仕事に応募したいです。",
+      "id": "21fa9d01-9d45-4f3f-b032-1c02fc1a557b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度は、どのような人を助けるためのものですか？",
+      "options": [
+        "アニメやマンガが好きな人",
+        "クリエイターになりたい若い人",
+        "大学で勉強したい人",
+        "ゲームが好きな人"
+      ],
+      "correctIndex": 1,
+      "explanation": "「これは、クリエイターになりたい若い人を助けるための制度です。」",
+      "id": "ae229977-853a-4f8c-a267-2acfd464b10a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-04-f82db1818e",
+  "publishedAt": "2026-10-04T06:00:00+09:00"
+}

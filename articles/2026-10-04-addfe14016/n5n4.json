@@ -1,0 +1,122 @@
+{
+  "title": "東北に新しい道",
+  "summary": "東北地方で自転車の道がたくさん作られています。観光客にも人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東北地方はきれいな景色がたくさんあります。海や山がきれいです。最近、東北で自転車で走るための道が作られています。この道は「サイクリングロード」と言います。",
+      "translationZh": "东北地方有很多美丽的风景。海和山都很漂亮。最近，东北正在修建供骑自行车行驶的道路。这条路叫做“自行车道”。",
+      "translationEn": "Tohoku region has many beautiful sceneries. The sea and mountains are beautiful. Recently, roads for cycling are being built in Tohoku. These roads are called 'cycling roads'.",
+      "id": "b10704e6-5337-488f-85e9-28cf79202f62",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "サイクリングロードができると、もっと多くの人が自転車で旅行に来ます。車ではなく自転車でゆっくり景色を楽しむことができます。特に海沿いの道は人気があります。",
+      "translationZh": "有了自行车道，会有更多人骑自行车来旅行。不需要开车，可以悠闲地享受风景。特别是海边的道路很受欢迎。",
+      "translationEn": "With cycling roads, more people will come to travel by bicycle. You can enjoy the scenery slowly by bicycle instead of by car. Roads along the coast are especially popular.",
+      "id": "5c1bc9e5-addd-4fe7-a59c-9d721689ce54",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい道は、町の人々にも良いです。健康のために自転車に乗る人が増えるかもしれません。また、お店やホテルも、旅行者が来ると嬉しいです。",
+      "translationZh": "这条新路对当地居民来说也很好。为了健康而骑自行车的人可能会增加。而且，商店和旅馆也会因为游客的到来而感到高兴。",
+      "translationEn": "These new roads are also good for local people. The number of people who ride bicycles for health may increase. Also, shops and hotels will be happy when tourists come.",
+      "id": "e0885cc4-8d68-44cc-ae8f-c46a2026c2fc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも東北でサイクリングロードがたくさんできるといいですね。もっと多くの人が東北の自然を楽しめるようになるでしょう。",
+      "translationZh": "今后，希望东北能修建更多自行车道。会有更多人能够享受东北的自然风光。",
+      "translationEn": "It would be nice if more cycling roads are built in Tohoku from now on. More people will be able to enjoy the nature of Tohoku.",
+      "id": "a24b7bae-09c2-4af5-8cf3-53d16512456f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地区，地方",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "ここはどんな地方ですか。",
+      "id": "4b3c2db8-2fdb-46f5-999e-039cd287937f"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色，景象",
+      "meaningEn": "scenery, view",
+      "level": "n5n4",
+      "exampleSentence": "富士山の景色はとてもきれいです。",
+      "id": "a7b89754-5cbb-43f5-9ec2-9ca8598a382a"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently, lately",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強をしています。",
+      "id": "be0707a9-b569-4489-9957-13f9e00a6952"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaningZh": "自行车",
+      "meaningEn": "bicycle",
+      "level": "n5n4",
+      "exampleSentence": "私は自転車で学校に行きます。",
+      "id": "a13a8149-e030-4d93-a793-0701b7cb3447"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，整备",
+      "meaningEn": "maintenance, arrangement, development",
+      "level": "n3",
+      "exampleSentence": "道路の整備が進んでいます。",
+      "id": "3f88d029-09ec-4185-bb09-bcbf08ffc0fd"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "观光客，游客",
+      "meaningEn": "tourist",
+      "level": "n3",
+      "exampleSentence": "多くの観光客が京都に来ます。",
+      "id": "c17962bb-1b1a-4722-8d8b-77269c0912fe"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "49212b1c-8f2d-4017-9e09-a4ec96867ff2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方で新しく作られているものは何ですか。",
+      "options": [
+        "新しいビル",
+        "新しい川",
+        "サイクリングロード",
+        "大きな公園"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「最近、東北で自転車で走るための道が作られています。この道は「サイクリングロード」と言います。」と書いてあります。",
+      "id": "d2f5a9b6-ac65-456f-b004-0df5462c8ccf"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-04-addfe14016",
+  "publishedAt": "2026-10-04T06:00:00+09:00"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "夢を応援！クリエイター向け奨学金",
+  "summary": "アニメや漫画の制作を目指す若者のために、新しい奨学金制度が始まりました。この制度は、才能ある学生が経済的な心配なく学べるように支援します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメや漫画の世界で活躍したいと思っている皆さん、朗報です！あなたの夢を応援するための新しい奨学金制度が、今年からスタートしました。この奨学金は、特に将来クリエイターとして活躍したいと考える若い才能を支援するために作られました。経済的な理由で夢を諦めることがないよう、手厚いサポートが受けられるのが特徴です。",
+      "translationZh": "各位想在动画和漫画领域大展宏图的同学们，有个好消息！为了支持你们的梦想，一项新的奖学金制度从今年开始启动了。这项奖学金特别为希望将来能成为创作者的年轻有才华的人士设立。其特点是提供周到的支持，以免因经济原因放弃梦想。",
+      "translationEn": "To everyone who wants to be active in the world of anime and manga, good news! A new scholarship system to support your dreams has started this year. This scholarship was created specifically to support young talent who aspire to be creators in the future. Its characteristic is that it provides generous support, so that you don't have to give up on your dreams due to financial reasons.",
+      "id": "3f34707e-707b-47ea-afb6-2f00c0a9309a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金を受けるためには、いくつかの条件がありますが、学業成績だけでなく、あなたの作品や将来のビジョンも重視されます。ですので、これまで制作してきた作品を見せたり、どんなクリエイターになりたいのかを具体的に説明したりすることが大切になります。書類審査や面接を通して、あなたの情熱と才能が評価されるでしょう。",
+      "translationZh": "要获得这项奖学金，有一些条件，但不仅看学业成绩，还会重视你的作品和未来愿景。因此，展示你至今为止创作的作品，并具体说明你想成为什么样的创作者，这一点很重要。通过材料审查和面试，你的热情和才能将会得到评价。",
+      "translationEn": "To receive this scholarship, there are several conditions, but not only academic performance but also your work and future vision will be emphasized. Therefore, it is important to show the works you have created so far and explain specifically what kind of creator you want to become. Your passion and talent will be evaluated through document screening and interviews.",
+      "id": "247287b5-919c-4bd7-9497-43eb2dac1d21",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "奨学金の給付期間は、専門学校や大学での学習期間中、最長で4年間です。授業料だけでなく、画材やパソコンなどの購入費用、さらには生活費の一部までサポートされる可能性があります。もしあなたがクリエイターを目指しているのであれば、このチャンスを逃さず、ぜひ応募を検討してみてください。あなたの未来が大きく開けるかもしれません。",
+      "translationZh": "奖学金支付期限为在专门学校或大学的学习期间，最长可达4年。不仅是学费，购买画材和电脑等设备的费用，甚至部分生活费都有可能得到支持。如果你以成为创作者为目标，请不要错过这个机会，一定要考虑申请。你的未来可能会因此大大展开。",
+      "translationEn": "The scholarship payment period is up to a maximum of 4 years during your studies at vocational school or university. Support may be provided not only for tuition fees but also for the purchase of art supplies and computers, and even for a portion of living expenses. If you are aiming to become a creator, don't miss this chance and please consider applying. Your future may open up significantly.",
+      "id": "b0d24515-5fd1-43eb-87b1-8e7116fa5720",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "Creator",
+      "level": "n3",
+      "exampleSentence": "彼は素晴らしいクリエイターです。",
+      "id": "29d99add-eee1-4aba-b408-081e7e97adff"
+    },
+    {
+      "word": "奨学金制度",
+      "reading": "しょうがくきんせいど",
+      "meaningZh": "奖学金制度",
+      "meaningEn": "Scholarship system",
+      "level": "n3",
+      "exampleSentence": "この奨学金制度は学生に人気があります。",
+      "id": "cc329120-2bb7-43fe-8071-27820ae2146e"
+    },
+    {
+      "word": "朗報",
+      "reading": "ろうほう",
+      "meaningZh": "好消息",
+      "meaningEn": "Good news",
+      "level": "n3",
+      "exampleSentence": "昇給の朗報がありました。",
+      "id": "9affa4ff-c6b4-45ec-b440-f8ad2ec14e5f"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有成就",
+      "meaningEn": "Activity, success",
+      "level": "n3",
+      "exampleSentence": "将来、国際的に活躍したいです。",
+      "id": "280c4828-eef2-4b5c-ba78-1e032879f9e4"
+    },
+    {
+      "word": "経済的",
+      "reading": "けいざいてき",
+      "meaningZh": "经济上的",
+      "meaningEn": "Economic",
+      "level": "n3",
+      "exampleSentence": "経済的な支援が必要です。",
+      "id": "9d59e8e9-9892-4884-92e2-6969952caf04"
+    },
+    {
+      "word": "ビジョン",
+      "reading": "びじょん",
+      "meaningZh": "愿景，设想",
+      "meaningEn": "Vision",
+      "level": "n3",
+      "exampleSentence": "将来のビジョンを語ってください。",
+      "id": "6f7510f0-194d-4cc4-bbed-4fd1488e11a9"
+    },
+    {
+      "word": "情熱",
+      "reading": "じょうねつ",
+      "meaningZh": "热情",
+      "meaningEn": "Passion",
+      "level": "n3",
+      "exampleSentence": "仕事に対する情熱があります。",
+      "id": "7d94f8a6-2458-4ac4-8452-936f08f21f62"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度で最も重視されることは何ですか？",
+      "options": [
+        "学業成績のみ",
+        "経済的な困難さ",
+        "作品と将来のビジョン",
+        "応募者の年齢"
+      ],
+      "correctIndex": 2,
+      "explanation": "「この奨学金を受けるためには、いくつかの条件がありますが、学業成績だけでなく、あなたの作品や将来のビジョンも重視されます。」",
+      "id": "9dbda64f-cae6-4c81-a46b-81df6aca3afd"
+    },
+    {
+      "question": "この奨学金は、どのような費用をサポートする可能性がありますか？",
+      "options": [
+        "海外旅行の費用",
+        "学習期間中の授業料、画材費、生活費の一部",
+        "趣味の活動費用",
+        "卒業後の就職活動費用"
+      ],
+      "correctIndex": 1,
+      "explanation": "「授業料だけでなく、画材やパソコンなどの購入費用、さらには生活費の一部までサポートされる可能性があります。」",
+      "id": "42638987-a5a4-4b77-af9b-7736e1227af7"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-04-f82db1818e",
+  "publishedAt": "2026-10-04T06:00:00+09:00"
+}

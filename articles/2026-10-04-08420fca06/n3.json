@@ -1,0 +1,126 @@
+{
+  "title": "学生街で人気！ボリューム満点定食店",
+  "summary": "大学の近くにある定食屋さんが、学生たちに大人気です。安くて量が多いのが魅力で、いつも賑わっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学のキャンパスのすぐ近くに、学生たちに「コスパ最強！」と評判の定食屋さんがあります。このお店は、ボリューム満点の定食が手頃な価格で食べられることから、いつも多くの学生で賑わっています。特に、授業が終わった後のランチタイムには、行列ができることも珍しくありません。",
+      "translationZh": "在大学校区附近，有一家被学生们评价为“性价比最高！”的定食店。这家店因为能以实惠的价格吃到分量十足的定食，所以总是挤满了许多学生。尤其是在下课后的午餐时间，排队是很常见的事情。",
+      "translationEn": "Near the university campus, there's a set meal restaurant popular among students, known as \"the best cost performance!\". This place is always bustling with many students because you can eat very generous portions of set meals at affordable prices. Especially during lunch breaks after classes, it's not unusual to see a line forming.",
+      "id": "4dd9e91a-96f5-42eb-a30f-b79bc84fb6ba",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "店員さんによると、一番人気のメニューは「唐揚げ定食」だそうです。大きな唐揚げが山のように盛られていて、ご飯とお味噌汁、そして数種類のおかずが付いています。これだけ食べれば、午後からの授業も頑張れる、と学生たちは満足そうに話しています。学生の皆さんにとって、お腹いっぱい食べられることは、勉強の合間の大切なリフレッシュになるのですね。",
+      "translationZh": "据店员说，最受欢迎的菜单是“炸鸡定食”。巨大的炸鸡堆积如山，还配有米饭、味噌汤和几种小菜。学生们满意地说，吃完这些就能精力充沛地应对下午的课程了。对于学生们来说，能吃饱吃好是学习间隙重要的放松方式。",
+      "translationEn": "According to the staff, the most popular menu item is the \"Karaage Teishoku\" (fried chicken set meal). Large pieces of fried chicken are piled high, served with rice, miso soup, and several side dishes. Students happily say that eating this much allows them to study hard in the afternoon classes. For students, eating until they are full is an important way to refresh themselves between studies.",
+      "id": "ad4caf19-a9d9-4a59-8c29-c6fae23aefc1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店の魅力は、量が多いだけではありません。味も確かなので、学生以外のお客さんもよく訪れます。常連さんの中には、社会人になってからも、昔を懐かしんでこのお店に来る人もいるそうです。これからも、学生たちの胃袋と心を満たし続けてくれることでしょう。",
+      "translationZh": "这家店的魅力不仅在于量大。味道也很可靠，所以学生以外的顾客也经常光顾。据说有些老顾客即使工作后，也会怀念过去来这家店品尝。",
+      "translationEn": "The appeal of this restaurant isn't just the large portions. The taste is also excellent, so customers other than students often visit. Some regulars apparently come to this place to reminisce, even after they have become working adults. It will likely continue to satisfy the stomachs and hearts of students.",
+      "id": "5406d50a-01ca-4b82-90e7-6c348ea1ea48",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐（主菜、米饭、汤、小菜等组合）",
+      "meaningEn": "Set meal (a meal consisting of a main dish, rice, soup, and side dishes)",
+      "level": "n5n4",
+      "exampleSentence": "今日のランチは和風の定食にしました。",
+      "id": "7581080f-9c61-49bc-85d7-22e8c561e305"
+    },
+    {
+      "word": "ボリューム満点",
+      "reading": "ぼりゅーむまんてん",
+      "meaningZh": "分量十足，量很多",
+      "meaningEn": "Very generous portion size, a lot of food",
+      "level": "n3",
+      "exampleSentence": "このラーメン屋はいつもボリューム満点だから嬉しい。",
+      "id": "68e561ca-2401-488e-a783-ffcd07834a85"
+    },
+    {
+      "word": "手頃な価格",
+      "reading": "てごろなかかく",
+      "meaningZh": "价格实惠，容易接受的价格",
+      "meaningEn": "Affordable price, reasonable price",
+      "level": "n3",
+      "exampleSentence": "手頃な価格で美味しいパンがたくさん売られています。",
+      "id": "ce63daf3-b5b0-4537-b1e3-36dbfa3005ec"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，拥挤",
+      "meaningEn": "To be crowded, to be bustling",
+      "level": "n3",
+      "exampleSentence": "週末の商店街は多くの人で賑わっていました。",
+      "id": "4bcf5415-95e2-49da-8acb-ea4348121c81"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "日式炸鸡块",
+      "meaningEn": "Japanese-style fried chicken",
+      "level": "n5n4",
+      "exampleSentence": "子供たちは唐揚げが大好きです。",
+      "id": "cfd4c4ae-cd02-4068-8409-60bdf9e68f48"
+    },
+    {
+      "word": "山のように",
+      "reading": "やまのように",
+      "meaningZh": "像山一样，形容量很多",
+      "meaningEn": "Like a mountain, describing a large amount",
+      "level": "n3",
+      "exampleSentence": "テーブルの上にプレゼントが山のように積んであった。",
+      "id": "8530f660-fb1e-4082-bcd8-608d58b66fe5"
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningZh": "怀念的，令人怀念的",
+      "meaningEn": "Nostalgic, reminiscent",
+      "level": "n5n4",
+      "exampleSentence": "昔聴いた歌を聴いて懐かしい気持ちになった。",
+      "id": "1b87a44c-675d-4b00-892e-e6a903b1471b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋が学生に人気な一番の理由は何ですか？",
+      "options": [
+        "メニューが豊富だから",
+        "店員が親切だから",
+        "安くて量が多いから",
+        "立地が良いから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「このお店は、ボリューム満点の定食が手頃な価格で食べられることから、いつも多くの学生で賑わっています。」と書かれています。",
+      "id": "a0b5ab5f-3916-446d-bbf1-55177b6fedd0"
+    },
+    {
+      "question": "一番人気の「唐揚げ定食」には、何が付いていますか？",
+      "options": [
+        "ご飯、味噌汁、サラダ",
+        "ご飯、味噌汁、数種類のおかず",
+        "ご飯、スープ、漬物",
+        "焼き魚、ご飯、味噌汁"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「大きな唐揚げが山のように盛られていて、ご飯とお味噌汁、そして数種類のおかずが付いています。」と書かれています。",
+      "id": "cd14b23e-4e87-4f9a-bbad-92113e7c497b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-04-08420fca06",
+  "publishedAt": "2026-10-04T06:00:00+09:00"
+}

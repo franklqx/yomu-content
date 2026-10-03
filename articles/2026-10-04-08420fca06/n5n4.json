@@ -1,0 +1,131 @@
+{
+  "title": "学生街の人気定食店",
+  "summary": "学生街に「ボリューム満点」で有名な定食屋さんがあります。安くておいしいので、いつも学生でいっぱいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町は大学がたくさんあります。だから、学生さんがよく利用するお店が多いです。その中でも、特に人気があるのが「ボリューム満点」の定食屋さんです。おいしい料理がたくさん食べられます。",
+      "translationZh": "这个城镇有很多大学。因此，有很多学生经常光顾的店。其中，尤其受欢迎的是“份量十足”的定食店。可以吃到很多美味的料理。",
+      "translationEn": "This town has many universities. Therefore, there are many shops that students often use. Among them, a particularly popular one is a restaurant with \"generous portions\". You can eat a lot of delicious food.",
+      "id": "5fc0e4c4-330b-4216-b1e1-a0bb24292cca",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋さんの名前は「がっつり亭」です。メニューはたくさんありますが、一番人気は「唐揚げ定食」です。大きな唐揚げが５つぐらい乗っています。ご飯も大盛りです。これで１０００円ぐらいです。とても安いです。",
+      "translationZh": "这家定食店叫做“Gattsuri-tei”。菜单上有很多菜，但最受欢迎的是“炸鸡定食”。上面有大约 5 块大块的炸鸡。米饭也是大份的。这样一份大约 1000 日元。非常便宜。",
+      "translationEn": "The name of this restaurant is \"Gattsuri-tei\". There are many items on the menu, but the most popular is the \"Karaage Teishoku\" (fried chicken set meal). It comes with about 5 large pieces of fried chicken. The rice is also a large portion. It costs about 1000 yen. It is very cheap.",
+      "id": "93257985-fcc6-4e64-abaf-5f5ab3307a26",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「がっつり亭」は、いつも学生さんで混んでいます。特に昼ごはんの時間帯は、並ばないと入れないこともあります。でも、待つ価値はあります。お腹いっぱいになれます。",
+      "translationZh": "“Gattsuri-tei” 总是挤满了学生。尤其是在午餐时间，有时不排队就进不去。但是，等待是值得的。可以吃得饱饱的。",
+      "translationEn": "\"Gattsuri-tei\" is always crowded with students. Especially during lunchtime, you may have to queue to get in. But it's worth the wait. You can leave feeling full.",
+      "id": "5a546fe1-8ead-43fe-9cb2-f8098b344d55",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もしこの町に来たら、ぜひ「がっつり亭」に行ってみてください。きっと満足すると思います。おいしい定食でお腹いっぱいになりましょう。",
+      "translationZh": "如果你来到这个城镇，请一定要去“Gattsuri-tei”尝尝。我想你一定会满意的。让我们用美味的定食吃个饱吧。",
+      "translationEn": "If you come to this town, please try visiting \"Gattsuri-tei\". I'm sure you'll be satisfied. Let's fill our stomachs with a delicious set meal.",
+      "id": "f348790b-46db-4d20-b7d3-bf0cd14c70e7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaningZh": "大学",
+      "meaningEn": "university",
+      "level": "n5n4",
+      "exampleSentence": "この町に大きな大学があります。",
+      "id": "41e4eba8-712f-4687-b6de-dbd0842a6b49"
+    },
+    {
+      "word": "利用する",
+      "reading": "りようする",
+      "meaningZh": "利用，使用",
+      "meaningEn": "to use",
+      "level": "n5n4",
+      "exampleSentence": "学生がたくさんこの店を利用します。",
+      "id": "36fe6b2b-f746-46d3-b6c0-4f2b5da02de7"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このラーメン屋は人気があります。",
+      "id": "8e9d0bc8-3d2d-4a99-985d-f21f1b8ba6ec"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "定食（套餐）",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "昼ごはんは定食を食べました。",
+      "id": "e94d951e-2cd0-4496-a05d-c4a83e91f78c"
+    },
+    {
+      "word": "ボリューム満点",
+      "reading": "ぼりゅーむまんてん",
+      "meaningZh": "份量十足",
+      "meaningEn": "generous portions",
+      "level": "n5n4",
+      "exampleSentence": "ここの料理はボリューム満点です。",
+      "id": "baf0c8e3-b8e7-47a1-9984-70315813df62"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "炸鸡",
+      "meaningEn": "fried chicken",
+      "level": "n5n4",
+      "exampleSentence": "唐揚げは日本の人気料理です。",
+      "id": "f95e9039-e821-4f48-ab58-bf592e750456"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤，繁忙",
+      "meaningEn": "to be crowded",
+      "level": "n5n4",
+      "exampleSentence": "週末はいつも道が混みます。",
+      "id": "d63cacfc-aa4d-4704-ad64-5a9092717d33"
+    },
+    {
+      "word": "満足する",
+      "reading": "まんぞくする",
+      "meaningZh": "满足",
+      "meaningEn": "to be satisfied",
+      "level": "n5n4",
+      "exampleSentence": "おいしい食事で満足しました。",
+      "id": "04a76e5e-c66f-4896-a8cd-4bfa248335c0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「がっつり亭」で一番人気があるメニューは何ですか。",
+      "options": [
+        "ラーメン定食",
+        "カレーライス",
+        "唐揚げ定食",
+        "焼き肉定食"
+      ],
+      "correctIndex": 2,
+      "explanation": "メニューはたくさんありますが、一番人気は「唐揚げ定食」です。",
+      "id": "626cf52c-a861-40fd-a8b4-e83d13070717"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-04-08420fca06",
+  "publishedAt": "2026-10-04T06:00:00+09:00"
+}

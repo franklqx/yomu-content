@@ -1,0 +1,135 @@
+{
+  "title": "東北のサイクリングロード、旅がもっと楽しくなる！",
+  "summary": "東北地方では、美しい景色を巡るサイクリングロードの整備が進んでいます。自転車で旅をする人にとって、魅力的な場所が増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、東北地方でサイクリングロードの整備が積極的に進められています。これは、自転車で旅行する人たちに、より安全で快適な旅を提供するためです。豊かな自然や歴史的な街並みを、自分のペースでゆっくりと楽しむことができるようになります。",
+      "translationZh": "最近，东北地区正在积极推进自行车道的建设。这是为了给骑自行车旅行的人们提供更安全、更舒适的旅程。人们将能够按照自己的节奏，悠闲地享受丰富的自然风光和历史街景。",
+      "translationEn": "Recently, the development of cycling roads has been actively promoted in the Tohoku region. This is to provide a safer and more comfortable journey for people traveling by bicycle. You will be able to slowly enjoy the rich natural scenery and historical townscapes at your own pace.",
+      "id": "17f00039-a748-41fe-9964-d20dd83c9702",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、海岸沿いに作られた新しい道は、海を眺めながら走れるので、とても気持ちがいいと評判です。また、山間部にも道が整備されつつあり、緑のトンネルを抜けるような爽快感を味わえる場所が増えています。これらの整備は、地域経済の活性化にもつながるとして期待されています。",
+      "translationZh": "例如，沿着海岸修建的新道路，一边眺望着大海一边骑行，据说感觉非常舒畅。此外，山区也在逐步修建道路，能够体验穿过绿色隧道般爽快感的地点正在增加。这些建设被寄予厚望，认为也能带动地区经济的振兴。",
+      "translationEn": "For example, new roads built along the coast are popular because you can ride while looking at the sea, which feels very pleasant. In addition, roads are also being developed in mountainous areas, and there are more places where you can experience the exhilarating feeling of passing through a green tunnel. These developments are expected to lead to the revitalization of the regional economy.",
+      "id": "aa7590a1-65cf-4ede-8d2d-c13e587bcbd3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "サイクリングロードが整備されると、ただ景色が良いだけでなく、休憩できる場所や、自転車を借りられる施設なども充実してきます。そのため、これまで自転車旅行をしたことがない人でも、気軽に挑戦できるようになるでしょう。今後、東北地方を訪れる新たな魅力となることが予想されます。",
+      "translationZh": "随着自行车道的完善，不仅景色优美，而且休息场所、自行车租赁设施等也会变得更加充实。因此，即使是以前没有尝试过自行车旅行的人，也能轻松地开始挑战。预计今后将成为访问东北地区的一个新魅力。",
+      "translationEn": "As cycling roads are developed, not only will the scenery be beautiful, but also places to rest and facilities for renting bicycles will become more substantial. Therefore, even people who have never traveled by bicycle before will be able to easily try it. It is expected to become a new attraction for visitors to the Tohoku region in the future.",
+      "id": "0f8a018e-50fb-4ce6-8baa-2aaa3500c940",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，设置，完善",
+      "meaningEn": "maintenance, development, setting up",
+      "level": "n3",
+      "exampleSentence": "新しい道路の整備が進んでいます。",
+      "id": "8804aec7-f953-4a1d-8420-03f698bfca13"
+    },
+    {
+      "word": "進められています",
+      "reading": "すすめられています",
+      "meaningZh": "被推进，被开展",
+      "meaningEn": "is being promoted, is being advanced",
+      "level": "n3",
+      "exampleSentence": "この計画は国によって進められています。",
+      "id": "c1058adf-98a7-4c6d-b06a-4c5e50f95f67"
+    },
+    {
+      "word": "豊か",
+      "reading": "ゆたか",
+      "meaningZh": "丰富的，富裕的",
+      "meaningEn": "abundant, rich, wealthy",
+      "level": "n3",
+      "exampleSentence": "この地域は自然が豊かです。",
+      "id": "0d4072fd-41c1-4d65-8902-d975434f8a4f"
+    },
+    {
+      "word": "歴史的",
+      "reading": "れきしてき",
+      "meaningZh": "历史的",
+      "meaningEn": "historical",
+      "level": "n3",
+      "exampleSentence": "古い建物は歴史的な価値がある。",
+      "id": "52228df0-ec6e-47c5-8a49-b0faf3c3b8d6"
+    },
+    {
+      "word": "ペース",
+      "reading": "ぺーす",
+      "meaningZh": "步调，节奏",
+      "meaningEn": "pace",
+      "level": "n3",
+      "exampleSentence": "自分のペースで勉強しましょう。",
+      "id": "aa9485aa-9524-46cd-b6b4-22f02bc6ec0a"
+    },
+    {
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaningZh": "海岸",
+      "meaningEn": "coast, coastine",
+      "level": "n3",
+      "exampleSentence": "海岸を散歩するのは気持ちがいい。",
+      "id": "4c9cf051-1c8f-4888-b2b6-9ee4447fa9c8"
+    },
+    {
+      "word": "整備されつつあり",
+      "reading": "せいびされつつあり",
+      "meaningZh": "正在被完善中",
+      "meaningEn": "is gradually being developed",
+      "level": "n3",
+      "exampleSentence": "公園の遊具が新しく整備されつつあります。",
+      "id": "eb539734-f88d-4f4b-a914-5a2077303a41"
+    },
+    {
+      "word": "爽快感",
+      "reading": "そうかいかん",
+      "meaningZh": "爽快感",
+      "meaningEn": "invigorating feeling, refreshing sensation",
+      "level": "n3",
+      "exampleSentence": "汗をかいた後のシャワーは爽快感がある。",
+      "id": "e911ba92-b946-44aa-938a-b8ae6d65103f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方でサイクリングロードの整備が進められている主な理由は何ですか？",
+      "options": [
+        "新しい商業施設を作るため",
+        "自転車旅行者により良い環境を提供するため",
+        "車の交通量を減らすため",
+        "伝統的な祭りを開催するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「自転車で旅行する人たちに、より安全で快適な旅を提供するためです。」と書かれています。",
+      "id": "fe23f3fc-e4df-47d0-949e-b0af2d4b6b1e"
+    },
+    {
+      "question": "サイクリングロードが整備されることによって、どのような良い影響が期待されていますか？",
+      "options": [
+        "地元の農産物の売上が減る",
+        "住民の運動不足が解消される",
+        "地域経済の活性化",
+        "観光客が減少する"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「これらの整備は、地域経済の活性化にもつながるとして期待されています。」と書かれています。",
+      "id": "195d8457-81d1-4aea-82df-52bc32e1dc25"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-04-addfe14016",
+  "publishedAt": "2026-10-04T06:00:00+09:00"
+}
