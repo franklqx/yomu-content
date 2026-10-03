@@ -1,0 +1,122 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガが好きな人へ。新しい奨学金ができました。夢を叶える手伝いをします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガが好きな若い人たちがいます。彼らがクリエイターになるために、新しい奨学金制度が始まりました。この制度は、夢を持っている人を応援します。",
+      "translationZh": "有很多喜欢动画和漫画的年轻人。为了让他们成为创作者，一项新的奖学金制度开始了。这项制度支持拥有梦想的人。",
+      "translationEn": "There are young people who like anime and manga. A new scholarship system has started to help them become creators. This system supports people with dreams.",
+      "id": "c9eca4a9-b508-45b2-b53f-99d739386e17",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、絵を描くこと、物語を作ること、アニメを動かすことが好きな人に、お金をあげます。勉強や、技術を学ぶためにお金が使えます。夢をあきらめないでほしいです。",
+      "translationZh": "这项奖学金会给喜欢画画、写故事、制作动画的人提供金钱。这些钱可以用作学习或学习技术。我们希望他们不要放弃梦想。",
+      "translationEn": "This scholarship gives money to people who like drawing pictures, creating stories, and animating anime. The money can be used for studying or learning skills. We want them not to give up on their dreams.",
+      "id": "e7e9758f-9455-41f1-b817-b346faca2945",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募（おうぼ）するには、いくつかの条件（じょうけん）があります。例えば、年齢（ねんれい）や、どんな作品（さくひん）を作りたいかの計画（けいかく）です。詳しくは、ウェブサイトを見てください。",
+      "translationZh": "申请需要满足一些条件。例如，年龄和想要创作什么作品的计划。详情请查看网站。",
+      "translationEn": "There are some conditions to apply. For example, age and a plan for what kind of work you want to create. For details, please check the website.",
+      "id": "7e58e1aa-e573-4fd1-b451-e2621d6c8010",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度で、たくさんの新しいクリエイターが生まれることを楽しみにしています。あなたの夢を、この奨学金で実現（じつげん）しませんか。",
+      "translationZh": "我们期待这项制度能诞生许多新的创作者。你不想用这项奖学金实现你的梦想吗？",
+      "translationEn": "We look forward to many new creators being born through this system. Why don't you realize your dream with this scholarship?",
+      "id": "707e6a65-99eb-4d4b-a86b-3a1d72481ca0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって大学に行きました。",
+      "id": "a1f526bc-7f84-45ac-ab2d-dd126af66eae"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度が始まりました。",
+      "id": "1e39ca34-671d-4b14-80ca-06884cf84dbf"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "支持，声援",
+      "meaningEn": "support, cheer for",
+      "level": "n5n4",
+      "exampleSentence": "友達の夢を応援します。",
+      "id": "58752112-1da5-4f1f-8fc4-128e3890aff8"
+    },
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なクリエイターです。",
+      "id": "4efebda7-7887-48ed-ba9d-39f50e42c422"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningZh": "申请",
+      "meaningEn": "application",
+      "level": "n5n4",
+      "exampleSentence": "この仕事に応募しました。",
+      "id": "4fa26d6a-d5fb-4cc3-8d90-97ba13acab16"
+    },
+    {
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaningZh": "条件",
+      "meaningEn": "condition",
+      "level": "n5n4",
+      "exampleSentence": "応募の条件は何ですか。",
+      "id": "13348d90-b043-4734-9c0e-d8bef7f17694"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaningZh": "实现",
+      "meaningEn": "realization, achievement",
+      "level": "n3",
+      "exampleSentence": "夢を実現したいです。",
+      "id": "e277a8dc-f0eb-41c4-9613-493216431a16"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どんな人を応援するためのものですか？",
+      "options": [
+        "アニメの会社で働きたい人",
+        "アニメやマンガのクリエイターになりたい人",
+        "アニメのゲームを作りたい人",
+        "アニメの学校に行きたい人"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章には「アニメやマンガが好きな若い人たち」「彼らがクリエイターになるために」と書いてあります。",
+      "id": "48373d89-5449-4d28-9745-3e0ed88606f6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-03-f82db1818e",
+  "publishedAt": "2026-10-03T06:00:00+09:00"
+}

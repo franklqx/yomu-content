@@ -1,0 +1,131 @@
+{
+  "title": "東北の道、自転車にやさしく",
+  "summary": "東北地方で自転車で旅行する人が増えています。そのために、新しい自転車の道がたくさん作られています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東北地方は美しい自然がたくさんあります。山や海がきれいです。最近、自転車で旅行する人が増えています。だから、もっと自転車で旅行しやすくなるように、新しい道が作られています。",
+      "translationZh": "东北地区有许多美丽的自然风光。山和海都很漂亮。最近，骑自行车旅行的人越来越多了。因此，为了让骑自行车旅行更加方便，正在修建新的道路。",
+      "translationEn": "The Tohoku region has a lot of beautiful nature. The mountains and the sea are beautiful. Recently, more and more people are traveling by bicycle. Therefore, new roads are being built to make bicycle travel easier.",
+      "id": "69cf3061-7cdc-4bf9-bd94-97f53a83f72f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい道は、自転車専用の道です。車が来ないので、安全に走ることができます。海を見ながら走ったり、山の景色を楽しんだりできます。とても気持ちがいいです。",
+      "translationZh": "这条新路是自行车专用的。没有汽车来往，所以可以安全地骑行。可以一边看海一边骑行，也可以享受山景。感觉非常好。",
+      "translationEn": "This new road is for bicycles only. Cars do not come, so you can ride safely. You can ride while looking at the sea, or enjoy the mountain scenery. It feels very good.",
+      "id": "8233e8ab-16d2-4430-8dd0-0e46e18101b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "自転車の道が整備されると、もっとたくさんの人が東北に来るでしょう。地元の町も元気になります。旅行者は、おいしいものを食べたり、温泉に入ったりして、楽しむことができます。",
+      "translationZh": "随着自行车道的完善，将会有更多的人来到东北。当地的城镇也会变得有活力。旅行者可以品尝美食，泡温泉，尽情享受。",
+      "translationEn": "As the cycling roads are improved, more people will come to Tohoku. Local towns will also become more vibrant. Travelers can enjoy delicious food and hot springs.",
+      "id": "84c9a970-ebbf-479a-a5cd-9a4fa8ac4ba3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "東北地方のサイクリングロードは、まだ作っている途中です。でも、これからもっと良くなると思います。自転車で東北を旅するのは、きっと楽しい経験になりますよ。",
+      "translationZh": "东北地区的自行车道仍在建设中。但是，我认为未来会变得更好。骑自行车游览东北，一定会是一次愉快的体验。",
+      "translationEn": "The cycling roads in the Tohoku region are still under construction. However, I think they will get better in the future. Traveling around Tohoku by bicycle will surely be a fun experience.",
+      "id": "a5f5fef9-d83f-41aa-913f-d94717f12f11",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地区，地方",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "ここは私の住んでいる地方です。",
+      "id": "c07376f0-7f51-4659-833f-2a6260c565cb"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然の中でリラックスするのはいいことです。",
+      "id": "56fcb949-c245-41d3-a68f-70aa44c1a2ca"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaningZh": "自行车",
+      "meaningEn": "bicycle",
+      "level": "n5n4",
+      "exampleSentence": "私は毎日自転車で学校に行きます。",
+      "id": "88cab9ab-e27f-4ba2-a8cd-b7a5a6e51cda"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "夏休みに友達と旅行しました。",
+      "id": "4c70d600-2581-49b5-bfda-a70c36e454b8"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整備，完善",
+      "meaningEn": "maintenance, development, improvement",
+      "level": "n3",
+      "exampleSentence": "道路の整備が進んでいます。",
+      "id": "80c1ef40-264c-442c-9e4c-8e4e7b018c73"
+    },
+    {
+      "word": "専用",
+      "reading": "せんよう",
+      "meaningZh": "专用",
+      "meaningEn": "exclusive use, special use",
+      "level": "n3",
+      "exampleSentence": "これは子供専用の部屋です。",
+      "id": "19ead6af-580e-471f-95e3-dd5347344029"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety, security",
+      "level": "n5n4",
+      "exampleSentence": "この橋はとても安全です。",
+      "id": "fc5c6bbd-014f-4c5a-9297-03efcdd576b4"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energetic, healthy, lively",
+      "level": "n5n4",
+      "exampleSentence": "病気でしたが、もう元気になりました。",
+      "id": "79622116-7b9a-4f04-b8ac-f2246e2fe878"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方で自転車の道が作られているのはなぜですか？",
+      "options": [
+        "もっとたくさんの車を走らせるためです。",
+        "自転車で旅行する人が増えているからです。",
+        "新しい公園を作るためです。",
+        "海の景色をもっとよく見るためです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最近、自転車で旅行する人が増えています。だから、もっと自転車で旅行しやすくなるように、新しい道が作られています。」と書かれています。",
+      "id": "5d0a3337-8886-426a-b7b9-ed610db71ddc"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-03-addfe14016",
+  "publishedAt": "2026-10-03T06:00:00+09:00"
+}

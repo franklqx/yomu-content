@@ -1,0 +1,131 @@
+{
+  "title": "学生街の人気定食店",
+  "summary": "学生街に、安くておいしい「大盛り定食」が人気のお店があります。お腹いっぱい食べたい学生さんにぴったりです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この街には、たくさんの学生さんが住んでいます。学校の近くに、おいしい定食屋さんができました。このお店は、特に「大盛り」で有名です。値段も安くて、学生さんに大人気です。",
+      "translationZh": "这个城市住着很多学生。学校附近新开了一家美味的定食店。这家店尤其以“分量大”而闻名。价格也很便宜，深受学生们的喜爱。",
+      "translationEn": "In this town, many students live. Near the school, a delicious set meal restaurant opened. This restaurant is especially famous for its 'large portions'. The prices are also cheap, and it is very popular among students.",
+      "id": "ece50b36-6e02-4384-a97a-17f8b245e48a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食は、ごはん、みそ汁、おかずがセットになっています。このお店の定食は、ごはんがおかわり自由です。おかずもたくさんあって、とてもおいしいです。特に「からあげ定食」は人気があります。",
+      "translationZh": "定食包含米饭、味噌汤和配菜。这家店的米饭可以免费续加。配菜也很丰富，非常美味。特别是“炸鸡定食”很受欢迎。",
+      "translationEn": "A set meal includes rice, miso soup, and side dishes. At this restaurant, you can refill your rice for free. There are also many side dishes, and they are very delicious. The 'fried chicken set meal' is particularly popular.",
+      "id": "96275d32-4c1a-458f-b334-5af48f302fb5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "多くの学生が、このお店で昼ごはんを食べます。お腹いっぱいになるので、午後の勉強も頑張れます。友達と一緒に行くのも楽しいです。店員さんも親切で、気持ちよく食事ができます。",
+      "translationZh": "很多学生在这家店吃午饭。因为能吃得很饱，所以下午的学习也能努力。和朋友一起去也很开心。店员也很亲切，用餐心情愉快。",
+      "translationEn": "Many students eat lunch at this restaurant. Because they can eat their fill, they can study hard in the afternoon. Going with friends is also fun. The staff are also kind, and you can eat comfortably.",
+      "id": "ca4fc391-5f8f-4458-8249-e47a99cceb5e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋さんは、週末も開いています。平日は忙しい人も、週末にゆっくり行くことができます。この街に来たら、ぜひ一度行ってみてください。きっと満足すると思います。",
+      "translationZh": "这家定食店周末也营业。平时忙碌的人，也可以在周末悠闲地去。来这个城市的话，请一定要去一次。一定能让你满意。",
+      "translationEn": "This set meal restaurant is also open on weekends. People who are busy on weekdays can also go leisurely on the weekend. If you come to this town, please try visiting once. I'm sure you'll be satisfied.",
+      "id": "ac7fd506-3416-48c0-8b0e-f5c3ff9256c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学生街",
+      "reading": "がくせいがい",
+      "meaningZh": "学生区",
+      "meaningEn": "student district",
+      "level": "n5n4",
+      "exampleSentence": "この辺りは学生街で、安いお店が多いです。",
+      "id": "e4041655-593c-413c-b89a-b9177003a107"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この本は学生に人気があります。",
+      "id": "d207f66d-b2a6-4ba9-babe-f86fad1495fa"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "定食（饭、汤、菜肴的套餐）",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "今日の定食は何ですか。",
+      "id": "ff968f37-63af-48e4-8f83-3746c5cdf7ac"
+    },
+    {
+      "word": "大盛り",
+      "reading": "おおもり",
+      "meaningZh": "大份（食物）",
+      "meaningEn": "large portion (of food)",
+      "level": "n5n4",
+      "exampleSentence": "ごはんを大盛りにしてください。",
+      "id": "ba76554c-7b68-4f26-9604-f1c0a95b693d"
+    },
+    {
+      "word": "おかわり",
+      "reading": "おかわり",
+      "meaningZh": "（饭、菜）再来一份",
+      "meaningEn": "refill; another helping",
+      "level": "n5n4",
+      "exampleSentence": "ごはんのおかわりはできますか。",
+      "id": "61928d5c-60a7-49e9-8eef-718edac42f0c"
+    },
+    {
+      "word": "おかず",
+      "reading": "おかず",
+      "meaningZh": "下饭菜，配菜",
+      "meaningEn": "side dish",
+      "level": "n5n4",
+      "exampleSentence": "今日の夕食のおかずは何ですか。",
+      "id": "1015cf34-1611-4618-a225-351f130b2a5b"
+    },
+    {
+      "word": "からあげ",
+      "reading": "からあげ",
+      "meaningZh": "日式炸鸡块",
+      "meaningEn": "Japanese fried chicken",
+      "level": "n5n4",
+      "exampleSentence": "からあげ定食はとてもおいしかったです。",
+      "id": "7ea8d713-1954-4f84-8dd7-64a32e2d43f8"
+    },
+    {
+      "word": "頑張る",
+      "reading": "がんばる",
+      "meaningZh": "努力，加油",
+      "meaningEn": "to do one's best; to try hard",
+      "level": "n5n4",
+      "exampleSentence": "試験のために頑張ります。",
+      "id": "8c9f1d66-586d-45c0-95e6-8786a99603ad"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋さんが学生さんに人気がある理由は何ですか。",
+      "options": [
+        "おいしいけど、値段が高いから",
+        "量が少ないけど、サービスがいいから",
+        "値段が安くて、量が多いから",
+        "静かで勉強しやすいから"
+      ],
+      "correctIndex": 2,
+      "explanation": "多くの学生が、このお店で昼ごはんを食べます。お腹いっぱいになるので、午後の勉強も頑張れます。友達と一緒に行くのも楽しいです。店員さんも親切で、気持ちよく食事ができます。",
+      "id": "44cab573-8ecd-476f-96c1-2aaca28d7de1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-03-08420fca06",
+  "publishedAt": "2026-10-03T06:00:00+09:00"
+}

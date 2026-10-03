@@ -1,0 +1,138 @@
+{
+  "title": "若手クリエイター支援、新奨学金制度が始動",
+  "summary": "アニメ・漫画業界を目指す若手クリエイターを対象とした新たな奨学金制度が設立されました。才能ある人材の育成と業界の発展が期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメや漫画といった日本のポップカルチャーを牽引するクリエイターを目指す若者たちを支援するため、新たな奨学金制度が設立されたとのことだ。この制度は、経済的な理由で創作活動を断念せざるを得ない才能ある学生に対し、学費や制作費の一部を補助することを目的としている。近年の業界のグローバルな需要の高まりに伴い、優秀な人材の確保と育成が喫緊の課題となっていることが背景にあると見られる。",
+      "translationZh": "据悉，一项新的奖学金制度已经设立，旨在支持那些以动漫和漫画等日本流行文化为目标的年轻创作者。该制度旨在为因经济原因不得不放弃创作的才能横溢的学生提供学费和制作费的一部分补贴。据观察，近几年随着行业全球需求的增长，确保和培养优秀人才已成为紧迫的课题，这也是其设立的背景。",
+      "translationEn": "It is reported that a new scholarship program has been established to support young creators aiming to become pioneers in Japanese pop culture such as anime and manga. The program aims to provide partial subsidies for tuition and production costs to talented students who might otherwise have to abandon their creative pursuits due to financial reasons. This initiative is seen against the backdrop of the growing global demand in the industry in recent years, making the securing and nurturing of excellent talent an urgent issue.",
+      "id": "b4ee1e78-09e7-4d0d-b63b-87d777cb7afa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "奨学金は、将来有望な新人クリエイターを発掘・育成するべく、厳格な選考基準に基づいて支給される予定だ。作品の独創性、将来性、そして業界への貢献意欲などが評価項目に含まれるという。また、単に経済的な支援に留まらず、現役の著名クリエイターによるメンターシップや、業界関係者との交流機会の提供なども検討されており、総合的なキャリア形成支援が図られる見込みである。",
+      "translationZh": "奖学金将根据严格的选拔标准发放，以发掘和培养有前途的新人创作者。评估项目包括作品的独创性、未来潜力和对行业的贡献意愿等。此外，该制度不仅限于经济援助，还在考虑提供由现役著名创作者提供的指导以及与行业相关人士的交流机会，预计将提供全面的职业发展支持。",
+      "translationEn": "The scholarships are expected to be awarded based on strict selection criteria to discover and nurture promising new creators. Evaluation criteria will include originality, future potential, and willingness to contribute to the industry. Furthermore, the program is expected to offer comprehensive career development support, not limited to financial aid, but also considering mentorship from established creators and opportunities for interaction with industry professionals.",
+      "id": "9af2c420-4e0d-41cd-b879-728914cdab6b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金制度の創設は、才能ある若者が夢を追い続けられる環境を整備する上で、極めて意義深い一歩と言えるだろう。これにより、次世代を担うクリエイターが数多く輩出され、日本のコンテンツ産業全体のさらなる国際競争力の強化に繋がることが期待されている。関係者は、制度の安定的な運営と、より多くのクリエイターへの支援拡大を目指していく方針だ。",
+      "translationZh": "这项奖学金制度的设立，可以说是为确保有才华的年轻人能够继续追求梦想而铺平道路的极其有意义的一步。人们期待这能培养出众多肩负下一代重任的创作者，并有助于进一步增强日本整个内容产业的国际竞争力。相关人士表示，今后的方针是实现制度的稳定运营，并扩大对更多创作者的支持。",
+      "translationEn": "The establishment of this scholarship program can be considered a highly significant step in creating an environment where talented young people can continue to pursue their dreams. It is anticipated that this will foster a large number of next-generation creators, leading to further strengthening of the international competitiveness of Japan's entire content industry. Stakeholders aim to ensure the stable operation of the program and expand support to a greater number of creators.",
+      "id": "40fc5a0a-b58a-4572-a6d6-fcbd9c565ab3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "牽引する",
+      "reading": "けんいんする",
+      "meaningZh": "引领，带动",
+      "meaningEn": "to lead, to pull, to tow",
+      "level": "n2n1",
+      "exampleSentence": "彼はチームを勝利に牽引した。",
+      "id": "2c40fac5-786c-4aff-a16c-308198ea0a4e"
+    },
+    {
+      "word": "喫緊",
+      "reading": "きっきん",
+      "meaningZh": "急迫的，紧迫的",
+      "meaningEn": "urgent, pressing",
+      "level": "n2n1",
+      "exampleSentence": "喫緊の課題に取り組む必要がある。",
+      "id": "cc23053e-ed2b-4539-a530-e5dc5d9af2f2"
+    },
+    {
+      "word": "断念",
+      "reading": "だんねん",
+      "meaningZh": "放弃，死心",
+      "meaningEn": "giving up, renunciation",
+      "level": "n2n1",
+      "exampleSentence": "計画を断念せざるを得なかった。",
+      "id": "ff820b8b-64e5-458b-ba66-5102e8a150c6"
+    },
+    {
+      "word": "独創性",
+      "reading": "どくそうせい",
+      "meaningZh": "独创性，创造性",
+      "meaningEn": "originality, creativity",
+      "level": "n2n1",
+      "exampleSentence": "彼の作品には高い独創性が見られる。",
+      "id": "840d9d0e-5936-46c3-9d20-54aa8ffe5ab4"
+    },
+    {
+      "word": "将来性",
+      "reading": "しょうらいせい",
+      "meaningZh": "未来性，前途",
+      "meaningEn": "future potential, promise",
+      "level": "n2n1",
+      "exampleSentence": "この若手選手には将来性が感じられる。",
+      "id": "33192374-662c-489f-a51c-e55b7b17437d"
+    },
+    {
+      "word": "メンターシップ",
+      "reading": "めんたーしっぷ",
+      "meaningZh": "指导，咨询（尤指经验丰富者对年轻人的指导）",
+      "meaningEn": "mentorship",
+      "level": "n2n1",
+      "exampleSentence": "経験豊富な先輩からのメンターシップは貴重だ。",
+      "id": "d38d9e3c-259c-4c71-82f2-ccbffc207373"
+    },
+    {
+      "word": "意義深い",
+      "reading": "いぎぶかい",
+      "meaningZh": "意义深远的",
+      "meaningEn": "meaningful, significant",
+      "level": "n2n1",
+      "exampleSentence": "このプロジェクトは意義深いものとなるだろう。",
+      "id": "755b53ea-732b-4b32-b391-46ec0d8d8f7a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度が設立された主な理由は何ですか？",
+      "options": [
+        "アニメ・漫画業界の国際的な人気をさらに高めるため",
+        "経済的な理由で創作を諦める若手を減らし、才能ある人材を育成するため",
+        "著名なクリエイターの育成に特化するため",
+        "海外のクリエイターを日本に誘致するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「経済的な理由で創作活動を断念せざるを得ない才能ある学生に対し、学費や制作費の一部を補助することを目的としている」と述べられていることから、経済的困難を抱える若手クリエイターの支援が主な理由であることがわかります。",
+      "id": "9d579efa-ef0c-4392-bfdb-394511437dc7"
+    },
+    {
+      "question": "奨学金支給の選考基準には、どのような点が評価されるとありますか？",
+      "options": [
+        "過去の実績と受賞歴のみ",
+        "応募者の年齢と学歴",
+        "作品の独創性、将来性、業界への貢献意欲など",
+        "学校の成績と推薦状の内容"
+      ],
+      "correctIndex": 2,
+      "explanation": "「作品の独創性、将来性、そして業界への貢献意欲などが評価項目に含まれる」と記されています。",
+      "id": "43a181a2-272f-41ee-83d7-96af3902ac31"
+    },
+    {
+      "question": "この制度は、経済的支援以外にどのようなサポートを提供する予定ですか？",
+      "options": [
+        "海外留学の斡旋",
+        "作品の Магазин 販売支援",
+        "著名クリエイターによるメンターシップや業界関係者との交流機会",
+        "最新の制作機材の無償貸与"
+      ],
+      "correctIndex": 2,
+      "explanation": "「単に経済的な支援に留まらず、現役の著名クリエイターによるメンターシップや、業界関係者との交流機会の提供なども検討されており」とあります。",
+      "id": "4d5824b8-f283-4aae-919d-2d8ca9497256"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-03-f82db1818e",
+  "publishedAt": "2026-10-03T06:00:00+09:00"
+}

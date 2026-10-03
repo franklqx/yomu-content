@@ -1,0 +1,143 @@
+{
+  "title": "夢を追いかける若者へ！アニメクリエイター奨学金",
+  "summary": "アニメ制作に情熱を燃やす学生を応援する新しい奨学金制度が始まりました。この制度は、才能ある若者が経済的な心配なく、夢を実現する手助けとなることを目指しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメーション業界で活躍したいと考えている学生にとって、朗報です。この度、未来のアニメクリエイターを支援するための新しい奨学金制度が設立されました。この奨学金は、経済的な理由で夢を諦める若者を一人でも減らしたいという強い願いから生まれました。",
+      "translationZh": "对于希望在动画行业活跃的学生来说，这是个好消息。最近，一项旨在支持未来动画创作者的新奖学金制度设立了。这项奖学金源于一个强烈的愿望，那就是希望尽量减少因经济原因放弃梦想的年轻人。",
+      "translationEn": "Good news for students who want to be active in the animation industry. A new scholarship program to support future animation creators has recently been established. This scholarship was born out of a strong desire to reduce the number of young people who give up on their dreams due to financial reasons.",
+      "id": "b717ba6b-7770-4592-9cea-651f2917aac2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募資格は、アニメ制作に関わる分野を専攻している大学生や専門学校生です。特に、作画、演出、脚本、CGなどの分野で、将来性のある学生が対象となります。書類選考に加え、ポートフォリオや面接などを通じて、熱意や独創性が評価されることになります。",
+      "translationZh": "申请资格是主修与动画制作相关专业的大学生或专科生。特别地，作画、导演、编剧、CG等领域的有潜力的学生将成为对象。除了材料审查，还将通过作品集和面试等方式评估其热情和独创性。",
+      "translationEn": "Eligibility is for university or vocational school students majoring in fields related to animation production. In particular, promising students in areas such as drawing, directing, scriptwriting, and CG will be targeted. In addition to document screening, enthusiasm and originality will be evaluated through portfolios and interviews.",
+      "id": "3328d1f5-e811-4b6b-86d3-450391f093de",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "奨学金は、学費の全額または一部をカバーし、さらに制作活動に必要な機材購入費なども支援対象となる場合があります。これにより、学生は経済的な負担を軽減しながら、より質の高い制作活動に集中できるでしょう。夢の実現に向けて、大きな一歩を踏み出すチャンスです。",
+      "translationZh": "奖学金将支付学费的全部或一部分，此外，购买制作活动所需设备等的费用也可能成为支援对象。这样一来，学生们在减轻经济负担的同时，就能更专注于高质量的制作活动。这是朝着实现梦想迈出一大步的机会。",
+      "translationEn": "The scholarship will cover all or part of the tuition fees, and may also support the purchase of equipment necessary for production activities. This will allow students to focus on higher quality production activities while reducing their financial burden. It is a chance to take a big step towards realizing their dreams.",
+      "id": "d8f385be-9375-471e-9e69-5bcbb4698873",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度は、日本のアニメ文化をさらに豊かにしていくための重要な投資です。才能ある若者がのびのびと学べる環境が整えば、より独創的で魅力的な作品が生まれるはずです。興味のある方は、ぜひ詳細を確認して応募を検討してみてください。",
+      "translationZh": "这项制度是为了进一步丰富日本动画文化而进行的一项重要投资。如果能为有才华的年轻人提供一个可以自由学习的环境，应该能诞生出更具独创性和吸引力的作品。有兴趣的人，请务必确认详细信息并考虑申请。",
+      "translationEn": "This program is an important investment to further enrich Japanese anime culture. If an environment is created where talented young people can learn freely, more original and attractive works should be born. Those who are interested, please be sure to check the details and consider applying.",
+      "id": "c88f2ea6-53aa-4dc1-9c23-46924328248a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n3",
+      "exampleSentence": "彼は優秀なゲームクリエイターとして有名です。",
+      "id": "f17b068d-b10a-4a4e-8edf-ed9d11a39432"
+    },
+    {
+      "word": "奨学金制度",
+      "reading": "しょうがくきんせいど",
+      "meaningZh": "奖学金制度",
+      "meaningEn": "scholarship system",
+      "level": "n3",
+      "exampleSentence": "この大学には様々な奨学金制度があります。",
+      "id": "e6b564e7-ac8c-4d44-af4f-49bed656e713"
+    },
+    {
+      "word": "設立",
+      "reading": "せつりつ",
+      "meaningZh": "设立，创设",
+      "meaningEn": "establishment",
+      "level": "n3",
+      "exampleSentence": "新しいNPO法人が設立されました。",
+      "id": "3492a242-4ccb-4673-863d-6f3bd3f42605"
+    },
+    {
+      "word": "専攻",
+      "reading": "せんこう",
+      "meaningZh": "专业",
+      "meaningEn": "major (in school)",
+      "level": "n3",
+      "exampleSentence": "大学で経済学を専攻しました。",
+      "id": "96504c3f-8342-49fb-8cd3-7ec5ee68a678"
+    },
+    {
+      "word": "作画",
+      "reading": "さが",
+      "meaningZh": "作画，绘画",
+      "meaningEn": "drawing, animation frames",
+      "level": "n3",
+      "exampleSentence": "このアニメは作画がとてもきれいです。",
+      "id": "208a4dc9-7dc7-4b9d-b84a-3fc53804589e"
+    },
+    {
+      "word": "演出",
+      "reading": "えんしゅつ",
+      "meaningZh": "导演，演出",
+      "meaningEn": "direction, directing",
+      "level": "n3",
+      "exampleSentence": "映画の演出に感動しました。",
+      "id": "df9a7e54-67df-4425-8ca5-7a5a5f31d6cf"
+    },
+    {
+      "word": "独創性",
+      "reading": "どくそうせい",
+      "meaningZh": "独创性",
+      "meaningEn": "originality",
+      "level": "n3",
+      "exampleSentence": "彼のアイデアには独創性があります。",
+      "id": "914877cb-f635-405f-85a7-21576dcb15ae"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担",
+      "meaningEn": "burden",
+      "level": "n3",
+      "exampleSentence": "学費の負担が大きいです。",
+      "id": "7589f48d-e154-40bb-bc17-8895d46a9eab"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度は、どのような学生を支援することを目的としていますか？",
+      "options": [
+        "経済学を専攻する学生",
+        "アニメ制作の分野で将来を目指す学生",
+        "海外でアニメを勉強したい学生",
+        "CG技術を専門とする学生"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「アニメーション業界で活躍したいと考えている学生にとって、朗報です。この度、未来のアニメクリエイターを支援するための新しい奨学金制度が設立されました。」とあります。",
+      "id": "6dfc9ecc-207b-4f06-adaf-b36b7e8f9d88"
+    },
+    {
+      "question": "奨学金を受けることで、学生は何ができるようになりますか？",
+      "options": [
+        "海外への留学が容易になる",
+        "プロのクリエイターとしてすぐにデビューできる",
+        "経済的な心配を減らし、制作活動に集中できる",
+        "アニメ制作に必要な機材を無償で借りられる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「これにより、学生は経済的な負担を軽減しながら、より質の高い制作活動に集中できるでしょう。」とあります。",
+      "id": "d0b043c7-8d64-4d85-ba28-5d60e8621a40"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-03-f82db1818e",
+  "publishedAt": "2026-10-03T06:00:00+09:00"
+}
