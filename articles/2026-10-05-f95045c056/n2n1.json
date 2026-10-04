@@ -1,0 +1,138 @@
+{
+  "title": "静かなブーム：地方都市で詩の朗読会が人気を集める",
+  "summary": "近年、地方都市を中心に、現代詩の朗読会が静かなブームとなっている。参加者の増加や多様な企画が実施されており、新たな文化交流の場として注目されているとのことだ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、地方都市において、現代詩の朗読会が新たな文化イベントとして注目を集めている。かつては一部の愛好家のものであった詩の世界が、より身近な形で地域住民に親しまれるようになり、予想外の広がりを見せているのだ。参加者からは、「言葉の響きに心が癒される」「日常では触れることのない感性に触れられる」といった声が聞かれ、その人気ぶりを裏付けている。",
+      "translationZh": "近年来，现代诗朗诵会在地方城市作为一项新的文化活动吸引了人们的关注。曾经仅限于部分爱好者的小众领域，如今诗歌世界正以更加贴近生活的方式被当地居民所接受，并展现出意想不到的拓展。参与者表示：“诗歌的韵律治愈了我的心灵”、“能够接触到日常生活中难以触及的情感”，这些声音印证了其受欢迎的程度。",
+      "translationEn": "In recent years, modern poetry reading sessions have been gaining attention as a new cultural event in regional cities. The world of poetry, once confined to a niche audience of enthusiasts, is now becoming more accessible to local residents in a familiar format, showing an unexpected expansion. Participants comment, \"The resonance of words soothes my heart\" and \"I can experience sensibilities not encountered in daily life,\" underscoring its popularity.",
+      "id": "ebf9e636-4ee5-42b2-bfd7-401680f1730a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした朗読会の盛り上がりは、単に詩を読むという行為に留まらない。多くの会場では、地元の食材を使った軽食が提供されたり、音楽とのコラボレーションが行われたりするなど、詩の世界を多角的に体験できるような工夫が凝らされている。これにより、詩に馴染みのない層からの参加も促され、異分野との交流が生まれるきっかけともなっている。地方創生の観点からも、こうした文化活動への期待は高まっていると見られる。",
+      "translationZh": "此类朗诵会的兴盛，不仅仅局限于朗诵诗歌这一行为。许多会场还精心设计了多种多样的体验方式，例如提供使用当地食材制作的简餐，或与音乐进行跨界合作。这不仅鼓励了不熟悉诗歌的人群参与，也为不同领域之间的交流创造了契机。从地方振兴的角度来看，对这类文化活动的期待也在不断提高。",
+      "translationEn": "The burgeoning popularity of these reading sessions is not limited to the act of reciting poetry itself. Many venues are creatively incorporating elements such as light meals made with local ingredients and collaborations with music, allowing participants to experience the world of poetry from multiple perspectives. This encourages participation from individuals unfamiliar with poetry, fostering cross-disciplinary interaction. From the perspective of regional revitalization, expectations for such cultural activities are also seen to be rising.",
+      "id": "7b86ef25-2b00-4d37-9ae2-a5b0b5a10fb2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "専門家は、現代社会におけるストレスの増加や、情報過多による精神的な疲弊を背景に、詩の持つ静謐さや内省を促す力が再評価されているのではないかと分析している。また、SNSなどを活用した情報発信により、開催情報が拡散しやすくなったことも、参加者増加の一因として挙げられるだろう。今後も、地域に根差した多様な詩の朗読会が、人々の心に潤いをもたらす場として発展していくことが期待される。",
+      "translationZh": "专家分析认为，在现代社会压力增加和信息过载导致精神疲惫的背景下，诗歌所蕴含的宁静和内省的力量可能正被重新评估。此外，通过社交媒体等平台传播信息使得活动信息更容易扩散，这也被认为是参与者增加的一个原因。预计今后，根植于地方、形式多样的诗歌朗诵会，将继续发展成为滋润人们心灵的场所。",
+      "translationEn": "Experts analyze that, against the backdrop of increased stress in modern society and mental fatigue due to information overload, the quietness and introspective power of poetry are being re-evaluated. Furthermore, the ease with which event information can be disseminated through platforms like social media is likely a contributing factor to the increase in participants. It is anticipated that diverse, regionally-rooted poetry reading sessions will continue to develop as spaces that bring solace to people's hearts.",
+      "id": "b7fd730d-21b7-4e9a-acf9-e4c8c0ec2095",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "朗読会",
+      "reading": "ろうどくかい",
+      "meaningZh": "朗诵会",
+      "meaningEn": "reading session",
+      "level": "n3",
+      "exampleSentence": "友人と一緒に詩の朗読会に参加した。",
+      "id": "bc8583a5-f386-4669-9c35-69c14964669e"
+    },
+    {
+      "word": "身近",
+      "reading": "みぢか",
+      "meaningZh": "近切，亲近",
+      "meaningEn": "familiar, close at hand",
+      "level": "n3",
+      "exampleSentence": "もっと身近な話題で話したい。",
+      "id": "4d886bad-89b8-4cb9-880a-0abe417ba928"
+    },
+    {
+      "word": "愛好家",
+      "reading": "あいこうか",
+      "meaningZh": "爱好者",
+      "meaningEn": "enthusiast, amateur",
+      "level": "n2n1",
+      "exampleSentence": "彼はクラシック音楽の愛好家だ。",
+      "id": "44cc60cf-0c12-4bf0-b921-ddcaa0ba07f0"
+    },
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaningZh": "集中（精力），绞尽（脑汁），精心设计",
+      "meaningEn": "to devise, to concentrate, to focus",
+      "level": "n2n1",
+      "exampleSentence": "企画には様々な工夫が凝らされていた。",
+      "id": "60412b2d-71ca-4b0f-ba67-392ee9ad6889"
+    },
+    {
+      "word": "静謐",
+      "reading": "せいひつ",
+      "meaningZh": "宁静，肃静",
+      "meaningEn": "tranquility, serenity, quietness",
+      "level": "n2n1",
+      "exampleSentence": "静謐な空間で読書を楽しんだ。",
+      "id": "493728f8-be71-47e3-a589-4a8cf4e462b2"
+    },
+    {
+      "word": "内省",
+      "reading": "ないせい",
+      "meaningZh": "反省，内省",
+      "meaningEn": "introspection, self-reflection",
+      "level": "n2n1",
+      "exampleSentence": "週末は内省の時間を持つようにしている。",
+      "id": "3bfa3a71-65bb-4f97-adf7-e470831210dd"
+    },
+    {
+      "word": "疲弊",
+      "reading": "ひへい",
+      "meaningZh": "疲惫，衰竭",
+      "meaningEn": "exhaustion, depletion",
+      "level": "n2n1",
+      "exampleSentence": "連日の激務で心身ともに疲弊している。",
+      "id": "c3e8b057-e865-48d0-bfb1-2ceab6a54f56"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "現代詩の朗読会が地方都市で人気を集めている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "詩が無料で提供されるようになったから",
+        "詩の世界がより身近になり、多様な体験ができる工夫がされているから",
+        "参加費が非常に安価になったから",
+        "有名な詩人が定期的に参加するようになったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中には「詩の世界が、より身近な形で地域住民に親しまれるようになり、予想外の広がりを見せているのだ。」「多くの会場では、地元の食材を使った軽食が提供されたり、音楽とのコラボレーションが行われたりするなど、詩の世界を多角的に体験できるような工夫が凝らされている。」と記されている。",
+      "id": "5dd7e76c-6c81-4623-a92d-26eaecefd3ae"
+    },
+    {
+      "question": "朗読会が異分野との交流を生むきっかけとなっているのは、どのような点によると考えられますか？",
+      "options": [
+        "SNSでの宣伝活動が活発だから",
+        "参加者の年齢層が幅広いから",
+        "詩以外のエンターテイメント要素も取り入れられているから",
+        "地方自治体が積極的に支援しているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「こうした盛り上がりは、単に詩を読むという行為に留まらない。多くの会場では、地元の食材を使った軽食が提供されたり、音楽とのコラボレーションが行われたりするなど、詩の世界を多角的に体験できるような工夫が凝らされている。これにより、詩に馴染みのない層からの参加も促され、異分野との交流が生まれるきっかけともなっている。」とある。",
+      "id": "36699834-46b1-4030-8f1d-2895ddbd6577"
+    },
+    {
+      "question": "専門家は、現代社会において詩の力が再評価されている背景として、どのような要因を挙げていますか？",
+      "options": [
+        "インターネットの普及による情報量の増加",
+        "経済的な不況による娯楽への関心の低下",
+        "現代社会におけるストレスと情報過多による精神的疲弊",
+        "教育現場での詩の授業の増加"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「現代社会におけるストレスの増加や、情報過多による精神的な疲弊を背景に、詩の持つ静謐さや内省を促す力が再評価されているのではないかと分析している。」と記載されている。",
+      "id": "ee318c4c-acbb-4437-89f6-e3b606d7c74f"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-05-f95045c056",
+  "publishedAt": "2026-10-05T06:00:00+09:00"
+}

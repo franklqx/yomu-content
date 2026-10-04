@@ -1,0 +1,122 @@
+{
+  "title": "冬の施設、夏も楽しむ！",
+  "summary": "冬のスポーツをする場所が、夏も使えるように工夫しています。これは「通年化」といいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬になると、スキーやスノーボードができる場所があります。雪がたくさん降るからです。でも、雪がなくなると、これらの場所は閉まります。残念ですね。",
+      "translationZh": "冬天的时候，有一些地方可以滑雪和滑雪板。因为会下很多雪。但是，雪没有了之后，这些地方就关门了。真可惜啊。",
+      "translationEn": "In winter, there are places where you can ski and snowboard. This is because a lot of snow falls. However, when the snow disappears, these places close. It's a shame.",
+      "id": "a6c57ecd-5b89-466d-a86a-dc43f5c73b31",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、この冬のスポーツをする場所が、夏も使えるように頑張っています。これを「通年化」といいます。例えば、人工雪（じんこうせつ）を使って、夏でも雪の体験ができるようにする施設があります。",
+      "translationZh": "最近，这些冬天进行体育运动的地方，正在努力让夏天也能使用。这叫做“全年化”。例如，有些设施使用人造雪，让人们即使在夏天也能体验雪。",
+      "translationEn": "Recently, these places for winter sports are working hard to be usable in summer as well. This is called 'tsunenka' (year-round operation). For example, some facilities use artificial snow to allow people to experience snow even in summer.",
+      "id": "f6bbd594-3b04-41e8-ab71-493f42552a77",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、スキー場（スキーじょう）の坂（さか）を使って、マウンテンバイクのコースを作ったり、キャンプ場（キャンプじょう）にしたりするアイデアもあります。お客さんは一年中（いちねんじゅう）楽しめますね。",
+      "translationZh": "还有，利用滑雪场的坡道，制作山地自行车道，或者将其变成露营场，这样的想法也有。游客可以一年四季都享受到乐趣。",
+      "translationEn": "Also, there are ideas to use the slopes of ski resorts to create mountain bike courses or turn them into campgrounds. Visitors can enjoy themselves all year round.",
+      "id": "c9ab1e78-a72f-4228-b9f2-09ef2a4cc292",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "冬だけの楽しみではなく、一年中楽しめる場所が増えるのは、とても良いことだと思います。皆さんも、夏にスキー場に行くのはどうですか？",
+      "translationZh": "我认为，增加一年四季都能享受的场所，而不是只有冬天才能享受，是一件非常好的事情。大家也不妨夏天去滑雪场看看？",
+      "translationEn": "I think it's a very good thing that places enjoyable all year round are increasing, not just for winter enjoyment. How about you all visit a ski resort in the summer?",
+      "id": "189e49b9-397f-495e-8611-c3334706e036",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaningZh": "冬天",
+      "meaningEn": "winter",
+      "level": "n5n4",
+      "exampleSentence": "冬は寒いです。",
+      "id": "71f911a3-295e-4231-93c1-5679aa72c81f"
+    },
+    {
+      "word": "スキー",
+      "reading": "スキー",
+      "meaningZh": "滑雪",
+      "meaningEn": "skiing",
+      "level": "n5n4",
+      "exampleSentence": "スキーがしたいです。",
+      "id": "7aef22c5-edb3-4f9f-af2c-8d33e67602fe"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place, location",
+      "level": "n5n4",
+      "exampleSentence": "ここは良い場所です。",
+      "id": "297d1690-150d-4ddb-b183-22e246c6a2b0"
+    },
+    {
+      "word": "閉まります",
+      "reading": "しまります",
+      "meaningZh": "关门，关闭",
+      "meaningEn": "to close",
+      "level": "n5n4",
+      "exampleSentence": "お店は６時に閉まります。",
+      "id": "7738262b-8ec8-46ed-b1a0-6bf21dfd0dcb"
+    },
+    {
+      "word": "人工雪",
+      "reading": "じんこうせつ",
+      "meaningZh": "人造雪",
+      "meaningEn": "artificial snow",
+      "level": "n5n4",
+      "exampleSentence": "人工雪を作ります。",
+      "id": "3a6b78ec-d398-4417-b747-19f70d1afc55"
+    },
+    {
+      "word": "坂",
+      "reading": "さか",
+      "meaningZh": "坡，斜坡",
+      "meaningEn": "slope, hill",
+      "level": "n5n4",
+      "exampleSentence": "この坂は急です。",
+      "id": "97424abe-45a4-4a0e-8df7-e911beb1ba2d"
+    },
+    {
+      "word": "一年中",
+      "reading": "いちねんじゅう",
+      "meaningZh": "一年到头，全年",
+      "meaningEn": "all year round",
+      "level": "n5n4",
+      "exampleSentence": "一年中暖かい国に行きたいです。",
+      "id": "a52c5a7a-0d1c-4b41-a2e1-9c9f7e9b5a56"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "冬のスポーツをする場所は、どのように夏も使えるように工夫していますか？",
+      "options": [
+        "夏も雪を降らせる",
+        "人工雪を使ったり、他のアクティビティができるようにする",
+        "冬が終わったら、完全に閉鎖する",
+        "機械で暑さを冷ます"
+      ],
+      "correctIndex": 1,
+      "explanation": "「人工雪（じんこうせつ）を使って、夏でも雪の体験ができるようにする施設があります。」や「スキー場（スキーじょう）の坂（さか）を使って、マウンテンバイクのコースを作ったり、キャンプ場（キャンプじょう）にしたりするアイデアもあります。」という文から、人工雪を使ったり、他のアクティビティができるように工夫していることがわかります。",
+      "id": "dace76ee-67b2-431a-a2e2-2368b043534c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-05-834bc63b7f",
+  "publishedAt": "2026-10-05T06:00:00+09:00"
+}

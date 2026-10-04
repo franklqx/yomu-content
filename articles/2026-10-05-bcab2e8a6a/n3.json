@@ -1,0 +1,143 @@
+{
+  "title": "地域訓練を楽しく！防災意識を高める工夫",
+  "summary": "災害はいつ起こるか分かりません。地域での訓練を楽しく行い、日頃から防災意識を高めるための工夫を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "地震や台風などの災害は、いつ、どこで起こるか予測が難しいものです。そのため、日頃から防災意識を高めておくことが非常に大切です。特に地域で行われる防災訓練は、住民がお互いに助け合うための良い機会となりますが、マンネリ化してしまうこともあります。",
+      "translationZh": "地震和台风等灾害，不知道何时何地会发生。因此，平时就提高防灾意识非常重要。特别是地区上举行的防灾演习，是居民互相帮助的好机会，但也可能变得一成不变。",
+      "translationEn": "It is difficult to predict when and where disasters such as earthquakes and typhoons will occur. Therefore, it is very important to raise disaster preparedness awareness on a daily basis. In particular, community disaster drills provide a good opportunity for residents to help each other, but they can also become routine and uninspired.",
+      "id": "d31b0ec8-cbf3-4435-8b8c-a727c4ee8263",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "訓練をより効果的にするためには、参加者が主体的に関われるような工夫が求められます。例えば、単に避難経路を確認するだけでなく、地域のお店と協力して、災害時に役立つ物資の調達訓練を行うのはどうでしょうか。そうすれば、楽しみながら地域の実情に合った防災知識を身につけることができます。",
+      "translationZh": "为了使演习更有效，需要有让参与者能够主动参与的改进。例如，不只是确认避难路线，而是与当地商店合作，进行灾时有用物资的采购演习，怎么样？这样一来，就可以在享受乐趣的同时，掌握符合地区实际情况的防灾知识。",
+      "translationEn": "To make drills more effective, it is necessary to devise ways for participants to actively engage. For example, instead of just checking evacuation routes, how about cooperating with local stores to conduct training on procuring supplies that would be useful in a disaster? This way, people can acquire disaster preparedness knowledge tailored to the local situation while having fun.",
+      "id": "60a26724-9e55-4033-868d-455c0d1e2751",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、高齢者や小さな子供がいる家庭など、特別な配慮が必要な方々を支援する訓練も重要です。地域全体で支え合う意識を育むためには、こうした多様なニーズに対応できる訓練内容を考えることが大切になってきます。参加者が「自分ごと」として捉えられるような企画を立てれば、防災意識は自然と高まるはずです。",
+      "translationZh": "此外，为需要特别关照的老年人或有小孩的家庭等提供支援的演习也很重要。为了培养整个地区互相支持的意识，考虑能够应对这些多样化需求的演习内容变得很重要。如果能制定让参与者能够“感同身受”的计划，防灾意识自然会提高。",
+      "translationEn": "Furthermore, it is important to conduct drills that support those who require special consideration, such as the elderly or families with young children. To foster a sense of mutual support within the community, it is crucial to design drill content that can address these diverse needs. If plans are made so that participants can feel it is a personal matter, disaster preparedness awareness should naturally increase.",
+      "id": "2136e806-a1d5-46c8-a225-3b35bcc842b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域住民が主体となって、楽しみながら参加できる訓練は、防災意識の向上に繋がります。工夫次第で、災害に強い地域づくりは可能です。皆さんも、ぜひ地域の防災活動に参加してみてはいかがでしょうか。",
+      "translationZh": "由地区居民主导，能够快乐参与的演习，有助于提高防灾意识。只要有创意，就可以建设一个抗灾能力强的地区。大家不妨也来参加一下地区的防灾活动吧。",
+      "translationEn": "Drills led by community residents that allow for enjoyable participation lead to improved disaster preparedness awareness. With ingenuity, it is possible to build a disaster-resilient community. Why don't you all try participating in local disaster preparedness activities?",
+      "id": "ee55ef2a-e43b-4fc6-95a2-2ac0062d9bfa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaningZh": "预测，预料",
+      "meaningEn": "prediction, forecast",
+      "level": "n3",
+      "exampleSentence": "明日の天気は予測できない。",
+      "id": "b6737a3c-2b89-477e-af2f-687077760a9e"
+    },
+    {
+      "word": "マンネリ化",
+      "reading": "マンネリか",
+      "meaningZh": "变得模式化，一成不变",
+      "meaningEn": "becoming routine, becoming stale",
+      "level": "n3",
+      "exampleSentence": "会議がマンネリ化してきたので、新しい企画を考えたい。",
+      "id": "7827194d-aca4-496d-82f6-8278ebb956a1"
+    },
+    {
+      "word": "主体的に",
+      "reading": "しゅたいてきに",
+      "meaningZh": "主动地",
+      "meaningEn": "actively, proactively",
+      "level": "n3",
+      "exampleSentence": "学生が主体的に学習に取り組むことが大切だ。",
+      "id": "22ab8858-e401-4e2f-8533-3bbbc0869c3c"
+    },
+    {
+      "word": "調達",
+      "reading": "ちょうたつ",
+      "meaningZh": "筹措，采购",
+      "meaningEn": "procurement, obtaining",
+      "level": "n3",
+      "exampleSentence": "必要な物資を迅速に調達する。",
+      "id": "288199ac-9eec-45f8-a7e2-5ba7412703e9"
+    },
+    {
+      "word": "実情",
+      "reading": "じつじょう",
+      "meaningZh": "实际情况",
+      "meaningEn": "actual circumstances, real situation",
+      "level": "n3",
+      "exampleSentence": "現地の実情に合わせて計画を変更した。",
+      "id": "7eec8912-c8b9-49fd-aac8-8fb0d0c71ee0"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "关怀，关照",
+      "meaningEn": "consideration, care",
+      "level": "n3",
+      "exampleSentence": "相手に配慮した言葉遣いを心がける。",
+      "id": "30128630-9737-42ca-8969-d01442d84737"
+    },
+    {
+      "word": "ニーズ",
+      "reading": "ニーズ",
+      "meaningZh": "需求",
+      "meaningEn": "needs",
+      "level": "n3",
+      "exampleSentence": "顧客のニーズに応える商品開発を行う。",
+      "id": "9c645105-ead8-41db-b43f-5b0cb0b55c5d"
+    },
+    {
+      "word": "「自分ごと」",
+      "reading": "「じぶんごと」",
+      "meaningZh": "与自己相关的事情，切身相关",
+      "meaningEn": "something concerning oneself, a personal matter",
+      "level": "n3",
+      "exampleSentence": "この問題は、他人事ではなく「自分ごと」として考えるべきだ。",
+      "id": "011c257c-92ba-4924-b8c5-a50761da3d62"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地域訓練がマンネリ化してしまうことがあるのはなぜですか？",
+      "options": [
+        "参加者が少ないから",
+        "訓練内容がいつも同じだから",
+        "場所が毎回変わるから",
+        "災害が起こらないから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「マンネリ化してしまうこともあります。」という記述から、訓練内容がいつも同じであることが原因の一つと考えられます。",
+      "id": "82648735-a5f0-437e-b571-df379db5e493"
+    },
+    {
+      "question": "防災意識を高めるために、どのような訓練が効果的だと述べられていますか？",
+      "options": [
+        "避難経路の確認だけを行う訓練",
+        "地域のお店と協力して物資調達訓練を行うこと",
+        "災害が起こった時のシミュレーション",
+        "参加者が指示を待つだけの訓練"
+      ],
+      "correctIndex": 1,
+      "explanation": "「例えば、単に避難経路を確認するだけでなく、地域のお店と協力して、災害時に役立つ物資の調達訓練を行うのはどうでしょうか。」とあり、これが効果的だと示唆されています。",
+      "id": "b30f3f3f-431e-4fa8-9a46-5804675a3225"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-05-bcab2e8a6a",
+  "publishedAt": "2026-10-05T06:00:00+09:00"
+}

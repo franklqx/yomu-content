@@ -1,0 +1,131 @@
+{
+  "title": "詩の会、人気です",
+  "summary": "最近、地方で現代詩の朗読会が人気です。多くの人が集まっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、地方の町で現代詩の朗読会が人気になっています。毎月、多くの人が集まって、詩を聞いています。",
+      "translationZh": "最近，地方城镇的现代诗朗诵会变得很受欢迎。每个月，许多人聚集在一起听诗。",
+      "translationEn": "Recently, modern poetry reading sessions have become popular in local towns. Every month, many people gather to listen to poetry.",
+      "id": "9f353f90-1389-4617-8b1e-db860fd768f5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朗読会では、いろいろな詩が読まれます。昔の詩もあれば、新しい詩もあります。参加者は、詩の世界にゆっくり入っていきます。",
+      "translationZh": "在朗诵会上，会朗读各种各样的诗。有过去的诗，也有新的诗。参加者慢慢地进入诗歌的世界。",
+      "translationEn": "At the reading sessions, various poems are read. There are old poems and new poems. Participants slowly enter the world of poetry.",
+      "id": "022cbe20-9fa2-4a49-9879-5ba4fc873bf0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この会は、言葉の美しさや、詩の持つ力について考える良い機会です。参加した人は、心が豊かになったと言っています。",
+      "translationZh": "这个聚会是思考语言之美和诗歌力量的好机会。参加者说他们的心灵变得丰富了。",
+      "translationEn": "This gathering is a good opportunity to think about the beauty of words and the power of poetry. Those who participated say their hearts have become enriched.",
+      "id": "1de043f0-1e17-4a1c-9586-3dd8ddc060a3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方の町でも、文化的なイベントが元気です。これからも、このような会が続くことを願っています。",
+      "translationZh": "即使在地方城镇，文化活动也很活跃。我们希望这样的聚会今后能继续下去。",
+      "translationEn": "Even in local towns, cultural events are lively. We hope that such gatherings will continue in the future.",
+      "id": "91c8e95c-9515-4347-800c-a7dca7a354c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "現代詩",
+      "reading": "げんだいし",
+      "meaningZh": "现代诗",
+      "meaningEn": "modern poetry",
+      "level": "n5n4",
+      "exampleSentence": "この詩集は現代詩の代表的な作品です。",
+      "id": "2d9b8f41-b367-4572-ae39-1e2991328fa2"
+    },
+    {
+      "word": "朗読会",
+      "reading": "ろうどくかい",
+      "meaningZh": "朗诵会",
+      "meaningEn": "reading session",
+      "level": "n5n4",
+      "exampleSentence": "日曜日に朗読会があります。",
+      "id": "64866b5d-6bdf-4afc-844c-efcdb17563a2"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, local area",
+      "level": "n5n4",
+      "exampleSentence": "これは地方の特産品です。",
+      "id": "0833fa95-e7c7-4dba-9e46-e2f4cff4d197"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "多くの人が公園に集まりました。",
+      "id": "d543b8b2-36a4-4757-91b7-64df7c837cc6"
+    },
+    {
+      "word": "参加者",
+      "reading": "さんかしゃ",
+      "meaningZh": "参加者",
+      "meaningEn": "participant",
+      "level": "n5n4",
+      "exampleSentence": "参加者にはプレゼントがあります。",
+      "id": "78361984-8e76-4170-97e9-cc83c22fcc16"
+    },
+    {
+      "word": "世界",
+      "reading": "せかい",
+      "meaningZh": "世界",
+      "meaningEn": "world",
+      "level": "n5n4",
+      "exampleSentence": "この本は新しい世界を見せてくれます。",
+      "id": "85fdd18f-802a-4787-973b-e8a3344789f5"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n5n4",
+      "exampleSentence": "これは良い機会です。",
+      "id": "6340f398-92a1-45b4-8210-2dd68dea26da"
+    },
+    {
+      "word": "豊か",
+      "reading": "ゆたか",
+      "meaningZh": "丰富，富裕",
+      "meaningEn": "rich, abundant",
+      "level": "n5n4",
+      "exampleSentence": "自然が豊かです。",
+      "id": "ac72a7b7-8dab-4917-b6f0-0486c431dc98"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "地方の朗読会は、どのような様子ですか。",
+      "options": [
+        "人はあまり来ない",
+        "毎月、多くの人が集まる",
+        "詩は読まれない",
+        "参加者はいつも怒っている"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「毎月、多くの人が集まって、詩を聞いています。」と書いてあります。",
+      "id": "bf9a181c-8255-4c18-987a-7c0268099154"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-05-f95045c056",
+  "publishedAt": "2026-10-05T06:00:00+09:00"
+}

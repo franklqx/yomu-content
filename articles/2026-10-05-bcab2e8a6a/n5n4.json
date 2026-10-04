@@ -1,0 +1,131 @@
+{
+  "title": "地域の防災訓練、もっと楽しく！",
+  "summary": "地域の防災訓練は大切です。でも、もっと楽しくする方法があります。みんなで考えましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "災害はいつ来るか分かりません。だから、日頃から備えることが大切です。地域のみんなで防災訓練をすることは、とても良いことです。でも、いつも同じ訓練だと、少しつまらないかもしれません。",
+      "translationZh": "灾害不知道什么时候会来。所以，平时做好准备很重要。和社区里的大家一起进行防灾训练是非常好的事情。但是，如果每次都是同样的训练，可能会有点无聊。",
+      "translationEn": "We don't know when disasters will come. Therefore, it is important to prepare in advance. It is very good to conduct disaster prevention drills with everyone in the community. However, if the drills are always the same, they might be a little boring.",
+      "id": "e7f8264a-e9f6-46ab-b1ee-e583670eb124",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、訓練をもっと楽しくする工夫をしましょう。例えば、ゲームを取り入れるのはどうですか？「避難場所クイズ」や「応急手当リレー」など、遊びながら学べるようにします。",
+      "translationZh": "因此，让我们想办法让训练更有趣。例如，加入游戏怎么样？比如“避难地点问答”或“急救接力”，这样可以一边玩一边学习。",
+      "translationEn": "Therefore, let's find ways to make the training more fun. For example, how about incorporating games? We can make it so that people can learn while playing, such as a \"shelter quiz\" or \"first aid relay.\"",
+      "id": "cb4e998d-3830-4202-9497-58174a80108e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、子どもの参加を増やす工夫も大切です。子どもたちが喜ぶようなキャラクターを使ったり、絵を描く時間を作ったりすると、もっと関心を持つでしょう。",
+      "translationZh": "此外，增加儿童参与的工夫也很重要。如果使用孩子们会喜欢的角色，或者留出画画的时间，他们会更感兴趣。",
+      "translationEn": "Also, it is important to find ways to increase children's participation. If we use characters that children will like, or create time for drawing pictures, they will likely become more interested.",
+      "id": "477649ce-f7b2-47d7-9869-376b62c89e34",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域のみんなが楽しく参加できる訓練は、防災意識を高める良い方法です。これからも、いろいろなアイデアを出して、安全な町を作りましょう。",
+      "translationZh": "让社区里的大家都能愉快参与的训练，是提高防灾意识的好方法。今后也请大家提出各种各样的点子，一起创造安全的城镇吧。",
+      "translationEn": "Training that everyone in the community can participate in enjoyably is a good way to raise disaster preparedness awareness. Let's continue to come up with various ideas and build a safe town.",
+      "id": "a3c0e6ef-1f63-46e8-8bf7-a56fc6fa3718",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾害",
+      "meaningEn": "disaster",
+      "level": "n5n4",
+      "exampleSentence": "地震という災害は怖いです。",
+      "id": "cd3e1221-3707-40d7-8765-a154e263f494"
+    },
+    {
+      "word": "備える",
+      "reading": "そなえる",
+      "meaningZh": "准备；配备",
+      "meaningEn": "to prepare; to be equipped with",
+      "level": "n5n4",
+      "exampleSentence": "水や食料を準備しました。",
+      "id": "2cde258f-c523-48d4-8fcd-54de0063a801"
+    },
+    {
+      "word": "訓練",
+      "reading": "くんれん",
+      "meaningZh": "训练",
+      "meaningEn": "training; drill",
+      "level": "n5n4",
+      "exampleSentence": "毎月、避難訓練があります。",
+      "id": "0afc0507-ea00-486d-a68b-4c0bd5fee2c5"
+    },
+    {
+      "word": "つまらない",
+      "reading": "つまらない",
+      "meaningZh": "无聊的；没意思的",
+      "meaningEn": "boring; uninteresting",
+      "level": "n5n4",
+      "exampleSentence": "この本はつまらないです。",
+      "id": "0b0ddf41-5beb-42d0-b542-8897322f39d3"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法；巧妙的方法",
+      "meaningEn": "device; idea; ingenuity",
+      "level": "n5n4",
+      "exampleSentence": "もっと良い方法を工夫しましょう。",
+      "id": "cc58c9b6-a853-424f-97d0-27a89449aa3e"
+    },
+    {
+      "word": "避難場所",
+      "reading": "ひなんばしょ",
+      "meaningZh": "避难场所",
+      "meaningEn": "shelter; evacuation site",
+      "level": "n5n4",
+      "exampleSentence": "学校が避難場所になります。",
+      "id": "1c65ff5e-2eed-4f9b-9407-c74b9bb3f0da"
+    },
+    {
+      "word": "応急手当",
+      "reading": "おうきゅうてあて",
+      "meaningZh": "急救",
+      "meaningEn": "first aid",
+      "level": "n5n4",
+      "exampleSentence": "けがをした人に応急手当をしました。",
+      "id": "ad53b13f-a747-48cc-86d7-79f0381b5d87"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaningZh": "关心；兴趣",
+      "meaningEn": "concern; interest",
+      "level": "n3",
+      "exampleSentence": "環境問題に関心があります。",
+      "id": "f908d12f-2ada-4a38-b1fb-4efcd8c87cd0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、防災訓練をもっと楽しくするには、どのような工夫が大切ですか？",
+      "options": [
+        "いつも同じ訓練を続けること",
+        "ゲームや遊びを取り入れること",
+        "難しい専門用語を使うこと",
+        "大人だけが参加すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "「そこで、訓練をもっと楽しくする工夫をしましょう。例えば、ゲームを取り入れるのはどうですか？」と書いてあります。",
+      "id": "f7b8cf61-1ff3-4d7c-a4eb-1588beb8cd34"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-05-bcab2e8a6a",
+  "publishedAt": "2026-10-05T06:00:00+09:00"
+}

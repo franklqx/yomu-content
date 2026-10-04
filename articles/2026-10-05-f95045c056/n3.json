@@ -1,0 +1,134 @@
+{
+  "title": "地方都市で広がる朗読会、現代詩が人気を集める",
+  "summary": "近年、地方都市で現代詩の朗読会が静かに人気を集めています。詩の世界が身近になり、多くの人々が言葉の力に触れています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、地方の小さな町でも、現代詩の朗読会が開催される機会が増えています。以前は一部の愛好家の集まりと思われがちでしたが、今では地域住民の間に広がり、毎回多くの人が集まる人気のイベントになっています。",
+      "translationZh": "最近，即使在地方上的小镇，举办现代诗朗读会的机会也在增加。虽然以前人们普遍认为这只是少数爱好者的小圈子活动，但如今它已经扩展到当地居民中，每次都有很多人参加，成为了一个受欢迎的活动。",
+      "translationEn": "Recently, opportunities to hold contemporary poetry readings have been increasing even in small regional towns. Although it was once often thought of as a gathering for a niche group of enthusiasts, it has now spread among local residents and has become a popular event that attracts many people each time.",
+      "id": "4c437211-25ed-41c3-b340-165fe7fb1cfc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "朗読会では、参加者が様々な現代詩を声に出して読み上げます。専門家でなくても、自分の好きな詩や心に響いた言葉を自由に表現できるため、気軽に参加できるのが魅力です。話すことの楽しさや、詩の持つ奥深さを再発見する人が多いようです。",
+      "translationZh": "在朗读会上，参加者会朗声读出各种现代诗。其魅力在于，即使不是专业人士，也能自由表达自己喜欢的诗歌或触动心灵的词句，因此可以轻松参与。许多人似乎通过这种方式重新发现了说话的乐趣以及诗歌的深邃。",
+      "translationEn": "At the readings, participants recite various contemporary poems aloud. The appeal lies in the fact that even non-experts can freely express their favorite poems or words that have resonated with them, making it easy to participate. Many people seem to rediscover the joy of speaking and the depth of poetry this way.",
+      "id": "620eae9d-2adf-497a-98a2-7f8c71a874de",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地方都市では、大型の文化施設が少ないため、このような小規模でも心温まるイベントが、地域コミュニティの活性化に繋がっています。参加者同士が詩を通じて交流することで、新たな人間関係が生まれることも少なくありません。詩の力で、人々の心が豊かになっていると言えるでしょう。",
+      "translationZh": "在地方城市，由于大型文化设施较少，像这样规模虽小但却暖人心的活动，有助于激活当地社区。通过参加者之间围绕诗歌进行交流，由此产生新的社交关系的情况也不少。可以说，诗歌的力量正在丰富人们的心灵。",
+      "translationEn": "In regional cities, where large cultural facilities are scarce, such small yet heartwarming events contribute to the revitalization of the local community. As participants interact through poetry, new relationships are often formed. It can be said that poetry is enriching people's lives.",
+      "id": "18bdf565-725a-4567-b366-0a6e8f9b22ab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後も、このような現代詩の朗読会が、さらに多くの地域で根付き、文化的な彩りを添えていくことが期待されます。言葉の美しさを共有する時間は、何物にも代えがたい体験となるはずです。",
+      "translationZh": "今后，也期望这样的现代诗朗读会能在更多地区扎根，增添文化的色彩。分享语言之美的时光，应是一段无可替代的体验。",
+      "translationEn": "Going forward, it is expected that such contemporary poetry readings will take root in even more regions and add cultural vibrancy. The time spent sharing the beauty of language should be an irreplaceable experience.",
+      "id": "9d4573c9-2716-4624-af05-50778c599792",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "朗読会",
+      "reading": "ろうどくかい",
+      "meaningZh": "朗读会",
+      "meaningEn": "poetry reading session",
+      "level": "n3",
+      "exampleSentence": "友人と一緒に朗読会に参加しました。",
+      "id": "9dfa87f4-0b59-490c-bfd4-e92be41b8926"
+    },
+    {
+      "word": "現代詩",
+      "reading": "げんだいし",
+      "meaningZh": "现代诗",
+      "meaningEn": "contemporary poetry",
+      "level": "n3",
+      "exampleSentence": "現代詩は自由な形式で書かれることが多いです。",
+      "id": "0b3f299b-1851-4f1b-a598-da9374c9fadc"
+    },
+    {
+      "word": "愛好家",
+      "reading": "あいこうか",
+      "meaningZh": "爱好者",
+      "meaningEn": "enthusiast, amateur",
+      "level": "n3",
+      "exampleSentence": "彼はクラシック音楽の熱心な愛好家です。",
+      "id": "faf938ca-d1e3-4824-9a69-a331083e4653"
+    },
+    {
+      "word": "響く",
+      "reading": "ひびく",
+      "meaningZh": "（声音）回响，（情感）引起共鸣",
+      "meaningEn": "to echo, to resonate",
+      "level": "n3",
+      "exampleSentence": "彼の言葉は私の心に深く響きました。",
+      "id": "ca68f3b4-d69f-4078-8e12-60268a7a7bde"
+    },
+    {
+      "word": "表現する",
+      "reading": "ひょうげんする",
+      "meaningZh": "表达",
+      "meaningEn": "to express",
+      "level": "n3",
+      "exampleSentence": "自分の気持ちをうまく表現することが大切です。",
+      "id": "4473c60f-b38c-49cb-b3ce-ec103041ed80"
+    },
+    {
+      "word": "コミュニティ",
+      "reading": "コミュニティ",
+      "meaningZh": "社区",
+      "meaningEn": "community",
+      "level": "n3",
+      "exampleSentence": "地域コミュニティのイベントに参加しました。",
+      "id": "9008f49f-1a0a-4f7d-8053-aed266fbb934"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活跃化，振兴",
+      "meaningEn": "revitalization, activation",
+      "level": "n2n1",
+      "exampleSentence": "商店街の活性化のために新しい企画が考えられています。",
+      "id": "9e68d3fd-a524-44cd-8a5c-23389c6c300d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "現代詩の朗読会が地方都市で人気を集めている理由は何ですか？",
+      "options": [
+        "詩の専門家が多く参加しているから",
+        "参加者が気軽に詩を表現できるから",
+        "大型の文化施設で大規模に開催されているから",
+        "詩の歴史について深く学べるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第二段落に「専門家でなくても、自分の好きな詩や心に響いた言葉を自由に表現できるため、気軽に参加できるのが魅力です。」とあります。",
+      "id": "548347dc-38b6-47d8-ab45-88abf8a8c123"
+    },
+    {
+      "question": "地方都市における朗読会は、地域にとってどのような役割を果たしていますか？",
+      "options": [
+        "新しい大型商業施設の建設を促進する",
+        "地域コミュニティの活性化と新たな人間関係の創出に繋がっている",
+        "若者の都市部への流出を加速させる",
+        "伝統的な詩の形式を復興させる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第三段落に「小規模でも心温まるイベントが、地域コミュニティの活性化に繋がっています。参加者同士が詩を通じて交流することで、新たな人間関係が生まれることも少なくありません。」とあります。",
+      "id": "31a48809-1eb8-4b15-b14e-62d655ed3f1e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-05-f95045c056",
+  "publishedAt": "2026-10-05T06:00:00+09:00"
+}
