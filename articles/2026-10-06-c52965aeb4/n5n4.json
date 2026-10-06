@@ -1,0 +1,122 @@
+{
+  "title": "新しい工場ができました",
+  "summary": "日本の会社が新しい工場を作りました。 semiconductor を作ります。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "日本の semiconductor メーカーが新しい工場を建てました。この工場は semiconductor を作るためのものです。先日、工場が動き始めました。",
+      "translationZh": "日本的一家半导体制造商建造了一座新工厂。这座工厂是用来制造半导体的。前几天，工厂已经开始运转了。",
+      "translationEn": "A Japanese semiconductor manufacturer built a new factory. This factory is for making semiconductors. The factory started operating the other day.",
+      "id": "55a92eb5-bd51-42ce-9b20-d94554764403",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい工場はとても大きいです。 たくさんの機械があります。 この機械で semiconductor を作ります。 会社の人は「これでたくさん作れます」と言いました。",
+      "translationZh": "新工厂非常大。里面有很多机器。用这些机器制造半导体。公司的人说：“这样就能生产很多了。”",
+      "translationEn": "The new factory is very big. There are many machines. Semiconductors are made with these machines. A company person said, \"We can make a lot with this.\"",
+      "id": "46a3aa74-34f9-47ce-8fd1-9966e613eb7f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "semiconductor は、スマホやパソコンなど、いろいろなものに使われています。新しい工場で semiconductor がたくさん作れるようになると、便利になります。",
+      "translationZh": "半导体被用于智能手机和电脑等各种产品中。如果新工厂能生产大量半导体，将会更加便利。",
+      "translationEn": "Semiconductors are used in various things like smartphones and computers. It will become more convenient if the new factory can produce many semiconductors.",
+      "id": "e15af7da-bedf-443f-a005-372e0219bf53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この工場は、日本の産業のためにとても大切です。 これからも semiconductor をたくさん作ってほしいです。",
+      "translationZh": "这座工厂对日本的产业来说非常重要。希望今后也能生产出很多半导体。",
+      "translationEn": "This factory is very important for Japan's industry. We hope they will continue to produce many semiconductors.",
+      "id": "6ac4adec-d7eb-41b0-aeb9-3b61daa0de15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaningZh": "工厂",
+      "meaningEn": "factory",
+      "level": "n5n4",
+      "exampleSentence": "新しい工場ができました。",
+      "id": "df81ee36-db2b-4237-9885-d10fce07d5a7"
+    },
+    {
+      "word": "建てる",
+      "reading": "たてる",
+      "meaningZh": "建造",
+      "meaningEn": "to build",
+      "level": "n5n4",
+      "exampleSentence": "家を建てました。",
+      "id": "9e18a8cb-5033-4207-a94c-fd1cad08f1d3"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaningZh": "机器",
+      "meaningEn": "machine",
+      "level": "n5n4",
+      "exampleSentence": "この機械は古いです。",
+      "id": "22e121e1-c75e-4e99-81ea-3a7681a86a62"
+    },
+    {
+      "word": "先日",
+      "reading": "せんじつ",
+      "meaningZh": "前几天",
+      "meaningEn": "the other day",
+      "level": "n5n4",
+      "exampleSentence": "先日、友達に会いました。",
+      "id": "6d68de9c-b868-43c5-b5ce-d873c92d1581"
+    },
+    {
+      "word": "産業",
+      "reading": "さんぎょう",
+      "meaningZh": "产业",
+      "meaningEn": "industry",
+      "level": "n3",
+      "exampleSentence": "日本の産業は強いです。",
+      "id": "a1d28caa-9088-45fa-9a07-ba10bdfcb6ac"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この駅は便利です。",
+      "id": "1de435b8-8881-4261-96ad-ddbccb1e5ff8"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "家族は私にとって大切です。",
+      "id": "6302446b-61b5-423d-9dd9-dccd8a5198ac"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい工場は何を作るためのものですか。",
+      "options": [
+        "車",
+        "パソコン",
+        "semiconductor",
+        "スマホ"
+      ],
+      "correctIndex": 2,
+      "explanation": "新しい工場は semiconductor を作るためのものです。",
+      "id": "8748394c-5063-425e-93f9-325c519aea22"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-06-c52965aeb4",
+  "publishedAt": "2026-10-06T06:00:00+09:00"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "商店街の新しい元気",
+  "summary": "地域通貨を使って、商店街をもっと元気にしています。人々は便利になり、お店も助かっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、商店街はとてもにぎやかでした。でも、最近は少し静かになりました。そこで、新しいアイデアで商店街を元気にしようとしています。そのアイデアは「地域通貨」を使うことです。",
+      "translationZh": "以前，商店街非常热闹。但是，最近变得有些安静了。因此，人们正试图用新点子让商店街重新活跃起来。那个点子就是使用“地区货币”。",
+      "translationEn": "In the past, shopping streets were very lively. However, recently they have become a bit quiet. So, people are trying to make shopping streets lively again with a new idea. That idea is to use \"local currency\".",
+      "id": "2bdec75a-da37-4738-8678-c9793d1b0977",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨は、その町や地域だけで使えるお金のことです。例えば、ある町では「まちコイン」という名前のお金があります。このコインは、お店で買い物をするときに使えます。そして、このコインで払うと、少し安くなることもあります。",
+      "translationZh": "地区货币是指只能在该城镇或地区使用的钱。例如，某个城镇有一种叫做“まちコイン”的钱。这种硬币可以在购物时使用。而且，用这种硬币支付有时会便宜一些。",
+      "translationEn": "Local currency is money that can only be used in that town or region. For example, in one town, there is money called \"Machi Coin\". This coin can be used when shopping at stores. And sometimes, paying with this coin makes things a little cheaper.",
+      "id": "001a600f-3f20-42bf-b68a-dddafe65dd42",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域通貨を使うと、町の人々がもっとお店に行くようになります。お店の人たちも、この通貨で助かるので嬉しいです。地域通貨は、町全体を元気にする良い方法です。これからも、色々な町でこの方法が広がるでしょう。",
+      "translationZh": "使用地区货币，镇上的人们会更常去商店。店主们也很高兴，因为这种货币能帮助到他们。地区货币是让整个城镇活跃起来的好方法。今后，这种方法也会在各种城镇中推广开来吧。",
+      "translationEn": "By using local currency, people in the town will go to stores more often. Store owners are also happy because this currency helps them. Local currency is a good way to energize the entire town. This method will likely spread to various towns in the future.",
+      "id": "7eff7136-92d8-405e-8492-1fcbbdea17a2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街，商业街",
+      "meaningEn": "shopping street, commercial street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつも人が多いです。",
+      "id": "b4bb8dd5-ec55-4004-9bc5-763d474162bf"
+    },
+    {
+      "word": "地域通貨",
+      "reading": "ちいきつうか",
+      "meaningZh": "地区货币",
+      "meaningEn": "local currency",
+      "level": "n5n4",
+      "exampleSentence": "地域通貨で買い物をしました。",
+      "id": "66ee58ea-4d07-4a7c-b759-fedc4ca81e61"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaningZh": "活用，利用",
+      "meaningEn": "utilization, making good use of",
+      "level": "n3",
+      "exampleSentence": "新しい技術を活用しました。",
+      "id": "db9a36db-08ed-4852-a244-f33afddcb169"
+    },
+    {
+      "word": "取り組み",
+      "reading": "とりくみ",
+      "meaningZh": "措施，努力，举措",
+      "meaningEn": "effort, initiative, measure",
+      "level": "n3",
+      "exampleSentence": "町をきれいにする取り組みを始めました。",
+      "id": "2014ab85-1b22-4ad3-b075-974906524137"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとてもにぎやかでした。",
+      "id": "b97cf7c1-516c-4f7f-8be0-19b9a66635ad"
+    },
+    {
+      "word": "アイデア",
+      "reading": "アイデア",
+      "meaningZh": "点子，主意，想法",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "良いアイデアを思いつきました。",
+      "id": "68d71637-fdaf-4095-af17-cc7f8ae5b2dd"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "ce4d896d-5f7a-4efc-8a7e-c987d82ab090"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "商店街を元気に revive するために、どのような方法が使われていますか。",
+      "options": [
+        "新しいお店をたくさん建てる",
+        "地域通貨を使う",
+        "町のお祭りを大きくする",
+        "駅から商店街までバスを出す"
+      ],
+      "correctIndex": 1,
+      "explanation": "「新しいアイデアで商店街を元気にしようとしています。そのアイデアは「地域通貨」を使うことです。」",
+      "id": "4cf749b8-ac2a-48fb-b40b-81bfd757a0f5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-06-b6105dfb66",
+  "publishedAt": "2026-10-06T06:00:00+09:00"
+}

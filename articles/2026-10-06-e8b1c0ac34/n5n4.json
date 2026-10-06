@@ -1,0 +1,131 @@
+{
+  "title": "昔の道具に新しい人気",
+  "summary": "昔の民芸品が今、若い人たちに人気です。新しいコレクターが増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、日本には「民芸運動」という動きがありました。これは、昔から作られてきた、美しくて使いやすい道具を大切にする運動でした。例えば、お皿やコップ、椅子などです。しかし、時代が進むと、新しいものがたくさん出てきました。民芸品は、少しずつ忘れられていきました。",
+      "translationZh": "以前，日本有一个叫做“民艺运动”的活动。这是一个重视从古至今制作的、既美观又实用的器物的运动。例如，盘子、杯子、椅子等。但是，随着时代发展，新事物大量出现。民艺品也渐渐被遗忘了。",
+      "translationEn": "Long ago, there was a movement in Japan called the \"Mingei Movement.\" This movement valued tools that were beautifully made and easy to use, created since ancient times. Examples include plates, cups, and chairs. However, as times changed, many new things appeared. Mingei items were gradually forgotten.",
+      "id": "e58a5c26-9c5a-4d9e-83fc-bc252e2c98fc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、最近、この民芸品がもう一度注目されています。特に、若い世代の人たちが、古い民芸品の良さを見つけています。SNSで民芸品の写真を見た人が、興味を持つようになりました。お店でも、民芸品を飾って売るようになりました。",
+      "translationZh": "但是，最近，这些民艺品又一次受到关注。特别是年轻一代的人们，发现了老民艺品的优点。在社交媒体上看到民艺品照片的人，开始产生了兴趣。商店里也开始摆设和销售民艺品。",
+      "translationEn": "However, recently, these Mingei items are gaining attention again. Young people, in particular, are discovering the value of old Mingei crafts. People who saw pictures of Mingei items on social media became interested. Shops have also started displaying and selling Mingei items.",
+      "id": "e79d254f-7c04-4507-a077-a7dbbcf46ecb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しいコレクターは、ただ古いものを集めるだけではありません。民芸品を自分の生活に楽しく取り入れています。古いお皿で料理を盛り付けたり、手作りの椅子に座ったりしています。それは、とてもおしゃれで、心が安らぐ生活です。",
+      "translationZh": "新的收藏家不只是收集旧物品。他们愉快地将民艺品融入自己的生活。用旧盘子盛放料理，坐在手工制作的椅子上。这是一种非常时尚，能让心灵平静的生活。",
+      "translationEn": "New collectors don't just gather old things. They enjoy incorporating Mingei items into their daily lives. They serve food on old plates or sit on handmade chairs. It is a very stylish and calming way of life.",
+      "id": "97adefb6-7810-4516-9c49-5c85905d4c7f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔の道具が、新しい世代の手で、また輝き始めています。これは、日本の文化にとって、とても嬉しいことです。これからも、民芸品が大切にされていくでしょう。",
+      "translationZh": "古老的器物，在新生代的手中，又开始闪耀光芒。这对日本文化来说，是非常令人高兴的事。今后，民艺品也将会被珍视。",
+      "translationEn": "Old tools are beginning to shine again in the hands of a new generation. This is very happy news for Japanese culture. Mingei items will likely continue to be cherished in the future.",
+      "id": "a5c47609-eae1-41f0-ba04-46042a0001e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "过去，以前",
+      "meaningEn": "past, former times",
+      "level": "n5n4",
+      "exampleSentence": "これは昔の日本の写真です。",
+      "id": "1c5b7bbc-5511-4e75-a36b-1850a561f200"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaningZh": "工具，器具",
+      "meaningEn": "tool, instrument, utensil",
+      "level": "n5n4",
+      "exampleSentence": "台所にいろいろな道具があります。",
+      "id": "3232c5c3-9b7c-4d99-805b-d6b2447a5e8d"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaningZh": "运动（活动）",
+      "meaningEn": "movement, campaign",
+      "level": "n5n4",
+      "exampleSentence": "平和のための運動が始まりました。",
+      "id": "beb890ee-cee8-4300-98a4-336f3b33a1cc"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要，珍惜",
+      "meaningEn": "important, precious, valuable",
+      "level": "n5n4",
+      "exampleSentence": "この本は私にとって大切です。",
+      "id": "ac944a26-71df-49b1-b451-03d7ee28b0d1"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，引人注目",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "彼の新しい映画に注目が集まっています。",
+      "id": "6cf499a6-4758-472d-9a3d-c95e7d8f1e6d"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "世代",
+      "meaningEn": "generation",
+      "level": "n3",
+      "exampleSentence": "若い世代は新しい技術が好きです。",
+      "id": "3c35e754-2db3-4a20-8f88-c6f7b52423d0"
+    },
+    {
+      "word": "収集家",
+      "reading": "しゅうしゅうか",
+      "meaningZh": "收藏家",
+      "meaningEn": "collector",
+      "level": "n2n1",
+      "exampleSentence": "彼は古い切手の収集家です。",
+      "id": "536c5fbf-e9d3-430b-b8d4-39cd09659362"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaningZh": "生活",
+      "meaningEn": "life, living",
+      "level": "n5n4",
+      "exampleSentence": "私の毎日の生活は忙しいです。",
+      "id": "4769dd62-d2b5-4ded-bd03-8120a625925a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、若い人たちの間で何が人気になっていますか。",
+      "options": [
+        "新しいデザインの道具",
+        "昔の民芸品",
+        "最新のゲーム",
+        "外国のお菓子"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「最近、この民芸品がもう一度注目されています。特に、若い世代の人たちが、古い民芸品の良さを見つけています。」とあります。",
+      "id": "dd396b20-6e7b-4c79-8f49-4b9eef67a45c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-06-e8b1c0ac34",
+  "publishedAt": "2026-10-06T06:00:00+09:00"
+}

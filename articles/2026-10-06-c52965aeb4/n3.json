@@ -1,0 +1,126 @@
+{
+  "title": "国産半導体メーカー、新工場稼働で国内生産力アップ！",
+  "summary": "国内の半導体メーカーが新しい工場を稼働させました。これにより、日本の半導体生産能力が向上することが期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "国内の主要な半導体メーカーである「テックジャパン」が、新しい生産拠点の工場を稼働させました。この工場は最新の技術が導入されており、これまで以上に高品質な半導体を生産できるとのことです。稼働開始は、国内の半導体産業にとって大きな一歩となります。",
+      "translationZh": "国内主要的半导体制造商“Tech Japan”启用了一个新的生产基地工厂。据说这个工厂引进了最新的技术，能够生产出比以往更高质量的半导体。工厂的稼动开始，对国内的半导体产业来说是重要的一步。",
+      "translationEn": "Tech Japan, a major domestic semiconductor manufacturer, has started operations at its new production facility. This factory incorporates the latest technology and is said to be capable of producing higher quality semiconductors than before. The commencement of operations marks a significant step for the domestic semiconductor industry.",
+      "id": "7d968760-d9b3-413b-b525-1712090adc2c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新工場では、特に需要が高まっている分野向けの半導体の生産に力を入れる計画です。例えば、電気自動車（EV）や再生可能エネルギー関連の機器に必要な半導体は、今後ますます重要になると考えられています。そのため、この工場の稼働は、これらの産業の発展にも貢献するでしょう。",
+      "translationZh": "新工厂计划着重生产在需求方面正在增长的领域的半导体。例如，电动汽车（EV）和可再生能源相关设备所需的半导体，被认为今后将越来越重要。因此，这个工厂的稼动也将为这些产业的发展做出贡献。",
+      "translationEn": "The new factory plans to focus on producing semiconductors for sectors with high demand. For instance, semiconductors needed for electric vehicles (EVs) and renewable energy related equipment are expected to become increasingly important in the future. Therefore, the operation of this factory will likely contribute to the development of these industries.",
+      "id": "1f2df5d9-adea-452a-bd1a-e1bca23eda4d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新工場の稼働により、国内での半導体生産能力が強化されるだけでなく、サプライチェーンの安定化も期待されています。これまで海外への依存度が高かった分野ですが、国内生産が進むことで、より安定した供給体制が築けるはずです。多くの人がこの動きを歓迎しています。",
+      "translationZh": "随着新工厂的稼动，不仅国内的半导体生产能力得到加强，供应链的稳定化也备受期待。虽然这是一个海外依存度曾一度很高的领域，但随着国内生产的推进，应该能够建立起更稳定的供应体系。很多人都欢迎这一举动。",
+      "translationEn": "With the operation of this new factory, not only will domestic semiconductor production capacity be strengthened, but the stabilization of the supply chain is also anticipated. While this is an area that has had high dependence on overseas production, promoting domestic manufacturing should lead to the establishment of a more stable supply system. Many people welcome this development.",
+      "id": "a31a75cd-d6ed-4ab4-8a2c-93cdd340c7a3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "半導体",
+      "reading": "はんどうたい",
+      "meaningZh": "半导体",
+      "meaningEn": "semiconductor",
+      "level": "n3",
+      "exampleSentence": "この新しいチップは高性能な半導体を使っています。",
+      "id": "9b3d8076-8624-4fa3-bc83-abd26f2c94c3"
+    },
+    {
+      "word": "メーカー",
+      "reading": "めーかー",
+      "meaningZh": "制造商",
+      "meaningEn": "manufacturer",
+      "level": "n5n4",
+      "exampleSentence": "この車は有名なメーカーで作られています。",
+      "id": "de7380da-5de3-4b7f-a3f0-735dccb1eafb"
+    },
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaningZh": "工厂",
+      "meaningEn": "factory",
+      "level": "n5n4",
+      "exampleSentence": "新しい工場が町にできました。",
+      "id": "e8975401-918c-4bfb-8081-9a6527051552"
+    },
+    {
+      "word": "稼働",
+      "reading": "かどう",
+      "meaningZh": "运转，运行",
+      "meaningEn": "operation, running",
+      "level": "n3",
+      "exampleSentence": "機械が正常に稼働しているか確認してください。",
+      "id": "48460eae-d2bd-4ee4-855d-1f14365835fb"
+    },
+    {
+      "word": "生産能力",
+      "reading": "せいさんのうりょく",
+      "meaningZh": "生产能力",
+      "meaningEn": "production capacity",
+      "level": "n3",
+      "exampleSentence": "この工場は生産能力が高いです。",
+      "id": "e71ce020-2999-4ef5-9d1a-8b31bf6caeea"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaningZh": "需求",
+      "meaningEn": "demand",
+      "level": "n3",
+      "exampleSentence": "この商品の需要が増えています。",
+      "id": "b77cb5ef-3e78-467f-86df-4a977d32e2f5"
+    },
+    {
+      "word": "サプライチェーン",
+      "reading": "さぷらいちぇーん",
+      "meaningZh": "供应链",
+      "meaningEn": "supply chain",
+      "level": "n2n1",
+      "exampleSentence": "サプライチェーンの混乱が問題になっています。",
+      "id": "04287e6c-9586-4c36-8f24-a24f11918b02"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新工場が稼働することで、どのようなことが期待されていますか？",
+      "options": [
+        "海外での生産が増えること",
+        "国内の半導体生産力が高まり、サプライチェーンが安定すること",
+        "古い技術の半導体が安くなること",
+        "働く人が減ること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「この新工場の稼働により、国内での半導体生産能力が強化されるだけでなく、サプライチェーンの安定化も期待されています。」と書かれています。",
+      "id": "31c72146-0893-48e6-af1c-d0136afb1fd8"
+    },
+    {
+      "question": "新工場では、特にどのような分野向けの半導体生産に力を入れる計画ですか？",
+      "options": [
+        "ゲーム機",
+        "パソコン",
+        "電気自動車（EV）や再生可能エネルギー関連",
+        "スマートフォン"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「新工場では、特に需要が高まっている分野向けの半導体の生産に力を入れる計画です。例えば、電気自動車（EV）や再生可能エネルギー関連の機器に必要な半導体は、今後ますます重要になると考えられています。」と書かれています。",
+      "id": "28e22ac0-36f6-4fe1-8ae0-a6b85d13d011"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-06-c52965aeb4",
+  "publishedAt": "2026-10-06T06:00:00+09:00"
+}
