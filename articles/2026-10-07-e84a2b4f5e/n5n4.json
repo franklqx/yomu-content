@@ -1,0 +1,122 @@
+{
+  "title": "お寿司の値上げ、どう思う？",
+  "summary": "人気のお寿司屋さんが値段を上げました。お客さんはどう感じているでしょうか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、回転寿司チェーンの値段が上がりました。前より一皿のお寿司が高くなりました。これは、魚や色々な材料の値段が上がったからです。",
+      "translationZh": "最近，回转寿司连锁店涨价了。每盘寿司比以前贵了。这是因为鱼和各种食材的价格上涨了。",
+      "translationEn": "Recently, prices at conveyor belt sushi chains have gone up. Each plate of sushi is more expensive than before. This is because the prices of fish and various ingredients have increased.",
+      "id": "8c834e17-0de9-4506-b7c1-1a810b39d235",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったので、行くのをやめた人もいます。前はよく行っていたけれど、今はあまり行かない、という人もいます。お寿司が好きな人でも、少し残念に思っています。",
+      "translationZh": "因为价格上涨了，有些人不再去了。有些人以前经常去，但现在不太去了。即使是喜欢寿司的人，也有点感到遗憾。",
+      "translationEn": "Because prices have risen, some people have stopped going. Some people used to go often, but now they don't go much. Even people who like sushi feel a little disappointed.",
+      "id": "58b0b243-16d9-4844-9d53-298c91eaf3d6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、まだたくさんのお客さんが来ています。美味しいお寿司を食べたい人は、値段が高くなっても、お店に来ます。お店は、もっと美味しいお寿司を作るために頑張っています。",
+      "translationZh": "但是，还是有很多顾客光顾。想吃美味寿司的人，即使价格变高了，还是会来店里。店家也在努力做出更美味的寿司。",
+      "translationEn": "However, many customers are still coming. People who want to eat delicious sushi come to the restaurant even if the price has increased. The restaurant is working hard to make even more delicious sushi.",
+      "id": "add9a192-0529-4f68-91a5-400e2ad6a915",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これから、お寿司の値段はどうなるでしょうか。お店とお客さんの両方が、良い方法を見つけられるといいですね。",
+      "translationZh": "今后，寿司的价格会怎么样呢？店家和顾客双方都能找到好方法就好了。",
+      "translationEn": "What will happen to sushi prices from now on? It would be good if both the restaurant and the customers can find a good solution.",
+      "id": "92a1f6d6-38a3-4fa5-b370-95f5727dcd5b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "週末は回転寿司に行きます。",
+      "id": "56a4223b-ec9c-43de-a121-c1d282a6faac"
+    },
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n5n4",
+      "exampleSentence": "パンの値上げは困ります。",
+      "id": "584e91a1-6bc5-49d0-87b3-3a386a721632"
+    },
+    {
+      "word": "客足",
+      "reading": "きゃくあし",
+      "meaningZh": "客流量；顾客的到来",
+      "meaningEn": "customer traffic; flow of customers",
+      "level": "n3",
+      "exampleSentence": "値上げで客足が減りました。",
+      "id": "449af273-c493-4ba0-8fb0-8d186e70083f"
+    },
+    {
+      "word": "材料",
+      "reading": "ざいりょう",
+      "meaningZh": "材料；原料",
+      "meaningEn": "ingredients; materials",
+      "level": "n5n4",
+      "exampleSentence": "この料理の材料は何ですか。",
+      "id": "90466d91-c08d-4a74-a89d-5f9cead0fc7f"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾；可惜",
+      "meaningEn": "regrettable; unfortunate",
+      "level": "n5n4",
+      "exampleSentence": "試合に負けて残念でした。",
+      "id": "d8bbe4f6-026e-483a-91fe-79085301bc44"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaningZh": "双方；两者",
+      "meaningEn": "both",
+      "level": "n5n4",
+      "exampleSentence": "肉と魚、両方好きです。",
+      "id": "f02a7645-141d-4c9f-bd91-f17899658274"
+    },
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "meaningZh": "找到；发现",
+      "meaningEn": "to find; to discover",
+      "level": "n5n4",
+      "exampleSentence": "なくした鍵を見つけました。",
+      "id": "8dc7db9d-5085-4358-80ad-2d0a445fe400"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "お寿司の値上げの理由は何ですか？",
+      "options": [
+        "お客さんが減ったから",
+        "魚や材料の値段が上がったから",
+        "お店が新しい場所に移ったから",
+        "もっと美味しいお寿司を作るため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「これは、魚や色々な材料の値段が上がったからです。」と書いてあります。",
+      "id": "63de7eb9-0211-4806-a422-486547f290da"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-07-e84a2b4f5e",
+  "publishedAt": "2026-10-07T06:00:00+09:00"
+}

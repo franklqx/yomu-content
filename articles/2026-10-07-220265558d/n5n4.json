@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町が元気に",
+  "summary": "アニメの場所へ行く人が増えています。これは「聖地巡礼」と呼ばれます。この巡礼は、町を元気にする力があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、「聖地巡礼」という言葉をよく聞きます。これは、アニメやマンガに出てくる場所を実際に訪れることです。多くのファンが、好きな作品の景色を見に、遠い町へ行きます。",
+      "translationZh": "最近，“圣地巡礼”这个词听到的很多。这是指实际去动漫或漫画中出现的地点。很多粉丝为了看喜欢的作品中的景色，会去很远的城镇。",
+      "translationEn": "Recently, the term 'seichi junrei' (pilgrimage to sacred sites) is often heard. This means actually visiting places that appear in anime or manga. Many fans travel to distant towns to see the scenery from their favorite works.",
+      "id": "4f2d6c52-db9e-4ae2-8a83-6b744e0da0fe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "聖地巡礼は、小さな町にとって大きなチャンスです。ファンがお金を使うと、お店やホテルが助かります。町の人々も、アニメのファンと交流して、新しい発見をします。",
+      "translationZh": "圣地巡礼对小城镇来说是一个大机会。粉丝花钱，商店和旅馆就能得到帮助。镇上的人们也与动漫粉丝交流，获得新的发现。",
+      "translationEn": "Seichi junrei is a big opportunity for small towns. When fans spend money, shops and hotels are helped. Townspeople also interact with anime fans and make new discoveries.",
+      "id": "3f7abafa-03a6-4626-9a9a-865beccadef5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、ある町では、アニメのキャラクターのパネルを置きました。すると、たくさんの人が写真を撮りに来ました。その結果、町の名前が広まり、観光客が増えました。",
+      "translationZh": "例如，在一个城镇，放置了动漫角色的展板。然后，很多人来拍照。结果，城镇的名字传开了，游客也增加了。",
+      "translationEn": "For example, in one town, panels of anime characters were placed. Then, many people came to take pictures. As a result, the town's name spread, and the number of tourists increased.",
+      "id": "dc577e35-6dd4-4878-8191-ed831f893114",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "聖地巡礼は、アニメファンだけでなく、町の人々にも良い影響を与えています。これからも、アニメの力で、たくさんの町が元気になるといいですね。",
+      "translationZh": "圣地巡礼不仅给动漫粉丝，也给镇上的人们带来了好的影响。今后，也希望通过动漫的力量，让许多城镇变得有活力。",
+      "translationEn": "Seichi junrei has a positive impact not only on anime fans but also on the people of the towns. It would be nice if many towns continue to become vibrant through the power of anime.",
+      "id": "b26635d2-a47e-4bb7-8e43-73abf9895431",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地巡礼",
+      "reading": "せいちじゅんれい",
+      "meaningZh": "圣地巡礼（动漫取景地朝圣）",
+      "meaningEn": "pilgrimage to sacred sites (anime filming locations)",
+      "level": "n5n4",
+      "exampleSentence": "アニメの聖地巡礼は人気があります。",
+      "id": "99dc24f1-e458-4c70-b6ef-8773ffa323bd"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "拜访，访问",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "京都を訪れました。",
+      "id": "765951a7-c08c-48e4-897b-aaadf6de7619"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はこの歌手のファンです。",
+      "id": "99895383-a12a-4b73-9a25-c752ee5b6e64"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "海の景色はきれいです。",
+      "id": "eb598e25-a733-4333-a847-c18ceb2e6378"
+    },
+    {
+      "word": "チャンス",
+      "reading": "ちゃんす",
+      "meaningZh": "机会",
+      "meaningEn": "chance, opportunity",
+      "level": "n5n4",
+      "exampleSentence": "これは良いチャンスです。",
+      "id": "9e814fc9-31ea-4022-9ada-8f224c3db86f"
+    },
+    {
+      "word": "助かる",
+      "reading": "たすかる",
+      "meaningZh": "得救，帮忙",
+      "meaningEn": "to be saved, to be helped",
+      "level": "n5n4",
+      "exampleSentence": "手伝ってくれて助かりました。",
+      "id": "aa4a5f85-4058-455d-b80d-8b9c9d3c56da"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "文化の交流をしました。",
+      "id": "abaf6536-bd41-4210-b6ab-1e74acc7b3c6"
+    },
+    {
+      "word": "パネル",
+      "reading": "ぱねる",
+      "meaningZh": "面板，展板",
+      "meaningEn": "panel",
+      "level": "n5n4",
+      "exampleSentence": "キャラクターのパネルがありました。",
+      "id": "7cdbc7a1-83e3-4ab2-a907-adc06b0895b7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "聖地巡礼は、町にどのような良い影響がありますか。",
+      "options": [
+        "ファンがお金を使わないので、町は困る。",
+        "ファンが来るので、町のお店やホテルが助かる。",
+        "町の人々は、ファンと交流しない。",
+        "聖地巡礼は、町に何も良い影響がない。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「ファンがお金を使うと、お店やホテルが助かります。」という文があります。",
+      "id": "6b61e2da-2426-4118-adc4-ff051d395460"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-07-220265558d",
+  "publishedAt": "2026-10-07T06:00:00+09:00"
+}
