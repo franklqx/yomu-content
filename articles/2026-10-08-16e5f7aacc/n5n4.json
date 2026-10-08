@@ -1,0 +1,131 @@
+{
+  "title": "瀬戸内海クルーズ、新しい楽しみ方",
+  "summary": "瀬戸内海は美しい海です。新しいクルーズの楽しみ方があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海は日本の南にある大きな海です。たくさんの島があります。島を巡る船の旅行はクルーズと呼ばれます。景色がとてもきれいです。",
+      "translationZh": "濑户内海是日本南边的一个大海洋。有很多岛屿。游览岛屿的船的旅行叫做巡游。风景非常美丽。",
+      "translationEn": "The Seto Inland Sea is a large sea located in southern Japan. There are many islands. Traveling by boat to visit the islands is called a cruise. The scenery is very beautiful.",
+      "id": "5ee16a1c-04cc-4f10-af35-eaca7e2c1576",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔のクルーズは、ただ船に乗って景色を見るだけでした。しかし、最近のクルーズは違います。色々な体験ができます。",
+      "translationZh": "以前的巡游，只是乘坐船看风景。但是，最近的巡游不同了。可以进行各种各样的体验。",
+      "translationEn": "Old cruises were just about riding a boat and seeing the scenery. However, recent cruises are different. You can have various experiences.",
+      "id": "006928b6-b409-4f3b-8442-eebc8191e101",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、船の上で地元の料理を食べることができます。おいしい魚や野菜がたくさんあります。また、島に寄港して、その島の文化を学ぶこともできます。",
+      "translationZh": "例如，可以在船上吃当地的料理。有很多美味的鱼和蔬菜。另外，也可以停靠在岛上，学习那个岛的文化。",
+      "translationEn": "For example, you can eat local cuisine on the ship. There are many delicious fish and vegetables. Also, you can stop at an island and learn about its culture.",
+      "id": "9cfe53ae-2926-4363-8096-9c7dd6a51836",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜には、船の上で音楽を聞いたり、星を見たりすることもできます。静かでロマンチックな夜です。瀬戸内海クルーズは、新しい発見がいっぱいです。",
+      "translationZh": "晚上，也可以在船上听音乐，看星星。是宁静而浪漫的夜晚。濑户内海巡游，充满了新的发现。",
+      "translationEn": "At night, you can also listen to music or watch the stars on the ship. It is a quiet and romantic night. Seto Inland Sea cruises are full of new discoveries.",
+      "id": "aac749ca-3192-434a-b6dd-74a220081ba3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": "瀬戸内海はきれいです。",
+      "id": "cbc01614-ef06-405c-97ed-415375f0d3bc"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "この島は小さいです。",
+      "id": "30e349d9-e70a-4544-9069-b1edf68badc7"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaningZh": "旅行",
+      "meaningEn": "travel, trip",
+      "level": "n5n4",
+      "exampleSentence": "旅行は楽しいです。",
+      "id": "1e5a3547-c583-4d38-b9ce-b46bd64d19df"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "景色が素晴らしいです。",
+      "id": "e9157091-7076-4614-8b1d-de09a0dc7ca2"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "特別な体験をしました。",
+      "id": "ea78bcda-3da0-49c8-b965-a8c26d68061a"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "料理",
+      "meaningEn": "cooking, cuisine",
+      "level": "n5n4",
+      "exampleSentence": "おいしい料理をたくさん食べました。",
+      "id": "5375a13d-20ca-4eaa-9a8b-9d4f133969ed"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "2e928bd5-e979-4590-8f71-0a42e698fa56"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n5n4",
+      "exampleSentence": "新しい発見がありました。",
+      "id": "030122a7-51dd-4657-a967-c595c288b872"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近のクルーズでできることは何ですか？",
+      "options": [
+        "昔の景色を見るだけ",
+        "地元の料理を食べたり、文化を学んだりできる",
+        "島に上陸できない",
+        "夜は船に乗れない"
+      ],
+      "correctIndex": 1,
+      "explanation": "例えば、船の上で地元の料理を食べることができます。また、島に寄港して、その島の文化を学ぶこともできます。",
+      "id": "e1b05ddf-34a8-472d-a5f1-62aa4c6ecffa"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-08-16e5f7aacc",
+  "publishedAt": "2026-10-08T06:00:00+09:00"
+}

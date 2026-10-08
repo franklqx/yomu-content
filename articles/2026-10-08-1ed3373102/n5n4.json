@@ -1,0 +1,123 @@
+{
+  "title": "スマートシティ実験、成果は？",
+  "summary": "新しい街の実験が終わりました。どんな結果が出たか、見てみましょう。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "新しい街を作る実験がありました。この街は「スマートシティ」と呼ばれます。たくさんの技術を使いました。例えば、便利な交通や、安全な生活のためのシステムです。この実験は、３年間行われました。",
+      "translationZh": "有一个建造新城市的实验。这个城市被称为“智能城市”。使用了许多技术。例如，方便的交通和保障安全生活的系统。这个实验进行了三年。",
+      "translationEn": "There was an experiment to build a new city. This city is called a \"smart city.\" Many technologies were used. For example, systems for convenient transportation and safe living. This experiment was conducted for three years.",
+      "id": "48caa7d9-41f9-43fc-b7a4-7413f7fcee66",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験の結果、いくつかの良いことが分かりました。車が少ない道では、もっと速く走れるようになりました。また、ゴミ箱がいっぱいになると、すぐに知らせるシステムもできました。これは、街をきれいに保つのに役立ちます。",
+      "translationZh": "实验结果显示，发现了一些好的方面。在车少的道路上，可以开得更快了。另外，垃圾箱满了时，也能立即通知的系统也建成了。这有助于保持街道清洁。",
+      "translationEn": "As a result of the experiment, several good things were found. On roads with fewer cars, it became possible to drive faster. Also, a system was created to notify immediately when trash cans are full. This helps keep the city clean.",
+      "id": "a8e5cd79-9fc4-479a-ab6a-0fd97c69cde4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、まだ課題もあります。新しい技術をもっと多くの人が使うように、説明が必要です。また、システムを維持するためには、お金もかかります。この実験で学んだことを、これからの街づくりに活かしていきます。",
+      "translationZh": "但是，也还有课题。需要向更多人说明，让他们使用新技术。另外，为了维持系统，也需要花费金钱。我们会将这次实验中学到的东西，应用到今后的城市建设中去。",
+      "translationEn": "However, there are still challenges. Explanations are needed so that more people can use new technologies. Also, maintaining the systems costs money. We will use what we learned from this experiment in future city development.",
+      "id": "4e4a2d39-ad59-468b-97eb-de3ed4d55ae7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "スマートシティ",
+      "reading": "すまーとしティ",
+      "meaningZh": "智能城市",
+      "meaningEn": "smart city",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "b95e47e8-fc18-4da3-899b-2528c35ba1bd"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "820d849c-7d49-4e47-8563-095e967c82bd"
+    },
+    {
+      "word": "成果",
+      "reading": "せいか",
+      "meaningZh": "成果，成果",
+      "meaningEn": "results, achievements",
+      "level": "n3",
+      "exampleSentence": "会議で実験の成果を発表しました。",
+      "id": "982e3472-5e31-499b-ad81-c970ae9e7d2c"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この機械は新しい技術で作られました。",
+      "id": "0655942e-942d-4281-8121-2f74472505f2"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaningZh": "交通",
+      "meaningEn": "traffic, transportation",
+      "level": "n5n4",
+      "exampleSentence": "交通ルールを守りましょう。",
+      "id": "f452bfcb-ab11-414f-a2d9-645361303cff"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety, security",
+      "level": "n5n4",
+      "exampleSentence": "子供たちの安全を第一に考えます。",
+      "id": "e0fc1b93-9944-4f0d-b53b-2f4b4a1953eb"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "8486a4bd-f642-4ade-8430-416bc54e36bb"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "challenge, task, problem",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトにはまだ多くの課題があります。",
+      "id": "7969b1dc-4599-4d96-acc9-1229fe543958"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実験では、どのようなことが役に立ちましたか？",
+      "options": [
+        "車がたくさん走れる道を作ったこと",
+        "ゴミ箱がいっぱいになったら知らせるシステム",
+        "実験にたくさんのお金を使ったこと",
+        "新しい技術をあまり使わなかったこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「ゴミ箱がいっぱいになると、すぐに知らせるシステムもできました。これは、街をきれいに保つのに役立ちます。」とあります。",
+      "id": "332b7e60-4a9f-43ad-9e97-dcd37308f2a0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-08-1ed3373102",
+  "publishedAt": "2026-10-08T06:00:00+09:00"
+}

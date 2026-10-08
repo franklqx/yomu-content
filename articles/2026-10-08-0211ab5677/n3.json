@@ -1,0 +1,126 @@
+{
+  "title": "ヴィーガン和食、広がる選択肢に注目！",
+  "summary": "最近、健康や環境への意識からヴィーガン（菜食主義）を選ぶ人が増えています。それに伴い、和食の世界でもヴィーガン向けのメニューが広がりを見せています。今回は、その魅力と背景を探ってみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "和食といえば、魚や肉を使った料理が多いイメージがありますが、最近はヴィーガンの方でも楽しめるメニューが増えています。例えば、豆腐や野菜をたっぷり使った精進料理のようなものが、現代風にアレンジされて提供されるお店が増えているのです。出汁（だし）の代わりに昆布や野菜から旨味（うまみ）を引き出す工夫がされているので、満足感があります。",
+      "translationZh": "说到日式料理，很多人会想到以鱼和肉为主的菜肴，但最近，即使是素食者也能享用的菜品也增加了。例如，越来越多餐厅提供用豆腐和大量蔬菜制作的、像精进料理一样但经过现代方式改良的菜品。为了提取鲜味，会用昆布和蔬菜代替高汤，因此能让人感到满足。",
+      "translationEn": "When you think of Japanese food, many imagine dishes using fish and meat. However, recently, there's an increasing number of menus that even vegans can enjoy. For instance, more restaurants are offering modern adaptations of Shojin Ryori, dishes made with plenty of tofu and vegetables. They use kelp and vegetables to create umami instead of dashi, ensuring a satisfying taste.",
+      "id": "bf4951c6-b24b-4f2d-95ca-bf1138593c92",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン向けの和食が増えている背景には、いくつかの理由があります。一つは、健康志向の高まりです。動物性食品を避けることで、体調が良くなったと感じる人がいます。また、環境問題への関心も理由の一つとして挙げられます。畜産業が環境に与える影響を考えて、食生活を見直す動きが広がっているのです。さらに、SNSなどを通じて、ヴィーガンに関する情報が手軽に手に入るようになったことも、選択肢を増やす要因となっています。",
+      "translationZh": "素食日式料理增加的背景有几个原因。首先是健康意识的提高。有些人觉得避免动物性食品后身体状况有所改善。其次，对环境问题的关注也是一个原因。考虑到畜牧业对环境的影响，重新审视饮食生活正在普及。此外，通过社交媒体等可以轻松获取素食相关信息，这也成为增加选择的一个因素。",
+      "translationEn": "There are several reasons behind the rise of vegan Japanese food. One is the growing health consciousness; some people feel better physically by avoiding animal products. Another reason is increasing concern for environmental issues. The movement to reconsider dietary habits is spreading, considering the impact of animal agriculture on the environment. Furthermore, the easy availability of information about veganism through social media has also contributed to expanding choices.",
+      "id": "408500e8-e3ac-4029-b7c4-ae5244422306",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司屋さんでも、野菜やきのこを使った創作寿司を提供するところが出てきました。また、居酒屋メニューでも、ヴィーガン対応の唐揚げ（からあげ）や、野菜中心のおつまみが増えています。このように、伝統的な和食の良さを活かしつつ、新しいスタイルを取り入れることで、より多くの人が和食を楽しめるようになっています。ヴィーガンの方だけでなく、普段からヘルシーな食生活を心がけている人にも嬉しい変化と言えるでしょう。",
+      "translationZh": "例如，即使在寿司店，也开始出现提供使用蔬菜和蘑菇制作的创意寿司的店家。在居酒屋菜单中，也增加了适合素食者的炸鸡（唐揚げ）和以蔬菜为主的小吃。像这样，在发挥传统日式料理优点的同时，融入新的风格，让更多人能够享受日式料理。这不仅对素食者，对于平时也注重健康饮食的人来说，也是一个令人欣喜的变化。",
+      "translationEn": "For example, even sushi restaurants are now offering creative sushi using vegetables and mushrooms. Additionally, izakaya menus increasingly feature vegan-friendly karaage (fried chicken) and vegetable-focused appetizers. By preserving the essence of traditional Japanese cuisine while incorporating new styles, more people can now enjoy Japanese food. This is a welcome change not only for vegans but also for those who generally aim for a healthy diet.",
+      "id": "f5b1cc6c-63df-4345-9c2a-366c38dc69a4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ヴィーガン",
+      "reading": "vīgan",
+      "meaningZh": "纯素主义者；严格素食者",
+      "meaningEn": "Vegan (a person who does not eat or use any animal products)",
+      "level": "n3",
+      "exampleSentence": "彼女はヴィーガンなので、肉や魚は一切食べません。",
+      "id": "317a2b00-ff68-4d4a-8ae4-af085b18b128"
+    },
+    {
+      "word": "精進料理",
+      "reading": "しょうじんりょうり",
+      "meaningZh": "佛教徒的素食",
+      "meaningEn": "Shojin Ryori (traditional Buddhist vegetarian cuisine)",
+      "level": "n3",
+      "exampleSentence": "お寺で精進料理をいただきました。",
+      "id": "9f527e4f-831f-42c9-858e-47caffd033a4"
+    },
+    {
+      "word": "出汁",
+      "reading": "だし",
+      "meaningZh": "汤底，高汤",
+      "meaningEn": "Dashi (Japanese soup stock)",
+      "level": "n3",
+      "exampleSentence": "この味噌汁は、昆布と鰹節で取った出汁を使っています。",
+      "id": "794e20a5-1d4e-4a39-b951-5f6f93549701"
+    },
+    {
+      "word": "旨味",
+      "reading": "うまみ",
+      "meaningZh": "鲜味",
+      "meaningEn": "Umami (savory taste)",
+      "level": "n3",
+      "exampleSentence": "このスープは野菜の旨味がよく出ています。",
+      "id": "705287ca-7f43-48d1-b0e4-879a2a60d2fe"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaningZh": "背景",
+      "meaningEn": "Background",
+      "level": "n3",
+      "exampleSentence": "この現象の背景には、何があるのだろうか。",
+      "id": "ad2c7b54-08ef-45ae-ace5-8bdeb08a476c"
+    },
+    {
+      "word": "畜産業",
+      "reading": "ちくさんぎょう",
+      "meaningZh": "畜牧业",
+      "meaningEn": "Livestock industry",
+      "level": "n2n1",
+      "exampleSentence": "畜産業が環境に与える影響について議論されています。",
+      "id": "2c68dc18-b6b5-4d96-9bed-f03143b3375c"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "日式炸鸡块",
+      "meaningEn": "Karaage (Japanese-style fried chicken)",
+      "level": "n3",
+      "exampleSentence": "居酒屋に行くと、いつも唐揚げを注文してしまいます。",
+      "id": "98e9277c-f65b-4b7d-8d99-565b41bd1e41"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガン向けの和食メニューが増えている理由として、本文で述べられていないものはどれですか？",
+      "options": [
+        "健康志向の高まり",
+        "環境問題への関心",
+        "SNSでの情報拡散",
+        "伝統的な和食の衰退"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文では、健康志向、環境問題、SNSでの情報拡散が理由として挙げられていますが、伝統的な和食の衰退については触れられていません。",
+      "id": "b24e8270-ddb2-4dff-b2a3-6a6738cbd805"
+    },
+    {
+      "question": "「出汁（だし）の代わりに昆布や野菜から旨味（うまみ）を引き出す工夫」がされているのは、なぜですか？",
+      "options": [
+        "料理の見た目を良くするため",
+        "ヴィーガンでも満足できる味にするため",
+        "調理時間を短縮するため",
+        "コストを下げるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文によると、出汁の代わりに昆布や野菜から旨味を引き出す工夫は、ヴィーガンの方でも満足感があるようにするためです。",
+      "id": "fa49b6af-0028-4747-8953-44328b34c872"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-08-0211ab5677",
+  "publishedAt": "2026-10-08T06:00:00+09:00"
+}

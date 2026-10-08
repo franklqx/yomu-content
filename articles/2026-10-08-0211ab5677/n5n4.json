@@ -1,0 +1,114 @@
+{
+  "title": "ヴィーガン和食、人気です",
+  "summary": "最近、ヴィーガン向けの和食が増えています。おいしいヴィーガン和食を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でヴィーガン（動物性のものを食べない人）が増えています。そのため、ヴィーガン向けの和食レストランやメニューが多くなりました。お寿司や天ぷらも、ヴィーガンで作ることができます。",
+      "translationZh": "最近，日本吃素食（不吃动物性食品的人）的人增加了。因此，面向素食者的日式餐厅和菜单也变多了。寿司和天妇罗，也可以用素食材料制作。",
+      "translationEn": "Recently, the number of vegans (people who don't eat animal products) has been increasing in Japan. Because of this, more Japanese restaurants and menus are catering to vegans. Sushi and tempura can also be made vegan.",
+      "id": "09e2e97c-2cd8-4869-8f5f-6940f00db94f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司では魚の代わりに野菜を使います。アボカドやきゅうり、かぼちゃなど、色々な野菜がお寿司になります。天ぷらも、野菜だけを使って作ります。これもとてもおいしいです。",
+      "translationZh": "例如，寿司里用蔬菜代替鱼。牛油果、黄瓜、南瓜等各种蔬菜都可以做成寿司。天妇罗也只用蔬菜制作。这也非常好吃。",
+      "translationEn": "For example, in sushi, vegetables are used instead of fish. Various vegetables like avocado, cucumber, and pumpkin can be made into sushi. Tempura is also made using only vegetables. This is also very delicious.",
+      "id": "b5bc0061-7e02-41c8-b58f-405c3e962f9a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン和食は、健康にも良いと言われています。また、環境にもやさしいです。たくさんの人がヴィーガン和食を好きになっています。皆さんも、ぜひ試してみてください。",
+      "translationZh": "据说素食日餐对健康也很好。而且，它对环境也很友好。很多人都喜欢上了素食日餐。大家也请一定试一试。",
+      "translationEn": "Vegan Japanese food is said to be good for health. It is also environmentally friendly. Many people are starting to like vegan Japanese food. I hope you will try it too.",
+      "id": "529ca257-d0fe-4012-8fb4-6c97e40edece",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が楽しいです。",
+      "id": "e2d34b70-b7db-4f34-8a95-f7ef0f864e44"
+    },
+    {
+      "word": "増えています",
+      "reading": "ふえています",
+      "meaningZh": "增加了",
+      "meaningEn": "is increasing",
+      "level": "n5n4",
+      "exampleSentence": "この町に住む人が増えています。",
+      "id": "f75ee4a6-976d-48f2-9d7e-c70fb9653489"
+    },
+    {
+      "word": "動物性",
+      "reading": "どうぶつせい",
+      "meaningZh": "动物性",
+      "meaningEn": "animal-based",
+      "level": "n5n4",
+      "exampleSentence": "これは動物性の油を使っていますか？",
+      "id": "b3e0b0a7-2c0f-4c1f-b06a-ea8d0bd9ebf4"
+    },
+    {
+      "word": "野菜",
+      "reading": "やさい",
+      "meaningZh": "蔬菜",
+      "meaningEn": "vegetable",
+      "level": "n5n4",
+      "exampleSentence": "毎朝、野菜ジュースを飲みます。",
+      "id": "e94eaac2-b9bb-4e53-9cfc-e5137789721f"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日運動しています。",
+      "id": "1a4b29d5-8c88-47c3-868a-a07f76bdccf4"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n5n4",
+      "exampleSentence": "環境を守るために、ゴミを減らしましょう。",
+      "id": "4776887c-fd08-4403-b01d-a4598fe2f2e6"
+    },
+    {
+      "word": "試す",
+      "reading": "ためす",
+      "meaningZh": "尝试",
+      "meaningEn": "to try",
+      "level": "n5n4",
+      "exampleSentence": "新しいレストランを試してみました。",
+      "id": "4442a51b-d965-4d3a-8c35-532e869e232a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガンは、どんなものを食べない人ですか？",
+      "options": [
+        "肉だけ",
+        "魚だけ",
+        "動物性のもの",
+        "野菜だけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「ヴィーガン（動物性のものを食べない人）が増えています。」と書いてあります。",
+      "id": "aa9be904-5e14-460a-b58f-b69a2e44f2c2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-08-0211ab5677",
+  "publishedAt": "2026-10-08T06:00:00+09:00"
+}
