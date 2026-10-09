@@ -1,0 +1,123 @@
+{
+  "title": "街にロボットが増えた",
+  "summary": "最近、街でロボットを見ることが多くなりました。特に、駅やデパートで、ロボットが案内をしてくれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の大きな街では、ロボットが働く場面が増えています。駅や空港、デパートなどに行くと、ロボットが人々を案内しています。これらのロボットは、道を聞かれたり、お店の場所を教えたりします。",
+      "translationZh": "最近，在日本的大城市里，可以看到机器人工作的场面越来越多了。去车站、机场、百货商店等地，机器人会为人们指路。这些机器人会回答问路，或者告诉人们商店的位置。",
+      "translationEn": "Recently, in big cities in Japan, the scenes of robots working are increasing. When you go to stations, airports, department stores, etc., robots guide people. These robots are asked for directions or told the location of shops.",
+      "id": "ff0030f0-ef2b-406e-bc34-95e3a4b2ae66",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員は、とても便利です。日本語が分からない外国の人にも、ロボットは笑顔で対応できます。画面に地図を出したり、写真を見せたりするので、分かりやすいです。だから、多くの人がロボットを頼りにしています。",
+      "translationZh": "机器人导览员非常方便。即使是不会日语的外国人，机器人也能微笑着对应。它们会在屏幕上显示地图，或者展示照片，所以很容易理解。因此，很多人都依赖机器人。",
+      "translationEn": "Robot guides are very convenient. Robots can respond with a smile even to foreigners who do not understand Japanese. Because they show maps on the screen or show pictures, they are easy to understand. Therefore, many people rely on robots.",
+      "id": "725cf788-240e-434e-9d80-610c4463ceb0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、ロボットだけでは、まだ全ての問題を解決できません。人がいないと、困っている人にすぐに助けられないこともあります。これからも、ロボットと人が協力して、街をもっと便利にしていくでしょう。",
+      "translationZh": "但是，仅仅依靠机器人还不能解决所有问题。如果没有人的话，有时也无法立即帮助到有困难的人。今后，机器人和人会继续合作，让城市变得更加便利。",
+      "translationEn": "However, robots alone cannot solve all problems yet. Without people, sometimes it is not possible to quickly help those in trouble. From now on, robots and people will continue to cooperate to make cities more convenient.",
+      "id": "f0f64571-2e69-4a8a-bdac-091fb0985a19",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "导览员，接待员",
+      "meaningEn": "guide, attendant",
+      "level": "n5n4",
+      "exampleSentence": "駅の案内員は親切でした。",
+      "id": "4cfc9888-0d23-4f59-9c7a-dee5e53e5607"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "人口が増えています。",
+      "id": "3a884a0f-4c7f-4dcf-aba6-1f3261aa4ef7"
+    },
+    {
+      "word": "場面",
+      "reading": "ばめん",
+      "meaningZh": "场面，情景",
+      "meaningEn": "scene, situation",
+      "level": "n5n4",
+      "exampleSentence": "感動的な場面でした。",
+      "id": "61846876-521c-477e-9b85-5a469a69ec32"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaningZh": "引导，指路",
+      "meaningEn": "guidance, information",
+      "level": "n5n4",
+      "exampleSentence": "地図で案内してください。",
+      "id": "20d4ac46-63a7-42b0-9c23-5e38d271bb3c"
+    },
+    {
+      "word": "分かりやすい",
+      "reading": "わかりやすい",
+      "meaningZh": "容易懂的，清楚的",
+      "meaningEn": "easy to understand",
+      "level": "n5n4",
+      "exampleSentence": "説明が分かりやすいです。",
+      "id": "e6418d9d-98c9-41d9-a971-8e83a40e5052"
+    },
+    {
+      "word": "頼りにする",
+      "reading": "たよりにする",
+      "meaningZh": "依赖，依靠",
+      "meaningEn": "to rely on",
+      "level": "n5n4",
+      "exampleSentence": "友達に頼りにしています。",
+      "id": "5c8e390e-c96a-430d-be20-752ec9350e84"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaningZh": "解决",
+      "meaningEn": "solution, settlement",
+      "level": "n3",
+      "exampleSentence": "問題を解決しました。",
+      "id": "0b1bce9d-36f2-46f4-89d2-655b6f0c7b61"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "みんなで協力しましょう。",
+      "id": "5b4badd3-bb26-4c09-9d38-ad4a9d53e4c8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員は、どんな場所でよく見られますか。",
+      "options": [
+        "学校や図書館",
+        "駅やデパート",
+        "病院や薬局",
+        "公園や博物館"
+      ],
+      "correctIndex": 1,
+      "explanation": "「駅や空港、デパートなどに行くと、ロボットが人々を案内しています。」",
+      "id": "5ec0ce97-8174-4ec6-a1ea-1236c8dce9e0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-09-b3f2035f3f",
+  "publishedAt": "2026-10-09T06:00:00+09:00"
+}

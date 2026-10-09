@@ -1,0 +1,122 @@
+{
+  "title": "ローカル線で一日満喫！",
+  "summary": "ローカル線一日乗り放題切符は、安くて楽しい旅行にぴったりです。色々な場所へ行ってみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "皆さんは、ローカル線に乗ったことがありますか？ローカル線は、ゆっくり走る電車です。窓の外の景色がとてもきれいです。田んぼや山が見えます。心が安らぎます。",
+      "translationZh": "大家坐过地方小火车吗？地方小火车是开得很慢的电车。窗外的景色非常漂亮。可以看到田野和山。心情会变得平静。",
+      "translationEn": "Have you ever ridden a local train? Local trains are slow-moving trains. The scenery outside the window is very beautiful. You can see rice fields and mountains. It calms your mind.",
+      "id": "cfc9cda2-004d-41d5-83e2-4ed1e5c94b4d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「ローカル線一日乗り放題切符」という切符があります。この切符を使うと、一日中、その切符が使える線の電車に何回でも乗れます。値段も安いです。だから、とてもお得です。",
+      "translationZh": "有一种叫做“地方小火车一日不限次数乘车券”的车票。使用这张票，一天内可以不限次数地乘坐该线路的电车。价格也很便宜。所以，非常划算。",
+      "translationEn": "There is a ticket called 'Local Line One-Day Unlimited Ride Ticket'. With this ticket, you can ride trains on the lines where the ticket is valid as many times as you want for a whole day. The price is also cheap. Therefore, it is very good value.",
+      "id": "8b630eeb-c7b1-4efb-be21-782257ca3d3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符で、色々な町を訪ねてみましょう。小さな町には、おいしい食べ物があります。きれいな景色がある場所もあります。普段行かない場所へ行くのは楽しいです。",
+      "translationZh": "用这张票，我们去拜访各种各样的小镇吧。小镇里有好吃的食物。也有风景优美的地方。去平时不去的地方很有趣。",
+      "translationEn": "Let's visit various towns with this ticket. Small towns have delicious food. There are also places with beautiful scenery. It's fun to go to places you don't usually visit.",
+      "id": "db5e46bb-c348-4ce7-94d3-5f8a8dd46559",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "友達や家族と一緒に行くのもいいですね。電車の中で話したり、地図を見たりして、計画を立てるのも楽しい時間です。次の休みに、ぜひ使ってみてください。",
+      "translationZh": "和朋友或家人一起去也很棒。在电车里聊天，看地图，制定计划也是开心的时光。下一个休息日，请一定要试试看。",
+      "translationEn": "Going with friends or family is also nice. Talking on the train, looking at maps, and making plans is also a fun time. Please try using it on your next day off.",
+      "id": "39e0f95c-876f-4fc3-86ce-0c287c44d8f2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ローカル線",
+      "reading": "ろーかるせん",
+      "meaningZh": "地方小火车/线路",
+      "meaningEn": "local line",
+      "level": "n5n4",
+      "exampleSentence": "このローカル線は景色がきれいだ。",
+      "id": "fa8ea149-c572-4ea7-867c-70c195c464a8"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaningZh": "一天",
+      "meaningEn": "one day",
+      "level": "n5n4",
+      "exampleSentence": "一日中、本を読んでいました。",
+      "id": "975b9d0f-5108-42f4-8230-171c6fd913ac"
+    },
+    {
+      "word": "乗り放題",
+      "reading": "のりほうだい",
+      "meaningZh": "不限次数乘车",
+      "meaningEn": "unlimited rides",
+      "level": "n5n4",
+      "exampleSentence": "この切符は乗り放題です。",
+      "id": "3ddb95b2-87f0-494d-a6d2-c503a1be56bc"
+    },
+    {
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaningZh": "票",
+      "meaningEn": "ticket",
+      "level": "n5n4",
+      "exampleSentence": "電車に乗るために切符を買いました。",
+      "id": "34012c11-53ab-476b-b292-621ba8f3b76d"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "窓からの景色がとても美しい。",
+      "id": "af46365d-622a-4791-936e-0a55da6c962c"
+    },
+    {
+      "word": "訪ねる",
+      "reading": "たずねる",
+      "meaningZh": "拜访，访问",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "新しい町を訪ねました。",
+      "id": "a075db26-3f66-4e88-9028-7b4e9e7aba4a"
+    },
+    {
+      "word": "お得",
+      "reading": "とく",
+      "meaningZh": "划算，合算",
+      "meaningEn": "profitable, good deal",
+      "level": "n5n4",
+      "exampleSentence": "セールで安く買えてお得でした。",
+      "id": "972de4bc-d531-47e1-876c-2809fa76e3d7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「ローカル線一日乗り放題切符」を使うと、一日で何回電車に乗れますか？",
+      "options": [
+        "一回だけ",
+        "二回まで",
+        "何回でも",
+        "三回"
+      ],
+      "correctIndex": 2,
+      "explanation": "この切符を使うと、一日中、その切符が使える線の電車に何回でも乗れます。",
+      "id": "58f748c4-d01a-4f7b-a5e8-bf3554cab1a5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-09-473f71c275",
+  "publishedAt": "2026-10-09T06:00:00+09:00"
+}

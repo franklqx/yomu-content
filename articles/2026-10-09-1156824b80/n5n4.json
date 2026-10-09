@@ -1,0 +1,131 @@
+{
+  "title": "純喫茶が若者に人気",
+  "summary": "最近、若い人たちの間で「純喫茶」が人気です。昔ながらの喫茶店に新しい魅力があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の若い人たちの間で「純喫茶」が人気を集めています。「純喫茶」は、昔からある喫茶店のことです。コーヒーや紅茶、そして簡単な食べ物があります。レトロな雰囲気（ふんいき）が、若い人たちに新しいと感じられています。",
+      "translationZh": "最近，在日本的年轻人群体中，“纯喫茶”正受到欢迎。“纯喫茶”是指以前就有的咖啡店。那里有咖啡、红茶和简单的食物。复古的氛围，让年轻人觉得很新奇。",
+      "translationEn": "Recently, \"Jun Kissa\" (old-fashioned coffee shops) are becoming popular among young people in Japan. \"Jun Kissa\" are coffee shops that have existed for a long time. They serve coffee, tea, and simple food. The retro atmosphere feels new to young people.",
+      "id": "13134d1d-5ffe-4e26-b021-c420a86bd015",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶の店内は、落ち着いた照明（しょうめい）と古い家具（かぐ）が特徴（とくちょう）です。色とりどりのクリームソーダや、厚切りのプリンも人気メニューです。SNSで写真を撮って、友達にシェアする人も多いです。",
+      "translationZh": "纯喫茶的店内，以柔和的灯光和旧式家具为特征。五颜六色的奶油苏打和厚切布丁也是受欢迎的菜单。很多人会在SNS上拍照并分享给朋友。",
+      "translationEn": "The interior of a Jun Kissa is characterized by soft lighting and old furniture. Colorful cream sodas and thick puddings are also popular menu items. Many people take photos and share them with friends on social media.",
+      "id": "e0eff2e0-1087-440d-bf66-fecf86406a96",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "忙しい日常（にちじょう）から離（はな）れて、ゆっくりとした時間を過ごせるのが純喫茶の魅力です。静かな空間で、美味しい飲み物を楽しむことができます。友達とおしゃべりしたり、一人で本を読んだりするのに良い場所です。",
+      "translationZh": "纯喫茶的魅力在于，可以远离忙碌的日常生活，度过悠闲的时光。在安静的空间里，可以享用美味的饮品。这里是和朋友聊天或独自看书的好地方。",
+      "translationEn": "The appeal of Jun Kissa is that you can escape from busy daily life and spend relaxed time. You can enjoy delicious drinks in a quiet space. It is a good place to chat with friends or read a book alone.",
+      "id": "a5116545-4b9e-4bb0-aa97-7c9f8b8b941c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔の喫茶店が、新しい世代（せだい）に受け入れられているのは面白い現象（げんしょう）です。これからも、純喫茶は多くの人に愛されていくでしょう。",
+      "translationZh": "老式的咖啡店被新一代接受，这是一个有趣的现象。今后，纯喫茶也会受到很多人的喜爱。",
+      "translationEn": "It is an interesting phenomenon that old-fashioned coffee shops are being accepted by a new generation. Jun Kissa will likely continue to be loved by many people.",
+      "id": "98da8e2d-5d82-4f47-a723-53212b604bbd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌は学生に人気です。",
+      "id": "498d45af-2fa3-4ac4-842e-4023f13f9d6e"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "氛围，气氛",
+      "meaningEn": "atmosphere",
+      "level": "n5n4",
+      "exampleSentence": "この店の雰囲気はとてもいいです。",
+      "id": "3e2ac792-989c-4ee6-965f-49c136d972a7"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaningZh": "照明",
+      "meaningEn": "lighting",
+      "level": "n5n4",
+      "exampleSentence": "部屋の照明をつけました。",
+      "id": "a1972a26-4fea-4b3a-a92f-fce7182f4ce7"
+    },
+    {
+      "word": "家具",
+      "reading": "かぐ",
+      "meaningZh": "家具",
+      "meaningEn": "furniture",
+      "level": "n5n4",
+      "exampleSentence": "新しい家具を買いました。",
+      "id": "9a67e4b3-4591-427b-8fb6-bffb4e90bd9d"
+    },
+    {
+      "word": "特徴",
+      "reading": "とくちょう",
+      "meaningZh": "特征，特点",
+      "meaningEn": "characteristic",
+      "level": "n3",
+      "exampleSentence": "この車の特徴は何ですか。",
+      "id": "630a416b-28fe-4f74-8f6d-52f196ccf287"
+    },
+    {
+      "word": "日常",
+      "reading": "にちじょう",
+      "meaningZh": "日常",
+      "meaningEn": "daily life",
+      "level": "n5n4",
+      "exampleSentence": "これは私の日常の出来事です。",
+      "id": "a637a39a-4ac9-497f-8849-9bbb933b6a8e"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaningZh": "世代",
+      "meaningEn": "generation",
+      "level": "n3",
+      "exampleSentence": "若い世代は新しい技術に興味があります。",
+      "id": "02c36244-825b-4cf8-ad7f-c8fbda2836b1"
+    },
+    {
+      "word": "現象",
+      "reading": "げんしょう",
+      "meaningZh": "现象",
+      "meaningEn": "phenomenon",
+      "level": "n3",
+      "exampleSentence": "これは不思議な現象です。",
+      "id": "03a66462-a2a0-4026-8893-c78dc6604143"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若い人たちの間で純喫茶が人気なのですか？",
+      "options": [
+        "おいしいコーヒーが安いから",
+        "レトロな雰囲気が新しいと感じられるから",
+        "店員がとても親切だから",
+        "Wi-Fiが速いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「レトロな雰囲気（ふんいき）が、若い人たちに新しいと感じられています。」と書かれています。",
+      "id": "080f6806-0307-485a-b6b1-a9046e132a68"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-09-1156824b80",
+  "publishedAt": "2026-10-09T06:00:00+09:00"
+}

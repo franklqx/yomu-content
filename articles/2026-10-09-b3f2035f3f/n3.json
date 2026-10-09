@@ -1,0 +1,126 @@
+{
+  "title": "街でよく見る？ロボット案内員が便利！",
+  "summary": "最近、都市部でロボット案内員を見かけることが増えています。これらのロボットは、観光客や地域住民に情報を提供し、生活をより便利にしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都市部では、駅や商業施設などで、ロボットが案内をする姿が目立つようになりました。これらのロボット案内員は、多言語に対応しており、外国人観光客にとって特に役立っています。道案内はもちろん、周辺のおすすめスポットやイベント情報なども教えてくれるので、とても便利です。",
+      "translationZh": "在都市地区，在车站和商业设施等地，看到机器人提供向导服务的身影已经变得很显眼。这些机器人案内员支持多国语言，对外国游客来说尤其有用。不仅是问路，还能告知周边的推荐景点和活动信息，所以非常方便。",
+      "translationEn": "In urban areas, the sight of robots acting as guides has become noticeable at stations and commercial facilities. These robot guides support multiple languages, which is particularly helpful for foreign tourists. They not only provide directions but also offer recommendations for nearby spots and event information, making them very convenient.",
+      "id": "ca44f7c2-c2b8-4d71-98cc-7e6ed6185983",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員が増えている背景には、人手不足の問題があります。特に観光地では、多くの情報を必要とする人がいますが、常に十分なスタッフを配置することが難しい場合があります。そこで、ロボットがその役割を担うことで、サービスの質を保ちながら、効率化を図ることができるのです。",
+      "translationZh": "机器人案内员增加的背景是人手不足的问题。尤其是在观光地，有很多人需要大量信息，但有时很难一直配备足够的工作人员。因此，通过让机器人承担这个角色，可以在保持服务质量的同时，实现效率化。",
+      "translationEn": "One of the reasons for the increase in robot guides is the issue of labor shortages. Especially in tourist areas, there are many people who need a lot of information, but it can be difficult to always have enough staff available. Therefore, by having robots take on this role, efficiency can be improved while maintaining service quality.",
+      "id": "c179d86b-5515-437f-82af-87ba93cc87a3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、ロボットだけでは全てを解決することはできません。時には、複雑な質問や、機械が理解できないような状況も発生します。そのため、ロボットが対応できない部分は、人間のスタッフがサポートする、という連携が重要になってきます。これからも、ロボットと人が協力しながら、より良い案内サービスが提供されることが期待されます。",
+      "translationZh": "然而，仅仅依靠机器人并不能解决所有问题。有时也会发生机器人无法理解的复杂提问或情况。因此，机器人无法应对的部分由人类工作人员提供支持的协作变得很重要。今后，人们期待机器人与人类合作，提供更好的导览服务。",
+      "translationEn": "However, robots alone cannot solve everything. Sometimes, complex questions or situations that machines cannot understand may arise. Therefore, collaboration where human staff support the parts that robots cannot handle becomes important. It is expected that better guidance services will be provided in the future through the cooperation of robots and humans.",
+      "id": "471fbea9-3753-4487-8db5-0bef6b1d6196",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市地区，市区",
+      "meaningEn": "urban area, city area",
+      "level": "n3",
+      "exampleSentence": "都市部では、新しいビルがたくさん建てられています。",
+      "id": "d82633c4-1b59-48d0-a6e4-8aae7b84fa3f"
+    },
+    {
+      "word": "目立つ",
+      "reading": "めだつ",
+      "meaningZh": "显眼，引人注目",
+      "meaningEn": "to be conspicuous, to stand out",
+      "level": "n3",
+      "exampleSentence": "彼の新しい髪型はとても目立っています。",
+      "id": "3d9ff09e-ad10-4045-b553-bbb851f2ad81"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaningZh": "对应，对应（需求、情况等）",
+      "meaningEn": "correspondence, support, handling",
+      "level": "n3",
+      "exampleSentence": "このシステムは多くの言語に対応しています。",
+      "id": "8e51d1f9-18f7-4d7e-bcab-278909ca286e"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "この工場では人手不足のため、生産が遅れています。",
+      "id": "e2e3a2d7-19b2-4607-be78-239bda09d583"
+    },
+    {
+      "word": "配置",
+      "reading": "はいち",
+      "meaningZh": "配置，部署",
+      "meaningEn": "arrangement, deployment",
+      "level": "n3",
+      "exampleSentence": "イベントのために、多くの警備員が配置されました。",
+      "id": "ad7fbc73-c10b-492d-9d8d-f6c41c2ad661"
+    },
+    {
+      "word": "効率化",
+      "reading": "こうりつか",
+      "meaningZh": "提高效率",
+      "meaningEn": "efficiency improvement",
+      "level": "n3",
+      "exampleSentence": "新しい機械の導入で、作業の効率化が進みました。",
+      "id": "e5bd2e93-7c21-42b4-a860-5e3acbc50fa1"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation, collaboration",
+      "level": "n3",
+      "exampleSentence": "部署間の連携を強化することが必要です。",
+      "id": "2d6c67f7-82b4-4dc8-9829-a7e5f0dfd8b7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が都市部で増えている理由は何ですか？",
+      "options": [
+        "もっと多くの言語を教えるため",
+        "人手不足を補い、効率化を図るため",
+        "新しい技術を試すため",
+        "観光客を怖がらせるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ロボット案内員が増えている背景には、人手不足の問題があります。そこで、ロボットがその役割を担うことで、サービスの質を保ちながら、効率化を図ることができるのです。」と書かれています。",
+      "id": "7f0b2031-4564-4250-bb01-9e4b08f701b8"
+    },
+    {
+      "question": "ロボット案内員と人間のスタッフの関係について、筆者はどのように考えていますか？",
+      "options": [
+        "ロボットは人間より優れている",
+        "人間はロボットに仕事を奪われる",
+        "ロボットができない部分は人間がサポートすべきだ",
+        "ロボットと人間は競争すべきだ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「ロボットが対応できない部分は、人間のスタッフがサポートする、という連携が重要になってきます。」と書かれています。",
+      "id": "a38c038b-cfc4-4431-9e83-afc5c551d327"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-09-b3f2035f3f",
+  "publishedAt": "2026-10-09T06:00:00+09:00"
+}
