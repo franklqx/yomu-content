@@ -1,0 +1,131 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガが好きな人へ。新しい奨学金ができました。夢を叶える手伝いをします。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガを作る仕事に興味がありますか。絵を描くのが好きですか。そんな若い人たちのために、新しい奨学金制度が始まりました。この制度は、クリエイターになりたい人を応援するためのものです。",
+      "translationZh": "你对制作动画或漫画的工作感兴趣吗？你喜欢画画吗？为了这样的年轻人，新的奖学金制度开始了。这个制度是为了支持想成为创作者的人。",
+      "translationEn": "Are you interested in jobs that create anime or manga? Do you like drawing? A new scholarship system has started for such young people. This system is to support those who want to become creators.",
+      "id": "a888f78c-547d-486f-89da-bed77cb9d5f8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、学校で勉強したい学生を助けます。例えば、アニメの専門学校や美術大学などで学ぶことができます。必要な費用の一部を、この制度が負担します。だから、経済的な心配が少なく、勉強に集中できます。",
+      "translationZh": "这个奖学金帮助想在学校学习的学生。例如，可以在动画专门学校或美术大学等地方学习。这个制度会负担一部分必要的费用。所以，经济上的担心会减少，可以集中精力学习。",
+      "translationEn": "This scholarship helps students who want to study at school. For example, you can study at vocational schools for anime or art universities. This system will bear part of the necessary expenses. Therefore, you can concentrate on your studies with less financial worry.",
+      "id": "eb2bfeae-96da-420b-93f4-4da884d7d843",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募するには、いくつかの条件があります。まず、クリエイターになる夢を持っていることです。そして、学校の成績や、自分の作品を見せる必要があります。詳しいことは、ウェブサイトで確認してください。",
+      "translationZh": "要申请，有一些条件。首先，要有成为创作者的梦想。然后，需要提交学校成绩和自己的作品。详细情况请在网站上确认。",
+      "translationEn": "To apply, there are some conditions. First, you must have a dream of becoming a creator. Then, you need to show your school grades and your own work. Please check the website for details.",
+      "id": "a281c861-cf76-4f23-8ba7-63f151b5387d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金を通して、たくさんの才能ある若者が育つでしょう。あなたの夢も、この制度で応援されるかもしれません。未来のアニメーターやマンガ家を目指しましょう。",
+      "translationZh": "通过这个奖学金，でしょう。许多有才能的年轻人将会成长。你的梦想也可能得到这个制度的支持。让我们以未来的动画师或漫画家为目标吧。",
+      "translationEn": "Through this scholarship, many talented young people will grow. Your dream may also be supported by this system. Let's aim to be future animators or manga artists.",
+      "id": "56119688-837e-4973-9e4f-67ec2d24e2f9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって大学に行きました。",
+      "id": "d7608e9d-7e8f-498b-8115-853e1c9dd190"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体系",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度ができました。",
+      "id": "4d845425-ae7e-4e93-8b28-ef7163137cc9"
+    },
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者（艺术家、作家等）",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なクリエイターです。",
+      "id": "cfc43923-0518-43fb-9291-7f956a442399"
+    },
+    {
+      "word": "目指す",
+      "reading": "めざす",
+      "meaningZh": "瞄准，以…为目标",
+      "meaningEn": "to aim for",
+      "level": "n5n4",
+      "exampleSentence": "目標を目指して頑張ります。",
+      "id": "3a307de2-7965-49a0-a9e7-5ecf9afa5ee3"
+    },
+    {
+      "word": "専門学校",
+      "reading": "せんもんがっこう",
+      "meaningZh": "专门学校",
+      "meaningEn": "vocational school",
+      "level": "n5n4",
+      "exampleSentence": "アニメの専門学校に通っています。",
+      "id": "59d1569f-18c8-443c-9ee1-59a21eec6ce3"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担，承担",
+      "meaningEn": "burden, to bear",
+      "level": "n5n4",
+      "exampleSentence": "費用を負担します。",
+      "id": "8c243369-f963-4aed-923d-a523442fd8ff"
+    },
+    {
+      "word": "経済的",
+      "reading": "けいざいてき",
+      "meaningZh": "经济上的",
+      "meaningEn": "economic, financial",
+      "level": "n3",
+      "exampleSentence": "経済的な心配があります。",
+      "id": "52475c26-82e1-4679-99a9-621e5cf1ae70"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningZh": "申请，应征",
+      "meaningEn": "application",
+      "level": "n5n4",
+      "exampleSentence": "奨学金に応募しました。",
+      "id": "16e7035e-a251-44c8-9ef9-aecd85644f7f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どのような人を応援するためのものですか。",
+      "options": [
+        "スポーツ選手",
+        "科学者",
+        "アニメやマンガのクリエイター",
+        "医者"
+      ],
+      "correctIndex": 2,
+      "explanation": "「この制度は、クリエイターになりたい人を応援するためのものです。」",
+      "id": "85fef054-cd08-4100-afdd-1a07732bad8a"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-10-f82db1818e",
+  "publishedAt": "2026-10-10T06:00:00+09:00"
+}

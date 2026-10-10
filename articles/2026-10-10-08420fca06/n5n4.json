@@ -1,0 +1,113 @@
+{
+  "title": "学生街の人気店！",
+  "summary": "学生街にある定食屋さんは、安くておいしいと人気です。特にボリューム満点の定食が学生に喜ばれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学の近くに、おいしい定食屋があります。このお店は学生にとても人気があります。なぜなら、値段が安くて、量が多いからです。",
+      "translationZh": "大学附近有一家美味的定食店。这家店在学生中非常受欢迎。因为，价格便宜，分量又足。",
+      "translationEn": "Near the university, there is a delicious set meal restaurant. This shop is very popular with students. This is because the prices are cheap and the portions are large.",
+      "id": "e8afafd8-0800-495c-8ced-2aacb2e24a4d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一番人気は「カツ丼」です。大きなカツが二つものっています。ご飯もたくさん入っています。お腹いっぱい食べたい学生がたくさん来ます。",
+      "translationZh": "最受欢迎的是“炸猪排饭”。上面放着两个大大的炸猪排。米饭也装得满满的。很多想吃饱饱的学生都来这里。",
+      "translationEn": "The most popular dish is 'Katsudon' (pork cutlet bowl). It has two large pork cutlets on top. There is also a lot of rice. Many students who want to eat until they are full come here.",
+      "id": "65ffb7ce-6acc-431f-ab42-27ce953d1f62",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋さんは、味もおいしいです。店長さんが毎日、心をこめて料理を作っています。だから、学生さんはいつも満足して帰ります。",
+      "translationZh": "这家定食店味道也很美味。店长每天都用心制作料理。所以，学生们总是满意地回去。",
+      "translationEn": "The taste of this set meal restaurant is also delicious. The owner makes the food with care every day. Therefore, students always leave satisfied.",
+      "id": "5c703012-007d-4381-9006-10bac94acdd2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「おいしいものを、たくさん食べたい！」そんな学生の願いをかなえるお店です。皆さんも、この街に来たらぜひ寄ってみてください。",
+      "translationZh": "“想吃美味的东西，吃很多！”这是一家能实现学生这样愿望的店。大家来这个城市的话，也请一定要来尝尝。",
+      "translationEn": "This is a shop that fulfills students' wishes like, 'I want to eat delicious food and eat a lot!'. If you ever come to this town, please stop by.",
+      "id": "713ee4f3-3e60-4de2-90ed-3eeb12f57b18",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "套餐，固定菜单",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "ここで定食を食べました。",
+      "id": "833fed4b-9da7-4ddc-93d8-407a0ad65e2a"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この店は学生に人気です。",
+      "id": "a179d086-2905-4f12-9e53-c10012093485"
+    },
+    {
+      "word": "ボリューム満点",
+      "reading": "ぼりゅーむまんてん",
+      "meaningZh": "分量十足",
+      "meaningEn": "plenty of volume",
+      "level": "n5n4",
+      "exampleSentence": "ここの料理はボリューム満点です。",
+      "id": "cf9f0fea-41ee-4ccb-853a-ad2bfe49a386"
+    },
+    {
+      "word": "カツ丼",
+      "reading": "かつどん",
+      "meaningZh": "炸猪排饭",
+      "meaningEn": "pork cutlet bowl",
+      "level": "n5n4",
+      "exampleSentence": "カツ丼はとてもおいしかったです。",
+      "id": "16f81506-21b2-410d-850f-9c181948dab0"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaningZh": "满足",
+      "meaningEn": "satisfaction",
+      "level": "n5n4",
+      "exampleSentence": "おいしい食事で満足しました。",
+      "id": "fe492935-1524-4631-ac6f-c223f36bb372"
+    },
+    {
+      "word": "寄る",
+      "reading": "よる",
+      "meaningZh": "顺便去，逗留",
+      "meaningEn": "to stop by",
+      "level": "n5n4",
+      "exampleSentence": "帰り道に駅に寄りました。",
+      "id": "dfcabb2a-d76d-4202-8806-a23ff3837c3f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋さんが学生に人気がある理由は何ですか？",
+      "options": [
+        "おいしいから",
+        "安いから",
+        "ボリュームが多いから",
+        "安いし、ボリュームが多いから"
+      ],
+      "correctIndex": 3,
+      "explanation": "このお店は学生にとても人気があります。なぜなら、値段が安くて、量が多いからです。",
+      "id": "74a99647-d250-4055-a63f-773a6f3eedd7"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-10-08420fca06",
+  "publishedAt": "2026-10-10T06:00:00+09:00"
+}

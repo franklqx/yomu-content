@@ -1,0 +1,135 @@
+{
+  "title": "学生街で大人気！ボリューム満点の定食屋さん",
+  "summary": "学生に人気の定食屋さんを紹介します。安くてボリューム満点のメニューは、お腹いっぱいになりたい学生たちの間で評判です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学の近くにある「満腹食堂」は、学生たちの間でとても人気があります。ここの定食は、値段が安いのに量がとても多いことで知られています。そのため、毎日たくさんの学生がお昼や晩ごはんを食べに来ています。お店の中はいつも活気があって、学生たちの楽しそうな声が響いています。",
+      "translationZh": "位于大学附近的“满腹食堂”在学生中非常受欢迎。这里的套餐以价格便宜但分量十足而闻名。因此，每天都有很多学生前来享用午餐或晚餐。店里总是充满活力，回荡着学生们开心的笑声。",
+      "translationEn": "The popular restaurant 'Manpuku Shokudo,' located near the university, is very popular among students. The set meals here are known for being very large in portion size despite their low prices. Because of this, many students come to eat lunch or dinner every day. The inside of the shop is always lively, filled with the sounds of students' cheerful voices.",
+      "id": "78eb689a-9f64-41e9-8bba-60941ecc539d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に人気なのは、唐揚げ定食と生姜焼き定食です。唐揚げは一つ一つが大きく、衣はサクサク、中はジューシーです。生姜焼きは、特製のタレがたっぷりかかっていて、ご飯が進みます。どちらの定食にも、ご飯と味噌汁、それに数種類のおかずがついてきます。これだけ食べれば、お腹いっぱいになること間違いなしです。",
+      "translationZh": "特别受欢迎的是炸鸡定食和姜汁烧肉定食。炸鸡块个个都很大，外皮酥脆，内部多汁。姜汁烧肉浇满了特制酱汁，非常下饭。这两种定食都配有米饭、味噌汤以及几种小菜。吃完这些，绝对能让你吃饱。",
+      "translationEn": "The most popular dishes are the Karaage Teishoku (fried chicken set meal) and Shogayaki Teishoku (ginger pork set meal). Each piece of fried chicken is large, with a crispy coating and juicy interior. The Shogayaki is generously covered with a special sauce, making it perfect with rice. Both set meals come with rice, miso soup, and several side dishes. You're sure to leave with a full stomach after eating these.",
+      "id": "eefd4960-09a6-422e-8814-4c772d69f649",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店の良いところは、ボリュームがあるだけではありません。料理はどれも家庭的で、温かい味がします。店員さんも親切なので、初めて来た学生でも安心して食べられます。お腹も心も満たされる、そんなお店なのです。だから、勉強で疲れた学生たちが、よくこのお店に立ち寄るのでしょう。",
+      "translationZh": "这家店的优点不仅仅是分量足。这里的菜肴都很有家常味，味道温暖。店员也很亲切，所以即使是第一次来的学生也能安心地用餐。这是一家能填饱肚子、温暖心灵的店。所以，学习疲惫的学生们经常会光顾这里吧。",
+      "translationEn": "What's good about this restaurant isn't just the large portions. All the dishes have a home-style, warm taste. The staff are also kind, so even students visiting for the first time can eat with peace of mind. It's a place that satisfies both your stomach and your heart. That's probably why tired students often stop by this shop.",
+      "id": "bebe7423-198b-4050-a342-ac77008653ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "配有主菜、米饭、汤和几样小菜的套餐",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "今日のランチは和食の定食にしました。",
+      "id": "cd42cba9-e2ce-4088-8dae-fd4d984d7eeb"
+    },
+    {
+      "word": "ボリューム",
+      "reading": "ぼりゅーむ",
+      "meaningZh": "分量，容量",
+      "meaningEn": "volume, portion size",
+      "level": "n5n4",
+      "exampleSentence": "このお店はボリューム満点です。",
+      "id": "3080224c-49dd-47c2-8b5b-4af577f47361"
+    },
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaningZh": "名声，口碑",
+      "meaningEn": "reputation, fame",
+      "level": "n3",
+      "exampleSentence": "このレストランは味がいいと評判です。",
+      "id": "5409e2d4-4ff4-4fd6-bedb-507a11eba715"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "生气，活力",
+      "meaningEn": "vivacity, energy",
+      "level": "n3",
+      "exampleSentence": "市場は朝から活気に満ちています。",
+      "id": "c3afd691-974e-43f2-8a1d-fa560776a591"
+    },
+    {
+      "word": "響く",
+      "reading": "ひびく",
+      "meaningZh": "回响，传播",
+      "meaningEn": "to resound, to echo",
+      "level": "n3",
+      "exampleSentence": "子供たちの笑い声が廊下に響いた。",
+      "id": "640c086e-a88d-4ae4-b72b-4d0afdb2da24"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "日式炸鸡",
+      "meaningEn": "Japanese fried chicken",
+      "level": "n5n4",
+      "exampleSentence": "夕食に唐揚げを作りました。",
+      "id": "691bcb44-9a73-4697-a8e3-beace5f4d748"
+    },
+    {
+      "word": "生姜焼き",
+      "reading": "しょうがやき",
+      "meaningZh": "姜汁烧肉",
+      "meaningEn": "ginger pork stir-fry",
+      "level": "n5n4",
+      "exampleSentence": "豚肉の生姜焼きは日本の家庭料理の定番です。",
+      "id": "ad1ab7e0-8289-47f0-81bb-c322668352e0"
+    },
+    {
+      "word": "特製",
+      "reading": "とくせい",
+      "meaningZh": "特制的",
+      "meaningEn": "special (made by someone)",
+      "level": "n3",
+      "exampleSentence": "このラーメンにはお店の特製スープが使われています。",
+      "id": "22516d95-abdc-4216-b545-73fa13cae27b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「満腹食堂」が学生に人気な理由は何ですか？",
+      "options": [
+        "料理がとてもおしゃれだから",
+        "値段が安くて量が多いから",
+        "静かで落ち着いた雰囲気だから",
+        "メニューが毎日変わるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ここの定食は、値段が安いのに量がとても多いことで知られています。」と書かれています。",
+      "id": "4e823f53-9a39-44c8-bb33-053be0f69503"
+    },
+    {
+      "question": "この定食屋さんの料理の特徴は何ですか？",
+      "options": [
+        "高級食材を使っている",
+        "見た目がとても華やかだ",
+        "家庭的で温かい味だ",
+        "世界各国の料理が楽しめる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「料理はどれも家庭的で、温かい味がします。」と書かれています。",
+      "id": "3f964566-9b9d-4a04-a5d7-e86ac424e36e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-10-08420fca06",
+  "publishedAt": "2026-10-10T06:00:00+09:00"
+}

@@ -1,0 +1,129 @@
+{
+  "title": "学生街の熱気、大盛り定食店に活気呼ぶ",
+  "summary": "学生街で特に人気の高い大盛り定食店が、連日多くの若者で賑わっている。その背景には、手頃な価格とボリューム満点のメニューが、学生たちの経済的・食欲的ニーズに応えていることがあると見られる。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都内某所の学生街において、ボリューム満点の定食を提供する飲食店が、学生を中心に大きな支持を集めている。中でも、日替わりランチはその日の仕入れ状況に応じて内容が変わり、飽きさせない工夫が凝らされているとのことだ。開店前から行列ができる日も珍しくなく、その人気ぶりが伺える。",
+      "translationZh": "在东京某处的学生街，一家提供份量十足套餐的餐厅，正以学生为中心获得极大人气。其中，每日更换的午餐会根据当天的进货情况调整内容，据称这种变化带来了不厌烦的巧妙之处。开店前就排队等候的日子也屡见不鲜，其人气可见一斑。",
+      "translationEn": "In a certain student district in Tokyo, a restaurant offering hearty set meals is gaining significant support, particularly from students. It is reported that their daily changing lunch menus are cleverly designed to prevent boredom, with contents varying according to the day's available ingredients. It's not unusual for lines to form even before the restaurant opens, highlighting its popularity.",
+      "id": "5907afd0-c5fd-429c-8923-2ba4b93f3fc5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした大盛り定食店が繁盛する背景には、近年の物価上昇に伴う食費の圧迫が指摘されている。学生にとっては、限られた予算内で満足感を得られる食事が不可欠であり、同店が提供する数種類のメイン料理から一つを選べるスタイルや、ご飯のおかわり自由といったサービスが、経済的負担を軽減する上で重宝されているようだ。",
+      "translationZh": "这类大份量定食店生意兴隆的背景，被指出与近年物价上涨带来的食品费用压力有关。对于学生而言，在有限的预算内获得满足感的餐饮是不可或缺的，而这家店提供的可从数种主菜中选择一种的风格，以及米饭可免费续加等服务，在减轻经济负担方面似乎受到了青睐。",
+      "translationEn": "The thriving business of such large-portion set meal restaurants is attributed to the financial strain caused by recent price increases on food expenses. For students, meals that offer satisfaction within a limited budget are essential, and the restaurant's style of allowing customers to choose one from several main dishes, along with services like free rice refills, appears to be highly valued for alleviating financial burdens.",
+      "id": "2966a5bb-b89c-47c8-989f-c54310e3ee38",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、学業やアルバイトで忙しい学生にとって、短時間で栄養バランスの取れた食事を摂れることも、大きな魅力となっている。店側は、地域住民や近隣で働く人々にも配慮し、多様なニーズに応えようと努めている様子がうかがえる。今後も、学生街の食文化を支える存在として、その役割は大きいと見られている。",
+      "translationZh": "此外，对于因学业或打工而忙碌的学生来说，能在短时间内摄取营养均衡的餐点，也是一个巨大的魅力。从店家方面来看，似乎也能感受到他们正努力兼顾周边居民及附近工作者，以满足多样化的需求。今后，作为支撑学生街饮食文化的存在，其作用被认为将持续扩大。",
+      "translationEn": "Furthermore, for students busy with their studies and part-time jobs, the ability to have a nutritionally balanced meal in a short amount of time is also a significant draw. The restaurant appears to be making efforts to cater to a diverse range of needs, considering local residents and people working nearby. It is anticipated that its role will remain substantial in supporting the food culture of the student district.",
+      "id": "c6c31288-21a0-4378-84cb-b9171e251877",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，熙攘",
+      "meaningEn": "to be crowded, to be bustling",
+      "level": "n3",
+      "exampleSentence": "週末の商店街は多くの買い物客で賑わっていた。",
+      "id": "2c339dae-5bd7-41df-abd8-c7e6856c5956"
+    },
+    {
+      "word": "伺える",
+      "reading": "うかがえる",
+      "meaningZh": "看得出，可以推测",
+      "meaningEn": "can be seen, can be inferred",
+      "level": "n2n1",
+      "exampleSentence": "彼の表情から、その考えに至った経緯が伺えた。",
+      "id": "06fb4d24-501a-4e97-8743-436db85979a8"
+    },
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaningZh": "精心制作，绞尽脑汁",
+      "meaningEn": "to devise, to exert oneself",
+      "level": "n2n1",
+      "exampleSentence": "デザインには細部にわたって工夫が凝らされていた。",
+      "id": "75eb74ac-80b3-4bfb-b0e1-1e97e17d557f"
+    },
+    {
+      "word": "圧迫",
+      "reading": "あっぱく",
+      "meaningZh": "压迫，紧迫",
+      "meaningEn": "pressure, oppression",
+      "level": "n2n1",
+      "exampleSentence": "経済的な圧迫を感じている家庭が増えている。",
+      "id": "3e6619ab-f69a-4806-bcc5-34489a69ef9e"
+    },
+    {
+      "word": "重宝",
+      "reading": "ちょうほう",
+      "meaningZh": "珍贵，有用",
+      "meaningEn": "valuable, useful",
+      "level": "n2n1",
+      "exampleSentence": "この道具は、作業効率を上げる上で大変重宝している。",
+      "id": "1ba23303-2155-408c-adb0-07fb2515629e"
+    },
+    {
+      "word": "摂れる",
+      "reading": "とれる",
+      "meaningZh": "摄取（营养等）",
+      "meaningEn": "to take in, to obtain (nutrients, etc.)",
+      "level": "n3",
+      "exampleSentence": "バランスの取れた食事から十分な栄養を摂ることが大切だ。",
+      "id": "81bcbe35-54fb-4c37-a5b6-e6906a38d0d2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この学生街で定食店が人気を集めている主な理由は何だと述べられていますか？",
+      "options": [
+        "高級食材を使っているから",
+        "メニューが毎日変わるから",
+        "手頃な価格でボリュームがあるから",
+        "有名シェフが経営しているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中「その背景には、手頃な価格とボリューム満点のメニューが、学生たちの経済的・食欲的ニーズに応えていることがあると見られる。」と述べられています。",
+      "id": "44cbc956-76b0-483f-b90a-5d7bce601e18"
+    },
+    {
+      "question": "物価上昇が定食店の繁盛にどのように影響していると書かれていますか？",
+      "options": [
+        "学生が外食を控えるようになったため、店側が価格を下げた",
+        "学生の食費負担が増えたため、安価で満足できる食事の需要が高まった",
+        "食費が上がったため、学生はより高価な料理を求めるようになった",
+        "学生街から離れた場所でも同様の現象が見られるようになった"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「こうした大盛り定食店が繁盛する背景には、近年の物価上昇に伴う食費の圧迫が指摘されている。学生にとっては、限られた予算内で満足感を得られる食事が不可欠であり、同店が提供する数種類のメイン料理から一つを選べるスタイルや、ご飯のおかわり自由といったサービスが、経済的負担を軽減する上で重宝されているようだ。」とあります。",
+      "id": "76a9c1a3-18a7-4e39-84a7-80501c24d883"
+    },
+    {
+      "question": "定食店が学生にとって魅力となっている点として、他にどのようなことが挙げられていますか？",
+      "options": [
+        "店内の雰囲気が落ち着いており、勉強に適している",
+        "栄養バランスが取れた食事を短時間で摂れる",
+        "予約なしでいつでも入れる",
+        "店員とのコミュニケーションが取りやすい"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中「また、学業やアルバイトで忙しい学生にとって、短時間で栄養バランスの取れた食事を摂れることも、大きな魅力となっている。」と記述されています。",
+      "id": "47609c80-04d0-438a-9080-5e4584feb170"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-10-08420fca06",
+  "publishedAt": "2026-10-10T06:00:00+09:00"
+}

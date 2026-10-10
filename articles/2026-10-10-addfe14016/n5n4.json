@@ -1,0 +1,122 @@
+{
+  "title": "東北に新しい道",
+  "summary": "東北地方で自転車の道が作られています。旅行がもっと楽しくなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東北地方は、きれいな景色がたくさんあります。海も山もあります。だから、自転車で旅行するのが人気になっています。",
+      "translationZh": "东北地方有很多美丽的景色。有海也有山。因此，骑自行车旅行变得很受欢迎。",
+      "translationEn": "The Tohoku region has many beautiful sceneries. There are seas and mountains. Because of this, traveling by bicycle is becoming popular.",
+      "id": "441669dd-6d69-42cb-9f4a-6e7eb4e71cfa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今、東北で自転車の道を整備しています。車が通らない安全な道です。海沿いの道や、山の中の道が作られています。観光客は、もっと景色を楽しめるようになります。",
+      "translationZh": "现在，东北正在整备自行车道。这是汽车不通行的安全道路。海边的道路和山中的道路正在被修建。游客将能更享受景色。",
+      "translationEn": "Now, bicycle roads are being developed in Tohoku. These are safe roads where cars do not pass. Roads along the coast and roads in the mountains are being built. Tourists will be able to enjoy the scenery more.",
+      "id": "79e902d1-c1a4-4a58-9fb4-2fbf0dc8d795",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しい道ができると、東北の町や村にもっと人が来るでしょう。地元の食べ物や文化も楽しめます。自転車で旅をすることは、新しい発見がたくさんあります。",
+      "translationZh": "这条新路建成后，可能会有更多人来到东北的城镇和村庄。还可以品尝当地的食物和文化。骑自行车旅行有很多新的发现。",
+      "translationEn": "When these new roads are completed, more people will likely come to the towns and villages in Tohoku. You can also enjoy local food and culture. Traveling by bicycle offers many new discoveries.",
+      "id": "583d4a46-64ee-4ff4-aae7-f853b616359f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "自転車の道は、これからも増えていく予定です。東北の自然と人々との出会いを楽しみにしてください。",
+      "translationZh": "自行车道今后还将继续增加。请期待与东北的自然和人们的相遇。",
+      "translationEn": "Bicycle roads are planned to increase in the future. Please look forward to encounters with Tohoku's nature and people.",
+      "id": "90213d46-4ce3-46bb-afa8-736e41b577b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方；地区",
+      "meaningEn": "region; area",
+      "level": "n5n4",
+      "exampleSentence": "これは私の住んでいる地方です。",
+      "id": "f09c4a23-8f2b-4ae4-8a1e-393ba2d062ad"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色；风景",
+      "meaningEn": "scenery; view",
+      "level": "n5n4",
+      "exampleSentence": "富士山の景色はとてもきれいです。",
+      "id": "2ccb7e17-5af3-467c-944d-f5a14f21f5d5"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整备；整修",
+      "meaningEn": "maintenance;整備",
+      "level": "n3",
+      "exampleSentence": "道路の整備は大切です。",
+      "id": "e6f4b321-5f7c-41ed-9d3e-4b387e77f915"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaningZh": "自行车",
+      "meaningEn": "bicycle",
+      "level": "n5n4",
+      "exampleSentence": "自転車で学校に行きます。",
+      "id": "e907aee5-583e-4e1a-a62f-b1d5531c1223"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气；受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "あの歌手はとても人気があります。",
+      "id": "41f5925a-8864-496c-a384-b16d327e21d9"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "观光客；游客",
+      "meaningEn": "tourist",
+      "level": "n3",
+      "exampleSentence": "多くの観光客が日本に来ています。",
+      "id": "cdce5307-1abb-4c08-a35a-04ec280abfe8"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaningZh": "预定；计划",
+      "meaningEn": "plan; schedule",
+      "level": "n5n4",
+      "exampleSentence": "明日は友達と会う予定です。",
+      "id": "4a08e5b6-4a31-41c7-b048-80d2002f161a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北で新しく作られているのは何ですか？",
+      "options": [
+        "新しいホテル",
+        "新しい道",
+        "新しい駅",
+        "新しい公園"
+      ],
+      "correctIndex": 1,
+      "explanation": "「東北地方で自転車の道を整備しています。」という文があります。",
+      "id": "fcacd535-18eb-496a-9c4c-0dcc0501f561"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-10-addfe14016",
+  "publishedAt": "2026-10-10T06:00:00+09:00"
+}
