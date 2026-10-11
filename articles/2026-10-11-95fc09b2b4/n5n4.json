@@ -1,0 +1,105 @@
+{
+  "title": "発酵食品が人気！",
+  "summary": "最近、発酵食品がとても人気です。健康のために食べる人が増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、発酵食品が人気です。例えば、ヨーグルトや味噌、納豆などです。これらの食品は、私たちの体にとって良いと言われています。",
+      "translationZh": "最近，发酵食品很受欢迎。例如，酸奶、味噌和纳豆等。据说这些食品对我们的身体有益。",
+      "translationEn": "Recently, fermented foods are popular. For example, yogurt, miso, and natto. These foods are said to be good for our bodies.",
+      "id": "049e6b69-87f9-4fba-bda7-5bb2a38dcde2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、体に良い菌がたくさん入っています。この菌は、お腹の調子を良くしてくれます。そして、病気になりにくくするとも言われています。",
+      "translationZh": "发酵食品中含有许多对身体有益的菌。这些菌可以改善肠胃的状况。而且，据说也能使人不容易生病。",
+      "translationEn": "Fermented foods contain many good bacteria for the body. These bacteria improve your stomach condition. And, they are also said to make you less prone to illness.",
+      "id": "6bec270e-f67a-4cc1-a335-3743bfda0d1c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "健康を大切にする人が増えています。そのため、発酵食品を食べる生活を始めた人も多いでしょう。毎日の食卓に、発酵食品を加えてみませんか。",
+      "translationZh": "重视健康的人越来越多。因此，开始食用发酵食品的生活的人也很多吧。要不要在每天的餐桌上加入发酵食品呢？",
+      "translationEn": "More and more people value their health. Therefore, many people have probably started a lifestyle of eating fermented foods. Why not add fermented foods to your daily table?",
+      "id": "4cdf4776-4c05-4a9e-b021-5c8b66adc0d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n5n4",
+      "exampleSentence": "味噌は日本の発酵食品です。",
+      "id": "6cd89e2a-2f2f-472e-8bff-3d8d3db2f1d0"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この店はいつも人気があります。",
+      "id": "a9bd6f05-e808-4201-87ae-f737a2ad0999"
+    },
+    {
+      "word": "ヨーグルト",
+      "reading": "よーぐると",
+      "meaningZh": "酸奶",
+      "meaningEn": "yogurt",
+      "level": "n5n4",
+      "exampleSentence": "朝ごはんにはヨーグルトを食べます。",
+      "id": "0bf206db-17ae-48ed-8870-25435b917dee"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日運動しています。",
+      "id": "d491c1d6-2e4b-4f09-afa6-7ed9b41a3578"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状况，状态",
+      "meaningEn": "condition",
+      "level": "n5n4",
+      "exampleSentence": "お腹の調子が悪いです。",
+      "id": "ba19d901-de1a-424b-aa22-23a8e0b5ee5f"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "家族は私にとって大切です。",
+      "id": "02816190-2109-443f-9510-6084259637b1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ発酵食品が人気ですか。",
+      "options": [
+        "おいしいから",
+        "体に良いと言われているから",
+        "安いから",
+        "種類が多いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「健康のために食べる人が増えています」と「これらの食品は、私たちの体にとって良いと言われています」と書いてあります。",
+      "id": "7f7c4303-216d-4ff9-ba63-c43171225cfb"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-11-95fc09b2b4",
+  "publishedAt": "2026-10-11T06:00:00+09:00"
+}

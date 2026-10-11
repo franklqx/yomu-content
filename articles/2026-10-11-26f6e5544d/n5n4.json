@@ -1,0 +1,122 @@
+{
+  "title": "秋の味覚！限定スイーツ登場",
+  "summary": "秋は美味しいものがたくさんあります。お店には特別な限定商品があります。ぜひ見つけてみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋になりました。空気が冷たくなってきました。この季節は食欲の秋と呼ばれます。美味しいものがたくさん出てきます。",
+      "translationZh": "秋天来了。空气变得凉爽了。这个季节被称为“食欲之秋”。美味的东西也很多。",
+      "translationEn": "Autumn has arrived. The air is getting cooler. This season is called 'Autumn of Appetite'. Many delicious things appear.",
+      "id": "7c4752b7-d717-410d-87fd-bc2563216b0e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お店では、秋限定の商品がたくさん売られています。例えば、栗（くり）を使ったお菓子や、かぼちゃの味のパンなどです。見た目も秋らしくて、とてもきれいです。",
+      "translationZh": "店里卖着很多秋季限定的商品。例如，用栗子做的点心，还有南瓜口味的面包等。外表也很像秋天，非常漂亮。",
+      "translationEn": "In stores, many autumn-limited products are being sold. For example, sweets made with chestnuts, and bread flavored with pumpkin. They look very beautiful, like autumn.",
+      "id": "29485a23-19df-4b35-b747-4488326a8101",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの限定商品は、すぐに売り切れてしまうことがあります。だから、欲しいものがあったら、早めに買いに行くのがおすすめです。新しい味を見つけるのは楽しいですね。",
+      "translationZh": "这些限定商品有时会很快卖完。所以，如果有想要的东西，建议早点去买。发现新的口味很有趣。",
+      "translationEn": "These limited products sometimes sell out quickly. Therefore, if there is something you want, it is recommended to go buy it early. It's fun to discover new flavors.",
+      "id": "09e4f562-5eb0-4708-99dc-d437bab07a56",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、この秋、特別な味を楽しんでみませんか。お店に行って、お気に入りの限定商品を見つけてください。",
+      "translationZh": "大家这个秋天，要不要也来品尝一下特别的味道呢？请去店里，找到你喜欢的限定商品吧。",
+      "translationEn": "Everyone, why don't you try enjoying special flavors this autumn? Go to the store and find your favorite limited products.",
+      "id": "2091467c-ceed-4104-bbf7-8c44d82dc33c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は一番好きな季節です。",
+      "id": "7b82bdb7-789a-4eae-9151-1550e72b1e8f"
+    },
+    {
+      "word": "食欲",
+      "reading": "しょくよく",
+      "meaningZh": "食欲",
+      "meaningEn": "appetite",
+      "level": "n5n4",
+      "exampleSentence": "秋は食欲が増します。",
+      "id": "33fc4f00-bd01-4604-92d6-886ca3ba91f3"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "これは期間限定の商品です。",
+      "id": "e191ecab-bace-4313-ba7d-3d6934b4f740"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningZh": "商品",
+      "meaningEn": "product",
+      "level": "n5n4",
+      "exampleSentence": "新しい商品がたくさん出ました。",
+      "id": "93d28150-b65a-4994-8d47-9b5eba7b3411"
+    },
+    {
+      "word": "栗",
+      "reading": "くり",
+      "meaningZh": "栗子",
+      "meaningEn": "chestnut",
+      "level": "n5n4",
+      "exampleSentence": "栗を使ったケーキが好きです。",
+      "id": "d17a59c4-c69a-4015-9202-7e41d548c52d"
+    },
+    {
+      "word": "かぼちゃ",
+      "reading": "かぼちゃ",
+      "meaningZh": "南瓜",
+      "meaningEn": "pumpkin",
+      "level": "n5n4",
+      "exampleSentence": "かぼちゃのスープは美味しいです。",
+      "id": "d6fa059c-0fe5-44cd-b6d9-2e03f8c36c7e"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n5n4",
+      "exampleSentence": "人気の商品はすぐに売り切れます。",
+      "id": "83f3caa1-55bb-48c5-9ecd-0a3f5f7bf6e7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "秋限定の商品で、すぐ売り切れてしまうことがあるのはなぜですか？",
+      "options": [
+        "値段が高いからです。",
+        "人気があるからです。",
+        "お店が小さいからです。",
+        "秋にしか作れないからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "これらの限定商品は、すぐに売り切れてしまうことがあります。",
+      "id": "35452187-9381-4ede-94a3-2534378aaadd"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-11-26f6e5544d",
+  "publishedAt": "2026-10-11T06:00:00+09:00"
+}

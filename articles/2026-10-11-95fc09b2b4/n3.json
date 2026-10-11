@@ -1,0 +1,126 @@
+{
+  "title": "発酵食品ブーム！健康的な食生活を始めよう",
+  "summary": "最近、発酵食品が注目されています。健康意識の高まりとともに、私たちの食卓に発酵食品がもっと増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、健康への関心が高まるにつれて、発酵食品が人気を集めています。ヨーグルトや納豆といったおなじみのものだけでなく、最近では味噌や醤油、漬物なども見直されています。これらは、微生物の働きによって作られる食品で、独特の風味や栄養価が特徴です。",
+      "translationZh": "近年来，随着对健康关注度的提高，发酵食品越来越受欢迎。除了酸奶和纳豆等我们熟悉的食品外，最近味噌、酱油和腌菜等也受到了重新审视。这些食品是由微生物的作用产生的，具有独特的风味和营养价值。",
+      "translationEn": "In recent years, as interest in health has grown, fermented foods have gained popularity. Beyond familiar items like yogurt and natto, miso, soy sauce, and pickles are also being re-evaluated recently. These are foods produced by the action of microorganisms and are characterized by their unique flavors and nutritional value.",
+      "id": "4134133c-50e2-4245-b7bf-e3a0ec71afa7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品が注目される理由の一つは、腸内環境を整える効果があると言われているからです。私たちの体にはたくさんの細菌が住んでおり、特に腸内のバランスが健康に大きく影響すると考えられています。発酵食品に含まれる乳酸菌や麹菌などの善玉菌は、腸の働きを助け、健康維持に役立つと期待されています。",
+      "translationZh": "发酵食品受到关注的原因之一是据说它有助于调节肠道环境。我们的体内居住着大量的细菌，特别是肠道内的平衡被认为对健康有很大影响。发酵食品中含有的乳酸菌和麴菌等益生菌被期望能帮助肠道功能，对维持健康有所帮助。",
+      "translationEn": "One reason why fermented foods are attracting attention is that they are said to help regulate the intestinal environment. Our bodies host a large number of bacteria, and the balance within the intestines is believed to significantly impact health. Good bacteria such as lactic acid bacteria and koji found in fermented foods are expected to aid intestinal function and contribute to maintaining health.",
+      "id": "52c539a5-e8fc-40b1-a721-a63e97c710d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品を普段の食事に取り入れるのは、それほど難しくありません。朝食にヨーグルトを加えたり、昼食におにぎりと一緒に漬物を食べたり、夕食の味噌汁に発酵食品の良さを活かすことができます。また、新しい種類の味噌や醤油を試してみるのも楽しいでしょう。健康的な食生活は、毎日の小さな選択から始まります。",
+      "translationZh": "将发酵食品融入日常饮食并不那么困难。可以在早餐中加入酸奶，午餐时与饭团一起吃腌菜，晚餐的味噌汤也可以利用发酵食品的优点。尝试新口味的味噌或酱油也会很有趣。健康的饮食生活是从每天的小小选择开始的。",
+      "translationEn": "Incorporating fermented foods into your daily meals is not that difficult. You can add yogurt to your breakfast, eat pickles with your onigiri for lunch, or utilize the benefits of fermented foods in your miso soup for dinner. Trying new types of miso or soy sauce can also be enjoyable. A healthy diet begins with small choices every day.",
+      "id": "307a6199-deb5-4ba1-b3fd-3f133328cb75",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "キムチも発酵食品の一つです。",
+      "id": "bf523a8b-9501-4947-82c6-f7abd6b15ac0"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaningZh": "关心；兴趣",
+      "meaningEn": "interest; concern",
+      "level": "n3",
+      "exampleSentence": "健康への関心が高まっています。",
+      "id": "2a92a7be-ebe1-473d-b506-ab45d6863f03"
+    },
+    {
+      "word": "微生物",
+      "reading": "びせいぶつ",
+      "meaningZh": "微生物",
+      "meaningEn": "microorganism",
+      "level": "n3",
+      "exampleSentence": "パンを作るには、パン酵母という微生物が必要です。",
+      "id": "81a77828-bcc7-4446-b32f-26d5400f7b71"
+    },
+    {
+      "word": "腸内環境",
+      "reading": "ちょうないかんきょう",
+      "meaningZh": "肠道环境",
+      "meaningEn": "intestinal environment; gut flora",
+      "level": "n3",
+      "exampleSentence": "腸内環境を整えるために、食物繊維を多く摂るようにしています。",
+      "id": "bfbe2c5d-9b5d-48a7-adb2-5d4431f1b3cf"
+    },
+    {
+      "word": "乳酸菌",
+      "reading": "にゅうさんきん",
+      "meaningZh": "乳酸菌",
+      "meaningEn": "lactic acid bacterium",
+      "level": "n3",
+      "exampleSentence": "ヨーグルトにはたくさんの乳酸菌が含まれています。",
+      "id": "3f77871c-8cf3-4ad7-aad4-17eed4570233"
+    },
+    {
+      "word": "麹菌",
+      "reading": "こうじきん",
+      "meaningZh": "麴菌",
+      "meaningEn": "koji mold",
+      "level": "n3",
+      "exampleSentence": "日本酒を作るのに麹菌は欠かせません。",
+      "id": "23d69895-e312-41aa-a172-b3f6be0d14d1"
+    },
+    {
+      "word": "善玉菌",
+      "reading": "ぜんだまきん",
+      "meaningZh": "益生菌；有益的细菌",
+      "meaningEn": "beneficial bacteria; good bacteria",
+      "level": "n3",
+      "exampleSentence": "善玉菌を増やすことが健康の秘訣です。",
+      "id": "1ebd2dce-45b7-4d54-97ec-e1b7e555f013"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品が注目されている主な理由は何ですか？",
+      "options": [
+        "味がおいしいから",
+        "安く手に入るから",
+        "腸内環境を整える効果が期待できるから",
+        "保存がきくだけだから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「発酵食品が注目される理由の一つは、腸内環境を整える効果があると言われているからです。」と書かれています。",
+      "id": "00b1c912-53dd-4ce3-adec-cdeccc8074ac"
+    },
+    {
+      "question": "発酵食品を普段の食事に取り入れる方法として、文章で述べられていることはどれですか？",
+      "options": [
+        "毎日、新しい種類の発酵食品だけを食べる",
+        "朝食にヨーグルトを加えたり、漬物を食べたりする",
+        "発酵食品だけで一日三食を済ませる",
+        "外食で発酵食品のメニューを選ぶようにする"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「朝食にヨーグルトを加えたり、昼食におにぎりと一緒に漬物を食べたり、夕食の味噌汁に発酵食品の良さを活かすことができます。」と書かれています。",
+      "id": "13e4a8cb-0b8d-4808-997d-273e5e079f22"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-11-95fc09b2b4",
+  "publishedAt": "2026-10-11T06:00:00+09:00"
+}

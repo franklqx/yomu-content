@@ -1,0 +1,138 @@
+{
+  "title": "秋の味覚、限定商品で満喫！",
+  "summary": "秋の訪れとともに、各社から魅力的な限定商品が続々と登場。食欲の秋をさらに豊かに彩ります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋は「食欲の秋」とも呼ばれるように、豊かな味覚が楽しめる季節です。この時期に合わせて、食品業界では様々な限定商品が展開されています。例えば、栗やさつまいも、きのこ類といった秋の味覚をふんだんに使ったスイーツや惣菜、さらには季節限定の飲料なども登場し、消費者の購買意欲を刺激しています。これらの商品は、期間限定という希少性も相まって、多くの人々を惹きつけているとのことです。",
+      "translationZh": "秋天也被称为“食欲之秋”，是能够享受到丰富味觉的季节。配合这个时期，食品行业推出了各种限定商品。例如，大量使用栗子、红薯、蘑菇等秋季食材制作的甜点和熟食，以及季节限定的饮料也纷纷上市，刺激着消费者的购买欲。据称，这些商品因其限时推出的稀有性而吸引了众多消费者。",
+      "translationEn": "Autumn is also known as the 'appetite autumn,' a season to enjoy abundant tastes. In line with this period, the food industry is rolling out various limited-edition products. For instance, sweets and side dishes made with a wealth of autumn ingredients like chestnuts, sweet potatoes, and mushrooms, as well as seasonal limited beverages, are appearing, stimulating consumer purchasing desire. These products, coupled with their limited-time availability, are said to attract many people.",
+      "id": "92dbca8a-8a58-46a1-aac5-de4c66d94bf0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "大手菓子メーカーは、秋の味覚をテーマにした新商品を複数発表しました。特に注目されているのは、和栗の濃厚な風味を生かしたモンブランや、かぼちゃを使ったパイなどの洋菓子です。また、コンビニエンスストアでは、秋の味覚を取り入れたお弁当やサンドイッチなどが人気を集めており、手軽に季節感を味わえることから、ランチタイムを中心に需要が高まっていると見られます。",
+      "translationZh": "大型糖果制造商发布了以秋季味觉为主题的数款新产品。尤其引人注目的是，它们巧妙利用了和栗浓郁的风味制作的蒙布朗，以及使用南瓜制作的派等西式点心。此外，便利店里，融入了秋季食材的便当和三明治等也备受欢迎，由于能够轻松品尝到季节感，因此预计午餐时间段的需求正在攀升。",
+      "translationEn": "Major confectionery manufacturers have announced multiple new products themed around autumn tastes. Particularly noteworthy are Western-style confectioneries such as Mont Blanc cakes, which bring out the rich flavor of Japanese chestnuts, and pies made with pumpkin. Furthermore, convenience stores are seeing popularity in bento boxes and sandwiches incorporating autumn flavors; demand is observed to be rising, especially during lunchtime, as they offer a convenient way to experience the season.",
+      "id": "fea807e8-fb3d-4f11-bb19-ef4c9771ac9b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "飲料業界においても、秋限定の商品は定番化しつつあります。温かい飲み物が増える中、シナモンやスパイスを使ったラテや、フルーツ系のホットドリンクなどが人気を博しています。これらの商品は、秋らしいパッケージデザインも特徴であり、ギフト需要にも応える形で展開されるケースも少なくありません。季節の移り変わりを味覚と視覚の両方で楽しめる点が、消費者に支持されている要因と言えるでしょう。",
+      "translationZh": "在饮料行业，秋季限定商品也正逐渐成为定番。随着热饮的增加，加入了肉桂和香料的拿铁、水果类热饮等备受欢迎。这些商品以其秋季风格的包装设计为特色，并且很多时候也会以满足礼品需求的形式进行推广。能够同时从味觉和视觉上享受季节变迁这一点，可以说是受到消费者支持的要因。",
+      "translationEn": "In the beverage industry as well, autumn-limited products are becoming standard. Amidst the increase in warm drinks, lattes flavored with cinnamon and spices, as well as fruit-based hot beverages, are gaining popularity. These products are also characterized by their autumnal package designs, and it is not uncommon for them to be developed to cater to gift-giving needs. The fact that consumers can enjoy the changing seasons through both taste and sight can be considered a factor in their support.",
+      "id": "e5e2ca68-a5cf-4fd5-9de5-8d687e5cffa3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "食欲",
+      "reading": "しょくよく",
+      "meaningZh": "食欲",
+      "meaningEn": "appetite",
+      "level": "n3",
+      "exampleSentence": "秋になると食欲が増す。",
+      "id": "7ee924fe-5c24-4d24-a225-3cb53ba54586"
+    },
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaningZh": "味觉",
+      "meaningEn": "sense of taste",
+      "level": "n2n1",
+      "exampleSentence": "新鮮な魚は繊細な味覚を味わえる。",
+      "id": "4d48f382-c804-431b-bcde-69a992d255b1"
+    },
+    {
+      "word": "趣向",
+      "reading": "しゅこう",
+      "meaningZh": "意图，想法，爱好",
+      "meaningEn": "idea, taste, preference",
+      "level": "n2n1",
+      "exampleSentence": "顧客の趣向を捉えた商品開発が求められる。",
+      "id": "9668c452-abc4-4459-a0f6-97966e2275dd"
+    },
+    {
+      "word": "購買意欲",
+      "reading": "こうばいいよく",
+      "meaningZh": "购买欲",
+      "meaningEn": "desire to purchase",
+      "level": "n2n1",
+      "exampleSentence": "セールによって購買意欲が高まった。",
+      "id": "2c798075-a77a-43c8-a4f8-ae4ebd83074c"
+    },
+    {
+      "word": "希少性",
+      "reading": "きしょうせい",
+      "meaningZh": "稀有性",
+      "meaningEn": "rarity, scarcity",
+      "level": "n2n1",
+      "exampleSentence": "限定品には独特の希少性がある。",
+      "id": "4947423e-a3f7-4db2-86fb-e6efdae556cc"
+    },
+    {
+      "word": "定番",
+      "reading": "ていばん",
+      "meaningZh": "标准，常规，经典",
+      "meaningEn": "standard, usual, classic",
+      "level": "n3",
+      "exampleSentence": "このラーメン店は醤油ラーメンが定番メニューだ。",
+      "id": "8d2dfc1f-ab0d-44c3-9c1e-f2515347ce5d"
+    },
+    {
+      "word": "定番化",
+      "reading": "ていばんか",
+      "meaningZh": "成为标准/常规",
+      "meaningEn": "becoming standard/usual",
+      "level": "n2n1",
+      "exampleSentence": "この商品はすでに定番化している。",
+      "id": "d4b96dce-03f8-473f-a554-a58f17626195"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "秋の限定商品が消費者の購買意欲を刺激する理由は何だと述べられていますか？",
+      "options": [
+        "価格が安いため",
+        "広告が効果的であるため",
+        "期間限定という希少性があるため",
+        "有名シェフが監修しているため"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これらの商品は、期間限定という希少性も相まって、多くの人々を惹きつけているとのことです。」",
+      "id": "efe17de0-ecac-43eb-8291-941bb5b8774b"
+    },
+    {
+      "question": "コンビニエンスストアで人気を集めている秋の限定商品は何ですか？",
+      "options": [
+        "季節限定の飲料",
+        "和栗を使ったスイーツ",
+        "秋の味覚を取り入れたお弁当やサンドイッチ",
+        "温かいラテ"
+      ],
+      "correctIndex": 2,
+      "explanation": "「また、コンビニエンスストアでは、秋の味覚を取り入れたお弁当やサンドイッチなどが人気を集めており、手軽に季節感を味わえることから、ランチタイムを中心に需要が高まっていると見られます。」",
+      "id": "991f84ff-2f9c-4f3d-b386-c8050b576293"
+    },
+    {
+      "question": "飲料業界で秋限定商品が人気を集めている要因として、本文で挙げられていることは何ですか？",
+      "options": [
+        "健康志向の高まり",
+        "低カロリーであること",
+        "秋らしいパッケージデザインと季節感",
+        "海外のトレンドを取り入れていること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「これらの商品は、秋らしいパッケージデザインも特徴であり、ギフト需要にも応える形で展開されるケースも少なくありません。季節の移り変わりを味覚と視覚の両方で楽しめる点が、消費者に支持されている要因と言えるでしょう。」",
+      "id": "d0f86069-4a74-4214-8e78-f6ed33dac641"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-11-26f6e5544d",
+  "publishedAt": "2026-10-11T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "アニメの力で町が元気に",
+  "summary": "ある商店街がアニメの舞台になりました。その結果、町はたくさんの人でにぎわっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、ある町に小さな商店街がありました。しかし、最近はあまり人が来なくなりました。お店の人たちは、町を元気にしたいと思っていました。",
+      "translationZh": "以前，有一个小商店街。但是，最近来的人变少了。店主们想要让小镇变得有活力。",
+      "translationEn": "Long ago, there was a small shopping street in a certain town. However, recently, fewer people were visiting. The shopkeepers wanted to liven up the town.",
+      "id": "f0e3e21e-32fd-4d11-932e-b72fff37b66e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "その時、人気のアニメがこの商店街を舞台にしました。アニメを見たファンがたくさん町にやってきました。町は急に活気が出ました。",
+      "translationZh": "这时，一部人气动画将这个商店街作为了舞台。看了动画的粉丝们很多人来到了这个镇上。小镇一下子变得热闹起来了。",
+      "translationEn": "At that time, a popular anime used this shopping street as its setting. Many fans who watched the anime came to the town. The town suddenly became lively.",
+      "id": "6cc79a69-a459-4c8f-a984-b4c5a8bf8d4f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町の人たちは、アニメのキャラクターのパネルを置いたり、特別なイベントを開いたりしました。ファンはとても喜んで、たくさんお金を使いました。商店街は前よりもずっとにぎやかになりました。",
+      "translationZh": "镇上的人们放置了动画角色的立牌，还举办了特别活动。粉丝们非常高兴，花了很多钱。商店街比以前热闹多了。",
+      "translationEn": "The townspeople placed panels of anime characters and held special events. The fans were very happy and spent a lot of money. The shopping street became much livelier than before.",
+      "id": "d11ddb69-4734-49c3-8063-30d00a4124b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの力はすごいですね。この商店街は、また新しい企画を考えています。町をもっと良くするために、みんなで協力しています。",
+      "translationZh": "动画的力量真厉害啊。这个商店街正在考虑新的企划。为了让小镇变得更好，大家都在一起合作。",
+      "translationEn": "The power of anime is amazing, isn't it? This shopping street is planning new projects. Everyone is cooperating to make the town even better.",
+      "id": "39c98708-47b2-4f10-b615-97cd8a3fbd2b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はきれいです。",
+      "id": "682a15dd-3be6-467b-afb2-3a83f610d14f"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，背景",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "この町がアニメの舞台になりました。",
+      "id": "14e29c6f-981f-4af2-9f24-23e34f0cad7a"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "アニメのファンがたくさん来ました。",
+      "id": "f0640292-5687-4a2c-b644-92d1c4b7e989"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "vitality, liveliness",
+      "level": "n3",
+      "exampleSentence": "町に活気が出ました。",
+      "id": "7adec2c6-54a9-4c2d-8971-e879156d165e"
+    },
+    {
+      "word": "パネル",
+      "reading": "ぱねる",
+      "meaningZh": "面板，立牌",
+      "meaningEn": "panel, standee",
+      "level": "n5n4",
+      "exampleSentence": "キャラクターのパネルがありました。",
+      "id": "96e96815-eb2b-49f6-9666-2576c2cda4ad"
+    },
+    {
+      "word": "イベント",
+      "reading": "いべんと",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "特別なイベントが開かれました。",
+      "id": "414edf69-f088-4cdd-af6d-0b9e8874db26"
+    },
+    {
+      "word": "企画",
+      "reading": "きかく",
+      "meaningZh": "企划，计划",
+      "meaningEn": "plan, project",
+      "level": "n3",
+      "exampleSentence": "新しい企画を考えています。",
+      "id": "3bb7de87-1ddd-40b5-a948-20440adca38c"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "みんなで協力しましょう。",
+      "id": "d7259be2-d3cf-4d75-8260-7c62a0358809"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメの舞台になった後、町はどうなりましたか？",
+      "options": [
+        "人が少なくなりました。",
+        "町は静かになりました。",
+        "町はたくさんの人でにぎわいました。",
+        "お店は全部閉まりました。"
+      ],
+      "correctIndex": 2,
+      "explanation": "アニメの力で町が元気に。その結果、町はたくさんの人でにぎわっています。",
+      "id": "ee7614c0-60ba-4e8b-bc1f-76c63b7890a2"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-11-fbd00c5843",
+  "publishedAt": "2026-10-11T06:00:00+09:00"
+}
