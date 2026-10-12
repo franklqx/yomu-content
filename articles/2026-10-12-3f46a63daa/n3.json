@@ -1,0 +1,126 @@
+{
+  "title": "図書館が地域を変える？新しいまちづくりの形",
+  "summary": "図書館は、本を読むだけの場所ではありません。地域の人々が集まり、交流する中心地として、まちづくりに貢献しています。ここでは、図書館を起点にした新しいまちづくりの形を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、図書館が単なる本の貸し出し場所から、地域コミュニティの中心として機能するようになっています。例えば、地域住民が集まるイベントやワークショップが図書館で開催されることが増えているのです。これにより、住民同士の交流が深まり、地域への愛着も育まれると考えられています。",
+      "translationZh": "近年来，图书馆已不再仅仅是借书的地方，而是逐渐成为地区社区的中心。例如，面向地区居民的活动和研讨会越来越多地在图书馆举办。人们认为，这能加深居民之间的交流，并培养他们对地区的归属感。",
+      "translationEn": "In recent years, libraries have evolved from mere book lending facilities to centers of regional communities. For instance, events and workshops for local residents are increasingly being held at libraries. This is thought to deepen interaction among residents and foster a sense of belonging to the community.",
+      "id": "94f328da-ec0b-4a99-a3fd-c9f467425428",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館がまちづくりの起点となることで、様々なメリットが生まれています。特に、子育て世代にとっては、子供向けのイベントやお話会などが充実しているため、安心して利用できる場所となっています。また、高齢者の方々も、趣味のサークル活動などで図書館を利用することで、社会とのつながりを保ちやすくなるでしょう。",
+      "translationZh": "以图书馆作为まちづく里的起点，产生了各种各样的好处。特别是对于育儿一代，由于有丰富的儿童活动和故事会等，图书馆成为了一个可以安心利用的场所。此外，老年人通过参加兴趣小组等活动利用图书馆，也能更容易地保持与社会的联系。",
+      "translationEn": "By serving as a starting point for community development, libraries bring various benefits. For young families, in particular, libraries are a safe place to use, thanks to the abundance of children's events and storytelling sessions. Furthermore, the elderly can also find it easier to maintain social connections by using the library for hobby groups and other activities.",
+      "id": "1d10e9fb-ce91-48a5-a1f2-b62fd0040e1a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、図書館は情報発信の拠点としても重要です。地域の歴史や文化に関する資料を展示したり、地域のお店やNPOの情報を提供したりすることで、地域経済の活性化にもつながる可能性があります。このように、図書館は、人々が集まり、学び、つながることで、地域全体を豊かにする力を持っているのです。",
+      "translationZh": "此外，图书馆作为信息发布的据点也十分重要。通过展示有关地区历史和文化的资料，提供地区商店和非营利组织的信息，也有可能促进地区经济的活性化。像这样，图书馆通过人们的聚集、学习和联系，拥有丰富整个地区的能量。",
+      "translationEn": "Furthermore, libraries are also important as hubs for information dissemination. By exhibiting materials related to local history and culture, and by providing information about local businesses and NPOs, there is potential to revitalize the local economy. In this way, libraries possess the power to enrich the entire community through people gathering, learning, and connecting.",
+      "id": "de26c3e2-c6ea-47ca-82f8-8a1d0a4b3341",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区；区域",
+      "meaningEn": "area; region; district",
+      "level": "n3",
+      "exampleSentence": "この地域は自然が豊かだ。",
+      "id": "44608895-cf3c-4e23-8993-0deca5615e27"
+    },
+    {
+      "word": "コミュニティ",
+      "reading": "こみゅにてぃ",
+      "meaningZh": "社区；社群",
+      "meaningEn": "community",
+      "level": "n3",
+      "exampleSentence": "地域コミュニティの活動に参加する。",
+      "id": "1b183a37-39ec-4467-8975-bd4ab254ff50"
+    },
+    {
+      "word": "ワークショップ",
+      "reading": "わーくしょっぷ",
+      "meaningZh": "研讨会；工作坊",
+      "meaningEn": "workshop",
+      "level": "n3",
+      "exampleSentence": "料理のワークショップに参加した。",
+      "id": "1307dc4d-1391-4b8b-a4c7-6b07706328ce"
+    },
+    {
+      "word": "愛着",
+      "reading": "あいちゃく",
+      "meaningZh": "依恋；喜爱",
+      "meaningEn": "attachment; fondness",
+      "level": "n3",
+      "exampleSentence": "故郷に強い愛着を感じる。",
+      "id": "756e2017-fc55-4863-9221-300fdc58d8cf"
+    },
+    {
+      "word": "子育て世代",
+      "reading": "こそだてせだい",
+      "meaningZh": "育儿一代",
+      "meaningEn": "child-rearing generation",
+      "level": "n3",
+      "exampleSentence": "子育て世代向けのサービスが充実している。",
+      "id": "77d2a6dc-35dd-4247-81e8-e851b672fad3"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化；活跃化",
+      "meaningEn": "invigoration; revitalization",
+      "level": "n2n1",
+      "exampleSentence": "商店街の活性化が課題となっている。",
+      "id": "52230087-e53f-465d-bcf7-acdb77dbad60"
+    },
+    {
+      "word": "拠点",
+      "reading": "きょてん",
+      "meaningZh": "据点；基地",
+      "meaningEn": "base; base point; headquarters",
+      "level": "n3",
+      "exampleSentence": "この都市はアジアの経済的な拠点だ。",
+      "id": "309e2c6b-9f4e-48ab-9eb2-46afc56f17e8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "図書館が地域コミュニティの中心として機能することで、どのような効果が期待されていますか？",
+      "options": [
+        "住民同士の交流が深まり、地域への愛着が育まれること",
+        "図書館の利用者が増え、本の貸し出し数が増加すること",
+        "地域のお祭りが図書館で開催されるようになること",
+        "図書館の職員が地域住民の相談に乗ること"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文第一段に「住民同士の交流が深まり、地域への愛着も育まれると考えられています。」とあります。",
+      "id": "7f9e3224-5435-4363-86f3-f5637bec133a"
+    },
+    {
+      "question": "本文によると、子育て世代にとって図書館はどのような場所になっていますか？",
+      "options": [
+        "子供が自由に遊べる公園のような場所",
+        "子供向けのイベントやお話会などが充実していて、安心して利用できる場所",
+        "子供が宿題をするための静かな自習室がある場所",
+        "子供がお金を使わずに本を買える場所"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「子育て世代にとっては、子供向けのイベントやお話会などが充実しているため、安心して利用できる場所となっています。」とあります。",
+      "id": "4b9649a0-9047-46f1-aac9-d47e5aaa7ff6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-12-3f46a63daa",
+  "publishedAt": "2026-10-12T06:00:00+09:00"
+}

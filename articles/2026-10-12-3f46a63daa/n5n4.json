@@ -1,0 +1,131 @@
+{
+  "title": "図書館でまちづくり！",
+  "summary": "図書館は本を読むだけの場所ではありません。地域の人々が集まる、大切な場所になっています。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "図書館は、たくさんの本がある場所です。静かに本を読むことができます。しかし、最近の図書館はもっといろいろなことをしています。",
+      "translationZh": "图书馆是藏书众多的地方。可以安静地读书。但是，最近的图书馆还在做更多的事情。",
+      "translationEn": "Libraries are places with many books. You can read books quietly. However, recently, libraries are doing more things.",
+      "id": "a42b88c6-3f9e-4afd-8e24-a2eecd049459",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "たとえば、図書館でイベントをすることがあります。子供向けの読み聞かせや、大人向けの講座などです。地域の人々が図書館に集まります。",
+      "translationZh": "例如，图书馆会举办活动。有面向儿童的读书会，也有面向成人的讲座。地区的人们聚集在图书馆。",
+      "translationEn": "For example, libraries sometimes hold events. There are read-alouds for children and lectures for adults. People from the community gather at the library.",
+      "id": "1c538c1f-edb4-4b8e-bab1-d505ba00d15c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館が町の中心になることもあります。人々が図書館で会い、話します。そして、新しいアイデアが生まれることもあります。町がもっと楽しくなります。",
+      "translationZh": "图书馆有时也会成为城镇的中心。人们在图书馆见面、交谈。然后，也可能产生新的想法。城镇会变得更加有趣。",
+      "translationEn": "Libraries can also become the center of a town. People meet and talk at the library. Then, new ideas can be born. The town becomes more enjoyable.",
+      "id": "ca49cb00-06ee-49f6-b3d3-3bed4d7215a0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんの町にも、便利な図書館がありますか。図書館は、地域を元気にする大切な場所です。",
+      "translationZh": "你们的城镇里，也有便利的图书馆吗？图书馆是让地区充满活力的重要场所。",
+      "translationEn": "Does your town also have a convenient library? Libraries are important places that energize the community.",
+      "id": "2d231639-00d4-436a-a250-22d3195d351c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaningZh": "图书馆",
+      "meaningEn": "library",
+      "level": "n5n4",
+      "exampleSentence": "図書館で本を借りました。",
+      "id": "2ed3049d-0e3c-4310-ad0c-b6a3ccc15ee3"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，场所",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "d7297419-6831-4e8f-84fc-49e19dbe4b51"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、忙しいです。",
+      "id": "f4cc5197-5159-43e3-a9af-d3e7b31f03a9"
+    },
+    {
+      "word": "イベント",
+      "reading": "イベント",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "図書館でイベントがあります。",
+      "id": "c3b72b76-5e22-4af5-94ab-1259e76e2b04"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "人々が集まります。",
+      "id": "1e6a03d5-0662-4136-97b5-1a51826a7768"
+    },
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaningZh": "城镇，街道",
+      "meaningEn": "town, street",
+      "level": "n5n4",
+      "exampleSentence": "この町はきれいです。",
+      "id": "4a66b277-bfec-43b3-abbb-dfc08db9a231"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaningZh": "中心",
+      "meaningEn": "center",
+      "level": "n5n4",
+      "exampleSentence": "町の中心に行きました。",
+      "id": "c4620de0-193a-4b8d-8b9c-cd903f77b06f"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "精神，活力",
+      "meaningEn": "energy, spirit",
+      "level": "n5n4",
+      "exampleSentence": "町が元気になりました。",
+      "id": "c6ee0443-5ca1-4e42-a045-ac47d49f9f1d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の図書館は、どんなことをしていますか。",
+      "options": [
+        "本をたくさん置くだけです。",
+        "イベントをしたり、人々が集まる場所になっています。",
+        "静かに本を読むことだけをしています。",
+        "新しい本だけを売っています。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近の図書館はもっといろいろなことをしています。たとえば、図書館でイベントをすることがあります。」と書いてあります。",
+      "id": "0f94f54d-f2ae-4e2a-b505-7cd329578874"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-12-3f46a63daa",
+  "publishedAt": "2026-10-12T06:00:00+09:00"
+}

@@ -1,0 +1,143 @@
+{
+  "title": "災害に強い街づくり：センサーネットワークの活用",
+  "summary": "近年、災害への備えが重要視されています。特に、センサーネットワークは災害対策に役立つ技術として注目されています。この記事では、その仕組みやメリットについてN3レベルの日本語で解説します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、自然災害が頻繁に起こるようになり、私たちの生活を守るための対策がより一層重要になっています。特に、災害から街を守るために、新しい技術が導入され始めています。その一つが「センサーネットワーク」です。これは、たくさんの小さなセンサーを街中に設置して、様々な情報を集める仕組みです。",
+      "translationZh": "近年来，自然灾害频繁发生，保护我们生活的对策变得越来越重要。特别是，为了保护城市免受灾害侵害，新的技术开始被引入。其中之一就是“传感器网络”。这是一种在城市中设置大量小型传感器来收集各种信息的机制。",
+      "translationEn": "In recent years, natural disasters have been occurring frequently, making measures to protect our lives even more important. In particular, new technologies are beginning to be introduced to protect cities from disasters. One of them is \"sensor networks.\" This is a system that installs many small sensors throughout the city to collect various information.",
+      "id": "7b69596f-ba35-43c0-8290-281a984611aa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "センサーネットワークは、例えば地震の揺れや、川の水位、建物の傾きなどをリアルタイムで測定します。もし異常が見つかれば、すぐにその情報が関係機関に送られます。これにより、危険が迫っていることを早く知ることができるので、避難を促したり、被害を最小限に抑えたりすることが可能になります。",
+      "translationZh": "传感器网络可以实时测量例如地震的摇晃、河流的水位、建筑物的倾斜等。一旦发现异常，该信息会立即发送给相关机构。这样一来，就能及早知道危险临近，从而可以促使避难，并将损失降到最低。",
+      "translationEn": "Sensor networks measure things like earthquake tremors, river water levels, and building tilt in real-time. If an abnormality is detected, the information is immediately sent to the relevant authorities. This allows us to know about impending danger earlier, making it possible to encourage evacuation and minimize damage.",
+      "id": "c862b8e1-a2f2-42fd-bb9e-ed1797e41202",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、このネットワークは、災害発生後にも役立ちます。例えば、道路が寸断された場合でも、センサーが交通状況を把握し、安全な迂回路を案内することができます。このように、センサーネットワークは、災害が起こる前も後も、私たちの安全を守るために重要な役割を果たしています。",
+      "translationZh": "此外，这个网络在灾害发生后也很有用。例如，即使道路被阻断，传感器也能掌握交通状况，并引导安全的绕行路线。像这样，传感器网络在灾害发生前和发生后都发挥着重要作用，以保护我们的安全。",
+      "translationEn": "Furthermore, this network is also useful after a disaster occurs. For example, even if roads are cut off, sensors can grasp traffic conditions and guide safe detours. In this way, sensor networks play an important role in protecting our safety, both before and after a disaster.",
+      "id": "d6f5add6-5d12-408e-9af2-fc900565553d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、センサーネットワークを導入するには、設置費用や維持管理費がかかります。しかし、災害による被害を考えると、長期的に見れば、人々の命や財産を守るために非常に有効な投資と言えるでしょう。今後、さらに多くの地域で活用が進むことが期待されます。",
+      "translationZh": "当然，引入传感器网络需要安装费用和维护管理费用。但是，考虑到灾害造成的损失，从长远来看，这可以说是保护人们生命和财产的非常有效的投资。今后，预计将在更多地区推广使用。",
+      "translationEn": "Of course, introducing sensor networks incurs installation and maintenance costs. However, considering the damage caused by disasters, it can be said to be a very effective investment in the long run for protecting people's lives and property. Further widespread adoption in more regions is expected in the future.",
+      "id": "425daac1-73df-4149-999a-62fc6dfc04b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaningZh": "灾害",
+      "meaningEn": "Disaster",
+      "level": "n5n4",
+      "exampleSentence": "地震や台風などの災害に注意しましょう。",
+      "id": "0390b181-d600-46f7-b37a-2931c80239f3"
+    },
+    {
+      "word": "備え",
+      "reading": "そなえ",
+      "meaningZh": "准备，防备",
+      "meaningEn": "Preparation, readiness",
+      "level": "n3",
+      "exampleSentence": "災害に備えて、食料や水を準備しました。",
+      "id": "80e759fb-c607-4ddb-b0f2-a79e7cefb060"
+    },
+    {
+      "word": "センサーネットワーク",
+      "reading": "せんさーねっとわーく",
+      "meaningZh": "传感器网络",
+      "meaningEn": "Sensor network",
+      "level": "n3",
+      "exampleSentence": "この技術は、センサーネットワークを使って情報を集めます。",
+      "id": "10135229-a505-4aa9-8833-21397f6e3c53"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "导入，引进",
+      "meaningEn": "Introduction, adoption",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入する予定です。",
+      "id": "e963a075-2a96-4b7c-ad24-a32b65bd6777"
+    },
+    {
+      "word": "リアルタイム",
+      "reading": "りあるたいむ",
+      "meaningZh": "实时",
+      "meaningEn": "Real-time",
+      "level": "n3",
+      "exampleSentence": "試合の状況がリアルタイムで分かります。",
+      "id": "6782ee2f-881d-4ccc-9670-1d96a3594dbd"
+    },
+    {
+      "word": "異常",
+      "reading": "いじょう",
+      "meaningZh": "异常",
+      "meaningEn": "Abnormality, unusual",
+      "level": "n3",
+      "exampleSentence": "機械に異常があったので、修理が必要です。",
+      "id": "a128b245-8167-4150-bd13-0593b1143852"
+    },
+    {
+      "word": "関係機関",
+      "reading": "かんけいきかん",
+      "meaningZh": "相关机构",
+      "meaningEn": "Relevant organizations/institutions",
+      "level": "n3",
+      "exampleSentence": "緊急の場合は、関係機関に連絡してください。",
+      "id": "0ec01574-0f7e-444e-b15e-b6345bb725ca"
+    },
+    {
+      "word": "寸断",
+      "reading": "すんだん",
+      "meaningZh": "（道路等）断绝",
+      "meaningEn": "Cut off (e.g., roads)",
+      "level": "n2n1",
+      "exampleSentence": "大雨で道路が寸断され、車が通れなくなりました。",
+      "id": "27c120cc-ec22-44a1-b57b-94ef01335066"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "センサーネットワークは、災害時にどのような情報を集めることができますか？",
+      "options": [
+        "人々の感情や意見",
+        "地震の揺れや川の水位",
+        "街の歴史的な建物",
+        "最新の流行情報"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「センサーネットワークは、例えば地震の揺れや、川の水位、建物の傾きなどをリアルタイムで測定します。」と書かれています。",
+      "id": "d1ba9a6c-9eb8-4fc3-86ef-4eb7c8c315a0"
+    },
+    {
+      "question": "センサーネットワークを導入するメリットは何ですか？",
+      "options": [
+        "災害発生後の情報収集が不可能になる",
+        "災害への対策費用が大幅に削減される",
+        "危険を早く察知し、被害を最小限に抑えることができる",
+        "交通渋滞がさらに悪化する"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「これにより、危険が迫っていることを早く知ることができるので、避難を促したり、被害を最小限に抑えたりすることが可能になります。」と書かれています。",
+      "id": "fb1a63c5-e95d-4359-b2c8-697dee4ec917"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-12-8b684e5014",
+  "publishedAt": "2026-10-12T06:00:00+09:00"
+}

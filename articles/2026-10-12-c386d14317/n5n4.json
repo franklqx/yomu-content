@@ -1,0 +1,131 @@
+{
+  "title": "学生が神社をきれいにしました",
+  "summary": "日本の学生が古い神社の掃除をしました。みんなで協力して、神社はきれいになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "むかしからある神社があります。この神社は少し古くなりました。だから、きれいにすることが必要でした。",
+      "translationZh": "有一座自古以来就有的神社。这座神社有些旧了。所以，进行清洁是必要的。",
+      "translationEn": "There is a shrine that has existed for a long time. This shrine has become a little old. Therefore, it was necessary to clean it.",
+      "id": "a031be2b-898e-47a2-a735-2b4e9fef1735",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "たくさんの学生がボランティアをしました。学生はみんなで集まって、神社の周りを掃除しました。草を抜いたり、ゴミを拾ったりしました。",
+      "translationZh": "很多学生做了志愿者。学生们聚集在一起，清扫了神社周围。他们拔草、捡垃圾。",
+      "translationEn": "Many students volunteered. The students gathered together and cleaned around the shrine. They pulled weeds and picked up trash.",
+      "id": "9f51c62b-04c8-4124-bfe4-afb936d6434c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "みんな一生懸命（いっしょうけんめい）働きました。おかげで、神社はとてもきれいになりました。地域（ちいき）の人たちも喜んでいました。",
+      "translationZh": "大家都很努力地工作。托大家的福，神社变得非常干净。地区的人们也很高兴。",
+      "translationEn": "Everyone worked very hard. Thanks to them, the shrine became very clean. The local people were also happy.",
+      "id": "2a285010-db31-4768-8699-95f7ee573258",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学生たちは、古いものを大切にする気持ちを学びました。この経験は、学生たちにとって大切な宝物（たからもの）になりました。",
+      "translationZh": "学生们学习了珍惜旧事物的心情。这次经历成为了学生们珍贵的宝藏。",
+      "translationEn": "The students learned the feeling of cherishing old things. This experience became a precious treasure for the students.",
+      "id": "06595bbc-9016-4d7d-b543-d5485c0d93ec",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "神社",
+      "reading": "じんじゃ",
+      "meaningZh": "神社",
+      "meaningEn": "shrine",
+      "level": "n5n4",
+      "exampleSentence": "この神社は有名です。",
+      "id": "6fc32506-4864-4226-a195-d4e7dc5175db"
+    },
+    {
+      "word": "古い",
+      "reading": "ふるい",
+      "meaningZh": "旧的，古老的",
+      "meaningEn": "old",
+      "level": "n5n4",
+      "exampleSentence": "これは古い本です。",
+      "id": "2981db69-9237-455c-a348-b8d7ca6d9b36"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaningZh": "学生",
+      "meaningEn": "student",
+      "level": "n5n4",
+      "exampleSentence": "学生がたくさんいます。",
+      "id": "8b3fb67c-1324-464e-81d0-1c3857a3ffd0"
+    },
+    {
+      "word": "ボランティア",
+      "reading": "ぼらんてぃあ",
+      "meaningZh": "志愿者",
+      "meaningEn": "volunteer",
+      "level": "n5n4",
+      "exampleSentence": "彼はボランティアをしました。",
+      "id": "b6c5276d-6879-45bc-aa2b-5ce2bb5dc4e1"
+    },
+    {
+      "word": "掃除",
+      "reading": "そうじ",
+      "meaningZh": "打扫，清洁",
+      "meaningEn": "cleaning",
+      "level": "n5n4",
+      "exampleSentence": "部屋の掃除をします。",
+      "id": "32d9bbf4-46df-40a6-92c3-2ce4144c9af1"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaningZh": "拼命地，努力地",
+      "meaningEn": "with all one's might",
+      "level": "n3",
+      "exampleSentence": "一生懸命勉強しました。",
+      "id": "bc06b00c-0cde-4f4b-ae3b-4fc65b202cc7"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "area, region",
+      "level": "n3",
+      "exampleSentence": "この地域は安全です。",
+      "id": "0f0532ff-0383-480d-a96e-677edd9ae817"
+    },
+    {
+      "word": "宝物",
+      "reading": "たからもの",
+      "meaningZh": "宝物",
+      "meaningEn": "treasure",
+      "level": "n3",
+      "exampleSentence": "この指輪は私にとって宝物です。",
+      "id": "be771a4d-5819-4204-91bf-feefdee83e93"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学生たちは何のために集まりましたか。",
+      "options": [
+        "神社を旅行するため",
+        "神社で祭りをするため",
+        "神社をきれいにするため",
+        "神社で勉強するため"
+      ],
+      "correctIndex": 2,
+      "explanation": "学生たちはボランティアをして、神社の周りを掃除しました。おかげで、神社はとてもきれいになりました。",
+      "id": "46f7b5c2-0b24-4346-a97d-e2332c5586ef"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-12-c386d14317",
+  "publishedAt": "2026-10-12T06:00:00+09:00"
+}

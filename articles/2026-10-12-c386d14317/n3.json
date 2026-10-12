@@ -1,0 +1,143 @@
+{
+  "title": "学生ボランティア、古社に活気戻す",
+  "summary": "地域社会への貢献を目指し、多くの学生が神社の修復ボランティアに参加しています。彼らの活動は、古い神社に新たな命を吹き込んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、各地で学生たちが地域の神社を助けるボランティア活動に積極的に参加する動きが見られます。これらの学生たちは、古くなった神社の建物をきれいにしたり、庭の手入れをしたりすることで、地域社会に貢献しています。参加した学生からは、「古い建物を大切にしたい」といった声が多く聞かれます。",
+      "translationZh": "最近，各地出现了学生积极参与地区神社援助志愿者活动的动向。这些学生通过打扫老旧的神社建筑、打理庭院等方式为地区社会做贡献。参加的学生中，很多人表示“希望能珍惜这些老建筑”。",
+      "translationEn": "Recently, there's been a trend of students actively participating in volunteer activities to help local shrines across various regions. These students contribute to their communities by cleaning old shrine buildings and tending to the gardens. Many participating students express sentiments like, 'We want to cherish these old structures.'",
+      "id": "4d7e7120-c29f-4562-b8ed-ad88321ef122",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "神社によっては、長年の間に傷みが進み、修復が必要な場所が増えています。しかし、費用や人手の問題で、なかなか修復が進まないのが現状です。そんな中、学生ボランティアの存在は、神社側にとって大変ありがたいものです。彼らは若い力と熱意をもって、普段は手が回らないような細かな作業も一生懸命行います。",
+      "translationZh": "有些神社因为长年的损耗，需要修缮的地方越来越多。然而，目前的情况是，由于费用和人手问题，修缮工作难以推进。在这种情况下，学生志愿者的存在对神社方面来说是十分感激的。他们用年轻的活力和热情，努力进行着平时难以顾及的细致工作。",
+      "translationEn": "Some shrines have deteriorated over the years, increasing the number of places requiring restoration. However, due to cost and manpower issues, repairs are often slow to progress. In such a situation, the presence of student volunteers is greatly appreciated by the shrines. With their youthful energy and enthusiasm, they diligently perform even the detailed tasks that are usually difficult to manage.",
+      "id": "90ab28f9-7dfa-4694-9b41-69e64ccf8ed8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この活動を通じて、学生たちは単に建物をきれいにすること以上の経験を得ています。地域の人々との交流が生まれたり、日本の伝統文化に触れたりする貴重な機会となっているのです。また、ボランティア活動は、学生たちの協調性や責任感を育む上でも、大きな教育的意義があると言えるでしょう。",
+      "translationZh": "通过这项活动，学生们获得了比单纯打扫建筑物更多的经验。这成为了与当地居民交流、接触日本传统文化的宝贵机会。而且，可以说志愿者活动在培养学生的协调性和责任感方面，也具有重大的教育意义。",
+      "translationEn": "Through this activity, students gain experiences beyond simply cleaning buildings. It provides a valuable opportunity to interact with local residents and experience Japan's traditional culture. Furthermore, volunteer work can be said to have significant educational value in fostering students' cooperation skills and sense of responsibility.",
+      "id": "d428550a-fa3b-4acf-941b-f56833428fb2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今後も、こうした学生ボランティアの活動が広がっていくことで、古い神社が大切に守られ、地域全体に活気が戻ることが期待されます。学生たちの純粋な思いと行動が、日本の大切な文化遺産を未来へと繋いでいく力になるはずです。",
+      "translationZh": "今后，随着这类学生志愿者活动的不断扩展，人们期待着古老的神社能够得到珍贵的守护，并为整个地区恢复活力。学生们的纯粹想法和行动，应该会成为连接日本重要文化遗产至未来的力量。",
+      "translationEn": "Going forward, as such student volunteer activities expand, it is expected that old shrines will be carefully preserved, and vitality will return to the entire community. The pure intentions and actions of these students should become a force connecting Japan's important cultural heritage to the future.",
+      "id": "d86f452a-2a6f-4eb9-ab14-efedd5e9d4ae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ボランティア",
+      "reading": "ぼらんてぃあ",
+      "meaningZh": "志愿者",
+      "meaningEn": "volunteer",
+      "level": "n5n4",
+      "exampleSentence": "彼は地域の清掃ボランティアに参加した。",
+      "id": "f725fca5-0b3c-46ac-8e59-7ba5b1eb5151"
+    },
+    {
+      "word": "修復",
+      "reading": "しゅうふく",
+      "meaningZh": "修复，修补",
+      "meaningEn": "restoration, repair",
+      "level": "n3",
+      "exampleSentence": "古いお寺の修復作業が行われている。",
+      "id": "b9529983-727b-4958-bdbf-adb3a0c74cb9"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "社会に貢献できる仕事がしたい。",
+      "id": "d34439ec-b4ec-4c37-998f-3f3f0b4ce21c"
+    },
+    {
+      "word": "建物の",
+      "reading": "たてものの",
+      "meaningZh": "建筑物的",
+      "meaningEn": "of a building",
+      "level": "n5n4",
+      "exampleSentence": "その建物のデザインはとてもユニークだ。",
+      "id": "019376f5-1368-46c1-a4ca-bebb97c82b41"
+    },
+    {
+      "word": "庭の手入れ",
+      "reading": "にわのていれ",
+      "meaningZh": "庭院的打理/维护",
+      "meaningEn": "garden maintenance",
+      "level": "n3",
+      "exampleSentence": "週末は庭の手入れをするのが好きだ。",
+      "id": "eb58574e-cf48-4556-ad35-6234b9fc809b"
+    },
+    {
+      "word": "現状",
+      "reading": "げんじょう",
+      "meaningZh": "现状，目前的情况",
+      "meaningEn": "current situation, status quo",
+      "level": "n3",
+      "exampleSentence": "現状では、この問題の解決は難しい。",
+      "id": "3e78251e-67a4-4921-8df0-eafe4d1f2600"
+    },
+    {
+      "word": "協力性",
+      "reading": "きょうりょくせい",
+      "meaningZh": "协作性，合作性",
+      "meaningEn": "cooperativeness",
+      "level": "n3",
+      "exampleSentence": "チームワークには協力性が不可欠だ。",
+      "id": "f204493e-e3a4-4d2c-baf7-3911abcb6f89"
+    },
+    {
+      "word": "責任感",
+      "reading": "せきにんかん",
+      "meaningZh": "责任感",
+      "meaningEn": "sense of responsibility",
+      "level": "n3",
+      "exampleSentence": "彼は強い責任感を持っている。",
+      "id": "83de93bc-e53f-4c94-95b1-bc4eaf88c61d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学生ボランティアが神社で行っている主な活動は何ですか？",
+      "options": [
+        "神社の歴史を教えること",
+        "建物の清掃や庭の手入れ",
+        "お祭りを企画・運営すること",
+        "新しい神社の建設を手伝うこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「これらの学生たちは、古くなった神社の建物をきれいにしたり、庭の手入れをしたりすることで、地域社会に貢献しています。」と書かれています。",
+      "id": "02e52f53-670f-4492-a33d-a2e5bd9f3eab"
+    },
+    {
+      "question": "学生ボランティアの活動には、どのような教育的意義があると考えられていますか？",
+      "options": [
+        "語学力を向上させる",
+        "地域の人々との交流や伝統文化に触れる機会になる",
+        "将来の収入を増やすためのスキルを身につける",
+        "最新の建築技術を学ぶことができる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「学生たちは単に建物をきれいにすること以上の経験を得ています。地域の人々との交流が生まれたり、日本の伝統文化に触れたりする貴重な機会となっているのです。」と書かれています。",
+      "id": "547cc976-d567-4c39-9e4e-2d980e8510e6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-12-c386d14317",
+  "publishedAt": "2026-10-12T06:00:00+09:00"
+}
