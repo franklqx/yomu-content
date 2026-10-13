@@ -1,0 +1,135 @@
+{
+  "title": "街でよく見かける？ロボット案内員が増えている理由",
+  "summary": "最近、都市部でロボット案内員を見かける機会が増えています。その背景には、人手不足やサービス向上の期待があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、デパートや駅、観光地などで、ロボットが案内をしてくれる場面が増えました。これらのロボット案内員は、多言語に対応できるという特徴があり、外国人観光客への対応に役立っています。また、最新の情報を提供したり、簡単な質問に答えたりすることも可能です。",
+      "translationZh": "最近，在百货公司、车站、旅游景点等地，看到机器人提供向导服务的场景越来越多了。这些机器人案内员的特点是支持多种语言，对接待外国游客很有帮助。此外，它们还能提供最新信息，回答简单的提问。",
+      "translationEn": "Recently, there has been an increase in instances where robots provide guidance in department stores, stations, and tourist spots. These robot guides are characterized by their ability to support multiple languages, which is helpful for serving foreign tourists. Furthermore, they can provide the latest information and answer simple questions.",
+      "id": "eade822e-4f46-4e75-b41f-6677dd5e8148",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市部では、少子高齢化の影響で、案内業務を担当する人材が不足しているという問題があります。そこで、ロボット案内員を導入することで、この人手不足を補うことができます。また、ロボットは疲れを知らないため、24時間体制でサービスを提供できるというメリットもあります。",
+      "translationZh": "在都市地区，由于少子化和老龄化的影响，存在负责导览业务的人手不足的问题。因此，通过引入机器人案内员，可以弥补这一人手不足的状况。此外，机器人不会感到疲倦，这也意味着它们可以提供24小时不间断的服务。",
+      "translationEn": "In urban areas, there is a problem of labor shortage for guidance services due to the impact of declining birthrate and aging population. Therefore, introducing robot guides can compensate for this shortage of staff. Also, since robots do not get tired, they have the advantage of being able to provide services 24 hours a day.",
+      "id": "3fb0eb12-719b-4917-8c1d-d6c4e47a7761",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、ロボット案内員にはまだ課題もあります。例えば、複雑な質問に正確に答えられなかったり、予期せぬ事態に対応できなかったりすることがあります。しかし、技術は日々進歩しており、今後さらに多くの場所で、より高度なロボット案内員が活躍することが期待されています。",
+      "translationZh": "当然，机器人案内员仍然存在一些课题。例如，它们可能无法准确回答复杂的问题，或者无法应对突发状况。然而，技术日新月异，未来在更多地方，人们期待着更高级的机器人案内员能够活跃起来。",
+      "translationEn": "Of course, there are still challenges for robot guides. For example, they may not be able to answer complex questions accurately or respond to unexpected situations. However, technology is advancing daily, and it is expected that more sophisticated robot guides will be active in more places in the future.",
+      "id": "e3fb8055-aada-4ccc-bf22-c0cfc78327b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "向导，引导员",
+      "meaningEn": "guide, attendant",
+      "level": "n3",
+      "exampleSentence": "観光案内員の説明はとても分かりやすかった。",
+      "id": "882f9b27-57d5-4570-89ec-c6025360e0f0"
+    },
+    {
+      "word": "デパート",
+      "reading": "でぱーと",
+      "meaningZh": "百货公司",
+      "meaningEn": "department store",
+      "level": "n5n4",
+      "exampleSentence": "週末はデパートで買い物をします。",
+      "id": "9e0edb28-065f-4786-ad6f-4a49f07e04b7"
+    },
+    {
+      "word": "観光地",
+      "reading": "かんこうち",
+      "meaningZh": "旅游景点",
+      "meaningEn": "tourist spot, scenic spot",
+      "level": "n3",
+      "exampleSentence": "ここは有名な観光地なので、たくさんの人が訪れます。",
+      "id": "22c89fe3-147b-411b-a912-714e7b670533"
+    },
+    {
+      "word": "多言語",
+      "reading": "たげんご",
+      "meaningZh": "多语言",
+      "meaningEn": "multilingual",
+      "level": "n3",
+      "exampleSentence": "このアプリは多言語に対応しています。",
+      "id": "1b94b2d4-f956-42ae-99bd-428528e0ead3"
+    },
+    {
+      "word": "少子高齢化",
+      "reading": "しょうしこうれいか",
+      "meaningZh": "少子化和老龄化",
+      "meaningEn": "declining birthrate and aging population",
+      "level": "n2n1",
+      "exampleSentence": "少子高齢化は日本の大きな課題です。",
+      "id": "ba199f6d-ac52-4111-830a-4152c0ab2960"
+    },
+    {
+      "word": "人材",
+      "reading": "じんざい",
+      "meaningZh": "人才",
+      "meaningEn": "human resources, talent",
+      "level": "n3",
+      "exampleSentence": "優秀な人材を育てることは重要です。",
+      "id": "52cca75d-956e-4680-8350-41d82e6c3aa7"
+    },
+    {
+      "word": "補う",
+      "reading": "おぎなう",
+      "meaningZh": "补偿，弥补",
+      "meaningEn": "to compensate, to make up for",
+      "level": "n3",
+      "exampleSentence": "不足している人員をアルバイトで補うことにした。",
+      "id": "52188a70-4779-4a35-b0af-43d4eedbead3"
+    },
+    {
+      "word": "予期せぬ",
+      "reading": "よきせぬ",
+      "meaningZh": "意想不到的，意外的",
+      "meaningEn": "unexpected",
+      "level": "n2n1",
+      "exampleSentence": "予期せぬ出来事が起こった。",
+      "id": "43773e1b-08c8-411f-a362-b441b9535111"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が都市部で増えている主な理由は何ですか？",
+      "options": [
+        "もっと面白くするため",
+        "人手不足を補うため",
+        "ロボットの価格が安くなったため",
+        "最新技術を見せるため"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章によると、「都市部では、少子高齢化の影響で、案内業務を担当する人材が不足しているという問題があります。そこで、ロボット案内員を導入することで、この人手不足を補うことができます。」とあります。",
+      "id": "b68fec61-22ca-4fac-bd4d-5d15f85f7242"
+    },
+    {
+      "question": "ロボット案内員についての説明として、間違っているものはどれですか？",
+      "options": [
+        "多言語に対応できる。",
+        "外国人観光客への対応に役立つ。",
+        "複雑な質問にもいつも正確に答えられる。",
+        "24時間体制でサービスを提供できる場合がある。"
+      ],
+      "correctIndex": 2,
+      "explanation": "文章には「もちろん、ロボット案内員にはまだ課題もあります。例えば、複雑な質問に正確に答えられなかったり、予期せぬ事態に対応できなかったりすることがあります。」と書かれており、常に正確に答えられるわけではないことが示唆されています。",
+      "id": "91b08294-cac0-4fb7-a90f-e1535b17b763"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-13-b3f2035f3f",
+  "publishedAt": "2026-10-13T06:00:00+09:00"
+}

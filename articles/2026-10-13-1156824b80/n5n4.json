@@ -1,0 +1,122 @@
+{
+  "title": "純喫茶が若者に人気",
+  "summary": "最近、若い人たちの間で、昔ながらの純喫茶が人気です。レトロな雰囲気が魅力です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で「純喫茶（じゅんきっさ）」が人気を集めています。純喫茶とは、昔からある喫茶店のことです。レトロな雰囲気や、おいしいコーヒーが楽しめます。",
+      "translationZh": "最近，“纯喫茶”（老式咖啡馆）在年轻人中非常受欢迎。纯喫茶是指以前就存在的咖啡馆。可以享受复古的氛围和美味的咖啡。",
+      "translationEn": "Recently, 'jun kissa' (old-fashioned coffee shops) have become popular among young people. Jun kissa are coffee shops that have existed since long ago. You can enjoy the retro atmosphere and delicious coffee.",
+      "id": "70e0f1e9-c461-4604-9c07-c2c2da52fd1b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "店内には、古い家具や装飾がたくさんあります。时光（とき）が止まったような、不思議な空間です。テーブルも椅子も、昔のままのデザインが多いです。",
+      "translationZh": "店内有很多旧家具和装饰。这是一个仿佛时间静止了的奇妙空间。桌子和椅子很多都是以前的设计。",
+      "translationEn": "Inside, there are many old furniture and decorations. It is a mysterious space where time seems to have stopped. Many tables and chairs have designs from the past.",
+      "id": "e54f77b7-745e-4582-8dd3-31dca063fcc8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューも、昔ながらのものです。クリームソーダやプリン、ナポリタンなどがあります。見た目もかわいくて、写真に撮りたくなります。味もとてもおいしいです。",
+      "translationZh": "菜单也是以前的样式。有奶油苏打、布丁、那不勒斯意面等。外观也很可爱，让人想拍照。味道也非常美味。",
+      "translationEn": "The menu is also old-fashioned. There are things like cream soda, pudding, and Neapolitan spaghetti. They look cute too, making you want to take pictures. The taste is also very delicious.",
+      "id": "757cd6df-05c7-42e1-a92b-062f6040bb94",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "SNSで純喫茶の写真がたくさん見られます。若い人たちは、新しいものだけでなく、古いものにも興味を持っています。純喫茶は、そんな時代にぴったりです。",
+      "translationZh": "在社交媒体上可以看到很多纯喫茶的照片。年轻人不仅对新事物感兴趣，对旧事物也同样感兴趣。纯喫茶正好符合这样的时代。",
+      "translationEn": "Many photos of jun kissa can be seen on social media. Young people are interested not only in new things but also in old things. Jun kissa are perfect for such times.",
+      "id": "3c4ff69a-3989-43b8-8cd1-f165d2d7d3f9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、新しい本を読みました。",
+      "id": "d2f82c25-0e61-4a50-b185-43b8d7e38c77"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しい技術が好きです。",
+      "id": "28c0741e-0b92-48cf-b171-6b8e5ba7dc7c"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このゲームは子供たちに人気です。",
+      "id": "6352b3e5-0893-40d4-92cc-5f01d5cfb11b"
+    },
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "纯喫茶（老式咖啡馆）",
+      "meaningEn": "old-fashioned coffee shop",
+      "level": "n5n4",
+      "exampleSentence": "純喫茶でゆっくり時間を過ごしました。",
+      "id": "1a2454d6-f864-458e-9044-1ef7870d12b3"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛，氛围",
+      "meaningEn": "atmosphere",
+      "level": "n5n4",
+      "exampleSentence": "このカフェは落ち着いた雰囲気です。",
+      "id": "58b74634-ac34-4939-9c56-e7811689e2e1"
+    },
+    {
+      "word": "集める",
+      "reading": "あつめる",
+      "meaningZh": "收集，聚集",
+      "meaningEn": "to collect, to gather",
+      "level": "n5n4",
+      "exampleSentence": "切手をたくさん集めています。",
+      "id": "c362127d-018d-49bd-b8b5-e9766813cd22"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaningZh": "不可思议，奇怪",
+      "meaningEn": "mystery, wonder",
+      "level": "n5n4",
+      "exampleSentence": "この絵は不思議な感じがします。",
+      "id": "034f6568-ca72-48e5-a4ce-0228036d2580"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若い人たちは純喫茶に興味がありますか。",
+      "options": [
+        "おいしいコーヒーが飲めるからです。",
+        "レトロな雰囲気が魅力的だからです。",
+        "メニューが安いからです。",
+        "店員さんが親切だからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「レトロな雰囲気や、おいしいコーヒーが楽しめます。」と書いてあります。特にレトロな雰囲気が魅力として挙げられています。",
+      "id": "70bbf55b-5ef2-4599-94a0-e8b1e4dd73ee"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-13-1156824b80",
+  "publishedAt": "2026-10-13T06:00:00+09:00"
+}

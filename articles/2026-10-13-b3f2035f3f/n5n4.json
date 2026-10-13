@@ -1,0 +1,123 @@
+{
+  "title": "街にロボットが増えています",
+  "summary": "最近、街でロボットが働くのを見ることが多くなりました。特に、案内をするロボットが増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の大きな街でロボットを見る機会が増えました。デパートや駅などで、人々を助けるロボットがいます。これは、便利な技術が進んでいるからです。",
+      "translationZh": "最近，在日本的大城市里看到机器人的机会变多了。在百货公司或车站等地，有帮助人们的机器人。这是因为便利的技术在进步。",
+      "translationEn": "Recently, opportunities to see robots in big Japanese cities have increased. There are robots that help people in department stores and stations. This is because convenient technology is advancing.",
+      "id": "d8a877ec-453d-4473-b36c-6af92cdf9304",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、案内をするロボットはとても人気があります。このロボットは、道を聞かれたり、お店の場所を教えたりします。言葉が分からない外国人にも、ゆっくり話してくれるので安心です。",
+      "translationZh": "特别是，负责引导的机器人非常受欢迎。这种机器人会回答问路，或者告诉商店的位置。即使是听不懂语言的外国人，它也会慢慢地说，所以让人安心。",
+      "translationEn": "In particular, robots that provide guidance are very popular. These robots answer questions about directions and tell people where shops are. They speak slowly even to foreigners who don't understand the language, so they are reassuring.",
+      "id": "e588370d-710c-469c-bf38-fb4f1bba8a6b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員は、24時間働くことができます。疲れることがないので、いつでも正確な情報を提供できます。これからも、街でロボットがもっと活躍するでしょう。",
+      "translationZh": "机器人案内员可以24小时工作。因为不会感到疲倦，所以随时都能提供准确的信息。今后，机器人也会在街上更加活跃吧。",
+      "translationEn": "Robot guides can work 24 hours a day. Since they don't get tired, they can provide accurate information at any time. In the future, robots will likely be even more active in our cities.",
+      "id": "247a078c-0c05-4582-ad96-6eb1e642055f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "街",
+      "reading": "まち",
+      "meaningZh": "街道；城市",
+      "meaningEn": "town, street, city",
+      "level": "n5n4",
+      "exampleSentence": "これは私の好きな街です。",
+      "id": "84eec408-141d-404d-9482-37096bde0b6a"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaningZh": "引导；向导",
+      "meaningEn": "guidance, information",
+      "level": "n5n4",
+      "exampleSentence": "駅員さんが案内をしてくれました。",
+      "id": "c9652f9a-3f23-40f9-873c-75a888ed656c"
+    },
+    {
+      "word": "ロボット",
+      "reading": "ろぼっと",
+      "meaningZh": "机器人",
+      "meaningEn": "robot",
+      "level": "n5n4",
+      "exampleSentence": "子供がロボットのおもちゃで遊んでいます。",
+      "id": "4e5a4270-9e93-44ba-9bd6-0835bbade7b1"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase, to multiply",
+      "level": "n5n4",
+      "exampleSentence": "最近、本を読む人が増えています。",
+      "id": "0f909be5-11e8-4e8c-bd52-1383903b8111"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气；受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "a910f424-22c4-4953-ab7d-b1efd573abed"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaningZh": "外国人",
+      "meaningEn": "foreigner",
+      "level": "n5n4",
+      "exampleSentence": "空港でたくさんの外国人を見ました。",
+      "id": "0ed5e22c-306e-4c8d-9d64-8b3834c6bc66"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaningZh": "正确；精确",
+      "meaningEn": "accurate, correct",
+      "level": "n3",
+      "exampleSentence": "正確な時間を教えてください。",
+      "id": "a6c775c0-e05a-495b-945d-3fd07bfb9a7f"
+    },
+    {
+      "word": "提供",
+      "reading": "ていきょう",
+      "meaningZh": "提供",
+      "meaningEn": "offer, provide",
+      "level": "n3",
+      "exampleSentence": "安全な水を提供します。",
+      "id": "b741f0a1-3627-427b-9cd9-6cd4f1ccd3d1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "街で増えているロボットは何をすることが多いですか？",
+      "options": [
+        "料理をすること",
+        "案内をすること",
+        "掃除をすること",
+        "運転をすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "「特に、案内をするロボットはとても人気があります。」と書いてあります。",
+      "id": "7d44b9aa-54e3-4346-b4d5-95abf255ccf9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-13-b3f2035f3f",
+  "publishedAt": "2026-10-13T06:00:00+09:00"
+}

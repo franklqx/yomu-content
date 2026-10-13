@@ -1,0 +1,123 @@
+{
+  "title": "ローカル線で休日満喫！",
+  "summary": "ローカル線一日乗り放題切符は、安くて楽しい旅行にぴったりです。この切符の使い方を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "皆さんは、ローカル線に乗ったことがありますか？ローカル線は、ゆっくり景色が見られていいですね。特に「一日乗り放題切符」は、とても便利でお得です。",
+      "translationZh": "大家坐过当地的火车吗？当地火车可以慢慢地欣赏风景，真不错。特别是“一日乘车券”非常方便又划算。",
+      "translationEn": "Have you ever ridden a local train? Local trains are nice because you can slowly see the scenery. Especially the 'one-day unlimited ride ticket' is very convenient and a good deal.",
+      "id": "fb7eaaaa-e321-4efe-94dc-8593bfdf1775",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符を使うと、一日の間、決められた範囲のローカル線が何度でも乗れます。たくさんの駅で降りて、町を散歩することもできます。お弁当を買って、車窓からの景色を見ながら食べるのも楽しいでしょう。",
+      "translationZh": "使用这张票，一天内可以在规定的范围内乘坐当地火车多次。你也可以在很多站下车，在小镇上散步。买了便当，边看车窗外的风景边吃，也会很开心。",
+      "translationEn": "With this ticket, you can ride local trains within a designated area as many times as you want for one day. You can also get off at many stations and take a walk around the town. Buying a bento box and eating it while looking at the scenery from the train window would also be fun.",
+      "id": "f6c9443c-f237-4b2c-9570-dbb71fbb72fe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、友達と二人で出かけるなら、切符代も一人分で済みます。安い値段で、一日中楽しめます。週末や休日に、ぜひ試してみてください。きっと素敵な思い出ができますよ。",
+      "translationZh": "例如，如果和朋友两个人一起出去，车票钱也可以算一个人。用便宜的价格，可以玩一整天。在周末或假日，一定要试试看。一定会留下美好的回忆。",
+      "translationEn": "For example, if you go out with a friend, the ticket cost can be covered for one person. You can enjoy a whole day at a low price. Please try it on a weekend or holiday. You will surely make wonderful memories.",
+      "id": "cdd93b76-2000-4fd8-a91f-dea02f5caff4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ローカル線",
+      "reading": "ろーかるせん",
+      "meaningZh": "当地铁路线；地方小火车",
+      "meaningEn": "local train line",
+      "level": "n5n4",
+      "exampleSentence": "このローカル線は景色がきれいだ。",
+      "id": "874c8111-ed4e-4770-8040-a42d8b9abe31"
+    },
+    {
+      "word": "一日乗り放題切符",
+      "reading": "いちにちのりほうだい きっぷ",
+      "meaningZh": "一日乘车券；一日无限次乘车票",
+      "meaningEn": "one-day unlimited ride ticket",
+      "level": "n5n4",
+      "exampleSentence": "この切符で一日中、電車に乗れる。",
+      "id": "8e93c213-1bb0-4c84-89ad-68cf7038f3e3"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "窓からの景色が美しい。",
+      "id": "f4082ee2-3273-4df0-a42b-d6da4156fa7b"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利だ。",
+      "id": "cb6a995b-606f-4bce-899a-037b52cc0125"
+    },
+    {
+      "word": "お得",
+      "reading": "とく",
+      "meaningZh": "划算；合算",
+      "meaningEn": "advantageous; profitable; a good deal",
+      "level": "n5n4",
+      "exampleSentence": "セールで安くなっているので、お得だ。",
+      "id": "dd2e9832-65ea-48fe-86f7-d417160bbccc"
+    },
+    {
+      "word": "範囲",
+      "reading": "はんい",
+      "meaningZh": "范围",
+      "meaningEn": "scope; range",
+      "level": "n5n4",
+      "exampleSentence": "この地域が切符の利用範囲です。",
+      "id": "419dbfbf-a808-463c-a429-ebc8069fef76"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaningZh": "散步",
+      "meaningEn": "walk; stroll",
+      "level": "n5n4",
+      "exampleSentence": "公園を散歩する。",
+      "id": "53d75e6d-0d40-401b-9196-990d7dc88494"
+    },
+    {
+      "word": "車窓",
+      "reading": "しゃそう",
+      "meaningZh": "车窗",
+      "meaningEn": "train window",
+      "level": "n3",
+      "exampleSentence": "車窓から外を眺める。",
+      "id": "64bcad7e-fe69-45e9-935c-0fffeef4c403"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「一日乗り放題切符」を使うと、何ができますか？",
+      "options": [
+        "一日中、好きな電車に何度でも乗ることができる",
+        "遠い町へ行くことができる",
+        "特急電車にも乗ることができる",
+        "友達と一緒に行くと、一人分の切符で二人乗れる"
+      ],
+      "correctIndex": 0,
+      "explanation": "この切符を使うと、一日の間、決められた範囲のローカル線が何度でも乗れます。",
+      "id": "7021c293-1a6c-4d3f-a243-8a1ca9b87976"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-13-473f71c275",
+  "publishedAt": "2026-10-13T06:00:00+09:00"
+}
