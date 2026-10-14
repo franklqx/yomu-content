@@ -1,0 +1,131 @@
+{
+  "title": "二次元アイドルの進化",
+  "summary": "昔と今の二次元アイドルのライブは大きく変わりました。技術が進んで、もっと面白くなっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルのライブは、アニメやゲームの映像を使うだけでした。ファンの皆さんは、画面を見て楽しんでいました。歌やダンスは、キャラクターの声だけでした。",
+      "translationZh": "以前，二次元偶像的演唱会，只是使用动画或游戏中的影像。粉丝们看着画面享受。歌曲和舞蹈，只有角色的声音。",
+      "translationEn": "In the past, 2D idol concerts only used images from anime or games. Fans enjoyed watching the screen. The songs and dances only had the characters' voices.",
+      "id": "f60669ef-2558-42ae-ac65-e1c6ec330e65",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近は違います。新しい技術がたくさん使われています。例えば、ホログラム技術です。キャラクターがステージに現れて、歌ったり踊ったりします。とてもリアルに見えます。",
+      "translationZh": "但是，最近不一样了。使用了许多新技术。例如，全息投影技术。角色会出现在舞台上，唱歌跳舞。看起来非常真实。",
+      "translationEn": "However, recently it's different. Many new technologies are being used. For example, hologram technology. Characters appear on stage and sing and dance. It looks very real.",
+      "id": "49de0449-8d06-456a-b976-755c9d694ea1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ライトや音響も進化しました。特別な効果で、ライブがもっと派手になります。ファンは、キャラクターと一緒にいるような気持ちになります。だから、もっと人気が出てきました。",
+      "translationZh": "灯光和音响也进化了。通过特别的效果，演唱会变得更加华丽。粉丝们会感觉像是和角色在一起一样。因此，人气也越来越高了。",
+      "translationEn": "Lighting and sound have also evolved. With special effects, the live shows become more spectacular. Fans feel like they are with the characters. Therefore, they have become more popular.",
+      "id": "e8053204-7ee0-4259-98a3-e9cba3ac012a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、二次元アイドルのライブはもっと面白くなるでしょう。新しい技術が、私たちの楽しみを増やしてくれます。",
+      "translationZh": "今后，二次元偶像的演唱会也会变得更加有趣。新技术将会增加我们的乐趣。",
+      "translationEn": "In the future, 2D idol concerts will likely become even more interesting. New technologies will increase our enjoyment.",
+      "id": "008ac762-16e7-47ae-b6d4-83176bf6596a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町はとても静かでした。",
+      "id": "021b092f-b92d-4b8b-bdbe-bc2c288571d6"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, technique",
+      "level": "n3",
+      "exampleSentence": "この新しい技術は素晴らしいです。",
+      "id": "dd97cc38-b1b8-4f28-b9ad-a769850a181a"
+    },
+    {
+      "word": "映像",
+      "reading": "えいぞう",
+      "meaningZh": "影像，画面",
+      "meaningEn": "image, footage, video",
+      "level": "n3",
+      "exampleSentence": "映画の映像がとてもきれいです。",
+      "id": "b56f5a92-f64c-48ed-99fe-67669f07493e"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently, these days",
+      "level": "n5n4",
+      "exampleSentence": "最近、忙しいです。",
+      "id": "ef1d7204-d212-4f54-a8e1-3da9927b098a"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, technique",
+      "level": "n3",
+      "exampleSentence": "この新しい技術は素晴らしいです。",
+      "id": "228f09ac-e5ea-43ab-8c64-f6a0794bc5bf"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，平常",
+      "meaningEn": "usual, ordinary, normal",
+      "level": "n5n4",
+      "exampleSentence": "今日は普通の日です。",
+      "id": "a66bb3b5-67c8-4d97-95fe-931806d59f2f"
+    },
+    {
+      "word": "効果",
+      "reading": "こうか",
+      "meaningZh": "效果",
+      "meaningEn": "effect, result",
+      "level": "n3",
+      "exampleSentence": "この薬はよく効く効果があります。",
+      "id": "2f4849de-6dbb-4940-94c3-5d122bf84499"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaningZh": "心情，感觉",
+      "meaningEn": "feeling, mood",
+      "level": "n5n4",
+      "exampleSentence": "嬉しい気持ちになりました。",
+      "id": "ce598ebd-2cde-4b2c-b088-ffbdf8a538c1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の二次元アイドルのライブは、昔と比べてどうなりましたか？",
+      "options": [
+        "あまり変わらない",
+        "技術が進んで、もっと面白くなった",
+        "映像だけになった",
+        "キャラクターの声だけになった"
+      ],
+      "correctIndex": 1,
+      "explanation": "「最近は違います。新しい技術がたくさん使われています。」と書いてあります。",
+      "id": "1d30ce62-81ad-4cac-8786-bd33993205ff"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-14-cde4d29411",
+  "publishedAt": "2026-10-14T06:00:00+09:00"
+}

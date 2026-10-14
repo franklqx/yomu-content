@@ -1,0 +1,143 @@
+{
+  "title": "二次元アイドルのライブ演出技術の進化",
+  "summary": "最近、二次元アイドルのライブ演出がますます進化しています。CG技術などを使い、まるで本物のライブのような体験ができるようになっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、二次元アイドルのライブといえば、画面にキャラクターが映るだけでした。しかし、最近ではCG技術の進歩によって、キャラクターがステージ上を動き回ったり、観客とコミュニケーションを取ったりできるようになっています。この変化は、ファンにとって非常に魅力的です。",
+      "translationZh": "过去，说到二次元偶像的演唱会，仅仅是在屏幕上播放角色。但是，最近随着CG技术的进步，角色们可以在舞台上自由移动，并与观众进行交流。这种变化对粉丝来说非常有吸引力。",
+      "translationEn": "In the past, anime idol live performances mainly involved characters appearing on a screen. However, with recent advancements in CG technology, characters can now move around the stage and interact with the audience. This evolution is very appealing to fans.",
+      "id": "ad5f8ca2-501e-4a53-a53d-bac09cfc4a9c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目すべきは、モーションキャプチャー技術の応用です。これにより、声優の動きをリアルタイムでキャラクターに反映させることが可能になりました。その結果、キャラクターの表情や仕草がより自然になり、ライブの一体感が格段に向上しました。",
+      "translationZh": "尤其值得关注的是动作捕捉技术的应用。这使得声优的动作能够实时反映到角色上。结果，角色的表情和动作变得更加自然，演唱会的一体感也得到了显著提升。",
+      "translationEn": "Particularly noteworthy is the application of motion capture technology. This allows the real-time reflection of voice actors' movements onto the characters. As a result, the characters' expressions and gestures have become more natural, greatly enhancing the sense of unity during the live performance.",
+      "id": "796c0d74-9efa-4d4a-b405-5102645dbe82",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、プロジェクションマッピングなどの最新技術も活用されています。ステージの背景や床に映像を投影することで、幻想的な空間を作り出しています。ライブ会場の雰囲気がガラッと変わり、観客はまるで物語の世界に入り込んだかのような体験ができるのです。",
+      "translationZh": "此外，还利用了投影映射等最新技术。通过在舞台背景和地板上投影影像，可以创造出梦幻般的空间。演唱会现场的氛围会焕然一新，观众可以体验到仿佛置身于故事世界中的感觉。",
+      "translationEn": "Furthermore, the latest technologies such as projection mapping are also being utilized. By projecting visuals onto the stage background and floor, fantastical spaces are created. The atmosphere of the live venue changes dramatically, allowing the audience to experience something akin to entering a story world.",
+      "id": "316c05b6-d61e-493a-83ce-3569473cf341",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの技術進化は、二次元アイドルのライブを単なる映像鑑賞から、より没入感のあるエンターテイメントへと昇華させています。今後もどのような新しい演出が登場するのか、ファンは期待に胸を膨らませています。",
+      "translationZh": "这些技术的进步，将二次元偶像的演唱会从单纯的影像欣赏，升华为更具沉浸感的娱乐体验。粉丝们都满怀期待，想知道今后还会出现哪些新的演出形式。",
+      "translationEn": "These technological advancements are elevating anime idol live shows from mere video viewing to more immersive entertainment. Fans are eagerly anticipating what new performance techniques will emerge in the future.",
+      "id": "6d65a748-ef27-43e9-8824-b1869e57a334",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "二次元",
+      "reading": "にじげん",
+      "meaningZh": "二维，指动画、漫画、游戏等虚构世界中的角色或事物",
+      "meaningEn": "2D, referring to characters or things from fictional worlds like anime, manga, and games",
+      "level": "n3",
+      "exampleSentence": "二次元のキャラクターが好きな人が増えています。",
+      "id": "676b33c2-1f32-4da5-be9a-db293de6e286"
+    },
+    {
+      "word": "演出",
+      "reading": "えんしゅつ",
+      "meaningZh": "演出，表演",
+      "meaningEn": "performance, show",
+      "level": "n3",
+      "exampleSentence": "今回のライブ演出はとても感動的でした。",
+      "id": "5a860da3-fba4-4bc2-9615-9506560854c7"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化，发展",
+      "meaningEn": "evolution, development",
+      "level": "n3",
+      "exampleSentence": "技術は日々進化しています。",
+      "id": "9384a8c7-bae9-4027-a042-bc2e50b88a04"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, skill",
+      "level": "n3",
+      "exampleSentence": "最新の技術が使われています。",
+      "id": "7e00d1d2-aa41-466f-aeb6-7b6fa2b8d16f"
+    },
+    {
+      "word": "CG",
+      "reading": "シー・ジー",
+      "meaningZh": "计算机图形，电脑特效",
+      "meaningEn": "Computer Graphics",
+      "level": "n3",
+      "exampleSentence": "CGで作られた映像は迫力があります。",
+      "id": "2a46213b-7da8-4e5d-a39d-09f3575d5968"
+    },
+    {
+      "word": "モーションキャプチャー",
+      "reading": "モーションキャプチャー",
+      "meaningZh": "动作捕捉",
+      "meaningEn": "motion capture",
+      "level": "n3",
+      "exampleSentence": "モーションキャプチャー技術でキャラクターが動きます。",
+      "id": "959f4667-e243-43f3-9911-bf5b5514128e"
+    },
+    {
+      "word": "プロジェクションマッピング",
+      "reading": "プロジェクションマッピング",
+      "meaningZh": "投影映射",
+      "meaningEn": "projection mapping",
+      "level": "n3",
+      "exampleSentence": "プロジェクションマッピングは視覚的に面白いです。",
+      "id": "93620431-e791-4e08-bb2c-cde5f6240938"
+    },
+    {
+      "word": "没入感",
+      "reading": "めいにゅうかん",
+      "meaningZh": "沉浸感，投入感",
+      "meaningEn": "sense of immersion",
+      "level": "n3",
+      "exampleSentence": "ゲームの没入感がすごいです。",
+      "id": "1a14dba2-7047-4d72-b1fc-13c1934b3a7f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔の二次元アイドルのライブと比べて、最近のライブでどのように変わりましたか？",
+      "options": [
+        "キャラクターが画面に映るだけになった。",
+        "CG技術でキャラクターがステージを動き、観客と交流できるようになった。",
+        "声優の動きが反映されなくなった。",
+        "プロジェクションマッピングが使われなくなった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔は、二次元アイドルのライブといえば、画面にキャラクターが映るだけでした。しかし、最近ではCG技術の進歩によって、キャラクターがステージ上を動き回ったり、観客とコミュニケーションを取ったりできるようになっています。",
+      "id": "e7234dc0-f4fc-4288-b1f7-fbbc465bce27"
+    },
+    {
+      "question": "ライブ演出で、キャラクターの表情や仕草をより自然にするために使われている技術は何ですか？",
+      "options": [
+        "CG技術",
+        "プロジェクションマッピング",
+        "モーションキャプチャー技術",
+        "映像技術"
+      ],
+      "correctIndex": 2,
+      "explanation": "特に注目すべきは、モーションキャプチャー技術の応用です。これにより、声優の動きをリアルタイムでキャラクターに反映させることが可能になりました。その結果、キャラクターの表情や仕草がより自然になり、ライブの一体感が格段に向上しました。",
+      "id": "274ce909-ba08-475a-9ebf-9f56f811a267"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-14-cde4d29411",
+  "publishedAt": "2026-10-14T06:00:00+09:00"
+}

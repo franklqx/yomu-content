@@ -1,0 +1,131 @@
+{
+  "title": "新しいお正月の買い物",
+  "summary": "お正月の準備に新しいトレンドがあります。昔と違う買い方が増えています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐお正月です。日本人はお正月の準備をします。昔は、家族で集まって買い物をしました。でも、最近は少し違います。",
+      "translationZh": "很快就要过新年了。日本人会为新年做准备。以前，大家会和家人一起去购物。但是，最近有点不一样了。",
+      "translationEn": "New Year is coming soon. Japanese people prepare for New Year. In the past, families gathered and shopped together. However, recently things are a little different.",
+      "id": "50f32609-8b72-4b91-8786-078b9946df60",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、インターネットで買い物をすることが増えました。家でゆっくり商品を選べます。重いものや大きいものを運ぶ必要がありません。とても便利です。",
+      "translationZh": "最近，在网上购物的人变多了。可以在家里悠闲地挑选商品。不需要搬运重的东西或者大的东西。非常方便。",
+      "translationEn": "Recently, people are shopping more on the internet. You can choose products slowly at home. There is no need to carry heavy or large items. It is very convenient.",
+      "id": "f8e1c608-735e-4dd3-ac12-ece47e99fede",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、一人暮らしの人も増えています。そのため、小さなおせち料理や、一人用のお正月飾りを買い求める人もいます。昔のように大きな準備はしないかもしれません。",
+      "translationZh": "另外，一个人生活的人也变多了。因此，也有人购买小份的御节料理，或者一个人用的新年装饰品。可能不会像以前那样做大规模的准备了。",
+      "translationEn": "Also, more people are living alone. Because of this, some people buy small Osechi meals or New Year decorations for one person. They might not prepare as much as in the past.",
+      "id": "459c79dc-9f28-411d-b619-9b855d72dabb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お正月の過ごし方や準備の仕方は、時代によって変わります。新しい方法で、楽しいお正月を過ごしましょう。",
+      "translationZh": "过新年的方式和准备的方法会随着时代而改变。用新的方式，度过一个快乐的新年吧。",
+      "translationEn": "Ways of spending New Year and how to prepare change with the times. Let's spend a happy New Year in new ways.",
+      "id": "4079eb9a-60cc-4c7a-9ea3-8cac4abd8ea3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お正月",
+      "reading": "おしょうがつ",
+      "meaningZh": "新年，元旦",
+      "meaningEn": "New Year",
+      "level": "n5n4",
+      "exampleSentence": "お正月は家族と過ごします。",
+      "id": "c11480fa-8b92-45bd-aa58-45ca7b65a6ee"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしています。",
+      "id": "7c8ddab7-8f92-4a2f-9695-f95f55de15c5"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が楽しいです。",
+      "id": "ac30633d-395a-416a-aaf9-94310b15f39b"
+    },
+    {
+      "word": "インターネット",
+      "reading": "インターネット",
+      "meaningZh": "互联网，网络",
+      "meaningEn": "internet",
+      "level": "n5n4",
+      "exampleSentence": "インターネットで情報を探します。",
+      "id": "47b24a31-5061-46ca-a4a6-131af90561ee"
+    },
+    {
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "meaningZh": "选择",
+      "meaningEn": "to choose",
+      "level": "n5n4",
+      "exampleSentence": "プレゼントを選びました。",
+      "id": "005794d0-7a93-4b97-ae8e-919cfa2008de"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "スマホはとても便利です。",
+      "id": "d6b55f1b-247c-4c75-8749-71bcccf41c5c"
+    },
+    {
+      "word": "一人暮らし",
+      "reading": "ひとりぐらし",
+      "meaningZh": "独自生活，单身生活",
+      "meaningEn": "living alone",
+      "level": "n5n4",
+      "exampleSentence": "一人暮らしは気楽です。",
+      "id": "6227386f-3321-4029-aad8-d0a343cfcfdf"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaningZh": "时代",
+      "meaningEn": "era, period, times",
+      "level": "n5n4",
+      "exampleSentence": "昔の時代と今の時代は違います。",
+      "id": "50210034-cecc-4661-b632-26d0e5745187"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、お正月の準備で増えていることは何ですか？",
+      "options": [
+        "家族と集まって買い物すること",
+        "インターネットで買い物をすること",
+        "昔ながらのお店で買うこと",
+        "大きな飾りをたくさん買うこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「最近、インターネットで買い物をすることが増えました。」と書いてあります。",
+      "id": "e99dd582-f74d-44d2-9ced-e2132c504915"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-14-2e6b21cf22",
+  "publishedAt": "2026-10-14T06:00:00+09:00"
+}

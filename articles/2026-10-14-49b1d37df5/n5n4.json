@@ -1,0 +1,131 @@
+{
+  "title": "街角の新しい味",
+  "summary": "最近、街にフードトラックがたくさん来ました。新しいお店は楽しいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街に新しいフードトラックがたくさん集まっています。たくさんの人がトラックの前で並んでいます。おいしい匂いがします。",
+      "translationZh": "最近，街上聚集了许多新的餐车。很多人在餐车前排队。飘来好吃的香味。",
+      "translationEn": "Recently, many new food trucks have gathered in the city. Many people are lining up in front of the trucks. A delicious smell is coming.",
+      "id": "b0d43e69-d18f-4f6e-ab27-703bc9ff88e4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックでは、世界中の色々な食べ物が売られています。例えば、おいしいハンバーガーや、甘いクレープなどです。新しい街の顔になりました。",
+      "translationZh": "餐车上卖着来自世界各地的各种食物。例如，美味的汉堡，或是甜的薄饼等。它们成了城市的新面貌。",
+      "translationEn": "Various foods from all over the world are sold at the food trucks. For example, delicious hamburgers and sweet crepes. They have become the new face of the city.",
+      "id": "38371ecd-9fcd-4bbb-9296-ade6946fb35d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このフードトラックのエリアは、前はあまり人がいませんでした。でも、今はとてもにぎやかです。若い人や家族連れがたくさん来ます。",
+      "translationZh": "这个餐车区域以前人不多。但是，现在非常热闹。很多年轻人和家庭一起来。",
+      "translationEn": "This food truck area was not very crowded before. But now it is very lively. Many young people and families come.",
+      "id": "8eec93e1-3c0d-4060-a8e5-873722c6aace",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "街が新しくなって、とても嬉しいです。これからも、もっと楽しい場所が増えるといいですね。",
+      "translationZh": "城市变得焕然一新，我感到非常高兴。今后，希望能增加更多有趣的地方。",
+      "translationEn": "I am very happy that the city has become new. I hope more fun places will be added in the future.",
+      "id": "d76cfac6-f1cf-449e-b643-19d60460ad9c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "街に新しいフードトラックが来ました。",
+      "id": "2ef44e1d-cbba-4f55-ba8b-f4c12362eba6"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "人がたくさん集まっています。",
+      "id": "16410d1b-b293-43f2-871e-6b1aaedd408a"
+    },
+    {
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaningZh": "排队",
+      "meaningEn": "to line up",
+      "level": "n5n4",
+      "exampleSentence": "おいしいパンを買うために並びました。",
+      "id": "52db2c8d-9879-433d-a7a7-a561a9d9e77f"
+    },
+    {
+      "word": "匂い",
+      "reading": "におい",
+      "meaningZh": "气味，香味",
+      "meaningEn": "smell, scent",
+      "level": "n5n4",
+      "exampleSentence": "パンのいい匂いがします。",
+      "id": "33c29e88-d39b-4892-9af4-302a28422749"
+    },
+    {
+      "word": "世界中",
+      "reading": "せかいじゅう",
+      "meaningZh": "全世界",
+      "meaningEn": "all over the world",
+      "level": "n5n4",
+      "exampleSentence": "世界中の料理が食べられます。",
+      "id": "49763988-b538-4d3e-96f3-888ffb4eaa27"
+    },
+    {
+      "word": "顔",
+      "reading": "かお",
+      "meaningZh": "面貌，象征",
+      "meaningEn": "face, symbol",
+      "level": "n5n4",
+      "exampleSentence": "この建物は街の新しい顔です。",
+      "id": "da00736f-95dd-4704-865e-1e1959dbf107"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとてもにぎやかでした。",
+      "id": "35f0e30a-9b4c-4dad-aa27-d9a5184a4c01"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "お店がだんだん増えています。",
+      "id": "0b803115-5108-4744-8085-d21304796aa4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、街に何がたくさん来ましたか？",
+      "options": [
+        "新しいビル",
+        "おいしいレストラン",
+        "フードトラック",
+        "公園"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「最近、街に新しいフードトラックがたくさん集まっています。」と書いてあります。",
+      "id": "2f4f9abe-61ba-40fd-95bd-76267dc2e9b4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-14-49b1d37df5",
+  "publishedAt": "2026-10-14T06:00:00+09:00"
+}
