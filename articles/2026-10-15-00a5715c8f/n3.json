@@ -1,0 +1,143 @@
+{
+  "title": "注目の若手力士、番付を駆け上がる！",
+  "summary": "最近、新しい若手力士たちが番付を次々と昇進し、相撲界に新しい風を吹かせています。彼らの活躍は多くのファンを魅了しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、相撲界では若手の力士たちの活躍が目立っています。特に、力強く、そして華麗な相撲を見せる力士たちは、あっという間に番付を駆け上がっています。彼らの台頭は、ベテラン力士たちにとっても刺激となっているようです。",
+      "translationZh": "最近，相扑界涌现出许多活跃的新生代力士。特别是那些能够展现出强大且华丽相扑的力士们，他们正以惊人的速度攀升着等级。他们的崛起似乎也激励着经验丰富的老将们。",
+      "translationEn": "Recently, young sumo wrestlers have been remarkably active in the sumo world. Especially those who display powerful and brilliant sumo are rapidly climbing the ranks. Their rise seems to be a stimulus for the veteran wrestlers as well.",
+      "id": "b7760822-175d-4125-b5ed-6c55107e185a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "番付が上がると、その力士はより多くの注目を集めるようになります。テレビ中継で取り上げられる機会が増えたり、雑誌のインタビューを受けたりすることもあるからです。このような経験は、力士自身の成長にも繋がっていきます。",
+      "translationZh": "随着等级的提升，该力士会受到更多关注。因为他们出现在电视转播中的机会增多，有时也会接受杂志采访。这些经历也有助于力士自身的成长。",
+      "translationEn": "As their rank rises, the wrestler begins to attract more attention. This is because they get more opportunities to be featured in TV broadcasts or to be interviewed by magazines. Such experiences also lead to the wrestler's personal growth.",
+      "id": "204d2209-c4c0-4844-bee2-0eb1c002da66",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、地方巡業などでは、地元のファンから熱い声援が送られます。新しいスターの誕生は、相撲ファンをさらに増やし、裾野を広げることに貢献しています。彼らがこれからも活躍し続けることが期待されています。",
+      "translationZh": "尤其是在地方巡业等活动中，当地的粉丝会送上热情的助威。新星的诞生有助于进一步增加相扑爱好者，扩大其群众基础。人们期待他们今后能继续活跃下去。",
+      "translationEn": "Especially during regional tours, local fans send passionate cheers. The emergence of new stars contributes to increasing sumo fans and broadening its base. It is expected that they will continue to be active in the future.",
+      "id": "9715cf4c-4ac6-45b0-8a89-77f593bda2df",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、番付を維持するのも、さらに上を目指すのも、並大抵のことではありません。しかし、彼らのひたむきな努力と、ファンからの応援があれば、きっと更なる高みへと到達できるでしょう。",
+      "translationZh": "当然，保持现有的等级或者争取更高的目标都不是件容易的事。但是，只要有他们全心投入的努力和来自粉丝的支持，一定能够达到更高的顶峰。",
+      "translationEn": "Of course, maintaining one's current rank or aiming for higher is no easy feat. However, with their earnest efforts and the support from fans, they will surely be able to reach greater heights.",
+      "id": "babc1208-94a7-4761-a410-8da67014b95a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若手",
+      "reading": "わかて",
+      "meaningZh": "年轻一辈，新手",
+      "meaningEn": "youngster, newcomer",
+      "level": "n5n4",
+      "exampleSentence": "このチームには若手の有望な選手がたくさんいる。",
+      "id": "53ed60d5-19f1-4b52-a667-3f918dbc224a"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）等级名册",
+      "meaningEn": "ranking list (sumo)",
+      "level": "n3",
+      "exampleSentence": "彼は新番付で大きく昇進した。",
+      "id": "d06851ef-4eed-4994-92b7-274477e52f6f"
+    },
+    {
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaningZh": "晋升，升迁",
+      "meaningEn": "promotion",
+      "level": "n3",
+      "exampleSentence": "努力が実り、昇進が決まった。",
+      "id": "bbd3e4ca-0dc3-4945-9868-9de84c04ecb6"
+    },
+    {
+      "word": "華麗",
+      "reading": "かれい",
+      "meaningZh": "华丽，漂亮",
+      "meaningEn": "splendid, brilliant",
+      "level": "n3",
+      "exampleSentence": "彼女のダンスはとても華麗だった。",
+      "id": "69684a5f-7e0d-4c46-aa86-f8a90aa84bbe"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "崛起，崭露头角",
+      "meaningEn": "rise, emergence",
+      "level": "n3",
+      "exampleSentence": "新しい技術の台頭が産業を変えつつある。",
+      "id": "45041bf8-1ba0-4692-a928-8f07abf8fecb"
+    },
+    {
+      "word": "刺激",
+      "reading": "しげき",
+      "meaningZh": "刺激，激励",
+      "meaningEn": "stimulus, stimulation",
+      "level": "n3",
+      "exampleSentence": "良いライバルがいると、お互いに刺激し合える。",
+      "id": "a5077b43-e6ad-46ee-8bef-9b187c3bf045"
+    },
+    {
+      "word": "巡業",
+      "reading": "じゅんぎょう",
+      "meaningZh": "（相扑）巡回比赛",
+      "meaningEn": "regional tour (sumo)",
+      "level": "n3",
+      "exampleSentence": "力士たちは全国を巡業してファンに会う。",
+      "id": "7cfac4ae-f97e-4f96-8c16-2823d8398e31"
+    },
+    {
+      "word": "裾野",
+      "reading": "すその",
+      "meaningZh": "裾，下摆；（引申）基础，广泛的层面",
+      "meaningEn": "hem; (figurative) base, broad level",
+      "level": "n2n1",
+      "exampleSentence": "この新しいサービスは、裾野の広い層に受け入れられている。",
+      "id": "07458153-0088-4fbb-8010-390889bb92e8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若手力士が注目を集める理由は何ですか？",
+      "options": [
+        "ベテラン力士が引退したから",
+        "番付が上がり、メディア露出が増えるから",
+        "地方巡業でファンとの交流が増えたから",
+        "新しいトレーニング方法を導入したから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「番付が上がると、その力士はより多くの注目を集めるようになります。テレビ中継で取り上げられる機会が増えたり、雑誌のインタビューを受けたりすることもあるからです。」",
+      "id": "af2e6737-d5b6-4ec0-9f02-f4bbb5e92324"
+    },
+    {
+      "question": "新しいスターの誕生は、相撲界にどのような影響を与えていますか？",
+      "options": [
+        "ベテラン力士の地位を脅かしている",
+        "相撲のルールを複雑にしている",
+        "相撲ファンを増やし、裾野を広げることに貢献している",
+        "海外での人気を低下させている"
+      ],
+      "correctIndex": 2,
+      "explanation": "「新しいスターの誕生は、相撲ファンをさらに増やし、裾野を広げることに貢献しています。」",
+      "id": "def03c32-11dd-455d-83a9-2c6fe192d65e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-15-00a5715c8f",
+  "publishedAt": "2026-10-15T06:00:00+09:00"
+}

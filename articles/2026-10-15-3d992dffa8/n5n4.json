@@ -1,0 +1,122 @@
+{
+  "title": "古書店街で読書の秋",
+  "summary": "古書店街で文学イベントが開かれます。本が好きな人はぜひ来てください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋になりました。秋は読書の季節です。この町に古い本屋がたくさんあります。だから、この町は「古書店街」と呼ばれています。",
+      "translationZh": "秋天来了。秋天是读书的季节。这个小镇有很多旧书店。所以，这个小镇被称为“古书店街”。",
+      "translationEn": "Autumn has arrived. Autumn is the season for reading. There are many old bookstores in this town. Therefore, this town is called \"Old Bookstore Street.\"",
+      "id": "3334c18a-dd86-481e-9547-b7a2f270a1c5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今週末、古書店街で特別なイベントがあります。イベントの名前は「本の祭り」です。たくさんの人がこのイベントに来ます。",
+      "translationZh": "这个周末，古书店街将举办一个特别的活动。活动的名字是“书本节”。很多人会来参加这个活动。",
+      "translationEn": "This weekend, there will be a special event in the Old Bookstore Street. The name of the event is \"Book Festival.\" Many people will come to this event.",
+      "id": "46acaab0-689a-4f13-82ec-4fa2c5c0392c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントでは、有名な作家が話をします。古い本や珍しい本も売っています。子供向けの読み聞かせもあります。家族みんなで楽しめます。",
+      "translationZh": "活动中，著名作家会进行演讲。旧书和稀有书籍也会出售。还有为孩子们举办的读书会。全家都可以享受。",
+      "translationEn": "At the event, famous writers will give talks. Old and rare books are also for sale. There is also storytelling for children. The whole family can enjoy it.",
+      "id": "d652770e-20e0-4b88-8c25-1bbb557e3430",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古書店街はいつも静かですが、イベントの日はとてもにぎやかになります。本をゆっくり探すのにいい機会です。ぜひ、古書店街に来てください。",
+      "translationZh": "古书店街平时很安静，但在活动那天会非常热闹。这是一个慢慢寻找书籍的好机会。请一定要来古书店街。",
+      "translationEn": "Old Bookstore Street is usually quiet, but it becomes very lively on event days. It is a good opportunity to look for books slowly. Please come to Old Bookstore Street.",
+      "id": "47f6695e-bc53-48dc-872a-dec4e3cdc044",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は読書の季節です。",
+      "id": "dec4c2be-bc2d-4d44-8df5-5edcd2e3f187"
+    },
+    {
+      "word": "古い",
+      "reading": "ふるい",
+      "meaningZh": "旧的，古老的",
+      "meaningEn": "old",
+      "level": "n5n4",
+      "exampleSentence": "古い本屋がたくさんあります。",
+      "id": "8c86c2a6-d2ac-4397-bbce-5b9e9c8b2ff9"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "特別なイベントがあります。",
+      "id": "3c616900-4123-4cf9-8e9c-2e664e969be3"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名的",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "有名な作家が話をします。",
+      "id": "1a5750da-81c3-49e3-8b6e-a5dcbde776b2"
+    },
+    {
+      "word": "珍しい",
+      "reading": "めずらしい",
+      "meaningZh": "稀有的，罕见的",
+      "meaningEn": "rare",
+      "level": "n3",
+      "exampleSentence": "珍しい本も売っています。",
+      "id": "0c767c03-70e2-4544-acb8-65597fdb6499"
+    },
+    {
+      "word": "読み聞かせ",
+      "reading": "よみきかせ",
+      "meaningZh": "朗读（给孩子听）",
+      "meaningEn": "reading aloud (to children)",
+      "level": "n5n4",
+      "exampleSentence": "子供向けの読み聞かせもあります。",
+      "id": "06a40a03-3d71-464a-86aa-fb7360e65c3d"
+    },
+    {
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹的",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "イベントの日はとても賑やかになります。",
+      "id": "41e98453-33d6-401d-ac99-5c8adc23f25f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "古書店街で開かれる「本の祭り」では、何ができますか。",
+      "options": [
+        "有名な作家の話を聞くことができます。",
+        "新しい本を買うことができます。",
+        "静かに本を読むことができます。",
+        "ゲームをすることができます。"
+      ],
+      "correctIndex": 0,
+      "explanation": "イベントでは、有名な作家が話をします。",
+      "id": "1a9d9cff-753b-46ca-be30-271c32a5a2e3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-15-3d992dffa8",
+  "publishedAt": "2026-10-15T06:00:00+09:00"
+}

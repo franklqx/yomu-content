@@ -1,0 +1,131 @@
+{
+  "title": "副業で新しい自分に",
+  "summary": "最近、多くの会社で副業が許されるようになりました。これは働き方を変えるチャンスです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、会社員は一つの会社で働くのが普通でした。でも、今は時代が変わりました。多くの会社が「副業（ふくぎょう）」をOKにしています。副業とは、本業（ほんぎょう）の他に、もう一つ仕事を持つことです。",
+      "translationZh": "以前，公司职员在一间公司工作是很普遍的。但是，现在时代变了。很多公司允许“副业”。副业是指，在主要工作之外，再做一份工作。",
+      "translationEn": "In the past, it was common for company employees to work for one company. However, times have changed. Many companies now allow \"side jobs.\" A side job means having another job in addition to your main job.",
+      "id": "a4a93797-70fc-4498-984e-9a0f7a31f0c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜ副業が許されるようになったのでしょうか。一つは、色々なスキルを持つ人が増えたからです。また、自分の好きなことや得意なことを、仕事にしたいと考える人もいます。副業は、新しい経験を積む良い機会になります。",
+      "translationZh": "为什么副业被允许了呢？一个原因是，拥有各种技能的人增加了。另外，也有人想把喜欢的事情或擅长的事情变成工作。副业是积累新经验的好机会。",
+      "translationEn": "Why have side jobs become allowed? One reason is that more people have various skills. Also, some people want to turn what they like or are good at into a job. Side jobs are a good opportunity to gain new experience.",
+      "id": "8abf1249-ca5e-4ee9-bd1f-9e5768e6dbc3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業をすることで、収入（しゅうにゅう）が増えるかもしれません。また、本業ではできないことに挑戦（ちょうせん）できます。例えば、自分のアイデアを形にしたり、新しい人とのつながりを作ったりすることもできます。",
+      "translationZh": "通过做副业，收入可能会增加。另外，可以挑战在主要工作中做不到的事情。例如，可以把自己的想法变成现实，或者与新的人建立联系。",
+      "translationEn": "By doing a side job, your income might increase. Also, you can try things you can't do in your main job. For example, you can give shape to your ideas or make connections with new people.",
+      "id": "55c4f801-5416-41f3-b1d5-651e053d374e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、副業を始める前に、会社のルールを確認することが大切です。そして、無理のない範囲（はんい）で、楽しみながら働くことが大切です。新しい働き方で、もっと豊かな生活を目指しましょう。",
+      "translationZh": "当然，开始副业之前，确认公司的规定是很重要的。然后，在不勉强自己的范围内，开心地工作是很重要的。让我们以新的工作方式，朝着更丰富的未来生活努力吧。",
+      "translationEn": "Of course, before starting a side job, it is important to check your company's rules. Then, it's important to work while enjoying it, within a scope that doesn't overwork you. Let's aim for a richer life with new ways of working.",
+      "id": "74697751-b699-480c-94e0-a7aedd1f43cc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业，兼职",
+      "meaningEn": "side job, second job",
+      "level": "n5n4",
+      "exampleSentence": "彼は週末に副業をしています。",
+      "id": "4bb8afb5-a041-42a6-8ca6-b149790f2d87"
+    },
+    {
+      "word": "本業",
+      "reading": "ほんぎょう",
+      "meaningZh": "主要工作，本职",
+      "meaningEn": "main job, principal occupation",
+      "level": "n5n4",
+      "exampleSentence": "本業が終わってから、副業を始めます。",
+      "id": "343415d5-8374-432f-be73-2fd4c0371697"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaningZh": "时代，时期",
+      "meaningEn": "era, period, age",
+      "level": "n5n4",
+      "exampleSentence": "昔と今は時代が違います。",
+      "id": "cd9dcfb6-6fa5-49a0-9628-6c6eb44de1b3"
+    },
+    {
+      "word": "スキル",
+      "reading": "すきる",
+      "meaningZh": "技能",
+      "meaningEn": "skill",
+      "level": "n5n4",
+      "exampleSentence": "新しいスキルを学びたいです。",
+      "id": "77975e38-6d7b-4505-8a77-7456dcbeba9c"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "これは私にとって良い経験でした。",
+      "id": "6ffc25e9-c39e-4ea0-9562-71d0b0ee3937"
+    },
+    {
+      "word": "収入",
+      "reading": "しゅうにゅう",
+      "meaningZh": "收入",
+      "meaningEn": "income",
+      "level": "n5n4",
+      "exampleSentence": "副業で収入を増やしたいです。",
+      "id": "0f1dc591-aab3-4b45-aeaf-a680f07a1ae1"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaningZh": "挑战",
+      "meaningEn": "challenge",
+      "level": "n5n4",
+      "exampleSentence": "新しいことに挑戦するのは楽しいです。",
+      "id": "940b067a-3902-4385-9faf-d19a2b71c653"
+    },
+    {
+      "word": "範囲",
+      "reading": "はんい",
+      "meaningZh": "范围",
+      "meaningEn": "scope, range",
+      "level": "n5n4",
+      "exampleSentence": "無理のない範囲で運動しましょう。",
+      "id": "1f5f1d30-bf89-4572-879e-35a617ddcc39"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "副業が許されるようになった理由として、本文ではどのようなことが書かれていますか？",
+      "options": [
+        "給料が安くなったから",
+        "会社がつぶれたから",
+        "色々なスキルを持つ人が増えたから",
+        "みんなが暇になったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「なぜ副業が許されるようになったのでしょうか。一つは、色々なスキルを持つ人が増えたからです。」",
+      "id": "cdf898ea-0bc0-4c2c-b3b0-52890af88642"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-15-1e32d3b1bf",
+  "publishedAt": "2026-10-15T06:00:00+09:00"
+}
