@@ -1,0 +1,123 @@
+{
+  "title": "新学期、新しい文房具！",
+  "summary": "もうすぐ新学期が始まりますね。新しい文房具は気持ちがいいものです。どんな文房具が人気なのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "4月は新しい生活が始まる季節です。学生たちは新しい学校やクラスに進みます。新しい学校生活のために、文房具を準備する人も多いでしょう。文房具店には、たくさんの新しい商品がありました。",
+      "translationZh": "四月是开始新生活的季节。学生们会进入新的学校和班级。很多人会为了新的学校生活准备文具。文具店里有很多新商品。",
+      "translationEn": "April is the season for starting a new life. Students will go to new schools and classes. Many people will prepare stationery for their new school life. There were many new products at the stationery store.",
+      "id": "fa832e6a-4202-42e6-9584-c9b7bca51eda",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の人気は、シンプルで使いやすいデザインです。色も落ち着いたものが多いです。特に、ノートやペンケースが人気です。キャラクターものより、大人っぽいデザインが選ばれています。",
+      "translationZh": "今年的流行是简单易用的设计。颜色也大多是沉稳的。尤其是笔记本和笔袋很受欢迎。比起卡通人物，大家更喜欢选择成熟的设计。",
+      "translationEn": "This year's trend is simple and easy-to-use designs. Many colors are also calm. Notebooks and pencil cases are particularly popular. Adult-like designs are chosen over character-themed ones.",
+      "id": "3e24627d-5996-4876-ae58-a6c6edb00de7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、エコな文房具も注目されています。再生紙を使ったノートや、詰め替えができるペンなどです。環境にやさしい商品を選ぶ人が増えています。新しい文房具で、新学期を楽しく迎えましょう。",
+      "translationZh": "另外，环保文具也备受关注。比如使用再生纸的笔记本，或者可以替换笔芯的笔。选择对环境友好的商品的人正在增加。用新的文具，愉快地迎接新学期吧。",
+      "translationEn": "Also, eco-friendly stationery is gaining attention. Examples include notebooks made from recycled paper and pens with refillable ink. More people are choosing environmentally friendly products. Let's welcome the new semester with new stationery.",
+      "id": "f2c32ebf-e324-4d4b-b478-e028c8c9b05d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "新学期",
+      "reading": "しんがっき",
+      "meaningZh": "新学期",
+      "meaningEn": "new school term",
+      "level": "n5n4",
+      "exampleSentence": "新学期が始まります。",
+      "id": "0d9baa04-6ed9-47d1-a79f-9b7413d26d45"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いました。",
+      "id": "0adaedab-49aa-4506-8135-457a1d96e95e"
+    },
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "春はいい季節です。",
+      "id": "503ebeb0-b2db-44e5-a0b3-1d9782c326f8"
+    },
+    {
+      "word": "進みます",
+      "reading": "すすみます",
+      "meaningZh": "前进，升入",
+      "meaningEn": "to advance, to move on to",
+      "level": "n5n4",
+      "exampleSentence": "新しいクラスに進みます。",
+      "id": "a4c29b94-b4e3-4c00-b0fe-e222b91d724c"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしました。",
+      "id": "82e7de26-0b72-4446-b7aa-d4dd93a845bc"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この本は人気があります。",
+      "id": "0de80768-0434-4451-a249-cefd0b6ddb9e"
+    },
+    {
+      "word": "デザイン",
+      "reading": "でざいん",
+      "meaningZh": "设计",
+      "meaningEn": "design",
+      "level": "n5n4",
+      "exampleSentence": "シンプルなデザインが好きです。",
+      "id": "ee6ad233-12ce-48ae-8f0a-1fc89a1e234b"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaningZh": "环境",
+      "meaningEn": "environment",
+      "level": "n5n4",
+      "exampleSentence": "環境を守りましょう。",
+      "id": "3c207c05-3512-4855-99d0-e77e683ef21a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の文房具の人気のデザインは何ですか。",
+      "options": [
+        "キャラクターもの",
+        "シンプルで使いやすいデザイン",
+        "とてもカラフルなデザイン",
+        "昔ながらのデザイン"
+      ],
+      "correctIndex": 1,
+      "explanation": "今年の人気は、シンプルで使いやすいデザインです。",
+      "id": "334ab951-f958-4611-be63-af37a6b294a8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-16-6abb825666",
+  "publishedAt": "2026-10-16T06:00:00+09:00"
+}

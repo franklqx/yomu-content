@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町がおもしろい",
+  "summary": "アニメの場所へ行く人が増えています。それは町にとって良いことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、アニメの「聖地」へ行く人がたくさんいます。聖地とは、アニメの物語の場所のことです。アニメで見た景色や建物を見たいと思います。それで、多くのファンがその町へ行きます。",
+      "translationZh": "最近，去动漫“圣地”的人很多。圣地就是动漫故事发生的地方。人们想看在动漫里看到的风景和建筑。因此，很多粉丝会去那个小镇。",
+      "translationEn": "Recently, many people are going to anime 'sacred sites'. Sacred sites are places from anime stories. People want to see the scenery and buildings they saw in anime. So, many fans go to those towns.",
+      "id": "14af5e1c-247e-4718-a356-40abc9b432b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメのファンが町に来ると、いろいろなことが起こります。お店で買い物をします。レストランで食事をします。お土産も買います。町の人々にとって、これはとても嬉しいことです。",
+      "translationZh": "当动漫粉丝来到小镇时，会发生各种各样的事情。他们在商店购物。在餐馆吃饭。还会买纪念品。这对小镇的人们来说，是非常高兴的事情。",
+      "translationEn": "When anime fans come to a town, various things happen. They shop at stores. They eat at restaurants. They also buy souvenirs. For the people of the town, this is a very happy thing.",
+      "id": "5ea6e534-30ca-42ab-ba9e-e5ce20ce7d15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "町はアニメのファンを歓迎します。町の地図にアニメの場所を書いたり、特別なイベントをしたりします。そうすると、もっとたくさんの人が町に来てくれるかもしれません。町が元気になります。",
+      "translationZh": "小镇欢迎动漫粉丝。他们会在小镇的地图上标注动漫的地点，或者举办特别的活动。这样做的话，可能会有更多的人来到小镇。小镇会变得有活力。",
+      "translationEn": "Towns welcome anime fans. They might write anime locations on town maps or hold special events. If they do, more people might come to the town. The town becomes lively.",
+      "id": "ebf40587-0510-4dcd-85c8-88de7f9d21f5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの聖地巡礼は、ただ楽しむだけではありません。それは、小さな町が元気になる良い方法です。これからも、もっと多くの町がアニメの力で活気が出るでしょう。",
+      "translationZh": "动漫圣地巡礼，不仅仅是单纯的享受。这是让小镇变得有活力的一种好方法。今后，也会有更多的小镇因为动漫的力量而充满活力。",
+      "translationEn": "Anime sacred site pilgrimage is not just for fun. It is a good way for small towns to become lively. From now on, more and more towns will become vibrant with the power of anime.",
+      "id": "fc7c866d-6c55-47f4-affd-cf9005328aa6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "聖地",
+      "reading": "せいち",
+      "meaningZh": "圣地（动漫、游戏等的发生地）",
+      "meaningEn": "sacred site (place where anime, games, etc. are set)",
+      "level": "n5n4",
+      "exampleSentence": "この町はアニメの聖地です。",
+      "id": "47687a45-57d7-4921-b863-4ff1afcbe059"
+    },
+    {
+      "word": "巡礼",
+      "reading": "じゅんれい",
+      "meaningZh": "巡礼（拜访圣地）",
+      "meaningEn": "pilgrimage (visiting a sacred site)",
+      "level": "n5n4",
+      "exampleSentence": "アニメの聖地を巡礼します。",
+      "id": "24502ad3-7748-4f16-a92f-deae5aab557e"
+    },
+    {
+      "word": "物語",
+      "reading": "ものがたり",
+      "meaningZh": "故事",
+      "meaningEn": "story",
+      "level": "n5n4",
+      "exampleSentence": "このアニメの物語はおもしろいです。",
+      "id": "9dd6fcf8-8e2f-4139-97fa-5b159b7d0b70"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "きれいな景色を見ました。",
+      "id": "e8b16377-c103-4d75-bfa7-92e04d6eb057"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "彼はこの歌手のファンです。",
+      "id": "5ff708dc-fdb3-499d-88c1-7844c5d3bb0e"
+    },
+    {
+      "word": "歓迎",
+      "reading": "かんげい",
+      "meaningZh": "欢迎",
+      "meaningEn": "welcome",
+      "level": "n5n4",
+      "exampleSentence": "お客様を歓迎します。",
+      "id": "db925ae1-8989-40f9-be7a-2202328b3d14"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有精神，有活力",
+      "meaningEn": "energetic, lively",
+      "level": "n5n4",
+      "exampleSentence": "町が元気になりました。",
+      "id": "5a61dfc1-2f50-4508-a10d-4ea68d620874"
+    },
+    {
+      "word": "力",
+      "reading": "ちから",
+      "meaningZh": "力量，能力",
+      "meaningEn": "power, strength",
+      "level": "n5n4",
+      "exampleSentence": "アニメの力はすごいです。",
+      "id": "a7a3c1b9-246c-4967-b6c5-581d54c2346d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメのファンが町に来ると、町はどうなりますか。",
+      "options": [
+        "町は静かになります。",
+        "町はあまり変わらないです。",
+        "町はお店が閉まります。",
+        "町は元気になることがあります。"
+      ],
+      "correctIndex": 3,
+      "explanation": "「町は元気になる良い方法です。」という文があります。",
+      "id": "7e45c279-dc95-41eb-8cd4-69da85a6a695"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-16-220265558d",
+  "publishedAt": "2026-10-16T06:00:00+09:00"
+}

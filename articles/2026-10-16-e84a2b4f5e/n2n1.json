@@ -1,0 +1,147 @@
+{
+  "title": "回転寿司、値上げの波　客足に変化の兆し",
+  "summary": "主要回転寿司チェーンが相次いで価格改定に踏み切った。これにより、かつてないほど手軽に楽しめていた寿司体験に変化が見られ、消費者の行動にも影響が出ているとのことだ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、原材料費や人件費の高騰は外食産業全体に影響を及ぼしており、回転寿司チェーンも例外ではありません。多くのチェーン店が、一部商品の値上げや、これまで均一価格だった皿の価格帯を細分化するなどの対応に追われています。こうした価格改定は、長年「安くて美味しい」というイメージを保ってきた回転寿司の価格体系に、少なからず変化をもたらしていると言えるでしょう。",
+      "translationZh": "近年来，原材料成本和人工成本的上涨影响着整个餐饮行业，回转寿司连锁店也不例外。许多连锁店正致力于部分商品涨价，或将过去统一价格的盘子细分价格区间。可以说，这样的价格调整给长期以来保持着“便宜又好吃”印象的回转寿司的价格体系带来了不小的变化。",
+      "translationEn": "In recent years, rising costs of raw materials and labor have impacted the entire food service industry, and conveyor belt sushi chains are no exception. Many chains are resorting to price revisions, such as increasing the prices of some items or segmenting the price range for plates that were previously uniformly priced. It can be said that such price adjustments are bringing about a considerable change to the pricing structure of conveyor belt sushi, which has long maintained an image of being \"cheap and delicious.\"",
+      "id": "48d5f690-ba8b-468a-8e59-5ddaee36279b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値上げに伴い、消費者の利用頻度や選ぶネタにも変化が見られるとの声も聞かれます。これまで気軽に複数皿を楽しんでいた層からは、予算を意識するようになったという意見や、より価格に見合った満足感を得られるネタを選ぶ傾向があるようです。一方で、品質の維持・向上を評価し、値上げ後も変わらず利用するという固定客層も存在しており、客足の全体像は一様ではないと見られます。",
+      "translationZh": "伴随涨价，也能听到消费者消费频率和选择寿司种类发生变化的声音。原本轻松享用多盘寿司的顾客层中，似乎出现了开始在意预算的意见，以及倾向于选择更能带来与其价格相符的满足感的寿司。另一方面，也有认可品质维持和提高并涨价后仍照常光顾的固定顾客层，整体客流量的全貌并非一成不变。",
+      "translationEn": "With the price increases, there are also reports of changes in consumer usage frequency and their choice of sushi toppings. Among those who previously enjoyed multiple plates casually, there are opinions that they have become more budget-conscious, and a tendency to choose toppings that offer satisfaction commensurate with their price. On the other hand, there are also loyal customers who appreciate the maintenance and improvement of quality and continue to patronize the establishments unchanged even after the price hike, suggesting that the overall picture of customer traffic is not uniform.",
+      "id": "b9f1dd69-59a2-4a13-b193-a7a661eb4f43",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "回転寿司業界は、今後も価格設定やサービス内容の見直しを通じて、多様化する顧客ニーズに応えていくことが求められるでしょう。品質と価格のバランスをいかに保ち、顧客満足度を維持・向上させていくかが、各社の持続的な成長にとって重要な課題となると考えられます。",
+      "translationZh": "回转寿司行业今后也将被要求通过重新审视价格设定和服务内容，来满足日益多样化的顾客需求。如何在保持品质与价格的平衡的同时，维持和提高顾客满意度，将成为各公司持续发展的关键课题。",
+      "translationEn": "The conveyor belt sushi industry will likely be required to respond to diversifying customer needs by continuing to review its pricing and service offerings. Maintaining and improving customer satisfaction while balancing quality and price is expected to be a crucial challenge for the sustainable growth of each company.",
+      "id": "2e60a407-da22-4bad-aa65-417d3edc2d1e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n3",
+      "exampleSentence": "多くの企業が原材料費の高騰により、商品の値上げを余儀なくされている。",
+      "id": "691a2f8d-0de3-4a42-b541-ea037d423da2"
+    },
+    {
+      "word": "客足",
+      "reading": "きゃくあし",
+      "meaningZh": "客流量，生意",
+      "meaningEn": "customer traffic, business (foot traffic)",
+      "level": "n2n1",
+      "exampleSentence": "週末の商店街は多くの客足で賑わっていた。",
+      "id": "a73b2c5d-b199-4d98-9b53-73c49f42a313"
+    },
+    {
+      "word": "相次ぐ",
+      "reading": "あい つぐ",
+      "meaningZh": "接连发生，接二连三",
+      "meaningEn": "to follow one after another, to occur successively",
+      "level": "n2n1",
+      "exampleSentence": "近年、自然災害が相次いで発生し、多くの地域が被害を受けている。",
+      "id": "21a0d6ca-aab1-4784-9fc9-08109488e975"
+    },
+    {
+      "word": "踏み切る",
+      "reading": "ふみきる",
+      "meaningZh": "下决心采取（行动），断然决定",
+      "meaningEn": "to make up one's mind, to take the plunge",
+      "level": "n2n1",
+      "exampleSentence": "長年の検討を経て、ついに新事業への進出を決断した。",
+      "id": "f48b1beb-51a1-4e65-a258-e5b6b1c88e59"
+    },
+    {
+      "word": "均一価格",
+      "reading": "きんいつかかく",
+      "meaningZh": "统一价格",
+      "meaningEn": "uniform price, fixed price",
+      "level": "n2n1",
+      "exampleSentence": "このお店では、すべてのメニューが均一価格で提供されている。",
+      "id": "64c3d881-8fc0-4198-b5f9-21f4279b6b82"
+    },
+    {
+      "word": "細分化",
+      "reading": "さいぶんか",
+      "meaningZh": "细分化",
+      "meaningEn": "segmentation, subdivision",
+      "level": "n2n1",
+      "exampleSentence": "市場のニーズに合わせて、製品ラインナップを細分化する必要がある。",
+      "id": "7a304eff-4304-42a0-8a77-92409e683f71"
+    },
+    {
+      "word": "少なからず",
+      "reading": "すくなからず",
+      "meaningZh": "不少，相当多",
+      "meaningEn": "not a little, considerably, a good deal",
+      "level": "n2n1",
+      "exampleSentence": "今回の出来事は、関係者に少なからぬ影響を与えた。",
+      "id": "12522057-255c-44f3-91e1-0b4431744570"
+    },
+    {
+      "word": "頻度",
+      "reading": "ひんど",
+      "meaningZh": "频率",
+      "meaningEn": "frequency",
+      "level": "n3",
+      "exampleSentence": "運動する頻度を増やすことで、健康状態が改善された。",
+      "id": "fd7b28f2-26bf-4bbd-b2ce-3052f11013c2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司チェーンが価格改定に踏み切った主な理由は何だと述べられていますか？",
+      "options": [
+        "顧客の要望に応えるため",
+        "競合他社との差別化を図るため",
+        "原材料費や人件費の高騰に対応するため",
+        "新しいメニューを導入するため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「近年、原材料費や人件費の高騰は外食産業全体に影響を及ぼしており、回転寿司チェーンも例外ではありません」と記載されているため。",
+      "id": "517ac58e-3a28-4ee9-9806-cbdd7ba347b8"
+    },
+    {
+      "question": "値上げ後、消費者の行動にどのような変化が見られると述べられていますか？",
+      "options": [
+        "全ての消費者が利用頻度を減らしている",
+        "予算を意識し、ネタを選ぶ傾向が見られる",
+        "品質向上を評価し、以前より多く利用するようになっている",
+        "回転寿司チェーンの利用を完全にやめている"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第二段に「値上げに伴い、消費者の利用頻度や選ぶネタにも変化が見られるとの声も聞かれます。これまで気軽に複数皿を楽しんでいた層からは、予算を意識するようになったという意見や、より価格に見合った満足感を得られるネタを選ぶ傾向があるようです」と記載されているため。",
+      "id": "6a676362-2425-4347-83d1-2d672e260338"
+    },
+    {
+      "question": "回転寿司業界が今後持続的に成長していくために、重要だと考えられる課題は何ですか？",
+      "options": [
+        "徹底的なコスト削減",
+        "新業態への積極的な進出",
+        "価格と品質のバランス維持と顧客満足度の向上",
+        "広告宣伝費の増額"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「品質と価格のバランスをいかに保ち、顧客満足度を維持・向上させていくかが、各社の持続的な成長にとって重要な課題となると考えられます」と記載されているため。",
+      "id": "8cea4f88-7587-4d3f-a267-608986818c87"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-16-e84a2b4f5e",
+  "publishedAt": "2026-10-16T06:00:00+09:00"
+}

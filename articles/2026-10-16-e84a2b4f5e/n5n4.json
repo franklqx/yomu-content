@@ -1,0 +1,122 @@
+{
+  "title": "お寿司の値上げ、どう思う？",
+  "summary": "最近、回転寿司の値段が上がりました。それでも、人気はまだ高いのでしょうか？",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、回転寿司（かいてんずし）の値段が上がりました。一皿（ひとさら）の値段が少し高くなった店が多いです。このニュースを聞いて、驚いた人もいるでしょう。",
+      "translationZh": "最近，回转寿司的价格上涨了。很多店里一盘的价格都稍微变高了。听到这个消息，可能也有人感到惊讶。",
+      "translationEn": "Recently, the prices of conveyor belt sushi have gone up. In many shops, the price per plate has become a little higher. Hearing this news, some people might have been surprised.",
+      "id": "d0239cd6-2dd3-4923-ae25-fd55985ee192",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がると、お客さんの数（かず）はどうなるでしょうか？ 安い（やすい）時と比べて、行くのをやめる人もいるかもしれません。でも、お寿司はとても人気（にんき）がありますから、あまり変わらないかもしれませんね。",
+      "translationZh": "价格上涨后，客人的数量会怎么样呢？ 和便宜的时候相比，有些人可能就不会去了。但是，寿司非常受欢迎，所以也许变化不会太大。",
+      "translationEn": "When prices go up, what happens to the number of customers? Compared to when it was cheap, some people might stop going. However, sushi is very popular, so perhaps the change won't be very significant.",
+      "id": "f09e19c0-6edb-4212-b6ce-82194fb9af74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実際（じっさい）、値上げ後（ねあげご）も、回転寿司のお店はとてもにぎわっています。家族（かぞく）連れ（づれ）や友達（ともだち）と楽しそうに食事（しょくじ）をしている人がたくさんいます。美味しい（おいしい）お寿司は、やっぱり魅力的（みりょくてき）です。",
+      "translationZh": "事实上，即使在涨价之后，回转寿司店也非常热闹。有很多家庭或朋友一起开心地用餐。美味的寿司果然很有魅力。",
+      "translationEn": "In reality, even after the price increase, conveyor belt sushi restaurants are very lively. Many people are seen enjoying meals with their families or friends. Delicious sushi is indeed very appealing.",
+      "id": "d5e7112e-af7a-40de-bff4-7cc8dd031c5e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、値段は変わるかもしれませんが、皆（みな）さんはどんなお寿司が好きですか？ 新しい（あたらしい）ネタや、お店の工夫（くふう）にも注目（ちゅうもく）したいですね。",
+      "translationZh": "今后，价格可能还会变化，但大家喜欢什么样的寿司呢？我也想关注一下新的食材和店家的创意。",
+      "translationEn": "Prices might change in the future, but what kind of sushi do you all like? I'd also like to pay attention to new toppings and the creativity of the restaurants.",
+      "id": "7e935180-c433-46c7-8f25-f8f48ba554b4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "週末は回転寿司に行きました。",
+      "id": "12d5fcd7-9578-43da-8c62-2b08fc8cc911"
+    },
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n5n4",
+      "exampleSentence": "パンの値上げがニュースになりました。",
+      "id": "eca6094d-f6f7-4df8-bd46-218e2b835e2a"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "299b881c-9022-4fee-a57d-b9d049120237"
+    },
+    {
+      "word": "客",
+      "reading": "きゃく",
+      "meaningZh": "客人，顾客",
+      "meaningEn": "customer",
+      "level": "n5n4",
+      "exampleSentence": "店にお客さんがたくさん来ました。",
+      "id": "9989ac99-a690-4189-b768-0f08ceaccefb"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "3001d679-336c-4ff5-92cf-b519bbe3bd5b"
+    },
+    {
+      "word": "家族連れ",
+      "reading": "かぞくづれ",
+      "meaningZh": "一家人（一起出行）",
+      "meaningEn": "family group",
+      "level": "n5n4",
+      "exampleSentence": "公園には家族連れがたくさんいました。",
+      "id": "e6ec220d-7778-4ba2-893a-fc3dd668b0c3"
+    },
+    {
+      "word": "魅力的",
+      "reading": "みりょくてき",
+      "meaningZh": "有魅力",
+      "meaningEn": "attractive, charming",
+      "level": "n3",
+      "exampleSentence": "そのアイデアはとても魅力的です。",
+      "id": "3da6d530-20e3-4ede-9c3c-b10d354268bd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "値上げ後、回転寿司のお店の様子はどうですか？",
+      "options": [
+        "お客さんが減って、静かになった。",
+        "お客さんはあまり変わらず、にぎわっている。",
+        "お店を閉める店が多くなった。",
+        "値段が安くなった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「実際（じっさい）、値上げ後（ねあげご）も、回転寿司のお店はとてもにぎわっています。」と書かれています。",
+      "id": "641e8481-b17f-41cc-99ae-c4d14e860468"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-16-e84a2b4f5e",
+  "publishedAt": "2026-10-16T06:00:00+09:00"
+}
