@@ -1,0 +1,131 @@
+{
+  "title": "高校生プログラマー集まれ！",
+  "summary": "高校生向けのプログラミングコンテストが開催されます。新しいアイデアを形にしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "このイベントは高校生プログラマーのためです。新しいプログラムを作るコンテストがあります。名前はハッカソンと言います。たくさんの高校生が参加しました。",
+      "translationZh": "这个活动是为高中生程序员准备的。有一个制作新程序的竞赛。名字叫黑客松。很多高中生都参加了。",
+      "translationEn": "This event is for high school programmers. There is a contest to create new programs. Its name is Hackathon. Many high school students participated.",
+      "id": "34b69460-4468-4734-a610-a971b08984e9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンでは、チームでプログラムを作ります。時間は短いですが、みんな一生懸命です。アイデアを出し合って、協力します。先生たちも手伝ってくれました。",
+      "translationZh": "在黑客松，大家会组队制作程序。时间虽然很短，但每个人都很努力。大家互相交流想法，通力合作。老师们也提供了帮助。",
+      "translationEn": "In the Hackathon, teams create programs. The time is short, but everyone works hard. They exchange ideas and cooperate. Teachers also helped them.",
+      "id": "e4cf3d63-e553-4e79-8d69-927e053502ef",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "いくつかのチームが、すばらしいプログラムを作りました。審査員は、そのプログラムを評価しました。一番良かったチームには、賞が与えられました。みんな楽しかったようです。",
+      "translationZh": "有几个队伍制作了很棒的程序。评审员对这些程序进行了评价。最好的队伍获得了奖项。大家似乎都很开心。",
+      "translationEn": "Several teams created wonderful programs. The judges evaluated those programs. The best team was given a prize. Everyone seemed to have fun.",
+      "id": "c85d817d-88ae-4773-8045-9438151a989d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このハッカソンは、プログラミングの勉強になりました。友達もできました。来年も参加したいです。もっとすごいプログラムを作りたいです。",
+      "translationZh": "这次黑客松是一次编程学习的机会。也交到了朋友。明年也想参加。想制作更厉害的程序。",
+      "translationEn": "This Hackathon was a learning experience for programming. I also made friends. I want to participate next year too. I want to create even more amazing programs.",
+      "id": "414b0dce-af63-40ef-a5b3-e32d2fc7a47a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生がたくさん参加しました。",
+      "id": "6f834c54-6c63-4378-8982-f353b9891e63"
+    },
+    {
+      "word": "プログラマー",
+      "reading": "ぷろぐらまー",
+      "meaningZh": "程序员",
+      "meaningEn": "programmer",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なプログラマーです。",
+      "id": "92444af3-463c-4bdb-a392-08ac5fb017a2"
+    },
+    {
+      "word": "集まれ",
+      "reading": "あつまれ",
+      "meaningZh": "集合吧，来吧",
+      "meaningEn": "gather, come",
+      "level": "n5n4",
+      "exampleSentence": "みんな、ここに集まれ！",
+      "id": "a8be451b-f386-402e-9dca-2fc386197e79"
+    },
+    {
+      "word": "コンテスト",
+      "reading": "こんてすと",
+      "meaningZh": "竞赛，比赛",
+      "meaningEn": "contest",
+      "level": "n5n4",
+      "exampleSentence": "歌のコンテストがありました。",
+      "id": "06d360dc-4d82-471b-bd70-1f513acae8fd"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法，主意",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "いいアイデアを考えました。",
+      "id": "d09a484e-796c-43f5-966e-478a60ed8e2b"
+    },
+    {
+      "word": "チーム",
+      "reading": "ちーむ",
+      "meaningZh": "团队，小组",
+      "meaningEn": "team",
+      "level": "n5n4",
+      "exampleSentence": "私たちは同じチームです。",
+      "id": "83de1e60-f220-481e-b460-a92f88829add"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "みんなで協力して頑張りましょう。",
+      "id": "4bdd0a39-d9a4-4e5d-9fb3-f5deea221867"
+    },
+    {
+      "word": "賞",
+      "reading": "しょう",
+      "meaningZh": "奖，奖品",
+      "meaningEn": "prize, award",
+      "level": "n5n4",
+      "exampleSentence": "彼はコンテストで賞を取りました。",
+      "id": "9bf66c13-95da-4d27-9fdc-bfb8634904ec"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このハッカソンは、誰のためのイベントですか。",
+      "options": [
+        "先生",
+        "プロのプログラマー",
+        "高校生",
+        "子供"
+      ],
+      "correctIndex": 2,
+      "explanation": "このイベントは高校生プログラマーのためです。",
+      "id": "e7a99b90-2eaf-4847-b8ae-9fc83c3f62a4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-17-22473898ef",
+  "publishedAt": "2026-10-17T06:00:00+09:00"
+}

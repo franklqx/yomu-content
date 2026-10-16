@@ -1,0 +1,143 @@
+{
+  "title": "高校生プログラマー集まれ！ハッカソンでアイデアを形にしよう",
+  "summary": "高校生プログラマーを対象としたハッカソンが開催されます。このイベントは、若い才能が集まり、新しいアイデアを形にする絶好の機会です。ぜひ参加して、自分のスキルを試してみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、高校生向けのハッカソンが注目されています。ハッカソンとは、短期間で集中的にアイデアを出し合い、実際にプログラムやサービスを作り上げるイベントのことです。特に、プログラミングに興味のある高校生にとって、自分のスキルを試したり、新しい仲間と協力したりする素晴らしい機会になります。",
+      "translationZh": "最近，面向高中生的黑客马拉松备受关注。黑客马拉松是指在短时间内集中构思创意，并实际开发出程序或服务的活动。特别是对于对编程感兴趣的高中生来说，这是一个尝试自己技能、与新伙伴合作的绝佳机会。",
+      "translationEn": "Recently, hackathons for high school students have been gaining attention. A hackathon is an event where participants intensely brainstorm ideas and actually create programs or services in a short period. It's a wonderful opportunity, especially for high school students interested in programming, to test their skills and collaborate with new friends.",
+      "id": "bd9cda56-9376-4512-a332-2b4a910c9434",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ハッカソンに参加するメリットはたくさんあります。まず、チームを組んで開発を進めるので、コミュニケーション能力や協調性が養われます。また、限られた時間の中で成果を出すために、効率的に作業を進める方法を学ぶことができます。さらに、メンターとして経験豊富なエンジニアがサポートしてくれる場合が多いので、専門的なアドバイスをもらいながら、自分のレベルアップにつなげることができます。",
+      "translationZh": "参加黑客马拉松有很多好处。首先，因为是组队进行开发，所以可以培养沟通能力和协作能力。此外，为了在有限的时间内取得成果，可以学到高效推进工作的方法。而且，经验丰富的工程师通常会作为导师提供支持，因此可以在获得专业建议的同时，提升自己的水平。",
+      "translationEn": "There are many benefits to participating in a hackathon. First, since development is done in teams, communication skills and cooperation are cultivated. Also, you can learn how to work efficiently to achieve results within a limited time. Furthermore, experienced engineers often provide support as mentors, allowing you to improve your skills while receiving professional advice.",
+      "id": "76aa9801-17b9-4269-96cc-1685a4128106",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、あるハッカソンでは、「地域活性化」をテーマに、高校生たちが地元の課題を解決するアプリを開発しました。アイデアを出す段階から、プログラミング、そして発表まで、チームで協力しながら進めました。その結果、自分たちだけでは思いつかなかったような斬新なアイデアも生まれ、参加者全員が達成感を得られました。このように、ハッカソンは、机上の空論ではなく、実際に動くものを作る貴重な体験ができる場なのです。",
+      "translationZh": "例如，在一个黑客马拉松中，高中生们以“地区振兴”为主题，开发了解决当地问题的应用程序。从构思创意到编程，再到最终发表，他们通过团队合作共同推进。结果，诞生了仅凭个人思考难以想到的创新想法，所有参与者都获得了成就感。像这样，黑客马拉松是一个能够获得实际制作出可用成果的宝贵体验的场所，而不是停留在纸上谈兵。",
+      "translationEn": "For example, in one hackathon, high school students developed an app to solve local issues under the theme of 'regional revitalization.' They proceeded through teamwork from brainstorming to programming and finally to presentation. As a result, innovative ideas that they might not have come up with individually emerged, and all participants felt a sense of accomplishment. In this way, a hackathon is a place where you can gain valuable experience in creating something that actually works, rather than just theoretical discussion.",
+      "id": "f2ccfc47-9f71-4512-b1fb-bcfe5dc9c9d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "プログラミング経験が浅い人でも、ハッカソンは参加する価値があります。なぜなら、初心者向けのサポートが用意されていたり、経験者と一緒に学ぶ機会があったりするからです。もしあなたが新しいことに挑戦したい、または将来エンジニアを目指したいと思っているのであれば、ぜひハッカソンに参加してみてはいかがでしょうか。きっと、素晴らしい経験になるはずです。",
+      "translationZh": "即使编程经验不多的初学者，参加黑客马拉松也很有价值。因为通常会为初学者提供支持，或者有与有经验者一起学习的机会。如果你想挑战新事物，或者未来想成为一名工程师，为什么不尝试参加一次黑客马拉松呢？这一定会是一次宝贵的经历。",
+      "translationEn": "Even for those with little programming experience, hackathons are worth participating in. This is because support for beginners is often provided, or there are opportunities to learn alongside experienced individuals. If you want to challenge yourself with something new, or aspire to become an engineer in the future, why not consider joining a hackathon? It will surely be a valuable experience.",
+      "id": "ed993a5a-8213-4aae-98fa-df6c9ed17667",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ハッカソン",
+      "reading": "はっかそん",
+      "meaningZh": "黑客马拉松（一种限时编程竞赛活动）",
+      "meaningEn": "hackathon (a timed programming competition event)",
+      "level": "n3",
+      "exampleSentence": "高校生向けのハッカソンが開催される予定です。",
+      "id": "8cd16594-14ed-429e-a2d1-fdbb09a05763"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，瞩目",
+      "meaningEn": "attention, notice",
+      "level": "n3",
+      "exampleSentence": "この新しい技術は、専門家の間で注目されています。",
+      "id": "e600590f-43e5-4b0f-88a5-2b281e6dcdf2"
+    },
+    {
+      "word": "集中的に",
+      "reading": "しゅうちゅうてきに",
+      "meaningZh": "集中地，集约地",
+      "meaningEn": "intensely, concentratedly",
+      "level": "n3",
+      "exampleSentence": "短期間に集中的に学習して、試験に備えました。",
+      "id": "1ff7a954-7356-4612-a44f-13d04e76148b"
+    },
+    {
+      "word": "養われます",
+      "reading": "やしなわれます",
+      "meaningZh": "被培养，被养育",
+      "meaningEn": "to be cultivated, to be nurtured",
+      "level": "n3",
+      "exampleSentence": "チームで協力することで、協調性が養われます。",
+      "id": "a762eab9-05f0-496c-b797-d879b1ce1cda"
+    },
+    {
+      "word": "メンター",
+      "reading": "めんたー",
+      "meaningZh": "指导者，导师",
+      "meaningEn": "mentor",
+      "level": "n3",
+      "exampleSentence": "経験豊富なメンターからのアドバイスは貴重です。",
+      "id": "88d2a665-1627-4c57-9388-8140e4e8a882"
+    },
+    {
+      "word": "地域活性化",
+      "reading": "ちいきかっせいか",
+      "meaningZh": "地区（或地方）振兴",
+      "meaningEn": "regional revitalization",
+      "level": "n3",
+      "exampleSentence": "地域活性化のために、新しいイベントが企画されています。",
+      "id": "e2d44903-60e4-4261-a185-c69a743609f2"
+    },
+    {
+      "word": "斬新な",
+      "reading": "ざんしんな",
+      "meaningZh": "新颖的，创新的",
+      "meaningEn": "novel, innovative",
+      "level": "n3",
+      "exampleSentence": "斬新なアイデアが、会議で高く評価されました。",
+      "id": "4d5ce6a2-16b3-4078-a1f1-aa35ab47cfeb"
+    },
+    {
+      "word": "机上の空論",
+      "reading": "きじょうのくうろん",
+      "meaningZh": "纸上谈兵，空谈",
+      "meaningEn": "armchair theory, empty talk",
+      "level": "n3",
+      "exampleSentence": "机上の空論に終わらず、実際に行動することが大切だ。",
+      "id": "ded0f44c-dd5a-4bf5-8a8c-0f103375829e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ハッカソンに参加するメリットとして、本文で述べられていないものはどれですか？",
+      "options": [
+        "プログラミングスキルの向上",
+        "コミュニケーション能力の育成",
+        "最新のプログラミング言語の習得",
+        "効率的な作業方法の学習"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、プログラミングスキルの向上、コミュニケーション能力の育成、効率的な作業方法の学習などがメリットとして挙げられていますが、最新のプログラミング言語の習得については直接触れられていません。",
+      "id": "c8c856ab-ea9c-4344-87e0-c6855743d2be"
+    },
+    {
+      "question": "「机上の空論に終わらず、実際に動くものを作る」という経験は、ハッカソンにどのように関連していますか？",
+      "options": [
+        "ハッカソンはアイデアを出すだけで、実際には作らない",
+        "ハッカソンは、アイデアを基に実際にプログラムなどを作り上げる場である",
+        "ハッカソンは、経験者が初心者を指導するだけの場である",
+        "ハッカソンは、発表のみに焦点を当てたイベントである"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第三段落で、「ハッカソンは、机上の空論ではなく、実際に動くものを作る貴重な体験ができる場なのです。」と説明されています。",
+      "id": "c7f87802-9ca6-4d20-ac08-4dc6a030c8c6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-17-22473898ef",
+  "publishedAt": "2026-10-17T06:00:00+09:00"
+}

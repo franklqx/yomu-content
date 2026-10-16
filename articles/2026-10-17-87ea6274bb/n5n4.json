@@ -1,0 +1,123 @@
+{
+  "title": "新しい和菓子、若い人に人気！",
+  "summary": "昔からの和菓子が新しくなりました。若い人にも人気が出ています。和菓子職人が工夫しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "和菓子は日本の伝統的なお菓子です。昔から、たくさんの人に愛されてきました。でも、最近は若い人にお菓子があまり人気がないという人もいます。そこで、和菓子職人が新しい和菓子を作っています。",
+      "translationZh": "和菓子是日本的传统点心。自古以来，就受到许多人的喜爱。但是，最近有人说点心在年轻人中不太受欢迎。因此，和菓子师傅正在制作新的和菓子。",
+      "translationEn": "Wagashi are traditional Japanese sweets. They have been loved by many people for a long time. However, some say that sweets are not very popular with young people recently. Therefore, wagashi craftsmen are making new wagashi.",
+      "id": "0fe27a06-5d61-41de-905e-d7b4ba74d903",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい和菓子は、形や味が違います。見た目がカラフルで、かわいいデザインが増えました。味も、抹茶だけでなく、フルーツやチョコレートなどの味があります。これなら、若い人も興味を持つかもしれません。",
+      "translationZh": "新的和菓子在形状和味道上有所不同。外观变得多彩，可爱的设计也增加了。味道方面，不仅有抹茶味，还有水果和巧克力等口味。这样的话，年轻人也许会感兴趣。",
+      "translationEn": "The new wagashi are different in shape and taste. The appearance has become colorful, and cute designs have increased. In terms of taste, there are flavors like fruits and chocolate, not just matcha. With this, young people might become interested.",
+      "id": "cdaec511-d564-434b-9eb1-4624de3e7c33",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "職人は、昔の作り方を大切にしながら、新しいアイデアも取り入れています。SNSで写真を共有する人も多いので、見た目がきれいな和菓子は特に人気です。このリブランドは、和菓子を未来につなぐ良い方法だと思います。",
+      "translationZh": "师傅们在珍惜传统制作方法的同时，也融入了新的创意。因为很多人会在SNS上分享照片，所以外观漂亮的菓子尤其受欢迎。我认为这次的品牌重塑是连接和菓子与未来的好方法。",
+      "translationEn": "Craftsmen cherish the old methods of making while incorporating new ideas. Since many people share photos on social media, visually appealing wagashi are particularly popular. I think this rebranding is a good way to connect wagashi to the future.",
+      "id": "c9cf0dd4-2ea3-45ff-ab43-f8794ac86de1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "和菓子",
+      "reading": "わがし",
+      "meaningZh": "日式点心",
+      "meaningEn": "Japanese sweets",
+      "level": "n5n4",
+      "exampleSentence": "この店は色々な和菓子があります。",
+      "id": "3c3b47f1-d4aa-4f2e-afa4-bd048518834f"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠，师傅",
+      "meaningEn": "craftsman, artisan",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な和菓子職人です。",
+      "id": "6136581d-21a8-4501-b3b6-ac8c11138884"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n5n4",
+      "exampleSentence": "これは伝統的な日本の家です。",
+      "id": "8462f9a0-74a6-40cf-bdac-8291b6115316"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "6748eaee-534e-43f6-b290-93446fcec4c7"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "ac765819-e234-412e-ac6b-fab89596f69c"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，创造，巧妙办法",
+      "meaningEn": "ingenuity, idea, clever measure",
+      "level": "n3",
+      "exampleSentence": "新しい味を工夫しました。",
+      "id": "40ce5359-38c2-4fae-8225-8ab5935a65e1"
+    },
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaningZh": "味道",
+      "meaningEn": "taste, flavor",
+      "level": "n5n4",
+      "exampleSentence": "このケーキは甘い味です。",
+      "id": "bfd0a906-fd00-4af9-a671-1d43828557a9"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaningZh": "未来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "未来のために勉強します。",
+      "id": "072763fc-2c31-446e-83cb-0fc17404a5a9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい和菓子は、どんなところが人気ですか？",
+      "options": [
+        "昔と同じ味だから",
+        "見た目がかわいくて、味が新しいから",
+        "値段が高いから",
+        "作るのが簡単だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "新しい和菓子は、形や味が違います。見た目がカラフルで、かわいいデザインが増えました。味も、抹茶だけでなく、フルーツやチョコレートなどの味があります。",
+      "id": "176071a4-6111-438f-9d49-cd2919e76314"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-17-87ea6274bb",
+  "publishedAt": "2026-10-17T06:00:00+09:00"
+}

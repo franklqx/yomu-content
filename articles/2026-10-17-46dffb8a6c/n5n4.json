@@ -1,0 +1,131 @@
+{
+  "title": "沖縄の島巡り！離島ホップ",
+  "summary": "沖縄にはたくさんのきれいな島があります。一度にいくつかの島を訪れる「離島ホップ」は、とても人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "沖縄は日本の一番南にある場所です。たくさんの島があります。その島々はとてもきれいです。青い海と白い砂浜が有名です。多くの人が沖縄の島に旅行に来ます。",
+      "translationZh": "冲绳是日本最南端的地方。有很多岛屿。那些岛屿非常美丽。蓝色的海和白色的沙滩很有名。很多人来冲绳的岛屿旅行。",
+      "translationEn": "Okinawa is the southernmost place in Japan. There are many islands. Those islands are very beautiful. Blue seas and white sandy beaches are famous. Many people come to visit Okinawa's islands.",
+      "id": "4d0841ff-f28b-41d1-ad7e-bc6c79cd0cd9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、「離島ホップ」という旅行が人気です。これは、一つの旅行でいくつかの島を訪れることです。例えば、那覇からフェリーに乗って、渡嘉敷島、座間味島、阿嘉島などを回ります。それぞれの島に違う魅力があります。",
+      "translationZh": "最近，“跳岛游”这种旅行很受欢迎。这是指一次旅行访问几个岛屿。例如，从那霸乘渡轮，可以游览渡嘉敷岛、座间味岛、阿嘉岛等。每个岛都有不同的魅力。",
+      "translationEn": "Recently, a type of travel called \"island hopping\" has become popular. This means visiting several islands on one trip. For example, you can take a ferry from Naha and visit Tokashiki Island, Zamami Island, and Aka Island. Each island has a different charm.",
+      "id": "7d6010f0-bfe6-47dd-9737-ce6a35bceb1a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "離島ホップのいいところは、いろいろな景色を楽しめることです。ある島ではシュノーケリングをしたり、別の島では静かな時間を過ごしたりできます。交通手段はフェリーや船が便利です。事前にチケットを予約することをおすすめします。",
+      "translationZh": "跳岛游的好处是可以欣赏各种各样的景色。在某个岛上可以浮潜，在另一个岛上可以度过悠闲的时光。交通工具方面，渡轮和船都很方便。建议提前预订船票。",
+      "translationEn": "The good thing about island hopping is that you can enjoy various sceneries. You can go snorkeling on one island and spend quiet time on another. Ferries and boats are convenient for transportation. It is recommended to book tickets in advance.",
+      "id": "81b26a9c-5ed4-4d0e-8038-de8ccdd20e25",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "沖縄の離島を巡る旅は、きっと素晴らしい思い出になるでしょう。次はどの島に行こうか、考えるのも楽しい時間です。ぜひ、次の休みに計画してみてください。",
+      "translationZh": "游览冲绳离岛的旅程，一定会成为美好的回忆。下次去哪个岛呢？思考的过程也是快乐的时光。请务必在下一个假期里计划一下吧。",
+      "translationEn": "A trip visiting Okinawa's remote islands will surely become a wonderful memory. Thinking about which island to visit next is also a fun time. Please be sure to plan for your next holiday.",
+      "id": "3f3fb556-86ce-4283-b808-af48a0e50ca9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaningZh": "离岛",
+      "meaningEn": "remote island",
+      "level": "n5n4",
+      "exampleSentence": "沖縄にはたくさんの離島があります。",
+      "id": "3fa62432-9d97-49c9-b874-a08847eb649a"
+    },
+    {
+      "word": "巡り",
+      "reading": "めぐり",
+      "meaningZh": "巡游，游览",
+      "meaningEn": "tour, visit",
+      "level": "n5n4",
+      "exampleSentence": "島巡りは楽しいです。",
+      "id": "fd7f3e94-49d3-4c4a-aeff-215f40fa000e"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "76edc6fe-1536-4e9f-9a8d-0af7addaa4ae"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n3",
+      "exampleSentence": "この島の魅力は自然です。",
+      "id": "b8911266-7c93-4feb-b9d9-92238ec0052c"
+    },
+    {
+      "word": "シュノーケリング",
+      "reading": "しゅのーけりんぐ",
+      "meaningZh": "浮潜",
+      "meaningEn": "snorkeling",
+      "level": "n5n4",
+      "exampleSentence": "海でシュノーケリングをしました。",
+      "id": "cd0b3561-da60-448d-9a44-989a28998d56"
+    },
+    {
+      "word": "交通手段",
+      "reading": "こうつうしゅだん",
+      "meaningZh": "交通工具，交通方式",
+      "meaningEn": "means of transportation",
+      "level": "n3",
+      "exampleSentence": "交通手段は何ですか。",
+      "id": "d9d4a0c3-18c5-4a39-ba9d-7d17f37bbfa3"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约，预订",
+      "meaningEn": "reservation, booking",
+      "level": "n5n4",
+      "exampleSentence": "ホテルを予約しました。",
+      "id": "1b87582c-44f3-4d03-bc7e-5c69e6f15bc7"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaningZh": "回忆",
+      "meaningEn": "memory",
+      "level": "n5n4",
+      "exampleSentence": "良い思い出になりました。",
+      "id": "6414a65f-cd2a-40e2-b808-c525256da75b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「離島ホップ」とは、どのような旅行ですか？",
+      "options": [
+        "一つの島で長く過ごす旅行",
+        "一つの旅行でいくつかの島を訪れる旅行",
+        "飛行機で遠い島へ行く旅行",
+        "那覇市内の観光をする旅行"
+      ],
+      "correctIndex": 1,
+      "explanation": "「離島ホップ」という旅行が人気です。これは、一つの旅行でいくつかの島を訪れることです。",
+      "id": "71a09c13-83e3-4d22-8fc1-a2e2f321d179"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-17-46dffb8a6c",
+  "publishedAt": "2026-10-17T06:00:00+09:00"
+}

@@ -1,0 +1,129 @@
+{
+  "title": "高校生プログラマーの祭典、ハッカソン開催へ",
+  "summary": "全国の高校生プログラマーが一堂に会し、創造性を競い合うハッカソンが開催される見込みです。次世代のIT人材育成に繋がることが期待されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、IT分野における人材育成の重要性が高まる中、次世代を担う高校生を対象としたプログラミングコンテスト、通称「ハッカソン」の開催が注目されています。このイベントは、参加者がチームを組み、限られた時間内に与えられたテーマに基づき、革新的なアプリケーションやサービスを開発するものです。多様なアイデアと技術がぶつかり合う場として、創造性や問題解決能力の向上に大きく寄与すると見られております。",
+      "translationZh": "近年来，随着IT领域人才培养重要性的日益凸显，面向未来栋梁——高中生的编程竞赛，即“黑客松”，其举办正受到广泛关注。这项活动要求参赛者组建团队，在规定时间内，以既定主题为基础，开发出具有创新性的应用程序或服务。它被视为一个汇聚多元想法与技术碰撞的平台，对提升创造力及解决问题的能力大有裨益。",
+      "translationEn": "In recent years, as the importance of nurturing talent in the IT field has grown, the organization of programming contests for high school students, commonly known as \"hackathons,\" is drawing attention. These events involve participants forming teams to develop innovative applications and services based on a given theme within a limited time. It is seen as a platform where diverse ideas and technologies collide, greatly contributing to the enhancement of creativity and problem-solving skills.",
+      "id": "cf4b7c88-9333-4907-a3cc-5646184776ab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回のハッカソンでは、特に「持続可能な社会の実現」や「地域活性化」といった現代社会が抱える課題解決に焦点を当てたテーマが設定されるとのことです。これにより、参加者は単に技術を競うだけでなく、社会的な意義を考慮したプロダクト開発へと意識を向けることが促されるでしょう。また、現役のエンジニアやデザイナーがメンターとして参加し、専門的なアドバイスを提供することで、参加者の学びを一層深める機会が提供される予定です。",
+      "translationZh": "据悉，本次黑客松将特别聚焦于“实现可持续发展的社会”和“地方振兴”等当前社会面临的课题。这将促使参赛者不仅比拼技术，还将注意力转向开发具有社会意义的产品。此外，现役工程师和设计师将作为导师参与，提供专业的指导，为参赛者提供进一步深化学习的机会。",
+      "translationEn": "It is reported that this hackathon will particularly focus on themes related to solving contemporary societal challenges such as \"realizing a sustainable society\" and \"regional revitalization.\" This will encourage participants to focus not only on competing in technology but also on developing products with social significance. Furthermore, active engineers and designers are scheduled to participate as mentors, providing expert advice and offering participants opportunities to deepen their learning.",
+      "id": "69310a6b-3a94-4089-8d25-3dd49b968d27",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この種のイベントは、将来のIT業界を担う若手人材の発掘・育成のみならず、参加者同士のネットワーク構築や、新たなビジネスアイデアの創出にも繋がる可能性を秘めています。高校生のうちから実践的な開発経験を積むことは、彼らのキャリア形成において極めて有益であり、今後の技術革新を牽引する原動力となることが期待されます。",
+      "translationZh": "这类活动不仅有助于发掘和培养未来IT行业的年轻人才，还蕴含着构建参与者之间人脉网络及创造新商业理念的潜力。高中生时期积累实践开发经验，对其职业生涯发展极为有利，并有望成为未来技术革新的驱动力。",
+      "translationEn": "This type of event holds the potential not only to discover and nurture young talent who will lead the future IT industry but also to foster network building among participants and the creation of new business ideas. Gaining practical development experience during high school is extremely beneficial for their career development and is expected to become a driving force for future technological innovation.",
+      "id": "e1f776ad-d277-4bee-ac4b-59fa3ec645cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実装",
+      "reading": "じっそう",
+      "meaningZh": "实现，落实（计划、设想等）",
+      "meaningEn": "implementation; realization",
+      "level": "n2n1",
+      "exampleSentence": "新しい機能をシステムに実装する。",
+      "id": "0b38c127-58f2-494e-8cd0-9b00827aee8b"
+    },
+    {
+      "word": "創造性",
+      "reading": "そうぞうせい",
+      "meaningZh": "创造性",
+      "meaningEn": "creativity",
+      "level": "n2n1",
+      "exampleSentence": "創造性を活かした作品が評価された。",
+      "id": "6e1b0d0d-5d6b-47c1-9499-a3b28ba83c51"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "challenge; task; problem",
+      "level": "n3",
+      "exampleSentence": "現代社会が抱える課題について議論する。",
+      "id": "3709b5f8-0634-47c4-b25e-5010c4492741"
+    },
+    {
+      "word": "メンター",
+      "reading": "めんたー",
+      "meaningZh": "导师，指导者",
+      "meaningEn": "mentor",
+      "level": "n2n1",
+      "exampleSentence": "経験豊富なメンターから指導を受けた。",
+      "id": "39dd956d-b02d-4062-a35f-0e152b3b5a00"
+    },
+    {
+      "word": "牽引",
+      "reading": "けんいん",
+      "meaningZh": "牵引，引导",
+      "meaningEn": "pulling; leading; driving force",
+      "level": "n2n1",
+      "exampleSentence": "経済成長を牽引する産業となる。",
+      "id": "8e313792-7b55-4886-aca0-210335955d19"
+    },
+    {
+      "word": "促進",
+      "reading": "そくしん",
+      "meaningZh": "促进",
+      "meaningEn": "promotion; facilitation",
+      "level": "n3",
+      "exampleSentence": "国際交流を促進するためのイベントが開催された。",
+      "id": "ee1802d2-10d0-4b64-a8ee-cefc4f7d5015"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今回のハッカソンで重視されるテーマは何ですか。",
+      "options": [
+        "最新技術の習得",
+        "既存サービスの改善",
+        "社会課題の解決",
+        "プログラマー人口の増加"
+      ],
+      "correctIndex": 2,
+      "explanation": "「今回のハッカソンでは、特に「持続可能な社会の実現」や「地域活性化」といった現代社会が抱える課題解決に焦点を当てたテーマが設定されるとのことです。」",
+      "id": "0a53984f-8fa2-456b-befb-400d7c5af141"
+    },
+    {
+      "question": "ハッカソンにおいて、メンターの役割は何ですか。",
+      "options": [
+        "参加者のアイデアを評価する",
+        "開発ツールの提供",
+        "専門的なアドバイスを行う",
+        "チーム編成をサポートする"
+      ],
+      "correctIndex": 2,
+      "explanation": "「また、現役のエンジニアやデザイナーがメンターとして参加し、専門的なアドバイスを提供することで、参加者の学びを一層深める機会が提供される予定です。」",
+      "id": "88caaf85-f519-4f9a-ac95-7c5c07152d12"
+    },
+    {
+      "question": "高校生がハッカソンに参加することのメリットとして、本文で述べられていることは何ですか。",
+      "options": [
+        "プログラマーとしての就職が有利になる",
+        "高度なプログラミングスキルが身につく",
+        "実践的な開発経験とキャリア形成への貢献",
+        "チームワークの重要性を学べる"
+      ],
+      "correctIndex": 2,
+      "explanation": "「高校生のうちから実践的な開発経験を積むことは、彼らのキャリア形成において極めて有益であり、今後の技術革新を牽引する原動力となることが期待されます。」",
+      "id": "4bcc206a-db9f-42e2-b1d8-b3ce08873437"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-17-22473898ef",
+  "publishedAt": "2026-10-17T06:00:00+09:00"
+}
