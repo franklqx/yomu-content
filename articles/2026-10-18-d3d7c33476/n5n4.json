@@ -1,0 +1,116 @@
+{
+  "title": "アニメの世界が変わった！",
+  "summary": "最近、インターネットでアニメがたくさん見られます。これは、新しい配信サービスのおかげです。そして、これらのサービスは自分たちでアニメを作っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、テレビでアニメを見るのが普通でした。でも、今はインターネットの配信サービスでアニメがたくさん見られます。例えば、ネットフリックスやアマゾンプライムビデオです。これらのサービスはとても人気があります。",
+      "translationZh": "以前，看电视动画片是很普遍的。但是，现在通过互联网的配信服务可以看到很多动画片。例如，Netflix 和 Amazon Prime Video。这些服务非常受欢迎。",
+      "translationEn": "In the past, watching anime on TV was common. But now, you can watch many anime on internet streaming services. For example, Netflix and Amazon Prime Video. These services are very popular.",
+      "id": "e7472383-cb99-4641-9187-5c339f6b9770",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの配信サービスは、ただアニメを流すだけではありません。自分たちで新しいアニメを作るようになりました。これを「オリジナルアニメ」と言います。有名なアニメーターや声優さんが参加することも多いです。",
+      "translationZh": "这些配信服务不仅仅是播放动画片。它们开始自己制作新的动画片。这叫做“原创动画”。很多有名的动画师和配音演员也常常参加。",
+      "EnTranslation": "These streaming services don't just broadcast anime. They have started making new anime themselves. This is called 'original anime'. Famous animators and voice actors often participate.",
+      "id": "281ada6c-0c20-4b6d-aed8-de4d526f8600",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    },
+    {
+      "text": "オリジナルアニメは、世界中の人が見ることができます。だから、日本の文化がもっと広がるかもしれません。新しいアニメの形は、これからもどんどん変わっていくでしょう。",
+      "translationZh": "原创动画，全世界的人都可以观看。因此，日本的文化可能会进一步传播。新的动画形式，今后也会不断变化。",
+      "EnTranslation": "Original anime can be watched by people all over the world. Therefore, Japanese culture may spread even more. New forms of anime will continue to change from now on.",
+      "id": "8da8198d-fc71-4385-98d4-d041629342ea",
+      "audioStartMs": null,
+      "audioEndMs": null,
+      "translationEn": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信",
+      "reading": "はいしん",
+      "meaningZh": "配信，传播",
+      "meaningEn": "distribution, streaming",
+      "level": "n5n4",
+      "exampleSentence": "新しいアプリが配信されました。",
+      "id": "4d711183-ca2a-4038-a6d7-f214af39e7be"
+    },
+    {
+      "word": "プラットフォーム",
+      "reading": "ぷらっとふぉーむ",
+      "meaningZh": "平台",
+      "meaningEn": "platform",
+      "level": "n5n4",
+      "exampleSentence": "このゲームは色々なプラットフォームで遊べます。",
+      "id": "9bd7d234-4e43-487f-947c-148105289819"
+    },
+    {
+      "word": "オリジナル",
+      "reading": "おりじなる",
+      "meaningZh": "原创",
+      "meaningEn": "original",
+      "level": "n5n4",
+      "exampleSentence": "これは彼が作ったオリジナル曲です。",
+      "id": "0f004270-4efb-46a0-b286-fd036ce251ea"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，崛起",
+      "meaningEn": "rise, emergence",
+      "level": "n3",
+      "exampleSentence": "新しい技術の台頭が目立ちます。",
+      "id": "817a80b5-0723-4e5f-9f63-f6f280809ede"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，平常",
+      "meaningEn": "usual, ordinary",
+      "level": "n5n4",
+      "exampleSentence": "今日は雨なので、傘を持つのが普通です。",
+      "id": "274ed32b-4572-44e3-b2a6-47517afc02d0"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "d0e91fd8-89c3-49ba-8b9d-ae21f1de2c2f"
+    },
+    {
+      "word": "形",
+      "reading": "かたち",
+      "meaningZh": "形状，形式",
+      "meaningEn": "shape, form",
+      "level": "n5n4",
+      "exampleSentence": "この箱は四角い形をしています。",
+      "id": "73770eab-81f9-4db0-a51d-aca80ea4e777"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、アニメは主にどこで見られますか？",
+      "options": [
+        "テレビ",
+        "インターネットの配信サービス",
+        "映画館",
+        "本屋"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔は、テレビでアニメを見るのが普通でした。でも、今はインターネットの配信サービスでアニメがたくさん見られます。",
+      "id": "77dae7fe-d38e-4fd9-8c2c-1966abf86d0d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-18-d3d7c33476",
+  "publishedAt": "2026-10-18T06:00:00+09:00"
+}

@@ -1,0 +1,143 @@
+{
+  "title": "深夜定食屋：都市の若者たちの隠れ家",
+  "summary": "夜遅くまで開いている定食屋は、単なる食事場所ではなく、現代の若者たちにとって大切な交流の場となっています。そこには、独特の文化が生まれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "終電を逃した時や、仕事帰りが遅くなった時、開いている店は限られています。そんな時、深夜まで営業している定食屋は、多くの若者にとって心強い味方です。温かいご飯とおかずは、一日の疲れを癒してくれるだけでなく、ホッとする時間を提供してくれます。",
+      "translationZh": "当错过末班电车或工作回家晚时，开着的店就很少了。在这种时候，深夜营业的定食屋对许多年轻人来说是可靠的帮手。温暖的米饭和菜肴不仅能治愈一天的疲惫，还提供了令人安心的时光。",
+      "translationEn": "When you miss the last train or get home late from work, the available shops are limited. At such times, a restaurant that is open until late at night is a welcome sight for many young people. Warm rice and side dishes not only soothe the day's fatigue but also provide a comforting break.",
+      "id": "f941880d-ef2d-4fad-8b1f-480d4a2105b4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この深夜定食屋には、様々な背景を持つ若者が集まります。学生、フリーター、夜勤明けの人々など、普段はなかなか顔を合わせない人々が、ここで自然と交流を深めています。店員さんとの会話も弾み、まるで実家のようなアットホームな雰囲気が、彼らを惹きつけているのです。",
+      "translationZh": "这家深夜定食屋聚集着各种背景的年轻人。学生、自由职业者、刚下夜班的人等，平时难以见面的人们在这里自然而然地加深了交流。与店员的谈话也很投机，那种如同家一样温馨的氛围吸引着他们。",
+      "translationEn": "Young people from various backgrounds gather at these late-night diners. Students, part-time workers, and those finishing night shifts – people who don't usually meet – naturally deepen their connections here. Conversations with the staff are lively, and the cozy, home-like atmosphere is what attracts them.",
+      "id": "9fb82abe-de0f-4af3-b7ef-a886abb0ad6e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "深夜という特別な時間帯だからこそ、普段は言えないような本音を話せるのかもしれません。店側も、こうした若者たちのニーズに応えようと、メニューを工夫したり、居心地の良い空間を作ったりしています。そのため、単に空腹を満たすだけでなく、精神的な支えを求めて訪れる人も少なくありません。",
+      "translationZh": "正因为是深夜这个特殊的时间段，所以或许能说出平时说不出口的真心话。店方也为了满足这些年轻人的需求，在菜单上花心思，营造舒适的空间。因此，不少人来这里不仅仅是为了填饱肚子，也是为了寻求精神上的支持。",
+      "translationEn": "Perhaps it's precisely because it's the special late-night hours that they can speak their true feelings, which they might not express otherwise. The restaurants, in turn, try to meet the needs of these young people by offering creative menus and creating a comfortable space. As a result, many people visit not just to satisfy their hunger but also to seek emotional support.",
+      "id": "69cbe6b2-c9fa-424a-a8fa-ea4eb276ce61",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした深夜定食屋は、現代社会における「サードプレイス（第三の場所）」としての役割を果たしていると言えるでしょう。家庭や職場・学校とは違う、リラックスして自分らしくいられる場所として、これからも多くの若者たちに愛され続けるはずです。",
+      "translationZh": "可以说，这样的深夜定食屋起到了现代社会“第三空间”的作用。作为不同于家庭或工作/学校的地方，一个可以放松做自己的地方，今后应该也会继续被许多年轻人所喜爱。",
+      "translationEn": "These late-night diners can be said to serve as 'third places' in modern society. As a place different from home or work/school where one can relax and be oneself, they are expected to continue being loved by many young people.",
+      "id": "b2c4cca8-9a3d-4e40-8ff6-e7b9cef3af15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供固定套餐的餐馆",
+      "meaningEn": "A restaurant that serves set meals.",
+      "level": "n3",
+      "exampleSentence": "駅前に美味しい定食屋がある。",
+      "id": "788a0ef3-56c3-45a9-913c-aa6b10b390f6"
+    },
+    {
+      "word": "終電",
+      "reading": "しゅうでん",
+      "meaningZh": "末班电车",
+      "meaningEn": "The last train of the night.",
+      "level": "n3",
+      "exampleSentence": "終電を逃してタクシーで帰った。",
+      "id": "72c4ca06-ed46-4981-b6fd-3b435116d0e8"
+    },
+    {
+      "word": "心強い",
+      "reading": "こころづよい",
+      "meaningZh": "令人放心，有依靠",
+      "meaningEn": "Reassuring, encouraging.",
+      "level": "n3",
+      "exampleSentence": "友達の励ましが心強かった。",
+      "id": "fc0de6c1-3e03-4d81-8b47-e665e7a9db7e"
+    },
+    {
+      "word": "癒す",
+      "reading": "いやす",
+      "meaningZh": "治愈，舒缓",
+      "meaningEn": "To heal, to soothe.",
+      "level": "n3",
+      "exampleSentence": "音楽は心を癒してくれる。",
+      "id": "22e9fea2-2817-4dc1-a9f3-1208558b3529"
+    },
+    {
+      "word": "フリーター",
+      "reading": "フリーター",
+      "meaningZh": "自由职业者（多指打零工的年轻人）",
+      "meaningEn": "Part-time worker (often referring to young people working multiple part-time jobs).",
+      "level": "n3",
+      "exampleSentence": "彼はフリーターとして働いている。",
+      "id": "c952dd21-6ec5-4104-baf8-9bfb6c7a5019"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "Exchange, communication.",
+      "level": "n3",
+      "exampleSentence": "異文化交流は大切だ。",
+      "id": "f9ee89f5-211d-4337-9bcf-3565ce14753a"
+    },
+    {
+      "word": "本音",
+      "reading": "ほんね",
+      "meaningZh": "真心话，真实想法",
+      "meaningEn": "True feelings, real intention.",
+      "level": "n3",
+      "exampleSentence": "面と向かって本音を話すのは難しい。",
+      "id": "d166edcf-d158-47b3-ac97-5f160c4a1da9"
+    },
+    {
+      "word": "サードプレイス",
+      "reading": "サードプレイス",
+      "meaningZh": "第三空间（指家庭和工作/学校之外的，可以放松的公共空间）",
+      "meaningEn": "Third place (a public space outside of home and work/school where one can relax).",
+      "level": "n3",
+      "exampleSentence": "カフェは私にとってサードプレイスだ。",
+      "id": "755a2833-63ce-42e6-8a40-6c98375d53e4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "深夜定食屋は、どのような人々に利用されていますか？",
+      "options": [
+        "主にビジネスマン",
+        "終電を逃した人や夜遅くまで活動する若者",
+        "高級レストランを探している人々",
+        "観光客だけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「終電を逃した時や、仕事帰りが遅くなった時、開いている店は限られています。そんな時、深夜まで営業している定食屋は、多くの若者にとって心強い味方です。」と書かれています。",
+      "id": "15ce7a40-a534-4d0c-bbea-b0cc2c6b6cc3"
+    },
+    {
+      "question": "深夜定食屋が若者にとって「サードプレイス」となり得る理由は何ですか？",
+      "options": [
+        "メニューが豊富で安いから",
+        "店員が皆若いから",
+        "家庭や職場・学校とは違う、リラックスして自分らしくいられる場所だから",
+        "静かで勉強に適しているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "最後の段落に「家庭や職場・学校とは違う、リラックスして自分らしくいられる場所として、これからも多くの若者たちに愛され続けるはずです。」とあります。",
+      "id": "89131d95-6be5-42c9-9fdf-dd25f4c0bed6"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-18-29937ecdc3",
+  "publishedAt": "2026-10-18T06:00:00+09:00"
+}

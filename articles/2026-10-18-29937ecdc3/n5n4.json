@@ -1,0 +1,131 @@
+{
+  "title": "夜食の場所：若者の集まる店",
+  "summary": "夜遅くまで開いている定食屋は、若者にとって特別な場所です。友達と集まって、おいしいご飯を食べます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夜遅くまで開いている定食屋があります。そこは、たくさんの若者が集まる人気のある場所です。仕事が終わった後や、学校が終わった後に、友達と来ます。",
+      "translationZh": "有营业到深夜的定食店。那里是很多年轻人聚集的热门场所。下班后或放学后，会和朋友一起来。",
+      "translationEn": "There are restaurants that are open late at night. It is a popular place where many young people gather. They come with friends after work or after school.",
+      "id": "27919f64-cab4-48f1-92a1-36e151f54672",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食屋では、いろいろな種類の食事が食べられます。例えば、生姜焼き定食や唐揚げ定食などです。値段も安くて、おいしいです。みんなでワイワイ話しながら食べます。",
+      "translationZh": "在定食店里，可以吃到各种各样的套餐。例如，姜汁烧肉定食或炸鸡块定食等。价格也很便宜，味道很好。大家边热闹地聊天边吃饭。",
+      "translationEn": "At these restaurants, you can eat various types of set meals. For example, there are ginger pork set meals and fried chicken set meals. The prices are cheap and the food is delicious. Everyone eats while chatting lively.",
+      "id": "01821f92-0e27-4c3a-bee5-a52be9915fc4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この定食屋は、ただ食事をするだけの場所ではありません。友達と大切な時間を過ごす場所です。新しい友達ができることもあります。だから、若者たちはこの店が大好きです。",
+      "translationZh": "这家定食店不仅仅是吃饭的地方。是和朋友度过重要时光的地方。有时还能交到新朋友。所以，年轻人们非常喜欢这家店。",
+      "translationEn": "This restaurant is not just a place to eat. It is a place to spend precious time with friends. Sometimes, you can make new friends. That's why young people love this place.",
+      "id": "ff0ce86a-2a2a-41e4-ba8f-a5b8767c3a7b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、このような深夜営業の店が増えています。若者たちの生活スタイルに合っているからです。これからも、多くの若者が集まる場所になるでしょう。",
+      "translationZh": "最近，像这样的深夜营业的店在增加。因为符合年轻人的生活方式。今后，这里也会成为很多年轻人聚集的地方。",
+      "translationEn": "Recently, more and more late-night restaurants like this are opening. This is because they fit the lifestyle of young people. In the future, it will continue to be a place where many young people gather.",
+      "id": "61e9baad-6911-4a8a-8c2c-dd023bc2bc15",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaningZh": "深夜，午夜",
+      "meaningEn": "late at night, midnight",
+      "level": "n5n4",
+      "exampleSentence": "深夜まで勉強しました。",
+      "id": "646f2524-dfd5-4ec4-8aa1-90545ec40838"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaningZh": "营业",
+      "meaningEn": "business, operation",
+      "level": "n5n4",
+      "exampleSentence": "この店は朝早くから営業しています。",
+      "id": "d5cd79c2-310a-47a5-a47c-6196a00d6040"
+    },
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "定食店（提供套餐的餐馆）",
+      "meaningEn": "set meal restaurant",
+      "level": "n5n4",
+      "exampleSentence": "昼ご飯は定食屋で食べました。",
+      "id": "0137e5ce-527b-483a-8061-9dbe06380029"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to get together",
+      "level": "n5n4",
+      "exampleSentence": "週末、友達が集まります。",
+      "id": "4bfe44c3-f2ba-455e-af01-2a2bbd796975"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は元気です。",
+      "id": "f3d112db-5d6d-4adb-abce-7bbcac4abb5b"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, type, sort",
+      "level": "n5n4",
+      "exampleSentence": "いろいろな種類の本があります。",
+      "id": "44ff2895-0452-4f02-8664-2ffec07d6843"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この商品の値段はいくらですか。",
+      "id": "5bbeaa8b-b834-48c6-bb42-fd123e23f9ed"
+    },
+    {
+      "word": "生活スタイル",
+      "reading": "せいかつスタイル",
+      "meaningZh": "生活方式",
+      "meaningEn": "lifestyle",
+      "level": "n5n4",
+      "exampleSentence": "新しい生活スタイルを始めました。",
+      "id": "125353d7-05d8-4370-9ccc-e4568b01b248"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若者は深夜の定食屋に集まりますか。",
+      "options": [
+        "おいしいから",
+        "安いから",
+        "友達と過ごせるから",
+        "全部"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文には「友達と大切な時間を過ごす場所です。」と書いてあります。また、値段が安くておいしいことも理由の一つです。そして、若者の生活スタイルに合っているから、という理由もあります。したがって、全部が理由です。",
+      "id": "caa59ff3-b8b5-47c0-b4b9-8d854513fb8b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-18-29937ecdc3",
+  "publishedAt": "2026-10-18T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "古民家ステイ、人気です！",
+  "summary": "最近、山陰地方で古い家（古民家）に泊まるのが人気です。静かで、とてもいい体験ができます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、旅行で古い家（古民家）に泊まることが人気になっています。特に、山陰地方には古い家がたくさんあります。静かな町で、ゆっくり休みことができます。",
+      "translationZh": "最近，在旅行时住在老房子（古民家）变得很受欢迎。尤其是在山阴地区，有很多老房子。可以在安静的城镇里，悠闲地休息。",
+      "translationEn": "Recently, staying in old houses (kominka) during travel has become popular. Especially in the San'in region, there are many old houses. You can relax slowly in a quiet town.",
+      "id": "efb65cf6-cdaa-4bf6-83b9-979f6c845000",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家に泊まると、都会とは違う時間が流れます。古い木の匂いがします。庭もきれいです。田舎の生活を体験できます。",
+      "translationZh": "住在古民家，时间流逝方式和城市不一样。有旧木头的香味。庭院也很漂亮。可以体验乡村生活。",
+      "translationEn": "When you stay in a kominka, time flows differently than in the city. It smells of old wood. The garden is also beautiful. You can experience country life.",
+      "id": "8e66f2ac-0f73-4d1e-a9bb-1b7d8ea71ffc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "食事もおいしいです。地元の野菜や魚を使っています。泊まった人は「心がやすらぎました」と言っています。また来たいと思います。",
+      "translationZh": "食物也很美味。使用了当地的蔬菜和鱼。住过的客人都说“心灵得到了平静”。他们想再次光临。",
+      "translationEn": "The food is also delicious. They use local vegetables and fish. People who stayed there say, \"My heart felt at peace.\" They want to come again.",
+      "id": "311c691c-5311-4273-8d02-10f9f5a7d812",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "山陰地方は、海も山もきれいです。古民家ステイは、自然を楽しむのにいい方法です。ぜひ、一度体験してみてください。",
+      "translationZh": "山阴地区，海也很美，山也很美。古民家住宿是享受自然的好方法。请务必体验一次。",
+      "translationEn": "The San'in region has beautiful seas and mountains. Staying in a kominka is a good way to enjoy nature. Please try it once.",
+      "id": "bd5ed8db-2821-4030-8191-f6d6bd69db46",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古民家",
+      "reading": "こみんか",
+      "meaningZh": "老房子，有历史的旧式住宅",
+      "meaningEn": "old private house, traditional Japanese house",
+      "level": "n5n4",
+      "exampleSentence": "この古民家はとてもきれいです。",
+      "id": "2f67dfe4-0cfc-48b4-9f11-cbee79b74dc5"
+    },
+    {
+      "word": "泊まる",
+      "reading": "とまる",
+      "meaningZh": "住宿，过夜",
+      "meaningEn": "to stay overnight",
+      "level": "n5n4",
+      "exampleSentence": "ホテルに泊まりました。",
+      "id": "c7871b75-2e10-4178-b890-61db4af2a1bf"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "d707be26-c0b2-4c57-b0e0-dbe656631cdd"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静",
+      "meaningEn": "quiet",
+      "level": "n5n4",
+      "exampleSentence": "静かな公園で本を読みました。",
+      "id": "da3c242f-d36f-4901-941f-34be9b88a5c6"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化を体験したいです。",
+      "id": "385e20fa-96a2-4dbf-8221-4acaae8d1f51"
+    },
+    {
+      "word": "流れる",
+      "reading": "ながれる",
+      "meaningZh": "（时间）流逝，流动",
+      "meaningEn": "to flow (time, water)",
+      "level": "n5n4",
+      "exampleSentence": "時間がゆっくり流れます。",
+      "id": "c9823749-4d85-43f5-8f57-988c333fbe89"
+    },
+    {
+      "word": "やすらぐ",
+      "reading": "やすらぐ",
+      "meaningZh": "（心灵）平静，安宁",
+      "meaningEn": "to feel at ease, to be relieved",
+      "level": "n5n4",
+      "exampleSentence": "温泉で心がやすらぎました。",
+      "id": "63e2048d-9d9d-4e81-bfaf-d7091f039a0c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "古民家ステイのいいところは、どんなところですか。",
+      "options": [
+        "都会と同じように、にぎやかなところ",
+        "古い木の匂いや静かな時間を体験できるところ",
+        "毎日、新しい料理を食べられるところ",
+        "友達がたくさんできるところ"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「古い木の匂いがします。静かな町で、ゆっくり休みことができます。」とあります。",
+      "id": "d964997d-f55d-4120-90c9-7c1e49b6eb5c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-18-6847b7775f",
+  "publishedAt": "2026-10-18T06:00:00+09:00"
+}

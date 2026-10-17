@@ -1,0 +1,138 @@
+{
+  "title": "山陰地方で古民家ステイ人気 高まる",
+  "summary": "近年、山陰地方を中心に古民家を改修した宿泊施設が注目を集めています。地方創生や新たな旅行体験を求める声に応える形で、その魅力が再発見されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本海に面した山陰地方では、近年、古き良き日本の原風景を残す古民家を改修した宿泊施設、いわゆる「古民家ステイ」が静かなブームを巻き起こしている。都市部からの移住者や地域住民が、空き家となっていた伝統的な建築物を再生させ、新たな価値を付与する取り組みが各地で見られるようになった。これにより、地域経済の活性化はもとより、旅行者にとっては非日常的で趣のある滞在体験が提供されているとのことである。",
+      "translationZh": "面向日本海的山阴地区，近年来，将保留了良好日本古老风貌的古民宅改修而成的住宿设施，即所谓的“古民宅住宿”，正掀起一场悄无声息的热潮。都市居民移居或当地居民改造成为空置的传统建筑，并赋予其新价值的举措在各地逐渐涌现。据称，这不仅促进了区域经济的活性化，也为旅行者提供了非日常且富有情趣的入住体验。",
+      "translationEn": "In the San'in region facing the Sea of Japan, 'Kominka stays,' accommodations renovated from traditional houses that preserve the good old Japanese scenery, have been quietly gaining popularity in recent years. Initiatives to revitalize abandoned traditional buildings, breathing new life into them and adding new value, are being seen in various locations, often driven by urban dwellers relocating or local residents. This is said to not only invigorate local economies but also offer travelers an extraordinary and charming stay experience.",
+      "id": "29ab0886-15b2-4788-aa65-5f8c59a87ccf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家ステイの魅力は、その歴史的建造物ならではの趣きと、現代的な快適性を両立させている点にある。古材の温もりを感じさせる梁や柱、趣のある庭園は、都会の喧騒を忘れさせてくれる。一方で、水回りや断熱性能などは現代の基準に合わせて改修されており、快適な滞在が可能となっている。また、地元の食材を活かした食事や、地域ならではの体験アクティビティを提供することで、単なる宿泊に留まらない、地域文化への深い理解を促すコンテンツも充実している。",
+      "translationZh": "古民宅住宿的魅力在于，它将历史建筑特有的韵味与现代舒适性融为一体。能感受到古材温润的梁柱、雅致的庭园，能让人忘却都市的喧嚣。另一方面，厨房、卫生间等设施和隔热性能也根据现代标准进行了翻新，保证了舒适的入住。此外，通过提供利用当地食材的餐食以及当地特有的体验活动，充实了不仅仅是住宿，更能促进对当地文化深度理解的内容。",
+      "translationEn": "The appeal of kominka stays lies in their ability to combine the unique charm of historical structures with modern comfort. Beams and pillars that convey the warmth of aged wood, along with tasteful gardens, help travelers forget the hustle and bustle of the city. Meanwhile, facilities like bathrooms and kitchens, as well as insulation, have been renovated to modern standards, ensuring a comfortable stay. Furthermore, by offering meals made with local ingredients and unique regional activities, these accommodations provide content that goes beyond mere lodging, fostering a deeper understanding of local culture.",
+      "id": "cb06d787-0856-485a-9aa7-1def4258090c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このような古民家ステイの広がりは、地方創生の観点からも注目されている。遊休資産である古民家を有効活用することは、地域に新たな雇用を生み出し、若者の定住を促進する可能性を秘めている。さらに、古民家を拠点とした観光は、地域固有の魅力を掘り起こし、持続可能な観光モデルの構築に寄与すると見られている。今後は、情報発信の強化や、多言語対応といった課題に取り組みながら、さらなる発展が期待される。",
+      "translationZh": "这种古民宅住宿的普及，从地方创生的角度来看也备受关注。有效利用闲置资产古民宅，蕴藏着为当地创造新就业、促进年轻人定居的可能性。此外，以古民宅为据点的观光，被认为能够挖掘出地区特有的魅力，并有助于构建可持续的观光模式。今后，在解决信息传播强化和多语言对应等课题的同时，预计将迎来进一步的发展。",
+      "translationEn": "The spread of such kominka stays is also drawing attention from the perspective of regional revitalization. Effectively utilizing vacant traditional houses as assets holds the potential to create new employment in the region and encourage young people to settle there. Furthermore, tourism centered around kominka is seen as a way to unearth the unique charms of a region and contribute to building a sustainable tourism model. Moving forward, further development is anticipated as challenges such as enhancing information dissemination and multilingual support are addressed.",
+      "id": "fbf5cffd-6d1e-4368-b506-c8f76bae6405",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "巻き起こす",
+      "reading": "まきおこす",
+      "meaningZh": "引起，激起",
+      "meaningEn": "to cause, to stir up",
+      "level": "n2n1",
+      "exampleSentence": "静かなブームを巻き起こしている。",
+      "id": "91681b01-2e62-4da0-ac09-2937b7c65c2c"
+    },
+    {
+      "word": "趣",
+      "reading": "おもむき",
+      "meaningZh": "情趣，韵味，意境",
+      "meaningEn": "charm, elegance, taste",
+      "level": "n2n1",
+      "exampleSentence": "歴史的建造物ならではの趣き",
+      "id": "b840df83-e64d-4a3b-9d9e-c08adfca983b"
+    },
+    {
+      "word": "両立",
+      "reading": "りょうりつ",
+      "meaningZh": "并存，兼顾",
+      "meaningEn": "to exist together, to be compatible",
+      "level": "n2n1",
+      "exampleSentence": "現代的な快適性と両立させている",
+      "id": "9b8e331d-aa2a-445e-a81e-9eba1298f611"
+    },
+    {
+      "word": "梁",
+      "reading": "はり",
+      "meaningZh": "房梁",
+      "meaningEn": "beam (of a house)",
+      "level": "n3",
+      "exampleSentence": "古材の温もりを感じさせる梁",
+      "id": "80251f9a-1872-4ef6-b4b7-2c91d33672bf"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "喧嚣，嘈杂",
+      "meaningEn": "noise and bustle, clamor",
+      "level": "n2n1",
+      "exampleSentence": "都会の喧騒を忘れさせてくれる",
+      "id": "3077c2ca-fb26-4704-9842-d359b436cec4"
+    },
+    {
+      "word": "遊休資産",
+      "reading": "ゆうきゅうしさん",
+      "meaningZh": "闲置资产",
+      "meaningEn": "idle assets",
+      "level": "n2n1",
+      "exampleSentence": "遊休資産である古民家を有効活用する",
+      "id": "b89ae5f0-3c2f-4906-ab11-dce4e3c23a26"
+    },
+    {
+      "word": "掘り起こす",
+      "reading": "ほりおこす",
+      "meaningZh": "挖掘，发掘",
+      "meaningEn": "to dig up, to unearth",
+      "level": "n2n1",
+      "exampleSentence": "地域固有の魅力を掘り起こす",
+      "id": "3813dc62-d31c-4f62-9559-fbdd5c44f9e7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "山陰地方で「古民家ステイ」が注目されている理由として、文章中で述べられていることは何ですか？",
+      "options": [
+        "伝統的な建築技術の継承のため",
+        "都市部からの移住促進のため",
+        "歴史的趣と現代的快適性の両立と地域体験の提供",
+        "公共交通機関の利便性向上に寄与するため"
+      ],
+      "correctIndex": 2,
+      "explanation": "「古民家ステイの魅力は、その歴史的建造物ならではの趣きと、現代的な快適性を両立させている点にある。」また、「地元の食材を活かした食事や、地域ならではの体験アクティビティを提供することで、単なる宿泊に留まらない、地域文化への深い理解を促すコンテンツも充実している。」と述べられています。",
+      "id": "d02179c6-e0bd-4f05-838f-c8a85a39ecf2"
+    },
+    {
+      "question": "古民家ステイの広がりは、地方創生の観点からどのような可能性を秘めていると見られていますか？",
+      "options": [
+        "若者の都市部への流出を加速させる",
+        "地域経済の活性化と若者の定住促進",
+        "文化財の保護費用増大",
+        "観光客の減少による地域経済の停滞"
+      ],
+      "correctIndex": 1,
+      "explanation": "「遊休資産である古民家を有効活用することは、地域に新たな雇用を生み出し、若者の定住を促進する可能性を秘めている。」と記載されています。",
+      "id": "1c724eed-33c5-4333-bc27-950f7efad6a1"
+    },
+    {
+      "question": "記事によると、古民家ステイが旅行者に提供しているものは何ですか？",
+      "options": [
+        "最新のテクノロジーに触れる機会",
+        "現代的な高層ビルでの滞在",
+        "非日常的で趣のある滞在体験と地域文化への理解",
+        "ビジネスに特化した施設"
+      ],
+      "correctIndex": 2,
+      "explanation": "「旅行者にとっては非日常的で趣のある滞在体験が提供されているとのことである。」そして、「地域文化への深い理解を促すコンテンツも充実している。」とあります。",
+      "id": "39321a49-ddae-48db-a112-cd3856c4cebf"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-18-6847b7775f",
+  "publishedAt": "2026-10-18T06:00:00+09:00"
+}

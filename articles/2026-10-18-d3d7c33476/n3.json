@@ -1,0 +1,126 @@
+{
+  "title": "配信プラットフォームでオリジナルアニメが続々登場！",
+  "summary": "最近、様々な配信プラットフォームが独自のオリジナルアニメを制作・配信しています。これにより、アニメの選択肢が広がり、ファンは新しい作品を楽しめるようになりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、インターネットの配信プラットフォームがアニメ制作に力を入れているのをご存知でしょうか。NetflixやAmazon Prime Videoなどのサービスは、自社でオリジナルアニメを企画・制作し、独占配信することが増えています。これにより、これまで以上に多様なジャンルのアニメが楽しめるようになりました。",
+      "translationZh": "近年来，您知道互联网配信平台正在大力投入动画制作吗？Netflix和Amazon Prime Video等服务越来越多地策划和制作自己的原创动画，并进行独家配信。因此，我们可以欣赏到比以往任何时候都更多样化的动画类型。",
+      "translationEn": "In recent years, have you noticed that internet streaming platforms are putting a lot of effort into anime production? Services like Netflix and Amazon Prime Video are increasingly planning and producing their own original anime, which they then exclusively stream. This has led to a wider variety of anime genres becoming available for enjoyment.",
+      "id": "fab685ef-4078-456d-a1de-8fe86ff027d5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "プラットフォームがオリジナル作品を作る理由はいくつかあります。まず、他のプラットフォームとの差別化を図り、加入者を増やしたいという狙いがあります。また、世界中の視聴者に向けて、より多くのコンテンツを提供したいという考えもあるでしょう。その結果、制作会社やクリエイターにとっても、新しい挑戦の機会が増えているのです。",
+      "translationZh": "平台制作原创作品的原因有几个。首先，它们希望通过差异化吸引更多订阅用户。此外，它们可能也希望为全球观众提供更多的内容。结果是，制作公司和创作者也获得了更多新挑战的机会。",
+      "translationEn": "There are several reasons why platforms are creating original works. Firstly, they aim to differentiate themselves from other platforms and increase their subscriber base. Secondly, they likely want to offer more content to viewers worldwide. As a result, opportunities for new challenges are also increasing for production companies and creators.",
+      "id": "329dfca4-2c9a-48eb-9c85-87baf0e3b88c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "オリジナルアニメが増えることで、視聴者は好きな時に好きな作品を見られるというメリットがあります。しかし、あまりにも多くの作品が登場すると、どれを見れば良いか迷ってしまうこともあるかもしれません。それでも、新しい才能や斬新なアイデアがアニメ業界にもたらされることを考えると、この流れは今後も続くと予想されます。",
+      "translationZh": "原创动画的增加，让观众可以在想看的时候看想看的作品，这是个优点。但是，当作品数量过多时，也可能会让人不知道该看哪一部。即便如此，考虑到这将为动画行业带来新的才能和新颖的想法，这一趋势预计将持续下去。",
+      "translationEn": "With the increase in original anime, viewers benefit from being able to watch what they want, when they want. However, when too many titles appear, it might become confusing to decide which ones to watch. Nevertheless, considering that new talent and innovative ideas are being brought into the anime industry, this trend is expected to continue.",
+      "id": "d84a32fe-311e-49ac-9156-e157761fd627",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信プラットフォーム",
+      "reading": "はいしんぷらっとふぉーむ",
+      "meaningZh": "流媒体平台，内容分发平台",
+      "meaningEn": "Streaming platform, content distribution platform",
+      "level": "n3",
+      "exampleSentence": "多くの人が新しいドラマを配信プラットフォームで見ています。",
+      "id": "90ffdf4e-1339-4774-9f06-b8c0331e6735"
+    },
+    {
+      "word": "オリジナルアニメ",
+      "reading": "おりじなるあにめ",
+      "meaningZh": "原创动画",
+      "meaningEn": "Original anime",
+      "level": "n3",
+      "exampleSentence": "このアニメは、有名な漫画ではなく、完全なオリジナルアニメです。",
+      "id": "c4d7fbbe-e041-4e3d-aa54-0756d23cced9"
+    },
+    {
+      "word": "続々",
+      "reading": "ぞくぞく",
+      "meaningZh": "接连不断，一个接一个",
+      "meaningEn": "One after another, continuously",
+      "level": "n3",
+      "exampleSentence": "新しい商品が続々入荷しました。",
+      "id": "c0fd518e-ca00-495b-8ceb-0ea2fb428ecd"
+    },
+    {
+      "word": "差別化",
+      "reading": "さべつか",
+      "meaningZh": "区分，差异化",
+      "meaningEn": "Differentiation",
+      "level": "n3",
+      "exampleSentence": "他社との差別化を図るために、新しいサービスを始めました。",
+      "id": "f8fd5bda-42fe-4afa-b718-221fc3b6d9e0"
+    },
+    {
+      "word": "加入者",
+      "reading": "かにゅうしゃ",
+      "meaningZh": "订阅者，会员",
+      "meaningEn": "Subscriber, member",
+      "level": "n3",
+      "exampleSentence": "この雑誌の加入者は年々増えています。",
+      "id": "11b1a352-3ed3-412a-8c97-da3cb0e99027"
+    },
+    {
+      "word": "視聴者",
+      "reading": "しちょうしゃ",
+      "meaningZh": "观众，收视者",
+      "meaningEn": "Viewer, audience",
+      "level": "n3",
+      "exampleSentence": "テレビ番組の視聴者数が減少しています。",
+      "id": "b77ca8bd-3a4a-46e1-82c0-61024d66651e"
+    },
+    {
+      "word": "斬新",
+      "reading": "ざんしん",
+      "meaningZh": "新颖，新奇",
+      "meaningEn": "Novel, original, innovative",
+      "level": "n2n1",
+      "exampleSentence": "彼のデザインは斬新で、多くの人を驚かせました。",
+      "id": "c933dfe0-74ec-4e32-b816-99007991cc7c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "配信プラットフォームがオリジナルアニメを制作する理由は何ですか？",
+      "options": [
+        "他のプラットフォームとの競争に勝つため",
+        "視聴者に昔のアニメを見せるため",
+        "アニメ制作会社から依頼されたため",
+        "アニメーターの給料を上げるため"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「他のプラットフォームとの差別化を図り、加入者を増やしたいという狙いがあります。」と書かれています。",
+      "id": "6f4cc272-5683-4c48-b6c0-5354c74ba330"
+    },
+    {
+      "question": "オリジナルアニメが増えることのメリットとして、本文では何が述べられていますか？",
+      "options": [
+        "アニメの価格が安くなること",
+        "視聴者が好きな時に好きな作品を見られること",
+        "アニメーターが働きやすくなること",
+        "アニメの制作期間が短くなること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「オリジナルアニメが増えることで、視聴者は好きな時に好きな作品を見られるというメリットがあります。」と書かれています。",
+      "id": "6d742650-30ec-4e68-bba1-545c7e94291e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-18-d3d7c33476",
+  "publishedAt": "2026-10-18T06:00:00+09:00"
+}
