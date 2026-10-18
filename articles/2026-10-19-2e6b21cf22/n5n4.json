@@ -1,0 +1,122 @@
+{
+  "title": "新しいお正月の過ごし方",
+  "summary": "日本では、お正月は家族と過ごす大切な日です。最近、お正月の準備に新しいトレンドがあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、毎年お正月を家族と楽しく過ごします。お正月の準備は、１２月にはじまります。家をきれいにしたり、おいしい食べ物を作ったりします。",
+      "translationZh": "在日本，每年都会和家人快乐地度过新年。新年的准备工作在12月开始。要打扫房屋，制作美味的食物。",
+      "translationEn": "In Japan, people spend New Year happily with their families every year. Preparations for New Year start in December. They clean their houses and make delicious food.",
+      "id": "5ded69ba-b180-4844-8d28-5b1f7b8bbaaa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、おせち料理を家で作ることが多かったです。でも、最近は便利な方法がたくさんあります。デパートでおせちを買う人が増えています。また、ネットで注文することもできます。",
+      "translationZh": "以前，很多家庭自己制作“御节料理”。但是，最近有很多方便的方法。在百货公司购买御节的人增加了。另外，也可以在网上订购。",
+      "translationEn": "In the past, many families used to make Osechi-ryori at home. However, recently there are many convenient methods. More people are buying Osechi from department stores. Also, it can be ordered online.",
+      "id": "a45c2982-a98f-44b9-9aa8-88459487dbae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お正月の飾りも変わってきています。昔からの飾りも人気ですが、新しいデザインの飾りも出てきました。小さくてかわいい飾りは、若い人にも人気です。",
+      "translationZh": "新年的装饰品也在发生变化。传统的装饰品很受欢迎，但新设计的装饰品也出现了。小巧可爱的装饰品也很受年轻人欢迎。",
+      "translationEn": "New Year's decorations are also changing. Traditional decorations are popular, but new designs have also appeared. Small and cute decorations are also popular among young people.",
+      "id": "bba40a9a-6c6c-4640-ab15-b80202530ac0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お正月は、家族や友人と会う大切な時間です。新しい方法で準備をして、楽しいお正月を過ごしましょう。",
+      "translationZh": "新年是与家人和朋友见面度过的宝贵时光。让我们用新的方式做准备，度过一个愉快的新年吧。",
+      "translationEn": "New Year is an important time to meet family and friends. Let's prepare in new ways and have a happy New Year.",
+      "id": "eea8b8c1-7edb-4b6a-9ede-72df5420a62c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "正月",
+      "reading": "しょうがつ",
+      "meaningZh": "新年",
+      "meaningEn": "New Year",
+      "level": "n5n4",
+      "exampleSentence": "明けましておめでとうございます。今年もよろしくお願いします。",
+      "id": "7d07efb8-79f4-49b8-9e34-21308de49247"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしています。",
+      "id": "51ecb0c5-911c-4ae5-8855-0ad2d57cdb05"
+    },
+    {
+      "word": "家族",
+      "reading": "かぞく",
+      "meaningZh": "家人",
+      "meaningEn": "family",
+      "level": "n5n4",
+      "exampleSentence": "家族と旅行に行きます。",
+      "id": "da53d5c0-a5f8-4c10-a192-c7419b382934"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "料理，菜肴",
+      "meaningEn": "cooking, dish",
+      "level": "n5n4",
+      "exampleSentence": "この料理はおいしいです。",
+      "id": "5bbcc793-4cc1-4c27-9248-40d49e1f578a"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaningZh": "流行",
+      "meaningEn": "trend, fashion",
+      "level": "n3",
+      "exampleSentence": "この服は今流行っています。",
+      "id": "ec4974a8-cbe1-4e3f-aa76-a62aa58d42c1"
+    },
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaningZh": "订购",
+      "meaningEn": "order",
+      "level": "n5n4",
+      "exampleSentence": "レストランでコーヒーを注文しました。",
+      "id": "5ca35739-1fa6-4a80-98f9-e7abceb4d721"
+    },
+    {
+      "word": "飾",
+      "reading": "かざり",
+      "meaningZh": "装饰品",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "部屋に花を飾りました。",
+      "id": "47a41379-21f9-476d-8946-9f233fd78acc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔と比べて、おせち料理の準備はどう変わりましたか？",
+      "options": [
+        "家で作る人が増えた",
+        "デパートやネットで買う人が増えた",
+        "おせち料理を食べなくなった",
+        "おせち料理がなくなった"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔は、おせち料理を家で作ることが多かったです。でも、最近は便利な方法がたくさんあります。デパートでおせちを買う人が増えています。また、ネットで注文することもできます。",
+      "id": "d9ab6fcc-7a3d-4ba9-b767-afb9d3905ca3"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-19-2e6b21cf22",
+  "publishedAt": "2026-10-19T06:00:00+09:00"
+}

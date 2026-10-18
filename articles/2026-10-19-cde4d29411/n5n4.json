@@ -1,0 +1,131 @@
+{
+  "title": "二次元アイドルの進化！",
+  "summary": "昔と今の二次元アイドルのライブは大きく変わりました。技術が進んで、もっと楽しくなりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルのライブは絵だけでした。でも、今は違います。技術がとても進みました。たくさんの人がライブを見に来ます。",
+      "translationZh": "以前，二次元偶像的演唱会只有画面。但是，现在不一样了。技术进步了很多。很多人来看演唱会。",
+      "translationEn": "In the past, 2D idol concerts were just pictures. But now it's different. Technology has advanced a lot. Many people come to watch the live shows.",
+      "id": "5dad1d58-a13b-40e9-ae37-d64c01df5bb8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、キャラクターが画面で歌っていました。それは楽しかったです。しかし、今のライブでは、キャラクターが３Ｄ（さんでぃー）で登場します。まるで本当の人がいるようです。",
+      "translationZh": "以前，角色在屏幕上唱歌。那也很有趣。但是，现在的演唱会，角色会以3D形式登场。就像真人在那里一样。",
+      "translationEn": "Before, characters sang on screen. That was fun. However, in current concerts, characters appear in 3D. It's like a real person is there.",
+      "id": "b881ff04-985e-4eea-bc23-f6d387a98e69",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ライトや音楽もすごいです。キラキラした光がたくさん出ます。音楽も大きくて、かっこいいです。会場全体が盛り上がります。ファンも一緒に歌って、踊ります。",
+      "translationZh": "灯光和音乐也很棒。会发出很多闪闪发光的光。音乐也很响亮，很酷。整个会场都气氛高涨。粉丝们也会一起唱歌跳舞。",
+      "translationEn": "The lights and music are also amazing. Lots of sparkling lights come out. The music is loud and cool. The whole venue gets excited. Fans also sing and dance along.",
+      "id": "737b5d8c-b33d-4664-a208-8351a66a1ede",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、二次元アイドルのライブはもっと進化するでしょう。新しい技術で、もっと面白いライブが見られるのが楽しみです。",
+      "translationZh": "今后，二次元偶像的演唱会也会继续进化。很期待能用新技术看到更有趣的演唱会。",
+      "translationEn": "From now on, 2D idol concerts will likely evolve further. I look forward to seeing more interesting concerts with new technology.",
+      "id": "6dc72e9b-cb07-48ea-b54c-5309da729d3c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "二次元",
+      "reading": "にじげん",
+      "meaningZh": "二维",
+      "meaningEn": "2D",
+      "level": "n5n4",
+      "exampleSentence": "これは二次元のキャラクターです。",
+      "id": "3e89f1cc-c4a5-4820-a0d5-d9b0b0261f41"
+    },
+    {
+      "word": "アイドル",
+      "reading": "あいどる",
+      "meaningZh": "偶像",
+      "meaningEn": "idol",
+      "level": "n5n4",
+      "exampleSentence": "彼女は人気のアイドルです。",
+      "id": "5c9fc4e0-e795-4cef-9bd8-58ae7b35ffdb"
+    },
+    {
+      "word": "ライブ",
+      "reading": "らいぶ",
+      "meaningZh": "现场演唱会",
+      "meaningEn": "live concert",
+      "level": "n5n4",
+      "exampleSentence": "ライブを見に行きました。",
+      "id": "e9d2f21c-8118-42c0-9b92-a1c0cceb7ddd"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "新しい技術は素晴らしいです。",
+      "id": "df9b180c-367d-40ce-a50d-30eb6d3d2b87"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化",
+      "meaningEn": "evolution",
+      "level": "n3",
+      "exampleSentence": "技術は日々進化しています。",
+      "id": "de1dce03-bb4e-47fe-ba59-21147ab2b7fa"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaningZh": "登场，出现",
+      "meaningEn": "appearance",
+      "level": "n5n4",
+      "exampleSentence": "主役が登場しました。",
+      "id": "392468e1-6e22-41fc-9ea8-778c3a884711"
+    },
+    {
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaningZh": "会场",
+      "meaningEn": "venue",
+      "level": "n5n4",
+      "exampleSentence": "大きな会場でした。",
+      "id": "e3234af1-34cc-4bcd-a9ef-191463864bb5"
+    },
+    {
+      "word": "盛り上がる",
+      "reading": "もりあがる",
+      "meaningZh": "气氛高涨，热闹",
+      "meaningEn": "to get excited, to liven up",
+      "level": "n5n4",
+      "exampleSentence": "パーティーはとても盛り上がりました。",
+      "id": "4dd7cf6d-e2e2-404f-8ec3-6ea2e730455c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今の二次元アイドルのライブで、キャラクターはどうやって登場しますか？",
+      "options": [
+        "昔の絵のまま",
+        "３Ｄで",
+        "声だけ",
+        "画面の外から"
+      ],
+      "correctIndex": 1,
+      "explanation": "今のライブでは、キャラクターが３Ｄ（さんでぃー）で登場します。まるで本当の人がいるようです。",
+      "id": "0017fcb2-d90c-425d-a6b0-62df6205aa87"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-19-cde4d29411",
+  "publishedAt": "2026-10-19T06:00:00+09:00"
+}

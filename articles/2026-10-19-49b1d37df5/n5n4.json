@@ -1,0 +1,122 @@
+{
+  "title": "移動する人気店！フードトラック",
+  "summary": "最近、街でよく見かけるフードトラック。おいしい食べ物で人々を楽しませています。都市の新しい魅力になっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街でフードトラックがたくさん見られます。これは、移動できる小さなお店のことです。おいしい食べ物や飲み物を売っています。色々な場所に行けるので、便利で人気があります。",
+      "translationZh": "最近，街上可以看到很多餐车。餐车是指可以移动的小店铺。卖好吃的食物和饮料。因为可以去各种各样的地方，所以很方便也很受欢迎。",
+      "translationEn": "Recently, many food trucks can be seen in the city. These are small shops that can move. They sell delicious food and drinks. Because they can go to various places, they are convenient and popular.",
+      "id": "4ef213ed-66d7-4d07-bbbf-dbe58e5ced8a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、新しい都市の風景を作っています。公園やイベント会場など、人々が集まる場所でよく見かけます。特に、ランチタイムには多くの人が利用しています。手軽に美味しいものが食べられるのが魅力です。",
+      "translationZh": "餐车正在创造城市的新风景。在公园或活动会场等人聚集的地方经常能看到它们。特别是在午餐时间，有很多人使用。能够轻松吃到美味的东西是它的魅力所在。",
+      "translationEn": "Food trucks are creating a new urban landscape. They are often seen in places where people gather, such as parks and event venues. Especially during lunchtime, many people use them. The appeal is that you can easily eat delicious food.",
+      "id": "07107997-3908-4152-ad36-f3a0b4094af1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市開発が進む中で、フードトラックは街をより楽しくする役割も担っています。新しいお店を建てるのが難しい場所でも、フードトラックなら出店できます。これにより、地域に活気が出ます。",
+      "translationZh": "随着城市开发的发展，餐车也起着让城市变得更有趣的作用。即使在建设新店铺有困难的地方，餐车也可以开店。这样一来，地区就有了活力。",
+      "translationEn": "As urban development progresses, food trucks also play a role in making the city more enjoyable. Even in places where it is difficult to build new shops, food trucks can set up business. This brings vitality to the area.",
+      "id": "ed15a625-0769-424b-9baf-1a34ad95c34a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、フードトラックは多くの人を笑顔にするでしょう。新しい味や場所との出会いが楽しみです。皆さんも、街で見かけたらぜひ試してみてください。",
+      "translationZh": "今后，餐车也会让很多人露出笑容。我很期待与新口味和新地方的相遇。大家在街上看到的话，也请一定要试试看。",
+      "translationEn": "In the future, food trucks will surely make many people smile. I look forward to encountering new flavors and places. If you see them in town, please give them a try.",
+      "id": "c68663f5-57e2-45d7-a014-e988fe7c1b7f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaningZh": "移动，迁移",
+      "meaningEn": "movement, transfer",
+      "level": "n5n4",
+      "exampleSentence": "この車はよく移動します。",
+      "id": "ad9203ae-d5f0-4549-84d9-9c7838da3da7"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "fbdf6691-efff-4110-8035-2a09063ac522"
+    },
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaningZh": "开发",
+      "meaningEn": "development",
+      "level": "n5n4",
+      "exampleSentence": "新しい町が開発されています。",
+      "id": "7266da2f-49b9-4527-a561-0c15cb2e1383"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n3",
+      "exampleSentence": "この山の魅力は景色です。",
+      "id": "e7d26c1d-69be-469a-871e-c6c652acae7c"
+    },
+    {
+      "word": "風景",
+      "reading": "ふうけい",
+      "meaningZh": "风景",
+      "meaningEn": "scenery, landscape",
+      "level": "n5n4",
+      "exampleSentence": "きれいな風景を見ました。",
+      "id": "37e70987-4ce0-4983-8810-0199779ca63d"
+    },
+    {
+      "word": "役割",
+      "reading": "やくわり",
+      "meaningZh": "作用，角色",
+      "meaningEn": "role, part",
+      "level": "n3",
+      "exampleSentence": "彼は大切な役割をしました。",
+      "id": "440c3c01-b04c-4b19-bbb3-072524ceaea4"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "vitality, animation",
+      "level": "n3",
+      "exampleSentence": "市場は活気がありました。",
+      "id": "8b3dcd9f-432d-4eeb-b30f-3ef03246c1f2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックの魅力は何ですか？",
+      "options": [
+        "いつも同じ場所にいること",
+        "手軽に美味しいものが食べられること",
+        "建物がとても大きいこと",
+        "新しい開発ができること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「手軽に美味しいものが食べられるのが魅力です。」と書かれています。",
+      "id": "a4aa64d3-16a2-4476-aa8c-118b9425b625"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-19-49b1d37df5",
+  "publishedAt": "2026-10-19T06:00:00+09:00"
+}

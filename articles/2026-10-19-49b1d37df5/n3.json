@@ -1,0 +1,126 @@
+{
+  "title": "話題のフードトラック、街を彩る新しい風",
+  "summary": "最近、街のあちこちでカラフルなフードトラックを見かけるようになりました。これらは単なる移動販売ではなく、都市の新しい魅力を生み出しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市部で「フードトラック」が人気を集めています。これらは、キッチン設備が整った車で、本格的な料理を手軽に提供する移動販売車のことです。公園やイベント会場など、様々な場所で個性豊かなお店が出店しています。おしゃれなデザインのトラックも多く、見ているだけでも楽しい気分になります。",
+      "translationZh": "最近，在城市地区，“餐车”正受到欢迎。它们是装有齐全厨房设备的车辆，能够方便地提供正宗料理的移动销售车。在公园或活动会场等各种地方，都能看到独具个性的店铺开业。许多餐车的设计也很时尚，光是看着就能让人心情愉快。",
+      "translationEn": "Recently, 'food trucks' have been gaining popularity in urban areas. These are mobile vendors equipped with kitchen facilities, offering authentic cuisine conveniently. They set up shop in various locations like parks and event venues, featuring unique and diverse businesses. Many trucks have stylish designs, making them enjoyable just to look at.",
+      "id": "084e41a9-5e5e-4bb0-89f0-1c003592c0a7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックが増えている背景には、都市再開発の動きがあります。古い倉庫街や空き地などが、新しい商業エリアとして活用されるようになったのです。そのような場所では、固定店舗を持つのが難しい場合もありますが、フードトラックなら初期費用を抑えつつ、新しいビジネスを始めることができます。そのため、若い起業家たちが挑戦する姿も多く見られます。",
+      "translationZh": "餐车增加的背景是城市再开发的动向。旧的仓库区或空地等，开始被用作新的商业区。在这样的地方，开设固定店铺可能比较困难，但餐车可以在控制初期费用的同时，开始新的事业。因此，也能看到很多年轻创业者在此挑战。",
+      "translationEn": "The increase in food trucks is linked to urban redevelopment initiatives. Old warehouse districts and vacant lots are now being utilized as new commercial areas. In such locations, establishing a permanent store can be difficult, but with food trucks, one can start a new business while keeping initial costs down. Consequently, many young entrepreneurs are seen taking on this challenge.",
+      "id": "7324f5a6-880f-43cb-8104-a484c530b4e3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、地域に活気をもたらすだけでなく、住民同士の交流を深めるきっかけにもなっています。週末には、家族連れや友人同士でフードトラックを訪れ、美味しい食事を楽しみながら、会話が弾む光景が広がっています。このように、フードトラックは都市の新しいライフスタイルを提案し、街の魅力を高める存在と言えるでしょう。",
+      "translationZh": "餐车不仅能为地区带来活力，也成为了促进居民之间交流的契机。周末时，可以看到全家出游或朋友结伴光顾餐车，一边品尝美味佳肴，一边愉快交谈的景象。像这样，餐车可以说是提出了城市新的生活方式，并提升了城市魅力的存在。",
+      "translationEn": "Food trucks not only bring vitality to an area but also serve as opportunities to deepen community interaction. On weekends, scenes of families and friends visiting food trucks, enjoying delicious meals while engaging in lively conversations, are common. In this way, food trucks can be seen as proposing a new urban lifestyle and enhancing the city's appeal.",
+      "id": "f03759b5-5f8a-4b43-b010-b7c0e6ba1501",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车，食物卡车",
+      "meaningEn": "Food truck",
+      "level": "n3",
+      "exampleSentence": "このフードトラックでは、本格的なメキシコ料理が食べられます。",
+      "id": "d397e5fe-0fff-4111-abca-9f91b2d14864"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎，人气",
+      "meaningEn": "Popularity",
+      "level": "n5n4",
+      "exampleSentence": "このラーメン屋さんはいつも人気があります。",
+      "id": "7015b29a-aa51-4296-8459-af035cbe3c37"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发",
+      "meaningEn": "Redevelopment",
+      "level": "n3",
+      "exampleSentence": "古いビルを取り壊して、新しいビルを建てる再開発が進んでいます。",
+      "id": "e74154c2-4a49-4ee7-a95b-a2cf8fc29896"
+    },
+    {
+      "word": "起業家",
+      "reading": "きぎょうか",
+      "meaningZh": "创业者",
+      "meaningEn": "Entrepreneur",
+      "level": "n3",
+      "exampleSentence": "彼は若い起業家として有名です。",
+      "id": "84ea46d9-29b1-4ab5-b1d5-2f92e884ffd1"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaningZh": "活力，生气",
+      "meaningEn": "Vigor, vitality, liveliness",
+      "level": "n3",
+      "exampleSentence": "商店街に活気が出てきました。",
+      "id": "6129288c-66c9-428f-b31a-b62503d18875"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流",
+      "meaningEn": "Exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "地域住民との交流を深めたいです。",
+      "id": "b0086418-2266-4592-907d-7b1eaa15d6eb"
+    },
+    {
+      "word": "きっかけ",
+      "reading": "きっかけ",
+      "meaningZh": "契机，机会，开端",
+      "meaningEn": "Chance, start, trigger",
+      "level": "n3",
+      "exampleSentence": "この本が、私の読書好きになるきっかけでした。",
+      "id": "867794c1-0d76-4463-bfa2-c65f46632fbf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックが増えている理由は何ですか？",
+      "options": [
+        "街がきれいに掃除されるから",
+        "都市再開発で新しいビジネスチャンスが生まれているから",
+        "昔からあるお店だから",
+        "運転が簡単だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文によると、「フードトラックが増えている背景には、都市再開発の動きがあります。古い倉庫街や空き地などが、新しい商業エリアとして活用されるようになったのです。」と書かれています。",
+      "id": "3bd3ce65-f876-47a5-8d3e-9874097851a7"
+    },
+    {
+      "question": "フードトラックは地域にどのような影響を与えていますか？",
+      "options": [
+        "交通渋滞を引き起こしている",
+        "ゴミが増えている",
+        "地域に活気をもたらし、住民の交流を深めている",
+        "静かすぎる"
+      ],
+      "correctIndex": 2,
+      "explanation": "「フードトラックは、地域に活気をもたらすだけでなく、住民同士の交流を深めるきっかけにもなっています。」という記述から、これが正しいことがわかります。",
+      "id": "151b569c-9e8d-4ac6-bcb1-5f833ef00cca"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-19-49b1d37df5",
+  "publishedAt": "2026-10-19T06:00:00+09:00"
+}
