@@ -1,0 +1,126 @@
+{
+  "title": "二次元アイドルのライブ、進化する演出技術に迫る",
+  "summary": "最近、二次元アイドルのライブ演出がどんどん進化しています。今回は、その最新技術について見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔の二次元アイドルのライブといえば、スクリーンに映像を映すのが一般的でした。しかし、最近では、ホログラム技術やプロジェクションマッピングといった最新技術が使われるようになり、まるでアイドルが目の前にいるかのような臨場感あふれるステージが実現されています。そのおかげで、ファンはさらにライブを楽しめるようになりました。",
+      "translationZh": "以前说到二次元偶像的演唱会，普遍是在屏幕上播放影像。但是，最近开始使用全息投影技术和投影映射等最新技术，实现了仿佛偶像就在眼前般的临场感十足的舞台。多亏了这些技术，粉丝们能更加享受演唱会了。",
+      "translationEn": "In the past, typical live shows for virtual idols involved displaying videos on a screen. However, recently, the latest technologies like hologram technology and projection mapping are being used, creating stages with a sense of presence as if the idol were right in front of you. Thanks to this, fans can enjoy the concerts even more.",
+      "id": "da123d07-918b-470e-b96b-dc1b028c4871",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、ホログラム技術は、立体的な映像を空中に浮かび上がらせることができるため、観客はアイドルの動きをあらゆる角度から見ることができます。これにより、まるで本物のライブのような一体感が生まれます。また、プロジェクションマッピングを使うことで、ステージ全体に様々な映像や効果を映し出し、楽曲の世界観をより深く表現できるようになりました。",
+      "translationZh": "特别是全息投影技术，能够让立体影像悬浮在空中，因此观众可以从各个角度观看偶像的动作。这能产生如同真实演唱会般的融合感。另外，通过使用投影映射，可以在整个舞台上投射各种影像和效果，从而能够更深刻地表现歌曲的世界观。",
+      "translationEn": "In particular, hologram technology can make three-dimensional images float in the air, allowing the audience to see the idol's movements from all angles. This creates a sense of unity, much like a real live performance. Furthermore, by using projection mapping, various visuals and effects can be projected onto the entire stage, enabling a deeper expression of the song's world.",
+      "id": "cc9ee072-11c0-4068-ad4c-c365d32f6967",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの技術が進化したことで、二次元アイドルのライブは単なる映像鑑賞から、体験型のエンターテイメントへと変化しています。ファンは、応援するアイドルがステージ上で輝く姿を、まるで現実のように感じることができるのです。これからも、どのような新しい技術が登場し、ライブが進化していくのか、目が離せませんね。",
+      "translationZh": "随着这些技术的进步，二次元偶像的演唱会正从单纯的影像欣赏转变为体验型娱乐。粉丝们能够真切地感受到他们所支持的偶像在舞台上闪耀的身姿，如同身临其境一般。今后，还将出现什么样的新技术，演唱会又会如何进化，真是令人拭目以待。",
+      "translationEn": "With the evolution of these technologies, live shows by virtual idols are transforming from mere video viewing into experiential entertainment. Fans can feel as if the idols they support are truly shining on stage, almost like in reality. We can't wait to see what new technologies will emerge and how live shows will continue to evolve in the future.",
+      "id": "9161b05e-fdb3-405c-8eee-6b58e8fe3abb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "演出",
+      "reading": "えんしゅつ",
+      "meaningZh": "演出；表演",
+      "meaningEn": "performance; production",
+      "level": "n3",
+      "exampleSentence": "今回のライブでは、新しい演出がたくさんありました。",
+      "id": "f87800a1-d608-4f57-b0c4-2c7e6c2c9652"
+    },
+    {
+      "word": "ホログラム",
+      "reading": "ほろぐらむ",
+      "meaningZh": "全息投影；全息图",
+      "meaningEn": "hologram",
+      "level": "n3",
+      "exampleSentence": "ホログラム技術で、キャラクターがステージに現れました。",
+      "id": "1f38be68-d3f3-4627-8f8b-f21aa33e5ebb"
+    },
+    {
+      "word": "プロジェクションマッピング",
+      "reading": "ぷろじぇくしょんまっぴんぐ",
+      "meaningZh": "投影映射（一种将影像投射到不规则表面上的技术）",
+      "meaningEn": "projection mapping",
+      "level": "n3",
+      "exampleSentence": "建物をキャンバスにしたプロジェクションマッピングは迫力がありました。",
+      "id": "a14aea3e-d57c-4132-9e91-8f711bebdb6e"
+    },
+    {
+      "word": "臨場感",
+      "reading": "りんじょうかん",
+      "meaningZh": "临场感；现场感",
+      "meaningEn": "sense of presence; realism",
+      "level": "n3",
+      "exampleSentence": "最新の音響設備で、臨場感あふれる音楽を楽しめます。",
+      "id": "042d3382-1a4f-4a0c-9c70-b9a40ec79b8b"
+    },
+    {
+      "word": "一体感",
+      "reading": "いったいかん",
+      "meaningZh": "一体感；团结一致的感觉",
+      "meaningEn": "sense of unity; togetherness",
+      "level": "n3",
+      "exampleSentence": "応援することで、アイドルとの一体感を感じました。",
+      "id": "0a66db6d-e8dd-4349-ac6f-bc54d9b5ed4c"
+    },
+    {
+      "word": "世界観",
+      "reading": "せかいかん",
+      "meaningZh": "世界观；（作品等所呈现的）世界",
+      "meaningEn": "worldview; the world of a story/artwork",
+      "level": "n3",
+      "exampleSentence": "このアニメは独特な世界観を持っています。",
+      "id": "3bdd2c83-e2d4-47ba-89b5-716a57d879e0"
+    },
+    {
+      "word": "体験型",
+      "reading": "たいけんがた",
+      "meaningZh": "体验型的",
+      "meaningEn": "experiential",
+      "level": "n3",
+      "exampleSentence": "最近は体験型のイベントが人気です。",
+      "id": "19ef08ac-a025-4459-8590-b7f712892b17"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の二次元アイドルのライブで、観客はアイドルの動きをあらゆる角度から見ることができるのは、どのような技術のおかげですか？",
+      "options": [
+        "スクリーン映像",
+        "プロジェクションマッピング",
+        "ホログラム技術",
+        "VRゴーグル"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「特に、ホログラム技術は、立体的な映像を空中に浮かび上がらせることができるため、観客はアイドルの動きをあらゆる角度から見ることができます。」と書かれています。",
+      "id": "b3673368-d8c9-49ee-a7d1-6604f02fb993"
+    },
+    {
+      "question": "二次元アイドルのライブ演出は、どのように変化しましたか？",
+      "options": [
+        "映像鑑賞から、体験型エンターテイメントへ",
+        "音響中心から、照明中心へ",
+        "参加型から、観覧型へ",
+        "技術を使わない方向へ"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「これらの技術が進化したことで、二次元アイドルのライブは単なる映像鑑賞から、体験型のエンターテイメントへと変化しています。」と書かれています。",
+      "id": "74b1053f-d389-42f2-ba9a-e66714534ee0"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-21-cde4d29411",
+  "publishedAt": "2026-10-21T06:00:00+09:00"
+}

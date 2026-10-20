@@ -1,0 +1,131 @@
+{
+  "title": "街角の新しい味！",
+  "summary": "最近、街にフードトラックがたくさん来ました。おいしい食べ物を楽しむことができます。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "最近、街が少し変わってきました。新しいお店がたくさんできています。特に、フードトラックが人気です。",
+      "translationZh": "最近，城市发生了一些变化。新的商店变多了。特别是，餐车很受欢迎。",
+      "translationEn": "Recently, the city has changed a little. Many new shops are opening. In particular, food trucks are popular.",
+      "id": "dec8f520-b4b9-42dd-ae66-ee09a37eb1f0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、車で食べ物を売るお店です。色々な種類の食べ物があります。例えば、おいしいハンバーガーや、甘いクレープです。",
+      "translationZh": "餐车是开在车里的卖食物的店。有各种各样的食物。例如，美味的汉堡包，还有甜可丽饼。",
+      "translationEn": "Food trucks are shops that sell food from vehicles. There are various kinds of food. For example, delicious hamburgers and sweet crepes.",
+      "id": "594c6636-8021-482b-816b-9c0a8d1e7d55",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園の近くや駅の前に、よく見かけます。仕事の帰りや休日に、気軽に立ち寄れます。新しい街の楽しみ方ですね。",
+      "translationZh": "在公园附近或车站前面，经常能看到它们。可以在下班回家或休息日时，轻松地去光顾。这是享受新城市的一种方式。",
+      "translationEn": "You often see them near parks or in front of stations. You can easily stop by after work or on holidays. It's a new way to enjoy the city.",
+      "id": "28a19057-b4ae-4ac0-8042-d4b7e77f9084",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "街がきれいになったり、新しい施設ができたりすることも、都市の再開発です。フードトラックも、その一部かもしれません。",
+      "translationZh": "城市变得更干净，或者建起新的设施，这也是城市再开发。餐车也可能是其中的一部分。",
+      "translationEn": "Cities becoming cleaner or new facilities being built are also part of urban redevelopment. Food trucks might be a part of that too.",
+      "id": "256728a9-7edd-41d0-b367-ca89d226f2d9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "街",
+      "reading": "まち",
+      "meaningZh": "街道；城市",
+      "meaningEn": "street; town; city",
+      "level": "n5n4",
+      "exampleSentence": "この街はとてもきれいです。",
+      "id": "f58ac9f3-1cba-4a2e-84f4-6570e29729b1"
+    },
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车，食物卡车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "フードトラックで昼ごはんを買いました。",
+      "id": "67cbc81f-13e1-4e3e-9297-713a357aaaea"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气；受欢迎",
+      "meaningEn": "popularity; popular",
+      "level": "n5n4",
+      "exampleSentence": "このケーキはとても人気があります。",
+      "id": "f6f54de2-8e19-4672-ad54-9939f529149d"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind; sort; type",
+      "level": "n5n4",
+      "exampleSentence": "色々な種類の本があります。",
+      "id": "16faf431-b657-464f-bef3-cd6deb21ba82"
+    },
+    {
+      "word": "例えば",
+      "reading": "たとえば",
+      "meaningZh": "例如",
+      "meaningEn": "for example",
+      "level": "n5n4",
+      "exampleSentence": "果物は好きですか。例えば、りんごやバナナです。",
+      "id": "c48f8055-735e-496e-a753-5deffd10ef68"
+    },
+    {
+      "word": "駅",
+      "reading": "えき",
+      "meaningZh": "车站",
+      "meaningEn": "station",
+      "level": "n5n4",
+      "exampleSentence": "駅まで歩いて行きました。",
+      "id": "458b3e0d-1246-4b6f-add8-97d385c02842"
+    },
+    {
+      "word": "気軽",
+      "reading": "きがる",
+      "meaningZh": "轻松；随意",
+      "meaningEn": "carefree; light; easy",
+      "level": "n5n4",
+      "exampleSentence": "気軽に話してください。",
+      "id": "b375f686-c1da-4809-af7e-68216bc83ab9"
+    },
+    {
+      "word": "再開発",
+      "reading": "さいかいはつ",
+      "meaningZh": "再开发",
+      "meaningEn": "redevelopment",
+      "level": "n3",
+      "exampleSentence": "この地区は再開発が進んでいます。",
+      "id": "34364b31-5c78-41ea-a5a1-20021c6a2bf9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックは、どんな場所で見かけますか。",
+      "options": [
+        "公園の近くや駅の前",
+        "デパートの中",
+        "学校の中",
+        "静かな住宅街"
+      ],
+      "correctIndex": 0,
+      "explanation": "「公園の近くや駅の前に、よく見かけます。」と書いてあります。",
+      "id": "f8fdfa35-5e75-4cad-a646-d9ab1041af4e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-21-49b1d37df5",
+  "publishedAt": "2026-10-21T06:00:00+09:00"
+}

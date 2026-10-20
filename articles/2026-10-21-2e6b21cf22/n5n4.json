@@ -1,0 +1,131 @@
+{
+  "title": "新しいお正月準備のトレンド",
+  "summary": "最近、お正月準備の仕方が変わってきました。新しいトレンドがあります。どんなトレンドか見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、毎年お正月の準備をします。昔は、家族みんなで集まって、料理を作ったり、飾りをつけたりしました。でも、最近は少し違います。忙しい人が増えました。",
+      "translationZh": "在日本，每年都会做新年准备。以前，大家会聚集在一起，一起做饭、装饰。但是，最近有些不同了。忙碌的人增加了。",
+      "translationEn": "In Japan, people prepare for New Year every year. In the past, families gathered together to cook and decorate. However, things are a little different recently. More people are busy.",
+      "id": "c3ea5878-9d29-4f04-8d65-93c130bf7ce5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "それで、新しい消費トレンドが出てきました。例えば、おせち料理を全部手作りしない人が増えました。デパートやお店で買う人が多いです。便利だからです。",
+      "translationZh": "因此，新的消费趋势出现了。例如，选择不全部自己动手做新年料理的人增加了。很多人会在百货公司或商店购买。因为这样很方便。",
+      "translationEn": "Therefore, new consumption trends have emerged. For example, more people are not making all their osechi dishes by hand. Many people buy them at department stores or shops. This is because it is convenient.",
+      "id": "90135ff5-ca8d-4ca2-b366-713b50552025",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、お正月の飾りも変わってきました。伝統的な飾りも人気ですが、もっと簡単な飾りも人気があります。小さい飾りや、すぐに飾れるものです。これも、忙しい生活に合っています。",
+      "translationZh": "另外，新年装饰也发生了变化。传统的装饰很受欢迎，但更简单的装饰也很受欢迎。比如小巧的装饰，或者可以立刻装饰好的东西。这也适应了忙碌的生活。",
+      "translationEn": "Also, New Year decorations have changed. Traditional decorations are popular, but simpler ones are also popular. For example, small decorations or those that can be displayed immediately. This also fits with busy lives.",
+      "id": "726ef047-d64b-4a1b-94c5-0c2236c114b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、お正月の準備も時代に合わせて変わっています。便利で、簡単にできる方法が選ばれています。これからも、新しいトレンドが出てくるかもしれません。",
+      "translationZh": "像这样，新年准备也随着时代在变化。人们选择了方便、简单的方法。今后，也可能出现新的趋势。",
+      "translationEn": "In this way, New Year preparations are also changing with the times. Convenient and easy methods are being chosen. New trends may continue to emerge in the future.",
+      "id": "d8f2f70c-b607-4d1a-97a6-d3964b0d5771",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "お正月の準備を始めました。",
+      "id": "fa97ea6b-1bd6-48d8-badc-7bf32cf69b4e"
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaningZh": "每年",
+      "meaningEn": "every year",
+      "level": "n5n4",
+      "exampleSentence": "毎年、家族と旅行します。",
+      "id": "d632be6d-4f09-4224-8647-ee59c678164f"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "the past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔は、この町はとても静かでした。",
+      "id": "01ace8a8-e00c-4c6e-91da-21f47b5d2f23"
+    },
+    {
+      "word": "集まって",
+      "reading": "あつまって",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "gather, get together",
+      "level": "n5n4",
+      "exampleSentence": "友達と公園に集まって、遊びました。",
+      "id": "5648716c-3e74-4cd7-9130-73ec614f2a1f"
+    },
+    {
+      "word": "消費",
+      "reading": "しょうひ",
+      "meaningZh": "消费",
+      "meaningEn": "consumption",
+      "level": "n3",
+      "exampleSentence": "最近、食料品の消費が増えています。",
+      "id": "bfd22ff5-aba3-45ce-8d52-09aea2b1613a"
+    },
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "趋势",
+      "meaningEn": "trend",
+      "level": "n5n4",
+      "exampleSentence": "新しいファッションのトレンドは何ですか。",
+      "id": "48f7aedb-2dd8-4954-b296-fbe1e6ac4e89"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "40633846-83f8-4805-b837-b7a704a1596f"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n3",
+      "exampleSentence": "これは日本の伝統的な建物です。",
+      "id": "a0690892-cd08-455c-9827-17595991f4c0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔と比べて、最近のお正月準備で変わったことは何ですか？",
+      "options": [
+        "みんなで集まることが増えた",
+        "おせち料理を全部手作りする人が増えた",
+        "デパートやお店で買う人が増えた",
+        "飾りがもっと大きくなった"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「おせち料理を全部手作りしない人が増えました。デパートやお店で買う人が多いです。」と書いてあります。",
+      "id": "1e4f9cbe-fe8c-4b4c-a62e-c160b4920be6"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-21-2e6b21cf22",
+  "publishedAt": "2026-10-21T06:00:00+09:00"
+}

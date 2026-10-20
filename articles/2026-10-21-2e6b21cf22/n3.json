@@ -1,0 +1,126 @@
+{
+  "title": "新しい年を迎える準備、消費トレンドの変化",
+  "summary": "年末が近づき、お正月の準備が始まります。近年、消費者のニーズに合わせて、準備の仕方にも新しいトレンドが現れています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、12月に入ると、多くの家庭でお正月の準備が始まります。昔は、家族みんなで集まって、おせち料理を手作りしたり、玄関に門松を飾ったりするのが一般的でした。しかし、最近では、忙しい日々を送る人が増えているため、準備のスタイルも変化してきています。",
+      "translationZh": "在日本，进入12月后，许多家庭就开始准备新年事宜。过去，大家庭聚集在一起，亲手制作“御节料理”，或者在门口装饰松枝，这是很普遍的。然而，最近因为生活忙碌的人越来越多，准备方式也发生了变化。",
+      "translationEn": "In Japan, preparations for the New Year begin in many households as December arrives. Traditionally, it was common for entire families to gather and make Osechi Ryori (New Year's food) by hand, or decorate the entrance with Kadomatsu (New Year's pine decorations). However, in recent years, as more people lead busy lives, the style of preparation has been changing.",
+      "id": "4602d0bf-3d95-4560-acf3-540e23577a8c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "その変化の一つとして、市販のおせち料理を選ぶ人が増えています。デパートやスーパー、さらにはインターネットでも、有名店のおせちが予約できるようになりました。これは、時間がない人でも、美味しいおせちを簡単に楽しめるようにするためです。また、従来のおせちだけでなく、洋風や中華風のおせちなど、多様な選択肢が登場しているのも特徴です。",
+      "translationZh": "其中一个变化是，选择购买市售“御节料理”的人正在增加。百货公司、超市，甚至在互联网上，都可以预订名店的“御节”。这是为了让即使没有时间的人也能轻松享用到美味的“御节”。此外，除了传统的“御节”，和风、中式风格的“御节”等多样化的选择也出现了，这也是一个特点。",
+      "translationEn": "One of these changes is the increasing number of people choosing to buy pre-made Osechi Ryori. Osechi from famous restaurants can now be reserved at department stores, supermarkets, and even online. This allows people who lack time to easily enjoy delicious Osechi. Furthermore, it's characteristic that diverse options, such as Western-style and Chinese-style Osechi, are appearing in addition to the traditional ones.",
+      "id": "ba5bedde-4e84-4d54-8ce8-269ce539129b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、お正月の飾り付けに関しても、新しいトレンドが見られます。例えば、伝統的な門松やしめ飾りを、コンパクトでモダンなデザインのものにしたり、生花ではなく、長く飾れるプリザーブドフラワーやフェイクグリーンを選ぶ人もいます。これは、限られたスペースでも飾りやすく、手入れも簡単なものを好む傾向があるからです。こうした新しい消費スタイルは、多様化するライフスタイルに合わせて、お正月をより気軽に楽しもうとする人々の意識を反映していると言えるでしょう。",
+      "translationZh": "此外，在新年装饰方面也出现了新的趋势。例如，将传统的松枝和稻草装饰换成小巧时尚的设计，或者选择可以长期保存的永生花或人造绿植，而不是鲜花。这是因为人们倾向于选择易于装饰且易于打理的物品，即使空间有限。可以说，这种新的消费方式反映了人们希望根据多样化的生活方式更轻松地享受新年的意识。",
+      "translationEn": "Furthermore, new trends are also visible in New Year's decorations. For instance, traditional Kadomatsu and Shimekazari (straw ornaments) are being replaced with compact, modern designs, and some people are choosing preserved flowers or artificial greenery, which can be displayed for a long time, instead of fresh flowers. This is due to a preference for items that are easy to decorate and maintain, even in limited spaces. These new consumption styles can be said to reflect people's desire to enjoy the New Year more casually, adapting to their diversifying lifestyles.",
+      "id": "f9b4d2fd-1ee2-4461-8b76-48de40c6240b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "年末",
+      "reading": "ねんまつ",
+      "meaningZh": "年底",
+      "meaningEn": "year-end",
+      "level": "n5n4",
+      "exampleSentence": "年末は家族と過ごすのが楽しみです。",
+      "id": "b7b2c3c4-c871-4b4d-90aa-d4329133aa93"
+    },
+    {
+      "word": "おせち料理",
+      "reading": "おせちりょうり",
+      "meaningZh": "新年期间吃的传统菜肴",
+      "meaningEn": "Osechi Ryori (traditional Japanese New Year's food)",
+      "level": "n3",
+      "exampleSentence": "今年は手作りのおせち料理に挑戦しました。",
+      "id": "c26e1d7f-37cb-4291-9792-62e129d95f02"
+    },
+    {
+      "word": "市販",
+      "reading": "しはん",
+      "meaningZh": "市场上销售的",
+      "meaningEn": "commercially available",
+      "level": "n3",
+      "exampleSentence": "市販の調味料を使えば、料理が簡単になります。",
+      "id": "b81587c3-7da4-4b1f-9030-e977e698131b"
+    },
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "diversification",
+      "level": "n3",
+      "exampleSentence": "消費者のニーズが多様化しています。",
+      "id": "d78413eb-86e8-49cc-a703-7f19bec14f09"
+    },
+    {
+      "word": "門松",
+      "reading": "かどまつ",
+      "meaningZh": "新年门口装饰的松枝",
+      "meaningEn": "Kadomatsu (New Year's pine decoration)",
+      "level": "n3",
+      "exampleSentence": "玄関に立派な門松が飾ってありました。",
+      "id": "24f6e655-2fe1-4c75-a80e-d6029698c85f"
+    },
+    {
+      "word": "プリザーブドフラワー",
+      "reading": "ぷりざーぶどふらわー",
+      "meaningZh": "永生花，保鲜花",
+      "meaningEn": "preserved flower",
+      "level": "n3",
+      "exampleSentence": "プリザーブドフラワーは水やりが不要なので便利です。",
+      "id": "62371587-9481-4471-b1d8-40b11affb1d8"
+    },
+    {
+      "word": "ライフスタイル",
+      "reading": "らいふすたいる",
+      "meaningZh": "生活方式",
+      "meaningEn": "lifestyle",
+      "level": "n3",
+      "exampleSentence": "現代のライフスタイルは多様化している。",
+      "id": "124ba5b6-ec45-4519-a0b6-3145bc418ffa"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "近年、お正月の準備において、どのような変化が見られますか？",
+      "options": [
+        "伝統的な準備方法がより重視されるようになった。",
+        "市販のおせち料理を選ぶ人が増え、準備のスタイルが多様化している。",
+        "家族全員で集まる機会が増え、手作りする家庭が増えた。",
+        "飾り付けは伝統的なものだけが好まれるようになった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「市販のおせち料理を選ぶ人が増えています」「多様な選択肢が登場しているのも特徴です」とあります。",
+      "id": "da44b3b2-8ed9-40f7-aba5-c6da895e0703"
+    },
+    {
+      "question": "新しいお正月の飾り付けのトレンドとして、どのようなものが挙げられますか？",
+      "options": [
+        "昔ながらの大きな門松が人気を集めている。",
+        "手入れが簡単なプリザーブドフラワーやフェイクグリーンが選ばれることがある。",
+        "生花のみを使い、毎年新しい花を飾ることが重視されている。",
+        "飾り付けはスペースを取らないものが好まれ、伝統的なものは避けられている。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「生花ではなく、長く飾れるプリザーブドフラワーやフェイクグリーンを選ぶ人もいます。これは、限られたスペースでも飾りやすく、手入れも簡単なものを好む傾向があるからです。」とあります。",
+      "id": "e1821a38-8d68-48d0-b7d0-e9bf5fd47109"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-21-2e6b21cf22",
+  "publishedAt": "2026-10-21T06:00:00+09:00"
+}

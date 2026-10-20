@@ -1,0 +1,131 @@
+{
+  "title": "二次元アイドルの進化",
+  "summary": "昔と今の二次元アイドルのライブは大きく変わりました。技術が進んで、もっと楽しくなりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルのライブは絵やアニメで見ることが多かったです。歌やダンスは楽しかったですが、少しシンプルでした。ファンは画面を見て、応援していました。",
+      "translationZh": "过去，二次元偶像的演唱会多是通过绘画或动画来观看的。歌声和舞蹈很有趣，但有些简单。粉丝们看着屏幕为偶像加油。",
+      "translationEn": "In the past, anime idol concerts were often seen through drawings or animations. The singing and dancing were fun, but a bit simple. Fans watched the screen and cheered.",
+      "id": "6e8bd1e6-0593-4f0b-8989-37e3c1294c79",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近のライブは違います。プロジェクションマッピングや３D技術を使います。キャラクターがステージに登場するように見えます。光や音もすごいです。",
+      "translationZh": "但是，最近的演唱会不一样了。使用了投影映射和3D技术。角色好像真的出现在舞台上一样。光线和声音也很棒。",
+      "translationEn": "However, recent concerts are different. They use projection mapping and 3D technology. Characters seem to appear on stage. The lights and sound are also amazing.",
+      "id": "c385bdbd-bc65-4481-9a91-58994665cc09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "観客も一緒に楽しむことができます。画面にコメントを出したり、応援グッズを振ったりします。アイドルとファンが一体になって、特別な時間を作ります。",
+      "translationZh": "观众也可以一起享受。可以在屏幕上发送评论，或者挥舞应援道具。偶像和粉丝融为一体，创造特别的时光。",
+      "translationEn": "Audience members can also enjoy together. They can send comments on the screen or wave cheering goods. Idols and fans become one, creating a special time.",
+      "id": "db59d39e-9edf-49fc-b90d-73291e61334c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "技術の進化で、二次元アイドルのライブはもっとリアルで感動的になりました。これからも、どんな新しい技術が出てくるか楽しみですね。",
+      "translationZh": "随着技术的发展，二次元偶像的演唱会变得更加真实和感人。今后，也很期待会出现什么新技术。",
+      "translationEn": "With the evolution of technology, anime idol concerts have become more realistic and moving. We look forward to seeing what new technologies will emerge in the future.",
+      "id": "b9091f54-c5af-4bbb-a5d1-3a362a5ee38b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "二次元",
+      "reading": "にじげん",
+      "meaningZh": "二维，动画世界",
+      "meaningEn": "2D, animation world",
+      "level": "n5n4",
+      "exampleSentence": "このアニメは二次元のキャラクターが人気です。",
+      "id": "ef0ad699-eacd-4767-aef8-108239c1741a"
+    },
+    {
+      "word": "アイドル",
+      "reading": "aidoru",
+      "meaningZh": "偶像",
+      "meaningEn": "idol",
+      "level": "n5n4",
+      "exampleSentence": "彼女は人気のアイドルです。",
+      "id": "1620e1df-aead-46e9-81dd-df8620f20fc5"
+    },
+    {
+      "word": "ライブ",
+      "reading": "らいぶ",
+      "meaningZh": "现场演出",
+      "meaningEn": "live performance",
+      "level": "n5n4",
+      "exampleSentence": "明日のライブに行きます。",
+      "id": "22de9cfd-c274-409c-9ce9-f97bcb340c98"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "新しい技術は素晴らしいです。",
+      "id": "bae65cb7-a6b5-49c6-b933-fa4f1a83c773"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaningZh": "进化，发展",
+      "meaningEn": "evolution, development",
+      "level": "n3",
+      "exampleSentence": "技術の進化は速いです。",
+      "id": "dca5ef4c-056d-4e0b-9c04-ec005452c5ca"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, old times",
+      "level": "n5n4",
+      "exampleSentence": "昔は携帯電話がありませんでした。",
+      "id": "5bcfdf7c-65ef-4d2d-950a-b55411107145"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently, lately",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が楽しいです。",
+      "id": "40033076-c896-4b48-9f8c-2a672710b631"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaningZh": "登场，出现",
+      "meaningEn": "appearance, to come on stage",
+      "level": "n3",
+      "exampleSentence": "主人公の登場シーンは感動的でした。",
+      "id": "f88a35e5-8fe7-49ac-b1f1-52d23159def3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の二次元アイドルのライブで、よく使われる技術は何ですか？",
+      "options": [
+        "昔のテレビ技術",
+        "プロジェクションマッピングや３D技術",
+        "古いコンピューター技術",
+        "手書きの絵"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では「プロジェクションマッピングや３D技術を使います。」と書かれています。",
+      "id": "800b9f3a-8861-4bd7-a7b7-63ea3ce8433e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-21-cde4d29411",
+  "publishedAt": "2026-10-21T06:00:00+09:00"
+}
