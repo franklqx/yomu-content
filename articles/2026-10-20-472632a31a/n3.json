@@ -1,0 +1,143 @@
+{
+  "title": "プロ野球新シーズン！注目の選手は誰だ？",
+  "summary": "新しいプロ野球シーズンが始まります。今回は、特に注目したい若手選手とベテラン選手を紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "いよいよプロ野球の新しいシーズンが始まりますね。毎年、新しいスター選手が登場するので、ファンはとても楽しみにしています。特に今年は、若手選手の活躍が期待されています。新人王を狙う選手もいれば、すでにチームの中心選手として活躍している選手もいます。",
+      "translationZh": "职业棒球新赛季终于要开始了。每年都会涌现出新的明星选手，所以粉丝们都非常期待。今年尤其令人期待年轻选手的表现。有些选手瞄准新人王，也有一些选手已经作为队伍的中心力量在活跃。",
+      "translationEn": "The new professional baseball season is finally starting. Every year, new star players emerge, so fans are very excited. This year, in particular, young players are expected to perform well. Some players are aiming for Rookie of the Year, while others are already active as key players for their teams.",
+      "id": "35ac323b-4cd7-49ec-95a2-dd105c0e95ea",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、〇〇チームの山田選手は、去年から注目されていましたが、今年はさらにパワーアップしているようです。彼の打撃は力強く、試合の流れを変える力を持っています。また、△△チームの佐藤選手も、ピッチャーとして素晴らしい才能を持っています。コントロールが良く、変化球も多彩なので、相手チームは打ちにくいでしょう。",
+      "translationZh": "例如，〇〇队的山田选手，从去年开始就备受关注，今年似乎变得更强了。他的击球很有力量，能够改变比赛的走向。另外，△△队的佐藤选手作为投手也拥有出色的才能。他的控球精准，变化球也很多样，对手队伍很难击中。",
+      "translationEn": "For example, Player Yamada of the XX team has been attracting attention since last year, and he seems to have powered up even more this year. His batting is powerful and he has the ability to change the flow of the game. Also, Player Sato of the △△ team possesses outstanding talent as a pitcher. His control is good, and his breaking pitches are varied, so it will be difficult for opposing teams to hit him.",
+      "id": "f98b20eb-7ef8-4e82-a653-d8cc94aaf6d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ベテラン選手にも注目です。長年チームを支えてきたベテラン選手たちは、経験に裏打ちされたプレーを見せてくれます。若い選手たちにとっては、彼らのプレーから多くを学ぶことができるでしょう。ベテラン選手たちのリーダーシップも、チームの勝利に不可欠な要素です。",
+      "translationZh": "老将选手也值得关注。多年来一直支撑着队伍的老将选手们，会展现出基于经验的精彩表现。对于年轻选手们来说，他们可以从老将选手的表现中学到很多东西。老将选手的领导力也是队伍获胜不可或缺的要素。",
+      "translationEn": "Veteran players are also worth watching. Veteran players who have supported their teams for many years will show us plays backed by experience. For young players, they will be able to learn a lot from their plays. The leadership of veteran players is also an essential element for the team's victory.",
+      "id": "ea0714d1-0bfe-4c17-b8fc-6f885c164b8a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年のプロ野球は、どんなドラマが生まれるのでしょうか。新しいスターの誕生、ベテラン選手の活躍、そしてチーム同士の熱い戦いに、目が離せません。皆さんも、お気に入りの選手を見つけて、シーズンを応援してみてはいかがでしょうか。",
+      "translationZh": "今年的职业棒球会诞生怎样的故事呢？新星的诞生、老将选手的活跃，以及队伍之间的激烈竞争，都让人目不转睛。大家也不妨找到自己喜欢的选手，来为这个赛季加油吧。",
+      "translationEn": "What kind of dramas will unfold in professional baseball this year? The emergence of new stars, the performance of veteran players, and the intense battles between teams will keep us on the edge of our seats. Why don't you all find your favorite players and cheer for the season?",
+      "id": "23630765-6dbe-43db-8915-4e685b93bb5b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいサッカーのシーズンが始まった。",
+      "id": "aba22c46-acfc-45c9-9eed-55cb4725ae9c"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待，期望",
+      "meaningEn": "expectation, anticipation",
+      "level": "n3",
+      "exampleSentence": "彼の活躍に期待しています。",
+      "id": "188e7037-4e45-461a-825d-1a604f4fbe12"
+    },
+    {
+      "word": "新人王",
+      "reading": "しんじんおう",
+      "meaningZh": "新人王（体育比赛中授予表现最突出的新人的奖项）",
+      "meaningEn": "rookie of the year (award for the most outstanding rookie in sports)",
+      "level": "n3",
+      "exampleSentence": "彼は新人王の有力候補だ。",
+      "id": "01530f5c-0a43-418d-aab9-a9dae6ab86b7"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "active participation, success",
+      "level": "n3",
+      "exampleSentence": "若手選手の活躍が目立つ。",
+      "id": "134c1b9e-8023-4ad1-874d-0e99feade7b6"
+    },
+    {
+      "word": "中心選手",
+      "reading": "ちゅうしんせんしゅ",
+      "meaningZh": "核心选手，主力选手",
+      "meaningEn": "key player, main player",
+      "level": "n3",
+      "exampleSentence": "彼はチームの中心選手です。",
+      "id": "e009679f-9bd5-412f-8251-d99b4dbb2f03"
+    },
+    {
+      "word": "打撃",
+      "reading": "だげき",
+      "meaningZh": "击球（棒球等）",
+      "meaningEn": "batting",
+      "level": "n3",
+      "exampleSentence": "彼の打撃は素晴らしい。",
+      "id": "4e5e728f-ea9e-4403-a6ed-1e62a2765e23"
+    },
+    {
+      "word": "ベテラン",
+      "reading": "べてらん",
+      "meaningZh": "老将，经验丰富者",
+      "meaningEn": "veteran",
+      "level": "n3",
+      "exampleSentence": "ベテラン選手がチームを引っ張る。",
+      "id": "8cd9b27c-7ac7-4a41-a8ed-6566ce9a5ed1"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaningZh": "不可或缺的",
+      "meaningEn": "indispensable, essential",
+      "level": "n3",
+      "exampleSentence": "チームにとって彼の存在は不可欠だ。",
+      "id": "f092a78d-6834-424b-82db-069b6cf0964c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "筆者が特に注目しているのは、どのような選手たちですか？",
+      "options": [
+        "新人選手だけ",
+        "ベテラン選手だけ",
+        "若手選手とベテラン選手",
+        "外国人選手"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の冒頭で、「特に今年は、若手選手の活躍が期待されています。また、ベテラン選手にも注目です。」と述べられています。",
+      "id": "2c363a55-70c4-48c3-b0ec-93a1ce2b2631"
+    },
+    {
+      "question": "佐藤選手は、どのような特徴を持つピッチャーだと説明されていますか？",
+      "options": [
+        "球速が速いこと",
+        "コントロールが良く、変化球が多彩なこと",
+        "毎回完投すること",
+        "打撃も得意なこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「△△チームの佐藤選手も、ピッチャーとして素晴らしい才能を持っています。コントロールが良く、変化球も多彩なので、相手チームは打ちにくいでしょう。」と説明されています。",
+      "id": "d4ca1e07-e767-419f-95ae-e1fe8692961b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-20-472632a31a",
+  "publishedAt": "2026-10-20T06:00:00+09:00"
+}

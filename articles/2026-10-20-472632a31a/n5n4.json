@@ -1,0 +1,114 @@
+{
+  "title": "注目のプロ野球選手",
+  "summary": "新しいプロ野球シーズンが始まります。今年はどんな選手が活躍するでしょうか。注目の選手をいくつか紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "プロ野球の新しいシーズンがもうすぐ始まります。たくさんのファンが楽しみにしています。今年は新しいスター選手が登場するかもしれません。ベテラン選手も、若い選手も、みんな一生懸命練習しました。どのチームが優勝するか、とても楽しみです。",
+      "translationZh": "职业棒球新赛季即将开始。许多粉丝都在期待。今年可能会出现新的明星选手。老将和年轻选手都努力地练习了。哪个队伍会夺冠，非常令人期待。",
+      "translationEn": "The new professional baseball season will start soon. Many fans are looking forward to it. New star players may appear this year. Both veteran and young players have practiced very hard. It's very exciting to see which team will win the championship.",
+      "id": "7ffbabf7-8716-4c3e-bf3f-021acbd60224",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目したい選手がいます。例えば、山田選手は去年もホームランをたくさん打ちました。今年も彼のバッティングに期待しています。また、田中選手というピッチャーもいます。彼はとても速いボールを投げます。彼のピッチングはとてもすごいと思います。",
+      "translationZh": "有些选手特别值得关注。例如，山田选手去年也打了许多本垒打。今年也期待他的打击。另外，还有一位叫田中选手的投手。他投出的球速度非常快。我觉得他的投球非常厉害。",
+      "translationEn": "There are some players to pay special attention to. For example, Yamada hit many home runs last year. We expect his batting this year too. There is also a pitcher named Tanaka. He throws the ball very fast. I think his pitching is amazing.",
+      "id": "1a7f68f7-a955-4c82-8e50-28fe31666f9c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "若い選手の中にも、将来が楽しみな人がいます。佐藤選手はまだ若いですけれど、守備がとても上手です。彼はこれからもっと成長するでしょう。ファンは新しいヒーローの誕生を期待しています。私も、今年のシーズンが始まるのが待ちきれません。",
+      "translationZh": "年轻选手中也有前途光明的人。佐藤选手虽然还年轻，但防守非常出色。他今后会更加成长。粉丝们期待新英雄的诞生。我也迫不及待地想看到今年的赛季开始。",
+      "translationEn": "Among the young players, there are some with promising futures. Sato is still young, but his defense is very good. He will grow more from now on. Fans are expecting the birth of new heroes. I also can't wait for this season to start.",
+      "id": "b4c5c2c7-c513-467f-ad89-f3a162372f0e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaningZh": "选手",
+      "meaningEn": "player",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な野球選手です。",
+      "id": "a67ffeca-4d99-43e8-a09a-b919e05add17"
+    },
+    {
+      "word": "シーズン",
+      "reading": "しーずん",
+      "meaningZh": "赛季",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "新しいシーズンが始まります。",
+      "id": "0477872e-7a5a-4ecb-aac2-8711ab4717b4"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注",
+      "meaningEn": "attention, notice",
+      "level": "n5n4",
+      "exampleSentence": "この選手に注目してください。",
+      "id": "3aac13f7-b002-408c-b1ad-9bdd9f996a0d"
+    },
+    {
+      "word": "ホームラン",
+      "reading": "ほーむらん",
+      "meaningZh": "本垒打",
+      "meaningEn": "home run",
+      "level": "n5n4",
+      "exampleSentence": "山田選手はホームランを打ちました。",
+      "id": "fd4aac3b-bfbf-4970-a48a-285b2c2c8f90"
+    },
+    {
+      "word": "ピッチャー",
+      "reading": "ぴっちゃー",
+      "meaningZh": "投手",
+      "meaningEn": "pitcher",
+      "level": "n5n4",
+      "exampleSentence": "ピッチャーは速いボールを投げます。",
+      "id": "1a1feb8a-4b3f-4d9e-a97f-7b2459ce07c3"
+    },
+    {
+      "word": "守備",
+      "reading": "しゅび",
+      "meaningZh": "防守",
+      "meaningEn": "defense",
+      "level": "n5n4",
+      "exampleSentence": "彼の守備はとても上手です。",
+      "id": "55569bb1-09c1-4745-8c6b-57a230caa87a"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待",
+      "meaningEn": "expectation",
+      "level": "n5n4",
+      "exampleSentence": "来年の結果に期待しています。",
+      "id": "d234075f-ab9f-4b45-856b-3f71abfc8171"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "山田選手は去年、何をたくさん打ちましたか。",
+      "options": [
+        "ピッチャー",
+        "ホームラン",
+        "守備",
+        "速いボール"
+      ],
+      "correctIndex": 1,
+      "explanation": "「山田選手は去年もホームランをたくさん打ちました。」と書いてあります。",
+      "id": "513e2863-ff6e-4bfb-af79-36def3c81188"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-20-472632a31a",
+  "publishedAt": "2026-10-20T06:00:00+09:00"
+}

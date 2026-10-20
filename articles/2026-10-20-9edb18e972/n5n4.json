@@ -1,0 +1,122 @@
+{
+  "title": "お年寄りのための食事配達",
+  "summary": "最近、一人暮らしのお年寄りのための食事配達サービスが増えています。このサービスは、お年寄りの生活を助けます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、一人暮らしのお年寄りが多くなっています。買い物や料理が大変な人もいます。それで、食事の配達サービスが人気です。",
+      "translationZh": "在日本，独自生活的老年人越来越多。购物和做饭对一些人来说很困难。因此，送餐服务很受欢迎。",
+      "translationEn": "In Japan, there are many elderly people living alone. Shopping and cooking are difficult for some people. Therefore, meal delivery services are popular.",
+      "id": "31e69a2a-7ee8-4944-b6ce-f26722575a58",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスは、毎日温かい食事を家まで届けます。栄養バランスも考えられています。お年寄りは、家で安全に食事をすることができます。",
+      "translationZh": "这项服务每天将热腾腾的饭菜送到家中。食物的营养均衡也有考虑。老年人可以在家中安全地用餐。",
+      "translationEn": "This service delivers warm meals to homes every day. Nutritional balance is also considered. Elderly people can eat safely at home.",
+      "id": "a8db7eb9-3782-49bc-9a5b-a4e8e672171b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "配達員は、利用者と話すこともあります。声を聞くだけで、安心する人もいます。地域社会とのつながりも大切です。",
+      "translationZh": "送餐员有时也会和使用者聊天。有些人光是听到声音就会感到安心。与社区的联系也很重要。",
+      "translationEn": "Delivery staff sometimes talk to users. Some people feel relieved just by hearing their voice. Connection with the community is also important.",
+      "id": "4ebf74ff-00ed-4e5f-a0a2-49250d446eda",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスは、これからももっと広がるでしょう。お年寄りが安心して暮らせるように、社会全体で支えることが大切です。",
+      "translationZh": "这项服务今后会进一步扩展。为了让老年人能够安心生活，全社会的支持非常重要。",
+      "translationEn": "This service will likely expand further in the future. It is important for society as a whole to support the elderly so they can live with peace of mind.",
+      "id": "f2ea2294-3867-4aea-bd5e-050f4c8e3c0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "お年寄り",
+      "reading": "おとしより",
+      "meaningZh": "老年人",
+      "meaningEn": "elderly person",
+      "level": "n5n4",
+      "exampleSentence": "お年寄りはゆっくり歩きます。",
+      "id": "1a750ed0-063e-4b9c-b136-56fbb0ad99ba"
+    },
+    {
+      "word": "一人暮らし",
+      "reading": "ひとりぐらし",
+      "meaningZh": "独自生活",
+      "meaningEn": "living alone",
+      "level": "n5n4",
+      "exampleSentence": "彼女は一人暮らしです。",
+      "id": "92b0b498-89f3-481e-9d2c-f5ea51c966cc"
+    },
+    {
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n5n4",
+      "exampleSentence": "荷物の配達は明日です。",
+      "id": "ae079042-3d9e-43f3-abf0-366de8b9a3f6"
+    },
+    {
+      "word": "サービス",
+      "reading": "さーびす",
+      "meaningZh": "服务",
+      "meaningEn": "service",
+      "level": "n5n4",
+      "exampleSentence": "この店はサービスがいいです。",
+      "id": "bb6301b7-9c79-4789-9543-ce5d0c639a61"
+    },
+    {
+      "word": "栄養",
+      "reading": "えいよう",
+      "meaningZh": "营养",
+      "meaningEn": "nutrition",
+      "level": "n3",
+      "exampleSentence": "野菜は栄養があります。",
+      "id": "4c502db5-987d-4cb0-9b5e-b6dd8566d2a7"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningZh": "安心，放心",
+      "meaningEn": "relief, peace of mind",
+      "level": "n5n4",
+      "exampleSentence": "地震の後、みんな安心しました。",
+      "id": "27eecb8d-4414-462b-b89e-8ee09a4c6fad"
+    },
+    {
+      "word": "地域社会",
+      "reading": "ちいきしゃかい",
+      "meaningZh": "社区",
+      "meaningEn": "local community",
+      "level": "n3",
+      "exampleSentence": "地域社会のために働きます。",
+      "id": "3a9651e1-5cbf-4abf-bb00-1ef4effe931b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "食事の配達サービスは、どんな人に役立ちますか。",
+      "options": [
+        "一人暮らしの若者",
+        "一人暮らしのお年寄り",
+        "忙しい会社員",
+        "留学生"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「一人暮らしのお年寄りのための食事配達サービスが増えています」と書いてあります。",
+      "id": "74674c26-5166-4771-9e49-1f21b029cf31"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-20-9edb18e972",
+  "publishedAt": "2026-10-20T06:00:00+09:00"
+}

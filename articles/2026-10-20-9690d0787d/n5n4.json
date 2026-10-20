@@ -1,0 +1,131 @@
+{
+  "title": "新しいアートと伝統の出会い",
+  "summary": "現代アートと伝統工芸が一緒に展示されました。新しい発見がたくさんあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、美術館で面白い展覧会がありました。それは、現代アートと日本の伝統工芸のコラボ展です。たくさんの人が見に来ていました。",
+      "translationZh": "最近，美术馆里有一个有趣的展览。是现代艺术和日本传统工艺的合作展。很多人都来参观了。",
+      "translationEn": "Recently, there was an interesting exhibition at the museum. It was a collaboration exhibition of modern art and Japanese traditional crafts. Many people came to see it.",
+      "id": "63b87729-559f-4d60-b2c7-c5f9ad59ab80",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "現代アートは、とても自由な形や色を使っています。一方、伝統工芸は、昔からの技術で作られています。例えば、陶芸や織物などです。",
+      "translationZh": "现代艺术使用了非常自由的形状和颜色。另一方面，传统工艺是用自古以来的技术制作的。例如，有陶器和编织品等。",
+      "translationEn": "Modern art uses very free shapes and colors. On the other hand, traditional crafts are made with techniques from the past. For example, pottery and weaving.",
+      "id": "19d873ef-9353-4741-a389-fc92a2bd0934",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この展覧会では、新しいアイデアと古い技術が合わさっていました。とてもきれいな作品がたくさんありました。色々な発見がありました。",
+      "translationZh": "在这个展览中，新的创意和古老的技术结合在了一起。有很多非常美丽的作品。带来了各种各样的发现。",
+      "translationEn": "In this exhibition, new ideas and old techniques were combined. There were many very beautiful works. There were various discoveries.",
+      "id": "aa8c4115-e0f1-462a-aa20-7c599ede635b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "伝統工芸の職人さんと現代アートの作家さんが一緒に作品を作りました。新しいデザインが生まれました。これはとても素晴らしいことだと思いました。",
+      "translationZh": "传统工艺的工匠和现代艺术的作家一起创作了作品。诞生了新的设计。我觉得这是非常棒的事情。",
+      "translationEn": "Traditional craft artisans and modern artists created works together. New designs were born. I thought this was a wonderful thing.",
+      "id": "32bc61fe-d2de-43f7-ba2c-ff38ed23eab6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "展覧会",
+      "reading": "てんらんかい",
+      "meaningZh": "展览会",
+      "meaningEn": "Exhibition",
+      "level": "n5n4",
+      "exampleSentence": "美術館で新しい展覧会が始まりました。",
+      "id": "9d49cc90-2697-415c-a526-0ab87ed47ab0"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaningZh": "现代",
+      "meaningEn": "Modern times",
+      "level": "n5n4",
+      "exampleSentence": "これは現代の建物です。",
+      "id": "f7b0044a-3e6d-402f-b5d6-266c04fdee58"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "Tradition",
+      "level": "n5n4",
+      "exampleSentence": "日本の伝統文化は大切です。",
+      "id": "18cdaf0f-dc75-41b8-9048-f8d101eb0bf4"
+    },
+    {
+      "word": "工芸",
+      "reading": "こうげい",
+      "meaningZh": "工艺",
+      "meaningEn": "Craft, handicraft",
+      "level": "n3",
+      "exampleSentence": "このお皿は美しい工芸品です。",
+      "id": "1284c407-415f-41f4-a836-c084340f1f3e"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "Skill, technique",
+      "level": "n3",
+      "exampleSentence": "彼は高い技術を持っています。",
+      "id": "a6eebf65-735a-4e16-b64c-d3810191c63e"
+    },
+    {
+      "word": "陶芸",
+      "reading": "とうげい",
+      "meaningZh": "陶艺",
+      "meaningEn": "Pottery",
+      "level": "n3",
+      "exampleSentence": "彼女は陶芸教室に通っています。",
+      "id": "d8cc7717-9f19-4f30-be26-b788580b6f0f"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaningZh": "工匠",
+      "meaningEn": "Artisan, craftsman",
+      "level": "n3",
+      "exampleSentence": "このかばんは職人さんが作りました。",
+      "id": "75508b81-9419-41e4-9904-36345b7bf19a"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaningZh": "作家（艺术家）",
+      "meaningEn": "Writer, artist",
+      "level": "n3",
+      "exampleSentence": "有名な作家の絵を見ました。",
+      "id": "7c11685f-566e-479e-a5e3-acdfabd70e86"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この展覧会では、何と何が一緒に展示されましたか。",
+      "options": [
+        "現代映画と昔の音楽",
+        "現代アートと伝統工芸",
+        "伝統的な料理と新しい飲み物",
+        "古い建物と新しい建物"
+      ],
+      "correctIndex": 1,
+      "explanation": "現代アートと伝統工芸のコラボ展です。",
+      "id": "e3e62b1d-244d-419c-a1e2-d908a504a755"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-20-9690d0787d",
+  "publishedAt": "2026-10-20T06:00:00+09:00"
+}
