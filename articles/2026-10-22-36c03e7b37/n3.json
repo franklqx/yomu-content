@@ -1,0 +1,135 @@
+{
+  "title": "クリスマスマーケット、日本でも人気上昇中！",
+  "summary": "ヨーロッパの伝統的なイベント、クリスマスマーケットが日本でも広がりを見せています。その魅力と人気の理由を探ってみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ドイツなどを中心に、冬の訪れとともに街角に現れるクリスマスマーケット。温かい飲み物や手作りの品々が並び、人々はクリスマスの雰囲気を楽しんでいます。最近では、この楽しいマーケットが日本でも各地で開催されるようになり、多くの人が訪れています。",
+      "translationZh": "以德国为中心，随着冬天的到来，圣诞市场会出现在街角。温暖的饮品和手工制品琳琅满目，人们在这里享受圣诞的氛围。最近，这种有趣的市集在日本各地也开始举办，吸引了许多人前往。",
+      "translationEn": "Centered in Germany and other countries, Christmas markets appear on street corners as winter arrives. Warm drinks and handmade goods are displayed, and people enjoy the Christmas atmosphere. Recently, these enjoyable markets have also begun to be held in various places in Japan, attracting many visitors.",
+      "id": "f83c05b7-b247-47e9-8e4c-503477babd6b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "日本でクリスマスマーケットが人気になった理由の一つは、その独特な雰囲気にあると考えられます。キラキラ光るイルミネーションや、赤や緑の装飾は、見ているだけで心が躍ります。また、ホットワインやソーセージといった、本場ドイツの味を楽しめる屋台も魅力的です。家族や友人と一緒に、寒い冬でも温かい気持ちになれるのが良いですね。",
+      "translationZh": "圣诞市场在日本受欢迎的原因之一被认为是它独特的氛围。闪闪发光的彩灯和红绿色的装饰，仅仅是看着就让人心动。此外，可以品尝到热红酒和香肠等正宗德国风味的摊位也很有吸引力。能和家人朋友一起，即使在寒冷的冬天也能感到温暖，这一点很好。",
+      "translationEn": "One of the reasons Christmas markets have become popular in Japan is thought to be their unique atmosphere. The sparkling illuminations and red and green decorations are enough to make your heart flutter just by looking at them. Also, the stalls where you can enjoy authentic German flavors like mulled wine and sausages are attractive. It's nice to be able to feel warm even in the cold winter, together with family and friends.",
+      "id": "fb3340c0-5339-4d57-9446-5458481dfbfc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、クリスマスマーケットでは、手作りのオーナメントやクリスマス雑貨などが販売されていることも多いです。これらは、他ではなかなか見られない特別なものばかりなので、自分へのプレゼントや大切な人へのお土産としても人気があります。マーケットを歩きながら、お気に入りの一点を探すのも楽しい時間です。このように、クリスマスマーケットは、ただ物を買うだけでなく、体験そのものを楽しむことができるイベントなのです。",
+      "translationZh": "此外，圣诞市场也经常销售手工制作的装饰品和圣诞杂货等。这些都是在别处难得一见的特别商品，因此作为送给自己的礼物或送给重要的人的纪念品也很受欢迎。一边逛着市集，一边寻找心仪的物品也是一段愉快的时光。像这样，圣诞市场不仅仅是购买物品，而是一个可以享受体验本身的活动。",
+      "translationEn": "Furthermore, Christmas markets often sell handmade ornaments and Christmas goods. These are special items that are rarely found elsewhere, making them popular as gifts for oneself or souvenirs for loved ones. It's also a fun time to search for your favorite piece while walking through the market. In this way, Christmas markets are events where you can enjoy the experience itself, not just buy things.",
+      "id": "a3384c7a-1730-41c9-bb18-367bc7cbee4d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaningZh": "访问，拜访",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "多くの観光客がこの美しい景色を訪れる。",
+      "id": "007417bf-1663-474b-8545-332c31957426"
+    },
+    {
+      "word": "独特",
+      "reading": "どくとく",
+      "meaningZh": "独特，特别",
+      "meaningEn": "unique, peculiar",
+      "level": "n3",
+      "exampleSentence": "この地域には独特の文化がある。",
+      "id": "ddf024ab-516a-417c-bf38-f650fa00db17"
+    },
+    {
+      "word": "躍る",
+      "reading": "おどる",
+      "meaningZh": "跳跃，（心情）激动",
+      "meaningEn": "to jump, to leap; to dance (with joy)",
+      "level": "n3",
+      "exampleSentence": "合格の知らせを聞いて、心が躍った。",
+      "id": "cfde8207-60a3-470b-80d0-7d6e18ca74bf"
+    },
+    {
+      "word": "屋台",
+      "reading": "やたい",
+      "meaningZh": "（路边）摊位，小吃摊",
+      "meaningEn": "stall, stand (especially food stalls)",
+      "level": "n3",
+      "exampleSentence": "夏祭りの屋台では、色々な食べ物が売られている。",
+      "id": "5b4be169-8a67-43c1-aa5b-3cfd6dbec663"
+    },
+    {
+      "word": "魅力的",
+      "reading": "みりょくてき",
+      "meaningZh": "有魅力的，迷人的",
+      "meaningEn": "attractive, charming",
+      "level": "n3",
+      "exampleSentence": "彼女の笑顔はとても魅力的だ。",
+      "id": "c7f39dc2-2cbd-47ed-9058-266d755519a6"
+    },
+    {
+      "word": "オーナメント",
+      "reading": "おーなめんと",
+      "meaningZh": "装饰品（尤指圣诞装饰品）",
+      "meaningEn": "ornament",
+      "level": "n3",
+      "exampleSentence": "ツリーにきれいなオーナメントを飾った。",
+      "id": "09679e02-5776-450b-9aa2-646d2ab82f4b"
+    },
+    {
+      "word": "雑貨",
+      "reading": "ざっか",
+      "meaningZh": "杂货，小商品",
+      "meaningEn": "miscellaneous goods, general merchandise",
+      "level": "n3",
+      "exampleSentence": "この店には可愛い雑貨がたくさんある。",
+      "id": "2556eeab-f716-4bbe-947f-7197a2539653"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "旅行では現地の文化を体験することが大切だ。",
+      "id": "b5549b4e-944c-4e6d-af0b-60da31fbb3f9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "クリスマスマーケットが日本で人気になった理由として、本文では何が挙げられていますか？",
+      "options": [
+        "寒い冬でも温かい気持ちになれるから",
+        "本場ドイツの味を楽しめるから",
+        "キラキラ光るイルミネーションなど、独特の雰囲気があるから",
+        "他では見られない特別な商品が手に入るから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「日本でクリスマスマーケットが人気になった理由の一つは、その独特な雰囲気にあると考えられます。キラキラ光るイルミネーションや、赤や緑の装飾は、見ているだけで心が躍ります。」と書かれています。",
+      "id": "ed4302c9-107e-407d-8225-37d37ebf714b"
+    },
+    {
+      "question": "クリスマスマーケットで買い物をする楽しさについて、本文ではどのように述べられていますか？",
+      "options": [
+        "安い商品がたくさん見つかること",
+        "季節限定の食べ物を味わえること",
+        "自分や大切な人へのお土産になるような、特別な一点を探せること",
+        "友人と一緒にホットワインを飲みながら交流できること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「さらに、クリスマスマーケットでは、手作りのオーナメントやクリスマス雑貨などが販売されていることも多いです。これらは、他ではなかなか見られない特別なものばかりなので、自分へのプレゼントや大切な人へのお土産としても人気があります。マーケットを歩きながら、お気に入りの一点を探すのも楽しい時間です。」と述べられています。",
+      "id": "3157b289-c9b4-431b-b41e-2014a4968082"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-22-36c03e7b37",
+  "publishedAt": "2026-10-22T06:00:00+09:00"
+}

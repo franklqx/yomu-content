@@ -1,0 +1,131 @@
+{
+  "title": "高校生、eスポーツで活躍！",
+  "summary": "最近、高校生がeスポーツの大会でとても活躍しています。彼らは素晴らしい技術を持っています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、eスポーツの大会で高校生が注目されています。多くの若い選手が、ゲームの技術で世界と戦っています。彼らの活躍は、多くの人々に感動を与えています。",
+      "translationZh": "最近，高中生在日本电子竞技比赛中备受瞩目。许多年轻选手用他们的游戏技术与世界展开竞争。他们的活跃给了许多人感动。",
+      "translationEn": "Recently, high school students have been gaining attention in esports tournaments. Many young players are competing with the world using their gaming skills. Their success is inspiring many people.",
+      "id": "62c185c0-b4e0-4010-8eee-59504a65a54f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "eスポーツは、コンピューターゲームを使ったスポーツです。世界中で人気があります。高校生プレーヤーたちは、毎日一生懸命練習しています。その努力が、大会での良い結果につながっています。",
+      "translationZh": "电子竞技是使用电脑游戏进行的体育项目。它在世界范围内都很受欢迎。高中生选手们每天都在努力练习。他们的努力带来了比赛中的好成绩。",
+      "translationEn": "Esports is a sport using computer games. It is popular all over the world. High school players practice hard every day. Their efforts lead to good results in tournaments.",
+      "id": "304b3d70-1e21-46f1-b8ba-fb7976ceae23",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ある高校生チームは、国際大会で優勝しました。チームのリーダーは「みんなで協力して勝てた」と話しました。彼らのチームワークと高い技術が、勝利の大きな理由でした。",
+      "translationZh": "有一个高中生队伍在国际比赛中获胜了。队伍的队长说：“我们能够获胜是因为大家一起合作。”他们的团队合作和高超技术是获胜的重要原因。",
+      "translationEn": "A certain high school team won an international tournament. The team leader said, 'We were able to win by cooperating together.' Their teamwork and high skills were major reasons for their victory.",
+      "id": "23b9d0ff-8660-416e-b49d-dd4ffb8c4a26",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、多くの高校生がeスポーツの世界で活躍することが期待されます。彼らの未来はとても明るいです。新しいスター選手が生まれるかもしれません。",
+      "translationZh": "今后，预计将有更多高中生在电子竞技领域大显身手。他们的未来非常光明。可能会诞生新的明星选手。",
+      "translationEn": "Going forward, many high school students are expected to shine in the world of esports. Their future is very bright. New star players may emerge.",
+      "id": "d4cd3d3b-b572-4f15-b978-94f1fed1fe34",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaningZh": "高中生",
+      "meaningEn": "high school student",
+      "level": "n5n4",
+      "exampleSentence": "高校生が大会で活躍しました。",
+      "id": "c00f9145-6233-4f64-8819-ee4be9ccf487"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "success, active participation",
+      "level": "n5n4",
+      "exampleSentence": "若い選手が大会で活躍しました。",
+      "id": "47975522-ea41-470e-bff8-8dd99c666f58"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaningZh": "关注，引人注意",
+      "meaningEn": "attention, notice",
+      "level": "n5n4",
+      "exampleSentence": "彼のプレーに注目が集まっています。",
+      "id": "442f6e59-cfd4-44d4-842b-bf78550c74a1"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "skill, technique",
+      "level": "n5n4",
+      "exampleSentence": "彼のゲームの技術はすごいです。",
+      "id": "30320078-56cd-41c9-b8f2-4c0704f2588a"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningZh": "感动",
+      "meaningEn": "deep emotion, impression",
+      "level": "n5n4",
+      "exampleSentence": "その話はとても感動しました。",
+      "id": "1f7760d3-f348-4980-b525-f81fd58a0a07"
+    },
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaningZh": "练习",
+      "meaningEn": "practice",
+      "level": "n5n4",
+      "exampleSentence": "毎日、一生懸命練習しています。",
+      "id": "70d4fdb9-0669-4693-9b42-94f10f5e6df0"
+    },
+    {
+      "word": "結果",
+      "reading": "けっか",
+      "meaningZh": "结果",
+      "meaningEn": "result",
+      "level": "n5n4",
+      "exampleSentence": "努力した結果、優勝しました。",
+      "id": "f55062a3-1492-4e69-9702-1daab613ab53"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaningZh": "优胜，夺冠",
+      "meaningEn": "victory, championship",
+      "level": "n5n4",
+      "exampleSentence": "チームは大会で優勝しました。",
+      "id": "b996b6ab-4ede-4da0-9c6e-efba3d873b5f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "高校生プレーヤーがeスポーツで活躍しているという記事です。彼らはどのような理由で大会で良い結果を出していますか？",
+      "options": [
+        "彼らはゲームがとても好きだから。",
+        "毎日一生懸命練習しているからです。",
+        "強い選手と友達だからです。",
+        "大会の賞金が高いからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「高校生プレーヤーたちは、毎日一生懸命練習しています。その努力が、大会での良い結果につながっています。」と書かれています。",
+      "id": "9971a3bf-6ecf-4074-a979-03f5d3066820"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-22-e",
+  "publishedAt": "2026-10-22T06:00:00+09:00"
+}

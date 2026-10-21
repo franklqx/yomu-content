@@ -1,0 +1,122 @@
+{
+  "title": "クリスマスの特別な市場",
+  "summary": "冬になると、きれいなクリスマスマーケットが開かれます。この市場は世界中に広がっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬が来ると、世界中で特別な市場が開かれます。この市場は「クリスマスマーケット」と呼ばれています。きれいな飾りやおいしい食べ物がいっぱいです。人々はここでプレゼントを探したり、友達と温かい飲み物を飲んだりします。",
+      "translationZh": "冬天来了，世界各地会举办特别的市场。这个市场叫做“圣诞市集”。里面有漂亮的装饰和美味的食物。人们在这里找礼物，或者和朋友一起喝热饮。",
+      "translationEn": "When winter comes, special markets are held all over the world. These markets are called 'Christmas markets'. They are full of beautiful decorations and delicious food. People look for presents here or drink warm beverages with friends.",
+      "id": "2cd899a0-3c0c-4908-9354-90e41f87ad19",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クリスマスマーケットは、もともとヨーロッパの習慣でした。でも、今では日本や他の国にも広がっています。大きな都市だけでなく、小さな町でも見られるようになりました。冬の楽しみの一つになっています。",
+      "translationZh": "圣诞市集原本是欧洲的习俗。但是，现在也传播到了日本和其他国家。不仅在大城市，在小城镇也能看到。它已经成为冬季的乐趣之一。",
+      "translationEn": "Christmas markets were originally a European custom. However, they are now spreading to Japan and other countries. They can be seen not only in big cities but also in small towns. It has become one of the winter's pleasures.",
+      "id": "385aae09-b75c-4162-a9a6-bfb506d4ce46",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "マーケットでは、手作りの工芸品やクリスマスの飾りを買うことができます。また、ホットワインやソーセージなど、特別な食べ物や飲み物も楽しめます。音楽も流れていて、とても楽しい雰囲気です。",
+      "translationZh": "在市集中，可以买到手工工艺品和圣诞装饰。另外，还可以品尝到热红酒、香肠等特别的食物和饮料。还播放着音乐，气氛非常愉快。",
+      "translationEn": "At the market, you can buy handmade crafts and Christmas decorations. You can also enjoy special food and drinks like mulled wine and sausages. Music is playing, and the atmosphere is very cheerful.",
+      "id": "343e87dd-328a-4325-a897-36d19dad26d8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "クリスマスの時期は、街がキラキラして、とてもきれいです。クリスマスマーケットは、その雰囲気をさらに楽しくしてくれます。この冬、近くのマーケットに行ってみませんか。",
+      "translationZh": "圣诞节期间，街道闪闪发光，非常漂亮。圣诞市集让那份气氛更加愉快。这个冬天，要不要去附近的市集看看？",
+      "translationEn": "During the Christmas season, the streets are sparkling and very beautiful. Christmas markets make that atmosphere even more enjoyable. Why don't you visit a nearby market this winter?",
+      "id": "b7590f7d-2142-4242-940b-3c503abc2770",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "市場",
+      "reading": "いちば",
+      "meaningZh": "市场",
+      "meaningEn": "market",
+      "level": "n5n4",
+      "exampleSentence": "この市場は大きいです。",
+      "id": "22423981-5cd2-4db1-a5af-9650fb3062e2"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "0d758029-a1d9-48b6-9854-4019c363999c"
+    },
+    {
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaningZh": "习惯",
+      "meaningEn": "custom, habit",
+      "level": "n3",
+      "exampleSentence": "毎朝、本を読むのが私の習慣です。",
+      "id": "eab63c7a-5613-4dff-93cd-cac161122d4a"
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaningZh": "传播，扩展",
+      "meaningEn": "to spread, to expand",
+      "level": "n3",
+      "exampleSentence": "そのニュースはすぐに広がりました。",
+      "id": "46345399-3849-4e88-b2ea-b61b1df5f275"
+    },
+    {
+      "word": "工芸品",
+      "reading": "こうげいひん",
+      "meaningZh": "工艺品",
+      "meaningEn": "handicraft, art and craft",
+      "level": "n3",
+      "exampleSentence": "きれいな工芸品がたくさんありました。",
+      "id": "54b99966-4eb5-4491-af68-88338e7bbbe2"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere, mood",
+      "level": "n3",
+      "exampleSentence": "このカフェは落ち着いた雰囲気です。",
+      "id": "603b00b5-a1ec-4d12-bf75-8588c67e234b"
+    },
+    {
+      "word": "キラキラ",
+      "reading": "キラキラ",
+      "meaningZh": "闪闪发光",
+      "meaningEn": "sparkling, glittering",
+      "level": "n5n4",
+      "exampleSentence": "星がキラキラしています。",
+      "id": "46c9f0a1-c262-4257-8ce2-b1eda3087d96"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "クリスマスマーケットは、どんな場所ですか。",
+      "options": [
+        "おいしい食べ物と飲み物の店がたくさんある場所",
+        "古い車を売る場所",
+        "動物を見せる場所",
+        "仕事を探す場所"
+      ],
+      "correctIndex": 0,
+      "explanation": "マーケットでは、きれいな飾りやおいしい食べ物がいっぱいです。人々はここでプレゼントを探したり、友達と温かい飲み物を飲んだりします。",
+      "id": "260258f2-c9ee-4157-a9ef-06a7052d86dc"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-22-36c03e7b37",
+  "publishedAt": "2026-10-22T06:00:00+09:00"
+}

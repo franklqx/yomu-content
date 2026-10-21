@@ -1,0 +1,122 @@
+{
+  "title": "アニメグッズの値段が高くなる？",
+  "summary": "人気のアニメグッズが限定販売されると、すぐに売り切れてしまいます。そして、買えなかった人が残念がっています。これは困った問題です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメが大好きです。アニメのキャラクターのグッズも大好きです。例えば、キーホルダーやぬいぐるみなどです。しかし、人気があるアニメのグッズは、すぐ売り切れます。これは、限定販売が多いからです。",
+      "translationZh": "我非常喜欢动画。我也非常喜欢动画角色的周边商品。例如，钥匙扣和毛绒玩具之类的。但是，人气高的动画周边商品很快就卖完了。这是因为限定销售的商品很多。",
+      "translationEn": "I love anime. I also love anime character goods. For example, keychains and stuffed animals. However, goods for popular anime sell out quickly. This is because there are many limited sales.",
+      "id": "10cdc3be-4ab7-4d22-be99-ef3848329481",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "限定販売は、ファンにとって嬉しいことです。でも、買えなかった人もたくさんいます。残念ながら、買えなかったグッズを、インターネットで高く売る人がいます。これは「転売」と言います。転売のせいで、本当に欲しい人が買えなくなります。",
+      "translationZh": "限定销售对粉丝来说是件开心的事。但是，也有很多人没买到。遗憾的是，有人在网上高价出售买不到的周边商品。这就叫做“倒卖”。因为倒卖，真心想要的人就买不到了。",
+      "translationEn": "Limited sales are happy for fans. But, many people could not buy them. Unfortunately, some people sell the goods they couldn't buy online for a high price. This is called 'resale'. Because of reselling, people who truly want them cannot buy them.",
+      "id": "30e4f330-5deb-48e6-ae72-398ddb472758",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "転売は、アニメのグッズを汚します。そして、ファンも悲しくなります。会社は、もっと多くの人にグッズが買えるように、工夫する必要があります。例えば、抽選（ちゅうせん）にしたり、オンライン販売を長くしたりする方法があります。",
+      "translationZh": "倒卖会玷污动画周边商品。并且，粉丝们也会感到悲伤。公司需要想办法让更多人能够买到周边商品。例如，有抽签购买、或者延长网络销售时间的方法。",
+      "translationEn": "Reselling taints anime goods. And, fans become sad. Companies need to devise ways for more people to be able to buy goods. For example, there are methods like lotteries or extending online sales periods.",
+      "id": "228a11e1-7386-4e14-8462-0b7a1f980e0a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ファンが安心してグッズを買えるように、なることを願っています。正しい値段で、欲しいものが買えることは、とても大切です。",
+      "translationZh": "我希望能够实现粉丝们安心购买周边商品。能以合理的价格买到想要的东西，是非常重要的。",
+      "translationEn": "I hope that fans can buy goods with peace of mind. Being able to buy what you want at the right price is very important.",
+      "id": "8db854d1-61c7-4365-a779-c2f2956b93de",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "goods, merchandise",
+      "level": "n5n4",
+      "exampleSentence": "このアニメのグッズが欲しいです。",
+      "id": "4a9910b3-9ffe-4069-b00d-a653666808ca"
+    },
+    {
+      "word": "限定販売",
+      "reading": "げんていはんばい",
+      "meaningZh": "限定销售",
+      "meaningEn": "limited sale",
+      "level": "n5n4",
+      "exampleSentence": "この商品は限定販売です。",
+      "id": "045194c3-5810-4ac7-aad2-5bb1b55847b5"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n5n4",
+      "exampleSentence": "人気の商品はすぐに売り切れます。",
+      "id": "a1733563-cc5e-41ed-8a41-5eeb43789c8b"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾",
+      "meaningEn": "regrettable, unfortunate",
+      "level": "n5n4",
+      "exampleSentence": "買えなくて残念です。",
+      "id": "d36e1b2e-276a-4cc7-88a7-aec517a13c6e"
+    },
+    {
+      "word": "転売",
+      "reading": "てんばい",
+      "meaningZh": "倒卖，转卖",
+      "meaningEn": "resale",
+      "level": "n5n4",
+      "exampleSentence": "転売は良くないことです。",
+      "id": "88c83840-ee18-4916-adeb-ef0ccff29554"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，创造",
+      "meaningEn": "device, invention, contrivance",
+      "level": "n3",
+      "exampleSentence": "もっと良い方法を工夫しましょう。",
+      "id": "8984168c-e6d3-4eaa-bcc1-33c1fc39eded"
+    },
+    {
+      "word": "抽選",
+      "reading": "ちゅうせん",
+      "meaningZh": "抽签",
+      "meaningEn": "lottery",
+      "level": "n3",
+      "exampleSentence": "抽選で当たりますように。",
+      "id": "09523437-1683-486a-b900-75162292f5a6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ人気のアニメグッズはすぐ売り切れますか。",
+      "options": [
+        "値段が高いからです。",
+        "限定販売が多いからです。",
+        "ファンが少ないからです。",
+        "店が小さいからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「人気があるアニメのグッズは、すぐ売り切れます。これは、限定販売が多いからです。」と書いてあります。",
+      "id": "73c2770e-e9fa-48c0-9157-910dd6b317c4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-22-2d3baa7f69",
+  "publishedAt": "2026-10-22T06:00:00+09:00"
+}
