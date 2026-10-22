@@ -1,0 +1,138 @@
+{
+  "title": "若手クリエイター支援へ新奨学金制度創設",
+  "summary": "アニメ・マンガ分野での活躍を目指す若者を対象とした新たな奨学金制度が、クリエイター育成を目的として創設されることになったとのことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、アニメやマンガといった日本のポップカルチャーは世界的に高い評価を受けている。この現状を踏まえ、次世代を担う若手クリエイターの育成と支援を目的とした新たな奨学金制度が設立される運びとなった。同制度は、経済的な理由で才能の発揮を諦める若者を減らし、より多くの才能が国際的な舞台で活躍できる土壌を育むことを目指している。",
+      "translationZh": "近年来，日本的动画和漫画等流行文化在世界范围内获得了高度评价。基于这一现状，一项旨在培养和支持下一代年轻创作者的新奖学金制度即将设立。该制度旨在减少因经济原因而放弃发挥才能的年轻人，并培育一个能让更多才能在国际舞台上大放异彩的土壤。",
+      "translationEn": "In recent years, Japanese pop culture such as anime and manga has received high acclaim globally. In light of this situation, a new scholarship program is being established with the aim of nurturing and supporting young creators who will carry the torch for the next generation. This program seeks to reduce the number of young individuals who give up on showcasing their talents due to financial constraints, and to foster an environment where more talents can thrive on the international stage.",
+      "id": "e1eafcbe-0963-4c9d-ba18-7dd29e617c83",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "奨学金は、アニメーション制作、マンガ執筆、キャラクターデザインなどの分野で、意欲と才能を有する学生・若手クリエイターを対象とする。選考にあたっては、これまでの学業成績や実績に加え、将来性や独創性、そして作品に込められたメッセージ性などが重視される見込みだ。給付額は、学費や制作活動に必要な経費をカバーするもので、年間数名程度の採択が予定されている。",
+      "translationZh": "该奖学金面向在动画制作、漫画创作、角色设计等领域拥有热情和才华的学生及年轻创作者。在选拔过程中，除了以往的学习成绩和成就之外，预计还将重点考量其未来发展潜力、独创性以及作品所蕴含的メッセージ性。奖学金金额将用于支付学费和制作活动所需的费用，预计每年录取几名。",
+      "translationEn": "The scholarship targets students and young creators who possess ambition and talent in fields such as animation production, manga creation, and character design. In the selection process, in addition to academic records and achievements to date, future potential, originality, and the message conveyed in their works are expected to be emphasized. The scholarship amount will cover tuition fees and expenses necessary for creative activities, with an expected selection of several individuals per year.",
+      "id": "5669995e-fba2-4c78-82ce-4b272a6d32c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度の創設は、日本のクリエイティブ産業全体の活性化にも繋がると期待されている。才能ある若者が経済的な不安なく創作活動に没頭できる環境が整備されることは、新たなヒット作品の創出や、日本文化の発信力強化に大きく寄与するものと見られている。関係者は、「この奨学金が、世界を驚かせるような新しい才能の芽を育む一助となれば幸いです」と語っている。",
+      "translationZh": "该制度的设立也被期待能促进日本整个创意产业的活性化。为有才能的年轻人提供一个可以无经济顾虑地投入创作活动的良好环境，被认为将极大地有助于创造新的热门作品，并加强日本文化的传播力。相关人士表示：“希望这项奖学金能为培养令世界惊叹的新兴才能的幼苗助一臂之力。”",
+      "translationEn": "The establishment of this program is also anticipated to lead to the revitalization of Japan's entire creative industry. Providing an environment where talented young people can immerse themselves in creative activities without financial worries is seen as a significant contribution to the creation of new hit works and the strengthening of Japan's cultural outreach. Stakeholders commented, 'We would be delighted if this scholarship could help foster buds of new talent that will surprise the world.'",
+      "id": "15afcc47-c049-4b2a-a8d2-e67b533c0485",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "次世代",
+      "reading": "じせだい",
+      "meaningZh": "下一代，新一代",
+      "meaningEn": "next generation",
+      "level": "n2n1",
+      "exampleSentence": "次世代のリーダーを育成することが急務だ。",
+      "id": "78dbb0e8-c775-4fe9-a2ba-6a74e65442a6"
+    },
+    {
+      "word": "担う",
+      "reading": "になう",
+      "meaningZh": "承担，担当",
+      "meaningEn": "to bear (responsibility), to carry",
+      "level": "n2n1",
+      "exampleSentence": "彼はチームの将来を担う存在だ。",
+      "id": "309dc378-de12-400c-ba51-b2eb6251e033"
+    },
+    {
+      "word": "土壌",
+      "reading": "どじょう",
+      "meaningZh": "土壤；（比喻）环境，基础",
+      "meaningEn": "soil; environment, foundation",
+      "level": "n2n1",
+      "exampleSentence": "創造性を育む土壌が必要だ。",
+      "id": "4e5ab687-08d1-4f34-aa97-849981b1ed38"
+    },
+    {
+      "word": "意欲",
+      "reading": "いよく",
+      "meaningZh": "意愿，干劲，欲望",
+      "meaningEn": "ambition, will, desire",
+      "level": "n3",
+      "exampleSentence": "彼は新しいことに挑戦する意欲に満ちている。",
+      "id": "e915b655-4473-4b15-8ec5-2d6522a5f1a6"
+    },
+    {
+      "word": "独創性",
+      "reading": "どくそうせい",
+      "meaningZh": "独创性，创造性",
+      "meaningEn": "originality, creativity",
+      "level": "n2n1",
+      "exampleSentence": "そのアイデアには高い独創性が認められる。",
+      "id": "4e8c2589-0d82-4708-a109-a64b46157293"
+    },
+    {
+      "word": "没頭",
+      "reading": "ぼっとう",
+      "meaningZh": "埋头，专心致志",
+      "meaningEn": "absorption, immersion",
+      "level": "n2n1",
+      "exampleSentence": "彼は趣味に没頭して時間を忘れることがある。",
+      "id": "f4a07ec3-14fd-48e3-a742-0176e0a30f8d"
+    },
+    {
+      "word": "寄与",
+      "reading": "きよ",
+      "meaningZh": "贡献，作用",
+      "meaningEn": "contribution, service",
+      "level": "n2n1",
+      "exampleSentence": "地域社会の発展に寄与したい。",
+      "id": "6bed8ffd-a1b5-46a4-9066-361e712d95fc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金制度が設立された主な目的は何ですか。",
+      "options": [
+        "アニメやマンガの海外輸出を増やすため",
+        "経済的な理由で才能の発揮を諦める若者を減らし、次世代クリエイターを育成するため",
+        "国際的なアニメコンテストを開催するため",
+        "既存のクリエイターの制作活動を支援するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「次世代を担う若手クリエイターの育成と支援を目的とした新たな奨学金制度が設立される運びとなった」「経済的な理由で才能の発揮を諦める若者を減らし、より多くの才能が国際的な舞台で活躍できる土壌を育むことを目指している」と記載されている。",
+      "id": "0e76a30c-119c-46c2-b533-28b9561ca1ee"
+    },
+    {
+      "question": "奨学金の選考において重視されるのは、どのような点ですか。",
+      "options": [
+        "過去の受賞歴のみ",
+        "学業成績と経済状況のみ",
+        "学業成績や実績に加え、将来性、独創性、メッセージ性など",
+        "年齢と国籍のみ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「選考にあたっては、これまでの学業成績や実績に加え、将来性や独創性、そして作品に込められたメッセージ性などが重視される見込みだ」とある。",
+      "id": "e82e446d-b27d-4a3b-a0d6-f7ec609c6157"
+    },
+    {
+      "question": "この奨学金制度の創設によって、どのような効果が期待されていますか。",
+      "options": [
+        "日本のクリエイティブ産業全体の停滞",
+        "若手クリエイターの海外流出の増加",
+        "新たなヒット作品の創出や、日本文化の発信力強化",
+        "奨学金受給者の創作活動の限定"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「この制度の創設は、日本のクリエイティブ産業全体の活性化にも繋がると期待されている」「新たなヒット作品の創出や、日本文化の発信力強化に大きく寄与するものと見られている」と記されている。",
+      "id": "4e9184c8-dba9-44ff-82fe-86360a629c21"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-23-f82db1818e",
+  "publishedAt": "2026-10-23T06:00:00+09:00"
+}

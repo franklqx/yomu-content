@@ -1,0 +1,122 @@
+{
+  "title": "東北に新しい道！",
+  "summary": "東北地方で自転車の道が作られています。旅行がもっと楽しくなります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、きれいな景色がたくさんあります。特に東北地方は、海も山もあります。だから、自転車で旅行するのはとてもいいです。",
+      "translationZh": "日本有很多美丽的景色。特别是东北地方，有海也有山。所以，骑自行车旅行非常好。",
+      "translationEn": "Japan has many beautiful sceneries. Especially the Tohoku region has both the sea and mountains. Therefore, traveling by bicycle is very good.",
+      "id": "367a7359-5544-4070-bfb9-5902061b732b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、東北地方で自転車の道（サイクリングロード）をたくさん作っています。旅行する人が安全に自転車に乗れるようにするためです。",
+      "translationZh": "最近，东北地方正在修建很多自行车道（公路自行车道）。这是为了让旅行者能够安全地骑自行车。",
+      "translationEn": "Recently, many bicycle paths (cycling roads) are being built in the Tohoku region. This is to allow travelers to ride bicycles safely.",
+      "id": "7ff5ab6f-1215-43d0-bc7c-0ddf18018980",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい道ができると、もっと多くの人が東北に来るでしょう。おいしい食べ物を食べたり、きれいな所を見たりできます。きっと楽しい旅行ができます。",
+      "translationZh": "新的道路建成后，可能会有更多的人来东北。可以品尝美味的食物，可以看到美丽的地方。一定会有一段愉快的旅程。",
+      "translationEn": "When new roads are built, more people will probably come to Tohoku. You can eat delicious food and see beautiful places. You will surely have a fun trip.",
+      "id": "8d80f7f6-12a1-4865-b69e-691a582be068",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このプロジェクトはまだ進んでいます。これからも、もっといい道ができると思います。東北への旅行が、もっと便利で楽しくなりますね。",
+      "translationZh": "这个项目还在进行中。我想今后会建成更好的道路。去东北旅行会变得更加方便和有趣。",
+      "translationEn": "This project is still progressing. I think better roads will be built in the future. Traveling to Tohoku will become more convenient and enjoyable.",
+      "id": "a80a134f-5754-4357-bf7c-fc54dc24a43a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "この町の景色はとてもきれいです。",
+      "id": "22870e31-2416-4369-9605-21c8af1b00b7"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "これは日本の北の地方です。",
+      "id": "029e6bb5-cf02-4f18-bafd-9ceaa51210df"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaningZh": "自行车",
+      "meaningEn": "bicycle",
+      "level": "n5n4",
+      "exampleSentence": "私は毎日自転車で学校へ行きます。",
+      "id": "04054f5f-eec8-43ce-9086-4b276adbbc34"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整备，完善",
+      "meaningEn": "maintenance, development",
+      "level": "n3",
+      "exampleSentence": "道路の整備が進んでいます。",
+      "id": "0d8b083e-3ec6-4b87-b54a-38f1e55dc98d"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety",
+      "level": "n5n4",
+      "exampleSentence": "車に気をつけて、安全に歩きましょう。",
+      "id": "ee375168-9b18-4963-96ce-a7d6e48e4f37"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この駅はとても便利です。",
+      "id": "1582d1f7-cca0-4cc1-afd9-d63779e60e56"
+    },
+    {
+      "word": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "meaningZh": "项目",
+      "meaningEn": "project",
+      "level": "n3",
+      "exampleSentence": "新しいプロジェクトが始まりました。",
+      "id": "e0c9bf7f-29c1-43f3-82c6-59ccb7ae22ea"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方で新しく作られているものは何ですか？",
+      "options": [
+        "新しいビル",
+        "新しい駅",
+        "自転車の道",
+        "大きな公園"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「最近、東北地方で自転車の道（サイクリングロード）をたくさん作っています。」と書いてあります。",
+      "id": "a8c1d669-6541-4b86-93d8-392844acf2b1"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-23-addfe14016",
+  "publishedAt": "2026-10-23T06:00:00+09:00"
+}

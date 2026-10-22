@@ -1,0 +1,122 @@
+{
+  "title": "学生街の人気定食店",
+  "summary": "学生街に、安くておいしい大盛り定食店があります。いつも学生さんでいっぱいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町には、学生がたくさん住んでいます。だから、学生さんに人気があるお店がたくさんあります。その中の一つが、この定食屋です。",
+      "translationZh": "这个镇上住着很多学生。所以，有很多受学生欢迎的店。这家定食店就是其中之一。",
+      "translationEn": "Many students live in this town. Therefore, there are many popular shops for students. This restaurant is one of them.",
+      "id": "0ae0a89a-5b67-4d09-8e1a-550ad8943089",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この店の定食は、とても安いです。そして、量が多いのが特徴です。普通でも、他のお店よりずっと多いです。だから、お腹いっぱい食べたい学生さんにぴったりです。",
+      "translationZh": "这家店的定食很便宜。而且，量大是它的特点。即使是普通份量，也比别家店多很多。所以，非常适合想吃饱饱的学生。",
+      "translationEn": "The set meals at this restaurant are very cheap. And, a large portion size is its characteristic. Even a regular portion is much larger than at other restaurants. Therefore, it is perfect for students who want to eat a lot.",
+      "id": "f3ea56ed-43aa-4f5a-8116-653cddf00806",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昼ごはんの時間になると、いつもお店の前に行列ができます。学生さんたちは、おいしい料理を待っています。元気な声が店内に響いています。",
+      "translationZh": "到了午饭时间，店门口总是排起长队。学生们正等着美味的料理。店里回响着充满活力的声音。",
+      "translationEn": "When it's lunchtime, a line always forms in front of the store. Students are waiting for delicious food. Energetic voices echo in the shop.",
+      "id": "297bb5d5-333d-498c-8e15-7be2b6cb2110",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この店のおすすめは、唐揚げ定食です。大きな唐揚げが五つもあります。ご飯も大盛りです。味もおいしいので、みんな満足して帰ります。",
+      "translationZh": "这家店推荐的是炸鸡定食。有五个大块的炸鸡。米饭也是大份的。味道也很美味，所以大家都满意地离开。",
+      "translationEn": "The recommended dish at this restaurant is the fried chicken set meal. There are five large pieces of fried chicken. The rice is also a large portion. The taste is also delicious, so everyone leaves satisfied.",
+      "id": "a10a1bc6-6fe2-4982-aee3-04a0de3ef9d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "学生街",
+      "reading": "がくせいがい",
+      "meaningZh": "学生街（商店、餐馆等聚集，供学生消费的街区）",
+      "meaningEn": "student town (area with many shops and restaurants for students)",
+      "level": "n5n4",
+      "exampleSentence": "この辺りは学生街で、安くておいしい店が多いです。",
+      "id": "13708f17-ef8a-4310-8783-18443a41169d"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "1b232b9e-4b71-4397-8f6c-c2e897685b28"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaningZh": "定食（套餐）",
+      "meaningEn": "set meal",
+      "level": "n5n4",
+      "exampleSentence": "ランチは定食がお得です。",
+      "id": "e3b2d66e-043e-46ac-b499-3170b6fccf0f"
+    },
+    {
+      "word": "大盛り",
+      "reading": "おおもり",
+      "meaningZh": "大份，份量大",
+      "meaningEn": "large portion",
+      "level": "n5n4",
+      "exampleSentence": "ご飯を大盛りにしてください。",
+      "id": "4f8bef3c-c8a5-4fc7-ba9e-dc7c000c96bf"
+    },
+    {
+      "word": "特徴",
+      "reading": "とくちょう",
+      "meaningZh": "特点",
+      "meaningEn": "characteristic",
+      "level": "n3",
+      "exampleSentence": "この車の特徴は何ですか。",
+      "id": "2d062d5d-5fd8-432a-a2cd-9e5f5e8c3adb"
+    },
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaningZh": "行列，排队",
+      "meaningEn": "line, queue",
+      "level": "n3",
+      "exampleSentence": "人気のお店なので、いつも行列ができています。",
+      "id": "ca03b095-58a1-4f5a-9ff9-c737b2dfa1a0"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "炸鸡块",
+      "meaningEn": "fried chicken",
+      "level": "n5n4",
+      "exampleSentence": "夕食に唐揚げを作りました。",
+      "id": "c0edaccc-ec6c-48e0-813f-e94e8caa723e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋は、学生に人気がある理由は何ですか。",
+      "options": [
+        "店がとてもきれいです。",
+        "料理がとても早いです。",
+        "値段が安くて、量が多いからです。",
+        "毎日、新しいメニューがあります。"
+      ],
+      "correctIndex": 2,
+      "explanation": "この店の定食は、とても安いです。そして、量が多いのが特徴です。だから、お腹いっぱい食べたい学生さんにぴったりです。",
+      "id": "7b4a4150-51cc-4083-aa2b-b898db507bfb"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-23-08420fca06",
+  "publishedAt": "2026-10-23T06:00:00+09:00"
+}

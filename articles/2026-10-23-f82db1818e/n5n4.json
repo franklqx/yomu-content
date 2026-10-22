@@ -1,0 +1,122 @@
+{
+  "title": "夢を応援！新しい奨学金",
+  "summary": "アニメやマンガのクリエイターになりたいですか？そんな若者のための新しい奨学金ができました。夢を叶えるチャンスです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "アニメやマンガが好きな学生はたくさんいます。でも、クリエイターになるのは簡単ではありません。勉強するためのお金も必要です。そこで、新しい奨学金制度が始まりました。",
+      "translationZh": "喜欢动画和漫画的学生有很多。但是，成为创作者并不容易。学习也需要钱。因此，一个新的奖学金制度开始实施了。",
+      "translationEn": "There are many students who like anime and manga. However, becoming a creator is not easy. Money is also needed for studying. Therefore, a new scholarship system has started.",
+      "id": "fa752fb8-a148-49d2-91cd-40c163046167",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この奨学金は、将来アニメやマンガの仕事がしたい人に向けたものです。絵を描くのが得意な人、物語を作るのが好きな人、アニメの技術を学びたい人などが応募できます。",
+      "translationZh": "这个奖学金是面向将来想从事动画和漫画工作的人。擅长画画的人，喜欢创作故事的人，想学习动画技术的人都可以申请。",
+      "translationEn": "This scholarship is for people who want to work in anime and manga in the future. People who are good at drawing, people who like creating stories, and people who want to learn animation technology can apply.",
+      "id": "e129c7e2-f412-4edb-92e0-71cafed9d702",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "奨学金をもらえば、専門学校や大学で勉強する費用を助けてもらえます。夢に向かって、もっと集中して勉強ができるでしょう。たくさんの才能ある若者が、この制度を使って有名になってほしいです。",
+      "translationZh": "如果获得奖学金，可以获得支付专门学校或大学学习费用的帮助。朝着梦想，应该能更集中地学习。希望很多有才能的年轻人能利用这个制度成名。",
+      "translationEn": "If you receive the scholarship, you can get help with the costs of studying at vocational schools or universities. Towards your dreams, you will be able to study more focusedly. We hope many talented young people will use this system to become famous.",
+      "id": "c086ecb7-d54d-4426-b721-f344c4b1d83d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募の方法や詳しい情報は、インターネットで調べることができます。興味がある人は、ぜひチェックしてみてください。あなたの夢が叶うかもしれません。",
+      "translationZh": "申请方法和详细信息可以在网上查到。感兴趣的人，请务必查看一下。你的梦想也许会实现。",
+      "translationEn": "Application methods and detailed information can be found on the internet. If you are interested, please check it out. Your dream may come true.",
+      "id": "477c452f-ac67-40a3-a1c5-4464eea3845a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "クリエイター",
+      "reading": "くりえいたー",
+      "meaningZh": "创作者",
+      "meaningEn": "creator",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名なマンガのクリエイターです。",
+      "id": "cd426002-25bb-410b-af65-6ad842ee1c7c"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaningZh": "奖学金",
+      "meaningEn": "scholarship",
+      "level": "n5n4",
+      "exampleSentence": "奨学金をもらって大学に行きました。",
+      "id": "a83d5599-43fe-4741-b859-7a5a7c6e8958"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "新しい制度について説明します。",
+      "id": "3c06b44c-88a4-4bad-a900-f974ba9d3713"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaningZh": "将来",
+      "meaningEn": "future",
+      "level": "n5n4",
+      "exampleSentence": "将来、医者になりたいです。",
+      "id": "aa711694-ffcf-4a85-bb46-4925c264b656"
+    },
+    {
+      "word": "専門学校",
+      "reading": "せんもんがっこう",
+      "meaningZh": "专门学校",
+      "meaningEn": "vocational school",
+      "level": "n5n4",
+      "exampleSentence": "専門学校でデザインを勉強しています。",
+      "id": "78aa2089-c731-4544-a873-38a9393ff3d1"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "skill, technology",
+      "level": "n3",
+      "exampleSentence": "この技術はとても進んでいます。",
+      "id": "76d9f68b-b993-4c1c-b177-3026c46f350e"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningZh": "申请，应征",
+      "meaningEn": "application",
+      "level": "n5n4",
+      "exampleSentence": "この仕事に応募したいです。",
+      "id": "94f73da1-d2d4-4fac-ba27-797df1a1630e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この奨学金は、どんな人たちのためにありますか？",
+      "options": [
+        "アニメの会社で働きたい人",
+        "アニメやマンガのクリエイターになりたい人",
+        "アニメのゲームを作りたい人",
+        "アニメの会社を経営したい人"
+      ],
+      "correctIndex": 1,
+      "explanation": "この奨学金は、将来アニメやマンガの仕事がしたい人に向けたものです。",
+      "id": "9ebb3d31-d2b0-4d2d-a5c6-48ab9df22d48"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-23-f82db1818e",
+  "publishedAt": "2026-10-23T06:00:00+09:00"
+}

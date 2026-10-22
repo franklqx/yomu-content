@@ -1,0 +1,143 @@
+{
+  "title": "学生街で大人気！ボリューム満点の定食屋さん",
+  "summary": "学生が多い街には、安くてボリュームのある食事ができる定食屋さんが人気です。今回は、そんなお店の一つを紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大学の近くには、学生さんたちがお腹いっぱい食べられるお店がたくさんあります。その中でも、特に人気なのが「ボリューム満点」の定食屋さんです。値段も手頃なので、毎日でも通いたくなるという学生さんもいるそうです。",
+      "translationZh": "大学附近有很多能让学生们吃饱饱的店。其中，特别受欢迎的是“份量十足”的定食店。因为价格也实惠，所以也有学生说“每天都想去光顾”。",
+      "translationEn": "Near the university, there are many restaurants where students can eat their fill. Among them, the most popular are the set meal restaurants with \"generous portions.\" Because the prices are reasonable, some students say they want to go there every day.",
+      "id": "172d918a-6146-4555-a015-a633a7c5085b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このお店では、メインのおかずはもちろん、ご飯も大盛りにすることができます。しかも、追加料金なしで。ですから、たくさん食べたい人にとっては、まさに天国のような場所と言えるでしょう。お腹を空かせた学生たちが、いつも列を作っています。",
+      "translationZh": "在这家店，主菜当然不用说，米饭也可以选大份。而且，不需要追加费用。所以，对于想吃很多的人来说，这里简直可以说是天堂。饥肠辘辘的学生们总是排着队。",
+      "translationEn": "At this restaurant, not only the main dishes but also the rice can be served in large portions. And this is without any extra charge. Therefore, for people who want to eat a lot, it can truly be called a heavenly place. Hungry students are always lining up.",
+      "id": "f915a6de-02f2-468d-85ea-f9bb68f97a1e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、唐揚げ定食は、大きな唐揚げが５つも乗っていて、ご飯も茶碗に山盛りです。それでも、値段は１０００円以下と、学生さんのお財布にも優しいのが嬉しいポイントです。味も家庭的で美味しいので、リピーターが多いのも納得できます。",
+      "translationZh": "比如，炸鸡块定食上放着五个大块的炸鸡块，米饭也是碗里堆得高高的。即便如此，价格也在1000日元以下，让学生们的钱包也感到轻松，这一点很令人开心。味道也很家常美味，所以回头客多也是情理之中。",
+      "translationEn": "For example, the fried chicken set meal comes with five large pieces of fried chicken, and the rice is piled high in the bowl. Even so, the price is under 1000 yen, which is a pleasing point as it's kind to students' wallets. The taste is also home-style and delicious, so it's understandable why there are many repeat customers.",
+      "id": "8f0c0c28-4e98-419b-b343-9f7f47dd48d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうしたお店は、学生さんにとって貴重な存在です。勉強やサークル活動で忙しい毎日の中でも、手軽に、そして満足いくまで食事ができる場所があるのは、心強いものです。これからも、学生たちの胃袋と心を満たし続けてほしいと思います。",
+      "translationZh": "这样的店对学生来说是非常宝贵的存在。即使在学习和社团活动繁忙的每一天里，有一个可以轻松、并且吃到满足的地方，是让人感到安心的。我希望它今后也能继续填饱学生们的肚子和心灵。",
+      "translationEn": "Such restaurants are valuable existences for students. It is reassuring to have a place where they can eat easily and to their satisfaction, even amidst busy days filled with studies and club activities. I hope they will continue to fill students' stomachs and hearts from now on.",
+      "id": "67b597ba-50b7-4773-8707-408e41f74331",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ボリューム満点",
+      "reading": "ぼりゅーむまんてん",
+      "meaningZh": "份量十足，量很大",
+      "meaningEn": "generous portions, very large amount",
+      "level": "n3",
+      "exampleSentence": "このラーメン屋はいつもボリューム満点です。",
+      "id": "53a15759-52b6-4d30-ae78-3ee42636b8db"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "便宜，实惠",
+      "meaningEn": "affordable, reasonable",
+      "level": "n3",
+      "exampleSentence": "手頃な価格で美味しいものが食べられる店を探しています。",
+      "id": "d9c60ef4-ec2f-447c-afd9-448fdb837bf7"
+    },
+    {
+      "word": "通う",
+      "reading": "かよう",
+      "meaningZh": "往返，常去",
+      "meaningEn": "to commute, to frequent",
+      "level": "n3",
+      "exampleSentence": "彼は毎日ジムに通っている。",
+      "id": "6e1a8b91-f5d2-406f-b3b2-6f2310add0a5"
+    },
+    {
+      "word": "追加料金",
+      "reading": "ついかりょうきん",
+      "meaningZh": "附加费，额外费用",
+      "meaningEn": "additional charge",
+      "level": "n3",
+      "exampleSentence": "大盛りにしても追加料金はかかりません。",
+      "id": "25e31e79-4a02-43d2-89ac-fa77fd75439b"
+    },
+    {
+      "word": "唐揚げ",
+      "reading": "からあげ",
+      "meaningZh": "炸鸡块",
+      "meaningEn": "fried chicken",
+      "level": "n3",
+      "exampleSentence": "夕食に唐揚げを作りました。",
+      "id": "ae217370-3193-462e-99d6-eb176b3e37d4"
+    },
+    {
+      "word": "山盛り",
+      "reading": "やまもり",
+      "meaningZh": "堆得像山一样，满满的",
+      "meaningEn": "piled high, full to the brim",
+      "level": "n3",
+      "exampleSentence": "山盛りのご飯は食べきれなかった。",
+      "id": "2c213b9f-0b98-40a5-95f2-dd3247e920a6"
+    },
+    {
+      "word": "お財布",
+      "reading": "おさいふ",
+      "meaningZh": "钱包",
+      "meaningEn": "wallet",
+      "level": "n3",
+      "exampleSentence": "お財布を落としてしまいました。",
+      "id": "5019e3d9-367b-4fcd-983d-d7879358aa57"
+    },
+    {
+      "word": "リピーター",
+      "reading": "りぴーたー",
+      "meaningZh": "回头客，重复购买者",
+      "meaningEn": "repeat customer",
+      "level": "n3",
+      "exampleSentence": "この店のファンで、リピーターが多いです。",
+      "id": "eed58706-adc4-4fa2-a0c6-2c249f9aeda7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この定食屋さんが学生さんに人気なのはなぜですか？",
+      "options": [
+        "とてもおしゃれな内装だから。",
+        "珍しいメニューがたくさんあるから。",
+        "安くてボリュームがあるから。",
+        "有名人がよく来るから。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「値段も手頃なので、毎日でも通いたくなるという学生さんもいるそうです。」や「しかも、追加料金なしで。」と書かれています。",
+      "id": "c7db9bd9-77ca-46d3-8002-e01cb01d8f28"
+    },
+    {
+      "question": "唐揚げ定食について、本文で述べられていることはどれですか？",
+      "options": [
+        "唐揚げが３つで、ご飯は普通盛り。",
+        "唐揚げは大きいものが５つで、ご飯は大盛り。",
+        "追加料金で唐揚げを増やすことができる。",
+        "値段は１５００円だが、とても美味しい。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「例えば、唐揚げ定食は、大きな唐揚げが５つも乗っていて、ご飯も茶碗に山盛りです。」と書かれています。",
+      "id": "dfdd2567-9e89-47c5-8d00-c62a41905271"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-23-08420fca06",
+  "publishedAt": "2026-10-23T06:00:00+09:00"
+}

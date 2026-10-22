@@ -1,0 +1,126 @@
+{
+  "title": "東北のサイクリングロード整備が進んでいます",
+  "summary": "東北地方では、美しい自然を楽しみながらサイクリングができる新しい道が整備されています。観光客にも人気が出てきています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、東北地方ではサイクリングを楽しむ人が増えています。そのため、各地でサイクリングロードの整備が進められています。海沿いや山間部など、その土地ならではの景色を眺めながら走れるコースがたくさん作られているんですよ。",
+      "translationZh": "近年来，在东北地区，享受骑行乐趣的人们越来越多。因此，各地都在推进自行车道的建设。沿着海岸或山区，正在建设许多可以一边眺望当地特有景色一边骑行的路线。",
+      "translationEn": "In recent years, the number of people enjoying cycling has been increasing in the Tohoku region. Therefore, the development of cycling roads is progressing in various places. Many courses are being created where you can cycle while enjoying the unique scenery of each area, such as along the coast or in the mountains.",
+      "id": "5230eac6-c778-495a-9dff-816311db2a58",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、青森県では、美しい海岸線に沿って自転車専用道路が整備され、潮風を感じながら快適に走れるようになりました。また、岩手県では、豊かな自然が広がる内陸部にも新しいコースが計画されており、これからが楽しみです。このように、各自治体が協力しながら、より多くの人が訪れたくなるような魅力的なルートを作ろうとしています。",
+      "translationZh": "例如，在青森县，沿着美丽的海岸线建设了自行车专用道，让人可以在感受海风的同时舒适地骑行。此外，在岩手县，也计划在拥有广阔自然风光的内陆地区修建新的路线，未来非常令人期待。像这样，各个地方政府正在合作，努力创造出能吸引更多人到访的有魅力的路线。",
+      "translationEn": "For example, in Aomori Prefecture, dedicated bicycle paths have been developed along the beautiful coastline, allowing people to cycle comfortably while feeling the sea breeze. Furthermore, in Iwate Prefecture, new courses are being planned in the inland areas with abundant nature, which is something to look forward to. In this way, each local government is cooperating to create attractive routes that will make more people want to visit.",
+      "id": "f18ec613-036c-418d-a20c-78fc4aec6b82",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "サイクリングロードが整備されることで、地域の活性化にもつながると期待されています。自転車でのんびり旅をすれば、普段は素通りしてしまうような場所の魅力にも気づけるでしょう。多くの人が東北の自然や文化をサイクリングを通して体験してくれることを願っています。",
+      "translationZh": "随着自行车道的完善，人们也期待它能带动地区经济的振兴。如果能悠闲地进行自行车旅行，或许就能注意到平时匆匆路过的那些地方的魅力。我们希望有更多的人能通过骑行体验东北的自然和文化。",
+      "translationEn": "With the development of cycling roads, it is also expected to lead to regional revitalization. By traveling leisurely by bicycle, people may notice the charm of places they would normally pass by. We hope that many people will experience the nature and culture of Tohoku through cycling.",
+      "id": "84416cda-dcdd-4e2b-8b1d-f848b0b59e35",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaningZh": "整备，完善",
+      "meaningEn": "maintenance, development,整備",
+      "level": "n3",
+      "exampleSentence": "新しい道路の整備が進んでいます。",
+      "id": "022d4fd3-df1e-445a-a402-52a3070e1ed7"
+    },
+    {
+      "word": "各地",
+      "reading": "かくち",
+      "meaningZh": "各地，各处",
+      "meaningEn": "various places, everywhere",
+      "level": "n3",
+      "exampleSentence": "各地から観光客が訪れています。",
+      "id": "718e99f9-e6be-4cf8-bf96-06ca4cf266d6"
+    },
+    {
+      "word": "海沿い",
+      "reading": "うみぞい",
+      "meaningZh": "海边，海岸",
+      "meaningEn": "along the coast, seaside",
+      "level": "n3",
+      "exampleSentence": "海沿いを散歩するのは気持ちがいいです。",
+      "id": "6b4ee348-d3f3-4929-88bd-7ed62480381a"
+    },
+    {
+      "word": "山間部",
+      "reading": "さんかんぶ",
+      "meaningZh": "山区",
+      "meaningEn": "mountainous areas, inland",
+      "level": "n3",
+      "exampleSentence": "山間部では紅葉が綺麗でした。",
+      "id": "3cdcbece-d0fb-4dc7-9980-bb64bcf5957a"
+    },
+    {
+      "word": "潮風",
+      "reading": "しおかぜ",
+      "meaningZh": "海风，潮风",
+      "meaningEn": "sea breeze, salt air",
+      "level": "n3",
+      "exampleSentence": "海辺で潮風にあたりながらリラックスしました。",
+      "id": "5da4b40d-183b-46e4-87c7-4445e583334e"
+    },
+    {
+      "word": "活性化",
+      "reading": "かっせいか",
+      "meaningZh": "活性化，振兴",
+      "meaningEn": "invigoration, revitalization",
+      "level": "n2n1",
+      "exampleSentence": "地域経済の活性化が課題です。",
+      "id": "dc566dcd-b32a-47c6-9773-cdee6859cc75"
+    },
+    {
+      "word": "のんびり",
+      "reading": "のんびり",
+      "meaningZh": "悠闲地，从容地",
+      "meaningEn": "leisurely, relaxed",
+      "level": "n3",
+      "exampleSentence": "休日は家でのんびり過ごしたいです。",
+      "id": "cb555a84-f6f1-4f36-9003-870e632ee7d6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "東北地方でサイクリングロードの整備が進んでいる理由は何ですか？",
+      "options": [
+        "もっと多くの人が自転車を買うようにするため",
+        "サイクリングを楽しむ人が増えているから",
+        "自転車の事故を減らすため",
+        "新しい観光地を作るため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「サイクリングを楽しむ人が増えています。そのため、各地でサイクリングロードの整備が進められています。」と書かれています。",
+      "id": "79ae4ce8-c533-4a12-b46c-7c41b148d99a"
+    },
+    {
+      "question": "サイクリングロードが整備されることによって、どのような効果が期待されていますか？",
+      "options": [
+        "新しい駅がたくさん作られる",
+        "地域の経済が活性化される",
+        "より速く移動できるようになる",
+        "冬でもサイクリングができるようになる"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の最後の段落に「サイクリングロードが整備されることで、地域の活性化にもつながると期待されています。」とあります。",
+      "id": "fd3ec4de-a491-43ae-bd4a-ace49390009e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-23-addfe14016",
+  "publishedAt": "2026-10-23T06:00:00+09:00"
+}
