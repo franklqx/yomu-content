@@ -1,0 +1,131 @@
+{
+  "title": "アニメ聖地巡礼、町おこしの力",
+  "summary": "アニメの舞台になった場所を訪れる人が増えています。これは「聖地巡礼」と呼ばれ、地方の町を元気にしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、アニメのファンがアニメの舞台になった町を訪ねるのが人気です。この旅行は「聖地巡礼」と呼ばれています。ファンはアニメに出てくる景色と同じ場所で写真を撮ったり、その町を楽しみます。",
+      "translationZh": "最近，动漫迷们去动漫取景地旅行变得很受欢迎。这种旅行被称为“圣地巡礼”。粉丝们会在和动漫里一样的景色前拍照，并享受那个小镇。",
+      "translationEn": "Recently, it has become popular for anime fans to visit towns that have become the setting for anime. This trip is called 'Seichi Junrei' (pilgrimage to sacred sites). Fans take pictures in the same places as the scenery that appeared in the anime and enjoy the town.",
+      "id": "25d33d57-b072-4596-a682-aefc6378072a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "「聖地巡礼」は、アニメが好きな人だけではなく、町の人々にも良い影響を与えています。例えば、観光客が増えると、その町の店やレストランはもっと忙しくなります。これは町にとって、とても嬉しいことです。",
+      "translationZh": "“圣地巡礼”不仅给喜欢动漫的人，也给小镇的人们带来了好的影响。例如，随着游客的增加，小镇的商店和餐馆会变得更加繁忙。这对小镇来说是非常令人高兴的事情。",
+      "translationEn": "'Seichi Junrei' has a good impact not only on people who like anime but also on the people of the town. For example, when tourists increase, the town's shops and restaurants become busier. This is very happy news for the town.",
+      "id": "cb8bbd93-b4f3-4415-b34c-5966c41f550c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメの会社や地域の人々が協力して、聖地巡礼をもっと楽しくするイベントも開かれています。特別なグッズを売ったり、スタンプラリーをしたりします。こうした活動は、町をさらに有名にし、地域経済を助ける力になります。",
+      "translationZh": "动漫公司和当地人们合作，举办让圣地巡礼更有趣的活动。他们会卖特别的商品，或者举行盖章集点活动。这些活动能让小镇更加出名，并成为帮助地方经济的力量。",
+      "translationEn": "Anime companies and local people cooperate to hold events that make 'Seichi Junrei' more enjoyable. They sell special goods and hold stamp rallies. These activities help to make the town even more famous and become a force to help the local economy.",
+      "id": "96444a5c-11a9-46d2-a980-b492e031abf5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "アニメがきっかけで、今まで知らなかった町に興味を持つ人が増えています。聖地巡礼は、新しい発見と、町とのつながりを作る素晴らしい方法です。これからも、アニメと聖地巡礼が、多くの町を元気にすることでしょう。",
+      "translationZh": "以动漫为契机，对以前不知道的小镇感兴趣的人正在增加。圣地巡礼是创造新发现和与小镇建立联系的绝佳方式。今后，动漫和圣地巡礼也必将让许多小镇充满活力。",
+      "translationEn": "More and more people are becoming interested in towns they didn't know before because of anime. 'Seichi Junrei' is a wonderful way to make new discoveries and build connections with towns. From now on, anime and 'Seichi Junrei' will surely energize many towns.",
+      "id": "1385482e-1d2b-43a9-ac79-1b1ad420c02c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，场景",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "このアニメの舞台は美しい海辺の町です。",
+      "id": "314a1d3d-ed25-4dfd-be7d-d95fa766a9f9"
+    },
+    {
+      "word": "巡礼",
+      "reading": "じゅんれい",
+      "meaningZh": "朝圣，巡礼",
+      "meaningEn": "pilgrimage",
+      "level": "n3",
+      "exampleSentence": "多くのファンがアニメの聖地を巡礼します。",
+      "id": "284375c4-71bc-4773-ab01-65dc19071bb8"
+    },
+    {
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaningZh": "影响",
+      "meaningEn": "influence, effect",
+      "level": "n3",
+      "exampleSentence": "聖地巡礼は町に良い影響を与えます。",
+      "id": "414f91c3-5e1c-41d6-9cf1-87e721f5bcff"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "游客",
+      "meaningEn": "tourist",
+      "level": "n5n4",
+      "exampleSentence": "観光客がたくさん町に来ました。",
+      "id": "7602cddd-8959-41e5-ac47-ccc93a71374f"
+    },
+    {
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "meaningZh": "忙碌的",
+      "meaningEn": "busy",
+      "level": "n5n4",
+      "exampleSentence": "店は観光客でとても忙しくなりました。",
+      "id": "89d9913c-556c-482d-9fa7-a34c26f35a26"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "町の人々とアニメ会社が協力しています。",
+      "id": "715e0ee5-ed7c-4a0e-8427-ef7d67eeec87"
+    },
+    {
+      "word": "地域経済",
+      "reading": "ちいきけいざい",
+      "meaningZh": "地方经济",
+      "meaningEn": "local economy",
+      "level": "n3",
+      "exampleSentence": "聖地巡礼は地域経済を助けます。",
+      "id": "64f8b24e-3071-45ca-9f6f-1bf92f038a25"
+    },
+    {
+      "word": "きっかけ",
+      "reading": "きっかけ",
+      "meaningZh": "契机，开头",
+      "meaningEn": "chance, start",
+      "level": "n5n4",
+      "exampleSentence": "アニメが町を知るきっかけになりました。",
+      "id": "e814c0aa-3a08-45cf-8b13-6ee9fc71f171"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「聖地巡礼」は、町にどのような良い影響を与えますか？",
+      "options": [
+        "アニメのファンが増えるだけです。",
+        "町のお店やレストランが忙しくなります。",
+        "アニメの会社だけが儲かります。",
+        "町は静かになります。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「観光客が増えると、その町の店やレストランはもっと忙しくなります。」",
+      "id": "744ac38b-8778-431b-b4e7-5a912fed08f8"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-24-220265558d",
+  "publishedAt": "2026-10-24T06:00:00+09:00"
+}

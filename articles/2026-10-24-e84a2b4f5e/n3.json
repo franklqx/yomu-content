@@ -1,0 +1,135 @@
+{
+  "title": "回転寿司の値上げ、お客さんの反応は？",
+  "summary": "最近、多くの回転寿司チェーンで価格が上がっています。それによって、お客さんの利用の仕方に変化が見られるようです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、人気の回転寿司チェーンで値上げのニュースをよく聞きますね。原材料費の高騰などが原因で、今までよりお皿１枚あたりの値段が上がっているお店が増えています。この変化は、私たちのお財布にも影響があるかもしれません。",
+      "translationZh": "最近，经常听到关于人气旋转寿司连锁店涨价的新闻。由于原材料成本上涨等原因，每盘寿司的价格比以前更高的店铺正在增加。这个变化可能也会影响到我们的钱包。",
+      "translationEn": "Recently, we often hear news about price increases at popular conveyor belt sushi chains. Due to factors like rising raw material costs, more and more shops are increasing the price per plate. This change might also affect our wallets.",
+      "id": "8f664af5-8c80-4920-abf2-ef21aac5b3cb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったことで、今までのように気軽にたくさんのお皿を取るのをためらうお客さんもいるようです。特に、家族連れなどで訪れる場合、予算を気にして注文を控えることもあるでしょう。しかし、一方で、それでも回転寿司を楽しみたいという声も聞かれます。",
+      "translationZh": "价格上涨后，似乎有些顾客开始犹豫是否像以前那样随意地点很多盘寿司了。尤其是在全家出游等情况下，可能会因为在意预算而控制点餐。但是，另一方面，也能听到一些声音表示即使涨价也想继续享受旋转寿司。",
+      "translationEn": "With the price increase, it seems some customers hesitate to order as many plates as they used to freely. Especially when visiting as a family, they might limit their orders due to budget concerns. However, on the other hand, we also hear voices saying they still want to enjoy conveyor belt sushi.",
+      "id": "95e828af-1148-4598-9dcf-f9558324a9c1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "そこで、回転寿司チェーン側も、ただ値段を上げるだけでなく、新しいメニューを開発したり、お得なセットを提供したりと、工夫を凝らしています。品質を維持しながらも、お客さんが満足できるような価格設定やサービスを心がけているのでしょう。これからも、回転寿司が多くの人に愛されるためには、こうした努力が大切になってくるはずです。",
+      "translationZh": "因此，旋转寿司连锁店方面也不仅仅是单纯地提高价格，还在绞尽脑汁开发新菜单，提供划算的套餐等。他们大概是在努力维持品质的同时，也用心设定让顾客满意的价格和服务。今后，为了让旋转寿司继续被许多人喜爱，这样的努力应该是很重要的。",
+      "translationEn": "Therefore, conveyor belt sushi chains are not just raising prices but are also making efforts such as developing new menu items and offering good value set meals. They are likely striving to maintain quality while also focusing on pricing and services that satisfy customers. Moving forward, such efforts should be crucial for conveyor belt sushi to remain loved by many.",
+      "id": "836af3b7-f146-4525-8919-5930cb3d1bf1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "値上げ",
+      "reading": "ねあげ",
+      "meaningZh": "涨价",
+      "meaningEn": "price increase",
+      "level": "n3",
+      "exampleSentence": "多くの食品が値上げされました。",
+      "id": "bb0cca42-d070-4a32-af2a-28b9d00693f5"
+    },
+    {
+      "word": "原材料費",
+      "reading": "げんざいりょうひ",
+      "meaningZh": "原材料成本",
+      "meaningEn": "raw material costs",
+      "level": "n3",
+      "exampleSentence": "原材料費の高騰で、商品の値段が上がりました。",
+      "id": "be7fd1c7-36f9-4bdb-9e54-9b5f116cfbc5"
+    },
+    {
+      "word": "高騰",
+      "reading": "こうとう",
+      "meaningZh": "（价格等）飞涨，急剧上升",
+      "meaningEn": "soaring, sharp rise",
+      "level": "n2n1",
+      "exampleSentence": "原油価格の高騰が続いています。",
+      "id": "c6d720db-9e78-4eaf-acee-9b8869a73fd0"
+    },
+    {
+      "word": "お財布",
+      "reading": "おさいふ",
+      "meaningZh": "钱包",
+      "meaningEn": "wallet",
+      "level": "n5n4",
+      "exampleSentence": "お財布の中身が少なくなってきました。",
+      "id": "64d154fe-fa9d-4b1f-ae0a-9d526bac5461"
+    },
+    {
+      "word": "ためらう",
+      "reading": "ためらう",
+      "meaningZh": "犹豫，踌躇",
+      "meaningEn": "to hesitate",
+      "level": "n3",
+      "exampleSentence": "返事を言うのをためらいました。",
+      "id": "10e8ab97-025b-4607-b1b1-5893310d44a0"
+    },
+    {
+      "word": "家族連れ",
+      "reading": "かぞくれ",
+      "meaningZh": "全家出动，带家眷",
+      "meaningEn": "a family outing, accompanied by family",
+      "level": "n3",
+      "exampleSentence": "週末は家族連れで賑わっていました。",
+      "id": "8fa796cf-ecdf-4311-a56d-4b04d31e3cee"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想法，办法，创造",
+      "meaningEn": "device, idea, ingenuity",
+      "level": "n3",
+      "exampleSentence": "この問題の解決に工夫が必要です。",
+      "id": "b4d4dc4f-b485-423d-b0e0-756bcf43d7bc"
+    },
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaningZh": "（心思等）倾注，费心",
+      "meaningEn": "to exert oneself (mentally), to devise",
+      "level": "n2n1",
+      "exampleSentence": "デザインに工夫を凝らしました。",
+      "id": "987ffaa1-34bd-4c43-b7af-a221e139cbbc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "回転寿司チェーンの値上げの主な理由は何ですか？",
+      "options": [
+        "お客さんが減ったから",
+        "新しい店舗が増えたから",
+        "原材料費の高騰",
+        "メニューが少なくなったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第一段落に「原材料費の高騰などが原因で、今までよりお皿１枚あたりの値段が上がっているお店が増えています。」とあります。",
+      "id": "20589397-de89-42ee-b6d1-6d7ec3200b16"
+    },
+    {
+      "question": "値上げ後、お客さんの行動にどのような変化が見られますか？",
+      "options": [
+        "たくさん食べるようになった",
+        "値段を気にせず注文するようになった",
+        "気軽にたくさん注文するのをためらうようになった",
+        "回転寿司に行かなくなった"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の第二段落に「値段が上がったことで、今までのように気軽にたくさんのお皿を取るのをためらうお客さんもいるようです。」とあります。",
+      "id": "6fb32862-9407-4387-b273-d0a3633cba49"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-24-e84a2b4f5e",
+  "publishedAt": "2026-10-24T06:00:00+09:00"
+}

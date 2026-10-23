@@ -1,0 +1,147 @@
+{
+  "title": "新学期、文房具トレンド最新事情！",
+  "summary": "新学期が目前に迫り、学用品の需要が高まっています。今年は機能性だけでなく、デザイン性やサステナビリティを重視した文房具が注目を集めているとのことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "春は新しい生活が始まる季節であり、多くの学生が新学期に向けて準備を始めています。その中でも、学業の効率化やモチベーション向上に繋がる文房具への関心は年々高まっており、各メーカーからは多様なニーズに応える新製品が続々と発表されています。特に、近年は「映える」デザイン性や、環境に配慮した素材を使用した商品がトレンドとなっているようです。",
+      "translationZh": "春天是开始新生活的季节，许多学生正朝着新学期做准备。其中，与提高学习效率和学习动力相关联的文具的关注度逐年升高，各制造商正不断发布满足多样化需求的新产品。特别是近年来，兼具“上镜”的设计感以及使用环保材料制成的商品似乎正成为一种趋势。",
+      "translationEn": "Spring is the season for new beginnings, and many students are preparing for the new school year. Among these, interest in stationery that can lead to improved academic efficiency and motivation is increasing year by year, with manufacturers continuously releasing new products to meet diverse needs. In particular, products with aesthetic appeal and those made from environmentally friendly materials appear to be trending in recent years.",
+      "id": "d25d5326-36d1-47fa-b767-33e3de916e21",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "機能面では、書き心地の滑らかさを追求したボールペンや、ノートのページを傷めずに繰り返し貼れる付箋などが人気を集めています。また、デジタル化が進む現代において、手書きの良さが見直される傾向もあり、万年筆やインクの種類を豊富に取り揃えた専門店も賑わいを見せているとのことです。さらに、学習効率を高めるための工夫が凝らされたノートや、集中力を維持するための工夫が施された筆記具なども注目されています。",
+      "translationZh": "在功能方面，追求书写流畅性的圆珠笔，以及可以反复粘贴而不损伤笔记本内页的便利贴等正受到欢迎。此外，在数字化不断发展的现代，手写的优点也重新受到关注，提供丰富万年笔和墨水种类的专卖店似乎也生意兴隆。此外，为提高学习效率而精心设计的笔记本，以及为保持专注力而采取了特殊设计的书写工具等也备受瞩目。",
+      "translationEn": "In terms of functionality, ballpoint pens pursuing smooth writing comfort and sticky notes that can be repeatedly attached without damaging notebook pages are gaining popularity. Furthermore, in today's increasingly digitized world, there is a trend to re-evaluate the merits of handwriting, and specialty stores offering a wide variety of fountain pens and inks are reportedly bustling. Additionally, notebooks thoughtfully designed to enhance learning efficiency and writing instruments with features to help maintain concentration are also drawing attention.",
+      "id": "dd50b2e4-ae9c-458b-a9c1-6883c783b381",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、環境問題への意識の高まりに伴い、再生紙を使用したノートや、プラスチック削減に貢献する詰め替え式の筆記具、さらには植物由来の素材で作られた文房具なども、環境意識の高い学生や保護者から支持を得ています。これらのサステナブルな文房具は、未来を担う世代への教育的側面も持ち合わせていると見られ、選択肢の一つとして定着しつつあるようです。",
+      "translationZh": "另一方面，随着对环境问题意识的提高，使用再生纸制作的笔记本、有助于减少塑料使用的可替换芯笔、以及用植物性材料制成的文具等，也获得了环保意识较高的学生和家长的支持。这些可持续文具被认为也具有对肩负未来一代的教育意义，并似乎正逐渐成为一种固定的选择。",
+      "translationEn": "On the other hand, with increasing awareness of environmental issues, notebooks made from recycled paper, refillable writing instruments that contribute to plastic reduction, and stationery made from plant-derived materials are also gaining support from environmentally conscious students and parents. These sustainable stationery items are seen as having an educational aspect for the future generation and appear to be becoming established as a viable option.",
+      "id": "e42aeeaf-8ba7-4147-8cc7-86ef3c673b5a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "迫る",
+      "reading": "せまる",
+      "meaningZh": "临近，逼近",
+      "meaningEn": "to approach, to draw near",
+      "level": "n3",
+      "exampleSentence": "締め切りが迫っている。",
+      "id": "7ec48f32-9e03-4a21-b48e-511158f953af"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaningZh": "需求",
+      "meaningEn": "demand, need",
+      "level": "n2n1",
+      "exampleSentence": "この商品の需要は高い。",
+      "id": "21f0e178-2d72-4619-bab4-76f66b911146"
+    },
+    {
+      "word": "モチベーション",
+      "reading": "もちべーしょん",
+      "meaningZh": "积极性，动机",
+      "meaningEn": "motivation",
+      "level": "n3",
+      "exampleSentence": "新しい仕事でモチベーションが上がった。",
+      "id": "13671a57-30d0-404b-88f2-6fc9b37a379e"
+    },
+    {
+      "word": "多様",
+      "reading": "たよう",
+      "meaningZh": "多样，形形色色",
+      "meaningEn": "diverse, various",
+      "level": "n2n1",
+      "exampleSentence": "多様な意見が寄せられた。",
+      "id": "23098117-0f1c-4797-9d33-54854d0583cb"
+    },
+    {
+      "word": "映える",
+      "reading": "はえる",
+      "meaningZh": "（在照片、SNS等中）显得好看，引人注目",
+      "meaningEn": "to look good (in photos, on social media), to be striking",
+      "level": "n2n1",
+      "exampleSentence": "この料理は写真映えする。",
+      "id": "26d39df9-4de3-46a4-86b5-05fcb746ac77"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaningZh": "关怀，关切；考虑",
+      "meaningEn": "consideration, care",
+      "level": "n2n1",
+      "exampleSentence": "相手の気持ちに配慮する。",
+      "id": "2d5cb06a-31c9-4d2f-9d7e-dcd8bd1ba37a"
+    },
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaningZh": "精心制作，绞尽脑汁",
+      "meaningEn": "to devise, to contrive, to focus",
+      "level": "n2n1",
+      "exampleSentence": "細部に工夫を凝らす。",
+      "id": "5caf7ae1-a590-4b5f-b077-88800e955eca"
+    },
+    {
+      "word": "定着",
+      "reading": "ていちゃく",
+      "meaningZh": "固定，扎根；普及",
+      "meaningEn": "settlement, establishment; becoming established, widespread adoption",
+      "level": "n2n1",
+      "exampleSentence": "新しい習慣が定着するのに時間がかかる。",
+      "id": "3a45155f-2f96-4dc7-b226-d061e0816f79"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の文房具トレンドとして、特に注目されている点は何ですか？",
+      "options": [
+        "価格の手頃さ",
+        "最新のデジタル機能",
+        "デザイン性やサステナビリティ",
+        "有名キャラクターとのコラボレーション"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中「今年は機能性だけでなく、デザイン性やサステナビリティを重視した文房具が注目を集めているとのことです。」と述べられています。",
+      "id": "2856292f-3388-49c2-990f-2fd1ac6c4d2c"
+    },
+    {
+      "question": "機能面で人気を集めている文房具の例として、本文で挙げられているものはどれですか？",
+      "options": [
+        "インクが乾きにくいペンと、破れやすいノート",
+        "書き心地の滑らかなボールペンと、繰り返し貼れる付箋",
+        "消せるインクのペンと、厚紙のノート",
+        "多機能電卓付きのペンと、曲がる定規"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「書き心地の滑らかさを追求したボールペンや、ノートのページを傷めずに繰り返し貼れる付箋などが人気を集めています。」と記載されています。",
+      "id": "f17c93ce-25a4-4251-a2b8-16d86a93141a"
+    },
+    {
+      "question": "サステナブルな文房具が支持を得ている理由として、本文ではどのような点が指摘されていますか？",
+      "options": [
+        "デザインが非常にユニークであるため",
+        "価格が他の文房具より安価であるため",
+        "環境問題への意識の高まりと、教育的側面のため",
+        "耐久性が非常に高く長持ちするため"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「環境問題への意識の高まりに伴い、…これらのサステナブルな文房具は、未来を担う世代への教育的側面も持ち合わせていると見られ、選択肢の一つとして定着しつつあるようです。」と説明されています。",
+      "id": "06449de6-49c3-4739-99b0-bf6a81d338db"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-24-6abb825666",
+  "publishedAt": "2026-10-24T06:00:00+09:00"
+}

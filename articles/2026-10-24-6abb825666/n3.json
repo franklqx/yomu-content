@@ -1,0 +1,143 @@
+{
+  "title": "新学期！文房具トレンドで気分転換しよう",
+  "summary": "新学期が始まりますね。新しい文房具で、勉強のモチベーションを上げませんか？今年のトレンドをご紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "いよいよ新学期が近づいてきました。学校が始まるとなると、やっぱり新しい文房具が欲しくなりますよね。学生の皆さんにとっては、新しいノートやペンを準備することは、勉強を頑張ろうという気持ちを高める大切なイベントの一つです。お店には、色とりどりの商品が並び、見ているだけでもワクワクします。",
+      "translationZh": "新学期终于快要到了。说起开学，果然还是会想要新文具呢。对学生们来说，准备新的笔记本和笔，是提升学习干劲的重要活动之一。店里摆满了五颜六色的商品，光是看看就让人兴奋。",
+      "translationEn": "The new school term is finally approaching. When it comes to starting school, people naturally want new stationery, don't they? For students, preparing new notebooks and pens is one of the important events that boost their motivation to study. Shops are lined with colorful products, and just looking at them is exciting.",
+      "id": "1faf5e67-a6b2-4df8-ad10-8c81de479819",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年の文房具トレンドは、機能性はもちろんのこと、デザイン性も重視される傾向があります。特に、環境に配慮した素材で作られたエコロジーな商品が注目されています。例えば、再生紙を使ったノートや、プラスチックの使用を減らしたペンなどです。これらを選ぶことは、地球に優しい行動につながるので、素晴らしいですね。",
+      "translationZh": "今年的文具潮流，除了功能性之外，也倾向于重视设计性。特别是用环保材料制作的生态商品备受瞩目。例如，使用再生纸的笔记本，以及减少塑料使用的笔等。选择这些商品，能につながる（につながる：连接、导向）对地球友好的行动，真棒。",
+      "translationEn": "This year's stationery trends tend to emphasize design as well as functionality. In particular, eco-friendly products made from environmentally conscious materials are attracting attention. For example, notebooks made from recycled paper and pens that reduce plastic use. Choosing these products leads to actions that are kind to the planet, which is wonderful.",
+      "id": "2bfe97ec-cdab-4f9f-98ad-a7a3051e35df",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、SNS映えするような、おしゃれでかわいいデザインの文房具も人気です。パステルカラーのものや、キャラクターがデザインされたものは、持っているだけで気分が上がります。勉強の合間にふと目にしたときに、癒やされるようなデザインも増えています。色々な種類があるので、自分の好みに合わせて選ぶのが楽しいでしょう。",
+      "translationZh": "此外，适合在社交媒体上分享的、时尚可爱的设计文具也很受欢迎。粉彩色系或印有卡通人物的设计，仅仅是拿着就能让人心情愉悦。在学习间隙偶然看到时，能起到治愈作用的设计也越来越多。因为种类繁多，所以根据自己的喜好来选择会很有趣。",
+      "translationEn": "Also popular are stylish and cute stationery items that look good on social media. Pastel colors and character designs can lift your mood just by holding them. Designs that offer comfort when you happen to see them during study breaks are also increasing. There are many types, so it's fun to choose according to your preferences.",
+      "id": "ee72f83e-d07d-4feb-a9da-69a5b6d99ff8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい文房具を手に入れると、勉強がもっと楽しくなることがあります。機能的で、かつデザインも気に入ったものを見つけて、新学期を気持ちよくスタートさせましょう。お気に入りのペンやノートがあれば、きっと勉強への意欲も湧いてくるはずです。",
+      "translationZh": "拿到新文具，有时会让学习变得更加有趣。找到兼具功能性和喜爱设计的文具，以此来舒适地开始新学期吧。如果有了喜欢的笔和笔记本，想必学习的意愿也会随之涌现。",
+      "translationEn": "Getting new stationery can make studying more enjoyable. Let's find items that are both functional and aesthetically pleasing, and start the new term with a good feeling. If you have favorite pens and notebooks, your motivation to study will surely increase.",
+      "id": "390a9898-b60e-4d7b-afa0-011799a05faa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文房具",
+      "reading": "ぶんぼVideo",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いに行きました。",
+      "id": "92468a29-ffe3-42b8-bc98-521357a5f5d9"
+    },
+    {
+      "word": "トレンド",
+      "reading": "とれんど",
+      "meaningZh": "潮流，趋势",
+      "meaningEn": "trend",
+      "level": "n3",
+      "exampleSentence": "今年のファッションのトレンドは何ですか。",
+      "id": "92d38a36-fe53-4aac-9c31-22de27d5a2c5"
+    },
+    {
+      "word": "モチベーション",
+      "reading": "もちべーしょん",
+      "meaningZh": "动力，积极性",
+      "meaningEn": "motivation",
+      "level": "n3",
+      "exampleSentence": "新しい目標はモチベーションを高めます。",
+      "id": "53536c28-8317-4bd0-bd16-1f0a79f5ee29"
+    },
+    {
+      "word": "機能性",
+      "reading": "きのうせい",
+      "meaningZh": "功能性",
+      "meaningEn": "functionality",
+      "level": "n3",
+      "exampleSentence": "この製品は機能性が高いです。",
+      "id": "6e1cc4f1-c71f-4568-8f8e-84eea7490177"
+    },
+    {
+      "word": "デザイン性",
+      "reading": "でざいんせい",
+      "meaningZh": "设计性",
+      "meaningEn": "design appeal",
+      "level": "n3",
+      "exampleSentence": "デザイン性の高い家具は人気があります。",
+      "id": "47821053-81fa-4b7e-ab28-8ae73f92e98d"
+    },
+    {
+      "word": "環境に配慮した",
+      "reading": "かんきょうに はいりょした",
+      "meaningZh": "考虑到环境的，环保的",
+      "meaningEn": "environmentally conscious",
+      "level": "n3",
+      "exampleSentence": "環境に配慮した製品を選びましょう。",
+      "id": "89c75010-7948-4a70-9d26-5faa5d3b78fc"
+    },
+    {
+      "word": "再生紙",
+      "reading": "さいせいし",
+      "meaningZh": "再生纸",
+      "meaningEn": "recycled paper",
+      "level": "n3",
+      "exampleSentence": "再生紙のノートは環境に優しいです。",
+      "id": "9b7dcd8f-3f66-4397-ab90-6181eb9ebcc6"
+    },
+    {
+      "word": "SNS映え",
+      "reading": "えすえぬえすばえ",
+      "meaningZh": "在社交媒体上好看/受欢迎",
+      "meaningEn": "looks good on social media",
+      "level": "n3",
+      "exampleSentence": "このケーキはSNS映えしますね。",
+      "id": "47d3a724-cde7-46c8-91d3-e6f8c1352b6d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の文房具トレンドで、特に重視されている点は何ですか？",
+      "options": [
+        "価格の手頃さ",
+        "機能性とデザイン性",
+        "キャラクターの限定性",
+        "最新技術の搭載"
+      ],
+      "correctIndex": 1,
+      "explanation": "今年の文房具トレンドは、機能性はもちろんのこと、デザイン性も重視される傾向があります。",
+      "id": "8088db5e-67e7-412c-972c-8a8c4ab185ef"
+    },
+    {
+      "question": "環境に配慮した文房具の例として、本文で挙げられているものはどれですか？",
+      "options": [
+        "キラキラした装飾のペン",
+        "最新のインクを使ったノート",
+        "再生紙を使ったノートやプラスチック使用を減らしたペン",
+        "キャラクターが描かれた消しゴム"
+      ],
+      "correctIndex": 2,
+      "explanation": "例えば、再生紙を使ったノートや、プラスチックの使用を減らしたペンなどです。",
+      "id": "249d2cd6-3379-49e6-9fb5-7c4ee8e11a58"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-24-6abb825666",
+  "publishedAt": "2026-10-24T06:00:00+09:00"
+}

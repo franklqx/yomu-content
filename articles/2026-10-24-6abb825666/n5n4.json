@@ -1,0 +1,122 @@
+{
+  "title": "新学期！文房具は楽しい！",
+  "summary": "新しい学期が始まります。新しい文房具は気持ちがいいです。どんな文房具が人気ですか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐ新しい学期が始まりますね。学校で使う文房具を新しくする人も多いでしょう。新しいペンやノートは、勉強のやる気をあげます。きれいな文房具で、新しい勉強を始めましょう。",
+      "translationZh": "很快新学期就要开始了。很多人会把学校用的文具换成新的吧。新的笔和笔记本能提高学习的干劲。用漂亮的新文具，开始新的学习吧。",
+      "translationEn": "The new school term will start soon. Many people will renew their stationery for school. New pens and notebooks boost motivation for studying. Let's start new studies with nice stationery.",
+      "id": "825322e2-5358-4049-854a-189a11952034",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、おしゃれな文房具がたくさんあります。キャラクターものが人気です。動物や可愛い絵がついたものもあります。色もたくさんあって、選ぶのが楽しいです。友達とおそろいのものを選ぶのもいいですね。",
+      "translationZh": "最近，有很多时髦的文具。带卡通人物的文具很受欢迎。也有带有动物或可爱图案的。颜色也很多，选择很开心。和朋友选一样的款式也不错呢。",
+      "translationEn": "Recently, there are many stylish stationery items. Character goods are popular. There are also items with animals or cute pictures. There are many colors, and it's fun to choose. It's also nice to choose matching items with friends.",
+      "id": "6abc74d2-e3da-4d84-94c6-75ef0cc2ad82",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "機能的な文房具も注目されています。例えば、消しやすい消しゴムや、書きやすいボールペンです。色々な工夫がされています。勉強がもっと楽になります。便利なので、大人にも人気があります。",
+      "translationZh": "功能性的文具也备受关注。例如，容易擦掉的橡皮擦，或者容易书写的圆珠笔。有很多各种各样的创新。学习会变得更轻松。因为很方便，所以也受大人们的欢迎。",
+      "translationEn": "Functional stationery is also attracting attention. For example, erasers that erase easily and ballpoint pens that are easy to write with. Various innovations have been made. Studying becomes easier. They are convenient, so they are also popular among adults.",
+      "id": "98dec2e7-de80-4eb5-8962-4c241c93dcc9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい学期、お気に入りの文房具を見つけてください。きっと、毎日の学校生活がもっと楽しくなりますよ。文房具選びは、新しいスタートの準備です。",
+      "translationZh": "新学期，请找到你喜欢的文具。一定能让每天的学校生活变得更开心。选择文具，是为新的开始做准备。",
+      "translationEn": "For the new school term, please find your favorite stationery. It will surely make your daily school life more enjoyable. Choosing stationery is preparation for a new start.",
+      "id": "fb3e9342-e110-4ba8-b27c-91efd68aa6fc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "文房具",
+      "reading": "ぶんぼ Aşağı",
+      "meaningZh": "文具",
+      "meaningEn": "stationery",
+      "level": "n5n4",
+      "exampleSentence": "新しい文房具を買いました。",
+      "id": "1da5a9b9-0490-453f-a1df-2a69bff6f539"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaningZh": "学期",
+      "meaningEn": "school term",
+      "level": "n5n4",
+      "exampleSentence": "来週から新しい学期が始まります。",
+      "id": "d3aca565-39e4-487e-9068-03adb3934a96"
+    },
+    {
+      "word": "やる気",
+      "reading": "やるき",
+      "meaningZh": "干劲，积极性",
+      "meaningEn": "motivation",
+      "level": "n5n4",
+      "exampleSentence": "やる気が出てきました。",
+      "id": "f1efd02a-c5c0-47eb-b481-2a37776cf212"
+    },
+    {
+      "word": "おしゃれ",
+      "reading": "おしゃれ",
+      "meaningZh": "时髦，漂亮",
+      "meaningEn": "stylish, fashionable",
+      "level": "n5n4",
+      "exampleSentence": "あの人の服はおしゃれです。",
+      "id": "b93e3c4e-2f87-4e7e-a1aa-7ff6be3644ac"
+    },
+    {
+      "word": "機能的",
+      "reading": "きのうてき",
+      "meaningZh": "功能性的",
+      "meaningEn": "functional",
+      "level": "n3",
+      "exampleSentence": "このカバンは機能的で便利です。",
+      "id": "89bcdd0a-83c5-4bce-a88d-34d62adafad0"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "创造，改进，巧妙的办法",
+      "meaningEn": "ingenuity, idea, effort",
+      "level": "n3",
+      "exampleSentence": "面白い工夫がたくさんあります。",
+      "id": "0b4a8647-f313-47fe-958c-39df9ae3b992"
+    },
+    {
+      "word": "楽",
+      "reading": "らく",
+      "meaningZh": "轻松",
+      "meaningEn": "easy, comfortable",
+      "level": "n5n4",
+      "exampleSentence": "この仕事は楽です。",
+      "id": "be27c847-337c-439e-bf45-349ad95cfd7e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "新しい文房具は、勉強のやる気をどうしますか。",
+      "options": [
+        "あげます",
+        "さげます",
+        "変えません",
+        "なくします"
+      ],
+      "correctIndex": 0,
+      "explanation": "新しいペンやノートは、勉強のやる気をあげます。",
+      "id": "f95dcea8-0b2a-48de-901d-81a017184f6e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-24-6abb825666",
+  "publishedAt": "2026-10-24T06:00:00+09:00"
+}

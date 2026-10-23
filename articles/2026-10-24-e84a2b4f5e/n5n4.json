@@ -1,0 +1,113 @@
+{
+  "title": "お寿司の値上げ、どう思う？",
+  "summary": "人気のお寿司屋さんが値段を上げました。お客さんはどうしているでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、回転寿司（かいてんずし）の店で値段が上がりました。一番安いお皿が100円ではなくなりました。これは、お客さんにとって少し残念なニュースです。",
+      "translationZh": "最近，回转寿司店涨价了。最便宜的盘子不再是100日元了。这对顾客来说是件有点遗憾的消息。",
+      "translationEn": "Recently, prices at conveyor belt sushi restaurants have gone up. The cheapest plate is no longer 100 yen. This is a bit of disappointing news for customers.",
+      "id": "b2cda2f4-09eb-4ab7-89f3-8a6addc778be",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "材料（ざいりょう）の値段が上がったからです。魚や野菜などの値段が全部高くなりました。だから、お寿司の値段も上げなければなりませんでした。",
+      "translationZh": "这是因为材料的价格上涨了。鱼和蔬菜等的所有东西都变贵了。所以，寿司的价格也不得不提高了。",
+      "translationEn": "This is because the prices of ingredients have risen. The prices of fish, vegetables, and other items have all become more expensive. Therefore, the price of sushi had to be raised as well.",
+      "id": "768b76f2-fd04-4418-8cf9-4622ec04fcfc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "値段が上がったので、お客さんが少し減ったという話もあります。前より、行く回数が減った人もいるかもしれません。でも、美味しいお寿司はやっぱり人気があります。",
+      "translationZh": "据说因为价格上涨，顾客减少了一些。可能有些人去店里的次数减少了。但是，美味的寿司果然还是很受欢迎。",
+      "translationEn": "Because the prices have increased, there are also stories that customers have decreased a little. Some people may be going less often than before. However, delicious sushi is still popular.",
+      "id": "641f0e42-68a6-47fe-a480-1832d54b1ae8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、お店は新しい工夫（くふう）をしています。例えば、特別なメニューを出したり、サービスを良くしたりしています。これからも、お寿司を楽しみたいですね。",
+      "translationZh": "另外，店家也在做新的尝试。比如，推出特别菜单，或者改善服务。今后也想继续享受寿司。",
+      "translationEn": "Also, restaurants are making new efforts. For example, they are offering special menus or improving their service. We want to continue enjoying sushi from now on.",
+      "id": "61a45d2f-81af-41af-b2b5-675c7931ec8c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "回転寿司",
+      "reading": "かいてんずし",
+      "meaningZh": "回转寿司",
+      "meaningEn": "conveyor belt sushi",
+      "level": "n5n4",
+      "exampleSentence": "回転寿司は家族でよく行きます。",
+      "id": "afacf2d7-45bd-4226-a158-76ad598394e4"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaningZh": "价格",
+      "meaningEn": "price",
+      "level": "n5n4",
+      "exampleSentence": "この本の値段はいくらですか。",
+      "id": "5efd5e46-0fc6-4a0b-ab53-0ff5dcab6801"
+    },
+    {
+      "word": "材料",
+      "reading": "ざいりょう",
+      "meaningZh": "材料",
+      "meaningEn": "ingredient",
+      "level": "n5n4",
+      "exampleSentence": "料理の材料を買いに行きました。",
+      "id": "69e75037-3be1-4ef5-b27a-58c0ac743222"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaningZh": "遗憾，可惜",
+      "meaningEn": "regrettable, disappointing",
+      "level": "n5n4",
+      "exampleSentence": "試合に負けて残念でした。",
+      "id": "70cf3851-9cb1-40a5-afda-67f0d6cc7fad"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "想办法，创意",
+      "meaningEn": "ingenuity, idea, effort",
+      "level": "n3",
+      "exampleSentence": "この問題の解決のために、いろいろな工夫をしました。",
+      "id": "a4360abc-9dbd-4b1c-ae1c-d0cbc17d3065"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaningZh": "次数",
+      "meaningEn": "number of times",
+      "level": "n5n4",
+      "exampleSentence": "ジムに行く回数を増やしました。",
+      "id": "d91c1702-00fd-4cf8-ba60-907dad2e7a4b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ回転寿司の値段が上がりましたか？",
+      "options": [
+        "お客さんが減ったから",
+        "美味しいお寿司がなくなったから",
+        "材料の値段が上がったから",
+        "店員さんが少なくなったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「材料（ざいりょう）の値段が上がったからです。」と書いてあります。",
+      "id": "7d7eeb58-eed5-46a5-b37d-dd52b5d1c317"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-24-e84a2b4f5e",
+  "publishedAt": "2026-10-24T06:00:00+09:00"
+}
