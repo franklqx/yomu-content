@@ -1,0 +1,131 @@
+{
+  "title": "街にロボットが増えています",
+  "summary": "最近、街でロボットを見かけることが多くなりました。特に、案内をするロボットが人気です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の大きな街では、ロボットがたくさん見られます。お店や駅で、ロボットが働いています。人々に道を教えたり、お店の商品を説明したりしています。",
+      "translationZh": "最近，在日本的大城市里，可以看到很多机器人。在商店和车站，机器人正在工作。它们告诉人们路怎么走，或者说明店里的商品。",
+      "translationEn": "Recently, many robots can be seen in big cities in Japan. Robots are working in shops and stations. They tell people directions or explain shop products.",
+      "id": "ea7eb60b-9867-44a7-9a37-e7bba1d76e2c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に、案内をするロボットはとても便利です。観光客は、言葉が分からなくても、ロボットに聞くことができます。ロボットは、地図を見せたり、写真を見せたりして、分かりやすく教えてくれます。",
+      "translationZh": "特别是，做向导的机器人非常方便。游客即使不懂语言，也可以问机器人。机器人会展示地图，展示照片，然后清楚地告诉我们。",
+      "translationEn": "Especially, robots that give guidance are very convenient. Tourists can ask robots even if they don't understand the language. Robots show maps or pictures, and explain things clearly.",
+      "id": "6545b5d6-2a6d-49b6-98c0-cbb4698bc1fb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このロボットは、昔の案内員さんとは少し違います。ロボットは疲れません。いつでも笑顔で、親切に教えてくれます。だから、多くの人がロボット案内員を好きになっています。",
+      "translationZh": "这些机器人和以前的向导有些不同。机器人不会累。它们总是带着笑容，亲切地告诉我们。所以，很多人喜欢上了机器人向导。",
+      "translationEn": "These robots are a little different from old guides. Robots do not get tired. They always teach us kindly with a smile. Therefore, many people have come to like robot guides.",
+      "id": "ffbeaa80-162c-40de-8a5b-d86e3864517d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、街でロボットがもっと増えるでしょう。私たちは、ロボットと一緒に暮らす未来を楽しみにしています。",
+      "translationZh": "今后，街上的机器人可能会增加更多。我们期待着与机器人一起生活的未来。",
+      "translationEn": "In the future, there will probably be more robots in the city. We are looking forward to a future where we live with robots.",
+      "id": "49e07b74-de15-44be-b5cb-f937e9035c0f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "街",
+      "reading": "まち",
+      "meaningZh": "街道；城市",
+      "meaningEn": "town; street; city",
+      "level": "n5n4",
+      "exampleSentence": "この街はとてもきれいです。",
+      "id": "f89d8e42-f78f-4dee-b7a3-0dfcacd2cedd"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加；增长",
+      "meaningEn": "to increase; to multiply",
+      "level": "n5n4",
+      "exampleSentence": "人口が増えています。",
+      "id": "948113f3-590c-4e69-81f4-7446a531a00c"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaningZh": "引导；介绍",
+      "meaningEn": "guidance; information",
+      "level": "n5n4",
+      "exampleSentence": "駅の案内所で地図をもらいました。",
+      "id": "c3745e58-2d98-44f0-9e04-69e3b1f942c9"
+    },
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "向导；接待员",
+      "meaningEn": "guide; attendant",
+      "level": "n5n4",
+      "exampleSentence": "空港で案内員が旅行客を助けていました。",
+      "id": "df808838-1dfa-4ebe-8cdf-f58696a5b894"
+    },
+    {
+      "word": "観光客",
+      "reading": "かんこうきゃく",
+      "meaningZh": "观光客；游客",
+      "meaningEn": "tourist",
+      "level": "n5n4",
+      "exampleSentence": "たくさんの観光客が神社を訪れました。",
+      "id": "030cd3a7-dcab-4026-bda8-6142fb49367e"
+    },
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "meaningZh": "语言；话语",
+      "meaningEn": "language; word",
+      "level": "n5n4",
+      "exampleSentence": "日本語の言葉は難しいです。",
+      "id": "a4486d9e-fce1-4aaa-bf2c-0aab4d655834"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "d341c80c-f853-4f82-adf8-414d2926d198"
+    },
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaningZh": "亲切；友好",
+      "meaningEn": "kind; friendly",
+      "level": "n5n4",
+      "exampleSentence": "隣の人はとても親切です。",
+      "id": "c47ea97b-0aa5-44e5-98fd-bfdc2e970bd9"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "街で増えているロボットは何をすることが多いですか。",
+      "options": [
+        "荷物を運ぶこと",
+        "案内をすること",
+        "料理を作ること",
+        "掃除をすること"
+      ],
+      "correctIndex": 1,
+      "explanation": "特に、案内をするロボットはとても便利です。",
+      "id": "0d1eb632-d402-4f07-943e-586414734785"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-25-b3f2035f3f",
+  "publishedAt": "2026-10-25T06:00:00+09:00"
+}

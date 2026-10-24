@@ -1,0 +1,126 @@
+{
+  "title": "若者に人気の純喫茶ブーム！レトロな空間で癒やしを",
+  "summary": "最近、若い世代の間で「純喫茶」がブームになっています。レトロな雰囲気が漂う空間で、特別な時間を過ごす人が増えているのです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街を歩いていると、昔ながらの「純喫茶」が若い人たちで賑わっているのを目にしませんか。レトロな家具や照明、そして少し懐かしいメニューが、逆に新鮮に映るようです。SNSで「#純喫茶」と検索すると、たくさんの写真が出てきて、その人気ぶりがわかります。",
+      "translationZh": "最近，走在街上，您是否注意到老式的“纯喫茶”挤满了年轻人？复古的家具、灯光，以及略带怀旧的菜单，反而显得格外新颖。在SNS上搜索“#纯喫茶”，会涌现出大量照片，可见其人气之高。",
+      "translationEn": "Recently, when walking around town, haven't you noticed old-fashioned \"jun-kissa\" (traditional coffee shops) bustling with young people? The retro furniture, lighting, and slightly nostalgic menu items seem to be perceived as fresh and new. Searching for \"#純喫茶\" on social media yields many photos, demonstrating its popularity.",
+      "id": "a0c00dda-3fb4-41a3-b70a-d7b9abe614db",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶の魅力は、その独特な空間にあります。最新のカフェとは違い、ゆったりとした時間が流れているように感じられます。店員さんが丁寧にコーヒーを淹れてくれたり、昔ながらのナポリタンやクリームソーダを楽しめたりすることも、若者にとって新鮮な体験なのです。こうした体験を求めて、多くの人が純喫茶に足を運んでいます。",
+      "translationZh": "纯喫茶的魅力在于其独特的空间。与最新的咖啡馆不同，感觉时间在这里悠然流淌。店员精心冲泡咖啡，或是能享用到怀旧的意面（Napolitan）和苏打浮冰（Cream Soda），这些对年轻人来说都是新奇的体验。正是为了追求这样的体验，许多人纷纷前往纯喫茶。",
+      "translationEn": "The charm of jun-kissa lies in its unique atmosphere. Unlike modern cafes, time seems to flow at a more relaxed pace. The fact that staff carefully brew coffee, or that one can enjoy classic dishes like Napolitan spaghetti or cream soda, is a novel experience for young people. Many people visit jun-kissa seeking such experiences.",
+      "id": "42a9ba14-0ffe-4a6b-9d41-a735b137ead4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、純喫茶は、SNS映えする写真が撮れる場所としても注目されています。落ち着いた照明の下で撮るメニューや店内の写真は、他にはない雰囲気を持っています。そのため、友達と集まって、おしゃべりをしながら写真を撮るという楽しみ方も広がっています。純喫茶は、単にコーヒーを飲む場所というだけでなく、新しいコミュニケーションの場にもなっているのです。",
+      "translationZh": "此外，纯喫茶也因能拍出适合SNS分享的照片而备受瞩目。在柔和的灯光下拍摄的菜单和店内照片，具有独一无二的氛围。因此，与朋友聚会、边聊天边拍照的乐趣也日益普及。纯喫茶已不仅仅是喝咖啡的地方，也成为了新的交流空间。",
+      "translationEn": "Furthermore, jun-kissa are gaining attention as places where aesthetically pleasing photos for social media can be taken. Pictures of the menu and interior, taken under subdued lighting, possess a unique atmosphere. Consequently, new ways of enjoying these spaces, such as gathering with friends and taking photos while chatting, are spreading. Jun-kissa are becoming not just places to drink coffee, but also new venues for communication.",
+      "id": "68573efb-707e-4bc0-addc-84275a8a74e4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "纯喫茶，指保留昭和时代风格、提供简餐和咖啡的老式咖啡馆",
+      "meaningEn": "Jun-kissa, a traditional Japanese coffee shop retaining a Showa-era atmosphere, often serving light meals and coffee.",
+      "level": "n3",
+      "exampleSentence": "最近、純喫茶巡りが流行っているらしい。",
+      "id": "31a11a48-3e45-4de6-b387-c2b9517ca704"
+    },
+    {
+      "word": "賑わう",
+      "reading": "にぎわう",
+      "meaningZh": "热闹，兴旺",
+      "meaningEn": "to be crowded, to be bustling with activity",
+      "level": "n3",
+      "exampleSentence": "週末の商店街はいつも賑わっている。",
+      "id": "c7d32b9c-238a-4e3e-9b78-8ce345ecbca2"
+    },
+    {
+      "word": "レトロ",
+      "reading": "れとろ",
+      "meaningZh": "复古的",
+      "meaningEn": "retro",
+      "level": "n5n4",
+      "exampleSentence": "あの店のレトロなデザインが好きだ。",
+      "id": "54509535-1e3b-424e-8615-2a5dc0ebe87e"
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningZh": "怀旧的，令人怀念的",
+      "meaningEn": "nostalgic",
+      "level": "n3",
+      "exampleSentence": "子供の頃を懐かしく思い出す。",
+      "id": "cd367f56-d030-4394-9f36-41556105ea05"
+    },
+    {
+      "word": "独特",
+      "reading": "どくとく",
+      "meaningZh": "独特的",
+      "meaningEn": "unique, peculiar",
+      "level": "n3",
+      "exampleSentence": "この地域には独特の文化がある。",
+      "id": "e4a5b5ac-1120-470a-895e-cba3e11cab23"
+    },
+    {
+      "word": "ゆったり",
+      "reading": "ゆったり",
+      "meaningZh": "悠闲地，宽敞地",
+      "meaningEn": "leisurely, relaxed, spacious",
+      "level": "n3",
+      "exampleSentence": "休日は家でゆったり過ごしたい。",
+      "id": "f7bbb779-916b-4300-bcf3-e404272ebcbc"
+    },
+    {
+      "word": "映え",
+      "reading": "ばえ",
+      "meaningZh": "（在SNS上）好看，引人注目",
+      "meaningEn": "（on social media）to look good, to be visually appealing",
+      "level": "n3",
+      "exampleSentence": "この料理は写真映えするね。",
+      "id": "f73fe77e-37bc-4055-b190-30c39b70ab02"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、若者の間で純喫茶が人気を集めている理由は何ですか？",
+      "options": [
+        "最新のカフェよりも値段が安いから",
+        "店員さんが親切だから",
+        "レトロな空間や雰囲気を楽しむため",
+        "昔の音楽が流れているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では「純喫茶の魅力は、その独特な空間にあります」「レトロな家具や照明、そして少し懐かしいメニューが、逆に新鮮に映るようです」と述べられています。",
+      "id": "5c3d9bdb-d43c-4932-a9f3-0493487f1122"
+    },
+    {
+      "question": "純喫茶がSNSで注目されているのはなぜですか？",
+      "options": [
+        "コーヒーの味が特別だから",
+        "SNS映えする写真が撮れるから",
+        "Wi-Fiが無料で使えるから",
+        "最新のデザートがあるから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「また、純喫茶は、SNS映えする写真が撮れる場所としても注目されています。落ち着いた照明の下で撮るメニューや店内の写真は、他にはない雰囲気を持っています。」と書かれています。",
+      "id": "4d5d4f45-d0fa-42c9-b0e3-92050cdce5f8"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-25-1156824b80",
+  "publishedAt": "2026-10-25T06:00:00+09:00"
+}

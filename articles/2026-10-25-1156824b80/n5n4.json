@@ -1,0 +1,122 @@
+{
+  "title": "純喫茶が若者に人気",
+  "summary": "最近、若い人たちの間で「純喫茶」が人気です。昔ながらの喫茶店に新しい魅力があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、若い人たちの間で「純喫茶」が流行っています。純喫茶は、昔からある日本の喫茶店のことです。コーヒーや紅茶、そして昔ながらのメニューが楽しめます。",
+      "translationZh": "最近，在日本的年轻人之间，“纯喫茶”非常流行。纯喫茶是指日本以前就有的咖啡店。在那里可以享受到咖啡、红茶以及传统的餐点。",
+      "translationEn": "Recently, 'junkissa' (traditional coffee shops) have become popular among young people in Japan. Junkissa are Japanese coffee shops that have existed for a long time. You can enjoy coffee, tea, and traditional menu items there.",
+      "id": "2f5a27e4-8a86-40b4-a646-7e13b22625f1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶の店は、レトロな雰囲気を持っています。古い家具や装飾品があり、落ち着いた空間です。SNSで写真を撮る人も多いです。古いものが新しい魅力になっています。",
+      "translationZh": "纯喫茶的店面有着复古的氛围。里面有旧家具和装饰品，是一个宁静的空间。很多人会在社交媒体上拍照。旧事物成为了新的魅力。",
+      "translationEn": "Junkissa shops have a retro atmosphere. They have old furniture and decorations, creating a calm space. Many people take photos for social media. Old things have become a new attraction.",
+      "id": "fe17da43-e389-4f17-b2e9-44367e4ee4c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューも純喫茶の魅力の一つです。クリームソーダやプリンアラモードなど、昔懐かしい食べ物があります。見た目もきれいで、味も美味しいと評判です。",
+      "translationZh": "菜单也是纯喫茶的魅力之一。有苏打奶油汽水、布丁 à la mode 等，都是令人怀念的食物。它们不仅外观漂亮，味道也很美味，口碑很好。",
+      "translationEn": "The menu is also one of the attractions of junkissa. There are nostalgic foods like cream soda and pudding à la mode. They are reputed to be visually appealing and delicious.",
+      "id": "f57dde18-4385-4ef3-82fc-0fc08177d6b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "忙しい日常から離れて、ゆっくりとした時間を過ごしたい人が増えています。純喫茶は、そのような時間を過ごすのにぴったりの場所です。これからも純喫茶の人気は続くでしょう。",
+      "translationZh": "越来越多的人希望从忙碌的日常生活中抽离，度过一段悠闲的时光。纯喫茶正是度过这样时光的理想场所。预计纯喫茶的热潮还将持续下去。",
+      "translationEn": "More and more people want to escape their busy daily lives and spend relaxing time. Junkissa are perfect places to spend such time. The popularity of junkissa is likely to continue.",
+      "id": "58d77a2f-ec83-457d-91e1-af4e2020c602",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "この店は若者に人気です。",
+      "id": "1127980a-265a-4e6f-8c2b-34fb76116419"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌はとても人気があります。",
+      "id": "63c7809f-88bb-420a-bce6-c695e95b130d"
+    },
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "传统咖啡店",
+      "meaningEn": "traditional coffee shop",
+      "level": "n5n4",
+      "exampleSentence": "純喫茶でコーヒーを飲みました。",
+      "id": "41a309c5-5bff-40ed-b8ec-3bb05f8c87f6"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛，氛围",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "この部屋は静かな雰囲気です。",
+      "id": "4bcba420-78c9-4ced-8b30-253cabfa8836"
+    },
+    {
+      "word": "レトロ",
+      "reading": "れとろ",
+      "meaningZh": "复古的",
+      "meaningEn": "retro",
+      "level": "n5n4",
+      "exampleSentence": "レトロなデザインが好きです。",
+      "id": "68c03f2a-69c6-45e9-8b07-3723cb570bae"
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningZh": "怀旧的，令人怀念的",
+      "meaningEn": "nostalgic",
+      "level": "n5n4",
+      "exampleSentence": "昔の友達に会って懐かしい気持ちになりました。",
+      "id": "7d7e351d-bd19-47d2-8624-3822c31ecdfd"
+    },
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaningZh": "评价，口碑",
+      "meaningEn": "reputation, review",
+      "level": "n3",
+      "exampleSentence": "このレストランは評判がいいです。",
+      "id": "bd2fbdbe-02d1-45e8-91f6-a00d459b4580"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ若い人たちは純喫茶に行きますか？",
+      "options": [
+        "新しいメニューが美味しいから",
+        "レトロな雰囲気が人気だから",
+        "友達と勉強するため",
+        "値段が安いから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「純喫茶の店は、レトロな雰囲気を持っています。古い家具や装飾品があり、落ち着いた空間です。SNSで写真を撮る人も多いです。古いものが新しい魅力になっています。」と書いてあります。",
+      "id": "2b9cc0f5-4d54-42e1-85af-0659df6c7e8b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-25-1156824b80",
+  "publishedAt": "2026-10-25T06:00:00+09:00"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "街でよく見る？ロボット案内員が増えています",
+  "summary": "最近、都市部でロボット案内員を見かける機会が増えました。彼らはどのように私たちの生活を助けているのでしょうか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、駅やデパートなど、都市部でロボット案内員を見かけることが多くなりました。これらのロボットは、道案内をしたり、商品の場所を教えたりと、様々なサービスを提供しています。多言語対応ができるロボットも増えているため、外国人観光客にとっても心強い存在です。",
+      "translationZh": "最近，在车站和百货公司等城市地区，看到机器人导览员的次数越来越多了。这些机器人提供各种服务，比如指路和告知商品位置。能够支持多国语言的机器人也在增加，这对外国游客来说也是一个令人放心的存在。",
+      "translationEn": "Recently, we've been seeing more robot guides in urban areas like stations and department stores. These robots offer various services, such as giving directions and telling people where products are located. With more robots supporting multiple languages, they are becoming a reassuring presence for foreign tourists too.",
+      "id": "4022c20d-9f81-4424-a56b-195cbea126c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員が増えている理由の一つは、人手不足です。特に観光地や大規模施設では、多くの案内係が必要ですが、十分な人材を確保するのが難しい場合があります。そこで、ロボットがその役割を一部担うことで、人間のスタッフの負担を減らし、サービスの質を維持しようとしているのです。",
+      "translationZh": "机器人导览员增加的一个原因就是人手不足。尤其是在旅游景点或大型设施，需要很多导览人员，但有时很难确保足够的人才。因此，通过让机器人承担一部分角色，可以减轻人类工作人员的负担，并努力维持服务质量。",
+      "translationEn": "One reason for the increase in robot guides is the labor shortage. Especially in tourist spots and large facilities, many guides are needed, but it can be difficult to secure enough staff. Therefore, by having robots take on some of these roles, they aim to reduce the burden on human staff and maintain service quality.",
+      "id": "31fc4e4c-7fde-40cf-8e37-5acd429946fa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、ロボットは疲れを知らないという利点もあります。24時間いつでも同じ丁寧さで対応できるため、顧客満足度の向上につながることも期待されています。しかし、複雑な質問への対応や、感情的なサポートが必要な場面では、まだ人間の案内員が必要不可欠です。ロボットと人間が協力することで、より良いサービスが提供できるでしょう。",
+      "translationZh": "此外，机器人还有一个优点是它们不知疲倦。因为它们可以随时随地以同样的礼貌程度提供服务，所以也有望提高客户满意度。然而，在需要应对复杂问题或需要情感支持的情况下，人类导览员仍然是不可或缺的。通过机器人和人类的合作，可以提供更好的服务。",
+      "translationEn": "Additionally, robots have the advantage of not getting tired. Since they can respond with the same politeness 24 hours a day, they are expected to improve customer satisfaction. However, in situations requiring responses to complex questions or emotional support, human guides are still essential. Better services can likely be provided through cooperation between robots and humans.",
+      "id": "f9d4e1b6-8de9-4591-9ad4-8de558039a79",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都市部",
+      "reading": "としぶ",
+      "meaningZh": "都市地区，市区",
+      "meaningEn": "urban area, city center",
+      "level": "n3",
+      "exampleSentence": "都市部では、新しいビルがたくさん建てられています。",
+      "id": "b5b3c97b-727d-4a3a-9a73-b55bffa56988"
+    },
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "导览员，向导",
+      "meaningEn": "guide, attendant",
+      "level": "n3",
+      "exampleSentence": "駅の案内員に道を尋ねました。",
+      "id": "85b81398-fe58-4c8c-82b4-8bd0abf3fb59"
+    },
+    {
+      "word": "多言語",
+      "reading": "たげんご",
+      "meaningZh": "多国语言",
+      "meaningEn": "multiple languages",
+      "level": "n3",
+      "exampleSentence": "このホテルは多言語対応が可能です。",
+      "id": "2144d77f-25ca-4ee7-8fc6-d692fb7e0d06"
+    },
+    {
+      "word": "外国人観光客",
+      "reading": "がいこくじんかんこうきゃく",
+      "meaningZh": "外国游客",
+      "meaningEn": "foreign tourist",
+      "level": "n3",
+      "exampleSentence": "京都には多くの外国人観光客が訪れます。",
+      "id": "fe9dc4b5-3327-4aec-8817-e65f3bb155aa"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "最近、多くの店で人手不足が問題になっています。",
+      "id": "1565354c-1a6d-46f1-901f-7c91ac70ff20"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaningZh": "负担",
+      "meaningEn": "burden",
+      "level": "n3",
+      "exampleSentence": "仕事の負担が大きすぎて、疲れてしまいました。",
+      "id": "72d83d60-fe1f-4905-94ef-b35aab95b450"
+    },
+    {
+      "word": "顧客満足度",
+      "reading": "こきゃくまんぞくど",
+      "meaningZh": "顾客满意度",
+      "meaningEn": "customer satisfaction",
+      "level": "n2n1",
+      "exampleSentence": "顧客満足度を上げるために、サービスを改善しました。",
+      "id": "256355c4-108f-43cb-818d-b1e169730d84"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaningZh": "不可或缺的，必不可少的",
+      "meaningEn": "indispensable, essential",
+      "level": "n2n1",
+      "exampleSentence": "健康のために、毎日運動は不可欠です。",
+      "id": "8ed055e9-a7a0-41f2-9bc9-57da26b6bb4b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が増えている理由は何ですか？",
+      "options": [
+        "もっとたくさんの言語で案内できるようにするため",
+        "人手不足を補い、サービスの質を保つため",
+        "ロボットの方が人間より案内が速いから",
+        "観光客にもっとロボットに親しんでもらうため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文では、「ロボット案内員が増えている理由の一つは、人手不足です。そこで、ロボットがその役割を一部担うことで、人間のスタッフの負担を減らし、サービスの質を維持しようとしているのです。」と説明されています。",
+      "id": "ad316fba-86f8-4c80-b928-c9e7aa83e2ab"
+    },
+    {
+      "question": "ロボット案内員にまだできないことは何だと考えられていますか？",
+      "options": [
+        "道案内をすること",
+        "商品の場所を教えること",
+        "複雑な質問に答えたり、感情的なサポートをしたりすること",
+        "多言語で対応すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最後の段落で、「しかし、複雑な質問への対応や、感情的なサポートが必要な場面では、まだ人間の案内員が必要不可欠です。」と述べられています。",
+      "id": "9aca3d9b-a322-48f3-b462-05b0872de0df"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-25-b3f2035f3f",
+  "publishedAt": "2026-10-25T06:00:00+09:00"
+}

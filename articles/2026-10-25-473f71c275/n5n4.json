@@ -1,0 +1,122 @@
+{
+  "title": "ローカル線で一日旅！",
+  "summary": "ローカル線一日乗り放題切符は、安くて楽しい旅行にぴったりです。この切符を使って、特別な一日を過ごしましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "皆さん、こんにちは！今日はローカル線一日乗り放題切符について話します。この切符は、一日中、たくさんのローカル線に乗ることができます。とても便利で、値段も安いです。",
+      "translationZh": "大家好！今天我们来聊聊当地线一日无限乘坐车票。这张票可以在一天内乘坐很多趟当地线列车。它非常方便，而且价格也很便宜。",
+      "translationEn": "Hello everyone! Today, we'll talk about the local line one-day unlimited ride ticket. With this ticket, you can ride many local lines all day long. It's very convenient and the price is cheap.",
+      "id": "721d0114-894f-405f-9f6b-083c1509d35d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符の使い方は簡単です。駅で切符を買って、好きなローカル線に乗るだけです。途中下車も自由です。小さな町を訪ねたり、きれいな景色を見たりできます。",
+      "translationZh": "这张票的使用方法很简单。在车站买好票，然后乘坐喜欢的当地线就可以了。中途下车也很自由。你可以去拜访小镇，或者看看美丽的风景。",
+      "translationEn": "Using this ticket is easy. Just buy the ticket at the station and ride the local line you like. You can get off and on freely. You can visit small towns or see beautiful scenery.",
+      "id": "80821ee9-00a2-4537-9e92-1240b7f80aed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、友だちと picnic をしました。電車に乗って、山の中の駅へ行きました。そこで美味しいお弁当を食べました。自然の中で食べるごはんは最高でした。",
+      "translationZh": "例如，我和朋友去野餐了。我们坐电车去了山里的车站。在那里吃了美味的便当。在大自然中吃饭真是太棒了。",
+      "translationEn": "For example, my friend and I had a picnic. We took a train to a station in the mountains. We ate a delicious bento box there. Eating food in nature was the best.",
+      "id": "89ef8755-32bf-410d-b0af-c57b1dff2a80",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ローカル線は、ゆっくりとした時間が流れます。窓の外の景色を楽しみながら、リラックスできます。次の旅行に、ぜひこの切符を使ってみてください。",
+      "translationZh": "当地线列车上，时间流逝得很慢。你可以一边欣赏窗外的景色，一边放松身心。下次旅行时，请一定要试试这张票。",
+      "translationEn": "On local lines, time flows slowly. You can relax while enjoying the scenery outside the window. For your next trip, please try using this ticket.",
+      "id": "bc9262c9-a613-4abf-b939-5fc0ec692a75",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "一日乗り放題切符",
+      "reading": "いちにちのりほうだい切符",
+      "meaningZh": "一日无限乘坐车票",
+      "meaningEn": "one-day unlimited ride ticket",
+      "level": "n5n4",
+      "exampleSentence": "この切符で一日中電車に乗れます。",
+      "id": "2e398df1-b255-4d66-a2b3-44d9959c2c00"
+    },
+    {
+      "word": "ローカル線",
+      "reading": "ローカルせん",
+      "meaningZh": "地方线，支线",
+      "meaningEn": "local line",
+      "level": "n5n4",
+      "exampleSentence": "ローカル線は景色がきれいです。",
+      "id": "13f0f186-7c54-4a77-8a9a-ab18ac6f72aa"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "db900d93-9198-4866-b98d-8f76887bd407"
+    },
+    {
+      "word": "途中下車",
+      "reading": "とちゅうげしゃ",
+      "meaningZh": "中途下车",
+      "meaningEn": "getting off midway",
+      "level": "n5n4",
+      "exampleSentence": "途中下車して、町を散歩しました。",
+      "id": "161dc8ef-3399-4f06-bd59-9fd1b0a5ee37"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "窓からきれいな景色が見えました。",
+      "id": "a5b44496-d82c-404b-a7ee-6ba09c45f6f3"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然の中でリラックスしました。",
+      "id": "b35a4679-931b-4264-8bda-9fc631c675f8"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaningZh": "最好，最棒",
+      "meaningEn": "the best",
+      "level": "n5n4",
+      "exampleSentence": "このケーキは最高においしいです。",
+      "id": "5d16f9fd-4347-4c3d-957d-544af66dc174"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ローカル線一日乗り放題切符を使うと、一日中どんな電車に乗れますか。",
+      "options": [
+        "特急電車",
+        "新幹線",
+        "ローカル線",
+        "地下鉄"
+      ],
+      "correctIndex": 2,
+      "explanation": "この切符は、一日中、たくさんのローカル線に乗ることができます。",
+      "id": "ea39159f-11fc-4b46-8fbd-ffa9aa589d5e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-25-473f71c275",
+  "publishedAt": "2026-10-25T06:00:00+09:00"
+}

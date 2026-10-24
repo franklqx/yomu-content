@@ -1,0 +1,138 @@
+{
+  "title": "都市部で広がるロボット案内員：次世代のインフラとなりうるか",
+  "summary": "近年、都市部を中心にロボットによる案内サービスの導入が進んでいます。これは、人手不足の解消やサービス向上の期待からであり、将来的には都市インフラの一部となる可能性も指摘されています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、主要都市の駅や商業施設、観光地などにおいて、ロボットが案内員として活躍する姿が目撃される機会が増加している。これらのロボットは、多言語対応やAIによる高度な情報提供能力を備え、来訪者の利便性向上に貢献することが期待されている。特に、訪日外国人観光客の増加や、国内における人手不足が深刻化する中で、ロボット案内員への注目度は高まる一方であるとのことだ。",
+      "translationZh": "近年来，在主要城市的车站、商业设施、观光地等地，目睹机器人作为向导活跃的身影的机会正在增加。这些机器人配备了多语言支持和人工智能的高度信息提供能力，有望为提高访客的便利性做出贡献。特别是，随着访日外国游客的增加以及国内人手短缺问题的日益严重，对机器人向导的关注度正持续升温。",
+      "translationEn": "In recent years, there has been an increasing number of sightings of robots working as guides in major cities, such as train stations, commercial facilities, and tourist attractions. These robots are equipped with multilingual capabilities and advanced AI-driven information provision, and are expected to contribute to improving the convenience for visitors. In particular, with the rise in inbound tourism and the growing labor shortage in Japan, attention towards robot guides is steadily increasing.",
+      "id": "90242c6c-61bf-4263-935a-3d3a6fd9f5e9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員は、単に道案内をするだけでなく、周辺施設の情報提供、イベント情報の告知、さらには簡単な会話を通じて利用者のニーズに応じることができる。これにより、従来の案内所では対応しきれなかった細やかなサービス提供が可能になると見られている。また、24時間稼働できるという特性は、時間帯を問わずサービスを提供する必要がある場面において、その有効性が大いに発揮されるだろう。",
+      "translationZh": "机器人向导不仅能指路，还能提供周边设施信息、告知活动详情，并通过简单的对话满足使用者的需求。因此，以往的咨询处难以提供的细致服务，有望通过机器人得以实现。此外，机器人能够24小时运作的特性，在需要不分昼夜提供服务的场合，将能大显身手。",
+      "translationEn": "Robot guides are capable of not only providing directions but also offering information about surrounding facilities, announcing event details, and responding to user needs through simple conversations. This is seen as enabling the provision of nuanced services that were previously difficult for traditional information centers to manage. Furthermore, their ability to operate 24 hours a day will be highly effective in situations requiring round-the-clock service.",
+      "id": "97d0d74a-59e6-4b66-b203-d0fa6a82011d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "一方で、ロボット導入に伴う課題も存在する。高額な導入・維持コスト、予期せぬトラブルへの対応、そして人間ならではの温かい対応や臨機応変さが求められる場面への適用限界などが、今後の普及に向けた検討事項として挙げられる。これらの課題を克服し、人間とロボットが共存する形で、より質の高い都市サービスが実現されることが期待されている。",
+      "translationZh": "另一方面，机器人引入也伴随着一些挑战。高昂的引进和维护成本、对突发故障的处理能力，以及在需要人类特有的温暖互动和灵活应变能力的场景下的适用局限性等，都被列为未来普及过程中需要探讨的事项。人们期待通过克服这些挑战，实现人与机器人共存的、更高质量的城市服务。",
+      "translationEn": "On the other hand, challenges accompany the introduction of robots. High initial and maintenance costs, handling unexpected malfunctions, and limitations in applying them to situations requiring human warmth and flexibility are cited as points for consideration for future widespread adoption. It is anticipated that by overcoming these challenges, higher quality urban services will be realized through the coexistence of humans and robots.",
+      "id": "65641788-d516-4f1d-ab54-c6ed07823fdf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "目撃",
+      "reading": "もくげき",
+      "meaningZh": "目击；目睹",
+      "meaningEn": "witnessing",
+      "level": "n2n1",
+      "exampleSentence": "事件現場を目撃した人は、警察に証言した。",
+      "id": "a079fe36-56dc-4032-afd0-3c20b4317851"
+    },
+    {
+      "word": "備える",
+      "reading": "そなえる",
+      "meaningZh": "配备；准备；拥有",
+      "meaningEn": "to be equipped with; to prepare; to possess",
+      "level": "n3",
+      "exampleSentence": "この車は最新の安全装置を備えている。",
+      "id": "aee58c69-3a21-42d5-a4c2-6f7c58efd14c"
+    },
+    {
+      "word": "深刻化",
+      "reading": "しんこくか",
+      "meaningZh": "（问题、状况等）变得严重，深化",
+      "meaningEn": "to become serious; to deepen (e.g., a problem)",
+      "level": "n2n1",
+      "exampleSentence": "地球温暖化はますます深刻化している。",
+      "id": "08f45afb-4564-48c4-b806-09f1dffef553"
+    },
+    {
+      "word": "利便性",
+      "reading": "りべんせい",
+      "meaningZh": "便利性；方便",
+      "meaningEn": "convenience",
+      "level": "n3",
+      "exampleSentence": "インターネットの普及により、生活の利便性が向上した。",
+      "id": "fea7e112-ddc4-4875-94b6-220fa928ef0f"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaningZh": "应对；对应；处理",
+      "meaningEn": "response; dealing with; adaptation",
+      "level": "n3",
+      "exampleSentence": "顧客からのクレームに迅速に対応した。",
+      "id": "770a9616-e614-43c0-87de-67a402511ab9"
+    },
+    {
+      "word": "有効性",
+      "reading": "ゆうこうせい",
+      "meaningZh": "有效性",
+      "meaningEn": "effectiveness; validity",
+      "level": "n2n1",
+      "exampleSentence": "その新しい治療法の有効性が証明された。",
+      "id": "7e4290a8-d558-4d01-bbc6-dee0ffac761e"
+    },
+    {
+      "word": "臨機応変",
+      "reading": "りんきおうへん",
+      "meaningZh": "随机应变；机动灵活",
+      "meaningEn": "acting according to circumstances; flexible",
+      "level": "n2n1",
+      "exampleSentence": "複雑な状況でも、彼は臨機応変に対応できる。",
+      "id": "58200938-d0a0-45a7-9751-121d817abf25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員が注目されている理由として、本文で述べられていることは何ですか？",
+      "options": [
+        "ロボットが人間よりも知能が高いから",
+        "訪日外国人観光客の増加と国内の人手不足",
+        "ロボットの導入コストが低下したから",
+        "全ての案内業務をロボットが代替できるようになったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中には「特に、訪日外国人観光客の増加や、国内における人手不足が深刻化する中で、ロボット案内員への注目度は高まる一方であるとのことだ。」と記されている。",
+      "id": "3c093d87-5e07-4458-8d13-84114c341c5f"
+    },
+    {
+      "question": "ロボット案内員の利点として、本文に記載されていないものはどれですか？",
+      "options": [
+        "多言語対応が可能である",
+        "24時間稼働できる",
+        "人間のような感情的なサポートを提供できる",
+        "AIによる高度な情報提供ができる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、ロボット案内員が「人間ならではの温かい対応や臨機応変さが求められる場面への適用限界」があることに言及している。感情的なサポートは人間の領域とされている。",
+      "id": "fd9f2bc0-cdb5-4f4a-a32f-0b64983b9db1"
+    },
+    {
+      "question": "ロボット案内員の普及に向けた課題として、本文で挙げられていることの一つは何ですか？",
+      "options": [
+        "利用者がロボットを信頼しないこと",
+        "ロボットがインターネットに接続できないこと",
+        "高額な導入・維持コスト",
+        "ロボットの修理が専門業者にしかできないこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「高額な導入・維持コスト、予期せぬトラブルへの対応、そして人間ならではの温かい対応や臨機応変さが求められる場面への適用限界などが、今後の普及に向けた検討事項として挙げられる。」と述べられている。",
+      "id": "50108392-aa32-4855-acec-0e9e97940cf3"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-25-b3f2035f3f",
+  "publishedAt": "2026-10-25T06:00:00+09:00"
+}
