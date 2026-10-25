@@ -1,0 +1,122 @@
+{
+  "title": "発酵食品は体にいい！",
+  "summary": "最近、発酵食品が人気です。発酵食品は私たちの健康に良いです。みんな健康に気をつけています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、発酵食品がとても人気があります。例えば、ヨーグルトや味噌、納豆などです。これらの食品は、昔から日本で食べられています。",
+      "translationZh": "最近，发酵食品非常受欢迎。例如，酸奶、味噌和纳豆等。这些食品自古以来就在日本被食用。",
+      "translationEn": "Recently, fermented foods are very popular. For example, yogurt, miso, and natto. These foods have been eaten in Japan for a long time.",
+      "id": "4eedadf7-289e-4ec2-816b-aeb57d2431c7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品には、体に良い菌がたくさん入っています。これらの菌は、お腹の調子を良くしてくれます。だから、健康のために食べる人が増えています。",
+      "translationZh": "发酵食品中含有许多对身体有益的菌。这些菌可以改善肠胃功能。因此，越来越多的人为了健康而食用它们。",
+      "translationEn": "Fermented foods contain many good bacteria for the body. These bacteria improve your stomach condition. Therefore, more people are eating them for their health.",
+      "id": "0aa0fb30-d5c5-4964-929e-20035bcf567b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "健康意識が高まっていることも、発酵食品が人気になった理由の一つです。人々は、病気にならないように、毎日の食事に気をつけています。",
+      "translationZh": "健康意识的提高也是发酵食品受欢迎的原因之一。人们注意日常饮食，以避免生病。",
+      "translationEn": "The rise in health consciousness is also one of the reasons why fermented foods have become popular. People are careful about their daily meals to avoid getting sick.",
+      "id": "81e15221-1f99-413e-8430-8de66df99e27",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品を上手に取り入れて、元気な毎日を送りましょう。毎日の生活に、少しずつ加えてみてください。",
+      "translationZh": "让我们巧妙地摄取发酵食品，度过充满活力的每一天。请尝试一点一点地加入到您的日常生活中。",
+      "translationEn": "Let's incorporate fermented foods well and live energetic days. Please try adding them little by little to your daily life.",
+      "id": "970d54b7-e0d7-49d7-bc69-3a14126708bc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n5n4",
+      "exampleSentence": "ヨーグルトは発酵食品の一つです。",
+      "id": "c446c5b0-e4a4-489b-bca4-3830e1bc1733"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この歌はとても人気があります。",
+      "id": "e95dd0cd-a699-46f9-965c-c0121862d7c1"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、運動をしています。",
+      "id": "db9b4e86-c809-4364-820d-cc8e5e0b360c"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaningZh": "状态，情况（身体、机器等）",
+      "meaningEn": "condition",
+      "level": "n5n4",
+      "exampleSentence": "今日、私の体調はいいです。",
+      "id": "e773e3ac-9fec-4977-bcb8-d39e4ac1ca48"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaningZh": "理由",
+      "meaningEn": "reason",
+      "level": "n5n4",
+      "exampleSentence": "人気の理由は、味がいいからです。",
+      "id": "5a3bae9b-5e81-48d9-9ab2-b6dcc887cf3e"
+    },
+    {
+      "word": "意識",
+      "reading": "いしき",
+      "meaningZh": "意识",
+      "meaningEn": "consciousness, awareness",
+      "level": "n3",
+      "exampleSentence": "環境問題についての意識が高まっています。",
+      "id": "1afdbb1b-c1cf-481c-9fbf-0e8db5f3ec73"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaningZh": "采纳，吸收，引入",
+      "meaningEn": "to adopt, to incorporate",
+      "level": "n3",
+      "exampleSentence": "新しい考え方を取り入れましょう。",
+      "id": "44bbacdf-43ba-4a91-9e61-b3f7e45dec64"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ発酵食品は人気がありますか？",
+      "options": [
+        "おいしいから",
+        "体に良い菌が入っているから",
+        "安いから",
+        "見た目がきれいだから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「発酵食品には、体に良い菌がたくさん入っています。これらの菌は、お腹の調子を良くしてくれます。」",
+      "id": "608b3c85-ce8f-4526-b62c-1161bcbff439"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-26-95fc09b2b4",
+  "publishedAt": "2026-10-26T06:00:00+09:00"
+}

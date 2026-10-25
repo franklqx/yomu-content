@@ -1,0 +1,122 @@
+{
+  "title": "秋の味覚！限定スイーツ登場",
+  "summary": "秋になりました。おいしい食べ物がいっぱいです。お店には特別なスイーツもたくさんあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "秋は美味しい季節です。果物や野菜がおいしくなります。特に、栗（くり）やさつまいもを使ったお菓子は人気があります。この季節だけしか食べられないものが多いです。",
+      "translationZh": "秋天是美味的季节。水果和蔬菜变得更美味了。特别是，用栗子和红薯做的点心很受欢迎。很多东西只有这个季节才能吃到。",
+      "translationEn": "Autumn is a delicious season. Fruits and vegetables become tastier. Especially, sweets made with chestnuts and sweet potatoes are popular. Many things can only be eaten during this season.",
+      "id": "d665ffed-c94c-404f-a69e-6f8a4815b5b2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "デパートやカフェでは、秋限定の商品がたくさん出ます。例えば、栗のケーキ、さつまいものタルト、かぼちゃのプリンなどです。見た目も秋らしくて、とてもきれいです。",
+      "translationZh": "百货商店和咖啡馆会推出很多秋季限定商品。例如，栗子蛋糕、红薯挞、南瓜布丁等。外观也很秋季风格，非常漂亮。",
+      "translationEn": "Department stores and cafes offer many autumn-limited products. For example, chestnut cake, sweet potato tart, and pumpkin pudding. They also look autumnal and are very beautiful.",
+      "id": "e2716d9a-bf19-4a14-b34d-ccfc8d9893e5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの限定商品は、すぐに売り切れてしまうこともあります。だから、欲しい人は早めに買いに行く必要があります。友達や家族と一緒においしいものを楽しむのは、とてもいい時間ですね。",
+      "translationZh": "这些限定商品有时会很快卖完。所以，想要的人需要早点去买。和朋友家人一起享受美味的东西，是很美好的时光呢。",
+      "translationEn": "These limited products sometimes sell out quickly. Therefore, those who want them need to go buy them early. Enjoying delicious food with friends and family is a very good time.",
+      "id": "5da42a91-a1c2-487e-bc65-1126201cc750",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、この秋だけの特別な味をぜひ楽しんでください。新しい発見があるかもしれませんよ。",
+      "translationZh": "大家也请务必品尝一下这个秋季独有的特别味道。可能会有新的发现哦。",
+      "translationEn": "Everyone, please be sure to enjoy the special flavors unique to this autumn. You might make new discoveries.",
+      "id": "34fe02f9-47f8-4f98-8713-0ad0d6f6209f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaningZh": "季节",
+      "meaningEn": "season",
+      "level": "n5n4",
+      "exampleSentence": "秋は涼しい季節です。",
+      "id": "0387bb22-5920-4164-852d-c46e08e6a2f3"
+    },
+    {
+      "word": "果物",
+      "reading": "くだもの",
+      "meaningZh": "水果",
+      "meaningEn": "fruit",
+      "level": "n5n4",
+      "exampleSentence": "りんごは美味しい果物です。",
+      "id": "787f239b-be3c-4410-9e1f-3d185799a136"
+    },
+    {
+      "word": "野菜",
+      "reading": "やさい",
+      "meaningZh": "蔬菜",
+      "meaningEn": "vegetable",
+      "level": "n5n4",
+      "exampleSentence": "毎日野菜を食べます。",
+      "id": "7707d9b7-55cc-4ad7-b194-ad4c738cd9d3"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaningZh": "限定",
+      "meaningEn": "limited",
+      "level": "n5n4",
+      "exampleSentence": "これは限定のバッグです。",
+      "id": "31507c8d-8844-4ab2-b35a-57604d18f4ae"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningZh": "商品",
+      "meaningEn": "product",
+      "level": "n5n4",
+      "exampleSentence": "新しい商品が発売されました。",
+      "id": "0f79df76-7b53-4eca-ae7b-c704f5f53c1b"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "この店は人気があります。",
+      "id": "e0e02ffa-ee5f-4f1d-95c1-41b9dff451cd"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaningZh": "卖完",
+      "meaningEn": "to sell out",
+      "level": "n5n4",
+      "exampleSentence": "チケットはもう売り切れました。",
+      "id": "174684c3-e8c0-427a-b8c9-89a7757fb83b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "秋限定の食べ物で、文中に出てきたものはどれですか。",
+      "options": [
+        "栗のケーキ",
+        "いちごのタルト",
+        "チョコレートのプリン",
+        "夏のジュース"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「栗のケーキ、さつまいものタルト、かぼちゃのプリンなどです。」と書いてあります。",
+      "id": "83288812-2665-473e-bca0-0365c46972c4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-26-26f6e5544d",
+  "publishedAt": "2026-10-26T06:00:00+09:00"
+}

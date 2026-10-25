@@ -1,0 +1,123 @@
+{
+  "title": "アニメの力で商店街が元気に！",
+  "summary": "ある商店街がアニメの舞台になりました。その結果、商店街はとても人気が出ました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、この商店街はあまり人がいませんでした。お店も少なくなっていました。でも、アニメがこの場所で始まってから、たくさんの人が来るようになりました。アニメのファンが、アニメに出てきた場所を見に来たのです。",
+      "translationZh": "以前，这条商店街人很少。店铺也渐渐变少。但是，自从一部动画在这里开始后，来了很多人。动画迷们来看动画中出现的场景。",
+      "translationEn": "In the past, this shopping street didn't have many people. The number of stores was also decreasing. However, after an anime started here, many people began to visit. Anime fans came to see the places that appeared in the anime.",
+      "id": "b7928f52-3fcd-4d8c-b0ce-49a3bbe0db74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "商店街の人たちは、アニメのために色々なことをしました。例えば、アニメのポスターを貼りました。また、アニメのキャラクターの特別なグッズも売りました。お店の名前や外観も、アニメの雰囲気に合わせるように工夫しました。",
+      "translationZh": "商店街的人们为动画做了各种各样的事情。例如，贴了动画的海报。还卖了动画角色的特别周边商品。店名和外观也下功夫，配合动画的氛围。",
+      "translationEn": "The people in the shopping street did various things for the anime. For example, they put up anime posters. They also sold special merchandise of the anime characters. They also worked hard to match the shop names and exteriors to the anime's atmosphere.",
+      "id": "49cdd1be-5f12-4a94-884a-b88c26cfd471",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "その結果、商店街はとてもにぎやかになりました。若い人たちや家族連れがたくさん訪れます。商店街の人たちは、アニメのおかげで、とても喜んでいます。これからも、この場所を大切にしていきたいと思っています。",
+      "translationZh": "结果，商店街变得非常热闹。很多年轻人和家庭一起来访。商店街的人们因为动画的缘故，感到非常高兴。今后也希望继续珍惜这个地方。",
+      "translationEn": "As a result, the shopping street became very lively. Many young people and families visit. The people in the shopping street are very happy thanks to the anime. They hope to continue cherishing this place from now on.",
+      "id": "40517b14-b771-48bc-990e-962737215499",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "商店街",
+      "reading": "しょうてんがい",
+      "meaningZh": "商店街",
+      "meaningEn": "shopping street",
+      "level": "n5n4",
+      "exampleSentence": "この商店街はいつもきれいです。",
+      "id": "574176f3-004d-4ffb-b49d-af511394c69c"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaningZh": "舞台，场景",
+      "meaningEn": "stage, setting",
+      "level": "n5n4",
+      "exampleSentence": "この町がアニメの舞台になりました。",
+      "id": "29bdc7b7-ecae-498a-8b7a-1a3182aeed79"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店はとても人気があります。",
+      "id": "c4bac10f-f5e2-4d66-8050-ded6526f5af9"
+    },
+    {
+      "word": "ファン",
+      "reading": "ふぁん",
+      "meaningZh": "粉丝",
+      "meaningEn": "fan",
+      "level": "n5n4",
+      "exampleSentence": "私はこのアニメのファンです。",
+      "id": "f3d405b0-583a-4dce-a6fc-977f61cc35cb"
+    },
+    {
+      "word": "ポスター",
+      "reading": "ぽすたー",
+      "meaningZh": "海报",
+      "meaningEn": "poster",
+      "level": "n5n4",
+      "exampleSentence": "壁にポスターを貼りました。",
+      "id": "e2bf9608-9c07-4df4-9d3d-f022a195de81"
+    },
+    {
+      "word": "グッズ",
+      "reading": "ぐっず",
+      "meaningZh": "周边商品",
+      "meaningEn": "merchandise",
+      "level": "n5n4",
+      "exampleSentence": "アニメのグッズを買いました。",
+      "id": "475f910b-749f-4c02-be68-26ebd1481415"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere",
+      "level": "n3",
+      "exampleSentence": "このカフェは静かな雰囲気です。",
+      "id": "91f9a5e3-d6e4-40f4-9a70-f510f41bed7d"
+    },
+    {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaningZh": "热闹",
+      "meaningEn": "lively, bustling",
+      "level": "n5n4",
+      "exampleSentence": "お祭りはとてもにぎやかでした。",
+      "id": "7697fc77-b141-4fcd-8f64-6bcaf59124d8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "アニメが始まってから、商店街はどうなりましたか？",
+      "options": [
+        "人がたくさん来るようになった",
+        "お店が全部閉まった",
+        "静かになった",
+        "新しいアニメができた"
+      ],
+      "correctIndex": 0,
+      "explanation": "アニメがこの場所で始まってから、たくさんの人が来るようになりました。",
+      "id": "97dff3ea-9c31-4c43-9a58-6eab14a40645"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-26-fbd00c5843",
+  "publishedAt": "2026-10-26T06:00:00+09:00"
+}

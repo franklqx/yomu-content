@@ -1,0 +1,138 @@
+{
+  "title": "発酵食品ブーム到来！健康志向の高まりを背景に",
+  "summary": "近年、健康維持・増進への関心の高まりとともに、発酵食品への注目が集まっています。その多様な効果が期待され、食卓への普及が進んでいます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、健康意識の高まりを背景に、発酵食品への関心がかつてないほど高まっているとのことである。納豆、味噌、醤油といった伝統的な食品に加え、近年ではキムチ、ヨーグルト、甘酒、さらにはコンブチャなども人気を集めている。これらの食品は、微生物の働きによって栄養価が向上したり、消化吸収が容易になったりする特性を持つことから、腸内環境の改善や免疫力向上に寄与すると見られている。",
+      "translationZh": "据报道，近年来，在健康意识日益增强的背景下，人们对发酵食品的关注度达到了前所未有的高度。除了纳豆、味噌、酱油等传统食品外，近年来泡菜、酸奶、甜酒酿，乃至康普茶等也备受欢迎。这些食品由于微生物的作用而具有营养价值提升、易于消化吸收的特性，被认为有助于改善肠道环境和提高免疫力。",
+      "translationEn": "It is reported that in recent years, with the increasing health consciousness, interest in fermented foods has reached an unprecedented level. In addition to traditional foods such as natto, miso, and soy sauce, kimchi, yogurt, amazake, and even kombucha have gained popularity in recent years. These foods are believed to contribute to the improvement of the intestinal environment and the enhancement of immunity due to their characteristics of increased nutritional value and easier digestion and absorption through the action of microorganisms.",
+      "id": "b12d0eeb-4fa3-4df3-afdd-9e8405bd06ae",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "健康効果への期待に加え、発酵食品が持つ独特の風味や食感も、多くの人々を魅了する要因となっている。特に若年層においては、SNSなどを通じて発酵食品を取り入れたレシピやその効果が共有され、新たな消費トレンドを生み出している。また、生活習慣病の予防や美容効果への関心も、発酵食品市場の拡大を後押ししていると言えよう。",
+      "translationZh": "除了对健康功效的期待，发酵食品特有的风味和口感也是吸引众多消费者的因素。尤其是在年轻人中，通过社交媒体等平台分享了融入发酵食品的食谱及其功效，催生了新的消费趋势。此外，对预防生活习惯病和美容效果的关注，也正在推动发酵食品市场的扩大。",
+      "translationEn": "In addition to the expectation of health benefits, the unique flavor and texture of fermented foods are also factors that attract many people. Especially among the younger generation, recipes incorporating fermented foods and their effects are shared through social media, creating new consumption trends. Furthermore, interest in preventing lifestyle diseases and beauty effects can be said to be boosting the expansion of the fermented food market.",
+      "id": "8d960dae-4097-46b1-9080-5409edc9011e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした発酵食品ブームは、単なる一時的な流行に留まらず、人々の食生活における健康志向の定着を象徴するものと見られる。今後も、新たな発酵食品の開発や、既存の食品の健康効果に関する研究が進むことで、その需要はさらに多様化・拡大していくことが予想される。各企業も、このトレンドを捉え、健康価値を前面に出した商品開発に注力していくであろう。",
+      "translationZh": "这种发酵食品热潮并非仅仅是一时的流行，它被视为人们饮食生活中文康复趋势根深蒂固的象征。今后，随着新发酵食品的开发以及对现有食品健康功效研究的深入，其需求预计将进一步多样化和扩大。各企业也将抓住这一趋势，致力于开发突出健康价值的产品。",
+      "translationEn": "This fermented food boom is not just a temporary trend but is seen as symbolizing the entrenchment of health consciousness in people's dietary habits. In the future, as new fermented foods are developed and research on the health benefits of existing foods progresses, demand is expected to become even more diversified and expanded. Companies will also likely seize this trend and focus on developing products that emphasize health value.",
+      "id": "f342a08b-8a68-4c86-8e19-db7bce9795a2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaningZh": "背景",
+      "meaningEn": "background",
+      "level": "n3",
+      "exampleSentence": "健康意識の高まりを背景に、発酵食品への関心が高まっている。",
+      "id": "10385b8b-2969-4984-a086-fb5695ccec59"
+    },
+    {
+      "word": "かつてない",
+      "reading": "かつてない",
+      "meaningZh": "前所未有的",
+      "meaningEn": "unprecedented",
+      "level": "n2n1",
+      "exampleSentence": "かつてないほどの関心が寄せられている。",
+      "id": "6331ad31-e773-42c1-a0e6-3e401a232542"
+    },
+    {
+      "word": "寄与",
+      "reading": "きよ",
+      "meaningZh": "贡献，起作用",
+      "meaningEn": "contribution, play a part",
+      "level": "n2n1",
+      "exampleSentence": "腸内環境の改善に寄与すると期待されている。",
+      "id": "8fbbc141-cbd8-4da0-bb03-2b2839a8d50e"
+    },
+    {
+      "word": "魅了",
+      "reading": "みりょう",
+      "meaningZh": "魅力，吸引",
+      "meaningEn": "charm, fascination",
+      "level": "n2n1",
+      "exampleSentence": "その独特の風味は多くの人々を魅了している。",
+      "id": "63d5c7ce-db07-4b05-bac2-bc984c6a368c"
+    },
+    {
+      "word": "後押し",
+      "reading": "あとおし",
+      "meaningZh": "推动，支持",
+      "meaningEn": "push, support",
+      "level": "n2n1",
+      "exampleSentence": "市場の拡大を後押ししている要因と言える。",
+      "id": "e00d3f75-0449-4a07-b304-27785dad7a5a"
+    },
+    {
+      "word": "定着",
+      "reading": "ていちゃく",
+      "meaningZh": "固定，确立，扎根",
+      "meaningEn": "establishment, taking root",
+      "level": "n2n1",
+      "exampleSentence": "健康志向の定着は、食生活の変化をもたらしている。",
+      "id": "77ccc34a-e3c5-4638-ab6b-027ad35321af"
+    },
+    {
+      "word": "象徴",
+      "reading": "しょうちょう",
+      "meaningZh": "象征",
+      "meaningEn": "symbol",
+      "level": "n2n1",
+      "exampleSentence": "このブームは、現代の健康志向を象徴するものだ。",
+      "id": "22d7fdfc-89b4-43b8-98dc-001725ba0ff2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "近年、発酵食品への関心が高まっている主な理由は何ですか？",
+      "options": [
+        "発酵食品の価格が安くなったから",
+        "伝統的な発酵食品が不足しているから",
+        "健康意識の高まりと、その健康効果への期待から",
+        "SNSで発酵食品が流行していることだけが理由だから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文中では、「健康意識の高まりを背景に、発酵食品への関心がかつてないほど高まっているとのことである。」と述べられており、健康効果への期待が大きな理由であることが示唆されています。",
+      "id": "8d750a82-bfb4-4ac7-9508-68f67efcb792"
+    },
+    {
+      "question": "発酵食品が持つとされる効果として、本文で言及されているものはどれですか？",
+      "options": [
+        "運動能力の向上と疲労回復",
+        "腸内環境の改善と免疫力向上",
+        "消化不良の解消と体重増加",
+        "記憶力の向上と集中力強化"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文の第一段落に、「腸内環境の改善や免疫力向上に寄与すると見られている。」と明記されています。",
+      "id": "2cb5c406-81a5-45cf-b2e7-b147e8135ddb"
+    },
+    {
+      "question": "発酵食品ブームは、今後どのように展開していくと予想されていますか？",
+      "options": [
+        "一時的な流行で終わり、すぐに廃れるだろう",
+        "価格競争が激化し、品質が低下するだろう",
+        "新たな開発や研究が進み、需要が多様化・拡大していくだろう",
+        "健康効果よりも味の追求が重視されるようになるだろう"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文の最終段落で、「今後も、新たな発酵食品の開発や、既存の食品の健康効果に関する研究が進むことで、その需要はさらに多様化・拡大していくことが予想される。」と述べられています。",
+      "id": "9ce90065-f479-4e2a-b20a-9b4ca079c034"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-26-95fc09b2b4",
+  "publishedAt": "2026-10-26T06:00:00+09:00"
+}

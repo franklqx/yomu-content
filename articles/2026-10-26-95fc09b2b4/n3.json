@@ -1,0 +1,134 @@
+{
+  "title": "発酵食品ブーム！健康的な食生活への新しい波",
+  "summary": "最近、発酵食品が人気を集めています。これは、健康への意識が高まっていることと関係があるようです。多くの人が、発酵食品を食事に取り入れています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、スーパーやレストランで発酵食品を目にすることが増えました。納豆や味噌、ヨーグルトはもちろん、キムチやコンブチャなども人気です。これは、単なる流行ではなく、多くの人が健康的な食生活を意識し始めたからでしょう。発酵食品には、私たちの体に良い影響を与える栄養素がたくさん含まれていると言われています。",
+      "translationZh": "最近，在超市和餐馆里看到发酵食品的次数越来越多了。除了纳豆、味噌、酸奶之外，泡菜和康普茶也非常受欢迎。这不仅仅是潮流，很可能是因为许多人开始意识到健康饮食的重要性。据说发酵食品中含有许多对我们身体有益的营养素。",
+      "translationEn": "Recently, we have seen more fermented foods in supermarkets and restaurants. Not only natto, miso, and yogurt, but also kimchi and kombucha are popular. This is not just a trend, but likely because many people have started to be conscious of a healthy diet. Fermented foods are said to contain many nutrients that have a positive effect on our bodies.",
+      "id": "f4143a0b-11f6-47f9-9b88-2834f812b212",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品が注目される理由の一つに、腸内環境を整える効果が挙げられます。腸には、免疫機能の約70%が集まっていると言われており、腸内環境が良いと、病気にかかりにくくなると考えられています。発酵食品に含まれる善玉菌（ぜんだまきん）は、悪玉菌（あくだまきん）の増殖を抑え、腸の働きを助けてくれるのです。そのため、健康維持のために積極的に摂りたいと考える人が増えています。",
+      "translationZh": "发酵食品受到关注的原因之一是它能调节肠道环境。据说大约70%的免疫功能集中在肠道，而肠道环境良好被认为能提高抵抗力。发酵食品中含有的益生菌可以抑制有害菌的增殖，帮助肠道运作。因此，越来越多的人希望为了维持健康而积极摄取发酵食品。",
+      "translationEn": "One reason why fermented foods are gaining attention is their effect on regulating the intestinal environment. It is said that about 70% of immune function is concentrated in the intestines, and a good intestinal environment is thought to make us less susceptible to illness. The beneficial bacteria (zendamakin) in fermented foods suppress the growth of harmful bacteria (akudamakin) and help the intestines function. Therefore, more and more people want to actively consume them to maintain their health.",
+      "id": "4ac73355-461a-40e7-8af0-01ed6d6cfbff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、発酵の過程で、食品の栄養価が高まったり、消化しやすくなったりするというメリットもあります。例えば、大豆から作られる味噌や醤油は、発酵によって旨味（うまみ）が増し、栄養も吸収しやすくなります。このように、発酵食品は私たちの食卓を豊かにしてくれるだけでなく、健康にも貢献してくれる、まさに「一石二鳥」の食品と言えるでしょう。",
+      "translationZh": "此外，发酵过程还能提高食品的营养价值，使其更易于消化。例如，由大豆制成的味噌和酱油，通过发酵增加了鲜味，也更容易吸收营养。像这样，发酵食品不仅丰富了我们的餐桌，也为健康做出了贡献，可以说是一种名副其实的“一石二鸟”的食品。",
+      "translationEn": "Furthermore, there are benefits such as increased nutritional value and improved digestibility during the fermentation process. For example, miso and soy sauce made from soybeans gain more umami through fermentation, and their nutrients become easier to absorb. In this way, fermented foods not only enrich our tables but also contribute to our health, truly making them a 'two birds with one stone' food.",
+      "id": "2eb27cb0-f175-4ecd-9326-6500d8a75dc9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "発酵食品ブームは、健康志向の高まりとともに、今後も続くと予想されます。色々な発酵食品を試して、自分に合ったものを見つけるのは楽しいことです。毎日の食事に少しずつ取り入れて、美味しく健康的な生活を目指しましょう。",
+      "translationZh": "预计发酵食品的热潮将随着健康意识的提高而持续下去。尝试各种发酵食品，找到适合自己的，是一件有趣的事情。让我们一点一点地将它们融入日常饮食中，以实现美味健康的生活。",
+      "translationEn": "The fermented food boom is expected to continue with the rising health consciousness. Trying various fermented foods and finding ones that suit you is enjoyable. Let's gradually incorporate them into our daily meals and aim for a delicious and healthy life.",
+      "id": "8d46be73-89ad-4833-a48c-e889312edae2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "発酵食品",
+      "reading": "はっこうしょくひん",
+      "meaningZh": "发酵食品",
+      "meaningEn": "fermented food",
+      "level": "n3",
+      "exampleSentence": "キムチは代表的な発酵食品の一つです。",
+      "id": "8dc4541c-e8c0-4dfe-bb41-361ca7ecc4d6"
+    },
+    {
+      "word": "意識",
+      "reading": "いしき",
+      "meaningZh": "意识，意识",
+      "meaningEn": "consciousness, awareness",
+      "level": "n3",
+      "exampleSentence": "健康への意識が高まっています。",
+      "id": "102721e2-5714-44b1-9968-de1c3a8550a3"
+    },
+    {
+      "word": "免疫機能",
+      "reading": "めんえききのう",
+      "meaningZh": "免疫功能",
+      "meaningEn": "immune function",
+      "level": "n3",
+      "exampleSentence": "十分な睡眠は免疫機能を高めます。",
+      "id": "c41957f0-d41e-402e-8f5d-befe6969ed36"
+    },
+    {
+      "word": "善玉菌",
+      "reading": "ぜんだまきん",
+      "meaningZh": "益生菌",
+      "meaningEn": "beneficial bacteria",
+      "level": "n3",
+      "exampleSentence": "ヨーグルトには善玉菌が多く含まれています。",
+      "id": "d42386d7-24d4-4525-875f-5f2a540805c5"
+    },
+    {
+      "word": "悪玉菌",
+      "reading": "あくだまきん",
+      "meaningZh": "有害菌",
+      "meaningEn": "harmful bacteria",
+      "level": "n3",
+      "exampleSentence": "悪玉菌が増えると、体に悪影響が出ることがあります。",
+      "id": "bc08d3d2-bd1b-4a81-b46f-f60b9dc37a9d"
+    },
+    {
+      "word": "消化",
+      "reading": "しょうか",
+      "meaningZh": "消化",
+      "meaningEn": "digestion",
+      "level": "n3",
+      "exampleSentence": "この料理は消化が良いです。",
+      "id": "d15b0f0a-f172-4f1b-aab1-912f5b0fa74d"
+    },
+    {
+      "word": "旨味",
+      "reading": "うまみ",
+      "meaningZh": "鲜味",
+      "meaningEn": "umami, savory taste",
+      "level": "n3",
+      "exampleSentence": "昆布だしは旨味の元です。",
+      "id": "ba0f2566-8fbf-4362-8ddc-623133d22b2d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "発酵食品が人気を集めている主な理由は何ですか？",
+      "options": [
+        "安価で手に入りやすいから",
+        "味が独特で面白いから",
+        "健康への意識が高まっているから",
+        "テレビでよく紹介されているから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「これは、単なる流行ではなく、多くの人が健康的な食生活を意識し始めたからでしょう。」と書かれています。",
+      "id": "59b9b222-11dd-4e1d-afb4-037d6297a4fb"
+    },
+    {
+      "question": "発酵食品が腸内環境を整えるのに役立つのはなぜですか？",
+      "options": [
+        "悪玉菌を増やしてくれるから",
+        "善玉菌が悪玉菌の増殖を抑えるから",
+        "食物繊維を多く含んでいるから",
+        "腸を直接刺激するから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「発酵食品に含まれる善玉菌（ぜんだまきん）は、悪玉菌（あくだまきん）の増殖を抑え、腸の働きを助けてくれるのです。」と書かれています。",
+      "id": "32c4932c-8e05-471e-8e03-fe66bb62b160"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-26-95fc09b2b4",
+  "publishedAt": "2026-10-26T06:00:00+09:00"
+}
