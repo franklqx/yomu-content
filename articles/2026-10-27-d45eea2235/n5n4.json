@@ -1,0 +1,122 @@
+{
+  "title": "開発者向け新クラウド",
+  "summary": "個人開発者にとって、新しいクラウドサービスが出ました。このサービスはとても便利です。ぜひ使ってみてください。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "新しいクラウドサービスができました。これは個人開発者向けです。このサービスは、プログラムを作るのを助けます。たとえば、サーバーの準備は必要ありません。すぐにプログラムを動かせます。",
+      "translationZh": "出现了一个新的云服务。这个服务是面向个人开发者。这个服务能帮助制作程序。例如，不需要准备服务器。可以立刻运行程序。",
+      "translationEn": "A new cloud service has been created. This is for individual developers. This service helps in creating programs. For example, there is no need to prepare a server. You can run your program immediately.",
+      "id": "d2e4ecf1-b1de-4fda-a821-1f525696c1d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このサービスを使うと、時間とお金を節約できます。自分でサーバーを管理するのは大変です。でも、このサービスなら、そういう心配はいりません。開発者はプログラムの中身だけを考えればいいです。",
+      "translationZh": "使用这个服务，可以节省时间和金钱。自己管理服务器很辛苦。但是，有了这个服务，就不需要那种担心了。开发者只需要考虑程序的内容。",
+      "translationEn": "Using this service, you can save time and money. Managing a server by yourself is difficult. But with this service, you don't need to worry about that. Developers only need to think about the program's content.",
+      "id": "a2a0a429-c6f6-456b-8333-20cabdbf81cf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい技術も簡単に試せます。このクラウドサービスは、色々な機能を持っています。たとえば、データベースやAIの機能も使えます。個人開発者でも、大きなプロジェクトができます。",
+      "translationZh": "也可以轻松尝试新技术。这个云服务有很多功能。例如，也能使用数据库和AI的功能。即使是个人开发者，也可以做大项目。",
+      "translationEn": "You can also easily try new technologies. This cloud service has various functions. For example, you can use database and AI functions. Even individual developers can undertake large projects.",
+      "id": "9387c1a5-adaa-4b50-9dec-c2d476361887",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もしあなたが個人開発者なら、この新しいサービスを試してみてください。きっとあなたの開発がもっと楽になります。詳細はウェブサイトで確認できます。",
+      "translationZh": "如果你是个人开发者，请试试这个新服务。肯定会让你的开发变得更轻松。详细信息可以在网站上确认。",
+      "translationEn": "If you are an individual developer, please try this new service. It will surely make your development easier. Details can be confirmed on the website.",
+      "id": "f175e345-5110-4ddd-a001-9308af6ae63b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "開発者",
+      "reading": "かいはつしゃ",
+      "meaningZh": "开发者",
+      "meaningEn": "developer",
+      "level": "n5n4",
+      "exampleSentence": "このアプリは若い開発者が作りました。",
+      "id": "01f71552-b00d-4e50-9700-be2916d2382e"
+    },
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaningZh": "个人",
+      "meaningEn": "individual",
+      "level": "n5n4",
+      "exampleSentence": "これは個人で始めたプロジェクトです。",
+      "id": "5babe831-df44-408f-96b5-dc17ce84f172"
+    },
+    {
+      "word": "クラウドサービス",
+      "reading": "くらうどさーびす",
+      "meaningZh": "云服务",
+      "meaningEn": "cloud service",
+      "level": "n5n4",
+      "exampleSentence": "新しいクラウドサービスは便利です。",
+      "id": "2e75f3af-11f5-4ad7-910a-08622fd8f42b"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "旅行の準備をしました。",
+      "id": "f31befb7-cefc-49de-a436-64dee14e65ce"
+    },
+    {
+      "word": "節約",
+      "reading": "せつやく",
+      "meaningZh": "节省",
+      "meaningEn": "saving",
+      "level": "n5n4",
+      "exampleSentence": "電気代を節約しています。",
+      "id": "3b647387-85bd-43d7-90db-c563a9b6ead4"
+    },
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaningZh": "管理",
+      "meaningEn": "management",
+      "level": "n5n4",
+      "exampleSentence": "彼は会社のマネージャーとして管理しています。",
+      "id": "954463e6-e1d9-44d9-8aef-d4779cefaad0"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaningZh": "功能",
+      "meaningEn": "function",
+      "level": "n5n4",
+      "exampleSentence": "このパソコンは新しい機能がたくさんあります。",
+      "id": "6a4d150d-5e1d-4f6d-99e4-98a2cf2f53bf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この新しいクラウドサービスは、誰のために作られましたか？",
+      "options": [
+        "大きな会社のため",
+        "個人開発者と会社のため",
+        "個人開発者と学生のため",
+        "個人開発者だけのため"
+      ],
+      "correctIndex": 3,
+      "explanation": "このサービスは個人開発者向けです。",
+      "id": "a460a0de-6111-4873-955b-781537ca500c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-27-d45eea2235",
+  "publishedAt": "2026-10-27T06:00:00+09:00"
+}

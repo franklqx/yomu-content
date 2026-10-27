@@ -1,0 +1,114 @@
+{
+  "title": "若い人の田舎暮らしを応援！",
+  "summary": "最近、若い人が田舎で暮らすのを助ける制度が変わりました。この制度は、もっと多くの人が田舎で幸せに暮らせるように作られました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、若い人が田舎に住むのを助ける制度があります。この制度は、昔からある町や自然がたくさんある場所で、新しい生活を始める人を応援します。新しい仕事を見つけたり、家を借りたりする時にお金がもらえます。",
+      "translationZh": "日本有一个帮助年轻人移居农村的制度。这个制度支持在有悠久历史的城镇或自然风光丰富的地方开始新生活的人。在找新工作或租房时可以获得金钱支持。",
+      "translationEn": "In Japan, there is a system to help young people move to the countryside. This system supports people who start a new life in towns with a long history or places rich in nature. You can receive financial support when you find a new job or rent a house.",
+      "id": "9111a775-b6d7-4fbc-8311-88a13bb0029c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度は、田舎の人口が減るのを防ぐためにも大切です。若い人が田舎に来てくれると、町が元気になります。お店ができたり、学校に子供が増えたりするかもしれません。だから、国や町は、若い人を応援したいと思っています。",
+      "translationZh": "这个制度对于防止农村人口减少也很重要。如果年轻人来到农村，城镇会变得有活力。可能会开更多的商店，学校的学生也会增加。因此，国家和城镇都希望支持年轻人。",
+      "translationEn": "This system is also important to prevent the population in rural areas from decreasing. When young people come to the countryside, the town becomes vibrant. More shops might open, and the number of children in schools might increase. Therefore, the country and towns want to support young people.",
+      "id": "1d1cd4ec-14dc-404a-9d74-55f92a52e70e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、この制度を見直しました。もっと多くの若い人が田舎で暮らしやすくなるように、お金の助け方や、どんな仕事があるかなどの情報をもっと分かりやすくしました。これからも、田舎での新しい生活を応援する工夫が続けられるでしょう。",
+      "translationZh": "最近，这个制度进行了修改。为了让更多的年轻人更容易在农村生活，我们改进了金钱援助的方式，并提供了更多关于有哪些工作的信息，使其更容易理解。今后，支持农村新生活的措施将继续下去。",
+      "translationEn": "Recently, this system has been reviewed. To make it easier for more young people to live in the countryside, the way financial aid is given and information about available jobs have been made clearer. Efforts to support new life in rural areas will likely continue.",
+      "id": "97ab3b2c-e331-4672-b600-fdb489c59705",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "田舎",
+      "reading": "いなか",
+      "meaningZh": "农村，乡下",
+      "meaningEn": "countryside, rural area",
+      "level": "n5n4",
+      "exampleSentence": "私は田舎で育ちました。",
+      "id": "d238d1aa-bf6c-4147-bc68-0cc4dc68ec54"
+    },
+    {
+      "word": "移住",
+      "reading": "いじゅう",
+      "meaningZh": "移居",
+      "meaningEn": "migration, moving to a new place",
+      "level": "n5n4",
+      "exampleSentence": "彼は東京から大阪へ移住しました。",
+      "id": "073c885c-7339-4459-b30a-674d31a4f7c2"
+    },
+    {
+      "word": "支援",
+      "reading": "しえん",
+      "meaningZh": "支援，支持",
+      "meaningEn": "support, assistance",
+      "level": "n5n4",
+      "exampleSentence": "国が中小企業を支援しています。",
+      "id": "f0e4b254-8365-4094-885b-a155b7f70064"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system, institution",
+      "level": "n5n4",
+      "exampleSentence": "新しい法律の制度ができました。",
+      "id": "7d1fe408-f26d-4d65-8b5f-dfd201021df7"
+    },
+    {
+      "word": "見直し",
+      "reading": "みなおし",
+      "meaningZh": "重新审查，修改",
+      "meaningEn": "review, revision",
+      "level": "n5n4",
+      "exampleSentence": "計画の見直しが必要です。",
+      "id": "f88f4633-0bc9-49ba-b2ef-147504851859"
+    },
+    {
+      "word": "人口",
+      "reading": "じんこう",
+      "meaningZh": "人口",
+      "meaningEn": "population",
+      "level": "n5n4",
+      "exampleSentence": "この町の人口は増えています。",
+      "id": "c63ddda3-7032-4d28-bfc0-a1ba189acd76"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaningZh": "有活力，健康",
+      "meaningEn": "energy, vitality, health",
+      "level": "n5n4",
+      "exampleSentence": "彼はいつも元気です。",
+      "id": "c93a4f69-5770-44a3-af9c-8c91c1949e1a"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若い人が田舎で暮らすのを助ける制度は、どんな目的がありますか？",
+      "options": [
+        "田舎でお店をたくさん開くため",
+        "若い人が田舎で働きやすくするため",
+        "田舎の人口が減るのを防ぐため",
+        "田舎の自然を守るため"
+      ],
+      "correctIndex": 2,
+      "explanation": "この制度は、田舎の人口が減るのを防ぐためにも大切です。若い人が田舎に来てくれると、町が元気になります。",
+      "id": "be8f08bf-3e07-41d2-b9c8-5c8dd1b4ee07"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-27-064b73f043",
+  "publishedAt": "2026-10-27T06:00:00+09:00"
+}

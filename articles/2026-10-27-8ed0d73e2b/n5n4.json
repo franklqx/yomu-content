@@ -1,0 +1,131 @@
+{
+  "title": "お祭りの未来：若い力",
+  "summary": "日本の各地でお祭りが開かれます。最近、若い人たちがお祭りを守っています。これはとても良いことです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、たくさんの伝統的なお祭りがあります。夏には花火大会、秋には紅葉祭りなど、季節ごとにお祭りが開かれます。これらの祭りは、昔から地域の人々によって大切にされてきました。",
+      "translationZh": "日本有很多传统的节日庆典。夏天有烟花大会，秋天有红叶祭等，每个季节都会举办庆典。这些庆典自古以来就被当地人们珍视。",
+      "translationEn": "Japan has many traditional festivals. There are fireworks festivals in summer and autumn leaf festivals in fall, with festivals held every season. These festivals have been cherished by local people since ancient times.",
+      "id": "ec9e940f-622f-4b3c-a94b-e982c4609d5b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近、お祭りを続けることが難しくなっています。若い人たちの参加が減っているからです。お祭りを準備したり、運営したりするのは大変な仕事です。そのため、後継者を見つけるのが難しくなっていました。",
+      "translationZh": "但是，最近要继续举办庆典变得困难了。因为年轻人的参与在减少。准备和运营庆典是辛苦的工作。因此，寻找接班人变得困难起来。",
+      "translationEn": "However, recently, it has become difficult to continue the festivals. This is because the participation of young people is decreasing. Preparing and running festivals is hard work. Therefore, it has become difficult to find successors.",
+      "id": "6d896642-1696-40e6-9f71-b6905959262f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、安心してください。最近、若い人たちが祭りを支え始めています。彼らはSNSを使って祭りの情報を広めたり、新しいアイデアで祭りを盛り上げたりしています。昔ながらのやり方だけでなく、新しいやり方で祭りを大切にしています。",
+      "translationZh": "但是，请放心。最近，年轻人开始支持庆典活动了。他们利用SNS传播庆典信息，并用新点子让庆典更加热闹。他们不仅用传统的方式，也用新的方式珍惜庆典。",
+      "translationEn": "But, please don't worry. Recently, young people have started to support the festivals. They use SNS to spread information about the festivals and liven them up with new ideas. They cherish the festivals not only in the traditional way but also with new methods.",
+      "id": "53a6d122-55b6-4f2e-b8be-01bcaf949117",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "若い人たちが祭りの文化を受け継いでいくことは、日本の大切な宝を守ることにつながります。これからも、お祭りが地域の人々にとって楽しい時間であり続けるでしょう。",
+      "translationZh": "年轻人传承庆典文化，有助于保护日本珍贵的宝藏。今后，庆典也将继续成为当地人们快乐的时光。",
+      "translationEn": "Young people inheriting festival culture leads to protecting Japan's precious treasures. From now on, festivals will continue to be a joyful time for local people.",
+      "id": "0372f0ad-185d-41bb-99a0-dbd1d7ab649c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "祭り",
+      "reading": "まつり",
+      "meaningZh": "节日，庆典",
+      "meaningEn": "festival, celebration",
+      "level": "n5n4",
+      "exampleSentence": "夏には花火の祭りがあります。",
+      "id": "51aab802-e9ef-43de-a069-e03fb79ade26"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaningZh": "传统",
+      "meaningEn": "tradition",
+      "level": "n5n4",
+      "exampleSentence": "これは私たちの伝統的な習慣です。",
+      "id": "ff46c6cc-7732-4f6c-8361-d131ea0f3adc"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，地域",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとてもきれいです。",
+      "id": "22718f91-a653-4f5b-80b0-8229ec452726"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaningZh": "参加",
+      "meaningEn": "participation",
+      "level": "n5n4",
+      "exampleSentence": "祭りにたくさんの人が参加しました。",
+      "id": "f0a8efb1-9ca1-4e85-9134-a62fb580b99a"
+    },
+    {
+      "word": "後継者",
+      "reading": "こうけいしゃ",
+      "meaningZh": "继承人，接班人",
+      "meaningEn": "successor",
+      "level": "n3",
+      "exampleSentence": "彼は会社の新しい後継者です。",
+      "id": "ae0cc30d-b890-4120-a507-de3649af9125"
+    },
+    {
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaningZh": "信息",
+      "meaningEn": "information",
+      "level": "n5n4",
+      "exampleSentence": "新しい情報を教えてください。",
+      "id": "8c21f22b-c343-4e21-99d5-17798ac0d987"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "cbf3db04-2fc8-4c7d-92c4-a10465221f18"
+    },
+    {
+      "word": "宝",
+      "reading": "たから",
+      "meaningZh": "宝藏",
+      "meaningEn": "treasure",
+      "level": "n5n4",
+      "exampleSentence": "この本は私にとって宝物です。",
+      "id": "8754eef2-3f70-4972-8276-cf8913bf97cb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、お祭りを続けることが難しくなっている理由は何ですか？",
+      "options": [
+        "祭りがつまらなくなったから",
+        "若い人たちの参加が減っているから",
+        "お金が足りないから",
+        "場所がなくなったから"
+      ],
+      "correctIndex": 1,
+      "explanation": "「しかし、最近、お祭りを続けることが難しくなっています。若い人たちの参加が減っているからです。」",
+      "id": "7de546c4-56f2-4ecd-81a2-8a4358632cb9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-27-8ed0d73e2b",
+  "publishedAt": "2026-10-27T06:00:00+09:00"
+}

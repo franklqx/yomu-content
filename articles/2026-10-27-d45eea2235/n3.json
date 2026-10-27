@@ -1,0 +1,143 @@
+{
+  "title": "個人開発者向け新クラウドサービス登場！",
+  "summary": "個人開発者でも簡単に使える、新しいクラウドサービスが登場しました。このサービスについて詳しく見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、個人開発者向けの新しいクラウドサービスが注目されています。このサービスは、これまで大企業でしか利用できなかったような高度な機能を手軽に使えるように設計されています。そのため、一人でアプリやサービスを開発している人にとって、大きな助けとなるでしょう。",
+      "translationZh": "最近，面向个人开发者的新的云服务备受关注。这项服务的设计宗旨是让个人开发者也能轻松使用过去只有大公司才能使用的先进功能。因此，对于独自开发应用程序或服务的人来说，它将是巨大的帮助。",
+      "translationEn": "Recently, a new cloud service for individual developers has been gaining attention. This service is designed so that people can easily use advanced features that were previously only available to large corporations. Therefore, it will be a great help for those developing apps or services alone.",
+      "id": "13d69d39-4e43-401e-b7ac-afa021de904f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この新しいサービスを利用すると、例えば、複雑なデータベースの構築や、大量のデータを処理するためのインフラを自分で用意する必要がなくなります。サービス提供側がそれらを管理してくれるので、開発者は本来集中したい開発作業に専念できるのです。これは、時間やリソースが限られている個人開発者にとって、非常にありがたいことです。",
+      "translationZh": "使用这项新服务，例如，就不再需要自己构建复杂的数据库或准备处理大量数据的基础设施。服务提供方会替你管理这些，因此开发者可以专注于自己真正想做的开发工作。这对于时间和资源有限的个人开发者来说，是非常感激的。",
+      "translationEn": "By using this new service, for example, you no longer need to build complex databases or prepare infrastructure for processing large amounts of data yourself. The service provider will manage these for you, allowing developers to concentrate on the development work they truly want to focus on. This is very much appreciated by individual developers who have limited time and resources.",
+      "id": "c6c63adf-e201-443c-b2f8-aad93246dd6a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、このサービスは料金体系も個人開発者の懐に優しいように工夫されています。使った分だけ支払う従量課金制を採用している場合が多いので、初期投資を抑えつつ、必要に応じて機能を拡張していくことが可能です。これにより、アイデアを形にするためのハードルがぐっと低くなると期待されています。",
+      "translationZh": "此外，这项服务在收费方面也为个人开发者的钱包做了精心设计。通常采用按使用量付费的计费方式，因此可以在初期投资不多的情况下，根据需要扩展功能。这有望大大降低将想法变为现实的门槛。",
+      "translationEn": "Furthermore, the pricing of this service has also been carefully designed to be gentle on the wallets of individual developers. Many adopt a pay-as-you-go system, so you can keep initial investments low while expanding features as needed. This is expected to significantly lower the hurdle for turning ideas into reality.",
+      "id": "007cb938-ffdd-4866-a592-decde2b38872",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "個人開発者にとって、このようなクラウドサービスの登場は、新しい可能性を広げる大きなチャンスです。これからも、より多くの開発者が自分のアイデアを実現できるよう、便利なツールやサービスが増えていくことを願っています。",
+      "translationZh": "对于个人开发者来说，此类云服务的出现是拓展新可能性的绝佳机会。我们希望未来能有更多便利的工具和服务出现，让更多的开发者能够实现自己的想法。",
+      "translationEn": "For individual developers, the emergence of such cloud services is a great opportunity to expand new possibilities. We hope that more convenient tools and services will appear in the future, enabling more developers to realize their ideas.",
+      "id": "b5fa7be4-6dd3-43c9-ab54-896133a59c24",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "個人開発者",
+      "reading": "こじんどはつしゃ",
+      "meaningZh": "个人开发者",
+      "meaningEn": "Individual developer",
+      "level": "n3",
+      "exampleSentence": "個人開発者が作ったアプリが人気になった。",
+      "id": "10984cb8-082f-4dd1-850e-3b68cb2991a6"
+    },
+    {
+      "word": "クラウドサービス",
+      "reading": "くらうどさーびす",
+      "meaningZh": "云服务",
+      "meaningEn": "Cloud service",
+      "level": "n3",
+      "exampleSentence": "このサービスはクラウドサービスで提供されている。",
+      "id": "79ecc339-5638-4f65-baf9-e7a41b4f7092"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaningZh": "高度，高级",
+      "meaningEn": "High level, advanced",
+      "level": "n3",
+      "exampleSentence": "高度な技術が必要とされる仕事だ。",
+      "id": "14bbad20-be29-454d-821c-77e23b469675"
+    },
+    {
+      "word": "インフラ",
+      "reading": "いんふら",
+      "meaningZh": "基础设施",
+      "meaningEn": "Infrastructure",
+      "level": "n3",
+      "exampleSentence": "新しいインフラの整備が進んでいる。",
+      "id": "cd199731-b132-4011-b617-036fcbc49e15"
+    },
+    {
+      "word": "専念",
+      "reading": "せんねん",
+      "meaningZh": "专心，致力于",
+      "meaningEn": "To concentrate on, to devote oneself to",
+      "level": "n3",
+      "exampleSentence": "仕事に専念するために、しばらく趣味をやめた。",
+      "id": "07f1fcf0-b20f-48c0-b864-563e84112359"
+    },
+    {
+      "word": "懐",
+      "reading": "ふところ",
+      "meaningZh": "口袋，经济（这里指经济上）",
+      "meaningEn": "Pocket, finances",
+      "level": "n3",
+      "exampleSentence": "学生にとって、旅行は懐が厳しい。",
+      "id": "33ccd2fc-0992-453d-ac45-73f28a03bb7d"
+    },
+    {
+      "word": "従量課金制",
+      "reading": "じゅうりょうかきんせい",
+      "meaningZh": "按量计费制",
+      "meaningEn": "Usage-based billing system",
+      "level": "n3",
+      "exampleSentence": "電気代は従量課金制になっている。",
+      "id": "b68a3468-5c45-4d8d-b12c-98f495e3fa72"
+    },
+    {
+      "word": "ハードル",
+      "reading": "はーどる",
+      "meaningZh": "障碍，门槛",
+      "meaningEn": "Hurdle, barrier",
+      "level": "n3",
+      "exampleSentence": "この資格を取るためのハードルは高い。",
+      "id": "54cb5d17-4914-4f7d-b493-6db352ed2c2d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "個人開発者にとって、新しいクラウドサービスはどのような点で役立ちますか？",
+      "options": [
+        "より高度な機能を自分で構築できる。",
+        "インフラ管理の手間が省け、開発に集中できる。",
+        "最新のプログラミング言語を無料で学べる。",
+        "他の開発者と直接交流する機会が増える。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「サービス提供側がそれらを管理してくれるので、開発者は本来集中したい開発作業に専念できるのです。」という記述から、インフラ管理の手間が省け、開発に集中できることがわかります。",
+      "id": "5d2717d4-45a4-4547-866a-09a647696496"
+    },
+    {
+      "question": "新しいクラウドサービスは、個人開発者の経済的な負担についてどのように配慮されていますか？",
+      "options": [
+        "初期費用が非常に安く設定されている。",
+        "定額制で、いくら使っても料金が変わらない。",
+        "使った分だけ支払う従量課金制を採用している場合が多い。",
+        "開発が成功した場合のみ料金が発生する。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「使った分だけ支払う従量課金制を採用している場合が多いので、初期投資を抑えつつ、必要に応じて機能を拡張していくことが可能です。」という部分で説明されています。",
+      "id": "84c9e7fe-1b76-4639-aa4b-ea396d21bbf2"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-27-d45eea2235",
+  "publishedAt": "2026-10-27T06:00:00+09:00"
+}
