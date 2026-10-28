@@ -1,0 +1,131 @@
+{
+  "title": "古民家ステイ、人気です！",
+  "summary": "最近、山陰地方で古い家（古民家）に泊まることが人気になっています。自然の中でゆっくり過ごせます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本海側の山陰地方で「古民家ステイ」が人気です。古民家とは、古い日本の家です。昔の生活を感じられるのが魅力です。",
+      "translationZh": "最近，日本海沿岸的山阴地区，“古民家住宿”非常受欢迎。古民家是指日本的老房子。能够感受到过去的生活是它的魅力所在。",
+      "translationEn": "Recently, 'Kominka stay' is popular in the San'in region on the Sea of Japan coast. Kominka are old Japanese houses. The charm is that you can feel the life of the past.",
+      "id": "3af7b606-0768-49c3-962d-4568476c1e02",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "たくさんの人が、きれいな海や山を見に行きます。そして、夜は静かな古民家でリラックスします。都会の生活とは違う、特別な体験ができます。",
+      "translationZh": "很多人会去看美丽的海和山。然后，晚上在安静的古民家中放松。可以获得与城市生活不同的特别体验。",
+      "translationEn": "Many people go to see the beautiful sea and mountains. Then, at night, they relax in a quiet old house. You can have a special experience different from city life.",
+      "id": "d88fb93f-2d24-4263-8f8e-fc13550a11f1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "古民家では、昔ながらの囲炉裏（いろり）や、広い縁側（えんがわ）もあります。自分で料理をすることもできます。友達や家族と、楽しい時間を過ごせます。",
+      "translationZh": "在古民家中，还有传统的火炉（囲炉裏）和宽敞的走廊（縁側）。也可以自己做饭。可以和朋友或家人一起度过愉快的时光。",
+      "translationEn": "In the old houses, there are also traditional hearths (irori) and wide verandas (engawa). You can also cook for yourself. You can spend enjoyable time with friends and family.",
+      "id": "b6d7b525-f389-4d79-94cc-666f03e6471e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "山陰地方の古民家ステイは、自然や日本の文化を体験したい人におすすめです。一度、泊まってみてはいかがですか。",
+      "translationZh": "山阴地区的古民家住宿，推荐给想体验自然和日本文化的人。不考虑住一次看看吗？",
+      "translationEn": "Kominka stays in the San'in region are recommended for people who want to experience nature and Japanese culture. How about staying there once?",
+      "id": "80747978-6145-4549-8ae2-ecc8b5da5041",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古民家",
+      "reading": "こみんか",
+      "meaningZh": "老房子",
+      "meaningEn": "old Japanese house",
+      "level": "n5n4",
+      "exampleSentence": "この古民家はとてもきれいです。",
+      "id": "7d1e7b9f-f8fa-439b-a476-b57770ac4341"
+    },
+    {
+      "word": "地方",
+      "reading": "ちほう",
+      "meaningZh": "地方，地区",
+      "meaningEn": "region, area",
+      "level": "n5n4",
+      "exampleSentence": "山陰地方は海がきれいです。",
+      "id": "98fe5230-9462-43ac-8ee9-8b682ef2d6aa"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このレストランは人気があります。",
+      "id": "848dd0e1-2788-4955-bd2b-2463ed5e744e"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n3",
+      "exampleSentence": "この町の魅力は、おいしい食べ物です。",
+      "id": "6dfda69e-785e-4f4f-8b16-74f377276cb1"
+    },
+    {
+      "word": "感じられる",
+      "reading": "かんじられる",
+      "meaningZh": "能感受到",
+      "meaningEn": "can feel",
+      "level": "n5n4",
+      "exampleSentence": "昔の雰囲気が感じられます。",
+      "id": "27c444b7-586d-488c-b4cd-5ad14d30320d"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静，平静",
+      "meaningEn": "quiet, calm",
+      "level": "n5n4",
+      "exampleSentence": "夜はとても静かです。",
+      "id": "8e03ae94-31be-4c7f-91b8-43445c43448f"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n5n4",
+      "exampleSentence": "旅行はいい経験になります。",
+      "id": "26a3df5b-8969-47e0-a704-5ea9ea4da4c3"
+    },
+    {
+      "word": "縁側",
+      "reading": "えんがわ",
+      "meaningZh": "走廊，廊下",
+      "meaningEn": "veranda, porch",
+      "level": "n3",
+      "exampleSentence": "縁側で本を読みました。",
+      "id": "4045d65a-f1c9-4e71-97dc-8f45399e82e6"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "山陰地方の古民家ステイの魅力は何ですか。",
+      "options": [
+        "都会のにぎやかな場所に行けること",
+        "昔の日本の家でゆっくりできること",
+        "新しいホテルがたくさんあること",
+        "おいしいレストランがたくさんあること"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「昔の生活を感じられるのが魅力です。」と「夜は静かな古民家でリラックスします。」と書いてあります。",
+      "id": "d1436bd7-6f97-4ae5-820c-03ca549b5a7e"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-28-6847b7775f",
+  "publishedAt": "2026-10-28T06:00:00+09:00"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "アニメの新しい時代",
+  "summary": "最近、インターネットでアニメがたくさん見られます。これは「配信プラットフォーム」のおかげです。プラットフォームは、私たちに楽しいアニメを届けます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔はテレビでアニメを見ることが多かったです。しかし、今はインターネットの会社がたくさんアニメを作っています。これらの会社は「配信プラットフォーム」と呼ばれます。例えば、NetflixやAmazon Prime Videoなどがあります。",
+      "translationZh": "以前，我们经常在电视上看动画片。但是，现在有很多互联网公司在制作动画。这些公司被称为“配信平台”。例如，有 Netflix 和 Amazon Prime Video 等。",
+      "translationEn": "In the past, we often watched anime on TV. However, now many internet companies are making anime. These companies are called 'streaming platforms'. For example, there are Netflix and Amazon Prime Video.",
+      "id": "3aaf4ea9-b85e-4ddf-8e5a-b153db971fa3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "配信プラットフォームは、自分たちで新しいアニメを企画し、作っています。これを「オリジナルアニメ」と言います。有名なアニメーターや声優さんが参加することもあります。だから、面白いアニメがたくさん出てきました。",
+      "translationZh": "配信平台会自己策划和制作新的动画。这叫做“原创动画”。有时也会有有名的动画师和配音演员参加。因此，出现了许多有趣的动画。",
+      "translationEn": "Streaming platforms plan and produce new anime themselves. This is called 'original anime'. Sometimes famous animators and voice actors participate. Therefore, many interesting anime have appeared.",
+      "id": "4872327b-515f-4866-a4ec-d8d06f5d4f6b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらのオリジナルアニメは、プラットフォームの会員なら、いつでもどこでも見ることができます。パソコンやスマートフォンで、好きな時に楽しめます。これは、私たちにとってとても便利です。",
+      "translationZh": "这些原创动画，只要是平台会员，无论何时何地都可以观看。可以用电脑或智能手机，在想看的时候享受。这对我们来说非常方便。",
+      "translationEn": "These original anime can be watched anytime, anywhere by platform members. You can enjoy them on your computer or smartphone whenever you want. This is very convenient for us.",
+      "id": "3aed50c9-ce54-419e-8176-fa7d75040056",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "配信プラットフォームのおかげで、アニメの世界はもっと広くなりました。これからも、新しい面白いアニメがたくさん生まれるでしょう。",
+      "translationZh": "多亏了配信平台，动画的世界变得更加广阔了。今后，也一定会诞生更多新颖有趣的动画。",
+      "translationEn": "Thanks to streaming platforms, the world of anime has become wider. In the future, many new and interesting anime will surely be born.",
+      "id": "11857b0e-6bf2-45a6-bcc4-efae452c8335",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信プラットフォーム",
+      "reading": "はいしんぷらっとふぉーむ",
+      "meaningZh": "流媒体平台",
+      "meaningEn": "streaming platform",
+      "level": "n5n4",
+      "exampleSentence": "この映画は新しい配信プラットフォームで見られます。",
+      "id": "bd0d2af3-deac-4318-85d3-ee54034dff20"
+    },
+    {
+      "word": "オリジナル",
+      "reading": "おりじなる",
+      "meaningZh": "原创",
+      "meaningEn": "original",
+      "level": "n5n4",
+      "exampleSentence": "これは会社が作ったオリジナルのお話です。",
+      "id": "6a43d6b6-fd7d-412c-9bb9-d08427d01c31"
+    },
+    {
+      "word": "企画",
+      "reading": "きかく",
+      "meaningZh": "策划",
+      "meaningEn": "plan, project",
+      "level": "n5n4",
+      "exampleSentence": "新しいアニメの企画を立てました。",
+      "id": "1c4b0be5-0e1d-4311-83d5-2cb90ca6a4cf"
+    },
+    {
+      "word": "アニメーター",
+      "reading": "あにめーたー",
+      "meaningZh": "动画师",
+      "meaningEn": "animator",
+      "level": "n5n4",
+      "exampleSentence": "有名なアニメーターがこの絵を描きました。",
+      "id": "a82e3e8f-6387-431a-96eb-e454fe53420a"
+    },
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaningZh": "配音演员",
+      "meaningEn": "voice actor",
+      "level": "n5n4",
+      "exampleSentence": "あの声優さんの声が好きです。",
+      "id": "24003267-c917-4246-8340-ffd58c89f9ee"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaningZh": "会员",
+      "meaningEn": "member",
+      "level": "n5n4",
+      "exampleSentence": "このサービスは会員だけが利用できます。",
+      "id": "7cb786bc-c806-481d-a643-340e33e4f6f7"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "スマホはとても便利です。",
+      "id": "5fb78f3a-86b1-4928-b615-a5decd1c0a7d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔、アニメは主にどこで見られましたか？",
+      "options": [
+        "インターネット",
+        "配信プラットフォーム",
+        "テレビ",
+        "スマートフォン"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔はテレビでアニメを見ることが多かったです。",
+      "id": "379c69b4-4fad-44af-a62f-d2447fff773f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-28-d3d7c33476",
+  "publishedAt": "2026-10-28T06:00:00+09:00"
+}

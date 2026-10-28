@@ -1,0 +1,122 @@
+{
+  "title": "夜食の味方！定食屋の魅力",
+  "summary": "夜遅くまで開いている定食屋は、若者にとって大切な場所です。美味しいご飯を食べて、元気になります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "夜遅くまで開いている定食屋があります。そこは、仕事が終わった人や、勉強が終わった若者が集まる場所です。温かいご飯とおかずは、とてもおいしいです。",
+      "translationZh": "有些定食屋营业到很晚。那里是下班或学习结束的年轻人的聚集地。热腾腾的米饭和菜肴非常美味。",
+      "translationEn": "There are some set meal restaurants that are open late at night. It is a place where people who have finished work or studying gather. The warm rice and side dishes are very delicious.",
+      "id": "af17034f-10af-4ec4-8eb0-1c0cd1d456e0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "定食屋では、一人でも入りやすいです。カウンター席があるので、一人でゆっくり食事を楽しめます。友達と来ても、みんなで話しながら食べられます。",
+      "translationZh": "在定食屋，一个人也很容易进去。有吧台座位，所以可以一个人悠闲地享受美食。和朋友一起来，也可以一边聊天一边吃。",
+      "translationEn": "It is easy to go to a set meal restaurant alone. There are counter seats, so you can enjoy your meal slowly by yourself. You can also come with friends and eat while talking.",
+      "id": "414be26a-b250-4269-8c3e-d433eff3c850",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューはたくさんあります。例えば、生姜焼き定食や唐揚げ定食です。ご飯とお味噌汁が付いてきます。値段も手頃なので、学生さんにも人気があります。",
+      "translationZh": "菜单上有很多选择。例如，姜汁烤肉定食和炸鸡块定食。配有米饭和味噌汤。价格也很实惠，所以很受学生欢迎。",
+      "translationEn": "There are many items on the menu. For example, ginger pork set meal and fried chicken set meal. They come with rice and miso soup. The prices are also reasonable, so they are popular with students.",
+      "id": "3131cdc7-96c8-4a0b-98cc-72aa9dc5884b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜遅くに温かい定食を食べると、心が落ち着きます。一日の疲れが取れるような気がします。定食屋は、若者にとって、元気をもらえる大切な場所なのです。",
+      "translationZh": "深夜吃一顿热腾腾的定食，心情会平静下来。感觉一天的疲惫都消失了。定食屋对年轻人来说，是获得元气的重要场所。",
+      "translationEn": "Eating a warm set meal late at night calms the heart. It feels like the day's fatigue is gone. Set meal restaurants are important places where young people can get energy.",
+      "id": "1e7bdc94-e636-4993-a43e-a8ddd85450ff",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaningZh": "深夜，午夜",
+      "meaningEn": "late at night, midnight",
+      "level": "n5n4",
+      "exampleSentence": "深夜に一人で歩くのは少し怖いです。",
+      "id": "e0a07230-9c2e-46ad-ac20-600c57315d9e"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaningZh": "营业",
+      "meaningEn": "business, operation",
+      "level": "n3",
+      "exampleSentence": "この店は朝早くから夜遅くまで営業しています。",
+      "id": "99e8e771-a51f-45d4-ba32-d346767dd124"
+    },
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "定食屋（提供套餐饭的餐馆）",
+      "meaningEn": "set meal restaurant",
+      "level": "n5n4",
+      "exampleSentence": "近くに美味しい定食屋を見つけました。",
+      "id": "2c5eba34-e937-4dfa-b5d2-105f0b9cc6dd"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集，集合",
+      "meaningEn": "to gather, to assemble",
+      "level": "n5n4",
+      "exampleSentence": "週末、友達が集まって映画を見ました。",
+      "id": "5c0b2c08-2c7f-46c3-b153-b99b854e6799"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "0e2e1c8b-cd0a-4fca-9d68-b129011dffd8"
+    },
+    {
+      "word": "温かい",
+      "reading": "あたたかい",
+      "meaningZh": "温暖的，热的",
+      "meaningEn": "warm, hot",
+      "level": "n5n4",
+      "exampleSentence": "温かいスープは体にいいです。",
+      "id": "32cfd7ec-4695-462f-b4ae-03b9e83bba31"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "合适，实惠",
+      "meaningEn": "reasonable, affordable",
+      "level": "n3",
+      "exampleSentence": "この店の値段は手頃で、味もいいです。",
+      "id": "9acb5e60-d61c-47a0-8416-f16008e92897"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、定食屋は若者にとってどんな場所ですか。",
+      "options": [
+        "勉強をするところ",
+        "一人で静かに休むところ",
+        "元気をもらえる大切なところ",
+        "新しい友達を作るところ"
+      ],
+      "correctIndex": 2,
+      "explanation": "「定食屋は、若者にとって、元気をもらえる大切な場所なのです。」",
+      "id": "15a5599c-03d3-4375-a1c4-ab91b45e4326"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-28-29937ecdc3",
+  "publishedAt": "2026-10-28T06:00:00+09:00"
+}

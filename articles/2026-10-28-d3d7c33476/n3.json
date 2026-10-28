@@ -1,0 +1,126 @@
+{
+  "title": "配信プラットフォームがアニメ制作をリードする時代",
+  "summary": "近年、動画配信プラットフォームがオリジナルアニメの制作に力を入れています。これにより、アニメ業界の構造が大きく変化しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔はテレビ局がアニメ制作の中心でしたが、最近ではNetflixやAmazon Prime Videoのような配信プラットフォームが、オリジナルアニメを続々と制作しています。これらのプラットフォームは、世界中の視聴者に直接アニメを届けることができるため、多くの作品に投資しているのです。",
+      "translationZh": "过去，电视台是动画制作的中心，但最近，Netflix 和 Amazon Prime Video 等流媒体平台正在陆续制作原创动画。这些平台能够直接将动画推送给世界各地的观众，因此正在对许多作品进行投资。",
+      "translationEn": "In the past, TV stations were at the center of anime production, but recently, streaming platforms like Netflix and Amazon Prime Video have been successively producing original anime. These platforms can deliver anime directly to viewers worldwide, so they are investing in many works.",
+      "id": "9a80c970-3625-4454-8641-c8835e550b9f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "配信プラットフォームがオリジナルアニメを作ることで、アニメーターやクリエイターにとっては新しいチャンスが生まれています。なぜなら、プラットフォーム側は制作費をしっかり出す傾向があるからです。また、制作側はクリエイティブな自由度も比較的高いと言われています。だから、多様なジャンルの作品が作られるようになっています。",
+      "translationZh": "随着流媒体平台制作原创动画，动画师和创作者获得了新的机会。这是因为平台方倾向于提供充足的制作费用。而且，据说制作方在创意自由度方面也相对较高。因此，各种类型的作品都得以创作出来。",
+      "translationEn": "With streaming platforms producing original anime, new opportunities are emerging for animators and creators. This is because platforms tend to provide substantial production costs. Also, it is said that the production side has relatively high creative freedom. Therefore, diverse genres of works are being created.",
+      "id": "289c2a17-815a-4ce9-b006-bba5d5232605",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、プラットフォーム主導の制作が増えるにつれて、課題も出てきています。例えば、プラットフォームの意向が強く反映され、作品が商業的になりすぎるという意見もあります。また、アニメの権利がプラットフォームに集中し、制作者が長期的に作品に関われなくなる可能性も指摘されています。それでも、多くの人々にアニメが届けられるようになったのは、この変化のおかげと言えるでしょう。",
+      "translationZh": "然而，随着平台主导的制作增多，也出现了一些问题。例如，有人认为平台意愿的强烈反映导致作品过于商业化。此外，也有人指出，动画的版权会集中在平台手中，制作方可能无法长期参与作品的制作。",
+      "translationEn": "However, as platform-led production increases, challenges are also emerging. For example, some argue that the strong influence of the platform's intentions makes works overly commercial. Furthermore, it is pointed out that anime copyrights may become concentrated with the platforms, preventing creators from being involved in their works long-term.",
+      "id": "adc063a6-c32d-474f-898d-03a1d288603e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "配信プラットフォーム",
+      "reading": "はいしんぷらっとふぉーむ",
+      "meaningZh": "流媒体平台，内容分发平台",
+      "meaningEn": "Streaming platform, content distribution platform",
+      "level": "n3",
+      "exampleSentence": "新しいアニメは、まず配信プラットフォームで公開されることが多い。",
+      "id": "4f7d89fd-5656-4e79-a07f-23eb980e513b"
+    },
+    {
+      "word": "オリジナルアニメ",
+      "reading": "おりじなるあにめ",
+      "meaningZh": "原创动画",
+      "meaningEn": "Original anime",
+      "level": "n3",
+      "exampleSentence": "この配信プラットフォームは、力を入れてオリジナルアニメを制作している。",
+      "id": "8005d129-7f4f-45aa-9906-35871da357ed"
+    },
+    {
+      "word": "台頭",
+      "reading": "たいとう",
+      "meaningZh": "兴起，抬头",
+      "meaningEn": "Rise, emergence",
+      "level": "n3",
+      "exampleSentence": "近年、CG技術の台頭により、映像制作の幅が広がった。",
+      "id": "3ccc7dba-f58e-4259-b09c-d5973c8e43f8"
+    },
+    {
+      "word": "構造",
+      "reading": "こうぞう",
+      "meaningZh": "结构",
+      "meaningEn": "Structure",
+      "level": "n3",
+      "exampleSentence": "この変化は、アニメ業界の構造を大きく変えるだろう。",
+      "id": "cc2364c1-9d52-4872-a023-182de54ff445"
+    },
+    {
+      "word": "クリエイティブ",
+      "reading": "くりえいてぃぶ",
+      "meaningZh": "创意，创造性的",
+      "meaningEn": "Creative",
+      "level": "n3",
+      "exampleSentence": "クリエイティブなアイデアを形にするのが楽しい。",
+      "id": "38cf7289-4787-49b5-938d-9e1170c46463"
+    },
+    {
+      "word": "自由度",
+      "reading": "じゆうど",
+      "meaningZh": "自由度",
+      "meaningEn": "Degree of freedom",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトでは、制作側に高い自由度が与えられている。",
+      "id": "6a264931-a19c-4943-ab79-21db032ee3c4"
+    },
+    {
+      "word": "商業的",
+      "reading": "しょうぎょうてき",
+      "meaningZh": "商业化的",
+      "meaningEn": "Commercial",
+      "level": "n3",
+      "exampleSentence": "あまり商業的になりすぎると、本来の面白さが失われることがある。",
+      "id": "c76bdd3e-8a44-4deb-89f9-69b90f8525c0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "配信プラットフォームがオリジナルアニメを制作する理由は何ですか？",
+      "options": [
+        "テレビ局からの依頼が多いから",
+        "世界中の視聴者に直接届けられるから",
+        "昔からアニメ制作に携わってきたから",
+        "制作費をあまりかけずに済むから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「これらのプラットフォームは、世界中の視聴者に直接アニメを届けることができるため、多くの作品に投資しているのです。」と書かれています。",
+      "id": "440e422b-add6-47ab-a681-e37a95f3454a"
+    },
+    {
+      "question": "配信プラットフォーム主導の制作が増えることの課題として、本文で指摘されていることは何ですか？",
+      "options": [
+        "アニメーターの給料が減ること",
+        "作品の制作期間が長くなること",
+        "プラットフォームの意向で商業的になりすぎること",
+        "プラットフォームがアニメ制作から撤退すること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「例えば、プラットフォームの意向が強く反映され、作品が商業的になりすぎるという意見もあります。」と書かれています。",
+      "id": "be059e62-39fa-4cfb-b6a1-2bab3455e3b3"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-28-d3d7c33476",
+  "publishedAt": "2026-10-28T06:00:00+09:00"
+}

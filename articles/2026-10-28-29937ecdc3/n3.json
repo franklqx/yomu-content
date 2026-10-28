@@ -1,0 +1,143 @@
+{
+  "title": "深夜定食屋：年轻人的新据点",
+  "summary": "城市角落的深夜定食屋，不仅提供热腾腾的食物，也成为了年轻人交流和放松的独特空间。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、夜遅くまで開いている定食屋が若者の間で人気を集めている。昔は仕事帰りのサラリーマンが多かったが、今では学生や若い社会人が、友人とおしゃべりしたり、一人で静かに食事を楽しんだりするために訪れているのだ。",
+      "translationZh": "最近，深夜营业的定食屋在年轻人中越来越受欢迎。以前主要是下班的工薪族光顾，但现在，无论是学生还是年轻的上班族，都来这里和朋友聊天，或是独自安静地享受美食。",
+      "translationEn": "Recently, late-night casual eateries have been gaining popularity among young people. While they used to be frequented mostly by salarymen returning from work, nowadays, students and young professionals visit them to chat with friends or enjoy a quiet meal alone.",
+      "id": "e27aefb9-1238-417f-ae50-f46c9529e8eb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "こうした定食屋は、値段が手頃なうえに、家庭的な温かい料理が食べられるのが魅力だ。定食を注文すると、ご飯、味噌汁、主菜、そしていくつかのおかずがセットになっていることが多く、満足感が高い。一人でも気軽に入れる雰囲気も、若者に好まれる理由の一つだろう。",
+      "translationZh": "这类定食屋的魅力在于价格实惠，而且能吃到家常的温馨料理。点定食套餐的话，通常包含米饭、味噌汤、主菜和几样小菜，非常有满足感。即使一个人也能轻松进入的氛围，或许也是年轻人喜欢的原因之一。",
+      "translationEn": "The appeal of these casual eateries lies in their affordable prices and the availability of warm, home-style dishes. Ordering a 'teishoku' (set meal) often includes rice, miso soup, a main dish, and several side dishes, providing a high sense of satisfaction. The atmosphere, where one can easily dine alone, is also likely a reason for their popularity among the youth.",
+      "id": "b1f90cf9-b8ff-4b3f-b40b-71c6c95d01d3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、深夜まで営業しているため、学校やアルバイトが終わった後でも立ち寄れるという利便性がある。友達と遅くまで語り合ったり、課題に取り組んだりする場所としても活用されている。店員さんも顔なじみのお客さんには親切に接してくれるので、まるで第二の家のような感覚さえ覚える。",
+      "translationZh": "此外，因为营业到深夜，所以即使在学校或打工结束后也能顺路来，非常方便。这里也被用作和朋友彻夜长谈或学习 mengerjakan 功课的场所。店员们对待常客也很亲切，让人甚至有种这里是第二个家的感觉。",
+      "translationEn": "Furthermore, since they are open until late at night, there's the convenience of being able to drop by even after finishing school or part-time jobs. They are also utilized as places to talk with friends late into the night or to work on assignments. The staff are also friendly to familiar customers, giving a sense of it being like a second home.",
+      "id": "43e7bc1d-b485-4998-8d9b-db77e0218a1a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔ながらの定食屋の良さと、現代の若者のライフスタイルが融合し、新しい文化が生まれていると言えるだろう。こうした店は、単に食事をする場所というだけでなく、人との繋がりや安らぎを感じられる、貴重な空間となっているのだ。",
+      "translationZh": "可以说，传统的定食屋的优点与现代年轻人的生活方式相结合，正在孕育出一种新的文化。这样的店不仅仅是吃饭的地方，更是能感受到人与人之间的联系和慰藉的宝贵空间。",
+      "translationEn": "It can be said that a new culture is being born from the fusion of the merits of traditional casual eateries and the lifestyles of contemporary young people. Such establishments are not merely places to eat, but precious spaces where one can feel human connection and find solace.",
+      "id": "53bddbbe-ebc2-483e-af21-7536647b2281",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "定食屋",
+      "reading": "ていしょくや",
+      "meaningZh": "提供套餐饭的餐馆",
+      "meaningEn": "A restaurant that serves set meals.",
+      "level": "n3",
+      "exampleSentence": "仕事帰りに、近所の定食屋で夕食を食べた。",
+      "id": "7c485a6c-c4a1-408e-8331-d0f493d77500"
+    },
+    {
+      "word": "サラリーマン",
+      "reading": "さらりーまん",
+      "meaningZh": "工薪族，上班族（男性）",
+      "meaningEn": "A salaryman; an office worker (male).",
+      "level": "n3",
+      "exampleSentence": "彼は都内の大きな会社でサラリーマンをしている。",
+      "id": "cb13d557-0f1d-4b84-970b-3fc503b6e4c5"
+    },
+    {
+      "word": "手頃",
+      "reading": "てごろ",
+      "meaningZh": "（价格）适中的，实惠的",
+      "meaningEn": "Affordable; reasonable (in price).",
+      "level": "n3",
+      "exampleSentence": "この店の料理は、どれも手頃な値段で美味しい。",
+      "id": "c216e921-d0c9-4d1e-a0bd-cbf75df24678"
+    },
+    {
+      "word": "満足感",
+      "reading": "まんぞくかん",
+      "meaningZh": "满足感",
+      "meaningEn": "Sense of satisfaction.",
+      "level": "n3",
+      "exampleSentence": "美味しいものをたくさん食べて、満足感を得られた。",
+      "id": "f184f5e6-1c16-4e69-8190-de0e25e1d2ca"
+    },
+    {
+      "word": "気軽",
+      "reading": "きがる",
+      "meaningZh": "轻松，随便，无拘无束",
+      "meaningEn": "Carefree; light; easy; unconstrained.",
+      "level": "n3",
+      "exampleSentence": "一人でも気軽に入れるお店だ。",
+      "id": "be4f7d63-e5e8-4c64-a5f1-cf4c1134068e"
+    },
+    {
+      "word": "利便性",
+      "reading": "りべんせい",
+      "meaningZh": "便利性",
+      "meaningEn": "Convenience.",
+      "level": "n2n1",
+      "exampleSentence": "スマートフォンの普及により、生活の利便性が高まった。",
+      "id": "b10e17c2-e358-4116-bdc2-8f3aa2676e30"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，任务（尤指学习上的）",
+      "meaningEn": "Task; assignment; challenge (especially academic).",
+      "level": "n3",
+      "exampleSentence": "明日の授業までに、この課題を終わらせなければならない。",
+      "id": "c7587794-3ad0-4eed-a129-eb83b33f2ed1"
+    },
+    {
+      "word": "顔なじみ",
+      "reading": "かおなじみ",
+      "meaningZh": "熟客，老顾客，面熟的人",
+      "meaningEn": "Acquaintance; familiar face.",
+      "level": "n3",
+      "exampleSentence": "このお店は顔なじみのお客さんが多い。",
+      "id": "6293453c-c504-4915-808d-44aa553b6c41"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔、深夜の定食屋の主な客層はどのような人たちでしたか？",
+      "options": [
+        "学生",
+        "若い社会人",
+        "仕事帰りのサラリーマン",
+        "一人で食事する人"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「昔は仕事帰りのサラリーマンが多かった」とあります。",
+      "id": "b0e6351f-0b0c-4e82-b958-c12f9374d374"
+    },
+    {
+      "question": "若者が深夜の定食屋を好む理由として、本文で述べられているのはどれですか？",
+      "options": [
+        "高級な料理が食べられるから",
+        "静かで落ち着いた雰囲気だから",
+        "値段が手頃で、家庭的な料理が食べられ、一人でも入りやすいから",
+        "学校やアルバイトの近くにあるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「値段が手頃なうえに、家庭的な温かい料理が食べられるのが魅力だ」「一人でも気軽に入れる雰囲気も、若者に好まれる理由の一つだろう」とあります。",
+      "id": "de86d7ef-9312-47fd-9387-7e28c6cf5400"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-28-29937ecdc3",
+  "publishedAt": "2026-10-28T06:00:00+09:00"
+}
