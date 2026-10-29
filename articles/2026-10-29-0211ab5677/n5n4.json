@@ -1,0 +1,122 @@
+{
+  "title": "ヴィーガン和食が人気！",
+  "summary": "最近、ヴィーガン向けの和食メニューが増えています。これは、多くの人に和食を楽しんでもらうためです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本でヴィーガン向けの和食メニューが増えています。ヴィーガンは、肉や魚、卵、乳製品などを食べない人のことです。そのため、普通の和食は食べられない人もいました。",
+      "translationZh": "最近，日本面向素食者的日式料理菜单正在增加。素食者是指不吃肉、鱼、蛋、奶制品等的人。因此，有些人无法享用普通的日式料理。",
+      "translationEn": "Recently, Japanese menus for vegans are increasing in Japan. Vegans are people who do not eat meat, fish, eggs, dairy products, etc. Therefore, some people could not eat regular Japanese food.",
+      "id": "89a00898-f90a-47cc-be6d-808e5a2d7d98",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、これからはヴィーガンでも楽しめる和食がたくさんあります。例えば、野菜だけを使った天ぷらや、豆腐を使った料理です。お寿司も、野菜やきのこを使ったものが人気です。",
+      "translationZh": "但是，今后将有许多日式料理是素食者也可以享用的。例如，只使用蔬菜的天妇罗，以及使用豆腐的料理。寿司中，使用蔬菜和蘑菇的也很受欢迎。",
+      "translationEn": "However, from now on, there are many Japanese dishes that vegans can enjoy. For example, tempura made only with vegetables, and dishes using tofu. Sushi made with vegetables and mushrooms is also popular.",
+      "id": "7ef411d1-dfe7-4138-b0d1-fa31dcd3cfbe",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "レストランやカフェでも、ヴィーガンメニューを置くお店が増えました。これは、もっと多くの人が日本の美味しい食事を楽しめるようにするためです。健康を考えてヴィーガンになる人も増えています。",
+      "translationZh": "在餐厅和咖啡馆，提供素食菜单的店铺也增加了。这是为了让更多的人能够享受日本美味的食物。考虑健康而成为素食者的人也在增加。",
+      "translationEn": "In restaurants and cafes, more shops are offering vegan menus. This is to allow more people to enjoy delicious Japanese food. The number of people becoming vegan for health reasons is also increasing.",
+      "id": "7d924651-7d55-49ce-8161-1ed05d92f0bd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン和食は、新しい日本の食文化として注目されています。これからも、もっと色々なメニューが出てくるでしょう。",
+      "translationZh": "素食日式料理作为一种新的日本饮食文化受到关注。今后，也会出现更多各种各样的菜单。",
+      "translationEn": "Vegan Japanese food is attracting attention as a new Japanese food culture. More diverse menus will likely appear in the future.",
+      "id": "7f454b43-2c75-4c91-a836-9e9b8d9c982b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近，近来",
+      "meaningEn": "recently, lately",
+      "level": "n5n4",
+      "exampleSentence": "最近、日本語の勉強が楽しいです。",
+      "id": "81b89acd-3027-4dda-b5d2-7bc2c567be80"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase, to multiply",
+      "level": "n5n4",
+      "exampleSentence": "この店には、新しいメニューが増えました。",
+      "id": "2a36fd59-82be-4a3b-acac-84c518e175f4"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，一般",
+      "meaningEn": "usual, ordinary, normal",
+      "level": "n5n4",
+      "exampleSentence": "これは普通のカレーライスです。",
+      "id": "79971b07-0f83-479b-8118-407b2b7f68ea"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "料理，烹饪",
+      "meaningEn": "cooking, cuisine, dish",
+      "level": "n5n4",
+      "exampleSentence": "母は料理が上手です。",
+      "id": "68bf5a27-54ad-4a53-9072-3f667c32d2c7"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity, popular",
+      "level": "n5n4",
+      "exampleSentence": "この歌手はとても人気があります。",
+      "id": "21bef375-c0e0-4aa4-b5bb-68d885f3e61e"
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaningZh": "健康",
+      "meaningEn": "health",
+      "level": "n5n4",
+      "exampleSentence": "健康のために、毎日運動します。",
+      "id": "1ab0a6c5-0902-465b-a73f-8f80357eb9fc"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n3",
+      "exampleSentence": "日本の文化について勉強しています。",
+      "id": "ba3c123e-74aa-4dd4-a306-ac96fc11efea"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガンは、どのようなものを食べない人のことですか？",
+      "options": [
+        "肉や魚だけ",
+        "肉、魚、卵、乳製品など",
+        "野菜や果物だけ",
+        "すべての食べ物"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「ヴィーガンは、肉や魚、卵、乳製品などを食べない人のことです。」と書いてあります。",
+      "id": "3ef4bf09-62f2-4c5f-849c-692ca79e5800"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-29-0211ab5677",
+  "publishedAt": "2026-10-29T06:00:00+09:00"
+}

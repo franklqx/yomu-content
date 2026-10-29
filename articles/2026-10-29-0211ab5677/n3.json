@@ -1,0 +1,135 @@
+{
+  "title": "ヴィーガン和食、広がる選択肢！",
+  "summary": "最近、日本でもヴィーガン向けの和食メニューが増えています。健康や環境への意識が高まる中で、新しい食の形が注目されているのです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本国内でヴィーガン（完全菜食主義）に対応した和食レストランやメニューが増加傾向にあります。これは、健康志向の高まりや環境問題への関心の増加が背景にあると考えられます。以前はヴィーガン料理というと、特別なものというイメージがありましたが、今ではより身近な選択肢になってきました。",
+      "translationZh": "最近，日本国内迎合素食者（完全素食主义）的和食餐厅和菜单呈现增加的趋势。这被认为是以健康意识的提高和对环境问题的关注增加为背景。以前，素食料理还给人一种特殊的印象，但现在它已经成为一种更普遍的选择。",
+      "translationEn": "Recently, there has been an increasing trend in Japan of Japanese restaurants and menus catering to vegans (complete vegetarians). This is thought to be due to rising health consciousness and increased interest in environmental issues. While vegan cuisine was once considered something special, it has now become a more accessible option.",
+      "id": "40f32767-6c1d-4944-8407-89be91c3c624",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、お寿司屋さんでは、野菜を使った細巻きや、アボカドなどをネタにしたお寿司が提供されています。また、お蕎麦屋さんでも、つゆに動物性食品を使っていない、ヴィーガン対応のメニューが見られるようになりました。このように、伝統的な和食の良さを活かしながら、新しい工夫がされているのです。",
+      "translationZh": "例如，在寿司店里，可以品尝到使用蔬菜制作的细卷寿司，以及以牛油果等为馅料的寿司。此外，在荞麦面店，也开始出现不使用动物性食品制作汤汁的素食者适用菜单。像这样，在发挥传统和食的优点的同时，也做出了新的尝试。",
+      "translationEn": "For example, at sushi restaurants, thin rolls made with vegetables and sushi with ingredients like avocado are being offered. Also, at soba noodle shops, vegan-friendly menus that do not use animal products in their broth are now available. In this way, new innovations are being made while leveraging the strengths of traditional Japanese cuisine.",
+      "id": "1476b4ff-d0df-4d81-a80a-b5d63021c13d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ヴィーガン対応の和食が増えることで、これまで外食を諦めていたヴィーガンの方々にとっても、選択肢が広がります。これは、多様な食文化を受け入れる社会への一歩とも言えるでしょう。今後も、様々な工夫によって、さらに多くの人に和食を楽しんでもらえるようになることを期待したいです。",
+      "translationZh": "随着素食者适用和食的增加，选择范围也扩大了，尤其是对于那些以前因为饮食限制而放弃外出就餐的素食者来说。这可以说也是迈向一个接纳多元饮食文化社会的一步。我们希望未来能通过各种创新，让更多人能够享受和食。",
+      "translationEn": "As vegan-friendly Japanese food increases, the options expand, especially for vegans who previously had to give up dining out. This can be seen as a step towards a society that embraces diverse food cultures. We hope that through various innovations, more people will be able to enjoy Japanese cuisine in the future.",
+      "id": "7b3425d5-9cb1-4c6d-b56f-f3f8aee83a97",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ヴィーガン",
+      "reading": "ヴィーがん",
+      "meaningZh": "纯素食者，完全素食主义者",
+      "meaningEn": "vegan",
+      "level": "n3",
+      "exampleSentence": "彼は健康のためにヴィーガンになった。",
+      "id": "ba038c3c-931a-4bd9-aa0a-ffd477079bfe"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaningZh": "对应，对应措施",
+      "meaningEn": "response, dealing with, handling",
+      "level": "n3",
+      "exampleSentence": "お客様の要望に対応できる体制を整える。",
+      "id": "7f876195-dd1d-4e69-b382-c11a88842dcc"
+    },
+    {
+      "word": "菜食主義",
+      "reading": "さいしょくしゅぎ",
+      "meaningZh": "素食主义",
+      "meaningEn": "vegetarianism",
+      "level": "n3",
+      "exampleSentence": "菜食主義の人は肉を食べない。",
+      "id": "bbf5b353-61a8-416d-9d70-c0ef874b4f1c"
+    },
+    {
+      "word": "増加傾向",
+      "reading": "ぞうかけいこう",
+      "meaningZh": "增加的趋势",
+      "meaningEn": "increasing trend",
+      "level": "n3",
+      "exampleSentence": "近年、アニメファンの増加傾向が見られる。",
+      "id": "60e86113-7fb2-4237-b7b0-bde6e75859a1"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaningZh": "背景",
+      "meaningEn": "background",
+      "level": "n3",
+      "exampleSentence": "その事件の背景には何があったのか。",
+      "id": "28858ae6-651f-4d64-a20d-d6909e55b72e"
+    },
+    {
+      "word": "身近",
+      "reading": "みぢか",
+      "meaningZh": "亲近，熟悉",
+      "meaningEn": "familiar, close at hand",
+      "level": "n3",
+      "exampleSentence": "昔は珍しかったが、今では身近な存在になった。",
+      "id": "cfd3784a-66a2-481d-9adc-7563fbdce503"
+    },
+    {
+      "word": "ネタ",
+      "reading": "ネタ",
+      "meaningZh": "（寿司等的）馅料，食材",
+      "meaningEn": "topping, ingredient (for sushi etc.)",
+      "level": "n3",
+      "exampleSentence": "この寿司屋は新鮮なネタで有名だ。",
+      "id": "ae911ae0-6e04-4748-ae5d-6d9eeb789e33"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "创意，想法，办法",
+      "meaningEn": "devise, idea, effort",
+      "level": "n3",
+      "exampleSentence": "この問題を解決するために、色々な工夫をした。",
+      "id": "d8e5c775-434f-4d46-b81f-521438a70783"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ヴィーガン向けの和食メニューが増えている理由は何ですか？",
+      "options": [
+        "ヴィーガン料理が流行っているから",
+        "健康志向や環境問題への関心が高まっているから",
+        "昔ながらの和食が飽きられてきたから",
+        "外国人観光客が増えたから"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「健康志向の高まりや環境問題への関心の増加が背景にあると考えられます」と書かれています。",
+      "id": "5e3c9c7b-60b8-4074-ab5f-7a5660a4b876"
+    },
+    {
+      "question": "ヴィーガン対応の和食が増えることで、どのような良いことがありますか？",
+      "options": [
+        "和食の食材の種類が減る",
+        "ヴィーガンではない人も、より多くの選択肢を楽しめる",
+        "これまで外食を諦めていたヴィーガンの方々にも選択肢が広がる",
+        "和食の価格が全体的に安くなる"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「ヴィーガン対応の和食が増えることで、これまで外食を諦めていたヴィーガンの方々にとっても、選択肢が広がります」と書かれています。",
+      "id": "1485557d-ffd2-41a6-a6e1-b47fcf9f9a9b"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-29-0211ab5677",
+  "publishedAt": "2026-10-29T06:00:00+09:00"
+}

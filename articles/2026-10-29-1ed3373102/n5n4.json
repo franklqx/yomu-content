@@ -1,0 +1,122 @@
+{
+  "title": "スマートシティ実験、成功！",
+  "summary": "新しい技術がたくさん使われました。街はもっと便利になりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "この町で、新しい実験がありました。スマートシティの実験です。たくさんの人が集まりました。新しい技術を見るためです。",
+      "translationZh": "这个小镇举行了一次新实验。是关于智慧城市的实验。很多人聚集在一起。是为了观看新技术。",
+      "translationEn": "A new experiment was held in this town. It was an experiment for a smart city. Many people gathered. They came to see new technologies.",
+      "id": "a6339f99-a2f8-48be-9ae5-fa8bc79619c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験では、自動運転の車が走りました。人も車も安全でした。また、便利なアプリも作られました。これで、町の情報がすぐ分かりました。",
+      "translationZh": "在实验中，自动驾驶汽车行驶了。人和车都很安全。另外，还开发了方便的手机应用。通过这个，很快就能知道镇上的信息了。",
+      "translationEn": "During the experiment, self-driving cars ran. Both people and cars were safe. Also, a convenient app was created. With this, town information was easily accessible.",
+      "id": "b84fa32e-60ee-410c-bb9b-c64c59845ce5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験で、町はもっと住みやすくなりました。ゴミの集め方や、電気の使い方などが改善されました。みんな、とても喜んでいました。",
+      "translationZh": "通过这次实验，小镇变得更加宜居了。垃圾的收集方式、电力的使用方法等都得到了改善。大家都非常高兴。",
+      "translationEn": "Through this experiment, the town became easier to live in. Ways of collecting trash and using electricity were improved. Everyone was very happy.",
+      "id": "13ada103-c907-4dea-9882-5ec8e9e8f36e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、スマートシティの技術は進むでしょう。私たちの生活は、もっと良くなるはずです。未来が楽しみですね。",
+      "translationZh": "今后，智慧城市的技术也会继续发展。我们的生活应该会变得更好。令人期待未来。",
+      "translationEn": "From now on, smart city technology will likely continue to advance. Our lives should become even better. The future is exciting.",
+      "id": "1d933666-01a4-451b-be3f-27e558667475",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "f71f97d9-209f-4d2d-8f51-11a6b8f31e4d"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n5n4",
+      "exampleSentence": "この技術は素晴らしいです。",
+      "id": "fc617cf1-5978-4604-a146-8c4419aa0cb1"
+    },
+    {
+      "word": "自動運転",
+      "reading": "じどううんてん",
+      "meaningZh": "自动驾驶",
+      "meaningEn": "self-driving",
+      "level": "n5n4",
+      "exampleSentence": "自動運転の車が開発されています。",
+      "id": "2a992cf2-01d6-48c0-874e-623ca00882cc"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "bc06a5b2-971b-4fdf-8f3c-d56c42b077f6"
+    },
+    {
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaningZh": "信息",
+      "meaningEn": "information",
+      "level": "n5n4",
+      "exampleSentence": "最新の情報をお知らせします。",
+      "id": "09906a39-6be3-4146-861f-001edb124f48"
+    },
+    {
+      "word": "改善",
+      "reading": "かいぜん",
+      "meaningZh": "改善",
+      "meaningEn": "improvement",
+      "level": "n5n4",
+      "exampleSentence": "生活を改善したいです。",
+      "id": "dfed2e05-be02-4aa8-9701-8db8c0c2b433"
+    },
+    {
+      "word": "住みやすい",
+      "reading": "すみやすい",
+      "meaningZh": "宜居的，容易居住的",
+      "meaningEn": "easy to live in",
+      "level": "n5n4",
+      "exampleSentence": "この町は住みやすいです。",
+      "id": "077337f3-1842-451e-b757-89fae1f66a8b"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "スマートシティの実験で、どんな車が走りましたか？",
+      "options": [
+        "普通の車",
+        "自動運転の車",
+        "バス",
+        "自転車"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文に「実験では、自動運転の車が走りました。」と書いてあります。",
+      "id": "75aa3be8-0ec5-4ab5-a422-5eb8f279d846"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-29-1ed3373102",
+  "publishedAt": "2026-10-29T06:00:00+09:00"
+}

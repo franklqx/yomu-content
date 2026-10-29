@@ -1,0 +1,131 @@
+{
+  "title": "瀬戸内海クルーズ！新しい楽しみ方",
+  "summary": "瀬戸内海は美しいです。新しいクルーズの楽しみ方があります。ぜひ、行ってみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "瀬戸内海は日本の美しい海です。たくさんの島があります。船に乗って海を眺めるのは楽しいです。最近、新しいクルーズの楽しみ方ができました。",
+      "translationZh": "濑户内海是日本美丽的大海。有很多岛屿。坐船眺望大海很有趣。最近，有了新的游船享受方式。",
+      "translationEn": "The Seto Inland Sea is a beautiful sea in Japan. There are many islands. It is fun to look at the sea by boat. Recently, a new way to enjoy a cruise has been created.",
+      "id": "f48e27ca-9ed8-4275-b285-cb1190f9b5df",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "それは「アート」を楽しむクルーズです。いくつかの島には、古い建物や新しい建物があります。その建物の中に、きれいな絵や面白い形のものが飾られています。船から降りて、島を歩いて見ることができます。",
+      "translationZh": "那就是享受“艺术”的游船。一些岛上有老建筑和新建筑。那些建筑里装饰着漂亮的画和有趣形状的东西。可以下船，在岛上走着看。",
+      "translationEn": "It is a cruise to enjoy 'art'. On some islands, there are old and new buildings. Inside those buildings, beautiful pictures and interesting shapes are displayed. You can get off the boat and walk around the islands to see them.",
+      "id": "5d279767-b558-4e20-9c09-29b479e3005b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、海の上で特別な料理を食べることもできます。新鮮な魚や地元の野菜を使った料理はとてもおいしいです。きれいな景色を見ながら食事をすると、もっと楽しくなります。",
+      "translationZh": "而且，还可以在海上吃特别的料理。使用新鲜的鱼和当地蔬菜做的料理非常美味。一边看着美丽的景色一边吃饭，会更加开心。",
+      "translationEn": "Also, you can eat special meals on the sea. Dishes made with fresh fish and local vegetables are very delicious. Eating while looking at the beautiful scenery makes it more enjoyable.",
+      "id": "903539f2-a628-4155-9d70-f04f0e9e02c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "瀬戸内海クルーズは、ただ海を見るだけではありません。島のアートやおいしい料理も楽しめます。次の休みに、ぜひ体験してください。",
+      "translationZh": "濑户内海游船不仅仅是看海。还可以享受岛上的艺术和美味的料理。下一个假期，请一定要去体验一下。",
+      "translationEn": "A Seto Inland Sea cruise is not just about seeing the sea. You can also enjoy the art on the islands and delicious food. Please experience it on your next holiday.",
+      "id": "a72c0bde-155f-41b8-9e8a-a8eeb3dd4f71",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瀬戸内海",
+      "reading": "せとないかい",
+      "meaningZh": "濑户内海",
+      "meaningEn": "Seto Inland Sea",
+      "level": "n5n4",
+      "exampleSentence": "瀬戸内海はとてもきれいです。",
+      "id": "b2b5bcfe-c4d3-44c8-b812-be30353c1e37"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaningZh": "岛",
+      "meaningEn": "island",
+      "level": "n5n4",
+      "exampleSentence": "この島は小さいです。",
+      "id": "7c6423ab-ec4b-4b1a-aacc-1d3e4f3929ad"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaningZh": "船",
+      "meaningEn": "boat, ship",
+      "level": "n5n4",
+      "exampleSentence": "船に乗りました。",
+      "id": "054090d1-1bc2-4313-b313-0e2e61d3be25"
+    },
+    {
+      "word": "眺める",
+      "reading": "ながめる",
+      "meaningZh": "眺望，看",
+      "meaningEn": "to look at, to gaze at",
+      "level": "n3",
+      "exampleSentence": "海を眺めました。",
+      "id": "13357537-2852-4e2a-b86f-03c8d74a21d4"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、暑いです。",
+      "id": "861bea4d-b969-47f1-b1fb-b676bd4ae0a3"
+    },
+    {
+      "word": "建物",
+      "reading": "たてもの",
+      "meaningZh": "建筑",
+      "meaningEn": "building",
+      "level": "n5n4",
+      "exampleSentence": "古い建物がありました。",
+      "id": "e902baa3-464a-43dc-93c3-dbc97fe538f0"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaningZh": "料理",
+      "meaningEn": "cooking, dish",
+      "level": "n5n4",
+      "exampleSentence": "おいしい料理を食べました。",
+      "id": "675b3ee9-2842-44f6-b7db-85e5af21dd24"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "きれいな景色でした。",
+      "id": "1389f6e5-1c8f-4094-afa8-311d26a15ca0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この文章によると、瀬戸内海クルーズの新しい楽しみ方は何ですか。",
+      "options": [
+        "島で泳ぐこと",
+        "島のアートや料理を楽しむこと",
+        "魚を釣ること",
+        "島に住むこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「島のアートやおいしい料理も楽しめます。」と書いてあります。",
+      "id": "2dedaf54-2b98-49a1-ad06-dcdf79657c71"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-29-16e5f7aacc",
+  "publishedAt": "2026-10-29T06:00:00+09:00"
+}
