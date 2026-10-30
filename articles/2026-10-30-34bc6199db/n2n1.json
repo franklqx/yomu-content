@@ -1,0 +1,138 @@
+{
+  "title": "公立図書館、夜間開館実験で利用促進へ",
+  "summary": "一部の公立図書館では、利用者の利便性向上と開かれた図書館運営を目指し、夜間開館の実験的な取り組みが始まっている。この試みは、図書館の新たな可能性を示すものとして注目されている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、社会構造の変化やライフスタイルの多様化に伴い、図書館の利用方法にも変革が求められている。こうした背景を受け、一部の公立図書館では、従来の開館時間にとらわれない利用者のニーズに応えるべく、夜間開館の実験的導入が検討・実施されているとのことだ。この取り組みは、仕事や学業で日中図書館を利用しにくい層へのサービス拡充を目的としている。",
+      "translationZh": "近年来，随着社会结构的变化和生活方式的多样化，人们对图书馆的使用方式也提出了改革的要求。在此背景下，据称一些公共图书馆为了满足不受传统开放时间限制的用户需求，正在探讨并实施夜间开放的实验性措施。这项举措旨在扩大服务范围，惠及白天难以利用图书馆的人群。",
+      "translationEn": "In recent years, societal changes and diversification of lifestyles have necessitated a transformation in how libraries are used. Against this backdrop, it is reported that some public libraries are considering and implementing experimental measures for evening openings to meet the needs of users who cannot utilize libraries during the day. This initiative aims to expand services for those who find it difficult to visit libraries during daytime hours due to work or studies.",
+      "id": "6ec5933c-e593-412b-ad4f-4fdf6617c935",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間開館の実験は、具体的には平日の夜間、例えば20時や21時まで開館時間を延長する形で行われることが多い。これにより、仕事帰りの会社員や、夜間に学習を進めたい学生などが、落ち着いた環境で読書や調査を行える機会が提供される。図書館側としても、限られた設備をより有効に活用し、地域住民への貢献度を高めることが期待されている。",
+      "translationZh": "夜间开放的实验通常以延长工作日晚上的开放时间为形式，例如延长至晚上8点或9点。这为下班回家的上班族或希望在夜间学习的学生等提供了在宁静环境中阅读和研究的机会。图书馆方面也期待能更有效地利用有限的设施，提高对社区居民的贡献度。",
+      "translationEn": "Evening opening experiments often take the form of extending operating hours on weekday evenings, for example, until 8 or 9 PM. This provides opportunities for office workers returning from work and students wishing to study at night to engage in reading and research in a quiet environment. Libraries, in turn, expect to utilize their limited facilities more effectively and enhance their contribution to local residents.",
+      "id": "a3321332-5fd3-48b4-8e25-3af824e9a4f0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、夜間開館の実施には、人員確保や警備体制の強化、照明や空調設備の追加運用に伴うコスト増加など、クリアすべき課題も少なくないと見られる。そのため、まずは一部の図書館で試験的に実施し、その効果や運営上の問題点を検証した上で、本格的な導入を検討していくという慎重な姿勢が示されている。住民からの意見収集も積極的に行われ、地域の実情に合わせた柔軟な運用が模索されている。",
+      "translationZh": "然而，夜间开放的实施也面临不少需要解决的课题，例如人员的确保、安保体制的强化，以及因照明和空调设备额外运行而增加的成本等。因此，目前采取的是一种谨慎的态度，即先在部分图书馆进行试点，验证其效果和运营上的问题点，然后再考虑全面推广。同时，也在积极收集居民的意见，并探索符合地区实际情况的灵活运营方式。",
+      "translationEn": "However, the implementation of evening openings is seen to involve numerous challenges that need to be addressed, such as securing staff, strengthening security systems, and increased costs associated with the additional operation of lighting and air conditioning equipment. Therefore, a cautious approach is being taken, starting with pilot programs in select libraries to verify their effectiveness and operational issues before considering full-scale adoption. Active efforts are also being made to gather feedback from residents, exploring flexible operations tailored to local circumstances.",
+      "id": "bce08bde-4cc8-40af-b377-970f28db6a4b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "多様化",
+      "reading": "たようか",
+      "meaningZh": "多样化",
+      "meaningEn": "diversification",
+      "level": "n2n1",
+      "exampleSentence": "消費者のニーズの多様化に対応するため、新商品を開発した。",
+      "id": "42b28f46-02fe-407c-9814-effa0299202f"
+    },
+    {
+      "word": "利便性",
+      "reading": "りべんせい",
+      "meaningZh": "便利性",
+      "meaningEn": "convenience",
+      "level": "n3",
+      "exampleSentence": "駅からの近さは、この物件の大きな利便性の一つです。",
+      "id": "efd6d5da-3665-4e4e-8bdc-d9b1b301b955"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaningZh": "扩充，扩大",
+      "meaningEn": "expansion, augmentation",
+      "level": "n2n1",
+      "exampleSentence": "サービスの拡充により、より多くのお客様にご満足いただけるでしょう。",
+      "id": "2ec6b2c8-6741-4436-b2e9-682c0fb491ce"
+    },
+    {
+      "word": "〜に伴い",
+      "reading": "〜にともない",
+      "meaningZh": "伴随着...",
+      "meaningEn": "along with, accompanying",
+      "level": "n2n1",
+      "exampleSentence": "技術の進歩に伴い、私たちの生活は大きく変化した。",
+      "id": "a0627890-b3fa-4984-9f0c-736a31b00ade"
+    },
+    {
+      "word": "検証",
+      "reading": "けんしょう",
+      "meaningZh": "验证，检验",
+      "meaningEn": "verification, examination",
+      "level": "n2n1",
+      "exampleSentence": "実験結果を詳細に検証し、論文にまとめた。",
+      "id": "33d04600-606d-49a3-873b-05bfeff8e0b1"
+    },
+    {
+      "word": "慎重な",
+      "reading": "しんちょうな",
+      "meaningZh": "慎重的",
+      "meaningEn": "cautious, prudent",
+      "level": "n3",
+      "exampleSentence": "新しい事業を始めるにあたり、慎重な計画が必要だ。",
+      "id": "e4dc9d40-30ef-4527-94f0-86c4e27a0fed"
+    },
+    {
+      "word": "模索",
+      "reading": "もさく",
+      "meaningZh": "摸索，探索",
+      "meaningEn": "search, exploration",
+      "level": "n2n1",
+      "exampleSentence": "困難な状況を打開するため、解決策を模索し続けている。",
+      "id": "297ebe82-00fe-4b02-8557-7a8b455d8bdc"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公立図書館が夜間開館を実験的に導入する主な理由は何ですか。",
+      "options": [
+        "図書館の建物をより有効活用するため",
+        "日中利用できない層へのサービスを拡充するため",
+        "図書館職員の労働時間を調整するため",
+        "地域住民からの要望が非常に強かったため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「仕事や学業で日中図書館を利用しにくい層へのサービス拡充を目的としている」と記載されている。",
+      "id": "8fdaf383-4b8e-40a8-96c2-2fba96f792d2"
+    },
+    {
+      "question": "夜間開館の実験では、具体的にどのような時間帯の延長が想定されていますか。",
+      "options": [
+        "週末の午前中",
+        "平日・週末問わず深夜まで",
+        "平日の夜間、例えば20時や21時まで",
+        "特別なイベント開催時のみ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「具体的には平日の夜間、例えば20時や21時まで開館時間を延長する形で行われることが多い」と述べられている。",
+      "id": "20644fbf-ea5f-47d0-8d6a-ab4906903e91"
+    },
+    {
+      "question": "夜間開館の実施に伴う課題として、本文ではどのような点が挙げられていますか。",
+      "options": [
+        "利用者のマナー低下と静粛性の問題",
+        "地域住民からの反対意見",
+        "書籍の破損や紛失リスクの増加",
+        "人員確保やコスト増加などの運営上の問題"
+      ],
+      "correctIndex": 3,
+      "explanation": "本文第三段に「人員確保や警備体制の強化、照明や空調設備の追加運用に伴うコスト増加など、クリアすべき課題も少なくないと見られる」と記述されている。",
+      "id": "d2975b0d-5cc0-46f3-b7ca-5ce23ee59519"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-30-34bc6199db",
+  "publishedAt": "2026-10-30T06:00:00+09:00"
+}

@@ -1,0 +1,143 @@
+{
+  "title": "夜の図書館、新しい発見？実験開始！",
+  "summary": "最近、いくつかの公立図書館で夜間営業の実験が始まりました。仕事帰りの人や学生にとって、図書館がもっと身近になるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、いくつかの公立図書館で、利用者のニーズに応えるために夜間営業の実験が行われています。これまで図書館は夕方には閉まることが多かったのですが、この実験によって、仕事や学校が終わってからでも図書館を利用できるようになります。遅くまで開いている図書館は、読書好きの人々にとって、新しい発見や学びの機会を増やす可能性があります。",
+      "translationZh": "最近，一些公共图书馆正在进行夜间开放的实验，以满足用户的需求。过去图书馆通常在傍晚就关门了，但这项实验使得即使在工作或学校结束后也能利用图书馆。晚上开门的图书馆，对热爱阅读的人们来说，可能会增加新的发现和学习的机会。",
+      "translationEn": "Recently, some public libraries have started night opening experiments to meet user needs. In the past, libraries often closed in the evening, but this experiment allows people to use the library even after work or school. Libraries that stay open late may increase opportunities for new discoveries and learning for book lovers.",
+      "id": "a7b491df-029f-433d-89f1-6717708f47b6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験の目的は、図書館の利用時間を延ばすことで、より多くの人々が図書館のサービスを利用できるようにすることです。特に、日中忙しくて図書館に行けない社会人や学生にとって、夜間営業は非常にありがたい制度と言えるでしょう。図書館は本を読むだけでなく、調べ物をしたり、静かな環境で勉強したりする場所でもあるからです。",
+      "translationZh": "这项实验的目的是通过延长图书馆的利用时间，让更多人能够使用图书馆的服务。特别是对于白天忙碌而无法去图书馆的上班族和学生来说，夜间开放的制度可以说非常受欢迎。因为图书馆不仅是读书的地方，也是查阅资料、在安静环境中学习的场所。",
+      "translationEn": "The purpose of this experiment is to extend library opening hours so that more people can use library services. Especially for working adults and students who are busy during the day and cannot go to the library, night opening can be considered a very welcome system. Libraries are not just places to read books, but also places to research and study in a quiet environment.",
+      "id": "9f61b9c5-debd-46be-ab83-5742be61eca7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、夜間営業には課題もあります。例えば、少ないスタッフで安全を確保しながら運営することや、照明や冷暖房のコストが増えることです。図書館側は、これらの課題を乗り越え、実験が成功するように努力しています。もしこの実験がうまくいけば、今後、全国の多くの図書館で夜間営業が広がるかもしれません。",
+      "translationZh": "然而，夜间开放也存在一些挑战。例如，如何在人手不足的情况下确保运营安全，以及照明和冷暖房的成本增加。图书馆方面正努力克服这些挑战，确保实验成功。如果这项实验进展顺利，未来，夜间开放可能会在全国许多图书馆推广。",
+      "translationEn": "However, night opening also presents challenges. For example, ensuring safe operation with limited staff, and increased costs for lighting and climate control. Libraries are working hard to overcome these challenges and make the experiment a success. If this experiment goes well, night opening may spread to many libraries nationwide in the future.",
+      "id": "c99a2fd3-82f1-4f99-974f-f21144b4c19f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館が夜遅くまで開いているということは、私たちの生活に新しい可能性をもたらします。退勤後にふらっと立ち寄って気になる本を探したり、週末の前にゆっくりと読書時間を確保したりすることも可能になります。このような変化は、地域社会の文化的な豊かさに貢献するのではないでしょうか。",
+      "translationZh": "图书馆开到深夜，为我们的生活带来了新的可能性。下班后可以顺便去寻找感兴趣的书，或者在周末前悠闲地安排阅读时间。这样的变化，不也为丰富社区文化做出了贡献吗？",
+      "translationEn": "Libraries staying open late into the night brings new possibilities to our lives. It becomes possible to casually drop by after work to look for books that catch your eye, or to secure ample reading time before the weekend. Doesn't such a change contribute to the cultural richness of the community?",
+      "id": "46e9a9e5-7139-4e0c-8772-7a4e8b55ed3b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夜間営業",
+      "reading": "やかんえいぎょう",
+      "meaningZh": "夜间营业",
+      "meaningEn": "night opening hours",
+      "level": "n3",
+      "exampleSentence": "このデパートは夜間営業もしているので便利です。",
+      "id": "b1df1213-8f6b-48ce-a968-5cec697ed30f"
+    },
+    {
+      "word": "ニーズ",
+      "reading": "にーず",
+      "meaningZh": "需求",
+      "meaningEn": "needs",
+      "level": "n3",
+      "exampleSentence": "お客様のニーズに合わせた商品開発を進めています。",
+      "id": "8bb52611-fd88-4e8d-96d0-3c6c921843a8"
+    },
+    {
+      "word": "社会人",
+      "reading": "しゃかいじん",
+      "meaningZh": "上班族，进入社会工作的人",
+      "meaningEn": "working adult",
+      "level": "n3",
+      "exampleSentence": "社会人になると、自分で税金を払わなければなりません。",
+      "id": "ed2deab2-8967-4afc-b633-bb26ba3c85df"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度，体制",
+      "meaningEn": "system",
+      "level": "n3",
+      "exampleSentence": "新しい年金制度が導入されました。",
+      "id": "c10f4f5a-587b-48c6-a76d-3f299032a12d"
+    },
+    {
+      "word": "調べ物",
+      "reading": "しらべもの",
+      "meaningZh": "查资料，调查研究",
+      "meaningEn": "research, looking up information",
+      "level": "n3",
+      "exampleSentence": "図書館で調べ物をするために、ノートを持っていきました。",
+      "id": "a3cf9b5b-20f5-44a7-8cf5-e2473937a228"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaningZh": "课题，问题",
+      "meaningEn": "issue, challenge, task",
+      "level": "n3",
+      "exampleSentence": "このプロジェクトには多くの課題がありますが、必ず達成します。",
+      "id": "6f0ffa6a-e385-434c-a0e3-3174dce55c63"
+    },
+    {
+      "word": "運営",
+      "reading": "うんえい",
+      "meaningZh": "运营，经营",
+      "meaningEn": "operation, management",
+      "level": "n3",
+      "exampleSentence": "このNPO法人は寄付によって運営されています。",
+      "id": "5f015910-c92a-48b0-9a8f-8c5aacb4bf1e"
+    },
+    {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaningZh": "贡献",
+      "meaningEn": "contribution",
+      "level": "n3",
+      "exampleSentence": "地域社会に貢献できる仕事に就きたいです。",
+      "id": "720d8cd3-d98e-4716-9590-e861c07c7e37"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公立図書館の夜間営業実験の主な目的は何ですか？",
+      "options": [
+        "図書館の利用時間を延ばし、より多くの人に利用してもらうため",
+        "図書館のスタッフを増やすため",
+        "図書館の建物を新しくするため",
+        "より多くの本を寄贈してもらうため"
+      ],
+      "correctIndex": 0,
+      "explanation": "文章中に「この実験の目的は、図書館の利用時間を延ばすことで、より多くの人々が図書館のサービスを利用できるようにすることです。」とあります。",
+      "id": "114f48c4-32cf-442f-a6e3-81545c2b7dc7"
+    },
+    {
+      "question": "夜間営業実験における課題として、本文で述べられていることは何ですか？",
+      "options": [
+        "利用者が少なく、寂しくなること",
+        "インターネット接続が悪くなること",
+        "少ないスタッフでの安全確保や運営コストの増加",
+        "本の貸し出し期間が短くなること"
+      ],
+      "correctIndex": 2,
+      "explanation": "文章中に「しかし、夜間営業には課題もあります。例えば、少ないスタッフで安全を確保しながら運営することや、照明や冷暖房のコストが増えることです。」とあります。",
+      "id": "a137e545-5023-4b58-8e6b-fffe4234ac3a"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-10-30-34bc6199db",
+  "publishedAt": "2026-10-30T06:00:00+09:00"
+}

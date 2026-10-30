@@ -1,0 +1,123 @@
+{
+  "title": "ドローンで荷物を届けます",
+  "summary": "最近、ドローンを使った配送の実験が行われています。これは新しい技術です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "空を飛ぶ小さな飛行機があります。これはドローンです。最近、このドローンを使って、遠くに荷物を送る実験をしています。会社は、この技術で生活がもっと便利になると考えています。",
+      "translationZh": "有一种在天上飞的小飞机。这就是无人机。最近，人们正在用这种无人机做实验，向远方运送包裹。公司认为这项技术会让生活更加便利。",
+      "translationEn": "There is a small airplane flying in the sky. This is a drone. Recently, experiments are being done to send packages to distant places using this drone. Companies believe this technology will make life more convenient.",
+      "id": "91bee645-7364-43f6-8bc5-47ae4bfacfd0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験は、山や田んぼが多い場所で行われました。そこでは、車で荷物を届けるのが難しいことがあります。ドローンは、速く、安全に荷物を届けることができます。だから、人々はとても喜んでいます。",
+      "translationZh": "这项实验是在山多田野多的地方进行的。在那些地方，用汽车送货有时会很困难。无人机可以快速、安全地运送包裹。因此，人们非常高兴。",
+      "translationEn": "This experiment was conducted in areas with many mountains and rice fields. In those places, it can be difficult to deliver packages by car. Drones can deliver packages quickly and safely. Therefore, people are very happy.",
+      "id": "3734b72e-417f-46b5-b848-a8e7942f276b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "まだ、ドローン配送は始まったばかりです。たくさんの練習が必要です。でも、将来、私たちの生活でドローンが荷物を運ぶようになるかもしれません。それは、とても楽しみなことです。",
+      "translationZh": "无人机配送才刚刚开始。还需要大量的练习。但是，将来，无人机可能会在我们生活中运送包裹。那真是令人期待。",
+      "translationEn": "Drone delivery has only just begun. A lot of practice is needed. However, in the future, drones may deliver packages in our lives. That is something to look forward to.",
+      "id": "c802788b-2f3c-4e06-83bf-64ae73850dd1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンが空を飛んでいます。",
+      "id": "35843efe-fb15-494c-8535-f220c33c5e16"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery",
+      "level": "n3",
+      "exampleSentence": "この荷物の配送は明日です。",
+      "id": "079a4c87-9bcc-4b35-a676-bd5dcb4f0771"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬の実験をしました。",
+      "id": "419e7c7f-b08d-4fad-b9ba-9998f13400fd"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n3",
+      "exampleSentence": "この技術は素晴らしいです。",
+      "id": "f5af17b4-37ee-48d8-9ff4-d0be6282b8d0"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "66b4cd6c-8a9f-4871-ba2d-5d6fe539afcc"
+    },
+    {
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaningZh": "困难的，难的",
+      "meaningEn": "difficult",
+      "level": "n5n4",
+      "exampleSentence": "この問題は少し難しいです。",
+      "id": "aeca1cac-d050-4316-9b6d-2b341996b9b3"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safe",
+      "level": "n5n4",
+      "exampleSentence": "車は安全に運転してください。",
+      "id": "3530f0a3-ada1-4cd2-81ee-d5e712503142"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaningZh": "将来，未来",
+      "meaningEn": "future",
+      "level": "n3",
+      "exampleSentence": "将来、医者になりたいです。",
+      "id": "018e8345-0ba1-4084-a2e9-6559fe1cbd59"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実験は、どんな場所で行われましたか？",
+      "options": [
+        "街中",
+        "海の上",
+        "山や田んぼが多い場所",
+        "学校の中"
+      ],
+      "correctIndex": 2,
+      "explanation": "この実験は、山や田んぼが多い場所で行われました。そこでは、車で荷物を届けるのが難しいことがあります。",
+      "id": "4c8edfc4-e4bf-4b53-afea-68cfc9232e32"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-30-236f9e90bb",
+  "publishedAt": "2026-10-30T06:00:00+09:00"
+}

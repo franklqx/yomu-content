@@ -1,0 +1,122 @@
+{
+  "title": "図書館の夜、開いてます！",
+  "summary": "ある図書館が夜も開く実験を始めました。もっと多くの人が図書館を使えるようになります。この新しい試みについて話しましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ある町で新しい実験が始まりました。それは、公立図書館を夜遅くまで開けることです。普段、図書館は夕方には閉まります。だから、仕事や学校の後に図書館へ行けない人もいました。",
+      "translationZh": "最近，某个城镇开始了一项新实验。那就是把公共图书馆开到深夜。平时，图书馆傍晚就会关门。所以，一些下班或放学后去不了图书馆的人也有。",
+      "translationEn": "Recently, a new experiment started in a certain town. It is to keep the public library open until late at night. Usually, libraries close in the evening. So, some people could not go to the library after work or school.",
+      "id": "b7db4421-b8f8-4d9c-a0bd-739b91a3da1f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この夜間営業実験は、もっと多くの人に図書館を利用してもらうために行われています。夜に開いていると、仕事が終わった人や、夜に勉強したい学生が図書館で本を読んだり、勉強したりできます。",
+      "translationZh": "这项夜间营业实验是为了让更多人利用图书馆而进行的。晚上开门的话，下班的人或者想在晚上学习的学生可以在图书馆看书、学习。",
+      "translationEn": "This night opening experiment is being conducted to allow more people to use the library. If it is open at night, people who have finished work and students who want to study at night can read books and study at the library.",
+      "id": "9fc5fcd0-7629-4e96-9c0c-41dd0031f61e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "図書館には、たくさんの本があります。小説や歴史の本、そして子供向けの絵本もあります。図書館が夜も開けば、家族で図書館へ行くこともできるかもしれません。これは、とても良い考えだと思います。",
+      "translationZh": "图书馆里有很多书。有小说、历史书，也有给孩子看的绘本。如果图书馆晚上也开门，也许全家也可以一起去图书馆。我认为这是一个非常好的想法。",
+      "translationEn": "There are many books in the library. There are novels, history books, and picture books for children. If the library is open at night, maybe families can go to the library together. I think this is a very good idea.",
+      "id": "5326e435-978d-4481-b35c-c100dafe5929",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験が成功したら、他の町でも夜間営業が広がるかもしれません。図書館は、みんなにとって大切な場所です。もっと多くの人が図書館を楽しめるようになると嬉しいです。",
+      "translationZh": "如果这项实验成功了，其他城镇也可能推广夜间营业。图书馆是大家都很重要的场所。我希望更多人能享受图书馆。",
+      "translationEn": "If this experiment is successful, night openings may spread to other towns as well. Libraries are important places for everyone. I hope more people can enjoy libraries.",
+      "id": "20a451a0-1d81-4f0d-ba7b-08e4b7d08a53",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaningZh": "图书馆",
+      "meaningEn": "library",
+      "level": "n5n4",
+      "exampleSentence": "図書館で本を借りました。",
+      "id": "8fd01755-9fcb-46dc-9b47-b1b901203c3b"
+    },
+    {
+      "word": "夜間",
+      "reading": "やかん",
+      "meaningZh": "夜晚，夜间",
+      "meaningEn": "nighttime",
+      "level": "n5n4",
+      "exampleSentence": "夜間は静かです。",
+      "id": "c7543618-b468-4792-845b-1aa7aff6e142"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaningZh": "营业",
+      "meaningEn": "business, operation",
+      "level": "n5n4",
+      "exampleSentence": "この店は朝から夜まで営業しています。",
+      "id": "fc7847f5-a12f-4a5c-ba0f-571619f1e8d5"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい方法を実験しました。",
+      "id": "bd11bef5-6902-435a-bde4-246bda5c8453"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用",
+      "meaningEn": "use, utilize",
+      "level": "n5n4",
+      "exampleSentence": "公共の施設を大切に利用しましょう。",
+      "id": "ee676901-04d6-4c87-bebf-568ef081192b"
+    },
+    {
+      "word": "小説",
+      "reading": "しょうせつ",
+      "meaningZh": "小说",
+      "meaningEn": "novel",
+      "level": "n5n4",
+      "exampleSentence": "面白い小説を読みました。",
+      "id": "7ec83428-3781-4157-afee-60e22c351058"
+    },
+    {
+      "word": "成功",
+      "reading": "せいこう",
+      "meaningZh": "成功",
+      "meaningEn": "success",
+      "level": "n5n4",
+      "exampleSentence": "実験は成功しました。",
+      "id": "27548962-408a-42a9-8121-e0bef0b6b721"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ図書館は夜も開ける実験をしていますか？",
+      "options": [
+        "もっと多くの人に図書館を使ってほしいから",
+        "新しい本をたくさん買いたいから",
+        "図書館をきれいにしたいから",
+        "図書館員を増やしたいから"
+      ],
+      "correctIndex": 0,
+      "explanation": "「もっと多くの人に図書館を利用してもらうために行われています。」という部分から、この実験の目的がわかります。",
+      "id": "fa7f6976-859b-49fd-bfdb-6ec69b9223fe"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-30-34bc6199db",
+  "publishedAt": "2026-10-30T06:00:00+09:00"
+}

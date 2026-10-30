@@ -1,0 +1,122 @@
+{
+  "title": "北海道の雪まつりと宿",
+  "summary": "冬の北海道は雪まつりがあります。たくさんの人が北海道に来ます。ホテルはとても人気があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "冬の北海道はとてもきれいです。特に2月は雪まつりがあります。札幌で大きな雪の像がたくさん作られます。世界中からたくさんの人が見に来ます。",
+      "translationZh": "冬天的北海道非常美丽。特别是2月有冰雪节。在札幌会制作很多大的雪雕。来自世界各地的人们都来看。",
+      "translationEn": "Winter Hokkaido is very beautiful. Especially in February, there is the Snow Festival. Many large snow sculptures are made in Sapporo. Many people come from all over the world to see it.",
+      "id": "74755366-5c3a-4ca1-9e2f-f79327606ad2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりの時期は、北海道のホテルはとても混みます。特に札幌のホテルはすぐいっぱいになります。早めに予約することが大切です。飛行機のチケットも、早く買う方がいいです。",
+      "translationZh": "冰雪节期间，北海道的酒店会非常拥挤。特别是札幌的酒店很快就会满员。尽早预约很重要。机票也建议早点购买。",
+      "translationEn": "During the Snow Festival period, hotels in Hokkaido get very crowded. Especially hotels in Sapporo fill up quickly. It is important to book early. It is also better to buy flight tickets early.",
+      "id": "26391258-c8bf-43d8-afdf-ff560e244b10",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ホテルが取れない時は、どうしたらいいですか。札幌から少し離れた場所を探すのもいい方法です。例えば、小樽や旭川もきれいです。電車で移動することもできます。",
+      "translationZh": "当酒店订不到时，该怎么办呢？寻找离札幌稍远一点的地方也是个好方法。例如，小樽和旭川也很美。也可以乘坐电车移动。",
+      "translationEn": "What should you do when you can't get a hotel? Looking for a place a little further from Sapporo is also a good idea. For example, Otaru and Asahikawa are also beautiful. You can also travel by train.",
+      "id": "841013ff-8778-4aab-9f45-a434d831f44b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "北海道の冬は寒いです。でも、雪まつりはとても楽しいです。暖かい服を着て、旅行を楽しんでください。おいしい食べ物もたくさんありますよ。",
+      "translationZh": "北海道的冬天很冷。但是，冰雪节非常有趣。请穿暖和的衣服，享受旅行。还有很多美味的食物哦。",
+      "translationEn": "Winter in Hokkaido is cold. But the Snow Festival is very fun. Wear warm clothes and enjoy your trip. There is also a lot of delicious food.",
+      "id": "cd1a3e37-7d54-4921-a099-96830ddb775c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "雪まつり",
+      "reading": "ゆきまつり",
+      "meaningZh": "冰雪节",
+      "meaningEn": "Snow Festival",
+      "level": "n5n4",
+      "exampleSentence": "北海道の雪まつりは有名です。",
+      "id": "21ac6db3-38f1-4f0a-bc73-f89333efee59"
+    },
+    {
+      "word": "宿泊",
+      "reading": "しゅくはく",
+      "meaningZh": "住宿",
+      "meaningEn": "accommodation",
+      "level": "n3",
+      "exampleSentence": "旅行の宿泊先を決めました。",
+      "id": "54ed1c25-1637-44d5-beef-598f76eddf35"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaningZh": "时期，季节",
+      "meaningEn": "period, season",
+      "level": "n5n4",
+      "exampleSentence": "この時期は花がきれいです。",
+      "id": "c2bedb32-b966-4928-a6c5-ca7f7f0b9aeb"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤，繁忙",
+      "meaningEn": "to be crowded",
+      "level": "n5n4",
+      "exampleSentence": "電車がとても混んでいます。",
+      "id": "81404504-2d79-46a1-8962-c7e30df9e4ec"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "7794737d-3002-4346-9b0f-ddd0af06eb77"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "健康は大切です。",
+      "id": "a32c7a82-69cd-4c55-8753-4c090c33b41f"
+    },
+    {
+      "word": "離れる",
+      "reading": "はなれる",
+      "meaningZh": "离开，远离",
+      "meaningEn": "to be distant, to separate",
+      "level": "n5n4",
+      "exampleSentence": "駅が家から離れています。",
+      "id": "0c92ca9b-5456-4e18-9c67-fd4d6ff516e3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつりの時期に北海道のホテルはどんな状況ですか。",
+      "options": [
+        "あまり人がいません。",
+        "とても混んでいます。",
+        "予約は簡単です。",
+        "全部安いです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「雪まつりの時期は、北海道のホテルはとても混みます。」",
+      "id": "043671ac-8617-481e-961e-066e943352df"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-30-c3d486ff33",
+  "publishedAt": "2026-10-30T06:00:00+09:00"
+}

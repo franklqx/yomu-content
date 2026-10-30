@@ -1,0 +1,147 @@
+{
+  "title": "ドローン配送、新たな時代へ　実証実験が活発化",
+  "summary": "人手不足が深刻化する中、ドローンによる配送の実証実験が各地で進められています。物流の未来を担う技術として注目が集まっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、少子高齢化に伴う労働人口の減少が、物流業界における深刻な課題として浮上している。このような状況下、新たな配送手段としてドローンを活用する実証実験が、全国各地で活発に行われているとのことだ。特に、中山間地域や離島など、地理的な制約により配送が困難な地域での導入が期待されており、その効果測定に向けた取り組みが注目されている。",
+      "translationZh": "近年来，随着少子高龄化导致劳动人口减少，物流行业面临着严峻的课题。在此背景下，利用无人机作为新的配送手段的实证实验，正在全国各地积极开展。特别是在山区和离岛等因地理限制导致配送困难的地区，人们对其引进寄予厚望，旨在评估其效果的举措备受瞩目。",
+      "translationEn": "In recent years, the decrease in the working population due to the declining birthrate and aging society has emerged as a serious challenge in the logistics industry. Under these circumstances, demonstration experiments utilizing drones as a new delivery method are actively being conducted across the country. In particular, its introduction is expected in areas with geographical constraints, such as mountainous regions and remote islands, where delivery is difficult, and efforts to measure its effectiveness are drawing attention.",
+      "id": "928bb0d8-4a7c-45fe-bb20-1e466c81369a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これらの実証実験では、医薬品や食料品、日用品など、多岐にわたる品目の配送が試みられている。ドローンは、事前に設定されたルートを自動で飛行し、目的地に到着すると荷物を安全に投下する仕組みが採用されている。しかし、悪天候時の飛行安定性や、プライバシー保護、さらには墜落時の安全対策など、実用化に向けてクリアすべき課題も依然として多く残されていると見られる。",
+      "translationZh": "在这些实证实验中，人们尝试配送药品、食品、日用品等多种多样的物品。无人机采用的机制是，它能自动飞行于预设路线，并在抵达目的地后安全地投放货物。然而，恶劣天气下的飞行稳定性、隐私保护以及坠落时的安全对策等，在实现实用化之前，仍有许多课题需要克服。",
+      "translationEn": "In these demonstration experiments, the delivery of a wide range of items, including pharmaceuticals, foodstuffs, and daily necessities, is being attempted. Drones are designed to fly automatically along pre-set routes and safely drop their cargo upon arrival at their destination. However, many challenges remain to be overcome before practical application, such as flight stability in adverse weather conditions, privacy protection, and safety measures in case of crashes.",
+      "id": "bab9dd42-5c5a-4d3c-91d1-90b43ee1cd60",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "政府もドローン配送の普及を後押ししており、関連法規の整備や安全基準の策定が進められている。技術開発と並行して、地域住民との合意形成や、社会受容性の向上を図るための取り組みも重要視されている。これらの多角的なアプローチにより、ドローン配送が物流の未来を大きく変革する可能性が示唆されている。",
+      "translationZh": "政府也在积极推动无人机配送的普及，相关法规的制定和安全标准的制定正在进行中。与技术开发并行，与地区居民达成共识以及提高社会接受度的举措也备受重视。通过这些多方面的努力，无人机配送有望为物流的未来带来巨大变革。",
+      "translationEn": "The government is also promoting the widespread adoption of drone delivery, with efforts underway to establish related laws and safety standards. Alongside technological development, initiatives to build consensus with local residents and enhance social acceptance are also being emphasized. These multifaceted approaches suggest the potential for drone delivery to significantly transform the future of logistics.",
+      "id": "dc2f8f59-d87d-499f-af57-b060a954f1d7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "中山間地域",
+      "reading": "ちゅうさんげんちいき",
+      "meaningZh": "山区和平原之间、人口稀少、农业等占比较高的地区",
+      "meaningEn": "Mountainous and inter-medium areas (areas between plains and mountains, sparsely populated, with a high proportion of agriculture, etc.)",
+      "level": "n2n1",
+      "exampleSentence": "中山間地域では、高齢化による担い手不足が深刻である。",
+      "id": "bbb3d389-0c76-4d6d-94b1-7574add94767"
+    },
+    {
+      "word": "浮上",
+      "reading": "ふじょう",
+      "meaningZh": "出现，显现",
+      "meaningEn": "emerge, surface",
+      "level": "n2n1",
+      "exampleSentence": "新たな課題が次々と浮上している。",
+      "id": "7cd60ac5-2ba1-4f0a-9af1-4d5631fa1637"
+    },
+    {
+      "word": "地理的制約",
+      "reading": "ちりてきせいやく",
+      "meaningZh": "地理上的限制",
+      "meaningEn": "geographical constraints",
+      "level": "n2n1",
+      "exampleSentence": "地理的制約のため、インフラ整備が遅れている地域がある。",
+      "id": "c1bd0898-6acf-4049-8dde-aeebda444d3b"
+    },
+    {
+      "word": "悪天候",
+      "reading": "あくてんこう",
+      "meaningZh": "恶劣天气",
+      "meaningEn": "adverse weather",
+      "level": "n3",
+      "exampleSentence": "悪天候のため、飛行機は欠航となった。",
+      "id": "fe24cd07-c76d-4aae-8ded-3bf1cfea1635"
+    },
+    {
+      "word": "プライバシー保護",
+      "reading": "ぷらいばしーほご",
+      "meaningZh": "隐私保护",
+      "meaningEn": "privacy protection",
+      "level": "n2n1",
+      "exampleSentence": "個人情報の漏洩を防ぐため、プライバシー保護は極めて重要だ。",
+      "id": "0ccae3c0-4fe0-4beb-9b50-13d5e19e08d7"
+    },
+    {
+      "word": "墜落",
+      "reading": "ついらく",
+      "meaningZh": "坠落，失事",
+      "meaningEn": "crash, fall",
+      "level": "n3",
+      "exampleSentence": "強風により、ドローンが墜落する事故が発生した。",
+      "id": "dae8af96-9812-420e-b513-6fb8858536fe"
+    },
+    {
+      "word": "法規",
+      "reading": "ほうき",
+      "meaningZh": "法律法规",
+      "meaningEn": "laws and regulations",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術の発展に伴い、関連法規の整備が急務となっている。",
+      "id": "04c50073-812e-4411-adfe-28313cca565d"
+    },
+    {
+      "word": "合意形成",
+      "reading": "ごういけいせい",
+      "meaningZh": "达成一致，形成共识",
+      "meaningEn": "reaching an agreement, consensus building",
+      "level": "n2n1",
+      "exampleSentence": "地域住民との合意形成に時間を要した。",
+      "id": "7ff00df4-55e3-44ad-b20b-b8029c5a7607"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実証実験が活発に行われている主な理由は何ですか？",
+      "options": [
+        "天候に左右されず、いつでも配送できるため",
+        "人手不足が深刻化している物流業界の課題を解決するため",
+        "ドローンは従来の配送車より速く移動できるため",
+        "新技術開発の競争が激化しているため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「近年、少子高齢化に伴う労働人口の減少が、物流業界における深刻な課題として浮上している。このような状況下、新たな配送手段としてドローンを活用する実証実験が、全国各地で活発に行われているとのことだ。」と記載されています。",
+      "id": "1fd167c1-8ebf-4c99-92df-7dd6c3d3d67b"
+    },
+    {
+      "question": "ドローン配送の実用化に向けて、まだ解決されていない課題として本文で挙げられているものはどれですか？",
+      "options": [
+        "配送コストが高すぎること",
+        "荷物の積載量が少ないこと",
+        "悪天候時の飛行安定性や安全対策",
+        "ドローンの製造技術が未熟であること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「しかし、悪天候時の飛行安定性や、プライバシー保護、さらには墜落時の安全対策など、実用化に向けてクリアすべき課題も依然として多く残されていると見られる。」と記載されています。",
+      "id": "1bffe29d-a195-48f2-b6cf-71a249efe3ac"
+    },
+    {
+      "question": "ドローン配送の普及を後押しするために、政府はどのような取り組みを進めていますか？",
+      "options": [
+        "ドローン購入費用の補助金支給",
+        "地域住民へのドローン操作講習の実施",
+        "関連法規の整備や安全基準の策定",
+        "ドローン配送ルートの全国一律化"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第三段に「政府もドローン配送の普及を後押ししており、関連法規の整備や安全基準の策定が進められている。」と記載されています。",
+      "id": "8d5dd72b-de7c-44db-8cc8-ab1a62822bb9"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-30-236f9e90bb",
+  "publishedAt": "2026-10-30T06:00:00+09:00"
+}
