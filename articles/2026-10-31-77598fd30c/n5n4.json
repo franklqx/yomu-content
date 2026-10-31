@@ -1,0 +1,131 @@
+{
+  "title": "七夕の光、新しい名所",
+  "summary": "今年の夏、新しい七夕のライトアップが始まりました。とてもきれいです。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "7月になりました。もうすぐ七夕です。七夕は、星がきれいに見えるお祭りです。短冊に願い事を書きます。",
+      "translationZh": "7月到了。很快就是七夕节了。七夕是可以看到美丽星星的节日。人们在短册上写下愿望。",
+      "translationEn": "It's July. Tanabata is coming soon. Tanabata is a festival where you can see beautiful stars. People write their wishes on strips of paper.",
+      "id": "db9c47bf-bf64-471e-b2c6-eaf7745db254",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今年は、町の公園で新しいライトアップがあります。たくさんの光で、竹飾りが飾られます。夜になると、キラキラして、とてもロマンチックです。",
+      "translationZh": "今年，镇上的公园里有新的灯光秀。用很多灯光装饰竹饰。到了晚上，闪闪发光，非常浪漫。",
+      "translationEn": "This year, there's a new light-up event in the town park. The bamboo decorations are adorned with many lights. At night, it sparkles and is very romantic.",
+      "id": "ae37827a-da60-4e9e-a3aa-95f0ecc5938e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この公園は、去年まであまり知られていませんでした。でも、このライトアップで、新しい人気スポットになりました。家族や友人と一緒に、ぜひ見に来てください。",
+      "translationZh": "这个公园直到去年都不是很出名。但是，因为这个灯光秀，它成为了新的热门景点。请一定要和家人朋友一起来看看。",
+      "translationEn": "This park wasn't well-known until last year. However, with this light-up, it has become a new popular spot. Please come and see it with your family and friends.",
+      "id": "01a207e2-2edb-4a16-acca-3c468287b820",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ライトアップは、7月1日から7日までです。午後7時から午後9時まで見られます。涼しい夜に、きれいな光を楽しんでください。",
+      "translationZh": "灯光秀从7月1日持续到7日。可以从晚上7点看到晚上9点。请在凉爽的夜晚享受美丽的光芒。",
+      "translationEn": "The light-up event is from July 1st to July 7th. You can see it from 7 PM to 9 PM. Please enjoy the beautiful lights on a cool evening.",
+      "id": "028e0314-9bbf-4372-8749-659eb843fa61",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "七夕",
+      "reading": "たなばた",
+      "meaningZh": "七夕节",
+      "meaningEn": "Tanabata (Star Festival)",
+      "level": "n5n4",
+      "exampleSentence": "七夕には、星がきれいです。",
+      "id": "54dc1434-dc82-4121-8ffb-95f8a098b798"
+    },
+    {
+      "word": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "meaningZh": "灯光秀，亮灯",
+      "meaningEn": "light-up",
+      "level": "n5n4",
+      "exampleSentence": null,
+      "id": "60a152c4-9059-47f6-8063-7fc373a98e1b"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaningZh": "名胜，景点",
+      "meaningEn": "famous place, scenic spot",
+      "level": "n5n4",
+      "exampleSentence": "この町は古い名所がたくさんあります。",
+      "id": "17fb9747-5f78-4c3b-acca-85e1d48382fd"
+    },
+    {
+      "word": "願い事",
+      "reading": "ねがいごと",
+      "meaningZh": "愿望，祈愿",
+      "meaningEn": "wish",
+      "level": "n5n4",
+      "exampleSentence": "短冊に願い事を書きました。",
+      "id": "b519c02e-7094-48b9-bcca-51f7e80e400b"
+    },
+    {
+      "word": "飾る",
+      "reading": "かざる",
+      "meaningZh": "装饰",
+      "meaningEn": "to decorate",
+      "level": "n5n4",
+      "exampleSentence": "部屋を花で飾ります。",
+      "id": "8e3be14b-81ad-4f74-addb-2b2db2b17252"
+    },
+    {
+      "word": "光",
+      "reading": "ひかり",
+      "meaningZh": "光，光线",
+      "meaningEn": "light",
+      "level": "n5n4",
+      "exampleSentence": "夜空に光が見えます。",
+      "id": "7ee13259-238d-4336-bdbe-e1947525b127"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このカフェはとても人気があります。",
+      "id": "931b18b3-b87b-49bf-9a5d-67c8338dcb88"
+    },
+    {
+      "word": "スポット",
+      "reading": "すぽっと",
+      "meaningZh": "景点，场所",
+      "meaningEn": "spot",
+      "level": "n5n4",
+      "exampleSentence": "ここは写真のスポットです。",
+      "id": "d61ce5fd-c5db-4a52-930e-20171f75c6da"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今年の七夕のライトアップは、どこで見られますか。",
+      "options": [
+        "駅の近くの広場",
+        "町の公園",
+        "大きなデパート",
+        "有名な神社"
+      ],
+      "correctIndex": 1,
+      "explanation": "「今年は、町の公園で新しいライトアップがあります。」",
+      "id": "36ee6e6c-2bc1-46b2-9c88-0f0a4f623dea"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-31-77598fd30c",
+  "publishedAt": "2026-10-31T06:00:00+09:00"
+}

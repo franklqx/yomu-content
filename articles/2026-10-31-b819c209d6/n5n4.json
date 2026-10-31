@@ -1,0 +1,122 @@
+{
+  "title": "カフェの新メニュー！",
+  "summary": "人気のアニメカフェで新しいメニューが出ました。予約が難しいかもしれません。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "新しいアニメのコラボカフェが始まりました。このカフェはとても人気があります。新しいメニューもたくさんあります。",
+      "translationZh": "新的动画联动咖啡馆开业了。这家咖啡馆非常受欢迎。新的菜单也有很多。",
+      "translationEn": "A new anime collaboration cafe has started. This cafe is very popular. There are also many new menu items.",
+      "id": "f8de8818-7207-4092-bf33-f0a6e0e0b053",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "メニューには、キャラクターをイメージした飲み物や食べ物があります。見た目もとてもきれいです。写真に撮りたくなりますよ。",
+      "translationZh": "菜单上有以角色为灵感的饮料和食物。看起来也非常漂亮。会让人想拍照哦。",
+      "translationEn": "The menu includes drinks and food inspired by characters. They look very beautiful too. You'll want to take pictures.",
+      "id": "089af8f0-d50e-4f96-8eea-5c5f7e5d973f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、このカフェはいつも混んでいます。特に週末は人が多いです。予約をするのがおすすめです。予約なしでは入れないこともあります。",
+      "translationZh": "但是，这家咖啡馆总是很拥挤。特别是周末人很多。建议您提前预约。有时不预约就进不去。",
+      "translationEn": "However, this cafe is always crowded. Especially on weekends, there are many people. It is recommended to make a reservation. Sometimes you cannot enter without a reservation.",
+      "id": "493ac855-eb57-464d-9d66-2fb9b6b6358f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "予約はインターネットでできます。ウェブサイトを見て、空いている時間を選んでください。早めに予約した方がいいですよ。",
+      "translationZh": "您可以在网上预约。请查看网站，选择有空的时间。最好早点预约。",
+      "translationEn": "You can make a reservation online. Please look at the website and choose an available time. It's better to book early.",
+      "id": "efe51d4a-c0a6-418b-a5ab-d79100008e8e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このアニメはとても人気があります。",
+      "id": "7d57c2ec-4fee-44d9-9f57-3baf9fc0269d"
+    },
+    {
+      "word": "メニュー",
+      "reading": "め-",
+      "meaningZh": "菜单",
+      "meaningEn": "menu",
+      "level": "n5n4",
+      "exampleSentence": "今日のランチメニューは何ですか。",
+      "id": "943d0da3-00ee-43c5-a842-11f86adfddba"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "き-",
+      "meaningZh": "角色",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このキャラクターはかわいいです。",
+      "id": "0ecf3e2a-f999-4bca-9588-05e294645bd2"
+    },
+    {
+      "word": "イメージ",
+      "reading": "イ-",
+      "meaningZh": "形象，印象",
+      "meaningEn": "image",
+      "level": "n5n4",
+      "exampleSentence": "その飲み物は、海をイメージした色です。",
+      "id": "240d49c9-9479-4ade-a850-c2c50349b834"
+    },
+    {
+      "word": "混む",
+      "reading": "こむ",
+      "meaningZh": "拥挤，繁忙",
+      "meaningEn": "to be crowded",
+      "level": "n5n4",
+      "exampleSentence": "電車がとても混んでいます。",
+      "id": "e2b32d96-5174-4e04-af9e-73a812b7359d"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "31249aab-589d-4959-b9e1-3b0a8dc6df33"
+    },
+    {
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaningZh": "周末",
+      "meaningEn": "weekend",
+      "level": "n5n4",
+      "exampleSentence": "週末は何をしますか。",
+      "id": "b8acdaba-0e77-4883-9932-063197762a87"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "カフェで楽しく過ごすために、何をすることが大切ですか。",
+      "options": [
+        "毎日行くこと",
+        "予約すること",
+        "新しいメニューを食べないこと",
+        "友達と来ないこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "「予約をするのがおすすめです。予約なしでは入れないこともあります。」",
+      "id": "5db77e48-112a-4e80-bb79-95ae105e94fc"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-31-b819c209d6",
+  "publishedAt": "2026-10-31T06:00:00+09:00"
+}

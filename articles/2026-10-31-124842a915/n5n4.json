@@ -1,0 +1,122 @@
+{
+  "title": "体育館、みんなで使おう！",
+  "summary": "学校の体育館を地域の人も使えるようになりました。これは地域開放実験です。みんなで体育館を使いましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、学校の体育館が地域の人にも開放されました。これは新しい実験です。今まで、体育館は主に学校の生徒が使っていました。でも、これからは地域の人も夜や休日に体育館を使うことができます。",
+      "translationZh": "最近，学校的体育馆也向社区居民开放了。这是一个新的实验。以前，体育馆主要由学校的学生使用。但是，从今以后，社区居民也可以在晚上和休息日使用体育馆。",
+      "translationEn": "Recently, the school gymnasium has been opened to local residents. This is a new experiment. Until now, the gymnasium was mainly used by school students. But from now on, local residents can also use the gymnasium in the evenings and on holidays.",
+      "id": "b472b891-2114-461f-9273-c5559a9304e3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験の目的は、地域の人々が健康になることです。体を動かすことはとても大切です。地域の人々が体育館でスポーツをすることは、地域社会を元気にするでしょう。",
+      "translationZh": "这个实验的目的是让社区居民变得更健康。运动身体非常重要。社区居民在体育馆进行体育活动，会让社区充满活力。",
+      "translationEn": "The purpose of this experiment is for local people to become healthier. Moving the body is very important. When local people play sports in the gymnasium, it will energize the community.",
+      "id": "b02c8ba0-175c-4582-8eac-a6d6cad21bc6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "学校の先生や地域の人々が協力しています。みんなでルールを守って、体育館をきれいに使います。この実験が成功したら、他の学校でも始まるかもしれません。",
+      "translationZh": "学校的老师和社区居民正在合作。大家一起遵守规则，好好使用体育馆。如果这个实验成功了，可能也会在其他学校开始。",
+      "translationEn": "School teachers and local residents are cooperating. Everyone will follow the rules and use the gymnasium cleanly. If this experiment is successful, it may start in other schools too.",
+      "id": "6dcc10f4-171c-4ee7-9ea0-a56c2025f01d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "地域開放は、学校と地域がもっと仲良くなる良い機会です。みんなで体育館を大切に使いましょう。そして、健康で楽しい毎日を送りましょう。",
+      "translationZh": "社区开放是学校和社区变得更友好的好机会。大家一起珍惜地使用体育馆吧。然后，让我们过着健康快乐的每一天。",
+      "translationEn": "Community opening is a good opportunity for schools and communities to become closer. Let's all use the gymnasium with care. And let's live healthy and enjoyable days.",
+      "id": "9697947e-9a3a-4b24-b8db-e213a5a0d2c6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "体育館",
+      "reading": "たいいくかん",
+      "meaningZh": "体育馆",
+      "meaningEn": "gymnasium",
+      "level": "n5n4",
+      "exampleSentence": "学校に大きな体育館があります。",
+      "id": "b4708e99-2c8a-4527-b391-04c043a1c569"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区，区域",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "この地域はとても静かです。",
+      "id": "ff1ea504-4569-4562-83f8-092437f3b151"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaningZh": "开放",
+      "meaningEn": "opening, open",
+      "level": "n3",
+      "exampleSentence": "図書館は朝から開放されています。",
+      "id": "d77522ea-0fe9-45aa-bc70-89c1eb1c48f6"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n3",
+      "exampleSentence": "新しい方法を実験しています。",
+      "id": "7b89c6e8-3c1a-4def-af95-59a54f3f39b6"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningZh": "目的",
+      "meaningEn": "purpose, objective",
+      "level": "n3",
+      "exampleSentence": "この旅行の目的は何ですか。",
+      "id": "e6804f4c-e58b-4d02-956e-d87e7c905165"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作，协作",
+      "meaningEn": "cooperation",
+      "level": "n3",
+      "exampleSentence": "みんなで協力して仕事をしました。",
+      "id": "0a63030e-308e-4427-9424-01c5d4704077"
+    },
+    {
+      "word": "成功",
+      "reading": "せいこう",
+      "meaningZh": "成功",
+      "meaningEn": "success",
+      "level": "n3",
+      "exampleSentence": "実験は成功しました。",
+      "id": "1a22cd12-972d-440f-aaf1-bf30c3a88c5f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "学校の体育館は、誰が主に使うようになりましたか？",
+      "options": [
+        "生徒だけ",
+        "地域の人だけ",
+        "生徒と地域の人",
+        "先生だけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "「今まで、体育館は主に学校の生徒が使っていました。でも、これからは地域の人も夜や休日に体育館を使うことができます。」",
+      "id": "8bff8f46-cbd8-4a9d-954d-d6e823e12619"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-10-31-124842a915",
+  "publishedAt": "2026-10-31T06:00:00+09:00"
+}

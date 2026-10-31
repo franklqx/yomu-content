@@ -1,0 +1,138 @@
+{
+  "title": "人気アニメ「〇〇」コラボカフェ、新メニュー登場で予約殺到",
+  "summary": "人気アニメ「〇〇」と期間限定コラボカフェが、新メニューの提供を開始した。この発表に伴い、予約サイトは一時アクセスが集中し、混雑が見られたとのことだ。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "都内某所にて開催中の人気アニメ「〇〇」とのコラボレーションカフェにて、本日より新グランドメニューの提供が開始された。今回の新メニューは、作中の印象的なシーンやキャラクターをモチーフにしたオリジナルドリンク・フード全5種となっており、ファンからは早くも期待の声が寄せられている。特に、主人公が愛用する「〇〇」をイメージしたというパフェは、SNSでの告知後、大きな話題を呼んでいる模様だ。",
+      "translationZh": "在某处举办的人气动画《〇〇》的联动咖啡馆，从今天起开始提供新的主菜单。此次新菜单共有5种原创饮品和食物，均以作品中令人印象深刻的场景或角色为主题，粉丝们已纷纷表示期待。特别是，据称是以主角喜爱的“〇〇”为灵感设计的圣代，在社交媒体上发布后，似乎已经引起了巨大反响。",
+      "translationEn": "At the collaboration cafe with the popular anime \"〇〇\" currently being held in a certain location in Tokyo, the new main menu began to be offered today. This new menu consists of a total of 5 original drinks and food items, inspired by memorable scenes and characters from the series, and fans have already expressed their anticipation. In particular, a parfait inspired by \"〇〇,\" which the protagonist favors, seems to have garnered significant attention after being announced on social media.",
+      "id": "642d87bd-3933-43c7-aeb6-d46d926d25c2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新メニューの登場に伴い、カフェの公式予約サイトには、開始時刻前から多くのアクセスが集中する事態となった。一時、サイトへの接続が困難になるほどの混雑ぶりであり、運営側は「多数のご予約希望をいただき、誠にありがとうございます。現在、システム復旧に努めております」とのコメントを発表した。予約は、来場希望日の1週間前から受け付けているが、週末を中心に既に満席の日程も出始めていると見られる。",
+      "translationZh": "随着新菜单的推出，咖啡馆的官方预约网站在开始时间前就出现了大量访问集中的情况。一度出现了难以连接到网站的拥挤状况，运营方发表评论称：“非常感谢您给予的大量预订意向。目前我们正在努力恢复系统。” 预约从希望到访日期的一周前开始接受，但据估计，以周末为中心，已经开始出现日程已满的情况。",
+      "translationEn": "Following the introduction of the new menu, the cafe's official reservation website experienced a surge in access even before the designated start time. The congestion was so severe that connecting to the site became difficult for a while. The management released a statement saying, \"Thank you very much for the large number of reservation requests. We are currently working to restore the system.\" Reservations are accepted from one week prior to the desired visit date, but it is anticipated that some dates, particularly weekends, are already becoming fully booked.",
+      "id": "17b4ebd0-89f3-49d9-87aa-69c853b0e0f5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回のコラボカフェは、作品の世界観を再現した内装や、限定グッズの販売なども含め、遠方からのファンも多く訪れる人気ぶりだ。新メニューの好評により、今後さらに予約の争奪戦が激化することも予想される。カフェ側は、混雑緩和策として、整理券の配布や、一部時間帯の予約制限なども検討していく方針であるとのこと。ファンにとっては、念願のメニューを味わうため、情報収集と迅速な予約行動が肝要となるだろう。",
+      "translationZh": "此次联动咖啡馆，凭借重现作品世界观的内部装饰以及限定周边商品的销售等，吸引了众多来自远方的粉丝，人气高涨。随着新菜单的广受欢迎，预计今后预约的争夺将更加激烈。咖啡馆方面表示，作为缓解拥挤的对策，今后将考虑发放整理券以及对部分时段进行预约限制。对于粉丝而言，为了品尝到心仪的菜单，收集信息并迅速采取预约行动将至关重要。",
+      "translationEn": "This collaboration cafe is popular, attracting many fans from afar, not only for its interior design that recreates the world of the anime but also for the sale of limited-edition merchandise. With the positive reception of the new menu, it is expected that the competition for reservations will intensify further. The cafe plans to consider measures to alleviate congestion, such as distributing numbered tickets and implementing reservation restrictions for certain time slots. For fans, gathering information and acting quickly to make reservations will be crucial to enjoy their desired menu items.",
+      "id": "96791752-11cc-4070-8edd-1e9e35a463a4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "モチーフ",
+      "reading": "もちーふ",
+      "meaningZh": "主题；母题",
+      "meaningEn": "motif; theme",
+      "level": "n2n1",
+      "exampleSentence": "この絵は自然をモチーフに描かれている。",
+      "id": "d710f6ff-96d6-4b1b-a450-09e99a0ff93e"
+    },
+    {
+      "word": "期待の声",
+      "reading": "きたいのこえ",
+      "meaningZh": "期待的声音；反响",
+      "meaningEn": "voices of expectation; anticipation",
+      "level": "n3",
+      "exampleSentence": "新製品に対する期待の声が多く聞かれる。",
+      "id": "60c0b1b7-c54b-4265-855f-ffe1dd786fa8"
+    },
+    {
+      "word": "模様",
+      "reading": "もよう",
+      "meaningZh": "情况；样子",
+      "meaningEn": "situation; appearance; state of affairs",
+      "level": "n2n1",
+      "exampleSentence": "今日の天気は雨の模様だ。",
+      "id": "151944b8-ea63-4c66-9b54-559d90a6ae1d"
+    },
+    {
+      "word": "念願",
+      "reading": "ねんがん",
+      "meaningZh": "夙愿；长久以来的愿望",
+      "meaningEn": "long-cherished desire; earnest wish",
+      "level": "n2n1",
+      "exampleSentence": "念願のマイホームを手に入れた。",
+      "id": "17eb8a20-d657-4bd7-8dbb-5ea7002b903c"
+    },
+    {
+      "word": "争奪戦",
+      "reading": "そうだつせん",
+      "meaningZh": "争夺战",
+      "meaningEn": "struggle for possession; scramble",
+      "level": "n2n1",
+      "exampleSentence": "限られた資源を巡る争奪戦が激化している。",
+      "id": "22e257dc-1068-4f84-a5ac-f81b8fbe660c"
+    },
+    {
+      "word": "緩和策",
+      "reading": "かんわさく",
+      "meaningZh": "缓和措施",
+      "meaningEn": "easing measures; relief measures",
+      "level": "n2n1",
+      "exampleSentence": "経済の低迷に対応するための緩和策が打ち出された。",
+      "id": "e0723f97-015b-4073-b6e3-d5921a9a1926"
+    },
+    {
+      "word": "肝要",
+      "reading": "かんよう",
+      "meaningZh": "至关重要；关键",
+      "meaningEn": "essential; crucial; vital",
+      "level": "n2n1",
+      "exampleSentence": "成功のためには、努力を続けることが肝要だ。",
+      "id": "297bb7d4-ded0-4ab5-b3a3-34bb4d5b07d3"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "コラボカフェの新メニュー発表後、どのような状況が見られたか。",
+      "options": [
+        "予約サイトが繋がりにくくなるほどの混雑が発生した。",
+        "新メニューの提供が一時的に延期された。",
+        "カフェの場所が変更されるという情報が流れた。",
+        "SNSでの批判的なコメントが相次いだ。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「新メニューの登場に伴い、カフェの公式予約サイトには、開始時刻前から多くのアクセスが集中する事態となった。一時、サイトへの接続が困難になるほどの混雑ぶりであり…」とある。",
+      "id": "6debe95d-29d9-4bea-8053-e6ce7c571a1a"
+    },
+    {
+      "question": "新メニューの中でも、特に話題となっているのはどれか。",
+      "options": [
+        "作中の舞台をイメージした内装",
+        "主人公が愛用するものをイメージしたパフェ",
+        "限定グッズの販売",
+        "カフェでしか聞けないオリジナルサウンドトラック"
+      ],
+      "correctIndex": 1,
+      "explanation": "「特に、主人公が愛用する「〇〇」をイメージしたというパフェは、SNSでの告知後、大きな話題を呼んでいる模様だ。」と記述されている。",
+      "id": "d5a85b77-c51d-4df4-a49d-09ddd90e40fc"
+    },
+    {
+      "question": "カフェ側が混雑緩和のために検討している策は何か。",
+      "options": [
+        "予約システムを完全に無料にする。",
+        "SNSでの情報発信を停止する。",
+        "整理券の配布や一部時間帯の予約制限。",
+        "コラボ期間を大幅に延長する。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「カフェ側は、混雑緩和策として、整理券の配布や、一部時間帯の予約制限なども検討していく方針であるとのこと。」という記述から判断できる。",
+      "id": "188a4c11-852a-4715-a202-85ce83cf3d27"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-10-31-b819c209d6",
+  "publishedAt": "2026-10-31T06:00:00+09:00"
+}
