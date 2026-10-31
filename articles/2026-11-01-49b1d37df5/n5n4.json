@@ -1,0 +1,122 @@
+{
+  "title": "話題のフードトラック",
+  "summary": "最近、都市でフードトラックがたくさん見られます。これらのトラックは、新しい食べ物と活気ある雰囲気をもたらしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、街でフードトラックが人気です。色々な種類の食べ物が売られています。おしゃれなトラックも多いです。見ているだけでも楽しいです。",
+      "translationZh": "最近，街上的餐车很受欢迎。卖着各种各样的食物。漂亮的餐车也很多。光是看着就很有趣。",
+      "translationEn": "Recently, food trucks are popular in the city. Various kinds of food are sold. There are many stylish trucks. It's fun just to look at them.",
+      "id": "7b50267d-c5f3-4117-a9a0-49f42c0c1482",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "フードトラックは、新しい場所で簡単に移動できます。公園やイベント会場でよく見かけます。人々は気軽に美味しいものを楽しんでいます。",
+      "translationZh": "餐车可以方便地移动到新的地点。经常在公园和活动场地看到它们。人们轻松地享受美味的食物。",
+      "translationEn": "Food trucks can easily move to new places. They are often seen in parks and event venues. People casually enjoy delicious food.",
+      "id": "7714a1f9-d662-430b-b688-46d9f6987a68",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市は変わってきています。古い建物が新しくなったり、新しいお店ができたりします。フードトラックは、都市の新しい魅力の一つです。",
+      "translationZh": "城市正在发生变化。旧建筑会变新，也会开新店。餐车是城市新魅力的一部分。",
+      "translationEn": "Cities are changing. Old buildings are renewed, and new shops are opened. Food trucks are one of the new attractions of the city.",
+      "id": "cd50d4f6-0918-4683-8894-fa3236cfcfd4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、ぜひフードトラックを探してみてください。きっと新しい発見があるはずです。美味しいものを食べて、街を楽しんでください。",
+      "translationZh": "大家也请一定要找找餐车看看。一定会有新的发现。吃点好吃的，享受城市吧。",
+      "translationEn": "Everyone, please try looking for food trucks. You will surely make new discoveries. Eat something delicious and enjoy the city.",
+      "id": "0db7ce21-e1fb-4a5b-9a53-141a06b04e27",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "フードトラック",
+      "reading": "ふーどとらっく",
+      "meaningZh": "餐车，食物卡车",
+      "meaningEn": "food truck",
+      "level": "n5n4",
+      "exampleSentence": "このフードトラックのハンバーガーはおいしいです。",
+      "id": "fa67f90b-2e97-4e27-b1aa-2f6c7b06f0ee"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店はとても人気があります。",
+      "id": "fba59009-00f3-4021-be0e-019e31d45e87"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaningZh": "种类",
+      "meaningEn": "kind, type, sort",
+      "level": "n5n4",
+      "exampleSentence": "色々な種類の花があります。",
+      "id": "d50e536a-3d7c-4501-a860-b10f7fcc34c7"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaningZh": "移动",
+      "meaningEn": "movement, transfer",
+      "level": "n5n4",
+      "exampleSentence": "車で移動しました。",
+      "id": "8d204a9e-d09a-4119-ac50-8f6173173afc"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方，地点",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "いい場所を見つけました。",
+      "id": "94af9b7a-0a32-4684-b8de-f5c111dcff3b"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, fascination",
+      "level": "n3",
+      "exampleSentence": "この街の魅力は、静かなところです。",
+      "id": "e333c41e-a26c-42fd-ae67-25fbe15936c0"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "discovery",
+      "level": "n3",
+      "exampleSentence": "新しいお店を発見しました。",
+      "id": "06731bbb-dc4e-4eb9-911e-a0bbde06966f"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "フードトラックは、どんな場所で見られますか。",
+      "options": [
+        "駅の近く",
+        "公園やイベント会場",
+        "デパートの中",
+        "学校の近く"
+      ],
+      "correctIndex": 1,
+      "explanation": "「フードトラックは、公園やイベント会場でよく見かけます。」",
+      "id": "9fcdc381-37df-4d8f-bb28-f4920e98057f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-01-49b1d37df5",
+  "publishedAt": "2026-11-01T06:00:00+09:00"
+}

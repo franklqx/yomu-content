@@ -1,0 +1,126 @@
+{
+  "title": "二次元アイドルのライブ演出技術の進化",
+  "summary": "最近、二次元アイドルのライブ演出がますます進化しています。CG技術の進歩で、よりリアルで魅力的なパフォーマンスが可能になっています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、二次元アイドルのライブといえば、モニターに映し出された映像を見るのが中心でした。しかし、最近のライブでは、最新のCG技術やプロジェクションマッピングが使われ、まるでキャラクターがステージ上に現れたかのような、迫力のある演出が見られるようになりました。",
+      "translationZh": "过去，说到二次元偶像的演唱会，主要是看屏幕上播放的影像。但是，最近的演唱会使用了最新的CG技术和投影映射，可以看到仿佛角色出现在舞台上一样，魄力十足的演出。",
+      "translationEn": "In the past, live performances of 2D idols mainly involved watching videos displayed on monitors. However, recent concerts utilize the latest CG technology and projection mapping, allowing for impressive performances that make characters appear as if they are on stage.",
+      "id": "bd13ecfd-bd34-4859-a363-44fe7eb6e6eb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "特に注目されているのは、キャラクターの表情や動きのリアルさです。以前は、どうしても動きがぎこちなかったり、表情が硬かったりしましたが、技術の進歩によって、まるで人間が演じているかのように自然で滑らかな動きが可能になりました。これにより、ファンはより感情移入しやすくなったのです。",
+      "translationZh": "尤其引人注目的是角色表情和动作的逼真度。以前，动作总是显得生硬，表情也比较僵硬，但随着技术的进步，现在已经可以实现像真人表演一样自然流畅的动作。因此，粉丝们更容易产生共鸣。",
+      "translationEn": "Particularly noteworthy is the realism of characters' expressions and movements. Previously, movements could be stiff and expressions rigid, but technological advancements have enabled natural and smooth movements as if performed by humans. This allows fans to empathize more easily.",
+      "id": "35c25f41-cef4-44a6-b89c-b03d1fb3acc4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "さらに、観客参加型の演出も増えています。ペンライトの色を観客がスマホで操作してキャラクターのイメージカラーに合わせたり、SNSでコメントを送るとそれがステージに映し出されたりするなど、ファンとアイドルが一体となってライブを作り上げていく体験ができるようになっています。そのため、ライブ会場の一体感や感動がさらに高まっていると言えるでしょう。",
+      "translationZh": "此外，观众参与型的演出也越来越多。例如，观众可以通过智能手机操作荧光棒的颜色来匹配角色的代表色，或者发送SNS评论到舞台上显示，这样粉丝和偶像就能一同创造演出现场。因此，可以说演唱会的现场一体感和感动进一步增强了。",
+      "translationEn": "Furthermore, audience participation elements are increasing. For instance, fans can control the color of their light sticks via smartphone to match the character's image color, or comments sent via SNS can be displayed on stage, enabling an experience where fans and idols create the live performance together. Therefore, it can be said that the sense of unity and excitement at live venues is further enhanced.",
+      "id": "745b8fa0-d202-4664-aa20-04d927fa75b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "演出",
+      "reading": "えんしゅつ",
+      "meaningZh": "表演，演出",
+      "meaningEn": "performance, production",
+      "level": "n3",
+      "exampleSentence": "このライブの演出はとても感動的でした。",
+      "id": "f4851070-3da6-45c9-93ef-0dbe9da2945b"
+    },
+    {
+      "word": "迫力",
+      "reading": "はくりょく",
+      "meaningZh": "魄力，气势",
+      "meaningEn": "power, force, impressiveness",
+      "level": "n3",
+      "exampleSentence": "その映画は迫力のある映像で人気を集めました。",
+      "id": "e644b143-8cb6-4934-8226-770d4c36c06a"
+    },
+    {
+      "word": "CG技術",
+      "reading": "シー・ジー・ぎじゅつ",
+      "meaningZh": "电脑图形技术（计算机生成图像技术）",
+      "meaningEn": "CG technology (Computer Graphics technology)",
+      "level": "n3",
+      "exampleSentence": "CG技術の進歩で、ゲームの映像がとてもリアルになった。",
+      "id": "fd23b8cc-1555-4ea2-9c2c-6adbd64c84f2"
+    },
+    {
+      "word": "プロジェクションマッピング",
+      "reading": "プロジェクションマッピング",
+      "meaningZh": "影像投影技术（将影像投射到物体上）",
+      "meaningEn": "projection mapping",
+      "level": "n3",
+      "exampleSentence": "建物の壁を使ったプロジェクションマッピングは、夜の街を彩った。",
+      "id": "e197db41-62ee-448e-967b-705f62f5cda8"
+    },
+    {
+      "word": "ぎこちない",
+      "reading": "ぎこちない",
+      "meaningZh": "笨拙的，不自然的",
+      "meaningEn": "awkward, clumsy, stiff",
+      "level": "n3",
+      "exampleSentence": "初めてのプレゼンで、彼の動きは少しぎこちなかった。",
+      "id": "9a99ed39-780a-49e8-a5f0-e7e06db5e45c"
+    },
+    {
+      "word": "感情移入",
+      "reading": "かんじょう・いにゅう",
+      "meaningZh": "感情代入，共鸣",
+      "meaningEn": "empathy, getting emotionally involved",
+      "level": "n3",
+      "exampleSentence": "物語の主人公に感情移入して、涙が出た。",
+      "id": "c4e37a65-3c94-4dd2-8397-9289a2a937f9"
+    },
+    {
+      "word": "一体感",
+      "reading": "いったいかん",
+      "meaningZh": "一体感，归属感",
+      "meaningEn": "sense of unity, sense of belonging",
+      "level": "n3",
+      "exampleSentence": "応援するチームが勝って、会場全体に一体感が生まれた。",
+      "id": "c6d58596-caec-4d7c-bc4d-86281fb4f853"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の二次元アイドルのライブ演出は、昔と比べてどのように変わりましたか？",
+      "options": [
+        "映像を見るのが中心から、CG技術を使ったリアルな演出になった。",
+        "キャラクターの動きがぎこちなくなり、感情移入しにくくなった。",
+        "観客参加型の演出がなくなった。",
+        "ライブ会場の一体感がなくなった。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文第一段に「昔は、二次元アイドルのライブといえば、モニターに映し出された映像を見るのが中心でした。しかし、最近のライブでは、最新のCG技術やプロジェクションマッピングが使われ、まるでキャラクターがステージ上に現れたかのような、迫力のある演出が見られるようになりました。」とあります。",
+      "id": "7305a2d3-78e4-4159-adee-ea631cfaefa1"
+    },
+    {
+      "question": "観客参加型の演出の例として、本文ではどのようなものが挙げられていますか？",
+      "options": [
+        "キャラクターのコスプレコンテスト。",
+        "観客がスマホでペンライトの色を操作すること。",
+        "ライブの感想を会場で直接話すこと。",
+        "キャラクターからの手紙を読み上げること。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第三段に「ペンライトの色を観客がスマホで操作してキャラクターのイメージカラーに合わせたり、SNSでコメントを送るとそれがステージに映し出されたりするなど、ファンとアイドルが一体となってライブを作り上げていく体験ができるようになっています。」とあります。",
+      "id": "256278a8-cabf-4899-8fbe-1a398d0d3a8d"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-11-01-cde4d29411",
+  "publishedAt": "2026-11-01T06:00:00+09:00"
+}

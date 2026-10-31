@@ -1,0 +1,131 @@
+{
+  "title": "新しいお正月の買い方",
+  "summary": "日本では、お正月は大切な行事です。最近、お正月準備の買い方が少し変わってきました。新しいトレンドを見てみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "もうすぐお正月です。日本では、お正月のために色々な準備をします。例えば、特別な料理を作ったり、家をきれいにしたりします。昔は、お店でみんなが同じようなものを買いました。",
+      "translationZh": "很快就要过新年了。在日本，为了新年会做各种各样的准备。例如，做特别的料理，打扫家里。以前，大家在店里买差不多的东西。",
+      "translationEn": "New Year is coming soon. In Japan, people make various preparations for New Year. For example, they cook special dishes and clean their houses. In the past, everyone bought similar things at stores.",
+      "id": "7012f065-732c-4e08-bd9a-9482fa0fead4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "でも、最近は少し違います。若い人たちは、インターネットで買い物をすることが増えました。家でゆっくり、好きなものを選べます。そして、SNSで「こんなものを買いました」と紹介する人もいます。",
+      "translationZh": "但是，最近有点不一样。年轻人，在网上购物的人增加了。可以在家慢慢地，选择喜欢的东西。还有，在SNS上介绍“我买了这样的东西”的人也有。",
+      "translationEn": "However, things are a little different recently. Young people are increasingly shopping online. They can choose what they like at home at their own pace. Also, some people introduce what they bought on social media.",
+      "id": "71d247d7-252a-4218-81fe-98f8094dfa07",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、お正月の飾りも変わってきています。昔ながらの飾りも人気ですが、もっとシンプルで、おしゃれなデザインの飾りも人気です。小さなアパートにも置けるような、かわいい飾りもあります。",
+      "translationZh": "另外，新年的装饰品也在变化。虽然传统的装饰品也很受欢迎，但是更简单、更时髦设计的装饰品也很受欢迎。也有适合放在小公寓里的可爱的装饰品。",
+      "translationEn": "Also, New Year's decorations are changing. Traditional decorations are popular, but simpler and stylishly designed decorations are also popular. There are also cute decorations that can fit in small apartments.",
+      "id": "e36ebf2c-aa07-48a5-a1dc-f601cc3ebc4b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "お正月は、家族や友人と過ごす大切な時間です。新しい買い物の仕方は、もっと楽しくお正月を迎えるための方法かもしれませんね。",
+      "translationZh": "新年是和家人、朋友一起度过的宝贵时光。新的购物方式，也许是更愉快地迎接新年的方法吧。",
+      "translationEn": "New Year is precious time spent with family and friends. New ways of shopping might be a way to welcome the New Year more joyfully.",
+      "id": "78830ba6-1e56-42ec-a128-31434d34d4b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaningZh": "准备",
+      "meaningEn": "preparation",
+      "level": "n5n4",
+      "exampleSentence": "お正月の準備はもうしましたか。",
+      "id": "68bc7ba3-0bae-4439-87ee-40126de80ae4"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaningZh": "最近",
+      "meaningEn": "recently",
+      "level": "n5n4",
+      "exampleSentence": "最近、忙しいです。",
+      "id": "f2af78a2-7f46-4117-a02e-cbccc717fbc9"
+    },
+    {
+      "word": "増えました",
+      "reading": "ふえました",
+      "meaningZh": "增加了",
+      "meaningEn": "increased",
+      "level": "n5n4",
+      "exampleSentence": "インターネットで買う人が増えました。",
+      "id": "c9a39d2d-81a9-4a7a-87cd-6eae2b8f64c2"
+    },
+    {
+      "word": "選べます",
+      "reading": "えらべます",
+      "meaningZh": "能选择",
+      "meaningEn": "can choose",
+      "level": "n5n4",
+      "exampleSentence": "好きな色を選べます。",
+      "id": "c6293803-4a39-4e20-9268-ffe7b6ec78bd"
+    },
+    {
+      "word": "紹介",
+      "reading": "しょうかい",
+      "meaningZh": "介绍",
+      "meaningEn": "introduction",
+      "level": "n5n4",
+      "exampleSentence": "友達に新しい店を紹介しました。",
+      "id": "993b7cb6-a757-42c1-9aad-9147c7cd8b84"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaningZh": "装饰品",
+      "meaningEn": "decoration",
+      "level": "n5n4",
+      "exampleSentence": "部屋にきれいな飾りをつけました。",
+      "id": "40f437ef-8275-4039-995a-343bb37cc432"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このケーキはとても人気があります。",
+      "id": "e8ba4e99-1bb6-4372-9d10-8fcb67e8f6cc"
+    },
+    {
+      "word": "おしゃれ",
+      "reading": "おしゃれ",
+      "meaningZh": "时髦，漂亮",
+      "meaningEn": "stylish, fashionable",
+      "level": "n5n4",
+      "exampleSentence": "彼女はおしゃれな服を着ています。",
+      "id": "78556676-9f1a-4b9c-8622-08a90613af61"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近、若い人たちはお正月の準備をどこで買うことが多いですか。",
+      "options": [
+        "お店で",
+        "インターネットで",
+        "家族と相談して",
+        "友達と"
+      ],
+      "correctIndex": 1,
+      "explanation": "最近は、若い人たちはインターネットで買い物をすることが増えました。",
+      "id": "95f43f66-3a99-4943-bf38-71b27ca39c2c"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-01-2e6b21cf22",
+  "publishedAt": "2026-11-01T06:00:00+09:00"
+}

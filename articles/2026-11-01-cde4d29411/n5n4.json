@@ -1,0 +1,122 @@
+{
+  "title": "二次元アイドルの進化",
+  "summary": "昔と今の二次元アイドルのライブは変わりました。技術が進んで、もっと楽しくなりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔、二次元アイドルのライブは絵だけでした。でも、今は違います。３Ｄ技術を使います。",
+      "translationZh": "以前，二次元偶像的演唱会只有图画。但是，现在不同了。使用了3D技术。",
+      "translationEn": "In the past, 2D idol live shows were just pictures. But now, it's different. They use 3D technology.",
+      "id": "006c7d00-1449-49cd-be8c-3307ab829d19",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ステージにキャラクターが大きく現れます。歌ったり、踊ったりします。とてもリアルに見えます。",
+      "translationZh": "角色会大大地出现在舞台上。唱歌、跳舞。看起来非常真实。",
+      "translationEn": "Characters appear largely on the stage. They sing and dance. It looks very real.",
+      "id": "6876498c-222b-49fe-87da-114fac44e9b9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ライトや音もすごいです。観客は一緒に盛り上がることができます。新しい体験ができます。",
+      "translationZh": "灯光和声音也很棒。观众可以一起嗨起来。可以获得新的体验。",
+      "translationEn": "The lights and sound are also amazing. The audience can get excited together. They can have a new experience.",
+      "id": "9bbb82af-43a6-4e6a-8b15-16f8c3433d4f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも技術は進むでしょう。もっと面白いライブが見られるかもしれません。",
+      "translationZh": "今后技术也会继续进步吧。也许可以看到更有趣的演唱会。",
+      "translationEn": "Technology will likely continue to advance in the future. We might be able to see more interesting live shows.",
+      "id": "f3216c28-cdb2-449d-b4a7-58076dfe44c0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaningZh": "以前，过去",
+      "meaningEn": "past, former times",
+      "level": "n5n4",
+      "exampleSentence": "昔、この町は小さかったです。",
+      "id": "539a2ad8-ed3a-443a-b8be-0d9e58b326c0"
+    },
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology, technique",
+      "level": "n5n4",
+      "exampleSentence": "新しい技術を使います。",
+      "id": "f11ff8f8-5726-4bc0-a494-bbdd6c103ac6"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaningZh": "真实，真的",
+      "meaningEn": "true, real",
+      "level": "n5n4",
+      "exampleSentence": "それは本当の話ですか。",
+      "id": "2bbe412b-307c-4a82-bf0e-d1c6f1b3553c"
+    },
+    {
+      "word": "キャラクター",
+      "reading": "きゃらくたー",
+      "meaningZh": "角色，卡通人物",
+      "meaningEn": "character",
+      "level": "n5n4",
+      "exampleSentence": "このアニメのキャラクターが好きです。",
+      "id": "b36e98e1-3d39-4881-9340-0df2016c9d37"
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaningZh": "观众",
+      "meaningEn": "audience, spectator",
+      "level": "n3",
+      "exampleSentence": "観客はみんな喜んでいました。",
+      "id": "19e96fc9-5257-472a-89fb-862a7b31458a"
+    },
+    {
+      "word": "体験",
+      "reading": "たいけん",
+      "meaningZh": "体验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "これは初めての体験です。",
+      "id": "ca3af820-fb88-4d09-86aa-7ff499b95cb7"
+    },
+    {
+      "word": "面白い",
+      "reading": "おもしろい",
+      "meaningZh": "有趣的",
+      "meaningEn": "interesting, amusing",
+      "level": "n5n4",
+      "exampleSentence": "この本はとても面白いです。",
+      "id": "fba7c610-7b55-4714-8abb-7432f45fbb73"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "今の二次元アイドルのライブでは、どんな技術が使われていますか。",
+      "options": [
+        "昔の絵だけ",
+        "３Ｄ技術",
+        "古い音だけ",
+        "特別なカメラ"
+      ],
+      "correctIndex": 1,
+      "explanation": "昔、二次元アイドルのライブは絵だけでした。でも、今は違います。３Ｄ技術を使います。",
+      "id": "b3f571f7-34ae-493d-9cef-de2bb5197024"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-01-cde4d29411",
+  "publishedAt": "2026-11-01T06:00:00+09:00"
+}
