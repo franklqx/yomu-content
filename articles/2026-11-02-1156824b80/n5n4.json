@@ -1,0 +1,131 @@
+{
+  "title": "純喫茶が若者に人気",
+  "summary": "最近、若い人たちの間で「純喫茶」が人気です。昔ながらの喫茶店で、特別な時間を過ごしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、「純喫茶」が若い人たちの間でとても人気があります。純喫茶は、昔からある喫茶店のことです。レトロな雰囲気で、落ち着いた時間を過ごすことができます。",
+      "translationZh": "最近，“纯喫茶”（复古咖啡馆）在年轻人中非常受欢迎。纯喫茶是指从前就有的咖啡馆。在复古的氛围中，可以度过一段平静的时光。",
+      "translationEn": "Recently, 'jun-kissa' (traditional coffee shops) have become very popular among young people. Jun-kissa are old coffee shops. You can spend a relaxing time in their retro atmosphere.",
+      "id": "28d343f0-b6c2-4e0e-8890-aef5d2dd54d7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "純喫茶には、おいしいコーヒーや、昔ながらのメニューがあります。例えば、クリームソーダやナポリタンは、見た目も楽しく、味も特別です。友達と話したり、一人で本を読んだりするのに良い場所です。",
+      "translationZh": "纯喫茶里有美味的咖啡和传统的菜单。例如，漂浮汽水和那不勒斯面，不仅看起来有趣，味道也很特别。这里是和朋友聊天或一个人读书的好地方。",
+      "translationEn": "Jun-kissa have delicious coffee and traditional menus. For example, cream soda and Neapolitan spaghetti are fun to look at and have a special taste. It's a good place to talk with friends or read a book alone.",
+      "id": "c62e3c7a-bad6-4347-8200-894137502b46",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "SNSで純喫茶の写真をたくさん見かけます。きれいな写真や、ユニークな雰囲気が若者に人気です。昔の文化を新しく楽しむことができるのが、このブームの原因かもしれません。",
+      "translationZh": "在社交媒体上，可以看到很多纯喫茶的照片。漂亮的照片和独特的氛围受到年轻人的喜爱。能够以新的方式享受过去的文化，也许是这个热潮的原因。",
+      "translationEn": "You can see many photos of jun-kissa on social media. The beautiful pictures and unique atmosphere are popular with young people. The reason for this boom might be that people can enjoy old culture in a new way.",
+      "id": "0c6a5225-404d-45b4-a742-cfac6398d0c8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "皆さんも、近くの純喫茶に行ってみませんか。きっと、新しい発見があると思います。静かな時間と、おいしい食べ物を楽しんでください。",
+      "translationZh": "大家不也去附近的纯喫茶看看吗？相信你一定会有新的发现。请享受宁静的时光和美味的食物。",
+      "translationEn": "Why don't you all try visiting a nearby jun-kissa? I'm sure you'll make new discoveries. Please enjoy the quiet time and delicious food.",
+      "id": "9d81fdd7-e733-463e-b5d9-c0923765c82a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "純喫茶",
+      "reading": "じゅんきっさ",
+      "meaningZh": "纯喫茶（指传统、怀旧风格的咖啡馆）",
+      "meaningEn": "Traditional coffee shop (jun-kissa)",
+      "level": "n5n4",
+      "exampleSentence": "この純喫茶は雰囲気がいいです。",
+      "id": "b1918dbf-afab-4d86-afcc-0881db215e5b"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "Young people",
+      "level": "n5n4",
+      "exampleSentence": "若者が純喫茶に集まっています。",
+      "id": "1f8d3936-934c-41db-9b7b-835c4e155d33"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "Popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店はとても人気があります。",
+      "id": "5b7ca058-ba70-43fe-9510-5469a4fd9cf2"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛，氛围",
+      "meaningEn": "Atmosphere",
+      "level": "n5n4",
+      "exampleSentence": "お店の雰囲気が好きです。",
+      "id": "203f1c8b-af9d-4337-9aa2-0ffe3fd529d5"
+    },
+    {
+      "word": "昔ながら",
+      "reading": "むかしながら",
+      "meaningZh": "古老的，传统的",
+      "meaningEn": "Traditional, old-fashioned",
+      "level": "n5n4",
+      "exampleSentence": "昔ながらのやり方で料理を作ります。",
+      "id": "b6aa3385-84c8-4788-af95-598ad45e762a"
+    },
+    {
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaningZh": "菜单",
+      "meaningEn": "Menu",
+      "level": "n5n4",
+      "exampleSentence": "メニューを見て、注文を決めました。",
+      "id": "8167601a-5d4c-4236-bcd7-15e4433f9e14"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaningZh": "特别的",
+      "meaningEn": "Special",
+      "level": "n5n4",
+      "exampleSentence": "これは特別な日です。",
+      "id": "2597a284-79fe-4d63-80ca-93d0cb8d8315"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaningZh": "发现",
+      "meaningEn": "Discovery",
+      "level": "n3",
+      "exampleSentence": "新しい発見があって嬉しいです。",
+      "id": "10bb90ba-f8ec-4192-a208-55f6c2f7233c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ最近、純喫茶が若者に人気がありますか。",
+      "options": [
+        "おいしいコーヒーがたくさんあるからです。",
+        "昔の文化を新しく楽しむことができるからです。",
+        "SNSに写真があまりないからです。",
+        "値段が安いからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文には「昔の文化を新しく楽しむことができるのが、このブームの原因かもしれません。」と書いてあります。",
+      "id": "536cdff5-ef04-4b27-ac66-390214f41236"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-02-1156824b80",
+  "publishedAt": "2026-11-02T06:00:00+09:00"
+}

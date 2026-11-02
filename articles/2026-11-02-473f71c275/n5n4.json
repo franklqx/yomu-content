@@ -1,0 +1,131 @@
+{
+  "title": "ローカル線で一日旅",
+  "summary": "ローカル線一日乗り放題切符は、安くて楽しい旅行ができます。ぜひ使ってみてください。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "みなさん、こんにちは。今日はローカル線一日乗り放題切符について話します。この切符は、一日中、好きなローカル線に乗ることができます。とても便利で、値段も安いです。",
+      "translationZh": "大家好。今天来聊聊当地线一日任乘车票。这张车票可以让您一整天随意乘坐喜欢的当地线。它非常方便，而且价格也很便宜。",
+      "translationEn": "Hello everyone. Today, I will talk about the local line one-day unlimited ride ticket. With this ticket, you can ride any local line you like all day long. It is very convenient and the price is cheap.",
+      "id": "6df76053-e480-45a9-b755-70d46ea99272",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この切符を使うと、色々な町を訪ねられます。例えば、小さい駅で降りて、町を散歩するのもいいですね。おいしいものを食べたり、きれいな景色を見たりできます。",
+      "translationZh": "使用这张车票，您可以拜访各种各样的城镇。例如，在小站下车，在镇上散步也不错。您可以品尝美味的食物，欣赏美丽的风景。",
+      "translationEn": "With this ticket, you can visit various towns. For example, it's nice to get off at a small station and take a walk around town. You can eat delicious food and see beautiful scenery.",
+      "id": "ce97bf5a-b4d2-41a7-bae2-24ff6f8a5e33",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "旅行の計画は簡単です。まず、行きたい場所を決めます。そして、どのローカル線に乗るか調べます。切符は駅で買うことができます。当日でも買えることが多いです。",
+      "translationZh": "旅行计划很简单。首先，决定想去的地方。然后，调查要乘坐哪条当地线。车票可以在车站购买。很多情况下当天也可以购买。",
+      "translationEn": "Planning a trip is easy. First, decide where you want to go. Then, check which local line to take. You can buy the ticket at the station. In many cases, you can buy it on the same day.",
+      "id": "eef10f9c-34da-4dda-a89d-e72fc55fd717",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ローカル線の旅は、時間がゆっくり流れるように感じます。窓の外の景色を楽しみながら、リラックスした時間を過ごせます。新しい発見があるかもしれません。",
+      "translationZh": "乘坐当地线的旅行，会感觉时间仿佛慢了下来。一边欣赏窗外的景色，一边度过轻松的时光。可能会有新的发现。",
+      "translationEn": "A trip on a local line makes time feel like it flows slowly. You can spend relaxing time while enjoying the scenery outside the window. You might make new discoveries.",
+      "id": "ff57b1f4-4e98-4cfa-a0a2-006417c7157a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ローカル線",
+      "reading": "ろーかるせん",
+      "meaningZh": "地方线，支线",
+      "meaningEn": "local line",
+      "level": "n5n4",
+      "exampleSentence": "このローカル線は景色がきれいだ。",
+      "id": "6a60c6da-bf49-4988-bae2-9b9fae5d3ac4"
+    },
+    {
+      "word": "一日乗り放題",
+      "reading": "いちにちのりほうだい",
+      "meaningZh": "一日任乘",
+      "meaningEn": "unlimited ride for one day",
+      "level": "n5n4",
+      "exampleSentence": "一日乗り放題切符は便利だ。",
+      "id": "8c515dbc-e71d-4687-a886-e2c0e6e70511"
+    },
+    {
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaningZh": "票，车票",
+      "meaningEn": "ticket",
+      "level": "n5n4",
+      "exampleSentence": "切符を買いました。",
+      "id": "d80fabb9-f26f-431c-8c21-0ab4efcc3de9"
+    },
+    {
+      "word": "訪ねる",
+      "reading": "たずねる",
+      "meaningZh": "拜访，访问",
+      "meaningEn": "to visit",
+      "level": "n5n4",
+      "exampleSentence": "友達を訪ねます。",
+      "id": "276e6be9-254b-45e0-8e5b-655cf91a0468"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaningZh": "散步",
+      "meaningEn": "a walk, stroll",
+      "level": "n5n4",
+      "exampleSentence": "公園を散歩します。",
+      "id": "b6ec829c-c0da-4dd8-acf7-6e92a5171051"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "旅行の計画を立てます。",
+      "id": "d519ae62-0010-4608-8cc8-d6853e77a24a"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaningZh": "景色",
+      "meaningEn": "scenery",
+      "level": "n5n4",
+      "exampleSentence": "窓からきれいな景色が見える。",
+      "id": "d397ca43-7b8c-4d71-921d-e6a137d3844b"
+    },
+    {
+      "word": "リラックス",
+      "reading": "りらっくす",
+      "meaningZh": "放松",
+      "meaningEn": "relax",
+      "level": "n5n4",
+      "exampleSentence": "温泉でリラックスしました。",
+      "id": "9dd26f5f-323c-41ef-be4b-e7a16cd73cc0"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ローカル線一日乗り放題切符のいいところは、何ですか？",
+      "options": [
+        "値段が高いところ",
+        "色々な町を訪ねられるところ",
+        "電車が速いところ",
+        "切符が買えないところ"
+      ],
+      "correctIndex": 1,
+      "explanation": "「この切符を使うと、色々な町を訪ねられます。」と書いてあります。",
+      "id": "0892f625-7f25-4d4d-8292-f2a5749ec76b"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-02-473f71c275",
+  "publishedAt": "2026-11-02T06:00:00+09:00"
+}

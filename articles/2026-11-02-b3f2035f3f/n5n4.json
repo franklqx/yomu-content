@@ -1,0 +1,114 @@
+{
+  "title": "街にロボットが増えています",
+  "summary": "最近、街でロボットの案内員を見かけることが多くなりました。彼らは人々の手助けをしています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、日本の街でロボットの案内員が増えています。駅やデパートなどで、人々に道を聞かれたり、情報を教えたりしています。ロボットは、日本語だけでなく、英語や中国語なども話すことができます。",
+      "translationZh": "最近，日本的街道上机器人导游正在增加。在车站或百货公司等地方，它们会接受人们的问路，提供信息。机器人不仅会说日语，还会说英语和中文等。",
+      "translationEn": "Recently, robot guides are increasing in Japanese cities. At stations and department stores, they are asked for directions and provide information to people. Robots can speak not only Japanese but also English and Chinese.",
+      "id": "025a1d78-1d3d-4de3-9c50-b39efd7b5239",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ロボット案内員は、とても便利です。疲れている人や、荷物が多い人にも優しく対応します。また、24時間働くことができるので、いつでも人々を助けることができます。",
+      "translationZh": "机器人导游非常方便。它们会友善地对待疲惫的人或携带很多行李的人。而且，它们可以24小时工作，随时帮助人们。",
+      "translationEn": "Robot guides are very convenient. They respond kindly to people who are tired or have a lot of luggage. Also, they can work 24 hours a day, so they can help people anytime.",
+      "id": "de6d1835-c9fd-43c1-8d49-c85a857de56e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、ロボットがすべての人を助けることはできません。困っている人がいても、ロボットには分からないこともあります。だから、人間の係員も大切です。ロボットと人間が協力して、街をもっと良くしていくでしょう。",
+      "translationZh": "但是，机器人并不能帮助所有人。即使有人遇到困难，机器人也可能不知道如何处理。所以，人类工作人员也很重要。机器人和人类会携手合作，让城市变得更好。",
+      "translationEn": "However, robots cannot help everyone. Even if someone is in trouble, there are things robots don't understand. Therefore, human staff are also important. Robots and humans will cooperate to make the city better.",
+      "id": "21167af2-2dd1-428f-ad3c-d0b6bc321cbf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "导游，引导员",
+      "meaningEn": "guide, attendant",
+      "level": "n5n4",
+      "exampleSentence": "駅の案内員に切符の場所を聞きました。",
+      "id": "64cf9e1f-c05e-4925-8760-a43d85124bfd"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaningZh": "增加",
+      "meaningEn": "to increase",
+      "level": "n5n4",
+      "exampleSentence": "この店のお客さんが増えました。",
+      "id": "46f1431c-baf8-4d19-a9d9-2d4d9177a47b"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "このアプリはとても便利です。",
+      "id": "82c7b24a-f856-4bfd-8659-9aa6593bd18b"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaningZh": "应对，对应",
+      "meaningEn": "response, dealing with",
+      "level": "n5n4",
+      "exampleSentence": "お客様の質問に丁寧に対応しました。",
+      "id": "8e2e8966-2814-4f17-9e23-7da013a5603d"
+    },
+    {
+      "word": "働く",
+      "reading": "はたらく",
+      "meaningZh": "工作",
+      "meaningEn": "to work",
+      "level": "n5n4",
+      "exampleSentence": "彼は毎日遅くまで働いています。",
+      "id": "01262c3d-2e55-40ce-90fa-e02900e10261"
+    },
+    {
+      "word": "困る",
+      "reading": "こまる",
+      "meaningZh": "为难，困扰",
+      "meaningEn": "to be troubled, to be in difficulty",
+      "level": "n5n4",
+      "exampleSentence": "道が分からなくて困っています。",
+      "id": "8bb77b12-1419-4658-8eb4-b35826799b05"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningZh": "合作",
+      "meaningEn": "cooperation",
+      "level": "n5n4",
+      "exampleSentence": "みんなで協力して、この問題を解決しましょう。",
+      "id": "07ff5646-91a3-4c8b-a6f3-175727987169"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ロボット案内員は、どんなことができますか。",
+      "options": [
+        "人々の質問に答えたり、情報を教えたりすること。",
+        "すべての人を助けること。",
+        "人間のように感情を持つこと。",
+        "疲れた人を運ぶこと。"
+      ],
+      "correctIndex": 0,
+      "explanation": "本文には「駅やデパートなどで、人々に道を聞かれたり、情報を教えたりしています。」と書かれています。",
+      "id": "1cd0523f-d305-4664-9a33-7c81d8adc6ee"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-02-b3f2035f3f",
+  "publishedAt": "2026-11-02T06:00:00+09:00"
+}

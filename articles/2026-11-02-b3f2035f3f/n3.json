@@ -1,0 +1,117 @@
+{
+  "title": "街でよく見かける？ロボット案内員が増えている理由",
+  "summary": "最近、都市部でロボット案内員を見かける機会が増えました。その背景には、人手不足やサービスの質向上の期待があります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、デパートや駅などで、ロボットが案内をしているのを目にすることが多くなりました。これらのロボット案内員は、道案内だけでなく、商品の説明をしたり、簡単な質問に答えたりすることができます。多くの人が、その新しさや便利さに興味を持っています。",
+      "translationZh": "最近，在百货公司或车站等地，看到机器人在做引导的场合越来越多了。这些机器人案内员不仅能指路，还能说明商品、回答简单的问题。许多人对它们的新颖和便利性感到兴趣。",
+      "translationEn": "Recently, we've been seeing robots acting as guides more often in places like department stores and stations. These robot guides can not only give directions but also explain products and answer simple questions. Many people are interested in their novelty and convenience.",
+      "id": "85181172-46b2-4da5-b248-3a71cc428eaf",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "都市部でロボット案内員が増えているのには、いくつかの理由があります。まず、観光客が増えているのに、案内係の人が足りないという問題があります。また、ロボットは疲れを知らないため、24時間いつでも同じ品質のサービスを提供できるという利点もあります。さらに、最新技術を使っているというイメージが、お店や施設の魅力を高めることも期待されています。",
+      "translationZh": "都市部机器人案内员增加有几个原因。首先，尽管游客在增加，但缺少引导人员的问题依然存在。另外，机器人不知疲倦，因此有随时随地提供同等质量服务的优点。此外，使用最新技术的形象，也有望提升商店或设施的吸引力。",
+      "translationEn": "There are several reasons why robot guides are increasing in urban areas. Firstly, there's a shortage of human guides despite the growing number of tourists. Also, robots don't get tired, which means they can provide the same quality of service 24/7. Furthermore, the image of using the latest technology is expected to enhance the appeal of shops and facilities.",
+      "id": "5f76759b-dc16-4333-9b91-393f5fdbf8fb",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、ロボット案内員にも課題はあります。例えば、複雑な質問に答えられなかったり、予期せぬ状況に対応できなかったりすることです。また、人間のような温かい対応ができないため、一部の人からは「冷たい」と感じられることもあります。それでも、技術は日々進歩しているので、将来もっと賢く、親しみやすいロボットが登場することが期待されています。",
+      "translationZh": "当然，机器人案内员也存在课题。例如，它们可能无法回答复杂的问题，或者无法应对意外情况。而且，由于无法提供像人类那样温暖的对应，有些人会觉得它们“冷淡”。即便如此，技术日新月异，未来有望出现更聪明、更友好的机器人。",
+      "translationEn": "Of course, robot guides also have challenges. For example, they might not be able to answer complex questions or handle unexpected situations. Also, because they cannot provide the warm interaction that humans do, some people may find them 'cold.' Nevertheless, technology is advancing daily, and we expect smarter and more approachable robots to appear in the future.",
+      "id": "9314ff78-88cb-4b81-beed-207e177a75b0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "案内員",
+      "reading": "あんないいん",
+      "meaningZh": "引导员，接待员",
+      "meaningEn": "guide, attendant",
+      "level": "n3",
+      "exampleSentence": "駅の案内員に道を尋ねました。",
+      "id": "522b0711-a899-4aaf-b061-0e65ef6b3c6a"
+    },
+    {
+      "word": "人手不足",
+      "reading": "ひとでぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "この店は人手不足で困っているそうだ。",
+      "id": "3d8c30dd-ddf9-4bf5-8a2f-d4462ea2ff38"
+    },
+    {
+      "word": "品質",
+      "reading": "ひんしつ",
+      "meaningZh": "品质，质量",
+      "meaningEn": "quality",
+      "level": "n3",
+      "exampleSentence": "この製品は品質が高い。",
+      "id": "dd080aca-6467-470a-98e6-b9d2f6f69c8d"
+    },
+    {
+      "word": "魅了",
+      "reading": "みりょう",
+      "meaningZh": "魅力",
+      "meaningEn": "charm, appeal",
+      "level": "n3",
+      "exampleSentence": "その景色は見る人を魅了する。",
+      "id": "80c0ec6a-fda7-4033-8ead-cbec4074b128"
+    },
+    {
+      "word": "予期せぬ",
+      "reading": "よきせぬ",
+      "meaningZh": "意想不到的，意外的",
+      "meaningEn": "unexpected",
+      "level": "n2n1",
+      "exampleSentence": "予期せぬ出来事が起こった。",
+      "id": "a6280ca3-87a5-412c-8c59-d489ccb5212a"
+    },
+    {
+      "word": "日々",
+      "reading": "ひび",
+      "meaningZh": "每天，天天",
+      "meaningEn": "daily, day by day",
+      "level": "n3",
+      "exampleSentence": "日々努力することが大切だ。",
+      "id": "d3ba2a27-0e46-4927-9ae3-1011668180e2"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "都市部でロボット案内員が増えている理由として、本文で述べられていないものはどれですか？",
+      "options": [
+        "観光客が増えているのに案内係が足りないから",
+        "ロボットは疲れず、いつでも同じサービスを提供できるから",
+        "ロボットは人間よりも早く歩けるから",
+        "最新技術を使っているイメージが施設の魅力を高めるから"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文には「ロボットは疲れず、いつでも同じサービスを提供できる」や「最新技術を使っているというイメージが、お店や施設の魅力を高める」といった理由が書かれていますが、「ロボットは人間よりも早く歩けるから」という理由は述べられていません。",
+      "id": "517e899a-876d-474b-888f-fd9b11604cf3"
+    },
+    {
+      "question": "ロボット案内員の課題として、本文で挙げられていることは何ですか？",
+      "options": [
+        "値段が高すぎること",
+        "説明が早すぎること",
+        "複雑な質問に答えられないこと",
+        "人間のように感情がないこと"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文では、「複雑な質問に答えられなかったり、予期せぬ状況に対応できなかったりすること」がロボット案内員の課題として挙げられています。また、「人間のような温かい対応ができない」ことも課題として触れられています。",
+      "id": "4ad63f31-1732-40a7-be14-c17079cc644e"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-11-02-b3f2035f3f",
+  "publishedAt": "2026-11-02T06:00:00+09:00"
+}
