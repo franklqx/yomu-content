@@ -1,0 +1,131 @@
+{
+  "title": "敬老の日に手作りプレゼント",
+  "summary": "敬老の日には、おじいさんやおばあさんに手作りのプレゼントを送りませんか。気持ちが伝わる素敵なギフトを紹介します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本では、9月の第3月曜日が敬老の日です。この日は、お年寄りに感謝の気持ちを伝えます。プレゼントをあげる人も多いです。お店で買うプレゼントもいいですが、手作りのプレゼントはもっと嬉しいです。",
+      "translationZh": "在日本，九月的第三个星期一就是敬老日。这一天，人们会向长辈表达感谢之情。很多人会送礼物。虽然买的礼物也很好，但亲手制作的礼物会更让人开心。",
+      "translationEn": "In Japan, the third Monday of September is Respect for the Aged Day. On this day, people express their gratitude to the elderly. Many people give presents. Gifts bought at stores are nice, but handmade gifts are even happier.",
+      "id": "a412594b-f611-464f-ae13-e5059b166207",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "手作りのプレゼントは、心を込めて作ります。例えば、写真立てはどうですか。拾ったきれいな貝がらや、色紙などで飾ることができます。写真立てに家族の写真を入れると、とても喜ばれるでしょう。",
+      "translationZh": "亲手制作的礼物，是带着心意做的。例如，相框怎么样？可以用捡来的漂亮贝壳或彩纸来装饰。在相框里放上家人的照片，一定会非常高兴。",
+      "translationEn": "Handmade gifts are made with heart. For example, how about a photo frame? You can decorate it with pretty shells you found or colored paper. Putting a family photo in the frame will surely be appreciated.",
+      "id": "4e7cc825-b6a4-4a1b-bc88-7cc4ddc6f9e1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "手編みのマフラーや帽子も人気があります。毛糸の色を選んで、編み始めます。少し時間がかかりますが、完成した時の達成感は大きいです。冬に使うことができますから、実用的です。",
+      "translationZh": "手工编织的围巾或帽子也很受欢迎。选择毛线的颜色，然后开始编织。虽然会花一些时间，但完成时的成就感很大。因为可以在冬天使用，所以很实用。",
+      "translationEn": "Hand-knitted scarves and hats are also popular. Choose the yarn color and start knitting. It takes a little time, but the sense of accomplishment when finished is great. They can be used in winter, so they are practical.",
+      "id": "58b20734-143f-44d6-a942-997f8047ddb1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "手作りのプレゼントは、値段ではありません。大切なのは、相手を思う気持ちです。今年の敬老の日は、ぜひ手作りのギフトに挑戦してみてください。",
+      "translationZh": "亲手制作的礼物，不在于价格。重要的是想着对方的心意。今年的敬老日，请一定要尝试制作亲手礼物。",
+      "translationEn": "Handmade gifts are not about price. What's important is the feeling of thinking about the other person. This Respect for the Aged Day, please try making a handmade gift.",
+      "id": "8cf187ad-c58d-412f-8ec4-9238e8ca30a2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "敬老の日",
+      "reading": "けいろうのひ",
+      "meaningZh": "敬老日",
+      "meaningEn": "Respect for the Aged Day",
+      "level": "n5n4",
+      "exampleSentence": "今年の敬老の日は、おばあさんに手紙を書きました。",
+      "id": "8f9bd8f8-950c-4003-b2aa-7bf91d758b21"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaningZh": "感谢",
+      "meaningEn": "gratitude",
+      "level": "n5n4",
+      "exampleSentence": "いつもありがとう。心から感謝しています。",
+      "id": "1eee11d3-44a6-4180-b0a2-31900e1d4409"
+    },
+    {
+      "word": "手作り",
+      "reading": "てづくり",
+      "meaningZh": "手做的，手工制作的",
+      "meaningEn": "handmade",
+      "level": "n5n4",
+      "exampleSentence": "このケーキは母のてづくりです。",
+      "id": "26e72141-4329-456c-bbc7-76d5b61ed73b"
+    },
+    {
+      "word": "写真立て",
+      "reading": "しゃしんたて",
+      "meaningZh": "相框",
+      "meaningEn": "photo frame",
+      "level": "n5n4",
+      "exampleSentence": "新しいしゃしんたてを買いました。",
+      "id": "c4e36643-b659-4a3f-9126-babe2147a2f9"
+    },
+    {
+      "word": "貝がら",
+      "reading": "かいがら",
+      "meaningZh": "贝壳",
+      "meaningEn": "seashell",
+      "level": "n5n4",
+      "exampleSentence": "海でたくさんの貝がらを拾いました。",
+      "id": "7e1b8f8d-f1c8-46a2-8289-b2d8e7b20031"
+    },
+    {
+      "word": "色紙",
+      "reading": "いろがみ",
+      "meaningZh": "彩色纸",
+      "meaningEn": "colored paper",
+      "level": "n5n4",
+      "exampleSentence": "いろがみで飾りを作りました。",
+      "id": "401050c9-c31e-4557-97b5-14b580959b24"
+    },
+    {
+      "word": "編む",
+      "reading": "あむ",
+      "meaningZh": "编织",
+      "meaningEn": "to knit, to weave",
+      "level": "n3",
+      "exampleSentence": "セーターを編んでいます。",
+      "id": "f0385f6e-d876-42b6-9c36-4aa485c1f521"
+    },
+    {
+      "word": "達成感",
+      "reading": "たっせいかん",
+      "meaningZh": "成就感",
+      "meaningEn": "sense of accomplishment",
+      "level": "n3",
+      "exampleSentence": "難しい仕事を終えて、達成感がありました。",
+      "id": "45b53a10-eb28-491f-a08c-b0dfc359c539"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "敬老の日に、手作りのプレゼントをあげるのはなぜですか。",
+      "options": [
+        "お店で買うより安いからです。",
+        "手作りの方が嬉しいからです。",
+        "作るのが簡単だからです。",
+        "時間があるからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「お店で買うプレゼントもいいですが、手作りのプレゼントはもっと嬉しいです。」",
+      "id": "1dc45507-8d4e-415e-b4e7-e2fa5b9760b0"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-03-d9f7a678ca",
+  "publishedAt": "2026-11-03T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "公園で広がるスケボー文化",
+  "summary": "最近、都市の公園でスケートボードをする人が増えています。若い人を中心に、新しい文化が生まれています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、都市の公園でスケートボードをする人が多くなりました。特に若い人たちが集まって、楽しそうに滑っています。公園は、みんながリラックスできる場所です。スケートボードは、新しい遊び方として人気が出てきました。",
+      "translationZh": "最近，在城市公园玩滑板的人变多了。特别是年轻人聚集在一起，看起来很开心地滑行。公园是大家都能放松的地方。滑板作为一种新的玩法，人气逐渐高涨。",
+      "translationEn": "Recently, more people are skateboarding in city parks. Especially young people gather and seem to be having fun while skating. Parks are places where everyone can relax. Skateboarding has become popular as a new way to play.",
+      "id": "feeaa8d5-33a3-4137-96fb-4809ee233c7a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "公園には、スケートボードをするための特別な場所がある場合もあります。平らな地面や、少し傾いた坂道は、練習にぴったりです。友達と一緒にお互いの技を見せ合ったり、教え合ったりしています。笑顔がたくさん見られます。",
+      "translationZh": "公园里有时也有专门用于玩滑板的地方。平坦的地面或稍微倾斜的坡道非常适合练习。大家会和朋友一起互相展示技巧，或者互相教导。能看到很多笑容。",
+      "translationEn": "Some parks even have special areas for skateboarding. Flat ground and slightly sloped ramps are perfect for practicing. Friends show each other their tricks and teach each other. Many smiles can be seen.",
+      "id": "4c7a0d0e-4229-4981-9af6-45940f35051e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "スケートボードは、ただのスポーツではありません。それは、自分らしいスタイルを見つけることです。音楽を聴きながら、自由に滑ることは、とても気持ちがいいです。公園の清掃を自分たちでするグループもあります。地域の人々との交流も生まれています。",
+      "translationZh": "滑板不仅仅是一项运动。它是寻找自己独特风格的过程。一边听着音乐，一边自由地滑行，感觉非常棒。也有小组会自己打扫公园的卫生。与社区居民的交流也由此产生。",
+      "translationEn": "Skateboarding is not just a sport. It's about finding your own style. Gliding freely while listening to music feels very good. There are also groups that clean the park themselves. Interactions with local residents are also emerging.",
+      "id": "42640627-612c-47c1-b7e9-16ac2afd04f9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "これからも、公園でスケートボードを楽しむ人が増えるでしょう。新しい仲間ができたり、新しい発見があったりするかもしれません。公園は、これからもみんなの楽しい場所であり続けます。",
+      "translationZh": "今后，在公园享受滑板乐趣的人还会继续增加。可能会认识新朋友，也可能会有新的发现。公园将继续是大家的快乐之地。",
+      "translationEn": "In the future, more people will likely enjoy skateboarding in parks. New friends might be made, and new discoveries might happen. Parks will continue to be a fun place for everyone.",
+      "id": "ea9c989e-05fe-4ab5-804e-931f2b136763",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaningZh": "都市",
+      "meaningEn": "city",
+      "level": "n5n4",
+      "exampleSentence": "これは大きいたとしです。",
+      "id": "930a9945-208b-4943-9b6b-9d49e22a3558"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaningZh": "公园",
+      "meaningEn": "park",
+      "level": "n5n4",
+      "exampleSentence": "公園で遊びましょう。",
+      "id": "75c03be9-71b7-460e-975d-07d830c526f6"
+    },
+    {
+      "word": "スケートボード",
+      "reading": "すけーとぼーど",
+      "meaningZh": "滑板",
+      "meaningEn": "skateboard",
+      "level": "n5n4",
+      "exampleSentence": "スケートボードは楽しいです。",
+      "id": "956e04eb-708a-4b4a-a826-0f24cc0f44ec"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "a03a8dad-d202-4b78-8b49-5af7f56bacbb"
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaningZh": "聚集",
+      "meaningEn": "to gather",
+      "level": "n5n4",
+      "exampleSentence": "友達が集まりました。",
+      "id": "d8fdba75-6fda-4fda-afa1-b6fb87c79925"
+    },
+    {
+      "word": "技",
+      "reading": "わざ",
+      "meaningZh": "技巧，技能",
+      "meaningEn": "skill, technique",
+      "level": "n3",
+      "exampleSentence": "彼はすごい技を見せました。",
+      "id": "737452dd-3ce1-4039-9c2c-fd613901d1c4"
+    },
+    {
+      "word": "スタイル",
+      "reading": "すたいる",
+      "meaningZh": "风格",
+      "meaningEn": "style",
+      "level": "n5n4",
+      "exampleSentence": "これは私のお気に入りのスタイルです。",
+      "id": "18ccb1bb-abaf-40d9-825c-3cbd6daf4b3c"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaningZh": "伙伴，朋友",
+      "meaningEn": "friend, companion",
+      "level": "n5n4",
+      "exampleSentence": "良い仲間ができました。",
+      "id": "b5b37d3f-583f-4708-9a11-df425f2539bb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公園でスケートボードをする人が増えている理由は何ですか？",
+      "options": [
+        "公園に特別な場所ができたから",
+        "若い人たちの間で人気が出たから",
+        "スケートボードが安くなったから",
+        "みんながリラックスしたいから"
+      ],
+      "correctIndex": 1,
+      "explanation": "特に若い人たちが集まって、楽しそうに滑っています。公園は、みんながリラックスできる場所です。スケートボードは、新しい遊び方として人気が出てきました。",
+      "id": "916e711c-a0bc-402a-8f3e-3a49d0ff3778"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-03-9386827cb6",
+  "publishedAt": "2026-11-03T06:00:00+09:00"
+}

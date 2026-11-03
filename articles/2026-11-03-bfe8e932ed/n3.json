@@ -1,0 +1,134 @@
+{
+  "title": "週休3日制、試験導入企業のリアルな声",
+  "summary": "一部企業で試験的に導入されている週休3日制。実際に導入した企業の声から、そのメリット・デメリットを探ります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、働き方改革の一環として、週休3日制を試験的に導入する企業が増えています。これは、週の労働日数を減らすことで、従業員のワークライフバランスを改善しようという試みです。しかし、実際に導入してみると、良い面ばかりではないようです。",
+      "translationZh": "最近，作为工作方式改革的一环，开始试行周休三天制的企业正在增加。这是通过减少每周工作天数来改善员工工作与生活平衡的尝试。然而，实际导入后，似乎并非只有好处。",
+      "translationEn": "Recently, as part of work style reform, more companies are experimentally introducing a three-day weekend system. This is an attempt to improve employees' work-life balance by reducing the number of working days per week. However, after actual implementation, it seems there are not only positive aspects.",
+      "id": "7f7f58a4-15a4-4804-ab49-a4cd055c278a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "あるIT企業の担当者は、「従業員の満足度は明らかに上がりました。特に、プライベートの時間が充実したという声が多いですね。ただ、その分、一日あたりの労働時間は長くなるので、集中力が続かないという課題も出てきました。」と話しています。",
+      "translationZh": "某IT企业的负责人表示：“员工的满意度明显提高了。特别是，很多人说私人时间得到了充实。只是，相应地，一天的工作时间会变长，所以也出现了注意力难以持久的问题。”",
+      "translationEn": "A person in charge at an IT company said, \"Employee satisfaction has clearly increased. Many voices say their private time has become more fulfilling. However, because the working hours per day become longer, we've also encountered issues with maintaining concentration.\"",
+      "id": "b4266358-acc3-4fa2-9ecf-5afa37a558be",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、製造業のA社では、「生産性を維持するのが難しかった。どうしても、短期間で成果を出すために、残業が増えてしまうケースもあったんです。そのため、週休3日制が本当に適しているかどうか、慎重に判断する必要があると感じています。」とのことです。",
+      "translationZh": "此外，制造业的A公司表示：“维持生产性很困难。因为在短时间内必须出成果，所以也出现了加班增加的情况。因此，我认为有必要慎重判断周休三天制是否真的合适。”",
+      "translationEn": "Furthermore, at A Company, a manufacturing firm, they stated, \"It was difficult to maintain productivity. In order to achieve results in a short period, there were cases where overtime increased. Therefore, we feel it is necessary to carefully judge whether the three-day weekend system is truly suitable.\"",
+      "id": "86bc4d6b-a407-4b94-8d3a-7f272334d59f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このように、週休3日制は、従業員の幸福度向上に貢献する可能性がある一方で、業務の効率化や生産性の維持といった課題も伴います。企業は、自社の状況に合わせて、メリットとデメリットをよく理解した上で導入を検討することが大切です。",
+      "translationZh": "像这样，周休三天制在可能为提高员工幸福度做出贡献的同时，也伴随着业务效率化和生产性维持等课题。企业重要的是，要根据自身情况，在充分理解其优缺点后再考虑导入。",
+      "translationEn": "Thus, while the three-day weekend system has the potential to contribute to improved employee well-being, it also comes with challenges such as optimizing business operations and maintaining productivity. It is important for companies to consider implementation after thoroughly understanding the pros and cons based on their own circumstances.",
+      "id": "cbeed762-6d65-4e61-9eef-c4631b6454e1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "働き方改革",
+      "reading": "はたらきかたかいかく",
+      "meaningZh": "工作方式改革",
+      "meaningEn": "Work style reform",
+      "level": "n3",
+      "exampleSentence": "政府は働き方改革を推進している。",
+      "id": "f7fd3353-791c-47dc-a335-fac9acdacc4b"
+    },
+    {
+      "word": "ワークライフバランス",
+      "reading": "わーくらいふばらんす",
+      "meaningZh": "工作与生活的平衡",
+      "meaningEn": "Work-life balance",
+      "level": "n3",
+      "exampleSentence": "ワークライフバランスを重視する人が増えている。",
+      "id": "d0c12280-60c2-4760-b700-8fad48ec43d4"
+    },
+    {
+      "word": "満足度",
+      "reading": "まんぞくど",
+      "meaningZh": "满意度",
+      "meaningEn": "Satisfaction level",
+      "level": "n3",
+      "exampleSentence": "サービスの満足度調査を行った。",
+      "id": "a400a4fd-4746-417e-84fc-cdeb4e5f8c15"
+    },
+    {
+      "word": "充実",
+      "reading": "じゅうじつ",
+      "meaningZh": "充实",
+      "meaningEn": "Fulfillment, enrichment",
+      "level": "n3",
+      "exampleSentence": "休日は趣味に充実させたい。",
+      "id": "0dad8edc-2a0e-48ad-a7cd-39f629bb0f56"
+    },
+    {
+      "word": "集中力",
+      "reading": "しゅうちゅうりょく",
+      "meaningZh": "注意力，专注力",
+      "meaningEn": "Concentration",
+      "level": "n3",
+      "exampleSentence": "会議中は集中力が必要だ。",
+      "id": "a2f4c214-365d-462d-8ace-4cf85974ecf0"
+    },
+    {
+      "word": "生産性",
+      "reading": "せいさんせい",
+      "meaningZh": "生产性",
+      "meaningEn": "Productivity",
+      "level": "n3",
+      "exampleSentence": "新しい機械を導入して生産性を上げた。",
+      "id": "0b976e52-e153-4896-9423-8bdf4c21dfb8"
+    },
+    {
+      "word": "慎重",
+      "reading": "しんちょう",
+      "meaningZh": "慎重",
+      "meaningEn": "Cautious, careful",
+      "level": "n3",
+      "exampleSentence": "この件については慎重に進めるべきだ。",
+      "id": "ff3598a7-9324-4659-a952-febf69779fcb"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "週休3日制を導入したIT企業では、どのような課題が出てきましたか？",
+      "options": [
+        "従業員の満足度が下がったこと。",
+        "一日あたりの労働時間が長くなり、集中力が続かないこと。",
+        "プライベートの時間がなくなったこと。",
+        "生産性が大幅に向上したこと。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「一日あたりの労働時間は長くなるので、集中力が続かないという課題も出てきました。」という記述があります。",
+      "id": "9b4d825a-b586-4269-b628-1acbe67d6b7a"
+    },
+    {
+      "question": "製造業のA社が週休3日制について感じていることは何ですか？",
+      "options": [
+        "生産性が向上し、残業が減った。",
+        "導入は簡単で、すぐに効果が出た。",
+        "生産性を維持するのが難しく、慎重な判断が必要だと感じている。",
+        "従業員は喜んでいるが、会社としてはメリットがない。"
+      ],
+      "correctIndex": 2,
+      "explanation": "「生産性を維持するのが難しかった。…慎重に判断する必要があると感じています。」という記述からわかります。",
+      "id": "ad70941d-35fa-4829-b5b1-361e4f23872c"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-11-03-bfe8e932ed",
+  "publishedAt": "2026-11-03T06:00:00+09:00"
+}

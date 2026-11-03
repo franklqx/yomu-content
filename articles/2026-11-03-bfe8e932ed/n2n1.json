@@ -1,0 +1,147 @@
+{
+  "title": "週休３日制、試験導入企業の「本音」とは？",
+  "summary": "一部企業で試験的に導入されている週休３日制。その効果や課題について、導入企業の担当者の声から探ります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、働き方改革の一環として、週休３日制の導入を検討・試験導入する企業が増加傾向にある。これは、従業員のワークライフバランスの向上や、生産性向上への期待が背景にあると見られている。しかし、実際の導入に踏み切った企業からは、様々な声が聞かれる。あるIT企業では、試験導入の結果、従業員の満足度は高まったものの、業務の進捗管理や顧客対応に課題が生じたとの報告があった。",
+      "translationZh": "近年来，作为工作方式改革的一环，考虑或试行引入周休三天制的企业呈现增加趋势。这被认为是以提高员工工作与生活平衡以及期待生产力提升为背景。然而，对于真正开始引入的企业，听到了各种声音。某IT公司报告称，在试行引入后，虽然员工满意度有所提高，但在业务进度管理和客户应对方面出现了课题。",
+      "translationEn": "In recent years, as part of work style reform, there has been an increasing trend of companies considering or experimentally introducing a three-day weekend system. This is seen as being driven by expectations of improving employee work-life balance and enhancing productivity. However, various voices are heard from companies that have actually implemented it. One IT company reported that as a result of the trial introduction, employee satisfaction increased, but challenges arose in managing work progress and customer service.",
+      "id": "bd59bf7d-fb12-4190-b481-c0634a72a4c6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "別の製造業では、週休３日制を導入したことで、従業員の離職率低下に繋がったというポジティブな側面が強調された。担当者は「従業員が心身ともにリフレッシュできる時間が増えたことで、結果的に業務への集中力が増し、生産性の低下は最小限に抑えられた」と語る。ただし、その一方で、限られた日数で業務を完了させるための効率化が不可欠であり、部署によっては業務量の偏りが見られるという声も上がっている。",
+      "translationZh": "另一家制造业则强调了引入周休三天制带来的积极方面，即员工离职率下降。负责人表示：“由于员工身心得到休整的时间增加了，结果工作专注度提高，生产力下降被控制在最低限度。”然而，另一方面，也有声音指出，为了在有限的天数内完成业务而进行的效率提升是不可或缺的，并且某些部门出现了工作量不均衡的情况。",
+      "translationEn": "Another manufacturing company emphasized the positive aspect that the introduction of the three-day weekend system led to a decrease in employee turnover. The representative stated, \"With more time for employees to refresh both physically and mentally, their concentration on work has increased, and the decline in productivity has been minimized.\" However, on the other hand, there are also concerns that efficiency improvements are essential to complete tasks within the limited days, and some departments experience uneven workloads.",
+      "id": "4ac7d0e1-d2c2-4458-9e77-1457383a86f1",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "週休３日制の試験導入は、企業ごとに異なる状況や課題に直面していることが明らかになった。従業員の満足度向上や離職率低下といったメリットが期待される一方で、業務の効率化や、組織全体での柔軟な人員配置といった、さらなる組織運営上の工夫が求められると言えるだろう。今後の各社の試行錯誤と、その結果が注目される。",
+      "translationZh": "通过对周休三天制试行引入的观察，可以看出企业正面临着各自不同的情况和课题。虽然期待着提高员工满意度和降低离职率等优点，但同时也需要企业在业务效率化以及组织整体灵活的人员配置等方面做出进一步的努力。未来各公司的摸索以及其结果备受关注。",
+      "translationEn": "It has become clear that companies are facing different situations and challenges with the trial introduction of the three-day weekend system. While benefits such as increased employee satisfaction and reduced turnover are expected, further organizational management ingenuity, such as improving work efficiency and flexible staffing across the entire organization, is required. The ongoing trial and error by each company and their results are drawing attention.",
+      "id": "887d4f4e-9bce-4cf6-8b19-21dafca2ecbc",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "試験導入",
+      "reading": "しけんどうにゅう",
+      "meaningZh": "试行引入，试验性引进",
+      "meaningEn": "trial introduction, experimental implementation",
+      "level": "n2n1",
+      "exampleSentence": "来年度から週休３日制を試験導入する予定だ。",
+      "id": "f641d9ff-bded-4a5a-b502-030c1710ea7c"
+    },
+    {
+      "word": "ワークライフバランス",
+      "reading": "わーくらいふばらんす",
+      "meaningZh": "工作与生活平衡",
+      "meaningEn": "work-life balance",
+      "level": "n3",
+      "exampleSentence": "ワークライフバランスを重視する若者が増えている。",
+      "id": "d8974c18-b3a7-4e63-afd7-74e4c2147e47"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaningZh": "期待，期望",
+      "meaningEn": "expectation, hope",
+      "level": "n3",
+      "exampleSentence": "この新製品には大きな期待が寄せられている。",
+      "id": "9d5948a3-a5e4-4afd-9be8-ffeb474cda1b"
+    },
+    {
+      "word": "踏み切る",
+      "reading": "ふみきる",
+      "meaningZh": "下决心，决定（做某事）",
+      "meaningEn": "to decide to do something, to take the plunge",
+      "level": "n2n1",
+      "exampleSentence": "長年悩んでいたが、ついに独立へと踏み切った。",
+      "id": "04138a2a-bf00-4993-8de0-ec25a1e8b8f1"
+    },
+    {
+      "word": "進捗管理",
+      "reading": "しんちょくかんり",
+      "meaningZh": "进度管理",
+      "meaningEn": "progress management",
+      "level": "n2n1",
+      "exampleSentence": "プロジェクトの進捗管理を徹底する必要がある。",
+      "id": "51143a11-2dda-4cbf-b0b7-f715965a2e8c"
+    },
+    {
+      "word": "離職率",
+      "reading": "りしょくりつ",
+      "meaningZh": "离职率",
+      "meaningEn": "employee turnover rate",
+      "level": "n2n1",
+      "exampleSentence": "近年、若者の離職率が高いことが問題視されている。",
+      "id": "a5f43654-0b3d-434b-b8eb-5fa126133bab"
+    },
+    {
+      "word": "ポジティブ",
+      "reading": "ぽじてぃぶ",
+      "meaningZh": "积极的，正面的",
+      "meaningEn": "positive",
+      "level": "n3",
+      "exampleSentence": "困難な状況でも、ポジティブな考え方を失わないようにしている。",
+      "id": "90205fc7-5886-4a6e-a26f-3f13630c653a"
+    },
+    {
+      "word": "効率化",
+      "reading": "こうりつか",
+      "meaningZh": "效率化，提高效率",
+      "meaningEn": "streamlining, improving efficiency",
+      "level": "n2n1",
+      "exampleSentence": "業務の効率化を図るため、新しいシステムを導入した。",
+      "id": "256bd409-291c-4e9f-9df2-f7b921b8c03c"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "週休３日制の試験導入を検討する企業が増えている主な理由は何だと述べられていますか？",
+      "options": [
+        "従業員の給与を増やすため",
+        "従業員のワークライフバランス向上と生産性向上への期待",
+        "競合他社が導入しているため",
+        "政府からの補助金を得るため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中には「従業員のワークライフバランスの向上や、生産性向上への期待が背景にあると見られている。」と記載されています。",
+      "id": "7440bb5b-2f4f-4707-a2c4-53d4a0609a00"
+    },
+    {
+      "question": "IT企業での試験導入の結果、どのような課題が生じましたか？",
+      "options": [
+        "従業員の満足度が低下した",
+        "従業員の離職率が上昇した",
+        "業務の進捗管理や顧客対応に課題が生じた",
+        "新しいシステムを導入する必要が生じた"
+      ],
+      "correctIndex": 2,
+      "explanation": "IT企業については、「業務の進捗管理や顧客対応に課題が生じたとの報告があった。」と述べられています。",
+      "id": "196b1ab1-96f6-4513-a8f0-26fa9614d0fd"
+    },
+    {
+      "question": "製造業での週休３日制導入のポジティブな側面として、どのような点が挙げられていますか？",
+      "options": [
+        "従業員の残業時間が大幅に増加した",
+        "顧客からのクレームが増加した",
+        "従業員の離職率低下に繋がった",
+        "新しい設備投資が必要になった"
+      ],
+      "correctIndex": 2,
+      "explanation": "製造業については、「週休３日制を導入したことで、従業員の離職率低下に繋がったというポジティブな側面が強調された。」と記されています。",
+      "id": "9f7e665d-bab0-447a-8f42-d031af3b6364"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-11-03-bfe8e932ed",
+  "publishedAt": "2026-11-03T06:00:00+09:00"
+}

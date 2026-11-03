@@ -1,0 +1,122 @@
+{
+  "title": "週休３日制、どう？",
+  "summary": "最近、会社で週休３日制を試すところがありました。社員の声を聞いてみましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "ある会社で、新しい働き方を始めました。それは、週に３日休むことができる制度です。この制度は、まだ試験的なものです。多くの会社員が、この働き方に興味を持っています。",
+      "translationZh": "一家公司开始了一种新的工作方式。那就是每周可以休息3天的制度。这个制度还处于试用阶段。很多公司职员对这种工作方式很感兴趣。",
+      "translationEn": "A certain company started a new way of working. It is a system where you can rest 3 days a week. This system is still experimental. Many company employees are interested in this way of working.",
+      "id": "7ce199be-a558-4222-8c4c-0803dcd4214e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この制度を試している会社の一つに、話を聞きました。「社員は、もっとリラックスできるようになった」と、社長は言いました。家族と過ごす時間が増えたり、自分の趣味を楽しんだりできるそうです。",
+      "translationZh": "我们采访了正在试行这个制度的公司之一。“员工们变得更加放松了”，社长这样说道。据说他们有了更多和家人相处的时间，或者可以享受自己的爱好。",
+      "translationEn": "We interviewed one of the companies trying this system. The president said, 'Employees have become more relaxed.' It is said that they have more time to spend with their families or enjoy their hobbies.",
+      "id": "f0bf6bac-c67f-435f-9150-a40943864272",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、仕事の量は変わらないので、忙しくなる社員もいるようです。「もっと効率よく仕事をする必要がある」という意見もありました。会社は、この制度を続けるかどうか、まだ考えています。",
+      "translationZh": "但是，因为工作量没有改变，所以也有员工变得更忙了。“需要更有效率地工作”这样的意见也有。公司还在考虑是否要继续这个制度。",
+      "translationEn": "However, since the amount of work does not change, some employees seem to become busier. There were also opinions like 'It is necessary to work more efficiently.' The company is still thinking about whether to continue this system.",
+      "id": "06596106-2f6e-4412-a989-53bd503e91ed",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "週休３日制は、良い点もあれば、難しい点もあります。これから、もっと多くの会社がこの制度について考えるかもしれません。",
+      "translationZh": "每周休3天制，有优点也有难点。今后，可能会有更多的公司考虑这个制度。",
+      "translationEn": "The three-day weekend system has both good points and difficult points. In the future, more companies may consider this system.",
+      "id": "b524169c-84e2-4ddf-b8ca-85822141ca41",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "働き方",
+      "reading": "はたらきかた",
+      "meaningZh": "工作方式",
+      "meaningEn": "way of working",
+      "level": "n5n4",
+      "exampleSentence": "新しい働き方を試しています。",
+      "id": "850e676c-0909-4c4c-9a14-83530446bb8f"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaningZh": "制度",
+      "meaningEn": "system",
+      "level": "n5n4",
+      "exampleSentence": "この制度は良いと思います。",
+      "id": "f2f4e9f1-acf6-4f5e-b4f6-321ab1fc3377"
+    },
+    {
+      "word": "試験的",
+      "reading": "しけんてき",
+      "meaningZh": "试验性的",
+      "meaningEn": "experimental",
+      "level": "n5n4",
+      "exampleSentence": "これは試験的なプロジェクトです。",
+      "id": "9eed6343-2a7b-4111-bb1e-889f8d7e7732"
+    },
+    {
+      "word": "社員",
+      "reading": "しゃいん",
+      "meaningZh": "公司职员",
+      "meaningEn": "company employee",
+      "level": "n5n4",
+      "exampleSentence": "社員はみんな元気です。",
+      "id": "d066c2c3-98a8-4572-88b2-367f791bac1c"
+    },
+    {
+      "word": "社長",
+      "reading": "しゃちょう",
+      "meaningZh": "社长",
+      "meaningEn": "company president",
+      "level": "n5n4",
+      "exampleSentence": "社長が挨拶しました。",
+      "id": "c422dd29-747a-420d-9cba-6765c8015673"
+    },
+    {
+      "word": "リラックス",
+      "reading": "りらっくす",
+      "meaningZh": "放松",
+      "meaningEn": "relax",
+      "level": "n5n4",
+      "exampleSentence": "休みの日はリラックスしたいです。",
+      "id": "49e7e81c-6815-4989-9898-05d0e0feed7c"
+    },
+    {
+      "word": "効率",
+      "reading": "こうりつ",
+      "meaningZh": "效率",
+      "meaningEn": "efficiency",
+      "level": "n3",
+      "exampleSentence": "もっと効率よく勉強したいです。",
+      "id": "3bc9248b-c35e-4d68-9ade-c06fe1834687"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "週休３日制を試している会社では、社員はどうなりましたか？",
+      "options": [
+        "みんな、もっと忙しくなった。",
+        "社員は、もっとリラックスできるようになった。",
+        "社長は、とても心配しています。",
+        "仕事の量が減った。"
+      ],
+      "correctIndex": 1,
+      "explanation": "「社員は、もっとリラックスできるようになった」と、社長は言いました。",
+      "id": "7f702299-912b-48d3-b46f-4eeb5cf589e9"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-03-bfe8e932ed",
+  "publishedAt": "2026-11-03T06:00:00+09:00"
+}
