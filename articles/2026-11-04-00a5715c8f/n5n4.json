@@ -1,0 +1,105 @@
+{
+  "title": "新星力士の人気",
+  "summary": "若手力士の番付が上がると、人気も出ます。多くの人が応援します。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "相撲（すもう）に新しい力士がいます。この力士は若いです。名前は「〇〇」さんです。〇〇さんは、番付（ばんづけ）を上がりました。番付は力士の強さのリストです。番付が上がると、すごいことです。",
+      "translationZh": "相扑界有一位新力士。这位力士很年轻。名字是“〇〇”先生。〇〇先生的排名上升了。排名是力士力量的列表。排名上升是很厉害的事情。",
+      "translationEn": "There is a new sumo wrestler. This wrestler is young. His name is Mr. 〇〇. Mr. 〇〇's rank has risen. The rank is a list of sumo wrestlers' strength. Rising in rank is a great thing.",
+      "id": "5913cfb1-bc45-4557-aa3c-ad361107d105",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "〇〇さんは、強くて、かっこいいです。それで、たくさんの人が〇〇さんを応援（おうえん）します。テレビでも〇〇さんのニュースがたくさん出ます。子供も大人も、〇〇さんのことが好きです。",
+      "translationZh": "〇〇先生很强壮，也很帅。因此，很多人支持〇〇先生。电视上也有很多关于〇〇先生的新闻。孩子和大人的都喜欢〇〇先生。",
+      "translationEn": "Mr. 〇〇 is strong and cool. Therefore, many people support Mr. 〇〇. There is a lot of news about Mr. 〇〇 on TV. Both children and adults like Mr. 〇〇.",
+      "id": "5ab8eba9-a458-4dc3-b69d-9eee34c0fbce",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "番付が上がった力士は、もっと強い相手と戦います。大変ですが、〇〇さんは頑張（がんば）ります。これからも、〇〇さんの活躍（かつやく）が楽しみです。応援しましょう。",
+      "translationZh": "排名上升的力士要和更强的对手比赛。虽然很辛苦，但〇〇先生会努力的。今后也期待〇〇先生的表现。让我们为他加油吧。",
+      "translationEn": "Wrestlers who have risen in rank will fight stronger opponents. It is tough, but Mr. 〇〇 will do his best. We look forward to Mr. 〇〇's future success. Let's cheer for him.",
+      "id": "7a401922-5173-4c25-ba83-9261ba1a7eab",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "力士",
+      "reading": "りきし",
+      "meaningZh": "相扑选手",
+      "meaningEn": "sumo wrestler",
+      "level": "n5n4",
+      "exampleSentence": "新しい力士が人気です。",
+      "id": "36866cc5-ba6a-472c-bcb9-8b87a60c8945"
+    },
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）排名",
+      "meaningEn": "rank (in sumo)",
+      "level": "n5n4",
+      "exampleSentence": "番付が上がりました。",
+      "id": "a6e5b111-d940-455c-8981-6eca25aac402"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaningZh": "支持，声援",
+      "meaningEn": "support, cheer for",
+      "level": "n5n4",
+      "exampleSentence": "友達を応援します。",
+      "id": "e7d31c78-9b41-4673-ba44-9ffa29e2279c"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaningZh": "活跃，有出色表现",
+      "meaningEn": "activity, success",
+      "level": "n3",
+      "exampleSentence": "彼の活躍を期待します。",
+      "id": "af5f43b7-a481-4a13-81fc-41d11874c1ce"
+    },
+    {
+      "word": "上がる",
+      "reading": "あがる",
+      "meaningZh": "上升，提高",
+      "meaningEn": "to rise, to go up",
+      "level": "n5n4",
+      "exampleSentence": "値段が上がりました。",
+      "id": "3243ffb6-dba5-44c5-9e0d-fca20091dfc0"
+    },
+    {
+      "word": "頑張る",
+      "reading": "がんばる",
+      "meaningZh": "努力，加油",
+      "meaningEn": "to do one's best, to work hard",
+      "level": "n5n4",
+      "exampleSentence": "試験のために頑張ります。",
+      "id": "d29ec447-deed-44e7-95eb-2f87fb070f7e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "若手力士の〇〇さんは、どんな人ですか。",
+      "options": [
+        "弱いですが、人気があります。",
+        "番付が下がりました。",
+        "強くて、かっこいいです。",
+        "テレビに出ません。"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文に「〇〇さんは、強くて、かっこいいです。」と書いてあります。",
+      "id": "2ba79118-dfb5-493d-b323-246f4eadaeca"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-04-00a5715c8f",
+  "publishedAt": "2026-11-04T06:00:00+09:00"
+}

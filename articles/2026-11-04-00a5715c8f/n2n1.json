@@ -1,0 +1,138 @@
+{
+  "title": "若手力士、番付昇進と人気獲得の相関性",
+  "summary": "近年、若手力士の番付昇進がファンの獲得に直結する傾向が見られる。その背景には、SNSでの情報発信やメディア露出の増加があると考えられる。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "大相撲の世界において、若手力士の番付昇進は、単なる成績の向上に留まらず、その人気を飛躍的に高める契機となっている。特に、近年ではSNSなどを通じた情報発信が活発化し、土俵外での人間性や素顔がファンに届けられる機会が増えた。こうした状況は、従来の相撲ファン層に加え、これまで相撲に馴染みのなかった層からの関心をも引きつける要因となっており、結果として、番付の昇進と人気獲得が強く連動する現象が顕著になっていると見られる。",
+      "translationZh": "在大相扑界，年轻力士番位（等级）的晋升，不仅限于成绩的提高，更成为其人气飞跃的契机。特别是近年来，通过SNS等渠道的信息发布日益活跃，力士在赛场之外的人格魅力和真实面貌得以更多地展现在粉丝面前。这种情况，除了吸引原有的相扑粉丝群体外，也激发了以往对相扑不甚了解的群体产生兴趣，因此，番位晋升与获得人气之间呈现出显著的联动效应。",
+      "translationEn": "In the world of sumo, the promotion of young wrestlers in the ranking system is not merely a reflection of improved performance but also serves as a catalyst for dramatically increasing their popularity. In recent years, in particular, information dissemination through social media and other platforms has become more active, providing more opportunities for fans to see the wrestlers' personalities and true selves outside the ring. This situation is thought to be attracting interest not only from traditional sumo fans but also from demographics less familiar with the sport, leading to a noticeable correlation between rising ranks and gaining popularity.",
+      "id": "560a4cc8-8c47-4566-95f4-72fb87220496",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "具体的には、幕内上位に定着し始めた若手力士が、自身のトレーニング風景やオフショットなどを積極的に公開することで、親近感を醸成しているケースが後を絶たない。こうした彼らの発信は、メディアも注目するところとなり、テレビ番組や雑誌での特集記事が増加する傾向にある。番付が上がるにつれて、より多くの注目が集まり、それがさらなる人気を呼び、また番付を押し上げるという好循環が生まれているのである。この流れは、現代のスポーツ界におけるスター育成のあり方を示唆しているとも言えよう。",
+      "translationZh": "具体来说，开始在幕内（相扑最高级别）上位站稳脚跟的年轻力士，通过积极公开自己的训练场景或私下照片等，不断赢得亲近感。他们的这些动态也引起了媒体的关注，电视节目和杂志上的专题报道呈现增加的趋势。随着番位的提升，吸引到的关注度也随之增加，这又进一步带动了人气，并再次推动番位的上升，形成了一个良性循环。这种模式可以说也暗示了现代体育界培养明星的方式。",
+      "translationEn": "Specifically, there are numerous cases where young wrestlers who have begun to establish themselves in the upper ranks of the Makuuchi division actively share their training sessions and off-duty snapshots, thereby fostering a sense of closeness with fans. These posts also attract media attention, leading to an increase in features on television programs and in magazines. As their rankings rise, more attention is drawn, which in turn boosts their popularity, creating a virtuous cycle that further elevates their standing. This trend can be seen as indicative of how stars are cultivated in the modern sports world.",
+      "id": "41785807-44bf-4256-8e5f-6dc9304a4e7b",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もちろん、実力なき人気は長続きしないという厳然たる事実もある。しかし、近年の若手力士たちは、高い身体能力と稽古への真摯な姿勢に加え、情報発信能力やファンとのコミュニケーション能力も兼ね備えている者が少なくない。こうした多角的な魅力が、番付昇進という分かりやすい成果と結びつくことで、多くの人々を魅了し、大相撲の裾野を広げる一助となっていることは疑いようがない。",
+      "translationZh": "当然，没有实力的受欢迎是无法长久的，这是不争的事实。然而，近年来的年轻力士们，除了拥有出色的身体能力和认真的训练态度外，不少人还兼备了信息发布能力和与粉丝沟通的能力。当这些多方面的魅力与番位晋升这一明确的成果相结合时，无疑能够吸引众多观众，并有助于扩大相扑的受众基础。",
+      "translationEn": "Of course, the undeniable fact remains that popularity without skill is not sustainable. However, many of today's young wrestlers possess not only high physical abilities and a sincere attitude towards training but also considerable skills in information dissemination and fan communication. When these multifaceted charms are combined with the clear achievement of a higher rank, it undoubtedly captivates a wide audience and contributes to broadening the base of sumo's appeal.",
+      "id": "9fb7719d-09c4-4299-89a6-3634e85f8d03",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "番付",
+      "reading": "ばんづけ",
+      "meaningZh": "（相扑）等级名册",
+      "meaningEn": "ranking list (in sumo)",
+      "level": "n2n1",
+      "exampleSentence": "新番付が発表され、多くの関心が寄せられた。",
+      "id": "d5cb829b-4479-47ac-b6c3-c3a1b49d5c2e"
+    },
+    {
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaningZh": "晋升，擢升",
+      "meaningEn": "promotion",
+      "level": "n3",
+      "exampleSentence": "彼は着実に昇進を重ね、ついに役職を得た。",
+      "id": "a72b8ec6-fb99-425d-a297-0980434a9cb8"
+    },
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaningZh": "契机，机会",
+      "meaningEn": "opportunity, trigger",
+      "level": "n2n1",
+      "exampleSentence": "この出来事が、彼の人生の大きな契機となった。",
+      "id": "b3326963-c411-404d-8d3f-2cb50acc290a"
+    },
+    {
+      "word": "飛躍的",
+      "reading": "ひやくてき",
+      "meaningZh": "飞跃的，跳跃式的",
+      "meaningEn": "leaping, dramatic",
+      "level": "n2n1",
+      "exampleSentence": "技術の飛躍的な進歩により、生産性が向上した。",
+      "id": "4b018f39-05ba-4304-90cf-ab9a0aa73a5c"
+    },
+    {
+      "word": "醸成",
+      "reading": "じょうせい",
+      "meaningZh": "培养，形成",
+      "meaningEn": "cultivation, fostering",
+      "level": "n2n1",
+      "exampleSentence": "地域社会との良好な関係を醸成することが重要だ。",
+      "id": "348b4a87-72e0-43fe-8285-2cc1044c5328"
+    },
+    {
+      "word": "後を絶たない",
+      "reading": "あとをたたない",
+      "meaningZh": "接连不断，络绎不绝",
+      "meaningEn": "unending, incessant",
+      "level": "n2n1",
+      "exampleSentence": "事故の報告は後を絶たない。",
+      "id": "b1280626-c502-4c62-8f1e-93655bab7886"
+    },
+    {
+      "word": "厳然たる",
+      "reading": "げんぜんたる",
+      "meaningZh": "严峻的，不容置疑的",
+      "meaningEn": "stern, rigorous, undeniable",
+      "level": "n2n1",
+      "exampleSentence": "自然の法則は厳然たるものだ。",
+      "id": "067dfc94-3973-4121-89bf-d9a3e1406aa1"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "近年、若手力士の人気獲得と番付昇進の間にどのような関係が見られると記事は述べているか？",
+      "options": [
+        "人気獲得が番付昇進の直接的な原因となっている。",
+        "番付昇進が人気獲得を促進する傾向がある。",
+        "両者は全く関係がない。",
+        "人気獲得は番付昇進に悪影響を与えることがある。"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事中では「番付の昇進と人気獲得が強く連動する現象が顕著になっている」と述べられており、昇進が人気を高める契機となっていることが示唆されている。",
+      "id": "11ec4710-7a82-49b8-8765-6d68b95a4e50"
+    },
+    {
+      "question": "若手力士が人気を獲得する要因として、記事で挙げられているものはどれか？",
+      "options": [
+        "SNSでの露出を一切行わないこと",
+        "土俵外での活動を一切公開しないこと",
+        "SNSなどを通じた情報発信や、土俵外での人間性を見せること",
+        "メディアへの露出を極力避けること"
+      ],
+      "correctIndex": 2,
+      "explanation": "「SNSなどを通じた情報発信が活発化し、土俵外での人間性や素顔がファンに届けられる機会が増えた」とあり、これが人気獲得の要因として挙げられている。",
+      "id": "f4201a0a-609b-4934-bad3-c05d9dfcd5b8"
+    },
+    {
+      "question": "記事によると、人気と番付昇進の関係は、どのような循環を生み出しているか？",
+      "options": [
+        "人気が下がり、番付も下がる悪循環",
+        "人気が上がり、番付が下がるという特殊な循環",
+        "人気が上がり、番付も上がるという好循環",
+        "人気と番付は互いに影響しない循環"
+      ],
+      "correctIndex": 2,
+      "explanation": "「番付が上がるにつれて、より多くの注目が集まり、それがさらなる人気を呼び、また番付を押し上げるという好循環が生まれている」と説明されている。",
+      "id": "520166a9-50e5-4a17-ad04-fff0800243bf"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-11-04-00a5715c8f",
+  "publishedAt": "2026-11-04T06:00:00+09:00"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "副業、どう変わる？",
+  "summary": "最近、会社で副業が許されるようになりました。これは働き方を変えるかもしれません。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "昔は、会社員は一つの会社で働くのが普通でした。でも、今は違います。多くの会社で、社員が会社の外で仕事をする「副業」が許されるようになりました。",
+      "translationZh": "以前，公司职员在一间公司工作是很普遍的。但是，现在不一样了。在很多公司，允许员工在公司外面工作，“副业”也变得可以接受了。",
+      "translationEn": "In the past, it was common for company employees to work at one company. But now, it's different. Many companies now allow employees to work outside the company, a practice called 'side business' or '副業'.",
+      "id": "6936acb8-5e31-48f0-8ebb-e1682413bf74",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "なぜ副業が許されるようになったのでしょうか。一つは、経済のためです。人々はお金をたくさん使いたいですが、給料だけでは足りないことがあります。副業をすれば、収入が増えます。",
+      "translationZh": "为什么副业开始被允许了呢？一个原因是经济。人们想花很多钱，但光靠工资有时不够。如果做副业，收入就会增加。",
+      "translationEn": "Why has working a side job become allowed? One reason is the economy. People want to spend a lot of money, but their salary alone is sometimes not enough. By doing side jobs, income increases.",
+      "id": "6bd48b3d-eecd-4f6e-a84a-e0ce2b3776f3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、新しいスキルを学ぶ機会にもなります。本業とは違う仕事をして、新しい知識や経験を得ることができます。これは、将来のためにも良いことです。",
+      "translationZh": "同时，这也是学习新技能的机会。通过做与本职工作不同的工作，可以获得新的知识和经验。这对未来也是件好事。",
+      "translationEn": "Also, it becomes an opportunity to learn new skills. By doing work different from their main job, people can gain new knowledge and experience. This is good for the future.",
+      "id": "815406e7-1520-4cea-bb7f-dbeab0bb0fa0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "副業は、私たちの働き方や生活を豊かにするかもしれません。新しい時代に、働き方をもっと自由に考えてみましょう。",
+      "translationZh": "副业可能会丰富我们的工作方式和生活。在新时代，让我们更自由地思考工作方式吧。",
+      "translationEn": "Side jobs may enrich our way of working and living. In this new era, let's think more freely about how we work.",
+      "id": "e24fd5b2-fe5c-480f-a8d6-b81b68f1dc8f",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "副業",
+      "reading": "ふくぎょう",
+      "meaningZh": "副业",
+      "meaningEn": "side job, second job",
+      "level": "n5n4",
+      "exampleSentence": "彼は大学で働きながら、夜は副業をしています。",
+      "id": "7a5c4e65-8b03-4853-ac18-644d9c52827d"
+    },
+    {
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaningZh": "解禁，解除禁令",
+      "meaningEn": "lifting of a ban, to open up",
+      "level": "n3",
+      "exampleSentence": "この夏、プールが解禁されました。",
+      "id": "130b8c50-44b8-4c3e-9555-a0a707274c0f"
+    },
+    {
+      "word": "働き方",
+      "reading": "はたらきかた",
+      "meaningZh": "工作方式",
+      "meaningEn": "way of working, how one works",
+      "level": "n5n4",
+      "exampleSentence": "働き方改革が進んでいます。",
+      "id": "26b77491-8209-43da-be1b-13a7c5c8d8b6"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaningZh": "普通，平常",
+      "meaningEn": "usual, normal, ordinary",
+      "level": "n5n4",
+      "exampleSentence": "今日は普通の日です。",
+      "id": "46a922ae-0d4c-46a7-920b-cfd06c18ff68"
+    },
+    {
+      "word": "経済",
+      "reading": "けいざい",
+      "meaningZh": "经济",
+      "meaningEn": "economy",
+      "level": "n3",
+      "exampleSentence": "経済のニュースを見ました。",
+      "id": "a819b47a-adb2-460f-ba3c-09e6a0d9c90d"
+    },
+    {
+      "word": "収入",
+      "reading": "しゅうにゅう",
+      "meaningZh": "收入",
+      "meaningEn": "income",
+      "level": "n3",
+      "exampleSentence": "収入が増えて嬉しいです。",
+      "id": "c1a35ebd-1d2a-4f98-871b-49d4529f43a5"
+    },
+    {
+      "word": "知識",
+      "reading": "ちしき",
+      "meaningZh": "知识",
+      "meaningEn": "knowledge",
+      "level": "n3",
+      "exampleSentence": "新しい知識をたくさん学びました。",
+      "id": "60680c3e-8da2-466d-9c67-9d15b39f0602"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaningZh": "经验",
+      "meaningEn": "experience",
+      "level": "n3",
+      "exampleSentence": "仕事の経験があります。",
+      "id": "94ea3e4b-a8eb-45c6-a0c0-f1bbadf5dbea"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "なぜ、会社は副業を許すようになったのですか？",
+      "options": [
+        "もっとお金を稼ぐため",
+        "社員がもっと休むため",
+        "新しい会社を作るため",
+        "古いやり方に戻るため"
+      ],
+      "correctIndex": 0,
+      "explanation": "「副業をすれば、収入が増えます。」",
+      "id": "fac714ad-d6de-445e-8b1e-7175f4f3411f"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-04-1e32d3b1bf",
+  "publishedAt": "2026-11-04T06:00:00+09:00"
+}

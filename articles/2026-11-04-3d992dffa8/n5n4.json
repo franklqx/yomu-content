@@ -1,0 +1,122 @@
+{
+  "title": "古本屋で文化イベント",
+  "summary": "神保町では、毎年、本のお祭りが開かれます。たくさんの人が本を楽しみます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "東京には神保町という有名な場所があります。そこは古い本屋がたくさんある町です。たくさんの本があって、面白い本を見つけることができます。",
+      "translationZh": "东京有一个叫神保町的有名地方。那里是旧书店很多的街道。有很多书，可以找到有趣的书。",
+      "translationEn": "Tokyo has a famous place called Jinbocho. It is a town with many old bookstores. There are many books, and you can find interesting ones.",
+      "id": "8c3ca010-141f-4c46-abce-64943b6922b3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この町で、毎月、文化イベントが開かれます。特に、文学イベントは人気があります。古い本や新しい本について話す人が来ます。",
+      "translationZh": "在这条街道，每个月会举办文化活动。特别是文学活动很受欢迎。会有谈论旧书和新书的人来。",
+      "translationEn": "In this town, a cultural event is held every month. In particular, literary events are popular. People who talk about old and new books come.",
+      "id": "6ebb303c-6673-44a4-8f6a-b319bb6f1d8e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "イベントでは、作家さんの話を聞くことができます。質問もできます。本が好きな人にとって、とても楽しい時間です。子供も大人も楽しめます。",
+      "translationZh": "在活动中，可以听到作家先生的故事。也可以提问。对于喜欢书的人来说，是非常快乐的时光。小孩和大人都能享受。",
+      "translationEn": "At the event, you can listen to stories from authors. You can also ask questions. It is a very enjoyable time for people who like books. Both children and adults can enjoy it.",
+      "id": "3f2ee8fd-d5af-47ad-99ea-bd780db8e129",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "神保町のイベントは、本の世界をもっと知る良い機会です。来年も、また多くの人が集まるでしょう。本について、新しい発見があるかもしれません。",
+      "translationZh": "神保町的活动是更多地了解书籍世界的绝佳机会。明年，也会有很多人聚集。关于书，也许会有新的发现。",
+      "translationEn": "The Jinbocho event is a good opportunity to learn more about the world of books. Next year, many people will probably gather again. You might make new discoveries about books.",
+      "id": "c0718561-024c-449f-9707-8b50aafdc6b7",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "古い",
+      "reading": "ふるい",
+      "meaningZh": "旧的",
+      "meaningEn": "old",
+      "level": "n5n4",
+      "exampleSentence": "これは古い本です。",
+      "id": "4ff6a7e9-03cb-4afe-aad9-c4f822275059"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaningZh": "地方",
+      "meaningEn": "place",
+      "level": "n5n4",
+      "exampleSentence": "ここは静かな場所です。",
+      "id": "3b1607bc-880d-43c7-8a81-ee44ef074f27"
+    },
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaningZh": "街道，城镇",
+      "meaningEn": "town, street",
+      "level": "n5n4",
+      "exampleSentence": "この町はきれいです。",
+      "id": "1ccc52bf-3476-4146-8b1f-252e83f2cad7"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaningZh": "文化",
+      "meaningEn": "culture",
+      "level": "n5n4",
+      "exampleSentence": "日本の文化は面白いです。",
+      "id": "c8d72d49-d738-44d3-b23b-7f7dade457fa"
+    },
+    {
+      "word": "イベント",
+      "reading": "イベント",
+      "meaningZh": "活动",
+      "meaningEn": "event",
+      "level": "n5n4",
+      "exampleSentence": "週末にイベントがあります。",
+      "id": "50a273b3-aa2b-4d1e-b0d1-c20c00ddcd9a"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaningZh": "作家",
+      "meaningEn": "writer, author",
+      "level": "n5n4",
+      "exampleSentence": "有名な作家の本を読みました。",
+      "id": "1f82ab89-ace8-4949-a8b0-138fa5d404bb"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaningZh": "机会",
+      "meaningEn": "opportunity",
+      "level": "n5n4",
+      "exampleSentence": "これは良い機会です。",
+      "id": "9f769d31-d5c7-4c58-b8d7-0248e9b72bed"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "神保町では、どのようなイベントが人気がありますか。",
+      "options": [
+        "音楽イベント",
+        "食のイベント",
+        "文学イベント",
+        "スポーツイベント"
+      ],
+      "correctIndex": 2,
+      "explanation": "特に、文学イベントは人気があります。",
+      "id": "c0756d8d-3253-41b2-9a05-9ff2014aae64"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-04-3d992dffa8",
+  "publishedAt": "2026-11-04T06:00:00+09:00"
+}
