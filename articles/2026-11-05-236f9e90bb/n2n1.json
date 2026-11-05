@@ -1,0 +1,138 @@
+{
+  "title": "ドローン配送、都市部での実証実験が加速",
+  "summary": "人手不足や高齢化が進む中、ドローンによる物流の効率化が期待されています。都市部での実証実験が活発化し、実用化に向けた動きが加速しています。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、物流業界では深刻な人手不足が課題となっており、特に地方や過疎地域における配送網の維持が困難視されています。こうした状況を受け、新たな配送手段としてドローン活用への期待が高まっています。その中でも、都市部におけるドローン配送の実証実験が活発に行われており、技術的な課題克服と法整備の進展に伴い、実用化に向けた動きが加速しているとのことです。",
+      "translationZh": "近年来，物流行业面临着严重的人手短缺问题，尤其是在维持偏远和人口稀少地区的配送网络方面被认为十分困难。在此背景下，作为一种新的配送手段，人们对无人机利用的期待日益高涨。其中，在城市地区无人机配送的实证实验正在积极开展，随着技术课题的克服和法律法规的进展，据称其实用化进程正在加速。",
+      "translationEn": "In recent years, the logistics industry has faced a serious labor shortage, making it difficult to maintain delivery networks, especially in rural and depopulated areas. In response to this situation, expectations are rising for the use of drones as a new delivery method. Among these, demonstration experiments for drone delivery in urban areas are actively being conducted, and with the overcoming of technical challenges and the advancement of legal frameworks, it is reported that the move towards practical application is accelerating.",
+      "id": "c33a20ed-3c24-4f94-899e-e67dedcb56e6",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "国土交通省は、2022年度から「空の移動革命に向けたロードマップ」を推進しており、ドローン配送を含む新たな空域利用のルール作りを進めています。都市部での実証実験では、高層ビルが立ち並ぶ複雑な環境下での安全な飛行ルートの確保や、荷物の確実な受け渡し方法などが検証されています。また、プライバシー保護や騒音問題への配慮も重要な検討事項とされており、住民の理解を得ながら進めることが不可欠であると見られています。",
+      "translationZh": "国土交通省自2022年度起正在推进“迈向天空移动革命的路线图”，并着手制定包括无人机配送在内的新的空域利用规则。在城市地区的实证实验中，正在验证在高楼林立的复杂环境下确保安全飞行路线以及可靠交付货物的方法。此外，隐私保护和噪音问题也被认为是重要的审议事项，并被认为在获得居民理解的同时推进是不可或缺的。",
+      "translationEn": "The Ministry of Land, Infrastructure, Transport and Tourism has been promoting the \"Roadmap for the Sky Mobility Revolution\" since fiscal year 2022, and is working on creating rules for new airspace utilization, including drone delivery. In demonstration experiments in urban areas, efforts are being made to secure safe flight routes in complex environments with numerous high-rise buildings and to establish reliable methods for package handover. Furthermore, consideration for privacy protection and noise issues are considered important points of discussion, and it is seen as essential to proceed while gaining the understanding of residents.",
+      "id": "f8461ef2-cd84-4f4c-b48d-9379fb9ff5e4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "将来的には、医薬品や食料品など、緊急性の高い物資の輸送に加え、日常的な買い物代行としての利用も想定されています。これにより、高齢者や外出が困難な人々への支援が強化されることが期待されます。一方で、ドローン配送の普及には、さらなる技術革新、コスト削減、そして社会全体の受容性の向上が不可欠です。各企業は、これらの課題を克服すべく、日々研究開発に努めており、近い将来、私たちの生活にドローン配送が溶け込む光景が見られるかもしれません。",
+      "translationZh": "从长远来看，除了运输药品和食品等高时效性物资外，还设想了将其作为日常购物代理服务来使用。这有望加强对老年人和行动不便人士的支持。另一方面，无人机配送的普及离不开进一步的技术革新、成本降低以及整个社会的接受度提高。各公司正致力于克服这些挑战，日复一日地进行研发，或许在不久的将来，我们就能看到无人机配送融入我们生活的景象。",
+      "translationEn": "In the future, in addition to transporting urgent items such as medicines and food, it is envisioned to be used as a service for daily shopping assistance. This is expected to strengthen support for the elderly and people with mobility issues. On the other hand, the widespread adoption of drone delivery is indispensable for further technological innovation, cost reduction, and increased societal acceptance. Companies are striving for research and development day by day to overcome these challenges, and perhaps in the near future, we will see drone delivery integrated into our daily lives.",
+      "id": "ea94fdda-6494-4718-ba7d-b1a53bdbdf8d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人手不足",
+      "reading": "ひとてぶそく",
+      "meaningZh": "人手不足",
+      "meaningEn": "labor shortage",
+      "level": "n3",
+      "exampleSentence": "この地域では、深刻な人手不足が続いており、多くの工場が稼働停止に追い込まれている。",
+      "id": "c4adcf79-a61d-4143-89db-fbdcd268b10d"
+    },
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "实证实验",
+      "meaningEn": "demonstration experiment",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術の有効性を確認するため、大規模な実証実験が行われた。",
+      "id": "92d4d100-61b5-495d-ad56-0b56fd5426bd"
+    },
+    {
+      "word": "法整備",
+      "reading": "ほうせいび",
+      "meaningZh": "法律法规的制定和完善",
+      "meaningEn": "legal framework",
+      "level": "n2n1",
+      "exampleSentence": "新しい技術の普及には、それに伴う法整備が不可欠である。",
+      "id": "f6034b44-11af-45cc-b462-b527b375c824"
+    },
+    {
+      "word": "高層ビル",
+      "reading": "こうそうビル",
+      "meaningZh": "高层建筑",
+      "meaningEn": "high-rise building",
+      "level": "n3",
+      "exampleSentence": "都市部には高層ビルが立ち並び、独特の景観を作り出している。",
+      "id": "3a2c0bd4-0f16-4777-84c8-440c961215c0"
+    },
+    {
+      "word": "受け渡し",
+      "reading": "うけわたし",
+      "meaningZh": "交接，转交",
+      "meaningEn": "handover",
+      "level": "n3",
+      "exampleSentence": "商品の受け渡しは、指定された場所で確実に行ってください。",
+      "id": "f458ab46-121a-49e9-924f-f8d0093b5c3d"
+    },
+    {
+      "word": "騒音問題",
+      "reading": "そうおんもんだい",
+      "meaningZh": "噪音问题",
+      "meaningEn": "noise problem",
+      "level": "n3",
+      "exampleSentence": "近隣住民からの苦情により、工場の騒音問題が表面化した。",
+      "id": "2fbadc11-cda0-408a-98d6-97c3fdd42ce2"
+    },
+    {
+      "word": "受容性",
+      "reading": "じゅようせい",
+      "meaningZh": "接受度，可接受性",
+      "meaningEn": "acceptability",
+      "level": "n2n1",
+      "exampleSentence": "新しい制度の導入には、社会的な受容性を高めるための努力が必要だ。",
+      "id": "4776723d-52b7-4525-9675-c778f606d76e"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "記事によると、都市部でのドローン配送の実証実験が活発化している背景には、どのような課題があると考えられますか？",
+      "options": [
+        "ドローン操縦士の不足",
+        "都市部での充電インフラの未整備",
+        "物流業界における人手不足",
+        "ドローン配送に対する一般市民の反対運動"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文冒頭に「近年、物流業界では深刻な人手不足が課題となっており、…こうした状況を受け、新たな配送手段としてドローン活用への期待が高まっています。」と記載されています。",
+      "id": "77fce780-1b5f-48cc-8235-291570a3bcb1"
+    },
+    {
+      "question": "国土交通省が進める「空の移動革命に向けたロードマップ」において、都市部でのドローン配送実験で特に重要視されている点は何ですか？",
+      "options": [
+        "ドローンの最高速度の向上",
+        "飛行ルートの安全確保と荷物の確実な受け渡し",
+        "ドローン操縦士の国際ライセンス制度の確立",
+        "ドローンによる広報活動の実施"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文中に「都市部での実証実験では、高層ビルが立ち並ぶ複雑な環境下での安全な飛行ルートの確保や、荷物の確実な受け渡し方法などが検証されています。」とあります。",
+      "id": "349ff906-49e3-49c5-9263-3231e9a09b48"
+    },
+    {
+      "question": "将来的には、ドローン配送はどのような用途での利用が想定されていますか？",
+      "options": [
+        "主に軍事目的での物資輸送",
+        "災害時の通信手段としての活用",
+        "緊急物資輸送と日常的な買い物代行",
+        "大規模イベント会場への機材運搬"
+      ],
+      "correctIndex": 2,
+      "explanation": "「将来的には、医薬品や食料品など、緊急性の高い物資の輸送に加え、日常的な買い物代行としての利用も想定されています。」という記述があります。",
+      "id": "9c8ce33d-a3fb-4b9f-b7ed-0ade9d1e03ec"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-11-05-236f9e90bb",
+  "publishedAt": "2026-11-05T06:00:00+09:00"
+}

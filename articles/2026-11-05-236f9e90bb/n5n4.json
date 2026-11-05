@@ -1,0 +1,114 @@
+{
+  "title": "ドローンが荷物を運ぶ？",
+  "summary": "最近、ドローンで荷物を運ぶ実験が行われています。これは未来の新しい配達方法です。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、ドローンを使った新しい配達の実験が始まりました。ドローンは空を飛ぶ小さな飛行機です。この実験では、ドローンが遠い場所へ荷物を運びます。",
+      "translationZh": "最近，使用无人机的新型配送实验开始了。无人机是一种在空中飞行的 小型飞机。在这个实验中，无人机将把货物运送到遥远的地方。",
+      "translationEn": "Recently, a new delivery experiment using drones has begun. A drone is a small airplane that flies in the sky. In this experiment, drones will carry packages to distant places.",
+      "id": "f36b6f0e-e0ac-4116-9ff2-06175fc035e0",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この配達方法は、まだ準備中です。いろいろな場所で、安全に飛べるか、荷物を落とさないかなどを調べています。山や海が遠い地域では、とても便利になるでしょう。",
+      "translationZh": "这种配送方法还在准备中。在各种地方，都在调查它是否能安全飞行，是否会掉落货物等。在山区或海边遥远的地区，它将会非常方便。",
+      "translationEn": "This delivery method is still under preparation. In various places, they are investigating if it can fly safely and if it will drop packages. It will be very convenient in areas far from mountains or the sea.",
+      "id": "b78ca5ff-d37a-4088-b641-fbac00a18d5d",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送は、速くて便利です。これからも、この技術がもっと進歩するといいですね。たくさんの人が喜ぶ未来が来るかもしれません。",
+      "translationZh": "无人机配送快速而方便。今后，如果这项技术能进一步发展就好了。很多人高兴的未来或许会到来。",
+      "translationEn": "Drone delivery is fast and convenient. It would be good if this technology advances more in the future. A future where many people are happy might come.",
+      "id": "00aab866-66f7-4488-9012-93b1eca2e808",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ドローン",
+      "reading": "どろーん",
+      "meaningZh": "无人机机器",
+      "meaningEn": "drone",
+      "level": "n5n4",
+      "exampleSentence": "ドローンが空を飛んでいます。",
+      "id": "3eccd47e-5a87-4ac0-8aa9-14701c49ba45"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，输送",
+      "meaningEn": "delivery",
+      "level": "n5n4",
+      "exampleSentence": "この定页は明日に配送されます。",
+      "id": "290b1758-f01e-4654-b7f9-44508c8eda58"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "新しい手法の実验をしました。",
+      "id": "ca15d70b-7f5a-44a1-87a2-477ba89f37fd"
+    },
+    {
+      "word": "準備中",
+      "reading": "じゅんびちゅう",
+      "meaningZh": "准备中",
+      "meaningEn": "under preparation",
+      "level": "n5n4",
+      "exampleSentence": "このフェアは改葉の準備中です。",
+      "id": "fb4d2a9a-db84-49c9-a8ef-4168a36a3981"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaningZh": "安全",
+      "meaningEn": "safety",
+      "level": "n5n4",
+      "exampleSentence": "安全に注意して下さい。",
+      "id": "ab3f5649-960b-4f6b-bbe4-e806d68c0c1b"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaningZh": "地区",
+      "meaningEn": "area, region",
+      "level": "n5n4",
+      "exampleSentence": "私たちの地域では、この飯が人気です。",
+      "id": "0ec1eea4-7dc6-42df-bb44-35b0e4f2fcd5"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "便利",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "雰車はべんりです。",
+      "id": "a5e2758e-56cc-4d65-bdc6-0170362a2dfd"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送の実验で、どんなことを調べていますか？",
+      "options": [
+        "運賀費の配送です。",
+        "安全に飛べるかです。",
+        "航空温度です。",
+        "雰月の過ぎましです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "ドローンで、安全に飛べるか、荷物を落とらないかなどを調べています。",
+      "id": "2875ab46-8cae-499c-b96b-e52236499001"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-05-236f9e90bb",
+  "publishedAt": "2026-11-05T06:00:00+09:00"
+}

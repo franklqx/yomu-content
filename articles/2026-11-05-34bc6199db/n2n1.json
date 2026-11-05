@@ -1,0 +1,138 @@
+{
+  "title": "図書館の夜間営業実験、市民の利用行動に変化は？",
+  "summary": "一部の公立図書館で、利用者の利便性向上を目指し夜間営業の実験が行われている。その結果、新たな利用層の開拓や利用時間の分散化が期待されている。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、都市部を中心に公立図書館における夜間営業の実験が相次いで実施されている。これは、日中仕事や学業で忙しい人々にも図書館を利用してもらおうという試みであり、各自治体は利用者のニーズを把握するとともに、新たなサービス提供の可能性を探っている。実験に参加した図書館からは、平日夜間に若年層や社会人の利用が増加したとの報告もあり、時間帯による利用者の多様化がうかがえる。",
+      "translationZh": "近年来，以城市地区为中心，公立图书馆相继实施了夜间营业的实验。这是为了让白天忙于工作或学业的人们也能利用图书馆的尝试，各地方政府在了解利用者需求的同时，也在探索提供新服务的可能性。实验参与图书馆报告称，平日夜晚的年轻人群体和在职人士的使用有所增加，可以看出不同时间段使用者的多样化。",
+      "translationEn": "In recent years, experiments with evening opening hours have been successively implemented in public libraries, particularly in urban areas. This initiative aims to enable people busy with work or studies during the day to utilize libraries, and local governments are exploring the possibility of providing new services while understanding user needs. Reports from participating libraries indicate an increase in the usage by younger demographics and working adults on weekday evenings, suggesting a diversification of users based on time slots.",
+      "id": "fd474ebd-5f71-4ae7-b315-69124109b0e3",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜間営業の導入に伴い、図書館側ではセキュリティ対策の強化や、人員配置の見直しといった課題にも直面している。しかし、こうした工夫を凝らすことで、これまで図書館に足を運ぶ機会が少なかった層へのアプローチが可能になると見られている。特に、資格取得を目指す社会人や、夜遅くまで学習に集中したい学生からは、肯定的な意見が多く寄せられているとのことだ。",
+      "translationZh": "随着夜间营业的引入，图书馆方面也面临着加强安保措施、重新评估人员配置等课题。然而，通过这些努力，有望能够接触到过去较少有机会来图书馆的人群。特别是，以考取资格证书为目标在职人士以及希望深夜集中学习的学生，据说收到了许多积极的意见。",
+      "translationEn": "With the introduction of evening opening hours, libraries are also facing challenges such as strengthening security measures and reviewing staffing. However, it is anticipated that by making such efforts, it will be possible to reach out to demographics that have had fewer opportunities to visit libraries previously. In particular, positive feedback has reportedly been received from working adults aiming for certification and students who wish to concentrate on their studies late into the night.",
+      "id": "d7b8e37d-5e81-43c9-a67f-60d37f7b9c71",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "今回の実験結果は、今後の図書館運営における重要な参考資料となると考えられる。図書館が地域住民の多様なライフスタイルに対応していく上で、夜間営業が有効な手段となり得るのか、その効果測定が今後も注視されるであろう。利用者からの継続的なフィードバックを収集し、より利用しやすい図書館環境の整備が求められている。",
+      "translationZh": "此次实验结果被认为将成为今后图书馆运营的重要参考资料。为了使图书馆能够应对地区居民多样化的生活方式，夜间营业是否能成为有效的手段，其效果测定今后将备受关注。要求收集利用者的持续反馈，并整備更加方便利用的图书馆环境。",
+      "translationEn": "The results of this experiment are expected to serve as crucial reference material for future library management. Whether evening opening hours can be an effective means for libraries to cater to the diverse lifestyles of community residents will likely continue to be closely monitored. There is a need to collect continuous feedback from users and develop a more accessible library environment.",
+      "id": "1d2092d6-7371-4e05-9648-d3d67919a281",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "相次いで",
+      "reading": "あいかわらず",
+      "meaningZh": "接连，接二连三",
+      "meaningEn": "one after another, successively",
+      "level": "n2n1",
+      "exampleSentence": "苦情が相次いで寄せられた。",
+      "id": "5ad6cf3c-5b6d-46a2-8d93-3e68f778495a"
+    },
+    {
+      "word": "開拓",
+      "reading": "かいたく",
+      "meaningZh": "开拓，开辟",
+      "meaningEn": "pioneering, development, cultivation",
+      "level": "n2n1",
+      "exampleSentence": "新規市場を開拓する。",
+      "id": "fa1efe7e-3570-4339-a7c4-07acebd90bdb"
+    },
+    {
+      "word": "うかがえる",
+      "reading": "うかがえる",
+      "meaningZh": "看得出，可见，可以推测",
+      "meaningEn": "can be seen, can be inferred",
+      "level": "n3",
+      "exampleSentence": "彼の表情から、その考えがあるとうかがえる。",
+      "id": "26eeea82-7495-4e57-aa48-ae6bb82540d1"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaningZh": "引入，采纳",
+      "meaningEn": "introduction, adoption",
+      "level": "n3",
+      "exampleSentence": "新しいシステムを導入する。",
+      "id": "4c3fd98e-a457-4326-b23e-6b10078070ea"
+    },
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaningZh": "精心策划，绞尽脑汁",
+      "meaningEn": "to rack one's brains, to devise, to elaborate",
+      "level": "n2n1",
+      "exampleSentence": "工夫を凝らした料理。",
+      "id": "6f309cbf-a551-440f-9778-051f1f844f31"
+    },
+    {
+      "word": "アプローチ",
+      "reading": "アプローチ",
+      "meaningZh": "接触，沟通；方法，途径",
+      "meaningEn": "approach (contact, method)",
+      "level": "n3",
+      "exampleSentence": "新しいアプローチで問題解決を図る。",
+      "id": "6c3380fc-74cb-4707-8f70-bd30f6543564"
+    },
+    {
+      "word": "注視",
+      "reading": "ちゅうし",
+      "meaningZh": "注视，密切关注",
+      "meaningEn": "close attention, watching carefully",
+      "level": "n2n1",
+      "exampleSentence": "今後の動向を注視する。",
+      "id": "8cb39678-961d-4603-bbe7-faec778c602d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "公立図書館で夜間営業実験が行われている主な目的は何ですか？",
+      "options": [
+        "図書館の収益を増やすため",
+        "日中忙しい人々にも図書館を利用してもらおうという試み",
+        "図書館の閉館時間を延長して、より多くの本を貸し出すため",
+        "図書館の職員の労働時間を短縮するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "本文第一段に「日中仕事や学業で忙しい人々にも図書館を利用してもらおうという試みであり」と記載されている。",
+      "id": "2890a35e-3cdd-46c1-a79e-849fbc3ab097"
+    },
+    {
+      "question": "夜間営業の実験により、どのような利用者の増加が見られるとのことですか？",
+      "options": [
+        "高齢者の利用が増加した",
+        "子供連れの家族の利用が増加した",
+        "若年層や社会人の利用が増加した",
+        "外国人観光客の利用が増加した"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第一段に「平日夜間に若年層や社会人の利用が増加したとの報告もあり」と記載されている。",
+      "id": "6cddc0a0-fe21-4318-976c-ab7ddbd34494"
+    },
+    {
+      "question": "夜間営業の導入に伴い、図書館側が直面している課題として挙げられているものは何ですか？",
+      "options": [
+        "本の蔵書数が不足すること",
+        "利用者のマナーが悪化すること",
+        "セキュリティ対策の強化や人員配置の見直し",
+        "インターネット環境の整備が遅れること"
+      ],
+      "correctIndex": 2,
+      "explanation": "本文第二段に「セキュリティ対策の強化や、人員配置の見直しといった課題にも直面している」と記載されている。",
+      "id": "1b31d7a8-0a00-4b76-8f42-1d6abf1b1d48"
+    }
+  ],
+  "tier": "n2n1",
+  "sourceURL": null,
+  "slug": "2026-11-05-34bc6199db",
+  "publishedAt": "2026-11-05T06:00:00+09:00"
+}

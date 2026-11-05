@@ -1,0 +1,143 @@
+{
+  "title": "ドローン配送、未来の買い物体験が始まる！",
+  "summary": "近年、ドローンを使った荷物配送の実証実験が各地で行われています。これにより、私たちの生活がどう変わるのか見ていきましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "最近、色々な場所でドローンを使った荷物の配送実験が行われています。これは、空を飛ぶ小さな飛行機のようなドローンが、私たちの注文した商品を直接家まで運んでくれるというものです。まだ実験段階ですが、実現すれば、買い物の仕方が大きく変わるかもしれません。",
+      "translationZh": "最近，各地都在进行利用无人机运送货物的实验。这是一种像小型飞机一样的无人机，能够将我们订购的商品直接运送到家。虽然还处于实验阶段，但如果实现，购物方式可能会发生巨大变化。",
+      "translationEn": "Recently, delivery experiments using drones are being conducted in various places. This involves drones, similar to small airplanes flying in the sky, delivering the products we order directly to our homes. Although it's still in the experimental stage, if realized, our way of shopping might change significantly.",
+      "id": "ad90bc0a-fc9b-401b-8703-5ebf2368ab09",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送のメリットは、まず速さです。渋滞に巻き込まれる心配がないため、特に緊急で必要な物や、遠い場所への配送が早くできると期待されています。また、過疎地域など、人が住んでいても交通の便が悪い場所への物資供給もスムーズになるでしょう。",
+      "translationZh": "无人机配送的优点首先是速度。因为不用担心堵车，所以人们期待它能快速配送特别急需的物品或运往偏远地区。此外，对于人口稀少地区等交通不便的地方，物资供应也将变得顺畅。",
+      "translationEn": "The primary advantage of drone delivery is speed. Since there's no worry about traffic jams, it's expected to enable faster delivery of urgently needed items or to remote locations. Furthermore, it will likely streamline the supply of goods to areas with poor transportation access, such as depopulated regions.",
+      "id": "b7b4dfa4-59d2-4411-a6ea-0c98bba5db77",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、課題も少なくありません。例えば、天候が悪かったり、ドローンが落としたりする事故が起きたりすると、安全性が心配されます。また、プライバシーの問題や、騒音の問題についても、解決していく必要があります。これらの課題を一つずつクリアしながら、実用化への道を探っています。",
+      "translationZh": "但是，挑战也不少。例如，如果天气不好，或者发生无人机坠落事故，安全性就会令人担忧。此外，隐私问题和噪音问题也需要得到解决。我们正在努力逐一克服这些挑战，探索实现实际应用的方法。",
+      "translationEn": "However, there are also many challenges. For instance, safety is a concern if the weather is bad or if accidents like drones falling occur. Issues concerning privacy and noise also need to be addressed. We are exploring the path to practical application while overcoming these challenges one by one.",
+      "id": "15005dd6-ecec-4bfc-bafe-e445a77c7d05",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "ドローン配送が当たり前になる日も、そう遠くないかもしれません。技術が進歩するにつれて、私たちの生活はさらに便利になっていくでしょう。新しい技術に期待しつつ、その発展を見守っていきましょう。",
+      "translationZh": "无人机配送成为常态的日子可能为时不远了。随着技术的进步，我们的生活将变得更加便利。让我们在期待新技术的同时，关注它的发展。",
+      "translationEn": "The day when drone delivery becomes commonplace may not be far off. As technology advances, our lives will become even more convenient. Let's watch its development while looking forward to new technologies.",
+      "id": "0d7c1a99-4d9a-4a63-9b47-91c99f2f73fa",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "実証実験",
+      "reading": "じっしょうじっけん",
+      "meaningZh": "验证实验，实证试验",
+      "meaningEn": "demonstration experiment, pilot project",
+      "level": "n3",
+      "exampleSentence": "新しいシステムの性能を実証実験で確かめた。",
+      "id": "bf4a2b31-91ee-4ba2-8b40-9b5f9a9c8cb6"
+    },
+    {
+      "word": "配送",
+      "reading": "はいそう",
+      "meaningZh": "配送，递送",
+      "meaningEn": "delivery, distribution",
+      "level": "n3",
+      "exampleSentence": "この荷物は明日中に配送されます。",
+      "id": "70f1eac2-1154-4220-9aad-68bba66d6b81"
+    },
+    {
+      "word": "過疎地域",
+      "reading": "かそちいき",
+      "meaningZh": "人口稀疏地区",
+      "meaningEn": "sparsely populated area",
+      "level": "n3",
+      "exampleSentence": "過疎地域では、若い人が町を出ていく問題がある。",
+      "id": "9e0bf5d1-17c3-4ec5-a9e3-2a8c61f5d49f"
+    },
+    {
+      "word": "物資供給",
+      "reading": "ぶっしきょうきゅう",
+      "meaningZh": "物资供应",
+      "meaningEn": "supply of goods/materials",
+      "level": "n3",
+      "exampleSentence": "災害時には、迅速な物資供給が重要になる。",
+      "id": "fb764465-d124-4641-a490-3b598962b447"
+    },
+    {
+      "word": "渋滞",
+      "reading": "じゅうたい",
+      "meaningZh": "堵车，拥挤",
+      "meaningEn": "traffic jam, congestion",
+      "level": "n3",
+      "exampleSentence": "朝のラッシュアワーはひどい渋滞で有名だ。",
+      "id": "8f75bfee-ebf3-4501-b944-9432c0b62ab6"
+    },
+    {
+      "word": "プライバシー",
+      "reading": "ぷらいばしー",
+      "meaningZh": "隐私",
+      "meaningEn": "privacy",
+      "level": "n3",
+      "exampleSentence": "個人のプライバシーは守られるべきだ。",
+      "id": "88d60cf0-18bd-4d57-a3a7-1bb9000d3ecd"
+    },
+    {
+      "word": "騒音",
+      "reading": "そうおん",
+      "meaningZh": "噪音",
+      "meaningEn": "noise",
+      "level": "n3",
+      "exampleSentence": "工事の騒音で、会議に集中できなかった。",
+      "id": "71737da2-ebee-4447-8772-b540924ef210"
+    },
+    {
+      "word": "実用化",
+      "reading": "じつようか",
+      "meaningZh": "实用化",
+      "meaningEn": "practical application, commercialization",
+      "level": "n2n1",
+      "exampleSentence": "この技術は、まだ実用化には時間がかかりそうだ。",
+      "id": "e27220ac-248a-47c1-ac5b-7d2802e30321"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ドローン配送のメリットとして、記事では何が挙げられていますか？",
+      "options": [
+        "配達員が直接手渡しできること",
+        "渋滞がなく、速く届けられること",
+        "天候が悪くても確実に届けられること",
+        "配達料金が非常に安いこと"
+      ],
+      "correctIndex": 1,
+      "explanation": "記事には「ドローン配送のメリットは、まず速さです。渋滞に巻き込まれる心配がないため、特に緊急で必要な物や、遠い場所への配送が早くできると期待されています。」と書かれています。",
+      "id": "65b76ee9-9c4e-4b73-8386-f9a9c2966ad2"
+    },
+    {
+      "question": "ドローン配送の課題として、記事で触れられていないものはどれですか？",
+      "options": [
+        "天候による影響",
+        "プライバシーの問題",
+        "ドローンの操作技術の難しさ",
+        "騒音の問題"
+      ],
+      "correctIndex": 2,
+      "explanation": "記事では「天候が悪かったり、ドローンが落としたりする事故が起きたりすると、安全性が心配されます。また、プライバシーの問題や、騒音の問題についても、解決していく必要があります。」と書かれていますが、操作技術の難しさについては触れられていません。",
+      "id": "34458b70-f153-41d8-8927-3b9d40d798ec"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-11-05-236f9e90bb",
+  "publishedAt": "2026-11-05T06:00:00+09:00"
+}

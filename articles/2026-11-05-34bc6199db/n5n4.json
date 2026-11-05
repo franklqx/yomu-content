@@ -1,0 +1,131 @@
+{
+  "title": "夜の図書館、開いてます！",
+  "summary": "ある公立図書館で、夜も開ける実験をしました。夜に図書館を使う人が増えるかもしれません。",
+  "estimatedMinutes": 2,
+  "paragraphs": [
+    {
+      "text": "最近、ある町で新しい試みがありました。公立図書館が夜も開ける実験をしたのです。普段、図書館は夕方には閉まります。でも、この実験では夜遅くまで開いていました。",
+      "translationZh": "最近，某个城镇进行了一项新的尝试。公立图书馆进行了夜间开放的实验。平时，图书馆傍晚就会关门。但是，这次实验中，图书馆一直开到很晚。",
+      "translationEn": "Recently, there was a new attempt in a certain town. A public library conducted an experiment to open at night. Usually, libraries close in the evening. However, in this experiment, the library stayed open late into the night.",
+      "id": "f2941d0a-8155-412a-a12d-ebd6196aaf81",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この実験の目的は、もっと多くの人に図書館を利用してもらうことです。仕事が終わってから図書館に来る人や、夜に静かな場所で勉強したい学生のために、夜間営業はとても便利です。図書館には、本がたくさんあります。また、静かな勉強部屋もあります。",
+      "translationZh": "这项实验的目的是让更多人利用图书馆。对于下班后前来图书馆的人，以及想在安静的地方夜间学习的学生来说，夜间营业非常方便。图书馆里有很多书。另外，也有安静的学习室。",
+      "translationEn": "The purpose of this experiment is to allow more people to use the library. Night hours are very convenient for people who come to the library after work, and for students who want to study in a quiet place at night. Libraries have many books. Also, there are quiet study rooms.",
+      "id": "9632225f-7c57-42a7-8c9f-37d3f0697d4a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "実験の結果、夜に図書館に来る人が思ったよりいました。特に、若い人や学生が多く来ました。この実験は成功したと言えるでしょう。図書館は、これからも夜に開けることを考えています。",
+      "translationZh": "实验结果显示，晚上来图书馆的人比预想的要多。特别是年轻人和学生来的人很多。可以说这次实验是成功的。图书馆今后也在考虑夜间开放。",
+      "translationEn": "As a result of the experiment, there were more people visiting the library at night than expected. In particular, many young people and students came. This experiment can be said to have been successful. The library is considering opening at night in the future.",
+      "id": "af2e0956-c079-4612-ab82-45e5078a4b6e",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "夜の図書館は、とても静かで落ち着いた雰囲気です。好きな本をゆっくり選んだり、勉強に集中したりすることができます。皆さんも、夜の図書館を体験してみませんか？",
+      "translationZh": "晚上的图书馆，气氛非常安静而祥和。你可以悠闲地挑选喜欢的书，或者专注于学习。你们也想体验一下晚上的图书馆吗？",
+      "translationEn": "The library at night has a very quiet and calm atmosphere. You can slowly choose books you like, or concentrate on your studies. Would you like to experience the library at night too?",
+      "id": "b277019d-433b-43b5-952a-236506605a50",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "試み",
+      "reading": "こころみ",
+      "meaningZh": "尝试，试验",
+      "meaningEn": "attempt, trial",
+      "level": "n5n4",
+      "exampleSentence": "新しい試みはうまくいきました。",
+      "id": "aa06d848-3933-419b-8eb3-c33679786e58"
+    },
+    {
+      "word": "公立",
+      "reading": "こうりつ",
+      "meaningZh": "公立的",
+      "meaningEn": "public",
+      "level": "n5n4",
+      "exampleSentence": "これは公立の学校です。",
+      "id": "e743a4d3-8a90-4b3c-9dcf-a99d5c2fdc64"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaningZh": "实验",
+      "meaningEn": "experiment",
+      "level": "n5n4",
+      "exampleSentence": "小さな実験をしました。",
+      "id": "3265b77d-7449-4f83-9cb6-fcf6139e1cd6"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaningZh": "利用",
+      "meaningEn": "use, utilize",
+      "level": "n5n4",
+      "exampleSentence": "図書館を利用しました。",
+      "id": "242eeb4d-4b66-4c7b-ba97-bce92c68dd80"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningZh": "目的",
+      "meaningEn": "purpose, objective",
+      "level": "n5n4",
+      "exampleSentence": "この旅行の目的は何ですか。",
+      "id": "93263c5a-dce9-41cc-baef-55470b35955a"
+    },
+    {
+      "word": "便利",
+      "reading": "べんり",
+      "meaningZh": "方便",
+      "meaningEn": "convenient",
+      "level": "n5n4",
+      "exampleSentence": "この道具はとても便利です。",
+      "id": "d81436be-fa72-49d4-a3c3-5cedaf617a0e"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静，寂静",
+      "meaningEn": "quiet, peaceful",
+      "level": "n5n4",
+      "exampleSentence": "図書館は静かです。",
+      "id": "a3512294-b2da-4ef8-aa5a-78a205537ae7"
+    },
+    {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaningZh": "气氛",
+      "meaningEn": "atmosphere, mood",
+      "level": "n3",
+      "exampleSentence": "この部屋は良い雰囲気です。",
+      "id": "0bbb7ffc-93e1-4dde-9fde-fe4d85abf38d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この図書館の実験は何のために行われましたか？",
+      "options": [
+        "もっと多くの人に図書館を使ってもらうため",
+        "新しい本をたくさん買うため",
+        "図書館の建物を直すため",
+        "図書館員を増やすため"
+      ],
+      "correctIndex": 0,
+      "explanation": "「この実験の目的は、もっと多くの人に図書館を利用してもらうことです。」",
+      "id": "ecd27839-2d29-4553-8bf4-fbf79cf071a5"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-05-34bc6199db",
+  "publishedAt": "2026-11-05T06:00:00+09:00"
+}

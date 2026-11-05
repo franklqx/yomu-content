@@ -1,0 +1,131 @@
+{
+  "title": "雪まつり！北海道の宿は高い？",
+  "summary": "北海道の雪まつりの時期は、たくさんの人が来ます。ホテルや旅館の部屋が少なくなります。だから、料金が高くなることがあります。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "北海道では、冬に大きなイベントがあります。それは雪まつりです。雪まつりはとても有名で、世界中から人が来ます。特に札幌（さっぽろ）の雪まつりは大きいです。たくさんの雪の像（ぞう）が見られます。",
+      "translationZh": "北海道的冬天有很大的活动。那就是雪祭。雪祭非常有名的，从世界各地来很多人。特别是札幌的雪祭很大。可以看到很多雪雕像。",
+      "translationEn": "In Hokkaido, there is a big event in winter. It is the Snow Festival. The Snow Festival is very famous, and people come from all over the world. Especially the Sapporo Snow Festival is large. You can see many snow sculptures.",
+      "id": "09350272-f2d2-4c52-a4d2-86f62a9fade8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "雪まつりの時期には、北海道に泊まる場所を探すのがむずかしくなります。ホテルや旅館の部屋はすぐにいっぱいになります。だから、早めに予約（よやく）をすることが大切です。",
+      "translationZh": "在雪祭时期，在北海道找住处会变得困难。旅馆和酒店的房间很快就会满。所以，尽早预约很重要。",
+      "translationEn": "During the Snow Festival period, it becomes difficult to find a place to stay in Hokkaido. Hotel and inn rooms fill up quickly. Therefore, it is important to make reservations early.",
+      "id": "88c0b706-e2fb-4c31-826c-478e9879cfa8",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "また、雪まつりの時期は、宿泊料金（しゅくはくりょうきん）が高くなることが多いです。ふつうの時より、少し高くなります。旅行（りょこう）の計画を立てるときは、このことも考えておくといいでしょう。",
+      "translationZh": "另外，雪祭时期，住宿费用经常会变高。比平时要高一些。计划旅行的时候，考虑到这一点会比较好。",
+      "translationEn": "Also, during the Snow Festival period, accommodation prices often become higher. They become a little more expensive than usual. When planning your trip, it's good to consider this too.",
+      "id": "6540e9ac-01a1-4891-985a-c1854c3b73f5",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし雪まつりに行きたいなら、早めに準備（じゅんび）をしましょう。飛行機（ひこうき）のチケットやホテルの予約は、数ヶ月前（すうかげつまえ）から始めてもいいかもしれません。",
+      "translationZh": "如果想去雪祭，就尽早准备吧。飞机的票和酒店的预约，可能要提前几个月开始。",
+      "translationEn": "If you want to go to the Snow Festival, let's prepare early. You might want to start booking airplane tickets and hotel reservations a few months in advance.",
+      "id": "6fb71edc-451d-4c00-915c-a11b8d70d286",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "雪まつり",
+      "reading": "ゆきまつり",
+      "meaningZh": "雪祭",
+      "meaningEn": "Snow Festival",
+      "level": "n5n4",
+      "exampleSentence": "札幌の雪まつりは有名です。",
+      "id": "f9ee3f26-711d-4426-914a-737be89528cf"
+    },
+    {
+      "word": "世界中",
+      "reading": "せかいじゅう",
+      "meaningZh": "世界各地",
+      "meaningEn": "all over the world",
+      "level": "n5n4",
+      "exampleSentence": "世界中から観光客が来ます。",
+      "id": "2aeb8aa6-8311-4b69-b289-2da9449a5873"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaningZh": "有名",
+      "meaningEn": "famous",
+      "level": "n5n4",
+      "exampleSentence": "この町は古いお寺で有名です。",
+      "id": "70cd7147-e8f6-4d96-b624-36213de3ca40"
+    },
+    {
+      "word": "探す",
+      "reading": "さがす",
+      "meaningZh": "寻找",
+      "meaningEn": "to search for, to look for",
+      "level": "n5n4",
+      "exampleSentence": "なくした鍵（かぎ）を探しています。",
+      "id": "ed1761e9-393c-44ad-ada9-a10c7f9bbf9b"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaningZh": "预约",
+      "meaningEn": "reservation",
+      "level": "n5n4",
+      "exampleSentence": "レストランを予約しました。",
+      "id": "b27290c0-d250-415f-9559-498b377b5b63"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaningZh": "重要",
+      "meaningEn": "important",
+      "level": "n5n4",
+      "exampleSentence": "健康（けんこう）はとても大切です。",
+      "id": "3819a85e-340e-4728-97a4-5307c536d61b"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaningZh": "费用",
+      "meaningEn": "fee, charge, fare",
+      "level": "n5n4",
+      "exampleSentence": "このバスの料金はいくらですか。",
+      "id": "c940d76e-4b54-4d8e-b2d8-26c7b1ad7019"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaningZh": "计划",
+      "meaningEn": "plan",
+      "level": "n5n4",
+      "exampleSentence": "夏休みの計画を立てています。",
+      "id": "e385a2b2-ca4b-4b8b-9f0d-2c71ab3d89d4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "雪まつりの時期に北海道で宿を探すのは、なぜむずかしくなりますか？",
+      "options": [
+        "宿がたくさんできるからです。",
+        "たくさんの人が北海道に来るからです。",
+        "宿の料金が安くなるからです。",
+        "雪がたくさん降るからです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "雪まつりの時期には、北海道に泊まる場所を探すのがむずかしくなります。ホテルや旅館の部屋はすぐにいっぱいになります。",
+      "id": "31d538ed-eb69-49b4-bf6f-7a261992ae1d"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-05-c3d486ff33",
+  "publishedAt": "2026-11-05T06:00:00+09:00"
+}
