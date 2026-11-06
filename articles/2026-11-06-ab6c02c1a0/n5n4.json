@@ -1,0 +1,131 @@
+{
+  "title": "山の温泉でのんびり",
+  "summary": "山にある温泉地はとても静かで、リラックスできます。昔からの温泉の入り方（湯治）も体験できます。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、山の中に美しい温泉地がたくさんあります。これらの温泉地は、町から遠く、とても静かです。自然がいっぱいで、空気がきれいです。疲れた体を休めるのにぴったりな場所です。",
+      "translationZh": "日本有很多位于山中的美丽温泉地。这些温泉地远离城镇，非常宁静。那里充满大自然，空气清新。是让疲惫的身体得到休息的绝佳去处。",
+      "translationEn": "Japan has many beautiful hot spring towns located in the mountains. These hot spring towns are far from the city and are very quiet. They are full of nature, and the air is clean. They are perfect places to rest your tired body.",
+      "id": "8a3223bd-d289-4727-be03-30ebbdfda159",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔から、温泉には「湯治（とうじ）」という入り方があります。これは、病気やけがを治すために、長い間温泉にゆっくり入ることです。温泉の水には体に良い成分がたくさん入っていると言われています。",
+      "translationZh": "自古以来，泡温泉有一种叫做“汤治”的入浴方式。这是为了治疗疾病或伤痛，长时间慢慢地泡在温泉里。据说温泉水中含有许多对身体有益的成分。",
+      "translationEn": "For a long time, there has been a way of bathing in hot springs called 'Tōji'. This means soaking in the hot spring slowly for a long time to cure illness or injury. It is said that the hot spring water contains many beneficial components for the body.",
+      "id": "54850d3f-4f53-4b65-8d97-effeb77eb891",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "温泉地では、昔ながらの旅館に泊まることができます。食事もおいしいです。温泉に入って、おいしいものを食べて、ゆっくり過ごすのは、とてもぜいたくな時間です。都会の生活を忘れて、リフレッシュできます。",
+      "translationZh": "在温泉地，您可以入住古老的日式旅馆。食物也很美味。泡温泉、吃美味的食物、悠闲地度过时光，是非常奢侈的享受。您可以忘记都市的生活，重新焕发活力。",
+      "translationEn": "In the hot spring towns, you can stay at traditional Japanese inns. The food is also delicious. Soaking in the hot springs, eating delicious food, and spending time leisurely is a very luxurious experience. You can forget your city life and refresh yourself.",
+      "id": "a7d78d3f-4070-4103-a644-22bfb45b0278",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "もし日本に来る機会があれば、ぜひ山間の温泉地に行ってみてください。きっと、心と体がリラックスできるでしょう。新しい日本の文化も感じられるはずです。",
+      "translationZh": "如果将来有机会来日本，请一定要去山间的温泉地看看。相信您的身心一定会得到放松。您也应该能感受到日本的新文化。",
+      "translationEn": "If you have the chance to visit Japan in the future, please try visiting a mountain hot spring town. I'm sure your mind and body will relax. You should also be able to feel Japan's new culture.",
+      "id": "f8251f33-9386-4e59-b188-ad92b16dd63c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "温泉地",
+      "reading": "おんせんち",
+      "meaningZh": "温泉疗养地",
+      "meaningEn": "hot spring resort area",
+      "level": "n5n4",
+      "exampleSentence": "この温泉地は有名です。",
+      "id": "98b64cb7-4707-4722-bd14-4ef81c76726e"
+    },
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaningZh": "安静的，平静的",
+      "meaningEn": "quiet, peaceful",
+      "level": "n5n4",
+      "exampleSentence": "ここはとても静かです。",
+      "id": "657373d2-b6d3-4731-9730-976eb231e702"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaningZh": "自然",
+      "meaningEn": "nature",
+      "level": "n5n4",
+      "exampleSentence": "自然がいっぱいの場所が好きです。",
+      "id": "18f524da-15cd-46b3-82e1-e0e4c04d2530"
+    },
+    {
+      "word": "休む",
+      "reading": "やすむ",
+      "meaningZh": "休息",
+      "meaningEn": "to rest",
+      "level": "n5n4",
+      "exampleSentence": "疲れたので、休みました。",
+      "id": "78e525d6-cd11-4742-9417-856c055277fc"
+    },
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "汤治（温泉疗养）",
+      "meaningEn": "hot spring cure, taking the waters",
+      "level": "n3",
+      "exampleSentence": "祖母は湯治をしに行きました。",
+      "id": "8737bb29-716a-4755-b027-be68ac934bf2"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaningZh": "成分",
+      "meaningEn": "ingredient, component",
+      "level": "n3",
+      "exampleSentence": "この薬にはどんな成分が入っていますか。",
+      "id": "2f450039-42f8-47ea-bc1a-baa824b44f3b"
+    },
+    {
+      "word": "旅館",
+      "reading": "りょかん",
+      "meaningZh": "日式旅馆",
+      "meaningEn": "Japanese inn",
+      "level": "n5n4",
+      "exampleSentence": "旅館の部屋は広かったです。",
+      "id": "da16dc39-61a5-4064-9399-9f9a11dc3fbe"
+    },
+    {
+      "word": "ぜいたく",
+      "reading": "ぜいたく",
+      "meaningZh": "奢侈，浪费",
+      "meaningEn": "luxury, extravagance",
+      "level": "n3",
+      "exampleSentence": "これは私にとって、とてもぜいたくな時間です。",
+      "id": "a409a481-e1e6-4655-b1ff-ccfa0c5a2ba7"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "昔からの温泉の入り方で、病気やけがを治すために長い間温泉に入ることを何と言いますか。",
+      "options": [
+        "温泉地",
+        "自然",
+        "湯治",
+        "旅館"
+      ],
+      "correctIndex": 2,
+      "explanation": "昔から、温泉には「湯治（とうじ）」という入り方があります。これは、病気やけがを治すために、長い間温泉にゆっくり入ることです。",
+      "id": "e9e755a5-6401-4904-be31-51e910e32dd4"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-06-ab6c02c1a0",
+  "publishedAt": "2026-11-06T06:00:00+09:00"
+}

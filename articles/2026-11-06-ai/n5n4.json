@@ -1,0 +1,122 @@
+{
+  "title": "AI研究のチャンス！",
+  "summary": "学生のために、AI研究を応援するプログラムがあります。ぜひ、このチャンスを使いましょう。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "AIはとても面白い技術です。この技術について、もっと勉強したい学生がたくさんいます。そこで、学生のためのAI研究助成金プログラムができました。",
+      "translationZh": "人工智能是一项非常有意思的技术。有很多学生想更多地学习这项技术。因此，我们为学生设立了人工智能研究资助项目。",
+      "translationEn": "AI is a very interesting technology. Many students want to study this technology more. Therefore, an AI research grant program for students has been created.",
+      "id": "95408944-232f-4fbc-aa3d-7644046c1157",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "このプログラムは、学生がAIのアイデアを形にするのを助けます。優秀なアイデアには、研究のためのお金が与えられます。これにより、学生は安心して研究ができます。",
+      "translationZh": "这个项目帮助学生将人工智能的构想变为现实。优秀的构想将获得研究资金。这样，学生们就可以安心地进行研究了。",
+      "translationEn": "This program helps students turn their AI ideas into reality. Excellent ideas will be awarded money for research. This allows students to research with peace of mind.",
+      "id": "56a26955-7666-44ad-9987-2b9fc7a91f9c",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "昔は、学生が研究をするのは大変でした。でも、このプログラムがあれば、もっと多くの学生がAI分野で活躍できるでしょう。新しい発見が生まれるのが楽しみです。",
+      "translationZh": "过去，学生进行研究是很困难的。但是，有了这个项目，将有更多的学生能在人工智能领域大显身手。我们期待新的发现诞生。",
+      "translationEn": "In the past, it was difficult for students to conduct research. But with this program, more students will be able to play an active role in the AI field. We look forward to new discoveries being made.",
+      "id": "7c613bfb-040c-4832-9305-12e2671808d2",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "興味がある学生は、ぜひプログラムのウェブサイトを見てください。応募方法や締め切りなどの詳しい情報があります。あなたのAI研究を応援します。",
+      "translationZh": "有兴趣的学生，请一定要看看项目的网站。上面有申请方法和截止日期等详细信息。我们支持你的AI研究。",
+      "translationEn": "Students who are interested, please visit the program's website. There is detailed information such as application methods and deadlines. We support your AI research.",
+      "id": "de1dc694-9a7e-4c0e-9544-3c5f55c98867",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaningZh": "技术",
+      "meaningEn": "technology",
+      "level": "n5n4",
+      "exampleSentence": "この技術は素晴らしいです。",
+      "id": "6c04a0e5-80e8-45a8-8d34-b781da347ab3"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaningZh": "学生",
+      "meaningEn": "student",
+      "level": "n5n4",
+      "exampleSentence": "彼は有名な大学の学生です。",
+      "id": "aaa54614-42f4-445c-b7f1-bc29270eca66"
+    },
+    {
+      "word": "研究",
+      "reading": "けんきゅう",
+      "meaningZh": "研究",
+      "meaningEn": "research",
+      "level": "n5n4",
+      "exampleSentence": "新しい薬を研究しています。",
+      "id": "cd7031dc-6bba-4a62-a48d-f0052c0ffa24"
+    },
+    {
+      "word": "助成金",
+      "reading": "じょせいきん",
+      "meaningZh": "资助金",
+      "meaningEn": "grant, subsidy",
+      "level": "n3",
+      "exampleSentence": "研究のために助成金をもらいました。",
+      "id": "6adc3b7f-fc95-40f5-a8c5-e69d380afe68"
+    },
+    {
+      "word": "プログラム",
+      "reading": "ぷろぐらむ",
+      "meaningZh": "项目，计划",
+      "meaningEn": "program",
+      "level": "n5n4",
+      "exampleSentence": "新しい教育プログラムが始まります。",
+      "id": "ed6fff2d-4832-4d69-a481-5b3bc1011fef"
+    },
+    {
+      "word": "アイデア",
+      "reading": "あいであ",
+      "meaningZh": "想法",
+      "meaningEn": "idea",
+      "level": "n5n4",
+      "exampleSentence": "面白いアイデアを思いつきました。",
+      "id": "5552573a-f8d4-4ebc-84ab-aea21d860436"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaningZh": "领域，范围",
+      "meaningEn": "field, area",
+      "level": "n3",
+      "exampleSentence": "彼は経済の分野で働いています。",
+      "id": "b47ce5a6-d9ac-44db-a62c-41abd394b75d"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "このプログラムは何のためにありますか？",
+      "options": [
+        "学生がお金を稼ぐため",
+        "学生がAI研究をするため",
+        "学生が会社を始めるため",
+        "学生が旅行するため"
+      ],
+      "correctIndex": 1,
+      "explanation": "「学生のために、AI研究を応援するプログラムがあります。」",
+      "id": "eef2c6f5-bb94-4e0b-8d97-bdcdbea4f311"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-06-ai",
+  "publishedAt": "2026-11-06T06:00:00+09:00"
+}

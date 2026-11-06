@@ -1,0 +1,122 @@
+{
+  "title": "盆踊りの新しい音楽",
+  "summary": "最近、盆踊りの音楽が新しくなりました。伝統的な音楽に、新しいアイデアが加わりました。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "盆踊りは、日本の夏のお祭りです。昔から、地域の人々が集まって踊りました。太鼓の音と、伝統的な歌が流れました。",
+      "translationZh": "盂兰盆舞是日本夏天的祭典。自古以来，当地人们聚集在一起跳舞。有太鼓的声音，也有传统的歌声。",
+      "translationEn": "Bon Odori is a summer festival in Japan. Since a long time ago, local people gathered and danced. There was the sound of drums and traditional songs.",
+      "id": "47a9d9c9-16df-4be0-8319-a99ab690d3c9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "しかし、最近の盆踊りは少し違います。新しい音楽や、ダンスのスタイルが出てきました。若者にも人気があります。",
+      "translationZh": "但是，最近的盂兰盆舞有些不同。出现了新的音乐和舞蹈风格。年轻人也很喜欢。",
+      "translationEn": "However, recent Bon Odori is a little different. New music and dance styles have appeared. Young people also like it.",
+      "id": "a28dc28e-e9bc-48f4-8616-ffe5290647d4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "例えば、アニメの歌や、ポップスの音楽を使うことがあります。みんなで楽しく踊れるように、工夫されています。",
+      "translationZh": "例如，有时会使用动画歌曲或流行音乐。这是为了让大家都能开心地跳舞而想出的办法。",
+      "translationEn": "For example, anime songs or pop music are sometimes used. Efforts have been made so that everyone can dance happily.",
+      "id": "87c366a3-d1c1-4082-9fb7-5f6013c929f9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "新しい盆踊りは、伝統を守りながら、新しい楽しみ方を作っています。これからも、多くの人に愛されるでしょう。",
+      "translationZh": "新的盂兰盆舞在保留传统的同时，创造了新的乐趣。今后，也会受到许多人的喜爱。",
+      "translationEn": "The new Bon Odori creates new ways to enjoy while preserving tradition. It will likely be loved by many people from now on.",
+      "id": "2ddfaf3b-fc8a-4e1a-91b0-97bb950e3293",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "盆踊り",
+      "reading": "ぼんおどり",
+      "meaningZh": "盂兰盆舞",
+      "meaningEn": "Bon Odori (Japanese folk dance)",
+      "level": "n5n4",
+      "exampleSentence": "夏に盆踊りに行きました。",
+      "id": "cefcdc8d-7b1c-473d-be09-b9371a1a3ec5"
+    },
+    {
+      "word": "伝統的",
+      "reading": "でんとうてき",
+      "meaningZh": "传统的",
+      "meaningEn": "traditional",
+      "level": "n5n4",
+      "exampleSentence": "これは伝統的な着物です。",
+      "id": "4b1ee92f-74e8-4f84-aa67-9a330258184e"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaningZh": "音乐",
+      "meaningEn": "music",
+      "level": "n5n4",
+      "exampleSentence": "音楽を聴くのが好きです。",
+      "id": "e2385936-cb92-4d8f-b705-fa806d97f9b5"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaningZh": "人气，受欢迎",
+      "meaningEn": "popularity",
+      "level": "n5n4",
+      "exampleSentence": "このお店は人気があります。",
+      "id": "835a32d0-02e9-4029-8674-1adacc2c51d6"
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaningZh": "年轻人",
+      "meaningEn": "young people",
+      "level": "n5n4",
+      "exampleSentence": "若者は新しいものが好きです。",
+      "id": "47187d28-dcb1-4e61-83ab-3259e0906f81"
+    },
+    {
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningZh": "巧妙办法，创意",
+      "meaningEn": "ingenuity, device",
+      "level": "n3",
+      "exampleSentence": "新しいアイデアを工夫しました。",
+      "id": "d1ab5b5b-0105-4c47-bbaf-5c220c08dc6a"
+    },
+    {
+      "word": "守る",
+      "reading": "まもる",
+      "meaningZh": "保护，遵守",
+      "meaningEn": "to protect, to keep",
+      "level": "n5n4",
+      "exampleSentence": "約束を守ります。",
+      "id": "ad4caee0-59ef-4ddc-9015-4a1614a52965"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "最近の盆踊りは、どのように変わりましたか。",
+      "options": [
+        "音楽が全部なくなりました。",
+        "新しい音楽やダンスのスタイルが出てきました。",
+        "昔の音楽だけになりました。",
+        "若者はもう行きません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "しかし、最近の盆踊りは少し違います。新しい音楽や、ダンスのスタイルが出てきました。",
+      "id": "adb194de-181a-4396-9dfa-2a4f73f5ed60"
+    }
+  ],
+  "tier": "n5n4",
+  "sourceURL": null,
+  "slug": "2026-11-06-7d9cfd4a0d",
+  "publishedAt": "2026-11-06T06:00:00+09:00"
+}

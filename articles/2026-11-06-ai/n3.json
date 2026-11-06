@@ -1,0 +1,143 @@
+{
+  "title": "学生のためのAI研究助成金プログラムについて",
+  "summary": "AI技術の発展は目覚ましいです。このプログラムは、学生がAI分野での研究を深めるための貴重な機会を提供します。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "近年、人工知能（AI）の分野は急速に発展しており、私たちの生活や社会に大きな影響を与えています。このような状況の中、学生がAI研究に積極的に取り組むことを支援する助成金プログラムが注目されています。このプログラムは、将来のAI技術を担う若い才能を発掘し、育成することを目的としています。",
+      "translationZh": "近年来，人工智能（AI）领域发展迅速，对我们的生活和社会产生了巨大影响。在这种背景下，旨在支持学生积极参与AI研究的助学金项目正受到关注。该项目旨在发掘和培养未来AI技术的年轻人才。",
+      "translationEn": "In recent years, the field of Artificial Intelligence (AI) has developed rapidly, having a significant impact on our lives and society. Amidst this situation, a grant program that supports students in actively engaging in AI research is gaining attention. This program aims to discover and nurture young talents who will lead future AI technologies.",
+      "id": "fcb68fd2-b64e-4b64-8c35-ff29f73ef6be",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "この助成金プログラムに参加することで、学生は研究資金を得られるだけでなく、専門家からの指導や、他の研究者との交流の機会も得られます。そのため、自身の研究をより深く、そして効果的に進めることができるでしょう。様々なアイデアが形になるのを期待しています。",
+      "translationZh": "通过参加这个助学金项目，学生不仅能获得研究资金，还能得到专家的指导以及与其他研究者交流的机会。因此，他们能够更深入、更有效地推进自己的研究。我们期待各种想法能在此实现。",
+      "translationEn": "By participating in this grant program, students can not only obtain research funds but also receive guidance from experts and opportunities to interact with other researchers. Therefore, they will be able to advance their research more deeply and effectively. We expect various ideas to take shape.",
+      "id": "445731aa-4711-4c2f-a563-0f9bdd0382c4",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "応募資格は、AI分野に関心のある大学生や大学院生です。具体的な研究テーマを持っていること、そしてその研究が社会に貢献できる可能性があることが重視されます。締め切りまでに申請書類を提出する必要がありますが、熱意があればぜひ挑戦してみてください。",
+      "translationZh": "申请资格是关注AI领域的大学生和研究生。拥有具体的研究主题，并且该研究有潜力为社会做出贡献是被看重的。虽然需要在截止日期前提交申请材料，但只要有热情，请务必尝试。",
+      "translationEn": "Eligibility is for undergraduate and graduate students interested in the field of AI. Having a specific research theme and the potential for that research to contribute to society are emphasized. Application documents must be submitted by the deadline, but if you have enthusiasm, please do try.",
+      "id": "dd969c54-924f-4595-898a-1c7ae33b4769",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "AI技術は、医療、教育、環境問題など、多くの分野で解決策を提供できる可能性を秘めています。このプログラムを通じて、学生たちが革新的なアイデアを生み出し、未来社会の発展に貢献してくれることを心から願っています。皆さんの挑戦を応援しています。",
+      "translationZh": "AI技术在医疗、教育、环境问题等许多领域都蕴藏着提供解决方案的潜力。我们衷心希望通过这个项目，学生们能产生创新的想法，为未来社会的发展做出贡献。我们支持你们的挑战。",
+      "translationEn": "AI technology holds the potential to provide solutions in many fields, such as healthcare, education, and environmental issues. We sincerely hope that through this program, students will generate innovative ideas and contribute to the development of future society. We support your endeavors.",
+      "id": "a5a01e98-b943-460d-9cb2-77cae8ab194a",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "人工知能",
+      "reading": "じんこうちのう",
+      "meaningZh": "人工智能",
+      "meaningEn": "Artificial Intelligence",
+      "level": "n3",
+      "exampleSentence": "人工知能は多くの分野で活用されています。",
+      "id": "394b6cde-48b0-4e46-91dc-cce7f938fb71"
+    },
+    {
+      "word": "助成金",
+      "reading": "じょせいきん",
+      "meaningZh": "补助金，助学金",
+      "meaningEn": "grant, subsidy",
+      "level": "n3",
+      "exampleSentence": "研究のために助成金を申請しました。",
+      "id": "b3f1d57f-ce07-4278-8132-2a4a5177e3a8"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaningZh": "培养，育成",
+      "meaningEn": "fostering, nurturing",
+      "level": "n3",
+      "exampleSentence": "若い才能の育成が重要です。",
+      "id": "03e6c8dc-5408-4cc8-9346-3cdaf9b81cf2"
+    },
+    {
+      "word": "専門家",
+      "reading": "せんもんか",
+      "meaningZh": "专家",
+      "meaningEn": "expert, specialist",
+      "level": "n3",
+      "exampleSentence": "その分野の専門家に相談しました。",
+      "id": "13e21911-3e5d-41e1-bc1d-cd5d5870cca1"
+    },
+    {
+      "word": "指導",
+      "reading": "しどう",
+      "meaningZh": "指导，领导",
+      "meaningEn": "guidance, instruction",
+      "level": "n3",
+      "exampleSentence": "先生からの指導を受けました。",
+      "id": "462b91a7-e6bb-41ef-9815-40f0d662f2a5"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaningZh": "交流，交往",
+      "meaningEn": "exchange, interaction",
+      "level": "n3",
+      "exampleSentence": "留学生との交流は楽しいです。",
+      "id": "6a3f3496-9342-43f0-94a1-2672f9741dd0"
+    },
+    {
+      "word": "応募資格",
+      "reading": "おうぼしかく",
+      "meaningZh": "申请资格",
+      "meaningEn": "eligibility for application",
+      "level": "n3",
+      "exampleSentence": "このプログラムの応募資格は何ですか。",
+      "id": "8f6351c3-3d08-4b8e-9358-780ef39741fb"
+    },
+    {
+      "word": "革新的",
+      "reading": "かくしんてき",
+      "meaningZh": "创新的",
+      "meaningEn": "innovative",
+      "level": "n3",
+      "exampleSentence": "革新的なアイデアを提案してください。",
+      "id": "4ec399c9-e4ff-4f25-b468-5dc9dd29dbee"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "この助成金プログラムの主な目的は何ですか？",
+      "options": [
+        "AI技術の普及を広げること",
+        "学生がAI研究に積極的に取り組むことを支援し、将来のAI技術を担う若い才能を発掘・育成すること",
+        "AI関連企業の採用活動を支援すること",
+        "AI技術の最新情報を共有する場を提供すること"
+      ],
+      "correctIndex": 1,
+      "explanation": "プログラムは「学生がAI研究に積極的に取り組むことを支援する助成金プログラムが注目されています。このプログラムは、将来のAI技術を担う若い才能を発掘し、育成することを目的としています。」と説明されています。",
+      "id": "c4dca66d-5440-4c44-aa69-109033b78203"
+    },
+    {
+      "question": "プログラムに参加することで、学生は何を得られますか？",
+      "options": [
+        "研究資金、専門家からの指導、他の研究者との交流の機会",
+        "AI開発の仕事の保証",
+        "海外留学の奨学金",
+        "AI関連の資格取得のサポート"
+      ],
+      "correctIndex": 0,
+      "explanation": "「この助成金プログラムに参加することで、学生は研究資金を得られるだけでなく、専門家からの指導や、他の研究者との交流の機会も得られます。」と述べられています。",
+      "id": "589eb89b-d22f-4b88-8296-413f7fb1d638"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-11-06-ai",
+  "publishedAt": "2026-11-06T06:00:00+09:00"
+}

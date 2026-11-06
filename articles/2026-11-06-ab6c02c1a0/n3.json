@@ -1,0 +1,126 @@
+{
+  "title": "山間の温泉地で湯治文化を体験しよう",
+  "summary": "自然豊かな山間にある温泉地では、昔ながらの湯治文化が今も息づいています。心と体を癒す旅に出かけませんか。",
+  "estimatedMinutes": 3,
+  "paragraphs": [
+    {
+      "text": "日本には、美しい自然に囲まれた山間に、昔から続く温泉地がたくさんあります。これらの温泉地では、単に温泉に入るだけでなく、「湯治（とうじ）」という独特の文化が大切にされています。湯治とは、病気や怪我の治療、または健康増進を目的として、温泉地に長期滞在することです。昔は、庶民が温泉でゆっくりと体を休める貴重な機会でした。",
+      "translationZh": "日本有很多温泉地，坐落在被美丽自然环绕的山间，自古以来就一直存在。在这些温泉地，不仅仅是泡温泉，更重视着一种叫做“汤治”的独特文化。“汤治”是指为了治疗疾病或外伤，以及促进健康，而在温泉地长期逗留。过去，这是平民百姓能在温泉中悠闲休养身体的宝贵机会。",
+      "translationEn": "Japan has many hot spring resorts nestled in the mountains, surrounded by beautiful nature, which have existed since ancient times. In these resorts, more than just bathing in hot springs, a unique culture called \"Toji\" is cherished. Toji refers to staying in a hot spring resort for an extended period with the aim of treating illnesses or injuries, or for health promotion. In the past, it was a precious opportunity for common people to rest their bodies leisurely in the hot springs.",
+      "id": "486388c1-a25f-470f-9335-21d3709cfea9",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "最近、健康志向の高まりとともに、この湯治文化が見直されています。都会の喧騒から離れて、静かな環境で長期間過ごすことで、心身のリフレッシュ効果が期待できるからです。湯治宿では、地元の食材を使った健康的な食事や、温泉の効能を最大限に引き出すための入浴方法なども教えてもらえます。その土地ならではの暮らしに触れながら、ゆっくりと時間を過ごすことができます。",
+      "translationZh": "最近，随着健康意识的提高，这种汤治文化正受到重新审视。这是因为，远离都市的喧嚣，在宁静的环境中度过较长的时间，可以期待身心的恢复效果。在汤治旅馆，还可以了解到使用当地食材制作的健康餐食，以及如何最大限度地发挥温泉功效的入浴方法等。在接触当地独特生活的同时，也可以悠闲地度过时光。",
+      "translationEn": "Recently, with the rise of health consciousness, this Toji culture is being re-evaluated. This is because spending a long time in a quiet environment, away from the hustle and bustle of the city, can be expected to refresh both mind and body. At Toji inns, you can also learn about healthy meals made with local ingredients and how to bathe to maximize the benefits of the hot springs. You can spend your time slowly while experiencing the unique lifestyle of the region.",
+      "id": "cf6f14ff-a20f-4e79-adc5-fd7b1a598905",
+      "audioStartMs": null,
+      "audioEndMs": null
+    },
+    {
+      "text": "湯治を体験できる温泉地は、全国に点在しています。例えば、効能豊かな泉質を持つ場所や、昔ながらの風情を残す古い町並みが魅力的な場所など、それぞれに特色があります。計画を立てる際には、自分の体調や目的に合わせて、温泉地の特徴を調べてみると良いでしょう。きっと、あなたにぴったりの癒やしの場所が見つかるはずです。",
+      "translationZh": "可以体验汤治的温泉地遍布全国。例如，有些地方以其丰富的泉质而闻名，有些地方则以保留着古老韵味的旧街区而具有魅力，各有特色。在做计划时，最好根据自己的身体状况和目的，调查温泉地的特点。您一定能找到最适合您的治愈之地。",
+      "translationEn": "Hot spring resorts where you can experience Toji are scattered throughout the country. For example, some places are known for their rich spring qualities, while others are attractive for their old townscapes that retain a traditional atmosphere; each has its own characteristics. When planning, it is advisable to research the characteristics of the hot spring resort according to your physical condition and goals. You are sure to find a place of healing that is perfect for you.",
+      "id": "c0c8701e-c37f-435f-8aa0-b980df0a24cd",
+      "audioStartMs": null,
+      "audioEndMs": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "湯治",
+      "reading": "とうじ",
+      "meaningZh": "为治疗疾病或健康增进而长期在温泉地休养",
+      "meaningEn": "staying at a hot spring resort for an extended period for medical treatment or health improvement",
+      "level": "n3",
+      "exampleSentence": "肩こりがひどいので、温泉で湯治をしたい。",
+      "id": "79c84136-9580-4257-ab84-4fd876044b00"
+    },
+    {
+      "word": "山間",
+      "reading": "さんかん",
+      "meaningZh": "山与山之间的地方",
+      "meaningEn": "between mountains; mountainous area",
+      "level": "n3",
+      "exampleSentence": "山間の静かな村に住んでいる。",
+      "id": "c4d34e01-77e9-478d-8481-5c74feec9ec0"
+    },
+    {
+      "word": "息づく",
+      "reading": "いきづく",
+      "meaningZh": "（生命、文化等）存在，延续",
+      "meaningEn": "to breathe; to live; to be alive (for culture, tradition, etc.)",
+      "level": "n3",
+      "exampleSentence": "この古い町には、昔の面影が息づいている。",
+      "id": "48bf2183-4816-4acc-8ed8-e45528798b0c"
+    },
+    {
+      "word": "喧騒",
+      "reading": "けんそう",
+      "meaningZh": "嘈杂，喧闹",
+      "meaningEn": "clamor; noisy; bustling",
+      "level": "n3",
+      "exampleSentence": "都会の喧騒から離れて、田舎で静かに暮らしたい。",
+      "id": "12cec3c9-fff0-4071-b817-a7d0e3f1efb4"
+    },
+    {
+      "word": "リフレッシュ",
+      "reading": "りふれっしゅ",
+      "meaningZh": "恢复精力，放松",
+      "meaningEn": "refreshment; to refresh",
+      "level": "n3",
+      "exampleSentence": "旅行でリフレッシュできた。",
+      "id": "e498ef4c-a4ea-4933-a747-c19f635669b4"
+    },
+    {
+      "word": "効能",
+      "reading": "こうのう",
+      "meaningZh": "功效，效力（多指药物、温泉等）",
+      "meaningEn": "effect; efficacy (often of medicine or hot springs)",
+      "level": "n3",
+      "exampleSentence": "この温泉は、肌に良い効能があると言われている。",
+      "id": "b9272e1e-9d9e-40c9-b185-6fbec51d764c"
+    },
+    {
+      "word": "点在",
+      "reading": "てんざい",
+      "meaningZh": "散布，分布",
+      "meaningEn": "to be scattered; to be dotted about",
+      "level": "n3",
+      "exampleSentence": "この地域には、古い寺社が点在している。",
+      "id": "5269aa1d-4dd9-4831-83f7-4c1cb96645c8"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "「湯治」とは、どのような目的で行われるものですか？",
+      "options": [
+        "温泉地の観光を楽しむため",
+        "温泉でゆっくりと体を休めるため",
+        "病気や怪我の治療、健康増進のため",
+        "地元の美味しいものを食べるため"
+      ],
+      "correctIndex": 2,
+      "explanation": "文章中には、「湯治とは、病気や怪我の治療、または健康増進を目的として、温泉地に長期滞在することです。」と書かれています。",
+      "id": "39756fa8-2a1a-4f42-9f46-b99da24514a9"
+    },
+    {
+      "question": "最近、湯治文化が見直されている理由は何ですか？",
+      "options": [
+        "温泉地の数が減っているから",
+        "湯治宿の宿泊費が安くなったから",
+        "健康志向の高まりと、心身のリフレッシュ効果が期待できるから",
+        "都市部から温泉地へのアクセスが便利になったから"
+      ],
+      "correctIndex": 2,
+      "explanation": "「最近、健康志向の高まりとともに、この湯治文化が見直されています。都会の喧騒から離れて、静かな環境で長期間過ごすことで、心身のリフレッシュ効果が期待できるからです。」という部分からわかります。",
+      "id": "37142977-7912-434f-888f-746d0ab6df32"
+    }
+  ],
+  "tier": "n3",
+  "sourceURL": null,
+  "slug": "2026-11-06-ab6c02c1a0",
+  "publishedAt": "2026-11-06T06:00:00+09:00"
+}
